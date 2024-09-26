@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Paneer Mania,Paneer Lababdar,1,0,Paneer lababdar is one of the most popular lentil recipes from the North ... read more,220.0
+Paneer Mania,Pudhina Paneer,1,0,,230.0
+Paneer Mania,Paneer Dhaniya Adraki,1,0,,240.0
+Paneer Mania,Paneer Bhurji,1,0,,220.0
+Paneer Mania,Veg Milijuli,1,0,,180.0
+Paneer Mania,Veg Makhanwala,1,0,Veg makhanwala is a delicious and popular Indian dish made with lentils [toor ... read more,180.0
+Paneer Mania,Dal Makhani,1,0,"Dal makhani is Punjabi dish means lentils finished with a tempering, at the ... read more",240.0
+Paneer Mania,Dal Tadka,1,0,,180.0
+Paneer Mania,Punjabi Cholle,1,0,,150.0
+Paneer Mania,Special Paneer Butter Masala,1,0,Fried paneer served with gravy and Indian spices.,199.0
+Paneer Mania,Special Paneer Tikka Masala,1,0,[Medium Spicy] Fried onion with capsicum overloaded paneer with gravy.,199.0
+Paneer Mania,Paneer Kadhai Wala,1,0,Paneer marinated with Indian spices and gravy ahead Punjabi cuisine.,199.0
+Paneer Mania,Paneer Matka,1,0,Paneer marinated with fresh cream and Indian spices slowly cooked with Punjabi cuisine.,249.0
+Paneer Mania,Paneer Lajawab,1,0,Marinated onion gravy with tomato gravy slowly cooked with paneer and Indian spices.,249.0
+Tawa ka jalwa,Special Sardarji Chaap,1,0,,273.0
+Tawa ka jalwa,Special Tawa Chaaap,1,0,,250.0
+Tawa ka jalwa,Malai Chaap,1,0,,250.0
+Tawa ka jalwa,Cheese Chaap Curry,1,0,,300.0
+Tawa ka jalwa,Keema Chaap Curry,1,0,,240.0
+Tawa ka jalwa,Kadai Chaap,1,0,,250.0
+Tawa ka jalwa,Butter Chaap,1,0,,250.0
+Rice Mania,Special Jeera Rice,1,0,Indian rice fried with jeera n cooked with coriander.,129.0
+Rice Mania,Matar Pulao,1,0,,130.0
+Rice Mania,Paneer Pulao,1,0,,240.0
+Rice Mania,Plain Rice,1,0,,90.0
+Roti Shoti,Butter Lachhaa Parathaa,1,0,,50.0
+Roti Shoti,Butter Naan,1,0,,60.0
+Roti Shoti,Paneer Naan,1,0,,100.0
+Roti Shoti,Cheese Naan,1,0,,100.0
+Roti Shoti,Garlic Naan,1,0,,100.0
+Roti Shoti,Aloo Paratha,1,0,Served with dahi.,70.0
+Roti Shoti,Pyaaz Paratha,1,0,,70.0
+Roti Shoti,Gobi Paratha,1,0,,80.0
+Roti Shoti,Plain Roti,1,0,,15.0
+Roti Shoti,Butter Roti,1,0,,20.0

@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bestseller,Butter Dabeli,1,0,"It is Shallow Fried in ""Amul Butter"".",35.0
+Bestseller,Cheese Butter Dabeli,1,0,,65.0
+Bestseller,Masala Peanuts [Approx. 100 grams],1,0,,35.0
+Restaurant Recommended,Cheese Butter Dabeli,1,0,,65.0
+Restaurant Recommended,Mayonnaise Butter Dabeli,1,0,The dabeli is filled with the mayonnaise inside.,55.0
+Restaurant Recommended,Schezwan Butter Dabeli,1,0,The dabeli is filled with the schezwan chutney inside.,55.0
+Combos,Butter Dabeli [4 Pieces] with 2 Jeeru Soda [200 ml],1,0,,170.0
+Combos,Butter Dabeli [4 Pieces] with 4 Thums Up [250 ml],1,0,,260.0
+Combos,Cheese Butter Dabeli [2 Pieces] with 2 Thums Up [250 ml],1,0,,195.0
+Combos,1 Butter Dabeli Combo,1,0,Butter Dabeli [1 Piece]+Schezwan Dabeli [1 Piece]+2 Jeera Soda [200 ml],115.0
+Combos,Butter Dabeli with Cheese Dabeli,1,0,Butter Dabeli [1 Piece]+Cheese Butter Dabeli [1 Piece]+2 Jeera Soda [200 ml],120.0
+Combos,4 Swaminarayan Butter Dabeli Combo 1,1,0,Swaminarayan Butter Dabeli [4 Pieces]+2 Jeera Soda [200 ml],165.0
+Combos,4 Swaminarayan Butter Dabeli Combo,1,0,Swaminarayan Butter Dabeli [4 Pieces]+4 Thums Up Soft Beverage [250 ml],260.0
+Combos,2 Swaminarayan Cheese Butter Dabeli Combo,1,0,2 Swaminarayan Cheese Butter Dabeli+2 Thums Up Soft Beverage [250 ml],195.0
+Combos,Swaminarayan Butter Dabeli Combo,1,0,Swaminarayan Butter Dabeli [1 Piece]+Swaminarayan Cheese Butter Dabeli [1 Piece]+2 Jeera Soda [200 ml],120.0
+French Fries,Regular French Fries,1,0,,90.0
+French Fries,Cheese French Fries,1,0,,120.0
+French Fries,Peri Peri French Fries,1,0,,110.0
+French Fries,Tandoori French Fries,1,0,,110.0
+French Fries,Schezwan French Fries,1,0,,110.0
+French Fries,Mayo French Fries,1,0,,110.0
+French Fries,Lasaniya French Fries,1,0,,110.0
+Dabeli,Butter Dabeli,1,0,"It is Shallow Fried in ""Amul Butter"".",35.0
+Dabeli,Cheese Butter Dabeli,1,0,,65.0
+Dabeli,Mayonnaise Butter Dabeli,1,0,The dabeli is filled with the mayonnaise inside.,55.0
+Dabeli,Schezwan Butter Dabeli,1,0,The dabeli is filled with the schezwan chutney inside.,55.0
+Dabeli,Schezwan Cheese Dabeli,1,0,,75.0
+Dabeli,Mayonnaise Cheese Dabeli,1,0,,75.0
+Dabeli,Schezwan Mayonnaise Butter Dabeli,1,0,,70.0
+Dabeli,Kachchi Kadak [Kachchi Bhel],1,0,,55.0
+Dabeli,Cheese Kachchi Kadak [Kachchi Bhel],1,0,Yummy Kachchi Bhel with Cheese,70.0
+Jain Special [Made with Raw Banana],Jain Butter Dabeli,1,0,,45.0
+Jain Special [Made with Raw Banana],Jain Cheese Dabeli,1,0,,75.0
+Jain Special [Made with Raw Banana],Jain Mayonnaise Dabeli,1,0,,68.0
+Jain Special [Made with Raw Banana],Jain Kacchi Kadak Bhel,1,0,,68.0
+Jain Special [Made with Raw Banana],Jain Cheese Kacchi Kadak Bhel,1,0,,98.0
+Swaminarayan [Without Onion and Garlic],Swaminarayan Butter Dabeli,1,0,,35.0
+Swaminarayan [Without Onion and Garlic],Swaminrayan Cheese Butter Dabeli,1,0,Made With Amul Cheese,65.0
+Swaminarayan [Without Onion and Garlic],Swaminrayan Mayonnaise Butter Dabeli,1,0,,55.0
+Swaminarayan [Without Onion and Garlic],Swaminarayan Mayonnaise Cheese Dabeli,1,0,,75.0
+Swaminarayan [Without Onion and Garlic],Swaminarayan Kachchi Kadak [kachchi Bhel],1,0,,55.0
+Swaminarayan [Without Onion and Garlic],Swaminarayan Cheese Kachchi Kadak [Kachchi Bhel],1,0,Yummy Kachchi Bhel with Cheese,70.0
+Vada Pav,1 Vada,1,0,,20.0
+Vada Pav,Butter Vada Pav,1,0,,40.0
+Vada Pav,Cheese Butter Vada Pav,1,0,,65.0
+Vada Pav,Mayonnaise Vada Pav,1,0,,58.0
+Vada Pav,Cheese Schezwan Vada Pav,1,0,,80.0
+Vada Pav,Cheese Mayonnaise Vada Pav,1,0,,80.0
+Vada Pav,Schezwan Vada Pav,1,0,,58.0
+Vada Pav,Lasaniya Vada Pav,1,0,,43.0
+Vada Pav,Lasaniya Mayonnaise Vada Pav,1,0,,64.0
+Vada Pav,Lasaniya Cheese Vada Pav,1,0,,75.0
+Vada Pav,Tandoori Vada Pav,1,0,,58.0
+Vada Pav,Tandoori Mayo Vada Pav,1,0,,70.0
+Vada Pav,Tandoori Cheese Vada Pav,1,0,,90.0
+Vada Pav,Peri Peri Vada Pav,1,0,,58.0
+Vada Pav,Peri Peri Mayo Vada Pav,1,0,,70.0
+Vada Pav,Peri Peri Cheese Vada Pav,1,0,,90.0
+Bread Pakoda,Butter Bread Pakoda [1 Piece],1,0,,40.0
+Bread Pakoda,Lehsuniya Bread Pakoda [1 Piece],1,0,,48.0
+Bread Pakoda,Cheese Bread Pakoda [1 Piece],1,0,,65.0
+Bread Pakoda,Schezwan Bread Pakoda [1 Piece],1,0,Schezwan Bread Pakoda is a spicy and easy-to-prepare snack item with easily available ... read more,58.0
+Bread Pakoda,Mayonnaise Bread Pakoda [1 Piece],1,0,,58.0
+Bread Pakoda,Tandoori Bread Pakoda [1 Piece],1,0,,58.0
+Bread Pakoda,Tandoori Cheese Bread Pakoda [1 Piece],1,0,,90.0
+Bread Pakoda,Peri Peri Bread Pakoda [1 Piece],1,0,,58.0
+Bread Pakoda,Peri Peri Cheese Bread Pakoda [1 Piece],1,0,,90.0
+Grilled Special,Grilled Vada Pav,1,0,,42.0
+Grilled Special,Grilled Cheese Vada Pav,1,0,,75.0
+Grilled Special,Grilled Schezwan Vada Pav,1,0,,62.0
+Grilled Special,Grilled Mayo Vada Pav,1,0,,62.0
+Grilled Special,Grilled Cheese Schezwan Vada Pav,1,0,,90.0
+Grilled Special,Grilled Cheese Mayo Vada Pav,1,0,,90.0
+Grilled Special,Grilled Lasaniya Vada Pav,1,0,,62.0
+Grilled Special,Grilled Lasaniya Mayo Vada Pav,1,0,,70.0
+Grilled Special,Grilled Lasagna Cheese Vada Pav,1,0,,85.0
+Grilled Special,Grilled Tandoori Vada Pav,1,0,,62.0
+Grilled Special,Grilled Tandoori Mayo Vada Pav,1,0,,75.0
+Grilled Special,Grilled Tandoori Cheese Vada Pav,1,0,,99.0
+Grilled Special,Grilled Peri Peri Vada Pav,1,0,,62.0
+Grilled Special,Grilled Peri Peri Mayo Vada Pav,1,0,,75.0
+Grilled Special,Grilled Peri Peri Cheese Vada Pav,1,0,,99.0

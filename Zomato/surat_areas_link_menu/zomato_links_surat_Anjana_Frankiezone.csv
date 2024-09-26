@@ -1,0 +1,11 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Frankies & Rolls,Simple Schezwan Frankie,1,0,Simple Frankie made with vegetables and schezwan,53.0
+Frankies & Rolls,Cheese Schezwan Frankie,1,0,"Made with vegetables, schezwan and Amul Cheese",75.0
+Frankies & Rolls,Mayonnaise Cheese Schezwan Frankie,1,0,"Made with vegetables, schezwan, Amul cheese and creamy veg mayonnaise",90.0
+Frankies & Rolls,Thousand Cheese Schezwan Frankie,1,0,"Made with vegetables, schezwan, Amul Cheese and with delicious flavored mayonnaise",99.0
+Frankies & Rolls,Tandoori Special Frankie,1,0,"Made with Vegetables, Schezwan, Amul Cheese, And Tandoori flavored mayonnaise with Chatpata and ... read more",105.0
+Frankies & Rolls,Double Cheese Cocktail Frankie,1,0,This is our best selling Frankie which is made with Special Ingredients And ... read more,129.0
+French Fries,Cheese Dip,1,0,,30.0
+French Fries,Schezwan Dip,1,0,,25.0
+French Fries,Thousand Dip,1,0,,30.0
+French Fries,Tandoori Dip,1,0,,30.0

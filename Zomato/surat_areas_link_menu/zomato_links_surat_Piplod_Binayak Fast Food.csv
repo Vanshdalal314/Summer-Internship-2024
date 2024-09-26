@@ -1,0 +1,38 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pav Bhaji and Pulao,Pav Bhaji [4 Pav],1,0,Served with salad [Subject to Availability].,120.0
+Pav Bhaji and Pulao,Green Pav Bhaji [4 Pav],1,0,A refreshing and tasty Indian snack made with a combination of vegetables and ... read more,210.0
+Pav Bhaji and Pulao,Extra Garlic Chutney,1,0,"An aromatic and spicy chutney made with garlic, ginger, and a blend of ... read more",50.0
+Pav Bhaji and Pulao,Tawa Pulao,1,0,,135.0
+Pav Bhaji and Pulao,Green Pulao,1,0,,220.0
+Sandwiches,Bread Butter Sandwich,1,0,A delicious combination of bread and butter sandwich that is perfect for breakfast ... read more,30.0
+Sandwiches,Bread Butter Aloo Sandwich,1,0,"A crisp, buttery, and flavourful sandwich made with bread slices, crisp potatoes, and ... read more",50.0
+Sandwiches,Veg Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",65.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,70.0
+Sandwiches,Bread Butter Aloo Cheese Sandwich,1,0,"A crispy, crunchy bread sandwich filled with buttery potatoes and a flavorful cheese ... read more",95.0
+Sandwiches,Veg Cheese Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",110.0
+Sandwiches,Aloo Chaat,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",110.0
+Pizza and Garlic Bread,Veg Cheese Pizza [6 inches],1,0,"A cheesy, satisfying, and wholesome pizza that will satisfy your taste buds.",175.0
+Pizza and Garlic Bread,Jain Pizza [6 inches],1,0,"A crispy and flavorful pizza topped with a generous serving of vegetables, herbs, ... read more",175.0
+Pizza and Garlic Bread,Only Cheese Pizza [6 inches],1,0,Our mouthwatering 6 inches Only Cheese pizza is made with our signature dough ... read more,180.0
+Pizza and Garlic Bread,Italian Pizza [6 inches],1,0,,200.0
+Pizza and Garlic Bread,Maxican Pizza [6 inches],1,0,"A crispy, crunchy pizza topped with a generous helping of Mexican toppings. Perfect ... read more",200.0
+Pizza and Garlic Bread,Mushroom Pizza [6 inches],1,0,A delicious pizza loaded with fresh mushrooms and flavorful herbs.,200.0
+Pizza and Garlic Bread,Paneer Pizza [6 inches],1,0,A delicious vegetarian pizza with a creamy and flavorful paneer filling. Crispy crust ... read more,200.0
+Pizza and Garlic Bread,Garlic Bread,1,0,"Perfectly baked garlic bread topped with cheese, exotic herbs and black olives (2 ... read more",125.0
+Grilled and Toast Items,Veg Cheese Grilled Sandwich,1,0,"Pulao is a ricebased dish that is typically cooked in a large, flatbottomed ... read more",160.0
+Grilled and Toast Items,Bombay Grilled Sandwich,1,0,"A delicious, aromatic and filling sandwich made with a flavorful mixture of tandoori ... read more",180.0
+Grilled and Toast Items,Italian Grilled Sandwich,1,0,"Italian Grilled sandwich is a delicious and flavorful sandwich with grilled chicken, fresh ... read more",190.0
+Grilled and Toast Items,Mushroom Grilled Sandwich,1,0,,190.0
+Grilled and Toast Items,Veg Toast Sandwich,1,0,Well toasted bread stuffed with wholesome veggies.,110.0
+Grilled and Toast Items,Only Cheese Toast,1,0,,130.0
+Grilled and Toast Items,Veg Cheese Toast,1,0,A crispy bread toasted to perfection with a creamy blend of cheeses and ... read more,130.0
+Grilled and Toast Items,Chilli Cheese Toast,1,0,A cheesy toast topped with fiery chilli sauce for a satisfying and delicious ... read more,140.0
+Grilled and Toast Items,Macaroni Toast,1,0,A classic Italian toast with a hearty helping of macaroni for a tasty ... read more,145.0
+Grilled and Toast Items,Pizza Toast Sandwich,1,0,"A pizzaflavored toast sandwich, a delicious snack for your hunger pangs.",150.0
+Grilled and Toast Items,Mushroom Toast,1,0,"Mushroom Toast, a delicious and easytomake recipe that is perfect for a quick ... read more",150.0
+Milkshakes and Fresh Juices,Watermelon Juice,1,0,,50.0
+Milkshakes and Fresh Juices,Rose Milkshake,1,0,,65.0
+Milkshakes and Fresh Juices,Kesar Milkshake,1,0,"Kesar milkshake is a refreshing blend of fruits and the goodness of milk, ... read more",65.0
+Milkshakes and Fresh Juices,Pista Badam Milkshake,1,0,"A milkshake that is rich, creamy, and nutty with the flavor of pistachios.",65.0
+Milkshakes and Fresh Juices,Chocolate Milkshake,1,0,"rich and decadent, Chocolate Milksha is a delectable blend of chocolate and milk, ... read more",85.0
+Accompaniment,Papad,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",20.0

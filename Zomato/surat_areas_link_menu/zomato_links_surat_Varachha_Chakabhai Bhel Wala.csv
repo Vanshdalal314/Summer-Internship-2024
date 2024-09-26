@@ -1,0 +1,69 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bhel,Bhel,1,0,"Wholesome puffed rice mixed with onions, tomatoes, green chutney, spices and topped with ... read more",50.0
+Bhel,Jain Bhel,1,0,,50.0
+Bhel,Chakabhai's Ragda Bhel,1,0,Jain not available,60.0
+Bhel,Special Bhel,1,0,Jain not available,60.0
+Bhel,Dahi Bhel,1,0,Jain not available,70.0
+Bhel,Cheese Bhel,1,0,Jain not available,80.0
+Bhel,Lachka Bhel,1,0,Jain not available,80.0
+Bhel,Cheese Lachke Bhel,1,0,Jain not available,90.0
+Pani Puri / Sev Puri,Pani Puri,1,0,Jain not available,40.0
+Pani Puri / Sev Puri,Bombay Sev Puri,1,0,Jain not available,50.0
+Pani Puri / Sev Puri,Basket Puri,1,0,Jain not available,50.0
+Pani Puri / Sev Puri,Masala Puri,1,0,Jain not available,50.0
+Pani Puri / Sev Puri,Dahi Puri,1,0,Jain not available,60.0
+Pani Puri / Sev Puri,Cheese Basket Chat,1,0,Jain not available,80.0
+Pani Puri / Sev Puri,Cheese Bombay Sev Puri,1,0,Jain not available,80.0
+Farali,Farali Bhel,1,0,"Wholesome Puffed Rice Mixed With Chutneys And More, most famous snack",60.0
+Farali,Farali Dahi Chewdo,1,0,,65.0
+Farali,Farali Dahi Bhel,1,0,,80.0
+Farali,Farali Cheese Bhel,1,0,,90.0
+Samosa,Ragda Samosa,1,0,Jain not available.,60.0
+Frankies,Veg Frankie,1,0,,45.0
+Frankies,Veg Cheese Frankie,1,0,,65.0
+Frankies,Mayo Cheese Frankie,1,0,,70.0
+Frankies,Schezwan Cheese Frankie,1,0,,70.0
+Sandwiches,Veg Sandwich,1,0,,50.0
+Sandwiches,Veg Cheese Sandwich,1,0,Hearty sandwich stuffed generously with assorted seasoned vegetables and cheese.,70.0
+Sandwiches,Double Decker Sandwich,1,0,,70.0
+Sandwiches,Double Decker Cheese Sandwich,1,0,,90.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,60.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,40.0
+Sandwiches,Bread Butter Jam Chesse Sandwich,1,0,,70.0
+Sandwiches,Veg Toast Sandwich,1,0,,60.0
+Sandwiches,Masala Toast Sandwich,1,0,,60.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,80.0
+Sandwiches,Masala Cheese Toast Sandwich,1,0,,80.0
+Sandwiches,Open Toast Sandwich,1,0,,100.0
+Sandwiches,Veg Grilled Sandwich,1,0,,120.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,Seasoned crunchy vegetables stuffed with a hole lot of cheese between two slices ... read more,140.0
+Sandwiches,Schezwan Grilled Sandwich,1,0,,150.0
+Sandwiches,Mayonnaise Grilled Sandwich,1,0,,150.0
+Sandwiches,Bombay Grilled Sandwich,1,0,,150.0
+Sandwiches,Paneer Cheese Grilled Sandwich,1,0,,160.0
+Sandwiches,American Cheese Grilled Sandwich,1,0,,180.0
+Pizza,Veg Cheese Pizza [6 inches],1,0,,120.0
+Pizza,Onion Capsicum Pizza [6 inches],1,0,,130.0
+Pizza,Veg Cheese Mozzarella Pizza [6 inches],1,0,,140.0
+Pizza,Italian Pizza [6 inches],1,0,,160.0
+Pizza,Paneer Tandoor Pizza [6 inches],1,0,,170.0
+Pizza,American Pizza [6 inches],1,0,,180.0
+Pizza,Margherita Pizza [6 inches],1,0,,130.0
+Pizza,Jain Cheese Pizza [6 inches],1,0,,120.0
+Garlic Breads,Simple Garlic Bread,1,0,,90.0
+Garlic Breads,Cheese Chilli Garlic Bread,1,0,,100.0
+Garlic Breads,Paneer Garlic Bread,1,0,,130.0
+Garlic Breads,American Garlic Bread,1,0,,140.0
+Burgers,Veg Burger,1,0,,70.0
+Burgers,Veg Cheese Burger,1,0,,80.0
+Burgers,Paneer Tikki Burger,1,0,,90.0
+French Fries,French Fries,1,0,Potato fingers deep fried until golden brown and crisp. Topped with salt and ... read more,80.0
+French Fries,Peri Peri French Fries,1,0,,90.0
+French Fries,Cheese French Fries,1,0,,100.0
+Sev,Jini Sev [250 Grams],1,0,,75.0
+Sev,Tikhi Sev [250 Grams],1,0,,75.0
+Accompaniments,Meetha Chutney,1,0,,30.0
+Accompaniments,Tomato Ketchup [5 Sachet],1,0,,10.0
+Extra,Dahi,1,0,,40.0
+Chaat,Kaju Katori Chaat,1,0,,60.0
+Chaat,Dahi Kachori,1,0,,60.0

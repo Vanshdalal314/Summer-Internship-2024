@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fried Chicken Bucket,Budget Buddy,0,0,1Nos Crispy Chicken Snacker + 2Pcs Chicken Hotwings + 2Pcs Chicken Lollipop + ... read more,319.0
+Fried Chicken Bucket,Chicken Hot Wings [10 Pieces],0,0,10Pcs Chicken Hotwings,460.0
+Fried Chicken Bucket,Chicken Lollipop [10 Pieces],0,0,10Pcs Chicken Lollipop,460.0
+Fried Chicken Bucket,Variety Chicken Bucket,0,0,4Pcs Chicken Hotwings + 4Pcs Chicken Lollipop + 2Pcs Chicken Strips,475.0
+Crispy Fried Chicken,Classic Fried Chicken (6 Piece),0,0,,760.0
+Crispy Fried Chicken,Classic Fried Chicken (8 Piece),0,0,,999.0
+Crispy Fried Chicken,Classic Fried Chicken,0,0,,140.0
+Crispy Fried Chicken,Fiery Fried Chicken (6 Pieces),0,0,,780.0
+Crispy Fried Chicken,Fiery Fried Chicken (8 Pieces),0,0,,1020.0
+Crispy Fried Chicken,Fiery Fried Chicken,0,0,,145.0
+Non Veg Starters,Bfb Chicken Popcorn (Large),0,0,,335.0
+Non Veg Starters,BFB Chicken Popcorn,0,0,,169.0
+Non Veg Starters,Boneless Chicken Strips (6 Pieces),0,0,,349.0
+Non Veg Starters,Boneless Chicken Strips,0,0,,120.0
+Non Veg Starters,Butterfly Chicken Drumstick 1 Pcs,0,0,,95.0
+Non Veg Starters,Chicken Hot Wings (6 Pieces),0,0,,279.0
+Non Veg Starters,Chicken Hot Wings,0,0,,95.0
+Non Veg Starters,Chicken Lollipop (6 Pieces),0,0,,279.0
+Non Veg Starters,Chicken Lollipop,0,0,,95.0
+Non Veg Starters,Chicken Nuggets [5 Pieces],0,0,,129.0
+Non Veg Starters,Loaded Chicken Popcorn & Fries,0,0,,259.0
+Veg Wrap,Paneer Wrap,0,0,,195.0
+Veg Wrap,Veggie Wrap,0,0,,135.0
+Veg Starters,Cheese Corn Nuggets [5 Pieces],0,0,,105.0
+Veg Starters,Chilli Garlic Potato Pops,0,0,,89.0
+Veg Starters,Classic French Fries,0,0,,99.0
+Veg Starters,Classic Kung Fu Fries - Large,0,0,,149.0
+Veg Starters,Fried Cheese Sticks,0,0,,90.0
+Veg Starters,Jalapeno Cheese Samosa - 3 Pcs,0,0,,80.0
+Veg Starters,Jalapeno Cheese Samosa - 6 Pcs,0,0,,159.0
+Veg Starters,Masala Fries [Large],0,0,,149.0
+Veg Starters,Masala Fries [Regular],0,0,,119.0
+Veg Starters,Paneer Popcorn [Regular],0,0,,90.0
+Veg Starters,Peri Peri Fries,0,0,,109.0
+Veg Starters,Peri Peri Kung Fu Fries - Large,0,0,,159.0
+Non Veg Wrap,BBQ Chicken Wrap,0,0,,215.0
+Non Veg Wrap,Crispy Chicken Wrap,0,0,,195.0
+Non Veg Wrap,Omg Crispy Chicken Wrap,0,0,,220.0
+Non Veg Wrap,Omg Egg Wrap,0,0,,115.0
+Veg Rolls,Paneer Roll,0,0,,99.0
+Veg Rolls,Veggie Roll,0,0,,85.0
+Non Veg Rolls,BBQ Chicken Roll,0,0,,115.0
+Non Veg Rolls,Crispy Chicken Roll,0,0,,109.0
+Non Veg Rolls,Omg Crispy Chicken Roll,0,0,,129.0
+Non Veg Rolls,Omg Egg Roll,0,0,,70.0
+Fried Momos,Fried Chicken Cheese Momos [5 Pieces],0,0,,175.0
+Fried Momos,Fried Chicken Momos [5 Pieces],0,0,,159.0
+Fried Momos,Fried Chicken Peri Peri Momos [5 Pieces],0,0,,159.0
+Fried Momos,Fried Chicken Schezwan Momos [5 Pieces],0,0,,159.0
+Fried Momos,Fried Chicken Tikka Momos [5 Pieces],0,0,,159.0
+Fried Momos,Fried Corn N Cheese Momos [5 Pieces],0,0,,175.0
+Fried Momos,Fried Paneer Tikka Momos [5 Pieces],0,0,,159.0
+Fried Momos,Fried Veg Schezwan Momos [5 Pieces],0,0,,155.0
+Veggie Sandwich,Paneer Sandwich,0,0,,195.0
+Veggie Sandwich,Veggie Sandwich,0,0,,139.0
+Chicken Sandwich,BBQ Chicken Sandwich,0,0,,219.0
+Chicken Sandwich,Classic Egg Sandwich,0,0,,115.0
+Chicken Sandwich,Crispy Chicken Sandwich,0,0,,198.0
+Chicken Sandwich,Omg Crisy Chicken Sandwich,0,0,,225.0
+Veggie Burger,Crispy Paneer Burger,0,0,,198.0
+Veggie Burger,Crispy Paneer Snacker,0,0,,125.0
+Veggie Burger,Crunchy Veg Burger,0,0,,125.0
+Veggie Burger,Double Crunch Veg Burger,0,0,,195.0
+Veggie Burger,Veg Schezwan Burger,0,0,,139.0
+Veggie Burger,Veggie Tower Burger,0,0,,260.0
+Regular Burger,Chicken Schezwan Burger,0,0,,145.0
+Regular Burger,Classic Chicken Burger,0,0,,130.0
+Regular Burger,Crispy Chicken Snacker,0,0,,109.0
+Regular Burger,Double Chicken Patty Burger,0,0,,195.0
+Regular Burger,Double Delight Chicken Snacker,0,0,,189.0
+Regular Burger,Egg Burger,0,0,,69.0
+Premium Burger,Atomic Crispy Chicken Burger,0,0,,379.0
+Premium Burger,Chicken Tower Burger,0,0,,305.0
+Premium Burger,Crispy Chicken Burger,0,0,,198.0
+Premium Burger,Omg Crispy Chicken Burger,0,0,,230.0
+Premium Burger,Smoked Bbq Chicken Burger,0,0,,219.0
+Delicious Burger,All Chicken No Bun Burger,0,0,,349.0
+Delicious Burger,BFB Special Chicken Burger,0,0,,195.0
+Delicious Burger,Double Patty Chicken Burger,0,0,,195.0
+Delicious Burger,Peri Peri Chicken Burger,0,0,,195.0
+Signature Burger,Chicken Cheese Delight Burger,0,0,,289.0
+Signature Burger,Veggie Cheese Delight Burger,0,0,,219.0

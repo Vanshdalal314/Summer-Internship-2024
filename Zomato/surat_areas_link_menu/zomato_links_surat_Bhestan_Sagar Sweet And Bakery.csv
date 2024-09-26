@@ -1,0 +1,73 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sweets,Kaju Katli,1,0,,264.0
+Sweets,Kaju Anar Katli,1,0,,297.0
+Sweets,Kaju Kasta,1,0,,297.0
+Sweets,Kaju Orange Roll,1,0,,297.0
+Sweets,Dry Fruit Chikki,1,0,Sugar free.,297.0
+Sweets,Malai Barfi,1,0,Kalakand.,174.0
+Sweets,Milk Cake,1,0,Kalakand.,174.0
+Sweets,Kaju Malai,1,0,Kalakand.,174.0
+Sweets,Anjeer Halwa,1,0,Special halwa.,210.0
+Sweets,Dry Fruit Halwa,1,0,Special halwa.,210.0
+Sweets,Coconut Penda,1,0,,144.0
+Sweets,Malai Penda,1,0,,144.0
+Sweets,Pista Penda,1,0,,114.0
+Sweets,Kesar Penda,1,0,,111.0
+Sweets,Mawa Penda,1,0,,108.0
+Sweets,Besan Laddu,1,0,Magaj.,72.0
+Sweets,Orange Motichur Laddu,1,0,Boondi.,78.0
+Sweets,Ding Laddu,1,0,Gund.,120.0
+Sweets,Methi Laddu,1,0,,132.0
+Sweets,Essene Halwa,1,0,Green.,87.0
+Sweets,Kesar Halwa,1,0,,102.0
+Sweets,Gulkand,1,0,,72.0
+Sweets,Rose,1,0,,72.0
+Sweets,Mango,1,0,,72.0
+Sweets,Mysore,1,0,,72.0
+Sweets,Ghari,1,0,Famous surat item.,225.0
+Sweets,Mohan Thal,1,0,,66.0
+Sweets,Batisa,1,0,,84.0
+Sweets,Gulab Jamun,1,0,,24.0
+Sweets,Rasgulla,1,0,,27.0
+Sweets,Rasmalai,1,0,,30.0
+Sweets,Rajbhog,1,0,,36.0
+Sweets,Angoor Rabdi,1,0,,150.0
+Sweets,Malai Rabdi,1,0,,180.0
+Sweets,Normal Aflatoon,1,0,Dalda ghee.,78.0
+Sweets,Medium Aflatoon,1,0,Dalda ghee.,90.0
+Sweets,Special Aflatoon,1,0,Pure ghee.,114.0
+Sweets,Sagar Special Aflatoon,1,0,Pure ghee.,144.0
+Cakes,Black Forest Cake [500 grams],1,0,,290.0
+Cakes,Black Forest Pastry,1,0,,36.0
+Dry Fruits,Fika Mawa Khoya,1,0,,120.0
+Dry Fruits,Mitha Mawa Khoya,1,0,,90.0
+Snacks,Tikhi Bhel,1,0,,132.0
+Snacks,Navratan Mix,1,0,,132.0
+Snacks,Nadiadi Mix,1,0,,132.0
+Snacks,Khatta Mitha,1,0,,132.0
+Snacks,Tikha Mitha,1,0,,132.0
+Snacks,Lasan Mix,1,0,,132.0
+Snacks,Dalmuth,1,0,,132.0
+Snacks,Singh Bhujia,1,0,,144.0
+Snacks,Chokdi Ghanthiya,1,0,,132.0
+Snacks,Farali Chevdo,1,0,,132.0
+Snacks,Bhakarwadi,1,0,,120.0
+Snacks,Papdi,1,0,,132.0
+Snacks,Cake Toast,1,0,,84.0
+Snacks,Toast,1,0,,54.0
+Snacks,Khari,1,0,,48.0
+Snacks,Jeera Butter,1,0,,48.0
+Snacks,Makhaniya,1,0,,48.0
+Biscuit,Sweet Badam Biscuit,1,0,,90.0
+Biscuit,Sweet Sali Pista Biscuit,1,0,,90.0
+Biscuit,Sweet Tutti Frutti Biscuit,1,0,,90.0
+Biscuit,Sweet White Til Makroom Biscuit,1,0,,90.0
+Biscuit,Sweet Black Til Makroom Biscuit,1,0,,90.0
+Biscuit,Sweet Double Jam Biscuit,1,0,,90.0
+Biscuit,Makroom Coconut Biscuit,1,0,,90.0
+Nankhatai,Rava Meda Mix,1,0,,36.0
+Nankhatai,Double Only Meda,1,0,,42.0
+Nankhatai,Only Rava,1,0,,48.0
+Nankhatai,Kaju Kani,1,0,,54.0
+Nankhatai,Magajtari Nankhatai,1,0,,66.0
+Nankhatai,Till Nankhatai,1,0,,72.0

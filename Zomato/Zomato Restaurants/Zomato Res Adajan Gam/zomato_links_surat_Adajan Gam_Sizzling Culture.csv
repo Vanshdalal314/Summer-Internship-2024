@@ -1,0 +1,106 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Rice,Mexican Rice,1,0,| Serve 1 | Sizzling culture most favorite rice |,370.0
+Rice,Mushroom Rice,1,0,Best Cheese Rice for Mushroom Lover,370.0
+Rice,Peri Peri Cheesy Rice,1,0,"Spicy Rice with most popular cheesy gravy sauce which Combine spicy Rice,",360.0
+Rice,Spicy Beans Rice,1,0,[Spicy] Creeme and cheese Rice,340.0
+Sizzlers,Maggie Sizzler,1,0,Mexican maggi with cheese served with french fries and vegtables,450.0
+Sizzlers,Mexican Sizzler(Most Favourite),1,0,"| Serve 1 | Our Most Famous sizzler ,mexican tikki, french fries, mexican ... read more",490.0
+Sizzlers,Paneer Tikka Sizzler (Most Favorite),1,0,Bed of butter rice with Brocoli and red yellow capsicum sizzling ... read more,490.0
+Sizzlers,Peri Peri Sizzler 1,1,0,Vegetable rice serve with paneer cheese cultet with cheese sauce and boiled vegtable ... read more,490.0
+Sizzlers,Sauted Vegetable Lover,1,0,Lots of vegetable sauted in italian herb served with garlic bread with mexican ... read more,490.0
+Sizzlers,Sizzling Culture Special Sizzler(Most Favourite),1,0,"Paneer special served with butter rice, vegetables and french fries comes with cheese ... read more",490.0
+Pasta,Combination Pasta,1,0,Red and White combination Pasta,350.0
+Pasta,Mushroom Penne Pasta,1,0,Mushroom in cheese Saucy Gravy,350.0
+Pasta,White Sauce Pasta,1,0,Cheesy and creme Pasta,350.0
+Chinese,Burnt Garlic Rice,1,0,,347.0
+Chinese,Chilli Garlic Noodles,1,0,,300.0
+Chinese,Chinese Bhel,1,0,,240.0
+Chinese,Veg Manchurian Dry,1,0,| Serves 1 |,240.0
+Chinese,Gobi Cauliflower Manchurian(500Ml),1,0,,420.0
+Chinese,Veg Manchurian Gravy,1,0,"Mix veg fried fritters, onion and capsicum tossed in classic manchurian sauce.",320.0
+Chinese,Hakka Noodles !,1,0,"| serves 1 | Noodles tossed with onion, cabbage with a touch ... read more",240.0
+Chinese,Manchow Soup,1,0,A local favourite with veggies topped with crunchy fried noodles.,250.0
+Chinese,Mushroom Fried Rice,1,0,,472.0
+Chinese,Paneer Chilli,1,0,"| serves 1 | Paneer cubes, green chillies, onion, capsicum tossed in desi ... read more",330.0
+Chinese,Schezwan Fried Rice,1,0,"| serves 1 | Rice tossed with carrot, french beans in schezwan sauce. ... read more",240.0
+Chinese,Schezwan Noodles,1,0,"Noodles tossed with onion, capsicum & carrot in schezwan sauce. Garnished with spring ... read more",240.0
+Chinese,Singapori Noodles,1,0,,300.0
+Chinese,Singapori Fried Rice,1,0,"Rice tossed with ,Dry red chilli which make flavorful in schezwan sauce. Garnished ... read more",300.0
+Chinese,Chilli Garlic Noodles 1,1,0,"Noodles tossed with carrot, capsicum & onion, flavored with chilli flakes, garlic & ... read more",357.0
+Chinese,Veg Fried Rice,1,0,"Ice tossed with carrot, french beans . Garnished with spring onion.",230.0
+Chinese,Veg Noodle,1,0,"| serves 1 | Noodles tossed with onion, capsicum Garnished with spring ... read more",240.0
+French Fries,Cheese Mayo French Fries,1,0,,202.0
+French Fries,Cheese Corn French Fries,1,0,,270.0
+French Fries,Cheese French Fries,1,0,,230.0
+French Fries,Maggi French Fries,1,0,,270.0
+French Fries,Masala French Fries,1,0,,180.0
+French Fries,Mexican French Fries,1,0,,250.0
+French Fries,Peri Peri French Fries,1,0,,210.0
+SIzzler Combo,Mexican Rice Combo,1,0,Mexican rice (500ml)+ white sauce pasta(500ml)+ 2 mint mojito,950.0
+SIzzler Combo,Sizzler For 2,1,0,Mexican sizzler(m)+ 2 mint mojito,600.0
+SIzzler Combo,Sizzler Combo For 2,1,0,"Mexican sizzler(m)+ white sauce pasta+ sizzling culture special pizza(7"") + 2 mint mojito",1200.0
+SIzzler Combo,Sizzler Pasta Combo,1,0,Mexican sizzler(m)+ white sauce pasta+ 2 mint mojito,950.0
+Chinese Combo,Chinese Combo 1,1,0,Dry manchurian(500ml)+ hakka noodles(500ml)+ 2 mint mojito,650.0
+Chinese Combo,Chinese Combo 2,1,0,Dry manchurian(500ml)+ hakka noodles(500ml)+ singapore rice(500ml)+ 3 mint mojito,950.0
+Fresh Pan Pizza,4 Cheesy Pizza,1,0,"| Serve 1 | 4 Types of cheese Mozarella, Cheddar, Monterey colby |",250.0
+Fresh Pan Pizza,American Style 1,1,0,Sun dried tomato red yellow capsicum red peprica olives with extra cheese,250.0
+Fresh Pan Pizza,American Treat Pan Pizza,1,0,Onion capsicum jalapeno red peprica olives with extra cheese,260.0
+Fresh Pan Pizza,Bbq Paneer Feast Pizza,1,0,"Bbq sauce, paneer capsicum, olives, onion, tomato. with extra cheese",230.0
+Fresh Pan Pizza,English Pizza,1,0,Brocoli red yellow capsicum olives jalapenos with extra cheese,250.0
+Fresh Pan Pizza,Farm House 1,1,0,Mushroom olives red peprica with extra cheese,250.0
+Fresh Pan Pizza,Italian Pasta Pizza,1,0,[Penne pasta] cruncy pasta with italian spice onion jalapenoz olives red peprica with ... read more,260.0
+Fresh Pan Pizza,Italian Tadka Pizza,1,0,"Broccoli, red pepper, yellow pepper, olives, Jalapeno, baby corn. with extra cheese",250.0
+Fresh Pan Pizza,Margherita Pizza,1,0,Lots of cheese.,240.0
+Fresh Pan Pizza,Mexican Party Pizza(SC),1,0,"Capsicum, chilly, black olives, tomato, jalapeno. with extra cheese",230.0
+Fresh Pan Pizza,Mushroom Blast 1,1,0,Mushroom jalapeno red peprica olives with extra cheese,240.0
+Fresh Pan Pizza,Mushroom Paneer Delight Pizza,1,0,"Mushroom, paneer,, capsicum, green chilli. with extra cheese",260.0
+Fresh Pan Pizza,Paneer Chat Pizza,1,0,"Paneer with chat masala,capsicum, onion, jalapenos,olives, with extra cheese",260.0
+Fresh Pan Pizza,Paneer Garlic Delight Pizza,1,0,"Paneer in garlic pasta, onion, capsicum, fresh coriander. with extra cheese",230.0
+Fresh Pan Pizza,Paneer Kadhai Pizza,1,0,Paneer kadhai Gravy with Capsicum and onion with extra cheese,250.0
+Fresh Pan Pizza,Paneer Makhni Pizza,1,0,| Serve 1 | Paneer makhni gravy serve with red peprica onion capsicum ... read more,260.0
+Fresh Pan Pizza,Pizza Delight Pizza,1,0,"Capsicum, onion,tomato,jalapenos,with extra cheese",230.0
+Fresh Pan Pizza,Poppey Paneer Pizza,1,0,"Spinach, paneer, garlic, onion, fresh coriander. with extra cheese",250.0
+Fresh Pan Pizza,Sizzling Culture Special Pan Pizza,1,0,Tanndoori paneer red peprica onion olives jalapenos with extra cheese,270.0
+Fresh Pan Pizza,Spicy Blast 1,1,0,Onion capsicum red peprica jalapeno chilli with extra cheese,240.0
+Fresh Pan Pizza,Tandoori Tadka Pizza,1,0,"Tandoori paneer, onion, olives with extra cheese",260.0
+Fresh Pan Pizza,Veg Exotica 1,1,0,Onion mushrrom olives green chilli with extra cheese,250.0
+Fresh Pan Pizza,Vegetables Pizza,1,0,"Capsicum, onion, tomato. with extra cheese",250.0
+Pizza Combo,Party Combo,1,0,"2 Sizzling Culture Special Pizza (9"")+ 2 Garlic Bread Cheese+ 2 Garlic Bread ... read more",2100.0
+Pizza Combo,Pizza Combo For 2,1,0,"Paneer chat pizza (9"")+ garlic bread cheese+ 2mint mojito",850.0
+Pizza Combo,Pizza Combo For 3,1,0,"Sizzling culture special pizza (9"")+ garlic bread cheese + peri peri french fries ... read more",1050.0
+Garlic Bread,Bruschetta {4 Slices],1,0,,250.0
+Garlic Bread,Cheese Chilli Garlic Bread {4 Slices],1,0,,240.0
+Garlic Bread,Garlic Bread With Cheese,1,0,| Serves 1 |,190.0
+Garlic Bread,Garlic Bread!(No Cheese),1,0,,107.0
+Garlic Bread,Onion Chilli Garlic Bread {4 Slices],1,0,,202.0
+Garlic Bread,Paneer Tikka Garlic Bread Cheese {4 Slices],1,0,,250.0
+Garlic Bread,Sweetcorn Garlic Bread Cheese,1,0,,210.0
+Snack,Aloo Tikki Burger,1,0,,137.0
+Snack,Double Trouble Burger,1,0,,262.0
+Snack,Peri Peri Burger,1,0,,222.0
+Snack,Veg Crispy Burger,1,0,,192.0
+Snack,Cheese Maggi,1,0,,240.0
+Snack,Chinese Maggi,1,0,,240.0
+Snack,Garlic Maggi,1,0,,240.0
+Snack,Regular Maggi,1,0,,117.0
+Snack,Vegetable Maggi,1,0,,137.0
+Beverages & Dessert,Thums Up(250ML),1,0,,55.0
+Beverages & Dessert,Sosyo(250Ml),1,0,,55.0
+Beverages & Dessert,Mineral Water [1 Litre],1,0,,55.0
+Beverages & Dessert,Euro Mango Juice(250ml)),1,0,,55.0
+Beverages & Dessert,Sprite [250ml],1,0,,55.0
+Beverages & Dessert,Belgian Chocolate Shake,1,0,| Serves 1 |,202.0
+Beverages & Dessert,Cold Coffee,1,0,,182.0
+Beverages & Dessert,Ferro Rocher Shake,1,0,| Serves 1 |,302.0
+Beverages & Dessert,Kitkat Shake,1,0,| Serves 1 |,212.0
+Beverages & Dessert,Blue Carraco,1,0,,132.0
+Beverages & Dessert,Green Apple,1,0,,162.0
+Beverages & Dessert,Mint Mojito,1,0,| Serves 1 |,142.0
+Beverages & Dessert,Dark Hocolate Waffle,1,0,,260.0
+Beverages & Dessert,Milk Chocolate Pancake Waffle,1,0,,260.0
+Beverages & Dessert,Naked Nutella Waffel,1,0,Crispy waffle chocolate hazelnut spread,260.0
+Beverages & Dessert,Oreo Waffle,1,0,,260.0
+Beverages & Dessert,Triple Chocolate Waffle,1,0,,260.0
+Beverages & Dessert,White Chocolate Waffle,1,0,,260.0
+Beverages & Dessert,Naked Nutella Pancake,1,0,,260.0
+Beverages & Dessert,Red Velvet Pancake,1,0,,260.0

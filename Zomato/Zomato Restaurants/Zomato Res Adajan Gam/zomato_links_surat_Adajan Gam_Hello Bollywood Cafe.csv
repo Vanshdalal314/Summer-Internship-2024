@@ -1,0 +1,126 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fast Food,Cheese Chilly Garlic Bread,1,0,,180.0
+Fast Food,Garlic Bread,1,0,,170.0
+Fast Food,Hello Special Bread,1,0,,210.0
+Fast Food,Veg Bruschetta,1,0,,195.0
+Fast Food,Cheese Fries,1,0,,160.0
+Fast Food,Mac N Cheese Fries,1,0,,235.0
+Fast Food,Masala Fries,1,0,,115.0
+Fast Food,Maxican Fries,1,0,,195.0
+Fast Food,Peri Peri Fries,1,0,,130.0
+Fast Food,Salted Fries,1,0,,100.0
+Fast Food,Veg Cheese Double Maggi,1,0,,130.0
+Fast Food,Veg Cheese Maggi,1,0,,110.0
+Fast Food,Veg Maggi,1,0,,80.0
+Fast Food,Masala Cheese Potato,1,0,,170.0
+Fast Food,Mayo Potato,1,0,,180.0
+Fast Food,Peri Peri Cheese,1,0,,195.0
+Fast Food,Twisted Potato,1,0,,130.0
+Continental,Broccoli Almond Soup,1,0,,195.0
+Continental,Cream Of Tomato Soup,1,0,,170.0
+Continental,Mexican Tortila Soup,1,0,,235.0
+Continental,Aloo Patty Salad,1,0,,195.0
+Continental,Paneer Tikka Salad,1,0,,260.0
+Continental,Veg Salad,1,0,,170.0
+Continental,Lasanga,1,0,,520.0
+Continental,Quesadilla,1,0,,195.0
+Continental,Ratatouille,1,0,,520.0
+Continental,Stuff Cheese Ball,1,0,,235.0
+Continental,Peri Peri Pasta,1,0,,350.0
+Continental,Pesto Pasta,1,0,,390.0
+Continental,Pink Sauce Pasta,1,0,,325.0
+Continental,Red Sauce Pasta,1,0,,325.0
+Continental,White Sauce Pasta,1,0,,325.0
+Continental,Lebonese Rice With Creamy Exotic Veg,1,0,,455.0
+Continental,Mexcian Rice With Bonofive Sauce,1,0,,455.0
+Continental,Rissotto Rice Cheese Sauce,1,0,,325.0
+Continental,Rissotto Rice Mix Sauce,1,0,,365.0
+Continental,Rissotto Rice Resto Sauce,1,0,,390.0
+Continental,Bulkly Yummy Nachos,1,0,,260.0
+Continental,Cheese Sauce,1,0,,195.0
+Continental,Salsa Sauce,1,0,,210.0
+Continental,Yellow Sauce,1,0,,220.0
+Continental,Bollywood Special Pizza [9 Inches],1,0,,390.0
+Continental,Classic Margherita Pizza [9 Inches],1,0,,235.0
+Continental,Exotic Italian Pizza [9 Inches],1,0,,325.0
+Continental,Farm House Pizza [9 Inches],1,0,,325.0
+Continental,Four Cheese Pizza [9 Inches],1,0,,390.0
+Continental,Mac N Cheese Pizza [9 Inches],1,0,,365.0
+Continental,Paneer Makhani [9 Inches],1,0,,390.0
+Continental,Paneer Tikka [9 Inches],1,0,,325.0
+Continental,Bbq Paneer,1,0,,235.0
+Continental,Bombay Grill,1,0,,170.0
+Continental,Cheese Jalapenos,1,0,,195.0
+Continental,Hello Special [Multi-grain Bread],1,0,,325.0
+Continental,Veg Cheese Grill Sandwiches-triangle,1,0,,235.0
+Continental,Veg Grill Barbeque,1,0,,235.0
+Continental,Veg Grill Sandwiches-triangle,1,0,,195.0
+Continental,Veg Mayo,1,0,,195.0
+Continental,Veg Cheese Toast,1,0,,195.0
+Chinese,Hot N Sour Soup,1,0,,170.0
+Chinese,Lemon Coriander Soup,1,0,,170.0
+Chinese,Manchow Soup,1,0,[Veg preparation],170.0
+Chinese,Fried Momos,1,0,,235.0
+Chinese,Paneer Momos,1,0,,325.0
+Chinese,Schezwan Momos,1,0,,260.0
+Chinese,Steam Momos,1,0,,195.0
+Chinese,Crispy Veg,1,0,,235.0
+Chinese,Honey Chilly Potato,1,0,,250.0
+Chinese,Paneer Schezwan Roll,1,0,,250.0
+Chinese,Paneer Chilly,1,0,,300.0
+Chinese,Schezwan Lollipop,1,0,[Veg preparation],250.0
+Chinese,Spring Roll,1,0,,260.0
+Chinese,Veg Manchurian Dry,1,0,,220.0
+Chinese,Cottage Cheese N Chilly Garlic Sauce,1,0,,325.0
+Chinese,Manchurian Gravy,1,0,,220.0
+Chinese,Veg Manchurian Chilly Garlic Sauce,1,0,,235.0
+Chinese,Bombay Bhel,1,0,,220.0
+Chinese,Burnt Garlic Rice,1,0,,260.0
+Chinese,Chilly Garlic Fried Rice,1,0,,180.0
+Chinese,Chinese Bhel,1,0,,195.0
+Chinese,Fried Rice,1,0,,170.0
+Chinese,Schezwan Fried Rice,1,0,,180.0
+Chinese,Singapuri Rice,1,0,,210.0
+Chinese,Steam Rice,1,0,,130.0
+Chinese,American Chopsuey,1,0,,235.0
+Chinese,Chilly Garlic Noodles,1,0,,220.0
+Chinese,Hakka Noodles,1,0,,170.0
+Chinese,Pan Fry Noodle With Exotic Vegetables,1,0,,260.0
+Chinese,Schezwan Noodles,1,0,,235.0
+Chinese,Singapuri Noodles,1,0,,235.0
+South Indian,Masala Uttapam,1,0,,170.0
+South Indian,Onion Uttapam,1,0,,170.0
+South Indian,Onion Tomato Uttapam,1,0,,195.0
+South Indian,Tomato Uttapam,1,0,,170.0
+South Indian,Plain Uttapam,1,0,,130.0
+South Indian,Veg Mix Uttapam,1,0,,260.0
+South Indian,Cheese Sada Dosa,1,0,,155.0
+South Indian,Sada Dosa,1,0,,90.0
+South Indian,Cheese Garlic Nylon Dosa,1,0,,180.0
+South Indian,Cheese Nylon Dosa,1,0,,180.0
+South Indian,Garlic Nylon Dosa,1,0,,120.0
+South Indian,Nylon Dosa,1,0,,100.0
+South Indian,Onion Dosa,1,0,,120.0
+South Indian,Onion Masala Dosa,1,0,,130.0
+South Indian,Cheese Masala Dosa,1,0,,220.0
+South Indian,Cheese Mysore Masala Dosa,1,0,,260.0
+South Indian,Masala Dosa,1,0,,180.0
+South Indian,Mysore Masala Dosa,1,0,,195.0
+South Indian,Cheese Paneer Surma Dosa,1,0,,325.0
+South Indian,Rava Masala Dosa,1,0,,170.0
+South Indian,Rava Onion Dosa,1,0,,155.0
+South Indian,Rava Onion Masala Dosa,1,0,,180.0
+South Indian,Rava Plain Dosa,1,0,,130.0
+South Indian,Cheese Palak Paneer Dosa,1,0,,300.0
+South Indian,Chinese Dosa,1,0,,210.0
+South Indian,Gotala Dosa,1,0,,325.0
+South Indian,Jini Roll Dosa,1,0,,300.0
+Pav Bhaji And Pulav,Green Bhaji,1,0,,220.0
+Pav Bhaji And Pulav,Khada Bhaji,1,0,,210.0
+Pav Bhaji And Pulav,Pav Bhaji,1,0,,195.0
+Pav Bhaji And Pulav,White Pav Bhaji,1,0,,340.0
+Pav Bhaji And Pulav,Green Pulav,1,0,,210.0
+Pav Bhaji And Pulav,Kashmiri Pulav,1,0,,250.0
+Pav Bhaji And Pulav,Paneer Pulav,1,0,,220.0
+Pav Bhaji And Pulav,Pulav,1,0,,195.0
+Chhole Bhature,Chhole Bhature,1,0,,265.0

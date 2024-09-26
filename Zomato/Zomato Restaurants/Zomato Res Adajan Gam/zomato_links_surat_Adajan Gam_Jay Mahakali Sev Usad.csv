@@ -1,0 +1,19 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Sev Usal,1,0,,80.0
+Snacks,Cheese Sev Usal,1,0,,110.0
+Snacks,Butter Sev Usal,1,0,,100.0
+Snacks,Cheese Butter Sev Usal,1,0,,130.0
+Snacks,Cheese Sev Tari,1,0,,110.0
+Snacks,Butter Sev Tari,1,0,,100.0
+Snacks,Cheese Butter Sev Tari,1,0,,130.0
+Snacks,Jain Sev Usal,1,0,[Jain Preparation],80.0
+Snacks,Jain Cheese Sev Usal,1,0,[Jain Preparation],110.0
+Snacks,Jain Butter Sev Usal,1,0,[Jain Preparation],100.0
+Snacks,Jain Cheese Butter Sev Usal,1,0,[Jain Preparation],130.0
+Snacks,Jain Sev Tari,1,0,[Jain Preparation],80.0
+Snacks,Jain Cheese Sev Tari,1,0,[Jain Preparation],110.0
+Snacks,Jain Butter Sev Tari,1,0,[Jain Preparation],100.0
+Snacks,Jain Cheese Butter Sev Tari,1,0,[Jain Preparation],130.0
+Snacks,Sev Tarri,1,0,,80.0
+Side,Extra Bun,1,0,,7.0
+Drinks (Beverages),Masala Chaach,1,0,,22.0

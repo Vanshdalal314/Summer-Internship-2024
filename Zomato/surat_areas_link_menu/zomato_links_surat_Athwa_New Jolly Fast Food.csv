@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Cheese Pizza [7 inches],1,0,,120.0
+Pizza,Mixed Veg Cheese Pizza [7 inches],1,0,,160.0
+Burgers and Sandwiches,Veg Burger,1,0,,60.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,75.0
+Burgers and Sandwiches,Paneer Burger,1,0,,85.0
+Burgers and Sandwiches,Cheese Paneer Burger,1,0,,100.0
+Burgers and Sandwiches,Veg Toast Sandwich,1,0,,60.0
+Burgers and Sandwiches,Cheese Toast Sandwich,1,0,,85.0
+Burgers and Sandwiches,Masala Toast Sandwich,1,0,,60.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,145.0
+Burgers and Sandwiches,Masala Cheese Toast Sandwich,1,0,,85.0
+Burgers and Sandwiches,Mayo Cheese Grilled Sandwich,1,0,,145.0
+Burgers and Sandwiches,Open Cheese Toast Sandwich,1,0,,100.0
+Burgers and Sandwiches,Schezwan Cheese Grilled Sandwich,1,0,,145.0
+Burgers and Sandwiches,Only Cheese Grilled Sandwich,1,0,,145.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,60.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,85.0
+Burgers and Sandwiches,Paneer Cheese Grilled Sandwich,1,0,,160.0
+Burgers and Sandwiches,Samosa Toast Sandwich,1,0,,70.0
+Burgers and Sandwiches,Samosa Cheese Toast Sandwich,1,0,,80.0
+Frankies,Veg Frankie,1,0,,60.0
+Frankies,Cheese Veg Frankie,1,0,,75.0
+Frankies,Mayo Frankie,1,0,,85.0
+Frankies,Schezwan Frankie,1,0,,85.0
+Frankies,Paneer Cheese Frankie,1,0,,100.0
+Garlic Bread,Garlic Bread [4 Pieces],1,0,,100.0
+Snacks,Salted French Fries,1,0,,85.0
+Snacks,Peri Peri French Fries,1,0,,100.0
+Snacks,Cheese French Fries,1,0,,110.0
+Snacks,Time Pass,1,0,,40.0
+Snacks,Bread Butter,1,0,,25.0
+Snacks,Bread Butter Jam,1,0,,40.0
+Snacks,Bread Butter Cheeese,1,0,,50.0
+Snacks,Bread Butter Cheeese Jam,1,0,,60.0
+Snacks,Kurkure Bhel,1,0,,25.0
+Snacks,Cheese Kurkure Bhel,1,0,,45.0
+Snacks,Punjabi Samosa [2 Pieces],1,0,,40.0
+Snacks,Vada Pav,1,0,,25.0
+Snacks,Cheese Grilled Vada Pav,1,0,,45.0
+Snacks,Puff,1,0,,25.0
+Snacks,Masala Puff,1,0,,45.0
+Snacks,Cheese Masala Puff,1,0,,60.0
+Snacks,Mayo Pav,1,0,,40.0
+Snacks,Solid Masti,1,0,,45.0
+Snacks,Jain Vada Pav,1,0,,30.0
+Drinks (Beverages),Cutting Tea,1,0,,7.0
+Drinks (Beverages),Coffee,1,0,,25.0
+Drinks (Beverages),Hot Chocolate,1,0,,40.0
+Drinks (Beverages),Cold Coffee,1,0,,60.0

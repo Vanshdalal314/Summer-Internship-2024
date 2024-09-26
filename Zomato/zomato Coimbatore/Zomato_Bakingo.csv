@@ -1,0 +1,42 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pastries,Choco Truffle Pastry,1,0,A decadent and exotic combination of melted chocolate and truffles augmented with a ... read more,99.0
+Pastries,Butterscotch Pastry,1,0,"A childhood favourite combines butterscotch chips with choco sticks, white marbles & whipped ... read more",89.0
+Pastries,Red Velvet Pastry,1,0,"An eggless construction of layers of red velvet goodness, carfully layered with vanilla ... read more",99.0
+Pastries,Black Forest Pastry,1,0,A crowd favourite and for good reason. Multiple layers of moist chocolate topped ... read more,89.0
+Pastries,Chocolate Chip Pastry,1,0,The softness of freshly baked bread and chocolate with the crispyness of chocolate ... read more,89.0
+Exclusive Mango Mania,Mango Jar Cake,1,0,A seasonal favorite mixes pure mango pulpy goodness with vanilla cake in a ... read more,129.0
+Exclusive Mango Mania,Mango Cake,1,0,"A seasonal favorite overloaded with pulpy mango goodness, pistachio shavings, whipped cream and ... read more",499.0
+Baked Cheesecakes,Blueberry Bake Cheesecake Slice,1,0,A light & creamy cheese cake with blueberry pulp baked with cream cheese,149.0
+Jar Cake,Chocolate Jar Cake,1,0,A thick layered velvety chocolate classic in a jar,119.0
+Jar Cake,Choco Mud Jar Cake,1,0,A layered chococalte classic with vanilla cream and the texture of chocolate mud,119.0
+Jar Cake,Blueberry Jar Cake,1,0,An exotic mix of fresh blueberry pulp and freshly baked cake in a ... read more,139.0
+Jar Cake,Choco Crunch Jar Cake,1,0,A crunchy rendition of the original blends soft and crispy in perfect proportions,119.0
+Jar Cake,Butterscotch Jar Cake,1,0,This childhood favourite combines crunchy butterscotch bits & creamy butterscotch bread in a ... read more,139.0
+Jar Cake,Strawberry Cheese,1,0,"A delightful and visually appealing dessert served in a small cup, often with ... read more",149.0
+Cakes,Choco Truffle Cake,1,0,A decadent and exotic combination of melted chocolate and truffles augmented with a ... read more,499.0
+Cakes,Choco Vanilla Cake,1,0,The perfect duality of chocolate and vanilla combines two classics in one cake,499.0
+Cakes,Chocolate Snicker Cake,1,0,"A dark, rich & chocolaty bind of mocha, snickers & melted chocolate is ... read more",599.0
+Cakes,Choco Crunch KitKat Cake,1,0,A perfect match of chocolatty goodness and kit kat crumbs binds together with ... read more,599.0
+Cakes,Choco Butterscotch Cake,1,0,"A perfect combo of chocolate cake, whipped cream and butterscotch chips",519.0
+Cakes,Choco Chip Cake,1,0,The softness of freshly baked bread and chocolate with the crispyness of chocolate ... read more,519.0
+Cakes,Choco Oreo Cake,1,0,"A delectable chocolate cake blended and topped with crunchy Oreos, augmented with white ... read more",569.0
+Cakes,Pineapple Cake,1,0,"Freshly whipped vanilla cake topped with pineapples, chocolate marbles and cherries",469.0
+Cakes,Fresh Fruit Cake,1,0,"A rainbow of flavors, fresh fruit & an almondy vanilla tango",579.0
+Cakes,Vanilla Blueberry Cake,1,0,An exotic mix of fresh blueberry puree and freshly baked cake decorated with ... read more,529.0
+Cakes,Butterscotch Cake,1,0,"A childhood favourite combines butterscotch chips with choco sticks, white marbles & a ... read more",489.0
+Cakes,Black Forest Cake,1,0,A crowd favourite and for good reason. Multiple layers of moist chocolate topped ... read more,479.0
+Cakes,German Black Forest Cake,1,0,A crowd favourite and for good reason. Multiple layers of moist German chocolate ... read more,499.0
+Cakes,Red Velvet Cake,1,0,A vanilla based red velvet cake dressed in red velvet crumbs with dollops ... read more,599.0
+Cakes,Coffee Cake,1,0,A chocolate based coffee kick topped with sprinkled coffee and topped with fresh ... read more,529.0
+Cakes,Coffee Walnut Cake,1,0,A rich molten vanilla cake augmented with a coffee cake and inundated with ... read more,599.0
+Cakes,Choco Truffle Heart Cake,1,0,A heart shaped decadent and exotic combination of melted chocolate and truffles augmented ... read more,599.0
+Cakes,Red Velvet Heart Cake,1,0,A vanilla based heart shaped red velvet cake dressed in red velvet crumbs ... read more,649.0
+Cakes,Rasmalai Cake,1,0,"The great Indian dessert reimagined with Rasmalai, Vanilla sponge, rich white topping cream, ... read more",579.0
+Party Props,Set of 2 Party Poppers,1,0,,149.0
+Party Props,Birthday Cap Boy,1,0,,109.0
+Party Props,Birthday Cap Girl,1,0,,109.0
+Party Props,'HAPPY BIRTHDAY' Letter Candle,1,0,,149.0
+Party Props,Flower Candle,1,0,,99.0
+Party Props,Pack of Magic Candle,1,0,,79.0
+Party Props,"""Happy Birthday"" Foil Balloon",1,0,,279.0
+Party Props,"""Happy Anniversary"" Foil Balloon",1,0,,279.0

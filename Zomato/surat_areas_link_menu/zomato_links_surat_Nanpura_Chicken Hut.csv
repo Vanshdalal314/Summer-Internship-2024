@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meal for 1,Butter Chicken Gravy [200 ml] + Roti-3,0,0,,250.0
+Meal for 1,Chicken Mughlai [200 ml] + Roti-3,0,0,,250.0
+Chicken-Hut Special Menu,White Chicken Tikka,0,0,,350.0
+Chicken-Hut Special Menu,Red Chicken Tikka,0,0,,350.0
+Chicken-Hut Special Menu,Chicken Popcorn [8 Pieces],0,0,[Chefs' special],270.0
+Chicken-Hut Special Menu,Chicken Garlic Tikka,0,0,,350.0
+Chicken-Hut Special Menu,Chicken Banjara Tikka,0,0,,350.0
+Chicken-Hut Special Menu,Chicken Tandoori Leg Piece,0,0,,190.0
+Chicken-Hut Special Menu,Chicken Tandoori Malai Leg Piece,0,0,,270.0
+Chicken-Hut Special Menu,Fried Chicken [2 Pieces],0,0,,240.0
+Chicken-Hut Special Menu,Chicken Malai Tikka,0,0,,360.0
+Chicken-Hut Special Menu,Chicken Tikka Masala,0,0,,350.0
+Chicken-Hut Special Menu,Chicken Bhuna,0,0,,350.0
+Chicken-Hut Special Menu,Chicken Mughlai,0,0,,350.0
+Chicken-Hut Special Menu,Butter Chicken,0,0,,350.0
+Chicken-Hut Special Menu,Dal Fry,1,0,"Indian lentil recipe that is made with toor dal, onions, tomatoes and spices.",170.0
+Chicken-Hut Special Menu,Dal Tadka,1,0,"Yellow lentils tempered with cumin seeds, garlic & asafoetida in clarified butter",180.0
+Chicken-Hut Special Menu,Paneer Bhurji,1,0,,240.0
+Chicken-Hut Special Menu,Paneer Butter Masala,1,0,,240.0
+Chicken-Hut Special Menu,Chicken Biryani,0,0,Tastefully marinated and succulent pieces of chicken cooked in a rich mix of ... read more,180.0
+Chicken-Hut Special Menu,Chicken Hydrabadi Biryani,0,0,,260.0
+Chicken-Hut Special Menu,Chicken Tikka Biryani,0,0,,260.0
+Chicken-Hut Special Menu,Roti,1,0,,25.0
+Chicken-Hut Special Menu,Veg Cheese Pizza,1,0,,235.0
+Chicken-Hut Special Menu,Chicken Chilli Pizza [6 inches],0,0,,310.0
+Chicken-Hut Special Menu,Chicken Manchurian Pizza [6 inches],0,0,,310.0
+Chicken-Hut Special Menu,Chicken Cheese Sandwich,0,0,,180.0
+Chicken-Hut Special Menu,Chicken Tandoori Toast,0,0,,180.0
+Chinese,Chicken Lollipop,0,0,,350.0
+Chinese,Chicken Chilli Dry,0,0,,350.0
+Chinese,Chicken Schezwan Dry,0,0,,350.0
+Chinese,Chicken Kurkure,0,0,,350.0
+Chinese,Chicken Hong kong Chilli,0,0,,350.0
+Chinese,Chicken Fried Rice,0,0,Tasty and wholesome Chinese rice dish to satisfy your taste buds.,190.0
+Chinese,Chicken Schezwan Rice,0,0,,190.0
+Chinese,Chicken Hunan Rice,0,0,,190.0
+Chinese,Chicken Chinese Bhel,0,0,,240.0
+Chinese,Egg Fried Rice,0,0,,160.0
+Main Course,Chicken Chilli Gravy,0,0,,350.0
+Main Course,Chicken Schezwan Gravy,0,0,,350.0
+Sheek Kabab,Chicken Sheek Kabab [4 Pieces],0,0,,390.0
+Sheek Kabab,"Chicken Seekh Kabab [Half, 2 Pieces]",0,0,,200.0
+Mutton Biryani,Bombay Mutton Biryani,0,0,,360.0

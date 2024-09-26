@@ -1,0 +1,136 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken Lollipop Fry [6 Pieces],0,0,"A delightful quintet of crispy, succulent treats for your taste buds.",189.0
+Starters,Chicken Lollipop Masala,0,0,A bold and spicy chicken masala that's pure indulgence for your taste buds.,209.0
+Burgers and Sandwiches,Veg Supreme Burger,0,0,Savor our mouth watering veg burger pure plant based perfection in every bite.,139.0
+Burgers and Sandwiches,Veggie Decker Burger,0,0,Savor our mouth watering veg decker burger perfection in every bite.,197.0
+Burgers and Sandwiches,Double Cheese Burger,0,0,Spice up your taste buds.,210.0
+Burgers and Sandwiches,Fgks Spicy Paneer Burger,0,0,Savor the flavor with our irresistible paneer burger.,223.0
+Burgers and Sandwiches,Veg Maharaja Burger,0,0,Savor our mouth watering veg maharaja burger perfection in every bite.,249.0
+Burgers and Sandwiches,Signature Grilled Chicken Burger,0,0,Loaded with delicious sauces and super crispy chicken.,209.0
+Burgers and Sandwiches,Double Cheese Chicken Burger,0,0,Spice up with double layer of cheese burger for your taste buds.,289.0
+Burgers and Sandwiches,Chicken Maharaja Burger,0,0,Savor our mouth watering maharaja chicken burger perfection in every bite.,329.0
+Burgers and Sandwiches,F and Ks Super Deluxe Chicken Burger,0,0,Savor the flavor with our irresistible deluxe chicken burger.,302.0
+Burgers and Sandwiches,Mushroom Sandwich,0,0,Savor the flavor with our irresistible mushroom sandwich.,159.0
+Burgers and Sandwiches,Barbeque Paneer Sandwich,0,0,,159.0
+Burgers and Sandwiches,Schezwan Paneer Sandwich,0,0,,197.0
+Burgers and Sandwiches,Paneer Bhurji Sandwich,0,0,,197.0
+Burgers and Sandwiches,Veg Club Sandwich,0,0,,159.0
+Burgers and Sandwiches,Veg Sandwich,0,0,,139.0
+Burgers and Sandwiches,Chicken Sandwich,0,0,,197.0
+Burgers and Sandwiches,Barbeque Chicken Sandwich,0,0,,179.0
+Burgers and Sandwiches,Chicken Keema Sandwich,0,0,,223.0
+Burgers and Sandwiches,Peri Peri Chicken Sandwich,0,0,,179.0
+Burgers and Sandwiches,Chicken Tikka Sandwich,0,0,,179.0
+Burgers and Sandwiches,Chicken Club Sandwich,0,0,,236.0
+Soups,Veg Clear Soup,0,0,,157.0
+Soups,Veg Manchow Soup,0,0,,157.0
+Soups,Creme De Tomato Soup,0,0,,157.0
+Soups,Creamy Mushroom Soup,0,0,,170.0
+Soups,Chicken Clear Soup,0,0,,183.0
+Soups,Chicken Manchow Soup,0,0,,149.0
+Pizza and Pasta,Margherita Pizza,0,0,Mozzarella cheese and basil leaves.,179.0
+Pizza and Pasta,Pesto Mushroom Pizza,0,0,Basil leaves mushroom and tomatoes.,209.0
+Pizza and Pasta,Paneer Barbeque Pizza,0,0,Paneer and onion in barbeque sauce.,209.0
+Pizza and Pasta,Mushroom Extravaganza Pizza,0,0,"Mushroom, onion, capsicum and zucchini.",209.0
+Pizza and Pasta,Veg Rustica Pizza,0,0,"Dark olives, capsicum and onion.",263.0
+Pizza and Pasta,Veggie Loaded Pizza,0,0,,209.0
+Pizza and Pasta,Chicken Tikka Pizza,0,0,"Chicken tikka, onion and Italian herbs.",289.0
+Pizza and Pasta,Chicken Keema Pizza,0,0,"Minced chicken, onion and Italian herbs.",229.0
+Pizza and Pasta,Chicken Barbeque Pizza,0,0,"Paneer, mushroom, corn and veggies.",289.0
+Pizza and Pasta,Pesto Chicken Pizza,0,0,"barbeque Sauce, barbeque chicken, onion pepper and Italian herbs.",229.0
+Pizza and Pasta,Chicken Golden Delight Pizza,0,0,"Spicy tomato sauce, corn, minced chicken, onion and Italian.",229.0
+Pizza and Pasta,Chicken Paradise Pizza,0,0,"Spicy tomato sauce, mushroom, minced chicken, olives and jalapeno.",239.0
+Pizza and Pasta,Veg Alfredo Sauce,0,0,,199.0
+Pizza and Pasta,Veg Arrabbiata Sauce,0,0,,249.0
+Pizza and Pasta,Veg Pesto Sauce,0,0,,199.0
+Pizza and Pasta,Veg Mix Sauce,0,0,,249.0
+Pizza and Pasta,Non Veg Alfredo Sauce,0,0,,302.0
+Pizza and Pasta,Non Veg Arrabbiata Sauce,0,0,,302.0
+Pizza and Pasta,Non Veg Pesto Sauce,0,0,,302.0
+Pizza and Pasta,Non Veg Mix Sauce,0,0,,302.0
+Chinese,Crispy Honey Chilli Potato,0,0,,129.0
+Chinese,Gobi Manchurian,0,0,,170.0
+Chinese,Paneer Chilli,0,0,,170.0
+Chinese,Mushroom Chilli,0,0,,183.0
+Chinese,Dragon Paneer,0,0,,249.0
+Chinese,Chicken Chilli,0,0,,210.0
+Chinese,Schezwan Chicken Wings,0,0,,236.0
+Chinese,Dragon Chicken,0,0,,209.0
+Chinese,Barbeque Chicken Wings,0,0,,263.0
+Chinese,Chicken Manchurian,0,0,,263.0
+Fried Rice and Noodles,Veg Fried Rice,0,0,,149.0
+Fried Rice and Noodles,Veg Brown Garlic Fried Rice,0,0,,159.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,0,0,,210.0
+Fried Rice and Noodles,Veg Triple Fried Rice,0,0,Noodles and rice mix.,236.0
+Fried Rice and Noodles,Non Veg Fried Rice,0,0,,210.0
+Fried Rice and Noodles,Non Veg Brown Garlic Fried Rice,0,0,,236.0
+Fried Rice and Noodles,Non Veg Schezwan Fried Rice,0,0,,236.0
+Fried Rice and Noodles,Non Veg Triple Fried Rice,0,0,Noodles and rice mix.,276.0
+Fried Rice and Noodles,Veg Hakka Noodles,0,0,,159.0
+Fried Rice and Noodles,Veg Schezwan Noodles,0,0,,210.0
+Fried Rice and Noodles,Non Veg Hakka Noodles,0,0,,179.0
+Fried Rice and Noodles,Non Veg Schezwan Noodles,0,0,,236.0
+Snacks,Masala Garlic Breads,0,0,,197.0
+Snacks,Cheesy Stuffed Mushroom,0,0,,189.0
+Snacks,Garlic Bread,0,0,,119.0
+Snacks,Veg Bruschetta,0,0,,170.0
+Snacks,Cheese Garlic Bread,0,0,,149.0
+Snacks,Cheesy Nachos,0,0,,197.0
+Snacks,Sesame Broccoli Florets,0,0,,236.0
+Snacks,Fries,0,0,,109.0
+Snacks,Peri Peri Fries,0,0,,157.0
+Snacks,Mexican Fries,0,0,,129.0
+Snacks,Onion Rings,0,0,,170.0
+Snacks,Cheesy Fries,0,0,,149.0
+Snacks,Chicken Garlic Bread,0,0,,223.0
+Snacks,Chicken Bruschetta,0,0,,223.0
+Snacks,Cheesy Chicken Nachos,0,0,,189.0
+Snacks,Chicken Fingers,0,0,,197.0
+Snacks,Chicken Popcorn,0,0,,210.0
+Desserts,Caramel Pudding,0,0,,109.0
+Desserts,Vanilla Ice Cream,0,0,,91.0
+Desserts,Chocolate Ice Cream,0,0,,79.0
+Desserts,Strawberry Ice Cream,0,0,,91.0
+Desserts,Mango Ice Cream,0,0,,91.0
+Desserts,Butterscotch Ice Cream,0,0,,79.0
+Desserts,Blackcurrant Ice Cream,0,0,,104.0
+Desserts,Choco Chip Ice Cream,0,0,,104.0
+Desserts,Pineapple Ice Cream,0,0,,104.0
+Desserts,Cookie and Cream Ice Cream,0,0,,117.0
+Desserts,Swiss Cake Ice Cream,0,0,,117.0
+Drinks (Beverages),Double Decker Falooda,0,0,Fruits and ice cream scoop [2 Scoops].,159.0
+Drinks (Beverages),Rose Falooda,0,0,,183.0
+Drinks (Beverages),Royal Falooda,0,0,"Fruits, ice cream scoop [3 Scoops] and nuts.",169.0
+Drinks (Beverages),Arabian Falooda,0,0,"Mix fruits and kaju kismis, ice creams, badam syrup, falooda seeds, semiya and ... read more",199.0
+Drinks (Beverages),Falooda,0,0,"Fruits, vanilla ice cream with strawberry ice cream, nuts and rose milk.",139.0
+Drinks (Beverages),Mint Mojito,0,0,[Non Alcoholic],117.0
+Drinks (Beverages),Blue Curacao Mojito,0,0,[Non Alcoholic],117.0
+Drinks (Beverages),Rose Mojito,0,0,[Non Alcoholic],117.0
+Drinks (Beverages),Peach Iced Tea Mojito,0,0,[Non Alcoholic],117.0
+Drinks (Beverages),Strawberry Mojito,0,0,[Non Alcoholic],131.0
+Drinks (Beverages),Watermelon Mojito,0,0,[Non Alcoholic],131.0
+Drinks (Beverages),Green Apple Mojito,0,0,[Non Alcoholic],131.0
+Drinks (Beverages),Bubble Gum Mojito,0,0,[Non Alcoholic],131.0
+Drinks (Beverages),Raspberry Mojito,0,0,[Non Alcoholic],131.0
+Drinks (Beverages),Fresh Lime Salted Fresh Juice,0,0,,65.0
+Drinks (Beverages),Fresh Lime Sweet Fresh Juice,0,0,,65.0
+Drinks (Beverages),Watermelon Fresh Juice,0,0,,91.0
+Drinks (Beverages),Pomogranate Fresh Juice,0,0,,117.0
+Drinks (Beverages),Muskmelon Fresh Juice,0,0,,86.0
+Drinks (Beverages),Apple Fresh Juice,0,0,,117.0
+Drinks (Beverages),Vanilla Milkshake,0,0,,183.0
+Drinks (Beverages),Mango Milkshake,0,0,,183.0
+Drinks (Beverages),Chocolate Milkshake,0,0,,149.0
+Drinks (Beverages),Butterscotch Milkshake,0,0,,149.0
+Drinks (Beverages),Cold Coffee Milkshake,0,0,,149.0
+Drinks (Beverages),Caramel Cold Coffee Milkshake,0,0,,197.0
+Drinks (Beverages),Brownie Milkshake,0,0,,210.0
+Drinks (Beverages),Ferrero Rocher Milkshake,0,0,,223.0
+Drinks (Beverages),Swiss Cake Milkshake,0,0,,223.0
+Drinks (Beverages),Cookie and Cream Milkshake,0,0,,223.0
+Drinks (Beverages),Strawberry Milkshake,0,0,,149.0
+Drinks (Beverages),KitKat Milkshake,0,0,,197.0
+Drinks (Beverages),Oreo Milkshake,0,0,,197.0
+Drinks (Beverages),Blackcurrant Milkshake,0,0,,197.0
+Drinks (Beverages),Pineapple Milkshake,0,0,,197.0
+Drinks (Beverages),Nutella Milkshake,0,0,,210.0

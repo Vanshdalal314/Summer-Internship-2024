@@ -1,0 +1,8 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Summa Semma Combos,2 Idly+(Mini)Tomato Sevai+2 mini Uthapam,1,0,,120.0
+Meals,Full meals,1,0,Rice+ Sambar+ Puli kulambu+ Rasam+ Kootu+ Poriyal +Appalam+Butter Milk,104.0
+Meals,Lemon Rice,1,0,,55.0
+Meals,Curd Rice,1,0,,55.0
+Meals,Tomato Rice,1,0,,55.0
+Kaalayan Soda,Paneer Soda,1,0,,42.75
+Kaalayan Soda,Lemon Soda,1,0,,42.75

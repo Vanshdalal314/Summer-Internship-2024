@@ -1,0 +1,15 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Vada Pav,Tandoor Vada Pav,1,0,,40.0
+Vada Pav,Peri Peri Cheese Grilled Vada Pav,1,0,,50.0
+Vada Pav,Schezwan Mayo Cheese Grilled Vada Pav,1,0,,45.0
+Vada Pav,India Makhani Grilled Vada Pav,1,0,,50.0
+Vada Pav,Boom Bam Vada Pav,1,0,,45.0
+Vada Pav,Butter Vada Pav,1,0,,35.0
+Vada Pav,Cheese Vada Pav,1,0,,40.0
+Fast Food,Bread Pakoda,1,0,,25.0
+Wafer Pav,Cheese Wafer Pav,1,0,,35.0
+Wafer Pav,Mexican Wafer Pav,1,0,,35.0
+Wafer Pav,Pei Peri Wafer Pav,1,0,,35.0
+Wafer Pav,Plain Wafer Pav,1,0,,25.0
+Wafer Pav,Schezwan Wafer Pav,1,0,,35.0
+Wafer Pav,Tandoor Wafer Pav,1,0,,35.0

@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Zomato Special Combo,1 Paneer Frankie + 1 French Fries,1,0,,119.0
+Zomato Special Combo,1 Veg Frankie + 1 Schezwan Frankie + 1 Mayonnaise Frankie,1,0,,149.0
+Zomato Special Combo,1 Schezwan Frankie + 1 Mayonnaise Frankie + 1 Cocktail Frankie,1,0,,159.0
+Zomato Special Combo,3 Butter Dabeli + 2 Cheese Dabeli + 2 Vada Pav,1,0,,179.0
+Zomato Special Combo,3 Butter Dabeli + 3 Butter Vada Pav,1,0,3 Butter Dabeli+3 Butter Vada Pav,189.0
+Zomato Special Combo,10 Butter Vadapav,1,0,,219.0
+Zomato Special Combo,5 Butter Dabeli + 5 Butter Vada Pav,1,0,,229.0
+Dabeli,Butter Dabeli,1,0,,30.0
+Dabeli,Cheese Dabeli,1,0,,40.0
+Vada Pav,Butter Vada Pav,1,0,,30.0
+Vada Pav,Cheese Vada Pav,1,0,,40.0
+Frankie,Veg Frankie,1,0,,50.0
+Frankie,Paneer Frankie,1,0,,80.0
+Frankie,Schezwan Frankie,1,0,,50.0
+Frankie,Mayonnaise Frankie,1,0,,50.0
+Frankie,Cocktail Frankie,1,0,,70.0

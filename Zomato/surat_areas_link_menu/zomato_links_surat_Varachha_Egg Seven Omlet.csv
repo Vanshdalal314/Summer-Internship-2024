@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Party Combos,Egg Curry [1 Egg],0,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",178.2
+Party Combos,Cheese Boil Kofta [2 Egg],0,0,"(Serves _2) || Images used are for representation purposes only, and do not ... read more",286.8
+Party Combos,Cheese Boil Masala [2 Eggs],0,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",286.8
+Party Combos,Egg Tukda Shak [3 Egg],0,0,Tomato Fry [1 Egg] + 10 Pav + 1 Chhas,257.4
+Party Combos,Ravaiya [3 Egg],0,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",316.8
+Party Combos,Egg Patra [4 Egg],0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",356.4
+Party Combos,Egg Diwani [4 Eggs],0,0,1 Omelette + 12 Pav + 1 Chaas,336.6
+Party Combos,Tikhari [4 Egg],0,0,Ravaiya [3 Egg] + 15 Pav + 1 Thums Up [250 ml] + ... read more,484.8
+Party Combos,American Lachko [3 Eggs],0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",376.2
+Party Combos,Australian Fry [3 Egg],0,0,Egg Lachko [1 Egg] + Masala Boil Fry [2 Egg] + 10 Pav ... read more,385.8
+Party Combos,Egg Tiranga [6 Egg],0,0,1 Limbu Mari Omlet + 12 Pav + 1 Chhas + 1 Papad,495.0
+Party Combos,Australian Fry [3 Egg] with Paplet,0,0,Paplet [4 Egg] + 14 Pav + 1 Thums Up [250 ml],445.2
+Party Combos,Hum Tum [4 Egg],0,0,Ravaiya [3 Egg] + 14 Pav + 1 Thums Up [250 ml],435.6
+Party Combos,Egg Patudi [3 Egg],0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",445.2
+Egg Fry,Lasan Fry,0,0,"| Images used are for representation purposes only, and do not indicate size, ... read more",42.0
+Egg Fry,Cheese Fry,0,0,,42.0
+Egg Fry,Tomato Fry,0,0,,67.2
+Egg Fry,Green Fry,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",96.0
+Egg Fry,Cheese Green Fry,0,0,,115.2
+Egg Fry,Australian Fry,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",182.4
+Egg Fry,Russian Fry,0,0,,211.2
+Curry,Egg Curry,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",57.6
+Curry,Tomato Curry,0,0,,67.2
+Curry,Cheese Egg Curry,0,0,,76.8
+Curry,Tukda Shak,0,0,,172.8
+Curry,Cheese Tukda Shak,0,0,,192.0
+Lachko,Lachko,0,0,,48.0
+Lachko,Cheese Lachko,0,0,,60.0
+Lachko,Rabdi Lachko,0,0,,134.4
+Lachko,Gravy Lachko,0,0,,182.4
+Lachko,American Lachko,0,0,,182.4
+Khimo and Gotalo,Khimo,0,0,,57.6
+Khimo and Gotalo,Cheese Khimo,0,0,,76.8
+Khimo and Gotalo,Gotalo,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",96.0
+Khimo and Gotalo,Goti Gotalo,0,0,,96.0
+Khimo and Gotalo,Cheese Goti Gotalo,0,0,,115.2
+Khimo and Gotalo,Cheese Gotalo,0,0,,115.2
+Khimo and Gotalo,Australian Gotalo,0,0,,182.4
+Special Dishes,Angoor Rabdi,1,0,,182.4
+Special Dishes,Ravaiya,0,0,,182.4
+Special Dishes,Pataudi [3 Eggs],0,0,,182.4
+Special Dishes,Hum Tum [4 Eggs],0,0,,220.8
+Special Dishes,Paplet [4 Eggs],0,0,,211.2
+Special Dishes,Mughlai [4 Eggs],0,0,,220.8
+Special Dishes,Egg Dosa [4 Eggs],0,0,,211.2
+Special Dishes,Goti Gravy Masala [5 Eggs],0,0,,259.2
+Special Dishes,Bhul Bhulaya [5 Eggs],0,0,,297.6
+Special Dishes,Special Dhamaka [5 Eggs],0,0,,297.6
+Special Dishes,Egg Samosa [5 Eggs],0,0,,288.0
+Special Dishes,Special Mamna [6 Eggs],0,0,,210.0
+Egg Cheese Sandwich,Egg Cheese Sandwich,0,0,,48.0
+Omelette,Omelette,0,0,"A delightfully delicious omelet is a dish made from beaten eggs, fried with ... read more",48.0
+Omelette,Limbu Mari Paper Omelette [2 Egg],0,0,Preperation in Oil,72.0
+Omelette,Chutney Omelette,0,0,,67.2
+Omelette,Cheese Omelette,0,0,A mouthwatering omelet prepared with an overload of cheese and topped with generous ... read more,67.2
+Omelette,Singapuri Omelette,0,0,,105.6
+Omelette,Rasavali Omelette,0,0,,163.2
+Omelette,Mysore Omelette,0,0,,211.2
+Boiled Egg,Boiled Fry Masala,0,0,,96.0
+Boiled Egg,Cheese Masala Boiled,0,0,,96.0
+Boiled Egg,Cheese Boiled Fry Masala,0,0,,115.2
+Boiled Egg,Cheese Gravy Boiled,0,0,,115.2
+Boiled Egg,Boiled Kofta Cheese,0,0,,115.2
+Boiled Egg,Indian Boiled Fry,0,0,,186.0
+Special Egg Seven Dishes,Egg Diwani [4 Eggs] + 8 Pav,0,0,Made with 2 Cube Cheese,268.8
+Special Egg Seven Dishes,Egg Mastani [5 Eggs] + 10 Pav,0,0,Made with 2 Cube Cheese,316.8
+Special Egg Seven Dishes,6 Egg Special [6 Eggs] + 12 Pav,0,0,Made with 2 Cube Cheese,361.8
+Special Egg Seven Dishes,Lahori [4 Eggs],0,0,,230.4
+Special Egg Seven Dishes,Patara [4 Eggs],0,0,,230.4
+Special Egg Seven Dishes,Egg Gravy Pakoda [5 Eggs],0,0,,174.0
+Special Egg Seven Dishes,Egg Kaju Katli [5 Eggs],0,0,,192.0
+Special Egg Seven Dishes,Tiranga [6 Eggs],0,0,,326.4
+Special Egg Seven Dishes,Egg Gravy Chomos [6 Eggs],0,0,,228.0
+Special Egg Seven Dishes,Mr Egg Special [6 Eggs],0,0,,326.4
+Special Egg Seven Dishes,Frankie Omelette [5 Eggs],0,0,,326.4
+Special Egg Seven Dishes,Special Egg Seven [7 Eggs],0,0,,364.8
+Special Egg Seven Dishes,Anjir Roll [7 Eggs],0,0,,432.0
+Special Egg Seven Dishes,Chor Police [14 Eggs],0,0,,576.0
+Pav and Chutney,1 Pav,1,0,,2.4
+Pav and Chutney,Lasan Chutney,1,0,,12.0
+Accompaniments,Roasted Papad,1,0,,6.0
+Extra,Salad,1,0,,6.0

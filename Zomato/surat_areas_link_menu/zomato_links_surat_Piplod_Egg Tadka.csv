@@ -1,0 +1,104 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Boiled Egg [2 Eggs],0,0,Prepared with oil.,40.5
+Starters,Boiled Salad [2 Eggs],0,0,"A delicious, healthy, and nutritious salad made by boiling fresh vegetables in a ... read more",49.5
+Starters,Boiled Cheese Salad [2 Eggs],0,0,"A light and refreshing salad with a generous helping of cheese and vegetables, ... read more",85.5
+Starters,Egg Cheese Boiled Dry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",85.5
+Starters,Egg Masala Boiled Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",99.0
+Starters,Egg Masala Cheese Boiled Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",148.5
+Starters,Egg Green Cheese Boiled [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",162.0
+Starters,Egg Cutlet [2 Pieces],0,0,,148.5
+Starters,Egg Cheese Dry Kofta [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",162.0
+Starters,Egg Cheese Cutlet [2 Pieces],0,0,,171.0
+Starters,Egg Dry Roll [3 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",184.5
+Starters,Egg Machhi Masala [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",234.0
+Omelette,Omelette [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",72.0
+Omelette,Cheese Omelette [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",121.5
+Omelette,Baby Omelette [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",72.0
+Omelette,Baby Cheese Omelette [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",121.5
+Omelette,Masala Cheese Omelette [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",126.0
+Omelette,Bombay Omelette [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",99.0
+Omelette,Egg Ghari Omelette [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",225.0
+Omelette,Rasavali Omelette [4 Eggs],0,0,,364.5
+Omelette,"Egg Paplet [Mini, 4 Eggs]",0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",364.5
+Omelette,Egg Patra [4 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",364.5
+Omelette,Egg Bheja Fry [4 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",364.5
+Surti Egg Zayka,Egg Keema [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",148.5
+Surti Egg Zayka,Egg White Keema [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",148.5
+Surti Egg Zayka,Egg Masala Keema [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",198.0
+Surti Egg Zayka,Egg Kachu Paku [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",148.5
+Surti Egg Zayka,Egg Bhurji [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",148.5
+Surti Egg Zayka,Anda Curry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",148.5
+Surti Egg Zayka,Egg Cheese Keema [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",225.0
+Surti Egg Zayka,Egg Bhurji Gravy [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",184.5
+Surti Egg Zayka,Egg Keema Lahori [3 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",252.0
+Surti Egg Zayka,Egg Boiled Tikka Gravy [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",198.0
+Surti Egg Zayka,Egg Kofta [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",171.0
+Surti Egg Zayka,Egg Cheese Kofta [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Egg Zayka,Egg Red Gotalo [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",148.5
+Surti Egg Zayka,Egg Green Gotalo [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",148.5
+Surti Egg Zayka,Egg Goti Gotalo [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",162.0
+Surti Egg Zayka,Egg Kolhapuri Gotalo [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Egg Zayka,Egg Dhaba Curry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",162.0
+Surti Egg Zayka,Egg Laziz Kachu [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Egg Zayka,Egg Chinese Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",198.0
+Surti Egg Zayka,Egg Angoor Rabdi [5 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",306.0
+Surti Specials,Green Egg Ravaiya [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",198.0
+Surti Specials,Egg Gulabo [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Specials,Egg Special Bheju [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",234.0
+Surti Specials,Egg American Rabdi [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",306.0
+Surti Specials,Egg Golden Tikka [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",234.0
+Surti Specials,Egg Cheese Tikka [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",243.0
+Surti Specials,Green Egg Tikka [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",220.5
+Surti Specials,Red Egg Tikka [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",220.5
+Surti Specials,Egg Rasmalai [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",220.5
+Surti Specials,Egg Tadka Dhamaka [2 Eggs],0,0,,220.5
+Surti Specials,Egg Chatpata [2 Eggs],0,0,,243.0
+Surti Specials,Egg Nawabi [2 Eggs],0,0,,207.0
+Surti Specials,Egg Mawa Lachko [2 Eggs],0,0,,261.0
+Surti Specials,Egg Fish Fry Gravy [3 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",315.0
+Surti Specials,Egg Goa [3 Eggs],0,0,,306.0
+Surti Specials,Egg Raja Rani [4 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",432.0
+Surti Specials,Special Egg Tikhari [4 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",333.0
+Surti Specials,Egg Lahori [4 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",342.0
+Surti Specials,Egg Afghani [4 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",333.0
+Surti Specials,Egg Lawa [4 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",364.5
+Surti Specials,Egg Maharaja [4 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",441.0
+Surti Specials,Egg Malai Angoor Rabdi [5 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",391.5
+Surti Specials,Egg Patudi Gravy [5 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",364.5
+Surti Specials,Egg Sunflower [5 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",468.0
+Surti Specials,Egg Bhakarwadi [5 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",468.0
+Surti Specials,Egg Malai Kofta [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",243.0
+Surti Specials,Egg Pataudi Gravy [5 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",364.5
+Surti Fry,Egg Sadi Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",72.0
+Surti Fry,Egg Garlic Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",144.0
+Surti Fry,Egg Masala Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",198.0
+Surti Fry,Egg Tomato Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",144.0
+Surti Fry,Egg Goti Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",144.0
+Surti Fry,Egg Lemon Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",198.0
+Surti Fry,Egg Australian Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Fry,Egg Russian Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Fry,Egg Chicken Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Fry,Egg Ghari Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Fry,Egg Mexican Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Fry,Egg Bengali Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Fry,Egg Green Fry Gravy [3 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",279.0
+Surti Fry,Egg Toofani Fry [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",207.0
+Surti Fry,Egg Triple Fry [4 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",360.0
+Chef Special Egg Rice,Egg Jeera Rice,0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",108.0
+Chef Special Egg Rice,Egg Schezwan Rice [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",180.0
+Chef Special Egg Rice,Egg Fried Rice [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",180.0
+Chef Special Egg Rice,Egg Pulao [3 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",198.0
+Chef Special Egg Rice,Egg Biryani [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",180.0
+Chef Special Egg Rice,Egg Gravy Pulao [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",198.0
+Chef Special Egg Rice,Egg Bhurji Pulao [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",225.0
+Chef Special Egg Rice,Egg Creamy Pulao [2 Eggs],0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",243.0
+Breads,2 Pav,0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",18.0
+Breads,4 Pav,0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",31.5
+Breads,8 Pav,0,0,"Eggs prepared in a delicious and flavorful gravy, perfect for a hearty breakfast ... read more",54.0
+Accompaniments,Lehsuni Chutney,1,0,A spicy and flavorful chutney made with fresh green garlic and green chillies. ... read more,54.0
+Accompaniments,Tomato Chutney,1,0,"Short, catchy, a tangy, sweet and spicy tomato chutney that goes well with ... read more",54.0
+Accompaniments,Goti Chutney,1,0,Goti chutney is a popular street food dish originating from the state of ... read more,90.0
+Combos [Serves 4],Combo 1,0,0,Cheese Dry Kofta [2 Eggs]+Kolhapuri Gotalo [2 Eggs]+Egg Patra [4 Eggs]+Bengali Fry [2 ... read more,899.1
+Combos [Serves 4],Combo 2,0,0,Masala Cheese Boil Fry [2 Eggs]+Laziz Kachu [2 Eggs]+Special Tikhari [4 Eggs]+Cheese Tikka ... read more,899.1
+Combos [Serves 4],Combo 3,0,0,Green Cheese Boiled [2 Eggs]+Kheema Lahori [3 Eggs]+Australian Fry [2 Eggs]+Special Tikhari [6 ... read more,899.1
+Combos [Serves 4],Combo 4,0,0,Masala Boil Fry [2 Eggs]+Gotala [2 Eggs]+Egg Ravaiya [2 Eggs]+Egg Lahori [4 Eggs]+16 ... read more,899.1

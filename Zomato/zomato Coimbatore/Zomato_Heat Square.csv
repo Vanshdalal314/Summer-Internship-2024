@@ -1,0 +1,51 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chicken / Veg Combo,Big Boys Chicken Combo,0,0,8 pc Chicken Wings + 8 Chicken Strips + 2 Dip,812.0
+Chicken / Veg Combo,Family Chicken Combo,0,0,4 pc Hot & Cripsy Chicken + 10 pc Chicken wings + Regular ... read more,1062.0
+Chicken / Veg Combo,Kids Chicken Combo,0,0,5 pc Chicken Wings + Regular Popcorn + 1 Dip,374.0
+Chicken / Veg Combo,Kids Chicken Combo 2,0,0,Regular Popcorn + 2 pc Hot Blaze Chicken Burger + 1 Dip,374.0
+Chicken / Veg Combo,Kings Chicken Combo,0,0,4 pc Hot & Crispy Chicken + 4 pc Grill Chicken Leg + ... read more,1186.0
+Chicken / Veg Combo,Solo Chicken Combo,0,0,2 pc Hot & Crispy Chicken + 4 pc Chicken Wings + Coke ... read more,499.0
+Chicken / Veg Combo,Solo Chicken Combo 2,0,0,4 pc Chicken Wings + 1 Pc Zesty Chicken Burger + Coke Medium ... read more,499.0
+Crispy Popcorn,Chicken Popcorn Large,0,0,Bite sized crispy chicken popcorn,249.0
+Crispy Popcorn,Chicken Popcorn Regular,0,0,Bite sized crispy chicken popcorn,124.0
+Crispy Chicken,1 Pc Crispy Chicken Big,0,0,1 Pc Hot &Crispy Chicken Big,124.0
+Crispy Chicken,1 Pc Crispy Chicken Leg,0,0,1 Pc Hot & Crispy Chicken Leg,124.0
+Crispy Chicken,12 Pc Crispy Chicken Strips,0,0,12 pc Chicken Strips,662.0
+Crispy Chicken,16 Pc Crispy Chicken Wings,0,0,16 pc Chicken Wings,662.0
+Crispy Chicken,2 Pc Crispy Chicken Big,0,0,2 Pc Hot & Crispy Chicken Big,224.0
+Crispy Chicken,2 Pc Crispy Chicken Leg,0,0,2 Pc Hot & Crispy Chicken Leg,224.0
+Crispy Chicken,3 Pc Crispy Chicken Strips,0,0,3 pc Chicken Strips,174.0
+Crispy Chicken,4 Pc Crispy Chicken Wings,0,0,4 pc Chicken Wings,174.0
+Crispy Chicken,8 Pc Crispy Chicken Big,0,0,8 Pc Hot & Crispy Chicken Big,873.0
+Crispy Chicken,8 Pc Crispy Chicken Leg,0,0,8 Pc Hot & Crispy Chicken Leg,874.0
+Crispy Chicken,Coke + Chicken Leg,0,0,,124.0
+Wild Saucy Wings,12 Pc Sweet Tangy Wild Saucy Wings,0,0,12 pc Chicken wild saucy wings in sweet & tangy flavour,562.0
+Wild Saucy Wings,2 Pc Sweet Tangy Wild Saucy Wings,0,0,2 pc Chicken wild saucy wings in sweet & tangy flavour,112.0
+Smoky Chicken,2 Pc Smoky Grill Chicken Leg,0,0,2 pc Smoky Grill Chicken Leg,212.0
+Smoky Chicken,4 Pc Smoky Grill Chicken Wings,0,0,4 pc Smoky Grill Chicken wings,174.0
+Smoky Chicken,8 Pc Smoky Grill Chicken Leg,0,0,8 pc Smoky Grill Chicken Leg,812.0
+French Fries,French Fries Medium,0,0,Medium French Fries,99.0
+French Fries,French Fries Regular,0,0,Regular French Fries,86.0
+French Fries,Peri Peri French Fries,0,0,Peri Peri Fries,124.0
+Snacks,Chicken Fries,0,0,,149.0
+Snacks,Chicken Nuggets,0,0,,112.0
+Snacks,Veg Cheese Nuggets,0,0,,99.0
+Snacks,Veg Samosa,0,0,,74.0
+Thanders,Blue Lagoon Mojito,0,0,Refreshing blue lagoon mojito,124.0
+Thanders,Green Apple Mojito,0,0,Refreshing green apple mojito,112.0
+Thanders,Mint Mojito,0,0,Refreshing mint mojito,112.0
+Cold Beverages,Coke Medium,0,0,Medium Coke,99.0
+Cold Beverages,Coke Regular,0,0,Regular Coke,86.0
+Cold Beverages,Fanta Medium,0,0,Medium Fanta,99.0
+Cold Beverages,Fanta Regular,0,0,Regular Fanta,86.0
+Cold Beverages,Kinley 750Ml,0,0,,30.0
+Cold Beverages,Sprite Medium,0,0,Medium Sprite,99.0
+Cold Beverages,Sprite Regular,0,0,Regular Sprite,86.0
+Dips,Hot Mayo Dip,0,0,,38.0
+Dips,Mayo Dip,0,0,,38.0
+Dips,Mexican Mayo Dip,0,0,,38.0
+Dips,Tangy Mayo Dip,0,0,,38.0
+Extras,Beverage Container 500Ml,0,0,,12.0
+Extras,Cheese Slice,0,0,,30.0
+Extras,Extra Seasoning,0,0,,25.0
+Extras,Shake Container 300Ml,0,0,,12.0

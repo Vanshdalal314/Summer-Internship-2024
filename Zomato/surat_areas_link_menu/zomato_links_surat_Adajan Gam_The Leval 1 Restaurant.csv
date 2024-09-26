@@ -1,0 +1,75 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chinese,Manchurian Dry,1,0,,140.0
+Chinese,Schezwan Manchurian Dry,1,0,,160.0
+Chinese,Schezwan Manchurian Gravy,1,0,,160.0
+Chinese,Green Manchurian,1,0,,160.0
+Chinese,Peri Peri Manchurian,1,0,,160.0
+Chinese,Chinese Bhel,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",150.0
+Chinese,Singapore Bhel,1,0,,170.0
+Chinese,Taiwan Bhel,1,0,,190.0
+Chinese,Paneer Chilli,1,0,,220.0
+Chinese,Paneer Manchurian,1,0,,220.0
+Chinese,Paneer Shanghai,1,0,,275.0
+Chinese,Peri Peri Paneer Dry,1,0,,275.0
+Chinese,Schezwan Paneer Dry,1,0,,275.0
+Pav Bhaji and Pulao,Jain Butter Cheese Pav Bhaji,1,0,,220.0
+Pav Bhaji and Pulao,Green Pav Bhaji,1,0,,240.0
+Pav Bhaji and Pulao,Special Gotala Pav Bhaji,1,0,,250.0
+Pav Bhaji and Pulao,Masala Pav,1,0,,180.0
+Pav Bhaji and Pulao,Pulao,1,0,,180.0
+Starters,Sizzling Potato,1,0,,190.0
+Starters,Chilli Potato,1,0,,150.0
+Starters,Honey Chilli Potato,1,0,,190.0
+Starters,Corn Crispy,1,0,,190.0
+Starters,Veg Crispy,1,0,,190.0
+Starters,Veg 65,1,0,,190.0
+Starters,Baby Corn Pepper Salt,1,0,,210.0
+Starters,Mushroom Chilli,1,0,,250.0
+Starters,Mushroom Pepper Salt,1,0,,310.0
+Starters,Peri Peri Mushroom Fry,1,0,,280.0
+Starters,Paneer Exotic,1,0,,300.0
+Starters,Sizzling Paneer,1,0,,290.0
+Starters,Paneer Butter Garlic,1,0,,290.0
+Starters,Paneer Pepper Salt,1,0,,290.0
+Starters,Paneer Mongolian,1,0,,290.0
+Soups,Veg Manchow Soup,1,0,,155.0
+Soups,Veg Hot and Sour Soup,1,0,,155.0
+Soups,Lemon Coriander Soup,1,0,,125.0
+Soups,Burn Garlic Soup,1,0,,180.0
+Soups,Onion Cheese Soup,1,0,,195.0
+Soups,Broccoli Almond Soup,1,0,,230.0
+Soups,Veg Sweet Corn Soup,1,0,,190.0
+Soups,Veg Clear Soup,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",125.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",150.0
+Fried Rice and Noodles,Singapuri Rice,1,0,,175.0
+Fried Rice and Noodles,Schezwan Rice,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",175.0
+Fried Rice and Noodles,Masti Rice,1,0,,175.0
+Fried Rice and Noodles,Khasa Rice,1,0,,200.0
+Fried Rice and Noodles,Butter Garlic Rice,1,0,,210.0
+Fried Rice and Noodles,Mushroom Fried Rice,1,0,,210.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,210.0
+Fried Rice and Noodles,Basil Rice,1,0,,275.0
+Fried Rice and Noodles,Veg Triple Fried Rice,1,0,,290.0
+Fried Rice and Noodles,Schezwan Triple Fried Rice,1,0,,300.0
+Fried Rice and Noodles,Cheese Blast Rice,1,0,,360.0
+Fried Rice and Noodles,Paneer Triple Fried Rice,1,0,,340.0
+Fried Rice and Noodles,Mushroom Triple Fried Rice,1,0,,350.0
+Fried Rice and Noodles,Veg Cheese Triple Fried Rice,1,0,,350.0
+Fried Rice and Noodles,Elbow Macaroni Rice,1,0,,260.0
+Fried Rice and Noodles,Spinach Chilli Rice,1,0,,210.0
+Fried Rice and Noodles,Spinach Corn Rice,1,0,,160.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",175.0
+Fried Rice and Noodles,Leval 1 Special Rice,1,0,,375.0
+Fried Rice and Noodles,Korean Rice,1,0,,435.0
+Fried Rice and Noodles,Hakka Noodles,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",140.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",175.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,190.0
+Fried Rice and Noodles,Chinese Noodles,1,0,,200.0
+Fried Rice and Noodles,Hong Kong Noodles,1,0,,190.0
+Fried Rice and Noodles,American Chopsuey,1,0,,210.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,250.0
+Fried Rice and Noodles,Mushroom Noodles,1,0,,225.0
+Fried Rice and Noodles,Exotic Noodles,1,0,,225.0
+Roll,Veg Cheese Roll,1,0,,210.0
+Snacks,French Fries,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",75.0
+Snacks,Paneer Stick,1,0,,250.0

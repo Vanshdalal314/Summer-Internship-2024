@@ -1,0 +1,74 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Veg Cheese Pizza [8 inches],1,0,"A delightful pizza topped with a flavorful combination of melted cheese, fresh veggies, ... read more",168.0
+Pizza,Only Cheese Pizza [8 inches],1,0,A delicious pizza with a generous amount of cheese. This pizza is a ... read more,176.0
+Pizza,Paneer Tandoori Pizza [8 inches],1,0,"A delectable dish with an aromatic blend of Indian spices,paneer and cheese, cooked ... read more",200.0
+Pizza,Italian Cheese Pizza [8 inches],1,0,A delightful Italian dish made with a generous topping of mozzarella cheese and ... read more,216.0
+Pizza,Kanha Special Kaju Pizza [8 inches],1,0,"A delectable and classic combination of veggies and luscious chunks of cashews, ... read more",232.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,A wholesome and delicious burger filled with a flavorful mix of cheese and ... read more,80.0
+Burgers and Sandwiches,Paneer Tandoori Burger,1,0,"A delicious veg burger with a spicy twist, served with coated paneer, cheese ... read more",96.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,"A classic sandwich with a rich and buttery bread, soft and delicious butter ... read more",40.0
+Burgers and Sandwiches,Veg Sandwich,1,0,"A delicious and nutritious sandwich made with vegetables and a variety of spices, ... read more",64.0
+Burgers and Sandwiches,Only Bread Butter Cheese Sandwich,1,0,"A delicious bread sandwich filled with a layer of creamy, tangy butter cheese. ... read more",72.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,A flavourful vegetarian sandwich filled with melted cheese and crisp vegetables.,84.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,A delicious and creamy sandwich with a melty layer of cheese and crisp ... read more,152.0
+Burgers and Sandwiches,Paneer Tandoori Grilled Sandwich,1,0,"A delectable vegetarian sandwich with grilled paneer slices, crunchy vegetables and a spicy ... read more",168.0
+Burgers and Sandwiches,Matka Grilled Sandwich,1,0,"A scrumptious grilled sandwich with a delicious combination of vegetables, cheese and a ... read more",176.0
+Burgers and Sandwiches,Rim Zim Grilled Sandwich,1,0,"A light and airy sandwich filled with fresh and crunchy vegetables, a rich ... read more",200.0
+Burgers and Sandwiches,Kanha Special Bahubali Grilled Sandwich,1,0,"An indulgent, wholesome sandwich made with grilled vegetables and spices. It is a ... read more",208.0
+Chinese,Manchow Soup,1,0,A yummy soup made with vegetables and tangy sauces. A perfect starter for ... read more,88.0
+Chinese,Hot and Sour Soup,1,0,A soup with flavoured of tangy vegetables and spices.,88.0
+Chinese,Dry Manchurian,1,0,"A popular food, which had crispiness in every bite with taste of sweet ... read more",128.0
+Chinese,Gravy Manchurian,1,0,"A tangy and spicy veg snack with crunchy goodness of manchurian, noodles and ... read more",128.0
+Chinese,Chinese Bhel,1,0,"A tangy and spicy veg snack with crunchy goodness of manchurian, noodles and ... read more",128.0
+Chinese,Bombay Bhel,1,0,"A delightful combination of crispy fried noodles and fresh vegetables, garnished with a ... read more",136.0
+Chinese,Schezwan Manchurian,1,0,Schezwan manchurian is a Chinese dish that is a variation of the popular ... read more,168.0
+Chinese,Paneer Chilli,1,0,A sizzling dish of paneer coated in crispy way and sauteed in a ... read more,184.0
+Chinese,Paneer Manchurian Dry,1,0,"A popular Chinese dish made with paneer cubes, deep fried and tossed in ... read more",184.0
+Chinese,Cheese Paneer Chilli,1,0,"A delicious combination of paneer and cheese with a spicy twist, this dish ... read more",216.0
+Chinese,Hakka Noodles,1,0,"Our Hakka noodles are prepared with a variety of fresh vegetables and noodles, ... read more",128.0
+Chinese,Manchurian Noodles,1,0,"A classic Chinese dish made with crispy, fried manchurian balls served with a ... read more",152.0
+Chinese,Schezwan Noodles,1,0,"A flavourful bowl of noodles tossed in a spicy, aromatic Schezawan sauce, perfect ... read more",168.0
+Chinese,Paneer Noodles,1,0,A delicious and light meal that will fill your stomach and leave you ... read more,184.0
+Chinese,Fried Rice,1,0,,128.0
+Chinese,Manchurian Fried Rice,1,0,Crisp fried rice with a spicy manchurian inspired sauce and a hint of ... read more,152.0
+Chinese,Paneer Fried Rice,1,0,"A wholesome dish with a generous amount of paneer, vegetables, and spices that ... read more",176.0
+Chinese,Triple Fried Rice,1,0,"A flavorful and filling rice dish, perfect for a hearty meal. Manchurian rice ... read more",192.0
+Chinese,Pizza Fried Rice,1,0,"A delicious rice dish with a medley of vegetables and spices, topped with ... read more",216.0
+Chinese,Pizza Pahadi Fried Rice,1,0,"A flavourful, delicious and crispy fried rice dish with a hint of Indian ... read more",216.0
+Pav Bhaji and Pulao,Pav Bhaji,1,0,4 Pav+Bhaji [450 ml]+Salad [Subject to Availability],136.0
+Pav Bhaji and Pulao,Butter Pav Bhaji,1,0,4 Butter Pav+Butter Bhaji [450 ml]+Salad [Subject to Availability],152.0
+Pav Bhaji and Pulao,Cheese Pav Bhaji,1,0,4 Pav+Cheese Bhaji [450 ml]+Salad [Subject to Availability],176.0
+Pav Bhaji and Pulao,Cheese Paneer Pav Bhaji,1,0,4 Pav+Cheese Paneer Bhaji [450 ml]+Salad [Subject to Availability],200.0
+Pav Bhaji and Pulao,Tawa Pulao,1,0,A flavorful and aromatic dish of basmati rice cooked with a variety of ... read more,144.0
+Pav Bhaji and Pulao,Cheese Tawa Pulao,1,0,"A delicious dish made with basmati rice and cheese cubes, flavoured with aromatic ... read more",168.0
+Pav Bhaji and Pulao,Kashmiri Pulao,1,0,A flavorful rice dish made with aromatic spices and fragrant saffron. Enjoy the ... read more,176.0
+Pav Bhaji and Pulao,Cheese Paneer Pulao,1,0,"A wholesome dish that is a medley of cheese, paneer and rice, flavoured ... read more",192.0
+Open Toast,Open Cheese Toast,1,0,,104.0
+Open Toast,Cheese Chilli Toast,1,0,,104.0
+Open Toast,Corn Cheese Toast,1,0,,120.0
+Open Toast,Schezwan Cheese Toast,1,0,,120.0
+Maggi,Plain Maggi,1,0,,56.0
+Maggi,Double Masala Maggi,1,0,,64.0
+Maggi,Peri Peri Maggi,1,0,,72.0
+Maggi,Cheese Maggi,1,0,,80.0
+Maggi,Cocktail Maggi,1,0,,88.0
+Vada Pav,Grilled Vada Pav,1,0,"A crispy, crunchy snack that is filled with mashed potato patties and served ... read more",32.0
+Vada Pav,Cheese Grilled Vada Pav,1,0,"A crispy, spicy, and savory snack that combines the flavors of cheese and ... read more",48.0
+Vada Pav,Mayo Cheese Grilled Vada Pav,1,0,"A crispy, spicy, and delicious vada pav with a generous helping of mayonnaise ... read more",52.0
+Biscuit Pie,Biscuit Pie,1,0,"A delicious and indulgent treat, Biscuit pie is a tangy pie made with ... read more",136.0
+Garlic Bread,Cheese Garlic Bread,1,0,"A delicious and aromatic bread roll stuffed with melted cheese and garlic sauce, ... read more",128.0
+Garlic Bread,Sweet Corn Garlic Bread,1,0,"A delectable fusion of sweet corn and garlic, baked to perfection in a ... read more",136.0
+Garlic Bread,Pizza Garlic Bread,1,0,"A delicious garlic bread with a twist of pizza and herbs, served with ... read more",144.0
+Momos,Mixed Veg Steamed Momos [6 Pieces],1,0,A delicious mix of mixed vegetables stuffed in a soft and flavorful steamed ... read more,120.0
+Momos,Mixed Veg Fried Momos [6 Pieces],1,0,A delectable and spicy dish made with a combination of mixed vegetables and ... read more,120.0
+Momos,Cheese Paneer Steamed Momos [6 Pieces],1,0,"A delectable and creamy delight, Cheese paneer momos are the perfect party starter. ... read more",136.0
+Momos,Cheese Paneer Fried Momos [6 Pieces],1,0,A flavorful snack of soft and juicy momos filled with a creamy blend ... read more,136.0
+Momos,Kurkure Paneer Momos [6 Pieces],1,0,A crunchy and mouth-watering snack that is perfect for snacking with friends and ... read more,176.0
+Momos,Liquid Cheese Momos [6 Pieces],1,0,A delicious and creamy dish of steamed momos filled with a rich and ... read more,192.0
+Fries,Salted French Fries,1,0,Crispy and flavorful french fries seasoned with salt.,72.0
+Fries,Peri Peri French Fries,1,0,"Crispy French fries seasoned with Peri-Peri sauce, a blend of spices with a ... read more",88.0
+Fries,Cheese French Fries,1,0,Crispy fries with a generous topping of creamy melted cheese. The perfect side ... read more,112.0
+Bhel,Solid Masti Bhel,1,0,"A crispy, crunchy, and flavorful snack made with puffed rice, sweet and tangy ... read more",72.0
+Bhel,Kurkure Cheese Bhel,1,0,"A flavourful and crunchy snack made with kurkure, mixed vegetables and cheese. A ... read more",72.0
+Drinks (Beverages),Fruit Salad [250 ml],1,0,,64.0
+Drinks (Beverages),Cold Coffee,1,0,A refreshing blend of coffee and ice cream that will keep you cool ... read more,88.0

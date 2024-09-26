@@ -1,0 +1,136 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dhokla,Garlic Dhokla,1,0,Our special signature dish that is a traditional Indian soft and spongy delicacy ... read more,100.0
+Dhokla,Jain Dhokla,1,0,[Chef's Special],100.0
+Dhokla,Khatta Mitha Dhokla,1,0,,100.0
+Dhokla,Jeera Dhokla,1,0,"Variation of corn dhokla with cumin seeds, served with green chutney and green ... read more",110.0
+Dhokla,Butter Dhokla,1,0,Butter dhokla.,115.0
+Dhokla,Mayonnaise Dhokla,1,0,,115.0
+Dhokla,Cheese Butter Dhokla,1,0,[Chef's Special],130.0
+Dhokla,Schezwan Tawa Dhokla,1,0,Pan fried and spicy fusion that combines the flavours of Chinese cuisine and ... read more,130.0
+Dhokla,Italian Dhokla,1,0,"A creative cheese blend that combines corn dhokla with Italian herbs and spices, ... read more",130.0
+Dhokla,Green Garlic Dhokla,1,0,"Pan fried corn dhokla coated with garlic and spinach gravy, served with green ... read more",135.0
+Dhokla,Schezwan Mayo Tawa Dhokla,1,0,,145.0
+Dhokla,Cheese Schezwan Tawa Dhokla,1,0,,155.0
+"Khaman, Idada and Samosa",Plain Live Khaman,1,0,,80.0
+"Khaman, Idada and Samosa",Oil Masala Khaman,1,0,"Groundnut oil poured over steamed khaman, adding extra flavours and spices, garnished with ... read more",90.0
+"Khaman, Idada and Samosa",Vagharela Khaman,1,0,"Khaman tempered with mustard seeds, cumin seeds, curry leaves and green chillies, often ... read more",90.0
+"Khaman, Idada and Samosa",Tam Tam Khaman,1,0,"Khaman coated with seasoned mixture, adds layers of taste and extra crunch, garnished ... read more",120.0
+"Khaman, Idada and Samosa",Green Tadka Khaman,1,0,"Spinach and chilli tempering which adds burst flavours in khaman, served with green ... read more",120.0
+"Khaman, Idada and Samosa",Dahi Tam Tam Khaman,1,0,,130.0
+"Khaman, Idada and Samosa",Kacha Samosa,1,0,,145.0
+Patudi,Pataudi Khandvi,1,0,"A delicate roll with unique texture and savoury taste ,typically seasoned with mustard ... read more",95.0
+Starters,Manchurian Dry,1,0,A perfect Indo Chinese starter consisting deep fried vegetable balls tossed in Chinese ... read more,205.0
+Starters,Manchurian Gravy,1,0,,205.0
+Starters,Schezwan Manchurian,1,0,,225.0
+Starters,Veg Crispy [350 grams],1,0,Mix vegetable coated flour and deep fried to crisp and tossed in a ... read more,265.0
+Starters,Corn Crispy [350 grams],1,0,,260.0
+Starters,Veg 65 [350 grams],1,0,,275.0
+Starters,Veg Lollipop [350 grams],1,0,"A crunchy and flavorful, mixer of finely chopped vegetables, shaped into lollipop forms ... read more",275.0
+Starters,Dragon Potato [350 grams],1,0,,275.0
+Starters,Veg Green Ball with Cheese [350 grams],1,0,,275.0
+Starters,Paneer Manchurian [350 grams],1,0,,285.0
+Starters,Paneer Chilli Dry [350 grams],1,0,"Paneer is cubed and stir fried with colourful bell peppers, onion, ginger, garlic ... read more",285.0
+Starters,Paneer Lemon Chilli Dry [350 grams],1,0,,285.0
+Starters,Paneer Red Cook [350 grams],1,0,"Tossing deep fried cottage cheese cubes and vegetable in spicy and tangy schezwan, ... read more",285.0
+Starters,Veg Biscuit [350 grams],1,0,Crunchy biscuits made with smashed vegetables served with gravy made from fresh green ... read more,285.0
+Starters,Paneer Mongolian [350 grams],1,0,,295.0
+Starters,Paneer Shanghai [350 grams],1,0,,305.0
+Starters,Mushroom Chilli [350 grams],1,0,,305.0
+Main Course,Aloo Matar Dry,1,0,,175.0
+Main Course,Lasaniya Bataka Dry,1,0,,175.0
+Main Course,"Jeera Aloo Dry [Serves 3, 300 grams]",1,0,,175.0
+Main Course,Dal Fry,1,0,,185.0
+Main Course,Dal Tadka,1,0,,205.0
+Main Course,Chana Masala Red,1,0,,205.0
+Main Course,Veg Zafrani Brown,1,0,,220.0
+Main Course,Veg Hyderabadi Green,1,0,,220.0
+Main Course,Veg Kolhapuri Red,1,0,,220.0
+Main Course,Veg Makhanwala Red,1,0,,220.0
+Main Course,Veg Toofani Red,1,0,,220.0
+Main Course,Veg Chatpata Red,1,0,"A  perfect balance of tanginess and spiciness, dish made with a variety of ... read more",220.0
+Main Course,Veg Kadhai Green,1,0,,220.0
+Main Course,Veg Handi Brown,1,0,,220.0
+Main Course,Veg Tawa Red,1,0,,220.0
+Main Course,Veg Lahori Green,1,0,,220.0
+Main Course,Veg Keema Masala Brown,1,0,,230.0
+Main Course,Veg Navratan Korma Sweet,1,0,,230.0
+Main Course,Veg Shahi Tikka Mild Green,1,0,"Mixture of vegetables, grated paneer, spices and shahi spinach gravy, creating a dish ... read more",230.0
+Main Course,Veg Diwani Handi Green,1,0,,335.0
+Main Course,Mushroom Masala Brown,1,0,,335.0
+Main Course,Paneer Butter Masala Red,1,0,"Paneer cooked in spicy tomato based gravy, enriched with butter and cream, resulting ... read more",205.0
+Main Course,Paneer Tikka Masala Red,1,0,"Cubes of grilled paneer cooked in creamy and flavorful tomato based gravy, creating ... read more",205.0
+Main Course,Paneer Achari Red,1,0,,240.0
+Main Course,Palak Paneer Green,1,0,,225.0
+Main Course,Paneer Lakhnavi Brown,1,0,,225.0
+Main Course,Paneer Lahori Green,1,0,,225.0
+Main Course,Paneer Lababdar Brown,1,0,Finger piece paneer typically cooked in a rich and creamy tomato based gravy ... read more,225.0
+Main Course,Paneer Toofani Red,1,0,"A bold and spicy paneer dish made with robust and fiery gravy, cooked ... read more",225.0
+Main Course,Paneer Tawa Red,1,0,,225.0
+Main Course,Paneer Kadhai Green,1,0,,225.0
+Main Course,"Handi Paneer [Serves 2, 500 grams]",1,0,,225.0
+Main Course,Paneer Lehsuniya Brown,1,0,,240.0
+Main Course,Paneer Mirchi Masala Brown,1,0,,240.0
+Main Course,Shahi Paneer Mild Green,1,0,"A dish with silky texture, delicate flavors and royal presentation made with paneer ... read more",240.0
+Main Course,Paneer Chatpata Red,1,0,"Tender cubes of paneer are cooked in a flavorful and aromatic spicy gravy, ... read more",240.0
+Main Course,Paneer Corn Masala Brown,1,0,,250.0
+Main Course,Paneer Bhurji Yellow,1,0,,250.0
+Main Course,Paneer Peas Bhurji Yellow,1,0,,250.0
+Main Course,Paneer Jaffrani Brown,1,0,"Paneer cube typically simmered in a creamy sauce and blend of aromatic spices, ... read more",250.0
+Main Course,Paneer Pasanda Red & Green,1,0,,360.0
+Main Course,Paneer Patiala Brown,1,0,,360.0
+Main Course,Paneer Afghani Red & Yellow,1,0,,275.0
+Main Course,Cheese Butter Masala Brown,1,0,,390.0
+Main Course,Paneer Cheese Butter Masala Red,1,0,"Paneer cooked in creamy and flavorful gravy, enriched with butter and grated cheese, ... read more",390.0
+Main Course,Cheese Begum Bahar Brown,1,0,,390.0
+Main Course,Cheese Angoori Brown,1,0,,390.0
+Main Course,Radhe Special Red & Green,1,0,,400.0
+Main Course,Kaju Curry Brown,1,0,,255.0
+Main Course,Kaju Masala Red,1,0,,255.0
+Main Course,Kaju Kadai Mild Green,1,0,,255.0
+Main Course,Kaju Khoya Yellow & Sweet,1,0,,290.0
+Main Course,Kaju Paneer Masala Red,1,0,,290.0
+Main Course,Veg Kofta Red,1,0,,330.0
+Main Course,Paneer Kofta Brown,1,0,A delightful paneer dish made with soft and creamy cottage cheese dumplings that ... read more,330.0
+Main Course,Spinach Kofta Green,1,0,A delicious vegetable dish made with spinach and paneer dumplings that deep fried ... read more,330.0
+Main Course,Malai Kofta Sweet & Yellow,1,0,,360.0
+Main Course,Nargisi Kofta Red Green,1,0,,360.0
+Main Course,Kaju Kofta Brown,1,0,,380.0
+Main Course,Cheese Kofta Red,1,0,,380.0
+"Chinese Rice, Noodles and Bhel",Veg Fried Rice,1,0,Cooked rice stir fried in a wok with vegetables along with seasoning and ... read more,225.0
+"Chinese Rice, Noodles and Bhel",Schezwan Fried Rice,1,0,,235.0
+"Chinese Rice, Noodles and Bhel",Lemon Fried Rice,1,0,A delicious and aromatic dish made by stir frying cooked rice with fresh ... read more,235.0
+"Chinese Rice, Noodles and Bhel",Singapuri Fried Rice,1,0,,235.0
+"Chinese Rice, Noodles and Bhel",American Corn Fried Rice,1,0,"A delightful blend of aromatic rice, assorted vegetables and sweet corn resulting a ... read more",235.0
+"Chinese Rice, Noodles and Bhel",Hong Kong Fried Rice,1,0,A delightfully flavorful combo with mouthwatering hong kong gravy; served along with aromatic ... read more,245.0
+"Chinese Rice, Noodles and Bhel",Combination Fried Rice,1,0,"[Veg preparation] Dish combines fried rice with stir fried noodles, typically seasoned with ... read more",245.0
+"Chinese Rice, Noodles and Bhel",Triple Fried Rice,1,0,Rice stir fried three times with assorted vegetables and seasoning to achieve crispy ... read more,285.0
+"Chinese Rice, Noodles and Bhel",Veg Noodles,1,0,,165.0
+"Chinese Rice, Noodles and Bhel",Hakka Noodles,1,0,"Stir fried Indo Chinese noodles tossed with capsicum, onion and cabbage, delivering a ... read more",225.0
+"Chinese Rice, Noodles and Bhel",Schezwan Noodles,1,0,,245.0
+"Chinese Rice, Noodles and Bhel",Singapuri Noodles,1,0,,245.0
+"Chinese Rice, Noodles and Bhel",Hong Kong Noodles,1,0,"Cantonese dish characterised by thin, crispy noodles stir fried with a savoury Hong ... read more",245.0
+"Chinese Rice, Noodles and Bhel",Chilli Garlic Noodles,1,0,Stir frying cooked noodles with combination of garlic and chili peppers to create ... read more,255.0
+"Chinese Rice, Noodles and Bhel",American Chopsuey,1,0,,255.0
+"Chinese Rice, Noodles and Bhel",Chinese Bhel,1,0,"Combination of noodles, steamed rice and manchurian balls with vegetables and sauce, a ... read more",225.0
+"Chinese Rice, Noodles and Bhel",Bombay Bhel,1,0,A tangy and spicy mixture of crispy fried noodles along with finely chopped ... read more,225.0
+Rice and Biryani,Jeera Rice,1,0,Frangrant rice dish tempered with lots of aromatic cumin seeds.,185.0
+Rice and Biryani,Tawa Pulao,1,0,"Pulao made on a large flat iron griddle / tawa ,creating slightly charred ... read more",195.0
+Rice and Biryani,Sweet Kashmiri Pulao,1,0,"Rice is cooked with blend of spices, rich fruits, dried nuts and some ... read more",220.0
+Rice and Biryani,Veg Pulao,1,0,"A flavourful Indian rice dish made aromatic basmati rice, mixed vegetables, grated paneer ... read more",225.0
+Rice and Biryani,Cheese Pulao,1,0,"A  delicious variation of pulao , mixed with melted cheese creating a creamy ... read more",235.0
+Rice and Biryani,Dal Khichdi,1,0,,245.0
+Rice and Biryani,Radhe Special Pulao,1,0,Served with garlic chutney.,265.0
+Rice and Biryani,Veg Biryani,1,0,"A flavourful and aromatic rice dish made with pre-cooked basmati rice ,mixed vegetables ... read more",235.0
+Rice and Biryani,Hyderabadi Biryani,1,0,"A traditional delicacy of Hyderabad made with pre-cooked basmati rice ,paneer cubes ,nuts ... read more",250.0
+Rice and Biryani,Handi Biryani,1,0,,265.0
+Rice and Biryani,Special Dum Biryani,1,0,"Paneer cubes ,cashew  and vegetables are layered with partially cooked rice ,aromatic spices ... read more",275.0
+Soups,Tomato Soup,1,0,A Simpletomato Soup W/ Fresh Mint.corriander Served W/ Crunchy Croutons,155.0
+Soups,Veg Clear Soup,1,0,,155.0
+Soups,Manchow Soup,1,0,"A thick, medium spice and super delicious, made with finely chopped vegetables, garlic, ... read more",165.0
+Soups,Hot and Sour Soup [500 grams],1,0,,165.0
+Soups,Lemon Coriander Soup,1,0,Tangy and herby taste contains a strong flavour of lime juice and minced ... read more,175.0
+Soups,Chinese Herbal Soup,1,0,,175.0
+Soups,Corn Shorba,1,0,,185.0
+Soups,Mushroom Soup,1,0,Creamy and delicious soup prepared with earthy mushroomz,185.0
+Dessert and Beverage,Gulab Jamun [1 Piece],1,0,,15.0
+Dessert and Beverage,Buttermilk,1,0,,20.0

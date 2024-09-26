@@ -1,0 +1,10 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,Idli [2 Pieces],1,0,Served with sambar.,50.0
+South Indian,Dal Vada [2 Vada],1,0,Served with sambar.,50.0
+South Indian,Medu Vada [2 Vada],1,0,,50.0
+South Indian,Steamed Idli,1,0,,60.0
+South Indian,Butter Idli,1,0,,80.0
+Zomato Express Meals,Idli (1 Piece) + Vada (1 Piece) + Sambhar,1,0,,50.0
+Zomato Express Meals,Idli (4 Pieces) + Sambhar,1,0,,90.0
+Zomato Express Meals,MeduVada (4 Piecces) + Sambhar,1,0,,90.0
+Zomato Express Meals,Idli (2 Pieces) + Vada (2 Pieces) + Sambhar,1,0,,90.0

@@ -1,0 +1,6 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thursday Lunch,Thursday Lunch Gujarati Thali,1,0,2 Sabji+Gujarati Dal+Rice+4 Roti+Papad+Salad [Subject to Availability],135.0
+Main Course,Gujarati Dal [200 grams],1,0,,50.0
+Main Course,Veg Sabji [200 grams],1,0,,60.0
+Bread,Roti,1,0,,10.0
+Extra Dal Rice,Dal Bhat,1,0,,80.0

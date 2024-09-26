@@ -1,0 +1,169 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Creams,Rajbhog Ice Cream,1,0,"Decadent, creamy ice cream blended with chocolate chips, delivering the perfect balance of ... read more",70.0
+Ice Creams,Rajwadi Dry Fruit Ice Cream,1,0,"Decadent, creamy ice cream blended with chocolate chips, delivering the perfect balance of ... read more",70.0
+Ice Creams,Cookies Cream Ice Cream,1,0,[Chef's Special],70.0
+Ice Creams,Pan Pasand Ice Cream,1,0,A decadent dessert that will make you fall in love with its rich ... read more,70.0
+Ice Creams,Walnut Ice Cream,1,0,"Decadent, creamy ice cream blended with chocolate chips, delivering the perfect balance of ... read more",70.0
+Ice Creams,Blackcurrant Ice Cream,1,0,[Chef's Special],70.0
+Ice Creams,Sugar Free Ice Cream,1,0,Kesar and pista.,70.0
+Ice Creams,Cassata Ice Cream,1,0,,80.0
+Ice Creams,Special Vanilla Ice Cream [Party Pack],1,0,,200.0
+Ice Creams,Special Rajbhogh Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Kesar Pista Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Kaju Draksh Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Cookies Cream Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Butterscotch Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,American Dry Fruit Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Shahi Gulab Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Mava Malai Pista Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Chocolate Chips Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Walnut Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Rajwadi Dry Fruit Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Sitafal Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Mango Ice Cream [Party Pack],1,0,,300.0
+Ice Creams,Special Vanilla Ice Cream,1,0,Enjoy a kim's creamy and delicious dessert of vanilla ice cream. A kim's classic frozen dessert ... read more,45.0
+Ice Creams,Kaju Draksh Ice Cream,1,0,"Decadent, creamy ice cream blended with chocolate chips, delivering the perfect balance of ... read more",70.0
+Ice Creams,Dry Fruit Ice Cream,1,0,,70.0
+Ice Creams,Kesar Pista Ice Cream,1,0,"Decadent, creamy ice cream blended with chocolate chips, delivering the perfect balance of ... read more",70.0
+Ice Creams,Mava Malai Pista Ice Cream,1,0,"Decadent, creamy ice cream blended with chocolate chips, delivering the perfect balance of ... read more",70.0
+Ice Creams,Butterscotch Ice Cream,1,0,A creamy and velvety dessert with a rich and sweet caramel like flavor.,70.0
+Ice Creams,Chocolate Chips Ice Cream,1,0,"Melt in mouth chocolate chips in every spoon. Truly, a decadent ice cream ... read more",70.0
+Ice Creams,Special American Dry Fruit Ice Cream,1,0,An indulgent American dryfruit ice cream that has rich and creamy flavors mixture ... read more,70.0
+Ice Creams,Special Royal Rose Ice Cream,1,0,A decadent royal rose ice cream with a blend of freshly rose petals ... read more,70.0
+Ice Creams,Special Badam Cadburry Ice Cream,1,0,,70.0
+Ice Creams,Mango Malai Ice Cream,1,0,,70.0
+Ice Creams,Special Winter Cream Ice Cream,1,0,,70.0
+Ice Creams,Fresh Mango Malai Ice Cream,1,0,Fresh mango malai ice cream.,70.0
+Ice Creams,Fresh Sitafal Ice Cream,1,0,Sitafal ice cream made with freshly churned sitafal has a rich and creamy ... read more,70.0
+Ice Creams,Fresh Litchi Ice Cream,1,0,[Seasonal],70.0
+Ice Creams,Fresh Settor Ice Cream,1,0,,70.0
+Ice Creams,Fresh Jambu Ice Cream,1,0,Fresh jambu ice cream.,70.0
+Ice Creams,Fresh Strawberry Ice Cream,1,0,Fresh strawberry ice cream.,70.0
+Ice Creams,Gotala Ice Cream,1,0,,140.0
+Ice Creams,Chocolate Gotala Ice Cream,1,0,,170.0
+Ice Creams,Pizza Ice Cream,1,0,,170.0
+Ice Creams,China Town Ice Cream,1,0,,180.0
+Ice Creams,Traffic Jam Ice Cream,1,0,,250.0
+Ice Creams,Special Falooda,1,0,,130.0
+Ice Creams,Rose Falooda,1,0,"Summers best treat, rose falooda is a dessert drink with rose syrup, crunchy ... read more",130.0
+Ice Creams,Kesar Falooda,1,0,A refreshing milkshake prepared with kesar wholesome milk perfect to satisfy your cravings.,130.0
+Ice Creams,Butterscotch Falooda,1,0,"Creamy and rich in texture, butterscoth falooda has a distinctive flavor.",130.0
+Ice Creams,Chocolate Falooda,1,0,A decadent dessert that combines the rich flavors of chocolate and rose syrup ... read more,140.0
+Ice Creams,Mango Falooda,1,0,,130.0
+Ice Creams,Strawberry Falooda,1,0,"A sweet and creamy dessert made with a mixture of fresh strawberry, milk ... read more",130.0
+Ice Creams,Malai Kulfi,1,0,,20.0
+Ice Creams,Chopati Kulfi,1,0,,45.0
+Pizza,Veg Pizza [5 inches],1,0,,100.0
+Pizza,Veg Cheese Pizza [7 inches],1,0,,170.0
+Pizza,Jain Cheese Pizza [7 inches],1,0,[Jain Preparation],170.0
+Pizza,Italian Cheese Pizza [7 inches],1,0,,180.0
+Pizza,Paneer Cheese Tandoori Pizza [7 inches],1,0,"A mouthwatering pizza with a creamy paneer filling and a tangy flavor, perfect ... read more",210.0
+Pizza,Paneer Afghani Pizza [7 inches],1,0,"A delicious pizza with a twist of Afghani flavors, featuring paneer, spinach and ... read more",210.0
+Pizza,Paneer Masti Pizza [7 inches],1,0,,210.0
+Pizza,Sweet Corn Cheese Pizza [7 inches],1,0,,180.0
+Pizza,Special Pizza [7 inches],1,0,,200.0
+Burgers and Sandwiches,Veg Burger,1,0,,80.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,A flavorful burger with a creamy layer of melted cheese and a crispy ... read more,90.0
+Burgers and Sandwiches,Italian Burger,1,0,,100.0
+Burgers and Sandwiches,Mini Grilled Sandwich,1,0,,130.0
+Burgers and Sandwiches,Cheese Grilled Sandwich,1,0,"A grilled sandwich with a soft, buttery bread filled with a rich and ... read more",170.0
+Burgers and Sandwiches,Mayonnaise Cheese Grilled Sandwich,1,0,,200.0
+Burgers and Sandwiches,Paneer Coating Cheese Grilled Sandwich,1,0,,240.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,70.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,100.0
+Burgers and Sandwiches,Veg Toast Sandwich,1,0,,90.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,110.0
+Burgers and Sandwiches,Chilli Cheese Toast Sandwich,1,0,,110.0
+Burgers and Sandwiches,Special Toast Sandwich,1,0,,110.0
+Burgers and Sandwiches,Masala Toast Sandwich,1,0,,90.0
+Burgers and Sandwiches,Masala Cheese Toast Sandwich,1,0,,110.0
+Burgers and Sandwiches,Open Cheese Toast Sandwich,1,0,,70.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,40.0
+Burgers and Sandwiches,Cheese Bread Butter Sandwich,1,0,,70.0
+Burgers and Sandwiches,Bread Butter Cheese Jam Sandwich,1,0,,90.0
+Burgers and Sandwiches,Garlic Bread Sandwich,1,0,,130.0
+Snacks,Veg Cheese Hot Dog,1,0,,180.0
+Snacks,Paneer Masti Hot Dog,1,0,,130.0
+Snacks,Paneer Tandoori Hot Dog,1,0,,130.0
+Snacks,Afghani Paneer Hot Dog,1,0,,130.0
+Snacks,Sweet Corn Kulcha,1,0,,220.0
+Snacks,Pizza Kulcha,1,0,,220.0
+Snacks,Jain Kulcha,1,0,[Jain Preparation],200.0
+Snacks,Mayonnaise Kulcha,1,0,,220.0
+Snacks,Paneer Masti Kulcha,1,0,,230.0
+Snacks,Tandoori Paneer Kulcha,1,0,,230.0
+Snacks,Lover Bite Kulcha,1,0,,230.0
+Snacks,Paneer Afghani Kulcha,1,0,,230.0
+Snacks,Coatin Kulcha,1,0,,240.0
+Frankies,Plain Schezwan Mayo Frankie,1,0,,45.0
+Frankies,Cheese Schezwan Mayo Frankie,1,0,,70.0
+Frankies,Plain Paneer Schezwan Frankie,1,0,,80.0
+Coco,Special Cold Coco,1,0,Cold coco is rich and creamy texture of milk and chocolate and have ... read more,90.0
+Coco,Special Ice Cream Coco,1,0,Kaju draksh.,120.0
+Coco,Special Kaju Coco,1,0,,130.0
+Coco,Special Cadbury Coco,1,0,,120.0
+Coco,Special Malai Coco,1,0,,120.0
+Coco,Special Rajwadi Coco,1,0,,140.0
+Drinks (Beverages),Kaju Shake,1,0,,170.0
+Drinks (Beverages),Kaju Chocolate Shake,1,0,,170.0
+Drinks (Beverages),Kaju Chikoo Shake,1,0,,170.0
+Drinks (Beverages),Kaju Anjeer Shake,1,0,Kim's Kaju Anjeer milkshake is having a milky glass full of freshly grinded and ... read more,170.0
+Drinks (Beverages),Kaju Gulkand Shake,1,0,,170.0
+Drinks (Beverages),Kaju Mango Shake,1,0,A refreshing beverage with the sweet and tangy flavors of mangoes topped with ... read more,170.0
+Drinks (Beverages),Badam Gulkand Shake,1,0,,170.0
+Drinks (Beverages),Kaju Badam Anjeer Shake,1,0,"A creamy and delicious shake made with cashews, almonds and anjeers . A ... read more",170.0
+Drinks (Beverages),Kaju Badam Shake,1,0,,170.0
+Drinks (Beverages),Dry Fruit Shake,1,0,,170.0
+Drinks (Beverages),Cold Coffee,1,0,,80.0
+Drinks (Beverages),Coffee with Ice Cream,1,0,,100.0
+Drinks (Beverages),Pineapple Thick Shake,1,0,"A creamy, sweet and refreshing drink with the fruity taste of pineapple, this ... read more",100.0
+Drinks (Beverages),Vanilla Thick Shake,1,0,,100.0
+Drinks (Beverages),Shahi Gulab Thick Shake,1,0,,100.0
+Drinks (Beverages),Strawberry Thick Shake,1,0,"A refreshing drink made with real strawberries and creamy milk, topped with whipped ... read more",100.0
+Drinks (Beverages),Butterscotch Thick Shake,1,0,,100.0
+Drinks (Beverages),Blackcurrant Thick Shake,1,0,,100.0
+Drinks (Beverages),Gulab Masti Thick Shake,1,0,,100.0
+Drinks (Beverages),Chikoo Thick Shake,1,0,,100.0
+Drinks (Beverages),Mango Thick Shake,1,0,,100.0
+Drinks (Beverages),Kesar Thick Shake,1,0,,100.0
+Drinks (Beverages),Pan Pasand Thick Shake,1,0,,100.0
+Drinks (Beverages),Gulkand Thick Shake,1,0,,100.0
+Drinks (Beverages),Anjeer Thick Shake,1,0,,100.0
+Drinks (Beverages),Chocolate Thick Shake,1,0,,140.0
+Drinks (Beverages),Oreo Thick Shake,1,0,,140.0
+Drinks (Beverages),KitKat Thick Shake,1,0,,140.0
+Drinks (Beverages),Kaju Thick Shake,1,0,,140.0
+Drinks (Beverages),Kaju Mango Thick Shake,1,0,,140.0
+Drinks (Beverages),Kaju Anjeer Thickshake,1,0,A rich and creamy blend of nuts and figs thats perfect for dessert ... read more,140.0
+Drinks (Beverages),Kaju Gulkand Thick Shake,1,0,,140.0
+Drinks (Beverages),Kaju Chocolate Thick Shake,1,0,,140.0
+Drinks (Beverages),Kaju Badam Thick Shake,1,0,A thick and creamy shake with the sweet and nutty flavor of cashew ... read more,140.0
+Drinks (Beverages),Badam Anjeer Thick Shake,1,0,,140.0
+Drinks (Beverages),Kaju Badam Anjeer Thick Shake,1,0,A rich and creamy milkshake with the goodness of almonds and figs. A ... read more,140.0
+Drinks (Beverages),Brownie Thick Shake,1,0,,140.0
+Drinks (Beverages),Ferrero Rocher Thick Shake,1,0,,140.0
+Drinks (Beverages),Sitafal Thick Shake,1,0,,150.0
+Drinks (Beverages),Mosambi Juice,1,0,"A refreshing, tangy drink that is perfect for all days to settle your ... read more",90.0
+Drinks (Beverages),Pineapple Juice,1,0,"A refreshing beverage with a sweet, tangy and tropical flavor.",90.0
+Drinks (Beverages),Ganga Jamna Juice,1,0,,100.0
+Drinks (Beverages),Badam Shake,1,0,,90.0
+Drinks (Beverages),Badam Shake with Ice Cream,1,0,,110.0
+Drinks (Beverages),Kesar Pista Milkshake,1,0,,85.0
+Drinks (Beverages),Kesar Elaichi Milkshake,1,0,,85.0
+Drinks (Beverages),Rose Milkshake,1,0,,85.0
+Drinks (Beverages),Pineapple Milkshake,1,0,,85.0
+Drinks (Beverages),Pan Masala Milkshake,1,0,,85.0
+Drinks (Beverages),Butterscotch Milkshake,1,0,,85.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,85.0
+Drinks (Beverages),Vanilla Milkshake,1,0,,85.0
+Drinks (Beverages),Chikoo Milkshake,1,0,"A creamy and luscious blend of chikoo, fresh milk. And very refreshing and ... read more",100.0
+Drinks (Beverages),Mango Milkshake,1,0,A delicious and creamy blend of mangoes and milk. Perfect for all time.,100.0
+Drinks (Beverages),Chikoo Chocolate Milkshake,1,0,,100.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,100.0
+Drinks (Beverages),Gulkand Milkshake,1,0,,100.0
+Drinks (Beverages),Anjeer Milkshake,1,0,,100.0
+Drinks (Beverages),Badam Milkshake,1,0,A rich and creamy milkshake with the nutty flavor of almonds and the ... read more,120.0
+Drinks (Beverages),Lassi,1,0,,70.0
+Drinks (Beverages),Special Ice Cream Lassi,1,0,,90.0
+Drinks (Beverages),Special Rajwadi Lassi,1,0,,130.0
+Drinks (Beverages),Special Malai Lassi,1,0,,90.0

@@ -1,0 +1,110 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Breakfast Specials,.Cappuccino.,1,0,"Introducing the new small size from Starbucks - Picco Cappuccino Dark, rich espresso lies ... read more",230.0
+Breakfast Specials,.Latte.,1,0,Introducing the new small size from Starbucks - Picco Caffe Latte Energy - ... read more,235.0
+Breakfast Specials,Caffe Americano,1,0,"Rich in flavour, full-bodied espresso with hot water in true European style. Short: ... read more",230.0
+Breakfast Specials,Java Chip Frappuccino,1,0,We blend mocha sauce and Frappuccino chips with Frappuccino roast coffee and milk ... read more,305.0
+Breakfast Specials,Egg White & Chicken In Multigrain Croissant,0,0,Fluffy egg white omlette and chicken ham sandwiched in multigrain croissant. Allergen - ... read more,355.0
+Breakfast Specials,Tall Cold Coffee with Creamy Spinach & Corn Pocket,1,0,"""Meal for One! Enjoy Our rich in flavour espresso blended with delicate vanilla ... read more",530.0
+Summer Specials,Belgium Chocolate Cream Frappuccino,1,0,Blend of decadent Belgian chocolate sauce with a whipped chocolate topping. The beverage ... read more,470.0
+Summer Specials,Belgium Chocolate Frappuccino,1,0,Blend of decadent Belgian chocolate sauce and coffee with a whipped chocolate topping. ... read more,470.0
+Summer Specials,Alphonso Mango Java Chip Frappuccino,1,0,Alphonso mango and milk are blended with ice and Java Chips to a ... read more,470.0
+Summer Specials,Belgium Chocolate Latte,1,0,"Espresso with decadent Belgian chocolate sauce, mocha sauce and steamed milk. Topped with ... read more",395.0
+Summer Specials,Iced Belgium Chocolate Latte,1,0,"Espresso with decadent Belgian chocolate sauce, mocha sauce and steamed milk served over ... read more",435.0
+Summer Specials,Cold Brew with Ginger Ale,1,0,A delicious double layered cold brew beverage with ginger ale. A pure delight ... read more,375.0
+Summer Specials,Sparkling Orange Cold Brew,1,0,Our signature cold brew paired perfectly with a splash of citrusy orange. Topped ... read more,375.0
+Cold Beverages,Coffee Frappuccino,1,0,Coffee meets milk and ice in a blender and together they create one ... read more,295.0
+Cold Beverages,Mocha Frappuccino,1,0,Coffee with mocha sauce blended with milk and ice. Topped with whipped vanilla ... read more,325.0
+Cold Beverages,Java Chip Frappuccino.,1,0,We blend mocha sauce and Frappuccino chips with Frappuccino roast coffee and milk ... read more,305.0
+Cold Beverages,Vanilla Cream Frappuccino,1,0,"An indulgent blend of vanilla, milk and ice topped with whipped vanilla topping. Energy ... read more",335.0
+Cold Beverages,Espresso Frappuccino,1,0,"Coffee is combined with a shot of espresso and milk, then blended with ... read more",320.0
+Cold Beverages,Caramel Frappuccino,1,0,"A blend of coffee, sweet caramel syrup, milk and ice topped with whipped ... read more",305.0
+Cold Beverages,Strawberries & Crème Frappuccino,1,0,Strawberries and milk are blended with ice and topped with a swirl of ... read more,335.0
+Cold Beverages,White Mocha Frappuccino,1,0,"White chocolate Frappuccino is a blend of coffee, white chocolate sauce, milk and ... read more",330.0
+Cold Beverages,Caramel Java Chip Frappuccino.,1,0,"Coffee with mocha flavoured sauce blended with milk chocolaty chips, caramel syrup and ... read more",360.0
+Cold Beverages,Double Chocolate Chip Frappuccino.,1,0,"Mocha-flavoured sauce meets up with chocolaty chips, milk and ice. Top it off ... read more",350.0
+Cold Beverages,Green Tea Cream Frappuccino,1,0,"We blend sweetened premium matcha green tea, milk and ice and top it with sweetened ... read more",355.0
+Cold Beverages,Strawberry Acai Refresher,1,0,"Sweet strawberry flavours accented by acai notes, shaken with ice and strawberry pieces ... read more",290.0
+Cold Beverages,Iced Shaken Hibiscus & Passion Lemonade,1,0,"Our blend of hibiscus, lemongrass and apple is slightly sweetened and hand shaken ... read more",290.0
+Cold Beverages,Iced Signature Chocolate,1,0,Four cocoas and cold milk served over ice. Serving size (ml)/Calories (kcal) - Tall: ... read more,275.0
+Cold Beverages,Cold Coffee.,1,0,Our signature rich in flavour espresso blended with delicate vanilla flavour and milk ... read more,290.0
+Cold Beverages,Chocolate Milkshake.,1,0,Our Starbucks signature chocolate perfected for you as a smooth and delightful milkshake. ... read more,305.0
+Cold Beverages,Strawberry Milkshake,1,0,A Delicious milkshake for those with a sweet tooth and love our favourite ... read more,305.0
+Cold Beverages,Vanilla Milkshake,1,0,Your favourite Vanilla milkshake is now at Starbucks. A perfect delight for any ... read more,305.0
+Cold Beverages,Cold Brew Black,1,0,Starbucks Kenya coffee is freshly ground and then steeped for 48 hours. This ... read more,305.0
+Cold Beverages,Cold Brew Black (Cold Brew),1,0,Starbucks Kenya coffee is freshly ground and then steeped for 48 hours. This ... read more,315.0
+Cold Beverages,Vanilla Sweet Cream Cold Brew (Cold Brew),1,0,Cold brew with Vanilla Sweet Cream is made with Starbucks cold brew over ... read more,365.0
+Cold Beverages,White mocha caramel Cold Brew (Cold Brew),1,0,Our slow steeped Cold brew shaken with milk and white chocolate to strike ... read more,385.0
+Cold Beverages,Vanilla Sweet Cream Cold Brew,1,0,Cold brew with Vanilla Sweet Cream is made with Starbucks cold brew over ... read more,355.0
+Cold Beverages,White mocha caramel Cold Brew,1,0,Our slow steeped Cold brew shaken with milk and white chocolate to strike ... read more,375.0
+Cold Beverages,Iced Caffè Americano,1,0,"Espresso shots are topped with water to produce a light layer of crema, ... read more",265.0
+Cold Beverages,Iced Caffè Latte,1,0,"Our dark, rich espresso balanced with milk. Our Iced Latte turns your favourite ... read more",270.0
+Cold Beverages,Iced Caramel Macchiato,1,0,"Sweet. Creamy. And chilled to perfection. Rich espresso, milk and vanilla syrup are ... read more",345.0
+Hot Beverages,Cappuccino,1,0,"Introducing the new small size from Starbucks - Picco Cappuccino Dark, rich espresso lies ... read more",205.0
+Hot Beverages,Latte,1,0,Introducing the new small size from Starbucks - Picco Caffe Latte Energy - ... read more,210.0
+Hot Beverages,Caffe Americano,1,0,"Rich, full-bodied espresso with hot water in true European style. Energy - Nil ... read more",230.0
+Hot Beverages,Flat White,1,0,Expertly steamed milk poured over Ristretto shots of espresso and finished with a ... read more,260.0
+Hot Beverages,Hazelnut Caffe Latte,1,0,"Our dark, rich espresso balanced with Hazelnut flavoured syrup, steamed milk and a ... read more",290.0
+Hot Beverages,Vanilla Caffe Latte,1,0,"Our dark, rich espresso balanced with vanilla flavoured syrup, steamed milk and a ... read more",290.0
+Hot Beverages,White Chocolate Mocha,1,0,Our signature espresso meets white chocolate sauce and steamed milk in this white ... read more,295.0
+Hot Beverages,Caffe Mocha,1,0,"We combine our Rich in flavour, full-bodied espresso with bittersweet mocha sauce and ... read more",290.0
+Hot Beverages,Caramel Macchiato,1,0,Freshly steamed milk with vanilla-flavoured syrup is marked with espresso and topped with ... read more,310.0
+Hot Beverages,Filter Coffee,1,0,Introducing the new small size from Starbucks - Picco Filter Coffee Your favourite South ... read more,210.0
+Hot Beverages,Masala Chai,1,0,Introducing the new small size from Starbucks - Picco Masala Chai Our traditional masala ... read more,210.0
+Hot Beverages,Elaichi Chai,1,0,Introducing the new small size from Starbucks - Picco Cardamom Chai Our traditional chai ... read more,210.0
+Hot Beverages,Green Tea Latte,1,0,Smooth and creamy matcha is lightly sweetened and served with steamed milk. Energy ... read more,270.0
+Hot Beverages,Chai Tea Latte,1,0,"Black tea infused with cinnamon, clove, and other warming spices are combined with ... read more",265.0
+Hot Beverages,Signature Hot Chocolate,1,0,Introducing the new small size from Starbucks - Picco Signature Hot Chocolate Four cocoas ... read more,215.0
+Food,Bhuna Chicken Puff,0,0,A spiced & flavourful bhuna chicken filling encased in a puff pastry with ... read more,195.0
+Food,Mango Pachadi Puff,1,0,"Playful raw mango, crunchy carrots, and fresh cucumbers mixed with a South Indian ... read more",125.0
+Food,Masala Potato Puff,1,0,A savoury snack made with masala potato filling in a puff pastry. The ... read more,170.0
+Food,Smoked Salmon Croissant,0,0,"Atlantic smoked salmon, cream cheese and capers in a croissant. Contains - Milk, Wheat, ... read more",400.0
+Food,Chicken Ham & Cheese Swirl,0,0,"The comfort of chicken ham & cheese in a croissant swirl. Contains - Milk, ... read more",255.0
+Food,Classic Cinnamon Swirl,1,0,"A classic croissant based cinnamon roll. Contains - Milk, Wheat 80 g | 424 kcal An ... read more",225.0
+Food,Smoked Chicken and Cranberry Croissant,0,0,"A French style creamy twist of smoked chicken, cranberries and cheddar cheese in ... read more",395.0
+Food,Custard Pinwheel,1,0,A croissant pastry baked into the shape of a pinwheel with vanilla custard ... read more,295.0
+Food,Egg White & Chicken in Multigrain Croiss,0,0,Fluffy egg white omelette and chicken ham sandwiched in multigrain croissant. Serving size (g/ml) ... read more,355.0
+Food,BBQ Chicken Wrap,0,0,Smoky Chicken with chopped aromatic vegetables tossed in our in house BBQ sauce ... read more,345.0
+Food,Bhopali Chicken Korma Wrap,0,0,"Spicy mélange of chicken korma, onion and cashew paste packed in a laccha ... read more",360.0
+Food,Koli Menasu Wrap,0,0,Spicy chicken filling with egg and hints of curry leaves and black pepper ... read more,365.0
+Food,Kosha Mangsho Wrap,0,0,A traditional mutton preparation packed in a parantha; served with a makhani dip ... read more,360.0
+Food,Kasundi Chicken pie,0,0,A kasundi chicken preparation encased in a puff pastry pie Serving size ... read more,325.0
+Food,Chatpata Paratha Wrap.,1,0,Tangy paneer and vegetable filling wrapped in spinach paratha. Serving size (g/ml) - 180g/465kcal. Allergen ... read more,345.0
+Food,Roasted Veggie Hummus Sandwich,1,0,Roasted zucchini and aubergine with crunchy pickled vegetables resting on a bed of ... read more,405.0
+Food,Roasted Harissa Chicken Sandwich,0,0,Brown bread sandwich filled with succulent harissa roasted chicken filling. Serving size 185 g ... read more,405.0
+Food,Pesto Veggie Sourdough Sandwich,1,0,Sauteed broccoli florets and mushroom slices with chopped aromatic vegetables tossed in a ... read more,405.0
+Food,Sriracha Chicken Sourdough Sandwich,0,0,Spicy and tangy Sriracha grilled chicken shreds with the added heat of bhoot ... read more,415.0
+Food,Mushroom Cheese Melt Multigrain Sandwich,1,0,Hearty mushrooms in a herbed aioli garnished with chopped parsley served between multigrain ... read more,445.0
+Food,Roast Chicken Multigrain Sandwich,0,0,Roasted chicken meets assorted bell peppers and onions in brown sauce. Served between ... read more,450.0
+Food,Basil Tomato Mozzarella Cheese Sandwich,1,0,Tomato and mozzarella slices on a layer of basil sauce sandwiched in a ... read more,360.0
+Food,Creamy Spinach & Corn Pocket,1,0,A creamy spinach and corn filling encased in a buttery French style dough. Serving ... read more,240.0
+Food,Three Dip Chips,1,0,"Crispy Tortilla Chips loaded with peri peri cheesy dip, spicy tomato salsa & ... read more",270.0
+Food,Chilli Cheese Toast,1,0,"Cheesy and fiery snack on a toasted French-style baguette, topped with red, yellow ... read more",350.0
+Food,Podi Cream Cheese Bagel,1,0,"Gunpowder and cream cheese with coriander, in a sesame and poppy bagel. Contains - ... read more",290.0
+Food,Pindi Chole Pocket,1,0,"A traditional chole preparation with hints of red paprika, in a croissant pocket; ... read more",265.0
+Food,Vegan Hummus Kebab Wrap,1,0,"Relish a vegan kebab, green peas hummus and pickled carrots wrapped in a ... read more",365.0
+Food,Vegan Croissant Bun,1,0,"Bite into this vegan patty with tomatoes, sautéed veggies and a charmoula spread ... read more",365.0
+Food,Vegan Sausage Croissant Roll,1,0,A hearty and appetizing vegan sausage mixed in a spiced tomato base sauce ... read more,380.0
+Food,Hazelnut Triangle,0,0,A Pastry with layers of hazelnut meringue and buttercream. Serving size (g/ml) - 50g/302kcal. Allergen ... read more,200.0
+Food,Almond Butterscotch Cookie,1,0,A buttery cookie with a combination of crunchy almond and butterscotch. Serving size (g/ml) ... read more,285.0
+Food,Mango Crumble Cookie,0,0,"A cookie made from cheesecake batter, gooey on the inside and crumbly on ... read more",280.0
+Food,Chocolate Crunch,1,0,"A delightful pairing of Biscoff flavoured buttercream nestled between layers of vanilla sponge, ... read more",370.0
+Food,Chocolate Silk Pastry,1,0,"""Experience a triple chocolate delight with a mix of textures—crunchy, soft, and creamy. ... read more",330.0
+Food,Chocolate Truffle Pastry,1,0,An absolute classic! A moist chocolate cake layered with whipped ganache and dark ... read more,370.0
+Food,Lemon Loaf Cake,0,0,English tea cake with rich taste of butter and citrusy lemon notes. Serving size ... read more,305.0
+Food,Double Chocolate Chip Cookie,1,0,A soft & chewy chocolate cookie topped with chocolate chips for the perfect ... read more,275.0
+Food,Mango Lava Cake,1,0,Delight in our Mango Pull-Me-Up Cake: A melange of Vanilla sponge layered with ... read more,350.0
+Food,Red velvet cheesecake,0,0,Red velvety sponge cake with cream cheese and white chocolate. Hint of orange ... read more,390.0
+Food,Blueberry Muffin,0,0,Buttery vanilla cake with blueberries dusted with granulated sugar for a delightfully crunchy ... read more,305.0
+Food,New York Cheesecake,0,0,"The Classic New York Cheese cake with a rich, creamy satiny texture and ... read more",395.0
+Food,Banana Chocolate Loaf Cake,0,0,English tea cake with rich taste of banana and chocolate. Serving size (g/ml) - ... read more,305.0
+Food,Strawberry and Almond Cake,1,0,"Pound cake flavoured with strawberry, crunchy almonds and a layer of cream cheese. Serving ... read more",375.0
+Ready to Drink & Eat,Bottled Caramel Frappuccino,1,0,Bottled Caramel Frappuccino Product Size - 200 ML Energy - 65.7 kcal ... read more,376.19
+Ready to Drink & Eat,Bottled Mocha Frappuccino,1,0,Bottled Mocha Frappuccino Product Size - 200 ML Energy - 64.6 kcal / 100 ... read more,376.19
+Ready to Drink & Eat,Bottled Coffee Frappuccino,1,0,Bottled Coffee Frappuccino Product Size - 200 ML Energy - 63.9 kcal / ... read more,376.19
+Ready to Drink & Eat,Rauch Organic Apple Juice,1,0,"""Directly pressed apple fruit juice not from concentrate and no added sugar. Product Size ... read more",238.1
+Ready to Drink & Eat,Rauch Blueberry Juice,1,0,"""A refreshing juice with the goodness of blueberries, best enjoyed on ice. Product Size ... read more",266.67
+Ready to Drink & Eat,Almond Biscotti,0,0,Almond Biscotti Product Size - 50 g Energy - 409 kcal / 100 g Allergen ... read more,152.38
+Ready to Drink & Eat,Roasted & Salted Cashews,1,0,Roasted & Salted Cashews Product Size - 50 g Energy - 606.3 kcal /100 ... read more,171.43
+Ready to Drink & Eat,Roasted & Salted Almonds,1,0,Roasted & Salted Almonds Product Size - 50 g Energy - 630.2 kcal /100 ... read more,171.43
+Ready to Drink & Eat,Himalayan Still Water,1,0,Himalayan Still Water Product Size - 250 ML Energy - 0 kcal Allergen - Nil ... read more,119.05
+Ready to Drink & Eat,Sparkling Himalayan Water,1,0,Himalayan sparkling Water Product Size - 250 ML Energy - 0 kcal Allergen - Nil ... read more,133.33

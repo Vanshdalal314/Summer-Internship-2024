@@ -1,0 +1,37 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Frankies,Veg Frankie,1,0,,75.0
+Frankies,Veg Cheese Frankie,1,0,,90.0
+Frankies,Veg Schezwan Frankie,1,0,,105.0
+Frankies,Veg Mayonnaise Frankie,1,0,,105.0
+Frankies,Veg Paneer Frankie,1,0,,120.0
+Frankies,Cocktail Frankie,1,0,,120.0
+Sandwiches,Veg Sandwich,1,0,,75.0
+Sandwiches,Veg Cheese Sandwich,1,0,,90.0
+Sandwiches,Veg Double Decker Sandwich,1,0,,90.0
+Sandwiches,Veg Double Decker Cheese Sandwich,1,0,,120.0
+Sandwiches,Bread Butter,1,0,,40.0
+Sandwiches,Bread Butter Jam,1,0,,40.0
+Sandwiches,Bread Butter Cheese,1,0,,50.0
+Grilled Sandwiches,Veg Mini Grilled Sandwich,1,0,,90.0
+Grilled Sandwiches,Mini Cheese Grilled Sandwich,1,0,,105.0
+Grilled Sandwiches,Sangam Toast Sandwich,1,0,,105.0
+Grilled Sandwiches,Open Sandwich,1,0,,120.0
+Grilled Sandwiches,Veg Grilled Sandwich,1,0,,165.0
+Grilled Sandwiches,Special Veg Grilled Sandwich [Big],1,0,,180.0
+Grilled Sandwiches,Special Cheese Big Sandwich,1,0,,240.0
+Grilled Sandwiches,Rim Zim Sandwich,1,0,,300.0
+Pizza,Veg Pizza [7 inches],1,0,,190.0
+Pizza,Veg Cheese Pizza [7 inches],1,0,,200.0
+Pizza,Schezwan Pizza [7 inches],1,0,,200.0
+Pizza,Schezwan Cheese Pizza [7 inches],1,0,,230.0
+Pizza,Paneer Pizza [7 inches],1,0,,230.0
+Pizza,Paneer Cheese Pizza [7 inches],1,0,,250.0
+Pizza,Onion Pizza [7 inches],1,0,,230.0
+Pizza,Onion Cheese Pizza [7 inches],1,0,,250.0
+Pizza,Capsicum Pizza [7 Inches],1,0,,230.0
+Pizza,Capsicum Cheese Pizza [7 inches],1,0,,250.0
+Pizza,Only Cheese Pizza [7 inches],1,0,,250.0
+Hot Dog,Veg Hot Dog,1,0,,90.0
+Hot Dog,Veg Cheese Hot Dog,1,0,,105.0
+Burgers,Veg Burger,1,0,,75.0
+Burgers,Veg Cheese Burger,1,0,,90.0

@@ -1,0 +1,161 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Veg Chinese Combo,1,0,Veg Fried Rice+Gobi Mushroom+Paneer 65,288.0
+Combos,Chicken Biryani Combo,1,0,Chicken Biryani+Chicken 65+Plain Rice+Chapati,276.0
+Combos,Mutton Biryani Combo,1,0,Mutton Biryani+Chicken 65+Chapati,311.0
+Combos,Non Veg Chinese Combo,1,0,Chicken Fried Rice+Chicken Manchurian+Chilli Fish,288.0
+Meals,Veg Mushroom Curry Meal,1,0,Steamed Rice+Sambar+Rasam+Chilli Mushroom+Poriyal+Curd+Appalam+Pickle,173.0
+Meals,Chicken Curry Meal,1,0,Steamed Rice+Chicken Kulambu+Rasam+Curd+Appalam,184.0
+Meals,Mutton Curry Meal,1,0,Steamed Rice+Mutton Kulambu+Rasam+Curd+Appalam,207.0
+Meals,Fish Curry Meal,1,0,Rice+Fish Kulambu+Fish Chilli+Rasam+Curd+Appalam,196.0
+Soups,Veg Hot and Sour Soup,1,0,,63.0
+Soups,Veg Mushroom Soup,1,0,,63.0
+Soups,Veg Noodles Soup,1,0,,63.0
+Soups,SK Chicken Soup,1,0,,51.0
+Soups,Hot and Sour Chicken Soup,1,0,,87.0
+Soups,Chicken Noodles Soup,1,0,,101.0
+Soups,Hot Garlic Chicken Soup,1,0,,104.0
+Soups,Mutton Soup,1,0,,92.0
+Soups,Prawns Soup,1,0,,81.0
+Soups,Nandu Soup,1,0,,104.0
+Starters,Gobi 65,1,0,,132.0
+Starters,Gobi Manchurian,1,0,,150.0
+Starters,Gobi Pepper Fry,1,0,,150.0
+Starters,Mushroom 65,1,0,,150.0
+Starters,Mushroom Manchurian,1,0,,161.0
+Starters,Mushroom Pepper Fry,1,0,,161.0
+Starters,Paneer 65,1,0,,173.0
+Starters,Paneer Manchurian,1,0,,184.0
+Starters,Paneer Pepper Fry,1,0,,184.0
+Starters,Chicken Kuchipudi [1 Piece],1,0,,81.0
+Starters,Chicken Pepper Fry,1,0,,173.0
+Starters,Boneless Chicken 65,1,0,,184.0
+Starters,Boneless Chilli Chicken Chinese,1,0,,190.0
+Starters,Chicken Lollipop [1 Piece],1,0,,63.0
+Starters,Chicken Manchurian,1,0,,213.0
+Starters,Chicken Monika,1,0,,236.0
+Starters,Hyderabadi Chicken Dry,1,0,,236.0
+Starters,Schezwan Chicken Dry,1,0,,236.0
+Starters,Hot Pepper Chicken Dry,1,0,,236.0
+Starters,Mysore Chilli Chicken,1,0,,236.0
+Starters,Chicken Pallipalayam,1,0,,236.0
+Starters,Chicken Coconut Fry,1,0,,236.0
+Starters,Dragon Chicken,1,0,,253.0
+Starters,Hot Honey Chicken,1,0,,265.0
+Starters,Chicken Tangdi Kebab [Leg Piece],1,0,,127.0
+Starters,Tandoori Chicken,1,0,,265.0
+Starters,Nattu Kozhi Fry,1,0,,224.0
+Starters,Chicken Tikka,1,0,,259.0
+Starters,Grilled Chicken,1,0,,265.0
+Starters,Kaadai Roasted,1,0,,173.0
+Starters,Kaadai Pepper Fry,1,0,,184.0
+Starters,Mutton Pepper Fry,1,0,,219.0
+Starters,Mutton Coconut Fry,1,0,,230.0
+Starters,Mutton Sukha,1,0,,219.0
+Starters,Chilli Fish,1,0,,184.0
+Starters,Fish Manchurian Dry,1,0,,224.0
+Starters,Pepper Fish,1,0,,224.0
+Starters,Mysore Chilli Fish,1,0,,236.0
+Starters,Nethili Fish Fry,1,0,,207.0
+Starters,Fish Monica,1,0,,236.0
+Starters,Prawns 65,1,0,,265.0
+Starters,Prawns Manchurian,1,0,,276.0
+Starters,Prawns Pepper Fry,1,0,,276.0
+Starters,Hot Garlic Prawns,1,0,,276.0
+Starters,Nandu Pepper Fry,1,0,,265.0
+Main Course,Fish Masala,1,0,,184.0
+Main Course,Garlic Fish Curry,1,0,,196.0
+Main Course,Prawns Masala,1,0,,276.0
+Main Course,Chettinadu Nandu Gravy,1,0,,265.0
+Main Course,Paneer Butter Masala,1,0,,207.0
+Main Course,Mushroom Masala,1,0,,161.0
+Main Course,Kadhai Paneer,1,0,,173.0
+Main Course,Kadhai Mushroom,1,0,,173.0
+Main Course,Hyderabadi Mushroom Masala,1,0,,184.0
+Main Course,Hyderabadi Veg Gravy,1,0,,173.0
+Main Course,Kadhai Veg,1,0,,173.0
+Main Course,Gobi Masala,1,0,,150.0
+Main Course,Egg Masala,1,0,,127.0
+Main Course,Kadhai Chicken,1,0,,224.0
+Main Course,Chicken Chettinadu,1,0,,184.0
+Main Course,Kozhi Varutha Curry,1,0,,224.0
+Main Course,Kozhi Milagu Curry,1,0,,224.0
+Main Course,Boneless Butter Chicken,1,0,,224.0
+Main Course,Boneless Butter Chicken Masala,1,0,,224.0
+Main Course,Boneless Chicken Tikka Masala,1,0,,224.0
+Main Course,Ginger Chicken Gravy,1,0,,196.0
+Main Course,Garlic Chicken Gravy,1,0,,196.0
+Main Course,Chicken Kebab Masala,1,0,,224.0
+Main Course,Chilli Chicken Gravy,1,0,,224.0
+Main Course,Malabar Chicken Curry,1,0,,224.0
+Main Course,Pepper Chicken Gravy,1,0,,224.0
+Main Course,Natu Kozhi Masala,1,0,,224.0
+Main Course,Nattu Kozhi Milagu Curry,1,0,,224.0
+Main Course,Kaadai Masala,1,0,,184.0
+Main Course,Pepper Mutton Gravy,1,0,,253.0
+Main Course,Mutton Varutha Curry,1,0,,253.0
+Main Course,Mutton Chettinadu Gravy,1,0,,224.0
+Main Course,Mutton Varuval Gravy,1,0,,219.0
+Main Course,Mutton Kudal Curry,1,0,,155.0
+Breads,Tandoori Roti,1,0,,32.0
+Breads,Butter Roti,1,0,,38.0
+Breads,Naan,1,0,,38.0
+Breads,Butter Naan,1,0,,45.0
+Breads,Rumali Roti,1,0,,38.0
+Breads,Kulcha,1,0,,45.0
+Breads,Butter Kulcha,1,0,,51.0
+Breads,Stuffed Kulcha,1,0,,69.0
+Breads,Onion Kulcha,1,0,,69.0
+Breads,Stuffed Naan,1,0,,83.0
+Breads,Garlic Naan,1,0,,69.0
+Breads,Tandoori Paratha,1,0,,58.0
+Breads,Chapati,1,0,,29.0
+Breads,Paratha,1,0,,46.0
+Rice and Biryani,Jeera Rice,1,0,,161.0
+Rice and Biryani,Ghee Rice,1,0,,161.0
+Rice and Biryani,Mushroom Pulao,1,0,,173.0
+Rice and Biryani,Veg Pulao,1,0,,173.0
+Rice and Biryani,Nandu Meat Pulao,1,0,Pulao is served with masala nandu meat and raita and masala.,288.0
+Rice and Biryani,Plain Biryani,1,0,Mild flavored aromatic rice best accompanied with various onion tomato based gravies.,115.0
+Rice and Biryani,Egg Biryani,1,0,,132.0
+Rice and Biryani,Gilma Chicken Biryani,1,0,Egg bhurji and chicken deep fried mixed with chicken biryani.,253.0
+Rice and Biryani,Chicken Biryani,1,0,Richly flavored aromatic rice layered with marinated chicken pieces in a delicate blend ... read more,184.0
+Rice and Biryani,Hyderabadi Chicken Biryani,1,0,,207.0
+Rice and Biryani,Kerala Chicken Biryani,1,0,,207.0
+Rice and Biryani,Nattu Kozhi Chicken Biryani,1,0,,242.0
+Rice and Biryani,Mutton Biryani,1,0,,224.0
+Rice and Biryani,Hyderabadi Mutton Biryani,1,0,,293.0
+Rice and Biryani,Fish Biryani,1,0,,184.0
+Rice and Biryani,Prawns Biryani,1,0,,259.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,161.0
+Fried Rice and Noodles,Mushroom Fried Rice,1,0,,184.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,184.0
+Fried Rice and Noodles,Veg Hakka Fried Rice,1,0,,173.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,173.0
+Fried Rice and Noodles,Egg Fried Rice,1,0,,173.0
+Fried Rice and Noodles,Chilli Chicken Fried Rice,1,0,,224.0
+Fried Rice and Noodles,Garlic Chicken Fried Rice,1,0,,207.0
+Fried Rice and Noodles,Schezwan Chicken Fried Rice,1,0,,207.0
+Fried Rice and Noodles,Hakka Chicken Fried Rice,1,0,,207.0
+Fried Rice and Noodles,Mutton Fried Rice,1,0,,230.0
+Fried Rice and Noodles,Fish Fried Rice,1,0,,213.0
+Fried Rice and Noodles,Prawns Fried Rice,1,0,,230.0
+Fried Rice and Noodles,Mixed Non Veg Fried Rice,1,0,"Contain egg, chicken and prawns.",230.0
+Fried Rice and Noodles,Veg Noodles,1,0,,161.0
+Fried Rice and Noodles,Mushroom Noodles,1,0,,184.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,184.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,173.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,173.0
+Fried Rice and Noodles,Egg Noodles,1,0,,173.0
+Fried Rice and Noodles,Chilli Chicken Noodles,1,0,,224.0
+Fried Rice and Noodles,Schezwan Chicken Noodles,1,0,,184.0
+Fried Rice and Noodles,Hakka Chicken Noodles,1,0,,196.0
+Fried Rice and Noodles,Mutton Noodles,1,0,,230.0
+Fried Rice and Noodles,Fish Noodles,1,0,,213.0
+Fried Rice and Noodles,Prawns Noodles,1,0,,130.0
+Fried Rice and Noodles,Mixed Non Veg Noodles,1,0,"Contain egg, chicken and prawns.",230.0
+Snacks,Boiled Egg,1,0,,23.0
+Snacks,Egg Podiyal,1,0,,69.0
+Snacks,Double Omelette,1,0,,40.0
+Snacks,Egg Kothu Parotta,1,0,,104.0
+Snacks,Chicken Kothu Parotta,1,0,,173.0
+Snacks,Mutton Kothu Parotta,1,0,,228.0

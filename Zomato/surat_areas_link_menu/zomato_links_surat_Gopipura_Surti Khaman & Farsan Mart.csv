@@ -1,0 +1,61 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Holi Specials,Special Dhani Nu Bhusu,1,0,A special dish that has a unique blend of flavors. It is a ... read more,139.0
+Holi Specials,Tikhi Bundi,1,0,,139.0
+Holi Specials,Tikhi Papdi,1,0,Tikhi Papadi is a popular Rajasthani snack that consists of a crispy shell ... read more,139.0
+Mahashivratri Specials,Mitho Farali Chevdo,1,0,Farali mithu chevdo is a popular snack that is enjoyed by many people.,140.0
+Mahashivratri Specials,Ratalu Kand,1,0,A traditional Rajasthani sweet dish that is rich in flavours and textures.,240.0
+Rasawala Specials,Rasawala Idada [1 Plate],1,0,"A lipsmacking plate of Rasawalas Idada, perfect for a light snack or a ... read more",70.0
+Rasawala Specials,Rasawala Patra [1 Plate],1,0,A delectable vegetable dish made with tender patra leaves and aromatic spices. A ... read more,80.0
+Chandi Padva Specials,Surti Bhusu,1,0,"A traditional Gujarati snack, Surtis love to indulge in this spicy, tangy, and ... read more",139.0
+Chandi Padva Specials,Punjabi Samosa [1 Piece],1,0,"A crispy and flaky pastry stuffed with spiced potatoes, served with chutneys and ... read more",40.0
+Chandi Padva Specials,Dal Samosa,1,0,A delicious and traditional Indian snack that is filled with a spicy lentil ... read more,140.0
+Chandi Padva Specials,Chinese Samosa,1,0,A crispy and delicious samosa filled with a flavorful and aromatic filling of ... read more,140.0
+Fafda Jalebi,Fafda,1,0,"Fafda is a crispy, light snack made with a mixture of gram flour ... read more",190.0
+Fafda Jalebi,Kesariya Jalebi [Ghee],1,0,"A light and sweet dish made from a batter of flour and sugar, ... read more",170.0
+Fafda Jalebi,Jalebi and Fafda Combo [250 grams],1,0,Ghee Jalebi [250 grams]+Hot Fafda [250 grams],379.0
+Fafda Jalebi,Jalebi and Fafda Combo [500 grams],1,0,Ghee Jalebi [500 grams] + Hot Fafda [500 grams],679.0
+Surti Sarasiya Khaja,Surti Sarasiya Khaja,1,0,"A crispy, fried pastry filled with a sweet, aromatic filling of coconut and ... read more",190.0
+Khaman,Rasawala Khaman,1,0,Freshly made Rasawala Khaman [1 Plate].,70.0
+Khaman,Plain Khaman,1,0,A soft and spongy steamed cake made from a fermented batter of gram ... read more,60.0
+Khaman,Vagharela Khaman,1,0,"A crispy, soft, and fluffy snack made from chickpea flour, served with a ... read more",85.0
+Khaman,Tam Tam Khaman,1,0,A soft and fluffy snack that is bursting with the flavors of ginger ... read more,89.0
+Khaman,Amiri Khamani,1,0,A spicy Persian dish with tender lamb cooked in a flavorful stew of ... read more,90.0
+Khaman,Nylon Khaman,1,0,A soft and spongy cake made with the goodness of rice flour and ... read more,90.0
+Khaman,Garlic Amiri Khamani,1,0,"A rich and flavorful dish made with soft and buttery dumplings, tossed in ... read more",89.0
+Locho,Plain Locho,1,0,A traditional Indian street food consisting of tender lamb pieces cooked in a ... read more,70.0
+Locho,Oil Locho,1,0,A traditional Rajasthani dish that consists of crispy fried dumplings served in a ... read more,90.0
+Locho,Butter Locho,1,0,"A crispy, goldenbrown bread topped with rich butter and served with tangy chutney, ... read more",170.0
+Locho,Cheese Butter Locho,1,0,A lipsmacking snack that is perfect for any party or gathering.,190.0
+Idada,Plain Idada,1,0,"A crispy, golden brown, and flaky pastry filled with a savory mixture of ... read more",60.0
+Idada,Vagharela Idada,1,0,"A traditional Konkani dish made with a combination of rice, lentils, vegetables, and ... read more",85.0
+Idada,Oil Idada,1,0,"A delicious snack made with a rich blend of oil and spices, this ... read more",70.0
+Patra,Plain Patra,1,0,Crispy fried rice rolls filled with a blend of aromatic spices and fresh ... read more,80.0
+Patra,Vagharela Patra,1,0,"Crispy, flaky, and bursting with flavors, this vegetarian dish is a musttry for ... read more",100.0
+Khandvi,Plain Khandvi,1,0,,70.0
+Khandvi,Vaghareli Khandvi,1,0,,89.0
+Snacks,Locho Khiru,1,0,Loho Khir A delicious Goan dish prepared with tender pieces of meat marinated ... read more,90.0
+Snacks,Idada Khiru,1,0,"A traditional Indian pudding made from black gram flour, sugar, and milk.",90.0
+Snacks,Pauva Chevdo,1,0,"A crunchy and savory snack made with a mixture of vegetables and spices, ... read more",139.0
+Snacks,Surti Bhusu,1,0,"A traditional Gujarati snack, Surtis love to indulge in this spicy, tangy, and ... read more",139.0
+Snacks,Sev,1,0,"Sev, a popular Indian street food, is a crispy and crunchy snack made ... read more",139.0
+Snacks,Mora Gathiya,1,0,,139.0
+Snacks,Fafda,1,0,"Fafda is a crispy, light snack made with a mixture of gram flour ... read more",190.0
+Snacks,Farali Tekho Chevda,1,0,A traditional Rajasthani snack made with a special kind of rice known for ... read more,140.0
+Snacks,Half Fry Patties,1,0,"Juicy and flavorful Half Fry patties, perfect for a light meal.",155.0
+Snacks,Kachcha Dal Samosa,1,0,,125.0
+Snacks,Bataka poha,1,0,,179.0
+Samosa and Kachori,Punjabi Samosa [1 Piece],1,0,"A crispy and flaky pastry stuffed with spiced potatoes, served with chutneys and ... read more",40.0
+Samosa and Kachori,Dal Samosa,1,0,A delicious and traditional Indian snack that is filled with a spicy lentil ... read more,140.0
+Samosa and Kachori,Chinese Samosa,1,0,A crispy and delicious samosa filled with a flavorful and aromatic filling of ... read more,140.0
+Samosa and Kachori,Khasta Kachori [1 Piece],1,0,"A crispy, flaky, aromatic pastry stuffed with a spicy potato filling.",40.0
+Samosa and Kachori,Ragda Kachori [1 Plate],1,0,A traditional Gujarati snack made with a spiced potato filling and served with ... read more,80.0
+Bhajiya,Ratalu Puri,1,0,"Crispy and flavorful, these puris are filled with a delicious mixture of potatoes, ... read more",240.0
+Bhajiya,Dal Vada,1,0,,140.0
+Bhajiya,Methi Gota,1,0,"Crispy and succulent, these Gotaflavoured methi fritters are a treat for your taste ... read more",140.0
+Bhajiya,Mixed Bhajiya,1,0,A delicious and crispy mix of deepfried vegetables coated in a flavorful and ... read more,140.0
+Bhajiya,Kanda Bhajiya,1,0,"Crisp and tasty, these kanda bhajiyas are made with a blend of spices ... read more",179.0
+Bhajiya,Bataka Vada,1,0,"Crisp, tangy and spicy vada made from potatoes and a mix of aromatic ... read more",140.0
+Bhajiya,Tomato puri,1,0,"A crispy and delicious vegetarian snack made with a tomatoflavored puri, filled with ... read more",170.0
+Party Combos,Vagharela Khaman [200 grams] with Vagharela Idada [200 grams],1,0,Vagharela Khaman [200 grams]+Vagharela Idada [200 grams],199.0
+Party Combos,Plain Khaman [125 grams] and Plain Locho [125 grams],1,0,1 A soft and fluffy steamed dish made with a special blend of ... read more,109.0
+Party Combos,Plain Idada with Plain Khaman with Plain Locho,1,0,,149.0

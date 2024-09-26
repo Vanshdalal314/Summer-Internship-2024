@@ -1,0 +1,19 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Potato Puff,1,0,,26.0
+Biscuits and Cookies,Marvo Khatai [250 grams],1,0,,110.0
+Biscuits and Cookies,Tea Toast [250 grams],1,0,,100.0
+Biscuits and Cookies,Khari [Patwari] [250 grams],1,0,,100.0
+Biscuits and Cookies,Special Irani Biscuit [250 grams],1,0,,150.0
+Biscuits and Cookies,Kaju Cookies [200 grams],1,0,,160.0
+Biscuits and Cookies,Chocolate Kaju Cookies [200 grams],1,0,,160.0
+Biscuits and Cookies,Chocolate Chips Cookies [200 grams],1,0,,160.0
+Biscuits and Cookies,Pista Cookies [200 grams],1,0,,160.0
+Biscuits and Cookies,Fruit Biscuit [200 grams],1,0,,160.0
+Cakes,Strawberry Cake [500 grams],1,0,,350.0
+Cakes,Pineapple Cake [500 grams],1,0,,350.0
+Cakes,Black Forest Cake [500 grams],1,0,,350.0
+Cakes,Chocolate Chips Cake [500 grams],1,0,,350.0
+Cakes,Chocolate Chips Forest Cake [500 grams],1,0,,350.0
+Cakes,Royal Cassata Cake [500 grams],1,0,,430.0
+Cakes,Mix Fruit Cake [500 grams],1,0,,430.0
+Cakes,White Forest Cake [500 grams],1,0,,430.0

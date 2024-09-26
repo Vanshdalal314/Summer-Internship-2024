@@ -1,0 +1,147 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Manchurian Rice + Manchow Soup,1,0,Manchurian Rice with Manchow Soup,250.0
+Combos,Sada Dosa + Regular Pav Bhaji + 4 Pav,1,0,,300.0
+Combos,Veg Manchurian Dry+Veg Fried Rice,1,0,,310.0
+Combos,Veg Manchurian Gravy+Veg Fried Rice,1,0,Veg Manchurian Gravy with Veg Fried Rice,310.0
+Combos,Masala Dosa with Sada Dosa and 2 Buttermilk,1,0,,288.0
+Combos,Mysore Masala Dosa with Masala Dosa and Buttermilk,1,0,,346.0
+Combos,Pav Bhaji [Full]+4 Pav+Kashmiri Pulao [Full]+2 Jeera Soda+Papad,1,0,,430.0
+Combos,Tawa Pulao with Papad,1,0,Tawa Pulao [Full]+Regular Bhaji [Full]+4 Pav+Jeera Soda+Papad,390.0
+Combos,Mysore Masala Dosa Combo,1,0,Mysore Masala Dosa+Jini Roll Dosa+Sada Dosa+2 Jeera Soda,450.0
+Combos,Veg Manchurian Dry+Chinese Bhel+2 Jeera Soda,1,0,,430.0
+Pav Bhaji,Pav Bhaji Regular,1,0,"Comes with 4 pav, salad and roasted papad [1 piece] [Salad-Subject to Availability].",204.0
+Pav Bhaji,Veg Bhaji,1,0,,238.0
+Pav Bhaji,Fry Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",238.0
+Pav Bhaji,Khada Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",238.0
+Pav Bhaji,Paneer Pav Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",255.0
+Pav Bhaji,Paneer Fry Bhaji,1,0,,289.0
+Pav Bhaji,Potato Fry Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",204.0
+Pav Bhaji,Cheese Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",255.0
+Pav Bhaji,Cheese Paneer Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",289.0
+Pav Bhaji,Cheese Fry Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",289.0
+Pav Bhaji,Masala Pav [4 Pav],1,0,Pav dipped in garlic and onion paste.,100.0
+Pav Bhaji,Cheese Masala Pav [4 Pav],1,0,Masala pav topped with cheese.,144.0
+Pav Bhaji,Extra Butter Pav [4 Piece],1,0,,40.0
+Pav Bhaji,Kora Pav [12 Pav],1,0,Raw pav.,60.0
+Pav Bhaji,Double Butter Pav,1,0,Butter pav slapped again with butter.,60.0
+Pav Bhaji,Toast Pav [4 Pav],1,0,Pav made crispy.,60.0
+Pav Bhaji,Only Bhaji [300 ml],1,0,No accompaniments.,153.0
+Pav Bhaji,Only Bhaji [1 kg],1,0,Comes without pav and papad [salad included].,425.0
+Pav Bhaji,Swaminarayan Pav Bhaji,1,0,Without onion and garlic.,204.0
+Pav Bhaji,Jain Pav Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",204.0
+Pav Bhaji,Cheese Jain Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",255.0
+Pav Bhaji,Paneer Jain Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",255.0
+Pav Bhaji,Paneer Cheese Jain Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",289.0
+Pav Bhaji,Green Bhaji,1,0,"Comes with 3 Pav, Salad",238.0
+Pav Bhaji,Yellow Pav Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",238.0
+Pav Bhaji,Red Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",238.0
+Pav Bhaji,Green Pav Bhaji,1,0,"Comes with 4 pav, salad and roasted papad [1 piece].",238.0
+Pav Bhaji,Italian Pav Bhaji [Serves 1],1,0,"Contains chilli flakes, oregano, pasta, cheese and toasted pav. Comes with 4 pav, ... read more",255.0
+Pav Bhaji,Punjabi Veg Bhaji,1,0,,255.0
+Pav Bhaji,Green Paneer Bhaji,1,0,,289.0
+Dosa,Masala Dosa,1,0,"A thin crispy dosa stuffed with aloo masala served with sambhar, red garlic ... read more",153.0
+Dosa,Paneer Masala Dosa,1,0,"Crispy and delicious dosa, folded in with spicy paneer masala.",238.0
+Dosa,Cheese Masala Dosa,1,0,"Tawa-toasted, crispy dosa spread with cheese and folded in with masala.",238.0
+Dosa,Paneer Cheese Masala,1,0,,238.0
+Dosa,Palak Dosa,1,0,Soft and hearty dosa with palak mixed into the batter served with sambhar ... read more,187.0
+Dosa,Aloo Palak Dosa,1,0,A crispy dosa filled with a mouthwatering blend of potato and spinach.,204.0
+Dosa,Paneer Palak Dosa,1,0,,272.0
+Dosa,Cheese Palak Dosa,1,0,,272.0
+Dosa,Paneer Cheese Palak Dosa,1,0,,306.0
+Dosa,Sweet Corn Dosa,1,0,,221.0
+Dosa,Manchurian Dosa,1,0,"Tawa-toasted, crispy dosa well-folded with vegtables in a sweet and spicy manchurian sauce.",255.0
+Dosa,Chinese Dosa,1,0,,255.0
+Dosa,American Chopsuey Dosa,1,0,,255.0
+Dosa,Jini Roll Dosa,1,0,"A popular mumbai spicy street style dosa stuffed with veggies served with sambhar, ... read more",272.0
+Dosa,Bangalore Spring Dosa,1,0,,272.0
+Dosa,Cheese Sweet Corn Dosa,1,0,,272.0
+Dosa,Paneer Chilli Dosa,1,0,,306.0
+Dosa,Paneer Toofani Dosa,1,0,The good old dosa packed with a paneer based spicy gravy. Served with ... read more,306.0
+Dosa,Special Dosa,1,0,,270.0
+Dosa,Green Cheese Chilli Dosa,1,0,,306.0
+Dosa,Cheese Frankie Dosa,1,0,,306.0
+Dosa,Dilkhush Dosa,1,0,,340.0
+Dosa,Jhanak Jhanak Payal Dosa,1,0,,300.0
+Dosa,Sada Dosa,1,0,"A thin crispy plain dosa served with sambhar, red garlic chutney & white ... read more",102.0
+Dosa,Onion Sada Dosa,1,0,A crispy and savory South Indian specialty perfect for breakfast or as a ... read more,136.0
+Dosa,Garlic Sada Dosa,1,0,| Serves 1 |,136.0
+Dosa,Nylon Sada Dosa,1,0,,136.0
+Dosa,Onion Garlic Sada,1,0,,153.0
+Dosa,Cheese Sada Dosa,1,0,| Serves 1 |,170.0
+Dosa,Cheese Onion Sada,1,0,,170.0
+Dosa,Cheese Garlic Sada,1,0,,170.0
+Dosa,Onion Nylon Dosa,1,0,,153.0
+Dosa,Garlic Nylon Dosa,1,0,,153.0
+Dosa,Cheese Garlic Nylon,1,0,| Serves 1 |,187.0
+Dosa,Cheese Nylon Dosa,1,0,,204.0
+Dosa,Mysore Sada,1,0,,150.0
+Dosa,Mysore Masala Dosa,1,0,"| 1 Pc | Dosa served with mysore bhaji, sambhar, red garlic chutney ... read more",187.0
+Dosa,Palak Mysore Dosa,1,0,,221.0
+Dosa,Cheese Mysore Dosa,1,0,"Spicy dosa with grated cheese, a red chutney spread and masala folded in.",238.0
+Dosa,Paneer Mysore Dosa,1,0,,238.0
+Dosa,Paneer Tukda Mysore Dosa,1,0,,255.0
+Dosa,Cheese Paneer Mysore Dosa,1,0,,272.0
+Dosa,Paneer Surma Mysore Dosa,1,0,,272.0
+Dosa,Paneer Tukda Cheese Mysore Dosa,1,0,,306.0
+Dosa,Mixed Mysore Dosa,1,0,,306.0
+Dosa,Paneer Cheese Surma Mysore Dosa,1,0,,306.0
+Dosa,Gotala Dosa,1,0,,306.0
+Chinese,Veg Manchurian,1,0,,204.0
+Chinese,Veg Schezwan Manchurian,1,0,Manchurian Balls Tossed in Sezwan Sauce,204.0
+Chinese,Chinese Bhel,1,0,Combination of Rice Noodles and Manchurian in street style.,204.0
+Chinese,Bombay Bhel,1,0,Fried noodles tossed with manchurian balls.,204.0
+Chinese,Veg Garlic Manchurian,1,0,Manchurian with Add-on Garlic,204.0
+Chinese,Veg 65,1,0,Vegetables deep fried and sauteed In Chinese gravy.,255.0
+Chinese,Paneer Manchurian,1,0,Combination of paneer chunks and manchurian.,289.0
+Chinese,Paneer Chilli,1,0,Chunks of paneer cooked to perfection dry.,323.0
+Chinese,Paneer 65,1,0,Paneer chunks sauteed in red Chinese sauce.,323.0
+Chinese,Paneer Red Cook,1,0,Paneer chunks fried in Chinese gravy with yogurt.,323.0
+Chinese,Veg Fried Rice,1,0,Traditional Street style Chinese fried rice,204.0
+Chinese,Manchurian Fried Rice,1,0,Combination of rice and manchurian balls.,204.0
+Chinese,Veg Schezwan Fried Rice,1,0,Chinese rice tossed in Spicy red Gravy,204.0
+Chinese,Veg Singapore Rice,1,0,Rice tossed in turmeric powder topped with Spicy tadka mirchi.,204.0
+Chinese,Combination Rice,1,0,Combination of rice noodles and manchurian.,204.0
+Chinese,Hong Kong Fried Rice,1,0,"Diagonally cut vegetables combined with sauces, red chillies ginger and garlic cooked oriental ... read more",204.0
+Chinese,Paneer Fried Rice,1,0,A dish of steamed rice that is stir fried with soya sauce cottage ... read more,289.0
+Chinese,Burnt Garlic Rice,1,0,Chinese rice topped with burnt garlic.,256.0
+Chinese,Triple Schezwan Fried Rice [750 ml],1,0,Comes with combination of rice noodles and gravy manchurian separately.,323.0
+Chinese,Manchurian Noodles,1,0,Combination of fried rice and manchurian balls.,204.0
+Chinese,Hakka Noodles,1,0,"| Serves 1 , 500 ml | Authentic Chinese Noodles",204.0
+Chinese,Veg Schezwan Noodles,1,0,Red hot spicy noodles.,204.0
+Chinese,Veg Singapuri Noodles,1,0,Noodles added with a tinge of turmeric powder.,204.0
+Chinese,Crisp and Soft Noodles,1,0,Combination of fried and boiled noodles.,204.0
+Chinese,American Chopsuey,1,0,Fried noodles with authentic red Chinese gravy.,204.0
+Chinese,Chinese Chopsuey,1,0,Fried noodles with authentic Chinese gravy.,204.0
+Chinese,Veg Chopsuey,1,0,Fried noodles with authentic Chinese gravy.,204.0
+Chinese,Burnt Garlic Noodles,1,0,Chinese noodles topped with burnt garlic.,272.0
+Pulao,Jeera Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices.,204.0
+Pulao,Tawa Pulao,1,0,"Jain Preparation is not available. Comes with chatni, salad and roasted papad [1 piece]",255.0
+Pulao,Kashmiri Pulao,1,0,"Comes with kadhi, salad and roasted papad [1 piece].",255.0
+Pulao,Paneer Kashmiri Pulao,1,0,"Comes with kadhi, salad and roasted papad [1 piece].",306.0
+Pulao,Cheese Kashmiri Pulao,1,0,"Comes with kadhi, salad and roasted papad [1 piece].",306.0
+Pulao,Paneer Tawa Pulao,1,0,"Comes with chutney, salad and roasted papad [1 piece].",306.0
+Pulao,Cheese Tawa Pulao,1,0,A wholesome dish prepared by cooking chopped vegetables and rice in a flavorful ... read more,306.0
+Pulao,Cheese Paneer Kashmiri Pulao,1,0,"Comes with kadhi, salad and roasted papad [1 piece].",340.0
+Pulao,Cheese Paneer Tawa Pulao,1,0,"Comes with chutney, salad and roasted papad [1 piece].",340.0
+Soups,Hot and Sour Soup,1,0,A Thick Spicy & Sour Soup Made From Juliennes of vegetables !,153.0
+Soups,Manchow Soup,1,0,"[Veg preparation] Serves 1 , 500 ml.",153.0
+Soups,Veg Clear Soup,1,0,A delightfully flavor-packed clear soup with chopped veggies - perfect to satiate your ... read more,153.0
+Soups,Tomato Soup,1,0,Cream based soup in tomato flavoured served with croutons.,153.0
+Soups,Special Veg Soup,1,0,,204.0
+Soups,Special Veg Noodles Soup,1,0,,204.0
+Soups,Lemon & Coriander Soup,1,0,,153.0
+Uttapam,Sada Uttapam,1,0,,155.0
+Uttapam,Onion Uttapam,1,0,,180.0
+Uttapam,Tomato Uttapam,1,0,,180.0
+Uttapam,Tomato Onion Uttapam,1,0,,204.0
+Uttapam,Masala Uttapam,1,0,,204.0
+Uttapam,Mixed Uttapam,1,0,,225.0
+Uttapam,Cheese Uttapam,1,0,,255.0
+Accompaniments,Roasted Papad,1,0,1 Pc.,25.0
+Accompaniments,Fried Papad,1,0,"Papadis a thin Indian wafer, sometimes described as a cracker or flatbread. It ... read more",40.0
+Accompaniments,Extra Salad,1,0,,40.0
+Accompaniments,Chutney,1,0,,60.0
+Desserts & Beverages,Special Milk Kulfi,1,0,,50.0
+Desserts & Beverages,Jeeru Cold Drink [250 ml],1,0,,23.8
+Desserts & Beverages,Buttermilk [200 ml],1,0,,30.0
+Desserts & Beverages,Mineral Water [1 Liter],1,0,,38.09

@@ -1,0 +1,4 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snack,Bhature,1,0,Paneer stuffed bhature.,50.0
+Snack,Chole Bhature [2 Bhature],1,0,"Paneer stuffed bhature served with chole, carrot pickle, coriander chutney and onion.",120.0
+Snack,Chole [1 Plate],1,0,"Chole served with carrot pickle, coriander chutney and onion.",75.0

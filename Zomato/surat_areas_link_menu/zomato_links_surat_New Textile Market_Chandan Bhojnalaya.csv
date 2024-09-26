@@ -1,0 +1,8 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Thali,1,0,Jain food not available. 3 Sabzi [Subject To Availability] Each Sabji [250 grams]+10 Roti ... read more,109.0
+Thali,Dibba Thali,1,0,3 Sabzi [Subject To Availability]+10 Roti or 10 Poori [Subject to Availability]+Dal+Rice+Papad+Salad [Dal ... read more,128.0
+Thali,Poori wala Thali,1,0,10 Poori+1 Kathol Sabji+Aloo Sabji+Kadhi Chawal+Papad+Salad,109.0
+Thali,Gujarati Deluxe Thali,1,0,Jain food not available. 3 Sabzi [Subject To Availability] + 6 Roti or 6 ... read more,125.0
+Navratri Combos,Roti Sabji Combo,1,0,Sabji [1 plate] [250 grams] + 6 Roti + Salad JAIN FOOD NOT AVAILABLE,55.5
+Navratri Combos,Gujarati Dal Rice,1,0,Jain food not available,56.0
+Navratri Combos,1 Chapati Roti,1,0,Jain food not available,4.0

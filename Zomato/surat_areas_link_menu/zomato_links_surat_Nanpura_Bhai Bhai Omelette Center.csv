@@ -1,0 +1,98 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Veg,Pav Bhaji Combo,1,0,4 Pav+Bhaji+Papad+1 Buttermilk,190.0
+Special Veg,Vegetable Biryani Combo,1,0,Vegetable Biryani+Papad [1 Piece]+1 Buttermilk,190.0
+Omelette,Garlic Omelette [2 Eggs],0,0,,130.0
+Omelette,Mixed Omelette [2 Eggs],0,0,,145.0
+Omelette,Masala Omelette,0,0,,130.0
+Omelette,Egg Dry Roll Omelette,0,0,,145.0
+Omelette,Dosa Omelette,0,0,,210.0
+Special,Egg Bhai Bhai Special [5 Eggs],0,0,,570.0
+Special,Egg Lahori [2 Eggs],0,0,2 Egg,195.0
+Special,Egg Keema Lahori [2 Eggs],0,0,,195.0
+Special,Egg Kachi Lahori,0,0,3 Eggs,285.0
+Special,Egg Fry Lahori,0,0,3 Egg,285.0
+Special,Egg Cheese Kofta,0,0,2 Egg,220.0
+Special,Egg Rajwadi Kofta,0,0,2 Egg,250.0
+Special,Egg Nargisi Kofta,0,0,3 Eggs,285.0
+Special,Egg Shahi Kofta,0,0,3 Egg,285.0
+Special,Egg Fry Kofta,0,0,3 Eggs,285.0
+Special,Egg Australian Fry,0,0,3 Eggs,285.0
+Special,Egg Lazeez,0,0,,285.0
+Special,Egg Curry Tadka,0,0,4 Eggs,285.0
+Special,Egg Locha Curry,0,0,3 Eggs,285.0
+Special,Mini Angur Rabdi,0,0,4 Eggs,285.0
+Special,Egg Angur Rabdi,0,0,7 Eggs,390.0
+Special,Egg Curry Cutlets [3 Eggs],0,0,,285.0
+Special,Egg Paplet [4 Eggs],0,0,,315.0
+Special,Tikhari,0,0,5 Egg,570.0
+Special,Egg Gravy Dosa [4 Eggs],0,0,,310.0
+Starters,Oli Egg Green [2 Eggs],0,0,,160.0
+Starters,Egg Green with Cheese [2 Eggs],0,0,2 Boiled eggs mixed with coriander and garlic with cheese topping semi gravy.,210.0
+Starters,Egg Dry Manma [2 Eggs],0,0,,105.0
+Starters,Egg Dry Manma Cheese [2 Eggs],0,0,,130.0
+Starters,Egg Dry Cheese Kofta [2 Eggs],0,0,,185.0
+Starters,Egg Fry Special,0,0,4 Egg,390.0
+Starters,Egg Italian Fry,0,0,4 Egg,390.0
+Main Course,Egg Tadka [2 Eggs],0,0,,160.0
+Main Course,Egg Tadka with Cheese [2 Eggs],0,0,,210.0
+Main Course,Egg Malai Kofta [6 Eggs],0,0,,625.0
+Main Course,Oil Egg Garlic Keema [2 Eggs],0,0,,170.0
+Main Course,Egg Tomato Keema [2 Eggs],0,0,,170.0
+Main Course,Egg Mongolian Keema [2 Eggs],0,0,2 Egg,150.0
+Main Course,Egg Masala Keema [2 Eggs],0,0,2 Egg,160.0
+Main Course,Egg Mixed Keema [2 Eggs],0,0,,170.0
+Main Course,Egg Ghotala,0,0,,170.0
+Main Course,Egg Sabji [2 Eggs],0,0,2 Egg,170.0
+Main Course,Egg Masala Sabji,0,0,2 Egg,160.0
+Main Course,Egg Chinese Sabji [2 Eggs],0,0,2 Egg,185.0
+Main Course,Egg Bhurji [2 Eggs],0,0,,170.0
+Main Course,Egg Garlic Chutney,0,0,,60.0
+Main Course,Dal Fry [1 Egg],0,0,,90.0
+Main Course,Egg Curry Tomato [2 Eggs],0,0,,180.0
+Main Course,Egg Curry Garlic [2 Eggs],0,0,,180.0
+Main Course,Egg Shahi Curry,0,0,3 Eggs,325.0
+Main Course,Egg Shahi Korma,0,0,3 Eggs,325.0
+Main Course,Egg Kachu,0,0,2 Eggs,170.0
+Main Course,Egg Shahi Vilas,0,0,3 Eggs,325.0
+Main Course,Egg Tadka Kachu [2 Eggs],0,0,,195.0
+Main Course,Egg Masala Lachko,0,0,4 Egg,325.0
+Main Course,Egg 235,0,0,5 Eggs in red & green curry with sadi fry topping.,400.0
+Main Course,Egg Kachi Lahori Special,0,0,,390.0
+Main Course,Egg Mughlai [5 Eggs],0,0,,390.0
+Main Course,Egg German [3 Eggs],0,0,,390.0
+Bread,Egg Chapati [5 Eggs],0,0,,570.0
+Rice and Biryani,Jeera Rice,1,0,White rice with an aromatic tempering of ghee and roasted cumin seeds,120.0
+Rice and Biryani,Egg Keema Pulao [2 Eggs],0,0,,170.0
+Rice and Biryani,Egg Pulao [2 Eggs],0,0,,145.0
+Rice and Biryani,Egg Kadhi Pulao,0,0,2 Egg,195.0
+Rice and Biryani,Egg Lazeez Pulao [1 Egg],0,0,Coriander boiled egg fried rice.,190.0
+Rice and Biryani,Egg Bhurji Pulao [2 Eggs],0,0,,210.0
+Rice and Biryani,Egg Locha Pulao,0,0,2 Egg,250.0
+Rice and Biryani,Egg Dum Pulao,0,0,,420.0
+Rice and Biryani,Egg Peri Peri Rice,0,0,,420.0
+Kids Special,Lemon Mari Omelette,0,0,2 Egg,120.0
+Kids Special,Egg Sandwich [2 Eggs],0,0,2 Egg,130.0
+Kids Special,Egg Cheese Sandwich,0,0,2 Egg,185.0
+Kids Special,Egg Salt and Pepper Fry,0,0,2 Egg,115.0
+Kids Special,Egg Salt and Pepper Boiled Fry,0,0,2 Egg,185.0
+Kids Special,Scrambled Egg [2 Eggs],0,0,2 Egg,155.0
+Snacks,Egg Cutlet [2 Eggs],0,0,,160.0
+Snacks,Egg Cutlet Cheese [2 Eggs],0,0,,210.0
+Snacks,Egg Samosa [2 Eggs],0,0,,185.0
+Snacks,Egg Cheese Boiled [2 Eggs],0,0,,225.0
+Snacks,Egg Fried Cheese Boiled Fry [4 Eggs],0,0,,390.0
+Snacks,Egg Sadi Half Fry [2 Eggs],0,0,,130.0
+Snacks,Egg Masala Half Fry [2 Eggs],0,0,,185.0
+Snacks,Oil Egg Garlic Half Fry [2 Eggs],0,0,,210.0
+Snacks,Egg Tomato Half Fry [2 Eggs],0,0,,185.0
+Snacks,Egg Kaleji Half Fry,0,0,,170.0
+Snacks,Egg Golmal Half Fry,0,0,,170.0
+Snacks,Egg Tomato Chinese Half Fry,0,0,,170.0
+Snacks,Egg Garlic Chinese Half Fry,0,0,,170.0
+Snacks,Egg 303 [5 Eggs],0,0,,570.0
+Snacks,Egg Cheese Boiled [5 Eggs],0,0,,225.0
+Snacks,Egg One Two ka Four,0,0,,415.0
+Snacks,Egg 20 20 [5 Eggs],0,0,,570.0
+Roll,Egg Rasawala Roll,0,0,3 Egg,220.0
+Combos,Egg Australian Fry with Egg Garlic Curry [2 Eggs],0,0,,500.0
+Combos,Egg Australian Fry [3 Eggs] with 4 Pav and Egg Masala Fry,0,0,,465.0

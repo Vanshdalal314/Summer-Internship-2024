@@ -1,0 +1,298 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meals,Meals,1,0,"Rice, sambar, rasam, kootu, poriyal, Appalam,buttermilk",205.0
+Milkshakes,Afghan Dry Fruits Milkshake,1,0,,230.0
+Milkshakes,Apple And Vanilla Milkshake,1,0,,150.0
+Milkshakes,Apple Vanilla Milkshake,1,0,,180.0
+Milkshakes,Banana Mango Shake,1,0,,190.0
+Milkshakes,Bananastrawberry Milkshake,1,0,,190.0
+Milkshakes,Blueberry Lassi,1,0,,90.0
+Milkshakes,Butterscotch And Pineapple Milkshake,1,0,,140.0
+Milkshakes,Chocopeanut Milkshake,1,0,,180.0
+Milkshakes,Coffeewalnut Milkshake,1,0,,190.0
+Milkshakes,"Fig,dates And Honey Milkshake",1,0,,230.0
+Milkshakes,Flavoured Lassi,1,0,,90.0
+Milkshakes,Fresh Strawbery Milkshake,1,0,,200.0
+Milkshakes,Grapes Milkshakes,1,0,,180.0
+Milkshakes,Hazelnut Coffee Milkshake,1,0,,190.0
+Milkshakes,Lassi,1,0,,90.0
+Milkshakes,Lycheestrawberry Milkshake,1,0,,160.0
+Milkshakes,Mango Milkshake,1,0,,180.0
+Milkshakes,Nutty Affair Milkshake,1,0,,250.0
+Milkshakes,Pista Chio Milkshake,1,0,,150.0
+Milkshakes,Vanilla Milkshake,1,0,,180.0
+Suma Sema Combos,Combo 1,1,0,Meals + watermelon,285.0
+Suma Sema Combos,Combo 2,1,0,Mushroom briyani + watermelon,305.0
+Suma Sema Combos,Combo 3,1,0,Thayir Saadam + kallan milagu varuval,329.0
+Suma Sema Combos,Combo 5,1,0,Vegetable dum briyani kallan milagu varuval,444.0
+Ab Special Signature,5 Suvai Uthappam,1,0,A South Indian dish made with a thick pancake-like batter that includes a ... read more,182.0
+Ab Special Signature,Ab/Spl/Masala Roast,1,0,A South Indian dish made with roasted dosa filled with a special masala.,195.0
+Ab Special Signature,Chinna Vengaya Uthappam,1,0,A South Indian dish made with roasted dosa filled with small onions and ... read more,160.0
+Ab Special Signature,White Butter Corander Podi Roast,1,0,A South Indian dish made with roasted dosa filled with a spicy coriander ... read more,194.0
+Dosa Varieties,Cheese Chilli Coriander Dosa,1,0,"Chilli Cheese Dosa is a vegetarian Indian Chinese snack typically eaten for breakfast, mid-morning, lunch, ... read more",185.0
+Dosa Varieties,Panner Bhuriji Dosa,1,0,Paneer Bhurji is a popular North Indian dish made with Indian cottage cheese aka ... read more,185.0
+Dosa Varieties,Schezwan Roast,1,0,This is a chinese style roast with Chinese schezwan sauce. I,190.0
+Dosa Varieties,Tandoor Baby Aloo Roast,1,0,Aloo Masala also known as Potato Masala is a simple and delicious South ... read more,185.0
+Dosa,Cholam Dosa / Sorghum Millet,1,0,Chola dosai is made with sorghum millet. Sorghum is also called as the big ... read more,120.0
+Dosa,Godumai Dosa/Whole Wheat,1,0,,120.0
+Dosa,Kambu Dosa /Pearl Millet,1,0,Millet Dosa also known as Kambu Dosai in South India are delicious thin crepes ... read more,120.0
+Dosa,Kuthiraivaali Dosa /Barnyard Millet,1,0,"Barnyard Millet Dosa or Kuthiraivali Dosai is a No Rice, Gluten-Free, Vegan healthy Crepe, ... read more",120.0
+Dosa,Ragi Dosa/Finger Millet,1,0,Ragi Dosa is a South Indian crepe made with finger millet also known as ... read more,120.0
+Dosa,Thinai Dosa/ Foxtail Millet,1,0,Foxtail millet dosa/ Thinai dosa is a tasty golden brown crispy South Indian crepe ... read more,120.0
+Dosa,Varagu Dosa/ Kodo Millet,1,0,Varagu Arisi Dosai are delicious Vegan and Gluten Free Crepes (Dosa) made with ... read more,120.0
+Uthappam,Butter Uthappam,1,0,,145.0
+Uthappam,Ghee Podi Onoin Uthappam,1,0,,169.0
+Uthappam,Ghee Uthappam,1,0,,145.0
+Uthappam,Onion Uthappam,1,0,,133.0
+Uthappam,Podi Onion Uthappam,1,0,,157.0
+Uthappam,Uthappam,1,0,,103.0
+Briyani & Pulao,AB Speacial Dum Briyani,1,0,Vegetables are marinated and cooked along with short-grained and fine rice. It is left ... read more,278.0
+Briyani & Pulao,"Fried Onion, Cashew Jeera Pulao",1,0,Jeera cashew pulao is a rich version of jeera rice with lots of crisp ... read more,266.0
+Briyani & Pulao,Jeera Pulao,1,0,Jeera is the Indian word for cumin seeds. So Jeera Rice is simply rice cooked ... read more,218.0
+Briyani & Pulao,Kabuli Channa And Koya Pulao,1,0,A nutritional rice based recipe prepared with white chickpeas or kabuli chana and other ... read more,266.0
+Briyani & Pulao,Kashmiri Pulao,1,0,Kashmiri pulao is a delicious variant of rice pulao from Kashmiri cuisine made with ... read more,303.0
+Briyani & Pulao,Makai Aur Mutter Pulao,1,0,Peas pulao also known as matar pulao is a tasty rice and green peas ... read more,242.0
+Briyani & Pulao,Mushroom Briyani,1,0,"Mushroom biryani is the classic vegetarian version of biryani with meaty mushrooms, tender fluffy ... read more",242.0
+Briyani & Pulao,Mushroom Pulao,1,0,"Mushroom pulao is a tasty pulao variant made with white button mushrooms, basmati rice, ... read more",242.0
+Briyani & Pulao,Paneer And Cajun Spiced Aloo Pulao,1,0,Paneer & potato rice is a simple delicious dish made by stir frying potatoes ... read more,278.0
+Briyani & Pulao,Paneer Briyani,1,0,"Paneer Biryani is a delicious vegetarian layered dish of paneer, dum cooked with spices, ... read more",242.0
+Briyani & Pulao,Vegetable Dum Briyani,1,0,Vegetables are marinated and cooked along with short-grained and fine rice. It is left ... read more,218.0
+Briyani & Pulao,Vegetable Pulao,1,0,Veg Pulao also known as Vegetable Pulao is a basic Indian style rice pilaf ... read more,218.0
+Fried Rice,Butter Tossed Mushroom Fried Rice,1,0,"Mushroom fried rice recipe in Indo Chinese style. Roasted mushroom with garlic, olive oil make the ... read more",300.0
+Fried Rice,Cantonese Chili & Green Peas Fried Rice,1,0,"A fragrant rice dish cooked with basmati rice, spices, and green peas and ... read more",254.0
+Fried Rice,Exotic Vegetable Fried Rice,1,0,A vegetarian version of biryani made with fragrant basmati rice cooked with a ... read more,239.0
+Fried Rice,Ghee Rice,1,0,"Ghee Rice is a classic and super aromatic South Indian meal made with rice, ... read more",230.0
+Fried Rice,Oriental Vegetable Fried Rice,1,0,"Veg Fried Rice recipe is made with a hearty mix of fresh vegetables, ... read more",339.0
+Fried Rice,Paneer Tikka And Bell Pepper Fried Rice,1,0,"A fragrant rice dish cooked with basmati rice, spices, and paneer and bell ... read more",278.0
+Fried Rice,Pineapple And Black Pepper Fried Rice,1,0,The black pepper helps to add a bit of heat and spice to complement the ... read more,278.0
+Fried Rice,Shanghai Fried Rice,1,0,"Shanghai Fried Rice is a Chinese fried rice recipe which is mixed with vegetables, meat, and ... read more",339.0
+Fried Rice,Sweetcorn And Golden Garlic Rice,1,0,"It is a spiced and tasty variant of pulao made with tender corn kernels, ... read more",278.0
+Fried Rice,Szechwan Paneer Fried Rice,1,0,"A spicy rice dish from Indo-chinese cuisine, is very similar to Chinese Fried Rice but has one ... read more",290.0
+Fried Rice,Szechwan Vegetable Fried Rice,1,0,Schezwan fried rice is a zesty vegetarian and vegan stir-fried rice variant that features a ... read more,254.0
+Fried Rice,Tom Yum Vegetable Fried Rice,1,0,"It is a combination of fried rice and tom yum flavour, which is strong in spicy, sour, ... read more",339.0
+Indian Breads,Aloo Paratha,1,0,,133.0
+Indian Breads,Bharwan Aloo Kulcha,1,0,,157.0
+Indian Breads,Black Olive Naan,1,0,,157.0
+Indian Breads,Butter Garlic Laccha Paratha,1,0,,144.0
+Indian Breads,Butter Kulcha,1,0,,121.0
+Indian Breads,Butter Naan,1,0,,97.0
+Indian Breads,Butter Roti,1,0,,97.0
+Indian Breads,Cheese Chilli Naan,1,0,,157.0
+Indian Breads,Cheesy Hare Mirchi Ka Roti,1,0,,182.0
+Indian Breads,Dry Fruits And Nuts Kulcha,1,0,,157.0
+Indian Breads,Garlic Butter Naan,1,0,,133.0
+Indian Breads,Garlic Roti,1,0,,133.0
+Indian Breads,Gobi Paratha,1,0,,133.0
+Indian Breads,Kashmiri Naan,1,0,,157.0
+Indian Breads,Kulcha,1,0,,97.0
+Indian Breads,Masala Kulcha,1,0,,133.0
+Indian Breads,Methi Roti,1,0,,120.0
+Indian Breads,Naan,1,0,,85.0
+Indian Breads,Onion Sesame Kulcha,1,0,,133.0
+Indian Breads,Paneer Kulcha,1,0,,133.0
+Indian Breads,Phulka(2no),1,0,,85.0
+Indian Breads,Pudina Paratha,1,0,,119.0
+Indian Breads,Roti,1,0,,85.0
+Indian Breads,Tandoori Laccha Paratha,1,0,,145.0
+Indian Breads,Tandoori Stuffed Paratha,1,0,,168.0
+Indian Breads,Tawa Laccha Paratha,1,0,,121.0
+Daal,Daal Kichadi,1,0,"Khichdi is a simple, classic Indian dish made with rice and yellow mung lentils. ... read more",254.0
+Daal,"Daal Palak, Roasted Garlic",1,0,"Dal Palak is an Indian dish made with spinach, lentils, spices and herbs. This ... read more",254.0
+Daal,Daal Tadka,1,0,This restaurant style dal tadka is a smooth and creamy dal tempered with Indian spices ... read more,218.0
+Asain Appetizers,Bhutanese Chilli Pineapple,1,0,Mouthwatering sweet and sour chilli pineapple,279.0
+Asain Appetizers,Black Pepper Baby Corn,1,0,"Baby Corn Salt and Pepper is a tasty, spiced dish made by marinating ... read more",279.0
+Asain Appetizers,Cantonese Chilli Paneer,1,0,Cantonese Chilli Paneer is an Indo-Chinese appetizer where crisp batter fried paneer is tossed ... read more,279.0
+Asain Appetizers,Crispy Corn Salt And Pepper,1,0,"Corn Pepper Salt, is a healthy wholesome gourmet recipe that is made with batter fried corn kernels ... read more",254.0
+Asain Appetizers,Golden Fried Tempura Babycorn,1,0,Crunchy golden tempura baby corn is a perfect starter served with an herby Green ... read more,279.0
+Asain Appetizers,Honey Chilli Pineapple,1,0,,250.0
+Asain Appetizers,Red Chilli Roasted Tempura Mushroom,1,0,A crispy roasted mushrooms blended with the spiced tempura batter made from an old-fashioned ... read more,319.0
+Asain Appetizers,Seven Spicy Cheese,1,0,"Seven spices include black pepper powder, allspice powder or kebabchini, fenugreek powder , ... read more",299.0
+Asain Appetizers,Singapore Chilli Garlic Fries,1,0,"An exotic accompaniment that can add zing to your main course, it is ... read more",266.0
+Asain Appetizers,Veg Lolipop,1,0,,340.0
+Asain Appetizers,Veg Spring Roll,1,0,Spring roll is a traditional Chinese savory snack where a pastry sheet is filled ... read more,194.0
+Fries,Cheesy Fries,1,0,They're crispy and smothered in a sumptuous cheese sauce.,169.0
+Fries,French Fries,1,0,Side dish or snack typically made from deep-fried potatoes that have been cut ... read more,157.0
+Fries,Karuveppilai Masala Fries,1,0,Crispy karuveppilai French Fries is an spicy Indian style Potato French Fries recipe made by mixing thinly cut potatoes ... read more,169.0
+Fries,Peri Peri Fries,1,0,"Crispy fries, sprinkled with an peri peri seasoning.",154.0
+Falooda,AB Special Falooda,1,0,"Falooda is a popular Ice cream dessert made with vermicelli, jelly, rose syrup, sabja ... read more",315.0
+Falooda,Butterscotch Falooda,1,0,This is a delicious and yummy beverage dessert that is flavoured with butterscotch.,278.0
+Falooda,Chocolate Falooda,1,0,This is a delicious and yummy beverage dessert that is flavoured with chocolate.,254.0
+Falooda,Fruits And Nuts Falooda,1,0,This is a delicious and yummy beverage dessert that is flavoured with Fruits and ... read more,290.0
+Falooda,Mango Falooda,1,0,This is a delicious and yummy beverage dessert that is flavoured with mango.,254.0
+Falooda,Rose Falooda,1,0,This is a delicious and yummy beverage dessert that is flavoured with rose essense.,254.0
+Falooda,Royal Falooda,1,0,"Royal Falooda is rich, exotic and so delectable with many different dry fruits, fresh ... read more",266.0
+Falooda,Strawberry Falooda,1,0,This is a delicious and yummy beverage dessert that is flavoured with Strawberry.,242.0
+Hot Griddle,Chappathi 2 Nos,1,0,Soft and fluffy Indian flatbread made with wheat flour and served with a ... read more,97.0
+Hot Griddle,Chilly Parotta,1,0,"A South Indian flatbread made with maida (all-purpose flour), stuffed with spicy chilli ... read more",218.0
+Hot Griddle,Keerai Chappathi -2 No,1,0,Soft and fluffy Indian flatbread made with wheat flour & greeny leaf and ... read more,121.0
+Hot Griddle,Mushroom Kothu Parotta,1,0,"A South Indian flatbread made with maida (all-purpose flour), stuffed with mushrooms and ... read more",242.0
+Hot Griddle,Paneer Kathi Roll,1,0,Veg kathi roll are Indian style wraps made with paneer filling and green ... read more,278.0
+Hot Griddle,Paneer Kothu Parotta,1,0,"A South Indian flatbread made with maida (all-purpose flour), stuffed with pepper and ... read more",242.0
+Hot Griddle,Parotta 2 Nos,1,0,A flaky and layered Indian flatbread made with all-purpose flour and served with ... read more,109.0
+Hot Griddle,Ragi Chappathi - 2 No,1,0,Soft and fluffy Indian flatbread made with ragi flour and served with a ... read more,121.0
+Hot Griddle,Veechu Parotta,1,0,Veechu Parotta is a popular layered flatbread from Tamil Nadu similar to the ... read more,85.0
+Hot Griddle,Vegetable Kathi Roll,1,0,Veg kathi roll are Indian style wraps made with veggie filling and green ... read more,242.0
+Hot Griddle,Vegetable Kothu Parotta,1,0,,218.0
+Hot Griddle,Wheat Parotta,1,0,A South Indian layered flatbread made with maida (all-purpose flour) and cooked on ... read more,121.0
+Indian And Tandoori,Bhindi Kurkure,1,0,,215.0
+Indian And Tandoori,Bhutta Ke Tikki,1,0,,230.0
+Indian And Tandoori,Hara Bhara Kebab,1,0,,230.0
+Indian And Tandoori,Malai Broccoli,1,0,,250.0
+Indian And Tandoori,Paneer Amristari,1,0,,240.0
+Indian And Tandoori,Paneer Pappad Chori,1,0,,240.0
+Indian And Tandoori,Paneer Tikka,1,0,,250.0
+Indian And Tandoori,Tandoori Khumb Tikka,1,0,,235.0
+Indian And Tandoori,Tandoori Pesto Aloo,1,0,,230.0
+Indian And Tandoori,Tandoori Vegetable Seekh,1,0,,230.0
+Indian And Tandoori,Zaffarani Paneer Tikka,1,0,,270.0
+Kids Wonderland,Bujji's Nattusakkarai Honey Roast,1,0,,120.0
+Kids Wonderland,Chin Chan Corn Noodles,1,0,,120.0
+Kids Wonderland,Hulk Cheese Naan,1,0,,120.0
+Main Courses,Bok Choy In Oriental Sauce,1,0,,385.0
+Main Courses,Exotic Vegetable Kung Pao Sauce,1,0,,385.0
+Main Courses,Thai Vegetable Curry,1,0,,410.0
+Manchurian Dry,Baby Corn Manchurian Dry,1,0,,290.0
+Manchurian Dry,Exotic Vegetables Manchurian Dry,1,0,,266.0
+Manchurian Dry,Gobi Manchurian Dry,1,0,,266.0
+Manchurian Dry,Mushroom Manchurian Dry,1,0,,278.0
+Manchurian Dry,Paneer Manchurian Dry,1,0,,315.0
+Manchurian Gravy,Baby Corn Manchurian Gravy,1,0,,290.0
+Manchurian Gravy,Exotic Vegetables Manchurian Gravy,1,0,,266.0
+Manchurian Gravy,Gobi Manchurian Gravy,1,0,,266.0
+Manchurian Gravy,Mushroom Manchurian Gravy,1,0,,278.0
+Manchurian Gravy,Paneer Manchurian Gravy,1,0,,315.0
+Noodles,Burmese Noodles,1,0,,339.0
+Noodles,Chienese Chop Suey,1,0,,315.0
+Noodles,Chilli Basil Noodles,1,0,,339.0
+Noodles,Curried Mushroom Noodles,1,0,,278.0
+Noodles,Hawaiin Noodles,1,0,,278.0
+Noodles,Hokkien Noodles,1,0,,315.0
+Noodles,Mushroom Noodles,1,0,,254.0
+Noodles,Pan Fried Broccoli And Ginger Noodles,1,0,,290.0
+Noodles,Pan Fried Noodles,1,0,,290.0
+Noodles,Paneer Noodles,1,0,,254.0
+Noodles,Stir Fried Paneer Noodles,1,0,,266.0
+Noodles,Szechwan Vegetable Noodles,1,0,,278.0
+Noodles,Thai Vegetable Noodles,1,0,,278.0
+Noodles,Vegetable Hakka Noodles,1,0,,266.0
+Raita,Boondi Raita,1,0,,103.0
+Raita,Cucumber Raita,1,0,,103.0
+Raita,Mix Veg Raita,1,0,,115.0
+Raita,Pineapple Raita,1,0,,121.0
+Top 65,Babycorn 65,1,0,,242.0
+Top 65,Broccoli 65,1,0,,278.0
+Top 65,Cauliflower Poondu Fry,1,0,,254.0
+Top 65,Gobi 65,1,0,,218.0
+Top 65,Kallan Milagu Varuval,1,0,,254.0
+Top 65,Mushroom 65,1,0,,242.0
+Top 65,Paneer 65,1,0,,266.0
+Vegetables & Curries,Achaari Aloo,1,0,,240.0
+Vegetables & Curries,Aloo Dum Kashmiri,1,0,,266.0
+Vegetables & Curries,Aloo Gobi Masala Dry,1,0,,230.0
+Vegetables & Curries,Aloo Gobi Masala Masala,1,0,,230.0
+Vegetables & Curries,Aloo Jeera Dry,1,0,,215.0
+Vegetables & Curries,Aloo Jeera Masala,1,0,,215.0
+Vegetables & Curries,Aloo Mutter Masala Dry,1,0,,230.0
+Vegetables & Curries,Aloo Mutter Masala Masala,1,0,,230.0
+Vegetables & Curries,Aloo Palak,1,0,,215.0
+Vegetables & Curries,Aloo Pepper Fry,1,0,,225.0
+Vegetables & Curries,Baby Corn Masala,1,0,,254.0
+Vegetables & Curries,Bhindi Do Pyaza,1,0,,254.0
+Vegetables & Curries,Garlic Mushroom Masala,1,0,,278.0
+Vegetables & Curries,Gobi Mutter,1,0,,254.0
+Vegetables & Curries,Kadai Baby Corn Masala,1,0,,254.0
+Vegetables & Curries,Kadai Mushroom,1,0,,266.0
+Vegetables & Curries,Kadai Spiced Vegetables,1,0,,254.0
+Vegetables & Curries,Mixed Vegetable Makhani,1,0,,254.0
+Vegetables & Curries,Mushroom Chettinad,1,0,,266.0
+Vegetables & Curries,Mushroom Chinthamani,1,0,,266.0
+Vegetables & Curries,Mushroom Pepper Fry,1,0,,254.0
+Vegetables & Curries,Subz Jalfrezi,1,0,,254.0
+Vegetables & Curries,Sukka Mutter Masala,1,0,,242.0
+Vegetables & Curries,Vegetable Navaratan Khorma,1,0,,254.0
+Yummylicious Gravy,Baby Corn Black Pepper Sauce,1,0,,290.0
+Yummylicious Gravy,Black Bean Vegetables,1,0,,240.0
+Yummylicious Gravy,Hot Garlic Paneer,1,0,,250.0
+Yummylicious Gravy,Mushroom In Fried Oyster Sauce,1,0,[Veg Preparation],255.0
+Yummylicious Gravy,Schezwan Paneer,1,0,,250.0
+Yummylicious Gravy,Shitake Bokchoy In Schezwan Pepper Sauce,1,0,,320.0
+Yummylicious Gravy,Singaporean Vegetable,1,0,,260.0
+Yummylicious Gravy,Stir Fry Bok Choy In Sesame Sauce,1,0,,240.0
+Yummylicious Gravy,Thai Green Curry Vegetables,1,0,,300.0
+Yummylicious Gravy,Thai Red Curry Vegetables,1,0,,300.0
+Yummylicious Gravy,Vegetables In Butter Garlic Sauce,1,0,,250.0
+Asian Appetizers,Honey Chilli Lotus,1,0,,450.0
+Main Course,Kadai Paneer,1,0,,315.0
+Main Course,Malai Kofta Curry,1,0,,315.0
+Main Course,Palak Paneer,1,0,,290.0
+Main Course,Paneer Bhurji,1,0,,290.0
+Main Course,Paneer Butter Masala,1,0,,303.0
+Main Course,Paneer Chettinad Masala,1,0,,290.0
+Main Course,Paneer Jalfrezi,1,0,,315.0
+Main Course,Paneer Mutter Masala,1,0,,315.0
+Main Course,Paneer Patiyala,1,0,,339.0
+Main Course,Paneer Tikka Masala,1,0,,339.0
+Variety Rice,Kambu Thayir Sadam,1,0,,100.0
+Variety Rice,Lemon Rice,1,0,,85.0
+Variety Rice,Sambar Rice,1,0,,97.0
+Variety Rice,Thayir Saadam,1,0,,85.0
+Variety Rice,Thayir Semiya.,1,0,,100.0
+South Indian,Butter Masala Roast,1,0,,155.0
+South Indian,Butter Roast,1,0,,140.0
+South Indian,Cashew And Vegetable Rava,1,0,,180.0
+South Indian,Ghee Masala Roast,1,0,,155.0
+South Indian,Ghee Podi Onion Roast,1,0,,160.0
+South Indian,Ghee Rava Dosa,1,0,,145.0
+South Indian,Ghee Roast,1,0,,140.0
+South Indian,Ginglly Oil Dosa,1,0,,130.0
+South Indian,Masala Roast,1,0,,130.0
+South Indian,Mushroom Pepper Masala Roast,1,0,,200.0
+South Indian,Onion Rava,1,0,,145.0
+South Indian,Onion Roast,1,0,,130.0
+South Indian,Panner Chettind Masala Dosa,1,0,,235.0
+South Indian,Podi Onion Roast,1,0,,150.0
+South Indian,Podi Roast,1,0,,135.0
+South Indian,Rava Dosa,1,0,,130.0
+South Indian,Rava Masala,1,0,,140.0
+South Indian,Roast,1,0,,103.0
+Snacks,SMABAR VADAI 2no,1,0,,85.0
+Snacks,THAYIR VADAI 2no,1,0,,97.0
+Fresh Juices,Amla Juice,1,0,,100.0
+Fresh Juices,Apple Banana Juice,1,0,,185.0
+Fresh Juices,Apple Juice,1,0,,135.0
+Fresh Juices,Ginger Lime Juice,1,0,,100.0
+Fresh Juices,Grapes Juice,1,0,,100.0
+Fresh Juices,Lemon Mint Juice,1,0,,100.0
+Fresh Juices,Mango (Seasonal),1,0,,145.0
+Fresh Juices,Musk Melon Juice,1,0,,109.0
+Fresh Juices,Orange Juice,1,0,,160.0
+Fresh Juices,Papaya Juice,1,0,,85.0
+Fresh Juices,Pineapple Juice,1,0,,121.0
+Fresh Juices,Pomegranate (pure) Juice,1,0,,300.0
+Fresh Juices,Pomegranate Juice,1,0,,265.0
+Fresh Juices,Pure Apple Juice,1,0,,230.0
+Fresh Juices,Sweetlime Juice,1,0,Pineapple.,133.0
+Fresh Juices,Sweetlime(pineapple) Juice,1,0,,170.0
+Fresh Juices,Watermelon Juice,1,0,,100.0
+Sweets,Adhirasam(1pcs),1,0,,15.0
+Sweets,Baby Milk Cake(1PCS),1,0,,25.0
+Sweets,Badam Halwa(20gm),1,0,,30.0
+Sweets,Carrot Halwa(100G),1,0,,70.0
+Sweets,Elaneer Halwa(100G),1,0,,70.0
+Sweets,Ghee Laddu(1PCS),1,0,,25.0
+Sweets,Gulab Jamun(2PCS),1,0,,50.0
+Sweets,Karupatti Halwa(100G),1,0,,76.0
+Sweets,Kesar Peda(1pcs),1,0,,16.0
+Sweets,Khas Khas Halwa(20gm),1,0,,25.0
+Sweets,Malai Appam(1pcs),1,0,,20.0
+Sweets,Milk Halwa(100G),1,0,,72.0
+Sweets,Milk Peda(1PCS),1,0,,20.0
+Sweets,Onion Samosa(1PCS),1,0,,12.0
+Sweets,Paruppu Boli(1pcs),1,0,,26.0
+Sweets,Premium Kaju Katli(1PCS),1,0,,25.0
+Sweets,Punjabi Samosa(1PCS),1,0,,25.0
+Sweets,Rasagulla Box Small,1,0,,50.0
+Sweets,Sattur Laddu(1PCS),1,0,,12.0
+Sweets,Sugar Less Kesar(1PCS),1,0,,26.0
+Sweets,Sugar Less Khajur(1PCS),1,0,,26.0
+Sweets,Thengai Boli(1pcs),1,0,,26.0
+Sweets,Wheat Halwa(100G),1,0,,65.0

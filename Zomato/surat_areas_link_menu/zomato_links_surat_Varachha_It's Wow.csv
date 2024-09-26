@@ -1,0 +1,57 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burgers,Mayo Burger,1,0,Mayo burger with fresh aloo tikki and cheesy sauce.,67.15
+Burgers,Aloo Tikki Burger,1,0,"Enjoy your favorite aloo tikki burger with fresh aloo patty, onion & cheesy ... read more",92.65
+Burgers,Crispy Veg Burger,1,0,"Enjoy wow crispy veg burger with topping of crispy veg patty, onion & ... read more",101.15
+Burgers,Peri Peri Veg Burger,1,0,"Enjoy wow peri peri burger with topping of crispy veg patty, onion, lettuce ... read more",109.65
+Burgers,Chilli Cheese Burger,1,0,"Enjoy wow chilli cheese burger with topping of crispy veg patty, onion, lettuce ... read more",118.15
+Burgers,Supreme Veg Burger,1,0,"Enjoy wow supreme veg burger with topping of crispy veg patty, onion, lettuce ... read more",101.15
+Burgers,Jalapeno Burger,1,0,"Enjoy wow jalapeno burger with topping of corn patty, onion, jalapeno slice, spicy ... read more",118.15
+Burgers,Corn & Cheese Burger,1,0,"Enjoy wow special corn & cheese burger with topping of corn patty, onion, ... read more",135.15
+Burgers,Spicy Paneer Burger,1,0,"Enjoy wow spicy paneer burger with topping of paneer patty, lettuce and spicy ... read more",152.15
+Double Patty Burgers,Double Decker Mayo Burger,1,0,Mayo double decker burger with fresh 2 aloo tikki and cheesy sauce.,92.65
+Double Patty Burgers,Double Decker Aloo Tikki Burger,1,0,"Enjoy your favorite double decker aloo tikki burger with fresh 2 aloo patty, ... read more",101.15
+Double Patty Burgers,Double Decker Crispy Veg Burger,1,0,Enjoy wow double decker crispy veg burger with topping of crispy veg patty ... read more,109.65
+Double Patty Burgers,Double Decker Peri Peri Burger,1,0,Enjoy wow double decker peri peri burger with topping of crispy veg patty ... read more,118.15
+Double Patty Burgers,Double Decker Chilli Cheese Burger,1,0,Enjoy wow double decker chilli cheese burger with topping of crispy veg patty ... read more,126.65
+Double Patty Burgers,Double Decker Supreme Veg Burger,1,0,Enjoy wow double decker supreme veg burger with topping of crispy veg patty ... read more,135.15
+Double Patty Burgers,Double Decker Jalapeno Burger,1,0,"Enjoy wow double decker jalapeno burger with topping of corn patty [2 Patty], ... read more",160.65
+Double Patty Burgers,Double Decker Corn and Cheese Burger,1,0,Enjoy wow double decker special corn and cheese burger with topping of corn ... read more,177.65
+Regular Burger Combos,Mayo Burger Meal,1,0,Mayo Burger+Fries [Medium]+Coke Soft Beverage [250 ml],152.15
+Regular Burger Combos,Aloo Tikki Burger Meal,1,0,Aloo Tikki Burger+Fries [Medium]+Coke [250 ml],160.65
+Regular Burger Combos,Crispy Veg Burger Meal,1,0,Crispy Veg Burger+Fries [Medium]+Coke Soft Beverage [250 ml],169.15
+Regular Burger Combos,Peri Peri Burger Meal,1,0,Peri Peri Burger+Fries [Medium]+Coke Soft Beverage [250 ml],177.65
+Regular Burger Combos,Chilli Cheese Burger Meal,1,0,Chilli Cheese Burger+Fries [Medium]+Coke Soft Beverage [250 ml],186.15
+Regular Burger Combos,Supreme Veg Burger Meal,1,0,Supreme Veg Burger+Fries [Medium]+Coke Soft Beverage [250 ml],194.65
+Regular Burger Combos,Jalapeno Burger Meal,1,0,Jalapeno Burger+Fries [Medium]+Coke Soft Beverage [250 ml],211.65
+Regular Burger Combos,Corn and Cheese Burger Meal,1,0,Corn & Cheese Burger+Fries [Medium]+Coke Soft Beverage [250 ml],228.65
+Regular Burger Combos,Spicy Paneer Burger Meal,1,0,Spicy Paneer Burger+Fries [Medium]+Coke Soft Beverage [250 ml],245.65
+Double Patty Burger Combos,Double Decker Mayo Burger Meal,1,0,Mayo Double Decker Burger [2 Pieces] [Aloo tikki]+Fries [140 grams]+Coke Soft Beverage [250 ... read more,177.65
+Double Patty Burger Combos,Double Decker Aloo Tikki Meal,1,0,Double Decker Aloo Tikki Burger [2 Pieces] [Aloo patty]+Fries [140 grams]+Coke Soft Beverage ... read more,186.15
+Double Patty Burger Combos,Double Decker Crispy Veg Meal,1,0,Double Decker Crispy Veg Burger [2 Pieces] [Crispy veg patty]+Fries [140 grams]+Coke Soft ... read more,194.65
+Double Patty Burger Combos,Double Decker Peri Peri Meal,1,0,Double Decker Peri Peri Burger [2 Pieces] [Crispy veg patty]+Fries [140 grams]+Coke Soft ... read more,203.15
+Double Patty Burger Combos,Double Decker Chilli Cheese Meal,1,0,Double Decker Chili Cheese Burger [2 Pieces] [Crispy veg patty]+Fries [140 grams]+Coke Soft ... read more,211.65
+Double Patty Burger Combos,Double Decker Supreme Veg Meal,1,0,Double Decker Supreme Veg Burger [2 Pieces] [Crispy veg patty]+Fries [140 grams]+Coke Soft ... read more,220.15
+Double Patty Burger Combos,Double Decker Jalapeno Meal,1,0,Double Decker Jalapeno Burger [2 Pieces] [Corn patty]+Fries [140 grams]+Coke Soft Beverage [250 ... read more,245.65
+Double Patty Burger Combos,Double Decker Corn and Cheese Burger Meal,1,0,Double Decker Corn Cheese Burger [2 Pieces] [Corn patty]+Fries [140 grams]+Coke Soft Beverage ... read more,262.65
+Roti Wraps,Paneer Tadka Wrap,1,0,"Wow paneer tadka wrap with paneer, capsicum, cabbage, onion and spicy tadka sauce ... read more",101.15
+Roti Wraps,Vegito Crunch Wrap,1,0,"Enjoy the delicious taste with wow vegito crunch wrap created with veg finger, ... read more",126.65
+French Fries,French Fries [Medium],1,0,"French fries, your tummy always ready to eat the delicious fries with lightly ... read more",84.15
+French Fries,French Fries [Large],1,0,French fries Your tummy always ready to eat the delicious fries with lightly ... read more,143.65
+French Fries,Peri Peri French Fries [Medium],1,0,"Pery pery fries- feel taste in every bite of fries, with wow special ... read more",118.15
+French Fries,Peri Peri French Fries [Large],1,0,"Peri peri fries feel taste in every bite of fries, with wow special ... read more",126.65
+French Fries,Spicy Garlic Fries [Medium],1,0,"Spicy garlic fries with delicious, tasty & spicy garlic masala.",101.15
+French Fries,Spicy Garlic Fries [Large],1,0,"Spicy garlic fries with delicious, tasty & spicy garlic masala.",143.65
+French Fries,Mexican Cheese Fries [Medium],1,0,Mexican French fries French fries loaded with Cocktail sauce. once you try this ... read more,143.65
+French Fries,Mexican Cheese Fries [Large],1,0,"Mexican French fries, French fries loaded with cocktail sauce. once you try this ... read more",186.15
+Garlic Bread,Garlic Bread,1,0,Garlic bread is a perfect blend of smooth garlic paste and dry cheese.,84.15
+Garlic Bread,Cheese Blast Garlic Bread,1,0,"Garlic bread is a perfect blend of smooth garlic paste, cheesy sauce and ... read more",101.15
+Garlic Bread,Corn Garlic Bread,1,0,"Garlic bread is a perfect blend of smooth garlic paste, cheesy sauce, corn ... read more",118.15
+Garlic Bread,Mexican Garlic Bread,1,0,"Garlic bread is a perfect blend of smooth garlic paste, cheesy sauce, corn, ... read more",126.65
+Garlic Bread,Jalapeno Stuffed Garlic Bread,1,0,"Garlic bread is a perfect blend of smooth garlic paste, cheesy sauce, corn, ... read more",143.65
+Potato Wedges,Peri Peri Potato wedges,1,0,"Baked to perfection, your perfect potato vegies. crunch your taste through our potato ... read more",118.15
+Potato Wedges,Spicy Garlic Potato Wedges,1,0,"Baked to perfection, your perfect potato spicy garlic wedges.",135.15
+Potato Wedges,Potato Wedges with Dry Cheese,1,0,"Baked to perfection, your perfect potato wedges with dry  cheese.",152.15
+Potato Wedges,Mexican Potato Wedges,1,0,crunch your taste with perfect Mexican potato wedges. feel awesome taste of potato.,194.65
+Crispy Veg Fingers,Crispy Veg Fingers,1,0,Truly irresistible ! Crispy veg finger with Crunchy vegetables & creamy cheese deep. ... read more,126.65
+Cold Coffee,Classic Cold Coffee,1,0,Premier classic cold coffee from wow with the goodness of taste.,84.15
+Cold Coffee,Creamy Cold Coffee,1,0,Premier Creamy cold coffee from wow with the goodness of taste.,101.15

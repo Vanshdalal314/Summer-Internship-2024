@@ -1,0 +1,47 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pani Puri,Hajmola Panipuri [18 Pieces],1,0,Chatpata and light spicy natural hajmola taste.,155.0
+Pani Puri,Tikha Mitha Pani Puri [18 Pieces],1,0,Pahele mitha last me tikha wala ummy taste.,155.0
+Pani Puri,Spicy Green Chilli Panipuri [18 Pieces],1,0,Green mirchi pieces spicy lovers special.,155.0
+Pani Puri,Hing Tadka Pani Puri [18 Pieces],1,0,Pure healthy & immunity power total 18 masala added.,155.0
+Pani Puri,Green Tadka [18 Pieces],1,0,Yummy chatpata with spicy.,155.0
+Pani Puri,Imli Pani Puri [18 Pieces],1,0,Sweet with low spicy.,155.0
+Pani Puri,Pudina Pani Puri [18 Pieces],1,0,[Medium Spicy],155.0
+Pani Puri,Limbu Mari Pani Puri [18 Pieces],1,0,[Medium Spicy],155.0
+Pani Puri,Ginger Jaljeera Pani Puri [18 Pieces],1,0,[Medium Spicy],155.0
+Pani Puri,Red Chilli Garlic Pani Puri [18 Pieces],1,0,Garlic and dry red mirch strong spicy.,155.0
+Pani Puri,Regular Pani Puri [18 Pieces],1,0,[Medium Spicy],155.0
+Pani Puri,Spicy Green Tadka Pani Puri [18 Pieces],1,0,,155.0
+Pani Puri,Green Garlic Pani Puri [18 Pieces],1,0,,155.0
+Pani Puri,Family Combo [60 Pieces],1,0,"[Veg preparation] Comes with four flavour of water regular, imli, green tadka, red ... read more",515.0
+Churna Specials,Churan Plate,1,0,,105.0
+Churna Specials,Cheese Churan Plate,1,0,,170.0
+Churna Specials,Dahi Churan,1,0,,155.0
+Churna Specials,Sprout Beans Paneer Churan,1,0,,180.0
+Churna Specials,Sprout Beans Cheese Paneer Churan,1,0,,225.0
+Churna Specials,Cheese Masala Puri [10 Pieces],1,0,,135.0
+Churna Specials,Masala Puri [10 Pieces],1,0,,100.0
+Chaat Specials,Basket Chaat [10 Pieces],1,0,,180.0
+Chaat Specials,Cheese Basket Chaat [10 Pieces],1,0,,225.0
+Chaat Specials,Bowl Chaat,1,0,Hot aloo matar with sweet n cool cards unique taste.,115.0
+Bomb Specials,Dahi Bomb Pani Puri [10 Pieces],1,0,Sweet and spicy with creamy special dahi,160.0
+Bomb Specials,Cream Kiwi Bomb Pani Puri [6 Pieces],1,0,,190.0
+Bomb Specials,Pan Chocolate Bomb Pani Puri [6 Pieces],1,0,Amazing taste specially for paan lovers.,185.0
+Bomb Specials,Oreo Chocolate Bomb Pani Puri [6 Pieces],1,0,,200.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,190.0
+Sandwiches,Veg Mayo Grilled Sandwich,1,0,,175.0
+Sandwiches,Veg Cheese Mayo Grilled Sandwich,1,0,,220.0
+Sandwiches,Veg Mayo Tandoori Grilled Sandwich,1,0,,215.0
+Sandwiches,Veg Cheese Mayo Tandoori Grilled Sandwich,1,0,,260.0
+Sandwiches,Veg Mayo Peri Peri Grilled Sandwich,1,0,,215.0
+Sandwiches,Veg Cheese Mayo Peri Peri Grilled Sandwich,1,0,,260.0
+Sandwiches,Paneer Panini Grilled Sandwich,1,0,Loaded paneer with capsicum n onion,235.0
+Sandwiches,Cheese Paneer Panini Grilled Sandwich,1,0,Loaded paneer capsicum n onion with cheese.,260.0
+Sandwiches,Cheese Pineapple Sandwich,1,0,,170.0
+Coffee,Frappe [300 ml],1,0,Cold coffee with creamy taste.,245.0
+Pizza,Tomato Pizza [7 inches],1,0,Tomato slices.,180.0
+Pizza,Tomato Onion Pizza [7 inches],1,0,Tomato and onion slices.,180.0
+Pizza,Onion Pizza [7 inches],1,0,,180.0
+Pizza,Margherita Pizza [7 inches],1,0,,205.0
+Pizza,Black Olive Pizza [7 inches],1,0,,205.0
+Pizza,Paneer Pizza [7 inches],1,0,,265.0
+Pizza,Double Cheese Loaded Pizza [7 inches],1,0,,300.0

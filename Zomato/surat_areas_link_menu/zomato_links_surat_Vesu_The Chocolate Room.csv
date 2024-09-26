@@ -1,0 +1,70 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Eggless Truffle Cake,1,0,"Savor the divine temptation of our chocolate truffle cake, a heavenly fusion of ... read more",1100.0
+Cakes,Eggless Choco Chips Cake,1,0,"Loaded with chocolate chips and chocolate ganache, this rich decadent chocolate cake is ... read more",1175.0
+Cakes,Eggless Excess Cake,1,0,"Indulge in the ultimate chocolate lover's delight with our decadent chocolate excess cake, ... read more",1150.0
+Cakes,German Chocolate [350 g],1,0,Savor the crunch in every bite with our chocolate crunch cake a heavenly ... read more,750.0
+Cakes,Chocolate Almond Cake [500 g],1,0,,1200.0
+Cakes,Heart Shape Pinata Cake [500 grams],1,0,,1600.0
+Cakes,Chocolate Truffle Pastry,1,0,[Veg preparation],320.0
+Sundaes,The Chocolate Room Brownie Sundae,1,0,,578.0
+Sundaes,Ecstasy Sundae,1,0,Warm melted pastry with vanilla and choco late ice cream topped with hot ... read more,598.0
+Sundaes,Chocolate Avalanche Sundae,1,0,"Chocolate mousse, brownie sponge and chocolate truffle serve together",749.0
+Sundaes,Thank God Its A Sundae,1,0,"Chocolate mousse, warm walnut brownie, muffin all together and topped with chocolate ice ... read more",749.0
+Cheesecakes,Nutella Cheesecake,1,0,[Veg preparation],850.0
+Cheesecakes,Blueberry Cheesecake,1,0,[Veg preparation],899.0
+Drinks (Beverages),KitKat Shake,1,0,Famous crunchy chocolate bar blended with chocolate ice cream topped with whipped cream ... read more,578.0
+Drinks (Beverages),Oreo Shake,1,0,"A heavenly blend of rich chocolate Oreo cookies, creamy milk and a touch ... read more",578.0
+Drinks (Beverages),Brownie Shake,1,0,Our famous crushed brownie blended with vanilla icecream and topped with whipped cream,599.0
+Drinks (Beverages),Dutch Truffle Shake,1,0,A chocolate shake so sinful.,598.0
+Drinks (Beverages),Premium Fererro Rocher Shake,1,0,"A heavenly blend of rich chocolate Ferrero Rocher, creamy milk and a touch ... read more",796.0
+Drinks (Beverages),Biscoff Shake,1,0,"A heavenly blend of biscoff cookies, creamy milk, and a touch of sweetness.",659.0
+Drinks (Beverages),Nutella Shake,1,0,,659.0
+Drinks (Beverages),Coffee Frappe [300 ml],1,0,,438.0
+Drinks (Beverages),Irish Coffee,1,0,,478.0
+Drinks (Beverages),The Chocolate Room Coffee [300 ml],1,0,,478.0
+Drinks (Beverages),Ice Americano,1,0,,320.0
+Drinks (Beverages),Diet Iced Coffee,1,0,,399.0
+Drinks (Beverages),Mango Frappe,1,0,"A delightful treat that captures the essence of ripe mangoes. Creamy, fruity, and ... read more",419.0
+Drinks (Beverages),Strawberry Frappe,1,0,"A delightful fusion of creamy and juicy strawberries, blended into a frosty frappe.",419.0
+Drinks (Beverages),Green Apple Frappe,1,0,"A refreshing blend of tangy green apple, creamy milk and a touch of ... read more",419.0
+Waffles,KitKat Waffle [Serves 2],1,0,A delightful waffle creation that combines the crispy goodness of waffles with the ... read more,599.0
+Waffles,Nutella Waffle,1,0,A heavenly waffle creation that combines the warmth of freshly baked waffles with ... read more,649.0
+Waffles,Ferrero Rocher Waffle,1,0,Ferrero waffle is a delightful treat that combines the rich flavors of chocolate and ... read more,699.0
+Waffles,Oreo Waffle,1,0,The Oreo waffle is a delightful creation that combines the classic flavors of chocolate and ... read more,499.0
+Pasta,Red Sauce Pasta,1,0,,579.0
+Pasta,White Sauce Pasta,1,0,,579.0
+Pasta,Pink Sauce Pasta,1,0,,599.0
+Pizza and Garlic Breads,Cheese Garlic Bread,1,0,,399.0
+Pizza and Garlic Breads,Chilli And Corn Garlic Bread,1,0,"Garlic bread with cheese, green chilli and sweet corn.",399.0
+Pizza and Garlic Breads,Margherita Pizza [9 inches],1,0,,698.0
+Pizza and Garlic Breads,Jerk Veggies Pizza [9 inches],1,0,,899.0
+Pizza and Garlic Breads,Peri Peri Pizza [9 inches],1,0,,899.0
+Pizza and Garlic Breads,Veg Supreme Pizza [9 inches],1,0,,738.0
+Grilled Sandwiches,Veg Cheese Sandwich,1,0,,289.0
+Grilled Sandwiches,Cheese Tomato Chilli Sandwich,1,0,,329.0
+Grilled Sandwiches,3 Tier Club Sandwich,1,0,,419.0
+Grilled Sandwiches,Tandoori Paneer Sandwich,1,0,,329.0
+Gift Hampers,Chocolate Hamper,1,0,Contains Coated Chocolate [190 grams]+2 Mini Bars [50 grams]+2 Belgium Chocolate [16 grams],3000.0
+Gift Hampers,Belgian Chocolate Hamper,1,0,Contains 24 pc Belgium chocolate [16 gram ]each,3000.0
+Quick Bites,French Fries,1,0,,389.0
+Quick Bites,Potato Wedges,1,0,,399.0
+Quick Bites,Cheese Balls,1,0,,240.0
+Italian Hot Chocolates,Classic Cuddle Cup,1,0,,389.0
+Italian Hot Chocolates,Hazelnut Cuddle Cup,1,0,,389.0
+Italian Hot Chocolates,Tiramisu Cuddle Cup,1,0,,389.0
+Italian Hot Chocolates,Dark Cuddle Cup,1,0,,389.0
+Italian Hot Chocolates,Strawberry Cuddle Cup,1,0,,389.0
+Cookies,Cookies [50 grams],1,0,,199.0
+Meals for One,Cheese Garlic Bread and Fries,1,0,Cheese Garlic Bread+Fries,349.0
+Meals for One,Chilli and Corn Garlic Bread with Fries,1,0,Chilli and Corn Garlic Bread+Fries,389.0
+Meals for One,Veg Cheese Sandwich and Fries,1,0,Veg Cheese Sandwich+Fries,489.0
+Meals for One,Cheese Tomato Chilli Sandwich and Fries,1,0,Cheese Tomato Chilli Sandwich+Fries,489.0
+Combos,Mexican Hot Pot Combo,1,0,Mexican Rice+Mexican Curry+Nachos,699.0
+Combos,Alfredo Pasta Combo,1,0,Alfredo Pasta in White Sauce with Vegetable+Chilli and Corn Garlic Bread,899.0
+Combos,Mediterranean Pasta Combo,1,0,Red Sauce Penne with Vegetable+Chilli and Corn Garlic Bread,899.0
+Combos,Veg Supreme Pizza Buy 1 Get 1 Free,1,0,,1200.0
+Combos,Margherita Pizza Buy 1 Get 1 Free,1,0,,1199.0
+Combos,Sandwich Family Combo Pack,1,0,mexican cheese grill sandwich +Coleslaw Sandwich+Vegetable Sandwich+French Fries+Guava Twist,1199.0
+Combos,Garlic Bread Combo [Serves 2],1,0,Cheese Garlic Bread [4 Pieces]+Chilli Corn Garlic Bread [4 Pieces]+French Fries+Mocktails,999.0
+Combos,Sandwich Combo [Serves 3],1,0,3 Tier Club Sandwich+French Fries+Mojito,999.0
+Combos,Margherita Pizza Combo,1,0,1 Cold Coffee+Cheese Garlic Bread+Margherita Pizza [9 inches],1200.0

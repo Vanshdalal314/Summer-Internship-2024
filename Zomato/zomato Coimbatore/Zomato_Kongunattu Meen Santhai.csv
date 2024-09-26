@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meals,Idli [2 Pieces] with Meen Kulambu,0,0,,30.0
+Soup,Crab Soup,0,0,,90.0
+Starters,Fish Chilli,0,0,,100.0
+Starters,Nethili Fry [100 grams],0,0,,100.0
+Starters,Mathi Fry [5 Pieces],0,0,,100.0
+Starters,Thirukkai Chilli,0,0,,120.0
+Starters,Prawns Chilli,0,0,,160.0
+Starters,Crab Thokku,0,0,,200.0
+Starters,Prawns Thokku,0,0,,200.0
+Starters,Kilanga Fry,0,0,,140.0
+Starters,"Sempalli Fish Fry [Big, Full]",0,0,,150.0
+Starters,Ayla Fish Fry,0,0,,100.0
+Main Course,Fish Gravy,0,0,,160.0
+Main Course,Fish Meen Kulambu [2 Pieces],0,0,,140.0
+Main Course,Crab Gravy,0,0,,240.0
+Main Course,Prawns Gravy,0,0,,240.0

@@ -1,0 +1,87 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Veg Cheese Grilled Sandwich & Crispy French Fries,1,0,Veg Cheese Grilled Sandwich+Crispy French Fries+Jeeru Cold Beverage [350 ml],375.0
+Combos,Mexican Maxi & Veg Cheese Hot Dog & Jeeru Cold Beverage [350 ml],1,0,Mexican Maxi+Veg Cheese Hot Dog+Jeera Cold Beverage [350 ml],375.0
+Combos,Mayonnaise Cinderella Sandwich with Veg Paneer Chilly Cheese Roll,1,0,Mayonnaise Cinderella Sandwich+Veg Paneer Chilli Cheese Roll+Jeera Cold Beverage [350 ml],375.0
+Combos,Mumbai's Special Grilled Sandwich with Veg Cheese Sandwich,1,0,Mumbai's Special Grilled Sandwich+Veg Cheese Sandwich+Jeera Cold Beverage [350 ml],399.0
+Combos,Stuffed Barbecue Kulcha and Veg Cheese Grilled Sandwich,1,0,Save ₹61 on this combo Stuffed Barbecue Kulcha + Veg Cheese Grilled Sandwich ... read more,375.0
+Quick Bites (Snacks Special),Veg Paneer Cheese Footlong,1,0,,225.0
+Quick Bites (Snacks Special),Stuffed Barbecue Kulcha,1,0,,225.0
+Quick Bites (Snacks Special),Mexican Maxi,1,0,,225.0
+Quick Bites (Snacks Special),Crispy French Fries,1,0,,160.0
+Quick Bites (Snacks Special),Smiley Fries [6 Pieces],1,0,,150.0
+Quick Bites (Snacks Special),Rich Mexican,1,0,Jain swaminarayan not available.,230.0
+Quick Bites (Snacks Special),Mexican Cheese Footlong,1,0,Jain not available.,230.0
+Quick Bites (Snacks Special),Pasta Toast,1,0,Jain not available.,225.0
+Quick Bites (Snacks Special),Stuffed Cheese Footlong,1,0,Jain not available.,230.0
+Quick Bites (Snacks Special),Stuffed Cheese Juicy,1,0,,225.0
+Quick Bites (Snacks Special),Stuffed Cheese Mexican Maxi,1,0,,230.0
+Quick Bites (Snacks Special),French fries crispy (Peri Peri sprinkler),1,0,,170.0
+Quick Bites (Snacks Special),Time Pass,1,0,,79.0
+Quick Bites (Snacks Special),Cheese Time Pass,1,0,,89.0
+Grilled Sandwich,Mumbai's Special Grilled Sandwich,1,0,[Chef's Special],250.0
+Grilled Sandwich,Veg Cheese Grilled Sandwich,1,0,,225.0
+Grilled Sandwich,Veg Cheese Mayonnaise Grilled Sandwich,1,0,,235.0
+Grilled Sandwich,Veg Paneer Cheese Grilled Sandwich,1,0,,230.0
+Grilled Sandwich,Veg Schezwan Cheese Grilled Sandwich,1,0,,230.0
+Grilled Sandwich,Veg Cheese Vada Grilled Sandwich,1,0,,230.0
+Grilled Sandwich,Only Cheese Grilled Sandwich,1,0,,225.0
+Hot Dog & Burger,Veg Cheese Hot Dog,1,0,Jain Not available,160.0
+Hot Dog & Burger,Veg Cheese Burger,1,0,Jain Not available,160.0
+Garlic Breads,Mumbai's Special Garlic Bread,1,0,[Chef's Special],220.0
+Garlic Breads,Cheese Garlic Bread,1,0,,190.0
+Garlic Breads,Garlic Magic,1,0,,195.0
+Garlic Breads,Veg Cheese Garlic Bread,1,0,,195.0
+Garlic Breads,Chilly Garlic Bread,1,0,,195.0
+Garlic Breads,Stuffed Garlic Bread,1,0,,210.0
+Garlic Breads,Corn Cheese Garlic Bread,1,0,,195.0
+Garlic Breads,Mayonnaise Cheese Garlic Bread,1,0,,210.0
+Garlic Breads,Veg Cheese Pizza [7 inches],1,0,,185.0
+Garlic Breads,Veg Mumbai Special Cheese Pizza [7 inches],1,0,,225.0
+Garlic Breads,Paneer Cheese Tandoori Pizza [7 inches],1,0,,225.0
+Rolls,Veg Paneer Chilly Cheese Roll,1,0,Jain not available,160.0
+Rolls,Veg Paneer Cheese Roll,1,0,,160.0
+Veg Sandwich,Veg Sandwich,1,0,Triple Layer.,65.0
+Veg Sandwich,Veg Cheese Sandwich,1,0,,125.0
+Veg Sandwich,Bread Butter Sandwich,1,0,,38.0
+Veg Sandwich,Bread Butter Cheese Sandwich,1,0,,100.0
+Veg Sandwich,Bread Butter Aloo Cheese Toast Sandwich,1,0,,100.0
+Veg Sandwich,Veg cheese vada sandwich,1,0,,145.0
+Veg Sandwich,Veg cheese mayonnaise sandwich,1,0,,132.0
+Veg Sandwich,Bread Butter Aloo Sandwich,1,0,,45.0
+Jumbo Grilled Vada Pav,Vada Pav,1,0,Jain Not available,32.0
+Jumbo Grilled Vada Pav,Veg Vada Pav,1,0,Jain Not available,40.0
+Jumbo Grilled Vada Pav,Veg Schezwan Vada Pav,1,0,Jain Not available,38.0
+Jumbo Grilled Vada Pav,Veg Special Stuffed Cheese Vada Pav,1,0,Jain Not available,75.0
+Jumbo Grilled Vada Pav,Veg Special Cheese Masala Pav,1,0,Jain Not available,69.0
+Jumbo Grilled Vada Pav,Veg Schezwan Cheese Vada Pav,1,0,Jain Not available,75.0
+Jumbo Grilled Vada Pav,Veg Cheese Vada Pav,1,0,Jain Not available,69.0
+Jumbo Grilled Vada Pav,Veg Paneer Cheese Vada Pav,1,0,Jain Not available,75.0
+Special Mayonnaise Sandwich,Veg Cheese Juicy Grilled Toast Sandwich,1,0,,225.0
+Special Mayonnaise Sandwich,Mayonnaise Cinderella Sandwich,1,0,,225.0
+Special Mayonnaise Sandwich,Macha Toast,1,0,,188.0
+Special Mayonnaise Sandwich,Veg Angel Cheese Toast Sandwich,1,0,,225.0
+Special Mayonnaise Sandwich,Veg Simran Cheese Mayonnaise Toast,1,0,,225.0
+Special Mayonnaise Sandwich,Veg Cheese Mayonnaise Toast Sandwich,1,0,,134.0
+Special Mayonnaise Sandwich,Rio Sandwich,1,0,,275.0
+Special Mayonnaise Sandwich,Cheese Palani,1,0,,275.0
+Pizza [7 Inches],Paneer Cheese Tandoori Pizza,1,0,,230.0
+Pizza [7 Inches],Veg Mumbai's Special Cheese Pizza,1,0,,250.0
+Pizza [7 Inches],Veg Cheese Pizza,1,0,,220.0
+Pizza [7 Inches],Veg Paneer Cheese Pizza,1,0,,225.0
+Pizza [7 Inches],Only Cheese Pizza,1,0,,215.0
+Pizza [7 Inches],Veg Paneer Chilli pizza,1,0,Jain swaminarayan not available.,230.0
+Pizza [7 Inches],Veg Cheese Mexican Pizza [7 inches],1,0,Jain swaminarayan not available.,230.0
+Pizza [7 Inches],Veg Cheese Corn Pizza [7 inches],1,0,,225.0
+Pizza [7 Inches],Veg Stuffed Cheese Pizza [7 inches],1,0,Jain swaminarayan not available.,230.0
+Pizza [7 Inches],Vag Paneer Punjabi Pizza [7 inches],1,0,Jain swaminarayan not available.,230.0
+Pizza [7 Inches],Veg Cheese Paneer Punjabi Pizza [7 inches],1,0,Jain swaminarayan not available.,230.0
+Toast Sandwich,Chilly Cheese Toast Sandwich,1,0,,100.0
+Toast Sandwich,Veg Toast Sandwich,1,0,,59.0
+Toast Sandwich,Veg Cheese Grilled Club Toast Sandwich,1,0,,225.0
+Toast Sandwich,Veg Cheese Toast Sandwich,1,0,,125.0
+Toast Sandwich,Bread Butter Aloo Cheese Toast,1,0,,100.0
+Toast Sandwich,Testla Toast,1,0,,130.0
+Toast Sandwich,Chocolate Cheese Toast,1,0,,130.0
+Toast Sandwich,Aloo Matar Cheese Toast Sandwich,1,0,,100.0
+Toast Sandwich,Bread Butter Aloo Toast Sandwich,1,0,,52.0
+Toast Sandwich,Chutney Cheese Toast Sandwich,1,0,,100.0

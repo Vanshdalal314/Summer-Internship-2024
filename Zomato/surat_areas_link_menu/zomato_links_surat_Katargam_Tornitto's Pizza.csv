@@ -1,0 +1,30 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Pizza,1,0,Lots of cheese.,155.0
+Pizza,Corn Pizza,1,0,"Cheese, golden corn.",140.0
+Pizza,Crunchy Pizza,1,0,"Onion, capsicum.",150.0
+Pizza,Garden Fresh Pizza,1,0,"Onion, capsicum, tomato.",180.0
+Pizza,Spicy Yummy Pizza,1,0,"Onion, tomato, green chilli.",180.0
+Pizza,Party Punch Pizza,1,0,"Capsicum, tomato, golden corn.",180.0
+Pizza,Farm House Pizza,1,0,"Onion, capsicum, tomato, mushroom.",230.0
+Pizza,Mexican Passion Pizza,1,0,"Tomato, capsicum, golden corn, olives with Harissa sauce.",205.0
+Pizza,Hawaiian Fantasy Pizza,1,0,"Capsicum, golden corn, pineapple, jalapeno with Harissa sauce.",215.0
+Pizza,Red Indian Pizza,1,0,"Onion, capsicum, paneer, red paprika.",215.0
+Pizza,Makhani Lovers Pizza,1,0,"Onion, capsicum, diced paneer, jalapeno with makhani sauce.",230.0
+Pizza,American Heat Pizza,1,0,"Onion, capsicum, baby corn, jalapeno.",230.0
+Pizza,Italian Pizza,1,0,"Onion, capsicum, golden corn, olive, red paprika.",190.0
+Pizza,7 Cheese Pizza,1,0,"Mozzarella, cheddar, orange cheddar creamy white cheese, creamy orange cheese, moneterey jack, colby.",210.0
+Pizza,Hot and Spicy Pizza,1,0,"Onion, tandoori paneer, jalapeno, red paprika, with chilli garlic dip sauce.",250.0
+Pizza,Paneer Tikka Masala Pizza,1,0,"Onion, capsicum, paneer tikka, red paprika with kadhai gravy.",210.0
+Pizza,Mushroom Lover Pizza,1,0,"Onion, capsicum, tomato, mushroom, baby corn, red paprika.",250.0
+Pizza,Pasta Pizza,1,0,"Onion, capsicum, golden corn, spicy penne pasta, olive.",220.0
+Pizza,Paneer Bhurji Pizza,1,0,"Onion, capsicum, tomato, green chilli, coriander, paneer bhurji with makhani gravy.",265.0
+Pizza,Tornittos Special Pizza,1,0,"Onion, capsicum, baby corn, olive, jalapeno, red paprika with Italian herbs.",265.0
+Snacks,French Fries,1,0,Fried potato,70.0
+Snacks,Garlic Bread with Cheese,1,0,,120.0
+Snacks,Jain Garlic Bread with Cheese,1,0,,100.0
+Snacks,Supreme Onion and Chilli Garlic Bread,1,0,,150.0
+Snacks,Supreme Capsicum and Chilli Garlic Bread,1,0,,150.0
+Snacks,Supreme Tandoori Paneer and Chilli Garlic Bread,1,0,,150.0
+Snacks,Golden Corn and Chilli Jain Garlic Bread,1,0,,150.0
+Snacks,Pineapple and Chilli Jain Garlic Bread,1,0,,150.0
+Snacks,Diced Paneer and Chilli Jain Garlic Bread,1,0,,150.0

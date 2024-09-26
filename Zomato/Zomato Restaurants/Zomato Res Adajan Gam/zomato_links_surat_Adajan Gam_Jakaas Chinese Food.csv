@@ -1,0 +1,110 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Varieties,Exotic Crispy Veg,1,0,,280.0
+Special Varieties,Piri Piri Mushroom Dry,1,0,Spicy,350.0
+Special Varieties,Crispy Veg (Jain Preparation Not Available),1,0,Jain preparation not available,250.0
+Special Varieties,Spring Roll [6 Pieces] (Jain Preparation Not Available),1,0,| 6 pcs | Jain preparation not available,250.0
+Special Varieties,Veg Lollipop (Jain Preparation Not Available),1,0,Jain preparation not available,190.0
+Special Varieties,Broccoli Chilly,1,0,,310.0
+Special Varieties,Potato Torque,1,0,Semi Gravy.,270.0
+Special Varieties,Stick Chilly Dry,1,0,,270.0
+Special Varieties,Veg 65,1,0,| Served Dry |,280.0
+Special Varieties,Baby Corn Chilly Dry,1,0,,300.0
+Special Varieties,MUSHROOM Chilly Dry,1,0,"A Tantalizingly Crispy And Satisfying Vegetarian Starter With A Rich, Earthy Flavor That ... read more",330.0
+Soups,Green Pimiento Chilly Soup,1,0,,260.0
+Soups,Green Shorba,1,0,Must Try,250.0
+Soups,Lemon Coriander Soup,1,0,A Refreshing Soup Bursting With Zesty Lemon And Fragrant Coriander Flavors.?,250.0
+Soups,Red Pimiento Chilly Soup,1,0,,260.0
+Soups,Rich And Clear Tomato Soup,1,0,,230.0
+Soups,Hot N Sour Soup,1,0,,230.0
+Soups,Manchow Soup,1,0,Satisfy Your Craving For A Hearty And Flavorful Soup With This Veggie-Packed Bowl.?,230.0
+Soups,Schezwan Soup (Jain Preparation Not Available),1,0,,230.0
+Soups,MUSHROOM Soup,1,0,Cream of mushroom soup is a simple type of soup where a basic ... read more,260.0
+Soups,Talumein Soup,1,0,Must Try,270.0
+Soups,Veg Khowsuey Soup,1,0,Jain preparation not available (Must Try),300.0
+Manchurian,Dry Manchurian,1,0,A Savory And Crispy Chinese Dish With A Tangy And Flavorful Sauce.?,250.0
+Manchurian,Green Balls Dry With Cheese,1,0,Must Try,270.0
+Manchurian,No Cheese Green Manchurian Dry,1,0,,250.0
+Manchurian,Schezwan Manchurian Dry (Jain Preparation Not Available),1,0,Jain preparation not available,250.0
+Manchurian,SHANGHAI Manchurian Dry,1,0,Spicy,250.0
+Manchurian,Green Balls Gravy With Cheese,1,0,,270.0
+Manchurian,No Cheese Green Manchurian Gravy,1,0,,260.0
+Manchurian,Manchurian Gravy,1,0,| Served with Semi Gravy |,250.0
+Manchurian,Schezwan Manchurian Gravy (Jain Preparation Not Available),1,0,Jain preparation not available,250.0
+Manchurian,SHANGHAI Manchurian Gravy,1,0,Spicy,240.0
+Paneer Mix,Butter Garlic Paneer Chilly Dry,1,0,,310.0
+Paneer Mix,Green Paneer Chilly Dry With Cheese,1,0,,340.0
+Paneer Mix,Green Thai Paneer Dry,1,0,,310.0
+Paneer Mix,MUSHROOM & Paneer Dry,1,0,,330.0
+Paneer Mix,Paneer And Manchurian Dry,1,0,,280.0
+Paneer Mix,Paneer Hunan,1,0,,310.0
+Paneer Mix,Paneer Red Cook Dry,1,0,,310.0
+Paneer Mix,Red Thai Paneer Dry,1,0,,310.0
+Paneer Mix,Paneer Chilly Dry,1,0,A Flavorful Vegetarian Stir-Fry With Savory And Aromatic Notes.?,280.0
+Paneer Mix,Hibachi Paneer Chilly,1,0,Must Try,310.0
+Paneer Mix,Paneer Dragon,1,0,Must Try,310.0
+Paneer Mix,Schezwan Paneer And Manchurian Dry (Jain Preparation Not Available),1,0,Jain preparation not available,290.0
+Paneer Mix,Paneer Mongolian,1,0,Must Try,310.0
+Paneer Mix,Schezwan Paneer Chilly Dry (Jain Preparation Not Available),1,0,Jain preparation not available,290.0
+Paneer Mix,SHANGHAI Paneer Chilly Dry,1,0,Peri Peri style Spicy,310.0
+Paneer Mix,Green Paneer Chilly Gravy With Cheese,1,0,,240.0
+Paneer Mix,Paneer And Manchurian Gravy,1,0,,280.0
+Paneer Mix,Paneer Chilly Gravy,1,0,,280.0
+Paneer Mix,Schezwan Paneer And Manchurian Gravy (Jain Preparation Not Available),1,0,Jain preparation not available,290.0
+Paneer Mix,Schezwan Paneer Chilly Gravy (Jain Preparation Not Available),1,0,Jain preparation not available,290.0
+Paneer Mix,SHANGHAI Paneer Chilly Gravy,1,0,Spicy Peri Peri,310.0
+Mix,Burnt Butter Garlic Bhel,1,0,,240.0
+Mix,Paneer Chinese Bhel,1,0,Serves 1,260.0
+Mix,Peri Peri Bhel,1,0,Spicy,250.0
+Mix,Shanghai Crispy Bhel,1,0,Spicy,130.0
+Mix,Taiwan Bhel,1,0,Must Try,250.0
+Mix,Bombay Bhel,1,0,Semi Sweet,230.0
+Mix,Chinese Bhel,1,0,Semi Sweet,220.0
+Mix,Combination Bhel,1,0,| Served Dry |,220.0
+Mix,MUSHROOM Singapuri Bhel,1,0,,260.0
+Mix,Noodle Rice Mix,1,0,,220.0
+Mix,Schezwan Bhel (Jain Preparation Not Available),1,0,Jain preparation not available,230.0
+Mix,Singapuri Bhel,1,0,,230.0
+Mix,Cold Bhel,1,0,| Served Dry |,290.0
+Mix,Tai Pei Bhel (Greenes),1,0,,240.0
+Rice,Burnt Butter Garlic Rice,1,0,,230.0
+Rice,Fried Rice,1,0,An aromatic dish of cooked rice that has been stir fried in a ... read more,210.0
+Rice,Peri Peri Rice,1,0,Spicy,240.0
+Rice,Taiwan Rice (without Gravy),1,0,,240.0
+Rice,Manchurian Rice Mix,1,0,,230.0
+Rice,MUSHROOM Rice,1,0,,240.0
+Rice,Paneer Rice Mix,1,0,,250.0
+Rice,Schezwan Rice (Jain Preparation Not Available),1,0,Jain preparation not available,210.0
+Rice,Schezwan Manchurian Rice Mix (Jain Preparation Not Available),1,0,Jain preparation not available,230.0
+Rice,Singapuri Rice,1,0,Aromatic And Flavorful Rice be Dish With A Hint Of Exotic Singaporean ... read more,210.0
+Rice,Singapuri Manchurian Rice Mix,1,0,,230.0
+Rice,Spicy Clear Rice,1,0,,210.0
+Rice,Tai Pei Rice (Greenes),1,0,,240.0
+Noodles,American Chopsuey,1,0,A Delicious Blend Of Crispy Noodles And Fresh Veggies Tossed In A Savory ... read more,210.0
+Noodles,Burnt Butter Garlic Noodle,1,0,,230.0
+Noodles,Fried Noodles,1,0,A delicious dish prepared from perfectly cooked noodles and stir-fried vegetables.,30.0
+Noodles,Peri Peri Noodle,1,0,Spicy,240.0
+Noodles,Taiwan Noodle,1,0,,240.0
+Noodles,Chinese Chopsuey,1,0,,210.0
+Noodles,Hakka Noodles [Chowmein],1,0,| Served Dry |,210.0
+Noodles,Manchurian Noodle Mix,1,0,| Served Dry |,230.0
+Noodles,Miya Biwi Noodles,1,0,,210.0
+Noodles,MUSHROOM Noodles,1,0,,240.0
+Noodles,Paneer Noodle Mix,1,0,,250.0
+Noodles,SHANGHAI Chopsuey,1,0,Jain preparation not available,230.0
+Noodles,Schezwan Noodles (Jain Preparation Not Available),1,0,| Served Dry | Jain preparation not available,210.0
+Noodles,Schezwan Manchurian Noodle Mix (Jain Preparation Not Available),1,0,| Served Dry | Jain preparation not available,230.0
+Noodles,Singapuri Manchurian Noodle Mix,1,0,,230.0
+Noodles,Singapuri Noodles,1,0,Tantalizingly Flavored Noodles From The Heart Of Singapore.?,210.0
+Noodles,Tai Pei Noodle (Greenes),1,0,,240.0
+Triple Rice,Cheese Rice With Gravy,1,0,,390.0
+Triple Rice,Fusion Rice With Gravy,1,0,,370.0
+Triple Rice,Green Thai Curry With Rice,1,0,,380.0
+Triple Rice,Red Thai Curry With Rice,1,0,,380.0
+Triple Rice,Taiwan Rice With Green Gravy,1,0,,370.0
+Triple Rice,Triple Rice,1,0,Three Rice Varieties Come Together In This Savory Chinese Dish.?,320.0
+Triple Rice,Triple Schezwan Rice (Jain Preparation Not Available),1,0,Jain preparation not available,330.0
+Triple Rice,Triple Schezwan Singapuri Rice,1,0,,340.0
+Triple Rice,Jakaas Rice,1,0,Must Try,370.0
+Triple Rice,Paneer Triple Rice,1,0,,360.0
+Extras,Extra Fried Noodles,1,0,,20.0
+Extras,Schezwan Chutney (Jain Preparation Not Available),1,0,,50.0

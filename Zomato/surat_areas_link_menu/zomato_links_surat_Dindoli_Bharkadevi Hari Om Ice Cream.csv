@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Frankies,Veg Frankie,1,0,,70.0
+Frankies,Cheese Frankie,1,0,,80.0
+Frankies,Schezwan Cheese Frankie,1,0,,100.0
+Frankies,Mayonnaize Frankie,1,0,,120.0
+Frankies,Cream and Onion Frankie,1,0,,120.0
+Frankies,Cheese Blast Frankie,1,0,,160.0
+Frankies,Cocktail Frankie,1,0,,140.0
+Frankies,Special Frankie,1,0,[Veg preparation],160.0
+Frankies,Butter Frankie,1,0,,120.0
+Frankies,Veg Paneer Frankie,1,0,,160.0
+Momos,Veg moms [ 10 Pieces],1,0,,120.0
+Momos,Fried Momos [8 Pieces],1,0,,148.0
+Momos,Veg Cheese Momos,1,0,,147.0
+Aloo Poori,Veg Aloo Poori,1,0,,40.0
+Aloo Poori,Cheese Aloo Poori,1,0,,80.0
+Aloo Paratha,2 Aloo Paratha,1,0,"Served with raita, salad and pickle [Subject to Availability]",140.0
+Aloo Paratha,1 Aloo Paratha,1,0,"Served with raita, salad and pickle [Subject to Availability]",80.0
+Aloo Paratha,Aloo Paneer Paratha,1,0,,160.0
+Noodles Maggi,Vegetable Maggi,1,0,,120.0
+Farali,Sabudana Khichdi,1,0,,100.0

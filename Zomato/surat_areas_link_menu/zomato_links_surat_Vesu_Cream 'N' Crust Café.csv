@@ -1,0 +1,84 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pastries,Chocolate Royale Pastry,1,0,"Chocolate Sponge, with bittersweet Chocolate ganache, decorated with chocolate coating.",131.5
+Pastries,Ferrero Rocher Pie Pastry,1,0,"Chocolate sponge, ferrero rocher filling, hazelnut, dark chocolate.",170.5
+Pastries,Nutella Pie Pastry,1,0,"Brown sponge, Nutella Ganache.",183.5
+Pastries,Cookies & Cream Pie Pastry,1,0,"White sponge, fresh cream, surprise fruit filling, Dark and white chocolate flakes with ... read more",131.5
+Pastries,Rainbow Pie Pastry,1,0,Rainbow sponge with a house blend of cream cheese frosting and cherry decoration.,146.07
+Pastries,Dutch Truffle Pie Pastry,1,0,"Chocolate sponge, double chocolate gooey ganache, silver sprinkle decoration.",170.5
+Pastries,Chocolate Kitkat Pie Pastry,1,0,"Chocolate Sponge, kitkat pieces with kitkat ganache and coating.",170.5
+Pastries,Chocolate Sacher Pie Pastry,1,0,"Chocolate sponge, chocolate truffle, layer of mixed fruit jam and sweet cream coating ... read more",131.5
+Pastries,Chocolate Pyramid Pie Pastry,1,0,"Chocolate sponge, chocolate truffle, sweet chocolate coating with white chocolate decoration.",131.5
+Pastries,Chocolate German Pie Pastry,1,0,"Chocolate sponge with a dark chocolate ganache, decorated with walnut pieces.",170.25
+Pastries,Chocolate Delight Pie Pastry,1,0,"Chocolate sponge, ferrero rocher filling, hazelnut, dark chocolate, Chocolate Delight.",169.5
+Ice Cream,Gems and Cake Ice Cream,1,0,Doesn't the name just remind you of your parties as a kid? Go ... read more,80.0
+Ice Cream,Banarasi Paan Masala Ice Cream,1,0,"Don't want to go Banaras for Banarasi pan, our Banarasi pan masala ice ... read more",80.0
+Ice Cream,Royale Rajbhog Ice Cream,1,0,,80.0
+Ice Cream,Red Velvet Cheese Cake Ice Cream,1,0,"Our Red Velvet Cheesecake ice cream is rich and velvety and creamy! Oh, ... read more",80.0
+Ice Cream,Cassata Ice Cream,1,0,"A Slice of heaven and love, made with cake and equal parts ice ... read more",80.0
+Ice Cream,American Nuts Ice Cream,1,0,,80.0
+Ice Cream,Only Oreo Ice Cream,1,0,Creamy and decadent ice cream made with nothing but pure milk and lots ... read more,95.0
+Ice Cream,Favourite Ferrero Ice Cream,1,0,Your beloved Ferrero Rocher chocolate turned into a melt in your mouth ice ... read more,95.0
+Ice Cream,Fresh Strawberry Ice Cream,1,0,Fresh strawberries blended with pure milk and turned into ice cream keeping it ... read more,80.0
+Ice Cream,Guava Gourmet Ice Cream,1,0,"Luscious, creamy and tangy, this guava ice-cream is everything you need on a ... read more",80.0
+Ice Cream,Creamy Coconut Ice Cream,1,0,[Seasonal],80.0
+Ice Cream,Anjeer Honey Ice Cream,1,0,A rich blend of fresh and flavourful high quality anjeer along with organic ... read more,80.0
+Ice Cream,Mango Mania Ice Cream,1,0,[Seasonal],80.0
+Ice Cream,Pineapple Passion Ice Cream,1,0,Think of all the fresh pineapple treats you had as a kid. This ... read more,80.0
+Ice Cream,Pure Vanilla Ice Cream,1,0,"Sweet, cold, creamy natural ice-cream just like you remember with a flavour of ... read more",80.0
+Mini Desserts,Walnut Tart,1,0,A crumbly tart base with walnuts and thick dark chocolate centre creates a ... read more,95.9
+Mini Desserts,Cup Cake,1,0,The delicious tangy taste of strawberry paired with the richness of cream and ... read more,62.5
+Mini Desserts,Lava Cake,1,0,This molten lava cake will melt your tastebuds with its chocolate gooey center. ... read more,105.0
+Mini Desserts,Donut,1,0,"Yeast raised, light and soft, freshly prepared donuts with delicious chocolate ganache in ... read more",95.9
+Mini Desserts,Brownie,1,0,Gooey and cakey brownie squares made with a rich and lasting chocolate taste.,95.9
+Mini Desserts,Oreo Tart,1,0,Oreo topped ganache inside a buttery chocolate tart crust makes for one good ... read more,95.9
+Mini Desserts,Mini KitKat Cupcake,1,0,One bite cupcake with chocolate sponge on the bottom and KitKat ganache on ... read more,35.0
+Mini Desserts,Java Chips Muffin,1,0,These java chip muffins are the best of so many worlds. The ends ... read more,131.9
+Mini Desserts,Kitkat Cheesecake,1,0,,195.0
+Mini Desserts,MIni Chocolate Mocha Cupcake,1,0,Combining coffee and chocolate with a super soft and moist chocolate base topped ... read more,35.0
+Mini Desserts,Chocolate Kingdom,1,0,"A jumbo combo of chocolate ice creams, moist sponge, waffle crisp, hazelnut sauce, and ... read more",424.1
+Mini Desserts,Rainbow Ride,1,0,A colour and nostalgic combination of rainbow cake and gems b cake ice ... read more,424.1
+Mini Desserts,King Cookie Crunch,1,0,A chocolate chip cookie sandwich with belgian delight ice cream and waffle crisp ... read more,200.0
+Mini Desserts,Mini Waffle Bowls,1,0,3 delicious combinations of waffle bowls for you to pick from: - caramel crunch: ... read more,152.5
+Mini Desserts,Ice Cream Pizza,1,0,Ever had pizza for dessert? We have and it is good! Grab a ... read more,250.0
+Cakes,Black Forest Cake,1,0,Classic version of the original black forest cake with fresh cream frosting and ... read more,626.67
+Cakes,Pineapple Cake,1,0,"Vanilla sponge, fresh cream and our chef's special fresh pineapple crush and we ... read more",424.07
+Cakes,White Forest Cake,1,0,White coloured cake loaded with white chocolate and cherry crush on a vanilla ... read more,424.07
+Cakes,Oreo Cake,1,0,Chocolate sponge and fresh cream infused with oreo and oreo pieces.,829.85
+Cakes,Butter Scotch Cake,1,0,"Vanilla sponge, fresh cream, butterscotch sauce with praline decoration.",673.79
+Cakes,Rainbow Cake,1,0,Rainbow sponge with a house blend of cream cheese frosting and cherry decoration.,871.69
+Cakes,Chocolate Royal Cake,1,0,"Chocolate Sponge with bittersweet chocolate ganache, decorated with chocolate coating.",763.32
+Cakes,Blueberry Cake [500 grams],1,0,,675.0
+Milkshakes,Favorite Ferraro Milkshake,1,0,,158.92
+Milkshakes,Only Oreo Milkshake,1,0,,158.92
+Milkshakes,Pure Vanilla Milkshake,1,0,,140.0
+Milkshakes,Pineapple Passion Milkshake,1,0,,140.0
+Milkshakes,Fresh Strawberry Milkshake,1,0,,140.0
+Milkshakes,Guava Gourmet MIlkshake,1,0,,140.0
+Milkshakes,Creamy Coconut Milkshake,1,0,,140.0
+Milkshakes,Mango Mania MIlkshake,1,0,,140.0
+Milkshakes,Anjeer Honey Milkshake,1,0,,140.0
+Milkshakes,Gems and Cake Milkshake,1,0,,140.0
+Milkshakes,Banarasi Pan Masala MIlkshake,1,0,,140.0
+Milkshakes,Red Velvet Cheese Cake MIlkshake,1,0,,140.0
+Milkshakes,Royale Rajbhog Milkshake,1,0,,140.0
+Milkshakes,Coffee Caramel Milkshake,1,0,,140.0
+Milkshakes,Cassata Milkshake,1,0,,140.0
+Milkshakes,American Nuts [New] Milkshake,1,0,,140.0
+Hot Counter,Veg Puff,1,0,"Mixed vegetables,our special spices,flaky puff",80.0
+Hot Counter,Paneer Chilly Croissant,1,0,Buttery croissant filled with a generous serving of paneer chilly made in house.,80.0
+Hot Counter,Italian Pizza,1,0,"An age old favourite of our patrons,the Italian pizza is simple and straight ... read more",132.75
+Hot Counter,Paneer Pizza,1,0,Spicy saucy paneer pizza.Should we say more?,132.75
+Hot Counter,Paneer Puff,1,0,,80.0
+Hot Counter,Chinese Puff,1,0,East meets west when strong Indo-Chinese flavours meet the humble puff.,80.0
+Hot Counter,Manchurian Croissant,1,0,"A traditional flaky,basic buttery croissant stuffed with home made manchuria.",80.0
+Hot Counter,Paneer Tikka Croissant,1,0,The lip smacking blend of spicy paneer tikka filling with a buttery croissant,80.0
+Hot Counter,Schezwan Pizza,1,0,Like a dash of spice in your pizza? This schezwan pizza hits the ... read more,135.0
+Savouries,Fries & Dips,1,0,A tiffin full of classic potato fries and 5 delicious dips.Cheese Sauce+Garlic Yogurt+Peri ... read more,195.0
+Savouries,Pasta Magic,1,0,"Take Your picks and enjoy a plate of classic pasta with exotic veggies [tomatoes,bell ... read more",450.0
+Savouries,Peri Peri Paneer Pizza,1,0,"Paneer,caramelized onions,peri peri sauce and mozzarella cheese.",462.0
+Savouries,New York Margherita Pizza,1,0,"Tomatoes,margherita sauce,mozzarella cheese,basil.",335.35
+Savouries,Creamy Crunch Burger,1,0,"Crunchy patty with yummy southwest sauce, lettuce, onions, jalapenos and juicy tomatoes.",361.42
+Savouries,Freshly Stretched Cheese Garlic Bread,1,0,"Fresh made dough with mozzarella cheese, olives, roasted garlic and italian seasoning.",288.09
+Savouries,Maxican Hot Pot Rice,1,0,A spicy mix of steamed rice. mexican gravy and same crunchy bits of ... read more,324.76
+Savouries,Farmhouse Fresh Pizza,1,0,"Baby corn,bell peppers,olives,jalapenos,cherry tomatoes,basil,mushroom,house made sauce and mozzarella cheese.",439.5
+Savouries,Paneer Sandwich,1,0,"A buttery croissant bread stuffed with paneer,tomato and pickled veggies along with some ... read more",424.28

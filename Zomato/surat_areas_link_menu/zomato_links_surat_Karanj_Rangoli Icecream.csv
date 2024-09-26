@@ -1,0 +1,31 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Premium Scooping,American Dryfruit Ice Cream Scoop,1,0,,90.0
+Premium Scooping,Choco Brownie Ice Cream Scoop,1,0,,100.0
+Premium Scooping,Choco Munch Ice Cream Scoop,1,0,,100.0
+Premium Scooping,Guava Natural Icecream (JAMFAL),1,0,,99.0
+Premium Scooping,Roasted Badam Pista Ice Cream Scoop [f],1,0,,100.0
+Premium Scooping,Roasted Nuts Ice Cream Scoop,1,0,,100.0
+Premium Scooping,Shahi Rajbhog Ice Cream Scoop [f],1,0,,100.0
+Premium Scooping,Sp.rajasthani Ice Cream Scoop [f],1,0,,100.0
+Premium Scooping,Tender Coconut,1,0,,100.0
+MOM Shake,Double Almond Shake [f],1,0,,289.0
+MOM Shake,Kaju Anjeer Shake,1,0,,289.0
+MOM Shake,RANGOLI SP. Shake,1,0,,299.0
+Signature Shake,Kitkat Thick Shake [300 Ml],1,0,,280.0
+Signature Sundae,Kit Ket Crunch,1,0,,170.0
+Signature Sundae,Dryfruit Khajana,1,0,,210.0
+Signature Sundae,Roasted Dry Fruit Twist,1,0,,200.0
+Signature Sundae,Sp. American Sunday,1,0,,160.0
+Bulk Pack,American Dryfruit,1,0,,180.0
+Bulk Pack,Choco Munch,1,0,,210.0
+Bulk Pack,Guava [f],1,0,,220.0
+Bulk Pack,Roasted Badam Pista [f],1,0,,220.0
+Bulk Pack,Roasted Nuts,1,0,,220.0
+Bulk Pack,Sp. Rajasthani,1,0,,220.0
+Bulk Pack,Tender Coconut Pack,1,0,,220.0
+Shrikhand,Cream Bon Bon Shrikhand,1,0,,145.0
+Shrikhand,Dryfruit Khajana Shikhand,1,0,,330.0
+Shrikhand,Rajasthani Mattho,1,0,,160.0
+Shrikhand,Rajbhog Mattho,1,0,,160.0
+Shrikhand,Rangoli Special Shrikhand,1,0,,180.0
+Shrikhand,Roasted Nuts Mattho,1,0,,170.0

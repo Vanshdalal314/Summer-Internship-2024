@@ -1,0 +1,73 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Vada Pav + Bread Pakoda + Chinese Puff,1,0,,96.0
+Combos,Vada Pav + Bread Pakoda +cold drink [250 ml],1,0,,96.0
+Combos,Vada Pav + Chinese Vada Pav + cold drink [200 ml],1,0,,106.0
+Combos,Mayo Vada Pav + Schezwan Vada Pav + cold drink [250 ml],1,0,,133.0
+Combos,2 Butter Bread Pakoda + 2 Butter Vada Pav + 1 Cold Drink [250 ml],1,0,,176.0
+Combos,2 Butter Vada Pav + Only Vada [4 Pieces] + 1 Butter Bread Pakoda,1,0,,189.0
+Combos,2 Vada Pav with 2 Punjabi Samosa and 2 Cold Beverage [200 ml],1,0,2 Vada Pav with 2 Punjabi Samosa and 2 Cold Beverage [200 ml],160.0
+Combos,2 Butter Vada Pav + 2 Cheese Vada Pav,1,0,,200.0
+Combos,3 Butter Vada Pav + 3 Butter Bread Pakoda,1,0,,227.0
+Combos,1 Butter Vada Pav + 1 Mayo Vada Pav + 1 Schezwan Vada Pav + 1 Cheese Vada Pav + 1 Cold Drink [250 ml],1,0,,209.0
+Combos,1 Butter Bread Pakoda + 1 Mayo Bread Pakoda + 1 Schezwan Bread Pakoda + 1 Cheese Bread Pakoda + 1 Cold Drink [250 ml],1,0,,209.0
+Combos,2 Vada Pav + 2 Bread Pakoda + 2 Chinese Puff + 2 Cold Drink [250 ml],1,0,,235.0
+Combos,Only Vada [5 Pieces] + 5 Butter Bread Pakoda,1,0,,285.0
+Combos,5 Butter Vada Pav + Only Vada [5 Pieces],1,0,,285.0
+Combos,3 Butter Vada Pav + 3 Bread Pakoda + 3 Chinese Puff,1,0,,295.0
+Chinese Puff,Chinese Puff,1,0,,22.0
+Vada Pav,Butter Vada Pav,1,0,The dish consists of a deep fried potato dumpling placed inside a pav ... read more,40.0
+Vada Pav,Cheese Vada Pav,1,0,The dish consists of a deep fried potato dumpling placed inside a pav ... read more,65.0
+Vada Pav,Schezwan Vada Pav,1,0,The dish consists of a deep fried potato dumpling placed inside a pav ... read more,58.0
+Vada Pav,Mayo Vada Pav,1,0,The dish consists of a deep fried potato dumpling placed inside a pav ... read more,58.0
+Vada Pav,Tandoori Mayo Vada Pav,1,0,,65.0
+Vada Pav,Chilli Garlic Mayo Vada Pav,1,0,,65.0
+Vada Pav,Peri Peri Mayo Vada Pav,1,0,,65.0
+Vada Pav,Cheese Blast mayo Vada Pav,1,0,,65.0
+Vada Pav,Tawa Fry Butter Vada Pav,1,0,,58.0
+Vada Pav,Tawa Fry Cheese Vada Pav,1,0,,73.0
+Vada Pav,Tawa Fry Mayo Vada Pav,1,0,,63.0
+Vada Pav,Only Vada [2 Pieces],1,0,Vada made by dunking spiced potato balls in gram flour batter and deep ... read more,40.0
+Vada Pav,Grill vadpav,1,0,,55.0
+Vada Pav,Grill Cheese Vadapav,1,0,,77.0
+Vada Pav,Grill mayo vadapav,1,0,,70.0
+Vada Pav,Grill schezwan vadapav,1,0,,70.0
+Vada Pav,Jain Butter Vada Pav,1,0,,45.0
+Vada Pav,Jain Cheese Vada Pav,1,0,,70.0
+Vada Pav,Jain Mayo Vada Pav,1,0,,60.0
+Vada Pav,Jain Cheese Mayo Vada Pav,1,0,,80.0
+Vada Pav,Jain Vada [2 Pieces],1,0,,50.0
+Vada Pav,Chinese Vada Pav,1,0,,50.0
+Vada Pav,Schezwan Chinese Vada Pav,1,0,,65.0
+Vada Pav,Mayo Chinese Vada Pav,1,0,,65.0
+Vada Pav,Tandoori Mayo Chinese Vada Pav,1,0,,70.0
+Vada Pav,Garlic Mayo Chinese Vada Pav,1,0,,70.0
+Vada Pav,Peri Peri Mayo Chinese Vada Pav,1,0,,70.0
+Vada Pav,Cheese Blast Mayo Chinese Vada Pav,1,0,,70.0
+Samosa,Punjabi Samosa,1,0,,22.0
+Samosa,Samosa Pav,1,0,,40.0
+Samosa,Cheese Samosa Pav,1,0,,65.0
+Bread Pakoda,Jain Butter Bread Pakoda,1,0,,45.0
+Bread Pakoda,Jain Cheese Bread Pakoda,1,0,,70.0
+Bread Pakoda,Jain Mayo Bread Pakoda,1,0,,60.0
+Bread Pakoda,Butter Bread Pakoda,1,0,"It is made from bread slices, gram flour, and spices among other ingredients. ... read more",40.0
+Bread Pakoda,Cheese Bread Pakoda,1,0,,65.0
+Bread Pakoda,Schezwan Bread Pakoda,1,0,,58.0
+Bread Pakoda,Mayo Bread Pakoda,1,0,,58.0
+Bread Pakoda,Tandoori Mayo Bread Pakoda,1,0,,65.0
+Bread Pakoda,Chilli Garlic Mayo Bread Pakoda,1,0,,65.0
+Bread Pakoda,Peri Peri Mayo Bread Pakoda,1,0,,65.0
+Bread Pakoda,Cheese Blast mayo Bread Pakoda,1,0,,65.0
+French Fries,French Fries,1,0,,90.0
+French Fries,Cheese French Fries,1,0,,110.0
+French Fries,Mayo French Fries,1,0,,100.0
+French Fries,Peri Peri Mayo French Fries,1,0,,110.0
+French Fries,Jalapeno Mayo French Fries,1,0,,110.0
+French Fries,Cheese Blast French Fries,1,0,,110.0
+French Fries,Tandoori Mayo French Fries,1,0,,110.0
+Mayo Pav,Plain Mayo Pav,1,0,,30.0
+Mayo Pav,Tandoor Mayo Pav,1,0,,40.0
+Mayo Pav,Peri Peri Mayo Pav,1,0,,40.0
+Mayo Pav,Cheese Blast Mayo Pav,1,0,,40.0
+Mayo Pav,Chilli Garlic Mayo Pav,1,0,,40.0
+Accompaniments,Green Chutney,1,0,,20.0
+Accompaniments,Lasun Chutney,1,0,,20.0

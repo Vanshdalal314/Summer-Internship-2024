@@ -1,0 +1,49 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chocolate Sundaes,Royale Dark Fantasy Sundae,1,0,"A sinful combination of chocolate ice cream, and rich chocolate cake, topped with ... read more",152.0
+Chocolate Sundaes,Rocky Road Sundae,1,0,"Coffee Brazilia, Chocolate & Vanilla ice creams topped with roasted almonds, chocochips & ... read more",194.0
+Naturally Good Sundaes,Naturally Jackfruit and Dry Fruit Sundae,1,0,"Natural jackfruit ice cream with roasted cashews and almonds, fresh banana cubes, dates, ... read more",240.0
+Naturally Good Sundaes,Naturally Chikku N Dry Fruit Sundae,1,0,"Real chikoo ice cream with roasted cashews and almonds, fresh banana cubes, dates, ... read more",240.0
+Naturally Good Sundaes,Naturally Jaggery Almond Fusion sundae,1,0,"Fresh jaggery ice cream with roasted almonds, fresh banana cubes and 100% pure ... read more",240.0
+Death by Chocolate Sundaes,My DBC Sundae,1,0,The 'Not to be Shared' version of our Classic DBC. A smaller version ... read more,188.0
+Special Sundaes,Dry Fruit Special Sundae,1,0,"Creamy vanilla ice cream loaded with dry fruits like figs, raisins, almonds, dates, ... read more",194.0
+Special Sundaes,Deep Purple Blackcurrant Sundae,1,0,"Luscious blackcurrant ice cream mixed with scoops of various other ice cream, Vanilla ... read more",173.0
+Dessert Tubs,Butterscotch Ice Cream Tub (500 ml),1,0,Our bestselling Butterscotch Ice Cream - topped with loads of Caramel Crackle. Per 100g ... read more,253.38
+Dessert Tubs,Belgian Chocolate Ice Cream Tub (500 ml),1,0,Our bestselling Belgian Chocolate Ice Cream - topped with loads of Chocolate & ... read more,296.6
+Dessert Tubs,Alphonso Mango Ice Cream Tub (500 ml),1,0,"Our bestselling Alphonso Mango Ice Cream. Per 100g : Energy (Kcal) - 226.67, Protein ... read more",253.38
+Dessert Tubs,Vanilla Ice Cream Tub (500 ml),1,0,"Our bestselling classic Vanilla Ice Cream. Per 100g : Energy (Kcal) - 221.53, Protein ... read more",168.64
+Dessert Tubs,Choco Almond Fudge Ice Cream Tub (500 ml),1,0,Our bestselling Choco Almond Ice Cream - topped with loads of Chocolate & ... read more,275.42
+Dessert Tubs,Kulfi Ice Cream Tub (500 ml),1,0,"Our bestselling Indian classic Kulfi Ice Cream. Per 100g : Energy (Kcal) - 248.34, ... read more",275.42
+Dessert Tubs,Jackfruit Ice Cream Tub (500 ml),1,0,Our bestselling ice cream with fresh jackfruit pieces. Per 100g : Energy (Kcal) - ... read more,275.42
+Dessert Tubs,Excess Chocolate Sundae Tub (480 ml),1,0,"Soft chocolate sponge cake, creamy chocolate ice cream, and swirls of chocolate fudge. Serving ... read more",297.0
+Dessert Tubs,Tiramisu Grande Sundae Tub (480 ml),1,0,"Lush Coffee Ice cream and dark chocolate cake, topped with chocolate, mocha sauce, ... read more",297.0
+Dessert Tubs,Red Velvet Sundae Tub (480 ml),1,0,"Smooth Red Velvet ice cream, soft red velvet cake and exotic cherry compote. Serving ... read more",297.0
+Dessert Tubs,Brownie Fudge Sundae Tub (480 ml),1,0,Gooey chocolate walnut brownie and Vanilla ice cream with a topping of chocolate ... read more,297.0
+Dessert Tubs,Gudbud Sundae Tub (480 ml),1,0,"Vanilla & Strawberry ice cream, pineapple pulp, with a topping of dry fruits. Serving ... read more",297.0
+Dessert Tubs,Sundae Tub 125ml Excess Chocolate,1,0,"Soft sponge chocolate cake, smooth and creamy chocolate ice cream, and swirls of ... read more",84.74
+Dessert Tubs,Sundae Tub 125ml The Red Velvet,1,0,"Loaded with smooth red velvet ice cream, exotica cherry compote and soft red ... read more",84.74
+Dessert Tubs,Sundae Tub 125ml Tiramisu,1,0,"Lush Coffee Ice cream and dark chocolate cake, topped with chocolate, mocha sauce, ... read more",84.74
+Dessert Tubs,Sundae Tub 125ml Brownie Fudge,1,0,Gooey chocolate walnut brownie and Vanilla ice cream with a topping of chocolate ... read more,84.74
+Milkshakes and Thickshakes,Cold Coffee Milkshake,1,0,A classic blend of vanilla ice cream & coffee. Calorific value per serving427Kcal Serving Size286gm ... read more,146.0
+Milkshakes and Thickshakes,Red Velvet Cookie Thickshake,1,0,"An irresistible mix of vanilla ice cream, delicious red velvet cake & cookies. Calorific ... read more",198.0
+Ice Cream Scoops,Strawberry Ice Cream,1,0,The all-time fruity classic (Single scoop). Serving Size 120ml No of Serving 1 Nutritional Information *Per ... read more,72.0
+Ice Cream Scoops,Vanilla Ice Cream,1,0,A cold and creamy classic (Single scoop). Serving Size 120ml No of Serving 1 Nutritional Information ... read more,72.0
+Ice Cream Scoops,Rich Chocolate Ice Cream,1,0,A rich and thick chocolate bliss (Single scoop). Serving Size 120ml No of Serving 1 Nutritional ... read more,89.0
+Ice Cream Scoops,Pista Ice Cream,1,0,A sweet treat of Pista-flavoured ice cream and dry fruits with a hint ... read more,89.0
+Ice Cream Scoops,Fresh Pineapple Ice Cream,1,0,An intensely sweet tropical classic (Single scoop). Serving Size 120ml No of Serving 1 Nutritional Information ... read more,89.0
+Ice Cream Scoops,Butterscotch Ice Cream,1,0,A nutty and buttery praline classic. (Single scoop). Serving Size 120ml No of Serving 1 Nutritional ... read more,89.0
+Ice Cream Scoops,Alphonso Mango Ice Cream,1,0,Made from hand-picked fresh Alphonso Mangoes. (Single scoop). Serving Size 120ml No of Serving 1 Nutritional ... read more,89.0
+Ice Cream Scoops,Coffee Brazilia Ice Cream,1,0,Coffee and ice cream blend (Single scoop). Serving Size 120ml No of Serving 1 Nutritional Information ... read more,100.0
+Ice Cream Scoops,Paan Ice Cream,1,0,An Indian classic made with herbs and ice cream (Single scoop). Serving Size 120ml No ... read more,100.0
+Ice Cream Scoops,Belgian Chocolate Ice Cream,1,0,A sweet deal made for chocolate lovers (Single scoop). Serving Size 120ml No of Serving ... read more,100.0
+Ice Cream Scoops,Kulfi Ice Cream,1,0,"An Indian classic made with saffron, pista and ice cream (Single scoop). Serving Size ... read more",100.0
+Ice Cream Scoops,Fruit Punch Ice Cream,1,0,A medley of banana-flavoured ice cream with dry fruits (Single scoop). Serving Size 120ml No ... read more,100.0
+Ice Cream Scoops,Lychica Ice Cream,1,0,Pulpy lychee ice cream (Single scoop). Serving Size 120ml No of Serving 1 Nutritional Information *Per ... read more,100.0
+Ice Cream Scoops,Purple Punch Ice Cream,1,0,Blackcurrant ice cream with raisins (Single scoop). Serving Size 120ml No of Serving 1 Nutritional Information ... read more,100.0
+Ice Cream Scoops,Red Velvet Ice Cream,1,0,An indulgent treat made with red velvet cake and cherry compote (Single scoop). Serving ... read more,100.0
+Ice Cream Scoops,Cookie N Cream,1,0,,100.0
+Ice Cream Scoops,No Added Sugar - Vanilla Ice Cream,1,0,Guilt-free Vanilla Ice Cream with zero added sugar (Single scoop).,93.0
+Ice Cream Scoops,Jaggery Fruit & Nut,1,0,Serving Size 120ml No of Serving 1 Nutritional Information *Per 100 gm Energy(Kcal) 235.53 Protein(g) 4.08 Carbohydrate(g) ... read more,89.0
+Ice Cream Scoops,Jackfruit Ice Cream,1,0,Ice Cream with fresh jackfruit pieces (Single scoop). Serving Size 120ml No of Serving 1 Nutritional ... read more,100.0
+Ice Cream Scoops,Real Sitaphal Ice Cream,1,0,,100.0
+Ice Cream Scoops,Real Chikoo Ice Cream,1,0,Ice Cream with fresh Chikoo pieces (Single scoop). Serving Size 120ml No of Serving 1 Nutritional ... read more,100.0
+Ice Cream Scoops,Real Dates,1,0,,89.0

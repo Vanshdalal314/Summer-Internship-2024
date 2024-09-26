@@ -1,0 +1,8 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Mathura Samosa & Kachori,Samosa [1 Piece],1,0,Samosa [2 pieces] are complimentary.,12.0
+Mathura Samosa & Kachori,Samosa [2 Pieces],1,0,Crispy samosas,24.0
+Mathura Samosa & Kachori,Kachori [1 Piece],1,0,Crispy kachori with aloo sabzi.,17.0
+Mathura Jalebi,Mathura Jalebi,1,0,"A delight for the sweet toothed, mouthwatering jalebi soaked in delectable sugar syrup- ... read more",125.0
+Diwali Special Combos,Jalebi [250 grams] with Samosa [2 Pieces],1,0,,150.0
+Diwali Special Combos,Jalebi [500 grams] with Samosa [4 Pieces],1,0,,300.0
+Accompaniments,Chutney,1,0,,10.0

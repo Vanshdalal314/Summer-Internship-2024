@@ -1,0 +1,114 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali and Combos,Kathiyawadi Gujarati Thali,1,0,2 Sabji+4 Roti+1 Dal+1 Rice+Papad [1 Piece]+Salad+Pickle [Subject to Availability],258.0
+Thali and Combos,Kathiyawadi Gujarati Thali and sweet,1,0,2 Sabji+4 Roti+Dal+Rice+Papad+Salad+Pickle+Churma Laddu [1 Piece] [Subject to Availability],282.0
+Thali and Combos,Kathiyawadi Punjabi Thali,1,0,Paneer Masala+Kaju Curry+Dal Fry+Rice+4 Chapati+Papad+Pickle,299.0
+Thali and Combos,Kathiyawadi Punjabi Thali with Sweet,1,0,Paneer Masala+Kaju Curry+Dal Fry+Rice+4 Chapati+Papad+Pickle+Gulab Jamun [1 Piece],305.0
+Thali and Combos,Dal Rice,1,0,Gujarati dal.,122.0
+Thali and Combos,4 Methi Thepla with Dahi,1,0,Methi Thepla [4 Piece] + Curd,123.0
+Thali and Combos,Mixed Dal Rice,1,0,,174.0
+Thali and Combos,Ringan Bharthu [250 ml] with 1 Bajri Rotl and Masala Khichdi,1,0,Buttermilk.,349.0
+Thali and Combos,Lasaniya Batata [250 ml] with 3 Ghee Roti and Gujarati Dal Bhat,1,0,Butter milk.,349.0
+Starters,Cheese Garlic Bhakhri [6 Pieces],1,0,,202.0
+Starters,Veg Cheese Garlic Bhakhri [6 Pieces],1,0,,246.0
+Main Course,Lili Dungree Butter Dal,1,0,,168.0
+Main Course,Chhas Ma Vaghareli Rotli,1,0,,186.0
+Main Course,Vadhvani Bharela Marcha nu shak,1,0,,190.0
+Main Course,Sev Tameta,1,0,Sweet sabji with chopped tomato and thick sev.,202.0
+Main Course,Papad Tameta Nu Shaak,1,0,,208.0
+Main Course,Dahi Ni Tikhari,1,0,,213.0
+Main Course,Desi Shak Dungri Bataka,1,0,,220.0
+Main Course,Lasaniya Bataka,1,0,,222.0
+Main Course,Chana Masala,1,0,,223.0
+Main Course,Ghathiya Nu Sak,1,0,,227.0
+Main Course,Lasaniya Gathiya,1,0,,230.0
+Main Course,Lili Dungri Papad Tameta,1,0,,230.0
+Main Course,Gathiya Nu Shak,1,0,,230.0
+Main Course,Sev Lasan Kaju,1,0,,230.0
+Main Course,Bharela Ringan Ravaiya,1,0,,234.0
+Main Course,Lili Dungri Bataka,1,0,,234.0
+Main Course,Chhas Ma Vagharelo Bajri Rotlo,1,0,,234.0
+Main Course,Makai Tameta nu Shak,1,0,,235.0
+Main Course,Sev Lasan Masala,1,0,,236.0
+Main Course,Ringan Bharthu,1,0,"Roasted brinjal, tomato, onion and other spices.",242.0
+Main Course,Mix Green Vegetable,1,0,,244.0
+Main Course,Desi Nani Bhareli Dungri,1,0,,251.0
+Main Course,Lili Dungri Chana Masala,1,0,,252.0
+Main Course,Lili Dungri Ganthiya Nu Shak,1,0,,258.0
+Main Course,Kathiyawadi Pulao Kadhi,1,0,,258.0
+Main Course,Gamthi Sev Dungri Nu Shak,1,0,,258.0
+Main Course,Bharela Ravaiya Bataka,1,0,,258.0
+Main Course,Lili Dungri Rajwadi Dhokli,1,0,,258.0
+Main Course,Green Gujarat,1,0,,264.0
+Main Course,Rajwadi Dhokli,1,0,,269.0
+Main Course,Veg Bharla Gotala,1,0,,272.0
+Main Course,Lili Dugari Kaju Masala,1,0,,302.0
+Main Course,Lili Methi Rajwadi Dhokli,1,0,,302.0
+Main Course,Paneer Tufani Kathiyawadi,1,0,,340.0
+Main Course,Lili Dungri Cheese Kaju Masala,1,0,,342.0
+Main Course,Green Palak Gotalo,1,0,,360.0
+Main Course,Dhaba Special Paneer Bhavnagri,1,0,,241.0
+Main Course,Paneer Veg Kadai,1,0,,242.0
+Main Course,Paneer Butter Masala,1,0,,244.0
+Main Course,Paneer Balti,1,0,,246.0
+Main Course,Lili Dungri Makai Paneer,1,0,,258.0
+Main Course,Lilia Sak Bhji Mix Paneer,1,0,,258.0
+Main Course,Paneer Masala,1,0,,301.0
+Main Course,Lasaniya Paneer,1,0,,302.0
+Main Course,Paneer Aflatoon,1,0,,318.0
+Main Course,Lili Dungri Paneer Masala,1,0,,318.0
+Main Course,Paneer Bhurji,1,0,,325.0
+Main Course,Paneer Chatpata,1,0,,358.0
+Main Course,Cheese Sev Kaju Masala,1,0,,264.0
+Main Course,Cheese Kaju Masala,1,0,,276.0
+Main Course,Cheese Sev Onion,1,0,,318.0
+Main Course,Cheese Butter Masala,1,0,,363.0
+Main Course,Cheese Lili Dungri Tameta,1,0,,392.0
+Main Course,Cheese Paneer Gotala,1,0,,403.0
+Main Course,Cheese Angoori,1,0,,459.0
+Main Course,Kaju Papad Tameta,1,0,,244.0
+Main Course,Lili Methi Papad Kaju,1,0,,280.0
+Main Course,Kaju Ganthiya,1,0,,291.0
+Main Course,Lili Methi Sev Kaju,1,0,,302.0
+Main Course,Kaju Paneer Masala,1,0,,333.0
+Main Course,Kaju Curry Masala,1,0,,340.0
+Main Course,Kadhi,1,0,,38.0
+Main Course,Dal Fry,1,0,,185.0
+Main Course,Dal Tadka,1,0,,207.0
+Breads,Plain Rotli,1,0,,25.0
+Breads,Ghee Wali Rotli,1,0,,29.0
+Breads,Methi Na Thepla,1,0,,34.0
+Breads,Ghee Wali Bhakhri,1,0,,43.0
+Breads,Bajri No Rotlo,1,0,,43.0
+Breads,Juvar Rotlo,1,0,,47.0
+Breads,Gheewala Bajri No Rotlo,1,0,,49.0
+Breads,Makai Rotlo,1,0,,49.0
+Breads,Tawa Paratha,1,0,,50.0
+Breads,Gheewala Paratha,1,0,,55.0
+Breads,Aloo Paratha,1,0,,91.0
+Breads,Cheese Paratha,1,0,,151.0
+Breads,Cheese Garlic Butter Paratha,1,0,,170.0
+"Rice, Biryani and Khichdi",Plain Rice,1,0,,84.0
+"Rice, Biryani and Khichdi",Jeera Rice,1,0,,151.0
+"Rice, Biryani and Khichdi",Masala Rice,1,0,,195.0
+"Rice, Biryani and Khichdi",Kathiyawadi Vegetable Biryani,1,0,,302.0
+"Rice, Biryani and Khichdi",Jalaram Kadhi Khichdi,1,0,,170.0
+"Rice, Biryani and Khichdi",Achari Khichdi,1,0,,184.0
+"Rice, Biryani and Khichdi",Masala Kadhi Khichdi,1,0,Jain & Swaminarayan preparation is not available.,193.0
+"Rice, Biryani and Khichdi",Cheese Achari Khichdi,1,0,,218.0
+"Rice, Biryani and Khichdi",Dahi Palak Khichdi,1,0,,258.0
+Bhakhri Pizza,Cheese Bhakhri Pizza,1,0,,308.0
+Snacks,Bhungla Bataka,1,0,,196.0
+Accompaniments,Roasted Papad,1,0,,22.0
+Accompaniments,Bundi Nu Raitu,1,0,,72.0
+Accompaniments,Plain Dahi,1,0,,73.0
+Accompaniments,Khamneli Kakdi Nu Raitu,1,0,,76.0
+Desserts and Beverages,Chaas,1,0,,45.0
+Desserts and Beverages,Sweet Lassi,1,0,,84.0
+Desserts and Beverages,Churma Na Ladoo,1,0,,60.0
+Desserts and Beverages,Gulab Jamun [3 Pieces],1,0,,84.0
+Desserts and Beverages,Puranpoli,1,0,,118.0
+Desserts and Beverages,Ladu Nu Churmu,1,0,,220.0
+Desserts and Beverages,Bajri Rotla Churma,1,0,,256.0
+Family Combos,2 Person Combo,1,0,Lasaniya Batata [500 Gram] + Plain Rotli [4 Piece] + Plain Bajri No ... read more,419.0
+Family Combos,4 Person Combo,1,0,Desi Nani Bhareli Dugli ni Sabji [500 ml] + Lasaniya Batata Sabji [500 ... read more,999.0
+Family Combos,6 Person Combo,1,0,Ringan Bharthu [500 ml] + Lasaniya Batata [500 ml] + Bharelaa March [500 ... read more,1499.0

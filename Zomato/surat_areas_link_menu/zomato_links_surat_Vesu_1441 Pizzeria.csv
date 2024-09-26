@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bogo Special,Brownie [Bogo],1,0,,145.0
+Appetizers,Cheese Burst Calzone,1,0,"Calzone filled with jalapeno pepper, sweet corn, black olives and oodles of cheese, ... read more",295.0
+Appetizers,Chilli Cheese Bread,1,0,Cheesy bread flavored with garlic and spicy green chillies,295.0
+Appetizers,Jalapeno Poppers,1,0,Jalapeno peppers combined with cheese and coated with bread crumbs. Served with jalapeno ... read more,245.0
+Appetizers,Pesto Calzone,1,0,"Calzone filled with refereshing pesto, creamy cheese and veggies, baked to perfection.",295.0
+Appetizers,Smokey Cheese Dough Balls,1,0,"Filled with cheese, flavored with garlic, chilli flakes & oregano baked to perfection! ... read more",295.0
+Appetizers,BBQ Chicken Wings,0,0,Juicy chicken wings dripping with barbeque sauce topped with chilli and black pepper.,325.0
+Appetizers,Chicken Pesto Calzone,0,0,"Stuffed with chicken, creamy pesto sauce and oodles of cheese, rolled into a ... read more",325.0
+Appetizers,Chicken Seekh Kebab Calzone (new),0,0,"Calzone filled with chicken seekh kebab, garlic, red paprika, green coriander & oodles ... read more",325.0
+Appetizers,Peri Peri Chicken Wings,0,0,Juicy chicken wings marinated in zingy peri peri.,325.0
+Wood Fired Italian Pizza,Classic Margherita,1,0,"Italian Sauce, shredded mozarella cheese & basil.",275.0
+Wood Fired Italian Pizza,Double Cheese Margherita,1,0,"Italian Sauce, 2X shredded mozarella cheese & basil.",345.0
+Wood Fired Italian Pizza,Fiama Pizza,1,0,"Italian sauce, shredded mozzarella cheese, onion, green chillies & jalapenos",395.0
+Wood Fired Italian Pizza,Hot & Spicy Pizza,1,0,"Italian Sauce, shredded mozarella cheese, onions, green chillies, jalapenos & red paprika",395.0
+Wood Fired Italian Pizza,Paneer Tikka Pizza,1,0,"Mamas sauce, shredded mozzarella cheese, onion, garlic, green capsicum, paneer tikka & green ... read more",395.0
+Wood Fired Italian Pizza,Chicken Mexicana Pizza,0,0,"Marinara Sauce, Shredded Mozzarella Cheese, Red Capsicum, Green Chillies, Chicken Pepperoni & Chicken ... read more",395.0
+Wood Fired Italian Pizza,Chicken Pesto Pizza,0,0,"Pesto Sauce, White Sauce, Shredded Mozzarella Cheese, Red Capsicum, Yellow Capsicum, Black Olives, ... read more",445.0
+Wood Fired Italian Pizza,Classic Chicken Pepperoni Pizza,0,0,"Italian Sauce, Shredded Mozzarella Cheese & Chicken Pepperoni.",445.0
+Wood Fired Italian Pizza,Peri Peri Chicken Pizza,0,0,"Italian Sauce, Shredded Mozzarella Cheese, Onions, Red Paprika, Coriander, Peri Peri Chicken & ... read more",395.0
+Wood Fired Italian Pizza,5 Cheese Pizza,1,0,"Italian sauce, shredded mozzarella cheese, Parmesan cheese, cheddar cheese, creamy cheese & cheese ... read more",495.0
+Wood Fired Italian Pizza,Garden Fresh Pizza,1,0,"Mamas sauce, shredded mozzarella cheese, tomatoes, mushrooms, olives, green capsicum, jalape?s & sweet ... read more",395.0
+Wood Fired Italian Pizza,Krish's Pizza,1,0,"Mama's sauce, shredded mozzarella cheese, smoked mozzarella cheese, garlic, basil, jalapens, caramelised onions ... read more",495.0
+Wood Fired Italian Pizza,Pesto Pizza,1,0,"Pesto sauce, white sauce, shreddedmozzarella cheese, mushrooms & sun-dried tomatoes.",395.0
+Wood Fired Italian Pizza,Veggie Delight Pizza,1,0,"Italian sauce, shredded mozzarella cheese, smoked mozzarella cheese, green capsicum, red capsicum, yellow ... read more",395.0
+Wood Fired Italian Pizza,BBQ Chicken Pizza,0,0,"Italian sauce, shredded mozzarella cheese, smoked mozzarella cheese, onion, coriander, BBQ chicken & ... read more",495.0
+Wood Fired Italian Pizza,Meat Cravers Pizza,0,0,"Italian sauce, shredded mozzarellacheese, onions, garlic, chicken tikka, chicken meatballs, chicken pepperoni, chicken ... read more",495.0
+Wood Fired Italian Pizza,Smoked Chicken Pizza,0,0,"Italian sauce, shredded mozzarella cheese, smoked mozzarella cheese, mushrooms, black olives, roasted chicken ... read more",495.0
+Tandoori Thrill,Chicken Seekh Kebab Pizza,0,0,"Makhani Sauce,Shreded Mozzarella Cheese,Seekh Kebab,Onion,Garlic Red Paprika & Fresh Coriander",395.0
+Tandoori Thrill,Tandoori Chicken Pizza,0,0,"Makhani Sauce,Shreded Mozarella Cheese,Chicken Tikka,Fresh Coriander & Green Chillies",395.0
+Tandoori Thrill,Tandoori Paneer Pizza,1,0,"Makhani Sauce Shreded Mozzarella Cheese,Paneer Tikka,Fresh Coriander ,Greeen Chillies,Red Capsicum,Kasoori Methi & Tandoori ... read more",395.0
+Cheese Loaded,Farm Pesto,1,0,"Combination of Italian & pesto sauce, onions, black olives, sweet corn, green capsicum ... read more",445.0
+Cheese Loaded,Veggie Fiesta,1,0,"Italian sauce, onions, green capsicum, sweet corn, tomatoes & mushrooms.",445.0
+Cheese Loaded,Chicken Bonanza,0,0,"Italian sauce, onions, chicken tikka, peri peri chicken & spicy chicken sausages.",495.0
+Cheese Loaded,Chilli Pepperoni,0,0,"Italian sauce, chicken pepperoni & red paprika.",495.0
+Cheeseless Wonders,Bight Light,1,0,"Italian Sauce, sweet corn, broccoli, diced tomatoes, black olives & marinated cottage cheese.",295.0
+Cheeseless Wonders,Broc N Roll,1,0,"Pesto sauce, red capsicum, broccoli, onion rings, black olives, sweet corn, tomatoes & ... read more",295.0
+Cheeseless Wonders,The Health Ninja,1,0,"Pesto sauce, green zucchini, cherry tomatoes, yellow capsicum & black olives with chopped ... read more",295.0
+Cheeseless Wonders,Low Cal Exotica,0,0,"Olive oil, onion rings, green chillies, black olives, basil & chunks of roasted ... read more",345.0
+Cheeseless Wonders,Popeyes Favorite,0,0,"Olive oil, spinach, garlic, spicy sausages, roasted chicken, salt & black pepper.",345.0
+Cheeseless Wonders,Power Lifter,0,0,"Italian Sauce, onion Rings, baby spinach, mushrooms, Garlic & roasted Chicken.",345.0
+Cheeseless Wonders,The Ripped Indian,0,0,"Pesto sauce, onion rings, green chillies, & chunks of chicken tikka topped with ... read more",345.0
+Jain Jackpot,Jain Chilli Cheese Bread,1,0,Cheesy bread flavoured with fresh coriander & spicy green chillies.,295.0
+Jain Jackpot,Jain Jalapeno Poppers,1,0,Chopped jalapenos combined with cheese & coated with bread crumbs.Served with jalapeno dip.,245.0
+Jain Jackpot,Jain Smokey Cheese Dough Balls,1,0,"Filled with cheese, flavored with chilli flakes, oregano & baked?o?erfection. Served with jalapeno dip.",295.0
+Jain Jackpot,Jain 5 Cheese Pizza,1,0,"Jain sauce, mozzarella cheese, Parmesan cheese, cheddar cheese, creamy cheese & cheese sauce.",495.0
+Jain Jackpot,Jain Garden Fresh Pizza,1,0,"Jain sauce, shredded mozzarella cheese, tomatoes, olives, green capsicum, jalapenos & sweet corn.",395.0
+Jain Jackpot,Jain Veggie Delight,1,0,"Jain sauce, shredded mozzarella cheese, smoked mozzarella cheese, green capsicum, red capsicum, yellow ... read more",395.0
+Jain Jackpot,Jain Fusilli Pink Sauce Pasta,1,0,"Fusilli tossed in creamy pink sauce with veggies, and topped with Parmesan cheese. ... read more",375.0
+Jain Jackpot,Jain Penne Pasta,1,0,Penne pasta tossed in a jain flavorful tomatosauce with veggies & topped with ... read more,375.0
+Very Vegan,The V Pizza,1,0,"Vegan mozzarella cheese, marinara sauce, black olives, mushrooms, jalapenos & green capsicum.",495.0
+Very Vegan,Vegan Hot Chilli Pizza,1,0,"Vegan mozzarella cheese, mamas sauce, red paprika, green chillies, green capsicum & red ... read more",495.0
+Very Vegan,Vegan Margherita Pizza,1,0,Vegan mozzarella cheese &basil.,445.0
+Very Vegan,Vegan Wonder Pizza,1,0,"Vegan mozzarella cheese, marinara sauce, mushrooms, black olives & sun-dried tomatoes.",495.0
+Very Vegan,Smokey Vegan Cheese Dough Balls,1,0,"Vegan cheese, garlic, chilli flakes & oregano.",595.0
+Pasta,Alfredo Pasta,1,0,Fusilli Pasta tossed in a creamy white sauce with veggies and mushrooms & ... read more,375.0
+Pasta,Arrabbiata Pasta,1,0,Penne pasta tossed in a spicy flavorful tomato sauce with veggies & topped ... read more,375.0
+Pasta,Pesto Pasta,1,0,"Fusilli pasta tossed in creamy pesto sauce with mushrooms, sun-dried tomatoes & topped ... read more",375.0
+Pasta,Pink Sauce Pasta,1,0,"Fusilli tossed in creamy pink sauce with veggies, mushrooms and topped with Parmesan ... read more",375.0
+Non Veg Pasta,Alfredo Pasta (Non Veg),0,0,"Fusilli pasta tossed in a creamy white sauce with zucchini, mushrooms, black olives, ... read more",425.0
+Non Veg Pasta,Arrabbiata Pasta (non Veg),0,0,"Penne pasta tossed in Italian sauce with green capsicum, zucchini, chicken & topped ... read more",425.0
+Non Veg Pasta,Pesto Pasta (non Veg),0,0,"Fusilli pasta tossed in creamy pesto sauce with mushrooms, sun-dried tomatoes & topped ... read more",425.0
+Non Veg Pasta,Pink Sauce Pasta (Non Veg),0,0,"Fusilli pasta tossed in creamy pink sauce, green capsicum, sweet corn, black olives, ... read more",425.0
+Dessert,Brownie,1,0,Delicious walnut brownie,145.0
+Dessert,Chocolate Mousse,0,0,A light and fluffy texture and an intense chocolate flavour come together in ... read more,195.0
+Dessert,Nutella Dough Balls,1,0,The widely loved warm gooey chocolate spread wrapped in a soft dough.,245.0
+Dessert,Tiramisu,1,0,A classic espresso-dipped cake meets sweet whipped cream in the decadent layers of ... read more,195.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,95.0
+Drinks (Beverages),Lychee Lemonade,1,0,Bottle (200 ml),95.0
+Drinks (Beverages),Masala Lemonade,1,0,Bottle (200 ml),95.0
+Drinks (Beverages),Peach Iced Tea,1,0,,95.0
+Drinks (Beverages),Coke,1,0,,66.5
+Drinks (Beverages),Coke Zero,1,0,,66.5
+Drinks (Beverages),Fanta,1,0,,66.5
+Drinks (Beverages),Sprite,1,0,,66.5
+Drinks (Beverages),Thumbs Up,1,0,,66.5
+Oils & Dips,Creamy Cheese Dip (30gm),1,0,,30.0
+Oils & Dips,Jalapeno Dip (30gm),1,0,,30.0
+Oils & Dips,Peri Peri Dip (30gm),1,0,,30.0
+Oils & Dips,Pesto Dip (30g),1,0,,30.0
+Make Your Own Pizza With Unlimited Toppings,Classic Pizza,1,0,"Choose from a range of sauces, cheese & unlimited Classic Toppings",445.0
+Make Your Own Pizza With Unlimited Toppings,Gourmet Piza Non-Veg,0,0,"Choose from a range of sauces, cheese & unlimited Gourmet Toppings",545.0
+Make Your Own Pizza With Unlimited Toppings,Gourmet Pizza,1,0,"Choose from a range of sauces, cheese & unlimited Gourmet Toppings",495.0

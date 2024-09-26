@@ -1,0 +1,55 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chole Bhature,Cheese Chole [250ML] + 2 Bhature + Pickle + Salad,1,0,Dilli Waale Pindi Chole,364.0
+Chole Bhature,Chole [250ML] + 2 Bhature + Pickle + Salad + Chass + Roasted Papad,1,0,Dilli Waale Pindi Chole,309.0
+Chole Bhature,Chole [250ML] + 2 Bhature + Pickle + Salad,1,0,Dilli Waale Pindi Chole,239.0
+Chole Bhature,Extra Bhature[1pcs],1,0,,119.0
+Chole Bhature,Extra Chole [250ml],1,0,Dilli Waale Pindi Chole,199.0
+Combos,Aloo Churr Churr Kulcha Combo,1,0,(Served With Chole/Dal Makahni + 1pc .Buttery Kulcha Stuffed with Potato + Boondi ... read more,319.0
+Combos,Aloo Onion Churr Churr Kulcha Combo,1,0,(Served With Chole/Dal Makahni + 1pc .Buttery Kulcha Stuffed with potatoes & Onion ... read more,319.0
+Combos,Amritsari Churr Churr Kulcha Combo,1,0,"(Served With Chole/Dal Makahni + 1pc .Buttery Kulcha Stuffed with Potato,onion,Paneer,Cauliflower + Boondi ... read more",319.0
+Combos,Gobhi Churr Churr Kulcha Combo,1,0,(Served With Chole/Dal Makahni + 1pc .Buttery Kulcha Stuffed with Cauliflower + Boondi ... read more,299.0
+Combos,Onion Churr Churr Kulcha Combo,1,0,(Served With Chole/Dal Makahni + 1pc .Buttery Kulcha Stuffed with Onion + Boondi ... read more,319.0
+Combos,Paneer Churr Churr Kulcha Combo,1,0,(Served With Chole/Dal Makahni + 1pc .Buttery Kulcha Stuffed with Paneer + Boondi ... read more,329.0
+Combos,Paneer Gobhi Churr Churr Kulcha Combo,1,0,(Served With Chole/Dal Makahni + 1pc .Buttery Kulcha Stuffed with Paneer & Cauliflower ... read more,319.0
+Combos,Aloo Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Naan Stuffed with Potato + Boondi Raita ... read more,289.0
+Combos,Aloo Onion Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Naan Stuffed with Onion & Potato + ... read more,289.0
+Combos,Amritsari Naan Combo,1,0,"(Served With Chole/Dal Makahni + 1pc Naan Stuffed with Potato,onion,Paneer,Cauliflower + Boondi Raita ... read more",299.0
+Combos,Butter Kulcha Combo,1,0,(Served With Chole/Dal Makahni + 2pcs Butter Kulcha + Boondi Raita + Green ... read more,299.0
+Combos,Butter Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Butter Naan + Boondi Raita + Green ... read more,299.0
+Combos,Cheese Garlic Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Naan Stuffed with Garlic & Cheese + ... read more,349.0
+Combos,Cheese Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Naan Stuffed with Cheese + Boondi Raita ... read more,329.0
+Combos,Garlic Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Garlic Naan + Boondi Raita + Green ... read more,339.0
+Combos,Gobhi Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Naan Stuffed with paneer & Cauliflower + ... read more,289.0
+Combos,Onion Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Naan Stuffed with Onion + Boondi Raita ... read more,289.0
+Combos,Paneer Cheese Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Naan Stuffed with Paneer & Cheese + ... read more,319.0
+Combos,Paneer Gobhi Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Naan Stuffed with Paneer & Cauliflower + ... read more,299.0
+Combos,Paneer Naan Combo,1,0,(Served With Chole/Dal Makahni + 1pc Naan Stuffed with Paneer + Boondi Raita ... read more,289.0
+Combos,Aloo Paratha Combo,1,0,(Potato Stuffed Tandoori Paratha Served With plain Curd + Pickle + Mint Chutney ... read more,269.0
+Combos,Cheese Paratha Combo,1,0,( Cheese Stuffed Tandoori Paratha Served With plain Curd + Pickle + Mint ... read more,299.0
+Combos,Gobhi Paratha Combo,1,0,( cauliflower Stuffed Tandoori Paratha Served With plain Curd + Pickle + Mint ... read more,259.0
+Combos,Mix Stuffed Paratha Combo,1,0,"(Paneer,potatoes,Onion & Cauliflower Stuffed Tandoori Paratha Served With plain Curd + Pickle + ... read more",279.0
+Combos,Onion Paratha Combo,1,0,(onion Stuffed Tandoori Paratha Served With plain Curd + Pickle + Mint Chutney ... read more,269.0
+Combos,Paneer Cheese Paratha Combo,1,0,(Paneer & Cheese Stuffed Tandoori Paratha Served With plain Curd + Pickle + ... read more,279.0
+Combos,Paneer Gobhi Paratha Combo,1,0,( cauliflower Stuffed Tandoori Paratha Served With plain Curd + Pickle + Mint ... read more,279.0
+Combos,Paneer Paratha Combo,1,0,(Paneer Stuffed Tandoori Paratha Served With plain Curd + Pickle + Mint Chutney ... read more,289.0
+Combos,Chole [300ml] + Steam Rice [ 450ml ] + Mint Chutney + Onion Salad,1,0,Served Separately,299.0
+Combos,Dal Fry [300ml] + Steam Rice [ 450ml ] + Mint Chutney + Onion Salad,1,0,Served Separately,299.0
+Combos,Dal Makhani[300ml]+Steam Rice[450ml]+Mint Chutney+Onion Salad,1,0,Served Separately,299.0
+Combos,Palak Chole[300ml]+Steam Rice[450ml]+Mint Chutney + Onion Salad,1,0,Served Separately,299.0
+Combos,Punjabi Kadi Pakodha + Steam Rice + Mint Chutney+ Onion Salad,1,0,Served Separately Punjabi Kadi Pakodha[300ml]+Steam Rice[450ml]+Mint Chutney+Onion Salad,299.0
+Combos,Rajma[300ml] + Steam Rice [ 450ml ] + Mint Chutney + Onion Salad,1,0,Served Separately,299.0
+Rice Meals,Chole Rice Mix [500ML],1,0,(served mix 500ml of Chole &Steam Rice+ Mint Chutney + Onion Salad ),230.0
+Rice Meals,Dal Fry Rice Mix [500ML],1,0,(served mix 500ml of Dal fry with Steam Rice+ Mint Chutney + Onion ... read more,220.0
+Rice Meals,Dal Makhani Rice Mix [500ML],1,0,(served Mix 500ml of Dal Makhani & Steam Rice+ Mint Chutney + Onion ... read more,230.0
+Rice Meals,Palak Chole Rice Mix [500ML],1,0,(served Mix 500ml of Palak Chole & Steam Rice+ Mint Chutney + Onion ... read more,250.0
+Rice Meals,Punjabi Kadi Pakodha Rice Mix [500ML],1,0,(served Mix 500ml of Kadi &l Steam Rice + Mint Chutney + Onion ... read more,230.0
+Rice Meals,Rajma Rice Mix [500ml],1,0,(served Mix 500ml of Rajma & Steam Rice+ Mint Chutney + Onion Salad ... read more,230.0
+Rolls & Momos,Delhi 6 Chowmein,1,0,,249.0
+Rolls & Momos,Veg Fried Momos [5pcs],1,0,,199.0
+Drinks (Beverages),Black Bon,1,0,,199.0
+Drinks (Beverages),Coke 750 Ml,1,0,,199.0
+Drinks (Beverages),Cool Berg Non Alcoholic,1,0,,269.0
+Drinks (Beverages),Mango Lassi,1,0,200Ml,179.0
+Drinks (Beverages),Sprite 750 Ml,1,0,,199.0
+Drinks (Beverages),Sweet Lassi,1,0,200Ml,179.0
+Drinks (Beverages),Thumsup 750 Ml,1,0,,199.0

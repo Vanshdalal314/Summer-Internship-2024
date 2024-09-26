@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cheesecakes,New York Style Slice,0,0,,300.0
+Cheesecakes,Biscoff Cheesecake Slice,1,0,Our best Seller! Classic Cheesecake topped with Biscoff (Caramel-Cinnamon Biscuit Spread),400.0
+Cheesecakes,Nutella Cheesecake,0,0,,350.0
+Cheesecakes,Blueberry Cheesecake Slice,0,0,,300.0
+Cheesecakes,Strawberry Cheesecake Slice,0,0,,300.0
+Coffee,"Iced Biscoff Latte, 300 ml",1,0,,300.0
+Coffee,"Iced Bom Bon, 150ml",1,0,Espresso + Condensed mylk :,200.0
+Coffee,"Iced Chemex, 300 ML",1,0,,300.0
+Coffee,"Iced Spanish Latte, 300 ml",1,0,Condensed Milk + Milk + Espresso |,300.0
+Coffee,Espresso Tonic,1,0,,300.0
+Coffee,Iced Latte 300ml,1,0,,250.0
+Coffee,"Iced Vanilla Latte, 300ml",1,0,Vanilla Syrup + Espresso + Milk |,300.0
+Coffee,"Iced Mocha Latte, 300ml",1,0,| Chocolate Based Espresso Drink with Milk,300.0
+Coffee,"Iced Salted Caramel Latte, 300ml",1,0,,300.0
+Coffee,"Iced Charcoal Mocha, 300 ML",1,0,Charcoal + Nutella Coffee Please mention in the comments if you want it Iced ... read more,350.0
+Coffee,"Iced Hazelnut Latte, 300ml",1,0,Hazelnut Syrup + Espresso + Milk,300.0
+Coffee,"Iced Americano, 300ml",1,0,,200.0
+Coffee,"Iced Matcha Espresso Latte, 300ml",1,0,Matcha Powder + Espresso + Milk,400.0
+Coffee,"Iced Brownie Frappe, 300ml",1,0,Brownie + Espresso + Milk,400.0
+Drinks (Beverages),"Biscoff Shake 300 ML,",1,0,,400.0
+Drinks (Beverages),Blueberry Biscoff Shake,1,0,,400.0
+Drinks (Beverages),Strawberry Cheesecake Shake,1,0,Strawberry Cheesecake Shake,420.0
+Desserts,Brownie,0,0,,150.0
+Desserts,Nutella Brownie,1,0,,200.0
+Desserts,Strawberry Chocolate Cheesecake,1,0,,400.0
+Desserts,Biscoff Brownie,0,0,,200.0
+Sandwiches / Breads,Cream Cheese Bagel,1,0,"Bagel with Cream Cheese, Microgreens and tomatoes. If you do not want the ... read more",250.0
+Sandwiches / Breads,Cheese Toastie,1,0,"Filled with Mustard, Honey Mustard, Cheddar Cheese, Oman Chips (or flaming hot Cheetos) ... read more",350.0
+Sandwiches / Breads,Butter Croissants,1,0,,200.0
+Sandwiches / Breads,Cream Cheese Croissant,0,0,,300.0
+Sandwiches / Breads,Chocolate Croissant,0,0,,300.0
+Sandwiches / Breads,Biscoff Croissant,0,0,,220.0
+Sandwiches / Breads,Hot Cheetos Cheese Bagel,1,0,,300.0
+Sandwiches / Breads,Croissant with Double Chocolate,1,0,,350.0
+Sandwiches / Breads,Croissant with Cheddar Cheese and Flaming hot Cheetos,1,0,,350.0

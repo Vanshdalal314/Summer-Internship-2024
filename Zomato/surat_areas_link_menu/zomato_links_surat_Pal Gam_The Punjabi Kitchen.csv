@@ -1,0 +1,62 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Paneer Green Tikka,1,0,,260.0
+Starters,Paneer Red Tikka,1,0,,260.0
+Starters,Paneer Achari Tikka,1,0,,260.0
+Starters,Soya Malai Chaap,1,0,,240.0
+Starters,Soya Hariyali Chaap,1,0,,240.0
+Starters,Soya Achari Chaap,1,0,,240.0
+Starters,Soya Afghani Chaap,1,0,,240.0
+Starters,Soya Red Tikka Chaap,1,0,,240.0
+Main Course,Shahi Paneer,1,0,,252.0
+Main Course,Kadai Paneer,1,0,,252.0
+Main Course,Matar Paneer,1,0,,260.0
+Main Course,Palak Paneer,1,0,,252.0
+Main Course,Bhurji Paneer,1,0,,290.0
+Main Course,Lababdar Paneer,1,0,,277.0
+Main Course,Mix Veg,1,0,,190.0
+Main Course,Veg Kolhapuri,1,0,,220.0
+Main Course,Dum Aloo,1,0,,180.0
+Main Course,Jeera Aloo,1,0,,170.0
+Main Course,Mushroom Matar,1,0,,260.0
+Main Course,Chana Masala,1,0,,190.0
+Main Course,Chana Palak,1,0,,190.0
+Main Course,Soya Masala Gravy,1,0,,200.0
+Main Course,Soya Malai Gravy,1,0,,220.0
+Main Course,Mushroom Masala,1,0,,200.0
+Main Course,Paneer Taka Tak,1,0,,252.0
+Main Course,Gobi Aloo,1,0,,190.0
+Main Course,Singapuri White Paneer,1,0,,260.0
+Main Course,Dal Makhani,1,0,,190.0
+Main Course,Dal Tadka,1,0,,151.0
+Breads,Lachha Paratha,1,0,,70.0
+Breads,Garlic Naan,1,0,,80.0
+Breads,Butter Naan,1,0,,85.0
+Breads,Lal Mirch Paratha,1,0,,75.0
+Breads,Butter Tandoori Roti,1,0,,30.0
+Breads,Plain Tandoori Roti,1,0,,25.0
+Breads,Aloo Kulcha,1,0,Served with chole/chutney.,160.0
+Breads,Paneer Kulcha,1,0,Served with chole/chutney.,190.0
+Rice,Plain Rice,1,0,,88.0
+Rice,Jeera Rice,1,0,,110.0
+Rice,Veg Pulao Rice,1,0,,170.0
+Rice,Chaap Biryani,1,0,,175.0
+Snack,Dahi Bhalla [2 Pieces],1,0,,60.0
+Accompaniments,Roasted Papad,1,0,,20.0
+Accompaniments,Khichu Masala Papad,1,0,,60.0
+Accompaniments,Masala Papad,1,0,,50.0
+Accompaniments,Plain Dahi,1,0,,50.0
+Accompaniments,Dahi Raita,1,0,,80.0
+Accompaniments,Dahi Boondi,1,0,,70.0
+Desserts and Beverages,Gajar Halwa,1,0,,70.0
+Desserts and Beverages,Moong Dal Halwa,1,0,,70.0
+Desserts and Beverages,Nutella Chocolate Cake,1,0,,160.0
+Desserts and Beverages,Mango Cheese Cake,1,0,,150.0
+Desserts and Beverages,Lotus Biscoff Cheesecake,0,0,,160.0
+Desserts and Beverages,Rasmalai Cake,1,0,,160.0
+Desserts and Beverages,Choco Brownie,1,0,,70.0
+Desserts and Beverages,Caramel Almond Cake,1,0,,190.0
+Desserts and Beverages,Cashew Honey Cheesecake,0,0,[Veg preparation],190.0
+Desserts and Beverages,Cadbury Dairy Milk Silk Cake,1,0,,190.0
+Desserts and Beverages,Pineapple Cheesecake,1,0,[Veg preparation],150.0
+Desserts and Beverages,Litchi Cheesecake,1,0,,150.0
+Punjabi Thali,Thali,1,0,Paneer Sabji+Dal Tadka+Mix Veg+2 Butter Rotii+Jeera Rice+Moong Dal Halwa/Gulab Jamun+Salad,230.0

@@ -1,0 +1,39 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Gangour Special,Cheese Paneer Chole Bhature,1,0,"A twist on the classic North Indian dish, made with soft paneer cubes ... read more",249.0
+Gangour Special,Butter Pav Bhaji,1,0,A popular Mumbai street food made with a flavorful and spicy mixture of ... read more,220.0
+Gangour Special,Cheese Pav Bhaji,1,0,"A twist on the classic Mumbai street food, made with a flavorful and ... read more",250.0
+Gangour Special,"Paneer Chole Bhature [2 Bhature, Serves 1]",1,0,,220.0
+Gangour Special,Gangour Special Paneer Tikka,1,0,,249.0
+Falhari Special,Farali Patties,1,0,,120.0
+Falhari Special,Falahari French Fries,1,0,,120.0
+Falhari Special,Kesar Malai Kulfi,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",65.0
+Paratha,Aloo Paratha,1,0,A classic North Indian flatbread made with a flavorful mixture of mashed potatoes ... read more,100.0
+Paratha,Paneer Pepper Paratha,1,0,A flavorful and spicy North Indian flatbread made with a mixture of soft ... read more,120.0
+Chinese,Paneer Chilli,1,0,A spicy and flavorful Chinese inspired dish made with paneer cubes and bell ... read more,220.0
+Chinese,Manchurian Dry,1,0,A popular Chinese inspired dish made with paneer cubes coated in a flavorful ... read more,199.0
+Chinese,Paneer Manchurian,1,0,A popular Chinese inspired dish made with paneer cubes coated in a flavorful ... read more,220.0
+Chinese,Chinese Bhel,1,0,"A delicious and unique twist on the classic Indian snack, made with a ... read more",180.0
+Chinese,Bombay Bhel,1,0,"A popular Mumbai street food made with a mixture of puffed rice, vegetables, ... read more",180.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,"A popular Chinese inspired dish made with a mixture of vegetables and rice, ... read more",180.0
+Fried Rice and Noodles,Schezwan Rice,1,0,A spicy and flavorful Chinese inspired rice dish made with a spicy schezwan ... read more,190.0
+Fried Rice and Noodles,Manchurian Rice,1,0,A delicious and satisfying Chinese inspired rice dish made with a flavorful manchurian ... read more,190.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,A flavorful and satisfying Chinese inspired rice dish made with paneer cubes and ... read more,200.0
+Fried Rice and Noodles,Hakka Noodles,1,0,Indo-Chinese style noodles tossed with vegetables in chinese sauces.,180.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",190.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",199.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,219.0
+Pizza,Onion Capsicum Cheese Pizza,1,0,[Regular] A delectable medley of savory vegetables and creamy cheese atop a freshly ... read more,230.0
+Burgers and Sandwiches,Veg Sandwich,1,0,"Images used are for representation purposes only and do not indicate size, portion, ... read more",100.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",130.0
+Burgers and Sandwiches,Cheese Garlic Bread [2 Pieces],1,0,,170.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,"Indian street food favorite is filled with spiced cilantro chutney and delicious vegetables, ... read more",200.0
+Burgers and Sandwiches,Paneer Veg Cheese Grilled Sandwich,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",230.0
+Burgers and Sandwiches,Matka Grilled Sandwich,1,0,,230.0
+Snacks and Chaat,Salted Fries,1,0,"A classic and beloved snack made with thin, crispy potatoes fried to perfection. ... read more",120.0
+Snacks and Chaat,Peri Peri Fries,1,0,"A spicy twist on the classic fries, made with thin, crispy potatoes seasoned ... read more",149.0
+Snacks and Chaat,Dahi Papdi Chaat,1,0,"A popular Indian street food made with crispy, fried papdi topped with a ... read more",110.0
+Snacks and Chaat,Sev Puri [5 Pieces],1,0,A popular Indian street food made with crispy puri [small] topped with a ... read more,100.0
+Snacks and Chaat,Cheese Sev Puri,1,0,,150.0
+Snacks and Chaat,Pani Puri [12 Pieces],1,0,"A popular Indian snack made with small, crispy puri shells filled with a ... read more",100.0
+Kulfi Gangour Ki,Kesar Malai Kulfi,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",65.0
+Desserts and Beverages,Gulab Jamun [2 Pieces],1,0,"Fried balls of a dough made from milk solids and semolina, soaked with ... read more",70.0

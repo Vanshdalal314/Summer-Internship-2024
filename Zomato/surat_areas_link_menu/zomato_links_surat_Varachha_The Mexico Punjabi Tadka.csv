@@ -1,0 +1,127 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali and Combos,Regular Thali,1,0,Paneer Sabji+Veg Sabji+Dal Fry+3 Butter Roti+Jeera Rice+Salad+Papad+Achar [Subject to Availability],250.0
+Thali and Combos,Punjabi Thali,1,0,Paneer Sabji+Veg Sabji+Dal Makhani+3 Butter Roti+Jeera Rice+Salad+Achar+Papad+Chaas+Gulab Jamun [1 Piece] [Subject to Availability],260.0
+Thali and Combos,Standard Thali,1,0,Paneer Sabji+Veg Sabji+Dal+Plain Rice+3 Butter Roti+Salad+Buttermilk [200 ml] [Subject to Availability],280.0
+Thali and Combos,Deluxe Thali,1,0,Paneer Sabzi+Veg Sabzi+Dal Fry+Jeera Rice+2 Lachha Paratha+Salad+Achar+Chaas [Subject to Availability],350.0
+Thali and Combos,Dal Tadka Combo,1,0,Dal Tadka [300 ml]+Jeera Rice [300 ml]+Chaas [200 ml]+Salad [Subject to Availability],200.0
+Thali and Combos,Rajma Chawal with Salad,1,0,,210.0
+Thali and Combos,Dal Makhni Chawal with Salad,1,0,,210.0
+Thali and Combos,Dal Fry Combo,1,0,Dal Fry [250 ml]+3 Butter Chapati Roti+Chaas [200 ml]+Salad [Subject to Availability],210.0
+Thali and Combos,Dal Makhani Combo,1,0,Dal Makhani [250 ml]+3 Butter Chapati Roti+Chaas [200 ml]+Salad [Subject to Availability],230.0
+Thali and Combos,Hyderabadi Biryani [400 ml] with Curd [100 ml],1,0,Hyderabadi Biryani [400 ml]+Curd [100 ml]+Salad+Pickle,240.0
+Thali and Combos,Veg Paneer Biryani with Curd,1,0,Veg Paneer Biryani+Curd+Salad+Pickle,250.0
+Thali and Combos,Chana Masala with 3 Butter Chapati Roti,1,0,Chana Masala+3 Butter Chapati Roti+Buttermilk [200 ml]+Salad+Pickle [Subject to Availability],270.0
+Thali and Combos,Veg Kolhapuri Combo,1,0,Veg Kolhapuri [250 ml]+3 Butter Chapati Roti+Chaas [200 ml]+Salad [Subject to Availability],280.0
+Thali and Combos,Paneer Tikka Masala Combo,1,0,Paneer Tikka Masala [250 ml]+3 Butter Chapati Roti+Chaas [200 ml]+Salad [Subject to Availability],290.0
+Thali and Combos,Paneer Cheese Lababdar Combo,1,0,Paneer Cheese Lababdar [250 ml]+3 Butter Chapati Roti+Chaas [200 ml]+Salad [Subject to Availability],290.0
+Thali and Combos,Shahi Paneer Combo,1,0,Shahi Paneer [250 ml]+3 Butter Chapati Roti+Chaas [200 ml]+Salad [Subject to Availability],299.0
+Chole Bhature,Chole Bhature,1,0,2 Bhature+Chole Masala,210.0
+Chole Bhature,Paneer Chole Bhature,1,0,2 Paneer Bhature+Paneer Chole Masala,250.0
+Main Course,Kaju Masala,1,0,,212.0
+Main Course,Kaju Curry,1,0,,255.0
+Main Course,Kaju Paneer Masala,1,0,,255.0
+Main Course,Mushroom Handi,1,0,[Veg preparation],212.0
+Main Course,Mushroom Masala,1,0,,255.0
+Main Course,Mushroom Green Masala,1,0,,276.0
+Main Course,Paneer Kofta,1,0,,255.0
+Main Course,Veg Kofta,1,0,,276.0
+Main Course,Cheese Angoori,1,0,,382.0
+Main Course,Chaap Handi Gravy Chaap,1,0,,339.0
+Main Course,Kadai Chaap Gravy,1,0,,339.0
+Main Course,Paneer Masala Chaap,1,0,,339.0
+Main Course,Dal Fry,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,106.0
+Main Course,Dal Tadka,1,0,,148.0
+Main Course,Dal Makhani,1,0,,212.0
+Main Course,Mix Veg,1,0,[Veg preparation],130.0
+Main Course,Aloo Matar,1,0,[Veg preparation],130.0
+Main Course,Sev Tamatar,1,0,,130.0
+Main Course,Mix Veg Paneer,1,0,,170.0
+Main Course,Diwani Handi,1,0,[Veg preparation],170.0
+Main Course,Rajma Masala,1,0,,170.0
+Main Course,Veg Kolhapuri,1,0,[Veg preparation],180.0
+Main Course,Veg Jaipuri,1,0,[Veg preparation],180.0
+Main Course,Veg Makhanwala,1,0,[Veg preparation],190.0
+Main Course,Chana Masala,1,0,,200.0
+Main Course,Veg Toofani,1,0,[Veg preparation],200.0
+Main Course,Veg Handi,1,0,[Veg preparation],200.0
+Main Course,Veg Kadai,1,0,[Veg preparation],200.0
+Main Course,Veg Cheese Lababdar,1,0,[Veg preparation],230.0
+Main Course,Matar Paneer,1,0,[Veg preparation],170.0
+Main Course,Palak Paneer,1,0,,212.0
+Main Course,Paneer Tikka Masala,1,0,,212.0
+Main Course,Paneer Handi,1,0,,212.0
+Main Course,Palak Cheese,1,0,,225.0
+Main Course,Paneer Tawa Masala,1,0,,233.0
+Main Course,Paneer Bhurji,1,0,,233.0
+Main Course,Shahi Paneer,1,0,,233.0
+Main Course,Paneer Butter Masala,1,0,,255.0
+Main Course,Paneer Hyderabadi,1,0,,255.0
+Main Course,Paneer Patiala,1,0,,255.0
+Main Course,Veg Paneer Lahori,1,0,Paneer masala where paneer & other vegetables are cooked in gravy along with ... read more,297.0
+Main Course,Paneer Lababdar,1,0,An Authentic Punjabi accompaniment that has a luscious combination of cottage cheese and ... read more,329.0
+Main Course,Paneer Toofani,1,0,,329.0
+Main Course,Paneer Angara,1,0,,329.0
+Breads,1 Plain Tawa Roti,1,0,,21.0
+Breads,1 Tawa Butter Roti,1,0,,25.0
+Breads,1 Plain Tandoori Roti,1,0,,25.0
+Breads,1 Butter Tandoori Roti,1,0,,32.0
+Breads,1 Butter Naan,1,0,,74.0
+Breads,Garlic Butter Naan,1,0,,127.0
+Breads,Lachha Naan,1,0,,106.0
+Breads,1 Garlic Naan,1,0,,106.0
+Breads,1 Cheese Garlic Naan,1,0,,148.0
+Breads,1 Lachha Paratha,1,0,,53.0
+Breads,1 Sada Tawa Paratha,1,0,,64.0
+Breads,1 Aloo Paratha,1,0,,127.0
+Breads,1 Onion Paratha,1,0,,127.0
+Breads,1 Aloo Cheese Paratha,1,0,,191.0
+Breads,1 Onion Cheese Paratha,1,0,,191.0
+Breads,1 Paneer Paratha,1,0,,212.0
+Breads,1 Butter Kulcha,1,0,,85.0
+Breads,1 Lasuni Kulcha,1,0,,106.0
+Rice and Biryani,Veg Biryani,1,0,,191.0
+Rice and Biryani,Paneer Biryani,1,0,,233.0
+Rice and Biryani,Hyderabadi Biryani,1,0,,269.0
+Rice and Biryani,Matka Dum Biryani,1,0,,318.0
+Rice and Biryani,Veg Pulao,1,0,,212.0
+Rice and Biryani,Tawa Pulao,1,0,Served with gravy.,212.0
+Rice and Biryani,Cheese Pulao,1,0,,233.0
+Rice and Biryani,Matar Pulao,1,0,,233.0
+Rice and Biryani,Paneer Pulao,1,0,,255.0
+Rice and Biryani,Steamed Rice,1,0,,148.0
+Rice and Biryani,Jeera Rice,1,0,,191.0
+Chinese,Manchurian,1,0,It is an exotic dish made of mixed vegetable steamed formed into dumplings ... read more,191.0
+Chinese,Bombay Bhel,1,0,,191.0
+Chinese,Chinese Bhel,1,0,,191.0
+Chinese,Paneer Chilli,1,0,A Chef's Special dish where cubes of fried crispy paneer are tossed in ... read more,318.0
+Chinese,Hakka Noodles,1,0,,191.0
+Chinese,Singapuri Noodles,1,0,,212.0
+Chinese,Schezwan Noodles,1,0,,233.0
+Chinese,Manchurian Noodles,1,0,,255.0
+Chinese,Paneer Noodles,1,0,,297.0
+Chinese,Veg Fried Rice,1,0,Most popular and a deliciously aromatic dish prepared from rice and stir-fried finely ... read more,212.0
+Chinese,Manchurian Fried Rice,1,0,,255.0
+Soups,Manchow Soup,1,0,[Veg preparation],170.0
+Soups,Hot and Sour Soup,1,0,,170.0
+Soups,Tomato Soup,1,0,,191.0
+Soups,Veg Noodles Soup,1,0,,191.0
+Starters,Paneer Tikka Dry,1,0,Soft paneer cubes marinated in seasoned masala and cooked in a tandoor.,339.0
+Starters,Lasuni Paneer Tikka,1,0,,403.0
+Starters,Mushroom Tikka with Pepsi Soft Beverage [200 ml],1,0,,634.0
+Starters,Achari Tikka with Pepsi Soft Beverage [200 ml],1,0,,634.0
+Starters,Paneer Tikka Dry with Pepsi Soft Beverage [200 ml],1,0,,634.0
+Starters,Hara Bhara Kebab,1,0,"A vegetarian kababs made with spinach, potatoes and green peas.",318.0
+Starters,Masala Chaap,1,0,[Veg Preparation],361.0
+Starters,Afghani Chaap,1,0,[Veg Preparation],424.0
+Starters,Malai Chaap,1,0,[Veg Preparation],403.0
+Accompaniments,Roasted Papad,1,0,,32.0
+Accompaniments,Fried Papad,1,0,,42.0
+Accompaniments,Masala Papad,1,0,,64.0
+Accompaniments,Veg Raita,1,0,,120.0
+Maggi,Butter Maggi,1,0,,127.0
+Maggi,Veg Maggi,1,0,,170.0
+Desserts and Beverages,Rasgulla [2 Pieces],1,0,,85.0
+Desserts and Beverages,Gulab Jamun [2 Pieces],1,0,,100.0
+Desserts and Beverages,Chaas,1,0,,30.0
+Desserts and Beverages,Punjabi Lassi,1,0,,130.0
+Desserts and Beverages,Dry Fruit Lassi,1,0,,210.0

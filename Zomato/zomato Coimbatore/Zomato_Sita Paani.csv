@@ -1,0 +1,196 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Veg Clear Soup,1,0,,120.0
+Soups,Hot and Sour Veg Soup,1,0,,130.0
+Soups,Tomato Soup,1,0,,130.0
+Soups,Sweet Corn Veg Soup,1,0,,140.0
+Soups,Chicken Clear Soup,1,0,This healthy and delicious instant chicken and corn chowder is such a filling ... read more,130.0
+Soups,Hot & Sour Chicken Soup,1,0,,140.0
+Soups,Sweet Corn Chicken Soup,1,0,,150.0
+Soups,Mutton Clear Soup,1,0,,180.0
+Starters,Chilli Gobi,1,0,,170.0
+Starters,Gobi Manchurian Dry,1,0,,180.0
+Starters,Chilli Mushroom,1,0,,200.0
+Starters,Mushroom Manchurian Dry,1,0,,200.0
+Starters,Chilli Paneer,1,0,,250.0
+Starters,Paneer Manchurian,1,0,,260.0
+Starters,Baby Corn Chilli,1,0,,210.0
+Starters,Veg Ball Manchurian Dry,1,0,,270.0
+Starters,Boiled Egg [2 Eggs],1,0,,40.0
+Starters,Omelette,1,0,,60.0
+Starters,Egg Bhurji,1,0,,130.0
+Starters,Chilly Chicken,1,0,,300.0
+Starters,Chicken 65,1,0,Succulent chicken chunks dipped in a seasoned batter and fried to golden perfection.,310.0
+Starters,Chicken Lollipop [4 Pieces],1,0,,310.0
+Starters,Chilli Chicken Chinese,1,0,,350.0
+Starters,Chicken Pallipalayam,1,0,"A spicy, flavourful blend of toasted ground spices and grated coconut in a ... read more",360.0
+Starters,Pepper Chicken Dry,1,0,A mouthwatering dish prepared with chicken fried to golden brown and stir fried ... read more,350.0
+Starters,Chicken Manchurian Dry,1,0,,350.0
+Starters,Chicken 777,1,0,,350.0
+Starters,Chicken Monica,1,0,,350.0
+Starters,Kerala Chicken Dry,1,0,,370.0
+Starters,Garlic Chicken Dry,1,0,,350.0
+Starters,Dragon Chicken,1,0,[Chef's Special],450.0
+Starters,Green Chilli Chicken,1,0,,450.0
+Starters,Crispy Chicken,1,0,[Chef's Special],450.0
+Starters,Mutton Chukka,1,0,,400.0
+Starters,Mutton Pepper Fry,1,0,,409.0
+Starters,Mutton Kola Balls [6 Pieces],1,0,,500.0
+Starters,Fish Finger,1,0,,370.0
+Starters,Chilli Fish,1,0,,370.0
+Starters,Boneless Fish Pepper Fry,1,0,,400.0
+Starters,Pomplet Fish Fry,1,0,,420.0
+Starters,Fish Fry [1 Piece],1,0,,330.0
+Starters,Prawns Chilli,1,0,,400.0
+Starters,Prawn Fry,1,0,,390.0
+Starters,Prawns Pepper Fry,1,0,,400.0
+Starters,Prawn Manchurian Dry,1,0,,400.0
+Starters,Crispy Fish,1,0,,450.0
+Starters,Fish Pollichathu,1,0,,670.0
+Starters,Crispy Pepper Fish,1,0,,490.0
+Starters,Crispy Prawns,1,0,,450.0
+Biryani,Chettinadu Chicken Biryani,1,0,Richly flavored aromatic rice layered with marinated chicken pieces in a delicate blend ... read more,190.0
+Biryani,Chettinadu Mutton Biryani,1,0,Slow-cooked aromatic rice layered with marinated mutton pieces in a delicate blend of ... read more,260.0
+Biryani,Chettinadu Egg Biryani,1,0,,210.0
+Biryani,Hyderabadi Chicken Biryani,1,0,,310.0
+Biryani,Hyderabadi Mutton Biryani,1,0,,410.0
+Biryani,Prawns Biryani,1,0,,400.0
+Biryani,Chicken Tikka Biryani,1,0,Deliciously decadent flavored dum rice layered with spicy chicken tikka and Indian whole ... read more,370.0
+Biryani,Fish Biryani,1,0,,420.0
+Biryani,Kaadai Biryani,1,0,,340.0
+Biryani,Special Mixed Biryani,1,0,"Mutton, chicken, fish, prawns and 1 egg.",530.0
+Biryani,Plain Biryani,1,0,,170.0
+Biryani,Veg Biryani,1,0,,200.0
+Biryani,Mushroom Biryani,1,0,,220.0
+Biryani,Malabar Egg Biryani,1,0,,210.0
+Biryani,Malabar Chicken Biryani,1,0,Richly flavored aromatic rice layered with marinated chicken pieces in a delicate blend ... read more,190.0
+Biryani,Malabar Mutton Biryani,1,0,,250.0
+Biryani,Malabar Special Boneless Chicken Biryani,1,0,,400.0
+Biryani,Malabar Special Boneless Mutton Biryani,1,0,,490.0
+Tandoor Starters,Paneer Tikka,1,0,,390.0
+Tandoor Starters,Malai Paneer Tikka,1,0,,350.0
+Tandoor Starters,Tangdi Kabab [1 Piece],1,0,,180.0
+Tandoor Starters,Tandoori Chicken,1,0,Tandoor-cooked chicken chunks marinated in a yogurt and chiilli based masala; served with ... read more,340.0
+Tandoor Starters,Pepper Tandoori Chicken,1,0,,380.0
+Tandoor Starters,Afghani Tandoori Chicken,1,0,,380.0
+Tandoor Starters,Tandoori Kaadai [1 Piece],1,0,,180.0
+Fried Rice & Noodles,Veg Fried Rice,1,0,Fresh veggies tossed in a pan with steamed rice and flavorful sauces and ... read more,230.0
+Fried Rice & Noodles,Schezwan Veg Fried Rice,1,0,,250.0
+Fried Rice & Noodles,Mushroom Fried Rice,1,0,,260.0
+Fried Rice & Noodles,Paneer Fried Rice,1,0,,280.0
+Fried Rice & Noodles,Egg Fried Rice,1,0,Cooked rice that has been stir-fried in a wok or a frying pan ... read more,260.0
+Fried Rice & Noodles,Schezwan Egg Fried Rice,1,0,,270.0
+Fried Rice & Noodles,Chicken Fried Rice,1,0,A slightly spicy dish made by tossing juicy chicken and rice in a ... read more,280.0
+Fried Rice & Noodles,Schezwan Chicken Fried Rice,1,0,,300.0
+Fried Rice & Noodles,Mutton Fried Rice,1,0,,370.0
+Fried Rice & Noodles,Prawns Fried Rice,1,0,,350.0
+Fried Rice & Noodles,Mixed Non Veg Fried Rice,1,0,,400.0
+Fried Rice & Noodles,Veg Noodles,1,0,,210.0
+Fried Rice & Noodles,Schezwan Veg Noodles,1,0,,230.0
+Fried Rice & Noodles,Mushroom Noodles,1,0,,250.0
+Fried Rice & Noodles,Paneer Noodles,1,0,,250.0
+Fried Rice & Noodles,Egg Noodles,1,0,,240.0
+Fried Rice & Noodles,Schezwan Egg Noodles,1,0,,260.0
+Fried Rice & Noodles,Mutton Noodles,1,0,,340.0
+Fried Rice & Noodles,Schezwan Mutton Noodles,1,0,,360.0
+Fried Rice & Noodles,Mixed Non Veg Noodles,1,0,,400.0
+Fried Rice & Noodles,American Veg Chopsuey,1,0,,370.0
+Fried Rice & Noodles,American Non Veg Chopsuey,1,0,,450.0
+Fried Rice & Noodles,Jeera Rice,1,0,,230.0
+Fried Rice & Noodles,Veg Pulao,1,0,,280.0
+Fried Rice & Noodles,Kaju Rice,1,0,,340.0
+Fried Rice & Noodles,Kashmiri Pulao,1,0,,370.0
+Fried Rice & Noodles,Egg Pulao,1,0,,310.0
+Fried Rice & Noodles,Chicken Pulao,1,0,,340.0
+Indian Breads,1 Parotta,1,0,,30.0
+Indian Breads,1 Chapati,1,0,,25.0
+Indian Breads,Tandoori Roti,1,0,,45.0
+Indian Breads,Butter Roti,1,0,,45.0
+Indian Breads,Naan,1,0,,50.0
+Indian Breads,Butter Naan,1,0,,60.0
+Indian Breads,Paneer Naan,1,0,,70.0
+Indian Breads,Garlic Naan,1,0,,70.0
+Indian Breads,Kashmiri Naan,1,0,,90.0
+Indian Breads,Kulcha,1,0,,90.0
+Indian Breads,Butter Kulcha,1,0,,100.0
+Indian Breads,Rumali Roti,1,0,,65.0
+Indian Breads,Paneer Paratha,1,0,,160.0
+Main Course,Mixed Veg Gravy,1,0,,200.0
+Main Course,Kadai Veg Gravy,1,0,,210.0
+Main Course,Gobi Manchurian Gravy,1,0,,210.0
+Main Course,Mushroom Gravy,1,0,,230.0
+Main Course,Kadai Paneer Gravy,1,0,,260.0
+Main Course,Kadai Mushroom Gravy,1,0,,240.0
+Main Course,Paneer Butter Masala,1,0,"Creamy and mildly sweet gravy made with butter, tomatoes, cashews, spices and paneer.",260.0
+Main Course,Green Peas Masala,1,0,,200.0
+Main Course,Channa Masala,1,0,,180.0
+Main Course,Tomato Masala,1,0,,200.0
+Main Course,Mushroom Manchurian Gravy,1,0,,240.0
+Main Course,Egg Masala [2 Eggs],1,0,All time favorite mouthwatering egg masala curry made with eggs and veggies served ... read more,170.0
+Main Course,Chicken Curry,1,0,,340.0
+Main Course,Butter Chicken,1,0,A flavor-packed preparation with succulent chunks of chicken simmered in a rich and ... read more,370.0
+Main Course,Kadai Chicken,1,0,,350.0
+Main Course,Chettinadu Chicken,1,0,"A spicy, flavourful blend of toasted ground spices and grated coconut in a ... read more",340.0
+Main Course,Chicken Tikka Masala,1,0,,400.0
+Main Course,Pepper Chicken Masala,1,0,,350.0
+Main Course,Chicken Keema Masala,1,0,,420.0
+Main Course,Chicken Maharaja Gravy,1,0,,350.0
+Main Course,Chicken Kohlapuri,1,0,,350.0
+Main Course,Mutton Curry,1,0,,350.0
+Main Course,Mutton Masala,1,0,,400.0
+Main Course,Garlic Mutton Masala,1,0,,410.0
+Main Course,Mutton Chettinadu Gravy,1,0,,410.0
+Main Course,Mutton Manchurian Gravy,1,0,,410.0
+Main Course,Mutton Afghani,1,0,,480.0
+Main Course,Mutton Kohlapuri,1,0,,440.0
+Main Course,Prawns Masala,1,0,,370.0
+Main Course,Prawns Chettinadu Gravy,1,0,,360.0
+Main Course,Prawns Machurian Gravy,1,0,,360.0
+Main Course,Boneless Fish Masala,1,0,,340.0
+Main Course,Fish Chettinadu Gravy,1,0,,350.0
+Main Course,Garlic Fish Gravy,1,0,,350.0
+Main Course,Fish Manchurian Gravy,1,0,,350.0
+Main Course,Prawns Pollichathu,1,0,,590.0
+Fresh Juices,Fresh Lime Juice,1,0,,45.0
+Fresh Juices,Fresh Lime Soda,1,0,,55.0
+Fresh Juices,Lime Mint Juice,1,0,,55.0
+Fresh Juices,Lime Mint Soda,1,0,,65.0
+Fresh Juices,Rose Milk,1,0,,70.0
+Fresh Juices,Apple Juice,1,0,,110.0
+Fresh Juices,Mosambi Juice,1,0,,90.0
+Fresh Juices,Pineapple Juice,1,0,,90.0
+Fresh Juices,Grapes Juice,1,0,,99.0
+Fresh Juices,Chickoo Juice,1,0,,99.0
+Fresh Juices,Orange Juice,1,0,,110.0
+Fresh Juices,Mango Juice,1,0,,110.0
+Fresh Juices,Pomegranate Juice,1,0,,130.0
+Fresh Juices,Italian Grape Juice,1,0,,140.0
+Fresh Juices,Carrot Juice,1,0,,125.0
+Ice Creams & Milkshakes,Vanilla Milkshake,1,0,,155.0
+Ice Creams & Milkshakes,Strawberry Milkshake,1,0,,155.0
+Ice Creams & Milkshakes,Chocolate Milkshake,1,0,,170.0
+Ice Creams & Milkshakes,Pista Milkshake,1,0,,170.0
+Ice Creams & Milkshakes,Butterscotch Milkshake,1,0,,170.0
+Ice Creams & Milkshakes,Cold Coffee,1,0,,170.0
+Ice Creams & Milkshakes,Mixed Fruits Shake,1,0,,210.0
+Ice Creams & Milkshakes,Tender Coconut Shake,1,0,,250.0
+Ice Creams & Milkshakes,Lebenon Cocktail Shake,1,0,Papaya + Fresh Fruits + Mixed Icecreams,250.0
+Ice Creams & Milkshakes,Sharjah Shake,1,0,Dates + Butterscotch + Vanilla Ice Cream,155.0
+Ice Creams & Milkshakes,Vanilla Ice Cream,1,0,,70.0
+Ice Creams & Milkshakes,Chocolate Ice Cream,1,0,,85.0
+Ice Creams & Milkshakes,Strawberry Ice Cream,1,0,,85.0
+Ice Creams & Milkshakes,Pista Ice Cream,1,0,,85.0
+Ice Creams & Milkshakes,Butterscotch Ice Cream,1,0,,85.0
+Ice Creams & Milkshakes,Kulfi,1,0,,85.0
+Sita Paani Dessert Delights,Vany Pizz Sundae,1,0,Vanilla Ice Cream+Pista Ice Cream,180.0
+Sita Paani Dessert Delights,Choco Dreams,1,0,Vanilla Ice Cream+Chocolate Ice Cream,180.0
+Sita Paani Dessert Delights,Crazzy Boy,1,0,Chocolate Ice Cream+Mixed Berries Ice Cream,200.0
+Sita Paani Dessert Delights,Titanic,1,0,Vanilla Ice Cream+Mixed Berries Ice Cream Butterscotch  Ice Cream,280.0
+Sita Paani Dessert Delights,Golden Rock,1,0,Kulfi Ice Cream+Mixed Berries Ice Cream+Butterscotch Ice Cream,280.0
+Sita Paani Dessert Delights,London Hopes,1,0,Mixed Ber ries Ice Cream+Pista Ice Cream+Kulfi Ice Cream,280.0
+Sita Paani Dessert Delights,Sita Paani 143 Sundae,1,0,Vanilla Ice Cream + Chocolate Ice Cream + Fig-O-Honey Ice Cream,280.0
+Sita Paani Dessert Delights,Platinum Stone,1,0,Kulfi Ice Cream + Chocolate Ice Cream + Fig-O-Honey Ice Cream,280.0
+Sita Paani Dessert Delights,Falooda,1,0,Vanilla Icecream Based,200.0
+Sita Paani Dessert Delights,Fancy Falooda,1,0,Butterscotch Ice Cream Based,210.0
+Sita Paani Dessert Delights,Magic Falooda,1,0,Pista Ice Cream Based,230.0
+Sita Paani Dessert Delights,Arabian Falooda,1,0,Fig-O-Honey Ice Cream + Strawberry Ice Cream,270.0
+Sita Paani Dessert Delights,Sita Paani Special Falooda,1,0,Butterscotch Ice Cream+Spanish Berry Ice Cream+Kulfi,280.0

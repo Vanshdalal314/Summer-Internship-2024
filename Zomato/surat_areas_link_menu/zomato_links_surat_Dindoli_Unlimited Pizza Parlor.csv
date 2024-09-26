@@ -1,0 +1,95 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Appex Pizza,Cheese Reloaded,1,0,"Cheese Pizza Sauce, Paneer, Onion, Capsicum, Tomato, Sweet corn, Jalapeno, Liquid Cheese.",476.19
+Appex Pizza,Upp Special,1,0,"Cheese Pizza Sauce, Paneer, Onion, Tomato, Capsicum, Baby Corn, Jalapeno, Red Paprika, Olive, ... read more",476.19
+Drinks (Beverages),Mineral Water [1 L],1,0,,19.05
+Bread,Chilli Cheese Garlic Bread,1,0,,123.81
+Bread,Classic Cheese Garlic Bread,1,0,,114.29
+Bread,Garlic Bread Toast,1,0,,76.19
+Bread,Jain Bread Toast,1,0,,76.19
+Bread,Onion Capsicum Cheese Garlic Bread,1,0,,142.86
+Bread,Supreme Cheese Garlic Bread,1,0,,161.9
+Bread,Sweet Corn Cheese Garlic Bread,1,0,,123.81
+Bread,Sweet Corn Chilli Cheese Garlic Bread,1,0,,142.86
+Burger,Cheesy Stuffed Veggie Burger,1,0,,161.9
+Burger,Paneer And Corn Burger,1,0,,152.38
+Burger,Spicy Paneer Burger,1,0,,142.86
+Burger,Veggie Burger,1,0,,95.24
+Chinese,Bombay Bhel (Sweet),1,0,,190.48
+Chinese,Chinese Bhel (Spicy),1,0,,190.48
+Chinese,Fried Rice,1,0,,152.38
+Chinese,Hakka Noodles,1,0,,161.9
+Chinese,Manchurian Dry,1,0,,152.38
+Chinese,Manchurian Gravy,1,0,,152.38
+Chinese,Manchurian Noodles,1,0,,161.9
+Chinese,Manchurian Paneer Chilli,1,0,,190.48
+Chinese,Manchurian Rice,1,0,,171.43
+Chinese,Paneer Chilli,1,0,,219.05
+Chinese,Paneer Fried Rice,1,0,,219.05
+Chinese,Schezwan Noodles,1,0,,180.95
+Chinese,Schezwan Rice,1,0,,171.43
+Chinese,Singapuri Noodles,1,0,,161.9
+Chinese,Singapuri Rice,1,0,,152.38
+Classic Pizza,Capsicum Pizza,1,0,"Mix Pizza Sauce, Capsicum, Tomtato.",180.95
+Classic Pizza,Classic Margherita,1,0,"Margherita Sauce, Tomato.",180.95
+Classic Pizza,Double Cheese Margherita,1,0,"Margherita Sauce, Tomato, Extra Cheese.",180.95
+Classic Pizza,Golden Corn Pizza,1,0,"Cheeese Pizza Sauce, Sweet Corn.",180.95
+Classic Pizza,Onion Paneer Pizza,1,0,"Smokey Pizza Sauce, Onion, Paneer.",180.95
+Classic Pizza,Pizza Italiano,1,0,"Pizza Sauce, Sweet Corn, Tomato, Capsicum, Olive, Red Paprika.",180.95
+Classic Pizza,Simply Cheese Pizza,1,0,"Cheese Pizza Sauce, Mozzeralla & Cheddar Cheese.",180.95
+Classic Pizza,Veg Crunch,1,0,"Pizza Sauce, Sweet Corn, Onion, Capsicum.",180.95
+Classic Pizza,Veg Delight,1,0,"Pizza Sauce, Capsicum, Tomato, Sweet Corn.",180.95
+Classic Pizza,Veggie Loaded,1,0,"Smokey Pizza Sauce, Onion, Capsicum, Tomato, Olive, Jalapeno",180.95
+Classic Pizza,Veggie Lover,1,0,"Cheese Pizza Sauce, Onion, Tomato, Capsicum.",180.95
+Combo,Bada Box,1,0,1 Large Classic Pizza + 4 Pcs. of Garlic Bread + 1 ... read more,620.0
+Combo,Buddy Combo,1,0,Burger + soft drink,120.0
+Combo,Hiddy Hunger,1,0,1 Regular Classic Pizza + 4 Pcs. of Garlic Bread + 1 ... read more,250.0
+Combo,Magic Rides,1,0,3 Regular Classic Pizza,440.0
+Combo,Special Combo,1,0,Burger + fries + soft drink,200.0
+Fries World,Cheese Fries,1,0,,152.38
+Fries World,Cheese Mayo Fries,1,0,,171.43
+Fries World,Chilli Cheese Fries,1,0,,171.43
+Fries World,Classic Salted Fries,1,0,"Blood may be thicker than water, but it is still sticky, unpleasant and ... read more",95.24
+Fries World,Jalapeno Cheese Fries,1,0,,123.81
+Fries World,Peri Peri Cheese Fries,1,0,,171.43
+Fries World,Peri Peri Fries,1,0,,123.81
+Fries World,Pizza Cheese Fries,1,0,,171.43
+Fries World,Tandoori Chilly Fries,1,0,,142.86
+Hot Soup,Hot & Sour Soup,1,0,,114.29
+Hot Soup,Lemon Coriander Soup,1,0,,142.86
+Hot Soup,Manchow Soup,1,0,,114.29
+Hot Soup,Sweet Corn Soup,1,0,,114.29
+Hot Soup,Thai Mix Veg Soup,1,0,,142.86
+Hot Soup,Tomato Soup,1,0,,114.29
+Hot Soup,Veg Ciear Soup,1,0,,114.29
+Hot Soup,Veg Noodle Soup,1,0,,142.86
+Hot Soup,Veg Schezwan Soup,1,0,,142.86
+Delicious Pasta,Alfredo White Sauce Pasta,1,0,,228.57
+Delicious Pasta,Arrabiata Red Sauce Pasta,1,0,,228.57
+Delicious Pasta,Cheese Fruity Pasta,1,0,,190.48
+Delicious Pasta,Masala Macaroni Pasta,1,0,,209.52
+Delicious Pasta,Mix Pasta,1,0,,247.62
+Delicious Pasta,Pink Pasta,1,0,,285.71
+Premium Pizza,Amritsari Pizza,1,0,"Makhani Sauce, Chole Paneer, Onion, Capsicum, Tomato, Coriander.",304.76
+Premium Pizza,Chatpatta Paneer,1,0,"Mix Pizza Sauce, Paneer, Sweet Corn, Tomato, Jalapeno, coriander.",304.76
+Premium Pizza,Chinatown Pizza,1,0,"Schezwan Sauce, Paneer, Onion, Capsicum , Chilli , Baby corn.",304.76
+Premium Pizza,Farm Special,1,0,"Mix Sauce, Onion, Capsicum, Tomato, Babycorn, Mushroom, Coriander",304.76
+Premium Pizza,Fresh Veggie Special,1,0,"Olives, Red Capsicum, Onion, Spicy Paneer Baby Corn, Capsicum, Sweet Corn.",304.76
+Premium Pizza,Gujju Paneer Treat,1,0,"Makhani Sauce, Paneer, Onion, Chilli, Tomato, Green Peas, Coriander.",304.76
+Premium Pizza,Italian Herbs,1,0,"Pizza Sauce, Capsicum, Tomato, Baby Corn, Basil, Parsley, Oregano, Chilli Flackes.",304.76
+Premium Pizza,Mac & Cheese Pizza,1,0,"Cheese Pizza Sauce, Cheese Macaroni, Capsicum, Tomato, Olive, Oregano, Chilli Flakes.",304.76
+Premium Pizza,Mushroom Fantasy,1,0,"Mix Pizza Sauce, Mushroom, capsicum, Tomato, Olives.",304.76
+Premium Pizza,Patiyala Paneer,1,0,"Makhani Sauce, Paneer, Onion, Tomato, Capsicum, Babycorn, Mustard Oil.",304.76
+Premium Pizza,Peri Peri Paneer,1,0,"Spicy Pizza Sauce, Paneer, Capsicum, Onion, Tomato, Red Paprika, Peri peri Sprinkler.",304.76
+Premium Pizza,Peri Peri Veg Pizza,1,0,"Spicy Pizza Sauce, Capsicum Onion, Tomato, Red Paprika, Peri peri Sprinkler.",304.76
+Premium Pizza,Premium Paneer Pizza,1,0,"Pizza Sauce, Paneer, Baby Corn, Capsicum, Tomato, Olive.",304.76
+Premium Pizza,Premium Veggie Pizza,1,0,"Pizza Sauce, Baby Corn, Capsicum, Tomato, Olive, Mushroom.",304.76
+Premium Pizza,Punjabi Tadka,1,0,"Tandoori Sauce, Paneer, Onion, Capsicum, Tomato, Green Peas, Mustard Oil.",304.76
+Premium Pizza,Spice & Fire,1,0,"Spicy Pizza Sauce, Onion, Capsicum, Chilli, Red Paprika, Jalapeno, Oregano, Chilli Flackes.",304.76
+Premium Pizza,Spicy Paneer Treat,1,0,"Spicy Pizza Sauce, Paneer, Capsicum, Onion, Chilli, Red Paprika, Jalapeno.",304.76
+Premium Pizza,Spicy Veg Treat,1,0,"Spicy Pizza Sauce, Capsicum, Onion, Chilli, Red Paprika",304.76
+Premium Pizza,Tandoori Tadka,1,0,"Tandoori Sauce, Paneer, Onion, Capsicum, Tomato, Red Paprika.",304.76
+Premium Pizza,Yummy Dummy Paneer,1,0,"Makhani Sacue,Paneer, Capsicum, Onion, Chilli, Spinach",304.76
+Grilled Sandwiches,Club Grill Sandwich,1,0,,180.95
+Grilled Sandwiches,Veg Cheese Grill Sandwich,1,0,"Butter, Tandoori Sauce, Fresh vegetables, Sandwich Masala.",161.9
+Grilled Sandwiches,Veg Grill Sandwich,1,0,"Butter, Fresh Vegetables, Sandwich Masala.",114.29
+Grilled Sandwiches,Veg Mayo Grill Sandwich,1,0,"Mayo,Cheese, Fresh Vegetables, Sandwich Masala.",161.9

@@ -1,0 +1,370 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Fried Corn Momos [5 Pieces],1,0,,110.0
+Starters,Mushroom Fried Momos [5 Pieces],1,0,,110.0
+Starters,Fride Chicken Momos [5 Pieces],1,0,,110.0
+Starters,Fried Veg Momos [5 Pieces],1,0,,110.0
+Noodles,Yippee Noodles,1,0,,70.0
+Noodles,Veg Yippee Noodles,1,0,,85.0
+Noodles,Yippee Cheese Noodles,1,0,,85.0
+Noodles,Mushroom Yippee Noodles,1,0,,100.0
+Noodles,Paneer Yippee Noodles,1,0,,110.0
+Noodles,Egg Yippee Noodles,1,0,,85.0
+Noodles,Chicken Yippee Noodles,1,0,,125.0
+Pizza and Pasta,Simply Veg Pizza [7 inches],1,0,Cheese vegetables pizza sauce.,179.0
+Pizza and Pasta,Corn Cheese Pizza [7 inches],1,0,Sweet corn cheese.,179.0
+Pizza and Pasta,Margherita Pizza [7 inches],1,0,Cheese oregano vegetables.,189.0
+Pizza and Pasta,Paneer Makhani Pizza [7 inches],1,0,Paneer cheese makhani sauce.,205.0
+Pizza and Pasta,Spicy Paneer Pizza [7 inches],1,0,Paneer cheese red paprika.,215.0
+Pizza and Pasta,Baby Corn Cheese Pizza [7 inches],1,0,Baby corn cheese red paprika.,169.0
+Pizza and Pasta,BBQ Mushroom Pizza [7 inches],1,0,Mushroom BBQ sauce cheese red paprika.,209.0
+Pizza and Pasta,Chicken Pizza [7 inches],1,0,Chicken cheese.,235.0
+Pizza and Pasta,Spicy Chicken Pizza [7 inches],1,0,Chicken cheese red paprika.,265.0
+Pizza and Pasta,BBQ Chicken Pizza [7 inches],1,0,BBQ sauce chicken cheese red paprika.,275.0
+Pizza and Pasta,Chicken 65 Pizza [7 inches],1,0,Chicken 65 cheese red paprika.,339.0
+Pizza and Pasta,Veg Pasta,1,0,Fresh vegetables pasta,117.0
+Pizza and Pasta,Mushroom Pasta,1,0,"Mushroom, veg, cheese and chilli flakes.",137.0
+Pizza and Pasta,Paneer Pasta,1,0,"[Veg preparation] Paneer, veg, cheese and chilli flakes.",147.0
+Pizza and Pasta,Cheese Pasta,1,0,,127.0
+Pizza and Pasta,Egg Pasta,1,0,"Egg, cheese and chilli flakes.",127.0
+Pizza and Pasta,Egg Cheese Pasta,1,0,,137.0
+Pizza and Pasta,Chicken Pasta,1,0,"Chicken, cheese and chilli flakes.",157.0
+Pizza and Pasta,Veg cheese Pasta,1,0,,127.0
+Pizza and Pasta,Chicken Cheese Pasta,1,0,,172.0
+Burgers and Sandwiches,Veg Burger,1,0,,90.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,110.0
+Burgers and Sandwiches,Veg Double Decker Burger,1,0,,148.0
+Burgers and Sandwiches,Veg Burger ka Baap,1,0,"Cheese [3 slices], patties [3 pieces].",180.0
+Burgers and Sandwiches,Paneer Cheese Burger,1,0,,135.0
+Burgers and Sandwiches,Chicken Burger,1,0,,95.0
+Burgers and Sandwiches,Chicken Cheese Burger,1,0,,115.0
+Burgers and Sandwiches,Classic Chicken Burger,1,0,Cheese [2 slices].,135.0
+Burgers and Sandwiches,Chicken Double Decker Burger,1,0,"Cheese [2 slices], chicken patties [2 pieces].",155.0
+Burgers and Sandwiches,Chicken Burger ka Baap,1,0,"Cheese [3 slices], patties [3 pieces].",190.0
+Burgers and Sandwiches,Mixed Veg Roll,1,0,Vegitables and mayonnaise wrapped in a soft paratha,90.0
+Burgers and Sandwiches,Paneer Roll,1,0,"Fried paneer, vegitables and mayonnaise wrapped in a soft paratha",110.0
+Burgers and Sandwiches,Chicken Roll,1,0,"Boiled chicken, egg and mayonnaise wrapped in a soft paratha",120.0
+Burgers and Sandwiches,Peppar Chiken Roll,1,0,,165.0
+Burgers and Sandwiches,Egg Roll,1,0,Egg wrapped in a soft paratha,100.0
+Burgers and Sandwiches,Peanut Butter Roll,1,0,Peanut butter wrapped in two soft paratha,110.0
+Burgers and Sandwiches,Nuttella Roll,1,0,,110.0
+Burgers and Sandwiches,Bread Butter Jam Sandwich,1,0,,55.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,55.0
+Burgers and Sandwiches,Bread Jam Cheese Sandwich,1,0,,70.0
+Burgers and Sandwiches,Peanut Butter Sandwich,1,0,,70.0
+Burgers and Sandwiches,Nutella Sandwich,1,0,,80.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,55.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,65.0
+Burgers and Sandwiches,Baby Corn Chilli Cheese Sandwich,1,0,,75.0
+Burgers and Sandwiches,Baby Corn Cheese Sandwich,1,0,,75.0
+Burgers and Sandwiches,Corn Cheese Sandwich,1,0,,85.0
+Burgers and Sandwiches,Mashed Potato Sandwich,1,0,,80.0
+Burgers and Sandwiches,Fruit Sandwich,1,0,,75.0
+Burgers and Sandwiches,Spicy Corn Sandwich,1,0,,80.0
+Burgers and Sandwiches,Banana Nutella Sandwich,1,0,,80.0
+Burgers and Sandwiches,Maggi Cheese Sandwich,1,0,,75.0
+Burgers and Sandwiches,Yipee Cheese Sandwich,1,0,,75.0
+Burgers and Sandwiches,Capsicum Onion Cheese Sandwich,1,0,,75.0
+Burgers and Sandwiches,Mushroom Masala Sandwich,1,0,,80.0
+Burgers and Sandwiches,Potato Masala Sandwich,1,0,,75.0
+Burgers and Sandwiches,Channa Masala Sandwich,1,0,,85.0
+Burgers and Sandwiches,Paneer Masala Sandwich,1,0,,90.0
+Burgers and Sandwiches,Mushroom Cheese Sandwich,1,0,,95.0
+Burgers and Sandwiches,Potato Masala Cheese Sandwich,1,0,,90.0
+Burgers and Sandwiches,Paneer Cheese Sandwich,1,0,,105.0
+Burgers and Sandwiches,Veg Club Sandwich,1,0,,80.0
+Burgers and Sandwiches,Veg Cheese Club Sandwich,1,0,,95.0
+Burgers and Sandwiches,Egg Club Sandwich,1,0,,95.0
+Burgers and Sandwiches,Chicken Club Sandwich,1,0,,140.0
+Burgers and Sandwiches,Non Veg Mixed Club Sandwich,1,0,,140.0
+Burgers and Sandwiches,Egg Mayo Sandwich,1,0,,60.0
+Burgers and Sandwiches,Egg Cheese Sandwich,1,0,,75.0
+Burgers and Sandwiches,Egg Chilli Cheese Sandwich,1,0,,70.0
+Burgers and Sandwiches,Masala Omelette Sandwich,1,0,,65.0
+Burgers and Sandwiches,Omelette Sandwich,1,0,,65.0
+Burgers and Sandwiches,Bread Omelette Pain Sandwich,1,0,,40.0
+Burgers and Sandwiches,Bread Omelette Mayo Sandwich,1,0,,50.0
+Burgers and Sandwiches,Chicken Mayo Sandwich,1,0,,100.0
+Burgers and Sandwiches,Chicken Cheese Sandwich,1,0,,105.0
+Burgers and Sandwiches,Bread Omelette Mint Chutney Sandwich,1,0,,50.0
+Burgers and Sandwiches,Fried Chicken Sandwich,1,0,,120.0
+Burgers and Sandwiches,Chicken Sandwich,1,0,,97.0
+Burgers and Sandwiches,Bread Omelette Cheese Sandwich,1,0,,60.0
+Burgers and Sandwiches,Classic Veg Mayonnaise Sandwich,1,0,Veg mayonnaise vegetables pepper,80.0
+Burgers and Sandwiches,Classic Veg Cheese Mayonnaise Sandwich,1,0,,65.0
+Burgers and Sandwiches,Baby Corn Chilli Mayo Sandwich,1,0,,80.0
+Burgers and Sandwiches,Baby Corn Pineapple Mayo Sandwich,1,0,,80.0
+Burgers and Sandwiches,Capsicum Mayonnaise Sandwich,1,0,,80.0
+Burgers and Sandwiches,Corn Mayo Sandwich,1,0,,77.0
+Burgers and Sandwiches,Fruit Mayo Sandwich,1,0,,77.0
+Burgers and Sandwiches,Spicy Corn Mayonnaise Sandwich,1,0,,80.0
+Faloodas,Royal Falooda,1,0,"Fruit, 2 ice cream and dry fruits.",180.0
+Faloodas,Apple Falooda,1,0,,199.0
+Faloodas,Mango Falooda,1,0,,199.0
+Faloodas,Pome Falooda,1,0,,199.0
+Faloodas,Chocolate Falooda,1,0,"Base of jelly topped with fresh fruits roasted nuts,soaked sabja seeds,vermicelli and generous ... read more",217.0
+Faloodas,Pista Falooda,1,0,,180.0
+Faloodas,Butterscotch Falooda,1,0,,219.0
+Faloodas,Dry Fruits Falooda,1,0,"Ice cream [2 scoops], lot of dry fruits.",320.0
+Faloodas,Classic Falooda,1,0,"Ice cream [3 scoops], fruits, dryfruits.",239.0
+Faloodas,Kesar Falooda,1,0,"Kesar ice cream, fruits, dryfruits.",239.0
+Faloodas,Kulfi Falooda,1,0,"Kulfi ice cream, fruits, dryfruits.",279.0
+Salads,Veg Salad,1,0,,70.0
+Salads,Veg Cheese Salad,1,0,,85.0
+Maggi,Plain Noodles Maggi,1,0,,75.0
+Maggi,Veg Maggi,1,0,,85.0
+Maggi,Maggi with Cheese,1,0,,90.0
+Maggi,Mushroom Masala Maggi,1,0,,105.0
+Maggi,Paneer Masala Maggi,1,0,,95.0
+Maggi,Magic Masala Maggi,1,0,,80.0
+Maggi,Egg Maggi,1,0,,90.0
+Maggi,Chicken Masala Maggi,1,0,,130.0
+Quick Bites,Masala Fries,1,0,,90.0
+Quick Bites,Smiley [6 Pieces],1,0,,105.0
+Quick Bites,Cheese Corn Nuggets [7 Pieces],1,0,,99.0
+Quick Bites,Spicy Corn Nuggets,1,0,,99.0
+Quick Bites,Aloo Tikki [5 Pieces],1,0,,105.0
+Quick Bites,Chicken Nuggets [7 Pieces],1,0,,99.0
+Quick Bites,Chicken Finger [6 Pieces],1,0,,115.0
+Quick Bites,French Fries,1,0,,80.0
+Quick Bites,Chicken Popcorn,1,0,,129.0
+Quick Bites,Chicken Bytes,1,0,,140.0
+Quick Bites,Chicken Wings [4 Pieces],1,0,,149.0
+Quick Bites,Kelloggs Chocos,1,0,,70.0
+Quick Bites,Chocos with Dates,1,0,,80.0
+Quick Bites,Chocos with Boost,1,0,,80.0
+Quick Bites,Chocos with Cherry,1,0,,80.0
+Quick Bites,Chocos with Horlicks,1,0,,80.0
+Quick Bites,Chocos with Apple,1,0,,80.0
+Quick Bites,Chocos with Mango,1,0,,80.0
+Quick Bites,Chocos with Mixed Fruits,1,0,,85.0
+Quick Bites,Chocos with Ice Cream,1,0,,85.0
+Quick Bites,Chocos with Banana,1,0,,77.0
+Quick Bites,Plain Corn Flakes,1,0,,60.0
+Quick Bites,Corn Flakes with Dates,1,0,,70.0
+Quick Bites,Corn Flakes with Cherry,1,0,,70.0
+Quick Bites,Corn Flakes with Boost,1,0,,70.0
+Quick Bites,Corn Flakes with Mixed Fruits,1,0,,75.0
+Quick Bites,Corn Flakes with Ice Cream,1,0,,80.0
+Quick Bites,Corn Flakes with Chocolate Ice Cream,1,0,,85.0
+Desserts,Mixed Fruit Salda,1,0,,75.0
+Desserts,Fruit Salad with Ice Cream,1,0,,105.0
+Desserts,Mango Salad,1,0,,85.0
+Desserts,Mango Salad with Ice Cream,1,0,,110.0
+Desserts,Apple Salad,1,0,,90.0
+Desserts,Apple Salad with Ice Cream,1,0,,110.0
+Desserts,Banana Salad with Ice Cream,1,0,,105.0
+Desserts,Fruit Meal Salad,1,0,All fruits.,120.0
+Desserts,Papaya Salad,1,0,,70.0
+Desserts,Papaya Salad with Ice Cream,1,0,,95.0
+Desserts,Watermelon Salad,1,0,,60.0
+Desserts,Pineapple Salad,1,0,,70.0
+Desserts,Banana Boon Ice Cream shake[450 ml],1,0,"Banana, butterscotch.",130.0
+Desserts,Ban the Banana Ice Cream shake[450 ml],1,0,"Banana, chocolate.",120.0
+Desserts,Applescotch Ice Cream shake [450 ml],1,0,,130.0
+Desserts,Pista Snoy Ice Cream shake [450 ml],1,0,"Pista, apple.",130.0
+Desserts,Rocy Cheek Ice Cream shake [450 ml],1,0,"Vanilla, watermelon.",120.0
+Desserts,Crimson Delight Ice Cream shake [450 ml],1,0,"Anar, pista.",140.0
+Desserts,Romantic Blues Ice Cream shake [450 ml],1,0,"Blackcurrant, grapes.",140.0
+Desserts,Chikku Chocolate Ice Cream shake [450 ml],1,0,,130.0
+Desserts,Pappa Ben Ice Cream shake450 ml],1,0,"Papaya, pista.",130.0
+Desserts,Avocado Pista Ice Cream shake[450 ml],1,0,,150.0
+Desserts,Kiwi with Pista Ice Cream shake[450 ml],1,0,,150.0
+Desserts,Nungu with Vanilla Ice Cream shake [450 ml],1,0,,130.0
+Desserts,Mango Mania Ice Cream shake[450 ml],1,0,"Mango, pista.",130.0
+Drinks (Beverages),Strawberry Shake [450 ml],1,0,,100.0
+Drinks (Beverages),Blueberry Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Custard Apple Shake [450 ml],1,0,,100.0
+Drinks (Beverages),Dragon Fruit Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Kiwi Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Litchi Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Peach Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Anjeer Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Nungu Shake [450 ml],1,0,,100.0
+Drinks (Beverages),Special Mango Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Lovers DIP Juice [450 ml],1,0,"Pineapple, guava.",90.0
+Drinks (Beverages),Veronica Juice [450 ml],1,0,"Grape, pine, lime.",80.0
+Drinks (Beverages),Hear Throb Juice [450 ml],1,0,"Mosambi, grape.",90.0
+Drinks (Beverages),Crimson Dawan Juice [450 ml],1,0,"Anar, grape.",90.0
+Drinks (Beverages),Sun Set Juice [450 ml],1,0,"Carrot, pineapple.",90.0
+Drinks (Beverages),ACP Juice [450 ml],1,0,"Apple, pineapple, carrot.",100.0
+Drinks (Beverages),Pome Spicy Juice [450 ml],1,0,"Pome, pepper.",90.0
+Drinks (Beverages),Cocktail Juice [450 ml],1,0,[Non Alcoholic] 6 Fruits mix.,100.0
+Drinks (Beverages),Mom's Recipe Juice [450 ml],1,0,"Orange, tomato.",85.0
+Drinks (Beverages),Plospery Popy Juice [450 ml],1,0,"Mosambi, amla, mint.",90.0
+Drinks (Beverages),Royal Blue Juice [450 ml],1,0,"Pineapple, grapes.",85.0
+Drinks (Beverages),Senorita Juice [450 ml],1,0,"Anar, orange.",90.0
+Drinks (Beverages),Privete Passion Juice [450 ml],1,0,"Mosambi, pineapple.",85.0
+Drinks (Beverages),Lucky DIP Juice [450 ml],1,0,"Mosambi, apple.",90.0
+Drinks (Beverages),Temptation Juice [450 ml],1,0,"Mosambi, custard.",90.0
+Drinks (Beverages),Hawaiian Punch Juice [450 ml],1,0,"Orange, pine.",85.0
+Drinks (Beverages),Orange Punch Juice [450 ml],1,0,"Orange, apple.",90.0
+Drinks (Beverages),Melon Melody Juice [450 ml],1,0,"Watermelon, muskmelon.",80.0
+Drinks (Beverages),Jamaican Delight Juice [450 ml],1,0,"Pineapple, mint.",80.0
+Drinks (Beverages),Erin Choice Juice [450 ml],1,0,"Strawberry, orange.",100.0
+Drinks (Beverages),Sun Shine Juice [450 ml],1,0,"Orange, carrot.",90.0
+Drinks (Beverages),ABC Juice [450 ml],1,0,"Apple, beetroot, carrot.",100.0
+Drinks (Beverages),Dost Juice [450 ml],1,0,"Pomegranate, pineapple.",90.0
+Drinks (Beverages),Ganga Jamuna Saraswati Juice [450 ml],1,0,"Orange, mosambi, pineapple.",90.0
+Drinks (Beverages),Ganga Jamuna Juice [450 ml],1,0,"Orange, mosambi.",85.0
+Drinks (Beverages),Golden Glory Juice [450 ml],1,0,"Pineapple, kiwi.",100.0
+Drinks (Beverages),Triveni Juice [450 ml],1,0,"Mango, strawberry, kiwi.",120.0
+Drinks (Beverages),Red Mania Juice [450 ml],1,0,"Watermelon, strawberry.",100.0
+Drinks (Beverages),Aval Milk,1,0,Pori aval banana peanut tutti frutti.,60.0
+Drinks (Beverages),Aval Milk with Fruits,1,0,,70.0
+Drinks (Beverages),Aval Milk with Boost,1,0,,70.0
+Drinks (Beverages),Aval Milk with Horlicks,1,0,,70.0
+Drinks (Beverages),Aval Milk with Ice Cream,1,0,Pori aval banana peanut milk vanilla ice cream.,85.0
+Drinks (Beverages),Special Aval Milk,1,0,Fruits ice cream avil milk banana,95.0
+Drinks (Beverages),Mojito [450 ml],1,0,[Non Alcoholic],100.0
+Drinks (Beverages),Virgin Mojito [450 ml],1,0,"Sprite, lime, mint.",120.0
+Drinks (Beverages),Blue Curacao Mojito [450 ml],1,0,[Non Alcoholic],120.0
+Drinks (Beverages),Green Apple Mojito [450 ml],1,0,"[Non Alcoholic] Sprite, mojito.",120.0
+Drinks (Beverages),Passion Fruit Mojito,1,0,[Non Alcoholic],130.0
+Drinks (Beverages),Blueberry Mojito,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Strawberry Mojito,1,0,[Non Alcoholic],120.0
+Drinks (Beverages),Kiwi Mojito,1,0,[Non Alcoholic],120.0
+Drinks (Beverages),Litchi Mojito,1,0,[Non Alcoholic],130.0
+Drinks (Beverages),Orange Mojito,1,0,[Non Alcoholic],120.0
+Drinks (Beverages),Mango Mojito,1,0,[Non Alcoholic],120.0
+Drinks (Beverages),Guava Mojito,1,0,[Non Alcoholic],120.0
+Drinks (Beverages),Nannari Sarbath [450 ml],1,0,,60.0
+Drinks (Beverages),Soda Sarbath [450 ml],1,0,,65.0
+Drinks (Beverages),Milk Sarbath [450 ml],1,0,,70.0
+Drinks (Beverages),Kulukki Sarbath [450 ml],1,0,,60.0
+Drinks (Beverages),Pineapple Kulukki Sarbath [450 ml],1,0,,70.0
+Drinks (Beverages),Grape Kulukki Sarbath [450 ml],1,0,,70.0
+Drinks (Beverages),Green Apple Kulukki Sarbath [450 ml],1,0,,70.0
+Drinks (Beverages),Mango Kulukki Sarbath [450 ml],1,0,,70.0
+Drinks (Beverages),Kiwi Kulukki Sarbath [450 ml],1,0,,75.0
+Drinks (Beverages),Blueberry Kulukki Sarbath [450 ml],1,0,,80.0
+Drinks (Beverages),Orange Kulukki Sarbath [450 ml],1,0,,70.0
+Drinks (Beverages),Strawberry Kulukki Sarbath [450 ml],1,0,,70.0
+Drinks (Beverages),Litchi Kulukki Sarbath [450 ml],1,0,,80.0
+Drinks (Beverages),Passion Fruit Kulukki Sarbath [450 ml],1,0,,90.0
+Drinks (Beverages),Salt Lemon Soda [450 ml],1,0,,55.0
+Drinks (Beverages),Sweet Lemon Soda [450 ml],1,0,,60.0
+Drinks (Beverages),Jaljeera Soda [450 ml],1,0,,65.0
+Drinks (Beverages),Dates Shake [450 ml],1,0,,100.0
+Drinks (Beverages),Lion Dates Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Arabian Dates Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Dates and Nuts Shake [450 ml],1,0,,150.0
+Drinks (Beverages),Nuts and Nuts Shake [450 ml],1,0,"Cashew, walnuts.",170.0
+Drinks (Beverages),Dry Fig Shake [450 ml],1,0,,150.0
+Drinks (Beverages),Cherry Dry Fruit Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Tutty Fruitty Shake [450 ml],1,0,,100.0
+Drinks (Beverages),Gulkand Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Mixed Dryfruit Shake [450 ml],1,0,,180.0
+Drinks (Beverages),Kajoor Extreme Shake [450 ml],1,0,"Dates, badam, nuts.",180.0
+Drinks (Beverages),Custard Apple Juice [450 ml],1,0,,100.0
+Drinks (Beverages),Kiwi Juice [450 ml],1,0,,100.0
+Drinks (Beverages),Seedless Grapes Juice [450 ml],1,0,,100.0
+Drinks (Beverages),Green Grapes Juice [450 ml],1,0,,100.0
+Drinks (Beverages),Strawberry Juice [450 ml],1,0,,120.0
+Drinks (Beverages),Blueberry Juice [450 ml],1,0,,100.0
+Drinks (Beverages),Passion Fruit Juice [450 ml],1,0,,120.0
+Drinks (Beverages),Lemon Juice [450 ml],1,0,,50.0
+Drinks (Beverages),Lemon Mint Cooler [450 ml],1,0,,60.0
+Drinks (Beverages),Ginger Lemon Juice [450 ml],1,0,,60.0
+Drinks (Beverages),Jaljeera Lime Juice [450 ml],1,0,,63.0
+Drinks (Beverages),Honey Lemon Juice [450 ml],1,0,,80.0
+Drinks (Beverages),Mosambi Juice [450 ml],1,0,,95.0
+Drinks (Beverages),Orange Juice [450 ml],1,0,,95.0
+Drinks (Beverages),Pineapple Juice [450 ml],1,0,,90.0
+Drinks (Beverages),Muskmelon Juice [450 ml],1,0,,90.0
+Drinks (Beverages),Watermelon Juice [450 ml],1,0,,75.0
+Drinks (Beverages),Apple Juice [450 ml],1,0,,95.0
+Drinks (Beverages),Grapes Juice [450 ml],1,0,,90.0
+Drinks (Beverages),Pomegranate Juice [450 ml],1,0,,99.0
+Drinks (Beverages),Mango Juice [450 ml],1,0,,95.0
+Drinks (Beverages),Chikku Juice [450 ml],1,0,,95.0
+Drinks (Beverages),Banana Juice [450 ml],1,0,,90.0
+Drinks (Beverages),Red Banana Juice [450 ml],1,0,,95.0
+Drinks (Beverages),Papaya Juice [450 ml],1,0,,90.0
+Drinks (Beverages),Guava Juice [450 ml],1,0,,90.0
+Drinks (Beverages),Red Guava Juice [450 ml],1,0,,95.0
+Drinks (Beverages),Vanilla Ice Cream Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Strawberry Ice Cream Shake [450 ml],1,0,,120.0
+Drinks (Beverages),Butterscotch Ice Cream Shake [450 ml],1,0,,130.0
+Drinks (Beverages),Pista Ice Cream Shake [450 ml],1,0,,140.0
+Drinks (Beverages),Chocolate Ice Cream Shake [450 ml],1,0,,140.0
+Drinks (Beverages),Blackcurrant Ice Cream Shake [450 ml],1,0,,150.0
+Drinks (Beverages),Kesar Pista Ice Cream Shake [450 ml],1,0,,200.0
+Drinks (Beverages),Kulfi Ice Cream Shake [450 ml],1,0,,158.0
+Drinks (Beverages),Mango Ice Cream Shake [450 ml],1,0,,140.0
+Drinks (Beverages),Jack Fruit Ice Cream Shake [450 ml],1,0,,160.0
+Drinks (Beverages),Banana Boon Ice Cream shake[450 ml],1,0,"Banana, butterscotch.",130.0
+Drinks (Beverages),Brownie shake (500ml),1,0,Brownie chocolate ice cream Milk,200.0
+Drinks (Beverages),Choco lava shake(500 ml),1,0,"Choco lava , icecream milk",200.0
+Drinks (Beverages),Jack fruit shake,1,0,,100.0
+Drinks (Beverages),Oreo Milkshake [450 ml],1,0,,130.0
+Drinks (Beverages),5 Star Chocolate Milkshake [450 ml],1,0,,140.0
+Drinks (Beverages),KitKat Chocolate Milkshake [450 ml],1,0,,140.0
+Drinks (Beverages),Dairy Milkshake [450 ml],1,0,,140.0
+Drinks (Beverages),Snickers Milkshake [450 ml],1,0,,150.0
+Drinks (Beverages),Bounty Milkshake [450 ml],1,0,,170.0
+Drinks (Beverages),Peanut Butter Milkshake [450 ml],1,0,,150.0
+Drinks (Beverages),Nutella Milkshake [450 ml],1,0,,170.0
+Drinks (Beverages),Banana Milkshake [450 ml],1,0,,95.0
+Drinks (Beverages),Red Banana Milkshake [450 ml],1,0,,100.0
+Drinks (Beverages),Nendran Banana Milkshake [450 ml],1,0,,100.0
+Drinks (Beverages),Apple Milkshake [450 ml],1,0,,100.0
+Drinks (Beverages),Pomegranate Milkshake [450 ml],1,0,,100.0
+Drinks (Beverages),Chikku Milkshake [450 ml],1,0,,95.0
+Drinks (Beverages),Custard Apple Milkshake [450 ml],1,0,,100.0
+Drinks (Beverages),Mango Milkshake [450 ml],1,0,,95.0
+Drinks (Beverages),Papaya Milkshake [450 ml],1,0,,90.0
+Drinks (Beverages),Guava Milkshake [450 ml],1,0,,90.0
+Drinks (Beverages),Red Guava Milkshake [450 ml],1,0,,100.0
+Drinks (Beverages),Grapes Milkshake [450 ml],1,0,,90.0
+Drinks (Beverages),Muskmelon Milkshake [450 ml],1,0,,90.0
+Drinks (Beverages),Pineapple Milkshake [450 ml],1,0,,90.0
+Drinks (Beverages),Carrot Milkshake [450 ml],1,0,,90.0
+Drinks (Beverages),Sharjah Milkshake [450 ml],1,0,,100.0
+Drinks (Beverages),Malabar Sharjah Milkshake [450 ml],1,0,,100.0
+Drinks (Beverages),Saudi Milkshake [450 ml],1,0,,100.0
+Drinks (Beverages),Oman Milkshake [450 ml],1,0,"Mango, dates.",100.0
+Drinks (Beverages),Tea Flask [500ml],1,0,,110.0
+Drinks (Beverages),Ginger Tea Flask [550 ml],1,0,,115.0
+Drinks (Beverages),Coffee Flask [550 ml],1,0,,125.0
+Drinks (Beverages),Boost Flask [550 ml],1,0,,125.0
+Drinks (Beverages),Tea [300 ml],1,0,,60.0
+Drinks (Beverages),Ginger Tea [300 ml],1,0,,65.0
+Drinks (Beverages),Masala Tea [300 ml],1,0,,65.0
+Drinks (Beverages),Lemon Tea [300 ml],1,0,,65.0
+Drinks (Beverages),Nattu Chakkarai Tea [300 ml],1,0,,65.0
+Drinks (Beverages),"Cardamom Tea [1 Flask, 550 ml]",1,0,,125.0
+Drinks (Beverages),Coffee [300 ml],1,0,,65.0
+Drinks (Beverages),Bru Coffee [300 ml],1,0,,75.0
+Drinks (Beverages),Nattu Chakkarai Coffee [300 ml],1,0,[Veg preparation],79.0
+Drinks (Beverages),Green Tea [300 ml],1,0,,70.0
+Drinks (Beverages),Boost [300 ml],1,0,,70.0
+Drinks (Beverages),Hot Milk Flask [550 ml],1,0,,110.0
+Drinks (Beverages),Horlicks [300 ml],1,0,,70.0
+Drinks (Beverages),Badam Milk [300 ml],1,0,,65.0
+Drinks (Beverages),Ragi Malt [300 ml],1,0,,70.0
+Drinks (Beverages),Nattu Chakkarai Tea Flask [550 ml],1,0,,125.0
+Drinks (Beverages),Cold Coffee [450 ml],1,0,,100.0
+Drinks (Beverages),Cold Coffee with Vanilla Ice Cream [450 ml],1,0,,120.0
+Drinks (Beverages),Cold Coffee with Boost [450 ml],1,0,,105.0
+Drinks (Beverages),Cold Boost [450 ml],1,0,,100.0
+Drinks (Beverages),Cold Horlicks [450 ml],1,0,,100.0
+Drinks (Beverages),Cold Badam Milk [450 ml],1,0,,80.0
+Drinks (Beverages),Cold Pista Milk [450 ml],1,0,,80.0
+Drinks (Beverages),Cold Rose Milk [450 ml],1,0,,75.0
+Drinks (Beverages),Salt Lassi [450 ml],1,0,,80.0
+Drinks (Beverages),Sweet Lassi [450 ml],1,0,,90.0
+Drinks (Beverages),Mango Lassi [450 ml],1,0,,100.0
+Drinks (Beverages),Banana Lassi [450 ml],1,0,,90.0
+Drinks (Beverages),Apple Lassi [450 ml],1,0,,105.0
+Drinks (Beverages),Vanilla Lassi [450 ml],1,0,,105.0
+Drinks (Beverages),Strawberry Lassi [450 ml],1,0,,110.0
+Drinks (Beverages),Chocolate Lassi [450 ml],1,0,,120.0
+Drinks (Beverages),Butterscotch Lassi [450 ml],1,0,,120.0
+Drinks (Beverages),Badam Lassi [450 ml],1,0,,100.0
+Drinks (Beverages),Boost Lassi [450 ml],1,0,,100.0
+Drinks (Beverages),Carrot Juice [450 ml],1,0,,99.0
+Drinks (Beverages),Cucumber Juice [450 ml],1,0,,80.0
+Drinks (Beverages),Tomato Juice [450 ml],1,0,,80.0
+Drinks (Beverages),Beetroot Juice [450 ml],1,0,,90.0
+Drinks (Beverages),Amla Juice [450 ml],1,0,,90.0
+Diwali Special Combos,Strawberry Shake with Chicken Burger,1,0,,200.0

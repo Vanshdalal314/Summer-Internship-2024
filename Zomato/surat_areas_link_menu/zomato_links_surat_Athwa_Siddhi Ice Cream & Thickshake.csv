@@ -1,0 +1,278 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thick Shake,Vanilla Thick Shake [300 ml],1,0,,120.0
+Thick Shake,Rose Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Pineapple Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Fresh Strawberry Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Real Mango Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Blackcurrant Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Litchi Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Orange Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Kiwi Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Fresh Chikoo Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Vanilla Chocolate Thick Shake [300 ml],1,0,,140.0
+Thick Shake,Chocolate Chips Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Kesar Badam Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Special Anjeer Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Butterscotch Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Kaju Gulkand Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Kaju Anjeer Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Fresh Sitaphal Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Royal Kaju Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Kaju Mango Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Chikoo Chocolate Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Badam Anjeer Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Red Velvet Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Coffee Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Mawa Malai Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Thandai Thick Shake [300 ml],1,0,,140.0
+Thick Shake,Chikoo Badam Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Dry Fruit Thandai Thick Shake [300 ml],1,0,,170.0
+Thick Shake,White Chocolate Thick Shake [300 ml],1,0,,170.0
+Thick Shake,Belgian Chocolate Thick Shake [300 ml],1,0,,170.0
+Thick Shake,Milk Chocolate Thick Shake [300 ml],1,0,,170.0
+Thick Shake,Choco Butterscotch Thick Shake [300 ml],1,0,,170.0
+Thick Shake,Creamy Coconut Thick Shake [300 ml],1,0,,170.0
+Thick Shake,Choco Coffee Thick Shake [300 ml],1,0,,170.0
+Thick Shake,Kaju Badam Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Kaju Pista Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Kaju Chocolate Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Badam Pista Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Kesar Kaju Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Fresh Velvet Thick Shake [300 ml],1,0,,130.0
+Thick Shake,Fresh Jamun Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Oreo Cookies Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Milo Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Coffee Chocolate Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Kaju Draksh Thick Shake [300 ml],1,0,,160.0
+Thick Shake,American Dry Fruits Thick Shake [300 ml],1,0,,170.0
+Thick Shake,Raj Bhog Thick Shake [300 ml],1,0,,160.0
+Thick Shake,Milk Cake Thick Shake [300 ml],1,0,,150.0
+Thick Shake,Bournvita Thick Shake [300 ml],1,0,,170.0
+Thick Shake,Kaju Badam Pista Thick Shake [300 ml],1,0,,170.0
+Thick Shake,Nutella Thick Shake [300 ml],1,0,,170.0
+Ice Creams,Vanilla Ice Cream,1,0,,60.0
+Ice Creams,Strawberry Ice Cream,1,0,,80.0
+Ice Creams,Rajbhog Ice Cream,1,0,,80.0
+Ice Creams,Winter Cream Ice Cream,1,0,,80.0
+Ice Creams,Almond Cadbury Ice Cream,1,0,,80.0
+Ice Creams,Chocolate Chips Ice Cream,1,0,,80.0
+Ice Creams,Mawa Malai Pista Ice Cream,1,0,,80.0
+Ice Creams,Mawa Malai Plain Ice Cream,1,0,,80.0
+Ice Creams,Kaju Draksh Ice Cream,1,0,,80.0
+Ice Creams,Panchamrut Ice Cream,1,0,,80.0
+Ice Creams,Special Anjeer Ice Cream,1,0,,80.0
+Ice Creams,Butterscotch Ice Cream,1,0,,80.0
+Ice Creams,American Dry Fruit Ice Cream,1,0,,80.0
+Ice Creams,Fig and honey Ice Cream,1,0,,80.0
+Ice Creams,Kaju Gulkand Ice Cream,1,0,,80.0
+Ice Creams,Pan Masala Ice Cream,1,0,,80.0
+Ice Creams,Orange Cadbury Ice Cream,1,0,,80.0
+Ice Creams,Kesar Pista Ice Cream,1,0,,80.0
+Ice Creams,Cake Cream Ice Cream,1,0,,90.0
+Ice Creams,Bananas Strawberry Ice Cream,1,0,,90.0
+Ice Creams,Belgian Chocolate Ice Cream,1,0,,90.0
+Ice Creams,Blueberry Ice Cream,1,0,,90.0
+Ice Creams,Roasted Nuts Ice Cream,1,0,,90.0
+Ice Creams,Saffron Pista Ice Cream,1,0,,90.0
+Ice Creams,Pineapple Coconut Ice Cream,1,0,,90.0
+Ice Creams,Sitaphal Topping Ice Cream,1,0,,90.0
+Ice Creams,Mango Topping Ice Cream,1,0,,90.0
+Ice Creams,Strawberry Topping Ice Cream,1,0,,90.0
+Ice Creams,Nutella Ice Cream,1,0,,90.0
+Ice Creams,Chocolate Caramel Ice Cream,1,0,,90.0
+Ice Creams,Rose Cashew Nuts Ice Cream,1,0,,90.0
+Ice Creams,Coffee Chocolate Ice Cream,1,0,,90.0
+Ice Creams,Chocolate Crunch Ice Cream,1,0,,90.0
+Ice Creams,Cheese Pineapple Ice Cream,1,0,,90.0
+Ice Creams,Pink Bubble Ice Cream,1,0,,90.0
+Ice Creams,Single Sundae,1,0,,150.0
+Ice Creams,Men in Black Sundae,1,0,"Scoops of vanilla, coated with chocolate topped with cream.",150.0
+Ice Creams,Strawberry Stax Sundae,1,0,"2 Scoops of strawberry, fresh strawberry sauce and whipped cream.",170.0
+Ice Creams,Fruit Cream with Ice Cream Sundae,1,0,Fresh cream with all fresh fruit and ice cream.,170.0
+Ice Creams,Dark Caramel Sundae,1,0,Layer of vanilla and cream coated with caramel sauce.,180.0
+Ice Creams,Brownie Chocolate Softy Sundae,1,0,,190.0
+Ice Creams,Regular Brownie with Ice Cream Sundae,1,0,"Brownie with vanilla ice cream, roasted nuts and chocolate sauce.",220.0
+Ice Creams,Sizzling Hot Brownie Sundae,1,0,,240.0
+Ice Creams,Double Sundae,1,0,,250.0
+Ice Creams,Triple Sundae,1,0,,310.0
+Ice Creams,Fresh Mango Ice Cream,1,0,,80.0
+Ice Creams,Sitaphal Ice Cream,1,0,,80.0
+Ice Creams,Guava Ice Cream,1,0,,80.0
+Ice Creams,Mix Fruit Ice Cream,1,0,,80.0
+Ice Creams,Black Jamun Ice Cream,1,0,,80.0
+Ice Creams,Mosambi Badami Ice Cream,1,0,,80.0
+Ice Creams,Tender Coconut Ice Cream,1,0,,80.0
+Ice Creams,Fresh Strawberry Ice Cream,1,0,,80.0
+Ice Creams,Pineapple Orange Ice Cream,1,0,,80.0
+Ice Creams,Setoor Ice Cream,1,0,Mulberry.,80.0
+Ice Creams,Chikoo Ice Cream,1,0,,80.0
+Ice Creams,Ginger Ice Cream,1,0,,80.0
+Ice Creams,Garlic Ice Cream,1,0,,80.0
+Ice Creams,Mint Ice Cream,1,0,,80.0
+Ice Creams,Green Chilli Ice Cream,1,0,,80.0
+Ice Creams,Vanilla Sugarless Ice Cream,1,0,,80.0
+Ice Creams,Chocolate Sugarless Ice Cream,1,0,,80.0
+Ice Creams,Black Jamun Sugarless Ice Cream,1,0,,80.0
+Ice Creams,Kesar Pista Sugarless Ice Cream,1,0,,80.0
+Ice Creams,Plain Family Pack Ice Cream [500 ml],1,0,,200.0
+Ice Creams,Regular Family Pack Ice Cream [500 ml],1,0,,270.0
+Ice Creams,Seasonal Family Pack Ice Cream [500 ml],1,0,,270.0
+Ice Creams,Premium Family Pack Ice Cream [500 ml],1,0,,290.0
+Ice Creams,Kesar Pista Kulfi,1,0,,130.0
+Ice Creams,Badam Pista Kulfi,1,0,,130.0
+Ice Creams,KitKat Kulfi,1,0,,120.0
+Ice Creams,Mawa Malai Kulfi,1,0,,120.0
+Cold Beverages,Butterscotch Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Tim Tim Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Bounty Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Milo Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Choco Chips Cookies Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,KitKat Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Snickers Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,5 Star Crunchy Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Oreo Cookies Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Bournvita Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Mars Bar Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Cookies Cream Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Brownie Chocolate Shake [350 ml],1,0,,200.0
+Cold Beverages,Irish Coffee Chocolate Shake [350 ml],1,0,,210.0
+Cold Beverages,M and M Peanut Chocolate Shake [350 ml],1,0,,220.0
+Cold Beverages,Nutella Chocolate Shake [350 ml],1,0,,220.0
+Cold Beverages,Fererro Rocher Chocolate Shake [350 ml],1,0,,240.0
+Cold Beverages,Brownie Feast Cold Coffee [300 ml],1,0,,140.0
+Cold Beverages,BBC Frappe Cold Coffee [300 ml],1,0,,140.0
+Cold Beverages,Irish Frappe Cold Coffee [300 ml],1,0,"Hazel, caramel.",160.0
+Cold Beverages,Choco Frappe Cold Coffee [300 ml],1,0,,160.0
+Cold Beverages,Frappe Tropicana Cold Coffee [300 ml],1,0,,160.0
+Cold Beverages,Almond Brew Cold Coffee [300 ml],1,0,,160.0
+Cold Beverages,Tall n Dark Cold Coffee [300 ml],1,0,,160.0
+Cold Beverages,Cold Coffee Crunch [300 ml],1,0,,160.0
+Cold Beverages,Oreo Cold Coffee Shake [300 ml],1,0,,190.0
+Cold Beverages,Dark Chocolate Cold Coffee [300 ml],1,0,Cake caffee.,190.0
+Cold Beverages,Special Coco [300 ml],1,0,,90.0
+Cold Beverages,Cadbury Coco [300 ml],1,0,,120.0
+Cold Beverages,Kaju Coco [300 ml],1,0,,130.0
+Cold Beverages,Ice Cream Coco[300 ml],1,0,,130.0
+Cold Beverages,Kaju Cadbury Coco [300 ml],1,0,,150.0
+Cold Beverages,Mojito [300 ml],1,0,[Non Alcoholic] Soda based beverage for instant refreshment.,140.0
+Cold Beverages,Cucumber Mocktail [300 ml],1,0,[Non Alcoholic] Soda based beverages for instant refreshment.,140.0
+Cold Beverages,Apple Eye Mocktail [300 ml],1,0,[Non Alcoholic] Soda based beverages for instant refreshment.,140.0
+Cold Beverages,Blue Lagoon Mocktail [300 ml],1,0,[Non Alcoholic] Soda based beverages for instant refreshment.,140.0
+Cold Beverages,Pretty Women Mocktail [300 ml],1,0,[Non Alcoholic] Soda based beverages for instant refreshment.,140.0
+Cold Beverages,Black Dragon Mocktail [300 ml],1,0,[Non Alcoholic] Soda based beverages for instant refreshment.,140.0
+Cold Beverages,White Shark Mocktail [300 ml],1,0,[Veg preparation] [Non Alcoholic] Soda based beverages for instant refreshment.,140.0
+Cold Beverages,Mango Cream Crush [300 ml],1,0,Blend of ice cream and crush iced with flavor of ice.,150.0
+Cold Beverages,Strawberry Cream Crush [300 ml],1,0,Blend of ice cream and crush iced with flavor of ice.,150.0
+Cold Beverages,Litchi Cream Crush [300 ml],1,0,Blend of ice cream and crush iced with flavor of ice.,150.0
+Cold Beverages,Orange Cream Crush [300 ml],1,0,Blend of ice cream and crush iced with flavor of ice.,150.0
+Cold Beverages,Banana Cream Crush [300 ml],1,0,Blend of ice cream and crush iced with flavor of ice.,150.0
+Cold Beverages,Pineapple Cream Crush [300 ml],1,0,Blend of ice cream and crush iced with flavor of ice.,150.0
+Cold Beverages,Blackcurrant Cream Crush [300 ml],1,0,Blend of ice cream and crush iced with flavor of ice.,150.0
+Cold Beverages,Chocolate Cream Crush [300 ml],1,0,Blend of ice cream and crush iced with flavor of ice.,150.0
+Cold Beverages,Green Apple Cream Crush [300 ml],1,0,Blend of ice cream and crush iced with flavor of ice.,150.0
+Cold Beverages,Pine Kiss Smoothie [350 ml],1,0,"Pineapple, Pineapple juice, yogurt.",130.0
+Cold Beverages,Tropical Twist Smoothie [350 ml],1,0,"Pineapple, kiwi, orange juice, yogurt.",150.0
+Cold Beverages,Appy Smoothie [350 ml],1,0,"Apple, strawberry, guava, apple juice, yogurt.",150.0
+Cold Beverages,Guava Lava Smoothie [350 ml],1,0,"Guava juice, yogurt.",150.0
+Cold Beverages,Strawberry Belly Smoothie [350 ml],1,0,"Strawberry, orange juice, yogurt",170.0
+Cold Beverages,Mango Beach Smoothie [350 ml],1,0,"Mango, apple juice, yogurt",230.0
+Cold Beverages,Sunshine Kiwi Smoothie [350 ml],1,0,"Kiwi, blueberry, apple juice, yogurt.",170.0
+Cold Beverages,Strawberry Smoothie [350 ml],1,0,"Strawberry, orange juice, yogurt.",170.0
+Cold Beverages,Mango Tango Smoothie [350 ml],1,0,"Mango, carrot, orange juice, yogurt.",180.0
+Cold Beverages,Mango Belly Smoothie [350 ml],1,0,"Mango, blueberry, apple juice, yogurt.",200.0
+Cold Beverages,Yellow Fellow Smoothie [350 ml],1,0,"Peach, pineapple, orange juice, yogurt.",200.0
+Cold Beverages,Brain Freeze Smoothie [350 ml],1,0,"[Veg preparation] Mango, peach, apple juice, yogurt.",200.0
+Cold Beverages,Carribean Sun Smoothie [350 ml],1,0,"Pineapple, cranberry, pineapple juice, yogurt..",200.0
+Cold Beverages,Cool Berry Smoothie [350 ml],1,0,"Blueberry, apple juice, yogurt.",210.0
+Cold Beverages,Proteiny Stuck Smoothie [350 ml],1,0,"Strawberry, pineapple, orange juice, yogurt, protein powder.",210.0
+Cold Beverages,Raspberry Romance Smoothie [350 ml],1,0,"Strawberry, raspberry, apple juice, yogurt.",230.0
+Cold Beverages,Fat Burner Smoothie [350 ml],1,0,"Strawberry, blueberry, raspberry, cranberry, apple juice, yogurt.",230.0
+Cold Beverages,Gym Special Smoothie [350 ml],1,0,"Strawberry, blueberry, raspberry, cranberry, orange juice, yogurt, protein powder.",240.0
+Cold Beverages,Mosambi Juice [300 ml],1,0,,100.0
+Cold Beverages,Pineapple Juice [300 ml],1,0,,100.0
+Cold Beverages,Watermelon Juice [300 ml],1,0,,100.0
+Cold Beverages,Orange Juice [300 ml],1,0,,100.0
+Cold Beverages,Mara Mari Juice [300 ml],1,0,,120.0
+Cold Beverages,Ganga Jamuna Juice [300 ml],1,0,,120.0
+Cold Beverages,Kabul Juice [300 ml],1,0,,130.0
+Cold Beverages,Grapes Juice [300 ml],1,0,,130.0
+Cold Beverages,Apple Juice [300 ml],1,0,,130.0
+Cold Beverages,Anar Juice [300 ml],1,0,,140.0
+Cold Beverages,Fresh Kiwi Juice [300 ml],1,0,,140.0
+Cold Beverages,Cocktail Juice [300 ml],1,0,,140.0
+Cold Beverages,Cinderella Juice [300 ml],1,0,,140.0
+Cold Beverages,Orange Slush [300 ml],1,0,,100.0
+Cold Beverages,Kachi Keri Slush [300 ml],1,0,,100.0
+Cold Beverages,Kala Khatta Slush [300 ml],1,0,,100.0
+Cold Beverages,Kiwi Slush [300 ml],1,0,,110.0
+Cold Beverages,Cool Blue Slush [300 ml],1,0,,110.0
+Cold Beverages,Lemon and Ginger Slush [300 ml],1,0,,110.0
+Cold Beverages,Mint and Orange Slush [300 ml],1,0,,110.0
+Cold Beverages,Strawberry Slush [300 ml],1,0,,110.0
+Cold Beverages,Pineapple Slush [300 ml],1,0,,110.0
+Cold Beverages,Blackcurrant Slush [300 ml],1,0,,110.0
+Cold Beverages,Litchi Slush [300 ml],1,0,,120.0
+Cold Beverages,Green Apple Crush Slush [300 ml],1,0,,110.0
+Cold Beverages,Blood Orange Slush [300 ml],1,0,,120.0
+Special Falooda,Orange Falooda [300 ml],1,0,,140.0
+Special Falooda,Kesar Falooda [300 ml],1,0,,150.0
+Special Falooda,Dry Fruit Falooda [300 ml],1,0,,170.0
+Special Falooda,Rose Kulfi Falooda,1,0,,170.0
+Special Falooda,Kesar Kulfi Falooda,1,0,,170.0
+Special Falooda,Rose Falooda [300 ml],1,0,,140.0
+Special Falooda,Pineapple Falooda [300 ml],1,0,,140.0
+Special Falooda,Mango Falooda [300 ml],1,0,,140.0
+Special Falooda,Chocolate Falooda [300 ml],1,0,,140.0
+Special Falooda,Strawberry Falooda [300 ml],1,0,,140.0
+Special Falooda,Blackcurrant Falooda [300 ml],1,0,,140.0
+Special Falooda,Litchi Falooda [300 ml],1,0,,140.0
+Special Lassi,Special Lassi [300 ml],1,0,,90.0
+Special Lassi,Rose Lassi [300 ml],1,0,,110.0
+Special Lassi,Mango Lassi [300 ml],1,0,,110.0
+Special Lassi,Strawberry Lassi [300 ml],1,0,,110.0
+Special Lassi,Pineapple Lassi [300 ml],1,0,,110.0
+Special Lassi,Blackcurrant Lassi [300 ml],1,0,,110.0
+Special Lassi,Kesar Pista Lassi [300 ml],1,0,,140.0
+Special Lassi,Dry Fruit Lassi [300 ml],1,0,,140.0
+Hot Beverages,Espresso Black Coffee,1,0,,90.0
+Hot Beverages,Cappuccino,1,0,,120.0
+Hot Beverages,Cafe Latte,1,0,,120.0
+Hot Beverages,Cafe Mocha,1,0,,140.0
+Hot Beverages,Berry Brew Coffee,1,0,,150.0
+Hot Beverages,Cafe Caramel Coffee,1,0,,140.0
+Hot Beverages,Irish Coffee,1,0,,140.0
+Hot Beverages,Tropical Safari Coffee,1,0,,140.0
+Hot Beverages,Hot Chocolate Coffee,1,0,,140.0
+Hot Beverages,Espresso Americano Black Coffee,1,0,,90.0
+Hot Beverages,Hot Lemon N Mint Black Coffee,1,0,,100.0
+Hot Beverages,White Italian Black Coffee,1,0,,100.0
+Hot Beverages,Lemon Ice Tea [300 ml],1,0,,110.0
+Hot Beverages,Peach Ice Tea [300 ml],1,0,,110.0
+Fruit Frappe (Milk Shake),Pina Colada Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Strawberry Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Pineapple Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Apple Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Blackcurrant Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Mango Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Litchi Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Sitaphal Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Chikoo Chocolate Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Crunchy Frappe Milkshake [300 ml],1,0,,140.0
+Fruit Frappe (Milk Shake),Kaju Anjeer Frappe Milkshake [300 ml],1,0,,170.0
+Fruit Frappe (Milk Shake),Kaju Badam Frappe Milkshake [300 ml],1,0,,170.0
+Fruit Frappe (Milk Shake),Kaju Gulkand Frappe Milkshake [300 ml],1,0,,170.0
+Fruit Frappe (Milk Shake),Kaju Chocolate Frappe Milkshake [300 ml],1,0,,170.0
+Fruit Frappe (Milk Shake),Badam Ajeer Frappe Milkshake [300 ml],1,0,,170.0
+Fruit Frappe (Milk Shake),Royal Kaju Frappe Milkshake [300 ml],1,0,,170.0
+Fruit Frappe (Milk Shake),Dry Fruit Frappe Milkshake [300 ml],1,0,,180.0
+Belgian Waffles,Rich Caramel Waffle,1,0,,170.0
+Belgian Waffles,Belgian Chocolate Waffle,1,0,,170.0
+Belgian Waffles,Milk Chocolate Waffle,1,0,,170.0
+Belgian Waffles,Creamy Coconut Waffle,1,0,,170.0
+Belgian Waffles,Classic Lemon Waffle,1,0,,170.0
+Belgian Waffles,Swiss White Choco Waffle,1,0,,170.0
+Belgian Waffles,Choco Butterscotch Waffle,1,0,,170.0
+Belgian Waffles,Rich Nutella Waffle,1,0,,190.0
+Belgian Waffles,Tripple Chocolate Waffle,1,0,"Belgian, milk, white.",190.0
+Belgian Waffles,Cheese Chocolate Waffle,1,0,,190.0
+Belgian Waffles,Red Velvet White Choco Waffle,1,0,,190.0

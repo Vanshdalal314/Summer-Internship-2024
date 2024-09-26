@@ -1,0 +1,38 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Manchurian Dry [500 ml],1,0,Veg manchurian dry is a crispy starter snack of fried veg balls tossed ... read more,140.0
+Starters,Paneer Chilli Dry [500 ml],1,0,"Diced paneer deep fried, tossed with red yellow bell peppers and green chillies. ... read more",196.0
+Starters,Paneer Shanghai [500 ml],1,0,"Spicy, sweet, tangy so many flavors at once. Shanghai paneer is an aromatic ... read more",203.0
+Main Course,Paneer Butter Masala [500 ml],1,0,"[Medium Spicy] Masala pure Indian spices and the ever famous tomato, onion puree ... read more",182.0
+Main Course,Paneer Angara [500 ml],1,0,A semi gravy item made with paneer and some select masala and chilli ... read more,189.0
+Main Course,Veg Mix [500 ml],1,0,Made with a variety of fresh vegetables in an onion tomato gravy flavored with ... read more,140.0
+Main Course,Veg Hyderabadi [500 ml],1,0,"It’s a spicy gravy dish that has a creamy texture, lots of vegetables and ... read more",140.0
+Main Course,Paneer Lababdar [500 ml],1,0,"A delicious creamy gravy made of paneer cubes, spices and butter.",189.0
+Main Course,Kadhai Paneer [500 ml],1,0,A succulent paneer dish with a rich tomato-based sauce bursting with flavor.,196.0
+Main Course,Paneer Bhurji [500 ml],1,0,"Scrambled paneer sauteed with onion, tomato, bell pepper and a few spices.",210.0
+Main Course,Palak Paneer [500 ml],1,0,Evergreen cottage paneer dish cooked in spinach and tomato based gravy with special ... read more,196.0
+Fried Rice and Noodles,Veg Fried Rice [500 ml],1,0,A deliciously aromatic and flavorful dish made from stir fried mixed vegetables and ... read more,154.0
+Fried Rice and Noodles,Burnt Garlic Fried Rice [500 ml],1,0,Rice stir fried with vegetables and burnt garlic in a traditional wok with ... read more,168.0
+Fried Rice and Noodles,Schezwan Fried Rice [500 ml],1,0,A flavorful Chinese rice dish that will tantalize your taste buds.,168.0
+Fried Rice and Noodles,Singapore Fried Rice [500 ml],1,0,"It is a super delicious, fragrant and healthy Indian Chinese dish made with rice, ... read more",168.0
+Fried Rice and Noodles,Thai Curry Fried Rice [500 ml],1,0,,245.0
+Fried Rice and Noodles,Mexican Fred Rice [500 ml],1,0,"Spice Mexican rice, made with corn, Mexican sauce, herbs and topped with coriander.",210.0
+Fried Rice and Noodles,Hakka Noodles [500 ml],1,0,,154.0
+Fried Rice and Noodles,Chilli Garlic Noodles [500 ml],1,0,"Red, yellow, green bell peppers, cabbage, carrots, green chillies, ginger and garlic tossed ... read more",168.0
+Fried Rice and Noodles,Singapuri Noodles [500 ml],1,0,"Red, yellow, green bell peppers, cabbage, carrots, ginger and garlic tossed littel bit ... read more",168.0
+Fried Rice and Noodles,Schezwan Noodles [500 ml],1,0,The spicy schezwan sauce and hakka noodles is made with soy sauce along ... read more,168.0
+Pasta,Alfredo Pasta [500 ml],1,0,Pasta alfredo is a creamy pasta made with mixed veggies. The creaminess comes ... read more,210.0
+Pasta,Arrabiata Pasta [500 ml],1,0,"Pasta made in arrabbiata sauce, a spicy sauce for pasta made from garlic, ... read more",210.0
+Pasta,Pink Sauce Pasta [500 ml],1,0,"Experience the best of both worlds with our pink sauce pasta, a delightful ... read more",217.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,"Stuffed with tomatoes, capsicum and cabbage with cheese and butter and another layer ... read more",105.0
+Sandwiches,Paneer Tandoori Sandwich,1,0,"Slices of bread stuffed with yummy tandoori paneer filler, layered with butter and ... read more",98.0
+Sandwiches,Veg Club Sandwich,1,0,A delectable combination of fresh vegetables and savory seasonings layered between slices of ... read more,140.0
+Sandwiches,Special TRK Sandwich,1,0,[Veg preparation],140.0
+Snacks,Paneer Tit Bit [350 ml],1,0,Cottage cheese and veggies in Mexican sauce.,210.0
+Snacks,Mexican Nachos [120 grams],1,0,"Crispy corn nachos served with delicious Mexican sauce, onion capsicum, olive, jalapeno with ... read more",175.0
+Snacks,Chinese Bhel [500 ml],1,0,"A Chinese twist on the classic Indian treat with crispy bhel, onions, coriander ... read more",168.0
+Snacks,French Fries [650 ml],1,0,Golden brown strips of potato fried to crisp perfection and flavored with salt.,105.0
+Snacks,Peri Peri French Frie [650 ml],1,0,,119.0
+Snacks,Cheese French Fries [650 ml],1,0,"French fries with melted Cheddar cheese on top, the perfect indulgence for any ... read more",126.0
+Maggi,Masala Maggi [500 ml],1,0,Aromatic and flavourful maggi dish with a tantalizing blend of Indian spices.,84.0
+Maggi,Cheese Maggi [500 ml],1,0,"Indulge in the irresistibly creamy and savory delight of cheese maggi, a veg ... read more",98.0
+Maggi,Veg Cheese Maggi [500 ml],1,0,Indulge in a delectable combination of vegetables and melted cheese in this flavorful ... read more,112.0

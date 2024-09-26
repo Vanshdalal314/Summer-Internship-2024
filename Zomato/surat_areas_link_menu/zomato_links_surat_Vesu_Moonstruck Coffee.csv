@@ -1,0 +1,94 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Savories,Aglio Olio Pasta,1,0,"Fresh garlic, olive oil, red pepper flakes – simple, yet irresistible.",425.0
+Savories,Alfredo Pasta,1,0,"Classic, creamy, cheesy, and utterly delicious - a comfort food at its finest.",475.0
+Savories,Arrabiata Pasta,1,0,"A perfect balance of tangy tomato sauce, al dente pasta, and fresh herbs.",425.0
+Savories,"Avocado, Shrooms & Tomatoes Toast",1,0,"Smashed Avocado with Mushrooms, Tomatoes & topped with whipped Feta.",355.0
+Savories,Caprese Avocado Toast,1,0,"Seasoned mash Avocado, Cherry Tomatoes, Basil, Mozzarella, with Balsamic dressing.",355.0
+Savories,Cheesy Nachos,1,0,"Crispy tortilla chips topped with melted cheese, jalapeños, and salsa.",325.0
+Savories,Creamy Mushroom With Herb Rice,1,0,"Comforting, tomato rich creamy mushroom served with herb infused rice.",395.0
+Savories,Creamy Pesto Pasta,1,0,"A rich and flavourful combination of pasta in a creamy, aromatic pesto sauce.",445.0
+Savories,Falafel Bites & Dips,1,0,In house Falafel Bites with Hummus & Labneh dip.,295.0
+Savories,Falafel Wrap,1,0,"Falafel balls, Hummus, and a mixed green salad - all rolled into a ... read more",315.0
+Savories,French Fries,1,0,"Healthy Air Fried Fries, Served with Tomato Ketchup & Mayo",240.0
+Savories,Hummus Toast,1,0,"Hummus, garlic-balsamic sautéed cherry tomatoes, and a sprinkle of sesame seeds.",315.0
+Savories,Hummus With Olive Tapenade,1,0,"Hummus, Olive Oil - with Olive Tapenade, Za'atar Brown Pita served with Falafel, ... read more",365.0
+Savories,Italian Wrap,1,0,"Zucchini, Broccoli, Tomatoes, Olives, Bell-peppers, Zesty Italian Salad Dressing.",315.0
+Savories,Mexican Rice Bowl,1,0,"Savory & spiced bean-rice, sour cream, corn chips and creamy avocado unite in ... read more",375.0
+Savories,Mix Sauce Pasta,1,0,A deliciously saucy spaghetti dish featuring a perfect blend of savoury tomato and ... read more,445.0
+Savories,Mushroom Toast,1,0,"Creamy Caramelized Onion with Sautéed Mushrooms, finished with Spring Onion Garnish and Whipped ... read more",315.0
+Savories,Peri Peri Fries,1,0,Crispy french fries seasoned with spicy peri peri spices. Perfectly seasoned and deliciously ... read more,260.0
+Savories,Peri Peri Hummus & Za'atar Pita,1,0,Peri Peri Hummus with Olive oil & baked Za’atar pita - served with ... read more,265.0
+Savories,Potato Wedges,1,0,"Healthy Air Fried Wedges, Served with Tomato Ketchup & Mayo",240.0
+Savories,Scramble Cottage Cheese Olive,1,0,"Scrambled Cottage Cheese, Olives, with Indian Masala, Veggies - served with In-House Salad ... read more",395.0
+Savories,Traditional Fattous Hummus Salad,1,0,"Lettuce, Cucumber, Cherry Tomatoes, Bell Pepper, Onion, Olives- dressed with Vinaigrette, baked Pita ... read more",295.0
+Manual Brews,Iced Pour Over,1,0,'Coffee Brewed By Pouring Hot Water On Coffee Grounds Straight Over Ice.',220.0
+Manual Brews,Pour Over,1,0,'Coffee Is Brewed By Slowly Pouring Hot Water On A Flatbed Of Coffee ... read more,220.0
+Hot Black,Black Americano,1,0,Espresso + Hot Water.,180.0
+Hot Black,Black Espresso,1,0,Strong And Flavourful Concentrate Of Coffee.,170.0
+Hot White,Cappuccino,1,0,Espresso With Equal Parts Of Hot Milk & Steamed Micro Foam.,200.0
+Hot White,Cortado,1,0,Shot Of Espresso With Equal Parts Of Textured Milk.,180.0
+Hot White,Flat White,1,0,Espresso With Steamed Milk.,200.0
+Hot White,Honey Cinnamon Latte,1,0,Winter Special,250.0
+Hot White,Hot Chocolate,1,0,Rich & Creamy Timeless Classic.,200.0
+Hot White,Latte,1,0,Espresso With Extra Milk + Steamed Microfoam.,200.0
+Hot White,Matcha Latte,1,0,Matcha Green Tea with Milk.,210.0
+Hot White,Mocha,1,0,Espresso With Steamed Milk + Melted Dark Chocolate.,220.0
+Hot White,Night Sky Mocha,1,0,Detoxifying Charcoal added to espresso with steamed milk + melted dark chocolate.,250.0
+Cold Black,Espresso Tonic,1,0,"A Refreshing Combination Of Espresso And Tonic, A Tangy Coffee Drink.",250.0
+Cold Black,Iced Americano,1,0,Espresso + Cold Water.,180.0
+Cold Black,Iced Espresso,1,0,Espresso poured over ice.,180.0
+Cold Black,Matcha Tonic,1,0,"An energizing blend of vibrant matcha and refreshing tonic, a perfect balance of ... read more",230.0
+Cold Black,Mazagran,1,0,Lemon Infused Coffee Drink.,220.0
+Cold Black,Mazagran Tonic,1,0,Lemon Infused Espresso Drink with Tonic Water.,230.0
+Cold Black,Orange Juice Espresso,1,0,Orange Juice + Espresso.,270.0
+Cold White,Cafe Bombon,1,0,A short (100ml) sweet dink made by pouring condensed milk over espresso.,210.0
+Cold White,Date Ice Latte,1,0,Espresso with date flavored cold milk over ice,240.0
+Cold White,Freddo Cappuccino,1,0,Sweetened Espresso Poured Over Ice + Topped With Cold Milk Foam.,220.0
+Cold White,Iced Latte,1,0,Espresso With Cold Milk Over Ice.,210.0
+Cold White,Iced Mocha,1,0,Espresso Mixed With Chocolate + Cold Milk Over Ice.,240.0
+Cold White,Matcha Ice Latte,1,0,Matcha with milk over Ice.,240.0
+Cold White,Spanish Ice Latte,1,0,"A rich and velvety coffee indulgence, blending bold espresso with creamy milk and ... read more",240.0
+Cold Brew Coffee,Caramel Cold Brew Latte,1,0,Cold Brew topped with chilled milk and a hint of caramel syrup; result ... read more,250.0
+Cold Brew Coffee,Citric Cold Brew Tonic,1,0,A citric flavoured cold brew tonic,260.0
+Cold Brew Coffee,Cold Brew,1,0,"Coffee Brewed Overnight, Ideal For Those Who Sip On Smooth, Low Acidity Chocolaty ... read more",220.0
+Cold Brew Coffee,Cold Brew Refresher,1,0,A tangy delight to refresh your coffee routine,280.0
+Cold Brew Coffee,Cold Brew With Ginger Ale,1,0,Refreshing Sparkling Caffeinated Seltzer,250.0
+Cold Brew Coffee,Cold Brew With Tonic,1,0,Refreshing Sparkling Caffeinated Seltzer,250.0
+Cold Brew Coffee,Cold Brewberry,1,0,Feeling like reminiscing summer? Add berries and lime to your cold brew and ... read more,260.0
+Cold Brew Coffee,Tangerine Cold Brew Tonic,1,0,Orange infused cold brew tonic,280.0
+Cold Brew Coffee,Vietnamese Cold Brew,1,0,Cold Brew Shaken With Condensed Milk And Ice; Result Is An Extra Sweet ... read more,240.0
+Frappe,Biscoff Shake,1,0,Milkshake with an unexpected biscoff twist.,320.0
+Frappe,Blueberry Frappe,1,0,"Raspberry Puree, milk and ice blended together: topped with whip cream",300.0
+Frappe,Blueberry Mocha Frappe,1,0,"A rich and satisfying blend of Raspberry, chocolate and espresso",340.0
+Frappe,Caramel Cookie Crumbs Frappe,1,0,,370.0
+Frappe,Caramel Frappe,1,0,"Shot of espresso blended with caramel, milk & ice; topped with whipped cream.",310.0
+Frappe,Choco Cookie Crumble Frappe,1,0,"Oreo cookies, chocolate, milk & ice blended together; topped with whipped cream.",310.0
+Frappe,Chocolate Chip Frappe,1,0,"Chocolate chips, chocolate, milk & ice blended together; topped with whipped cream.",280.0
+Frappe,Espresso Frappe,1,0,"Shot of espresso blended with ice and milk, thickened for a better mouthfeel.",260.0
+Frappe,Hazelnut Frappe,1,0,,310.0
+Frappe,Mocha Cookie Crumble Frappe,1,0,"Shot of espresso blended with cookies, chocolate, milk & ice; topped with whipped ... read more",340.0
+Frappe,Mocha Frappe,1,0,"Shot of espresso blended with chocolate sauce, milk & ice; topped with whipped ... read more",310.0
+Frappe,Mocha Praline Frappe,1,0,"Shot of espresso blended with hazelnut, chocolate, milk & ice; topped with whipped ... read more",340.0
+Frappe,Nutella Frappe,1,0,"A delighting blend of sweet Nutella, milk & ice; topped with whipped cream",310.0
+Frappe,Strawberry Frappe,1,0,"Strawberry puree, hint of gum syrup, milk & ice blended together; topped with ... read more",280.0
+Frappe,Vanilla Bean Frappe,1,0,"Rich & creamy vanilla, milk and ice blended together; topped with whipped cream ... read more",250.0
+Smoothie,Purple Delight,1,0,"Blueberry, Banana, Flax seed, Date, Milk, Almonds",270.0
+Smoothie,Very Berry,1,0,"Strawberry, Raspberry, Apple, Banana, Milk",270.0
+Coolers,Cranberry Ice Tea,1,0,,200.0
+Coolers,Kokum Cranberry Mojito,1,0,,200.0
+Coolers,Lemon Iced Tea,1,0,,190.0
+Coolers,Masala Lemonade,1,0,Lemonade,140.0
+Coolers,Mint Mojito,1,0,Mojito,190.0
+Coolers,Orange Basil Mojito,1,0,Mojito,230.0
+Coolers,Passion Fruit Mojito,1,0,Mojito,230.0
+Coolers,Peach Iced Tea,1,0,,190.0
+Coolers,Summer Bliss Mojito,1,0,,220.0
+Sandwiches,Spicy Grilled Cottage Cheese Sandwich,1,0,"Country Loaf bread with grilled spiced cottage cheese, crispy iceberg lettuce, tomatoes ... read more",245.0
+Sandwiches,Veg Pesto & Cheese Sandwich,1,0,"Basil Sauce, Tomato, Lettuce, Cheese",225.0
+Kombucha,Kombucha 200ml,1,0,Experience the essence of our craft with our ever-evolving flavors that keep your ... read more,270.0
+Desserts,Biscoff Cheesecake,1,0,,290.0
+Desserts,Blueberry Cheesecake,1,0,,290.0
+Desserts,New York Cheesecake,1,0,,270.0
+Desserts,Nutella Cheesecake,1,0,,290.0
+Desserts,Rich Chocolate Brownie,1,0,,200.0
+Bottled,Smart Water,1,0,,60.0

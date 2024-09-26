@@ -1,0 +1,102 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali and Combos,Student Thali,1,0,5 Butter Chapati+Paneer Sabji+Veg Sabji+Papad+Salad+Pickle [Subject to Availability],150.0
+Thali and Combos,Chinese Thali,1,0,Manchurian Dry+Veg Fried Rice+Soup+Salad [Subject to Availability],170.0
+Thali and Combos,Punjabi Mini Thali,1,0,4 Butter Chapati+Paneer Sabji+Veg Sabji+Dal Fry+Jeera Rice+Papad+Salad+Achar [Subject to Availability],190.0
+Thali and Combos,Punjabi Deluxe Thali,1,0,4 Butter Chapati+Paneer Sabji+Veg Sabji+Dal Fry+Jeera Rice+Buttermilk+Raita+Papad+Salad+Gulab Jamun [1 Piece] [Subject to Availability],210.0
+Thali and Combos,Paneer Sabji with Butter Chapati,1,0,Paneer Sabji+4 Butter Chapati+Salad [Subject to Availability],140.0
+Thali and Combos,Veg Sabji with Butter Chapati,1,0,Veg Sabji [250 ml]+3 Butter Chapati+Salad [Subject to Availability],130.0
+Thali and Combos,Dal Khichdi Combo,1,0,Dal Khichdi [Half]+Papad+Buttermilk+Salad [Subject to Availability],185.0
+Thali and Combos,Manchurian Combo,1,0,Manchurian [Half]+Fried Rice [Half]+Salad [Subject to Availability],190.0
+Thali and Combos,Hakka Noodles Combo,1,0,Hakka Noodles [Half]+Chinese Bhel [Half]+Salad [Subject to Availability],210.0
+Thali and Combos,Bombay Bhel Combo,1,0,Bombay Bhel [Half]+Manchurian Fried Rice [Half]+Salad [Subject to Availability],220.0
+Soups and Salads,Manchow Soup,1,0,,100.0
+Soups and Salads,Lemon Coriander Soup,1,0,,100.0
+Soups and Salads,Salad,1,0,,90.0
+Soups and Salads,Paneer Green Salad,1,0,,130.0
+Starters,Manchurian Dry,1,0,,100.0
+Starters,Chilli Paneer,1,0,,190.0
+Starters,Chilli Potato,1,0,,180.0
+Starters,Chinese Bhel,1,0,,140.0
+Starters,Bombay Bhel,1,0,,120.0
+Main Course,Dal Fry,1,0,,180.0
+Main Course,Butter Dal Fry,1,0,,190.0
+Main Course,Dal Palak,1,0,,160.0
+Main Course,Dal Kolhapuri,1,0,,220.0
+Main Course,Manchurian Gravy,1,0,,160.0
+Main Course,Mix Veg,1,0,,190.0
+Main Course,Veg Kolhapuri,1,0,,180.0
+Main Course,Veg Handi,1,0,,185.0
+Main Course,Veg Toofani,1,0,,195.0
+Main Course,Veg Kadhai,1,0,,200.0
+Main Course,Veg Keema,1,0,,210.0
+Main Course,Veg Tawa,1,0,,230.0
+Main Course,Veg Chatpata,1,0,,240.0
+Main Course,Aloo Matar,1,0,,180.0
+Main Course,Bhindi Masala,1,0,,210.0
+Main Course,Paneer Patiala,1,0,,255.0
+Main Course,Paneer Pasanda,1,0,,275.0
+Main Course,Paneer Maharaja,1,0,,260.0
+Main Course,Paneer Butter Masala,1,0,,260.0
+Main Course,Paneer Tikka Masala,1,0,,250.0
+Main Course,Paneer Toofani,1,0,,260.0
+Main Course,Paneer Angara,1,0,,270.0
+Main Course,Paneer Keema,1,0,,210.0
+Main Course,Shahi Paneer,1,0,,210.0
+Main Course,Paneer Lucknowi,1,0,,220.0
+Main Course,Paneer Jaipuri,1,0,,190.0
+Main Course,Kadhai Paneer,1,0,,210.0
+Main Course,Paneer Handi,1,0,,195.0
+Main Course,Matar Paneer,1,0,,180.0
+Main Course,Kaju Paneer Masala,1,0,,250.0
+Main Course,Kaju Curry,1,0,,260.0
+Main Course,Cheese Paneer Masala,1,0,,280.0
+Main Course,Paneer Lababdar,1,0,,205.0
+Main Course,Paneer Chatpata,1,0,,240.0
+Main Course,Paneer Bhurji,1,0,,280.0
+Main Course,Tawa Paneer,1,0,,210.0
+Main Course,Chana Masala,1,0,,160.0
+Main Course,Chana Keema Masala,1,0,,180.0
+Main Course,Sev Tamatar,1,0,,150.0
+Main Course,Aloo Jeera,1,0,,160.0
+Main Course,Aloo Gobi,1,0,,170.0
+Main Course,Aloo Palak,1,0,,180.0
+Main Course,Bhindi Fry,1,0,,185.0
+Main Course,Veg Hyderabadi,1,0,,190.0
+Main Course,Veg Jaipuri,1,0,,180.0
+Main Course,Justice 24 Special,1,0,[Chef's Special],270.0
+Breads,Aloo Paratha,1,0,,80.0
+Breads,Aloo Cheese Paratha,1,0,,120.0
+Breads,Plain Paratha,1,0,,30.0
+Breads,Plain Chapati,1,0,,18.0
+Breads,Butter Chapati,1,0,,20.0
+Rice and Biryani,Dal Khichdi,1,0,,180.0
+Rice and Biryani,Dal Palak Khichdi,1,0,,160.0
+Rice and Biryani,Veg Masala Khichdi,1,0,,170.0
+Rice and Biryani,Plain Khichdi,1,0,,120.0
+Rice and Biryani,Jeera Rice,1,0,,130.0
+Rice and Biryani,Plain Rice,1,0,,110.0
+Rice and Biryani,Veg Pulao,1,0,,160.0
+Rice and Biryani,Matar Pulao,1,0,,180.0
+Rice and Biryani,Paneer Pulao,1,0,,160.0
+Rice and Biryani,Masala Rice,1,0,,120.0
+Rice and Biryani,Veg Biryani,1,0,,185.0
+Rice and Biryani,Hyderabadi Biryani,1,0,,210.0
+Rice and Biryani,Veg Handi Biryani,1,0,,230.0
+Rice and Biryani,Aloo Dum Biryani,1,0,,230.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,160.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,180.0
+Fried Rice and Noodles,Schezwan Manchurian Fried Rice,1,0,,170.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,,150.0
+Fried Rice and Noodles,Hakka Noodles,1,0,,140.0
+Maggi,Vegetable Maggi,1,0,,90.0
+Maggi,Masala Maggi,1,0,,70.0
+Maggi,Cheese Maggi,1,0,,120.0
+Maggi,Tomato Maggi,1,0,,75.0
+Accompaniments,Fried Masala Papad,1,0,,50.0
+Accompaniments,Roasted Masala Papad,1,0,,40.0
+Accompaniments,Fried Papad,1,0,,25.0
+Accompaniments,Roasted Papad,1,0,,20.0
+Drinks (Beverages),Masala Chaas,1,0,,20.0
+Drinks (Beverages),Plain Chaas,1,0,,15.0

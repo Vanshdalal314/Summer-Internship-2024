@@ -1,0 +1,111 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,Idli Sambar,1,0,,105.0
+South Indian,Medu Vada,1,0,,110.0
+South Indian,Samosa,1,0,,110.0
+South Indian,Idli Fry,1,0,,135.0
+South Indian,Dahi Vada,1,0,,135.0
+South Indian,Dahi Idli,1,0,,120.0
+South Indian,Dahi Boondi,1,0,,120.0
+South Indian,Sada Dosa,1,0,(Serves 1),95.0
+South Indian,Onion Sada Dosa,1,0,,100.0
+South Indian,Masala Dosa,1,0,,135.0
+South Indian,Mysore Sada Dosa,1,0,,130.0
+South Indian,Onion Masala Dosa,1,0,,130.0
+South Indian,Mysore Masala Dosa,1,0,(Serves 1),165.0
+South Indian,Butter Sada Dosa,1,0,,130.0
+South Indian,Butter Onion Sada Dosa,1,0,,130.0
+South Indian,Butter Mysore Sada Dosa,1,0,,140.0
+South Indian,Butter Masala Dosa,1,0,,170.0
+South Indian,Mysore Butter Masala Dosa,1,0,,190.0
+South Indian,Butter Onion Masala Dosa,1,0,,175.0
+South Indian,Cheese Sada Dosa,1,0,,185.0
+South Indian,Cheese Mysore Sada Dosa,1,0,,240.0
+South Indian,Cheese Onion Sada Dosa,1,0,,185.0
+South Indian,Cheese Masala Dosa,1,0,,240.0
+South Indian,Cheese Onion Masala Dosa,1,0,,210.0
+South Indian,Cheese Mysore Masala Dosa,1,0,,230.0
+South Indian,Paneer Sada Dosa,1,0,,180.0
+South Indian,Paneer Rava Sada Dosa,1,0,,195.0
+South Indian,Paneer Masala Dosa,1,0,,210.0
+South Indian,Paneer Rava Masala Dosa,1,0,,220.0
+South Indian,Paneer Mysore Masala Dosa,1,0,,210.0
+South Indian,Rava Sada Dosa,1,0,,110.0
+South Indian,Onion Rava Sada Dosa,1,0,,110.0
+South Indian,Onion Rava Masala Dosa,1,0,,110.0
+South Indian,Rava Masala Dosa,1,0,,150.0
+South Indian,Butter Rava Sada Dosa,1,0,,145.0
+South Indian,Butter Rava Masala Dosa,1,0,,165.0
+South Indian,Cheese Rava Sada Dosa,1,0,,185.0
+South Indian,Cheese Onion Rava Sada Dosa,1,0,,205.0
+South Indian,Cheese Rava Masala Dosa,1,0,,210.0
+South Indian,Cheese Onion Rava Masala Dosa,1,0,,220.0
+South Indian,Sada Uttapam,1,0,,100.0
+South Indian,Onion Uttapam,1,0,,130.0
+South Indian,Mixed Uttapam,1,0,,160.0
+South Indian,Tomato Uttapam,1,0,,130.0
+South Indian,Masala Uttapam,1,0,,170.0
+South Indian,Butter Sada Uttapam,1,0,,150.0
+South Indian,Butter Onion Uttapam,1,0,,175.0
+South Indian,Cheese Sada Uttapam,1,0,,180.0
+South Indian,Butter Tomato Uttapam,1,0,,185.0
+South Indian,Butter Masala Uttapam,1,0,,190.0
+South Indian,Cheese Onion Uttapam,1,0,,215.0
+South Indian,Cheese Mixed Uttapam,1,0,,225.0
+South Indian,Cheese Masala Uttapam,1,0,,225.0
+South Indian,Cheese Tomato Uttapam,1,0,,225.0
+Fancy Dosa,Nylon Dosa,1,0,,135.0
+Fancy Dosa,Chinese Dosa,1,0,,220.0
+Fancy Dosa,Manchurian Dosa,1,0,,250.0
+Fancy Dosa,Palak Paneer Dosa,1,0,,250.0
+Fancy Dosa,Paneer Surma Dosa,1,0,,255.0
+Fancy Dosa,Sai Special Dosa,1,0,,285.0
+Fancy Dosa,Jini Roll Dosa,1,0,,260.0
+Fancy Dosa,Gotala Mysore Dosa,1,0,,285.0
+Fancy Dosa,Cheese Palak Dosa,1,0,,275.0
+Chinese,Manchurian,1,0,,150.0
+Chinese,Veg Schezwan Manchurian,1,0,,150.0
+Chinese,Chinese Bhel,1,0,"A Chinese twist on the classic Indian treat with crispy bhel, onions and ... read more",155.0
+Chinese,Bombay Bhel,1,0,,190.0
+Chinese,Paneer Chilli,1,0,A paneer dish made with chilli sauce and few Indian spieces.,275.0
+Chinese,Veg Fried Rice,1,0,,140.0
+Chinese,Manchurian Fried Rice,1,0,,150.0
+Chinese,Singapore Fried Rice,1,0,,140.0
+Chinese,Veg Schezwan Fried Rice,1,0,,140.0
+Chinese,Hong Kong Fried Rice,1,0,,140.0
+Chinese,Triple Rice,1,0,,230.0
+Chinese,Hakka Noodles,1,0,A Chinese famous noodles made with a flavour of soy sauce and garlic.,155.0
+Chinese,Singapore Noodles,1,0,,140.0
+Chinese,Hong Kong Noodles,1,0,,140.0
+Chinese,Veg Schezwan Noodles,1,0,,140.0
+Chinese,Manchurian Noodles,1,0,,140.0
+Fast Food,Veg Cheese Pizza [6 Inches],1,0,,180.0
+Fast Food,Paneer Tikka Pizza [6 Inches],1,0,,215.0
+Fast Food,Special Sai Pizza [6 Inches],1,0,,235.0
+Fast Food,Stuffed Pizza [6 Inches],1,0,,255.0
+Fast Food,Veg Sandwich,1,0,,95.0
+Fast Food,Veg Cheese Sandwich,1,0,,130.0
+Fast Food,Veg Grilled Sandwich,1,0,,180.0
+Fast Food,Veg Cheese Grilled Sandwich,1,0,,220.0
+Fast Food,Masala Grilled Sandwich,1,0,,200.0
+Fast Food,Paneer Cheese Grilled Sandwich,1,0,,230.0
+Fast Food,SAI SPL Grilled Sandwich,1,0,,250.0
+Fast Food,Veg Burger,1,0,,80.0
+Fast Food,Veg Cheese Burger,1,0,,120.0
+Fast Food,Paneer Cheese Burger,1,0,,130.0
+Pav Bhaji,Only Bhaji,1,0,,120.0
+Pav Bhaji,Pav Bhaji,1,0,,130.0
+Pav Bhaji,Jain Pav Bhaji,1,0,,160.0
+Pav Bhaji,Paneer Pav Bhaji,1,0,,200.0
+Pav Bhaji,Special Sai Pav Bhaji,1,0,,220.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,,220.0
+Pav Bhaji,Extra Pav [2 Pav],1,0,,20.0
+Pav Bhaji,Extra Pav [12 Pav],1,0,,90.0
+Pav Bhaji,Tawa Pulao,1,0,,180.0
+Pav Bhaji,Paneer Pulao,1,0,,180.0
+Pav Bhaji,Garlic Chutney,1,0,,60.0
+IPL Combos,Mysore Masala Dosa with Medu Vada [2 Pieces],1,0,,275.0
+IPL Combos,Masala Dosa with Idli Sambar [2 Pieces],1,0,,240.0
+IPL Combos,Masala Dosa with Sada Dosa,1,0,,230.0
+IPL Combos,Mysore Masala Dosa with Sada Dosa,1,0,,260.0
+IPL Combos,Medu Vada [2 Pieces] with Idli Sambar [2 Pieces],1,0,,215.0
+IPL Combos,Pav [2 Pav] with Bhaji,1,0,,195.0

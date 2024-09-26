@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Bread Butter Sandwich,1,0,,35.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,45.0
+Sandwiches,Vegetable Sandwich,1,0,,70.0
+Sandwiches,Vegetable Cheese Sandwich,1,0,,85.0
+Sandwiches,Bread Butter Jam Toast Sandwich,1,0,,55.0
+Sandwiches,Vegetable Toast Sandwich,1,0,,70.0
+Sandwiches,Masala Toast Sandwich,1,0,,55.0
+Sandwiches,Veg Masala Cheese Toast Sandwich,1,0,,80.0
+Sandwiches,Tandoori Paneer Toast Sandwich,1,0,,70.0
+Sandwiches,Makhani Paneer Toast Sandwich,1,0,,70.0
+Sandwiches,Cheese Chilli Toast Sandwich,1,0,,70.0
+Sandwiches,Veg Grilled Sandwich,1,0,,95.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,120.0
+Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,,150.0
+Sandwiches,Cheese Chilli Grilled Sandwich,1,0,,150.0
+Sandwiches,Bombay Grilled Sandwich,1,0,,150.0
+Sandwiches,Tornittos Special Grilled Sandwich,1,0,[Chef's Special],150.0
+Snacks,Salted French Fries,1,0,,70.0
+Snacks,Peri Peri French Fries,1,0,,90.0
+Drinks (Beverages),Cold Coffee,1,0,,40.0

@@ -1,0 +1,137 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chaats,Pani Puri,1,0,"A crispy puri, flavor-packed fillings, sweet chutney and tangy water - perfect snack ... read more",89.0
+Chaats,Kurmuri Choupaty Bhel,1,0,"Puffed Rice, tossed with home made sauces, topped with Peanuts, Sev & Chutney",89.0
+Chaats,Dahi Samosa,1,0,"A fried pastry with a savory filling, including ingredients such as spiced potatoes, ... read more",149.0
+Chaats,Dahi Papdi Chaat,1,0,"The appetising flavor of the papdi, wrapped in the pot pourri style mix ... read more",149.0
+Chaats,Dahi Vada,1,0,"Soft fluffy and fried lentil dumplings seasoned with curds ,red chilly powder soaked ... read more",149.0
+Chaats,Aloo Tikki Chole,1,0,"""Crispy fried Potato Patty, topped with home made Chutneys & masala accompanied with ... read more",169.0
+Chaats,Chole Samosa,1,0,"""The taste of our samosa crush marries the piping hot chole gravy, served ... read more",129.0
+Chaats,Raj Kachori,1,0,"Crisp Kachori, filled with potatoes, moong dal, yogurt, dahi vada spices and chutneys. ... read more",179.0
+Chaats,Mumbai Butter Pav Bhaji,1,0,"""Butter-laden pavs accompanied by a delicious and healthy gravy of mashed vegetables, topped ... read more",229.0
+Chaats,Cheese Pav Bhaji,1,0,"Butter-laden pavs accompanied by a delicious and healthy gravy of mashed vegetables, topped ... read more",219.0
+Chaats,Dahi Puri,1,0,"Crispy puris topped with boiled potatoes, onions, tomatoes and finished off with curd ... read more",149.0
+Chaats,Chole Bhature,1,0,"Bhature served with authentic chickpeas , green chutney, onion, and fried aloo, chili.",249.0
+Chaats,Mumbai Masala Sandwich With Cheese,1,0,This lip-smacking grilled Bombay Sandwich is made with bread filled with an boiled ... read more,199.0
+South Indian,Plain Dosa,1,0,"""Tawa- toasted, crispy and delicious dosa Served with sambar & chutney's.""",159.0
+South Indian,Masala Dosa,1,0,"A semi-spicy, crispy and delicious dosa with potato masala folded into it .",189.0
+South Indian,Mysore Masala Dosa,1,0,"""Crispy delicious dosa made of rice and urad dal, tawa roasted with special ... read more",199.0
+South Indian,Cheese Sada Dosa,1,0,Crispy and delicious dosa with cheese folded into it .,169.0
+South Indian,Cheese Masala Dosa,1,0,Crispy and delicious dosa with cheese potato masala folded into it .,199.0
+South Indian,Cheese Mysore Masala Dosa,1,0,"""Crispy delicious dosa made of rice and urad dal, tawa raosted with special ... read more",209.0
+South Indian,Idli Sambar,1,0,"""Super-soft steamed idli - the perfect way to kickstart your day, Served with ... read more",129.0
+South Indian,Idli Vada Sambhar,1,0,Combination of Steamed idlis & medu served with vegetable sambhar & Chutneys.,129.0
+South Indian,Vada Sambar,1,0,"Deep-fried savory snack, made from urud dhal and other spices served with Sambhar",129.0
+South Indian,Onion Uttapam,1,0,"Made with dosa batter, topped with onion and served with chutney.",169.0
+South Indian,Mysore Sada Dosa,1,0,Mysore sada dosa,199.0
+South Indian,Set Dosa,1,0,A thin pancake in South Indian cuisine made from a fermented batter of ... read more,149.0
+South Indian,Ghee Podi Plain Dosa,1,0,"""Plain Dosa cooked with generous amounts of ghee and topped with Podi Powder""",169.0
+South Indian,Ghee Podi Masala Dosa,1,0,"""Plain Dosa stuffed with Aloo Masala, cooked with generous amounts of ghee and ... read more",199.0
+South Indian,Paneer Tikka Dosa,1,0,"""Plain Dosa smeared with spicy tikka marination, Stuffed with Tandoori Paneer Tikka filling.""",249.0
+South Indian,Masala Uttapam,1,0,"""Made with dosa batter,topped with mix vegetables and served with chutney, a must ... read more",169.0
+Combos and Thali,Methi Matar Malai Rice Bowl,1,0,"Succulent green peas cooked in a rich cashew nut gravy, flavored with fenugreek ... read more",189.0
+Combos and Thali,Paneer Makhani Rice Bowl,1,0,"Malai Paneer cubes cooked in a tangy sweet rich tomato sauce, finished with ... read more",189.0
+Combos and Thali,Combo Methi Matar Malai,1,0,Methi matar malai + chioce of bread + salad + pickle,209.0
+Combos and Thali,Combo Shahi Malai Paneer,1,0,Shahi malai paneer + chioce of bread + salad + pickle,249.0
+Combos and Thali,Combo Kaju Makhana Ke Sabzi,1,0,Kaju makhana ki subzi + chioce of bread + salad + pickle,249.0
+Combos and Thali,Combo Paneer Kali Gol Mirch,1,0,Paneer kali gol mirch + chioce of bread + salad + pickle,249.0
+Combos and Thali,Combo Paneer Makhani,1,0,Paneer makhani + chioce of bread + salad + pickle,249.0
+Combos and Thali,Combo Dal Fry,1,0,Dal Fry Thali combo contains Dal Fry + Jeera Rice accompanied with salad ... read more,189.0
+Combos and Thali,Combo Dal Makhani,1,0,Dal Makhani Thali combo contains Dal Makhani + Any Choice of Bread accompanied ... read more,209.0
+Combos and Thali,Combo Mix Vegetable,1,0,Mix vegetable thali combo contains Mix Vegetable + Any Choice of Bread accompanied ... read more,209.0
+Combos and Thali,Combo Paneer Butter Masala,1,0,Paneer Butter Masala thali combo contains Paneer Butter Masala + Any Choice of ... read more,249.0
+Combos and Thali,Combo Kadhai Paneer,1,0,Kadhai Paneer thali combo contains Kadhai Paneer + Any Choice of Bread accompanied ... read more,249.0
+Combos and Thali,Combo Paneer Tikka Masala,1,0,Paneer Tikka Masala thali combo contains Paneer Tikka Masala + Any Choice of ... read more,249.0
+Combos and Thali,Sampurna Thali,1,0,"A complete meal with combination of {Butter Paneer Masala, Mix veg, Dal Fry, ... read more",349.0
+Combos and Thali,Nawabi Deluxe Thali,1,0,"A complete meal with combination of {Butter Paneer Masala, Mix veg, Jerra rice ... read more",379.0
+Combos and Thali,Dal Makhani Rice Bowl,1,0,"""Classic rich dal makhani served with jeera rice""",169.0
+Combos and Thali,Paneer Tikka Masala Rice Bowl,1,0,Tandoor cooked paneer cooked in spicy onion tomato gravy & perfect blend of ... read more,209.0
+Combos and Thali,Punjabi Chole Rice Bowl,1,0,"""Chole cooked in a spicy onion tomato masala till the beans are soft ... read more",189.0
+Combos and Thali,Rajma Rice Bowl,1,0,"""Rajma cooked in a spicy onion tomato masala till the beans are soft ... read more",189.0
+Sandwiches & Fries,Corn & Spinach Sandwich Grilled,1,0,"""Classic heavenly made combination of corn and cheese enclosed in bread""",179.0
+Sandwiches & Fries,Paneer Tikka Sandwich Grilled,1,0,Freshly baked bread layered with paneer tikka stuffing and chutneys to create traditional ... read more,199.0
+Sandwiches & Fries,Paneer Tikka Sandwich Grilled with Cheese,1,0,"""Classic heavenly made combination of Panner and cheese enclosed in bread""",219.0
+Sandwiches & Fries,Corn & Spinach Sandwich Grilled With Cheese,1,0,"Classic combination of spinach, corn and cheese enclosed in bread.",199.0
+Sandwiches & Fries,Veggi Mayonnaise Sandwich Grilled,1,0,"Fresh Tomatoes, cucumber, capsicum layered in bread and rich mayonnaise & grilled till ... read more",129.0
+Sandwiches & Fries,Salted Fries,1,0,"Famous Fries, crispy golden, fried to perfection and lightly salted.",119.0
+Sandwiches & Fries,Peri Peri Fries,1,0,Crispy French Fries Tossed In Your Favorite Peri Peri Masala Tantalizing Your Taste ... read more,129.0
+Sandwiches & Fries,Peri Peri Fries With Cheesy Chedar,1,0,Crispy French Fries Tossed In Your Favorite Peri Peri Masala Tantalizing Your Taste ... read more,149.0
+Main Course,Dal Fry,1,0,"""Homemade dish consisting of yellow lentil tempered with Cumin & Spices in ghee""",249.0
+Main Course,Dal Makhani,1,0,"Whole black lentils cooked with butter, cream and tomatoes puree and topped with ... read more",329.0
+Main Course,Mix Vegetable,1,0,"""Seasonal mixed vegetables cooked with whole some spices & onion tomato gravy""",279.0
+Main Course,Paneer Butter Masala,1,0,Paneer cooked in rich and creamy butter & cashew gravy with perfect blend ... read more,349.0
+Main Course,Kadhai Paneer,1,0,"""Succulent paneer chunks cooked in spicy onion tomato gravy with dices of tomatoes, ... read more",349.0
+Main Course,Paneer Tikka Masala,1,0,Tandoor cooked paneer cooked in spicy onion tomato gravy & perfect blend of ... read more,349.0
+Jain Main Course,Methi Matar Malai,1,0,"Succulent green peas cooked in a rich cashew nut gravy, flavored with fenugreek.",329.0
+Jain Main Course,Kaju Makhana Ke Sabzi,1,0,"Cashew nuts & roasted makhana cooked in a nutty white gravy, laced with ... read more",349.0
+Jain Main Course,Shahi Malai Paneer,1,0,"Succulent Paneer cubes cooked in a creamy cashew & khoya gravy, spiked with ... read more",349.0
+Jain Main Course,Paneer Makhani,1,0,"Malai Paneer cubes cooked in a tangy sweet rich tomato sauce, finished with ... read more",349.0
+Jain Main Course,Paneer Kali Gol Mirch,1,0,"Soft Paneer cubes cooked in a luxurious cashew gravy, spiked with roasted cracked ... read more",349.0
+Rice & Biryani,Steam Rice,1,0,"""Steamed long grain fragrant rice""",169.0
+Rice & Biryani,Jeera Rice,1,0,"""Fragrant rice dish tempered with aromatic cumin seeds""",179.0
+Rice & Biryani,Green Peas Pulao,1,0,"""Enjoy the taste of white rice tempered with ghee, aromatic spices""",189.0
+Rice & Biryani,Ghee Rice,1,0,"""Enjoy the taste of white rice tempered with fresh green peas, ghee& aromatic ... read more",179.0
+Breads,Tandoori Roti,1,0,Flat bread cooked in tandoor,49.0
+Breads,Butter Tandoori Roti,1,0,"""Butter Tandoori Roti""",59.0
+Breads,Naan,1,0,"""Soft & Fluffy leavened bread cooked in tandoor""",79.0
+Breads,Butter Naan,1,0,"""Soft & Fluffy leavened bread cooked in tandoor topped with dollop of butter""",89.0
+Breads,Butter Garlic Naan,1,0,"""Fluffy leavened dough flatbread enlivened with garlic bits topped with dollop of butter""",89.0
+Breads,Garlic Naan,1,0,"""Fluffy leavened dough flatbread enlivened with garlic bits""",79.0
+Breads,Plain Paratha,1,0,,69.0
+Breads,Lachha Paratha,1,0,"Lachha Paratha, also known as 'layered paratha,' is a traditional Indian flatbread renowned ... read more",79.0
+Kids Special,Kidzie Masala Dosa,1,0,"A semi-spicy, crispy and delicious dosa with potato masala folded into it .",129.0
+Beverages (Drinks),Bon Bon Coffee (Hazelnut),1,0,,50.0
+Beverages (Drinks),Cravova Classic Cold Coffee 200 Ml,1,0,Wake up and take a sip of our refreshing Classic Cold Coffee that ... read more,50.0
+Beverages (Drinks),Cravova Mocha Cold Coffee 200 Ml,1,0,Cravova brings to you the invigorating Mocha Cold Coffee made with premium Arabica ... read more,50.0
+Beverages (Drinks),Cravova Hazelnut Cold Coffee 200 Ml,1,0,"The extra richness is created with a flawless blend of Arabica coffee, smooth ... read more",50.0
+Beverages (Drinks),Cravova Frappe Cold Coffee 200 Ml,1,0,The soothing and calming nature of vanilla essence will help ease your mind ... read more,50.0
+Beverages (Drinks),Khus Sarbat,1,0,Cooling herb concentrate made wi th khus gras s (vetiver). Combine with chilled ... read more,175.0
+Beverages (Drinks),Lemon Sarbat,1,0,Refreshingly Tangyconcentrate made with fresh and juicy lemons. Enjoy your favorite lemon soda ... read more,175.0
+Beverages (Drinks),Pineapple Sarbat,1,0,Taste the natural sweetness of fresh pineapples with our authentic fruit concentrate. Serve ... read more,175.0
+Beverages (Drinks),Shahi Thandai,1,0,"The greatest mix made out of almonds, other healthy ingredients and saffron, for ... read more",380.0
+Beverages (Drinks),Orange Squash,1,0,"""Enjoy the taste of freshly squeezed oranges with our tangy-sweet concentrate, a refreshing ... read more",175.0
+Beverages (Drinks),Coke 300 Ml,1,0,The classic cola that needs no introduction. Enjoy the timeless taste and effervescence ... read more,70.0
+Beverages (Drinks),Fanta Can 330ml,1,0,A fruity and vibrant soda that will tantalize your taste buds with its ... read more,70.0
+Beverages (Drinks),Sprite Can 330ml,1,0,"Crisp, clear, and refreshing, Sprite offers a lemon-lime twist that is both thirst-quenching ... read more",70.0
+Beverages (Drinks),Masala Chaas 200 Ml,1,0,,39.0
+Beverages (Drinks),Mango Lassi 200 Ml,1,0,,99.0
+Desserts,Gulab Jamun 2 Pc,1,0,"""Fried dumplings made of dried milk & dipped in rose cardamom flavoured sugar ... read more",59.0
+Desserts,Cham Cham 2 Pc,1,0,"Chum Chum is a soft, sweet, juicy, and has a mix of great ... read more",59.0
+Desserts,Rasgulla 2 Pc,1,0,"Traditional bengali sweet, made from ball-shaped dumplings of chhena (an indian cottage cheese), ... read more",59.0
+Desserts,Rasgulla 6 Pc,1,0,"Traditional bengali sweet, made from ball-shaped dumplings of chhena (an indian cottage cheese), ... read more",179.0
+Desserts,Rasgulla 12 Pc,1,0,"Traditional bengali sweet, made from ball-shaped dumplings of chhena (an indian cottage cheese), ... read more",294.0
+Desserts,Gulab Jamun 6 Pc,1,0,"""Fried dumplings made of dried milk & dipped in rose cardamom flavoured sugar ... read more",179.0
+Desserts,Gulab Jamun 12 Pc,1,0,"""Fried dumplings made of dried milk & dipped in rose cardamom flavoured sugar ... read more",294.0
+Desserts,Cham Cham 6 Pc,1,0,"Chum Chum is a soft, sweet, juicy, and has a mix of great ... read more",155.0
+Desserts,Cham Cham 12 Pc,1,0,"Chum Chum is a soft, sweet, juicy, and has a mix of great ... read more",294.0
+Desserts,Rasmalai 1 pc,1,0,Rasmalai Delicious and mouth watering Bengali sweets from the house of Haldiram's,45.0
+Sweets,Mysore Pak 250 Gm,1,0,"Complex flavours and simple textures are combined in this classic Mysore Pak recipe, ... read more",188.0
+Sweets,Khajur Dry Fruit Burfee,1,0,Khajur Dry Fruits Burfee will delight everyone's taste buds with the unique taste ... read more,290.0
+Sweets,Rajasthani Peda 250 Gm,1,0,"A Rajasthani sweet infused with the richness of tradition , goodness of condensed ... read more",190.0
+Sweets,Kaju Chocolate Ladoo,1,0,New avatar of ladoo is here - fine cashews and decadent chocolate rolled ... read more,320.0
+Sweets,Roasted Chana Ladoo 250 Gm,1,0,Roasted Channa Laddu Delicious and mouth watering sweets from the house of Haldiram's ... read more,160.0
+Sweets,Mysore Pak 500 Gm,1,0,"Complex flavours and simple textures are combined in this classic Mysore Pak recipe, ... read more",365.0
+Sweets,Khajur DRY Fruit Burfee 250 Gm,1,0,Khajur Dry Fruits Burfee will delight everyone's taste buds with the unique taste ... read more,280.0
+Sweets,Mix Baklawa 150 Gm,1,0,"Baklava is a delicious, flaky dessert made with thin sheets of dough soaked ... read more",150.0
+Sweets,Assorted Dryfruit Bites 350 Gm,1,0,"An assortment of bite-sized treats made with luscious dry fruits, these squares are ... read more",475.0
+Sweets,Assorted Khaleji 120 Gm,1,0,Dates stuffed with dry fruits 120gms,150.0
+Sweets,Atta Laddu 250 Gm,1,0,Atta Laddu Delicious and mouth watering sweets from the house of Haldiram's 250 ... read more,160.0
+Sweets,Besan Ladoo 500 Gm,1,0,"Wholesome besan roasted in pure desi ghee, and shaped into delicious dessert balls ... read more",330.0
+Sweets,Blueberry Delights 125 Gm,1,0,Blueberry delight,175.0
+Sweets,Boondi Ladoo 500 Gm,1,0,"Golden pearls of gram flour cooked in pure desi ghee, with cashews and ... read more",310.0
+Sweets,Cherry Delights 125 Gm,1,0,Chery Delight,175.0
+Sweets,Desi Ghee 500 ml Tin,1,0,Desi ghee,275.0
+Sweets,Dodha Burfee 500 Gm,1,0,"Thick, creamy milk fudge made with desi ghee, generously topped with shredded coconut ... read more",400.0
+Sweets,Kaju Soan Cake 250 Gm,1,0,"Kaju Soan Cake as soft as melt-in-mouth,flavorful and nutritious delight made from handpicked ... read more",215.0
+Sweets,Milk Cake 500 Gm,1,0,"A classic Indian Sweet , Prepared with milk and sugar , enriched with ... read more",365.0
+Sweets,Mix Baklava 250 Gm,1,0,"Baklava is a delicious, flaky dessert made with thin sheets of dough soaked ... read more",360.0
+Sweets,Moong Burfee 500 Gm,1,0,"Delightful squares of moong dal fudge with crunchy almonds and cardomon, giving it ... read more",365.0
+Sweets,Pineapple Delights 125 Gm,1,0,Pineapple delight,175.0
+Sweets,Rajastani Pedha 500 Gm,1,0,"A Rajasthani sweet infused with the richness of tradition , goodness of condensed ... read more",350.0
+Sweets,Strawberry Delights 125 Gm,1,0,Strawerry delight,175.0
+Sweets,Mewa Bite 250 Gm (No Added Sugar),1,0,,300.0
+Sweets,Assorted Chikki 400 Gm,1,0,,200.0
+Bakery Products,Kaju nankhatai Cookies 250 gm,1,0,A crunchy twist on the classic nankhatai biscuits - made with desi ghee ... read more,110.0
+Dryfruit,Namkeen Pista 100 Gm,1,0,,205.0
+Dryfruit,Almond Roasted Masala Canister 200gm,1,0,,400.0
+Dryfruit,Cashew White Pepper Canister 200gm,1,0,,395.0
+Chocolate,Chocolate Chips Cookies 250 Gm,1,0,Chocolate chip cookies,100.0

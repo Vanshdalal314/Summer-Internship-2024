@@ -1,0 +1,92 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Diwali 2023,Baklava Box Of 15,1,0,,900.0
+Diwali 2023,Baklava Box Of 4,1,0,,250.0
+Diwali 2023,Baklava Box Of 6,1,0,,370.0
+Diwali 2023,Baklava Box Of 9,1,0,,760.0
+Diwali 2023,Brownie Box,1,0,,600.0
+Diwali 2023,Festive Gift Box @650,1,0,,650.0
+Diwali 2023,Festive Gift Box @980,1,0,,980.0
+Diwali 2023,Festive Gift Box,1,0,,1800.0
+Diwali 2023,Festive Hamper,1,0,,2100.0
+Diwali 2023,Festive Luxury Tray,1,0,,2625.0
+Diwali 2023,Festive Tray,1,0,,1260.0
+Diwali 2023,Gulabi Pichwai,1,0,,3200.0
+Diwali 2023,Macaron Box Of 14,1,0,,1400.0
+Diwali 2023,Moroccan Jewel Box,1,0,,2100.0
+Diwali 2023,Mughal Luxury Tray,1,0,,2800.0
+Diwali 2023,Pastel Mughali Hamper,1,0,,3500.0
+Diwali 2023,Royal Mughali Hamper,1,0,,2300.0
+Diwali 2023,Truffles Box Of 4,1,0,,250.0
+Petit Gateaux,Alphonso,1,0,,290.0
+Petit Gateaux,Aurora,1,0,,290.0
+Petit Gateaux,Authentic Black Forest,1,0,A classic petit gateaux with rich and decadent flavors of the Black Forest ... read more,290.0
+Petit Gateaux,Chocolate Concord,1,0,"Decadent and rich, this luxurious chocolate petit gateaux tantalizes your taste buds with ... read more",290.0
+Petit Gateaux,Pistachio Saffron Basbousa,1,0,,290.0
+Petit Gateaux,Rocher,1,0,"A decadent Petit Gateaux with egg, perfect for a sweet treat. Serves 1",290.0
+Petit Gateaux,Snicker,1,0,,290.0
+Petit Gateaux,Tropical,1,0,A deliciously tropical Petit Gateaux featuring egg. Serves 1,290.0
+Petit Gateaux,White Chocolate & Raspberry,1,0,Decadent white chocolate paired with tangy raspberries in a petite dessert. Serves 1,290.0
+Pastry,Basque Cheesecake,1,0,A rich and creamy pastry with a crispy top and velvety interior. Serves ... read more,280.0
+Pastry,Belgium Chocolate Cake,1,0,"""Belgium Chocolate Cake is a luscious chocolate cake that is layered with a ... read more",220.0
+Pastry,Blueberry Cheesecake,1,0,"A creamy, fruity pastry that's the perfect blend of indulgent and refreshing. Serves ... read more",280.0
+Pastry,Carrot Cake With Cream Cheese Pastry,1,0,"""A cake made with layers of Carrot Sponge with Cinnamon & Walnuts, Cream ... read more",220.0
+Pastry,Dulce Magnum Cheesecake,1,0,"A decadent, creamy cheesecake with a touch of sweetness. Serves 1",220.0
+Pastry,Gooey Chocolate Cake,1,0,"Indulge in a decadent, rich and mouth-watering chocolate cake with a gooey center. ... read more",220.0
+Pastry,Mango Cheesecake,1,0,,280.0
+Pastry,Opera Pastry,1,0,A decadent pastry with layers of delicate flavors and textures. Serves 1,240.0
+Pastry,Panama Cake,1,0,,240.0
+Pastry,Red Velvet With Cream Cheese Pastry,1,0,A decadent and creamy pastry that's perfect for any sweet tooth! Serves 1,220.0
+Pastry,Russian Honey,1,0,A scrumptious pastry with creamy egg filling and sweet honey drizzle. Serves 1,240.0
+Macaron,Box Of 5 Macarons,1,0,,500.0
+Macaron,Macarons ( Box Of 3),1,0,,265.0
+Macaron,Macarons ( Box Of 5),1,0,,450.0
+Tub,Banana Pudding,1,0,,450.0
+Tub,Mango Tres Leches,1,0,,200.0
+Tub,Rose Tres Leches,1,0,,200.0
+Tub,Tiramisu Tub,1,0,A decadent egg-based dessert presented in a fun and unique way. Serves 1,450.0
+Tub,Tres Leches,1,0,,200.0
+Bon Bons,Box Of 16 Bonbons,1,0,Indulge in a colorful assortment of delectable bite-sized bonbons. Serves 1,1300.0
+Bon Bons,Box Of 6 Bonbons,1,0,,500.0
+Bon Bons,Box Of 9 Bonbons,1,0,,800.0
+Dragee,Almond Dark Dragee(50g),1,0,,150.0
+Dragee,Almond Milk Dragee(50g),1,0,,150.0
+Dragee,Coffee Dark Dragee(50g),1,0,,150.0
+Dragee,Cranberry Milk Chocolate Dragee(50g),1,0,,150.0
+Dragee,Hazelnut Dark Dragee(50g),1,0,,150.0
+Dragee,Hazelnut Milk Dragee(50g),1,0,,150.0
+Dragee,Salted Pistachio Milk Dragee(50g),1,0,,175.0
+Muffin,Blueberry Muffin,1,0,"""Soft, light and airy muffins made with the goodness of blueberries, Amote’s sumptuous blueberry ... read more",130.0
+Muffin,Chocolate Muffin,1,0,"""Made with the goodness of cocoa and chocolate chips, Amote’s Chocolate Muffins are ... read more",130.0
+Muffin,Pineapple Rosemary Muffin,1,0,"""Want to experience paradise? Sniff and gobble up our Pineapple Rosemary Muffins! Our aromatic ... read more",130.0
+Brownie,Brookie,1,0,,110.0
+Brownie,Classic Brownie,1,0,Indulge in a rich and decadent classic brownie for the ultimate chocolate fix. ... read more,110.0
+Brownie,Fudge Brownie,1,0,,110.0
+Brownie,Millionarie Brownie,1,0,,130.0
+Eggless Pastry,Eggless Belgium Chocolate Cake,1,0,,260.0
+Eggless Pastry,Eggless Brownie,1,0,,125.0
+Eggless Pastry,Eggless Carrot Cake With Cream Cheese,1,0,,260.0
+Eggless Pastry,Eggless Gooey Chocolate Cake,1,0,,230.0
+Eggless Pastry,Eggless Red Velvet With Cream Cheese,1,0,,260.0
+Eggless Pastry,Eggless Tiramisu,1,0,"A creamy and indulgent pastry, crafted without eggs, perfect for a truly exceptional ... read more",220.0
+Savoury,Garlic Cream Cheese Bun,1,0,"A snack that’s the epitome of sumptuous, amotes garlic cream cheese bun is ... read more",135.0
+Savoury,Paneer Calzone,1,0,,190.0
+Bakery,Almond Croissant,1,0,A flaky croissant filled with creamy almond goodness. Serves 1,250.0
+Bakery,Cheese Straw,1,0,We’re always looking for excuses to have more cheese. amotes cheese straws is ... read more,150.0
+Bakery,Cinnabon,1,0,,210.0
+Bakery,Croissant,1,0,"Flaky, buttery pastry perfect for breakfast or a snack. Serves 1",200.0
+Bakery,Lavash,1,0,,60.0
+Bakery,Mushroom Cheese Croissant,1,0,,220.0
+Bakery,Pain Au Chocolate,1,0,A decadent French treat with flaky layers of pastry and chocolate. Serves 1,220.0
+Bakery,Paneer Makhani Croissant,1,0,,220.0
+Eggless Cookie,Chocolate Chip Cookies,1,0,"""A sweet baked treat that features chocolate chips and a buttery yet crisp ... read more",350.0
+Eggless Cookie,Chocolate Chip Cookie,1,0,,420.0
+Eggless Cookie,Double Chocolate Cookie,1,0,,350.0
+Eggless Cookie,Oats & Cranberry Cookie,1,0,,350.0
+Eggless Cookie,Peanut Butter Cookie,1,0,,350.0
+Entrement,Rocher Entremet,1,0,"Rocher is a nostalgic entremet made with layers of sacher sponge, hazelnut cremieux, ... read more",2600.0
+Snacking Chocolate,Almond Dark Chocolate Bark,1,0,,450.0
+Snacking Chocolate,Hazelnut Milk Chocolate Bark,1,0,,450.0
+Snacking Chocolate,White Chocolate Cranberry Pistachio Bark,1,0,,450.0
+Add Ons,Thermal Bag @350,1,0,,400.0
+1 Kg,Belgium Chocolate (1 Kg),1,0,,2200.0
+1 Kg,Opera (1 Kg),1,0,,2400.0

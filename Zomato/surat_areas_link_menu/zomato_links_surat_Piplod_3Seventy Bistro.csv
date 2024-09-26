@@ -1,0 +1,140 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Salads,Minty Aloo Salad,1,0,"Potato, Mint, Spring Onion, Yoghurt, Mayonaise, Lime",175.0
+Salads,Russian Salad,1,0,"Pineapple, Potato, Carrot, Beans, Green Peas, Spring Onion in Mayonaise with herbs",190.0
+Salads,Saute Mushroom,1,0,Mushroom Sauted in Olive oil with herbs,200.0
+Salads,Saute Veg,1,0,"Bell Peppers, Broccoli, Babycorn, Zucchini, Cherry Tomato, Black Olives, Jalapeno, Onion, Capsicum tossed ... read more",200.0
+Salads,Tossed Salad,1,0,"Bell Peppers, Broccoli, Babycorn, Zucchini, Lettuce, Cucumber, Tomato, Bread Croutons tossed in Olive ... read more",175.0
+Fresh Dough Pizza,Chilli Beans Pizza,1,0,"Baked beans in tomato sauce, jalapeno and mozzarella.",210.0
+Fresh Dough Pizza,Hot N Feisty Pizza,1,0,"Red paprika, jalapeno, onion, capsicum, olives, green chilli and mozzarella.",215.0
+Fresh Dough Pizza,Indian Magic Masala Pizza,1,0,"Jalapeno, capsicum, onion and masala.",210.0
+Fresh Dough Pizza,Indian Tadka Pizza,1,0,"Paneer, broccoli, zucchini, capsicum, onion sauteed in Indian spices.",225.0
+Fresh Dough Pizza,Italian Veggie Pizza,1,0,"Bell peppers, mushroom, jalapeno, exotic green and yellow zucchini and black olive.",215.0
+Fresh Dough Pizza,Los Angeles Pizza,1,0,"Spring onion, mushroom, red paprika, mozzarella and sun dried tomatoes.",210.0
+Fresh Dough Pizza,Minty Tandoori Paneer Pizza,1,0,"Onion, Capsicum, Red Paprika & Spiced paneer in tandoori sauce; garnished with mint ... read more",220.0
+Fresh Dough Pizza,Mushroom Delight Pizza,1,0,"Onion, capsicum, jalapeno and mushroom marinated in sauce.",215.0
+Fresh Dough Pizza,Paneer Makhani Pizza,1,0,"Onion, capsicum, green chilli, coriander, paneer marinated in makhani masala.",230.0
+Fresh Dough Pizza,Pine Corn Feast Pizza,1,0,"Capsicum, onion, American corn, mozzarella and pineapple.",210.0
+Fresh Dough Pizza,Pizza Alfredo Pizza,1,0,"Broccoli, zucchini, three types of bell peppers, baby corn, cherry tomato and alfredo ... read more",225.0
+Fresh Dough Pizza,Popeye Peppers Pizza,1,0,"Cheese balls, chopped bell peppers on spinach sauce.",225.0
+Fresh Dough Pizza,Say Cheese Pizza,1,0,Classic margherita / tomato slices and basil leaves.,200.0
+Fresh Dough Pizza,Schezwan Veg Pizza,1,0,"Onion, capsicum, baby corn, spring onion and schezwan sauce.",215.0
+Fresh Dough Pizza,Sichuan Paneer Pizza,1,0,"Paneer, onion, bell peppers sauteed in olive oil on schezwan sauce.",225.0
+Fresh Dough Pizza,Siciliana Pizza,1,0,"Mushroom, mozzarella, garlic, pickled onion, sun dried tomatoes and fresh basil marinated in ... read more",215.0
+Fresh Dough Pizza,Supreme Veg Pizza,1,0,"Onion, bell peppers, jalapeno, olives, onion and paneer.",215.0
+Fresh Dough Pizza,Tandoori Paneer Pizza,1,0,"Onion, green chilli, coriander, paneer marinated in tandoori masala.",215.0
+Fresh Dough Pizza,Vegetariano Pizza,1,0,"Tomato, capsicum, American corn and garlic.",210.0
+Fresh Dough Pizza,Veggie Carnival Pizza,1,0,"Grilled Mushroom, bell peppers, red paprika, olives, jalapeno, American corn, baby corn, tomato, ... read more",220.0
+Pasta,Aglio Olio Pasta,1,0,Spaghetti tossed in olive oil with garlic and herbs. Served with bread sticks.,270.0
+Pasta,Alfredo Sauce Pasta,1,0,"Pasta tossed in white sauce with exotic veggies, served with bread sticks.",270.0
+Pasta,Arrabiata Pasta,1,0,"Pasta tossed in red sauce with exotic veggies, served with bread sticks.",270.0
+Pasta,Creamy Parma Rosa,1,0,"Pasta tossed in creamy pink sauce with parmesan cheese, served with bread sticks.",270.0
+Pasta,Del Bareno Pasta,1,0,"Pasta tossed in red and white sauce with exotic veggies, mix sauce pasta, ... read more",270.0
+Pasta,Granavo Pasta,1,0,"Pasta tossed in pesto sauce with exotic veggies, served with bread sticks.",270.0
+Baked Dish,Italian Rice With Beans Sauce,1,0,Italian Rice topped with Beans sauce & cheese & Baked,290.0
+Baked Dish,Pasta 'O' Prince,1,0,"Pasta, Corn, Pineapple in white sauce; topped with cheese & baked",290.0
+Baked Dish,Spaghetti Al Forno,1,0,Spaghetti tossed in italian sauce with veggies; topped with cheese & baked,290.0
+Baked Dish,Spinach & Corn Lasagna,1,0,Layers of pasta sheets with different fillings in each layer; topped with cheese ... read more,330.0
+Mexican,Amazing Nachos,1,0,Nacho chips served with cheese sauce and salsa sauce.,170.0
+Mexican,Mexican Burrito,1,0,"Soft tortilla filled with refried beans, veggies; topped with cheese and baked, served ... read more",275.0
+Mexican,Chilly Tikka Tacos,1,0,"Indianized tacos, tortilla shells filled with tandoori paneer, topped with cabbage marinated in ... read more",195.0
+Mexican,Chimichangas,1,0,"Deep fried tortilla pocket stuffed with mexican beans, exotic veggies, cheese; served with ... read more",275.0
+Mexican,Mexican Enchiladas,1,0,"Soft corn tortilla filled with refried beans and veggies, topped with cheese and ... read more",275.0
+Mexican,Overloaded Nachos,1,0,"Fully Loaded Nachos; Nacho chips served with cheese sauce, salsa, Mexican beans, guacamole ... read more",240.0
+Mexican,Mexican Quesadilla,1,0,"Soft tortilla filled with beans, cottage cheese, cheese, lettuce and veggies; then grilled; ... read more",275.0
+Mexican,Tacos,1,0,"Tortilla shells filled with beans, coleslaw, veggies; topped with cheese, lettuce and garnished ... read more",195.0
+Mexican,Tex Mex Nachos,1,0,"Nacho chips topped with beans, salsa and cheese sauce, garnished with chopped veggies.",195.0
+Bruschetta And Garlic Bread,Bell Pepper And Cheese Bruschetta,1,0,,210.0
+Bruschetta And Garlic Bread,Cheese Jalapeno Bruschetta,1,0,,210.0
+Bruschetta And Garlic Bread,Garlic Bread,1,0,,110.0
+Bruschetta And Garlic Bread,Garlic Bread With Cheese,1,0,"French bread with garlic, butter, cheese and herbs.",170.0
+Bruschetta And Garlic Bread,Sauteed Mushroom Bruschetta,1,0,,210.0
+Bruschetta And Garlic Bread,Supreme Garlic Bread,1,0,"American Corn, Onion, Green Chilly, Black Olives, Jalapeno",185.0
+Bruschetta And Garlic Bread,Tomato Basil Bruschetta,1,0,,210.0
+Fusion Fries,BBQ Fries,1,0,,150.0
+Fusion Fries,Cheesy Paprika Fries,1,0,,160.0
+Fusion Fries,French Fries,1,0,,135.0
+Fusion Fries,Manchurian Fries,1,0,,160.0
+Fusion Fries,Peri Peri Fries,1,0,Deep fried finger cut potato with peri peri seasoning.,150.0
+Fusion Fries,Salsa Fries,1,0,,150.0
+Fusion Fries,Schezwan Fries,1,0,,150.0
+Chinese,Chilly Garlic Noodles,1,0,,190.0
+Chinese,Veg Hakka Noodles,1,0,,185.0
+Chinese,Humpty Dumpty,1,0,,195.0
+Chinese,Paneer Chilli,1,0,,260.0
+Chinese,Veg Schezwan Noodles,1,0,,190.0
+Chinese,Shanghai Paneer,1,0,,280.0
+Chinese,Veg Manchurian,1,0,,190.0
+Rice,Burnt Garlic Rice,1,0,,195.0
+Rice,Indonesian Rice,1,0,,195.0
+Rice,Mexican Rice,1,0,,210.0
+Rice,Schezwan Fried Rice,1,0,,200.0
+Rice,Singapuri Rice,1,0,,200.0
+Rice,Veg Fried Rice,1,0,,195.0
+Gravy,Paneer In Red Thai Curry,1,0,,250.0
+Gravy,Veg In Green Thai Curry,1,0,,225.0
+Gravy,Veg In Mexican Gravy,1,0,,175.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,65.0
+Sandwiches,Bread Butter Sandwich,1,0,,55.0
+Sandwiches,Club Sandwich,1,0,"Two slice sandwich; stuffed with mashed potato masala, sauted bellpeppers & onions; served ... read more",160.0
+Sandwiches,Exotic Grilled Sandwich,1,0,Two slice sandwich; stuffed with exotic veggies & mozarella; served with fries & ... read more,160.0
+Sandwiches,Mexican Grilled Sandwich,1,0,"Two slice sandwich; stuffed with mexican beans, sauted bell peppers & onions; served ... read more",160.0
+Sandwiches,Paneer Tikka Sandwicch,1,0,"Two slices of toast bread; stuffed with capsicum, onion, tomato & paneer marinated ... read more",190.0
+Sandwiches,Veg Cheese Sandwich,1,0,,110.0
+Sandwiches,Vegetable Cheese Grilled Sandwich,1,0,Two slice sandwich; served with fries & coleslaw,150.0
+Sandwiches,Vegetable Grilled Sandwich,1,0,Two slice sandwich; served with fries & coleslaw,125.0
+Sandwiches,Vegetable Sandwich,1,0,,80.0
+Fresh Dough Sandwiches,Cheese Mushroom Sandwich,1,0,,175.0
+Fresh Dough Sandwiches,Paneer Tikka Sandwich (Fresh Dough),1,0,,185.0
+Fresh Dough Sandwiches,Veggie Delight,1,0,,175.0
+On Toast,Avocado Toast,1,0,,210.0
+On Toast,Baked Beans In Toast,1,0,,185.0
+On Toast,Cheese Chilli Toast,1,0,,175.0
+On Toast,Spinach Corn Toast,1,0,,175.0
+On Toast,Toast With Butter,1,0,,65.0
+On Toast,Toast With Nutella,1,0,,125.0
+On Toast,Toast With Peanut Butter,1,0,,80.0
+Rolls,Classic Veggie Roll,1,0,,160.0
+Rolls,Manchurian Roll,1,0,,175.0
+Rolls,Mexican Salsa Roll,1,0,,175.0
+Rolls,Paneer Schezwan Roll,1,0,,185.0
+Rolls,Tandoori Paneer Roll,1,0,,185.0
+Desserts,American Nuts Ice Cream,1,0,,65.0
+Desserts,Badam Carnival,1,0,,70.0
+Desserts,Butterscotch Ice Cream,1,0,,70.0
+Desserts,Chocolate Chips Ice Cream,1,0,,65.0
+Desserts,Cookies N Cream,1,0,,65.0
+Desserts,Rich Chocolate Ice Cream,1,0,,60.0
+Desserts,Strawberry Ice Cream,1,0,,55.0
+Desserts,Vanilla Ice Cream,1,0,,50.0
+Pancakes,Banana Caramel Pancake,1,0,,190.0
+Pancakes,Caramelised Apple Pancake,1,0,,190.0
+Pancakes,Classic Maple Pancake,1,0,,175.0
+Pancakes,Nutella Pancake,1,0,,215.0
+Pancakes,Strawberry Pancake,1,0,,190.0
+Drinks (Beverages),Apple O Jack,1,0,"Apple juice, vanilla ice cream and rose syrup.",165.0
+Drinks (Beverages),Blue Angel Cooler,1,0,Citrus hints with blue curacao topped with lemonade.,155.0
+Drinks (Beverages),Blueberry Mojito,1,0,Virgin cuban mojitos with blueberry juice.,155.0
+Drinks (Beverages),Dark Mojito,1,0,"Lime mojito with refreshing mint, lemon and Thums Up.",150.0
+Drinks (Beverages),Ginger Mojito,1,0,Virgin cuban mojitos with refreshing ginger and lemon.,150.0
+Drinks (Beverages),Green Apple Mojito,1,0,Virgin cuban mojitos with green apple juice.,155.0
+Drinks (Beverages),Green Lady Cooler,1,0,"Lemonade, kiwi crush and lemon juice.",155.0
+Drinks (Beverages),Mint Mojito,1,0,Virgin cuban mojitos with refreshing mint and lemon flavor.,150.0
+Drinks (Beverages),Paradise Island Cooler,1,0,"Litchi crush, strawberry juice and litchi juice.",160.0
+Drinks (Beverages),Pina Cobbler,1,0,"Pineapple juice, strawberry crush, lemon and sparkling water.",160.0
+Drinks (Beverages),Safe Kiss On The Beach,1,0,"Peach syrup, pineapple juice and cranberry juice.",160.0
+Drinks (Beverages),Banana Shake,1,0,,135.0
+Drinks (Beverages),Banoffee Shake,1,0,,150.0
+Drinks (Beverages),Chikoo Shake,1,0,,135.0
+Drinks (Beverages),Chocolate Shake,1,0,,160.0
+Drinks (Beverages),Kit Kat Shake,1,0,,185.0
+Drinks (Beverages),Mango Shake,1,0,,160.0
+Drinks (Beverages),Nutella Shake,1,0,,195.0
+Drinks (Beverages),Oreo Shake,1,0,,185.0
+Drinks (Beverages),Strawberry Shake,1,0,,160.0
+Drinks (Beverages),Vanilla Caramel Shake,1,0,,175.0
+Drinks (Beverages),Walnut Brownie Shake,1,0,,195.0
+Drinks (Beverages),Apple Juice,1,0,,110.0
+Drinks (Beverages),Carrot And Beetroot Juice,1,0,,110.0
+Drinks (Beverages),Pineapple Juice,1,0,,110.0
+Drinks (Beverages),Sweet Lime Juice,1,0,,110.0
+Drinks (Beverages),Watermelon Juice,1,0,,110.0

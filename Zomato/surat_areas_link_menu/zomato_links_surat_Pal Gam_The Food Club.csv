@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Manchow Soup,1,0,"A thick soup made from finely cut vegetables, tomatoes and ginger garlic with ... read more",220.0
+Soups,Veg Clear Soup [400 ml],1,0,A thick soup made from finely cut vegetables boiled with water topped with ... read more,220.0
+Soups,Lemon Coriander Soup,1,0,"A clear vegetable soup made with mixed vegetables, lemon and coriander leaves. Its ... read more",220.0
+Soups,Hot and Sour Soup,1,0,,220.0
+Chinese,Manchurian Dry,1,0,"A crispy starter snack of fried veg balls tossed in the spicy, sweet, ... read more",249.0
+Chinese,Schezwan Manchurian Dry,1,0,,239.0
+Chinese,Paneer Manchurian Dry,1,0,[Veg preparation],259.0
+Chinese,Veg 65 [450 ml],1,0,,249.0
+Chinese,Paneer 65,1,0,500 ml Plastic Container,289.0
+Chinese,Paneer Butter Pepper Garlic,1,0,"Paneer cubes stir fried with pepper, garlic, capsicum, Chinese sauces and topped with ... read more",289.0
+Chinese,Paneer Chilli Dry,1,0,"A delicious starter snack, paneer fried with flavorful spicy tangy sauce with capsicum ... read more",309.0
+Chinese,Sauteed Paneer with Exotic Vegetable [500 ml],1,0,,329.0
+Chinese,Crispy Veg Butter Pepper Garlic [650 ml],1,0,[Veg preparation],299.0
+Chinese,Crispy Corn in Salt N Pepper [450 ml],1,0,,219.0
+Chinese,Crispy Corn in Schezwan Sauce [450 ml],1,0,,219.0
+Chinese,Crispy Veg in Schezwan Sauce [650 ml],1,0,,239.0
+Chinese,Crispy Paneer with Schezwan Sauce,1,0,,299.0
+Chinese,Vegetable Chinese Gravy,1,0,500 ml Plastic Container,219.0
+Chinese,Manchurian Gravy,1,0,"A Chinese main course with fried veg balls tossed in the spicy, sweet, ... read more",229.0
+Chinese,Mixed Chinese Gravy,1,0,,259.0
+Chinese,Paneer Chinese Gravy,1,0,500 ml Plastic Container,265.0
+Chinese,Bombay Style Bhel [Sweet],1,0,,199.0
+Chinese,Chinese Bhel,1,0,"Fried noodles, perked up with crunchy veggies like cabbage, carrot, capsicum and spring ... read more",239.0
+Chinese,Taiwan Bhel,1,0,660 ml Silver Container,249.0
+Chinese,Vegetable Fried Rice,1,0,Rice stir fried with vegetables in a traditional wok with spicy masala.,209.0
+Chinese,Schezwan Fried Rice,1,0,"Hot and spicy fried rice with bursting flavors of ginger, garlic, soya sauce ... read more",219.0
+Chinese,Burnt Garlic Fried Rice,1,0,Rice stir fried with vegetables and burnt garlic in a traditional wok with ... read more,229.0
+Chinese,Singapore Fried Rice,1,0,660 ml Silver Container,239.0
+Chinese,Manchurian Fried Rice,1,0,,239.0
+Chinese,Mexican Rice [650 ml] with Veg Gravy [300 ml],1,0,"A fusion meal lightly spiced rice with corn, tomato, garlic, onion and jalapeno ... read more",329.0
+Chinese,Mexican Rice [650 ml] with Paneer Gravy [300 ml],1,0,"A fusion meal lightly spiced rice with corn, tomato, garlic, onion and jalapeno ... read more",349.0
+Chinese,Mexican Rice [650 ml] with Cheese Gravy [300 ml],1,0,"A fusion meal lightly spiced rice with corn, tomato, garlic, onion and jalapeno ... read more",369.0
+Chinese,Schezwan Noodles,1,0,"Noodles stir fried and tossed in schezwan spicy masala with capsicum, onion, cabbage ... read more",209.0
+Chinese,Veg Hakka Noodles,1,0,"Noodles stir fried and tossed with capsicum, onion, cabbage and sauce.",229.0
+Chinese,Chowmein Noodles,1,0,Street style stir fried noodles with lots of vegetables.,229.0
+Chinese,Chilli Garlic Noodles,1,0,Boiled noodles tossed in a spicy chilli garlic sauce and stir fried in ... read more,229.0
+Chinese,Hakka Noodles with Manchurian,1,0,,229.0
+Stuffed Kulcha,Tandoori Paneer Cheese Stuffed Kulcha,1,0,Soft and fluffy kulchas stuffed with tandoori paneer and vegetables served with dip ... read more,299.0
+Stuffed Kulcha,South West Stuffed Kulcha,1,0,,279.0
+Baked Dish,Baked Veg Au Gratin,1,0,,379.0
+Baked Dish,Baked Macaroni With Pineapple,1,0,,389.0
+Baked Dish,Spicy Italian Baked Veg,1,0,,379.0
+Sandwiches,Bread Butter Sandwich,1,0,,79.0
+Sandwiches,Bread Butter Grilled Sandwich,1,0,,79.0
+Sandwiches,Only Vegetable Sandwich,1,0,,89.0
+Sandwiches,Only Vegetable Grilled Sandwich,1,0,"Two slices of bread grilled stuffed with slices of onion, tomato capsicum.",99.0
+Sandwiches,Vegetable and Cheese Grilled Sandwich,1,0,,229.0
+Sandwiches,Vegetable and Aloo Masala Cheese Grilled,1,0,,239.0
+Sandwiches,Club Cheese Heaven Sandwich,1,0,"Onion, tomato, capsicum, sweet corn sandwiched between two slices of bread stuffed with ... read more",299.0
+Pizza and Garlic Breads,Only Cheese Pizza [8 inches],1,0,,239.0
+Pizza and Garlic Breads,Margherita Pizza [8 inches],1,0,A classic pizza with loads of mozarella cheese.,269.0
+Pizza and Garlic Breads,Onion Tomato Capsicum Pizza [8 inches],1,0,"Most popular pizza topped with onion ,tomato ,capsicum and exotic herbs.",279.0
+Pizza and Garlic Breads,5 Pepper Pizza [8 inches],1,0,"An exotic pizza with topped with red bell pepper, yellow bell pepper, capsicum, ... read more",299.0
+Pizza and Garlic Breads,Italian Pizza [8 inches],1,0,,309.0
+Pizza and Garlic Breads,Classic Veg Pizza [8 inches],1,0,,339.0
+Pizza and Garlic Breads,New Delhi Tandoori Pizza [8 inches],1,0,,349.0
+Pizza and Garlic Breads,Veg Supreme Pizza [8 inches],1,0,"An exotic pizza with topped with sweet corn, mixed peppers, onions, spinach, mushrooms, ... read more",369.0
+Pizza and Garlic Breads,Cheese Garlic Bread,1,0,,209.0
+Pizza and Garlic Breads,Chilli Cheese Garlic Bread,1,0,,239.0
+Pizza and Garlic Breads,Veg Cheese Bruschetta [4 Pieces},1,0,,259.0
+Burgers and Fries,Vegetable Aloo Tikki Burger,1,0,Jain preparation not available.,99.0
+Burgers and Fries,Veg Cheese Aloo Tikki Burger,1,0,Jain preparation not available.,129.0
+Burgers and Fries,Jain Banana Tikki Burger,1,0,,179.0
+Burgers and Fries,Spicy Paneer Burger,1,0,A delicious spicy burger with a crispy golden paneer patty topped with veggies ... read more,199.0
+Burgers and Fries,Salted French Fries [450 ml],1,0,,159.0
+Burgers and Fries,Peri Peri French Fries [450 ml],1,0,Crispy French fries with peri peri masala. [Serves 1],169.0
+Burgers and Fries,Banana French Fries [450 ml],1,0,French Fries [Jain],169.0
+Pasta,Arrabiata Red Sauce Pasta,1,0,,319.0
+Pasta,Alfredo White Sauce Pasta,1,0,Spicy & tangy red sauce penne pasta mixed with crunchy vegetables.,329.0
+Pasta,Mixed Sauce Pasta,1,0,,349.0
+Pasta,Chilli Chinese Pasta,1,0,,349.0
+Pasta,Alfredo Pasta with Exotic Vegetables,1,0,,369.0
+Accompaniments,Roasted Papad [2 Pieces],1,0,,35.0
+Accompaniments,Fried Papad [2 Pieces],1,0,,35.0
+Accompaniments,Curd [300 ml],1,0,,80.0
+Accompaniments,Green Salad,1,0,,90.0
+Accompaniments,Veg Raita [300 ml],1,0,,110.0
+Accompaniments,Pineapple Raita [300 ml],1,0,,110.0
+Chaas and Lassi,Masala Butter Milk [300 Ml],1,0,,60.0
+Chaas and Lassi,Sweet Lassi [300 ml],1,0,,100.0
+Chaas and Lassi,Salted Lassi [300 ml],1,0,,100.0
+Chaas and Lassi,Hot Coffee [250 ml],1,0,,80.0

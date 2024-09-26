@@ -1,0 +1,38 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Halwa,Dudh Badam Halwa,1,0,,150.0
+Halwa,Dhudhi Halwa,1,0,,150.0
+Halwa,Chickoo Halwa,1,0,,150.0
+Halwa,Samrat Halwa,1,0,,150.0
+Halwa,Trirangi Halwa,1,0,,150.0
+Halwa,Bombay Halwa,1,0,,150.0
+Halwa,Karachi Halwa,1,0,,150.0
+Halwa,Akhrot Halwa,1,0,,150.0
+Farsan,Khajili,1,0,,150.0
+Farsan,Gagan Gathiya,1,0,,150.0
+Farsan,Farari Chevdo,1,0,,100.0
+Barfi,Malai Barfi,1,0,,150.0
+Barfi,Surti Barfi,1,0,,150.0
+Peda,Surti Peda,1,0,,150.0
+Peda,Kesar Malai Peda,1,0,,150.0
+Laddu,Moti Chur Laddu,1,0,,150.0
+Laddu,Besan Fry fruit Laddu,1,0,,150.0
+Ghari,Badam Pista Ghari,1,0,,200.0
+Ghari,Kesar Badam Pista Ghar,1,0,,225.0
+Paak,Maisur Paak,1,0,,150.0
+Delicious Mithai,Chocolate Lava Cake,1,0,,150.0
+Delicious Mithai,Milk Cake,1,0,,150.0
+Delicious Mithai,Gulab Jamun,1,0,,25.0
+Delicious Mithai,Rasgulla,1,0,,25.0
+Delicious Mithai,Kaju Anjeer Patra,1,0,,225.0
+Delicious Mithai,Angoor Rabdi,1,0,,100.0
+Delicious Mithai,Rasmalai,1,0,,100.0
+Delicious Mithai,Sutrfinni,1,0,,150.0
+Delicious Mithai,Ghewar,1,0,,150.0
+Delicious Mithai,Sonapapdi,1,0,,120.0
+Delicious Mithai,Kaju Katri,1,0,,225.0
+Combos,Mini Kachori [100 grams] with Milk Cake [2 Pieces],1,0,,110.0
+Combos,Falahari Chivda with Kalakand [4 Pieces],1,0,Falahari Chivda with Kalakand [4 Pieces],120.0
+Combos,Bikaneri Bhujia [100 grams] with Motichoor Ladoo [2 Pieces],1,0,,90.0
+Combos,Kela Wafer [125 grams] with Gulab Jamun [2 Pieces],1,0,,110.0
+Combos,Surati Bhusu [100 grams] with Ghari [1 Piece],1,0,,110.0
+Combos,Mini Dry Samosa [100 grams] with Kala Jamun [2 Pieces],1,0,,110.0

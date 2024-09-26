@@ -1,0 +1,29 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bhajiya and Vada,Gota,1,0,"Fried fritters made with a secret ingredient and aromatic spices, creating a unique ... read more",130.0
+Bhajiya and Vada,Patties,1,0,,130.0
+Bhajiya and Vada,Batata Vada,1,0,,130.0
+Bhajiya and Vada,Batata Puri,1,0,Surti bataka puri it's delicious healthy and tasty.,130.0
+Bhajiya and Vada,Dal Vada,1,0,,130.0
+Bhajiya and Vada,Cutlet,1,0,,150.0
+Bhajiya and Vada,Ratalu Puri,1,0,,250.0
+Gathiya and Fafda,Sada Gathiya,1,0,,150.0
+Gathiya and Fafda,Tikhi Gathiya,1,0,,150.0
+Gathiya and Fafda,Jada Gathiya,1,0,,150.0
+Gathiya and Fafda,Papdi,1,0,A crunchy and flavorful mix that's both savory and sweet.,150.0
+Gathiya and Fafda,Tikhi Papdi,1,0,A crunchy and flavorful mix that's both savory and sweet.,150.0
+Gathiya and Fafda,Fafda,1,0,,230.0
+Gathiya and Fafda,Plain Sev,1,0,,150.0
+Samosa,Chana Dal Samosa,1,0,,130.0
+Khandvi / Patudi,Patudi Khandvi,1,0,A mouthwatering traditional gujarati snack prepared with gram flour and buttermilk and seasoned ... read more,120.0
+Khaman,Nylon Khaman,1,0,A steamed and savoury snack that melts in your mouth.,120.0
+Khaman,Vagharela Khamana,1,0,A savory and fluffy jay chamunda farsan mart with a flavorful tempering.,120.0
+Khaman,Plain Khaman,1,0,"Fluffy and tangy, this jay chamunda farshan mart is a delightful veg snack.",90.0
+Khaman,Amiri Khamani,1,0,,120.0
+Idada,Plain Idada,1,0,A simple yet satisfying vegetarian delight.,90.0
+Idada,Oil Idada,1,0,A soft and savory vegetarian idada dish with rich and flavorful oil.,110.0
+Idada,Vagharela Idada,1,0,A savory and flavorful vegetarian idada dish.,120.0
+Jalebi and Boondi,Boondi [Desi Ghee],1,0,,230.0
+Jalebi and Boondi,Ghee Kesariya Jalebi,1,0,,230.0
+Farsan,Surti Bhusu,1,0,,150.0
+Farsan,Makai Chevdo,1,0,,150.0
+Farsan,Poha Chevdo,1,0,,150.0

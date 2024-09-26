@@ -1,0 +1,23 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Creams,Mawa Kulfi,1,0,,13.0
+Ice Creams,Chaupati Kulfi,1,0,,30.0
+Ice Creams,Rajbhog Kulfi,1,0,,40.0
+Ice Creams,American Dry Fruit Ice Cream,1,0,,45.0
+Ice Creams,Rajbhog Ice Cream,1,0,,45.0
+Ice Creams,Chocolate Ice Cream,1,0,,45.0
+Ice Creams,Mawa Malai Ice Cream,1,0,,45.0
+Ice Creams,Kaju Cadbury Ice Cream,1,0,,45.0
+Ice Creams,Shahi Gulab Ice Cream,1,0,,45.0
+Ice Creams,Vanilla Ice Cream,1,0,,35.0
+Desserts,Fruit Salad,1,0,,40.0
+Desserts,Falooda,1,0,,75.0
+Desserts,Fruit Salad with Ice Cream,1,0,,55.0
+Drinks (Beverages),Badam Shake,1,0,,70.0
+Drinks (Beverages),Coco,1,0,,40.0
+Drinks (Beverages),Badam Shake with Ice Cream,1,0,,85.0
+Drinks (Beverages),Coco with Ice Cream,1,0,,55.0
+Drinks (Beverages),Lassi,1,0,,40.0
+Drinks (Beverages),Lassi with Ice Cream,1,0,,55.0
+Drinks (Beverages),Kaju Coco,1,0,,55.0
+Drinks (Beverages),Cadbury Coco,1,0,,55.0
+Drinks (Beverages),Kaju Lassi,1,0,,55.0

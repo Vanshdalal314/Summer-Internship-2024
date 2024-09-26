@@ -1,0 +1,27 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Hasti Special,Aloo Chaat,1,0,,140.0
+Hasti Special,Pizza Toast Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",145.0
+Hasti Special,Bombay Toast Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",145.0
+Hasti Special,Bread Butter Chutney Cheese Toast,1,0,,145.0
+Hasti Special,Double Cheese Pizza Toast,1,0,,155.0
+Hasti Special,Cocktail Sandwich,1,0,,155.0
+Hasti Special,Paneer Cheese Pizza Toast Sandwich,1,0,,155.0
+Hasti Special,Aloo Matar Cheese Toast,1,0,,160.0
+Hasti Special,Veg Cheese Grilled Sandwich,1,0,,240.0
+Sandwich,Veg Sandwich,1,0,Fresh bread stuffed with crunchy vegetables and served with chutney.,95.0
+Sandwich,Jam Cheese Sandwich,1,0,,100.0
+Sandwich,Veg Cheese Sandwich,1,0,"A delightfully flavorsome preparation of a delectable veg sandwich stuffed with cheese ,tomatoes, ... read more",135.0
+Snacks,Bread Butter Single Slice,1,0,,38.0
+Snacks,Bread Butter [3 Slices],1,0,,95.0
+Snacks,Bread Butter Chutney,1,0,Wheat bread enriched by added quantities of butter served with a flavour of ... read more,95.0
+Snacks,Bread Jam,1,0,Bread slice with butter & jam generously served over it.,95.0
+Snacks,Bread Butter Aloo,1,0,,95.0
+Snacks,Bread Butter Chutney Aloo,1,0,Wheat bread enriched by added quantities of butter with stuffed potato served with ... read more,95.0
+Snacks,Bread Butter Cheese,1,0,,135.0
+Snacks,Bread Butter Jam Cheese,1,0,,135.0
+Snacks,Bread Butter Chutney Cheese,1,0,Wheat bread enriched by added quantities of cheese served with a flavour of ... read more,135.0
+Snacks,Bread Butter Aloo Cheese,1,0,Wheat bread with stuffed potato served with generous slice of cheese.,135.0
+Snacks,Bread Butter Chutney Aloo Cheese,1,0,,135.0
+Snacks,Bread Butter Aloo Cheese Toast,1,0,,140.0
+Snacks,Bread Butter Chutney Aloo Cheese Toast,1,0,,140.0
+Snacks,Bread Butter Cheese Toast,1,0,,145.0

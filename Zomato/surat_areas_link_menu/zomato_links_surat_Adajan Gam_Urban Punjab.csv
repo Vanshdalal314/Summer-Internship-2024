@@ -1,0 +1,161 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Dilliwali Thali,1,0,Non Jain..Shahi paneer + Dal makhni+ 2 lachha parantha+ veg raita+salad+achaar,279.0
+Thali,Punjabi Thali With Tandoori Roti,1,0,[NON JAIN] Paneer sabzi + veg sabzi + dal+ 2 tandoori roti+ rice ... read more,299.0
+Thali,Punjabi Thali With Tawa Roti,1,0,[NON JAIN] Paneer sabzi + veg sabzi + dal+ 3 tawa roti + ... read more,289.0
+Thali,Special Amritsari Chhole Kulcha,1,0,[Non Jain]Amritsari Kulcha+ Punjabi Cholle |1Serve| |Gravy| |Medium spicy|,279.0
+Starters,3 Flavour Stuffed Chaap,1,0,Stuffed Chaap in 3 different flavours,450.0
+Starters,Achari Chaap {15 Pcs},1,0,Tickle with Pickle!! Choicest cuts of soyabean chaap marinated in flavoured yoghurt with ... read more,350.0
+Starters,Afghani Chaap Dry {15 Pcs},1,0,"Choice cuts of soyabean chaap marinated overnight in cahew nut based masala,flavoured yoghurt ... read more",320.0
+Starters,Afghani Chaap Tikka {15 Pcs},1,0,,360.0
+Starters,Chatpati Chaap {15 Pcs},1,0,"Medium spicy.lemony,red",330.0
+Starters,Cheese Malai Chaap {15 Pcs},1,0,"Marinated Soyabean Chaap In Hung Curd Mixed With Condiments,Secret Herbs And Veggies Like ... read more",380.0
+Starters,Cheese Malai Stuffed Chaap,1,0,Mild in taste,430.0
+Starters,Chilly Garlic Bullet Chaap,1,0,Stuffed chaap in chilly garlic flavour,380.0
+Starters,Chilly Garlic Chaap {15 Pcs},1,0,,340.0
+Starters,Garlic Chaap With Cream {15 Pcs},1,0,Chaap prepared in Cream with a hint of garlic.medium spicy|Gravy| |Medium spicy|,370.0
+Starters,Garlic Chaap {15 Pcs},1,0,Eat healthy to stay healthy!! Soyabean chaap marinated in yoghurt with secret ... read more,330.0
+Starters,Hariyali Chaap {15 Pcs},1,0,"Green,medium spicy",320.0
+Starters,Hyderabadi Chaap {15 Pcs},1,0,"Perfectly diced soyabean chaap marinated in yoghurt with fine paste of green chillies,mint ... read more",330.0
+Starters,Kali Mirch Chaap {15 Pcs},1,0,"Choicest cuts of Soyabean Chaap marinated in yoghurt with spices,blackpepper finished in fresh ... read more",360.0
+Starters,Lahori Chaap {15 Pcs},1,0,Non Jain,350.0
+Starters,Malai Chaap {15 Pcs},1,0,"Marinated Soyabean Chaap In Hung Curd Mixed With Condiments,Secret Herbs And Veggies Like ... read more",360.0
+Starters,Malai Stuffed Chaap,1,0,Whole Soyabean Chaap stuffed with masala paneer and cashew nuts marinated in flavoured ... read more,390.0
+Starters,Masala Chaap {15 Pcs},1,0,"Choice cuts of soyabean chaap marinated overnight with mustard,flavoured yoghurt , special spices ... read more",320.0
+Starters,Masala Stuffed Chaap,1,0,Whole Soyabean Chaap stuffed with masala paneer marinated in yoghurt with special spices,340.0
+Starters,Schezwan Chaap {15 Pcs},1,0,Signature preparation of soyabean chaap marinated in chef special spicy masala and grilled ... read more,330.0
+Starters,Schezwan Stuffed Chaap,1,0,"Stuffed chaap tossed in hot n spicy sauce,Red",380.0
+Starters,Achari Paneer Tikka,1,0,Tickle with pickle,340.0
+Starters,Cheese Malai Paneer Tikka,1,0,Mild in taste,390.0
+Starters,Hariyali Paneer Tikka,1,0,With a hint of mint and fresh coriander,340.0
+Starters,Hydrabadi Paneer Tikka,1,0,,350.0
+Starters,Kali Mirch Paneer Tikka,1,0,With a hint of kali mirch,360.0
+Starters,Malai Paneer Tikka,1,0,Mild in taste,380.0
+Starters,Paneer Tikka,1,0,Masala paneer tikka|Gravy| |Medium spicy|,320.0
+Starters,Schezwan Paneer Tikka,1,0,Tossed in schezwan sauce,340.0
+Starters,Cheese Malai Mushroom Tikka,1,0,For Cheese Lovers,390.0
+Starters,Malai Mushroom Tikka,1,0,Mild in taste,380.0
+Starters,Mushroom Tikka,1,0,"Yellow,Medium spicy",320.0
+Starters,Schezwan Mushroom Tikka,1,0,"Tossed in Schezwan sauce,Red,Spicy",340.0
+Main Course,Kadhai Paneer,1,0,Sultry And Spicy Recipe That Balances By Succulent And Terrific Crispy-On-Sides Paneer In ... read more,290.0
+Main Course,Kali Mirch Lemon Paneer,1,0,,290.0
+Main Course,Matar Paneer,1,0,"Red,Medium Spicy",270.0
+Main Course,Palak Paneer,1,0,Evergreen cottage cheese dish cooked in spinach and tomato based gravy with special ... read more,280.0
+Main Course,Paneer Angara,1,0,"Red,Hot N Spicy|Gravy| |Medium spicy|",290.0
+Main Course,Paneer Bhurji,1,0,"Yellow,Dry,Spicy",310.0
+Main Course,Paneer Butter Masala,1,0,Masala-Pure Indian Spices And The Ever Famous Tomato Onion Puree Tossed With Amul ... read more,250.0
+Main Course,Paneer Do Pyaza,1,0,A dish tickling your taste buds made with diced cottage cheese simmered in ... read more,280.0
+Main Course,Paneer Handi,1,0,"Red,Medium Spicy,Paneer,capsicum,Onion",280.0
+Main Course,Paneer Jalfrezi,1,0,"Paneer,Capsicum in Julian cutting,Red Gravy,Medium Spicy",290.0
+Main Course,Paneer Kkaleji,1,0,"Brown Gravy,Spicy",290.0
+Main Course,Paneer Korma,1,0,Our favourite Paneer cooked in special Qorma gravy with secret spices,280.0
+Main Course,Paneer Lababdar,1,0,Finely diced cottage cheese and chpped capsicum cooked in thick creamy tomato gravy ... read more,290.0
+Main Course,Paneer Makhani,1,0,Evergreen Cottage cheese cooked in chef special tomato gravy enriched with fresh cream,310.0
+Main Course,Paneer Patiyala,1,0,For those who love hot spices..paneer cooked with the traditional spices in tomato ... read more,290.0
+Main Course,Paneer Taka Tak,1,0,"Paneer Cubes with Capsicum and Onion in Red Gravy,Medium Spicy",290.0
+Main Course,Paneer Tawa Masala,1,0,Cottage cheese with capsicum and onions simmered in thick onion and tomato masala ... read more,290.0
+Main Course,Paneer Tikka Masala,1,0,"Yellow,Smokey Flavour,Spicy",290.0
+Main Course,Paneer Toofani,1,0,Hot n Spicy..,310.0
+Main Course,Shahi Paneer,1,0,"Cottage cheese cooked in tomato and cashew nut gravy,scented with khoya and cardamom ... read more",320.0
+Main Course,Banarasi Dum Aloo Bharwa,1,0,"Red,Medium Spicy",290.0
+Main Course,Jeera Aloo,1,0,Popular Indian side dish made with potatoes and cumin seeds.,240.0
+Main Course,Matar Methi Masala Malai,1,0,White,290.0
+Main Course,Mix Veg,1,0,"Red,Medium Spicy",260.0
+Main Course,Veg Diwani Handi,1,0,"Finely Chopped Vegetables in Green Gravy,Medium Spicy",270.0
+Main Course,Veg Kolhapuri,1,0,"Red,Spicy",270.0
+Main Course,Veg Makhanwala,1,0,"Yellow,Mild",270.0
+Main Course,Veg Tawa Masala,1,0,"Red,Medium Spicy",260.0
+Main Course,Dal Dhabewali,1,0,,240.0
+Main Course,Dal Fry,1,0,Classy yellow dal prepared with spices,220.0
+Main Course,Dal Makhani,1,0,Whole Urad Dal And Rajma Are Combined To Add A Holistic Taste To ... read more,270.0
+Main Course,Dal Tadka,1,0,"The traditional punjabi tuvar dal cooked with hing,garlic and jeera to give it ... read more",240.0
+Main Course,Punjabi Chole,1,0,Chickpeas cooked to perfection in 'Punjabi Style',240.0
+Main Course,Rajma Masala,1,0,Rajma made in shahi andaaz recipe,250.0
+Main Course,Cheese Angoori,1,0,|Gravy| |Medium spicy|,320.0
+Main Course,Cheese Butter Masala,1,0,,320.0
+Main Course,Chesee Lababdar,1,0,,320.0
+Main Course,Chesee Paneer Butter Masala,1,0,,310.0
+Main Course,Afghani Khoya Kaju,1,0,500Ml,320.0
+Main Course,Cheese Kaju Curry,1,0,500Ml,320.0
+Main Course,Kaju Curry Masala,1,0,500Ml,330.0
+Main Course,Ginger Lemon Mushroom Curry,1,0,"Red,Medium Spicy",290.0
+Main Course,Kadhai Mushroom,1,0,Fresh sliced mushrooms stir fried with capsicum tomatoes and diced onions simmered in ... read more,290.0
+Main Course,Matar Mushroom,1,0,Green peas and sliced mushrooms simmered in thick tomato gravy with special spices,270.0
+Main Course,Mushroom Butter Masala,1,0,"Red,Medium Spicy",280.0
+Main Course,Mushroom Do Pyaza,1,0,A dish tickling your taste buds made with sliced mushrooms simmered in tomato ... read more,290.0
+Main Course,Mushroom Makhanwala,1,0,"Light Yellow,Mild",290.0
+Main Course,Mushroom Tikka Masala,1,0,"Yellow,Medium Spicy",280.0
+Main Course,Malai Kofta,1,0,,310.0
+Main Course,Veg Kofta,1,0,Minced vegetables kofta in spicy brown gravy.,270.0
+Main Course,Amritsari Chaap Korma,1,0,"Red,Medium Spicy",300.0
+Main Course,Bhuna Masala Chaap,1,0,,310.0
+Main Course,Chaap Butter Masala,1,0,An indulgent and flavorful vegetarian dish with a rich buttery masala sauce that ... read more,290.0
+Main Course,Chaap Tikka Masala,1,0,500 Ml,310.0
+Main Course,Delhi Wali Kalimirch Lemon Chaap,1,0,Dilli Da Tadka!! Finely diced Soyabean chaap simmered in tomato onion gravy tempered ... read more,370.0
+Main Course,Ginger Lemon Chaap,1,0,"Red,Medium Spicy",290.0
+Main Course,Kadhai Chaap,1,0,"Red,Spicy",290.0
+Main Course,Special Chaap Kkaleji,1,0,,290.0
+Main Course,Tawa Chaap,1,0,"Red,Medium Spicy",300.0
+Breads,Aloo Paratha With Dal Makhni,1,0,,250.0
+Breads,Amritsari Tandoori Kulcha,1,0,,120.0
+Breads,Butter Naan,1,0,,75.0
+Breads,Butter Roomali Roti,1,0,,75.0
+Breads,Tandoori Butter Roti,1,0,|1Pc| |1Serve| |Dry|,39.0
+Breads,Cheese Garlic Naan,1,0,North Indian bread with a generous serving of cheese that tastes brilliant when ... read more,150.0
+Breads,Cheese Naan,1,0,North Indian bread with a generous serving of cheese that tastes brilliant when ... read more,150.0
+Breads,Cheese Paratha With Dal Makhni,1,0,,290.0
+Breads,Garlic Naan,1,0,North Indian bread with a rich undertone of garlic that tastes brilliant when ... read more,95.0
+Breads,Gobi Paratha With Dal Makhni,1,0,,270.0
+Breads,Home Style Tawa Parantha,1,0,,59.0
+Breads,Lachha Paratha,1,0,A yummy and soft paratha that serves as a perfect side!,65.0
+Breads,Missi Roti,1,0,"Wholesome and soft roti made from wheat flour, gram flour and seasoned with ... read more",70.0
+Breads,Mix Paratha With Dal Makhni,1,0,,250.0
+Breads,Paneer Paratha With Dal Makhni,1,0,,290.0
+Breads,Plain Naan,1,0,|1Pc| |1Serve| |Dry|,65.0
+Breads,Pyaaz Paratha With Dal Makhni,1,0,,250.0
+Breads,Roomali Roti,1,0,,65.0
+Breads,Tandoori Roti,1,0,Super soft roti that is cooked to perfection in a tandoor.,35.0
+Breads,Stuffed Naan,1,0,"Soft naan with a delicious stuffing, cooked to perfection.",120.0
+Breads,Tawa Butter Roti,1,0,|1Pc| |1Serve| |Dry|,25.0
+Breads,Tawa Roti,1,0,|1Pc| |1Serve| |Dry|,19.0
+Rice And Biryani,Chaap Biryani,1,0,With raita,290.0
+Rice And Biryani,Dal Khichdi,1,0,,270.0
+Rice And Biryani,Hyderabadi Biryani,1,0,|Dry| |Medium spicy,290.0
+Rice And Biryani,Jeera Rice,1,0,|Dry| |Medium spicy|,210.0
+Rice And Biryani,Matar Pulao,1,0,"Peas pulao is a quick, filling, flavour rice dish that is nutritious as ... read more",230.0
+Rice And Biryani,Mushroom Pesto Khichdi,1,0,Jain Not Available,320.0
+Rice And Biryani,Mushroom Tikka Biryani,1,0,With raita,290.0
+Rice And Biryani,Paneer Pulao,1,0,"Simple, aromatic, and healthy meal of paneer stir fried with rice.",270.0
+Rice And Biryani,Paneer Tikka Biryani,1,0,|Dry| |Medium spicy|,290.0
+Rice And Biryani,Plain Rice,1,0,Rice soaked and then boiled until completely cooked and served,190.0
+Rice And Biryani,Veg Biryani,1,0,,280.0
+Rice And Biryani,Veg Pulao,1,0,A wholesome dish prepared by cooking chopped vegetables and rice in a flavorful ... read more,250.0
+Chinese Dishes,Chilli Chaap,1,0,A mouthwatering preparation of succulent Soyabean Chunks pan-fried and tossed with assorted veggies ... read more,290.0
+Chinese Dishes,Chilli Gobi,1,0,,290.0
+Chinese Dishes,Chilli Mushroom,1,0,Crispy Mushroom chunks and lightly tossed in a spicy chilli sauce,280.0
+Chinese Dishes,Chilli Paneer,1,0,"Cubes fried cottage cheese with onion, capsicum & green chili",310.0
+Chinese Dishes,Chilli Potato,1,0,Crispy french fries sauteed in a sweet and spicy chinese sauce.,280.0
+Chinese Dishes,Chinese Bhel,1,0,,270.0
+Chinese Dishes,Honey Chilli Potato,1,0,An indulgent preparation with crispy potatoes tossed in flavorsome honey and chilli based ... read more,310.0
+Chinese Dishes,Manchurian,1,0,|Dry| |Medium spicy|,250.0
+Chinese Dishes,Schezwan Manchurian,1,0,,260.0
+Fried Rice And Noodles,Brunt Garlic Rice,1,0,,270.0
+Fried Rice And Noodles,Burnt Garlic Noodles,1,0,"A perfect chinese dish cooked with boiled noodles, veggies and a hint of ... read more",270.0
+Fried Rice And Noodles,Fried Rice,1,0,A deliciously aromatic and flavorful dish prepared from rice and stir-fried vegetables.,240.0
+Fried Rice And Noodles,Hakka Noodles,1,0,Hakka noodles are flavorful noodles tossed with vegetables,240.0
+Fried Rice And Noodles,Manchurian Noodles,1,0,A hot and spicy preparation with soft noodles and crispy Manchurian balls cooked ... read more,250.0
+Fried Rice And Noodles,Manchurian Rice,1,0,|Dry| |Medium spicy|,250.0
+Fried Rice And Noodles,Paneer Fried Rice,1,0,A delightfully delicious combo of paneer fried rice served with gobi Manchurian and ... read more,280.0
+Fried Rice And Noodles,Schezwan Rice,1,0,A wholesome dish with the aromatic Schezwan rice prepared with assorted fresh veggies ... read more,260.0
+Accompaniments,Roasted Papad,1,0,,60.0
+Rolls,Cheese Chaap Roll [4 Pieces],1,0,,440.0
+Rolls,Cheese Mushroom Roll [4 Pieces],1,0,,440.0
+Rolls,Cheese Paneer Roil [4 Pieces],1,0,,440.0
+Rolls,Spicy Chaap Roll [4 Pieces],1,0,,420.0
+Rolls,Spicy Mushroom Roll [4 Pieces],1,0,,420.0
+Rolls,Spicy Paneer Roll [4 Pieces],1,0,,420.0
+Soup,Hot N Sour Soup,1,0,Non Jain,190.0
+Soup,Lemon Corriander Soup,1,0,,190.0
+Soup,Manchow Soup,1,0,Non Jain,180.0
+Soup,Mushroom Cream Soup,1,0,Non Jain,210.0
+Desserts,Gulab Jamun 4 Pcs,1,0,4 Pcs,120.0
+Drinks (Beverages),Mineral Water [1 Litre],1,0,Finllay drinking water,50.0

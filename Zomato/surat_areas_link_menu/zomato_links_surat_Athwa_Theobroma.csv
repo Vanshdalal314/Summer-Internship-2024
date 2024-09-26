@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Mango Specials,Eggless Fresh Mango & Custard Cake [1/2kg],1,0,"Fresh mango pieces, mango diplomat cream and mango jam layered on vanilla sponge, ... read more",650.0
+Mango Specials,Eggless Mango Baked Cheesecake [1/2kg],1,0,"Mango and vanilla cheesecake marbled and baked on a biscuit base, with a ... read more",775.0
+Mango Specials,Mango & Baked Yoghurt Cup [100g],1,0,"Baked yoghurt with a mango glaze, garnished with whipped cream & a dice ... read more",175.0
+Mango Specials,Fresh Mango Tart [1 Piece],1,0,"Sweet tart shell, filled with house-made mango jam, vanilla sponge and topped with ... read more",150.0
+Cakes,Strawberry Custard Cake [1/2kg],1,0,"Strawberry jam and custard cream layered between soft vanilla sponge, decorated with strawberry ... read more",500.0
+Cakes,Eggless Rich Chocolate Cake [1/2kg],1,0,A traditional cake made by layering chocolate sponge with rich and smooth chocolate ... read more,595.0
+Cakes,Eggless Choco-Vanilla Oreo Cake [1/2kg],1,0,"A house-made Oreo & chocolate spread, an Oreo & vanilla cream and a ... read more",530.0
+Cakes,Eggless Butterscotch & Milk Chocolate Cake [1/2kg],1,0,"A moist butterscotch cake made with vanilla cream, house-made butterscotch sauce, crunchy butterscotch, ... read more",595.0
+Cakes,Eggless Black Forest Cake [472g],1,0,"A classic cake with layers of chopped cherries, whipped cream & chocolate sponge, ... read more",625.0
+Cakes,Eggless Dutch Truffle Cake [1/2kg],1,0,Dark chocolate ganache with chocolate sponge.,625.0
+Cakes,Eggless Fresh Cream Pineapple Cake [1/2kg],1,0,Fresh cream cake with home made pineapple compote.,650.0
+Cakes,Chocoholic Cake [1/2kg],1,0,"Three layers of chocolate mousse: white, milk and dark chocolate mousse layered in ... read more",725.0
+Cakes,Hazelnut Praline Mousse Cake [1/2kg],1,0,"Homemade Hazelnut praline, chocolate mousse sandwiched between chocolate sponge cake and covered with ... read more",800.0
+Cakes,Eggless Dutch Truffle Cake [1kg],1,0,Dark chocolate ganache with chocolate sponge.,1250.0
+Pastries,Strawberry Custard Pastry [1 Piece],1,0,"Strawberry jam and custard cream layered between soft vanilla sponge, decorated with strawberry ... read more",100.0
+Pastries,Eggless Choco-Vanilla Oreo Pastry [1 Piece],1,0,"A house-made Oreo & chocolate spread, an Oreo & vanilla cream and a ... read more",113.0
+Pastries,Eggless Rich Chocolate Pastry [1 Piece],1,0,"Chocolate sponge layered with rich and smooth chocolate cream, and decorated with dark ... read more",125.0
+Pastries,Eggless Butterscotch & Milk Chocolate Pastry [1 Piece],1,0,"Moist butterscotch pastry made with vanilla cream, homemade butterscotch sauce, crunchy butterscotch ... read more",120.0
+Pastries,Black Forest Pastry [1 Piece],1,0,"Traditional Black Forest pastry made with cherries, vanilla and chocolate cream layered between ... read more",130.0
+Pastries,Eggless Dutch Truffle Pastry [1 Piece],1,0,Dark chocolate ganache with chocolate sponge.,130.0
+Pastries,Eggless Fresh Cream Pineapple Pastry [1 Piece],1,0,Fresh cream cake with home made pineapple compote.,135.0
+Pastries,Chocoholic Pastry [1 Piece],1,0,"Three layers of chocolate mousse: white, milk and dark chocolate mousse.",150.0
+Pastries,Hazelnut Praline Mousse Pastry [1 Piece],1,0,"Homemade Hazelnut praline, chocolate mousse sandwiched between chocolate sponge cake and covered with ... read more",170.0
+Brownies,Eggless Outrageous Chocolate Brownie [1 Piece],1,0,Outrageous eggless brownie is loaded with chocolate and made with flax seeds and ... read more,120.0
+Brownies,Eggless Walnut Brownie [1 Piece],1,0,Eggless chocolate brownie topped with toasted walnuts.,110.0
+Brownies,Eggless Millionaire Brownie [1 Piece],1,0,Soft buttery caramel sandwiched between our chocolate chip brownie and layer of dark ... read more,120.0
+Brownies,Eggless Choco Chip Brownie [1 Piece],1,0,Eggless Chocolate brownie with chocolate chips.,110.0
+Brownies,Eggless Cookie Brownie [1 Piece],1,0,"Eggless chocolate chip brownie base, topped with a layer of chocolate chip cookie ... read more",110.0
+Brownies,Eggless Nutella Brownie [1 piece],1,0,"Eggless chocolate brownie topped with homemade hazelnut praline, hazelnut chunks & nutella.",120.0
+Brownies,Assorted Eggless Brownies Box [6 Pcs],1,0,"An assortment of signature Theobroma eggless brownies - Walnut brownie (1), Choco Chip ... read more",660.0
+Brownies,Assorted Eggless Brownies Box [9 Pcs],1,0,"An assortment of signature Theobroma eggless brownies - Walnut Brownies (2), Choco Chip ... read more",1020.0
+Brownies,Assorted Eggless Brownies Box [12 Pcs],1,0,"An assortment of signature Theobroma eggless brownies - Walnut brownies (2), Choco Chip ... read more",1320.0
+Desserts & Cupcakes,Chocolate & Hazelnut Cupcake [1 Piece],1,0,Dense chocolate cupcake filled with chocolate hazelnut spread & topped with hazelnut buttercream ... read more,120.0
+Desserts & Cupcakes,Vanilla & Blueberry Cupcake [1 Piece],1,0,Moist & fluffy vanilla cupcake filled with blueberry jam & topped with blueberry ... read more,120.0
+Desserts & Cupcakes,Red Velvet Cupcake [1 Piece],1,0,Moist red velvet cupcake with lemon cream cheese frosting.,120.0
+Desserts & Cupcakes,Chocolate Cupcake [1 Piece],1,0,Chocolate cupcake with chocolate buttercream frosting.,120.0
+Desserts & Cupcakes,Chocolate Mousse Cup [100g],1,0,Light and cream chocolate mousse.,155.0
+Desserts & Cupcakes,Chocolate Tart [1 Piece],1,0,Thick chocolate ganache in a tart.,170.0
+Desserts & Cupcakes,Tiramisu Cup [110g],1,0,"Traditional mascarpone cream layered on a coffee-flavored vanilla cake, topped with Belgian cocoa ... read more",175.0
+Desserts & Cupcakes,Assorted Cupcakes Box [4 Pcs],1,0,"An assortment of signature Theobroma cupcakes - Eggless chocolate cupcake (1), Eggless Red ... read more",480.0
+Sandwiches & Savouries,Spicy Paneer Roll [1 Piece],1,0,Soft turmeric flavoured bread with paneer filling.,60.0
+Sandwiches & Savouries,Spicy Paneer Puff [1 Piece],1,0,"Baked laminated puff pastry with a spicy paneer filling,",65.0
+Sandwiches & Savouries,Paneer Junglee Sandwich [100g],1,0,"Grated fresh malai paneer with fresh mint, ketchup, chilly, coriander & cheese mashed ... read more",100.0
+Croissants & Danishes,Butter Croissant [1 Piece],1,0,Flaky pastry laminated with butter.,90.0
+Croissants & Danishes,Pain Au Chocolat [1 Piece],1,0,Chocolate folded between flaky Danish pastry dough.,105.0
+Matchday Combos @15% OFF,Choice of Croissant/Danish + Choice of Beverage,1,0,Any croissant/danish & beverage of choice,230.0
+Matchday Combos @15% OFF,Choice of Eggless Brownie + Choice of Beverage,1,0,Any eggless brownie & beverage of choice,250.0
+Matchday Combos @15% OFF,Choice of Eggless Pastry + Choice of Beverage,1,0,Any eggless pastry & beverage of choice,270.0
+Matchday Combos @15% OFF,Choice of Veg Sandwich/Savoury + Choice of Beverage,1,0,Any veg sandwich/savoury & beverage of choice,200.0
+Matchday Combos @15% OFF,Choice of Dessert/Cupcake + Choice of Beverage,1,0,Any eggless dessert/cupcake & beverage of choice.,260.0
+Matchday Combos @15% OFF,Choice of Beverage + Eggless Brownie + Veg Sandwich/Savoury,1,0,"Any beverage, eggless brownie & veg sandwich/savoury of choice.",310.0
+Matchday Combos @15% OFF,Choice of Beverage + Eggless Pastry + Veg Sandwich/Savoury,1,0,"Any beverage, pastry & veg sandwich/savoury of choice.",330.0
+Matchday Combos @15% OFF,Choice of Beverage + Dessert/Cupcake + Veg Sandwich/Savoury,1,0,"Any beverage, dessert/cupcake & veg sandwich/savoury of choice.",320.0
+Tea Cakes,Eggless Banana Cake [200g],1,0,Soft and moist cakey bread made with mashed ripe bananas.,150.0
+Tea Cakes,Eggless Dense Loaf [260g],1,0,A rich chocolate cake made with melted chocolate.,240.0
+Tea Cakes,Eggless Mava Cake [225g],1,0,A moist and buttery cake made with mava (khoya).,270.0
+"Biscuits, Cookies & Crackers",Chocolate Chip Cookies [8 Pcs],1,0,"Vanilla cookie dough with dark chocolate chunks baked to give you a soft, ... read more",250.0
+"Biscuits, Cookies & Crackers",Sweet Sesame Crackers [100g],1,0,Thin & crispy tuilles with a butter & sesame flavour.,125.0
+"Biscuits, Cookies & Crackers",Double Choco Chip Cookies [8 Pcs],1,0,"Chocolate cookie dough with dark chocolate chunks baked to give you a soft, ... read more",260.0
+"Biscuits, Cookies & Crackers",Butter Palmiers [50g],1,0,Also known as Elephant ears or Palm hearts. Puff pastry made with butter ... read more,85.0
+"Biscuits, Cookies & Crackers",Chocolate Coated Biscuits [9 Pcs],1,0,"Our Chocolate Biscuits are loved by kids and adults alike, coated in milk ... read more",295.0
+"Biscuits, Cookies & Crackers",Orange Cookies [12 Pcs],1,0,"Soft cookies, flavoured with house-made orange marmalade, best enjoyed with a hot beverage ... read more",175.0
+"Biscuits, Cookies & Crackers",Cheese Crackers [100g],1,0,"Made with cheese, butter & a touch of mustard and chilli",180.0
+"Biscuits, Cookies & Crackers",Black Pepper Sourdough Crackers [100g],1,0,"Baked crispy crackers made with whole wheat flour, sourdough and black pepper.",125.0
+"Biscuits, Cookies & Crackers",Ragi Crackers [100g],1,0,"Baked crispy crackers made with wheat flour, ragi flour & enriched with the ... read more",105.0
+"Biscuits, Cookies & Crackers",Hazelnut Cookies [10 Pcs],1,0,"Crunchy cookies with hazelnut bits and hazelnut praline, coated in dark chocolate. Best ... read more",375.0
+"Biscuits, Cookies & Crackers",Butter Cookies [10 Pcs],1,0,Our Butter Cookies are crisp eggless vanilla cookies made with almond flour. They ... read more,290.0
+Breads,French Baguette [140g],1,0,"A french bread loaf with a crisp outer crust, chewy texture and a ... read more",100.0
+Breads,Wheat Bread Loaf [400g],1,0,Soft & spongy bread made with whole wheat and wheat flour.,90.0
+Breads,Wheat Sourdough Loaf [350g],1,0,"Our sourdough loaf is a naturally fermented loaf without commercial yeast, giving it ... read more",120.0
+Drinks (Beverages),Valencia Orange Juice [200 ml],1,0,"100% natural cold-pressed Valencia Orange juice, with no added sugar or preservatives.",161.0
+Drinks (Beverages),Classic Mango Juice [200 ml],1,0,"A blend of 100% natural cold-pressed mango and pineapple juice, with no added ... read more",161.0
+Drinks (Beverages),Cappuccino,1,0,Espresso-based coffee drink prepared with steamed milk foam.,140.0
+Drinks (Beverages),Latte,1,0,Coffee drink made with espresso and steamed milk.,140.0
+Drinks (Beverages),Hot Chocolate,1,0,"Creamy, silky, smooth & Chocolaty -  a piping hot beverage made with real ... read more",180.0
+Gifting,Almond Rocks [250g],1,0,Almonds coated with dark chocolate.,650.0
+Gifting,Almond Rocks [1/2kg],1,0,Almonds coated with dark chocolate.,1300.0
+Gifting,Gift Bag (Premium),1,0,An assortment of our signature products - Eggless assorted brownies [Choco chip (1) ... read more,800.0
+Gifting,Gift Bag (Luxury),1,0,An assortment of our signature products - Eggless assorted brownies [Choco chip (1) ... read more,1200.0
+Gifting,Eggless Indulgence Hamper,1,0,"An assortment of signature products - Assorted Eggless Brownies Box (6pc), Chocolate Chip ... read more",3200.0
+Gifting,Eggless Luxury Hamper,1,0,An assortment of signature products - Assorted Eggless Brownies Box (6pc) - Choco ... read more,2300.0
+Gifting,Eggless Premium Hamper,1,0,An assortment of signature products - Assorted Eggless Brownies (4pc) - [Choco chip ... read more,1700.0

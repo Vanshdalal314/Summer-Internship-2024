@@ -1,0 +1,179 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian Dishes,Butter Idli,1,0,"Soft, fluffy idlis drenched in creamy butter - a heavenly vegetarian delight.",125.0
+South Indian Dishes,Dahi Idli,1,0,,140.0
+South Indian Dishes,Dahi Vada,1,0,"A light and tangy chaat, perfect for a refreshing snack on a sunny ... read more",150.0
+South Indian Dishes,Idli Fry,1,0,"Crispy and golden-brown, this veg dish is perfect for anyone looking for a ... read more",115.0
+South Indian Dishes,Idli Vada,1,0,,105.0
+South Indian Dishes,Masala Idli,1,0,A flavorful South Indian snack with a perfect blend of spices.,140.0
+South Indian Dishes,Medu Vada,1,0,A crispy yet soft South Indian delight perfect for any time of day.,105.0
+South Indian Dishes,Steam Idli,1,0,A light and fluffy steamed dish that melts in your mouth.,95.0
+South Indian Special,Neer Dosa,1,0,Super-thin and soft 3 neer dosas served with sambhar and chutney.,140.0
+South Indian Special,Potato Vada,1,0,,95.0
+South Indian Special,Puri Bhaji,1,0,Crispy fried bread served with a savory and flavorful vegetable curry.,140.0
+South Indian Special,Puri [4 Pcs],1,0,,70.0
+South Indian Special,Rasam Vada,1,0,A flavorful South Indian dish with savory fried lentil donuts soaked in a ... read more,105.0
+South Indian Special,Thatte Idli,1,0,"Named after a nostalgic street in Bangalore. This is thick, fluffy crispy on ... read more",105.0
+South Indian Special,Veg Cutlet,1,0,A tasty and crispy vegetarian dish hailing from Bengal cuisine.,95.0
+South Indian Special,Veg Samosa,1,0,A mouthwatering vegetarian snack filled with flavorful goodness.,95.0
+Dosa,Cheese Masala Dosa,1,0,"A crispy Indian pancake filled with a gooey, savory cheese filling and a ... read more",210.0
+Dosa,Cheese Uttappam,1,0,All masala dosas served with a basic masala of mashed boiled potato and ... read more,185.0
+Dosa,Jini Roll Dosa,1,0,A fancy veg delight with a savory filling and crispy outer layer.,210.0
+Dosa,Masala Dosa,1,0,Delicious South Indian crispy crepe filled with aromatic spices.,140.0
+Dosa,Masala Uttappam,1,0,,160.0
+Dosa,Mysore Masala,1,0,"A savory taste of South India with rich, flavorful seasonings.",160.0
+Dosa,Mysore Sada,1,0,"A semi spicy, yet delicious dosa made with mysore masala,served with sambhar and ... read more",115.0
+Dosa,Nyloan Plain Dosa,1,0,,195.0
+Dosa,Onion Rava Masala,1,0,Crispy rava dosa with crunchy onions and spicy masala folded inside it.,185.0
+Dosa,Onion Rava Sada,1,0,"Crispy dosa made from a mix of rice batter and rava, folded in ... read more",140.0
+Dosa,Onion Uttappam,1,0,,140.0
+Dosa,Paneer Masala Dosa,1,0,"A flavorful vegetarian crepe filled with a creamy, savory filling.",185.0
+Dosa,Paneer Sada Dosa,1,0,"A South Indian delicacy, try out this crispy masala dosa with a yummy ... read more",125.0
+Dosa,Paper Dosa,1,0,,440.0
+Dosa,Paper Masala,1,0,"Tawa-toasted crispy thin dosa, folded in with masala.",520.0
+Dosa,Rava Masala Dosa,1,0,A savoring South Indian crispy crepe with flavorful filling.,185.0
+Dosa,Rava Plain Dosa,1,0,"A dosa made with rava (semolina) but without additional fillings, resulting in a ... read more",140.0
+Dosa,Sada Dosa,1,0,A light and crispy South Indian delicacy.,95.0
+Dosa,Tomato Onion Uttappam,1,0,,140.0
+Dosa,Tomato Uttappam,1,0,,140.0
+Dosa,Uttappam,1,0,A thicker and softer South Indian pancake.,115.0
+Dosa Specialities,Cheese Palak Dosa,1,0,,200.0
+Dosa Specialities,Cheese Palak Paneer Dosa,1,0,A savory vegetarian dosa filled with flavorful cheese and spinach.,240.0
+Dosa Specialities,Chilli Paneer Dosa,1,0,,220.0
+Dosa Specialities,Hyderabadi Masala Dosa,1,0,,180.0
+Dosa Specialities,Hyderabadi Sada,1,0,,140.0
+Dosa Specialities,Nylon Dry Pack Dosa,1,0,,190.0
+Dosa Specialities,Palak Paneer Dosa,1,0,,200.0
+Dosa Specialities,R K Special Dosa,1,0,,230.0
+Dosa Specialities,Schezwan Masala Dosa,1,0,,195.0
+Dosa Specialities,Schezwan Sada Dosa,1,0,,115.0
+Dosa Specialities,Spring Dosa,1,0,A light and fresh dosa filled with the flavors of spring.,195.0
+Dosa Specialities,Triple Takkar Dosa,1,0,,210.0
+Upvas Special,Finger Chips,1,0,"Salted fries, or simply fries, chips, finger chips, or French-fried potatoes, are batonnet ... read more",115.0
+Upvas Special,Sabudana Vada,1,0,"A delightful, popular Falahari dish that's crispy on the outside and soft on ... read more",140.0
+Pasta,Fusilli Alfredo Pasta [ White Sauce],1,0,,320.0
+Pasta,Veg Arrabbiata Pasta [ Red Sauce],1,0,,320.0
+Sandwiches,Bread Butter,1,0,A classic and comforting dish perfect for breakfast or a snack.,70.0
+Sandwiches,Bread Slice [2 Pcs],1,0,,50.0
+Sandwiches,Cheese Sandwich,1,0,An indulgent sandwich made by grilling bread with a delectable cheese stuffing.,140.0
+Sandwiches,Cheese Toast Sandwich,1,0,Cheese toast made from cheese packed between slices of bread lined and served ... read more,160.0
+Sandwiches,Chilli Cheese Toast,1,0,,195.0
+Sandwiches,Club Sandwich,1,0,A hearty and satisfying sandwich layered with fresh vegetables and flavor-packed condiments.,185.0
+Sandwiches,Grill Club Sandwich,1,0,,210.0
+Sandwiches,Jam Bread,1,0,,70.0
+Sandwiches,Jam Toast,1,0,,70.0
+Sandwiches,Paneer Toast Sandwich,1,0,,195.0
+Sandwiches,Toast Butter,1,0,,70.0
+Sandwiches,Veg Cheese Grill Sandwich,1,0,Melt-in-your-mouth veg and cheese grilled to perfection in between two slices of bread.,220.0
+Sandwiches,Veg Cheese Sandwich,1,0,A savory and creamy sandwich filled with vegetable goodness.,140.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,"A gooey, melty veggie sandwich to satisfy all your cheesy cravings.",160.0
+Sandwiches,Veg Grill Sandwich,1,0,,185.0
+Sandwiches,Veg Sandwich,1,0,A mouth-watering veg sandwich with layers of delicious flavors.,95.0
+Sandwiches,Veg Toast Sandwich,1,0,A satisfying and flavorful sandwich made with crispy toast and vegetarian ingredients.,105.0
+Pizza,Corn Capsicum Pizza [medium],1,0,"Sauce , Cheese , Capsicum , Green Chilli , Corn",230.0
+Pizza,Deluxe Pizza [medium],1,0,"Sauce , Cheese , Onion , Capsicum , Mushroom , baby Corn",280.0
+Pizza,Italian Pizza [medium],1,0,"Sauce , Cheese , Onion , Tomato , Mushroom , Jalapeno , Macroni",280.0
+Pizza,Margherita Pizza Pizza [medium],1,0,"Sauce , Cheese , Tomato",210.0
+Pizza,Mushroom Pizza [medium],1,0,"Sauce , Cheese , Mushroom",280.0
+Pizza,Onion Capsicum Pizza [medium],1,0,"Sauce , Cheese , Onion , Capsicum",230.0
+Pizza,Veggie Delight Pizza [medium],1,0,"Sauce , Cheese , Onion , Tomato , Capsicum",230.0
+Pav Bhaji,Cheese Jain Pav Bhaji,1,0,,210.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,An irresistible medley of creamy cheese and warm spices blended into a mouthwatering ... read more,210.0
+Pav Bhaji,Extra Pav [2 Pcs],1,0,,35.0
+Pav Bhaji,Jain Pav Bhaji,1,0,"A sumptuous vegetable dish, bursting with flavorful spices and served with fluffy, buttery ... read more",185.0
+Pav Bhaji,Masala Pav [2 Pcs],1,0,,115.0
+Pav Bhaji,Pav Bhaji,1,0,"Savoury mashed vegetables served with warm, buttered bread rolls.",160.0
+Pulav,Cheese Tava Pulao,1,0,,260.0
+Pulav,Paneer Cheese Tava Pulao,1,0,,280.0
+Pulav,Tava Pulav,1,0,,220.0
+Burger,Maxican Burger,1,0,,140.0
+Burger,Plain Cheese Burger,1,0,,115.0
+Burger,Veg Burger,1,0,"Hearty and flavorful, this burger features a satisfying patty made entirely from vegetables.",105.0
+Burger,Veg Cheese Burger,1,0,"A delectable veggie twist on the classic burger, loaded with gooey cheese and ... read more",140.0
+Soups,Noodle Soup,1,0,,160.0
+Soups,Tomato Soup,1,0,"A savory and comforting blend of flavors, sure to warm the heart and ... read more",125.0
+Soups,Veg Clear Soup,1,0,Basically clear soup recipes are prepared by boiling or simmering vegetables which eventually ... read more,160.0
+Soups,Veg Hot & Sour Soup,1,0,"A tangy and flavorful soup with a hint of heat, perfect for any ... read more",160.0
+Soups,Veg Manchow Soup,1,0,A rich and flavorful Chinese soup filled with a variety of fresh vegetables.,160.0
+Soups,Veg Sweet Corn Soup,1,0,A creamy medley of sweet and savory vegetable goodness.,160.0
+Accompaniments,Fry Papad,1,0,Serve 1,30.0
+Accompaniments,Green Salad,1,0,A deliciously aromatic and flavorful dish prepared from rice and stir-fried vegetables.,70.0
+Accompaniments,Masala Papad,1,0,"A crispy, flavorful vegetarian bite with a tantalizing mix of spices.",55.0
+Accompaniments,Roasted Papad,1,0,Crispy and flavorful Indian appetizer with a smokey roasted taste.,30.0
+Chinese Starters,Chinese Bhel,1,0,A fusion of crispiness and exotic flavors.,280.0
+Chinese Starters,Crispy Chilli Potato,1,0,,260.0
+Chinese Starters,Crispy Veg,1,0,,260.0
+Chinese Starters,Dragon Paneer,1,0,A tantalising vegetarian dish bursting with flavour.,300.0
+Chinese Starters,Gobi Manchurian,1,0,Gobi florets tossed in a tangy and spicy Manchurian sauce.,230.0
+Chinese Starters,Idli Chilli Fry,1,0,,230.0
+Chinese Starters,Mushroom Manchurian,1,0,A crispy and flavorful vegetarian starter featuring savory mushrooms in a tangy sauce.,280.0
+Chinese Starters,Paneer 65,1,0,Succulent and flavorful dish that packs a punch of Indian flavors.,280.0
+Chinese Starters,Paneer Chilli,1,0,Soft and creamy chunks in a mouth-watering sauce.,280.0
+Chinese Starters,Paneer Manchurian,1,0,"Delicious Indian-style dish with soft paneer bites coated in a tangy, flavorful sauce.",280.0
+Chinese Starters,Paneer Salt & Paper,1,0,,300.0
+Chinese Starters,Paneer Satay,1,0,,320.0
+Chinese Starters,Paneer Schezwan,1,0,A tantalizing blend of aromatic spices with creamy paneer.,300.0
+Chinese Starters,Peri Peri Paneer,1,0,A tantalizing vegetarian delight featuring succulent cubes of paneer in a zesty Peri ... read more,320.0
+Chinese Starters,Shanghai Paneer,1,0,,300.0
+Chinese Starters,Veg Hong Kong,1,0,,280.0
+Chinese Starters,Veg Manchurian,1,0,A scrumptious Chinese dish loaded with flavor and texture.,230.0
+Rice & Noodles,Butter Chilli Noodles,1,0,,280.0
+Rice & Noodles,Chhole Puri,1,0,,180.0
+Rice & Noodles,Chilli Garlic Noodles,1,0,Flavor-packed preparation with noodles and assorted vegetables in a spicy and aromatic chilli ... read more,230.0
+Rice & Noodles,Chole Bhature,1,0,A North Indian delicacy with fluffy bread and aromatic chickpeas.,195.0
+Rice & Noodles,Chole Kulcha,1,0,A classic North Indian dish featuring a warm and soft kulcha bread served ... read more,185.0
+Rice & Noodles,Dal Khichdi,1,0,"A hearty, comforting vegetarian dish with a blend of flavors and textures.",210.0
+Rice & Noodles,Dal Khichdi Tadka,1,0,,200.0
+Rice & Noodles,Extra Bhature,1,0,,50.0
+Rice & Noodles,Extra Kulcha 1pc,1,0,,35.0
+Rice & Noodles,Pan Fried Noodles,1,0,,260.0
+Rice & Noodles,Schezwan Noodles,1,0,A flavor-packed noodles dish with an explosion of bold and savory tastes.,230.0
+Rice & Noodles,Triple Schezwan,1,0,,300.0
+Rice & Noodles,Veg Biryani,1,0,With Raita,230.0
+Rice & Noodles,Veg Burnt Garlic Noodles,1,0,A deliciously aromatic preparation with noodles and vegetables cooked in a flavorful burnt ... read more,280.0
+Rice & Noodles,Veg Burnt Garlic Rice,1,0,,280.0
+Rice & Noodles,Veg Fortune Rice,1,0,,320.0
+Rice & Noodles,Veg Fried Rice,1,0,"A delightful Chinese dish of mixed vegetables and rice, stir-fried to perfection.",230.0
+Rice & Noodles,Veg Hakka Noodles,1,0,"Savoury wok-tossed noodles seasoned with aromatic herbs & spices, mixed with fresh vegetables.",230.0
+Rice & Noodles,Veg Hon Kong Rice,1,0,,260.0
+Rice & Noodles,Veg Peri Peri Noodles,1,0,,280.0
+Rice & Noodles,Veg Raitha,1,0,,115.0
+Rice & Noodles,Veg Schezwan Fried Rice,1,0,A perfect combination of steamed rice and spicy Schezwan sauce mixed with colorful ... read more,260.0
+Rice & Noodles,Veg Singapuri Noodles,1,0,A delectable dish with slippery strands of noodles dressed in a flavorful sauce ... read more,290.0
+Cold Beverages,Butter Milk,1,0,A creamy and tangy accompaniment that perfectly complements any meal.,50.0
+Cold Beverages,Clear Water Bottle,1,0,,35.0
+Cold Beverages,Fresh Lime Soda,1,0,A zesty and refreshing citrus drink perfect for quenching your thirst on a ... read more,90.0
+Cold Beverages,Lassi,1,0,A refreshing and creamy blend of healthy ingredients to satisfy your taste buds.,90.0
+Cold Beverages,Mineral Water [1 Ltr],1,0,,30.0
+Fresh Juices,Anar Juice,1,0,,185.0
+Fresh Juices,Bombay To Goa,1,0,,115.0
+Fresh Juices,Cocktail Juice,1,0,"A refreshing and invigorating blend of fresh vegetables and fruits, perfect any time ... read more",140.0
+Fresh Juices,Fresh Lime Juice,1,0,,70.0
+Fresh Juices,Ganga Jamuna Juice,1,0,Experience a refreshing burst of flavors with this delightful fresh juice!,115.0
+Fresh Juices,Grape Juice,1,0,,140.0
+Fresh Juices,Mosambi Juice,1,0,A refreshing citrus drink with a sweet tang.,115.0
+Fresh Juices,Orange Juice,1,0,A refreshing citrus drink that's perfect for any time of the day.,115.0
+Fresh Juices,Pineapple Juice,1,0,A refreshing blend of tropical sweetness in every sip.,115.0
+Fresh Juices,Watermelon Juice,1,0,A refreshing and fruity beverage perfect for hot summer days.,115.0
+Milkshakes,Chickoo Chocolate Kaju Milkshake,1,0,,230.0
+Milkshakes,Chickoo Chocolate Milkshake,1,0,,165.0
+Milkshakes,Chickoo Milkshake,1,0,,135.0
+Milkshakes,Chikoo Chocolate Milk Shake,1,0,,170.0
+Milkshakes,Chiku Chcolate Kaju Milk S/k,1,0,,200.0
+Milkshakes,Chocolate Apple Milkshake,1,0,,160.0
+Milkshakes,Cold Coffee,1,0,A refreshing and indulgent beverage with a smooth and creamy texture to satisfy ... read more,140.0
+Milkshakes,Pineapple Milk S/k,1,0,,150.0
+Milkshakes,Rose Milkshake,1,0,"A sweet and refreshing drink with a delicate rose flavor, perfect for a ... read more",140.0
+Milkshakes,Vanilla Milkshake,1,0,A creamy and rich milkshake made from milk and vanilla ice cream - ... read more,140.0
+Seasonal Milkshakes,Mango Milkshake,1,0,"Soft, smooth and slurpy milkshake made from wholesome mangoes.",210.0
+Dry Fruit Milkshakes,Anjeer Milkshake,1,0,,230.0
+Dry Fruit Milkshakes,Badam Milkshake,1,0,A creamy and nutty milkshake that's the perfect refreshing treat for any time ... read more,210.0
+Dry Fruit Milkshakes,Dry Fruit Milkshake,1,0,A crunchy and creamy milkshake made by blending wholesome milk with crushed dry ... read more,230.0
+Dry Fruit Milkshakes,Kaju Anjeer Milkshake,1,0,"Indulge in the delightful sweetness of this nutty, fruity milkshake.",230.0
+Dry Fruit Milkshakes,Pista Milkshake,1,0,"A creamy and nutty milkshake made with pistachio, providing a rich and indulgent ... read more",210.0
+Desserts [Pure Desi Ghee Preparation],Gulab Jamun,1,0,This Indian sweet is a melt-in-your-mouth delight with a soft texture and sweet ... read more,80.0
+Falooda,Kesar Falooda,1,0,Experience the perfect blend of saffron and sweetness with this refreshing falooda.,185.0
+Falooda,Kulfi Falooda,1,0,,190.0
+Falooda,R. K Delights,1,0,,230.0
+Falooda,Rose Falooda,1,0,A fragrant and floral Falooda with a beautiful pink hue.,185.0
+Falooda,Special Falooda,1,0,A delightful and refreshing treat with a fusion of flavors and textures that ... read more,185.0
+Mocktail,Blue Logon Moktail,1,0,,120.0

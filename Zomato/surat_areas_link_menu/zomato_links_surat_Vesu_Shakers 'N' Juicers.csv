@@ -1,0 +1,69 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fresh Juices [300 Ml],Apple Juice,1,0,"""An Apple a day keeps the doctor away"". Eating apples and drinking its ... read more",185.0
+Fresh Juices [300 Ml],Guava Juice,1,0,"Guava juice helps boost immunity, balances the body's sodium and potassium levels, treats ... read more",195.0
+Fresh Juices [300 Ml],Jamun Juice,1,0,When you love jamun shots but don't want to share choose jamun juice ... read more,200.0
+Fresh Juices [300 Ml],Kiwi Juice,1,0,"Kiwi juice helps the body treat asthma, boosts immunity system, induces sleep, and ... read more",220.0
+Fresh Juices [300 Ml],Lemon Pudina Juice,1,0,Lemons are a natural detoxifier. they help to cleanse the body by flushing ... read more,195.0
+Fresh Juices [300 Ml],Mango Juice,1,0,"Mango juice lowers cholesterol, relieves heat stroke prevents andemia. Mango helps fight infection ... read more",220.0
+Fresh Juices [300 Ml],Mosambi Juice,1,0,"Mosambi (sweet lime) juice help the body the flush out the toxins, treats ... read more",165.0
+Fresh Juices [300 Ml],Muskmelon Juice,1,0,"Muskmelon is high in water content, which keeps your body hydrated in the ... read more",165.0
+Fresh Juices [300 Ml],Orange Juice,1,0,The OJ should not only be remembered when you want to cure a ... read more,165.0
+Fresh Juices [300 Ml],Pineapple Juice,1,0,"This juice made out of freshly cut pineapple helps treat cough and cold, ... read more",165.0
+Fresh Juices [300 Ml],Pomegranate Juice,1,0,"Fresh pomegranate juice are high in fiber, vitamins, and minerals making them beneficial ... read more",185.0
+Fresh Juices [300 Ml],Strawberry Juice,1,0,"Besides its delicious taste, drinking the strawberry juice help to stimulate  the burning ... read more",220.0
+Fresh Juices [300 Ml],Watermelon Juice,1,0,"Fresh watermelon keeps the body hydrated, helps maintain blood pressure and body weight, ... read more",165.0
+Combination Fresh Juices [300 Ml],Dhoom 3 Fresh Juice,1,0,"(Strawberry, Grapes, Anar)",255.0
+Combination Fresh Juices [300 Ml],Dragon Kiwi Fresh Juice,1,0,,275.0
+Combination Fresh Juices [300 Ml],Fruit Cocktail,1,0,,235.0
+Combination Fresh Juices [300 Ml],Ganga Jamuna Fresh Juice,1,0,"Traditionally known as ganga jamuna juice, this blend helps boost immunity, strengthen bones, ... read more",220.0
+Combination Fresh Juices [300 Ml],Kareena Fresh Juice,1,0,"(Watermelon, Strawberry, Orange)",235.0
+Combination Fresh Juices [300 Ml],Kiwi Pineapple Juice,1,0,,275.0
+Combination Fresh Juices [300 Ml],Kiwi Pineapple Pudina Fresh Juice,1,0,,255.0
+Combination Fresh Juices [300 Ml],Maramari Fresh Juice,1,0,,220.0
+Combination Fresh Juices [300 Ml],Red Indian Fresh Juice,1,0,,235.0
+Combination Fresh Juices [300 Ml],Strawberry Kiwi Fresh Juice,1,0,,275.0
+Milk Shakes [300 Ml],Black Currant Milkshake,1,0,,235.0
+Milk Shakes [300 Ml],Blueberry Milkshake,1,0,,255.0
+Milk Shakes [300 Ml],Chickoo Chocolate Milkshake,1,0,,275.0
+Milk Shakes [300 Ml],Chickoo Milkshake,1,0,,235.0
+Milk Shakes [300 Ml],Cold Coffee Milkshake,1,0,,255.0
+Milk Shakes [300 Ml],Kiwi Punch Milkshake,1,0,,275.0
+Milk Shakes [300 Ml],Mango Kaju Milkshake,1,0,,275.0
+Milk Shakes [300 Ml],Mango Milk Shake,1,0,,255.0
+Milk Shakes [300 Ml],Muskmelon Milkshake,1,0,,235.0
+Milk Shakes [300 Ml],Pineapple Milkshake,1,0,,235.0
+Milk Shakes [300 Ml],Strawberry Milkshake,1,0,,275.0
+Milk Shakes [300 Ml],Vanilla Milkshake,1,0,,255.0
+Milk Shakes [300 Ml],Watermelon Milk Shake,1,0,,235.0
+Chocolate Milk Shakes [300 Ml],Choco Almonds Milk Shake,1,0,,275.0
+Chocolate Milk Shakes [300 Ml],Choco Delight Milk Shake,1,0,,290.0
+Chocolate Milk Shakes [300 Ml],Choco Dryfruit Milk Shake,1,0,,275.0
+Chocolate Milk Shakes [300 Ml],Chocolate Dsp Milk Shake,1,0,,275.0
+Chocolate Milk Shakes [300 Ml],Dark Fantasy Delight Milk Shake,1,0,,275.0
+Chocolate Milk Shakes [300 Ml],Kit Kat Delight Milk Shake,1,0,,290.0
+Chocolate Milk Shakes [300 Ml],Nutella Delight Milk Shake,1,0,,290.0
+Chocolate Milk Shakes [300 Ml],Oreo Delight Milk Shake,1,0,,275.0
+Chocolate Milk Shakes [300 Ml],Oreo Kit Kat Delight Milk Shake,1,0,,290.0
+Chocolate Milk Shakes [300 Ml],Trio Choco Delight Milk Shake,1,0,,290.0
+Dry Fruit Milkshake [300 Ml],Anjeer Badam Dry Fruit Milkshake,1,0,,325.0
+Dry Fruit Milkshake [300 Ml],Special Dry Fruit Milk Shake,1,0,,365.0
+Dry Fruit Milkshake [300 Ml],Kaju Anjeer Dry Fruit Milkshake,1,0,,325.0
+Dry Fruit Milkshake [300 Ml],Kaju Badam Shake,1,0,,350.0
+Dry Fruit Milkshake [300 Ml],Kesar Badam Pista Dry Fruit Milkshake,1,0,,350.0
+Dry Fruit Milkshake [300 Ml],Kesar Pista Dry Fruit Milkshake,1,0,,350.0
+Cold Coco [250 Ml],Chocolate Chips Coco,1,0,,150.0
+Cold Coco [250 Ml],Cold Coco,1,0,,130.0
+Cold Coco [250 Ml],Cold Coco With Ice Cream,1,0,,150.0
+Cold Coco [250 Ml],Kaju Coco,1,0,,165.0
+Cold Coco [250 Ml],Snj Special Mix Dry Fruit Coco,1,0,,165.0
+Fresh Cream Bowl,Chocolate Mix Fruit Cream,1,0,,285.0
+Fresh Cream Bowl,Fruit Dishh,1,0,,275.0
+Fresh Cream Bowl,Mango Cream,1,0,,275.0
+Fresh Cream Bowl,Mix Fruit Cream,1,0,,275.0
+Snj Special Coconut Cream,Coconut Dry Fruit Pod [350 Ml],1,0,,455.0
+Snj Special Coconut Cream,Coconut Malai Kaju Pod [350 Ml],1,0,,450.0
+Snj Special Coconut Cream,Coconut Mango Pod [350 Ml],1,0,,455.0
+Snj Sp Watermelon Cream,Watermelon Dry Fruit Pod [500 Ml],1,0,,530.0
+Snj Sp Watermelon Cream,Watermelon Fruit Mixed Pod [500 Ml],1,0,,530.0
+Snj Sp Muskmelon Cream,Muskmelon Dry Fruit Pod [400 Ml],1,0,,455.0
+Snj Sp Muskmelon Cream,Muskmelon Fruit Mixed Pod [400 Ml],1,0,,455.0

@@ -1,0 +1,8 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Special Deluxe Thali,1,0,Gulab Jamun [1 Piece]+1 Special Sabzi+1 Veg Sabzi+5 Phulka Roti+Dal Fry+Jeera Rice+Farshan+Salad+Mukwash+Pickle+Chaas [200 ... read more,169.0
+Thali,Mini Special Thali,1,0,1 Punjabi Sabzi/Veg Sabzi [Subject to Availability]+5 Fulka Roti+Dal Fry+Jeera Rice+Salad+Mukwash+Pickle+Chaas [200 ml],149.0
+Roti,Phulka Roti,1,0,1 Phulka roti.,13.0
+Drinks (Beverages),Masala Buttermilk [200 ml],1,0,Masala chaas.,26.0
+Combos,Punjabi Sabji with 5 Roti Combo,1,0,Purohit's Punjabi Sabzi [300 ml]+5 Phulka Roti+Salad,140.0
+Combos,Punjabi Sabji with Jeera Rice Combo,1,0,Punjabi Sabzi [300 ml]+Jeera Rice [400 ml]+Salad,140.0
+Combos,Punjabi Sabji Combo,1,0,Punjabi Sabzi [300 ml]+Plain Rice/Steam Rice [400 ml]+Salad,130.0

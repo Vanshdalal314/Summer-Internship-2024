@@ -1,0 +1,180 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bao [3 Pcs],Crunchy Lotus Stem Bao,1,0,,279.0
+Bao [3 Pcs],Exotic Veg In Burnt Chilli Sauce Bao,1,0,,279.0
+Bao [3 Pcs],Kung Pao Potato Bao,1,0,,279.0
+Bao [3 Pcs],Spicy Cottage Cheese Bao,1,0,,279.0
+Asian Starters,Butter Garlic Chilli Basil Paneer,1,0,,369.0
+Asian Starters,Chinese Green In Burnt Chilli Sauce,1,0,,369.0
+Asian Starters,Cripsy Lotus Stem In Burnt Pepper,1,0,,369.0
+Asian Starters,Crispy Corn & Tofu In Salt N Pepper,1,0,,339.0
+Asian Starters,Crispy Paneer Tossed In Sesame Chilli,1,0,,369.0
+Asian Starters,Exotic Vag In Butter Garlic Sauce,1,0,,369.0
+Asian Starters,Kung Pao Potato,1,0,,339.0
+Asian Starters,Mongolian Mushroom,1,0,,369.0
+Asian Starters,Paneer Chilli Dry,1,0,,369.0
+Asian Starters,Paneer In Schezwan Pepper,1,0,,369.0
+Asian Starters,Paneer Tamrind Chilli Basil,1,0,,339.0
+Asian Starters,Stir Fry Edamame,1,0,,419.0
+Asian Starters,Thai Spring Roll,1,0,,339.0
+Asian Starters,Veg Manchurian Dry,1,0,,339.0
+Asian Starters,Vietnamese Summer Roll,1,0,,369.0
+Meal For One,Burnt Chilli Garlic Rice + Veggie In Hunan Gravy,1,0,,249.0
+Meal For One,Butter Parsley Rice + Pesto Gravy,1,0,,249.0
+Meal For One,Hakka Noodles + Veggies In Chilli Basil Gravy,1,0,,249.0
+Meal For One,Mexican Rice + Veggie In Pink Curry,1,0,,299.0
+Meal For One,Paneer Tikka Gravy + Jeera Rice,1,0,,249.0
+Meal For One,Schezwan Noodles + Paneer Chiili Gravy,1,0,,299.0
+Meal For One,Singapore Noodles + Paneer In Black Papper Gravy,1,0,,299.0
+Meal For One,Veg Fried Rice + Manchurian Gravy,1,0,,249.0
+Wok Box,Asian Style,1,0,Rice or Noodles & Veggies In Manchurian Sauce,129.0
+Wok Box,House Special,1,0,Rice or Noodles & Veggies In Schezwan Sauce,129.0
+Sushi,Asparagus Tempura,1,0,,329.0
+Sushi,California Roll,1,0,,329.0
+Sushi,Crunchy Mushroom Tempura,1,0,,349.0
+Sushi,Crunchy Veg,1,0,,329.0
+Sushi,Pickle Vegetable With Cream Cheese,1,0,,329.0
+Sushi,Spicy Avocado,1,0,,349.0
+Sushi,"Spicy Tofu, Roasted Bell Pepper And Jalepeno",1,0,,349.0
+Sushi,Tempura Cottage Cheese With Avocado,1,0,,349.0
+Sushi Special Menu,Cucumber Cream Cheese With Avocado,1,0,,369.0
+Sushi Special Menu,Dragon Roll,1,0,,369.0
+Sushi Special Menu,Futo Maki,1,0,,369.0
+Sushi Special Menu,Gunkan Cucumber With Guacamole,1,0,,369.0
+Sushi Special Menu,Rolade Asparagus Cucumber With Mango Salsa,1,0,,369.0
+Sushi Special Menu,Spicy Jalapeno With Raw Mango,1,0,,349.0
+Sushi Special Menu,Tempura Beans With Cream Cheese,1,0,,349.0
+Sushi Special Menu,Tempura Corn With Guacamole,1,0,,369.0
+Sushi Special Menu,Tempura Tofu With Sriracha Corn,1,0,,349.0
+Sushi Special Menu,Teriyaki Tofu With Wasabi Mayo,1,0,,349.0
+Dimsums,"Broccoli, Water Chestnut & Jalapeno Dimsum",1,0,,239.0
+Dimsums,Jain Momos [6 Pieces],1,0,,249.0
+Dimsums,"Mushroom, Babycorn & Water Chestnut Dimsum",1,0,,249.0
+Dimsums,Spicy Thai Veg Dimsum,1,0,,239.0
+Dimsums,Spinach Cottage Cheese Dimsum,1,0,,239.0
+Dimsums,Veg Crystal Dimsum,1,0,,239.0
+Continental Starters,Bean Tacos,1,0,,319.0
+Continental Starters,Bruschetta,1,0,,299.0
+Continental Starters,Cheese Garlic Bread,1,0,,249.0
+Continental Starters,Cheesy Fries,1,0,,209.0
+Continental Starters,Cheesy Nachos,1,0,,319.0
+Continental Starters,Corn Chilli Garlic Bread,1,0,,249.0
+Continental Starters,Exotic Open Garlic Bread,1,0,,279.0
+Continental Starters,Falafel,1,0,,349.0
+Continental Starters,French Fries,1,0,,169.0
+Continental Starters,Garlic Bread,1,0,,179.0
+Continental Starters,Jalapeno Cheese Balls,1,0,,249.0
+Continental Starters,Mexican Quesadilla,1,0,,419.0
+Continental Starters,Nachos Supreme,1,0,,329.0
+Continental Starters,Peri Peri Fries,1,0,,179.0
+Continental Starters,Pesto Grilled Cottage Cheese,1,0,,379.0
+Continental Starters,Sesame Paneer,1,0,,349.0
+Hummus,Peri Peri Hummus,1,0,Served with pita bread.,329.0
+Hummus,Pesto Hummus,1,0,Served with pita bread.,329.0
+Hummus,Regular Hummus,1,0,Served with pita bread.,329.0
+Hummus,Salsa Hummus,1,0,Served with pita bread.,329.0
+Asian Rice(750 Ml),Balanese Pot Rice (white),1,0,"Basil, Butter Garlic Sauce",449.0
+Asian Rice(750 Ml),Brunt Chilll Garlic Rice,1,0,,309.0
+Asian Rice(750 Ml),Chef Special Pot Rice (brown),1,0,,449.0
+Asian Rice(750 Ml),Chef Special Pot Rice (red),1,0,,449.0
+Asian Rice(750 Ml),Edamame Blue Burnt Garlic Rice,1,0,"Jasmine Rice, Edamame Beans, Burnt Garlic Style Fried Rice",449.0
+Asian Rice(750 Ml),Green Thai Curry With Steam Rice,1,0,,449.0
+Asian Rice(750 Ml),Herb Rice,1,0,"Mix Of Spinach, Coriander & Basil",309.0
+Asian Rice(750 Ml),Japanese Tofu Donburi Rice With Miso,1,0,"Jasmine Rice, Grilled Tofu, Spinach Served With Miso Bowl",469.0
+Asian Rice(750 Ml),Korean Fried Rice,1,0,Kimchi & Gochujang Base,349.0
+Asian Rice(750 Ml),Nasi Goreng,1,0,Indonesian Fried Rice Served With Paneer Satay In Peanut Sauce,449.0
+Asian Rice(750 Ml),Noom Preeck Fried Rice,1,0,,349.0
+Asian Rice(750 Ml),Red Thai Curry With Steam Rice,1,0,,449.0
+Asian Rice(750 Ml),Royal Fried Rice,1,0,"Jasmine Rice, Tofu, Shiitake Mushroom, Chinese Cabbage, Pok Choy",449.0
+Asian Rice(750 Ml),Schezwan Fried Rice,1,0,,289.0
+Asian Rice(750 Ml),Steamed Jasmine Rice,1,0,,349.0
+Asian Rice(750 Ml),Thai Coconut Curry With Steam Rice,1,0,,449.0
+Asian Rice(750 Ml),Thai Pad Krapow Rice,1,0,"Chilli Basil, Chopped Soya Chunk, Sweet & Spicy",329.0
+Asian Rice(750 Ml),Triple Fried Rice,1,0,,429.0
+Asian Rice(750 Ml),Veg Fried Rice,1,0,,269.0
+Asian Rice(750 Ml),Vietnamese Fried Rice,1,0,"Lemon Grass, Peanuts, Exotic Veggies",329.0
+Noodles(750 Ml),Asian Chilli Basil Noodles,1,0,,329.0
+Noodles(750 Ml),Black Pepper Noodles,1,0,,329.0
+Noodles(750 Ml),Burnt Chilli Garlic Noodles,1,0,,319.0
+Noodles(750 Ml),Chow Fun,1,0,[Veg Preparation]Flat Noodles In Chilli Oyster Base,349.0
+Noodles(750 Ml),Hakka Noodles,1,0,,269.0
+Noodles(750 Ml),Herb Noodles,1,0,"Mix Of Spinach, Corriander & Basil",319.0
+Noodles(750 Ml),Korean Kimchi Noodles,1,0,Kimchi & Gochujang Base,399.0
+Noodles(750 Ml),Mi Goreng,1,0,Indonesian Noodles Served With Paneer Satay In Peanut Sauce,449.0
+Noodles(750 Ml),Pad Thai Noodles,1,0,[Tangy And Spicy],399.0
+Noodles(750 Ml),Pan Fried Noodles,1,0,Pan Fried Noodles Topped With Soya Chilli Sauce],449.0
+Noodles(750 Ml),Schezwan Noodles,1,0,,299.0
+Noodles(750 Ml),Thai Coconut Curry With Noodles,1,0,,449.0
+Noodles(750 Ml),Udon Noodles Bowl,1,0,[veg preparation]Flat Noodles In Chilli Oyster Base],399.0
+Sauces(500 Ml),"Asparagus, Tofu In Chilli Bean Sauce",1,0,"Asparagus, Tofu, Bell Pepper",359.0
+Sauces(500 Ml),Black Bean Sauce,1,0,,339.0
+Sauces(500 Ml),Black Pepper Sauce,1,0,,339.0
+Sauces(500 Ml),Buddha Delight,1,0,,339.0
+Sauces(500 Ml),Burnt Chilli Sauce,1,0,,339.0
+Sauces(500 Ml),Chilli Basil Souce,1,0,,339.0
+Sauces(500 Ml),Green Garlic,1,0,,339.0
+Sauces(500 Ml),Hunan Sauce,1,0,,339.0
+Sauces(500 Ml),Lauchang Chima,1,0,"Shredded Veggies, Paneer & Water Chestnut in Chef Special Gravy",359.0
+Sauces(500 Ml),Manchurian Sauce,1,0,,339.0
+Sauces(500 Ml),Mapo Tofu,1,0,"Tofu, Soya Chunk in Spicy Gravy",359.0
+Sauces(500 Ml),Schezwan Sauce,1,0,,339.0
+Soupy Meal(750 Ml),Burmese Khow Suey,1,0,,479.0
+Soupy Meal(750 Ml),Miso Ramen Soupy Meal Bowl,1,0,,479.0
+Soupy Meal(750 Ml),Momos Bowl With Udon Noodle,1,0,,479.0
+Soupy Meal(750 Ml),Spicy Korean Soupy Meal,1,0,,479.0
+Soupy Meal(750 Ml),Vietnamese Pho,1,0,,479.0
+Continental Mains,Italian Hot Pot,1,0,"Bell Pepper, Butter Parsley Rice With Alfredo Gravy",449.0
+Continental Mains,Mac & Cheese Pasta,1,0,,419.0
+Continental Mains,Mexican Hot Pot,1,0,Mexican Rice With Arabbiata Gravy,449.0
+Continental Mains,"Penne Alfredo Pasta,",1,0,,419.0
+Continental Mains,Penne Arabbiata Pasta,1,0,,419.0
+Continental Mains,Penne Pesto Pasta,1,0,,419.0
+Continental Mains,Penne Pink Pasta,1,0,,419.0
+Continental Mains,Sphaghetti Aglio Olio,1,0,,419.0
+Pizza Combo(10 Inch),3 Cheese Pizza,1,0,10 inch. [Served along with a Beverage],499.0
+Pizza Combo(10 Inch),BBQ Paneer Pizza,1,0,10 inch. Paneer Tossed in BBQ sauce [Served along with a Beverage],469.0
+Pizza Combo(10 Inch),Farm House Pizza,1,0,"10 inch, Onion, Tomato, Capsicum, Bell Pepper. [Served along with a Beverage]",419.0
+Pizza Combo(10 Inch),Margherita Pizza,1,0,10 inch. Everyone’s Favourite [Served along with a Beverage],399.0
+Pizza Combo(10 Inch),Penne Pink Pasta Pizza,1,0,10 inch. Best of both worlds. Penne Pink Pasta topped on a Pizza ... read more,499.0
+Pizza Combo(10 Inch),Pizza Supreme Pizza,1,0,"10 inch.Broccoli, Babycorn, Zucchini, Bell Pepper, Onion [Served along with a Beverage]",469.0
+Pizza Combo(10 Inch),Roasted Veg Asian Style Pizza,1,0,10 inch. Exotic Veggies Tossed In Asian Style [Served along with a ... read more,449.0
+Pizza Combo(10 Inch),Schezwan Cheese Pizza,1,0,10 inch. Classic Cheese Pizza with a twist of Schezwan [Served along with ... read more,419.0
+Indian Menu,2 Chapati,1,0,,49.0
+Indian Menu,Butter Milk,1,0,,50.0
+Indian Menu,Dal Fry,1,0,,199.0
+Indian Menu,Dal Khichdi,1,0,,300.0
+Indian Menu,Dal Tadka,1,0,,249.0
+Indian Menu,Jeera Rice,1,0,,210.0
+Indian Menu,Paneer Butter Masala,1,0,,375.0
+Indian Menu,Paneer Kadai,1,0,,375.0
+Indian Menu,Paneer Tikka,1,0,,375.0
+Indian Menu,Paratha,1,0,,49.0
+Indian Menu,Steem Rice,1,0,,140.0
+Indian Menu,Veg Handi,1,0,,349.0
+Indian Menu,Veg Kolhapuri,1,0,,349.0
+Indian Menu,Veg Noorani,1,0,,349.0
+Indian Menu,Veg Tawa Masala,1,0,,340.0
+Soup(500 Ml),Bamee Soup,1,0,Thick Burmese Soup With Veggies & Lemon Zest,199.0
+Soup(500 Ml),Burnt Garlic Soup,1,0,,179.0
+Soup(500 Ml),Cream Of Broccoli Soup,1,0,,199.0
+Soup(500 Ml),East Asia Delight Soup,1,0,Chef Special Since Day 1. Spinach Based Soup.,179.0
+Soup(500 Ml),Garden Vegetable Soup,1,0,,179.0
+Soup(500 Ml),Lemon Coriander Soup,1,0,,179.0
+Soup(500 Ml),Manchow Soup,1,0,,179.0
+Soup(500 Ml),Miso Soup,1,0,Japanese Special,199.0
+Soup(500 Ml),Roasted Bell Pepper Soup,1,0,,199.0
+Soup(500 Ml),Spicy Tibetan Soup,1,0,Mildly Spiced Tibetian Special Soup With Veggies & Tofu,199.0
+Soup(500 Ml),Thupka Noodle Soup,1,0,,179.0
+Soup(500 Ml),Tom Kha Soup,1,0,Spicy & Sour Thai Coconut Soup With Exotic Veggies,199.0
+Soup(500 Ml),Tom Yum Soup,1,0,Hot & Sour Thai Soup With Exotic Veggies,199.0
+Soup(500 Ml),Udon Noodle Soup,1,0,,199.0
+Salad,Caesar Salad,1,0,,249.0
+Salad,Fattoush Salad With Pita Bread,1,0,,249.0
+Salad,Som Tam Salad,1,0,,249.0
+Desserts,Chocolate Sushi Roll,1,0,,249.0
+Desserts,Nutella Pizza,1,0,,399.0
+Desserts,Sizzling Chocolate Brownie,1,0,,249.0
+Shakes,Chocolate Brownie Shake,1,0,,200.0
+Shakes,Chocolate Shake,1,0,,175.0
+Shakes,Kitkat Shake,1,0,,200.0
+Shakes,Oreo Shake,1,0,,200.0
+Shakes,Strawberry Shake,1,0,,175.0

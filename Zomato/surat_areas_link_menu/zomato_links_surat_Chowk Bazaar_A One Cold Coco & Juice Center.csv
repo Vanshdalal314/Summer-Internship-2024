@@ -1,0 +1,48 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Coco,Cold Coco,1,0,,100.0
+Coco,Ice Cream Coco,1,0,,150.0
+Coco,Chocolate Chips Coco,1,0,,150.0
+Coco,Kaju Coco,1,0,,150.0
+Coco,Malai Coco,1,0,,150.0
+Coco,Special Ice Cream Kaju Coco,1,0,,200.0
+Falooda,Special Ice Cream Falooda [Rose],1,0,,125.0
+Falooda,Special Malai Falooda [Rose],1,0,,135.0
+Falooda,Special Ice Cream Malai Falooda [Rose],1,0,,165.0
+Falooda,Special Ice Cream Kesar Pista,1,0,,165.0
+Falooda,Special Rajbhog Falooda,1,0,,165.0
+Falooda,Mango Falooda,1,0,,165.0
+Falooda,Strawberry Falooda,1,0,,165.0
+Falooda,Chocolate Falooda,1,0,,165.0
+Falooda,Blackcurrant Falooda,1,0,,165.0
+Falooda,Mawa Malai Falooda,1,0,,175.0
+Falooda,Dry Fruit Falooda,1,0,,215.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,120.0
+Drinks (Beverages),Mango Milkshake,1,0,,115.0
+Drinks (Beverages),Pineapple Milkshake,1,0,,120.0
+Drinks (Beverages),Gulkand Milkshake,1,0,,100.0
+Drinks (Beverages),Anjeer Milkshake,1,0,,155.0
+Drinks (Beverages),Oreo Milkshake,1,0,,135.0
+Drinks (Beverages),Kaju Milkshake,1,0,,200.0
+Drinks (Beverages),Kaju Anjeer Milkshake,1,0,,185.0
+Drinks (Beverages),Kaju Anjeer Tukda Milkshake,1,0,,245.0
+Drinks (Beverages),Kaju Badam Milkshake,1,0,,210.0
+Drinks (Beverages),Kaju Pista Milkshake,1,0,,220.0
+Drinks (Beverages),Kaju Gulkand Milkshake,1,0,,150.0
+Drinks (Beverages),Kaju Draksh Milkshake,1,0,,115.0
+Drinks (Beverages),Kaju Mango Milkshake,1,0,,170.0
+Drinks (Beverages),Kaju Mango Tukda Milkshake,1,0,,235.0
+Drinks (Beverages),Kaju Chocolate Milkshake,1,0,,215.0
+Drinks (Beverages),Badam Milkshake,1,0,,215.0
+Drinks (Beverages),Badam Anjeer Milkshake,1,0,,195.0
+Drinks (Beverages),Badam Pista Milkshake,1,0,,200.0
+Drinks (Beverages),Badam Gulkand Milkshake,1,0,,175.0
+Drinks (Beverages),Dry Fruit Milkshake,1,0,,245.0
+Drinks (Beverages),Ice Cream Kaju Mango Tukda Milkshake,1,0,,275.0
+Drinks (Beverages),Ice Cream Mango Milkshake,1,0,,155.0
+Drinks (Beverages),Simple Lassi,1,0,,50.0
+Drinks (Beverages),Gulab Lassi,1,0,,65.0
+Drinks (Beverages),Kesar Lassi,1,0,,65.0
+Drinks (Beverages),Mango Lassi,1,0,,65.0
+Drinks (Beverages),Dry Fruit Lassi,1,0,,75.0
+Fresh Juices,Mosambi Fresh Juice,1,0,,85.0
+Fresh Juices,Pineapple Fresh Juice,1,0,,100.0

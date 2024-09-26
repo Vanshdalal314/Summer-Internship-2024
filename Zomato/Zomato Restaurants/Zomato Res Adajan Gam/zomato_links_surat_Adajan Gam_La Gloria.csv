@@ -1,0 +1,12 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cheesecake,Biscoff Cheesecake,1,0,Biscoff cheesecake: Indulgent blend of creamy cheesecake filling atop a crunchy Biscoff cookie ... read more,279.0
+Cheesecake,Blueberry Cheesecake,1,0,"Blueberry cheesecake: Creamy perfection on a buttery graham cracker crust, crowned with a ... read more",249.0
+Cheesecake,Strawberry Cheesecake,1,0,,259.0
+Cheesecake,Nutella Cheesecake,1,0,Velvety nutella cheesecake a heavenly marriage of creamy cheesecake with the irresistible richness ... read more,279.0
+Brownies,Oreo Brownie Tub,1,0,,120.0
+Brownies,Choco Chips Brownie Tub,1,0,,99.0
+Brownies,Roasted Almond Brownie Tub,1,0,,149.0
+Brownies,Nutella Brownie Tub,1,0,,148.0
+Brownies,Lotus Biscoff Brownie Tub,0,0,[Veg preparation],159.0
+Brownies,Walnut Brownie Tub,0,0,,159.0
+Hot Chocolate Balls,Hot Chocolate Balls,1,0,,99.0

@@ -1,0 +1,68 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fast Food,Extra Oil Pav,1,0,,5.4
+Fast Food,Extra Butter Pav,1,0,,7.2
+Fast Food,Pulav Chatni,1,0,,92.7
+Fast Food,Sada Pav Bhaji,1,0,,174.6
+Fast Food,Jain Sada Pav Bhaji,1,0,,209.7
+Fast Food,Laxmi Special Pav Bhaji,1,0,,233.1
+Fast Food,Tawa Pulav,1,0,,233.1
+Fast Food,Green Bhaji,1,0,,256.5
+Fast Food,Jain Sp Pav Bhaji,1,0,,256.5
+Fast Food,Cheese Bhaji,1,0,,256.5
+Fast Food,Kashmiri Pulav,1,0,,291.6
+Fast Food,Extra Ketchup 2Pcs,1,0,,7.2
+Fast Food,Extra Chatni,1,0,,45.9
+Fast Food,Extra Waffer,1,0,,45.9
+Fast Food,Bread Butter,1,0,,57.6
+Fast Food,Extra Cheese,1,0,,46.8
+Fast Food,Veg Sandwich,1,0,,92.7
+Fast Food,Cheese Sandwich,1,0,,104.4
+Fast Food,Veg Toast Sandwich,1,0,,104.4
+Fast Food,Veg Cheese Sandwich,1,0,,116.1
+Fast Food,Italian Toast,1,0,,174.6
+Fast Food,Veg Cheese Toast Sandwich,1,0,,151.2
+Fast Food,Cheese Chilly Toast,1,0,,174.6
+Fast Food,Cheese Garlic Bread,1,0,,198.0
+Fast Food,Bombay Grilled,1,0,,209.7
+Fast Food,Double Cheese Grilled,1,0,,233.1
+Fast Food,Extra Ketchup,1,0,,7.2
+Fast Food,Onion Capsicum Pizza,1,0,,233.1
+Fast Food,Pineapple Pizza,1,0,,233.1
+Fast Food,Veg Pizza,1,0,,233.1
+Fast Food,Laxmi Sp Pizza,1,0,,256.5
+Fast Food,Margrita Pizzas,1,0,,233.1
+Fast Food,Veg Burger,1,0,,104.4
+Fast Food,Veg Cheese Burger,1,0,,116.1
+Accompaniments,Rosted Papad,1,0,,30.6
+Accompaniments,Fry Papad,1,0,,42.3
+Accompaniments,Masala Papad,1,0,,57.6
+Accompaniments,Butter Milk,1,0,,29.7
+Accompaniments,Masala Butter Milk,1,0,,45.9
+Accompaniments,Onion Salad,1,0,,69.3
+Accompaniments,Tomato Salad,1,0,,69.3
+Accompaniments,Green Salad,1,0,,116.1
+Accompaniments,Lassi[Sweet/Salty],1,0,,116.1
+Accompaniments,Plain Curd,1,0,,139.5
+Accompaniments,Veg Raita,1,0,,151.2
+Accompaniments,Pineapple Raita,1,0,,162.9
+Accompaniments,Exotic Veg Salad,1,0,,256.5
+Accompaniments,Sp Lassi,1,0,,174.6
+Drinks (Beverages),Chocolate Shake,1,0,,139.5
+Drinks (Beverages),Lemonade,1,0,,57.6
+Drinks (Beverages),Pineapple Milkshake,1,0,,92.7
+Drinks (Beverages),Rose,1,0,,151.2
+Drinks (Beverages),Virgin Mojito,1,0,,116.1
+Drinks (Beverages),Mango,1,0,,151.2
+Drinks (Beverages),Vanilla Shakes,1,0,,139.5
+Drinks (Beverages),Falooda,1,0,,209.7
+Drinks (Beverages),Kaju Gulkand,1,0,,209.7
+Drinks (Beverages),Kaju Mango,1,0,,209.7
+Drinks (Beverages),Sp. Falooda,1,0,,256.5
+Drinks (Beverages),Kaju Strawberry,1,0,,186.3
+Drinks (Beverages),Kaju Vanila,1,0,,198.0
+Drinks (Beverages),Kaju Gulkand Tukda,1,0,,233.1
+Drinks (Beverages),Kaju Kismis,1,0,,209.7
+Drinks (Beverages),Kaju Kismis Tukda,1,0,,233.1
+Drinks (Beverages),Ganga Jamana Fresh,1,0,,92.7
+Drinks (Beverages),Mosambi Fresh,1,0,,92.7
+Drinks (Beverages),Pineapple Fresh,1,0,,92.7

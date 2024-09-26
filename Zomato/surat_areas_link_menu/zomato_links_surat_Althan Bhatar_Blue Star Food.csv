@@ -1,0 +1,20 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Cream,French Vanilla Ice Cream,1,0,,750.0
+Ice Cream,Salted Caramel Ice Cream,1,0,,750.0
+Ice Cream,Cookies and Cream Ice Cream,1,0,,750.0
+Ice Cream,Dark Chocolate Sea Salted Caramel Ice Cream,1,0,,750.0
+Ice Cream,Mint Chocolate Chip Ice Cream,1,0,,750.0
+Ice Cream,Oreo Cheesecake Ice Cream,1,0,,199.0
+Ice Cream,Coconut Sugar Free Ice Cream,1,0,,1000.0
+Ice Cream,Dark Chocolate Sugar Free Ice Cream,1,0,,1000.0
+Ice Cream,Mint Chocolate Chip Sugar Free Ice Cream,1,0,,1000.0
+Minus30,"Hazelnut Vegan Stick [Mini, 40 ml]",1,0,"Almond milk, almond butter, hazelnut paste (11.6%), stevia, dark chocolate, coconut oil, vegan ... read more",124.75
+Minus30,"Coconut Vegan Stick [Mini, 40 ml]",1,0,,124.75
+Minus30,"Espresso Vegan Stick [Mini, 40 ml]",1,0,"Ingredients:  Almond milk, Almond butter,  Hazelnut paste (11.6%),  Stevia, Dark chocolate,  Coconut oil ... read more",124.75
+Minus30,"Vanilla Vegan Stick [Mini, 40ml]",1,0,"Ingredients: almond milk, almond butter, french vanilla (2.5%), stevia, dark chocolate, coconut oil  #vanillavegan ... read more",124.75
+Minus30,Espresso,1,0,"Colder than the coldest brew; tastes better too.  Almond milk, almond butter, instant ... read more",234.82
+Minus30,French Vanilla Ice Cream [500 ml],1,0,"Satin soft satisfaction. Simply satanic, double toned milk, cream, sugar, skimmed milk powder ... read more",750.0
+Minus30,Cookies & Cream Ice Cream,1,0,"Fresh out of the oven, and into frozen cream. double toned milk, cream, ... read more",750.0
+Minus30,Dark Chocolate Ice Cream,1,0,,199.0
+Minus30,Mint Chocolate Chips Ice Cream,1,0,,199.0
+Minus30,Dark Chocolate Sea Salted Caramel,1,0,,199.0

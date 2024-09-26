@@ -1,0 +1,70 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Chataka,Special Babubhai Bhel [2 Plate],1,0,,140.0
+Special Chataka,Special Cheese Bhel [2 Plate],1,0,,190.0
+Special Chataka,Dahi Puri [ 2 Plate],1,0,"10 Puri, dahi, khajur chutney, masala and chana.",140.0
+Special Chataka,Dahi Bataka Puri [ 2 Plate],1,0,"10 Puri, dahi, khajur chutney, masala, chana, bataka, onion and tomato.",150.0
+Special Chataka,Dahi Kachori,1,0,"Kachori [1 piece], dahi, imli chutney, chana masala, boondi and green chutney.",90.0
+Special Chataka,Pani Puri [20 Pieces],1,0,"Served with tikha pani, mithi chutney and chana bataka.",120.0
+Special Chataka,Dahi Vada,1,0,"Vada [2 pieces], dahi and masala.",100.0
+Special Chataka,Suki Bhel [500 grams],1,0,"Ready bhusu, without chutney.",150.0
+Special Chataka,Bhel ni Puri [200 grams],1,0,Chapti puri,60.0
+Special Chataka,Pani Puri [100 Pieces],1,0,,120.0
+Special Chataka,Special Sev Batakapuri [2 Plate],1,0,,140.0
+Special Chataka,Special Dahi Papdi Chaat [2 Plate],1,0,,150.0
+Special Chataka,Dahi Idli,1,0,,100.0
+Special Chataka,Bhel Ni Mithi Chutney,1,0,Khajur imli.,65.0
+Special Chataka,Pani Puri Nu Tikhu Pani,1,0,,65.0
+Rice,Veg Tawa Pulao,1,0,,150.0
+South Indian,Masala Dosa,1,0,,140.0
+South Indian,Butter Masala Dosa,1,0,,150.0
+South Indian,Mysore Dosa,1,0,,150.0
+South Indian,Butter Mysore Masala Dosa,1,0,,160.0
+South Indian,Cheese Butter Mysore Masala Dosa,1,0,,170.0
+South Indian,Sada Dosa,1,0,,70.0
+South Indian,Butter Sada Dosa,1,0,,80.0
+South Indian,Rava Masala Dosa,1,0,,120.0
+South Indian,Butter Rava Masala Dosa,1,0,,140.0
+South Indian,Rava Sada Dosa,1,0,,100.0
+South Indian,Butter Rava Sada Dosa,1,0,,120.0
+South Indian,Mixed Uttapam,1,0,,120.0
+South Indian,Onion Uttapam,1,0,,110.0
+South Indian,Tomato Uttapam,1,0,,110.0
+South Indian,Idli Sambar,1,0,,70.0
+South Indian,Cheese Palak Dosa,1,0,,200.0
+South Indian,Cheese Jini Roll Dosa,1,0,,200.0
+South Indian,Cheese Paneer Surma Dosa,1,0,,220.0
+Chinese,Schezwan Manchurian,1,0,,130.0
+Chinese,Veg Schezwan Manchurian Gravy,1,0,,130.0
+Chinese,Schezwan Paneer Chilli,1,0,,180.0
+Chinese,Schezwan Paneer Chilli Gravy,1,0,,180.0
+Chinese,Chinese Bhel,1,0,,120.0
+Chinese,Singapore Bhel,1,0,,120.0
+Chinese,Veg Idli Chilli,1,0,,100.0
+Fried Rice and Noodles,Veg Paneer Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Schezwan Triple Fried Rice,1,0,,200.0
+Fried Rice and Noodles,Hakka Noodles,1,0,,140.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,140.0
+Pizza,Veg Cheese Pizza [6 inches],1,0,,130.0
+Pizza,Only Cheese Pizza [6 inches],1,0,,130.0
+Pizza,Paneer Chilli Pizza [6 inches],1,0,,190.0
+Pizza,Mushroom Pizza [6 inches],1,0,,160.0
+Pizza,Pineapple Pizza [6 inches],1,0,,160.0
+Pizza,Veg Corn Capsicum Pizza [6 inches],1,0,,140.0
+Pizza,Veg All in One Pizza [6 inches],1,0,,150.0
+Sandwiches,Veg Sandwich,1,0,,60.0
+Sandwiches,Veg Cheese Sandwich,1,0,,90.0
+Sandwiches,Cheese Sandwich,1,0,,70.0
+Sandwiches,Veg Toast Sandwich,1,0,,80.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,100.0
+Sandwiches,Cheese Toast Sandwich,1,0,,90.0
+Sandwiches,Cheese Paneer Chilli Toast Sandwich,1,0,,100.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,130.0
+Sandwiches,Veg Mayo Cheese Grilled Sandwich,1,0,,135.0
+Sandwiches,Veg Cheese Paneer Mayo Grilled Sandwich,1,0,,160.0
+Sandwiches,Veg Cheese Mushroom Grilled Sandwich,1,0,,160.0
+Pav Bhaji,Veg Pav Bhaji,1,0,,110.0
+Pav Bhaji,Butter Pav Bhaji,1,0,,130.0
+Pav Bhaji,Cheese Butter Pav Bhaji,1,0,,150.0

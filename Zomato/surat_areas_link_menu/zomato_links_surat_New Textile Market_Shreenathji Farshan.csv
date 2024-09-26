@@ -1,0 +1,38 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Farsan,Sarasiya Khaja,1,0,,140.0
+Farsan,Special Surti Bhusa,1,0,,90.0
+Farsan,Nylon Papdi,1,0,,90.0
+Farsan,Tikha Gathiya,1,0,,80.0
+Farsan,Mora Gathiya,1,0,,90.0
+Farsan,Jada Gathiya,1,0,,90.0
+Farsan,Vanela Gathiya,1,0,"Vanela gathiya served with besan kadhi, papaya sambar and fried mirch.",150.0
+Farsan,Tikha Papdi Gathiya,1,0,,90.0
+Farsan,Masala Papdi,1,0,,90.0
+Farsan,Pavva Chevdo,1,0,,90.0
+Farsan,Sev,1,0,,90.0
+Farsan,Nylon Sev,1,0,,90.0
+Farsan,Goba Puri,1,0,,90.0
+Farsan,Fulvadi,1,0,,90.0
+Farsan,Bhakhar Vadi,1,0,,90.0
+Farsan,Shakarpara,1,0,,90.0
+Farsan,Methi Para,1,0,,90.0
+Farsan,Farali Chevdo,1,0,,90.0
+Snacks,Fafada Gathiya,1,0,"Nylon fafda served with besan kadhi, papaya sambhar and fried mirch.",150.0
+Snacks,Jalebi,1,0,,100.0
+Snacks,Khaman,1,0,,70.0
+Snacks,Khamani,1,0,,70.0
+Snacks,Idda,1,0,,50.0
+Snacks,Sada Patra,1,0,,50.0
+Snacks,Vagharela Patra,1,0,,60.0
+Snacks,Khandvi,1,0,,70.0
+Snacks,Petis,1,0,,90.0
+Snacks,Lilva Kachori,1,0,,80.0
+Snacks,Cheese Paneer Samosa,1,0,,140.0
+Snacks,Chinese Samosa,1,0,,80.0
+Snacks,Sada Idada,1,0,,30.0
+Snacks,Sada Khaman,1,0,,30.0
+Snacks,Farali Petish,1,0,,80.0
+Snacks,Nylon Khaman,1,0,,50.0
+Snacks,Kacha Lilva Ghughara,1,0,Made with fresh green peace and lily tuwer.,80.0
+Snacks,Kacha Samosa Dal Kanda,1,0,Tredishnal surti samosa made with high quality ingredients.,70.0
+Snacks,Lilva Ghughra,1,0,Made with fresh green peace and lily tuvwer.,100.0

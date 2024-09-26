@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Mini Gujrati Thali,1,0,[Chef's Special] 4 Chapati+Veg Gujarati Sabji+Kathor Sabji+Gujrati Dal+Rice+Gulab Jamun [1 Pieces]+Dhokla [2 Pieces]+Pickle,169.0
+Thali,Mini Punjabi Thali,1,0,4 Chapati+Paneer Sabji+Aloo Sabji+(morning-Dal+Rice)or(evening-kadhi+khichdi)+Gulab Jamun [1 Piece]+Papad+Pickle,169.0
+Combos,Dal Rice Combo,1,0,Dal [500 ml]+Rice [300 grams]+Papad [1 Pieces],149.0
+Combos,Paneer Combo,1,0,Paneer Sabji [200 grams]+5 Chapati+Papad,149.0
+Combos,Aloo Sabji Combo,1,0,Aloo Sabji [300 grams]+8 Poori+Papad,129.0
+Combos,Special Fusion Combo,1,0,Paneer Sabji [70 grams]+Veg Sabji [70 grams]+4 Chapati+Gulab Jamun [1 Piece]+Dhokla [2 Pieces]+Achar+Dal ... read more,169.0
+Combos,Veg Gujarati Combo,1,0,Green Gujrati Sabji [200 grams]+5 Chapati+Papad,129.0
+Combos,Kathor Combo,1,0,Sprout Sabji [200 grams]+5 Chapati+Papad,129.0
+Combos,Travel Pack Combo,1,0,5 Chapati+Punjabi Sabji+Veg Sabji+Dal+Rice+Sweet+Boiled Farsan [1 Piece]+Fry Farsan+Salad+Pickle,240.0
+Meal,Dal Rice,1,0,Rice [450 grams]+Dal [750 ml],199.0
+Main Course,Punjabi Sabji [300 grams],1,0,,199.0
+Main Course,Aloo Sabji [300 grams],1,0,,179.0
+Main Course,Green Sabji [300 grams],1,0,,179.0
+Main Course,Kathod Sabji [300 grams],1,0,,179.0
+Bread,1 Poori,1,0,,10.0
+Accompaniment,Papad [1 Piece],1,0,,30.0

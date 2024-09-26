@@ -1,0 +1,61 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Corn Spinach Cheese Vol-Au-Vent,1,0,"Crispy, buttery puff pastry cups filled with a creamy blend of sweet corn, ... read more",239.0
+Starters,Cottage Cheese Chilly,1,0,"All time favourite paneer tossed with soya, garlic, and chilli.",299.0
+Starters,Crispy Potato Chilly,1,0,"Baby potatoes, red chillies & bell peppers tossed in a sweet & spicy ... read more",229.0
+Starters,Crunchy Corn,1,0,"Fresh corn kernels dusted slightly in seasoned flour, deep fried and sprinkled with ... read more",199.0
+Starters,Manchurian Dry,1,0,"Balls made from finely cut vegetables, deep fried & tossed with minced garlic, ... read more",249.0
+Starters,Mexican Vol-Au-Vent,1,0,"Crispy puff pastry cups filled with a zesty mix of Mexican spices, melted ... read more",249.0
+Starters,Sweet & Spicy Thai Cottage Cheese,1,0,Made with succulent cubes of cottage cheese marinated in a perfect blend of ... read more,309.0
+Garlic Bread (4 Pcs),Classic Garlic Bread,1,0,Garlic bread topped with an overload of cheese and baked to perfection.,229.0
+Garlic Bread (4 Pcs),Corn & Cheese Garlic Bread,1,0,Classic garlic bread loaded with a creamy blend of sweet corn kernels and ... read more,249.0
+Garlic Bread (4 Pcs),Okkio Special Garlic Bread,1,0,"Chef's Special Garlic Bread with unique blend of flavors and textures, topped with ... read more",279.0
+Garlic Bread (4 Pcs),Peri Peri Garlic Bread,1,0,"Cheesy Garlic bread topped with a generous drizzle of fiery peri peri sauce, ... read more",249.0
+Garlic Bread (4 Pcs),Supreme Garlic Bread,1,0,"Crispy, cheesy garlic bread slices topped with a savory mix of diced tomatoes, ... read more",249.0
+Garlic Bread (4 Pcs),Tandoori Paneer Garlic Bread,1,0,Juicy cubes of tandoori-spiced paneer nestled on a bed of warm cheesy garlic ... read more,269.0
+Cigar Rolls (6 Pcs),Cheese Cigar Roll,1,0,A crispy pastry roll filled with a savory mix of vegetables and oozing ... read more,279.0
+Cigar Rolls (6 Pcs),Mexican Cigar Roll,1,0,"A crispy pastry roll filled with a zesty mix of Mexican spices, beans, ... read more",299.0
+Cigar Rolls (6 Pcs),Veg Cigar Roll,1,0,"A savory blend of mixed vegetables wrapped in a crispy pastry roll, perfect ... read more",229.0
+Pasta,Aglio Olio,1,0,"Tossed in a garlic-infused olive oil and sprinkled with red pepper flakes, our ... read more",359.0
+Pasta,Bechamel Pasta,1,0,"Creamy and indulgent, our pasta is smothered in a rich béchamel sauce and ... read more",359.0
+Pasta,Okkio Special Pasta,1,0,"A tantalizing blend of al dente pasta, savory sauces, and secret ingredients, our ... read more",489.0
+Pasta,Rosemary Pasta,1,0,Infused with the aromatic flavors of rosemary and tossed in a mixture of ... read more,399.0
+Pasta,Tangy Marinara Pasta,1,0,"Cooked al dente and tossed in a rich marinara sauce, our pasta is ... read more",329.0
+Fries,Cheese Chilly Fries,1,0,Crispy golden fries topped with a generous sprinkle of zesty chilli and melted ... read more,249.0
+Fries,Cheesy Heaven Fries,1,0,Crispy golden fries smothered in a heavenly blanket of melted cheese.,279.0
+Fries,Classic Fries,1,0,Golden brown strips of potato fried to crisp perfection and flavored with salt.,179.0
+Fries,Nachos Fries,1,0,Crispy fries topped with a delicious blend of melted cheese and crunchy nacho ... read more,279.0
+Fries,Peri Peri Fries,1,0,"Crispy golden fries tossed in our signature peri peri seasoning, for a spicy ... read more",189.0
+Noodles,Chilly Garlic Noodles,1,0,"Stir-fried with fragrant garlic and spicy chillies, our noodles are a flavor explosion ... read more",279.0
+Noodles,Hakka Noodles,1,0,"Stir-fried to perfection with fresh vegetables and savory sauces, our noodles are a ... read more",229.0
+Noodles,Schezwan Noodles,1,0,"Stir-fried with fiery Schezwan sauce and crunchy vegetables, our noodles are a flavor-packed ... read more",259.0
+Nachos,American Cheesy Nachos,1,0,Crispy tortilla chips smothered in gooey American cheese & loaded with veggies for ... read more,309.0
+Nachos,Cheesy Heaven Nachos,1,0,Crispy tortilla chips piled high with melted cheese for the ultimate indulgence.,289.0
+Nachos,Classic Nachos,1,0,Crispy tortilla chips served with fresh salsa and creamy cheese sauce.,279.0
+Nachos,Loaded Corn Cheese Nachos,1,0,"Crispy tortilla chips loaded with creamy cheese, and a burst of spices.",299.0
+Rice Bowls,Burnt Garlic Rice With Oriental Gravy,1,0,"Fragrant burnt garlic rice served with rich Oriental Chinese gravy, creating a harmony ... read more",359.0
+Rice Bowls,Herb Rice With Cheesy Gravy,1,0,"Tossed in aromatic herbs and topped with creamy cheese gravy, this dish is ... read more",409.0
+Rice Bowls,Mexican Cheesy Rice,1,0,"A delectable combination of fluffy rice and gooey melted cheese, this dish is ... read more",369.0
+Rice Bowls,Peri Peri Rice,1,0,"Flavorful peri peri rice topped with a spicy cheesy gravy, perfect for those ... read more",369.0
+Rice Bowls,Spinach Rice With Garlic Cheesy Gravy,1,0,"Mixed with nutritious spinach and served with a garlic-infused cheesy gravy, this dish ... read more",409.0
+Pizza (9 Inches),Garden Fresh Pizza,1,0,"Packed with a colorful array of fresh vegetables and aromatic herbs, it's a ... read more",409.0
+Pizza (9 Inches),Half 'N' Half Pizza,1,0,Can't decide? Have it both ways with our Half 'n' Half Pizza! Choose ... read more,459.0
+Pizza (9 Inches),Hot & Spicy Pizza,1,0,"Loaded with fiery toppings and bold flavors, it's perfect for those who like ... read more",409.0
+Pizza (9 Inches),Italian Exotic Pizza,1,0,"Topped with a medley of premium Italian ingredients and veggies, it's a slice ... read more",409.0
+Pizza (9 Inches),Margherita Pizza,1,0,"Fresh tomato sauce, creamy mozzarella, and fragrant basil on a crisp crust.",359.0
+Pizza (9 Inches),Okkio Special Pizza,1,0,[Regular] indulge in a blend of five exquisite cheeses melted over a crispy ... read more,599.0
+Pizza (9 Inches),Tandoori Paneer Pizza,1,0,"Juicy tandoori paneer, onions, and bell peppers on a crisp crust, topped with ... read more",419.0
+Shakes,Biscoff Shake,1,0,"A creamy concoction of vanilla ice cream blended with Biscoff cookie spread, topped ... read more",329.0
+Shakes,Brownie Shake,1,0,"A creamy blend of rich chocolate milkshake and chunks of gooey brownie, topped ... read more",309.0
+Shakes,Kitkat Shake,1,0,"A creamy blend of vanilla ice cream and crushed KitKat bars, topped with ... read more",299.0
+Shakes,Nutella Brownie Shake,1,0,"A heavenly blend of Nutella, brownie chunks, and creamy milkshake, topped with whipped ... read more",349.0
+Shakes,Orea Shake,1,0,"A velvety mix of vanilla ice cream and crushed Oreo cookies, topped with ... read more",299.0
+Mocktails,Lemon Iced Tea,1,0,"[Serve 1] Made with brewed tea, freshly squeezed lemon juice, sugar, and ice, ... read more",199.0
+Mocktails,Mint Mojito,1,0,"[Serve 1] Made with fresh mint leaves, lime juice, sugar, soda water, and ... read more",209.0
+Mocktails,Peach Iced Tea,1,0,"[Serve 1] A delightful combination of brewed tea, peach syrup, sugar, and ice, ... read more",199.0
+Frappe,Cold Coffee Frappe,1,0,"A blend of chilled coffee, milk, sugar, and ice, topped with whipped cream.",249.0
+Frappe,Hazelnut Frappe,1,0,"A creamy blend of hazelnut syrup, coffee, milk, sugar, and ice, topped with ... read more",279.0
+Frappe,Vanilla Frappe,1,0,"A creamy concoction of vanilla syrup, coffee, milk, sugar, and ice, topped with ... read more",279.0
+Add Ons,Cheesy Dip,1,0,"Made with a blend of melted cheese, milk, butter, and a hint of ... read more",40.0
+Add Ons,Garlic Dip,1,0,"Made with creamy mayonnaise, minced garlic, lemon juice, and a dash of salt, ... read more",40.0
+Add Ons,Salsa,1,0,"Made with fresh tomatoes, onions, jalape",40.0
+Add Ons,Schezwan Dip,1,0,"Made with Schezwan sauce, garlic, ginger, soy sauce, vinegar, and a hint of ... read more",40.0

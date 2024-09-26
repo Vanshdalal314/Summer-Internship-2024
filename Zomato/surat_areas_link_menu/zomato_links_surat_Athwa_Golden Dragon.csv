@@ -1,0 +1,280 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Veg Combo Meal,1,0,Paneer Chilli Dry [Starter]+Vegetable Buddhas Delight[Main Course]+Veg Fried Rice [Main Course].,850.0
+Combos,Dragon Chicken Combo,0,0,Dragon Chicken+Chicken Manchurian Gravy+Chicken Fried Rice,899.0
+Soups,Chicken Clear Soup,0,0,,200.0
+Soups,Chicken Noodles Soup,0,0,,200.0
+Soups,Chicken Wonton Soup,0,0,,200.0
+Soups,Chicken Burnt Garlic Soup,0,0,,200.0
+Soups,Chicken Spicy Mongolian Soup,0,0,,200.0
+Soups,Chicken Lemon Coriander Soup,0,0,,200.0
+Soups,Chicken Thai Soup,0,0,,230.0
+Soups,Chicken Five Treasure Soup,0,0,,200.0
+Soups,Chicken Saiwoo Soup,0,0,,200.0
+Soups,Chicken Hakka Soup,0,0,,200.0
+Soups,Chicken Talumein Soup,0,0,,200.0
+Soups,Chicken Hot and Sour Wonton Soup,0,0,,200.0
+Soups,Chicken Lung Fung Soup,0,0,,200.0
+Soups,Chicken Tum Yum Thong Soup,0,0,,200.0
+Soups,Chicken Thai Tum Yum Soup,0,0,,200.0
+Soups,Chicken Golden Dragon Special Soup,0,0,,210.0
+Soups,Chicken Hot and Sour Soup,0,0,,200.0
+Soups,Chicken Combination Soup,0,0,,200.0
+Soups,Chicken Manchow Soup,0,0,,200.0
+Soups,Chef Special Chicken Soup,0,0,,270.0
+Soups,Chicken Sweet Corn Soup,0,0,,200.0
+Soups,Chef Special Fish Soup,0,0,,270.0
+Soups,Fish Meat Ball with Vegetable Soup,0,0,,270.0
+Soups,Chef Special Prawns Soup,0,0,,270.0
+Soups,Prawns Ginger Soup,0,0,,270.0
+Soups,Prawns Garlic Soup,0,0,,270.0
+Soups,Spicy Seafood Soup,0,0,[Spicy],270.0
+Soups,Seafood Soup,0,0,,270.0
+Soups,Mixed Seafood Thick Soup,0,0,Fish and prawns.,270.0
+Soups,Veg Five Treasure Soup,1,0,,190.0
+Soups,Golden Dragon Special Soup,1,0,,190.0
+Soups,Vegetable Sweet Corn Soup,1,0,,190.0
+Soups,Vegetable Burnt Garlic Soup,1,0,,190.0
+Soups,Sweet Corn Plain Soup,1,0,,190.0
+Soups,Vegetable Hot and Sour Soup,1,0,,190.0
+Soups,Vegetable Mushroom Soup,1,0,,190.0
+Soups,Mix Vegetable Soup,1,0,,190.0
+Soups,Vegetable Wonton Soup,1,0,,190.0
+Soups,Vegetable Wonton Noodles Soup,1,0,,190.0
+Soups,Vegetable Talumein Soup,1,0,,190.0
+Soups,Vegetable Lung Fung Soup,1,0,,190.0
+Soups,Tomato Soup,1,0,,190.0
+Soups,Vegetable Manchow Soup,1,0,,190.0
+Soups,Chef Special Veg Soup,1,0,,190.0
+Soups,Veg Green Pepper Soup,1,0,,190.0
+Soups,Veg Spicy Mongolian Soup,1,0,,190.0
+Soups,Veg Lemon Coriander Soup,1,0,,190.0
+Soups,Veg Thai Tom Yum Soup,1,0,,190.0
+Starters,Egg Foo Young,0,0,,260.0
+Starters,Chicken Honey Pepper,0,0,,380.0
+Starters,Butter Mustard Chicken,0,0,,380.0
+Starters,Chicken Herb,0,0,,380.0
+Starters,Chicken Burnt Coriander,0,0,,380.0
+Starters,Chicken Smoked Coriander,0,0,,380.0
+Starters,Chicken Burnt Chilli,0,0,,380.0
+Starters,Chicken Basil Chilli,0,0,,380.0
+Starters,Chicken Thai Hot Basil,0,0,,380.0
+Starters,Shredded Onion Chilli Chicken,0,0,,380.0
+Starters,Zad Chicken,0,0,,380.0
+Starters,Chicken Hot and Spicy,0,0,,380.0
+Starters,Chicken Angle,0,0,,380.0
+Starters,Chilli Milli Chicken,0,0,,380.0
+Starters,Chicken Paprika,0,0,,380.0
+Starters,Chicken Chilli,0,0,,350.0
+Starters,Chicken Manchurian,0,0,,350.0
+Starters,Chicken Tai Pei,0,0,,350.0
+Starters,Chicken Shantung,0,0,,350.0
+Starters,Deep Fried Chicken Thai Style,0,0,,380.0
+Starters,Crispy Chicken with Sesame Seed,0,0,,380.0
+Starters,Chicken Pepper Salt,0,0,,450.0
+Starters,Chicken Barbeque,0,0,,450.0
+Starters,Hakka Chicken,0,0,,380.0
+Starters,Sliced Spicy Chicken,0,0,[Spicy],380.0
+Starters,Stir Fried Chicken Dips and Chilli,0,0,,380.0
+Starters,Sesame Fried Chicken with Chilli Honey Sauce,0,0,,380.0
+Starters,Tsing Hoi Chicken,0,0,,350.0
+Starters,Spicy Crispy Chicken,0,0,[Spicy],380.0
+Starters,Red Chicken Butter Garlic,0,0,,450.0
+Starters,Chicken in Oyster Chilli,0,0,,390.0
+Starters,Golden Dragon Special Chicken,0,0,,390.0
+Starters,Volcanic Chicken,0,0,,380.0
+Starters,Drums of Heaven Chicken,0,0,,390.0
+Starters,Drums of Heaven Chicken Shandong Style,0,0,,390.0
+Starters,Chicken in Banana Leaves,0,0,,410.0
+Starters,Crispy Thread Chicken,0,0,,380.0
+Starters,Chicken Five Spice,0,0,,450.0
+Starters,Drums of Heaven Chicken Hong Kong Style,0,0,,390.0
+Starters,Chicken in Hunan Style,0,0,,350.0
+Starters,Sweet and Sour Chicken,0,0,,350.0
+Starters,Korean Chicken,0,0,,380.0
+Starters,Asian Chicken,0,0,,380.0
+Starters,Chicken Butter Garlic (White),0,0,,450.0
+Starters,Fried Fish,0,0,,450.0
+Starters,Fish Pepper Salt,0,0,,450.0
+Starters,Hakka Fish,0,0,,450.0
+Starters,Fish with Crispy Ginger,0,0,,450.0
+Starters,Fish Butter Garlic (Red),0,0,,450.0
+Starters,Chilli Fish,0,0,,450.0
+Starters,Fish Manchurian,0,0,,450.0
+Starters,Fish Burnt Coriander,0,0,,450.0
+Starters,Fish Burnt Chilli,0,0,,450.0
+Starters,Fish Herb,0,0,,450.0
+Starters,Fish Smoked Coriander,0,0,,450.0
+Starters,Fish Five Spice,0,0,,450.0
+Starters,Sweet and Sour Fish,0,0,,450.0
+Starters,Golden Dragon Fish,0,0,,470.0
+Starters,Pomfret Herb,0,0,,850.0
+Starters,Pomfret Shanghai,0,0,,850.0
+Starters,Prawns Pepper Salt,0,0,,450.0
+Starters,White Prawns Butter Garlic,0,0,,450.0
+Starters,Prawns Hunan Style,0,0,,450.0
+Starters,Fried Prawns,0,0,,450.0
+Starters,Prawns Munchurian,0,0,,450.0
+Starters,Prawns Burnt Coriander,0,0,,450.0
+Starters,Prawns Burnt Chilli,0,0,,450.0
+Starters,Prawns Herb,0,0,,450.0
+Starters,Prawns Honey Pepper,0,0,,450.0
+Starters,Prawns Honey Garlic,0,0,,425.0
+Starters,Prawns Smoked Coriander,0,0,,450.0
+Starters,Prawns Five Spice,0,0,,450.0
+Starters,Prawns Barbeque,0,0,,450.0
+Starters,Sweet and Sour Prawns,0,0,,450.0
+Starters,Fish Butter Garlic ( White ),0,0,,450.0
+Starters,Red Prawns Butter Garlic,0,0,,450.0
+Starters,Vegetable Manchurian,1,0,,280.0
+Starters,Paneer Honey Pepper,1,0,,380.0
+Starters,Mushroom Honey Pepper,1,0,,380.0
+Starters,Paneer Honey Garlic,1,0,,380.0
+Starters,Paneer Butter Mustard,1,0,,380.0
+Starters,Paneer Herb,1,0,,380.0
+Starters,Paneer Thai Chilli,1,0,,380.0
+Starters,Mushroom Thai Chilli,1,0,,380.0
+Starters,Paneer Burnt Coriander,1,0,,380.0
+Starters,Veg Thai Hot Basil,1,0,,330.0
+Starters,Mushroom Onion Chilli,1,0,,380.0
+Starters,Veg Exotic,1,0,,330.0
+Starters,Paneer Kung Pao,1,0,,380.0
+Starters,Veg Spicy Hakka,1,0,,330.0
+Starters,Paneer Basil Chilli,1,0,,380.0
+Starters,Paneer Angel,1,0,,380.0
+Starters,Paneer Baby Corn Chilli Paprika,1,0,,380.0
+Starters,Five Spice Paneer,1,0,,380.0
+Starters,Mushroom Manchurian,1,0,,380.0
+Starters,Cauliflower Manchurian,1,0,,290.0
+Starters,Paneer Manchurian,1,0,,380.0
+Starters,Paneer Chilli,1,0,,380.0
+Starters,Paneer Barbeque,1,0,,410.0
+Starters,Paneer Pepper Salt,1,0,,410.0
+Starters,Three Treasure Pepper Salt,1,0,,330.0
+Starters,Fried Baby Corn,1,0,,310.0
+Starters,Chow Chu Potato,1,0,,260.0
+Starters,Dragon Potato,1,0,,270.0
+Starters,Vegetable Barbeque,1,0,,370.0
+Starters,Tsinghai Paneer,1,0,,380.0
+Starters,Paneer Dragon Special,1,0,[Chef Special],390.0
+Starters,Whole Corn Chilli Garlic,1,0,,270.0
+Starters,Crispy Chilli Potato with Special Onion,1,0,,270.0
+Starters,Crispy Chilli Baby Corn,1,0,,310.0
+Starters,Paneer Chilli Sticks,1,0,,400.0
+Starters,Crispy Thread Paneer,1,0,,380.0
+Starters,Sweet and Sour Vegetable,1,0,,280.0
+Starters,Crispy Lotus Stem in Hoisin Sauce,1,0,,330.0
+Main Course,Tiso Paneer Gravy,1,0,,380.0
+Main Course,Tiso Mushroom Gravy,1,0,,380.0
+Main Course,Vegetable Thai Red Curry,1,0,,450.0
+Main Course,Vegetable in Hot Garlic Sauce,1,0,,280.0
+Main Course,Vegetable Thai Green Curry,1,0,,450.0
+Main Course,Paneer in Double Red Cooked Sauce,1,0,,380.0
+Main Course,Vegetable in Hunan Sauce,1,0,,280.0
+Main Course,Vegetable in Ginger Sauce,1,0,,280.0
+Main Course,Paneer in Ginger Sauce,1,0,,380.0
+Main Course,Vegetable in Schezwan Sauce,1,0,,290.0
+Main Course,Korean Veg Gravy,1,0,,330.0
+Main Course,Vegetable Buddhas Delight,1,0,,330.0
+Main Course,Vegetable Chow Chow,1,0,,290.0
+Main Course,Crispy Veg in Hot Garlic Sauce,1,0,,270.0
+Main Course,Crispy Veg in Schezwan Sauce,1,0,,270.0
+Main Course,Crispy Veg in Black Bean Sauce,1,0,,270.0
+Main Course,Sesame Fried Paneer in Honey Chilli Sauce,1,0,,380.0
+Main Course,Vegetable with Baby Corn,1,0,,310.0
+Main Course,Ching Chokai Chicken Gravy,0,0,,380.0
+Main Course,Tiso Chicken Gravy,0,0,,380.0
+Main Course,Holy Chicken Gravy,0,0,,380.0
+Main Course,Chicken in Spicy Hakka Sauce,0,0,,380.0
+Main Course,Tsing Hoi Chicken Gravy,0,0,,380.0
+Main Course,Chicken Coriander Chilli Sauce,0,0,,350.0
+Main Course,Sapo Chicken Gravy,0,0,,380.0
+Main Course,Chicken Thai Red Curry,0,0,,450.0
+Main Course,Chicken Thai Green Curry,0,0,,450.0
+Main Course,Chicken in Garlic Sauce,0,0,,350.0
+Main Course,Chicken in Ginger Sauce,0,0,,350.0
+Main Course,Chicken in Black Bean Sauce,0,0,,370.0
+Main Course,Chicken in Chilli Garlic Sauce,0,0,,350.0
+Main Course,Chicken in Oyster Sauce,0,0,,390.0
+Main Course,Devils Chicken Gravy,0,0,,380.0
+Main Course,Chicken with Green Chilli in Red Sauce,0,0,,380.0
+Main Course,Chicken Ginger Chilli Gravy,0,0,,380.0
+Main Course,Chicken in Schezwan Sauce,0,0,,350.0
+Main Course,Red Cooked Chicken Gravy,0,0,,380.0
+Main Course,Chicken Chow Chow,0,0,,350.0
+Main Course,Grilled Chicken in Teriyaki Sauce,0,0,,380.0
+Main Course,Fish in Ginger Sauce,0,0,,450.0
+Main Course,Fish in Garlic Sauce,0,0,,450.0
+Main Course,Stuffed Fish in Chilli Garlic Sauce,0,0,,450.0
+Main Course,Prawns Thai Red Curry,0,0,,470.0
+Main Course,Prawns Thai Green Curry,0,0,,470.0
+Main Course,Prawns in Garlic Sauce,0,0,,450.0
+Main Course,Prawns in Ginger Sauce,0,0,,450.0
+Main Course,Prawns Green Chilli Red Sauce [Jumbo],0,0,,770.0
+Main Course,King Prawns Green Chilli Red Sauce,0,0,,650.0
+Main Course,King Prawns in Garlic Sauce,0,0,,650.0
+Main Course,King Prawns in Ginger Sauce,0,0,,650.0
+Main Course,Prawns in Oyster Sauce [Jumbo],0,0,,770.0
+Main Course,Prawns Schezwan Sauce,0,0,,450.0
+Rice,Plain Steamed Rice,1,0,,120.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,270.0
+Fried Rice and Noodles,Chicken and Cheese Fried Rice,0,0,,390.0
+Fried Rice and Noodles,Chicken Moon Fan Fried Rice,0,0,,290.0
+Fried Rice and Noodles,Chicken Bamboo Fried Rice,0,0,,410.0
+Fried Rice and Noodles,Chicken Hunan Fried Rice,0,0,,290.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,,290.0
+Fried Rice and Noodles,Chicken Thai Fried Rice,0,0,,290.0
+Fried Rice and Noodles,Chicken Korean Fried Rice,0,0,,410.0
+Fried Rice and Noodles,Chicken Special Fried Rice,0,0,,410.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,270.0
+Fried Rice and Noodles,Schezwan Chicken Combination Fried Rice,0,0,,360.0
+Fried Rice and Noodles,Canton Style Chicken Combination Fried Rice,0,0,,360.0
+Fried Rice and Noodles,Chicken Vegetable Steamed Fried Rice,0,0,,350.0
+Fried Rice and Noodles,Fish Bamboo Fried Rice,0,0,,470.0
+Fried Rice and Noodles,Fish Combination Fried Rice,0,0,,450.0
+Fried Rice and Noodles,Prawns Combination Fried Rice,0,0,,450.0
+Fried Rice and Noodles,Prawns Fried Rice,0,0,,300.0
+Fried Rice and Noodles,Prawns Korean Fried Rice,0,0,,470.0
+Fried Rice and Noodles,Prawns Bamboo Fried Rice,0,0,,470.0
+Fried Rice and Noodles,Prawns Vegetable Steamed Fried Rice,0,0,,400.0
+Fried Rice and Noodles,Mixed Fried Rice,0,0,Chicken and prawns.,300.0
+Fried Rice and Noodles,Mixed Vegetable Steamed Fried Rice,0,0,Mixed with chicken & prawns.,400.0
+Fried Rice and Noodles,Vegetable Hakka Noodles,1,0,,270.0
+Fried Rice and Noodles,Vegetable Schezwan Noodles,1,0,,270.0
+Fried Rice and Noodles,Vegetable Hunan Noodles,1,0,,270.0
+Fried Rice and Noodles,Veg Pan Fried Noodles,1,0,,370.0
+Fried Rice and Noodles,Vegetable American Chopsuey,1,0,,280.0
+Fried Rice and Noodles,Vegetable Tepan Soba,1,0,,390.0
+Fried Rice and Noodles,Vegetable Chinese Chopsuey,1,0,,280.0
+Fried Rice and Noodles,Vegetable Hunan Chopsuey,1,0,,280.0
+Fried Rice and Noodles,Vegetable Chowmein,1,0,,280.0
+Fried Rice and Noodles,Chicken Hakka Noodles,0,0,,270.0
+Fried Rice and Noodles,Chicken Hunan Noodles,0,0,,290.0
+Fried Rice and Noodles,Chicken Chinese Noodles,0,0,,450.0
+Fried Rice and Noodles,Chicken Pan Fried Noodles,0,0,,420.0
+Fried Rice and Noodles,Chicken Teppan Soba,0,0,,390.0
+Fried Rice and Noodles,Chicken American Chopsuey,0,0,,290.0
+Fried Rice and Noodles,Chicken Chinese Chopsuey,0,0,,290.0
+Fried Rice and Noodles,Chicken Hunan Chopsuey,0,0,,290.0
+Fried Rice and Noodles,Chicken Chowmein,0,0,,310.0
+Fried Rice and Noodles,Prawns Chowmein,0,0,,410.0
+Fried Rice and Noodles,Prawns Hakka Noodles,0,0,,300.0
+Fried Rice and Noodles,Mixed Chowmein,0,0,Mixed with chicken and prawns.,410.0
+Fried Rice and Noodles,Mixed Hakka Noodles,0,0,Chicken and prawns.,300.0
+Fried Rice and Noodles,Vegetable Hunan Fried Rice,1,0,,270.0
+Fried Rice and Noodles,Vegetable Schezwan Fried Rice,1,0,,270.0
+Fried Rice and Noodles,Tomato Chilli Mushroom Fried Rice,1,0,,290.0
+Fried Rice and Noodles,Vegetable Cheese Fried Rice,1,0,,340.0
+Fried Rice and Noodles,Vegetable Moon Fan Fried Rice,1,0,,280.0
+Fried Rice and Noodles,Vegetable Bamboo Fried Rice,1,0,,410.0
+Fried Rice and Noodles,Vegetable Korean Fried Rice,1,0,,410.0
+Fried Rice and Noodles,Veg Steamed Fried Rice,1,0,,280.0
+Fried Rice and Noodles,Vegetable Special Fried Rice,1,0,,410.0
+Fried Rice and Noodles,Vegetable Fried Rice,1,0,,260.0
+Fried Rice and Noodles,Schezwan Type Vegetable Combination Fried Rice,1,0,,350.0
+Fried Rice and Noodles,Canton Type Vegetable Combination Fried Rice,1,0,,350.0
+Fried Rice and Noodles,Exotic Veg Fried Rice,1,0,,300.0
+Snacks,Veg Spring Roll,1,0,,250.0
+Snacks,Chicken Spring Roll,0,0,,260.0
+Snacks,Fish Fingers,0,0,,450.0
+Momos,Veg Fried Wonton [12 Pieces],1,0,,250.0
+Momos,Chicken Fried Wonton [12 Pieces] with Garlic Sauce,0,0,,260.0

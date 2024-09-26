@@ -1,0 +1,62 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Breads,SOUR DOUGH Bread (WHOLE WHEAT),1,0,,175.0
+Breads,Regular Sandwich Bread,1,0,,50.0
+Breads,Whole Wheat Bread [300 grams],1,0,Whole wheat bread or wholemeal bread is a type of bread made using ... read more,70.0
+Breads,Vanilla Cream Rolls 1PC,1,0,,30.0
+Breads,Vada Pav Bread [6 Pieces],1,0,,40.0
+Breads,Pav [6 Pieces],1,0,,40.0
+Breads,Whole Wheat Pav [6 Pieces],1,0,Whole wheat bread or wholemeal bread is a type of bread made using ... read more,50.0
+Breads,Burger Bun [4 Pieces],1,0,,60.0
+Breads,Whole Wheat Burger Bun [4 Pieces],1,0,,70.0
+Breads,PITA BREAD / POCKET PIZZA Regular [2 Pieces],1,0,,90.0
+Breads,"Pizza Base [Regular, 2 Pieces]",1,0,,55.0
+Breads,Multi Grain Bread,1,0,Multi grain bread bread is a type of bread made using ... read more,95.0
+Breads,Pizza Base Italian Thin Crust [2 Pieces],1,0,,50.0
+Breads,Whole Wheat Pizza Base Thin Crust [2 Pieces],1,0,Whole wheat bread or wholemeal bread is a type of bread made using ... read more,65.0
+Breads,Multi Grain Panni Bread,1,0,,85.0
+Breads,Garlic Loaf,1,0,,85.0
+Breads,French Loaf [12 inches],1,0,,220.0
+Breads,Whole Wheat Bagel Bread,1,0,,200.0
+Breads,Butter Croissant,1,0,,175.0
+Breads,Plain Loaf,1,0,,75.0
+Breads,Soup Stick,1,0,,75.0
+Breads,Whole Wheat Soup Stick,1,0,,85.0
+Breads,Triangel Bread,1,0,,80.0
+Breads,WHOLE WHEAT Khari [200 grams],1,0,,85.0
+Breads,Khari Plain [200 grams],1,0,,75.0
+Breads,Dinner Roll,1,0,,70.0
+Breads,Burger Bun [Big],1,0,,55.0
+Puffs,Veg CHILLY Puff,1,0,,35.0
+Puffs,Veg Puff,1,0,,35.0
+Puffs,Paneer Puff,1,0,,90.0
+Puffs,Chinese Style Spring Roll Puff,1,0,,100.0
+Puffs,Paneel Roll Puff,1,0,,100.0
+Puffs,Aloo Puff,1,0,,35.0
+Pastries,Black Forest Pastry,1,0,,120.0
+Pastries,Fresh Pineapple Pastry,1,0,,120.0
+Pastries,Chocolate Royal Pastry,1,0,,120.0
+Pastries,Pyramid Pastry,1,0,,120.0
+Pastries,Choco Chips Pastry,1,0,,120.0
+Pastries,Choco Truffel Pastry,1,0,,120.0
+Pastries,Mud Pie Pastry,1,0,,110.0
+Pastries,Tiramisu Pastry,1,0,,120.0
+Pastries,Red Velvet Pastry,1,0,[Veg preparation],120.0
+Desserts and Beverages,Vanilla Muffins [2 Pieces],1,0,,30.0
+Desserts and Beverages,Fruit Muffins [2 Pieces],1,0,,45.0
+Desserts and Beverages,Chocolate Muffins,1,0,,45.0
+Desserts and Beverages,Choco Walnut Brownies,1,0,,80.0
+Mothers Day Special Cakes,Black Forest Cake,1,0,"Black Forest gâteau, also called Black Forest cake, is a German chocolate and ... read more",575.0
+Mothers Day Special Cakes,Fresh Pineapple Cake,1,0,,575.0
+Mothers Day Special Cakes,Vanilla Cake,1,0,,575.0
+Mothers Day Special Cakes,Butterscotch Cake,1,0,,575.0
+Mothers Day Special Cakes,Strawberry Cake,1,0,,575.0
+Mothers Day Special Cakes,Blackcurrant Cake,1,0,,650.0
+Mothers Day Special Cakes,Irish Coffee Cake,1,0,,650.0
+Mothers Day Special Cakes,White Forest Cake,1,0,,700.0
+Mothers Day Special Cakes,Plain Choc and Vanilla Cake,1,0,,650.0
+Mothers Day Special Cakes,Dark Choc and Vanilla Cake,1,0,,650.0
+Mothers Day Special Cakes,Pyramid Cake,1,0,,650.0
+Mothers Day Special Cakes,Chocolate Royal Cake,1,0,,650.0
+Mothers Day Special Cakes,Choco Chips Cake,1,0,,750.0
+Mothers Day Special Cakes,Devils Delight Cake,1,0,,750.0
+Mothers Day Special Cakes,Mud Pie Cake,1,0,,750.0

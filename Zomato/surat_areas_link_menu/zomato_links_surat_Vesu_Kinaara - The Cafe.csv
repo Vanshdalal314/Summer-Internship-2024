@@ -1,0 +1,74 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Gourmet Collection,Mushroom Focaccia Sandwich,1,0,"Soft focaccia filled with fresh mushroom, caramelized onion and a burst of flavour ... read more",432.0
+Gourmet Collection,Paneer Focaccia Sandwich,1,0,"Soft focaccia embraced with paneer, veggies -an explosion of taste in every bite",456.0
+Gourmet Collection,Mushroom Sub Sandwich,1,0,"Fresh mushrooms, whole wheat bread, and a burst of flavors in each mouthwatering ... read more",384.0
+Gourmet Collection,Paneer Sub Sandwich,1,0,"Succulent paneer, veggies, whole wheat bread?an explosion of taste in every bite.",408.0
+Gourmet Collection,Badam Halwa Croissant,1,0,,312.0
+Gourmet Collection,Butter Croissant,1,0,,216.0
+Gourmet Collection,Nutella Croissant,1,0,,264.0
+Gourmet Collection,Tandoori Makhani Croissant,1,0,,264.0
+Gourmet Collection,Tomato Basil Cream Cheese Croissant,1,0,,300.0
+Barista Counter,Cafe Mocha,1,0,,216.0
+Barista Counter,Cappuccino,1,0,"Rich, creamy, and indulgent, this velvety beverage is the perfect combination of espresso ... read more",192.0
+Barista Counter,Hazelnut Cappucino,1,0,,216.0
+Barista Counter,Hot Chocolate,1,0,A rich and creamy beverage to warm up your soul.,216.0
+Barista Counter,Biscoff Brownie Shake,1,0,,312.0
+Barista Counter,Biscoff Shake,1,0,,288.0
+Barista Counter,Brownie Milk Shake,1,0,,264.0
+Barista Counter,Death By Chocolate,1,0,,264.0
+Barista Counter,Ferrero Rocher Shake,1,0,,288.0
+Barista Counter,Mix Berries Shake,1,0,,264.0
+Barista Counter,Nutella Shake,1,0,,288.0
+Barista Counter,Cold Brew,1,0,,216.0
+Barista Counter,Cold Brew Tonic,1,0,,264.0
+Barista Counter,Espresso Tonic,1,0,,216.0
+Barista Counter,Classic Cold Coffee,1,0,,216.0
+Barista Counter,Cold Bournvita,1,0,,192.0
+Barista Counter,Hazelnut Frappe,1,0,,240.0
+Barista Counter,Irish Frappe,1,0,,240.0
+Barista Counter,Mocha Frappe,1,0,,240.0
+Barista Counter,Kinaara Chai,1,0,,78.0
+Barista Counter,Classic Mojito Mint,1,0,,216.0
+Barista Counter,Lemon Ice Tea,1,0,,192.0
+Barista Counter,Peach Ice Tea,1,0,,192.0
+Barista Counter,Redbull Mojito,1,0,,288.0
+Barista Counter,Mosambi,1,0,,168.0
+Barista Counter,Pomegranate,1,0,,192.0
+Barista Counter,Watermelon Juice,1,0,A quick and delicious drink that goes well on any day made up ... read more,144.0
+Barista Counter,Americano,1,0,,168.0
+Barista Counter,Cafe Bombon,1,0,,216.0
+Barista Counter,Iced Americano,1,0,,192.0
+Barista Counter,Kaala Khatta Slush,1,0,,216.0
+Barista Counter,Pineapple Slush,1,0,,216.0
+Barista Counter,Watermelon Slush,1,0,,216.0
+Barista Counter,Brownie,1,0,,144.0
+Barista Counter,Chocolate Truffle Pastry,1,0,A dense moist chocolate cake with silky chocolate ganache frosting with chocolate shavings ... read more,300.0
+Continental Menu,Creamy Ravioli,1,0,"Delicate pasta pockets filled with savory ingredients, served in white sauce (include mushroom)",408.0
+Continental Menu,Mama Rosa ( Pink Sauce),1,0,Penne cooked with smooth pink sauce ( arrabiata + mornay) and garnished with ... read more,360.0
+Continental Menu,Paneer Saute,1,0,"Broccoli, carrots, beans, bellpeper, zucchini and baby corn and cottage cheese sauted in ... read more",384.0
+Continental Menu,Pasta Aglio Olio (Spagetti),1,0,"Broccoli, carrots, beans, bellpeper, zucchini and baby corns sauted with garlic and olives",336.0
+Continental Menu,Pasta Alfredo ( White Sauce Pasta ),1,0,"Penne pasta cooked with broccoli, carrots, beans, zucchini and béchamel sauce",360.0
+Continental Menu,Pasta Arrabiata (Red Sauce Pasta),1,0,Penne cooked with tangy tomato sauce and garnished with fresh basil,384.0
+Continental Menu,Pesto Pasta,1,0,Penne cooked with sweet basil and mint sauce and garnished with smoked parmesan,384.0
+Continental Menu,Veggies Saute,1,0,"Broccoli, carrots, beans, bellpepers, zucchini and baby corn sauteed with special seasoning in ... read more",288.0
+Continental Menu,Farm House Pizza [12'Inch],1,0,"Mushrooms, Bell Peppers, Onions, Tomatoes, Olives, Jalepenos And Sweetcorn Cheese",696.0
+Continental Menu,Garden Delight Pizza [12'Inch],1,0,"Bell Peppers, Tomatoes And Onions With Marinara Sauce",624.0
+Continental Menu,La Mexicano Pizza [12'Inch],1,0,"Fresh Vegetable Toppings Of Olive, Sweetcorn, Babycorn N Jalapanos",648.0
+Continental Menu,Margarita Pizza [12'Inch],1,0,Hand Tossed Pizza With The Base Of Marinara Sauce & Shredded Mozzarella,576.0
+Continental Menu,Pesto Chilly Pizza [12'Inch],1,0,"Base Of Fresh Basil Pesto And Topped With Fresh Tomatoes, Capsicum, Olives & ... read more",660.0
+Continental Menu,Tandoori Paneer Pizza [12'Inch],1,0,Italian Extravaganza With A Desi Tadka Of Crusty Pizza Topped With Marinated Tandoori ... read more,648.0
+Continental Menu,Veg Exotic Delight Pizza [12'Inch],1,0,"Farm Fresh Brocolli, Sundried Tomato, Zucchini, Babycorn N Basil Leaves With Marinara Sauce",672.0
+Continental Menu,Paneer Corn Quesadilla,1,0,"Soft Shell Tortilla Filled With Paneer, Sweet Corn, Veggies & Cheese",336.0
+Continental Menu,Spicy Paneer Wrap,1,0,"Paneer Marinated With Hell Raised Chillies Served And Rolled With Bell Peppers, Lettuce, ... read more",336.0
+Continental Menu,Bombay Grill Sandwich (Non Jain),1,0,A scrumptious sandwich made by mixed vegetables n chatpata paneer,396.0
+Continental Menu,Kinaara Club Sandwich,1,0,"Our Chef Special Served With The Layers Of Spice Blended Veggies, Mashed Potato ... read more",312.0
+Continental Menu,Tandoori Paneer Club Sandwich,1,0,A Layer Of Tangy Spicy Tandoori Covered Paneer With The Layer Of Spices ... read more,384.0
+Continental Menu,Bread Butter Toast,1,0,Crispy golden toast slathered with warm butter - a simple yet satisfying classic.,96.0
+Continental Menu,Veg Cheese Toast,1,0,"Veg cheese toast consist of seasonal vegetables, cheese and toast to perfection.",192.0
+Quick Bites,Cheese Chilli Toast,1,0,"Confetti bell peppers, cheese, onions and chillies on toasted baguette slices.",240.0
+Quick Bites,Cheese Garlic Bread,1,0,Garlic bread topped with an overload of cheese and baked to perfection.,216.0
+Quick Bites,Biscuit Pie,1,0,Biscuits(Khari) with Pizza Toppings,144.0
+Quick Bites,Jhalmudi,1,0,Bengali Puffed Rice Chaat,168.0
+Quick Bites,Maska Bun,1,0,"Classic Bun with Maska(butter, lots of it)",84.0
+Quick Bites,Peri-Peri French Fries,1,0,,192.0
+Quick Bites,Salted French Fries,1,0,Golden brown strips of potato fried to crisp perfection and flavored with salt.,168.0

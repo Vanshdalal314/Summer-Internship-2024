@@ -1,0 +1,129 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+French Fries And Biscuit Pie,Garlic Maggie,1,0,Maggi sauteed with garlic & spices,300.0
+French Fries And Biscuit Pie,Peri Peri Maggie,1,0,A Delicious Twist On A Clasic Maggi Dish Bursting With Bold And Flavorful ... read more,250.0
+French Fries And Biscuit Pie,Tadka Maggie,1,0,Aromatic and flavourful maggi dish with a tantalizing blend of indian spices,300.0
+French Fries And Biscuit Pie,Cheese Blast Maggie,1,0,"Cheese Maggi made with noodles, bell peppers topped with grated cheese to create ... read more",330.0
+French Fries And Biscuit Pie,Mexican Nachos,1,0,"Tortilla chips, cheese and maxican beans",220.0
+French Fries And Biscuit Pie,Cheese Loaded Nachos,1,0,"Tortilla chips, cheese and salsa dip",250.0
+French Fries And Biscuit Pie,Veg Maggie,1,0,A flavorful,250.0
+French Fries And Biscuit Pie,French Fries,1,0,Crisp Goldern Fries,200.0
+French Fries And Biscuit Pie,Masala Maggie,1,0,This maggi is synonyms with comfort food because it recalls the childhood fun ... read more,190.0
+French Fries And Biscuit Pie,Peri Peri Fries,1,0,Crisp golden fries with a tantalizing blend of african spices,230.0
+French Fries And Biscuit Pie,Cheese Loaded Fries,1,0,"Golden french fries smothred in melted cheese, the perfect indulgence for any cheese ... read more",300.0
+French Fries And Biscuit Pie,Cheese Chilli Toast,1,0,These Chilli Cheese Toast make a great appetizer or quick snack. Topped with ... read more,280.0
+French Fries And Biscuit Pie,Italian Garlic Bread,1,0,"Essentially made with a loaf of focaccia bread cut into smaller portions, smeared ... read more",330.0
+French Fries And Biscuit Pie,House Garlic Bread,1,0,"In a medium bowl, mix butter, garlic, parsley and salt together until well ... read more",330.0
+Pizza,B.b.q. Paneer With Spring Onion,1,0,,480.0
+Pizza,Corn Delight Pizza [9 Inch],1,0,"Green Capsicum, Sweet Corn, Baby Corn",380.0
+Pizza,Farm Fresh Pizza [9 Inch],1,0,"Green Capsicum, Red-Yellow Pepper, Jalapenos, Onion, Black Olives",400.0
+Pizza,Italian Leaf Pizza [9 Inch],1,0,"Liquid Cheese, Black Olives, Jalapenos, Broccoli",400.0
+Pizza,Leaf Special Pizza [9 Inch],1,0,"Green Capsicum, Red-Yellow Pepper, Sweet Corn, Baby Corn, Red Peprica, Paneer Peprica, Processed ... read more",500.0
+Pizza,Margherita Pizza [9 Inch],1,0,Delicious Mozzarella Cheese In Every Bite,330.0
+Pizza,Mushroom Tikka Pizza,1,0,"His pizza is layered in sauce (that comes together in seconds), quick sautéed ... read more",440.0
+Pizza,Paneer Makhani Pizza [9 Inch],1,0,"Makhani Sauce, Makhani Paneer, Green Capsicum, Red Peprica, Onion",440.0
+Pizza,Paneer Tikka Pizza [9 Inch],1,0,"Tikka Powder, Tikka Paneer, Green Capsicum, Onion",440.0
+Pizza,Peri-Peri Pizza [9 Inch],1,0,"Peri-Peri Sauce, Paneer, Onion, Green Capsicum, Tomato",440.0
+Pizza,Spicy Bite Pizza,1,0,,400.0
+Pizza,Double Cheese Margherita Pizza [9 Inch],1,0,Enjoy Double Portions Of Delicious Mozzarella Cheese,420.0
+Chinese,Hakka Noodles,1,0,A delectable dish with slippery strands of noodles dressed in a flavorful sauce ... read more,280.0
+Chinese,Paneer Chilly,1,0,"Paneer chunks sauteed well with spices, chillies, onion, capsicum and soy sauce.",350.0
+Chinese,Veg 65,1,0,Crispy and crunchy balls are deep fried and then tossed with vegitables and ... read more,280.0
+Chinese,Veg Manchurian,1,0,Veg Manchurian dry is a crispy starter snack of fried veg balls tossed ... read more,280.0
+Tea And Hot Chocolate,Lemone Ice Tea,1,0,,225.0
+Tea And Hot Chocolate,Masala Tea,1,0,"Ginger,tea cordamom and milk",150.0
+Tea And Hot Chocolate,Peach Ice-tea,1,0,Iced tea with flovour of lemon & peach.,220.0
+Tea And Hot Chocolate,Green Tea,1,0,,150.0
+Tea And Hot Chocolate,Classic Hot Chocolate,1,0,(Chocolate Powder &Milk),220.0
+Tea And Hot Chocolate,Caramel Hot Chocolate,1,0,(Chocolate Powder & Milk With Caramel Syrup),240.0
+Tea And Hot Chocolate,Hazelnut Hot Chocolate,1,0,(Chocolate Powder & Milk With Hazelnut Syrup),240.0
+Tea And Hot Chocolate,Nutella Hot Chocolate,1,0,(Chocolate Powder & Milk With Nutella),280.0
+Tea And Hot Chocolate,Dark Hot Chocolate,1,0,(Chocolate Powder & Milk With Dark Chocolate),250.0
+Tea And Hot Chocolate,White Hot Chocolate,1,0,(Chocolate Powder & Milk With White Chocolate),250.0
+Tea And Hot Chocolate,Tiramisu Hot Chocolate,1,0,(Chocolate Powder & Milk With Tiramisu Syrup),240.0
+Dessert,Ferrero Rocher,1,0,,400.0
+Dessert,Newyork Cheesecake,1,0,"New york style is a classic cheesecake and our bestseller as well, its ... read more",250.0
+Dessert,Walnut Chips Brownie,1,0,,150.0
+Dessert,Blueberry Cheesecake,1,0,Blueberry compote spread on top of nyc classic cheesecake.,280.0
+Dessert,Choco Chips Brownie,1,0,,150.0
+Dessert,Nutella Brownie,1,0,,200.0
+Dessert,Nutella Cheesecake,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",300.0
+Dessert,Biscoff Brownie,1,0,,200.0
+Dessert,Biscoff Cheesecake,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",350.0
+Sandwich And Toast,American Grilled Cheese Sandwich,1,0,"Brown bread with eng.veggies s,onion ingredient stuff",300.0
+Sandwich And Toast,Grilled Cheese Sandwich,1,0,"Brown bread with letus,cheese,capsicum,onion,cucumber",300.0
+Sandwich And Toast,Smoked Paneer Sandwich,1,0,Brown bread with saute paneer&mix veg ingredient,260.0
+Sandwich And Toast,Peri Peri Paneer Sandwich,1,0,Brown bread with peri peri mayo mix paneer onion,240.0
+Sandwich And Toast,Jamaican Mushroom,1,0,"Brown bread with mushroom,capsicum,onion",260.0
+Sandwich And Toast,Hummus And Pita Bread,1,0,"Chickpeas,tahini,oliveoil,paste with pita bread",320.0
+Rice Bowl,Cilantro Lime Rice,1,0,Aromatic basmati rice fused with warm spices creating a mouth-watering symphony of flavors.,300.0
+Rice Bowl,Mexican Rice With Gravy,1,0,"A mouthwatering Mexican delight brimming with flavors, herbs, and enticing seasonings, perfect for ... read more",350.0
+Rice Bowl,Schezwan Fried Rice,1,0,Chinese rice tossed in Spicy red Gravy,350.0
+Coffee,Espresso [30 Ml],1,0,(Single Shot Of Coffee),160.0
+Coffee,Doppio [60 Ml],1,0,(Double Shot Of Coffee),180.0
+Coffee,Americano [140 Ml],1,0,Double Shot Espresso With Water,180.0
+Coffee,Cappuccino [240 Ml],1,0,"Espresso, Warm Milk And Milk Foam",200.0
+Coffee,Latte [240 Ml],1,0,"Espresso, Hot Milk",200.0
+Coffee,Flat White [180 Ml],1,0,"Espresso, Steamed Milk",240.0
+Coffee,Mocha [140 Ml],1,0,"Espresso, Chocolate, Milk",240.0
+Coffee,Macchiato [120 Ml],1,0,"Espresso, Milk Foam.",240.0
+Coffee,Affagato,1,0,,300.0
+Coffee,Cranberry Espresso Tonic,1,0,Cranberry espresso shot & refreshing tonic water,300.0
+Coffee,Ferrero Iced Latte,1,0,,300.0
+Coffee,Iced Americano [200 Ml],1,0,(Espresso Shot With Ice With Water),200.0
+Coffee,Iced Espresso [120 Ml],1,0,(Espresso Shot With Ice),180.0
+Coffee,Cold Brew [250 Ml],1,0,(Batch Brewed Served With Ice Cubes),220.0
+Coffee,Bombon,1,0,(Espresso Shot With Milkmaid/Condensed Milk),220.0
+Coffee,Vietnamese,1,0,(Batch Brew With Milkmaid/Condensed Milk),220.0
+Coffee,Iced Latte [300 Ml],1,0,"(Espresso Shot,Ice & Milk)",220.0
+Coffee,Espresso Tonic [480 Ml],1,0,"(Espresso Shot,Ice & Tonic Water/Giner Ale)",220.0
+Coffee,Espresso Ginger Ale [450 Ml],1,0,"(Espresso Shot,Ice & Tonic Water/Giner Ale)",280.0
+Coffee,Iced Mocha [300 Ml],1,0,"(Espresso Shot, Ice, Milk & Chocolate)",240.0
+Coffee,Cold Brew Tonic [480 Ml],1,0,"(Batch Brew, Ice Served With Tonic Water/Ginger Ale)",240.0
+Coffee,Cold Brew Ginger Ale [480 Ml],1,0,"(Batch Brew, Ice Served With Tonic Water/Ginger Ale)",260.0
+Coffee,Clod Brew Coconut Water [250 Ml],1,0,"(Batch Brew , Ice With Coconut Water)",250.0
+Coffee,Mazagran [250 Ml],1,0,"Cold Brew, Lemon, Sugar Syrup, Ice",250.0
+Coffee,Cold Brew Lemonade [250 Ml],1,0,"(Batch Brew,Ice,Lemonade,Sugar Syrup & Tonic Water)",250.0
+Coffee,Espresso Redbull [350 Ml],1,0,"(Espresso Shot , Ice & Redbull)",280.0
+Coffee,Cranberry Espresso [250 Ml],1,0,"(Cranberry Juice, Ice & Espresso)",300.0
+Coffee,Cranberry Tonic Cold Brew,1,0,Cranberry juice topped with tonic and batch of cold brew,350.0
+Coffee,Lime Lite,1,0,,300.0
+Waffles And Pancakes,Classic Waffle,1,0,,220.0
+Waffles And Pancakes,Caramel Waffle,1,0,,220.0
+Waffles And Pancakes,Chocolate Waffle,1,0,,220.0
+Waffles And Pancakes,Nutella Waffle,1,0,,240.0
+Waffles And Pancakes,Tripple Chocolate Waffle,1,0,,260.0
+Frappe,Classic Frappe,1,0,"(Espresso Shot ,Ice, Frappe Powder & Milk )",220.0
+Frappe,Mocha Frappe,1,0,"(Espresso Shot ,Ice, Frappe Powder,Chocolate Syrup & Milk )",230.0
+Frappe,Caramel Frappe,1,0,"(Espresso Shot ,Ice, Frappe Powder,Caramel Syrup & Milk )",240.0
+Frappe,Hazelnut Frappe,1,0,"(Espresso Shot ,Ice, Frappe Powder, Hazelnut Syrup& Milk )",240.0
+Frappe,Vanilla Frappe,1,0,"(Espresso Shot ,Ice, Frappe Powder,Vanilla Syrup & Milk )",220.0
+Frappe,Choco Chips Frappe,1,0,"(Espresso Shot ,Ice, Frappe Powder,Choco Chips Chocolate & Milk )",220.0
+Frappe,Irish Frappe,1,0,"(Espresso Shot ,Ice, Frappe Powder, Irish Syrup& Milk )",220.0
+Frappe,Nutella Frappe,1,0,"(Espresso Shot ,Ice, Frappe Powder,Nutella Spread& Milk )",240.0
+Frappe,Biscoff Frappe,1,0,"(Espresso Shot ,Ice, Frappe Powder,Biscoff Spread & Milk )",240.0
+Frappe,Classic Cold Coffee,1,0,"(Espresso Shot ,Ice, Frappe Powder,Vanilla Scoop & Milk )",200.0
+Shakes And Smoothies,Strawberry Smoothie,1,0,,300.0
+Shakes And Smoothies,Mixed Berry Smoothie,1,0,,300.0
+Shakes And Smoothies,Passion Fruit Smoothie,1,0,,300.0
+Shakes And Smoothies,Cookie Crumble Shake,1,0,"Choco cookie,vanilla&chocolate icecream, milk choco,dressing chocolate",250.0
+Shakes And Smoothies,Oreo Shakes,1,0,"(Vanilla Icecream,Milk & Oreo Biscuits)",210.0
+Shakes And Smoothies,Chocolate Shakes,1,0,"(Chocolate Icream,Milk,&Hershey'S Syrup )",180.0
+Shakes And Smoothies,Nutella Shakes,1,0,"(Vanilla/Chocolate Icecream,Milk & Nutella Spread)",230.0
+Shakes And Smoothies,Blueberry Shakes,1,0,"(Vanilla Icecream,Blueberry Spread &Milk)",220.0
+Shakes And Smoothies,Biscoff Shakes,1,0,"(Vanilla Icecream,Biscoff Spread & Milk)",290.0
+Shakes And Smoothies,Brownie Crumble Shakes,1,0,"(Chocolate/Vanilla Icecream, Brownie, Hershey'S Syrup & Milk)",220.0
+Shakes And Smoothies,Ferrero Rocher Shakes,1,0,"(Vanila/Chocolate Icecream,Nutella Spread,Ferrero Chocolate& Milk)",260.0
+Shakes And Smoothies,Kitkat Shakes,1,0,"(Vanilla Icecream,Kitkat Chocolate ,Hershey'S Syrup & Milk)",220.0
+Shakes And Smoothies,Cad-b Shake,1,0,Shake,250.0
+Ice-Cream Blend,Chocolate Blend,1,0,"(Espresso Shot,Chocolate Icream,Milk )",220.0
+Ice-Cream Blend,Oreo Blend,1,0,"(Espresso Shot,Vanilla Icecream,Milk & Oreo Biscuits)",230.0
+Ice-Cream Blend,Brownie Crumble Blend,1,0,"(Espresso Shot,Chocolate/Vanilla Icecream, Brownie, Hershey'S Syrup & Milk)",240.0
+Ice-Cream Blend,Peanut Butter Blend,1,0,"(Espresso Shot,Chocolate/Vanilla Icecream, Peanut Butter Spread, Hershey'S Syrup & Milk)",240.0
+Ice-Cream Blend,Nutella Blend,1,0,"(Espresso Shot,Vanilla/Chocolate Icecream,Milk & Nutella Spread)",260.0
+Ice-Cream Blend,Biscoff Blend,1,0,"(Espresso Shot,Vanilla Icecream,Biscoff Spread & Milk)",280.0
+Ice-Cream Blend,Chocolate Overload Blend,1,0,"(Espresso Shot,Chocolate Icream,Milk,&Hershey'S Syrup )",260.0
+Manual Brew,V60 Pour Over(Hot),1,0,(Manually Brewed Coffee With Hot Water),200.0
+Manual Brew,V60 Pour Over (Iced),1,0,(Manually Brewed Coffee With Ice),200.0
+Manual Brew,Aero Press Coffee (Hot),1,0,,200.0
+Manual Brew,Aero Press Coffee (Iced),1,0,,200.0
+Manual Brew,Clever Dripped Coffee,1,0,,220.0

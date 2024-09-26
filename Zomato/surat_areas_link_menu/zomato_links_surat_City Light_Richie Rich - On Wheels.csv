@@ -1,0 +1,168 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tea And Snack Combo,Tea + 1 Biscuit Pie (6 Pcs),1,0,,280.0
+Tea And Snack Combo,Tea + 2 Bread Butter,1,0,,250.0
+Tea And Snack Combo,Tea + 2 Bun Maska,1,0,,200.0
+Tea And Snack Combo,Tea + 2 Plain Veg Sandwich,1,0,,340.0
+Tea And Snack Combo,Tea,1,0,,150.0
+Special Thali,Chinese Thali,1,0,"Hakka noodles, classic fried rice and manchurain gravy/ serves 1",255.0
+Special Thali,Punjabi Thali With Sweet [Meal Box/ Lunch Box],1,0,2 Butter Roti + Special Paneer Sabzi + Special Veg Sabzi + Dal ... read more,220.0
+Soup,Broccoli Almond Soup,1,0,400 Ml,250.0
+Soup,Burmese Khao Suey,1,0,400 Ml,375.0
+Soup,Cream Of Tomato Soup,1,0,400 Ml,220.0
+Soup,Hot N Sour Soup,1,0,400 Ml,220.0
+Soup,Lemon Coriander Soup,1,0,400 Ml,220.0
+Soup,Manchow Soup,1,0,400 Ml,220.0
+Soup,Mexican Tomato & Bean Soup,1,0,400 Ml,245.0
+Soup,Sweet Corn Veg Soup,1,0,400 Ml,220.0
+Chinese Starters,Chinese Bhel,1,0,400 Ml,270.0
+Chinese Starters,Crispy Veg Schezwan,1,0,400 Ml,270.0
+Chinese Starters,Honey Chilli Potatos,1,0,400 Ml,260.0
+Chinese Starters,Manchurian Dry,1,0,400 Ml,230.0
+Chinese Starters,Manchurian Gravy,1,0,400 Ml,230.0
+Chinese Starters,Mushroon Chilly Dry,1,0,400 Ml,350.0
+Chinese Starters,Paneer Chilly Dry,1,0,400 Ml,350.0
+Chinese Starters,Paneer Chilly Gravy,1,0,400 Ml,350.0
+Chinese Starters,Spring Roll,1,0,400 Ml,300.0
+Chinese Starters,Vegetable Wontons,1,0,400 Ml,315.0
+Chinese Starters,Waterchestnut And Brocolli In Honey Chilli Sauce,1,0,400 Ml,360.0
+Main Coures,Almond Cheesy Kofta,1,0,400 Ml,420.0
+Main Coures,Aloo Gobhi Adraki,1,0,400 Ml,300.0
+Main Coures,Aloo Jeera,1,0,400 Ml,295.0
+Main Coures,Amritsari Cholle,1,0,400 Ml,315.0
+Main Coures,Cheese Butter Masala,1,0,Cheese cubes in a creamy tomato-based sauce with aromatic spic,395.0
+Main Coures,Hyderabadi Paneer Masala,1,0,400 Ml,395.0
+Main Coures,Kadhai Paneer,1,0,400 Ml,385.0
+Main Coures,Kaju Curry,1,0,400 Ml,420.0
+Main Coures,Kashmiri Dum Aloo,1,0,400 Ml,300.0
+Main Coures,Khoya Kaju,1,0,400 Ml,420.0
+Main Coures,Kofta Buna Masala,1,0,400 Ml,385.0
+Main Coures,Malai Kofta,1,0,400 Ml,385.0
+Main Coures,Palak Paneer,1,0,400 Ml,385.0
+Main Coures,Paneer Angara,1,0,400 Ml,350.0
+Main Coures,Paneer Bhurji,1,0,400 Ml,420.0
+Main Coures,Paneer Butter Masala,1,0,400 Ml,395.0
+Main Coures,Paneer Cheese Angoori,1,0,400 Ml,420.0
+Main Coures,Paneer Cheese Butter Masala,1,0,400 Ml,420.0
+Main Coures,Paneer Kaju Masala,1,0,Paneer and cashews cooked in a onion-based gravy/400 MLwith aromatic spices.,395.0
+Main Coures,Paneer Makhni,1,0,400 Ml,385.0
+Main Coures,Paneer Tikka Masala,1,0,400 Ml,385.0
+Main Coures,Veg Angara,1,0,400 Ml,350.0
+Main Coures,Veg Begum Bahar,1,0,Mixed vegetables in a rich and creamy cashew-based yellow gravy.,315.0
+Main Coures,Veg Diwani Handi,1,0,400 Ml,350.0
+Main Coures,Veg Kadhai,1,0,400 Ml,350.0
+Main Coures,Veg Keema Masala,1,0,400 Ml,350.0
+Main Coures,Veg Makkhanwala,1,0,400 Ml,350.0
+Dal,Dal Fry,1,0,400 Ml,230.0
+Dal,Dal Tadka,1,0,400 Ml,250.0
+Dal,Punjabi Pakoda Kadhi,1,0,400 Ml,265.0
+Dal,Punjabi Rajma,1,0,400 Ml,240.0
+Fried Rice And Noodles,Assorted Vegetable In Hunan Sauce [rrow],1,0,A spicy gravy originating from hunan province flavoured with ginger and garlic/400 ML,350.0
+Fried Rice And Noodles,Assorted Vegetables In Hot Garlic Sauce,1,0,400 Ml,375.0
+Fried Rice And Noodles,Burnt Garlic Fried Rice,1,0,400 Ml,265.0
+Fried Rice And Noodles,Chilli Garlic Noodles,1,0,400 Ml,290.0
+Fried Rice And Noodles,Classic Fried Rice,1,0,400 Ml,240.0
+Fried Rice And Noodles,Green Thai Curry,1,0,400 Ml,500.0
+Fried Rice And Noodles,Hakka Noodles,1,0,400 Ml,245.0
+Fried Rice And Noodles,Paneer In Dark Sichuan Sauce [rrow],1,0,A flavorful and spicy dish with paneer tossed in a dark and tangy ... read more,350.0
+Fried Rice And Noodles,Red Thai Curry,1,0,400 Ml,500.0
+Fried Rice And Noodles,Schezwan Triple Rice,1,0,400 Ml,350.0
+Fried Rice And Noodles,Vegetable In Dark Sichuan Sauce [rrow],1,0,A flavorful and spicy dish with mixed vegetables tossed in a dark and ... read more,350.0
+Pizza,Classic Italian Pizza,1,0,"House tomato sauce, olives, onions, tomatoes, mozzarella",355.0
+Pizza,Farmer'S Delight,1,0,[8 Inches],375.0
+Pizza,Margherita Pizza,1,0,[8 Inches],355.0
+Pizza,Mushroom Delight,1,0,[8 Inches],400.0
+Pizza,Paneer Makhni Pizza,1,0,[8 Inches],415.0
+Pizza,Tandoori Paneer Pizza,1,0,[8 Inches],415.0
+Pizza,Veg Exotica,1,0,[8 Inches],410.0
+Pasta,Alfredo,1,0,400 Ml,400.0
+Pasta,Creamy Peri Peri Sauce,1,0,400 Ml,415.0
+Pasta,Mac N Cheese Pasta,1,0,Macroni pasta tossed in an extra cheesy cream sauce/400 ML,365.0
+Pasta,Pasta Arabiata,1,0,400 Ml,400.0
+Pasta,Pink Sauce,1,0,400 Ml,400.0
+Pasta,Veg Lasagna,1,0,"Layer of pasta stuffed fresh vegetables, savory tomato sauce, and creamy cheese, baked ... read more",425.0
+Burger,Veg Cheese Burger,1,0,,235.0
+Sandwich,Chowpatty Grill Sandwich,1,0,,395.0
+Sandwich,Drunked Grilled Sandwich,1,0,,305.0
+Sandwich,Grilled Peri Peri Sandwich,1,0,,295.0
+Sandwich,Italian Grilled Sandwich,1,0,,295.0
+Sandwich,Juicy Grilled Sandwich,1,0,,305.0
+Sandwich,Veg Club Sandwich,1,0,,265.0
+Sandwich,Veg Sandwich,1,0,"Bread stuffed with cucumber, tomatoes, potatoes, butter and green chutney",105.0
+Appetizers,Chilly Cheese Toast Classic,1,0,,195.0
+Appetizers,Chilly Cheese Toast Schezwan,1,0,,195.0
+Appetizers,Falafel Humms Bowl,1,0,"Crispy falafel tikki, hummus, fresh veggies, and drizzled with tangy tahini sauce",310.0
+Appetizers,Fries Salted,1,0,,195.0
+Appetizers,Garlic Bread With Cheese,1,0,,195.0
+Appetizers,Loaded Nachos,1,0,"Crispy tortilla chips topped with jalapenos, melted cheese, fresh salsa, and sour cream",365.0
+Appetizers,Masala Fries,1,0,,195.0
+Appetizers,Peri Peri Fries,1,0,,195.0
+Appetizers,Tomato & Basil Bruschetta,1,0,,225.0
+Biscuit Pie,Chocolate & Cheese,1,0,,215.0
+Biscuit Pie,Creamy Mushroom,1,0,,215.0
+Biscuit Pie,Garlic Spinach & Paneer,1,0,,215.0
+Biscuit Pie,Classic Biscuit Pie,1,0,,160.0
+Biscuit Pie,Schezwan Paneer Biscuit Pie,1,0,,215.0
+Flavours Of Tandoor,Achari Soya Chaap,1,0,,375.0
+Flavours Of Tandoor,Afghani Soya Chaap,1,0,,375.0
+Flavours Of Tandoor,Aloo Nazakhat,1,0,,295.0
+Flavours Of Tandoor,Cheese Chilli Seekh Kebab,1,0,Mix veg seekh Kebab stuffed with cheese and chilli,270.0
+Flavours Of Tandoor,Cheese Paneer Malai Tikka,1,0,"Malai and cheese marinated cottage cheese, slow cooked in tandoor",375.0
+Flavours Of Tandoor,Dahi Ke Kabab,1,0,"Yogurt mixed with milk powder, cottage cheese and deep fried",280.0
+Flavours Of Tandoor,Hara Bhara Kebab,1,0,,285.0
+Flavours Of Tandoor,Lahori Seekh Kabab,1,0,Veg kebab marniated in mughlai flavors,270.0
+Flavours Of Tandoor,Lahsoni Paneer Tikka,1,0,Cottage Cheese marinated in Garlic and indian masala,350.0
+Flavours Of Tandoor,Lasooni Soya Chaap,1,0,,390.0
+Flavours Of Tandoor,Malai Badam Broccoli,1,0,,375.0
+Flavours Of Tandoor,Nawabi Mushroom Tikka,1,0,,375.0
+Flavours Of Tandoor,Pahadi Paneer Tikka,1,0,,385.0
+Flavours Of Tandoor,Paneer Cheese Malai Tikka,1,0,,395.0
+Flavours Of Tandoor,Paneer Tikka Dry,1,0,,385.0
+Flavours Of Tandoor,Peri Peri Paneer Tikka,1,0,,385.0
+Flavours Of Tandoor,Pudina Soya Chaap,1,0,,375.0
+Flavours Of Tandoor,Soya Malai Chaap,1,0,,395.0
+Flavours Of Tandoor,Tandoori Baby Corn Chilli,1,0,,260.0
+Flavours Of Tandoor,Tandoori Soya Chaap,1,0,"Soya Chaap marinated in indian spices, slow cooked in tandoor",340.0
+Flavours Of Tandoor,Veg Seekh Kebab,1,0,Vegetable kebabs made with a blend of Indian spices and served with mint ... read more,270.0
+Flavours Of Tandoor,Veg Shaami Kebab,1,0,,280.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,400 Ml,240.0
+Pav Bhaji,Cheesy Masala Pav,1,0,400 Ml,225.0
+Pav Bhaji,Cheesy Tava Pulav,1,0,400 Ml,305.0
+Pav Bhaji,Extra Butter,1,0,,60.0
+Pav Bhaji,Extra Cheese,1,0,,70.0
+Pav Bhaji,Extra Butter Pav,1,0,,30.0
+Pav Bhaji,Masala Pav,1,0,400 Ml,195.0
+Pav Bhaji,Pav Bhaji,1,0,400 Ml,210.0
+Pav Bhaji,Tava Pulav,1,0,400 Ml,290.0
+Rice & Biryani,Dal Khichdi,1,0,400 Ml,335.0
+Rice & Biryani,Jeera Rice,1,0,400 Ml,225.0
+Rice & Biryani,Palak Lasooni Khichdi,1,0,400 Ml,435.0
+Rice & Biryani,Paneer Makhni Biryani,1,0,400 Ml,440.0
+Rice & Biryani,Steam Rice,1,0,400 Ml,200.0
+Rice & Biryani,Veg Dum Biryani,1,0,400 Ml,415.0
+Rice & Biryani,Veg Handi Biryani,1,0,Assorted vegetables cooked in biryani rice/400 ML,380.0
+Rolls,Paneer Tikka Roll,1,0,,255.0
+Rolls,Tandoori Aloo Roll,1,0,,220.0
+Rolls,Tandoori Soya Malai Chaap Roll,1,0,,245.0
+Indian Breads,Butter Roti,1,0,,70.0
+Indian Breads,Butter Kulcha,1,0,,80.0
+Indian Breads,Butter Naan,1,0,,90.0
+Indian Breads,Butter Roomali Roti,1,0,,95.0
+Indian Breads,Cheese Naan,1,0,,130.0
+Indian Breads,Cheese Kulcha,1,0,,150.0
+Indian Breads,Churchur Naan,1,0,,105.0
+Indian Breads,Churchur Paratha,1,0,,85.0
+Indian Breads,Garlic Kulcha,1,0,,130.0
+Indian Breads,Garlic Naan,1,0,,110.0
+Indian Breads,Garlic Chilly Cheese Kulcha,1,0,,105.0
+Indian Breads,Garlic Chilly Chesse Naan,1,0,,130.0
+Indian Breads,Lachha Paratha,1,0,,90.0
+Indian Breads,Plain Kulcha,1,0,,70.0
+Indian Breads,Plain Naan,1,0,,80.0
+Indian Breads,Plain Roomali Roti,1,0,,85.0
+Indian Breads,Plain Roti,1,0,,45.0
+Indian Breads,Stuffed Paratha,1,0,,120.0
+Accompaniments,Bhurani Raita,1,0,,100.0
+Accompaniments,Boondi Raita,1,0,,85.0
+Accompaniments,Masala Papad,1,0,,135.0
+Accompaniments,Roasted Papad,1,0,,40.0
+Accompaniments,Veg Raita,1,0,,65.0

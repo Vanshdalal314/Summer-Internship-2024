@@ -1,0 +1,46 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Drinks (Beverages),Keri no Ras [250 ml],1,0,,70.0
+Drinks (Beverages),"Mango Lassi [250 ml, 1 Glass]",1,0,,70.0
+Drinks (Beverages),Kaju Mango Lassi,1,0,,90.0
+Drinks (Beverages),Malai Lassi [250 ml],1,0,,60.0
+Drinks (Beverages),Kaju Lassi,1,0,Kaju lassi.,75.0
+Drinks (Beverages),"Cold Coco [250 ml, 1 Glass]",1,0,,65.0
+Drinks (Beverages),"Cold Coco with Choco Chip [1 Glass, 250 ml]",1,0,,75.0
+Drinks (Beverages),"Kaju Coco [250 ml, 1 Glass]",1,0,,80.0
+Drinks (Beverages),Cold Coco with Choco Chips and Kaju,1,0,,90.0
+Drinks (Beverages),Cold Coco [1 Litre Bottle],1,0,,260.0
+Drinks (Beverages),Plain Chaas [250 ml],1,0,,18.0
+Sweets,Rasgulla [1 Piece],1,0,"Deliciously sweet and irresistible, this traditional Indian treat is a must try for ... read more",28.0
+Sweets,Gulab Jamun [1 Piece],1,0,,28.0
+Sweets,Khova/Mawa,1,0,,145.0
+Daily Products,Fresh Malai Paneer,1,0,,56.0
+Daily Products,Punjabi Dahi,1,0,,38.0
+Daily Products,Khova/Mawa,1,0,,145.0
+Daily Products,Homemade White Butter,1,0,,80.0
+Daily Products,Plain Chaas [250 ml],1,0,,18.0
+Seasonal Matho,Fresh Alphonso Mango Matho [With Mango Pieces],1,0,,52.0
+Super Srikhand,Plain White Shrikhand,1,0,Can be consumed in upvas/fast.,40.0
+Super Srikhand,Pure Kesar Pista Shrikhand,1,0,Can be consumed in upvas/fast.,46.0
+Super Srikhand,Green Vanilla Kaju Darksh Shrikhand,1,0,Can be consumed in upvas/fast.,44.0
+Super Srikhand,Chocolate Chips Shrikhand,1,0,,44.0
+Super Srikhand,Rose Petal Shrikhand,1,0,Also contains chocolate chips in it.,44.0
+Super Srikhand,Raj Bhog Srikhand,1,0,Can be consumed in Fast / Upvas,50.0
+Super Srikhand,American Dry Fruit Shrikhand,1,0,,44.0
+Samosa,Cheese Paneer Samosa [Raw],1,0,"Rainy weather, cheesy samosa, garam chai, aur kya chahiye.",90.0
+Samosa,Dal Pyaz Samosa [Raw],1,0,,45.0
+Samosa,Jain Cheese Paneer Samosa [Raw],1,0,"No onion and no garlic. Rainy weather, cheesy samosa, garam chai, aur kya ... read more",90.0
+Samosa,Chinese Samosa,1,0,Jain option is not available.,45.0
+"Rabdi, Basundi and Ras Malai",Angoor Rabdi,1,0,100% Pure rabdi which can be consumed in fast.,56.0
+Mastt Matho,Plain White Matho,1,0,Can be consumed in upvas/fast.,40.0
+Mastt Matho,Fresh Pineapple Matho,1,0,Can be consumed in upvas/fast.,40.0
+Mastt Matho,Pure Kesar Pista Matho,1,0,Can be consumed in upvas/fast.,46.0
+Mastt Matho,Mawa Malai Pisti Matho,1,0,"A rich, creamy dessert made with the luscious combination of mava and pistachios. ... read more",50.0
+Mastt Matho,Badam Chocolate Matho,1,0,Crunchy with classic almond and chocolate carnival. serving guide: 250 gms - 2-3 persons 500 gms ... read more,44.0
+Mastt Matho,Raj Bhog Matho,1,0,Can be consumed in upvas/fast.,53.0
+Mastt Matho,Blueberry Matho,1,0,Made with best quality blueberries.,48.0
+Premium Ghee,Premium Cow Ghee,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",190.0
+Premium Ghee,Premium Desi Ghee,1,0,[Veg Preparation],190.0
+Premium Ghee,Jamkhambhaliya Ghee,1,0,,250.0
+Mango and Summer,Kesar Mango Ras,1,0,,80.0
+Mango and Summer,"Mango Lassi [250 ml, 1 Glass]",1,0,,70.0
+Mango and Summer,Kaju Mango Lassi,1,0,,90.0

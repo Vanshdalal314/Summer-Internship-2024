@@ -1,0 +1,202 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Paneer Tikka Indiana,1,0,"Paneer marinated in Indian spices with bell pepper, tomato and onion cooked in ... read more",404.0
+Starters,Hariyali Paneer Tikka,1,0,"Paneer marinated with creamy coriander, mint and spinach masala.",404.0
+Starters,Malai Paneer Tikka,1,0,"Paneer marinated with cream and cheese, cooked slowly in tandoor.",404.0
+Starters,Peri Peri Paneer Tikka,1,0,Paneer marinated in creamy peri peri sauce and Indian spices cooked in clay ... read more,404.0
+Starters,Lasooni Paneer Tikka,1,0,"Paneer marinated with Indian spices and garlic, cooked in tandoor.",404.0
+Starters,Tandoori Broccoli,1,0,Broccoli marinated with aromatic spices and cooked in tandoor.,404.0
+Starters,Mushroom Tikka,1,0,Mushroom marinated with Indian spices and cooked in tandoor.,404.0
+Starters,Stuffed Mushroom,1,0,"Mushroom stuffed with mince of mushroom stem, cheese and Indian spices.",404.0
+Starters,Hara Bhara Kebab,1,0,Minced mix vegetable infused with aromatic spices cooked.,404.0
+Starters,Paneer Seekh Kebab,1,0,Minced paneer infused with Indian aromatic spices cooked in tandoor.,404.0
+Starters,Malai Chaap,1,0,"Soya chaap marinated with cream and cheese, cooked slowly in clay oven.",404.0
+Starters,Pahadi Soya Chaap,1,0,"Soya chaap marinated with creamy coriander, mint and spinach masala, cooked slowly in ... read more",404.0
+Starters,Masala Soya Chaap,1,0,Blended Indian spices with chaap marinated overnight and cooked to perfection.,404.0
+Starters,Peri Peri Soya Chaap,1,0,Soya chaap marinated in creamy peri peri sauce and Indian spices cooked in ... read more,404.0
+Starters,Water Chestnuts in Plum Sauce,1,0,,431.0
+Starters,Cottage Cheese Pesto,1,0,,431.0
+Starters,Dragon Paneer,1,0,,431.0
+Starters,Crispy Corn and Water Chestnut Salt and Pepper,1,0,,422.0
+Starters,Crispy Lotus Stem in Schezwan Plum Sauce,1,0,,431.0
+Starters,Crispy Mushroom Indonesian Samble,1,0,,422.0
+Starters,Truffle Cheese Fried Wonton,1,0,,431.0
+Starters,Dynamite Mushrooms,1,0,,431.0
+Starters,Sriracha Paneer Chilli,1,0,,431.0
+Starters,Hungarian Cheese Balls,1,0,,413.0
+Starters,Vegetable Dumplings,1,0,,422.0
+Starters,Crispy Cigar Roll,1,0,,422.0
+Starters,Pizza Samosa,1,0,"Savoury pie of phyllo dough, stuffed with cheese, bell pepper and olives served ... read more",431.0
+Snacks,Cheese Garlic Bread,1,0,,305.0
+Snacks,French Fries,1,0,,305.0
+Snacks,Peri Peri Fries,1,0,,314.0
+Snacks,Cheese Garlic Bread with Olive and Jalapeno,1,0,,314.0
+Snacks,French Fries with Cheese,1,0,,323.0
+Snacks,Truffle Fries,1,0,"Truffle oil, Parmesan dust.",359.0
+Snacks,Bruschetta,1,0,,404.0
+Snacks,Margherita Cheese Bursts,1,0,With bloody mary ketchup.,431.0
+Snacks,Nachos Grande,1,0,,431.0
+Main Course,Dal Tadka,1,0,,323.0
+Main Course,Dal Dhabewali,1,0,,359.0
+Main Course,Dal Makhani,1,0,,359.0
+Main Course,Veg Lahori,1,0,Thick and creamy tomato gravy made with vegetables.,431.0
+Main Course,Veg Kadhai,1,0,Seasonal vegetables cooked in brown gravy with Indian khada masala.,431.0
+Main Course,Paneer Lababdar,1,0,Paneer cooked in rich tomato onion gravy.,431.0
+Main Course,Kadai Paneer,1,0,"Paneer cooked in brown gravy with Indian khada masala, bell pepper, onion and ... read more",431.0
+Main Course,Palak Paneer,1,0,"Paneer cooked in an onion, spinach gravy, flavoured with Indian spices.",431.0
+Main Course,Paneer Butter Masala,1,0,Paneer cooked in creamy cashew nut gravy.,431.0
+Main Course,Paneer Peshawari,1,0,Paneer cooked in rich brown gravy.,431.0
+Main Course,Paneer Handi,1,0,,431.0
+Main Course,Cheese Butter Masala,1,0,Cheese cubes cooked slowly with tomato based makhani gravy.,458.0
+Main Course,Paneer Tikka Methi Garlic Masala,1,0,Chef's signature dish.,458.0
+Main Course,Malai Kofta,1,0,"North Indian speciality dish, paneer and potato balls cooked in rich creamy cashew ... read more",431.0
+Main Course,Charcoaled Paneer Makhani,1,0,Charcoaled paneer cooked in traditional makhani gravy.,431.0
+Main Course,Kofta Sham Savera,1,0,Spinach kofta cooked in creamy tomato gravy.,431.0
+Main Course,Nizami Handi,1,0,Melange of vegetables stir fried with spinach and cooked in brown gravy.,431.0
+Main Course,Kaju Curry,1,0,Cashew nuts cooked with spicy tomato gravy.,458.0
+Main Course,Dal Fry,1,0,,305.0
+Main Course,Chatpati Tandoori Subzi,1,0,"Charcoaled paneer, aloo, baby corn, gobi tossed in chefs special gravy.",458.0
+Main Course,Cheese Kofta Masaledar,1,0,Cheese kofta tossed in cheesy brown gravy.,458.0
+Main Course,Exotic Bell Pepper Masala,1,0,Chef's special mix veg.,431.0
+Main Course,Khoya Kaju,1,0,A flavorful dish made with fried cashew nuts in a very rich gravy.,458.0
+Main Course,Subzi Shikari Masala,1,0,Garden fresh vegetables spiced with chefs special.,431.0
+Main Course,Kashmiri Dum Aloo,1,0,"Potato stuffed with mawa, dry fruits cooked in rich cashew tomato gravy.",431.0
+Main Course,Lehsuni Palak,1,0,"Doesn t need a description, just go for it.",431.0
+Main Course,Soya Masala Chaap,1,0,,431.0
+Main Course,Paneer Bhurji,1,0,"A popular North Indian dish with a twist, paneer cooked with chopped tomatoes, ... read more",458.0
+Main Course,Harissa Cottage Cheese,1,0,With herbed rice.,431.0
+Main Course,Exotic Veggies and Cottage Cheese in Bell Pepper Sauce,1,0,,449.0
+Main Course,Garden Skillet,1,0,,449.0
+Main Course,Combination Cannelloni,1,0,,449.0
+Main Course,Enchiladas,1,0,,431.0
+Main Course,Baby Corn Stroganoff,1,0,With basil pepper rice.,431.0
+Main Course,Peri Peri Cottage Cheese,1,0,With herbed rice.,449.0
+Main Course,Mexican Rice Bowl,1,0,,431.0
+Main Course,Baked Lasagna,1,0,,149.0
+Rice and Biryani,Jeera Rice,1,0,,314.0
+Rice and Biryani,Veg Pulao,1,0,,323.0
+Rice and Biryani,Green Peas Pulao,1,0,,341.0
+Rice and Biryani,Dal Khichdi,1,0,,359.0
+Rice and Biryani,Dal Palak Khichdi,1,0,,359.0
+Rice and Biryani,Pardah Dum Biryani,1,0,,413.0
+Rice and Biryani,Veg Hyderabadi Biryani,1,0,,413.0
+Breads,Laal Mirch Roti,1,0,,89.0
+Breads,Laal Mirch Naan,1,0,,107.0
+Breads,Hari Mirch Roti,1,0,,89.0
+Breads,Hari Mirch Naan,1,0,,107.0
+Breads,Garlic Naan,1,0,,116.0
+Breads,Masala Garlic Naan,1,0,,134.0
+Breads,Cheese Naan,1,0,,161.0
+Breads,Cheese Garlic Naan,1,0,,179.0
+Breads,Cheese Olive Naan,1,0,,179.0
+Breads,Hariyali Naan,1,0,,134.0
+Breads,Bell Pepper Naan,1,0,,152.0
+Breads,Chili Olive Naan,1,0,,152.0
+Breads,Missi Roti,1,0,,89.0
+Breads,Laccha Paratha,1,0,,116.0
+Breads,Butter Kulcha,1,0,,134.0
+Breads,Plain Roti,1,0,,62.0
+Breads,Butter Roti,1,0,,71.0
+Breads,Butter Naan,1,0,,98.0
+Breads,Stuffed Kulcha,1,0,Paneer aloo.,152.0
+Chinese Main Course,Jasmine Fried Rice,1,0,,431.0
+Chinese Main Course,Veg Thai Fried Rice,1,0,,458.0
+Chinese Main Course,Schezwan Fried Rice,1,0,,458.0
+Chinese Main Course,Burnt Garlic Fried Rice,1,0,,458.0
+Chinese Main Course,Mushroom Truffle Fried Rice,1,0,,485.0
+Chinese Main Course,Edamame Blue Pea Fried Rice,1,0,,485.0
+Chinese Main Course,Chili Basil Fried Rice,1,0,,485.0
+Chinese Main Course,Veg Hakka Noodles,1,0,,431.0
+Chinese Main Course,Chili Garlic Noodles,1,0,,431.0
+Chinese Main Course,Schezwan Noodles,1,0,,458.0
+Chinese Main Course,Veg Yaki Soba Noodles,1,0,,458.0
+Chinese Main Course,Veg Truffle Udon Noodles,1,0,,521.0
+Chinese Main Course,Classic Mapo Tofu,1,0,,431.0
+Chinese Main Course,Stir Fry Vegetable Farmers Joy,1,0,,458.0
+Chinese Main Course,Asian Spice Yellow Curry,1,0,,485.0
+Chinese Main Course,Thai Green Curry,1,0,,485.0
+Chinese Main Course,Silken Tofu in Black Bean Sauce,1,0,,485.0
+Chinese Main Course,Cottage Cheese in Chili Basil Sauce,1,0,,485.0
+Chinese Main Course,Cottage Cheese in Black Pepper Sauce,1,0,Pepper sauce.,485.0
+Chinese Main Course,Bambooshoot Pok Choy Water Chestnut in Chilli Garlic Sauce,1,0,Chestnut in chilli garlic sauce.,521.0
+Chinese Main Course,Veg Crushed Pepper Wok Tossed Asian,1,0,,485.0
+Pasta,Baked Macaroni with Pineapple,1,0,,431.0
+Pasta,Arrabiata Penne,1,0,,431.0
+Pasta,Creole Penne,1,0,,431.0
+Pasta,Four Cheese Sauce Penne,1,0,,431.0
+Pasta,Cremy Pesto Penne,1,0,,431.0
+Pasta,Aglio E Olio Penne,1,0,,431.0
+Pasta,Arrabiata Spaghetti,1,0,,431.0
+Pasta,Creole Spaghetti,1,0,,431.0
+Pasta,Four Cheese Sauce Spaghetti,1,0,,431.0
+Pasta,Cremy Pesto Spaghetti,1,0,,431.0
+Pasta,Aglio E Olio Spaghetti,1,0,,431.0
+Pasta,Four Cheese Spinach and Ricotta,1,0,,449.0
+Pasta,Creole Spinach and Ricotta,1,0,,449.0
+Pasta,Creamy Pesto Spinach and Ricotta,1,0,,449.0
+Pasta,Four Cheese Truffle Mushroom Ravioli,1,0,,449.0
+Pasta,Creole Truffle Mushroom Ravioli,1,0,,449.0
+Pasta,Creamy Pesto Truffle Mushroom Ravioli,1,0,,449.0
+Soups and Salads,Tomato Basil Soup,1,0,,233.0
+Soups and Salads,Spinach Corn Soup,1,0,,233.0
+Soups and Salads,Smoked Cheese Paprika Soup,1,0,,251.0
+Soups and Salads,Broccoli Almond Soup,1,0,,251.0
+Soups and Salads,Broccoli Cheddar Cheese Soup,1,0,,251.0
+Soups and Salads,Mexican Tortilla Soup,1,0,,251.0
+Soups and Salads,Cream of Mushroom Soup,1,0,,251.0
+Soups and Salads,Beijing Veg Spicy Soup,1,0,,251.0
+Soups and Salads,Tom Kha Soup,1,0,,269.0
+Soups and Salads,Almond Mushroom Truffle Soup,1,0,,269.0
+Soups and Salads,Veg Manchow Soup,1,0,,251.0
+Soups and Salads,Classic Veg Hot Pepper Soup,1,0,,251.0
+Soups and Salads,Veg Creamy Sweet Corn Soup,1,0,,251.0
+Soups and Salads,Classic Caesar Salad,1,0,"Fresh and crisp salad leaves, cherry tomatoes, olives with Parmesan and croutons tossed ... read more",377.0
+Soups and Salads,Greek Salad,1,0,"Romaine lettuce with onion, peppers and cucumber dressed with a hint of garlic ... read more",377.0
+Soups and Salads,Avocado and Feta,1,0,"Avocado, iceberg lettuce, cherry tomatoes, sweet corn, cucumber, black olives and Feta tossed ... read more",431.0
+Sushi,Delissio Special Veg Tempura Roll,1,0,Crunchy tempura fried blue rice sushi.,593.0
+Sushi,Veg California Roll,1,0,"Avocado, cucumber and carrot sushi.",584.0
+Sushi,Rainbow Sushi,1,0,This one is highly instagrammable.,584.0
+Sushi,Peri Peri Corn Sushi,1,0,Spiced sriracha drizzled rock corn sushi.,584.0
+Sushi,Jalapeno Cream Cheese Shushi,1,0,Philadelphia cream cheese and tangy jalapenos.,521.0
+Accompaniments,Roasted Papad,1,0,,53.0
+Accompaniments,Fried Papad,1,0,,62.0
+Accompaniments,Masala Papad,1,0,,107.0
+Accompaniments,Cheese Masala Papad,1,0,,152.0
+Accompaniments,Khichiya Masala Papad,1,0,,134.0
+Accompaniments,Cheese Khichiya Masala Papad,1,0,,197.0
+Accompaniments,Plain Curd,1,0,,107.0
+Accompaniments,Vegetable Raita,1,0,,161.0
+Accompaniments,Pineapple Raita,1,0,,179.0
+Drinks (Beverages),Chaas,1,0,,107.0
+Drinks (Beverages),Masala Chaas,1,0,,134.0
+Drinks (Beverages),Thums Up Soft Beverage,1,0,,71.0
+Drinks (Beverages),Coke Soft Beverage,1,0,,71.0
+Drinks (Beverages),Diet Coke Soft Beverage,1,0,,71.0
+Drinks (Beverages),Sprite Soft Beverage,1,0,,71.0
+Drinks (Beverages),Fanta Soft Beverage,1,0,,71.0
+Drinks (Beverages),Red Bull Soft Beverage,1,0,,224.0
+Drinks (Beverages),Mocha Frappe,1,0,,368.0
+Drinks (Beverages),Caramel Frappe,1,0,,368.0
+Drinks (Beverages),Hazelnut Frappe,1,0,,368.0
+Drinks (Beverages),Irish Frappe,1,0,,368.0
+Drinks (Beverages),Iced Cafe Mocha,1,0,,323.0
+Drinks (Beverages),Cafe Frappe,1,0,,341.0
+Drinks (Beverages),Nutella Mocha Frappe,1,0,,368.0
+Drinks (Beverages),Iced Americano,1,0,,215.0
+Drinks (Beverages),Iced Latte,1,0,,323.0
+Drinks (Beverages),Cafe Mocha,1,0,,269.0
+Drinks (Beverages),Americano,1,0,,206.0
+Drinks (Beverages),Salted Caramel Cappuccino,1,0,,269.0
+Drinks (Beverages),Nutella Hot Chocolate,1,0,,368.0
+Drinks (Beverages),Irish Hot Chocolate,1,0,,368.0
+Drinks (Beverages),Espresso Shot,1,0,,179.0
+Drinks (Beverages),Cappuccino,1,0,,251.0
+Drinks (Beverages),Latte,1,0,,251.0
+Drinks (Beverages),Flat White,1,0,,251.0
+Drinks (Beverages),French Vanilla Latte,1,0,,269.0
+Drinks (Beverages),Sea Salt Mocha,1,0,,269.0
+Drinks (Beverages),Dark Hot Chocolate,1,0,,341.0
+Drinks (Beverages),Nutella Shake,1,0,,377.0
+Drinks (Beverages),Oreo Overload Shake,1,0,,368.0
+Drinks (Beverages),Double Dark Chocolate Shake,1,0,,377.0
+Drinks (Beverages),Strawberry Shake,1,0,,386.0
+Drinks (Beverages),Mango Shake,1,0,,386.0

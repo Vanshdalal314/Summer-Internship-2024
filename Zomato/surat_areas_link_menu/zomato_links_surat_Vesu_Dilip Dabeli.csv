@@ -1,0 +1,38 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dabeli,Butter Dabeli,1,0,"Potatoes masala, pav (bun), pomegranate, peanuts.",35.0
+Dabeli,Masala Dabeli,1,0,"An irresistibly delicious pack of masala dabeli served along with chutney, perfect hunger ... read more",48.15
+Dabeli,Cheese Masala Dabeli,1,0,"Pav (bun) stuffed with tangy, spicy potato mix topped with this super delicious ... read more",60.0
+Dabeli,Green Fry Dabeli,1,0,"An irresistibly delicious pack of green fried dabeli served along with chutney, perfect ... read more",48.15
+Dabeli,Schezwan Dabeli,1,0,"An irresistibly delicious pack of dabeli topped with schezwan served along with chutney, ... read more",48.15
+Dabeli,Mayo Dabeli,1,0,"An irresistibly delicious pack of mayo dabeli served along with chutney, perfect hunger ... read more",48.15
+Dabeli,Grilled Dabeli,1,0,"Grill pav (bun) stuffed with tangy, spicy potato mix topped with this super ... read more",50.0
+Dabeli,Cheese Schezwan Dabeli,1,0,"Raw banana stuffing with pomorante, cheese, jain schezwan chatni, peanuts and some sweet ... read more",65.0
+Snacks,Cheese Masala Pav,1,0,A soft bun smothered with special masalas blended with flavors authentic to Maharashtra ... read more,45.0
+Snacks,Cheese Garlic Pav,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",45.0
+Snacks,Green Cheese Pav,1,0,,45.0
+Snacks,Grilled Masala Pav,1,0,,45.0
+Snacks,Cheese Butter Pav,1,0,Pav tossed in butter and filled with cheese slice,35.0
+Snacks,Masala Pav,1,0,A soft bun smothered with special masalas blended with flavors authentic to Maharashtra ... read more,25.0
+Snacks,Bread Butter,1,0,"Pav stuffed with dabeli masala, pomogranate and sweet chatni tossed in butter.",20.0
+Snacks,Vada [2 Pieces],1,0,,50.0
+Snacks,Cheese Cream Onion Mayo Pav,1,0,,45.0
+Snacks,Cheese Solid Masti Mayo Pav,1,0,,45.0
+Snacks,Masala Solid Masti(Crunchy pasta),1,0,Masala solid masti with cheese chilly mayonniaise in hot garlic sauce,60.0
+Drinks (Beverages),Buttermilk,1,0,,25.0
+Drinks (Beverages),Mineral Water [1 litre],1,0,,25.0
+Drinks (Beverages),Cold Coco [250 ml],1,0,,55.0
+Drinks (Beverages),Chaas [200 ml],1,0,,20.0
+Extra,Pav,1,0,,5.0
+Jain Foods,Jain Dabeli,1,0,"Banana raw masala, peanuts, stuffed in pav.",40.0
+Jain Foods,Jain Masala Dabeli,1,0,"Banana raw masala, peanuts stuffed in pav and fry chaat masala n chilly ... read more",45.0
+Jain Foods,Jain Green Fry Dabeli,1,0,,45.0
+Jain Foods,Jain Cheese Dabeli,1,0,,58.85
+Jain Foods,Jain Cheese Masala Dabeli,1,0,,60.0
+Jain Foods,Jain Masala Pav,1,0,Peanuts and Sev,30.0
+Jain Foods,Jain Cheese Masala Pav,1,0,Butter pav accompanied by a delicious and healthy masala with peanuts and sev ... read more,50.0
+Jain Foods,Jain Chinese Puff [1 Piece],1,0,Noodles and cabbage stuffing.,20.0
+Jain Foods,Jain Puff Pav,1,0,Chinese puff in pav.,40.0
+Jain Foods,Cheese Jain Puff Pav,1,0,,55.0
+Jain Foods,Jain Veg Sandwich,1,0,Stuffed with tomato and cucumber with green chutney and chaat masala.,65.0
+Jain Foods,Jain Cheese Veg Sandwich,1,0,,85.0
+Jain Foods,Jain Grilled Sandwich,1,0,,70.0

@@ -1,0 +1,32 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Mukesh Paan Special,Chhale Wala Paan,1,0,Note : don't spilt out,30.0
+Mukesh Paan Special,Khansi Wala Paan,1,0,"[Coughings paan] brass, murethi power and hari patti dhandak.",30.0
+Mukesh Paan Special,Singoda Paan,1,0,One kind of sweet paan,45.0
+Mukesh Paan Special,Special Farali Paan,1,0,Special paan for fasting,60.0
+Mukesh Paan Special,Chocolate Paan,1,0,One kind of meetha paan with chocolate,60.0
+Mukesh Paan Special,Special Marriage Couple Paan,1,0,,500.0
+Mukesh Paan Special,Special Dry Fruit Paan,1,0,"Cashew , almonds , tutti futti, kharek etc",75.0
+Mukesh Paan Special,Tutti Frutti and Cherry,1,0,,30.0
+Mukesh Paan Special,Special Navaratan Chutney Meetha Paan,1,0,Our famous paan.,60.0
+Mukesh Paan Special,Special 420 Paan,1,0,,50.0
+Paan,Banarasi 135 Paan,1,0,,25.0
+Paan,Calcutta 135 Paan,1,0,,30.0
+Paan,Regular Sada Paan,1,0,,35.0
+Paan,Calcutta 120 Paan,1,0,,40.0
+Paan,Navratan Chutney Sada Paan,1,0,,45.0
+Paan,Regular Meetha Paan,1,0,,40.0
+Paan,Navratan Chutney Kimam Paan,1,0,,55.0
+Paan,Calcutta 160 Paan,1,0,,55.0
+Paan,Calcutta Sada Paan with Gulkand,1,0,,45.0
+Paan,Banarasi Meetha Paan,1,0,,30.0
+Paan,Banarasi Sada Paan,1,0,,35.0
+Mava,Meetha Mava,1,0,,25.0
+Mava,Vagariya Mava,1,0,,18.0
+Mava,120 Mava,1,0,,35.0
+Mava,Mava 135,1,0,,20.0
+Mava,160 Mava,1,0,,45.0
+Drinks (Beverages),Jumbo Glass,1,0,,10.0
+Drinks (Beverages),Special Masala Thums Up [250 ml],1,0,Special Limbo Masala with Thums Up,40.0
+Drinks (Beverages),Sosyo,1,0,,65.0
+Drinks (Beverages),Masala Soda,1,0,"Limbu, masala with jeera masala.",30.0
+Drinks (Beverages),Special Masala Sprite [250ml],1,0,Special limbu masala with sprite.,40.0

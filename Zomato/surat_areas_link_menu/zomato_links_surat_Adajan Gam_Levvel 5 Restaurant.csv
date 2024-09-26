@@ -1,0 +1,96 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meal for one,Dal Fry with Jeera Rice,1,0,Dal Fry+Jeera Rice+Pickle+Papad,161.0
+Meal for one,"Machurian Gravy With Veg Fried Rice, Cabbage Salad",1,0,The manchurian gravy with fried rice combo features crispy manchurian balls in a ... read more,168.0
+Meal for one,Hakka Noodles with Schezwan Gravy and Cabbage Salad,1,0,Hakka noodles are a popular Indo Chinese dish featuring stir fried noodles mixed ... read more,168.0
+Meal for one,Paneer Chili Gravy Combo,1,0,Paneer Chilli Gravy+Veg Fried Rice+Cabbage Salad [The paneer chilli gravy with fried rice ... read more,175.0
+Meal for one,"Veg Biryani With Raita,Pickle & Papad",1,0,"Veg Biryani+Raita+Pickle+Papad [Features aromatic basmati rice cooked with mixed vegetables and fragrant spices, ... read more",175.0
+Meal for one,Khichdi Combo,1,0,[Veg preparation] Khichdi+Plain Curd+Pickle+Papad [A comforting mix of rice and lentils cooked with ... read more,161.0
+Meal for one,Nachos with Salsa Dip,1,0,The nachos with salsa dip combo features crispy tortilla chips served with a ... read more,161.0
+Meal for one,Punjabi Thali Mini,1,0,Panner Sabji + 2 Butter Roti + Salad + Pickle,175.0
+Meal for one,Punjabi Thali,1,0,Paneer Sabji+Veg Sabji+2 Tandoori Butter Roti+Dal Fry/Jeera Rice+Salad+Pickle+Raita+Papad [Subject to Availability],245.0
+Starters,Moongfali Wali Aloo Tikki,1,0,Aloo Tikki is a popular Indian street food snack known for its crispy ... read more,238.0
+Starters,Cottage Cheese Chilly kabab,1,0,[Jain Food] Mince cottage cheese roasted in tandoori served with Green Chuteny,279.3
+Starters,Bullet Cheese Kabab,1,0,350 CC firing of cheese prepared with herbs and spices,276.5
+Starters,Paneer Banjara,1,0,Paneer Banjara is a delightful Indian starter known for its robust flavors and ... read more,262.5
+Starters,Paneer Tikka,1,0,{Jain Food]  Paneer Tikka is a classic Indian appetizer known for its smoky flavor ... read more,259.0
+Starters,Hara Bhara Kebab,1,0,Hara Bhara Kebab is a popular Indian appetizer known for its vibrant green ... read more,238.0
+Starters,Veg Manchurian,1,0,Veg Manchurian is a popular Indo-Chinese dish known for its savory and tangy ... read more,189.0
+Starters,Veg Crispy,1,0,[Jain Food] Veg Crispy is a popular Indo-Chinese appetizer known for its crunchy texture ... read more,217.0
+Starters,Paneer Red Cook,1,0,Paneer Red Cook is a flavorful Indo-Chinese dish featuring paneer (Indian cottage cheese) ... read more,231.0
+Starters,Paneer Chilly,1,0,[Jain Food] Paneer Chilli is an Indo-Chinese delight featuring succulent cubes of paneer marinated ... read more,231.0
+Starters,Exotic Mexican Combo,1,0,Mexican Rice+Spinach Sauce+Exotic Vegetables+Cheesy Nachos,287.0
+Main Course,Dal Makhani,1,0,Dal Makhani is a rich and creamy North Indian lentil curry made with ... read more,133.0
+Main Course,Veg Toofani,1,0,[Also Available in Jain] Veg Toofani is a colorful and spicy vegetarian dish ... read more,150.5
+Main Course,Mix Veg,1,0,[Also Available in Jain]  Mix veg is a flavorful Indian dish made by ... read more,150.5
+Main Course,Veg Kolhapuri,1,0,[Also Available in Jain] Veg Kolhapuri is a spicy Maharashtrian vegetarian dish with ... read more,161.0
+Main Course,Veg Kofta,1,0,Veg Kofta is a vegetarian dish consisting of deep-fried vegetable balls served in ... read more,161.0
+Main Course,Veg kheema in Hari Do Pyaza,1,0,Veg Kheema in Hari do Pyaz is a vegetarian dish featuring a minced ... read more,161.0
+Main Course,Subz Reshmi,1,0,Subz Reshmi is a creamy vegetarian dish featuring a medley of vegetables cooked ... read more,164.5
+Main Course,Malai Kofta,1,0,"[Also Available in Jain] Malai Kofta is a luxurious Indian dish featuring creamy, ... read more",168.0
+Main Course,Diwani Handi,1,0,Diwani Handi is a sumptuous Indian dish featuring a medley of vegetables cooked ... read more,168.0
+Main Course,Paneer Tikka Masala,1,0,[Also Available in Jain]Paneer Tikka Masala is a beloved Indian dish with grilled ... read more,175.0
+Main Course,Kaju Curry,1,0,"[Also Available in Jain] Kaju Curry, also known as Cashew Curry, is a ... read more",182.0
+Main Course,Paneer Pasanda,1,0,"[Jain Food]  Paneer Pasanda is cherished for its creamy texture, bold flavors, and the ... read more",192.5
+Main Course,Paneer Butter Masala,1,0,"[Also Available in Jain] Paneer Butter Masala is a quintessential Indian dish, where succulent ... read more",189.0
+Main Course,Paneer Cube Kadhai,1,0,Paneer Cube Kadai is a flavorful North Indian dish featuring tender cubes of ... read more,203.0
+Main Course,Paneer Lababdar,1,0,"[Also Available in Jain]  Paneer Lababdar is a culinary masterpiece, where succulent cubes of ... read more",203.0
+Main Course,Cheese Begam Bahar,1,0,"[Also Available in Jain]  Cheese Begum Bahar is a regal delicacy, where succulent cubes ... read more",217.0
+Main Course,Paneer Makhamali,1,0,"Paneer Makhmali epitomizes culinary sophistication, where each succulent cube of paneer is enveloped ... read more",217.0
+Main Course,Dal Fry,1,0,[Also Available in Jain]  Dal Fry is a comforting Indian dish made with boiled ... read more,105.0
+Main Course,Dal Tadka,1,0,[Also Available in Jain]  Dal Tadka is a flavorful Indian dish made with creamy ... read more,119.0
+Fried Rice and Noodles,Singaporian Noodles,1,0,,206.5
+Fried Rice and Noodles,Schezwan Noodles,1,0,,206.5
+Fried Rice and Noodles,Hakka Noodle,1,0,,210.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,[Jain Food],139.3
+Fried Rice and Noodles,Singaporian Fried Rice,1,0,[Jain Food],210.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,133.0
+Rice and Biryani,Dum Biryani,1,0,Dum biryani is a veg version of the traditional biryani made with a ... read more,161.0
+Rice and Biryani,Hyderabadi Biryani,1,0,"This aromatic and flavorful biryani features a tantalizing blend of fragrant basmati rice, ... read more",161.0
+Rice and Biryani,Steamed Rice,1,0,,98.0
+Rice and Biryani,Jeera Rice,1,0,Very versatile plate of the basmati rice sauteed in roasted cumin seeds. goes ... read more,126.0
+Rice and Biryani,Khichdi,1,0,"LEVEL 5 Special Khichdi is a comforting Indian one dish made with rice, ... read more",133.0
+Rice and Biryani,Veg Pulao,1,0,,139.3
+Breads,Roti,1,0,,38.5
+Breads,Plain Naan,1,0,,59.5
+Breads,Butter Kulcha,1,0,,59.5
+Breads,Plain Lachha Paratha,1,0,,63.0
+Breads,Butter Naan,1,0,,66.5
+Breads,Masala Kulcha,1,0,,66.5
+Breads,Mathi Lachha Paratha,1,0,,66.5
+Breads,Garlic Naan,1,0,,77.0
+Breads,Garlic Kulcha,1,0,,77.0
+Breads,Cheese Naan,1,0,,84.0
+Breads,Roomali Roti,1,0,,91.0
+Breads,Cheesee Kulcha,1,0,,91.0
+Soups,Hot and Sour Veg Soup,1,0,[Jain food] Hot and Sour Soup is a popular Chinese soup known for its ... read more,161.0
+Soups,Manchow Soup,1,0,[Jain food]  Manchow Soup: A hearty Indo-Chinese broth brimming with vegetables and seasoned with ... read more,161.0
+Soups,Levvel 5 Special Soup,1,0,[Jain food] Vegetable yellow both with noodles grated cottage cheese on top,196.0
+Soups,Tomato Basil Soup,1,0,[Jain food] Tomato Basil Soup is a classic comfort food known for its rich ... read more,115.5
+Soups,Burnt Garlic Soup,1,0,Burnt Garlic Soup is a unique and flavorful soup known for its distinct ... read more,126.0
+Salads,Level 5 Salad,1,0,"[Jain food] Cucumber,bell pepper,olive,lettuce tossed with mint creamy dressing and topped with croutons ... read more",241.5
+Salads,Green Salad,1,0,"[Jain food] fresh cucumber,tomato,carrot,onion",101.5
+Pizza and Pasta,Margherita,1,0,"[Jain Food] Tomato,mozzarella, parmigiano, oregano, fresh basil",392.0
+Pizza and Pasta,Moon Delight,1,0,[Jain Food] Level 5 Introduces moon delight pizza topped with fresh vegetables. jalapeno ... read more,392.0
+Pizza and Pasta,Tandoori Night Pizza [12 inches],1,0,,392.0
+Pizza and Pasta,Corn Jalapeno Pizza [12 inches],1,0,,378.0
+Pizza and Pasta,Al Arrabiata,1,0,Spicy tomato sauce flavored with basil,343.0
+Pizza and Pasta,Pasta O Prince,1,0,Pasta made in royal touch with a combination of red and white rice ... read more,343.0
+Pizza and Pasta,Creamy Pasta,1,0,"{Jain Food] Pasta with creamy sauce, olive, jalapenos. parsley",343.0
+Pizza and Pasta,Pasta In Pasta,1,0,Different layers of pasta macaroni prepared in cheese sauce and spaghetti prepared in ... read more,357.0
+Snacks,Cheese Chilli Toast,1,0,Melted cheddar & mozzarella cheese flavored with (chilli).,206.5
+Snacks,Cheese Tacos,1,0,"Crispy roasted corn tortilla filled with corn, homemade cheese & salsa.",217.0
+Snacks,Burrito Indiana,1,0,"[Jain Food] Wheat flour tortilla, onion, tomato, lettuce and spicy tandoori Paneer",259.0
+Snacks,Cheese Nachos,1,0,Melted cream cheese & salsa.,171.5
+Garlic Breads,Garlic Bread,1,0,Garlic bread is a popular side dish or appetizer known for its savory ... read more,161.0
+Garlic Breads,Garlic Bread with Cheese,1,0,Cheesy garlic bread elevates the classic garlic bread by adding a layer of ... read more,189.0
+Drinks (Beverages),Champagne,1,0,,770.0
+Drinks (Beverages),Red Wine,1,0,,735.0
+Drinks (Beverages),Sweet Lassi,1,0,,77.0
+Drinks (Beverages),Plain Butter milk,1,0,,56.0
+Drinks (Beverages),Masala Butter Milk,1,0,,56.0
+Drinks (Beverages),Vanilla Milkshake,1,0,,168.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,168.0
+Drinks (Beverages),Oreo Milkshake,1,0,,168.0
+Drinks (Beverages),Cold Coffee,1,0,,168.0
+Drinks (Beverages),Kitkat Milkshake,1,0,,168.0
+Drinks (Beverages),Banana Milkshake,1,0,,168.0

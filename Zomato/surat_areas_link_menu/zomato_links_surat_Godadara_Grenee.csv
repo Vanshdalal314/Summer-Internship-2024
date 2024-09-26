@@ -1,0 +1,68 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Grill Sandwich,Chocolate Grill Sandwich,1,0,,190.0
+Grill Sandwich,Grenee Special Grilled Sandwich,1,0,,200.0
+Grill Sandwich,Tandoori Paneer Grill,1,0,,200.0
+Grill Sandwich,Veg Cheese Grill Sandwich,1,0,,180.0
+Toast Sandwich,Aloo Masala Toast,1,0,,100.0
+Toast Sandwich,Bread Butter Cheese Toast,1,0,,70.0
+Toast Sandwich,Bread Butter Jam Taost,1,0,,70.0
+Toast Sandwich,Bread Butter Toast,1,0,,55.0
+Toast Sandwich,Cheese Chilli Toast,1,0,,100.0
+Toast Sandwich,Chocolate Toast (Browne),1,0,,100.0
+Toast Sandwich,Pizza Toast Sandwich,1,0,,100.0
+Toast Sandwich,Veg Cheese Toast Sandwich,1,0,,100.0
+Toast Sandwich,Veg Toast Sandwich,1,0,,75.0
+Sandwich Choice,Bread Butter,1,0,,40.0
+Sandwich Choice,Bread Butter Cheese,1,0,,65.0
+Sandwich Choice,Bread Butter Jam,1,0,,60.0
+Sandwich Choice,Chatni Sandwich,1,0,,55.0
+Sandwich Choice,Chocolate Sandwich,1,0,,95.0
+Sandwich Choice,Veg Cheese Sandwich,1,0,,90.0
+Sandwich Choice,Veg Sandwich,1,0,,65.0
+Mayonnaise Sandwich,Mayonnaise Cheese Bread,1,0,,80.0
+Mayonnaise Sandwich,Mayonnaise Veg Cheese Grill,1,0,,190.0
+Mayonnaise Sandwich,Mayonnaise Veg Sandwich,1,0,,85.0
+Mayonnaise Sandwich,Peri Peri Mayonnaise Grill,1,0,,200.0
+Steam Idli Choice,Butter Steam Idli,1,0,,90.0
+Steam Idli Choice,Cheese Butter Steam Idli,1,0,,115.0
+Steam Idli Choice,Cheese Chocolate Idl,1,0,,115.0
+Steam Idli Choice,Cheese Masala Idli,1,0,,115.0
+Steam Idli Choice,Chocolate Idli,1,0,,95.0
+Steam Idli Choice,Masala Idli,1,0,,95.0
+Steam Idli Choice,Peri Peri Cheese Steam Idli,1,0,,115.0
+Steam Idli Choice,Peri Peri Steam Idli,1,0,,95.0
+Steam Idli Choice,Schezwan Cheese Steam Idli,1,0,,115.0
+Steam Idli Choice,Schezwan Steam Idli,1,0,,95.0
+Steam Idli Choice,Steam Idli,1,0,,80.0
+Pizza [Regular],Italiano Pizza,1,0,,195.0
+Pizza [Regular],Only Che (Mozzarella) Pizza,1,0,,195.0
+Pizza [Regular],Only Cheese Pizza,1,0,,185.0
+Pizza [Regular],Tandoori Paneer Pizza,1,0,,195.0
+Pizza [Regular],Veg Cheese Pizza,1,0,,175.0
+Pizza [Regular],Veg Schezwan Pizza,1,0,,185.0
+Ulta Pizzza [Regular],Italiano Ulta Pizza,1,0,,205.0
+Ulta Pizzza [Regular],Only Cheese Ulta Pizza,1,0,,185.0
+Ulta Pizzza [Regular],Veg Cheese Ulta Pizzza,1,0,,185.0
+Open Toast,Grenee Special Toast,1,0,,105.0
+Open Toast,Open Toast,1,0,,85.0
+Open Toast,Open Toast (Mozzarella),1,0,,100.0
+Open Toast,Open Toast Schezwan,1,0,,95.0
+Garlic Bread,Cheese Chilli Garlic Bread,1,0,,170.0
+Garlic Bread,Cheese Garlic Bread,1,0,,160.0
+Garlic Bread,Cheese Schezwan Garlic Bread,1,0,,170.0
+Crunchy Bite,Crunchy Bite,1,0,,105.0
+Crunchy Bite,Tandoori Crunchy Bite,1,0,,115.0
+Khakhra Pizza,Khakhra Pizza,1,0,,160.0
+Khakhra Pizza,Tandonri Khakhra,1,0,,175.0
+Burger Choice,Veg Supreme Burger,1,0,,75.0
+Burger Choice,Veg Supreme Cheese Burger,1,0,,95.0
+Maska Bun,Maska Bun,1,0,,55.0
+Maska Bun,Maska Choco,1,0,,75.0
+Maska Bun,Maska Jam,1,0,,75.0
+Tea Grenee Special,Adrak Masala Tea,1,0,,120.0
+Tea Grenee Special,Green Leaf Pudina Lea,1,0,,120.0
+Hot Speciality,Black Coffee,1,0,,140.0
+Hot Speciality,Hot Coffee,1,0,,140.0
+Hot Speciality,Hot Chocolate,1,0,,150.0
+Hot Speciality,Lemon Honey Tea,1,0,,140.0
+Hot Speciality,Lemon Tea,1,0,,120.0

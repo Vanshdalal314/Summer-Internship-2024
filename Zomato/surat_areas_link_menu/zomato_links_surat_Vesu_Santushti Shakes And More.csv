@@ -1,0 +1,230 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thickshake,Arabica Coffee Thickshake,1,0,,228.0
+Thickshake,Brown Oreo Thickshake,1,0,"The twist, lick, and sip experience. A rich blend of chocolate and vanilla ... read more",228.0
+Thickshake,Brownella Thickshake,1,0,"Your Nutella cravings, now in a thick and satisfying milkshake! Brimming with Nutella's ... read more",264.0
+Thickshake,Brownie Crunch Thickshake,1,0,,252.0
+Thickshake,Brownie Kit Kat Thickshake,1,0,Ice cream and kit kat blended together to create a delightful shake!,252.0
+Thickshake,Brownie Nuttie Rocher Thickshake,1,0,"A choco thickshake that is nuttier, fudgier, brownie-er. A milky blend of Hershey's ... read more",276.0
+Thickshake,Brownie Nutties Thickshake,1,0,"A choco thickshake that is nuttier, fudgier, brownie-er. A milky blend of Hershey's ... read more",240.0
+Thickshake,Brownie Rocher Thickshake,1,0,A thick fudgy experiment ferroro rocher is It's a shake that makes you ... read more,276.0
+Thickshake,Cadbury Fruit & Nut Thickshake,1,0,A rich blend of thick chocolate milk & Cadbury's classic fruit & nut. ... read more,204.0
+Thickshake,Cadbury Silk Thickshake,1,0,"Close your eyes & surrender to a silky affair of chocolate milk, vermicilli, ... read more",204.0
+Thickshake,Caramel Brownie Thickshake,1,0,"A chocolate-caramel masterpiece, studded with brownie bits and topped with whipped cream, fine ... read more",276.0
+Thickshake,Belgian Dip Thickshake,1,0,,168.0
+Thickshake,Choco Nuttie Overload Thickshake,1,0,"A chocolate-drowned waffle piled high with chocolate, from the fluffy interior to the ... read more",216.0
+Thickshake,Choco Pie Thickshake,1,0,"""A nostalgic journey to a world of chocolatey bliss! Your Childhood favorite Lotte ... read more",192.0
+Thickshake,Choco Vanilla Thickshake,1,0,A thick and creamy delight,174.0
+Thickshake,Chocolate Brownie Thickshake,1,0,"A rich thick blend of soft brownie crumbs, smooth chocolate sauce, and tiny ... read more",216.0
+Thickshake,Death By Brownie Thickshake,1,0,A divine chocolate overdose! this sinful creation marries rich chocolate-flavored milk with Belgian ... read more,240.0
+Thickshake,Death By Chocolate Thickshake,1,0,A divine chocolate overdose! this sinful creation marries rich chocolate-flavored milk with Belgian ... read more,264.0
+Thickshake,Ferrero Rocher Thickshake,1,0,"A chocolate lover's dream, infused with Ferrero Rocher's nutty delight and a chocolate ... read more",276.0
+Thickshake,Gem Of Gems Thickshake,1,0,A thick chocolaty shake topped with velvety whip cream and a shower of ... read more,192.0
+Thickshake,Heavenly Vanilla Thickshake,1,0,Dive into creamy clouds of rich vanilla milk blending together with velvety vanilla ... read more,162.0
+Thickshake,Hershey'S Almond Crunch Thickshake,1,0,"The Hershey's bar you love, reimagined in a thick chocolatey milkshake. Garnished with ... read more",228.0
+Thickshake,Kit Kat Break Thickshake,1,0,Escape into a break of pure indulgence with the popular Kit Kat Bar ... read more,228.0
+Thickshake,Lotus Biscoff Thickshake,1,0,"Indulge in the creamy ecstasy of Biscoff Thick Shake, a swirl of vanilla ... read more",252.0
+Thickshake,Munch Mania Thickshake,1,0,A chocolate-lover's paradise where smooth chocolate-flavored milk teams up with velvety whip cream ... read more,192.0
+Thickshake,Nutella Kit Kat Thickshake,1,0,,276.0
+Thickshake,Nutella Thickshake,1,0,"Skip the bread, grab a glass. A whole lot of Nutella blended with ... read more",228.0
+Thickshake,Nuttis Rocher Thickshake,1,0,The nuttier version of the classic Ferrero rocher milkshake. The goodness of hershey's ... read more,276.0
+Thickshake,Nutty Butterscotch Thickshake,1,0,,180.0
+Thickshake,Oreo Brownie Break Thickshake,1,0,"A twist on two chocolate classics, now in a glass: a thick blend ... read more",252.0
+Thickshake,Oreo Cookie Thickshake,1,0,"Your favorite black & white cookie, now in a glass! Enjoy a thicky, ... read more",204.0
+Thickshake,Pistachio Carnival Thickshake,1,0,Delightful Pistachio Nuts 300 Ml,264.0
+Thickshake,Rainbow Brownie Thickshake,1,0,"A thick chocolate milkshake with our secret chocolate sauces, hershey almond and gems. ... read more",204.0
+Thickshake,Red Velvet Thickshake,1,0,"Experience a rich & creamy blend of vanilla milk, red velvet cake crumbs, ... read more",240.0
+Thickshake,Swiss Choco Brownie Thickshake,1,0,The Alps meet the bakery in this luxury delight. A thick rich chocolate ... read more,264.0
+Thickshake,Swiss Chocolate Thickshake,1,0,"Savor the Swiss Chocolate milkshake, a rich blend of chocolate milk, white chocolate ... read more",216.0
+Thickshake,The Golden Pearl Thickshake,1,0,,240.0
+Thickshake,Tripple Berry Thickshake,1,0,Fusion of 3 types of berries 300 Ml,204.0
+Dark Chocolate Thick Shakes,Belgian Dark Chocolate Thickshake,1,0,"A rich mix of chocolate milk, Belgian dark chocolate sauce, chips, and a ... read more",276.0
+Dark Chocolate Thick Shakes,Dark Choco Bournville Thickshake,1,0,"Not so sweet, but oh so rich and satisfying! Crafted with Dark choco ... read more",276.0
+Dark Chocolate Thick Shakes,Dark Noir Thickshake,1,0,"Luxurious milk, Belgian dark chocolate sauce, dark noir, and a chocolate stick.",276.0
+Sugar Free Thick Shake,Arriba Cacao Chocolate Sugar Free Thickshake,1,0,Sugar-free satisfaction! A delightful thick shake with plain milk and sugar-free aribba chocolate ... read more,216.0
+Sugar Free Thick Shake,Kaju Anjeer Sugar Free Thickshake,1,0,The milkshake for the health-conscious. The goodness of rich sugar-free anjeer blended with ... read more,204.0
+Sugar Free Thick Shake,Vanilla Thickshake Sugar Free Thickshake,1,0,Indulge in a guilt-free lip-smacking vanilla experience with all the vanilla but none ... read more,192.0
+Nut Thick Shakes,Belgian Cashewnut Thickshake,1,0,,192.0
+Nut Thick Shakes,Crunchy Saffron Nuts Thickshake,1,0,,216.0
+Nut Thick Shakes,Kaju Anjeer Thickshake,1,0,"A creamy blend of vanilla sweetness, cashew richness, and fig's subtle tang, an ... read more",192.0
+Nut Thick Shakes,Kaju Gulkand Thickshake,1,0,"A sweet and savory treat, with the richness of kaju and the tang ... read more",204.0
+Nut Thick Shakes,Kaju Kiss Miss Thickshake,1,0,"A royal, creamy & thick milkshake with rich dry fruits in every sip. ... read more",192.0
+Nut Thick Shakes,Rajwadi Delight Thickshake,1,0,A royal and delightful vegetarian dish with rich flavors and aromas.,228.0
+Nut Thick Shakes,Roasted Almond Thickshake,1,0,An indulgent creamy shake made by blending milk with almonds,216.0
+Fruit Thick Shakes,Berry Berry Magic Thickshake,1,0,A burst of fruity goodness in every bite.,192.0
+Fruit Thick Shakes,Berry'S Treat Thickshake,1,0,"A creamy, chewy, and slightly tart delight! Experience an intense cranberry flavor, complemented ... read more",216.0
+Fruit Thick Shakes,Blue Berry Blast Thickshake,1,0,"A delightful fusion of vanilla sweetness and blueberry tang, topped with a sprinkle ... read more",240.0
+Fruit Thick Shakes,Juicy Strawberry Thickshake,1,0,"A refreshing blend of vanilla and strawberry bliss, with real strawberry chunks for ... read more",216.0
+Fruit Thick Shakes,Mango Cashew Delight Thickshake,1,0,Tropical Mango Madness blended into a fruit shake. Topped off with roasted kaju ... read more,216.0
+Fruit Thick Shakes,Mango Explosion Thickshake,1,0,"An extremely-thick & creamy milkshake made with sun-kissed mangoes. It's creamy, refreshing, and ... read more",216.0
+Fruit Thick Shakes,Sitafal Thickshake,1,0,,204.0
+Thickshake Small,Arriba Cacao Chocolate Sugar Free Small Thickshake,1,0,,144.0
+Thickshake Small,Belgian Cashewnut Small Thickshake,1,0,,144.0
+Thickshake Small,Belgian Dark Chocolate Small Thickshake,1,0,,180.0
+Thickshake Small,Berry Berry Magic Small Thickshake,1,0,,156.0
+Thickshake Small,Berry'S Treat Small Thickshake,1,0,,180.0
+Thickshake Small,Blue Berry Blast Small Thickshake,1,0,,180.0
+Thickshake Small,Brownella Small Thickshake,1,0,,216.0
+Thickshake Small,Brownie Kit Kat Small Thickshake,1,0,,180.0
+Thickshake Small,Brownie Nutties Small Thickshake,1,0,"A choco thickshake that is nuttier, fudgier, brownie-er. A milky blend of Hershey's ... read more",168.0
+Thickshake Small,Cadbury Fruit & Nut Small Thickshake,1,0,A rich blend of thick chocolate milk & Cadbury's classic fruit & nut. ... read more,144.0
+Thickshake Small,Cadbury Silk Small Thickshake,1,0,,168.0
+Thickshake Small,Belgian Dip Small Thickshake,1,0,,120.0
+Thickshake Small,Choco Pie Small Thickshake,1,0,,120.0
+Thickshake Small,Choco Vanilla Small Thickshake,1,0,French vanilla with choco dip,120.0
+Thickshake Small,Chocolate Brownie Small Thickshake,1,0,Delicious brownie crushed and topped with whipped cream and chocolate chips,144.0
+Thickshake Small,Crunchy Saffron Nuts Small Thickshake,1,0,,168.0
+Thickshake Small,Dark Choco Bournville Small Thickshake,1,0,,180.0
+Thickshake Small,Dark Noir Small Thickshake,1,0,,180.0
+Thickshake Small,Gem Of Gems Small Thickshake,1,0,Amazing chocolate Shake topped with gems,120.0
+Thickshake Small,Heavenly Vanilla Small Thickshake,1,0,Dive into creamy clouds of rich vanilla milk blending together with velvety vanilla ... read more,108.0
+Thickshake Small,Hershey'S Almond Crunch Small Thickshake,1,0,Crunchy chocolatey almond with whip cream,180.0
+Thickshake Small,Juicy Strawberry Small Thickshake,1,0,Flavours of fresh strawberry,144.0
+Thickshake Small,Kaju Anjeer Small Thickshake,1,0,Tasty cashew with the goodness of anjeer,144.0
+Thickshake Small,Kaju Anjeer Sugar Free Small Thickshake,1,0,,150.0
+Thickshake Small,Kaju Gulkand Small Thickshake,1,0,Mixed cashew with rose petals,156.0
+Thickshake Small,Kit Kat Break Small Thickshake,1,0,,144.0
+Thickshake Small,Lotus Biscoff Small Thickshake,1,0,,180.0
+Thickshake Small,Munch Mania Small Thickshake,1,0,Crushed crunchy munch,120.0
+Thickshake Small,Nutella Small Thickshake,1,0,,168.0
+Thickshake Small,Oreo Cookie Small Thickshake,1,0,,144.0
+Thickshake Small,Pistachio Carnival Small Thickshake,1,0,,180.0
+Thickshake Small,Rajwadi Delight Small Thickshake,1,0,,180.0
+Thickshake Small,Roasted Almond Small Thickshake,1,0,Roasted almond like no other,156.0
+Thickshake Small,Swiss Chocolate Small Thickshake,1,0,,180.0
+Thickshake Small,The Golden Pearl Small Thickshake,1,0,,180.0
+Thickshake Small,Vanilla Thickshake Sugar Free Small Thickshake,1,0,,120.0
+Milkshake,Almond Roast Milkshake,1,0,"Delighting badaam lovers with a creamy, mood-lifting treat. The milkshake version of Roasted ... read more",192.0
+Milkshake,Berry Blast Milkshake,1,0,"A happy blend of berries and vanilla sweetness, swirled with tangy berry berry ... read more",192.0
+Milkshake,Black Current Milkshake,1,0,"Delicious purple summer treat! Frosty Milkshake made from soft, creamy black currant ice ... read more",192.0
+Milkshake,Bluberry Cheesecake Milkshake,1,0,,228.0
+Milkshake,Brown Mocha Milkshake,1,0,A rich and creamy thickshake made with mocha - a perfect chocolate indulgence.,216.0
+Milkshake,Brownie Choco Milkshake,1,0,,228.0
+Milkshake,Butterscotch Bliss Milkshake,1,0,,168.0
+Milkshake,Chikoo Chocolate Milkshake,1,0,,180.0
+Milkshake,Chikoo Rosa Milkshake,1,0,Real chikoo blended into a creamy milkshake with rose syrup.,192.0
+Milkshake,Chikoo Vanilla Milkshake,1,0,,144.0
+Milkshake,Chilling Chocolate Milkshake,1,0,Crunchy chocolate chips blended with ice cream in a creamy milkshake. The shake ... read more,192.0
+Milkshake,Classic French Vanilla Milkshake,1,0,"Celebrating a timeless classic, beloved for generations. Indulge in the creamy smoothness of ... read more",168.0
+Milkshake,Dark Beauty Milkshake,1,0,"A dark, rich, and chocolatey milkshake made with black roasted dark chocolate. For ... read more",204.0
+Milkshake,Italian Nutella Milkshake,1,0,An italian spin to the good ol' nutella milkshake. Shake things up with ... read more,240.0
+Milkshake,Italian Toffee Blend Milkshake,1,0,,216.0
+Milkshake,Kaju Anjeer Milkshake,1,0,Featuring luscious vanilla milk and a delightful topping of cashew and fig sauce. ... read more,192.0
+Milkshake,Kit Kat Break Milkshake,1,0,,192.0
+Milkshake,Milky Bar Milkshake,1,0,"Indulge your sweet tooth with a creamy and smooth White Milky Way milkshake, ... read more",192.0
+Milkshake,O'Mango Milkshake,1,0,Richness of Mango in a go 300 Ml,192.0
+Milkshake,Oreo Kick Milkshake,1,0,"Delight in the Oreo Punch milkshake, a delicious mix of vanilla milk, cookie ... read more",192.0
+Milkshake,Pink Berry Milkshake,1,0,The Pink-est shake on our menu. Rich Strawberry ice-cream blended with real strawberries ... read more,192.0
+Milkshake,Rajwadi Raj Milkshake,1,0,"A taste of royalty, this milkshake is made with Rajbhog ice cream, the ... read more",216.0
+Milkshake,Red Velvet Cheesecake Milkshake,1,0,,228.0
+Milkshake,Royal Nutty Dreams Milkshake,1,0,,216.0
+Milkshake,Royal Rose Milkshake,1,0,A harmonious fusion of creamy vanilla and sweet Kaju Gulkand flavors. A royal ... read more,192.0
+Milkshake,Sicilian Pistachio Milkshake,1,0,"Sip your way to 'nut-tastic' happiness with our Pista Milkshake, where every drop ... read more",228.0
+Milkshake,Snicker Hunger Milkshake,1,0,Finish your hunger with Snicker Hunger 300 Ml,204.0
+Milkshake,Special King Kulfi Milkshake,1,0,,228.0
+Milkshake,Strawberry Cheesecake Milkshake,1,0,,228.0
+Milkshake,The Brussels Lotus Milkshake,1,0,A delectable combination of vanilla milk and an exotic Lotus Biscoff base. A ... read more,240.0
+Ice Cream,American Nuts Ice Cream,1,0,A delicious shake made from rich american nuts,84.0
+Ice Cream,Anjeer Pession Ice Cream,1,0,Anjeer passion,78.0
+Ice Cream,Belgian Chocolate Ice Cream,1,0,Velvety soft ice cream with Belgian Chocolate flakes is the finest chocolate delight ... read more,96.0
+Ice Cream,Black Current Ice Cream,1,0,A tangy swirl of earthy flavors of European black currants,78.0
+Ice Cream,Butterscotch Ice Cream,1,0,"Creamy butterscotch bliss, a sweet classic with irresistible caramel notes.",72.0
+Ice Cream,Chocolate Chipsic,1,0,,84.0
+Ice Cream,Cookies & Cream Ice Cream,1,0,"Chocolaty cookies meet creamy vanilla for a delightful, textured treat.",72.0
+Ice Cream,Fresh Mango (S) Ice Cream,1,0,"Treat your taste buds to the luscious Mango Ice Cream, a creamy delight ... read more",84.0
+Ice Cream,Fresh Pineapple Ice Cream,1,0,"A tropical paradise in every creamy spoonful, bursting with sun-soaked pineapple goodness.",72.0
+Ice Cream,Fresh Sitafal (S) Ice Cream,1,0,"Made with the freshest and sweetest sitaphal fruit, this ice cream is a ... read more",78.0
+Ice Cream,Fresh Strawberry Ice Cream,1,0,"A burst of sweet and tangy strawberries in every bite, balanced by creamy ... read more",72.0
+Ice Cream,Kaju Draksh Ice Cream,1,0,"A nutty, grape-flavored delight with a touch of cashews.",72.0
+Ice Cream,Mocha Brownie Ice Cream,1,0,"What do you get when you mix two of your favourite things, that ... read more",90.0
+Ice Cream,Mughal-E-Azam Ice Cream,1,0,"Feeling Filmy? Indulge in the cinematic flavors of Mughal-E-Azam ice cream, a nostalgic ... read more",84.0
+Ice Cream,Rajbhog Ice Cream,1,0,"Taste royalty with every bite! Tasty, crunchy almond, cashew nuts and immunity boosting ... read more",90.0
+Ice Cream,Rajwadi Kulfi Ice Cream,1,0,"The milkshake rendition of the beloved Rajwadi kulfi. A creamy, mood-elevating treat with ... read more",96.0
+Ice Cream,Roasted Almond Ice Cream,1,0,Toasty almond crunch in creamy perfection,84.0
+Ice Cream,Rose Petals Ice Cream,1,0,"Creamy, soft and velvety like a fragrant bouquet of roses. Made by blending ... read more",84.0
+Ice Cream,Spanish Saffron Crunch Ice Cream,1,0,"A delicate and sunny ice cream with toasted pistachios & almonds, perfect for ... read more",84.0
+Ice Cream,Vanilla Ice Cream,1,0,"Treat yourself with creamy, sweet vanilla ice cream",54.0
+Sugar Free Ice Cream,Anjeer Sugar Free Ice Cream,1,0,All the Anjeer passion without the sugar.,84.0
+Sugar Free Ice Cream,Arriba Chocolate Sugar Free Ice Cream,1,0,"Experience the rich indulgence of Arriba Chocolate Sugar-Free Ice Cream, a guilt-free delight ... read more",90.0
+Sugar Free Ice Cream,Vanilla Sugar Free Ice Cream,1,0,Classic plain vanilla in a sugar-free delight!,60.0
+Coco,Brownie Cake Coco,1,0,Chill out with Frozen Hot Chocolate crowned with fudgy brownie bites and a ... read more,120.0
+Coco,Choco Chips Coco,1,0,"Chilled delight, Frozen Hot Chocolate, now with decadent chocolate chips. A frosty fusion ... read more",120.0
+Coco,Dry Fruit Coco,1,0,"Discover Frozen Hot Chocolate, an icy fusion of rich cocoa and an array ... read more",120.0
+Coco,Kaju Coco,1,0,Elevate your taste experience with Frozen Hot Chocolate featuring creamy vanilla-flavored milk and ... read more,120.0
+Coco,Kitkat Coco,1,0,"Get ready to break the ice with Frozen Hot Chocolate, kissed by Kit ... read more",120.0
+Coco,Munch Coco,1,0,Our Frozen Hot Chocolate is a delightful mishmash of vanilla-flavored milk and,120.0
+Coco,Nutella Coco,1,0,Get nutty with our Frozen Hot Chocolate hugged by the velvety embrace of ... read more,120.0
+Coco,Oreo Cookies Coco,1,0,Freeze the fun with our Frozen Hot Chocolate swirled with a wild Oreo ... read more,120.0
+Coco,Red Velvet Coco,1,0,"Indulge in Frozen Hot Chocolate with a red velvet twist, draped over a ... read more",120.0
+Coco,Swiss Coco,1,0,Know what's better than hot chocolate? Frozen Hot Chocolate. Introducing Swiss COCO,84.0
+Coco,Swiss Coco Swirl Chocolate,1,0,"Chilled cocoa dreams, now in a glass! Frozen Hot Chocolate with rich chocolate ... read more",120.0
+Coco,Swiss Coco Swirl Vanilla,1,0,,120.0
+Hot Special,Hot Sizzling Brownie,1,0,"""A soft chocolate brownie on a hot sizzler served with vanilla ice cream ... read more",192.0
+Hot Special,Sizzling Nutella Brownie,1,0,"A soft chocolate brownie coated with a lot of nutella, served on a ... read more",216.0
+Royal Falooda,Mango Falooda F,1,0,What's a falooda without ice cream? The cold and creamy mango ice cream ... read more,180.0
+Royal Falooda,Royal Kesar Falooda,1,0,Enjoy a burst of flavours in every bite with our rich kesar falooda ... read more,180.0
+Royal Falooda,Royal Kesar Kulfi Falooda,1,0,Treat yourself to the Royal blend of sweet and crunchy made with vanilla ... read more,180.0
+Royal Falooda,Royal Rose Falooda,1,0,"A regal dessert fit for the gods, offering bursts of floral sweetness in ... read more",180.0
+Royal Falooda,Santushti Special Falooda,1,0,Get ready to tantalize your taste buds with this exquisite and savory vegetarian ... read more,192.0
+Fresh Fruit Cream,Fresh Mango Bingo,1,0,,204.0
+Fresh Fruit Cream,Fresh Strawberry (S),1,0,,204.0
+Waffle,Brownie Kit Kat Waffle,1,0,"Crispy chocolate waffle made from brownie batter, filled with real KitKat pieces, baked ... read more",204.0
+Waffle,Chocolate Overload Waffle,1,0,"A chocolate-drowned waffle piled high with chocolate, from the fluffy interior to the ... read more",204.0
+Waffle,Classic Black & Wafflehite Waffle,1,0,,180.0
+Waffle,Club Oreo Waffle,1,0,Classic Crispy Waffle + Melted White chocolate & an overload of crushed oreo ... read more,192.0
+Waffle,Crunchy Caramel Waffle,1,0,A taste of caramel heaven in every bite. Made with vanilla drowned in ... read more,204.0
+Waffle,Dark Knight Waffle,1,0,"Embark on a flavor adventure with the Dark Knight Waffle, a chocolate base ... read more",180.0
+Waffle,Kit Kat Waffle,1,0,,180.0
+Waffle,Lotus Split Waffle,1,0,"Classic Vanilla Waffle meets lotus spread and with a crunchy biscoff cookie crush, ... read more",228.0
+Waffle,Naughty Nutella Waffle,1,0,,228.0
+Waffle,Nutella Brownie Waffle,1,0,,228.0
+Waffle,Nutella Kitkat Brownie Waffle,1,0,,228.0
+Waffle,Nutella Kitkat Waffle,1,0,,204.0
+Waffle,Pistachio Puro Waffle,1,0,Satisfy your nutty cravings with Pistachio Puro,228.0
+Waffle,Praline Crispy Caramel Waffle,1,0,"A taste of caramel heaven, with a praline crunch that's simply irresistible. A ... read more",204.0
+Waffle,Red Velvet Cheesecake Waffle,1,0,Eggless semi crispy waffle with cheese cake paste topped with red velvet is ... read more,228.0
+Waffle,Swiss Brownie Waffle,1,0,,192.0
+Waffle,Swiss Choco Chips Waffle,1,0,Crispy waffle loaded with exotic swiss chocolate. The waffle that's worth every calorie!,216.0
+Waffle,Tripple Chocolate Paradise Waffle,1,0,,216.0
+Waffle,White Truffle Waffle,1,0,,180.0
+Family Pack,American Nuts Family Pack,1,0,,336.0
+Family Pack,Belgian Chocolate Family Pack,1,0,Velvety soft ice cream with Belgian Chocolate flakes is the finest chocolate delight ... read more,420.0
+Family Pack,Chocolate Chips Family Pack,1,0,"If chocolate chips is the answer, then it doesn't matter what the question ... read more",336.0
+Family Pack,Cookies & Cream Family Pack,1,0,"Treat your taste buds to the luscious Mango Ice Cream, a creamy delight ... read more",348.0
+Family Pack,French Vanilla Family Pack,1,0,"Treat yourself with creamy, sweet vanilla ice cream",240.0
+Family Pack,Fresh Mango Family Pack,1,0,"Treat your taste buds to the luscious Mango Ice Cream, a creamy delight ... read more",336.0
+Family Pack,Fresh Sitafal Family Pack,1,0,"Made with the freshest and sweetest sitaphal fruit, this ice cream is a ... read more",360.0
+Family Pack,Fresh Strawberry Family Pack,1,0,Bursting with sweet strawberry goodness 800 Ml,324.0
+Family Pack,Mocha Brownie Fudge Family Pack,1,0,"""Indulge in Mocha Brownie Fudge, a harmonious blend of coffee, chocolate, and decadent ... read more",384.0
+Family Pack,Mughal E Azam Family Pack,1,0,,420.0
+Family Pack,Rajbhog Family Pack,1,0,"Taste royalty with every bite! Tasty, crunchy almond, cashew nuts and immunity boosting ... read more",384.0
+Family Pack,Rajwadi Kulfi Family Pack,1,0,"Experience regal indulgence with Rajwadi Kulfi. A majestic blend of saffron, pistachio, and ... read more",420.0
+Family Pack,Rose Petals Family Pack,1,0,"Creamy, soft and velvety like a fragrant bouquet of roses. Made by blending ... read more",384.0
+Family Pack,Spanish Saffron Family Pack,1,0,,420.0
+Sugarfree Milk Shake,Arriba Cocoa Sugar Free Milkshake,1,0,,192.0
+Sugarfree Milk Shake,Kaju Anjeer Sugar Free Milkshake,1,0,,216.0
+Sugarfree Milk Shake,Vanilla Sugar Free Milkshake,1,0,,180.0
+Santushti Special,Jamun Chiller,1,0,,180.0
+Santushti Special,Mix Fruit Bonanza Thickshake,1,0,,216.0
+Santushti Special,Tender Coconut Milkshake,1,0,,228.0
+Santushti Cafe,Caramel Cold Coffee,1,0,Chilled Coffee prepared with Vanilla milk & sweet caramel syrup. 300 Ml,228.0
+Santushti Cafe,Cold Coffee,1,0,Our signature classic! Chilled thick coffee made with vanilla milk. (300 Ml),156.0
+Santushti Cafe,Dark Knight Cold Coffee,1,0,Cold coffee with a Dark side,228.0
+Santushti Cafe,French Vanilla Cold Coffee,1,0,"A smooth blend of vanilla and coffee, chilled to delight. 300 Ml",180.0
+Santushti Cafe,Hazelnut Cold Coffee,1,0,Coffee blended with rich and nutty goodness of hazelnut. 300 Ml,228.0
+Santushti Cafe,Irish Cold Coffee,1,0,"A spirited blend of coffee and Irish essence, chilled to perfection.",228.0
+Santushti Cafe,Nutella Frostaccino,1,0,,216.0
+Organic Fruit Ice Cream,Fresh Guava Organic Ice Cream,1,0,,108.0
+Organic Fruit Ice Cream,Fresh Jamun Organic Ice Cream,1,0,,108.0
+Organic Fruit Ice Cream,Fresh Litchi Organic Ice Cream,1,0,,114.0
+Organic Fruit Ice Cream,Fresh Sitafal Organic Ice Cream,1,0,,108.0
+Organic Fruit Ice Cream,Hafoose Mango Organic Ice Cream,1,0,,114.0
+Organic Fruit Ice Cream,Lemon Grass Organic Ice Cream,1,0,,108.0
+Organic Fruit Ice Cream,Tender Coconut Organic Ice Cream,1,0,,114.0
+Fresh Juice,Black Grapes,1,0,,120.0
+Fresh Juice,Fresh Apple,1,0,,132.0
+Fresh Juice,Fresh Jamun,1,0,,132.0
+Fresh Juice,Fresh Kiwi,1,0,,120.0
+Fresh Juice,Fresh Orange,1,0,,120.0
+Fresh Juice,Mix Fruit,1,0,,144.0
+Water,Water Bottle 1 Ltr,1,0,,24.0
+Water,Water Bottle 500Ml,1,0,,12.0

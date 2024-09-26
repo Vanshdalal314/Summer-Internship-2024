@@ -1,0 +1,149 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups and Salads,Veg Sweet Corn Soup,1,0,,120.0
+Soups and Salads,Veg Manchow Soup,1,0,,120.0
+Soups and Salads,Veg Hot and Sour Soup,1,0,,120.0
+Soups and Salads,Veg Thai Soup,1,0,[Veg preparation],120.0
+Soups and Salads,Veg Hong Kong Soup,1,0,,120.0
+Soups and Salads,Veg Lemon Coriander Soup,1,0,,120.0
+Soups and Salads,Onion Salad,1,0,,60.0
+Soups and Salads,Green Salad,1,0,,90.0
+Starters,Paneer Tikka,1,0,,250.0
+Starters,Paneer Pahadi,1,0,,250.0
+Starters,Tandoori Mushroom,1,0,,220.0
+Starters,Chicken Tikka [8 Pieces],0,0,,260.0
+Starters,Chicken Hariyali [8 Pieces],0,0,,260.0
+Starters,Chicken Reshmi [8 Pieces],0,0,,260.0
+Starters,Chicken Angara [8 Pieces],0,0,,260.0
+Starters,Chicken Pathani [8 Pieces],0,0,,270.0
+Starters,Chicken Afghani [8 Pieces],0,0,,270.0
+Starters,Chicken Makhmali [8 Pieces],0,0,,280.0
+Starters,Chicken Banjara [8 Pieces],0,0,,260.0
+Starters,Chicken Tangdi [6 Pieces],0,0,,320.0
+Starters,Chicken Mamna [8 Pieces],0,0,,220.0
+Starters,Tandoori Chicken,0,0,,150.0
+Starters,Mutton Mamna [8 Pieces],0,0,,370.0
+Starters,Fish Tikka,0,0,,350.0
+Starters,Fish Pahadi,0,0,,350.0
+Starters,Tandoori Pomfret,0,0,,400.0
+Starters,Hariyali Prawns,0,0,,380.0
+Starters,Perl Peri Prawns,0,0,,380.0
+Starters,Singh is King Prawns [9 Pieces],0,0,,450.0
+Starters,Veg Manchurian,1,0,,180.0
+Starters,Veg Butter Garlic,1,0,,200.0
+Starters,Chilli Paneer,1,0,,250.0
+Starters,Dragon Paneer,1,0,,250.0
+Starters,Siwan Paneer,1,0,,250.0
+Starters,Paneer Manchurian,1,0,,250.0
+Starters,Chilli Chicken,0,0,,240.0
+Starters,Chicken Manchurian,0,0,,240.0
+Starters,Schezwan Chicken,0,0,,240.0
+Starters,Boneless Chilli Chicken,0,0,,300.0
+Starters,Boneless Chicken Manchurian,0,0,,300.0
+Starters,Boneless Schezwan Chicken,0,0,,300.0
+Starters,Badshah Chicken,0,0,,280.0
+Starters,Chicken Slice with Exotic Veg,0,0,,290.0
+Starters,Chicken 65,0,0,,290.0
+Starters,Chicken 99,0,0,,290.0
+Starters,Chicken Popcorn,0,0,,290.0
+Starters,Chicken Lollipop,0,0,,320.0
+Starters,Fish Salt and Pepper,0,0,,280.0
+Starters,Chinese Fish Fry,0,0,,250.0
+Starters,Chilli Fish,0,0,,280.0
+Starters,Schezwan Fish,0,0,,280.0
+Starters,Fish Hot Garlic,0,0,,280.0
+Starters,Fish Sweet Sour,0,0,,280.0
+Starters,King Prawns Schezwan,0,0,,300.0
+Starters,King Prawns Black Bean Sauce,0,0,,300.0
+Starters,Prawns Salt and Pepper,0,0,,300.0
+Main Course,Kadai Veg,1,0,,180.0
+Main Course,Mixed Veg,1,0,,180.0
+Main Course,Veg Toofani,1,0,,180.0
+Main Course,Paneer Angara,1,0,,230.0
+Main Course,Paneer Handi,1,0,,230.0
+Main Course,Kadai Paneer,1,0,,230.0
+Main Course,Paneer Bhurji,1,0,,260.0
+Main Course,Dal Fry,1,0,,130.0
+Main Course,Dal Tadka,1,0,,150.0
+Main Course,Chicken Curry,0,0,,180.0
+Main Course,Chicken Gharwali,0,0,,170.0
+Main Course,Chicken Tikka Masala,0,0,,200.0
+Main Course,Chicken Tangdi Masala,0,0,,270.0
+Main Course,Chicken Handi,0,0,,250.0
+Main Course,Chicken Kadai,0,0,,200.0
+Main Course,Chicken Rogan Josh,0,0,,380.0
+Main Course,Chicken Angara,0,0,,230.0
+Main Course,Chicken Lazeez,0,0,,410.0
+Main Course,Chicken Butter Masala,0,0,,330.0
+Main Course,Chicken Keema Masala,0,0,,350.0
+Main Course,Chicken Rezala,0,0,,230.0
+Main Course,Chicken Keema Liver Masala,0,0,,370.0
+Main Course,Boneless Butter Chicken,0,0,,280.0
+Main Course,Chef Special Murgh Musallam,0,0,,1100.0
+Main Course,Mutton Gharwali,0,0,,240.0
+Main Course,Mutton Curry,0,0,,250.0
+Main Course,Mutton Masala,0,0,,250.0
+Main Course,Mutton Rogan Josh,0,0,,280.0
+Main Course,Fish Tikka Masala,0,0,,350.0
+Main Course,Fish Curry,0,0,,320.0
+Main Course,Fish Malai,0,0,,370.0
+Main Course,Handi Me Machli,0,0,,350.0
+Main Course,Prawns Kadai,0,0,,350.0
+Main Course,Gauti Prawns,0,0,,340.0
+Main Course,Prawns Angara,0,0,,360.0
+Main Course,Chefs Special Prawns,0,0,,400.0
+Main Course,Veg Manchurian Gravy,1,0,,170.0
+Main Course,Paneer Chilli Gravy,1,0,,220.0
+Main Course,Paneer Manchurian Gravy,1,0,,220.0
+Main Course,Schezwan Paneer Gravy,1,0,,220.0
+Main Course,Cheese Hot Garlic Chicken,0,0,,260.0
+Main Course,Boneless Fish Hunan Chicken,0,0,,330.0
+Main Course,Fish Hunan Chicken,0,0,,250.0
+Main Course,Fish Devils Chicken,0,0,,260.0
+Main Course,Boneless Fish Devils Chicken,0,0,,350.0
+Main Course,Chilli Fish Gravy,0,0,,240.0
+Main Course,Fish Manchurian Gravy,0,0,,240.0
+Main Course,Schezwan Fish Gravy,0,0,,240.0
+Main Course,Boneless Chilli Fish Gravy,0,0,,310.0
+Main Course,Boneless Fish Manchurian Gravy,0,0,,310.0
+Main Course,Boneless Schezwan Fish Gravy,0,0,,310.0
+Main Course,New Taste and Flavour Prawns,0,0,,400.0
+Breads,Plain Tandoori Roti,1,0,,25.0
+Breads,Butter Tandoori Roti,1,0,,30.0
+Breads,Plain Naan,1,0,,40.0
+Breads,Butter Naan,1,0,,50.0
+Breads,Garlic Naan,1,0,,60.0
+Breads,Cheese Naan,1,0,,80.0
+Breads,Cheese Chilli Naan,1,0,,80.0
+Breads,Mixed Stuffed Naan,1,0,,110.0
+Breads,Plain Kulcha,1,0,,40.0
+Breads,Laccha Paratha,1,0,,50.0
+Breads,Dragon Naan,1,0,,200.0
+Breads,Chicken Paratha,0,0,,70.0
+Rice and Biryani,Plain Rice,1,0,,120.0
+Rice and Biryani,Jeera Rice,1,0,,140.0
+Rice and Biryani,Veg Pulao,1,0,,160.0
+Rice and Biryani,Paneer Biryani,1,0,,220.0
+Rice and Biryani,Chicken Biryani,0,0,,280.0
+Rice and Biryani,Boneless Chicken Biryani,0,0,,330.0
+Rice and Biryani,Mutton Biryani,0,0,,350.0
+Rice and Biryani,Boneless Mutton Biryani,0,0,,430.0
+Rice and Biryani,Hyderabadi Chicken Biryani,0,0,,300.0
+Rice and Biryani,Boneless Hyderabadi Chicken Biryani,0,0,,360.0
+Rice and Biryani,Hyderabadi Mutton Biryani,0,0,,370.0
+Rice and Biryani,Boneless Hyderabadi Mutton Biryani,0,0,,480.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,170.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,180.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,220.0
+Fried Rice and Noodles,Mutton Fried Rice,0,0,,260.0
+Fried Rice and Noodles,Prawns Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,140.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,170.0
+Fried Rice and Noodles,Egg Hakka Noodles,0,0,,170.0
+Fried Rice and Noodles,Chicken Hakka Noodles,0,0,,210.0
+Snacks,Stuffed Kulcha,1,0,,70.0
+Snacks,Chur Chur Kulcha,1,0,,80.0
+Snacks,Amritsari Kulcha,1,0,,80.0
+Accompaniments,Roasted Papad,1,0,,20.0
+Accompaniments,Fried Papad,1,0,,25.0
+Accompaniments,Masala Papad,1,0,,50.0

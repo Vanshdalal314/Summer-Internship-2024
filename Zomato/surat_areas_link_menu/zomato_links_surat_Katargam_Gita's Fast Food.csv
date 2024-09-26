@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burgers,Peri Peri Burger Combo [3 Pieces],1,0,,150.0
+Burgers,Veg Cheese Slice Burger Combo [3 Pieces],1,0,,200.0
+Burgers,Jain Veg Burger,1,0,,40.0
+Burgers,Regular Tandoori Burger,1,0,,60.0
+Burgers,Cheese Tandoori Burger,1,0,,80.0
+Burgers,Khatta Meetha Burger,1,0,,45.0
+Burgers,Cheese Chatpata Burger,1,0,,80.0
+Burgers,Regular Schezwan Burger,1,0,,60.0
+Burgers,Cheese Schezwan Burger,1,0,,80.0
+Burgers,Mexican Burger,1,0,,45.0
+Burgers,Cheese Mexican Burger,1,0,,80.0
+Burgers,Supreme Burger,1,0,,60.0
+Burgers,Cheese Supreme Burger,1,0,,80.0
+Burgers,Veg Cheese Burger,1,0,,80.0
+Snacks,Salted French Fries,1,0,,75.0
+Snacks,Peri Peri French Fries,1,0,,90.0
+Snacks,Cheese French Fries,1,0,,120.0
+Momos,Veg Fried Momos [5 Pieces],1,0,,120.0
+Momos,Maggi Fried Momos [5 Pieces],1,0,,120.0
+Momos,Cheese Paneer Fried Momos [5 Pieces],1,0,,150.0

@@ -1,0 +1,5 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Vada Pav,Vada Pav,1,0,Served with chutney. [Jain preparation not available].,32.0
+Chutney,Green Chutney,1,0,,10.0
+Chutney,Meethi Chutney,1,0,,10.0
+Chutney,Red Chilli Dry Chutney,1,0,,10.0

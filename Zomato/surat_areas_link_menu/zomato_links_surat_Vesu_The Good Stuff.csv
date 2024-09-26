@@ -1,0 +1,34 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+The Good Food Truck,Cheese toastie,1,0,"Decent amount of sauces, cheese , oman chips or cheetos and toasted in ... read more",300.0
+The Good Food Truck,Nutella Pancake,1,0,,400.0
+The Good Food Truck,Biscoff Pancakes,1,0,"[3 Pieces, large] pancakes. Each layer filled with biscoff, topped with whipping cream ... read more",400.0
+Good things you can buy,Biscoff Spread,1,0,,650.0
+Savories,Cheese Bagel,1,0,Classic cream cheese.,250.0
+Savories,Cream Cheese Croissant,1,0,Cream cheese with microgreens.,300.0
+Savories,Cheddar Cheese Croissant,1,0,"Cheddar cheese, mustard and sauce.",400.0
+Desserts,Ferrero Rocher Cheesecake Slice,1,0,,350.0
+Desserts,Biscoff Cheesecake Slice,1,0,Our best Seller! Classic Cheesecake topped with Biscoff (Caramel-Cinnamon Biscuit Spread),400.0
+Desserts,Berry Compote Cheesecake,1,0,,400.0
+Desserts,Chocolate Croissant,1,0,,300.0
+Desserts,Brownie,1,0,[Veg preparation],150.0
+Drinks (Beverages),Iced Espresso,1,0,,120.0
+Drinks (Beverages),Iced Americano Coffee,1,0,,120.0
+Drinks (Beverages),Iced Flat White Coffee,1,0,,200.0
+Drinks (Beverages),Iced Espresso Tonic Coffee,1,0,,300.0
+Drinks (Beverages),Iced Vimto Espresso Tonic Coffee,1,0,,320.0
+Drinks (Beverages),Iced Bom Bon,1,0,,200.0
+Drinks (Beverages),Iced Vanilla Coffee,1,0,,300.0
+Drinks (Beverages),Iced Salted Caramel Coffee,1,0,,300.0
+Drinks (Beverages),Iced Cinnamon Latte,1,0,,300.0
+Drinks (Beverages),Iced Mocha Coffee,1,0,"Please mention if you want hot, by default we send iced.",300.0
+Drinks (Beverages),Iced Biscoff Latte,1,0,Delivered Cold unless Specified during checkout as hot,300.0
+Drinks (Beverages),Iced Pistachio Latte,1,0,,300.0
+Drinks (Beverages),Iced Matcha Espresso Latte,1,0,Fusion of espresso with matcha and creamy sweetener. A must try.,380.0
+Drinks (Beverages),Biscoff Frappe,1,0,,400.0
+Drinks (Beverages),Nutella Frappe,1,0,,400.0
+Drinks (Beverages),Cookie Mocha Frappe,1,0,,400.0
+Drinks (Beverages),Strawberry Cheesecake Frappe,1,0,,400.0
+Drinks (Beverages),Mocha Cookie Frappe,1,0,,400.0
+Drinks (Beverages),Biscoff Shake,1,0,,400.0
+Drinks (Beverages),Nutella Shake,1,0,,400.0
+Drinks (Beverages),Berry Shake,1,0,,400.0

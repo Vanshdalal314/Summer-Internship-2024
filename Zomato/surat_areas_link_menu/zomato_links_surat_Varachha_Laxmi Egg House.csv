@@ -1,0 +1,85 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Limbu Mari Omelette [2 Eggs] with Boil Egg [2 Eggs] and 4 Pav,0,0,Served with Papad+Jeera Soda [200 ml],180.0
+Combos,Cheese Sandwich Omelette [2 Eggs] with Limbu Mari Omelette [2 Eggs],0,0,Served with Papad+Jeera Soda [200 ml],280.0
+Combos,Green Khimo [2 Eggs] with Lasan Fry [2 Eggs] and 8 Pav,0,0,Served with Papad+Jeera Soda [200 ml],300.0
+Combos,Cheese Boil Chutney [2 Eggs] with Tomato Fry [2 Eggs] and 8 Pav,0,0,Served with Papad+Jeera Soda [200 ml],320.0
+Combos,Red Egg Curry [2 Eggs] with Lasan Fry [2 Eggs] and 8 Pav,0,0,Served with Papad+Jeera Soda [200 ml],400.0
+Combos,Angoor Rabdi [5 Eggs] with 6 Pav,0,0,Served with Papad+Jeera Soda [200 ml],400.0
+Combos,Lakshmi Special Cheese Tadka [4 Eggs] with 6 Pav,0,0,Served with Papad+Jeera Soda [200 ml],400.0
+Combos,Egg Bhurji [2 Eggs] with Green Gotalo [2 Eggs] and 8 Pav,0,0,Served with Papad+Jeera Soda [200 ml],400.0
+Combos,Green Gotalo [2 Eggs] with Red Khimo [2 Eggs] and 12 Pav,0,0,Served with Papad+Jeera Soda [200 ml],400.0
+Combos,Australian Fry [5 Eggs] with Boiled Egg [2 Eggs] and 6 Pav,0,0,Served with Papad+Jeera Soda [200 ml],460.0
+Combos,Egg Tikhari [4 Eggs] with Limbu Mari Omelette [2 Eggs] and 6 Pav,0,0,Served with Papad+Jeera Soda [200 ml],520.0
+Combos,Egg Ravaiya [4 Eggs] with Green Khimo [2 Eggs] and 12 Pav,0,0,Served with Papad+Jeera Soda [200 ml],560.0
+Combos,Australian Fry [5 Eggs] with Red Egg Curry [2 Eggs and 12 Pav,0,0,Served with Papad+Jeera Soda [200 ml],600.0
+Combos,Egg Tikhari [4 Eggs] with Green Khimo [2 Eggs] and 12 Pav,0,0,Served with Papad+Jeera Soda [200 ml],600.0
+Combos,Egg Paplet [4 Eggs] with Locha Omelette [2 Eggs] and 10 Pav,0,0,Served with Papad+Jeera Soda [200 ml],640.0
+Combos,Egg Patra [4 Eggs] and Egg Curry [2 Eggs] and 12 Pav,0,0,Served with jeera soda [200 ml].,640.0
+Combos,Egg Paplet [4 Eggs] with Australian Fry [5 Eggs] Combo,0,0,Egg Paplet [4 Eggs]+Australian Fry [5 Eggs]+Limbu Mari Paper [2 Eggs]+15 Pav+Papad+Jeera+Masti Soda ... read more,850.0
+Starters,Boil Egg [2 Egg],0,0,,60.0
+Starters,Boiled Cheese Salad [2 Egg],0,0,Prepared with oi,200.0
+Starters,Omlet [2 Egg] with 4 Pav,0,0,,120.0
+Starters,Boiled Omlet [2 Egg] with 4 Pav,0,0,,160.0
+Starters,Boiled Fry [2 Egg] with 4 Pav,0,0,,160.0
+Starters,Limbumari Paper [2 Egg],0,0,,120.0
+Starters,Cheese Omlet [2 Egg] with 4 Pav,0,0,,200.0
+Starters,Sandwich Omlet [2 Egg],0,0,,160.0
+Starters,Cutlet [2 Egg],0,0,,160.0
+Starters,Chutney Cheese Boil [2 Egg],0,0,,120.0
+Starters,Boil Kofta Dry [2 Egg] with 4 Pav,0,0,,240.0
+Starters,Frankey Cheese Roll [3 Eggs],0,0,,320.0
+Kheema,Red Kheema [2 Egg] with 6 Pav,0,0,,200.0
+Kheema,Kachu Kheema [4 Egg] with 6 Pav,0,0,,240.0
+Kheema,Kacha Nu Kheema [2 Egg] with 6 Pav,0,0,,200.0
+Kheema,Kheema Lahori [2 Egg] with 6 Pav,0,0,,300.0
+Kheema,Afghan [2 Egg] with 6 Pav],0,0,,300.0
+Fry,Lasan Nu Kachu [2 Egg] with 6 Pav],0,0,,200.0
+Fry,Egg Sabji [2 Egg] with 6 Pav],0,0,,200.0
+Fry,Egg Curry [2 Egg] with 6 Pav],0,0,,200.0
+Fry,Lachko [4 Egg] with 6 Pav],0,0,,280.0
+Fry,Bhurji [2 Egg] with 6 Pav],0,0,,200.0
+Fry,Lasan Fry [2 Egg] with 6 Pav],0,0,,200.0
+Fry,Tomato Fry [2 Egg] with 6 Pav],0,0,,200.0
+Fry,Green Fry [2 Egg] with 6 Pav],0,0,,280.0
+Fry,Doctor Fry [2 Egg] with 6 Pav],0,0,,200.0
+Gotala,Green Gotala [2 Egg] with 6 Pav,0,0,,200.0
+Gotala,Tomato Gotala [2 Egg] with 6 Pav,0,0,,200.0
+Gotala,Curry Gotala [2 Egg] with 6 Pav,0,0,,200.0
+Gotala,Goti Gotala [2 Egg] with 6 Pav,0,0,,200.0
+Gotala,Gravy Bhurji [3 Egg] with 6 Pav,0,0,,260.0
+Gotala,Rasawala Kachu [3 Egg] with 6 Pav,0,0,,260.0
+Gotala,Rasawali Omlet [2 Egg] with 6 Pav,0,0,,200.0
+Gotala,Egg Punjabi [3 Egg] with 6 Pav,0,0,,340.0
+Gotala,Egg Lahori [4 Egg] with 6 Pav,0,0,,360.0
+Gotala,Egg Slice [4 Egg] with 6 Pav,0,0,,340.0
+Gotala,Egg Kaleji [3 Egg] with 6 Pav,0,0,,360.0
+Gotala,Gravy Cheese Boil [4 Eggs] with Pav [6 Pav],0,0,,300.0
+Gotala,America Lachko [3 Egg] with 6 Pav,0,0,,340.0
+Gotala,Egg Dal Fry [2 Egg] with 6 Pav,0,0,,340.0
+Special,Laxmi Special Egg Cheese Tadka [4 Eggs] with 6 Pav,0,0,,400.0
+Special,Cheese Egg Paplet [4 Egg] with 6 Pav,0,0,,440.0
+Special,Cheese Patra [4 Egg] with 6 Pav,0,0,,440.0
+Special,Australian Fry [5 Egg] with 6 Pav,0,0,,400.0
+Special,Ravaiya [4 Egg] with 6 Pav,0,0,,360.0
+Special,Angoor Rabdi Cheese [5 Egg] with 6 Pav,0,0,,400.0
+Special,Malai Rabdi [5 Egg] with 6 Pav,0,0,,440.0
+Special,Tikhari [4 Egg] with 6 Pav,0,0,,400.0
+Special,Special Dal Tadka [4 Egg] with 6 Pav,0,0,,440.0
+Special,Patudi [4 Egg] with 6 Pav,0,0,,440.0
+Special,Egg Mamna [5 Egg] with 6 Pav,0,0,,600.0
+Special,Muglai [4 Egg] with 6 Pav,0,0,,500.0
+Special,Gravy Dosa [6 Egg] with 8 Pav,0,0,,600.0
+Special,Special Ghari [6 Egg] with 8 Pav,0,0,,700.0
+Special,Shahi Korma [4 Egg] with 6 Pav,0,0,,500.0
+Special,Boil Kofta [4 Egg] with 6 Pav,0,0,,400.0
+Special,Samosa [6 Egg] with 8 Pav,0,0,,600.0
+Special,Royal Cheese [4 Egg] with 6 Pav,0,0,,500.0
+Special,Cutlet Rabdi [6 Egg] with 8 Pav,0,0,,600.0
+Accompaniments,Papad,1,0,Prepared,20.0
+Accompaniments,Jeera Soda [200 ml],1,0,Prepared,40.0
+Accompaniments,Extra Cheese,1,0,,40.0
+Accompaniments,Lehsun Chutney,1,0,Prepared,60.0
+Accompaniments,Egg Goti Chutney [2 Eggs],0,0,Prepared,60.0
+Accompaniments,Extra Salad [Onion and Tomato],1,0,Prepared with o,30.0
+Accompaniments,Extra Pav [5 Pieces],1,0,,30.0
+Accompaniments,Plain Roti [3 Pieces],1,0,,60.0

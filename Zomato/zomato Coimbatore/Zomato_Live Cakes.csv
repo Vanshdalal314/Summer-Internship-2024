@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Vanilla Classic Cake,1,0,Vanilla cake which is a very delightful white coloured cake with a subtle ... read more,500.0
+Cakes,Pineapple Classic Cake,1,0,"Dressed with pineapple jelly and decorated with freshly sliced pineapple, delicious cherry and ... read more",500.0
+Cakes,Black Forest Classic Cake,1,0,Cake is completely covered with lip smacking white cream and rounded with chocolate ... read more,500.0
+Cakes,Butterscotch Classic Cake,1,0,Butter scotch cake is deliciously made with whipped cream and rich Caramel syrup. ... read more,500.0
+Cakes,Red Velvet Exotic Cake,1,0,Taking Red Velvet to the whole new level of deliciousness. Adorned with Red ... read more,650.0
+Cakes,White Forest Exotic Cake,1,0,"Cake with the perfect blend of white forest, and adorned with white chocolate ... read more",550.0
+Cakes,Chocolate Chips Exotic Cake,1,0,Soothe your senses with this delightful cake coated with whipped chocolate cream topped ... read more,550.0
+Cakes,Chocolate Truffle Exotic Cake,1,0,"Enrich with chocolate sponge & truffle cream full of heavenly cocoa, these are ... read more",550.0
+Cakes,Swiss Chocolate Exotic Cake,1,0,,500.0
+Cakes,Blueberry Premium Cake,1,0,Blueberry cake melt anyone's heart into tears. Something like the unmatched taste and ... read more,575.0
+Cakes,Strawberry Premium Cake,1,0,Strawberry cake baked with the best quality of ingredients will leave you mesmerized. ... read more,550.0
+Cakes,Oreo Premium Cake,1,0,,550.0
+Cakes,Mango Premium Cake,1,0,The loveliness of vanilla and wheat flour comes into contact with mango extracts ... read more,500.0
+Cakes,Gulab Jamun Special Cake,1,0,Here is an amazing Indian Fusion dessert combining the famous Bengal sweet Gulab ... read more,850.0
+Cakes,Rasmalai Special Cake,1,0,Here is an amazing Indian Fusion dessert combining the Rasumalai famous Bengal sweet ... read more,850.0
+Cakes,KitKat Special Cake,1,0,A super delectable cake perfectly topped with the gems and nicely surrounded by ... read more,850.0
+Cakes,Ferrero Rocher Special Cake,1,0,The cake has rich flavour and topping with Ferrero Rocher chocolate balls enriched ... read more,750.0
+Cakes,Fresh Fruit Special Cake,1,0,,850.0
+Cakes,Red Velvet with Chocolate Cake,1,0,,600.0
+Cakes,Red Velvet with Vanilla Cake,1,0,,600.0
+Cakes,Choco Vanilla Cake,1,0,"When chocolate and vanilla come together in a cake, it is bound to ... read more",1000.0
+Cakes,Red Velvet Heart Shape Cake with Single Rose,1,0,Red Velvet Heart Shape Cake with Single Rose,649.0
+Cakes,Truffle Heart Shape Cake with Single Rose,1,0,Truffle Heart Shape Cake with Single Rose,649.0
+Cakes,Butterscotch Heart Shape Cake with Single Rose,1,0,Butterscotch Heart Shape Cake with Single Rose,549.0
+Cakes,Black Forest Heart Shape Cake with 6 Rose,1,0,Black Forest Heart Shape Cake with 6 Rose,999.0
+Jar Cakes,Red Velvet Jar Cake,1,0,"If you are looking for something new in a cake, then this red ... read more",200.0
+Jar Cakes,Blueberry Jar,1,0,Here is the best flavors of Blueberry poured into a jar. This Blueberry ... read more,230.0
+Jar Cakes,Chocolate Jar,1,0,Enjoy the Exceptional taste of Chocolate truffle Jar Cake baked with love by ... read more,200.0
+Jar Cakes,Chocolate Mud Jar,1,0,Chocolate is nature's way of telling us to be happy every day. Glow ... read more,200.0
+Jar Cakes,Choco Celebration Jar,1,0,Celebrate your fabulous self with a delicious jar cake. With choco celebration jar ... read more,200.0
+Jar Cakes,Pineapple Jar,1,0,A wonderful melt-in-the-mouth kind of cake. With the sweetness from the cake and ... read more,200.0
+Jar Cakes,Butterscotch Jar,1,0,Crunchy butterscotch and smooth creamy butterscotch flavored bread confined into a cute little ... read more,200.0
+Jar Cakes,Choco Chip jar,1,0,Mother of all good things in this whole wide world has to be ... read more,205.0
+Jar Cakes,Red velvet Pineapple combo,1,0,A combo of Mini jar cake of premium Red Velvet and Pineapple flavor,250.0
+Pastries,Black Forest Pastry,1,0,Just have a single bite of this black forest pastry and it will ... read more,85.0
+Pastries,Chocolate Truffle Pastry,1,0,Chocolate truffle is a dense moist chocolate cake with silky chocolate ganache frosting ... read more,90.0
+Pastries,Butterscotch Pastry,1,0,Drool worthiness would take another meaning when you have a bite of a ... read more,80.0
+Pastries,Choco Chips Pastry,1,0,,90.0
+Pastries,Blueberry Cheese Pastry,1,0,,140.0
+Pastries,Strawberry Cheese Pastry,1,0,,139.0
+Combos,Black Forest Pastry Combo,1,0,Black Forest+Chocolate Truffle,149.0
+Combos,Butterscotch Pastry Combo,1,0,Butterscotch+Red Velvet,159.0
+Combos,Blueberry Cheesecake Pastry Combo,1,0,Blueberry Cheesecake+Choco Chips,199.0
+Combos,Butterscotch Heart Shape Cake [500 grams] with Single Rose,1,0,Butterscotch Heart Shape Cake [500 grams] with Single Rose,599.0
+Combos,Truffle Heart Shape Cake [500 grams] with Single Rose,1,0,Truffle Heart Shape Cake [500 grams] with Single Rose,649.0
+Combos,Red Velvet Heart Shape Cake [1 kg] with 6 Rose,1,0,Red Velvet Heart Shape Cake [1 kg] with 6 Rose,1149.0
+Combos,Black Forest Heart Shape Cake [1 kg] with 6 Rose,1,0,Black Forest Heart Shape Cake [1 kg] with 6 Rose,999.0
+Desserts,Almond Brownie,1,0,,120.0
+Desserts,Choco Chip Brownie,1,0,,120.0
+Desserts,Oreo Brownie,1,0,,65.0
+Desserts,Black Forest Pudding,1,0,,65.0
+Desserts,Pineapple Pudding,1,0,,65.0
+Desserts,Mango Pudding,1,0,,65.0
+Desserts,Blueberry Pudding,1,0,,65.0
+Desserts,Strawberry Pudding,1,0,,65.0
+Desserts,Butterscotch Pudding,1,0,,65.0
+Diwali Hampers,Black Forest Pastry Combo,1,0,Black Forest+Chocolate Truffle,149.0
+Diwali Hampers,Butterscotch Pastry Combo,1,0,Butterscotch+Red Velvet,159.0
+Diwali Hampers,Blueberry Cheesecake Pastry Combo,1,0,Blueberry Cheesecake+Choco Chips,199.0

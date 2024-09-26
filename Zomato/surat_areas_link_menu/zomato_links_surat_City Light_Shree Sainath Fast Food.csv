@@ -1,0 +1,62 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Cheese Vada Pav [1 Piece],1,0,Served with chutney.,79.0
+Snacks,Solid Masti Pav,1,0,,89.0
+Snacks,Mayo Vada Pav,1,0,,79.0
+Snacks,Mayo Cheese Vada Pav,1,0,,79.0
+Snacks,Paneer Tikka Vada Pav,1,0,,109.0
+Snacks,Salad Cheese Vada Pav [1 Piece],1,0,,99.0
+Snacks,Time Pass Vada Pav,1,0,,89.0
+Snacks,Schezwan Cheese Vada Pav,1,0,,99.0
+Snacks,Garlic Cheese Vada Pav [1 Piece],1,0,,79.0
+Snacks,Olive Cheese Vada Pav,1,0,,99.0
+Snacks,Garlic Bread,1,0,,219.0
+Snacks,Veg Cheese Open Toast,1,0,,289.0
+Snacks,Garlic Chilli Cheese Bread,1,0,,229.0
+Snacks,Olive Cheese Open Toast,1,0,,289.0
+Combos,Garlic Cheese Vada Pav [2 Pieces] with Thums Up,1,0,,189.0
+Combos,Time Pass Vada Pav [2 Pieces] with Thums Up,1,0,,189.0
+Combos,Cheese Vada Pav [2 Pieces] with Thums Up,1,0,,189.0
+Combos,1 Bombay Grilled Sandwich with Cheese Vada Pav [4 Pieces] and 1 Veg Cheese Footlong,1,0,,579.0
+Combos,Time Pass Vada Pav [4 Pieces] with Veg Cheese Open Toast [1 Piece] and 1 Veg Cheese Pizza [7 inches],1,0,,501.0
+Combos,Garlic Cheese Vada Pav [4 Pieces] with 1 Veg Cheese Toast Sandwich [Regular] and 1 American Footlong,1,0,,455.0
+Combos,2 Veg Cheese Sandwich with 1 Tandoori Pizza [7 inches],1,0,,405.0
+Combos,Mayo Vada Pav [4 Pieces] with 1 Chilli Cheese Toast Sandwich and 1 Cheese Pizza [7 inches],1,0,,445.0
+Combos,Cheese Vada Pav [1 Piece] with Time Pass Vada Pav [1 Piece],1,0,,148.0
+Combos,Solid Masti Vada Pav [1 Piece] with Garlic Cheese Vada Pav [1 Piece],1,0,,148.0
+Combos,1 Aloo Masala Toast Sandwich with Veg Hot Dog [1 Piece],1,0,,249.0
+Combos,Paneer Tikka Vada Pav [1 Piece] with Mayo Vada Pav [1 Piece],1,0,,148.0
+Combos,1 Veg Cheese Burger with Garlic Bread [1 Piece],1,0,,249.0
+Pizza,Cheese Pizza [7 inches],1,0,,239.0
+Pizza,Veg Cheese Pizza [7 inches],1,0,,249.0
+Pizza,Tandoori Pizza [7 inches],1,0,,299.0
+Pizza,Italian Pizza [7 inches],1,0,,239.0
+Pizza,Paneer Cheese Pizza [7 inches],1,0,,259.0
+Pizza,Onion Capsicum Pizza [7 inches],1,0,,259.0
+Pizza,Olives Veg Pizza [7 inches],1,0,,289.0
+Pizza,Sainath Special Pizza [7 inches],1,0,,299.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,148.0
+Burgers and Sandwiches,Schezwan Cheese Burger,1,0,,179.0
+Burgers and Sandwiches,Veg Sandwich [1 Piece],1,0,,103.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,148.0
+Burgers and Sandwiches,Mayo Cheese Sandwich,1,0,,139.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,85.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich,1,0,,109.0
+Burgers and Sandwiches,Bread Butter Chutney Cheese Sandwich,1,0,,99.0
+Burgers and Sandwiches,Bread Butter Aloo Cheese Sandwich,1,0,,129.0
+Burgers and Sandwiches,Bombay Grilled Sandwich,1,0,,239.0
+Burgers and Sandwiches,Schezwan Cheese Grilled Sandwich,1,0,,249.0
+Burgers and Sandwiches,Sainath Special Grilled Sandwich,1,0,,259.0
+Burgers and Sandwiches,Juice Cheese Grilled Sandwich,1,0,,259.0
+Burgers and Sandwiches,Paneer Cheese Grilled Sandwich,1,0,,259.0
+Burgers and Sandwiches,Tandoori Cheese Grilled Sandwich,1,0,,289.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich [Regular],1,0,,145.0
+Burgers and Sandwiches,Chilli Cheese Toast Sandwich,1,0,,139.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,139.0
+Burgers and Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,139.0
+Burgers and Sandwiches,Garlic Chilli Cheese Toast Sandwich,1,0,,148.0
+Burgers and Sandwiches,Aloo Masala Toast Sandwich,1,0,,115.0
+Burgers and Sandwiches,Aloo Maska Cheese Toast Sandwich,1,0,,129.0
+Footlong,Veg Cheese Footlong,1,0,,199.0
+Footlong,American Footlong,1,0,,219.0
+Hot Dog,Veg Hot Dog [1 Piece],1,0,,199.0
+Hot Dog,American Hot Dog,1,0,,219.0

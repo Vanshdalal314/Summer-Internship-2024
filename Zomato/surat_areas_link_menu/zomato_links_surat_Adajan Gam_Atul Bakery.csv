@@ -1,0 +1,39 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Savouries,Brown Bread [400 grams],1,0,,40.0
+Savouries,Whole Wheat Bread [400 grams],1,0,,40.0
+Savouries,Garlic Loaf,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",45.0
+Savouries,Veg Masala Puff,1,0,,25.0
+Savouries,Jeera Khari [200 grams],1,0,,75.0
+Savouries,Methi Khari [200 grams],1,0,,75.0
+Savouries,Green Masala Khari [200 grams],1,0,,75.0
+Savouries,Crunchy Heart [200 grams],1,0,,90.0
+Savouries,Fruit Rusk,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",60.0
+Savouries,Jeera Rusk,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",60.0
+Savouries,Sesame Rusk,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",70.0
+Savouries,Pure Ghee Nankhatai [400 grams],1,0,,270.0
+Savouries,Shruti Farms [400 grams],1,0,,145.0
+Cakes,Black Forest Mini Cake,1,0,,399.0
+Cakes,Royal Chocolate Mini Cake,1,0,,449.0
+Cakes,Chocolate Chip Mini Cake,1,0,,449.0
+Cakes,Black Forest Cake [1 kg],1,0,,799.0
+Cakes,Choco Pie Cake [1 kg],1,0,,899.0
+Cakes,Black and White Cake [1 kg],1,0,,799.0
+Pastries,Black Forest Pastry,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",75.0
+Pastries,Choco Pie Pastry,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",99.0
+Pastries,Royal Chocolate Pastry,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",85.0
+Cookies,Cashew Bite Cookies [200 grams],1,0,,120.0
+Cookies,Walnut Brown Cookies [200 grams],1,0,,120.0
+Cookies,Fruit and Nut Cookies [200 grams],1,0,,115.0
+Cookies,Almond Oats Cookies,1,0,,63.56
+Cookies,Pistachio Nut Cookies,1,0,,80.51
+Cookies,Walnut Fudge Cookies,1,0,,110.0
+Cookies,Blueberry Cookies,1,0,,110.0
+Cookies,Nutty Moment Cookies,1,0,,211.86
+Cookies,Royal Delight Cookies,1,0,,194.92
+Sandwich,Paneer Tikka Sandwich,1,0,,45.0
+Snacks,12 Pav Bhaji,1,0,,35.0
+Snacks,12 Wheat Pav Bhaji,1,0,,35.0
+Desserts,Orange Cream Roll,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",18.0
+Desserts,Chocolate Cream Roll,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",18.0
+Desserts,Vanilla Cream Roll,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",18.0
+Desserts,Strawberry Cream Roll,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",18.0

@@ -1,0 +1,153 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Burnt Garlic Soup,1,0,"A vegetable soup cooked with the flavors of burnt garlic and spices,.",221.0
+Soup,Clear Soup,1,0,A clear soup with exotic veggies with condiments and spices.,187.0
+Soup,Hot & Sour Soup,1,0,A delectable hot and sour soup packed with the goodness of vegetables,170.0
+Soup,Hot & Spicy Soup,1,0,This fiery and spicy soup with veggies gives you the perfect comfort if ... read more,221.0
+Soup,Khow Suey Soup,1,0,A creamy and medium spicy noodle soup made by simmering a assorted veggies ... read more,238.0
+Soup,Lemon Coriander Soup,1,0,"""A refreshing and comforting soup made by simmering vegetables in a lemon and ... read more",187.0
+Soup,Manchow Soup,1,0,A tasty soup prepared with vegetables simmered in hot and spicy stock and ... read more,170.0
+Soup,Mushroom Soup,1,0,A tasty soup prepared with vegetables simmered in hot and spicy stock.,221.0
+Soup,Noodles Soup,1,0,A clear soup served with noodles& garlic with condiments and spices,212.5
+Soup,Saiwoo Soup,1,0,Our best seller soup with exotic vegetables & paneer with the base of ... read more,204.0
+Soup,Tom Yum Soup,1,0,"""Comforting Thai soup infused with subtle coconut milk flavor and exotic veggies..",212.5
+Soup,Tom Yum Thai Soup,1,0,"""Spicy and tangy Thai soup infused with subtle lemon grass flavor and exotic ... read more",238.0
+Soup,Trishiv Sp. Soup,1,0,"Our in-house special soup prepared with vegetables simmered in hot and spicy, thick ... read more",221.0
+Manchurians,ANDHRA Manchurian,1,0,"""Manchurian balls tossed in dry red chilly and pinch of turmeric with veggies( ... read more",212.5
+Manchurians,Dragon Mancurian,1,0,"Manchurian balls tossed in sweet & spicy sauce with ginger , garlic .",280.5
+Manchurians,Green Manchurian,1,0,"Manchurian balls tossed in our in-house Green veggies sauce, tossed in ginger and ... read more",280.5
+Manchurians,Hunan Manchurian,1,0,"Manchurian balls tossed in special sauce with ginger , garlic.",212.5
+Manchurians,P. S. Manchurian,1,0,Manchurian with special toppings and flavors of Pizza.!,280.5
+Manchurians,Paneer Manchurian,1,0,"Manchurian balls and Paneer tossed in ginger, garlic , green chilly and garnished ... read more",280.5
+Manchurians,Peri Peri Manchurian,1,0,Delicious Manchurian with bell peppers tossed in Peri Peri sauce.,212.5
+Manchurians,Shanghai Manchurian,1,0,"Manchurian balls tossed in spicy sauce with ginger , garlic and bell peppers,.",280.5
+Manchurians,Veg. Manchurian,1,0,"This one tops the charts of Indo-chinese meals. Manchurian balls tossed with ginger,garlic.",204.0
+Manchurians,Veg. Schezwan Manchurian,1,0,"Manchurian balls tossed in Schezwan sauce with ginger , garlic.",212.5
+Paneer Starter,Andhra Paneer,1,0,Served with Salad,314.5
+Paneer Starter,Butter Garlic Paneer,1,0,Served with Salad,289.0
+Paneer Starter,Chilly Bezil Paneer,1,0,Served with Salad,297.5
+Paneer Starter,Chilly Pepper Paneer,1,0,"""Paneer cubes with a dominant flavour of pepper and green chilly",246.5
+Paneer Starter,Dragon Paneer,1,0,Served with Salad,382.5
+Paneer Starter,Green Thai Paneer,1,0,"""Paneer cooked in coconut milk and delicious Green Thai Green sauce """,408.0
+Paneer Starter,Hunan Paneer,1,0,"""Paneer tossed in Hunan sauce that gives tangy and spicy flavor. """,263.5
+Paneer Starter,Hussaini Paneer,1,0,Served with Salad,289.0
+Paneer Starter,Paneer 8 To 9,1,0,Served with Salad,289.0
+Paneer Starter,Paneer Chilly,1,0,"This one tops the charts of Indo-chinese meals. Fried Paneer tossed with ginger, ... read more",246.5
+Paneer Starter,Paneer Honey Chilly,1,0,Fried Paneer are tossed in sesame honey chilli sauce that's sweet and spicy. ... read more,391.0
+Paneer Starter,Paneer Magolian,1,0,Served with Salad,416.5
+Paneer Starter,Paneer Paper Salt,1,0,Paneer starter with dominant flavor of pepper,289.0
+Paneer Starter,Paneer Slice Spicy,1,0,Paneer tossed in spicy sauce with onions and garnished with spring onion.,306.0
+Paneer Starter,Peri Peri Paneer,1,0,"""Paneer tossed in peri peri flavor. """,289.0
+Paneer Starter,Red Cook,1,0,"""Spicy paneer starter """,408.0
+Paneer Starter,Red Thai Paneer,1,0,"""Paneer cooked in coconut milk and delicious Red Thai Red sauce """,408.0
+Paneer Starter,Schezwan Paneer,1,0,"""Paneer tossed in classic in-house Schezwan Paneer """,255.0
+Paneer Starter,Sizzling Cheese Paneer,1,0,"Serves 2, Served with Salad",391.0
+Paneer Starter,Smoke Coriander Paneer,1,0,"""Our chef special paneer starter with flavour of Smokey coriander and green chilly.. ... read more",306.0
+Paneer Starter,T - Shanghai Paneer,1,0,"""Paneer tossed in three in-house sauces. that gives a medium spicy flavor. """,289.0
+Paneer Starter,Taipee Paneer,1,0,Served with Salad,391.0
+Paneer Starter,Teriyaki Paneer,1,0,"""Paneer with mildly sweet and spicy sauce with bell peppers and garnished with ... read more",306.0
+Paneer Starter,Thai Bezil Paneer,1,0,Served with Salad,314.5
+Paneer Starter,Veg. Oystr Paneer Chilly,1,0,"""[Veg preparation] """,391.0
+Bhel,Bombay Bhel,1,0,Whole fried noodles with manchurian and veggies tossed in Sweet and Spicy test.,297.5
+Bhel,Chinese Bhel,1,0,"""Rice and noodles tossed in schezwan sauce with veggies , manchurian and garnished ... read more",212.5
+Bhel,P. S. Bhel,1,0,"Rice & noodle tossed with veggies , manchurian and toppings and flavors ... read more",289.0
+Bhel,Peri Peri Bhel,1,0,"""Rice & noodle tossed in peri peri sauce with veggies , manchurian garnished ... read more",280.5
+Bhel,Singapore Bhel,1,0,"""Spicy Bhel- rice & noodles tossed in dry red chilly and pinch of ... read more",221.0
+Bhel,Taiwan Bhel,1,0,"""Our Patent recipe with rice ,noodles & fried noodles with manchurian, paneer and ... read more",289.0
+Rice,Bamboo Rice With Gravy,1,0,"""Butter and salt tossed rice with gravy of bamboo shoots and exotic veggies. ... read more",382.5
+Rice,Chilly Garlic Rice,1,0,"Serves 2, 600ml, Served with Salad",306.0
+Rice,Dragon Rice,1,0,"Serves 2, 600ml, Served with Salad",314.5
+Rice,Laligu Rash Rice Gravy,1,0,"Serves 3, Served with Salad",450.5
+Rice,Mangolian Rice,1,0,"Serves 2, Served with Salad",323.0
+Rice,Pizza Rice With Gravy,1,0,"""Schezwan rice with gravy of exotic veggies, paneer,cheese and seasoning of oregano and ... read more",408.0
+Rice,Pot Rice With Gravy,1,0,"""Rice tossed in secret spice powder with mildly savoury, tangy and spicy gravy ... read more",348.5
+Rice,Taiwan Rice,1,0,"""Rice with spinach and basil , sweet corn paneer and tangy with garnish ... read more",289.0
+Rice,Tawa Rice With Gravy,1,0,"Serves 2, Served with Salad",348.5
+Rice,Teriyaki Rice With Gravy,1,0,"""Rice with teriyaki sauce (sweet and mild spicy )based gravy.has veggies like green ... read more",382.5
+Rice,Thai Rice,1,0,"Serves 2, 600ml, Served with Salad",323.0
+Rice,Trishiv Sp. Rice With Gravy,1,0,"""Schezwan rice served with schezwan flavoured gravy with manchurian, paneer and veggies. garnished ... read more",374.0
+Rice,Veg. Burnt Garlic Rice,1,0,"""Classic fried rice flavored with burnt garlic """,289.0
+Rice,Veg. Cheezy Rice With Gravy,1,0,"Serves 2, Served with Salad",382.5
+Rice,Veg. Fried Rice,1,0,"""Rice tossed in stir fry veggies. (Carrot , beans and cauliflower) garnished with ... read more",204.0
+Rice,Veg. Ginger Rice,1,0,"""Classic fried rice flavored with burnt Ginger """,221.0
+Rice,Veg. Hunan Rice,1,0,"""Rice tossed in Hunan Sauce (mildly tangy and spicy with veggies like cauliflower, ... read more",221.0
+Rice,Veg. Khasa Rice With Gravy,1,0,"""Three flavored rice with gravy of paneer and manchurian or mushrooms """,357.0
+Rice,Veg. Korean Rice With Gravy,1,0,"""Butter and salt tossed rice with gravy of exotic veggies paneer and hunan ... read more",348.5
+Rice,Veg. Manchurian Rice,1,0,"""Rice tossed with manchurian balls in stir fry veggies. (Carrot , beans and ... read more",221.0
+Rice,Veg. Masti Rice,1,0,"Rice ,noodles & fried noodles with manchurian, paneer and veggies tossed in our ... read more",272.0
+Rice,Veg. Moon Foon Rice,1,0,"""White rice with exotic veggies like bell peppers, baby corn and paneer """,280.5
+Rice,Veg. Schezwan Fried Rice,1,0,"""Rice tossed in spicy schezwan sauce with cauliflower, beans and carrot. """,221.0
+Rice,Veg. Shanghai Rice,1,0,"""Rice with 3 different sauces and spicy and flavourful """,280.5
+Rice,Veg. Singapore Rice,1,0,"""Rice tossed with veggies and in house spicy singapore sauce. """,221.0
+French Fries & Rolls,Cheese Paper Roll,1,0,Served with Special Chutney,238.0
+French Fries & Rolls,Cheezy French Fries,1,0,Served with Catch up,187.0
+French Fries & Rolls,Dragon Potato,1,0,Served with Salad,263.5
+French Fries & Rolls,French Fries,1,0,Served with Catch up,127.5
+French Fries & Rolls,Peri Peri French Fries,1,0,Served with Catch up,144.5
+Noodles,Burnt Garlic Noodles,1,0,"""Noodles tossed with Carrot, Cabbage ,onion , capsicum , flavoured with burnt garlic ... read more",297.5
+Noodles,Chilly Garlic Noodles,1,0,"Serves 2, 600ml, Served with Salad",297.5
+Noodles,Exoctic Pan Noodles,1,0,"""Shallow Fried Noodles & boiled noodles served with exotic vegetable gravy.. """"",331.5
+Noodles,Exotic Noodles,1,0,"""Our bestseller spicy Noodles tossed in exotic vegetables(contains Mushroom) and secret spicy sauce ... read more",331.5
+Noodles,Ginger Noodles,1,0,"""Noodles tossed with capsicum, onion, carrot with a ginger sauce & garnished with ... read more",204.0
+Noodles,Hakka Noodles,1,0,"""This one tops the charts of Indo-chinese meals. Wok tossed noodles with Juliennes ... read more",212.5
+Noodles,Hunan Noodles,1,0,"""Noodles tossed with capsicum, onion, carrot with a hunan sauce & garnished with ... read more",221.0
+Noodles,Korean Noodles (With Gravy),1,0,"""Noodles tossed in butter, salt & pepper. Gravy with base of hunan sauce ... read more",357.0
+Noodles,Manchurian Noodles,1,0,"""Classic Hakka noodles with manchurian balls (no gravy) """,221.0
+Noodles,Schezwan Noodles,1,0,"""Wok tossed noodles in schezwan sauce with vegetables like cabbage ,capsicum , carrots ... read more",221.0
+Noodles,Shanghai Noodles,1,0,"""Spicy Noodles with Chilli and schezwan sauce tossed in vegetables like cabbage , ... read more",297.5
+Noodles,Singapore Noodles,1,0,"""Noodles tossed in dry red chilly and pinch of turmeric with veggies( spicy ... read more",221.0
+Noodles,Taiwan Noodles,1,0,"""Noodles tossed in spicy sauce with base of spinach and basil with exotic ... read more",323.0
+Noodles,Teriyaki Noodles,1,0,"Serves 2, 600ml, Served with Salad",357.0
+Chap,Hunan Chap,1,0,"Serves 2, Served with Salad",323.0
+Chap,Peri Peri Chap,1,0,"Serves 2, Served with Salad",357.0
+Chap,Schezwan Chap,1,0,"Serves 2, Served with Salad",323.0
+Chap,Shanghai Chap,1,0,"Serves 2, Served with Salad",348.5
+Chap,Thai Chap,1,0,"Serves 2, Served with Salad",391.0
+Chap Gravy,Hunan Chaap With Gravy,1,0,,357.0
+Chap Gravy,Peri Peri Chaap With Gravy,1,0,,357.0
+Chap Gravy,Schezwan Chaap With Gravy,1,0,,357.0
+Mushroom & Babycorn Starter,Baby Corn Chilly,1,0,"""Delicious classic recipe of tender, well cooked and fried Crispy baby corn with ... read more",357.0
+Mushroom & Babycorn Starter,Chinmay Masroom Chilly,1,0,"""Crispy Mushroom cooked in coconut milk and delicious Thai sauce """,374.0
+Mushroom & Babycorn Starter,Corn Chilly Garlic,1,0,Served with Salad,357.0
+Mushroom & Babycorn Starter,Mushroom 8 To 9,1,0,"""Delicious classic recipe of tender, well cooked and fried Crispy Mushroom with ginger, ... read more",365.5
+Mushroom & Babycorn Starter,Mushroom Chilly,1,0,"""Popular indo-chinese starter with crispy mushrooms cooked in sauce. """,331.5
+Mushroom & Babycorn Starter,Mushroom Hunan,1,0,"""Mushroom cooked in hunan sauce (Spicy and Tangy) with bell peppers """,357.0
+Mushroom & Babycorn Starter,Mushroom Papper Salt,1,0,"""Crispy Mushroom tossed with ginger garlic and black pepper. """,348.5
+Mushroom & Babycorn Starter,Mushroom Red Chilly,1,0,"""Crispy Mushroom tossed in spicy red sauce and bell peppers """,340.0
+Mushroom & Babycorn Starter,Peri Peri Baby Corn,1,0,"""Crispy baby corn tossed in Peri Peri Sauce """,374.0
+Mushroom & Babycorn Starter,Peri Peri Mushroom,1,0,"""Fried crispy mushroom tossed in peri peri sauce. """,357.0
+Mushroom & Babycorn Starter,Trishiv Special. Exotic Dry,1,0,"""Fried crispy mushroom tossed in peri peri sauce. """,391.0
+Mushroom & Babycorn Starter,Veg. Oystr Babycorn Chilly,1,0,"""[Veg preparation] """,382.5
+Mushroom & Babycorn Starter,Veg. Oystr Mushroom Chilly,1,0,"""[Veg preparation] """,382.5
+Gravy,Baby Corn Chilli Gravy,1,0,,357.0
+Gravy,Exotic Gravy,1,0,,340.0
+Gravy,Exotic Hussaini Gravy,1,0,,391.0
+Gravy,Green Thai Curry Gravy,1,0,,357.0
+Gravy,Hunan Paneer Gravy,1,0,,340.0
+Gravy,Hussaini Paneer Gravy,1,0,,374.0
+Gravy,Mushroom Chilly Gravy,1,0,"A rich, savory gravy filled with tender mushrooms.",331.5
+Gravy,Mushroom Hunan Gravy,1,0,,357.0
+Gravy,Mushroom Schezwan Gravy,1,0,,357.0
+Gravy,Paneer Chilli Gravy,1,0,,323.0
+Gravy,Paneer Manchurian Gravy,1,0,"""A savory Chinese main course featuring chunks of paneer in a flavorful and ... read more",280.5
+Gravy,Peri Peri Paneer Gravy,1,0,,374.0
+Gravy,Red Pepper Gravy With Exotic Gravy,1,0,,382.5
+Gravy,Red Thai Curry Gravy,1,0,,357.0
+Gravy,Schezwan Paneer Gravy,1,0,,340.0
+Gravy,Taiwan Gravy,1,0,,331.5
+Gravy,Tom Yum Curry Gravy,1,0,,357.0
+Gravy,Veg Exotic 8 To 9 Sauce Gravy,1,0,,357.0
+Gravy,Veg. Hunan Manchurian Gravy,1,0,"""Veg Manchurian gravy recipe has a our in house sauce or gravy in ... read more",212.5
+Gravy,Veg. Manchurian Gravy,1,0,"""Veg Manchurian gravy recipe has a sauce or gravy in which the fried ... read more",204.0
+Gravy,Veg. Schezwan Manchurian Gravy,1,0,"""Veg Manchurian gravy recipe has a Schezwan sauce or gravy in which the ... read more",212.5
+Extra,Extra Fried Noodles,1,0,,93.5
+Extra,Extra Manchurian Balls,1,0,,93.5
+Extra,Extra Schezwan Chutney,1,0,,76.5
+Chopsuey,American Chopsuey,1,0,,306.0
+Chopsuey,Chinese Chopsuey,1,0,,306.0
+Chopsuey,Hunan Chopsuey,1,0,,306.0
+Chopsuey,Sweet N Spicy,1,0,,306.0
+Soupy Noodles,Hunan Soupy Noodles,1,0,,306.0
+Soupy Noodles,Peri Peri Soupy Noodles,1,0,,306.0
+Soupy Noodles,Schezwn Soupy Noodles,1,0,,306.0
+Soupy Noodles,Taiwan Soupy Noodles,1,0,,306.0
+Soupy Noodles,Tangy Soupy Noodles,1,0,,306.0

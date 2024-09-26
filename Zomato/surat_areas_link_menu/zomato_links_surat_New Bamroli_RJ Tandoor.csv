@@ -1,0 +1,45 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Egg Soup,0,0,,70.0
+Soups,Chicken Soup,0,0,,90.0
+Starters,Chicken Lollipop Dry,0,0,,100.0
+Starters,Chilli Chicken,0,0,,100.0
+Starters,Chicken 65,0,0,,100.0
+Starters,Chicken Crispy,0,0,,100.0
+Starters,Tandoori Chicken,0,0,,230.0
+Starters,Pathani Tandoori,0,0,,220.0
+Starters,Pahadi Tandoori,0,0,,220.0
+Starters,Chicken Tandoori Leg,0,0,,120.0
+Starters,Chicken Tandoori Chest,0,0,,120.0
+Starters,Chicken Tikka,0,0,,200.0
+Starters,Red Cheese Tikka,0,0,,240.0
+Starters,Pahadi Tikka,0,0,,220.0
+Starters,Pathani Tikka,0,0,,220.0
+Starters,Malai Tikka,0,0,,240.0
+Starters,Chicken Seekh Kabab [8 Pieces],0,0,,200.0
+Starters,Chicken Pathani Kabab [8 Pieces],0,0,,210.0
+Main Course,Chicken Lollipop Masala Gravy,0,0,,120.0
+Main Course,Chicken Masala,0,0,,180.0
+Main Course,Butter Chicken,0,0,,240.0
+Main Course,Chicken Kadhai,0,0,,200.0
+Main Course,Chicken Handi,0,0,,200.0
+Main Course,Chicken Tandoori Masala,0,0,,220.0
+Main Course,Butter Chicken Masala,0,0,,200.0
+Main Course,Chicken Tikka Masala,0,0,,220.0
+Main Course,Matka Chicken,0,0,,200.0
+Main Course,Matka Mutton,0,0,,250.0
+Breads,Plain Chapati,1,0,,10.0
+Breads,Plain Tandoori Roti,1,0,,15.0
+Breads,Butter Chapati,1,0,,15.0
+Breads,Butter Tandoori Roti,1,0,,25.0
+Rice,Plain Rice,1,0,,60.0
+Rice,Jeera Rice,1,0,,80.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,100.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,120.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,,130.0
+Fried Rice and Noodles,Chicken Singapuri Fried Rice,0,0,,130.0
+Fried Rice and Noodles,Chicken Triple Fried Rice,0,0,,230.0
+Fried Rice and Noodles,Chicken Singapuri Noodles,0,0,,130.0
+Accompaniments,Roasted Papad,1,0,,20.0
+Accompaniments,Fried Papad,1,0,,20.0
+Accompaniments,Masala Papad,1,0,,30.0
+Accompaniments,Cheese Masala Papad,1,0,,50.0

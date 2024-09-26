@@ -1,0 +1,139 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Tomato Basil Soup,1,0,,225.0
+Soups,Cream of Mushroom Soup,1,0,Cream of mushroom soup A velvety soup made with a mix of creamy ... read more,225.0
+Soups,Broccoli Almond Soup,1,0,"A hearty soup with tender broccoli florets, sliced almonds, and a light yet ... read more",250.0
+Soups,Mexican Chilli Soup,1,0,,250.0
+Soups,Thukpa Soup,1,0,,225.0
+Soups,Burnt Garlic Soup,1,0,,225.0
+Soups,Veg Manchow Soup,1,0,"A wholesome soup with tender veggies, aromatic spices, and a hint of spice, ... read more",250.0
+Soups,Lime and Chilli Miso Soup,0,0,"A bright soup with a savoury, spicy flavour and a fresh.",275.0
+Soups,Khow Suey Soup,1,0,"A flavourful and aromatic soup made with aromatic spices, vegetables and herbs. A ... read more",275.0
+Salads,Caesar Salad,1,0,"Caesar Salad is a classic salad of Romaine lettuce, parmesan cheese, and croutons.",325.0
+Salads,Saute Exotic Veg Salad,1,0,"A colorful blend of exotic vegetables and fruits, perfection with a tangy sauce, ... read more",350.0
+Salads,Greek Salad,1,0,,375.0
+Snacks,Salted French Fries,1,0,Salted peri peri herbs,175.0
+Snacks,Peri Peri French Fries,1,0,Crispy golden potato wedges tossed in a flavorful blend of spicy peri peri ... read more,175.0
+Snacks,Herbs French Fries,1,0,,175.0
+Snacks,Cheesy French Fries,1,0,"Crispy French fries topped with a melty blend of American and French cheeses, ... read more",225.0
+Snacks,Cheese Garlic Bread,1,0,"A delectable combination of cheese and garlic flavours, this bread makes for a ... read more",250.0
+Snacks,Bruschetta,1,0,A tomato and basilbased appetiser that makes for a delicious snack or a ... read more,250.0
+Snacks,Mushroom Bruschetta,1,0,"A decadent and flavorful Italian appetizer featuring fresh mushroom and juicy tomatoes, served ... read more",275.0
+Snacks,Fillo Rolls,1,0,Spinach and cheese rolls.,295.0
+Snacks,Corn Cheese Fritters,1,0,,295.0
+Snacks,Nachos with Guacamole,1,0,"A Mexican inspired snack with a crunchy tortilla base, topped with a creamy ... read more",325.0
+Snacks,Supreme Nachos,1,0,"A crunchy tortilla chip base with nacho cheese sauce, tomato salsa, fresh pico ... read more",350.0
+Starters,Honey Chilli Potato,1,0,"Honey Chilly Potato A spicy, flavorful dish with a hint of sweetness. The ... read more",270.0
+Starters,Crispy Veg,1,0,"Crispy, flavorful and satisfying, this dish is a must have on your menu.",290.0
+Starters,Veg Manchurian Dry,1,0,A crispy and delicious dish made with vegetables and fried to perfection. The ... read more,325.0
+Starters,Paneer Chilli Dry,1,0,,350.0
+Starters,Butter Garlic Mushroom,1,0,Tender and juicy mushroom cooked in a rich and creamy butter garlic sauce. ... read more,325.0
+Starters,Dragon Potato,1,0,Deliciously crispy and tender potato with a spicy and tangy flavour.,270.0
+Starters,Crispy Water Chestnut,1,0,A crispy and flavorful water chestnut dish that will leave you wanting more.,310.0
+Starters,Vietnamese Spring Roll,1,0,"A crunchy and fresh spring roll, and vegetables, served with a sweet and ... read more",325.0
+Starters,Dahi ke Kebab,1,0,These succulent kebabs are delicately flavored with a tangy and creamy dahi marinade. ... read more,350.0
+Starters,Bhutta Seekh Kebab,1,0,"The quintessential Indian kebab, these succulent pieces of marinated corn, cooked over a ... read more",395.0
+Starters,Adraki Paneer Tikka,1,0,"A delightful snack with a zesty blend of spices, marinated in yogurt and ... read more",395.0
+Starters,Bhatti ka Paneer,1,0,,395.0
+Starters,Malai Paneer Tikka,1,0,"A creamy and flavorful tikka with soft and succulent paneer pieces, glazed with ... read more",395.0
+Starters,Kumbh Haleem Tikka,0,0,Kumbha Haleem is an aromatic dish made with Haleem and Tikka. It is ... read more,425.0
+Starters,Kumbh Bharva Tikka,1,0,,425.0
+Starters,Peri Peri Chaap,0,0,PeriPeri Chapli Kabab is a mouthwatering snack made with minced lamb and spicy ... read more,425.0
+Starters,Cheese Lasooni Chaap,1,0,,425.0
+Starters,Afghani Malai Chaap,1,0,"A rich and decadent dish, with a creamy flavor and a satisfying crunch, ... read more",425.0
+Starters,Paneer Jafrani Tikka,1,0,A delicious vegetarian starter with paneer marinated in a rich blend of spices ... read more,425.0
+Pizza and Pasta,Pink Sauce Pasta Pasta,1,0,,425.0
+Pizza and Pasta,Alfredo Pasta Pasta,1,0,,425.0
+Pizza and Pasta,Pasta Arrabiata Pasta,1,0,A spicy pasta dish made with red sauce and fresh basil leaves. A ... read more,425.0
+Pizza and Pasta,Aglio E Olio Pasta,1,0,,450.0
+Pizza and Pasta,Fungi Ravioli Pasta,1,0,Fungus Ravioli pasta is a unique Italian dish that combines the earthy flavor ... read more,525.0
+Sandwiches,Mexican Chipotle,1,0,"Lolo rosso, corn, bell pepper, jalape os kidney beans, baked beans, onions pan ... read more",325.0
+Sandwiches,Exotic Spiced Grilled,1,0,"Sliced zucchini, bell pepper, onion, lolo rosso, baked with olive oil and italian ... read more",325.0
+Sandwiches,Mediterranean Grilled,1,0,"Lolo rosso, grilled aubergine, zucchini, bell pepper, tomato, baby corn with barbeque sauce",350.0
+Sandwiches,Spiced Cottage Cheese,1,0,Cottage Cheese Recipe This creamy cottage cheese recipe is the perfect comfort food ... read more,350.0
+Pan Asian,Cream Cheese Cucumber Sushi,1,0,,650.0
+Pan Asian,Tempura Corn and Cream Sushi,1,0,,650.0
+Pan Asian,California Roll Sushi,1,0,,650.0
+Pan Asian,Mushroom Nigari Sushi,1,0,A delectable and flavourful sushi that is made with mushrooms and a touch ... read more,725.0
+Pan Asian,Barbeque Mushroom Boa,1,0,,475.0
+Pan Asian,Crispy Cottage Cheese Boa,1,0,Tasty cottage cheese in a crispy shell.,475.0
+Pan Asian,Shiitake Mushroom Boa,1,0,,495.0
+Pan Asian,Black Beans and Veg Boa,1,0,A wholesome dish with black beans and vegetables cooked in a rich and ... read more,495.0
+Pan Asian,Cheema Bun Boa,0,0,"An aromatic and flavorful bun filled with juicy chicken, perfectly complemented by a ... read more",525.0
+Pan Asian,Amaranthus and Roasted Garlic Dim Sum,1,0,,395.0
+Pan Asian,Roasted Pumpkin and Caramelized Cabbage Gyoza Dim Sum,1,0,"Enjoy a delicious combination of pumpkin and cabbage in this dim sum, bursting ... read more",395.0
+Pan Asian,Asparagus and Black Fungus Dim Sum,1,0,A delectable dim sum dish that combines the flavors of asparagus and black ... read more,450.0
+Fried Rice and Noodles,Burnt Garlic and Spinach Rice,1,0,A delicious and flavourful rice dish made with aromatic burnt garlic and spinach. ... read more,325.0
+Fried Rice and Noodles,Basil Rice,1,0,A fragrant rice dish made with fragrant basil leaves and aromatic spices.,325.0
+Fried Rice and Noodles,Fried and Spinach Rice,1,0,,325.0
+Fried Rice and Noodles,Manchurian Gravy with Rice,1,0,A flavourful dish made with crisp fried vegetable dumplings in a spicy tomato ... read more,475.0
+Fried Rice and Noodles,Paneer Gravy with Rice,1,0,A rich and creamy gravy made with paneer and fragrant spices. Serve with ... read more,475.0
+Fried Rice and Noodles,Exotic Veg Gravy with Rice,1,0,A rich and delicious dish with a medley of vegetables and spices. The ... read more,475.0
+Fried Rice and Noodles,Hakka Noodles,1,0,"Crispy and crunchy Hakka noodles tossed in a spicy sauce, perfect for those ... read more",325.0
+Fried Rice and Noodles,Hunan Noodles,1,0,,375.0
+Fried Rice and Noodles,Garlic and Hot Pepper,1,0,"A rich, flavorful dish with a hint of heat, this is a delicious ... read more",375.0
+Fried Rice and Noodles,Pad Thai,1,0,,395.0
+Fried Rice and Noodles,Mie Goreng,1,0,"A popular Indonesian dish with fried noodles, vegetables, and a rich, savory sauce.",450.0
+Fried Rice and Noodles,Pan Fried Noodles and Garlic Sauce,1,0,"Crispy panfried noodles topped with a savory garlic sauce, perfect for a quick ... read more",450.0
+Fried Rice and Noodles,Nasi Goreng,1,0,"Crisp and flavorful, our Nasi Goren dish is a delectable blend of rice, ... read more",475.0
+Main Course,Dal Fry,1,0,Dal Fry is a staple dish in the Indian cuisine that is made ... read more,275.0
+Main Course,Dal Tadka,1,0,,295.0
+Main Course,Dal Makhani,1,0,A traditional and flavourful dish made with creamy lentils and aromatic spices.,325.0
+Main Course,Subji Nizami Handi,1,0,,395.0
+Main Course,Subji Deewani Handi,1,0,"A hearty dish of mixed vegetables in a rich, aromatic gravy cooked in ... read more",395.0
+Main Course,Subji Maratha Khaas,1,0,"A rich, flavorful curry with a variety of vegetables and spices. This dish ... read more",395.0
+Main Course,Subji Peshawari,1,0,"A spicy, flavorful dish with a rich blend of aromatic spices and vegetables.",395.0
+Main Course,Bhatti Ka Dum Aloo Masala,1,0,A delightful dish prepared with a flavorful blend of potatoes and spices in ... read more,425.0
+Main Course,Nargis Kofta,1,0,"A succulent, juicy, and flavorful kofta, made with a mixture of minced and ... read more",450.0
+Main Course,Palak ka Kofta,1,0,"A delicious vegetarian dish made with spinach and potato, deep fried to perfection ... read more",450.0
+Main Course,Khumb Badshahi Khaas,1,0,A rich and flavorful dish with a blend of spices and herbs to ... read more,450.0
+Main Course,Khumb Amritsari Masala,1,0,"A spicy and flavorful dish made with kumb, a type of potato that ... read more",450.0
+Main Course,Paneer Khurchan,1,0,"A creamy, mild paneer curry with a spicy and tangy flavor. It is ... read more",450.0
+Main Course,Paneer Multani,1,0,"A classic Indian dish of Paneers cooked in a rich, aromatic sauce of ... read more",450.0
+Main Course,Paneer Kumaoni Masala,1,0,,450.0
+Main Course,Ladakhi Paneer Kaleji,1,0,"A delectable Ladakhandi dish prepared with paneer, kaleji, and a blend of aromatic ... read more",450.0
+Main Course,Cheese Paneer Bhurji,1,0,A mouthwatering dish of soft and creamy paneer cooked with spices and cheese.,475.0
+Main Course,Mapo Tofu in Chilli Beans,1,0,"A spicy tofu dish with a rich, savoury flavour. The soft tofu is ... read more",525.0
+Main Course,Gaeng Kiew Wan,1,0,A spicy and tangy dish that will excite your taste buds. The dish ... read more,595.0
+Main Course,Kaeng Phet,1,0,A spicy Thai noodle dish and a sweet and sour flavor.,595.0
+Main Course,Kung Pao Sauce with Exotic Veg,1,0,,595.0
+Breads,Tandoori Roti,1,0,"Crispy and soft roti with the subtle yet flavorful taste of tandoor, a ... read more",65.0
+Breads,Kulcha,1,0,,85.0
+Breads,Lachha Paratha,1,0,"A delectable, light and flaky flatbread that is perfect for any meal.",95.0
+Breads,Naan,1,0,,105.0
+Breads,Garlic Naan,1,0,"A soft and fluffy naan with a fragrant, garlicky flavor. Perfect to pair ... read more",120.0
+Breads,Cheese Chilli Naan,1,0,"A fluffy and soft naan bread with a garlic and cheese flavor, perfect ... read more",135.0
+Breads,Cheese Garlic Naan,1,0,A delectable Indian bread that is stuffed with a cheesy and spicy filling ... read more,135.0
+Breads,Rumali Roti,1,0,"A soft, fluffy, and delicious flatbread made with rum and cardamom.",145.0
+Rice and Biryani,Steamed Rice,1,0,A traditional Chinese dish made with steamed rice and served alongside a variety ... read more,225.0
+Rice and Biryani,Jeera Rice,1,0,,225.0
+Rice and Biryani,Mexican Rice,1,0,,425.0
+Rice and Biryani,Burnt Garlic with Cheesy Curry,1,0,Burnt garlic with cheesy curry is a popular Thai dish that is a ... read more,450.0
+Rice and Biryani,Burrito Bowl,1,0,,450.0
+Rice and Biryani,Risotto Al Fungi,1,0,"A creamy, flavourful risotto dish made with mushrooms and aromatic spices.",450.0
+Rice and Biryani,Hyderabadi Dum Biryani,0,0,"A rich, aromatic biryani made with tender and fragrant spices. A perfect dish ... read more",475.0
+Rice and Biryani,Lucknowi Paneer Dum Biryani,1,0,A classic Indian dish with layers of flavourful spices and succulent paneer.,495.0
+Drinks (Beverages),Lemon Iced Tea,1,0,"A refreshing, tart and aromatic beverage that is perfect for a hot summers ... read more",250.0
+Drinks (Beverages),Peach Iced Tea,1,0,,250.0
+Drinks (Beverages),Pina Colada,1,0,[Non Alcoholic],250.0
+Drinks (Beverages),Mint Mojito,1,0,[Non Alcoholic],260.0
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],280.0
+Drinks (Beverages),Blue Berry Mojito,1,0,[Non Alcoholic],280.0
+Drinks (Beverages),Red Berry Mojito,1,0,[Non Alcoholic],280.0
+Drinks (Beverages),Litchi Margherita,1,0,A light and refreshing margarita with the sweet and juicy flavour of litchi. ... read more,280.0
+Drinks (Beverages),Cardinal Punch,1,0,[Non Alcoholic],280.0
+Drinks (Beverages),Cold Coffee,1,0,,200.0
+Drinks (Beverages),Ferrero,1,0,"Ferrero, the world's leading confectionery brand, has been producing the finest quality chocolates ... read more",295.0
+Drinks (Beverages),Oreo Shake,1,0,,295.0
+Drinks (Beverages),Belgian Chocolate,1,0,,295.0
+Drinks (Beverages),KitKat Shake,1,0,,295.0
+Drinks (Beverages),Red Velvet,1,0,"Red Velvet is a popular dessert, made with rich red velvet cake layers, ... read more",325.0
+Drinks (Beverages),Bournvita Brownie,1,0,A decadent brownie made with the goodness of Bournvita and topped with a ... read more,325.0
+Drinks (Beverages),Nutella,1,0,"Nutella A rich and creamy chocolate hazelnut spread, perfect for spreading, dipping, or ... read more",345.0
+Drinks (Beverages),Plain Buttermilk,1,0,Delicious and fresh buttermilk made from farm fresh milk. It is a traditional ... read more,110.0
+Drinks (Beverages),Masala Buttermilk,1,0,,145.0
+Drinks (Beverages),Lassi,1,0,,145.0
+Accompaniments,Roasted Papad,1,0,"Papad roasted to perfection with a blend of spices and flavors, perfect for ... read more",45.0
+Accompaniments,Fried Papad,1,0,A crispy and crunchy fried papad that is a perfect accompaniment for your ... read more,45.0
+Accompaniments,Pineapple Raita,1,0,A yogurt based salad with a sweet and tangy pineapple flavour. An ideal ... read more,195.0
+Accompaniments,Vegetable Raita,1,0,A vibrant yogurtbased dip made with a medley of fresh vegetables.,195.0
+Accompaniments,Boondi Raita,1,0,"A yoghurt based dish made with boondi, a fried dough ball, and other ... read more",195.0

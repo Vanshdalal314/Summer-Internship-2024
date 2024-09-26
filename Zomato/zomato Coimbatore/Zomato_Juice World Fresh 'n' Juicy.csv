@@ -1,0 +1,143 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Drinks [Beverages],Apple Juice,1,0,,100.0
+Drinks [Beverages],Blue Curacoa,1,0,,115.0
+Drinks [Beverages],Carrot Extract,1,0,(100% Pure Juice),100.0
+Drinks [Beverages],Chickoo [Suppotta] Juice,1,0,,75.0
+Drinks [Beverages],Cocktaill,1,0,,85.0
+Drinks [Beverages],Cool Cool [Fresh Lime],1,0,,35.0
+Drinks [Beverages],Four Seasons,1,0,"(Pineapple, Lime, Grape, Sweet Lime)",110.0
+Drinks [Beverages],Fresh Fig [Pure],1,0,,90.0
+Drinks [Beverages],Fresh Kiwi [Pure],1,0,,165.0
+Drinks [Beverages],Fresh Strawberry [Pure],1,0,,165.0
+Drinks [Beverages],Grape,1,0,,75.0
+Drinks [Beverages],Hot And Cold,1,0,"(Mint, Ginger, Orange + Grape)",95.0
+Drinks [Beverages],Lemon Soda,1,0,,45.0
+Drinks [Beverages],Lime Mint Soda,1,0,,55.0
+Drinks [Beverages],Mango [Pure],1,0,,110.0
+Drinks [Beverages],Mint Cooler,1,0,,50.0
+Drinks [Beverages],Mint Mojito,1,0,[Non Alcoholic],100.0
+Drinks [Beverages],Mock Lime,1,0,"(Pineapple, Grape, Lime)",75.0
+Drinks [Beverages],Musk Melon,1,0,,65.0
+Drinks [Beverages],Papaya Juice,1,0,,65.0
+Drinks [Beverages],Pineapple,1,0,,75.0
+Drinks [Beverages],Pomegranate Juice,1,0,,110.0
+Drinks [Beverages],Red Rock,1,0,"(Papaya, Banana Based Drink)",80.0
+Drinks [Beverages],Sweet Lime [Mosambi],1,0,,90.0
+Drinks [Beverages],Three Shot,1,0,"(Strawberry, Orange, Kiwi)",140.0
+Drinks [Beverages],Water Melon,1,0,,50.0
+Drinks [Beverages],Anjeer [Fig],1,0,,115.0
+Drinks [Beverages],Apple,1,0,,115.0
+Drinks [Beverages],Badam,1,0,,110.0
+Drinks [Beverages],Banana,1,0,,65.0
+Drinks [Beverages],Black Current [Ice Cream Based],1,0,,125.0
+Drinks [Beverages],Brownie Smoothie,1,0,,165.0
+Drinks [Beverages],Butterscotch [Ice Cream Based],1,0,,125.0
+Drinks [Beverages],Chickoo [Suppotta],1,0,,90.0
+Drinks [Beverages],Choco Chickoo,1,0,,95.0
+Drinks [Beverages],Choco Chip Smoothie,1,0,,140.0
+Drinks [Beverages],Chocolate,1,0,,125.0
+Drinks [Beverages],Chocolaty Chocolate [Chocolate And More],1,0,,140.0
+Drinks [Beverages],Cold Coffee,1,0,,95.0
+Drinks [Beverages],Cookie Nuts Shake [Cookies & More] - Must Try,1,0,,140.0
+Drinks [Beverages],Dark Fantasy [Vanilla And More],1,0,,140.0
+Drinks [Beverages],Dry Fruit,1,0,,175.0
+Drinks [Beverages],Fig & Dates Smoothie,1,0,,125.0
+Drinks [Beverages],Mango,1,0,,120.0
+Drinks [Beverages],Papitha [Papaya],1,0,,75.0
+Drinks [Beverages],Pista [Ice Cream Based],1,0,,125.0
+Drinks [Beverages],Pomegranate,1,0,,115.0
+Drinks [Beverages],Rose Milk,1,0,,65.0
+Drinks [Beverages],Saudi [Dates],1,0,,115.0
+Drinks [Beverages],Sharjah,1,0,,125.0
+Drinks [Beverages],Strawberry [Ice Cream Based],1,0,,125.0
+Drinks [Beverages],Vanilla [Ice Cream Based],1,0,,125.0
+Drinks [Beverages],Banana Lassi,1,0,,85.0
+Drinks [Beverages],Mango Lassi,1,0,,95.0
+Drinks [Beverages],Rose Lassi,1,0,,75.0
+Drinks [Beverages],Sweet Lassi,1,0,,70.0
+Desserts,Black Current Ice Cream,1,0,,95.0
+Desserts,Brownie Fudge,1,0,,215.0
+Desserts,Butterscotch Ice Cream,1,0,,95.0
+Desserts,Chocolate Ice Cream,1,0,,95.0
+Desserts,Cookie Crunch,1,0,,215.0
+Desserts,Double Chocolate,1,0,,215.0
+Desserts,Nutty Crunch,1,0,,215.0
+Desserts,Pista Ice Cream,1,0,,95.0
+Desserts,Strawberry Ice Cream,1,0,,95.0
+Desserts,Three In One,1,0,,125.0
+Desserts,Vanilla Ice Cream,1,0,,95.0
+Desserts,Brownie,1,0,,140.0
+Desserts,Brownie With Ice Cream,1,0,,175.0
+Desserts,Brownie With Ice Cream & Nuts,1,0,,215.0
+Desserts,Fresh Fruit Salad,1,0,,125.0
+Desserts,Fruit Salad With Ice Cream,1,0,,175.0
+Desserts,Blackcurrent Falooda,1,0,,125.0
+Desserts,Butterscotch Falooda,1,0,,125.0
+Desserts,Dry Fruit Falooda,1,0,,215.0
+Desserts,Fruit Falooda Must Try,1,0,,190.0
+Desserts,Kids Falooda,1,0,,75.0
+Desserts,Pista Falooda,1,0,,125.0
+Desserts,Rose Falooda,1,0,,125.0
+Desserts,Strawberry Falooda,1,0,,125.0
+Burgers And Sandwiches,Chettinad Paneer Burger,1,0,,175.0
+Burgers And Sandwiches,Mushroom Masala Cheese Burger,1,0,,165.0
+Burgers And Sandwiches,Onion Capsicum Cheese Burger,1,0,,150.0
+Burgers And Sandwiches,Paneer Chilly Burger,1,0,,150.0
+Burgers And Sandwiches,Plain Paneer Cheese Burger,1,0,,150.0
+Burgers And Sandwiches,South West Veg Burger,1,0,,150.0
+Burgers And Sandwiches,Thousand Island Veg Burger,1,0,,150.0
+Burgers And Sandwiches,Veg Burger,1,0,,140.0
+Burgers And Sandwiches,Veg Cheese Burger,1,0,,150.0
+Burgers And Sandwiches,Veg Paneer Cheese Burger,1,0,,175.0
+Burgers And Sandwiches,Chettinad Mushroom Sandwich Must Try,1,0,,150.0
+Burgers And Sandwiches,Chettinad Paneer Cheese Pizza Sandwich,1,0,,250.0
+Burgers And Sandwiches,Chettinad Paneer Sandwich Must Try,1,0,,150.0
+Burgers And Sandwiches,Chilly Cheese Toast,1,0,,90.0
+Burgers And Sandwiches,Club Sandiwch [Fresh],1,0,,165.0
+Burgers And Sandwiches,Club Sandiwch [Toast],1,0,,165.0
+Burgers And Sandwiches,Corn Cheese Toast,1,0,,120.0
+Burgers And Sandwiches,Corn Chilly Cheese Toast,1,0,,125.0
+Burgers And Sandwiches,Corn Mushroom Cheese Toast,1,0,,140.0
+Burgers And Sandwiches,Corn Spicy Cheese Pizza Sandwich,1,0,,250.0
+Burgers And Sandwiches,Creamy Mushroom Sandwich Must Try,1,0,,150.0
+Burgers And Sandwiches,Creamy Tandoori Sandwich Must Try,1,0,,150.0
+Burgers And Sandwiches,Masala Paneer Toast,1,0,,155.0
+Burgers And Sandwiches,Masala Toast,1,0,,125.0
+Burgers And Sandwiches,Mushroom Cheese Pizza Sandwich,1,0,,250.0
+Burgers And Sandwiches,Mushroom Masala Toast,1,0,,140.0
+Burgers And Sandwiches,Onion Capsicum Chilly Cheese Toast,1,0,,100.0
+Burgers And Sandwiches,Onion Capsicum Paneer Cheese Toast,1,0,,150.0
+Burgers And Sandwiches,Paneer Butter Masala Sandwich Must Try,1,0,,150.0
+Burgers And Sandwiches,Paneer Chilly Cheese Toast,1,0,,140.0
+Burgers And Sandwiches,Plain Paneer Cheese Toast,1,0,,125.0
+Burgers And Sandwiches,South West Veg Grill,1,0,,115.0
+Burgers And Sandwiches,Spicy Paneer Cheese Pizza Sandwich,1,0,,250.0
+Burgers And Sandwiches,Thousand Island Veg Grill,1,0,,115.0
+Burgers And Sandwiches,Veg Cheese Toast,1,0,,100.0
+Burgers And Sandwiches,Veg Paneer Cheest Toast,1,0,,150.0
+Burgers And Sandwiches,Veg Pizza Cheese Sandwich,1,0,,225.0
+Burgers And Sandwiches,Veg Sandwich [Toast],1,0,,90.0
+Burgers And Sandwiches,Veg. Paneer Cutlet Toast,1,0,,155.0
+Fries,Cheese French Fries,1,0,,125.0
+Fries,Cheese Potato Pops [8 Pcs],1,0,,125.0
+Fries,Corn Cheese Nuggets [5 Pcs],1,0,,115.0
+Fries,French Fries [Salt],1,0,,100.0
+Fries,French Fries [Pepper],1,0,,100.0
+Fries,Peri Peri Cheese French Fries,1,0,,150.0
+Fries,Peri Peri French Fries,1,0,,120.0
+Fries,Smiley [6 Pcs],1,0,,115.0
+Fries,South West French Fries,1,0,,150.0
+Fries,Thousand Island French Fries,1,0,,150.0
+Momos (6Pcs),Corn Cheese Momos [6 Pcs],1,0,,150.0
+Momos (6Pcs),Mix Veg Momos [6 Pcs],1,0,,125.0
+Momos (6Pcs),Paneer Tikka Momos [6 Pcs],1,0,,140.0
+Momos (6Pcs),Veg Schezwan Momos [6 Pcs],1,0,,140.0
+Wraps,Chettinad Paneer Roll,1,0,,200.0
+Wraps,Mushroom Roll,1,0,,190.0
+Wraps,Paneer Butter Masala Roll,1,0,,200.0
+Wraps,Paneer Roll,1,0,,200.0
+Wraps,Veg Roll,1,0,,150.0
+Pasta,Corn Pasta,1,0,,215.0
+Pasta,Mushroom Pasta,1,0,,225.0
+Pasta,Paneer Pasta,1,0,,225.0
+Pasta,Veg Pasta,1,0,,190.0

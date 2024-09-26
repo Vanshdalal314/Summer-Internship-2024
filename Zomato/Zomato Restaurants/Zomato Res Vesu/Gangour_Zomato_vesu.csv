@@ -1,0 +1,122 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+"Pav Bhaji ,Pulav & Chole Bhature",Cheese Paneer Chole Bhature,1,0,"A twist on the classic North Indian dish, made with soft paneer cubes ... read more",230.0
+"Pav Bhaji ,Pulav & Chole Bhature",Cheese Paneer Tawa Pulav,1,0,,272.0
+"Pav Bhaji ,Pulav & Chole Bhature",Cheese Pav Bhaji,1,0,Butter laden pavs accompanied by a delicious and healthy gravy of mashed vegetables ... read more,230.0
+"Pav Bhaji ,Pulav & Chole Bhature",Cheese Tawa Pulav,1,0,A wholesome and flavourful vegetarian rice dish with a generous amount of melted ... read more,251.0
+"Pav Bhaji ,Pulav & Chole Bhature",Paneer Chole Bhature (2 Bhature),1,0,|Serves 1|,193.0
+"Pav Bhaji ,Pulav & Chole Bhature",Pav Bhaji (Butter),1,0,A delightsome & flavourful butter bhaji & surti pav with salad. Serves 1.,193.0
+"Pav Bhaji ,Pulav & Chole Bhature",Veg Tawa Pulav,1,0,"Tasty vegetable pulav cooked on a seasoned tawa, bursting with flavors!",209.0
+Chaat Junction,Aloo Tikki,1,0,Aloo tikki basically translates to potato patties. It is a popular Indian street ... read more,88.0
+Chaat Junction,Basket Chaat (Gangour Special),1,0,,105.0
+Chaat Junction,Bhel,1,0,"Wholesome puffed rice mixed with onions, tomatoes, green chutney, spices and topped with ... read more",83.0
+Chaat Junction,Cheese Sev Poori,1,0,,136.0
+Chaat Junction,Choole Tikki Chaat,1,0,,125.0
+Chaat Junction,Dahi Kachori Chaat,1,0,A tangy and creamy chaat bursting with the flavors of Indian spices and ... read more,89.0
+Chaat Junction,Dahi Vada Udad Dal (2 Pcs),1,0,,94.0
+Chaat Junction,Dal Vada (Rajasthani),1,0,,94.0
+Chaat Junction,Garlic Cheese Bread (4 Pcs),1,0,,220.0
+Chaat Junction,Jhalmudi (Kolkata Special),1,0,,84.0
+Chaat Junction,Kashmiri Chaat,1,0,"Served with solid masti, namkeen and cholle",105.0
+Chaat Junction,Meetha Pani (1 Ltr),1,0,,209.0
+Chaat Junction,Meetha Pani (500 Ml),1,0,,125.0
+Chaat Junction,Moongdal Kachori (2 Pcs),1,0,,52.0
+Chaat Junction,Panipuri (18 Pcs),1,0,,145.0
+Chaat Junction,Papdi Chaat (Delhi Chaat),1,0,,105.0
+Chaat Junction,Poori (10 Pcs),1,0,,35.0
+Chaat Junction,Punjabi Samosa (2 Pcs),1,0,"Baked pastry with a savory filling, such as spiced potatoes, onions, peas.",52.0
+Chaat Junction,Pyaz Kachori (1 Pcs),1,0,,42.0
+Chaat Junction,Ragada Pyaz Kachori,1,0,,99.0
+Chaat Junction,Ragada Samosa (1 Pcs),1,0,"Crispy samosa mixed with flavor-packed ragada, chaat chutneys and more - perfect snack ... read more",94.0
+Chaat Junction,Raj Kachori,1,0,"Crispy kachori is stuffed with boiled potatoes, yogurt, chutney and more, creating this ... read more",130.0
+Chaat Junction,Sevpuri (5 Pcs),1,0,A spicy and tangy chaat snack from the streets of mumbai.,84.0
+Chaat Junction,Special Cheese Paneer Bhel,1,0,,146.0
+Chaat Junction,Teekha Pani (1 Ltr),1,0,,146.0
+Chaat Junction,Teekha Pani (500 Ml),1,0,,84.0
+Falahari Items,Kulfi,1,0,,52.0
+Falahari Items,Rabdi,1,0,"A sweet, condensed-milk-based dish, originating from the Indian subcontinent, made by boiling milk ... read more",94.0
+Falahari Items,Sabudana Khichdi,1,0,"A delectable dish prepared with wholesome sabudana, tossed in flavorful masalas and boiled ... read more",94.0
+Starters,Cheese Paneer Tikka,1,0,"A tasty vegetarian treat for cheese lovers, served hot and fresh.",231.0
+Starters,Paneer Pakoda,1,0,,125.0
+Starters,Paneer Tikka,1,0,"Paneer marinated in lemon juice, dahi, Kashmiri lal mirch, salt, garam masala and ... read more",209.0
+Snacks,Butter Dabeli,1,0,"A tangy and sweet potato filling inside a pan tossed pav with butter, ... read more",42.0
+Snacks,Butter Locho,1,0,"A steamed surti snack prepared in butter served with green chilli, sev and ... read more",63.0
+Snacks,Cheese Butter Dabeli,1,0,,73.0
+Snacks,Cheese Butter Locho,1,0,"A steamed surti snack prepared in butter and cheese served with green chilli, ... read more",84.0
+Snacks,Cheese Grilled Vada Pav,1,0,"A twist on the classic Mumbai street food, made with a spiced potato ... read more",73.0
+Snacks,Cheese Mayonnaise Frankie,1,0,"A twist on the classic Indian street food, made with a roti wrap ... read more",115.0
+Snacks,Cheese Paneer Frankie,1,0,A mouthwatering cheese and paneer blend in a soft bread wrap.,136.0
+Snacks,Cheese Schezwan Frankie,1,0,"Schezwan cheese frankie made with a potato pattie, sauteed vegetables, some sauces and ... read more",115.0
+Snacks,Fried Cheese Momos,1,0,,146.0
+Snacks,Fried Paneer Momos,1,0,,157.0
+Snacks,Fried Veg Momos,1,0,,105.0
+Snacks,Grilled Vada Pav,1,0,A popular Mumbai street food made with a spiced potato vada [fritter] placed ... read more,42.0
+Snacks,Peri Peri Fries,1,0,Golden brown strips of potato fried to crisp perfection and flavored with salt ... read more,130.0
+Snacks,Plain Fries,1,0,"A classic, delicious crispy potato fingers topped with salt. Serves 1.",99.0
+Snacks,Schezwan Cheese Burger,1,0,"Images used are for representation purposes only and do not indicate size, portion, ... read more",151.0
+Snacks,Veg Burger,1,0,An appetizing burger stuffed with our chef`s special patty served with sauce.,94.0
+Snacks,Veg Cheese Burger,1,0,Indulgent burger with juicy veg patty with an additional cheese slice.,141.0
+Snacks,Veg Cheese Frankie,1,0,"Delicious frankie stuffed with veggies, cheese, and spices which will keep you asking ... read more",89.0
+Sandwiches,Bread Butter Cheese,1,0,,94.0
+Sandwiches,Bread Butter Jam,1,0,A classic combination of smooth butter and sweet jam spread over freshly baked ... read more,63.0
+Sandwiches,Bread Butter,1,0,A classic and comforting dish perfect for breakfast or a snack.,52.0
+Sandwiches,Cheese Chilli Toast Sandwich,1,0,A toasted sandwich made up of sliced white bread stuffed with a generous ... read more,178.0
+Sandwiches,Kashmiri Toast Sandwich (Gangour Special),1,0,,251.0
+Sandwiches,Matka Grilled Sandwich (Gangour Special),1,0,,241.0
+Sandwiches,Only Cheese Grilled Sandwich,1,0,,241.0
+Sandwiches,Only Cheese Toast Sandwich,1,0,,178.0
+Sandwiches,Paneer Veg Cheese Grilled Sandwich,1,0,"Images used are for representation purposes only and do not indicate size, portion, ... read more",251.0
+Sandwiches,Schezwan Cheese Grilled Sandwich,1,0,A fusion of spicy Schezwan sauce and gooey cheese melted between crispy bread ... read more,230.0
+Sandwiches,Veg Cheese Grilled Sandwich (3 Bread),1,0,Crunchy vegetables stuffed with a hole lot of cheese between three slices of ... read more,199.0
+Sandwiches,Veg Cheese Sandwich,1,0,A scrumptious sandwich made by stuffing mixed vegetables and cheese in grilled bread ... read more,130.0
+Sandwiches,Veg Sandwich,1,0,A type of vegetarian sandwich consisting of a vegetable filling between bread.,89.0
+Pizza,Double Decker Pizza (Gangour Special),1,0,[6 Inch],262.0
+Pizza,Gangour Special Pizza,1,0,[6 Inch],251.0
+Pizza,Only Cheese Pizza (Margherita Pizza),1,0,[6 Inch],251.0
+Pizza,Stuffed Cheese Pizza,1,0,[6 Inch],241.0
+Pizza,Vegetable Cheese Pizza,1,0,[6 Inch],204.0
+Paratha,Onion Aloo Paratha,1,0,"A crispy, savory Punjabi flatbread stuffed with a tantalizing blend of potato and ... read more",105.0
+Paratha,Paneer Pepper Paratha,1,0,A flavorful and spicy North Indian flatbread made with a mixture of soft ... read more,130.0
+South Indian,Cheese Masala Dosa,1,0,Cheese masala dosa is crisp and soft dosa stuffed potato filling and drizzled ... read more,178.0
+South Indian,Cheese Mysore Dosa,1,0,"Spicy dosa with grated cheese, a red chutney spread and masala folded in.",199.0
+South Indian,Masala Dosa,1,0,"Deliciously crispy dosa with a generous spread of fresh butter, spicy chutney and ... read more",125.0
+South Indian,Mysore Dosa,1,0,South Indian speciality dosa served with coconut chutney and sambhar.,157.0
+South Indian,Only Cheese Dosa,1,0,,167.0
+South Indian,Paneer Masala Dosa,1,0,"A flavorful vegetarian crepe filled with a creamy, savory filling.",178.0
+South Indian,Sada Dosa,1,0,Crisp and long simple sada dosa served with sambar and chutney.,84.0
+Desserts,Chocolate Kulfi,1,0,,57.0
+Desserts,Cold Rabdi,1,0,,94.0
+Desserts,Dry Fruit Rabdi,1,0,,105.0
+Desserts,Gulab Jamun 2 Pcs,1,0,"Soft, spongy and delicious Indian dessert served with a generous helping of sugar ... read more",73.0
+Desserts,Imarti Kangan (3 Pcs),1,0,,105.0
+Desserts,Kaju Badam Kulfi,1,0,,57.0
+Desserts,Kesar Gulab Kulfi,1,0,,57.0
+Desserts,Kesar Malai Kulfi,1,0,A creamy and rich Indian dessert with a hint of saffron.,52.0
+Desserts,Kesariya Jalebi (10 Pcs),1,0,,200.0
+Desserts,Kesariya Jalebi (4 Pcs),1,0,,94.0
+Desserts,Pan Pasand Kulfi,1,0,,57.0
+Desserts,Sitafal Kulfi,1,0,,57.0
+Drinks (Beverages),Chocolate Chips Coco Shake,1,0,,120.0
+Drinks (Beverages),Cold Coco,1,0,"Cold coco is a dense, creamy and silky chocolate drink.",89.0
+Drinks (Beverages),Kaju Cold Coco,1,0,,120.0
+Drinks (Beverages),Kesar Makhaniya Lassi,1,0,,120.0
+Drinks (Beverages),Masala Chaas,1,0,A cooling and flavorful drink made from curds and Indian spices - a ... read more,50.0
+Fresh Juices,Cocktail Juice,1,0,"(Blend Of Apple, Grapes, Pineapple & Orange)",180.0
+Fresh Juices,Orange Juice,1,0,"The juice made by extraction of oranges, a perfect source for vitamin c ... read more",120.0
+Fresh Juices,Pineapple Juice,1,0,Pineapple juice is a liquid made from pressing the pulp of pineapple.,120.0
+Fresh Juices,Red Lady Juice,1,0,"(Combination Of Pomegranate, Apple & Orange)",160.0
+Fresh Juices,Two Sisters Juice,1,0,(Combination Of Mosambi & Orange),120.0
+Fresh Juices,Watermelon Juice,1,0,A quick and delicious drink that goes well on any day made up ... read more,120.0
+Fresh Juices,Yellow Parade Juice,1,0,(Combination Of Mosambi & Pineapple),130.0
+Coffee,Cold Coffee With Ice Cream,1,0,"A creamy, refreshing blend of cold coffee and velvety ice cream.",150.0
+Coffee,Cold Coffee,1,0,"Coffee blended in cold milk and ice, very tempting and mouth watering.",120.0
+Coco,Loaded Cold Coco,1,0,"(Loaded With Cashewnuts, Chocochips & Ice Cream)",150.0
+Thick Shake,Berry Blast Thick Shake,1,0,"(Blend Of Strawberry, Raspberry & Blueberry)",200.0
+Thick Shake,Browtella Thick Shake,1,0,(Tasty Combination Of Brownie & Nutella),200.0
+Thick Shake,Ferrero Rocher Thick Shake,1,0,"Indulge in a creamy, luxurious American thick shake loaded with the unmistakable flavor ... read more",220.0
+Thick Shake,Kaju Gulkand Thick Shake,1,0,"A creamy, nutty Thick Shake with a touch of sweetness.",200.0
+Thick Shake,Kaju Mango Thick Shake,1,0,A rich and creamy thick shake bursting with the sweet and tangy flavor ... read more,200.0
+Thick Shake,Kit Kat Thick Shake,1,0,An indulgent crunchy and creamy milkshake made by blending milk with decadent kit-kat ... read more,180.0
+Thick Shake,Nutty Nutella Thick Shake,1,0,A rich Thick Shake packed with nutty flavors and creamy Nutella goodness!,200.0
+Thick Shake,Oreo Delite Thick Shake,1,0,,180.0
+Ice Tea,Lemon Ice Tea,1,0,,120.0
+Ice Tea,Peach Ice Tea,1,0,,120.0

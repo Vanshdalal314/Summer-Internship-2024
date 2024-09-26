@@ -1,0 +1,87 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Combos,Omelette with Green Keema,0,0,1 Egg Omelette+1 Green Keema+Tukda Shak [1 Piece]+1 Egg Rice+Salad+8 Pav+Jeera Soda [250 ... read more,260.0
+Special Combos,Masala Boiled Egg Fry Combo,0,0,1 Masala Boiled Egg Fry+1 Egg Lasan Fry+1 Egg Ravaiya+1 Egg Rice+8 Pav +Jeera ... read more,260.0
+Special Combos,Boiled Egg Salad with Jeera Soda,0,0,1 Boiled Egg Salad+Australian Fry [2 Eggs]+1 Egg Rice+6 Pav+Jeera Soda [250 ml]+Salad [Salad-Subject ... read more,240.0
+Special Combos,Cheese Boiled Egg Combo,0,0,1 Cheese Boiled Egg+Cheese Australian Fry [2 Eggs]+Cheese Gravy Tadka [2 Eggs]+1 Butter ... read more,340.0
+Special Combos,Cheese Boiled Egg Salad Combo,0,0,1 Cheese Boiled Egg Salad+Russian Fry [2 Eggs]+Egg Samosa [2 Pieces]+1 Egg Rice+10 ... read more,300.0
+Special Combos,Kashmiri Pulao Combo,0,0,"1 Egg Kashmiri Pulao+Limbu Mari Omelette [2 Eggs]+Mineral Water [1 Bottle, 500 ml]",170.0
+Special Combos,Boiled Egg with Ghotala,0,0,1 Boiled Egg+Ghotala [2 Eggs]+6 Pav+Buttermilk [200 ml]+Salad [Salad-Subject to Availability],180.0
+Special Combos,Lasan Kachu Combo,0,0,Lasan Kachu [2 Eggs]+Limbu Mari Omelette [2 Eggs]+Jeera Soda [250 ml]+4 Pav [Prepared ... read more,210.0
+Special Combos,Egg Curry Combo,0,0,"1 Egg Curry+1 Egg Keema+1 Egg Rice+5 Pav+Mineral Water [1 Bottle, 500 ml]+Salad [Salad-Subject ... read more",190.0
+Main Course,Cheese Angoor Rabdi [4 Eggs] + 8 Pav,0,0,,260.0
+Main Course,Gravy Tadka [2 Eggs] + 4 Pav,0,0,,150.0
+Main Course,Green Kheema [2 Eggs] + 4 Pav,0,0,,150.0
+Main Course,Rawaiya [2 Eggs] + 4 Pav,0,0,Tometo flavour,150.0
+Main Course,Kadi [2 Eggs] with 4 Pav,0,0,,150.0
+Main Course,Cheese Rabdi [4 Eggs] with 8 Pav,0,0,,260.0
+Main Course,Tamatar Kheema [2 Eggs] with 4 Pav,0,0,,150.0
+Main Course,"Tadka [Mini, 2 Eggs] with 4 Pav",0,0,Prepared with cheese.,150.0
+Main Course,Green Goti [2 Eggs] with 4 Pav,0,0,Prepared with cheese.,150.0
+Main Course,Matho [2 Eggs] with 4 Pav,0,0,Prepared with cheese.,150.0
+Main Course,Gotalo [2 Eggs] with 4 Pav,0,0,,150.0
+Main Course,Goti Ghotala [2 Eggs] with 4 Pav,0,0,,150.0
+Main Course,Fry Paki Bhurji [2 Eggs] with 4 Pav,0,0,,150.0
+Rice,Singapuri Pulao [2 Eggs],0,0,,150.0
+Rice,Bhurji Pulao [2 Eggs],0,0,,150.0
+Rice,Plain Rice,1,0,,80.0
+Rice,Jeera Rice,1,0,,90.0
+Rice,Veg Green Pulao,1,0,,100.0
+Rice,Egg Keema Pulao,0,0,,130.0
+Rice,Egg Curry Pulao,0,0,,150.0
+Rice,Kashmiri Pulao [2 Eggs],0,0,Fully spicy.,150.0
+Rice,Egg RIce [1 Egg],0,0,,80.0
+Eggs,Kheemo [1 Egg],0,0,,80.0
+Eggs,Omlette [1 Egg],0,0,,50.0
+Eggs,Egg Curry [1 Egg],0,0,,70.0
+Eggs,Australian Fry [2 Egg],0,0,,140.0
+Eggs,Tikhari Tadka [3 Egg],0,0,,200.0
+Eggs,Lasan Fry [1 Egg],0,0,,80.0
+Eggs,Tomato Fry [1 Egg],0,0,,80.0
+Eggs,Tikka Shak Green [1 Egg],0,0,,80.0
+Eggs,Bhurji [1 Egg],0,0,,70.0
+For Cheese Lovers,Cheese Burst Omelette,0,0,Fully Loaded WIth Cheese,150.0
+For Cheese Lovers,Cheesy Desi Kheema,0,0,,150.0
+Snacks,Paplet [4 Eggs] + 8 Pav,0,0,,260.0
+Snacks,Limbu Mari Omelette [2 Eggs],0,0,,90.0
+Snacks,Tikka Shack Green [2 Eggs] + 4 Pav,0,0,,150.0
+Snacks,Bhurji [2 Eggs] + 4 Pav,0,0,,150.0
+Snacks,Afghani Egg [4 Eggs] + 8 Pav,0,0,,260.0
+Snacks,Red Green [4 Eggs] + 8 Pav,0,0,,260.0
+Snacks,Pataudi [4 Eggs] + 8 Pav,0,0,,260.0
+Snacks,Patra [4 Eggs] + 8 Pav,0,0,,260.0
+Snacks,Sunday [4 Eggs] + 8 Pav,0,0,,260.0
+Snacks,Kachu Tadka [4 Eggs] + 8 Pav,0,0,,260.0
+Snacks,Roll [4 Eggs] + 8 Pav,0,0,,260.0
+Snacks,Dal Fry [4 Eggs] + 8 Pav,0,0,,260.0
+Snacks,Plain Cheese Boiled Egg [1 Egg],0,0,,30.0
+Snacks,Masala Boiled Fry [1 Egg],0,0,,50.0
+Snacks,Boiled Kofta [1 Egg],0,0,,60.0
+Snacks,Regular Omelette [2 Eggs] + 4 Pav,0,0,,90.0
+Snacks,Rasavali Omelette [3 Eggs] + 6 Pav,0,0,,200.0
+Snacks,Surati Omelette [3 Eggs] + 6 Pav,0,0,,200.0
+Snacks,Chutney Fry [2 Eggs] with 4 Pav,0,0,,150.0
+Snacks,Green Fry [2 Eggs] + 4 Pav,0,0,,150.0
+Snacks,Tikka Shack Red [2 Eggs] + 4 Pav,0,0,,150.0
+Snacks,Egg Samosa [4 Pieces] + 8 Pav,0,0,,260.0
+Snacks,Garlic Omelette,0,0,,100.0
+Snacks,Australian Fry [4 Eggs] + 8 Pav,0,0,Prepare with cheese,260.0
+Snacks,Thikhari Tadka [4 Eggs] + 8 Pav,0,0,Prepare with cheese.,260.0
+Snacks,Lasan Fry [2 Eggs] + 4 Pav,0,0,Pure lasan taste.,150.0
+Snacks,Tomato Fry [2 Eggs] + 4 Pav,0,0,Pure tomato taste.,150.0
+Snacks,Cheese Omelette [2 Eggs] + 4 Pav,0,0,Toping with cheese.,130.0
+Snacks,Plain Fry [2 Eggs] + 4 Pav,0,0,Simple plain fry.,110.0
+Snacks,Lasan Kachu [2 Eggs] + 4 Pav,0,0,Prepare with green garlic.,150.0
+Breads,Oil Pav [2 Pav],1,0,,10.0
+Breads,Butter Pav [2 Pav],1,0,,15.0
+Extras,Salad,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",15.0
+Extras,Lasan Chutney,1,0,,30.0
+Extras,Papad,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",15.0
+Starters,Mayonnaise Cheese Boil Egg Salad,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",55.0
+Starters,Boil Cheese Egg Salad,0,0,Topping with cheese.,45.0
+Starters,Mayyonaise cheese Boil Egg,0,0,,40.0
+Starters,Boiled Egg Salad,0,0,Prepared with tomato & onion.,35.0
+Starters,Mayyonaise Boil Egg,0,0,Toping with mayyonaise.,30.0
+Drinks (Beverages),Buttermilk [200 ml],1,0,Chaas.,20.0
+Drinks (Beverages),Water Bottle [500ml],1,0,,15.0
+Accompaniments,Roasted Papad [2 Pieces],1,0,,30.0
+Accompaniments,Fried Papad [1 Pieces],1,0,,30.0

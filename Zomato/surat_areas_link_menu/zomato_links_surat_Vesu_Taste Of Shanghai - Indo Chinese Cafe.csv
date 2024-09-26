@@ -1,0 +1,140 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Belgian Chocolate Waffle + Brownie With Ice Cream,1,0,,400.0
+Combos,Belgian Chocolate Waffle + Dry Fruit Ice Cream,1,0,,310.0
+Combos,Belgian Chocolate Waffle + Lemon Ice Tea,1,0,,350.0
+Combos,Belgian Chocolate Waffle + Margrita Pizza + Cold Drink,1,0,,450.0
+Combos,Belgian Chocolate Waffle + Strawberry Milk Shake,1,0,,390.0
+Combos,Cheese Garlic Bread + French Fries + Cold Drink,1,0,,280.0
+Combos,Cheese Garlic Bread + Nachos Platter With Cheese Dip + Cold Drink,1,0,,300.0
+Combos,Cheese Masala Maggi + Spring Roll + Cold Drink,1,0,,320.0
+Combos,Margherita Pizza + Cheese Garlic Bread + Cold Drink,1,0,,350.0
+Combos,Margherita Pizza + Nachos With Cheese Dip + Cold Drink,1,0,,320.0
+Combos,Mexican Delight Pizza + Cheese Garlic Bread + Any Mocktail,1,0,,390.0
+Combos,Mexican Delight Pizza + Nachos With Cheese Dip + Cold Drink,1,0,,420.0
+Combos,Tandoori Paneer Pizza + Belgian Chocolate Waffle + Brownie With Ice Cream,1,0,,650.0
+Combos,Tandoori Paneer Pizza + French Fries + Brownie With Ice Cream + Any Mocktail,1,0,,600.0
+Combos,Triple Chocolate Waffle + Belgian Chocolate Ice Cream,1,0,,400.0
+Combos,Veg Cheese Momos [Steam] + French Fries + Cold Coffee,1,0,,350.0
+Combos,Veg Steam Momos + Pizza Puchka + Cold Drink,1,0,,320.0
+Combos,Veg Steam Momos [6 Pcs] + French Fries + Nachos With Cheese Dip + Cold Drink,1,0,,400.0
+Combos,Veg Steam Momos [6 Pcs] + Nachos With Cheese Dip + Cold Drink,1,0,,270.0
+Soups,Veg Hot And Sour Soup,1,0,,130.0
+Soups,Veg Manchow Soup,1,0,,130.0
+Soups,Veg Noodles Soup,1,0,,130.0
+Maggi,Cheese Masala Maggi,1,0,,130.0
+Maggi,Double Masala Maggi,1,0,,110.0
+Maggi,Masala Maggi,1,0,,100.0
+Maggi,Schezwan Cheese Maggi,1,0,,150.0
+Maggi,Schezwan Maggi,1,0,,130.0
+Pizza,Italian Pizza [7 Inches],1,0,"Onions, capsicum, olives, jalapenos, cheese.",240.0
+Pizza,Margherita Pizza [7 Inches],1,0,Lots of cheese.,200.0
+Pizza,Mexican Delight Pizza [7 Inches],1,0,"Cheese, chilli, sweetcorn, tomato, olives.",240.0
+Pizza,Spicy Paneer Pizza [7 Inches],1,0,"Capsicum, paneer, onion, cheese.",270.0
+Pizza,Tandoori Paneer Pizza [7 Inches],1,0,"Onion, capsicum, olives, jalapenos, cheese, paneer.",290.0
+Pizza,Veg Bite Pizza [7 Inches],1,0,"Cheese, onion, tomato, capsicum.",220.0
+Pizza,Veg Paradise Pizza [7 Inches],1,0,"Cheese, onions, capsicum, olives, paneer.",270.0
+Garlic Bread,Cheese Chilli Garlic Bread [3 Pcs],1,0,,130.0
+Garlic Bread,Cheese Corn Garlic Bread [3 Pcs],1,0,,150.0
+Garlic Bread,Cheese Garlic Bread [3 Pcs],1,0,,130.0
+Garlic Bread,Cheese Jalapeno Garlic Bread [3 Pcs],1,0,,150.0
+Garlic Bread,Cheese Onion Garlic Bread [3 Pcs],1,0,,150.0
+Garlic Bread,Cheese Paneer Garlic Bread [3 Pcs],1,0,,170.0
+Fries,Cheese Fries,1,0,,170.0
+Fries,Masala Fries,1,0,,140.0
+Fries,Peri Peri Fries,1,0,,150.0
+Fries,Pizza Fries,1,0,,200.0
+Fries,Salted Fries,1,0,,130.0
+Quick Bites,Cheese Paneer Samosa [5 Pcs],1,0,,150.0
+Quick Bites,Cheese Potato Shots [6 Pcs],1,0,,170.0
+Quick Bites,Jain Nachos Platter With Cheese Dip,1,0,,170.0
+Quick Bites,Nachos Platter With Cheese Dip,1,0,,150.0
+Quick Bites,Spirng Roll [3 Pcs],1,0,,170.0
+Momos (6 Pcs),Kurkure Mix Veg Momos Platter,1,0,Kurkure Mix Veg Momos [4 pcs] + Kurkure Maggi Momos [4 pcs] + ... read more,510.0
+Momos (6 Pcs),Palak Paneer Fried Momos Platter,1,0,Palak Paneer Fried Momos [4 pcs] + Cheese Corn Fried Momos [4 pcs] ... read more,510.0
+Momos (6 Pcs),Paneer Cheese Steam Momos Platter,1,0,Paneer Cheese Steam Momos [4 pcs] + Veg Cheese Steam Momos {4 pcs] ... read more,410.0
+Momos (6 Pcs),Veg Cheese Fried Momos Platter,1,0,Veg Cheese Fried Momos [4 pcs] + Paneer Cheese Fried Momos [4 pcs] ... read more,460.0
+Momos (6 Pcs),Veg Steam Momos Platter,1,0,Veg Steam Momos [4 pcs] + Palak Paneer Steam Momos [4 pcs] + ... read more,400.0
+Momos (6 Pcs),Cheese Corn Momos [6 Pcs],1,0,,200.0
+Momos (6 Pcs),Exotic Veg Momos [6 Pcs],1,0,,180.0
+Momos (6 Pcs),Kurkure Maggi Momos [6 Pcs],1,0,,220.0
+Momos (6 Pcs),Kurkure Momos [Kfc Style] [6 Pcs],1,0,,220.0
+Momos (6 Pcs),Kurkure Paneer Cheese Momos [6 Pcs],1,0,,250.0
+Momos (6 Pcs),Maggi Momos [6 Pcs],1,0,,150.0
+Momos (6 Pcs),Palak Paneer Momos [6 Pcs],1,0,,200.0
+Momos (6 Pcs),Pizza Momos [6 Pcs],1,0,,250.0
+Momos (6 Pcs),Afghani Momos [6 Pcs],1,0,,250.0
+Momos (6 Pcs),Cheesy Jalapenos Momos [6 Pcs],1,0,,250.0
+Momos (6 Pcs),Gravy Momos [6 Pcs],1,0,,250.0
+Momos (6 Pcs),Jain Afghani Momos [6 Pcs],1,0,,270.0
+Momos (6 Pcs),Jain Cheesy Jalapenos Momos [6 Pcs],1,0,,270.0
+Momos (6 Pcs),Schezwan Gravy Momos [6 Pcs],1,0,,250.0
+Momos (6 Pcs),Jain Veg Cheese Momos [6 Pcs],1,0,,190.0
+Momos (6 Pcs),Jain Veg Momos [6 Pcs],1,0,,170.0
+Momos (6 Pcs),Paneer Cheese Momos [6 Pcs],1,0,,220.0
+Momos (6 Pcs),Paneer Momos [6 Pcs],1,0,,190.0
+Momos (6 Pcs),Veg Cheese Momos [6 Pcs],1,0,,180.0
+Momos (6 Pcs),Veg Momos [6 Pcs],1,0,,150.0
+Waffles,Belgian Chocolate,1,0,,220.0
+Waffles,Black Forest Beauty,1,0,Belgian chocolate + White chocolate drizzle + Dark chocolate chips.,320.0
+Waffles,Brownie Crumble,1,0,White chocolate + Crushed walnut brownie.,280.0
+Waffles,Chess Chocolate,1,0,Belgian + White chocolate.,250.0
+Waffles,Chocolate Overload,1,0,"Belgian chocolate + Crushed kitkat, perk, munch, oreo + Dark & white chocolate ... read more",350.0
+Waffles,Chocolate Therapy,1,0,Belgian chocolate + White & dark chocolate chips.,270.0
+Waffles,Coffee Chocolate,1,0,,240.0
+Waffles,Cookies N Cream,1,0,Blue chocolate + Oreo cookie.,270.0
+Waffles,Cookies Overload,1,0,White chocolate + Crushed oreo cookie.,300.0
+Waffles,Crunchy Almond,1,0,Belgian chocolate + Almond flakes.,250.0
+Waffles,Crunchy Cashew,1,0,Belgian chocolate + Cashew.,250.0
+Waffles,Double Nutella,1,0,Lots of nutella.,300.0
+Waffles,Double Trouble,1,0,Belgian chocolate + Nutella drizzle.,270.0
+Waffles,Gems Magic,1,0,Belgian chocolate + Gems.,240.0
+Waffles,Hazel Dazzle,1,0,Nutella + Crushed kitkat.,320.0
+Waffles,Hazelnut Bliss,1,0,Nutella spread + Crushed oreo.,270.0
+Waffles,Kitkat Crunchiness,1,0,Belgian chocolate + Crushed kitkat.,250.0
+Waffles,Midnight Beauty,1,0,Belgian chocolate + White chocolate drizzle.,300.0
+Waffles,Milk Chocolate,1,0,,230.0
+Waffles,Milky Pebbles,1,0,White chocolate + Lotte choco pie.,250.0
+Waffles,Mocha Truffle,1,0,Coffee chocolate + White chocolate drizzle + Chocolate chips.,320.0
+Waffles,Naughty Nutella,1,0,,250.0
+Waffles,Nutella Brownie,1,0,Butella + Crushed brownie.,290.0
+Waffles,Nutella Ella,1,0,Nutella + Cashew + Almond.,300.0
+Waffles,Nutella Rocher,1,0,Nutella + Crushed ferrero rocher.,290.0
+Waffles,Oreo Awesomeness,1,0,Belgiaan chocolate + Crushed oreo.,250.0
+Waffles,Original Sin,1,0,Milk chocolate + White chocolate drizzle.,300.0
+Waffles,Perk Me Up,1,0,Belgian chocolate + Perk.,250.0
+Waffles,Rainbow Surprise,1,0,White chocolate + Colourful sprinkles.,300.0
+Waffles,Red Velvet White Chocolate,1,0,,250.0
+Waffles,Road Blocker,1,0,Belgian chocolate + Lotte choco pie.,250.0
+Waffles,Rocher Chocolate,1,0,Belgian chocolate + Crushed ferrero rocher.,270.0
+Waffles,Rocky Red Brownie,1,0,Belgian chocolate + Crushed brownie + Chocolate drizzle.,270.0
+Waffles,Traffic Jam,1,0,"Belgian, milk, white chocolate + Dark & white chocolate chips.",300.0
+Waffles,Triple Chocolate,1,0,Belgian + White + Milk chocolate.,280.0
+Waffles,White Chocolate,1,0,,230.0
+Waffles,White Forest Magic,1,0,White chocolate + Belgian chocolate drizzle + White chocolate chips.,320.0
+Ice Cream [Gelato],American Nuts Ice Cream,1,0,,90.0
+Ice Cream [Gelato],Belgian Chocolate Ice Cream,1,0,,80.0
+Ice Cream [Gelato],Rajbhog Ice Cream,1,0,,90.0
+Ice Cream [Gelato],Strawberry Ice Cream,1,0,,80.0
+Ice Cream [Gelato],Vanilla Ice Cream,1,0,,80.0
+Brownies,Double Hot Walnut Brownie With Ice Cream,1,0,,250.0
+Brownies,Hot Walnut Brownie With Ice Cream,1,0,,160.0
+Brownies,Hot Walnut Brownie,1,0,,120.0
+Brownies,Triple Hot Walnut Brownie With Icecream [2 Scoops],1,0,,300.0
+Drinks (Beverages),Blue Ocean,1,0,,120.0
+Drinks (Beverages),Blueberry Mocktail,1,0,,120.0
+Drinks (Beverages),Kiwi Mocktail,1,0,,120.0
+Drinks (Beverages),Mint Mojito,1,0,,120.0
+Drinks (Beverages),Pinacolada,1,0,,120.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,150.0
+Drinks (Beverages),Peach Iced Tea,1,0,,150.0
+Drinks (Beverages),Cold Chocolate Coffee,1,0,,170.0
+Drinks (Beverages),Cold Coffee,1,0,,150.0
+Drinks (Beverages),Cold Hazelnut Coffee,1,0,,200.0
+Drinks (Beverages),Brownie Chocolate Milkshake,1,0,,190.0
+Drinks (Beverages),Dry Fruit Milkshake,1,0,,210.0
+Drinks (Beverages),Kitkat Milkshake,1,0,,190.0
+Drinks (Beverages),Kiwi Milkshake,1,0,,170.0
+Drinks (Beverages),Nutella Milkshake,1,0,,190.0
+Drinks (Beverages),Oreo Milkshake,1,0,,190.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,170.0
+Drinks (Beverages),Vanilla Brownie Milkshake,1,0,,190.0

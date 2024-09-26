@@ -1,0 +1,18 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chole Bhature,Chole Bhature,1,0,,150.0
+Chole Bhature,Extra Bhatura [1 Piece],1,0,,33.33
+Tikki,Chole Tikki,1,0,,80.0
+Tikki,Cheese Chole Tikki,1,0,,90.0
+Tikki,Dahi Tikki,1,0,,80.0
+Samosa & Samosa Chaat,Samosa [1 Piece],1,0,,25.0
+Samosa & Samosa Chaat,Chole Samosa Chaat,1,0,,80.0
+Chaat,Papdi Chaat,1,0,,80.0
+Chaat,Delhi Chaat,1,0,,80.0
+Pani Puri,Atta Pani Puri [6 Pieces],1,0,,35.0
+Pani Puri,Rava Pani Puri [5 Pieces],1,0,,55.0
+Sev Puri and Dahi Puri,Sev Puri,1,0,,66.66
+Sev Puri and Dahi Puri,Cheese Sev Puri,1,0,,88.88
+Sev Puri and Dahi Puri,Masala Puri,1,0,,44.44
+Sev Puri and Dahi Puri,Dahi Puri,1,0,,66.66
+Bhel,Bhel,1,0,,55.55
+Bhel,Cheese Bhel,1,0,,77.77

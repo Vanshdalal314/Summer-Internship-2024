@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Special Veg La 93 Pizza,1,0,[Chef's Special],120.0
+Pizza,Veg Cheese Pizza,1,0,,120.0
+Pizza,Veg Pizza,1,0,,120.0
+Pizza,Veg Angara Pizza,1,0,,120.0
+Pizza,Paneer Pizza,1,0,,120.0
+Pizza,Cheese Corn Pizza,1,0,,128.0
+Pizza,Special Chicken La 93 Pizza,0,0,[Chef's Special],120.0
+Pizza,Chicken Mexican Olive Pizza,0,0,,120.0
+Pizza,Chicken Cheese Pizza,0,0,,128.0
+Pizza,Chicken Pizza,0,0,,120.0
+Pizza,Chicken Tandoori Pizza,0,0,,120.0
+Pizza,Chicken Chilli Pizza,0,0,,120.0
+Pizza,Chicken Cocktail Pizza,0,0,,120.0
+Pizza,Chicken Makhan Mari Pizza,0,0,,136.0
+Pizza,Chicken Frankie Mixed Pizza,0,0,,120.0
+Pizza,Chicken Peri Peri Pizza,0,0,,128.0
+Pizza,Chicken Angara Pizza,0,0,,120.0
+Pizza,Chicken Schezwan Pizza,0,0,,120.0
+Pizza,Chicken Crispy Pizza,0,0,,120.0
+Pizza,Chicken Special Pizza,0,0,,120.0
+Pizza,Chicken Special Angara Pizza,0,0,,120.0
+Pizza,Chicken Special Chilli Pizza,0,0,,120.0
+Pizza,Chicken La Pizza Tikka,0,0,[Chef's Special],120.0
+Pizza,Chicken Mushroom Pizza,0,0,,136.0
+Pasta,Cheese Pasta,1,0,,136.0
+Burgers and Sandwiches,Aloo Tikki Burger,1,0,,120.0
+Burgers and Sandwiches,Veg Burger,1,0,,104.0
+Burgers and Sandwiches,Paneer Burger,1,0,,120.0
+Burgers and Sandwiches,Chicken La Pizza 93 Burger,0,0,[Chef's Special],120.0
+Burgers and Sandwiches,Chicken Burger,0,0,,120.0
+Burgers and Sandwiches,Chicken Keema Burger,0,0,,120.0
+Burgers and Sandwiches,Chicken Cheese Burger,0,0,,136.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,96.0
+Burgers and Sandwiches,Chicken Sandwich,0,0,,120.0
+Burgers and Sandwiches,Chicken Cheese Sandwich,0,0,,136.0
+Burgers and Sandwiches,Chicken Grilled Sandwich,0,0,,120.0
+Snacks,French Fries,1,0,,120.0
+Snacks,Cheese French Fries,1,0,,152.0
+Snacks,Peri Peri French Fries,1,0,,176.0
+Snacks,Veg Wrap Hot Dog,1,0,,96.0
+Snacks,Special La Garlic Bread,1,0,[Chef's Special],168.0
+Snacks,Cheese Garlic Bread,1,0,,224.0
+Snacks,Chicken Wrap Hot Dog,0,0,,120.0

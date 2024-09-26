@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Hot Beverages,Masala Tea [110 ml],1,0,Indian chai with aromatic herbs and spices.,25.0
+Hot Beverages,Masala Tea [Serves 2],1,0,Indian chai with aromatic herbs and spices.,45.0
+Hot Beverages,Masala Tea [Serves 3],1,0,Indian chai with aromatic herbs and spices.,70.0
+Hot Beverages,Masala Tea [Serves 4],1,0,Indian chai with aromatic herbs and spices.,90.0
+Hot Beverages,Black Tea [110 ml],1,0,"Made with assam tea leaves, this sure would make you up and trigger ... read more",25.0
+Hot Beverages,Black Tea [2 serving],1,0,Specially made for those who love filter coffee without milk. MFC special blend ... read more,40.0
+Hot Beverages,Hot Sukku Malli Tea in Silver Foil [110 ml],1,0,"Has no milk, only water. Comes with jaggery, made using dried ginger, coriander, ... read more",25.0
+Hot Beverages,"Hot Sukku Malli Tea [Serves 2, 110 ml]",1,0,"Made with dried ginger, coriander, jaggery, black pepper and a host of other ... read more",45.0
+Hot Beverages,Hot Sukku Malli Milk [Serves 2],1,0,Comes with jaggery.,55.0
+Hot Beverages,Hot Boost [110 ml],1,0,Boost on milk! Comes packed in silver foil that retains heat upto 15 ... read more,30.0
+Hot Beverages,Hot Boost [Serves 2],1,0,Boost on milk.,55.0
+Hot Beverages,Hot Badam Milk [110 ml],1,0,Made from a special mix of aromatic and healthy spices and nuts. comes ... read more,35.0
+Hot Beverages,Hot Badam Milk [Serves 2],1,0,"Made from a special mix of aromatic, healthy spices and nuts comes with ... read more",65.0
+Hot Beverages,Green Tea [110 ml],1,0,Green tea with mild flavor of honey and lemon for the healthy you. ... read more,30.0
+Hot Beverages,Green Tea [Serves 2],1,0,Green tea with mild flavor of honey and lemon.,55.0
+Hot Beverages,Hot Chocolate Milk [110 ml],1,0,"Yummy and delicious cocoa added to hot milk, comes with white sugar.",35.0
+Hot Beverages,Hot Chocolate Milk [2 serving],1,0,Yummy and delicious cocoa added to hot milk with white sugar. Note: 1 ... read more,65.0
+Hot Beverages,Yummy Beetroot Malt [110 ml],1,0,"Malt with powdered badam, cashew, jaggery and a pinch of dried, powdered beetroot. ... read more",35.0
+Hot Beverages,Yummy Beetroot Malt [2 serving],1,0,"Malt with powdered badam, cashew, jaggery and a pinch of dried, powdered beetroot. ... read more",65.0
+Hot Beverages,Yummy Carrot Malt [110 ml],1,0,"Malt with powdered badam, cashew, jaggery and a pinch of dried, powdered carrot. ... read more",35.0
+Hot Beverages,Yummy Carrot Malt [Serves 2],1,0,"Malt with powdered badam, cashew, jaggery and a pinch of dried, powdered carrot. ... read more",65.0
+Hot Beverages,Classic Horlicks [110 ml],1,0,Horlicks on milk comes packed in silver foil.,30.0
+Hot Beverages,Classic Horlicks [2 serving],1,0,Horlicks on milk. Note: 1 serving = 110 ml,55.0
+Hot Beverages,Ginger Tea [110 ml],1,0,Ginger tea that your throat expects on a cold day! Comes packed in ... read more,30.0
+Hot Beverages,Ginger Tea [Serves 2],1,0,Ginger tea that your throat expects on a cold day.,55.0
+Hot Beverages,Filter Coffee in Silver Foil [110 ml],1,0,Indulge in the rich flavors and aromatic notes of this traditional South Indian ... read more,30.0
+Hot Beverages,Filter Coffee [Serves 2],1,0,Indulge in the rich flavors and aromatic notes of this traditional South Indian ... read more,55.0
+Hot Beverages,Filter Coffee [Serves 3],1,0,Indulge in the rich flavors and aromatic notes of this traditional South Indian ... read more,85.0
+Hot Beverages,Filter Coffee [Serves 4],1,0,Indulge in the rich flavors and aromatic notes of this traditional South Indian ... read more,120.0
+Hot Beverages,Black Coffee [110 ml],1,0,Specially made for those who love filter coffee without milk. MFC special blend ... read more,25.0
+Hot Beverages,Black Coffee [2 serving],1,0,Specially made for those who love filter coffee without milk. MFC special blend ... read more,50.0
+Hot Beverages,Hot Chocolate Coffee [110 ml],1,0,"Has the right mixed of filter coffee and cocoa, you won't be disappointed. ... read more",35.0
+Hot Beverages,Hot Chocolate Coffee [2 serving],1,0,Served with white sugar mixed. Note: 1 serving = 110 ml,65.0
+Hot Beverages,Panam Kalkandu Palm Sugar Milk [110 ml],1,0,Absolutely natural and healthy palmsugar milk! Note: this beverage can only come with ... read more,35.0
+Hot Beverages,Panam Kalkandu Palm Sugar Milk [Serves 2],1,0,Absolutely natural and healthy palm sugar milk.,65.0
+Hot Beverages,Hot milk [110 ml],1,0,,25.0
+Hot Beverages,Hot Milk [2 serving],1,0,,45.0
+Cold Beverages,Cold Coffee [200 ml],1,0,Cold coffee.,65.0
+Cold Beverages,Rose Milk [200 ml],1,0,Our yummy house made rose milk.,50.0
+Cold Beverages,Cold Badam Milk [200 ml],1,0,For your daily dose of proteins and importantly yum.,50.0
+Cold Beverages,Ice Tea [200 ml],1,0,Cold and refreshing ice tea.,50.0
+Cold Beverages,Nannari Sarbath [200 ml],1,0,Nannari Sarbath is made of Nannari Vaer (Root). Nannari Vaer is traditionally used ... read more,50.0
+Cold Beverages,Sweet Lassi [200 ml],1,0,"Refreshing and sweet, this Lassi is a delightful cold beverage perfect for a ... read more",55.0
+Snacks,"Peanut Sundal [Serves 1, 100 grams]",1,0,Steamed peanuts.,48.0
+Snacks,"Channa Sundal [Serves 1, 100 grams]",1,0,"Sundal made of kabul channa with carrot, onion and slight addition of masala ... read more",45.0
+Snacks,"Mixed Sundal [Serves 1, 100 grams]",1,0,Equal portion of steamed peanuts and steamed white chana fulfilling your day's protein ... read more,45.0
+Snacks,Veg Bun Roll,1,0,Roll bread stuffed with small portion of diced onion and carrot: good for ... read more,35.0
+Snacks,"Onion Pakoda [60 grams, 5 Pieces, Medium]",1,0,Quick snack minced onion coated in seasoned gram flour batter and deep fried. ... read more,40.0
+Snacks,Fruit Custard [150 g],1,0,"A delightful and refreshing combination of fresh fruits in a creamy custard base, ... read more",55.0
+Snacks,Rose Milk Cake,1,0,Deliciously moist and fragrant cake infused with the delicate essence of rose.,35.0
+Maggi,Classic Maggi,1,0,Delectable maggi noodles.,45.0
+Maggi,Veg Masala Maggi,1,0,Delectable maggi noodles with an assortment of veggies and dash of masala.,50.0
+Maggi,Peri Peri Cheese Maggi,1,0,Delectable maggi noodles with cheese and a pinch of peri peri masala to ... read more,65.0
+Maggi,Chilli Cheese Maggi,1,0,Delectable maggi noodles with cheese and chilli flakes.,65.0
+Maggi,Veg Masala Cheese Maggi,1,0,Delectable maggi noodles with an assortment of veggies. Cheese and masala powder are ... read more,70.0
+Biscuits,Osmania Biscuits [4 Pieces],1,0,,30.0
+Biscuits,Crispy Cashew Wafer Biscuits [2 Pieces],1,0,,30.0
+Combos,"Filter Coffee [220 ml] and Chana Sundal [100 grams, 1 Bowl]",1,0,"Aromatic South Indian filter coffee and chana sundal mixed with onion, carrot and ... read more",100.0
+Combos,Masala Tea [220 ml] and Osmania Cookies [4 Pieces],1,0,"Indian chai with aromatic herbs and osmania cookies, a perfect snack combo.",75.0

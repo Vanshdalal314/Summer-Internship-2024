@@ -1,0 +1,132 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Combos,Double Delight Non - Veg,0,0,Chicken Tikka Burger + Tandoori Burger + 2Pc Grillicken Drumstick + Large Chicken ... read more,849.0
+Special Combos,Double Delight Veg,0,0,2 Paneer Cheese Burger + Peri Peri French Fries + 2 Mojito + ... read more,649.0
+Special Combos,Family Feast Non - Veg,0,0,4 Me Chicken Burger + 4 Pcs Grillicken Hot Wing: + Large Chicken ... read more,1234.0
+Special Combos,Family Feast Veg,0,0,2 Paneer Cheese Burst + 2 Mac'N' Cheese Burst + Paneer Fries + ... read more,1059.0
+Special Combos,Me - Special Variety Bucket,0,0,2Pc Clasic Drumstick + 2Pc Grillicken Drumstick + 2Pc Fiery Drumstick + 2Pc ... read more,1234.0
+Veg Burger,Classic Veg Burger,0,0,Minced Flavoured Vegetable Patty Deep Fried And Dressed With Mayo And Lettuce.,109.0
+Veg Burger,Corn N Spinach Burger,0,0,Minced Spinach And Corn With Crunchy Flavoured With Herbs And Spices Breaded In ... read more,129.0
+Veg Burger,Kiddy Veg Burger,0,0,Tomato,39.0
+Veg Burger,Mac N Cheese Burger,0,0,"Cooked Macaroni Pasta Mixed With Cheddar Cheese, Breaded With Bread Crumbs Deep Fried ... read more",175.0
+Veg Burger,Paneer Cheese Burst Burger,0,0,Spread Of Cheese Placed In Between Layer Of Paneer Breaded With Bread Crumbs ... read more,199.0
+Veg Burger,Veg Super Twin Burger,0,0,"A Mix Of Paneer Patty, Vegetable Patty Deep Fried, Dressed With Tomato Slice, ... read more",239.0
+Non-Veg Burger,Chicken Cheese Burst Burger,0,0,"Greasy Chicken Flavoured, Filled With Cheese, Deep Fried And Dressed With Chipotle Mayo, ... read more",165.0
+Non-Veg Burger,Chicken Tikka Burger,0,0,Tandoori Flavoured Chicken Breast Fillet Grilled And Dressed With Tandoori Mayonnaise And Lettuce.,155.0
+Non-Veg Burger,Classic Chicken Burger,0,0,Minced Flavoured Chicken Patty Deep Fried And Dressed With Mayo And Lettuce.,139.0
+Non-Veg Burger,Db Grilled Chicken Burger,0,0,"2 Pieces Boneless Marinated Chicken Fillet Grilled, Dressed With Cheese , Lettuce ,Tandoori ... read more",255.0
+Non-Veg Burger,Gourmet Chicken Burger,0,0,,175.0
+Non-Veg Burger,Little Dia Burger,0,0,Breaded Chicken Strips Dreep Fryed And Dressed With Tandoori Mayonnise And Lettuce,89.0
+Non-Veg Burger,Me Chicken Burger,0,0,"Boneless Marinated Chicken Thigh Fillet Deep Fried , Dressed With Lettuce And Veg ... read more",179.0
+Non-Veg Burger,Super Twin Burger,0,0,"A Mix Of Chicken Fillet, Minced Chicken Patty Deep Fried, Dressed With Tomato ... read more",265.0
+Non-Veg Burger,Tandoori Chicken Burger,0,0,"Minced Chicken Seasoned With Tandoori Masala, Breaded With Bread Crumbs And Deep Fried, ... read more",149.0
+Non-Veg Burger,Thai Chilli Burger,0,0,,189.0
+Non-Veg Burger,Three Burger Combo + 2 Coke (250Ml),0,0,,549.0
+Me Deals,Me 1 ( Kiddy Veg Burger + F.Fries + Drink ),0,0,,139.0
+Me Deals,Me 10 ( Chicken Tikka Burger + C.Fries + Drink ),0,0,"Tandoori Flavoured Chicken Breast Fillet Grilled And Dressed With Tandoori Mayonnaise And Lettuce., ... read more",309.0
+Me Deals,Me 11 ( Chicken Cheese Burger + C.Fries + Drink ),0,0,"Greasy Chicken Flavoured, Filled With Cheese, Deep Fried And Dressed With Chipotle Mayonnaise ... read more",319.0
+Me Deals,Me 12 ( Me Fried Chicken Burger + C.Fries + Drink ),0,0,"Boneless Marinated Chicken Thigh Fillet Breaded And Deep Fried , Dressed With Lettuce ... read more",335.0
+Me Deals,Me 13 ( Db Grilled Chicken Burger + C.Fries + Drink ),0,0,"2 Pieces Boneless Marinated Chicken Fillet Grilled, Dressed With Cheese , Lettuce And ... read more",409.0
+Me Deals,Me 14 ( Super Twin Burger + C.Fries + Drink ),0,0,"A Mix Of Breaded Chicken Fillet And Minced Chicken Patty Deep Fried, ... read more",425.0
+Me Deals,Me 15 ( Gourmet Chicken Burger + C.Fries + Drink ),0,0,,329.0
+Me Deals,Me 16 ( Me Fried Chicken Burger + 1Pc Chicken + Drink ),0,0,,319.0
+Me Deals,Me 17 ( 2Pc Chicken + F.Fries + Drink + 2 Mayo ),0,0,,339.0
+Me Deals,Me 2 ( Classic Veg Burger + F.Fries + Drink ),0,0,Minced Flavoured Vegetable Patty Deep Fried And Dressed With Eggless Mayonnaise And Lettuce. ... read more,215.0
+Me Deals,Me 3 ( Corn N Spinach Burger + F. Fries + Drink ),0,0,Minced Spinach And Corn With Crunchy Flavoured With Herbs And Spices Breaded In ... read more,235.0
+Me Deals,Me 4 ( Mac N Cheese Burger + F.Fries + Drink ),0,0,"Cooked Macaroni Pasta Mixed With Cheddar Cheese, Breaded With Bread Crumbs And Deep ... read more",279.0
+Me Deals,Me 5 ( Paneer Cheese Burger + F.Fries + Drink ),0,0,Spread Of Cheese Placed In Between Layer Of Paneer Breaded With Bread Crumbs ... read more,305.0
+Me Deals,Me 6 ( Veg Super Twin Burger + F.Fries + Drink ),0,0,"A Mix Of Paneer Patty, Vegetable Patty Deep Fried, Dressed With Tomato Slice, ... read more",345.0
+Me Deals,Me 7 ( Little Dia Burger + C.Fries + Drink ),0,0,Breaded Chicken Strips Breaded And Dreep Fried And Dressed With Tandoori Mayonnise And ... read more,245.0
+Me Deals,Me 8 ( Classic Chicken Burger + C.Fries + Drink ),0,0,Minced Flavoured Chicken Patty Deep Fried And Dressed With Eggless Mayonnaise And Lettuce. ... read more,299.0
+Veg Pizza,Corn & Paneer Cheese Pizza,0,0,,345.0
+Veg Pizza,Garden Fresh Pizza,0,0,"Onion, Tomato, Capcicum & Black Olives",325.0
+Non-Veg Pizza,Chicken Fun Blast,0,0,,365.0
+Non-Veg Pizza,Desi Double Delight,0,0,,375.0
+Finger Food Veg,Cheese Corn Nuggets ( 6 Pcs ),0,0,Cheesy Crunchy Cheese & Corn Mix Breaded And Deep Fried.,115.0
+Finger Food Veg,French Fries - Large ( 100 Gms ),0,0,"A Cut Of Julienne Potatoes Deep Fried , Salted And Served With Tomato ... read more",115.0
+Finger Food Veg,French Fries - Regular ( 70 Gms ),0,0,"A Cut Of Julienne Potatoes Deep Fried , Salted And Served With Tomato ... read more",89.0
+Finger Food Veg,Paneer Fries ( 100 Gms ),0,0,"Minced Paneer Seasoned With Spices And Herbs Formed To Finger Shape, Breaded With ... read more",155.0
+Finger Food Veg,Peri Peri Fries ( 150 Gms ),0,0,A Cut Of Julienne Potatoes Deep Fried Seasoned With Fine Salt And Indian ... read more,129.0
+Finger Food Non-Veg,Chicken Cheese Cutlet ( 4 Pcs ),0,0,,135.0
+Finger Food Non-Veg,Chicken Fries - Large ( 15 Pcs ),0,0,"Chicken Version Of French Fries, (Mixer Of Flavoured Minced Chicken, Spices And Herbs, ... read more",179.0
+Finger Food Non-Veg,Chicken Fries - Regular ( 10 Pcs ),0,0,"Chicken Version Of French Fries, (Mixer Of Flavoured Minced Chicken, Spices And Herbs, ... read more",139.0
+Finger Food Non-Veg,Chicken Lollipop ( 4 Pcs ),0,0,Deboned Winglets Breaded And Deep Fried,175.0
+Finger Food Non-Veg,Chicken Nuggets ( 7 Pcs ),0,0,"Mixer Of Tandoori Flavoured Minced Chicken, Spices And Herbs, Formed To Small Cutlet ... read more",135.0
+Finger Food Non-Veg,Chicken Popcorn (100 Gms ),0,0,Seasoned Boneless Chunk Of Chicken Breaded Adn Deep Fried,149.0
+Finger Food Non-Veg,Chicken Spring Roll (4 Pcs ),0,0,"Mixer Of Minced Chicken, Flavoured Vegetables And Spices Wrapped With Thin Layer Of ... read more",149.0
+Finger Food Non-Veg,Chicken Strips ( 3 Pcs ),0,0,"Boneless Chicken Breast Strips Marinated With Spices, Breaded And Deep Fried.",165.0
+Finger Food Non-Veg,Me Wings ( 4 Pcs ),0,0,4 Winglets Breaded And Deep Fried,175.0
+Sea Finger Food,Prawn Poppers - Large,0,0,,299.0
+Sea Finger Food,Prawn Poppers - Reguler,0,0,,205.0
+Finger Food Bucket,Boneless Strips (10 Pcs),0,0,"Boneless Chicken Breast Strips Marinated With Spices, Breaded And Deep Fried. And ... read more",519.0
+Finger Food Bucket,Chicken Fries Bucket ( 400 Gms ),0,0,"Chicken Version Of French Fries, (Mixer Of Flavoured Minced Chicken, Spices And Herbs, ... read more",519.0
+Finger Food Bucket,Variety Chicken Bucket ( 12 Pcs ),0,0,"4Pcs Chicken Strips , 4 Pcs Lollypop , 4 Pcs Me Wings",519.0
+Steamed Momo,Cheesy Chicken Steamed Momo,0,0,Flavoured Dumplings Filled With Seasoned Minced Chicken & Cheese Stuffing And Steamed And ... read more,165.0
+Steamed Momo,Chicken Steamed Momo,0,0,A Flavoured Minced Chicken Stuffing Wrapped In Dough Served With Schezwan Sauce And ... read more,129.0
+Steamed Momo,Corn And Cheese Steamed Momo,0,0,"Flavoured Dumplings Filled With Seasoned Corn & Cheese Stuffing, Steamed And Served With ... read more",165.0
+Steamed Momo,Mixed Veg Steamed Momo,0,0,A Flavoured Minced Vegetables Stuffing Wrapped In Dough Served With Schezwan Sauce And ... read more,115.0
+Fried Momo,Cheesy Chicken Fried Momo,0,0,Flavoured Dumplings Filled With Seasoned Minced Chicken & Cheese Stuffing And Fried ... read more,169.0
+Fried Momo,Chicken Fried Momo,0,0,A Flavoured Minced Chicken Stuffing Wrapped In Dough Fried And Served With Schezwan ... read more,135.0
+Fried Momo,Corn And Cheese Fried Momo,0,0,"Flavoured Dumplings Filled With Seasoned Corn & Cheese Stuffing,Fried And Served With Schezwan ... read more",169.0
+Fried Momo,Mixed Veg Momo,0,0,A Flavoured Minced Vegetables Stuffing Wrapped In Dough Fried And Served With Schezwan ... read more,125.0
+Glazed Momo,Cheesy Chicken Glazed Momo,0,0,"Flavoured Dumplings Filled With Seasoned Minced Chicken & Cheese Stuffing Fried, Tossed With ... read more",175.0
+Glazed Momo,Chicken Glazed Momo,0,0,"Flavoured Dumplings Filled With Seasoned Minced Chicken Stuffing Fried, Tossed With Schezwan Glaze ... read more",139.0
+Glazed Momo,Corn And Cheese Glazed Momo,0,0,"Flavoured Dumplings Filled With Seasoned Corn & Cheese Stuffing, Fried, Tossed With Schezwan ... read more",175.0
+Glazed Momo,Mixed Veg Glazed Momo,0,0,"Flavoured Dumplings Filled With Seasoned Mixed Vegetable Stuffing Fried,Tossed With Schezwan Glaze ... read more",129.0
+Cheese Fries,Cheesy Chicken Fries,0,0,"A Chicken Version Of French Fries, Fried Just Right And Crispy Complemented With ... read more",189.0
+Cheese Fries,Cheesy French Fries,0,0,A Strip Of Potato Typically Fried And Seasoned With Salt And Spices And ... read more,149.0
+Fried Chicken - Classic,Chicken Bucket ( Classic ) - 8 Pcs,0,0,8Pc Mix Of Juicy Tender Chicken Marinated With Indan Spices Ofcourse Its Secret ... read more,855.0
+Fried Chicken - Classic,Fried Chicken ( Classic ) - 2 Pcs,0,0,2Pc Of Juicy Tender Chicken (Wing And Thigh Or Breast And Drumstick) Marinated ... read more,229.0
+Fried Chicken - Classic,Fried Chicken Bucket ( Classic ) 4 Pcs,0,0,4Pc Mix Of Juicy Tender Chicken Marinated With Indan Spices Ofcourse Its Secret ... read more,439.0
+Fried Chicken - Classic,Fried Chicken Drumstick ( Classic ) - 2 Pcs,0,0,2 Pc Of Juicy Tender Chicken Drumstick Marinated With Indan Spices Ofcourse Its ... read more,219.0
+Fried Chicken - Classic,Fried Chicken Drumstick ( Classic ) - 4 Pcs,0,0,4Pc Of Juicy Tender Chicken Drumstick Marinated With Indan Spices Ofcourse Its ... read more,429.0
+Fried Chicken - Classic,Fried Chicken Drumstick Bucket ( Classic ) - 6 Pcs,0,0,6Pc Of Juicy Tender Chicken Drumstick Marinated With Indan Spices Ofcourse Its Secret ... read more,649.0
+Fried Chicken - Indian Fiery,Chicken Bucket ( Indian Fiery ) - 8 Pcs,0,0,8Pc Mix Of Juicy Tender Chicken Marinated With Indan Spices Ofcourse Its Secret ... read more,895.0
+Fried Chicken - Indian Fiery,Drumstick Bucket ( Indian Fiery ) - 6 Pcs,0,0,6Pc Of Juicy Tender Chicken Drumstick Marinated With Indan Spices Ofcourse Its Secret ... read more,669.0
+Fried Chicken - Indian Fiery,Fried Chicken ( Indian Fiery ) - 2 Pcs,0,0,2Pc Of Juicy Tender Chicken (Drumstick And Breast Or Wing And Thigh) ... read more,239.0
+Fried Chicken - Indian Fiery,Fried Chicken Bucket ( Indian Fiery ) - 4 Pcs,0,0,4Pc Mix Of Juicy Tender Chicken Marinated With Indan Spices Ofcourse Its Secret ... read more,459.0
+Fried Chicken - Indian Fiery,Fried Chicken Drumstick ( Indian Fiery ) - 2 Pcs,0,0,2Pc Of Juicy Tender Chicken Drumstick Marinated With Indan Spices Ofcourse Its Secret ... read more,229.0
+Fried Chicken - Indian Fiery,Fried Chicken Drumstick ( Indian Fiery ) - 4 Pcs,0,0,4Pc Of Juicy Tender Chicken Drumstick Marinated With Indan Spices Ofcourse Its Secret ... read more,449.0
+Fried Chicken - Glazed,Chicken Bucket ( Peri-Peri Glazed ) - 8 Pcs,0,0,"Spicy And Juicy Chicken Marinated, Breaded And Deep Fried And Glazed With ... read more",935.0
+Fried Chicken - Glazed,Fried Chicken ( Peri-Peri Glazed ) - 2 Pcs,0,0,"Spicy And Juicy Chicken Marinated, Breaded And Deep Fried And Glazed With ... read more",249.0
+Fried Chicken - Glazed,Fried Chicken Bucket ( Peri-Peri Glazed ) 4 Pcs,0,0,"Spicy And Juicy Chicken Marinated, Breaded And Deep Fried And Glazed With ... read more",479.0
+Fried Chicken - Glazed,Fried Chicken Drumstick ( Peri-Peri Glazed ) - 2 Pcs,0,0,"Spicy And Juicy Chicken Marinated, Breaded And Deep Fried And Glazed With ... read more",239.0
+Fried Chicken - Glazed,Fried Chicken Drumstick ( Peri-Peri Glazed ) - 4 Pcs,0,0,"Spicy And Juicy Chicken Marinated, Breaded And Deep Fried And Glazed With ... read more",469.0
+Fried Chicken - Glazed,Fried Chicken Drumstick Bucket ( Peri-Peri Glazed ) - 6 Pcs,0,0,"Spicy And Juicy Chicken Marinated, Breaded And Deep Fried And Glazed With ... read more",689.0
+Grillicken Spicy Drumstick,Grillicken Spicy Drumstick 12 Pcs,0,0,"Tender And Juicy Chicken Drumstick Marinated With South Indian Authentic Spices And Baked, ... read more",1285.0
+Grillicken Spicy Drumstick,Grillicken Spicy Drumstick 2 Pcs,0,0,"Tender And Juicy Chicken Drumstick Marinated With South Indian Authentic Spices And Baked, ... read more",235.0
+Grillicken Spicy Drumstick,Grillicken Spicy Drumstick 4 Pcs,0,0,"Tender And Juicy Chicken Drumstick Marinated With South Indian Authentic Spices And Baked, ... read more",455.0
+Grillicken Spicy Drumstick,Grillicken Spicy Drumstick 8 Pcs,0,0,"Tender And Juicy Chicken Drumstick Marinated With South Indian Authentic Spices And Baked, ... read more",885.0
+Grillicken Flamy Wings,Grillicken Flamy Wings 12 Pcs,0,0,"Tender And Juicy Chicken Winglets Marinated With South Indian Authentic Spices And Baked, ... read more",735.0
+Grillicken Flamy Wings,Grillicken Flamy Wings 4 Pcs,0,0,"Tender And Juicy Chicken Winglets Marinated With South Indian Authentic Spices And Baked, ... read more",165.0
+Grillicken Flamy Wings,Grillicken Flamy Wings 8 Pcs,0,0,"Tender And Juicy Chicken Winglets Marinated With South Indian Authentic Spices And Baked, ... read more",455.0
+Biryani,Chunky Chicken Biryani ( 300 Gms ) + 1 Pc Fried Chicken + Raita,0,0,"Seasoned And Aromatic Basmathi Rice Cooked With Boneless Chicken Chunks, And Served With ... read more",255.0
+Biryani,Chunky Chicken Biryani ( 300 Gms ) + 1 Pc Grillicken Drumstick + Raita,0,0,"Seasoned And Aromatic Basmathi Rice Cooked With Boneless Chicken Chunks, And Served With ... read more",259.0
+Biryani,Chunky Chicken Biryani ( 500 Gms ) + 1 Pc Fried Chicken + Raita,0,0,"Seasoned And Aromatic Basmathi Rice Cooked With Boneless Chicken Chunks, And Served With ... read more",295.0
+Biryani,Chunky Chicken Biryani ( 500 Gms ) + 1 Pc Grillicken Drumstick + Raita,0,0,"Seasoned And Aromatic Basmathi Rice Cooked With Boneless Chicken Chunks, And Served With ... read more",299.0
+Biryani,Chunky Chicken Biryani ( 500 Gms ) + Chicken Poppers (R) + Raita,0,0,"Seasoned And Aromatic Basmathi Rice Cooked With Boneless Chicken Chunks, And Served With ... read more",319.0
+Biryani,Chunky Chicken Biryani (300 Gms) + Chicken Poppers (R) + Raita,0,0,"Seasoned And Aromatic Basmathi Rice Cooked With Boneless Chicken Chunks, And Served With ... read more",265.0
+Wraps,Crispy Chicken Wrap,0,0,"A Combination Of Indian Spices Crispy Chicken With Tandoori Flavour , Shredded Lettuce ... read more",169.0
+Wraps,Crispy Paneer Wrap,0,0,"A Combination Of Cripsy Paneer Topped With Mexican Salsa , Tandoori Mayo, Lettuce ... read more",165.0
+Wraps,Mexican Chicken Wrap,0,0,"A Combination Of Indian Spices Mexican Sauced Chicken Topped With Shredded Lettuce , ... read more",155.0
+Wraps,Super Veggie Wrap,0,0,"A Mix Of Falafel Topped With Tandoori Flavour Sauce , Lettuce , Onion ... read more",109.0
+Sandwich,Crispy Chicken Sandwich ( Spicy ),0,0,"A Mix Of Tomato, Onion, And Capsicum Topped With Cruncy Chicken Strips, Cheese, ... read more",169.0
+Sandwich,Crispy Paneer Sandwich,0,0,"A Mix Of Tomato, Onion, And Capsicum Topped With Cruncy Paneer Bites, Cheese, ... read more",165.0
+Sandwich,Grilled Veg & Cheese Sandwich,0,0,"A Mix Of Tomato, Onion, And Capsicum Topped With Cheese, Mayonnaise, Stuffed On ... read more",105.0
+Sandwich,Tandoori Chicken Sandwich,0,0,"A Mix Of Tomato, Onion, And Capsicum Topped With Seasoned And Baked Chicken ... read more",169.0
+Desserts,Brownie With Ice Cream,0,0,"Fluffy Chocolate Brownie Topped With Crushed Cashews And Vanilla Ice Cream, Dressed With ... read more",155.0
+Desserts,Hot Choco Lava Cake,0,0,Fluffy Cake Filled With Luscious Molten Lava Chocolate.,109.0
+Desserts,Ice Cream ( 1 Scoop ),0,0,,45.0
+Frappe,Chocolate Frappe,0,0,"A Rich Creamy Frappe Powder Blended With Milk, Chocolate Syrup And Ice Cubes.",115.0
+Frappe,Cold Coffee,0,0,"A Rich Creamy Frappe Powder Blended With Milk, Coffee And Ice Cubes.",125.0
+Frappe,Oreo Cookie Frappe,0,0,"A Rich Creamy Frappe Powder Blended With Milk, Oreo Cookie And Ice Cubes.",155.0
+Frappe,Strawberry Frappe,0,0,"A Rich Creamy Frappe Powder Blended With Milk, Strawberry Syrup And Ice Cubes.",109.0
+Frappe,Vanilla Frappe,0,0,"A Rich Creamy Vanilla Frappe Powder Blended With Milk, Vanilla Syrup And Ice ... read more",109.0
+Mojito,Blue Curacao,0,0,A Refreshing Drink Made With Lemon Wedges And Fresh Mint Leaves And Combined ... read more,105.0
+Mojito,Chilli Guava Mojito,0,0,A Refreshing Drink Made With Lemon Wedges And Fresh Mint Leaves And Combined ... read more,105.0
+Mojito,Green Apple Mojito,0,0,A Refreshing Drink Made With Lemon Wedges And Fresh Mint Leaves And Combined ... read more,105.0
+Mojito,Mint Mojito,0,0,A Refreshing Classical Drink Made With Lemon Wedges And Fresh Mint Leaves And ... read more,105.0
+Drink,Ice Lemon Tea,0,0,Sweet Pleasure To Enjoy In Every Sip,59.0
+Add Ons,Chicken Fries (R) + Soft Drink,0,0,,165.0
+Add Ons,French Fries (R)+ Soft Drink,0,0,,105.0
+Side Orders,Cheese,0,0,,19.0
+Side Orders,Mayonnaise Sachet (2Pcs),0,0,,10.0

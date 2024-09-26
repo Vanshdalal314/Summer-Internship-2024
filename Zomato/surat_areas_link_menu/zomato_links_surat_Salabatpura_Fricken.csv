@@ -1,0 +1,53 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burger,Garlic Chicken Burger,0,0,Crispy fried chicken with garlic sauce,150.0
+Burger,Veg Tandoori Burger,1,0,,100.0
+Burger,Paneer Peri Peri Burger,1,0,,140.0
+Burger,Paneer Mexican Burger,1,0,,200.0
+Burger,Honey Mustard Chicken Burger,0,0,Honey mustard flavoured fried chicken burger for those who love sweet and tangy ... read more,230.0
+Burger,Supreme Zinger Chicken Burger,0,0,"Premium zinger with crunchy zinger fillet,cheese,lettuce,sauce in sesame bun !",230.0
+Burger,Peri Peri Chicken Burger,0,0,,240.0
+Burger,Mexican Chicken Burger,0,0,Fried chicken burger with mexican sauce and juicy vegetables,260.0
+Burger,Fish Fillet Burger,0,0,A Basa Fish Filet Breaded And Fried To Perfection Served With Your Choice ... read more,280.0
+Burger,Classic Chicken Burger,0,0,,190.0
+Burger,Veg Classic Burger,1,0,,90.0
+Pizza,Veg Delight Pizza,1,0,(Medium 7'),230.0
+Pizza,Paneer Tandoori Pizza,1,0,(Medium 7'),260.0
+Pizza,Paneer Mexican Pizza,1,0,(Medium 7'),280.0
+Pizza,Chicken Tandoori Pizza,0,0,(Medium 7'),240.0
+Pizza,Afghani Olive Chicken Pizza,0,0,(Medium 7'),270.0
+Pizza,Peri Peri Chicken Pizza,0,0,(Medium 7'),280.0
+Pizza,Popcorn Chicken Pizza,0,0,(Medium 7') Crunchy popcorn chicken pizza with mozzarella cheese,280.0
+Pizza,Butter Chicken Pizza,0,0,(Medium 7'),280.0
+Pizza,Garden Mint Chicken Pizza,0,0,(Medium 7'),310.0
+Pizza,Alfredo Creamy Chicken Pizza,0,0,"Want something cheesy and creamy? Try this Rich,creamy and cheesy chicken pizza Experience ... read more",350.0
+Pizza,Prawns Pizza,0,0,,350.0
+Pizza,Cheese Corn Pizza,1,0,Sweet & Juicy Golden Corn With Mozzarella Cheese.,200.0
+Pizza,Margherita Pizza,1,0,,200.0
+Fried Chicken,Chicken Lolipop,0,0,Spicy peri peri flavoured fried chicken lollipop,260.0
+Fried Chicken,Chicken Nuggets,0,0,,260.0
+Fried Chicken,Prawns Popcorn,0,0,King size crispy prawns for sea food lovers,310.0
+Fried Chicken,Chicken Popcorn,0,0,"Signature bite-sized boneless chicken, with special spices",170.0
+Fried Chicken,Fish Popcorn,0,0,Fish popcorn for fish lovers,210.0
+Fried Chicken,Chicken Strip,0,0,,260.0
+Fried Chicken,Double Down Burger,0,0,,500.0
+Fried Chicken,Frizza,0,0,,300.0
+Wrap,Cheesy Chicken Wrap,0,0,With this cheesy full of white chicken loaded wrap,280.0
+Wrap,Paneer Tandoori Wrap,1,0,"Unique flavours that are truly one of a kind.paneer, topped with nutritious veggies ... read more",330.0
+Wrap,Mexican Chicken Wrap,0,0,Fried chicken wrap with mexican sauce and juicy vegetables,380.0
+Wrap,Tandoori Chicken Wrap,0,0,Get an explosion of yumminess! Double portion of sliced tandoori chicken combined with ... read more,300.0
+Wrap,Veg Exotic Wrap,1,0,Juicy flavours that are truly one of a kind. Double portion of crispy ... read more,270.0
+Wrap,Zinger Chicken Wrap,0,0,Get double the goodness. Double portion of fried chicken chicken strips along with ... read more,340.0
+French Fries,Cheesy Fries,1,0,French fries with cheese creamy sauce,170.0
+French Fries,Chicken Dynamite French Fries,0,0,,280.0
+French Fries,Peri Peri Fries,1,0,,130.0
+French Fries,Salted Fries,1,0,"French fries, crispy golden, fried to perfection and lightly salted. Also known as ... read more",120.0
+Waffle,Hazel Nut Waffle,1,0,,150.0
+Waffle,Red Velvet Waffle,1,0,,150.0
+Waffle,Kitkat Waffle,1,0,,210.0
+Waffle,Nuttela Waffle,1,0,,210.0
+Waffle,Crunchy Almond Butter Waffle,1,0,,150.0
+Waffle,Crunchy Cookies Blue Ocean Waffle,1,0,,150.0
+Waffle,Chocolate Waffle,1,0,,170.0
+Waffle,Crunchy Almond Chocolate Waffle,1,0,,150.0
+Waffle,Dark Chocolate Waffle,1,0,,170.0
+Waffle,Triple Chocolate Waffle,1,0,,210.0

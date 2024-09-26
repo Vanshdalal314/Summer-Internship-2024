@@ -1,0 +1,4 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Deluxe Punjabi Thali,1,0,Paneer Masala+Chana Masala+3 Butter Roti+Dal Fry+Plain Rice+Gulab Jamun [1 Piece]+Salad+Pickle [Salad-Subject to Availability],390.0
+Thali,Maharaja thali,1,0,2sabji 4 roti dal rice salad Achar makwas gulab jamun dahi,390.0
+Thali,Gujrati Thali,1,0,Green Sabji+Aloo Tamatar+3 Butter Roti+Gujarati Dal+Plain Rice+Gulab Jamun [1 Piece]+Salad+Pickle [Salad-Subject to availability],390.0

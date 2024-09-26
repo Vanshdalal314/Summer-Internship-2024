@@ -1,0 +1,39 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Momos,Veg Fried Momos [8 Pieces],1,0,Veg fried momos.,109.0
+Momos,Veg Paneer Fried Momos [8 Pieces],1,0,Veg paneer fried momos.,119.0
+Momos,Paneer Onion Fried Momos [8 Pieces],1,0,"Steaming hot and fresh, paneer onion fried momos.",129.0
+Momos,Mushroom Chilli Fried Momos [8 Pieces],1,0,,139.0
+Momos,Veg Cheese Fried Momos [8 Pieces],1,0,,139.0
+Momos,Corn Chilli Cheese Fried Momos [8 Pieces],1,0,,149.0
+Momos,Paneer Cheese Fried Momos [8 Pieces],1,0,,179.0
+Momos,Veg Jhol Momos [8 Pieces],1,0,"Momos with spicy, sour and tangy gravy.",149.0
+Momos,Veg Paneer Jhol Momos [8 Pieces],1,0,"Paneer momos with, spicy, sour and tangy gravy.",159.0
+Momos,Veg Cheese Jhol Momos [8 Pieces],1,0,"Veg cheese momos with, spicy, sour and tangy gravy.",169.0
+Momos,Mushroom Chilly Jhol Momos [8 Pieces],1,0,"Mushroom momos with, spicy, sour and tangy gravy.",169.0
+Momos,Kurkure Special Cheese Momos [7 Pieces],1,0,,199.0
+Momos,Veg Kurkure Momos [7 Pieces],1,0,,149.0
+Momos,Veg Paneer Kurkure Momos [7 Pieces],1,0,,169.0
+Momos,Paneer Onion Kurkure Momos [7 Pieces],1,0,,159.0
+Momos,Veg Cheese Salty Momos [8 Pieces],1,0,,209.0
+Momos,Veg Paneer Cheese Salty Momos [8 Pieces],1,0,,229.0
+Momos,Mushroom Chilly Cheese Salty Momos [8 Pieces],1,0,,239.0
+Momos,Veg Cheese Baked Momos [8 Pieces],1,0,,169.0
+Momos,Cheese Gravy Momos [8 Pieces],1,0,,199.0
+Momos,Corn Chilly Cheese Baked Momos [8 Pieces],1,0,,199.0
+Momos,Mushroom Chilly Baked Momos [8 Pieces],1,0,,199.0
+Momos,Veg Paneer Baked Momos [8 Pieces],1,0,,179.0
+Momos,Veg Steamed Momos [8 Pieces],1,0,,99.0
+Momos,Mushroom Chilli Steamed Momos [8 Pieces],1,0,Spicy.,129.0
+Momos,Veg Paneer Steamed Momos [8 Pieces],1,0,,109.0
+Momos,Paneer Onion Steamed Momos [8 Pieces],1,0,,119.0
+Momos,Paneer Cheese Steamed Momos [8 Pieces],1,0,,169.0
+Momos,Veg Cheese Steamed Momos [8 Pieces],1,0,,129.0
+Momos,Corn Chilli Cheese Steamed Momos [8 Pieces],1,0,Spicy.,139.0
+Momos,Mixed Plate Steamed Momos [8 Pieces],0,0,,169.0
+Momos,Veg Cheese Sauce Momos [8 Pieces],1,0,,149.0
+Momos,Veg paneer cheesy sauce momos,1,0,,169.0
+Momos,Corn Chilly Cheese Sauce Momos [8 Pieces],1,0,,179.0
+Momos,Mushroom Chilly Cheese Sauce Momos [8 Pieces],1,0,,179.0
+Momos,Veg Chilly Momos [8 Pieces],1,0,,179.0
+Momos,Veg Paneer Chilly Momos [8 Pieces],1,0,,189.0
+Momos,Veg Cheese Chilly Momos [8 Pieces],1,0,,199.0

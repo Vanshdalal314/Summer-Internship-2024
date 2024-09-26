@@ -1,0 +1,93 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Hot Soup,Our Signature Khow Suey Soup (230 ml),1,0,"Chiang mai special coconut curry soup served with an assortments of noodles, fried ... read more",390.0
+Hot Soup,Veg Manchow Soup (230 ml),1,0,Traditional street style soup for the spice lovers!,245.0
+Hot Soup,Sweet Corn Soup (230 ml),1,0,Smooth delicious soup with sweet corn cream topped with chopped vegetables.,300.0
+Hot Soup,Broccoli Almond Soup (230 ml) [Jain],1,0,Broccoli soup cooked with fresh herbs and almonds.,350.0
+Hot Soup,Rustic Tomato Soup (230 ml),1,0,"Roasted tomato, smoked paprika with basil & parmesan.",300.0
+Hot Soup,Hot & Sour Soup (230 ml),1,0,"Savoury, mildly spicy and tangy & delicious soup with vegetables.",300.0
+Healthy & Earthy Salad,Green Salad (150 gms),1,0,"Classic Indian salad with sliced, onions, carrots, tomato, beetroot & cucumbers.",250.0
+Healthy & Earthy Salad,Roasted Caesar Salad (150 gms),1,0,"Oven roasted thyme scented Roman tomatoes- roasted bell peppers, black olives, creamy caesar ... read more",400.0
+Healthy & Earthy Salad,Grilled Vegetable Salad (150 gms),1,0,"Featuring grilled french beans, broccoli, carrot, green peas, bell pepper to perfection in ... read more",400.0
+Sides,Roasted Papad (1 pc),1,0,,75.0
+Sides,Fried Papad (1 pc),1,0,,80.0
+Sides,Raita of your choice (150 ml),1,0,Mix veg or Boondi,175.0
+Sides,Decoration(1),1,0,,3000.0
+Indian Starters,Smoked Vegetable Galouti Kebab (6 pcs),1,0,Smokey flavoured crispy vegetable patties served with mint chutney.,470.0
+Indian Starters,Makhmali Paneer Tikka (6 pcs),1,0,"Pieces of paneer stuffed & marinated in onion, chopped green chilli, cilantro, spices ... read more",470.0
+Indian Starters,Classic Paneer Tikka (6 pcs),1,0,"Soft & juicy paneer, smoked capsicum, tomatoes & onion marinated in hung curd, ... read more",470.0
+Indian Starters,Our Signature Peri-Peri Paneer Tikka (6 pcs),1,0,"Stuffed cottage cheese, fresh tomato, bell pepper, marinated with spicy peri - peri ... read more",470.0
+Indian Starters,Pavilion s Italiano Seekh Kebab (6 pcs),1,0,"Seekh Kebab made of olives, jalapeno, oregano, mozzarella cheese and spinach served with ... read more",480.0
+Indian Starters,Moti Hara Bhara Kebab (6 pcs),1,0,"A chef’s special crispy kebab made of spinach, cottage cheese, herbs & stuffed ... read more",450.0
+Indian Starters,Pavilion s Pesto Paneer Tikka (6 pcs),1,0,Chunky soft paneer marinated in flavourful pesto sauce & baked on tandoor.,470.0
+Indian Starters,Mulayam Mushroom Kebab (6 pcs),1,0,Melt in mouth kebab prepared using finely minced mushroom & a mix of ... read more,450.0
+Chinese Starter,Pavilion s Paneer Chilly (325 gms),1,0,Indo – Chinese chilli paneer stir fried with capsicum & onion.,420.0
+Chinese Starter,Veg Manchurian Dry (325 gms),1,0,"Vegetable dumplings in the classic Indo-Chinese coriander, spring onion & soy sauce.",380.0
+Chinese Starter,Our Signature Corn Salt & Pepper (325 gms),1,0,"Tender corn kernels dusted with salt, pepper & flour, deep-fried & tossed with ... read more",350.0
+Chinese Starter,Crispy Vegetables (325 gms),1,0,Fresh seasonal vegetables cooked in choice of your sauces.,450.0
+Chinese Starter,Vegetable Spring Roll (6 pcs),1,0,"A savory snack filled with vegetables (cabbage, spring onions, carrots), rolled & fried.",295.0
+Italian & Mexican Starter,Italian Bruschetta (6 pcs),1,0,"Oven baked French loaf with topping of olives, tomato, bell pepper, cheese & ... read more",295.0
+Italian & Mexican Starter,Kadai Paneer Quesadilla (6 pcs),1,0,"Grilled corn tortilla bread stuffed with melted cheese, cottage cheese, onion and bell ... read more",470.0
+Italian & Mexican Starter,Tex Mex Quesadilla (6 pcs),1,0,"Tortillas stuffed with black beans, bell pepper, jalapeños, olives & onions served with ... read more",470.0
+Italian & Mexican Starter,Garlic Bread (6 pcs),1,0,Home-made bread topped with Garlic.,300.0
+Italian & Mexican Starter,Load�Loading� Baked Loaded Nachos,1,0,,385.0
+Italian & Mexican Starter,Mexicano Taco's (6 pcs),1,0,Old fashioned chilli cottage cheese with pepper scallion served on soft tacos shell.,450.0
+Italian & Mexican Starter,Corn Cheese Ball (6 pcs),1,0,"American corn and cheese coated with bread crumbs and deep fried, served with ... read more",350.0
+Indian Main Course,Our Signature Palak Paneer (350 gms),1,0,Lush creamy spinach surrounded by small chunks of paneer.,500.0
+Indian Main Course,Rajwada Style Vegetable Kadai Sabzi (350 gms),1,0,"Green peas, carrot, french beans cooked in whole spices.",480.0
+Indian Main Course,Pavilion s Kaju Curry (350 gms),1,0,Kaju in your favourite gravy red/white/brown.,530.0
+Indian Main Course,Sabzi Kolhapuri (350 gms),1,0,Vegetables cooked in a spicy red gravy along with Indian aromatics.,480.0
+Indian Main Course,Navratan Korma (350 gms),1,0,"Blend of fresh garden vegetables, nuts and raisins finished in an aromatic creamy ... read more",490.0
+Indian Main Course,Peshawari Kofta (350 gms),1,0,Cashew coated vegetable dumplings served in a rich almond and brown based curry.,460.0
+Indian Main Course,Pavilion s Veg Gul Chow Kheema (350 gms),1,0,Mixed veggies chopped in centre and surrounded by cashew nut & onion gravy ... read more,455.0
+Indian Main Course,Delhi Style Paneer Lababdar (350 gms),1,0,A luscious combination of cottage cheese & exotic gravy made from Indian spices.,500.0
+Indian Main Course,Paneer Makhni (350 gms),1,0,Roasted pieces of paneer cooked in creamy tomato sauce.,500.0
+Indian Main Course,Paneer Tikka Masala (350 gms),1,0,Tandoori paneer tikka's simmered in a rich tomato and onion gravy touched with ... read more,500.0
+Indian Main Course,Our Signature Nilgiri Makhana Curry (350 gms),1,0,"Makhana, fresh garden vegetables cooked in onion and tomato gravy.",520.0
+Indian Main Course,Chef's Special Paneer Khurchan (350 gms),1,0,"Chunks of paneer tossed with red, yellow pepper & onion, tomato gravy.",500.0
+Indian Main Course,Exotic Vegetable Jalfrezi (350 gms),1,0,"Indian style stir-fried zucchini, carrots, French beans, peas & broccoli in red gravy.",470.0
+Indian Breads,Tandoori Butter Roti (1 pc),1,0,,90.0
+Indian Breads,Tandoori Roti (1pc),1,0,,85.0
+Indian Breads,Naan,1,0,,85.0
+Indian Breads,Kulcha,1,0,,90.0
+Indian Breads,Laccha Paratha (1 pc),1,0,,95.0
+Indian Breads,Aloo Paratha,1,0,,140.0
+Indian Breads,Makki Di Roti (1 pc),1,0,,105.0
+Indian Breads,Garlic Naan,1,0,,105.0
+Indian Breads,Butter Naan,1,0,,90.0
+Indian Breads,Phulka Roti (2 pcs),1,0,,60.0
+Dal,Dal Bukhara (335 gms),1,0,"Black lentils cooked overnight on slow fire flavoured with white butter, cream and ... read more",400.0
+Dal,Chef's Special Dal Makhni (335 gms),1,0,Creamy & delicious dal cooked with Indian aromatics.,400.0
+Dal,Dal Tadka (335 gms),1,0,"Lentils tempered with a sprinkling of green chillies, curry leaves, coriander, garlic and ... read more",400.0
+"Rice, Biryani & Khichdi",Steamed Rice (375 gms),1,0,,320.0
+"Rice, Biryani & Khichdi",Jeera Rice (375 gms),1,0,,340.0
+"Rice, Biryani & Khichdi",Chef's Special Dal Khichdi (425 gms),1,0,"Dal fry mixed with long grain steamed rice, finished with desi ghee.",470.0
+"Rice, Biryani & Khichdi",Masaledar Vegetable Khichdi (425 gms),1,0,Dal khichdi with lots of veggies.,445.0
+"Rice, Biryani & Khichdi",Lasuni Palak Khichdi (425 gms),1,0,Rice and lentils cooked together with spinach and spices.,395.0
+"Rice, Biryani & Khichdi",Lucknowi Biryani (525 gms),1,0,"Garden fresh veggies, cottage cheese, soya chunk and basmati rice, delicately flavoured with ... read more",525.0
+"Rice, Biryani & Khichdi",Signature Afghani Tikka Biryani (525 gms),1,0,Smooth and smoky flavoured Afghani cottage cheese tikka cooked in rich gravy on ... read more,525.0
+"Rice, Biryani & Khichdi",Hyderabadi Biryani (525 gms),1,0,Assorted vegetables cooked under pressure with long grain rice in an authentic Hyderabadi ... read more,525.0
+Chinese Main Course,Stir Fried Vegetables (325 gms),1,0,An assortment of exotic vegetables stir-fried in choice of sauce.,450.0
+Chinese Main Course,Asian-Green Noodles,1,0,,470.0
+Chinese Main Course,Chilli Garlic Pan Tossed Noodles (350 gms),1,0,Oriental wok tossed noodles with exotic vegetables in choice of sauce.,470.0
+Chinese Main Course,Creamy Thai Curry (350 gms),1,0,Fresh exotic vegetables simmered in traditional Thailand's famous curry served with steamed rice.,550.0
+Chinese Main Course,Veg Hakka Noodles (350 gms),1,0,,470.0
+Chinese Main Course,Vegetable Fried Rice (350 gms),1,0,Cantonese style fried rice with veggies in soya chilli sauce.,450.0
+Chinese Main Course,Burnt Garlic Rice (350 gms),1,0,Rice tossed in burnt garlic and spinach.,450.0
+Chinese Main Course,Veg Manchurian Gravy (350 ml),1,0,Crispy fried vegetable balls in a manchurian gravy.,400.0
+Chinese Main Course,Hot Garlic Gravy (350 ml),1,0,"A delicious gravy made with lots of ginger, garlic & Indo-Chinese aromatics.",400.0
+Chinese Main Course,Schezuan Gravy (350 ml),1,0,"Delicious gravy made with garlic, red chillies & Chinese aromatics.",400.0
+Chinese Main Course,Hunan Chilli Gravy (350 ml),1,0,"A hot, sour, and salty flavour burst with Indo-Chinese aromatics",400.0
+Italian Main Course,Alfredo Penne Pasta (400 gms),1,0,"Combination of fresh mushroom, parmesan cheese & béchamel sauce.",540.0
+Italian Main Course,Penne Arabiatta (400 gms),1,0,Red chilli peppers cooked in extra virgin olive oil topped with fresh basil ... read more,550.0
+Italian Main Course,Pasta Al-Fungi (400 gms),1,0,Penne Pasta with mushrooms & cream.,550.0
+Italian Main Course,Pavilion s Spaghetti Aglio Olio (400 gms),1,0,Fiery blend of garlic and spicy chilli flakes with extra virgin olive oil.,500.0
+Italian Main Course,Leonardo s Signature Ravioli Spinach & Ricotta (400 gms),1,0,"Chef’s secret recipe of handcrafted pasta stuffed with spinach & ricotta, pan sautéed ... read more",560.0
+Wood Fired Pizza,"Exotic Oven Roasted Pizza 12""",1,0,Zucchini | Onion | Bell Pepper | Jalapeno | Mozzarella Cheese | Olives ... read more,690.0
+Wood Fired Pizza,"Signature Margherita Pizza 12""",1,0,Basil | Mozzarella | Tomato | Pomodoro Sauce,600.0
+Wood Fired Pizza,"Half Ticket To Italy 12""",1,0,Garlic Paneer | Sichuan Fried Pepper |Fried Onion |Chilli Mayo.,690.0
+Wood Fired Pizza,"Pavilion's Signature - The Big Chefs 12""",1,0,Garlic Paneer | Sichuan Fried Pepper | Fried Onion | Chilli Mayo.,750.0
+Wood Fired Pizza,"Quattro Formaggi 12""",1,0,Mozzarella | Cheddar | Feta | Parmesan.,750.0
+Sushi Surprise,Tempura Asparagus Uramaki (6 pcs),1,0,Japanese batter fried asparagus | avocado | spicy plum mayonnaise | tempura caviar ... read more,675.0
+Sushi Surprise,Crunchy Tofu Hosomaki (6 pcs),1,0,Tempura TOFU-DAIKON - tempered carrot - spicy plum mayonnaise.,675.0
+Sushi Surprise,Avocado Uramaki (6 pcs),1,0,Avocado | spicy plum mayonnaise | teriyaki glaze | crispy beetroot tuile,675.0
+Desserts,Gooey Chocolate Brownie,1,0,Served with chocolate sauce.,350.0

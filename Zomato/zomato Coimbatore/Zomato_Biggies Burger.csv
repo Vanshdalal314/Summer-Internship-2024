@@ -1,0 +1,76 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Party Combo,Non Veg Party Pack,0,0,2 Krunchy Chicken Burger + 2 Fries (S) + 2 Lime n Mint ... read more,499.0
+Party Combo,Veg Party Pack,0,0,2 Veg Peri Peri Burger + 2 Fries (S) + 2 Lime n ... read more,399.0
+Party Combo,Non Veg Delight Meal,0,0,Afghani Chicken Burger + Whole Meat Wrap + 2 Fries (S) + 2 ... read more,599.0
+Party Combo,Bigg Veg Meal,0,0,Bigg Club Veg Burger + Bigg Club Veg Wrap + 2 Fries (S) ... read more,489.0
+Party Combo,American Cheese Chicken Meal Box,0,0,"A Biggies Classic With American Cheese Chicken Burger, Peri Peri Hashbrown Strips, Choco ... read more",439.0
+Party Combo,Krunchy Chicken Meal Box,0,0,"A Great Value Meal With Krunchy Chicken Mayo Burger, Peri Peri Hashbrown Strips ... read more",369.0
+Party Combo,Peri Peri Paneer Meal Box,0,0,"Our Signature Peri Peri Paneer Burger Along With Peri Peri Hashbrown Strips, Choco ... read more",429.0
+Party Combo,Potato Krunch Meal Box,0,0,"A Box With All Your Biggies Favourite : Potato Krunch Burger, Peri Peri ... read more",339.0
+Biggies Deals,Non Veg Duo Combo,0,0,2 Krunchy Chicken Burger + 2 Pepsi (250ml),269.0
+Biggies Deals,Veg Duo Combo,0,0,2 Veg Punjabi Makhani Burger + 2 Pepsi (250ml),249.0
+Biggies Deals,2 X Aloo Tikki Burger,0,0,Twin Aloo Tikki Burger. [Energy- 582.88 kcal],159.0
+Biggies Deals,2 X Anda Burger,0,0,Twin Egg Twisted Burger. [Energy- 1040.7 kcal],198.0
+Biggies Deals,Fries (R) + Fries (R),0,0,2 x Crinkle Fries (R),169.0
+Biggies Deals,Krunchy Chicken Burgers Combo,0,0,Krunchy Chicken Tandoori Burger + Krunchy Chicken Peri Peri Burger,249.0
+Biggies Deals,2 X Tandoori Krunchy Chicken Burger,0,0,2 Krunchy Chicken Burger,219.0
+Biggies Deals,Classic Veg Burgers Combo,0,0,Veg Punjabi Makhani Burger + Aloo Tikki Burger,159.0
+Biggies Deals,2 X Veg Tandoori Burger,0,0,Twin Veg Peri Peri Burger,159.0
+Biggies Deals,Bigg Club Veg Burger + Lime N Mint Mojito,0,0,Bigg Club Veg Burger + Lime n Mint Mojito [Energy-728.9 kcal],259.0
+Biggies Deals,Egg Twisted Burger + Fries (S) + Pepsi,0,0,Egg Twisted Burger + Crinkle Fries (s) + Pepsi [Energy- 1024.9 kcal],179.0
+Biggies Deals,Krispy Chicken Burger + 3 Pcs Nuggets,0,0,Krispy Chicken Burger + 3 Pcs Nuggets [Energy- 832.29 kcal],209.0
+Biggies Deals,Krispy Chicken Burger + Lime N Mint Mojito,0,0,Krispy Chicken Burger + Lime n Mint Mojito [Energy- 733.48 kcal],229.0
+Biggies Deals,Whole Meat Chicken Wrap + Lime N Mint Mojito,0,0,Whole Meat Chicken Wrap + Lime n Mint Mojito,329.0
+Non Veg Burgers,Chicken Beamer Burger,0,0,"Juicy And Wholesome Chicken Beamer With Pickles, Seasoned To Perfection Served On A ... read more",189.0
+Non Veg Burgers,Legendary Beamer Burger,0,0,Our Epic Meaty And Juicy Double Chicken Patty Enrobed With Flavourful Schezwan Sauce ... read more,279.0
+Non Veg Burgers,Chicken Cheese Fillet Burger,0,0,"An Epic Combination Of Cheese Patty & Chicken Patty, Onion, Lettuce, Spiced With ... read more",289.0
+Non Veg Burgers,Crispy Double Chicken Burger,0,0,Crispy Double Decker Chicken Patties Topped With Lettuce & Onions Seasoned To Perfection ... read more,189.0
+Non Veg Burgers,Krunch Beam Chicken Burger,0,0,Fried Chicken Patty & Baked Beamer Patty Flavoured With Tandoori Mayo Topped With ... read more,249.0
+Non Veg Burgers,The Original Chicken Burger,0,0,"Authentic Double Grilled Chicken Patties Topped With Cheese, Caramelized Onions And BBQ Sauce ... read more",299.0
+Non Veg Burgers,The Spicy Original Chicken Burger,0,0,Juicy Grilled Double Chicken Patties Topped With Cheese Red Onions And Schezwan Sauce ... read more,309.0
+Non Veg Burgers,Afghani Chicken Burger,0,0,"Pan Seared Grilled Chicken Patty With Lettuce, Onions And Tandoori Mayo Served On ... read more",198.0
+Non Veg Burgers,American Cheese Chicken Burger,0,0,Cheesy Chicken Burger With Caramelized Onions And Smokey BBQ Sauce Served On A ... read more,219.0
+Non Veg Burgers,Peri Peri Chicken Fillet Burger,0,0,"Perfectly Grilled Chicken Fillets Atop Iceberg Lettuce, Red Onions, Gherkins With Peri Peri ... read more",249.0
+Non Veg Burgers,Smoked BBQ Chicken Burger,0,0,A Warm Burger Bun Stuffed With Grilled Mince Chicken Patty Drooled With Smokey ... read more,198.0
+Non Veg Burgers,Tandoori Chicken Fillet Burger,0,0,"Perfectly Grilled Chicken Fillets Atop Iceberg Lettuce, Red Onions, Gherkins With Tandoori Sauce ... read more",239.0
+Non Veg Burgers,Egg Twisted Burger,0,0,"A Biggies Classic, Fried Egg Paired With Veggies Patty Laced With Tandoori Sauce ... read more",109.0
+Non Veg Burgers,Krunchy Peri Peri Chicken Burger,0,0,Fried Chicken Patty With Onions & Peri Peri Sauce Served On A Freshly ... read more,139.0
+Non Veg Burgers,Krunchy Chicken Tandoori Burger,0,0,Fried Chicken Patty With Onions & Tandoori Sauce Served On A Freshly Baked ... read more,149.0
+Veg Burgers,Potato Krunch Burger,0,0,Crispy Fried Potato Patty With Onion Roundels And Cheese Sauce Served On A ... read more,69.0
+Veg Burgers,Veg Punjabi Makhani Burger,0,0,Crispy Herbed Veggie Patty Dressed With Onions And Makhani Sauce Served On A ... read more,109.0
+Veg Burgers,Veg Peri Peri Burger,0,0,Crispy Fried Veggie Patty With Onion Roundels And Peri Peri Sauce Served On ... read more,89.0
+Veg Burgers,Bigg Aloo Tikki Burger,0,0,"Buttered Burger Buns Enclosed With Fried Double Potato Patty, Onions And Spiced To ... read more",159.0
+Veg Burgers,Bigg Club Veg Burger,0,0,A Double Layered Burger With Crispy Potato And Veggie Patty Along With Tandoori ... read more,198.0
+Veg Burgers,Spicy Schezwan Mushroom Burger,0,0,Schezwan Spiced Grilled Mushrooms On Fried Veggie Patty With Gherkins Served On A ... read more,198.0
+Veg Burgers,Veg Exotic Burger,0,0,"Grilled Mushrooms On Juicy Malai Paneer Patty Seasoned With Schezwan Sauce, Lettuce & ... read more",239.0
+Veg Burgers,Tandoori Volcano Cheese Burger,0,0,Molten Cheese Stuffed Patty Seasoned With Gherkins & Tandoori Sauce Served On A ... read more,249.0
+Veg Burgers,Veggie Cheese Bomb Burger,0,0,Epic Vegetarian Burger Which Has Luscious Cheese Patty & Veggie Patty Flavoured With ... read more,269.0
+Veg Burgers,Peri Peri Volcano Cheese Burger,0,0,"Molten Cheese Stuffed Patty Seasoned With Gherkins, Lettuce And Peri Peri Sauce Served ... read more",239.0
+Veg Burgers,Peri Peri Grilled Paneer Burger,0,0,"Marinated Malai Paneer Cubes Pan Seared To Perfection, Crispy Iceberg Lettuce & Gherkins ... read more",219.0
+Veg Burgers,Tandoori Grilled Paneer Burger,0,0,"Marinated Malai Paneer Cubes Pan Seared To Perfection, Crispy Iceberg Lettuce & Gherkins ... read more",239.0
+Veg Burgers,Krunchy Peri Peri Paneer Burger,0,0,"Crispy Coated Paneer Patty Seasoned With Lettuce, Onions, Gherkins & Peri Peri Sauce ... read more",198.0
+Veg Burgers,Krunchy Tandoori Paneer Burger,0,0,"Crispy Coated Paneer Patty Seasoned With Lettuce, Onions, Gherkins & Tandoori Sauce Served ... read more",219.0
+Veg Burgers,Paneer Twisted Burger,0,0,Combination Of Malai Paneer Patty & Veggie Patty Flavoured With Tandoori Sauce Served ... read more,239.0
+Grilled Chicken Wings,Grilled El Diablo Chicken Wings,0,0,Juicy Grilled Chicken Wings Cooked To Perfection Served With Super Spicy Eldiablo Sauce,239.0
+Grilled Chicken Wings,Grilled Schezwan Chicken Wings,0,0,Juicy Grilled Chicken Wings Cooked To Perfection Served With Schezwan Sauce,229.0
+Grilled Chicken Wings,Grilled Tennessee Hot Chicken Wings,0,0,Juicy Grilled Chicken Wings Cooked To Perfection Served With Tennessee Sauce,249.0
+Grilled Chicken Wings,Smokey Bbq Chicken Wings,0,0,,229.0
+Wraps,Bigg Club Veg Wrap,0,0,Potato And Veggie Patty With Lettuce And Onions In Our Whole Wheat Tortilla ... read more,169.0
+Wraps,Chicken Beamer Wrap,0,0,"Meaty Chicken Cubes Drizzled With Peri Peri And Garlic Sauce, Onion In Our ... read more",239.0
+Wraps,Peri Peri Paneer Wrap,0,0,Peri Peri Spiced Paneer Patty With Lettuce And Onions In Our Whole Wheat ... read more,198.0
+Wraps,Veg Exotic Wrap,0,0,"Grilled Mushrooms & Crispy Paneer With Spicy Schezwan Sauce, Onion In Our Whole ... read more",239.0
+Wraps,Whole Meat Chicken Wrap,0,0,Grilled Chicken With Spicy Schezwan Sauce And Onions In Our Whole Wheat Tortilla ... read more,249.0
+Fries & Snacks,Cajun Crinkle Fries,0,0,Crinkle Cut French Fries Seasoned With Cajun [Energy- 185.34 kcal],119.0
+Fries & Snacks,Crinkle Fries,0,0,Crinkle Cut French Fries Seasoned With Salt [Energy- 159.6 kcal],99.0
+Fries & Snacks,Peri Peri Fries,0,0,Crinkle Cut French Fries Seasoned With Peri Peri. [Energy- 166.6 kcal],109.0
+Fries & Snacks,Chicken Nuggets,0,0,Get Snacking With Our Bite Sized Chicken Nuggets [Energy- 296.34 kcal],179.0
+Fries & Snacks,Crispy Potato Strips,0,0,Golden Fried Potato Strips Dusted With Peri Peri Seasoning,79.0
+Drinks (Beverages),Alphonso Mango Shake,0,0,A Great Milkshake with Rich Alphonso Mango Syrup. Serving Size - 330 ml. ... read more,169.0
+Drinks (Beverages),Belgian Chocolate Shake,0,0,"All Time Classic, decadent chocolate milkshake. Serving Size - 330 ml. [Energy- 435 ... read more",179.0
+Drinks (Beverages),Classic Oreo Shake,0,0,Crunchy oreo crumb blended with ice cream and milk. Serving Size - 330 ... read more,169.0
+Drinks (Beverages),Cold Coffee Shake,0,0,"A perfect blend of espresso, ice cream and milk. Serving Size - 330 ... read more",149.0
+Drinks (Beverages),Halloween Shake,0,0,House speciality - cardamom & cinnamon spiced milkshake with yellow squash puree. Serving ... read more,189.0
+Drinks (Beverages),Peanut Butter Krunchy Shake,0,0,Rich peanut shake with a hint of caramel sauce. Serving Size - 330 ... read more,179.0
+Drinks (Beverages),Blue Heaven Mojito,0,0,Flavourful Mango Syrup with crushed ice and mint. Serving Size - 330 ml. ... read more,129.0
+Drinks (Beverages),Lime N Mint Mojito,0,0,Refreshing summer beverage muddled with lime and mint. Serving Size - 330 ml. ... read more,129.0
+Drinks (Beverages),Sparkling Mango Mojito,0,0,"A perfect beverage which has blue curacao, lime and mint. Serving Size - ... read more",139.0

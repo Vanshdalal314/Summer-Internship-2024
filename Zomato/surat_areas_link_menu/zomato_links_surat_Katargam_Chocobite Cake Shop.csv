@@ -1,0 +1,118 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Butterscotch Cake [300 g],1,0,,300.0
+Cakes,Cassata Cake [300 g],1,0,,400.0
+Cakes,Rasmalai Cake [300 g],1,0,,400.0
+Cakes,Black Forest Cake [300 g],1,0,,300.0
+Cakes,Royal Chocolate Cake [300 g],1,0,,330.0
+Cakes,Dairy Milk Cake [300 g],1,0,,420.0
+Cakes,Cadbury Silk Cake [300 g],1,0,,450.0
+Cakes,Blueberry Cake [500 g],1,0,,490.0
+Cakes,Blackcurrant Cake [500 g],1,0,,490.0
+Cakes,Strawberry Cake [500 g],1,0,,430.0
+Cakes,Pineapple Cake [500 g],1,0,,430.0
+Cakes,Mixed Fruits Cake [500 g],1,0,,480.0
+Cakes,Butterscotch Cake [500 g],1,0,,480.0
+Cakes,Cassata Cake [500 g],1,0,,550.0
+Cakes,Rasmalai Cake [500 g],1,0,,550.0
+Cakes,Black Forest Cake [500 g],1,0,,430.0
+Cakes,White Forest Cake [500 g],1,0,,480.0
+Cakes,Royal Chocolate Cake [500 g],1,0,,550.0
+Cakes,Nutella Chocolate Cake [500 g],1,0,,550.0
+Cakes,Biscoff Chocolate Cake [500 g],1,0,,580.0
+Cakes,KitKat Chocolate Cake [500 g],1,0,,1000.0
+Cakes,Ferrero Rocher Cake [500 g],1,0,,850.0
+Cakes,Dairy Milk Cake [500 g],1,0,,830.0
+Cakes,Cadbury Silk Cake [500 g],1,0,,1000.0
+Cakes,Chocolate Truffle Cake [500 g],1,0,,680.0
+Cakes,Blueberry Cake [1 kg],1,0,,950.0
+Cakes,Blackcurrant Cake [1 kg],1,0,,950.0
+Cakes,Strawberry Cake [1 kg],1,0,,850.0
+Cakes,Pineapple Cake [1 kg],1,0,,850.0
+Cakes,Mixed Fruits Cake [1 kg],1,0,,950.0
+Cakes,Butterscotch Cake [1 kg],1,0,,950.0
+Cakes,Cassata Cake [1 kg],1,0,,1100.0
+Cakes,Rasmalai Cake [1 kg],1,0,,1100.0
+Cakes,Black Forest Cake [1 kg],1,0,,800.0
+Cakes,White Forest Cake [1 kg],1,0,,950.0
+Cakes,Royal Chocolate Cake [1 kg],1,0,,1050.0
+Cakes,Nutella Chocolate Cake [1 kg],1,0,,1100.0
+Cakes,Biscoff Chocolate Cake [1 kg],1,0,,1100.0
+Cakes,KitKat Chocolate Cake [1 kg],1,0,,2000.0
+Cakes,Ferrero Rocher Cake [1 kg],1,0,,1900.0
+Cakes,Dairy Milk Cake [1 kg],1,0,,1659.0
+Cakes,Cadbury Silk Cake [1 kg],1,0,,2000.0
+Cakes,Chocolate Truffle Cake [1 kg],1,0,,1200.0
+Cakes,Fancy Blueberry Cake [1 kg],1,0,,1350.0
+Cakes,Fancy Blackcurrant Cake [1 kg],1,0,,1350.0
+Cakes,Fancy Strawberry Cake [1 kg],1,0,,1300.0
+Cakes,Fancy Pineapple Cake [1 kg],1,0,,1300.0
+Cakes,Fancy Mixed Fruits Cake [1 kg],1,0,,1350.0
+Cakes,Fancy Butterscotch Cake [1 kg],1,0,,1350.0
+Cakes,Fancy Cassata Cake [1 kg],1,0,,1450.0
+Cakes,Fancy Rasmalai Cake [1 kg],1,0,,1450.0
+Cakes,Fancy Black Forest Cake [1 kg],1,0,,1250.0
+Cakes,Fancy White Forest Cake [1 kg],1,0,,1350.0
+Cakes,Fancy Royal Chocolate Cake [1 kg],1,0,,1350.0
+Cakes,Fancy Nutella Chocolate Cake [1 kg],1,0,,1400.0
+Cakes,Fancy Biscoff Chocolate Cake [1 kg],1,0,,1400.0
+Cakes,Fancy KitKat Chocolate Cake [1 kg],1,0,,2300.0
+Cakes,Fancy Ferrero Rocher Cake [1 kg],1,0,,2200.0
+Cakes,Fancy Dairy Milk Cake [1 kg],1,0,,1950.0
+Cakes,Fancy Cadbury Silk Cake [1 kg],1,0,,2300.0
+Cakes,Fancy Chocolate Truffle Cake [1 kg],1,0,,1650.0
+Cakes,Cartoon Blueberry Cake [1 kg],1,0,,1250.0
+Cakes,Cartoon Blackcurrant Cake [1 kg],1,0,,1250.0
+Cakes,Cartoon Strawberry Cake [1 kg],1,0,,1200.0
+Cakes,Cartoon Pineapple Cake [1 kg],1,0,,1200.0
+Cakes,Cartoon Mixed Fruits Cake [1 kg],1,0,,1250.0
+Cakes,Cartoon Butterscotch Cake [1 kg],1,0,,1250.0
+Cakes,Cartoon Cassata Cake [1 kg],1,0,,1400.0
+Cakes,Cartoon Rasmalai Cake [1 kg],1,0,,1400.0
+Cakes,Cartoon Black Forest Cake [1 kg],1,0,,1200.0
+Cakes,Cartoon White Forest Cake [1 kg],1,0,,1250.0
+Cakes,Cartoon Royal Chocolate Cake [1 kg],1,0,,1350.0
+Cakes,Cartoon Nutella Chocolate Cake [1 kg],1,0,,1400.0
+Cakes,Cartoon Biscoff Chocolate Cake [1 kg],1,0,,1400.0
+Cakes,Cartoon KitKat Chocolate Cake [1 kg],1,0,,2300.0
+Cakes,Cartoon Ferrero Rocher Cake [1 kg],1,0,,2200.0
+Cakes,Cartoon Dairy Milk Cake [1 kg],1,0,,1950.0
+Cakes,Cartoon Cadbury Silk Cake [1 kg],1,0,,2300.0
+Cakes,Cartoon Chocolate Truffle Cake [1 kg],1,0,,1750.0
+Desserts,Blueberry Vanilla Cheesecake,1,0,,140.0
+Desserts,Blackcurrant Vanilla Cheesecake,1,0,,850.0
+Desserts,Strawberry Vanilla Cheesecake,1,0,,800.0
+Desserts,Pineapple Vanilla Cheesecake,1,0,,140.0
+Desserts,Mixed Fruits Vanilla Cheesecake,1,0,,850.0
+Desserts,Cassata Vanilla Cheesecake,1,0,,170.0
+Desserts,Butterscotch Vanilla Cheesecake,1,0,,850.0
+Desserts,Royal Chocolate Vanilla Cheesecake,1,0,,170.0
+Desserts,Nutella Chocolate Vanilla Cheesecake,1,0,,170.0
+Desserts,Biscoff Chocolate Vanilla Cheesecake [100 g],1,0,,170.0
+Desserts,Ferrero Rocher Vanilla Cheesecake [100 g],1,0,,250.0
+Desserts,Dairy Milk Vanilla Cheesecake [100 g],1,0,,200.0
+Desserts,Cadbury Silk Vanilla Cheesecake [100 g],1,0,,230.0
+Desserts,Butterscotch Cheesecake,1,0,,850.0
+Desserts,Royal Chocolate Cheesecake,1,0,,950.0
+Desserts,Nutella Chocolate Cheesecake,1,0,,950.0
+Desserts,Biscoff Chocolate Cheesecake,1,0,,1000.0
+Desserts,Ferrero Rocher Cheesecake,1,0,,1100.0
+Desserts,Dairy Milk Cheesecake,1,0,,1000.0
+Desserts,Cadbury Silk Cheesecake,1,0,,1200.0
+Desserts,Golden Ice Cream Cake,1,0,,750.0
+Desserts,Cassata Ice Cream Cake,1,0,,700.0
+Desserts,Chocolate Ice Cream Cake,1,0,,750.0
+Desserts,Black Forest Ice Cream Cake [1 litre],1,0,,1250.0
+Desserts,Buttercups Ice Cream Cake [500 ml],1,0,,650.0
+Desserts,Red Velvet Heart Ice Cream Cake [500 ml],1,0,,650.0
+Desserts,Chocolate Loaded Ice Cream Cake [500 ml],1,0,,750.0
+Desserts,Cookies Cream Cake [1 litre],1,0,,1350.0
+Desserts,Chocolate Fantasy Ice Cream Cake [1 litre],1,0,,1400.0
+Desserts,Buttercups Cookie Ice Cream Cake [500 ml],1,0,,650.0
+Pastries,Strawberry Pastry [100 g],1,0,,70.0
+Pastries,Butterscotch Pastry [100 g],1,0,,80.0
+Pastries,Cassata Pastry [100 g],1,0,,100.0
+Pastries,Rasmalai Pastry [100 g],1,0,,100.0
+Pastries,Black Forest Pastry [100 g],1,0,,80.0
+Pastries,Royal Chocolate Pastry [100 g],1,0,,90.0
+Pastries,Dairy Milk Pastry [100 g],1,0,,130.0
+Pastries,Cadbury Silk Pastry [100 g],1,0,,150.0

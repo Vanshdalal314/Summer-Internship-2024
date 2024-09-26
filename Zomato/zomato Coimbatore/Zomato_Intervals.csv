@@ -1,0 +1,51 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,French Fries,1,0,,100.0
+Starters,Smileys,1,0,,100.0
+Starters,Cheese Corn Nuggets,1,0,,100.0
+Starters,Masala Fries,1,0,,110.0
+Starters,Chicken Nuggets,1,0,,110.0
+Starters,Chicken Popcorn,1,0,,120.0
+Starters,Fish Finger,1,0,,140.0
+Starters,Crab lollipop,1,0,,130.0
+Starters,Chicken Strips [5 Pieces],1,0,,180.0
+Starters,Fried Chicken,1,0,,180.0
+Pasta,Indian Masala Pasta,1,0,,140.0
+Pasta,Paneer Pasta,1,0,,150.0
+Pasta,Baked Mushroom Pasta,1,0,,160.0
+Pasta,Creamy Chicken Pasta,1,0,,170.0
+Pasta,Spicy Chicken Pasta,1,0,,170.0
+Pasta,Egg Pasta,1,0,,140.0
+Burgers and Sandwiches,Jumbo Veg Burger,1,0,,130.0
+Burgers and Sandwiches,Basic Veg Burger,1,0,,90.0
+Burgers and Sandwiches,Chilly Cheese Burger,1,0,,110.0
+Burgers and Sandwiches,Triple Veg Burger,1,0,,150.0
+Burgers and Sandwiches,Fried Chicken Burger,1,0,,120.0
+Burgers and Sandwiches,Chicken Burger,1,0,,110.0
+Burgers and Sandwiches,Jumbo Chicken Burger,1,0,,160.0
+Burgers and Sandwiches,Triple Chicken Burger,1,0,,180.0
+Burgers and Sandwiches,Paneer Burger,1,0,,120.0
+Burgers and Sandwiches,Veg Sandwich,1,0,"Capsicum, carrot, cabbage and sliced tomato, butter, chutney, fresh grounded pepper.",90.0
+Burgers and Sandwiches,Aloo Capsicum Sandwich,1,0,,90.0
+Burgers and Sandwiches,Cheese Corn Sandwich,1,0,,95.0
+Burgers and Sandwiches,Masala Paneer Sandwich,1,0,,120.0
+Burgers and Sandwiches,Chilly Cheese Sandwich,1,0,,100.0
+Burgers and Sandwiches,Spicy Mushroom Sandwich,1,0,,110.0
+Burgers and Sandwiches,Tandoori Chicken Sandwich,1,0,,120.0
+Burgers and Sandwiches,Chicken and Cheese Sandwich,1,0,,130.0
+Burgers and Sandwiches,Egg Sandwich,1,0,,90.0
+Burgers and Sandwiches,Fish Sandwich,1,0,,110.0
+Wraps,Veg Wrap,1,0,,110.0
+Wraps,Spicy Paneer Wrap,1,0,,140.0
+Wraps,Crispy Chicken Wrap,1,0,,150.0
+Wraps,Fish Wrap,1,0,,140.0
+Wraps,Mushroom Wrap,1,0,,130.0
+Pastries,Brownie Pastry,1,0,,90.0
+Momos,Veg schezwan momos,1,0,,120.0
+Momos,Corn Cheese momos,1,0,,140.0
+Momos,Paneer Tikka Fried Momos [6 Pieces],1,0,,140.0
+Momos,Chicken Schezwan momos,1,0,,130.0
+Momos,Chicken tikka momos,1,0,,140.0
+Momos,Mushroom Fried Momos [6 Pieces],1,0,,130.0
+Momos,Mixed Veg Fried Momos [6 Pieces],1,0,,110.0
+Momos,Chicken Peri Peri Fried Momos [6 Pieces],1,0,,140.0
+Momos,Butter Chicken Fried Momos [6 Pieces],1,0,,150.0

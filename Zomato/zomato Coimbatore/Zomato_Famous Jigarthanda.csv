@@ -1,0 +1,10 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Jigarthanda,Special Jigarthanda,1,0,Jigarthanda with malai ice cream and basanthi.,155.0
+Jigarthanda,Delight Jigarthanda,1,0,"Jigarthanda, basundi and ice cream [2 Scoops].",160.0
+Jigarthanda,Nuts Jigarthanda,1,0,"Jigarthanda, basundi, Nuts and ice cream [1 Scoop].",165.0
+Jigarthanda,Dry Fruits Jigarthanda,1,0,"Jigarthanda, basundi, dry fruits and ice cream [1 Scoop].",170.0
+Jigarthanda,Jumbo Jigarthanda,1,0,,135.0
+Jigarthanda,Regular Jigarthanda,1,0,,125.0
+Desserts,Basundi with Ice Cream,1,0,"Basanthi, Ice Cream [Malai Flavor] and Nannari Sharbat.",199.0
+Desserts,Basundi with Nuts,1,0,"Basanthi, icecream and nannari sarbat",210.0
+Desserts,Basundi with Dry Fruits,1,0,"Basanthi, icecream and nannari sarbat",210.0

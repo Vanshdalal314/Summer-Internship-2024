@@ -1,0 +1,153 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Combo 1,0,0,"Chicken Biriyani Half, Chicken 65 (2), Egg, Raitha, Bread Halwa, Brinjal Curry",270.0
+Combos,Combo 2,0,0,"Chicken Biriyani Half, Chicken 65 (2), Chicken Lolipop (2), Egg, Raitha,Bread Halwa,Brinjal Curry",330.0
+Combos,Combo 3,0,0,"Mutton Biriyani Half, Chicken 65 (2), Egg,Raitha,Bread Halwa,Brinjal Curry",330.0
+Combos,Combo 4,0,0,"Mutton Biriyani Half, Chicken 65 (2),Chicken Lolipop (2),Egg, Raitha,Bread Halwa, Brinjal Curry",390.0
+Combos,Combo 5,0,0,"Paneer Fried Rice,Gobi Manchurian (200Ml)",270.0
+Combos,Combo 6,0,0,"Chicken Fried Rice, Chicken Manchurian (200Ml)",270.0
+Veg Soup,Hot And Sour (veg),0,0,Hot and sour soup is a spicy and tangy Chinese soup typically made ... read more,150.15
+Veg Soup,Mushroom Pepper Soup,0,0,Mushroom pepper soup is a savory and spicy dish featuring a blend of ... read more,150.15
+Veg Soup,Veg Clear Soup,0,0,"A light and flavorful bowl featuring a medley of fresh vegetables, creating a ... read more",150.15
+Veg Soup,Veg Sweet Corn Soup,0,0,Veg sweet corn soup is a creamy and comforting soup made with sweet ... read more,150.15
+Non Veg Soup,Chicken Pepper Soup,0,0,A soul-soothing bowl filled with the bold kick of black pepper and tender ... read more,191.1
+Non Veg Soup,Hot And Sour (chicken),0,0,Hot and sour chicken soup is a spicy and tangy Chinese soup made ... read more,163.8
+Non Veg Soup,Mutton Pepper Soup,0,0,Immerse yourself in the robust warmth of our soup?tender mutton infused with the ... read more,218.4
+Non Veg Soup,Naatu Kozhi Rasam,0,0,,208.0
+Non Veg Soup,Nandu Rasam,0,0,Dive into the bold and tangy flavors of our Nandu Rasam?a traditional South ... read more,208.0
+Non Veg Soup,Nattu Kozhi Soup,0,0,,208.0
+Non Veg Soup,Sweet Corn (chicken),0,0,Sweet corn chicken soup is a comforting and creamy soup combining tender chicken ... read more,163.8
+Biriyani,Chicken 65 Biriyani (bone),0,0,A fiery fusion of the iconic Chicken 65 and fragrant biryani?a delectable ensemble ... read more,325.0
+Biriyani,Chicken 65 Biriyani (boneless),0,0,Experience the perfect union of spicy Chicken 65 and aromatic biryani?a mouthwatering delight ... read more,351.0
+Biriyani,Chicken Biriyani,0,0,"Indulge in the royal feast of fragrant rice and succulent chicken, perfectly layered ... read more",299.0
+Biriyani,Chicken Biriyani Half,0,0,"Indulge in the royal feast of fragrant rice and succulent chicken, perfectly layered ... read more",237.0
+Biriyani,Chicken Kushka,0,0,Immerse yourself in the essence of flavorful rice with our Chicken Kuska?a delightful ... read more,234.0
+Biriyani,Egg Biriyani,0,0,"Revel in the rich and aromatic harmony of rice and perfectly boiled eggs, ... read more",260.0
+Biriyani,Mutton Biriyani,0,0,"A regal celebration of tender mutton and aromatic rice, each grain infused with ... read more",429.0
+Biriyani,Mutton Biriyani Half,0,0,"A regal celebration of tender mutton and aromatic rice, each grain infused with ... read more",330.0
+Biriyani,Mutton Kushka ( Based On Availability ),0,0,"Savor the aromatic blend of fragrant rice and succulent mutton, infused with a ... read more",260.0
+Biriyani,Prawn Biriyani,0,0,Delight in the ocean's bounty with our flavorful Prawn Biryani?a symphony of succulent ... read more,429.0
+Bucket Biriyani,Bucket Biriyani Chicken (5 Person),0,0,"Bread alwa, raita, egg, 65",1690.0
+Bucket Biriyani,Chicken Bucket Biriyani(10 Person),0,0,"Bread halwa,raita,brinjal,65",2990.0
+Bucket Biriyani,Mutton Bucket Biriyani(5 Person),0,0,"Breat halwa,raita,birinjal",2210.0
+Veg Starter,Baby Corn 65,0,0,Baby corn 65 is a spicy and crispy Indian appetizer made by deep ... read more,218.4
+Veg Starter,Baby Corn Manchurian,0,0,Baby Corn Manchurian is a popular Indo-Chinese dish where crispy-fried baby corn is ... read more,245.7
+Veg Starter,Chilli Gobi,0,0,Immerse yourself in the spicy allure of our Chilli Gobi?crispy cauliflower florets tossed ... read more,259.35
+Veg Starter,Gobi 65,0,0,"Crispy and flavorful, our Gobi 65 features perfectly seasoned cauliflower bites, fried to ... read more",245.7
+Veg Starter,Gobi Manchurian,0,0,Revel in the perfect balance of crispy and saucy with our Gobi Manchurian?florets ... read more,245.7
+Veg Starter,Mushroom 65,0,0,"Mushroom 65 is a spicy and crispy appetizer in which mushrooms are marinated, ... read more",218.4
+Veg Starter,Mushroom Manchurian,0,0,Mushroom Manchurian is an Indo-Chinese dish featuring deep-fried mushrooms tossed in a flavorful ... read more,245.7
+Veg Starter,Mushroom Pepper Fry,0,0,Experience the bold and aromatic fusion of mushrooms and black pepper in our ... read more,245.7
+Veg Starter,Paneer 65,0,0,Savor the perfect blend of spiced and crispy goodness with our Paneer 65?succulent ... read more,273.0
+Veg Starter,Paneer Manchurian,0,0,Paneer Manchurian is a popular Indo-Chinese dish where cubes of paneer (Indian cottage ... read more,300.3
+Egg Masala,Chilli Egg,0,0,Savor the perfect blend of spicy and savory with our Chilli Egg?a delightful ... read more,234.0
+Egg Masala,Egg Masala,0,0,Egg masala is a flavorful Indian dish where boiled eggs are simmered in ... read more,117.0
+Egg Masala,Egg Podi Mass,0,0,Egg Podi Masala is a South Indian dish where boiled eggs are coated ... read more,130.0
+Egg Masala,Masala Omlet,0,0,,117.0
+Egg Masala,Plain Omlet,0,0,,91.0
+Mutton Starters,Madurai Mutton Varuval,0,0,Indulge in the authentic flavors of Madurai with our Mutton Varuval?a delicious dish ... read more,477.75
+Mutton Starters,Mutton Chukka,0,0,Revel in the rich and aromatic goodness of our Mutton Chukka?a flavorful dish ... read more,477.75
+Mutton Starters,Mutton Ghee Roast,0,0,Delight in the rich and aromatic experience of our Mutton Ghee Roast?a flavorful ... read more,455.0
+Mutton Starters,Mutton Pepper Fry,0,0,Immerse yourself in the bold and spicy flavors of our Mutton Pepper Fry?a ... read more,477.75
+Chicken Starters,Boiled Egg,0,0,A boiled egg is a simple and nutritious food prepared by immersing an ... read more,26.0
+Chicken Starters,Chicken 65 Bone,0,0,"Revel in the spicy and crispy goodness of our Chicken 65, featuring succulent ... read more",260.0
+Chicken Starters,Chicken 65 Boneless,0,0,"Enjoy the fiery perfection of our Chicken 65?succulent boneless chicken pieces, impeccably seasoned ... read more",286.0
+Chicken Starters,Chicken 65-leg,0,0,Chicken 65-leg is a spicy and flavorful South Indian dish where chicken leg ... read more,130.0
+Chicken Starters,Chicken 99,0,0,Savor the spicy and flavorful goodness of our Chicken 99?tender chicken bites expertly ... read more,338.0
+Chicken Starters,Chicken Chukka,0,0,Delight in the rich and aromatic goodness of our Chicken Chukka?a flavorful dish ... read more,354.9
+Chicken Starters,Chicken Lolipop,0,0,"Chicken lollipop is a popular Indian appetizer made from frenched chicken winglets, marinated ... read more",338.0
+Chicken Starters,Chicken Lolipop Manchurian,0,0,Chicken Lollipop Manchurian is a fusion dish where fried chicken lollipops are tossed ... read more,382.2
+Chicken Starters,Chicken Manchurian,0,0,Chicken Manchurian is a popular Indo-Chinese dish consisting of deep-fried chicken pieces cooked ... read more,341.25
+Chicken Starters,Chicken Pepper Fry,0,0,Revel in the bold and spicy flavors of our Chicken Pepper Fry?a delightful ... read more,354.9
+Chicken Starters,Chilli Chicken,0,0,Dive into the spicy delight of our Chilli Chicken?succulent chicken pieces coated in ... read more,341.25
+Chicken Starters,Crispy Chicken,0,0,Indulge in the satisfying crunch of our Crispy Chicken?succulent pieces expertly coated and ... read more,338.0
+Chicken Starters,Dragon Chicken,0,0,Ignite your taste buds with the fiery goodness of our Dragon Chicken?crispy chicken ... read more,341.25
+Chicken Starters,Gongura Chicken,0,0,Immerse yourself in the tangy delight of our Gongura Chicken?a flavorful dish featuring ... read more,377.0
+Chicken Starters,Honey Chicken,0,0,Indulge in the perfect balance of sweet and savory with our Honey Chicken?a ... read more,341.25
+Chicken Starters,Hot Garlic Chicken,0,0,Hot Garlic Chicken is a spicy and flavorful Indo-Chinese dish made with chicken ... read more,341.0
+Chicken Starters,Japan Chicken,0,0,Embark on a culinary journey with our Japan Chicken?a delicious fusion of flavors ... read more,382.2
+Chicken Starters,Khalids Special Kozhi Porichadu,0,0,,390.0
+Chicken Starters,Lemon Chicken,0,0,Delight in the zesty freshness of our Lemon Chicken?a flavorful dish featuring succulent ... read more,364.0
+Chicken Starters,Nattu Kozhi Pepper Fry,0,0,Nattu Kozhi Pepper Fry is a spicy and aromatic South Indian dish made ... read more,390.0
+Chicken Starters,Pineapple Chicken,0,0,,280.0
+Chicken Starters,Schezwan Chicken,0,0,Schezwan Chicken is a fiery and flavorful Indo-Chinese dish made with chicken stir-fried ... read more,341.25
+Sea Food,Chilli Prawn,0,0,Chilli Prawn is an Indo-Chinese dish where succulent prawns are stir-fried with spicy ... read more,436.8
+Sea Food,Crab Lolipop,0,0,"Savory crab meat seasoned with aromatic spices, shaped into lollipops, and crisply fried, ... read more",377.0
+Sea Food,Fish Finger,0,0,"Delightfully crispy and golden, these breaded fish fingers showcase tender fish fillets, providing ... read more",455.0
+Sea Food,Fish Nethili 65,0,0,Fish Nethili 65 is a spicy and crispy South Indian appetizer made with ... read more,325.0
+Sea Food,Nandu Pepper Fry,0,0,,390.0
+Sea Food,Nandu Varuval,0,0,,390.0
+Sea Food,Prawn 65,0,0,"Spiced and marinated prawns, deep-fried to a crispy perfection, offering a flavorful burst ... read more",436.8
+Sea Food,Prawn Chettinadu,0,0,,320.0
+Sea Food,Prawn Chukka,0,0,"A flavorful South Indian dish featuring stir-fried prawns with aromatic spices, curry leaves, ... read more",336.0
+Sea Food,Vanjaram Fish Fry,0,0,,377.0
+Grill,Grill Chicken,0,0,"A hearty serving of perfectly grilled chicken, marinated to perfection, offering a flavorful ... read more",320.0
+Grill,Pepper Grill(full),0,0,"Pepper Grill is a cooking style or dish where meat, poultry, seafood, or ... read more",692.0
+Grill,Pepper Grill(half),0,0,"Pepper Grill is a cooking style or dish where meat, poultry, seafood, or ... read more",345.0
+Rice & Noodles,Chicken Fried Rice,0,0,Indulge in the savory goodness of our Chicken Fried Rice?a flavorful dish featuring ... read more,300.3
+Rice & Noodles,Chicken Noodles,0,0,Indulge in the savory goodness of our Chicken Noodles?a flavorful dish featuring perfectly ... read more,313.95
+Rice & Noodles,Chicken Pulao Rice,0,0,,312.0
+Rice & Noodles,Curd Rice,0,0,,104.0
+Rice & Noodles,Egg Fried Rice,0,0,Delight in the perfect balance of protein and flavor with our Egg Fried ... read more,273.0
+Rice & Noodles,Egg Noodles,0,0,Savor the perfect blend of protein and flavor with our Egg Noodles?a savory ... read more,273.0
+Rice & Noodles,Ghee Rice,0,0,Ghee rice is a fragrant and rich Indian dish made by cooking basmati ... read more,234.0
+Rice & Noodles,Kashmiri Pulao Rice,0,0,,286.0
+Rice & Noodles,Mushroom-fried Rice,0,0,Mushroom Fried Rice is a savory and aromatic dish where cooked rice is ... read more,260.0
+Rice & Noodles,Mushroom-noodles,0,0,Mushroom noodles are a savory and quick dish where noodles are stir-fried with ... read more,260.0
+Rice & Noodles,Panner Fried -rice,0,0,Mushroom noodles are a savory and quick dish where noodles are stir-fried with ... read more,325.0
+Rice & Noodles,Panner Noodles,0,0,Paneer noodles is an Indo-Chinese fusion dish where cooked noodles are stir-fried with ... read more,325.0
+Rice & Noodles,Prawn Fried Rice,0,0,Dive into a sea of flavors with our Prawn Fried Rice?a delectable dish ... read more,364.0
+Rice & Noodles,Prawns Noodles,0,0,Prawns noodles is a flavorful and aromatic dish combining stir-fried noodles with succulent ... read more,364.0
+Rice & Noodles,Rasam Rice,0,0,,104.0
+Rice & Noodles,Sambar Rice,0,0,,140.0
+Rice & Noodles,Schewan Veg Rice,0,0,Schezwan Veg Rice is a spicy and bold Indo-Chinese dish made with cooked ... read more,230.0
+Rice & Noodles,Schezwan Chicken Fried Rice,0,0,Schezwan Chicken Fried Rice is a spicy and flavorful Indo-Chinese dish where cooked ... read more,260.0
+Rice & Noodles,Schezwan Chicken Noodles,0,0,Schezwan Chicken Noodles is a spicy and savory Indo-Chinese dish featuring stir-fried noodles ... read more,341.25
+Rice & Noodles,Veg Fried Rice,0,0,Enjoy a delightful medley of flavors with our Vegetarian Fried Rice?a fragrant and ... read more,245.7
+Rice & Noodles,Veg Noodles,0,0,Delight in the simplicity and savory goodness of our Vegetarian Noodles?a flavorful dish ... read more,245.7
+Rice & Noodles,Veg Pulao Rice,0,0,,247.0
+Mojitos,Green Apple Mojito,0,0,"Green Apple Mojito is a refreshing and zesty non-alcoholic drink, blending the tartness ... read more",169.0
+Mojitos,Khalids Special Blue Mojito,0,0,,182.0
+Mojitos,Khalids Special Mojito,0,0,"Khalid's Special Mojito is a unique, refreshing twist on the classic mojito cocktail, ... read more",169.0
+Mojitos,Strawberry Mojito,0,0,,169.0
+Juices,7up 600ml,0,0,,40.0
+Juices,Apple Juice,0,0,,208.0
+Juices,Lemon Juice,0,0,"Lemon juice is a tangy and refreshing drink made from fresh lemons, often ... read more",78.0
+Juices,Lemon Mint,0,0,"Lemon mint is a rejuvenating beverage combining fresh lemon juice and mint leaves, ... read more",100.0
+Juices,Mosambi Juice (Sweet Lime),0,0,,182.0
+Juices,Musk Melone Juice,0,0,,169.0
+Juices,Orange Juice,0,0,"Orange juice is a popular, refreshing beverage made from squeezed or blended oranges, ... read more",169.0
+Juices,Pine Apple Juice,0,0,"Pineapple juice is a tropical drink with a sweet and tart taste, made ... read more",169.0
+Juices,Pomegranate Juice,0,0,"Pomegranate juice is a nutrient-rich beverage, high in antioxidants and vitamins, made from ... read more",286.0
+Juices,Rose Milk,0,0,,117.0
+Juices,Water Melone Juice,0,0,,143.0
+Ice Creams,Black Current Ice Cream,0,0,,169.0
+Ice Creams,Butterscotch Ice-cream,0,0,"Butterscotch ice cream is a rich and creamy dessert flavored with butterscotch sauce, ... read more",195.0
+Ice Creams,Chocolate Ice Cream,0,0,"Chocolate ice cream is a classic frozen dessert made with cream, sugar, cocoa ... read more",169.0
+Ice Creams,Kulfi,0,0,,50.0
+Ice Creams,Mango Ice Cream,0,0,Dive into the tropical delight of our Mango Ice Cream?a luscious and creamy ... read more,169.0
+Ice Creams,Pista Ice Cream,0,0,,195.0
+Ice Creams,Strawberry Ice Cream,0,0,Dive into the luscious and fruity goodness of our Strawberry Ice Cream?a delightful ... read more,169.0
+Ice Creams,Venilla Ice Cream,0,0,,169.0
+Soda,Green Apple Soda,0,0,Green Apple Soda is a bubbly and sweet carbonated beverage that combines the ... read more,143.0
+Soda,Kiwi Soda,0,0,"Kiwi Soda is a fizzy, refreshing beverage that combines the sweet-tart flavor of ... read more",143.0
+Soda,Lemon Soda,0,0,,104.0
+Milk Shake,Black Current Milkshake,0,0,A black currant milkshake is a creamy and refreshing beverage blending the tartness ... read more,195.0
+Milk Shake,Black Current With Ice Cream Milkshake,0,0,,221.0
+Milk Shake,Butterscotch Milkshake,0,0,Satisfy your sweet cravings with the delightful flavor of our Butterscotch Milkshake?a rich ... read more,208.0
+Milk Shake,Butterscotch With Ice Cream Milkshake,0,0,,234.0
+Milk Shake,Chocolate Milkshake,0,0,"A chocolate milkshake is a creamy, cold beverage blended with milk, chocolate syrup ... read more",195.0
+Milk Shake,Chocolate With Ice Cream Milkshake,0,0,,221.0
+Milk Shake,Mango Milkshake,0,0,"Mango Milkshake is a creamy and sweet beverage made by blending ripe mangoes, ... read more",195.0
+Milk Shake,Mango With Ice Cream Milkshake,0,0,,221.0
+Milk Shake,Pista Milkshake,0,0,"A Pista Milk Shake is a refreshing and nutty beverage made with milk, ... read more",208.0
+Milk Shake,Pista With Ice Cream Milkshake,0,0,,234.0
+Milk Shake,Strawberry Milkshake,0,0,"Strawberry Milkshake is a smooth, creamy beverage made by blending ripe strawberries, milk, ... read more",195.0
+Milk Shake,Strawberry With Ice Cream Milkshake,0,0,,221.0
+Milk Shake,Vanilla Milkshake,0,0,,195.0
+Milk Shake,Vanilla With Ice Cream Milkshake,0,0,,221.0
+Desserts,Bread Alwa 50 Grm,0,0,,32.5
+Desserts,Bread Halwa (100grms),0,0,,65.0
+Desserts,Bread Halwa With Ice Cream,0,0,"Bread halwa with ice cream is a decadent fusion dessert combining warm, sweet, ... read more",150.15
+Desserts,Falooda,0,0,"Falooda is a traditional Indian dessert beverage made with rose syrup, vermicelli, sweet ... read more",266.0
+Desserts,Fruit Salat,0,0,,208.0
+Desserts,Fruit Salat With Ice Cream,0,0,,234.0

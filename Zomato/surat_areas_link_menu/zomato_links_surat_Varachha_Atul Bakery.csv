@@ -1,0 +1,31 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Savouries,Brown Bread [400 grams],1,0,,45.0
+Savouries,Whole Wheat Bread [400 grams],1,0,,45.0
+Savouries,Garlic Loaf,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",50.0
+Savouries,Crust Less Bread [350 grams],1,0,,50.0
+Savouries,Veg Masala Puff,1,0,,25.0
+Savouries,Jeera Khari [200 grams],1,0,,75.0
+Savouries,Methi Khari [200 grams],1,0,,75.0
+Savouries,Green Masala Khari [200 grams],1,0,,75.0
+Savouries,Crunchy Heart [200 grams],1,0,,90.0
+Savouries,Fruit Rusk,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",60.0
+Savouries,Jeera Rusk,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",60.0
+Savouries,Sesame Rusk,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",70.0
+Savouries,Pure Ghee Nankhatai [400 grams],1,0,,270.0
+Savouries,Surti Farmas [400 grams],1,0,,145.0
+Cookies,Cashew Bite Cookies [200 grams],1,0,,120.0
+Cookies,Walnut Brown Cookies [200 grams],1,0,,120.0
+Cookies,Fruit and Nut Cookies [200 grams],1,0,,115.0
+Cookies,Nutty Moment Cookies,1,0,,350.0
+Cookies,Royal Delight Cookies,1,0,,325.0
+Sandwich,Paneer Tikka Sandwich,1,0,,45.0
+Snacks,12 Pav Bhaji,1,0,,40.0
+Snacks,12 Wheat Pav Bhaji,1,0,,42.0
+Desserts,Center Filled Chocolate,1,0,,200.0
+Desserts,Assorted Dates Chocolate,1,0,,200.0
+Desserts,Orange Cream Roll,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",18.0
+Desserts,Chocolate Cream Roll,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",18.0
+Desserts,Vanilla Cream Roll,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",18.0
+Desserts,Strawberry Cream Roll,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",18.0
+Desserts,Vanilla Muffin,1,0,,20.0
+Desserts,Chocolate Muffin,1,0,,20.0

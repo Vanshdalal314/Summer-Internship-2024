@@ -1,0 +1,33 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes and Pastries,Black Forest Cake [500 grams],1,0,,403.0
+Cakes and Pastries,Butterscotch FR CR Cake [500 grams],1,0,,466.0
+Cakes and Pastries,Pineapple Cake [500 grams],1,0,[Veg preparation],381.0
+Cakes and Pastries,Dutch Choco Cake [500 grams],1,0,,466.0
+Cakes and Pastries,Choco Bite Cake [500 grams],1,0,,466.0
+Cakes and Pastries,Casatta Veg Cake [500 grams],1,0,,381.0
+Cakes and Pastries,Rasmalai Cake [500 grams],1,0,,466.0
+Cakes and Pastries,Choco Chip Bite Bite Cake [500 grams],1,0,,466.0
+Cakes and Pastries,Vanilla Delight Cake [500 grams],1,0,,381.0
+Cakes and Pastries,KitKat Almond Cake [500 grams],1,0,[Veg preparation],466.0
+Cakes and Pastries,Swiss Desire Cake [500 grams],1,0,,466.0
+Cakes and Pastries,Rainbow Cake [500 grams],1,0,,466.0
+Cakes and Pastries,Choco Chip Heart Cake [500 grams],1,0,,508.0
+Cakes and Pastries,Devils Delight Cake [500 grams],1,0,,466.0
+Cakes and Pastries,Royal Beauty Cake [500 grams],1,0,,424.0
+Cakes and Pastries,Choco Valcano Cake [500 grams],1,0,[Veg preparation],508.0
+Cakes and Pastries,Red Velvet Heart Cake [500 grams],1,0,,508.0
+Cakes and Pastries,Pineapple Veg Pastry,1,0,,64.0
+Cakes and Pastries,Red Velvet Cheese Veg Pastry,1,0,,85.0
+Cakes and Pastries,Black Beauty Veg Pastry,1,0,,72.0
+Cakes and Pastries,Black Forest Pastry,1,0,,72.0
+Cakes and Pastries,Rainbow Pastry,1,0,,76.0
+Cakes and Pastries,Choco Chips Pastry,1,0,,81.0
+Cakes and Pastries,Devils Delight Pastry,1,0,,59.0
+Cakes and Pastries,Dutch Almond Pastry,1,0,,81.0
+Cakes and Pastries,Royal Chocolate Pastry,1,0,,72.0
+Cakes and Pastries,Dutch Brownie Pastry,1,0,,72.0
+Pizza,Pan Veg Pizza [4 inches],1,0,,65.0
+Burger,Veg Burger,1,0,,70.0
+Snacks,Veg Patties,1,0,,40.0
+Snacks,Veg Spring Patties,1,0,,40.0
+Snacks,Paneer Patties,1,0,,45.0

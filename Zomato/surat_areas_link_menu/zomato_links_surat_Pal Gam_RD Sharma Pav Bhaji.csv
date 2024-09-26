@@ -1,0 +1,89 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pav Bhaji,Aloo Fry Pav Bhaji,1,0,"4 Pav + Salad + Papad included + Bhaji [300 Gram] [ Aloo, ... read more",115.2
+Pav Bhaji,Butter Pav Bhaji,1,0,4 Pav + Salad + Papad included + Bhaji [300 Gram],120.0
+Pav Bhaji,Cheese Paneer Pav Bhaji,1,0,4 Pav+Salad+Papad + Bhaji [300 Gram],163.2
+Pav Bhaji,Cheese Pav Bhaji,1,0,4 Pav + Salad + Papad included + Bhaji [300 Gram],153.0
+Pav Bhaji,Fried Cheese Pav Bhaji,1,0,4 Pav+Salad+Papad + Bhaji [300 Gram],173.4
+Pav Bhaji,Fried Pav Bhaji,1,0,4 Pav + Salad + Papad included + Bhaji [300 Gram],142.8
+Pav Bhaji,Jain Pav Bhaji,1,0,4 Pav + Salad + Papad included + Bhaji [300 Gram],122.4
+Pav Bhaji,Kathiyawadi Pav Bhaji,1,0,4 Pav + Salad + Papad included + Bhaji [300 Gram][Garlic & Onion ... read more,138.6
+Pav Bhaji,Masala Pav [4 Pav],1,0,,60.0
+Pav Bhaji,Kadha Pav Bhaji,1,0,4 Pav + Salad + Papad included + Bhaji [300 Gram],142.8
+Pav Bhaji,Special Gotala Bhaji,1,0,"4 Pav + Salad + Papad included + Bhaji [300 Gram][Palak, Paneer & ... read more",150.0
+Pulao,Cheese Paneer Kashmiri Pulao,1,0,Salad+Papad+Kaju+Draksh+Curry Special Pulao,204.0
+Pulao,Cheese Paneer Pulao,1,0,Lasan chutney + Salad + Papad included,204.0
+Pulao,Cheese Paneer Tawa Pulao,1,0,Lasan chutney + Salad + Papad included,204.0
+Pulao,Cheese Pulao,1,0,Lasan chutney + Salad + Papad included,163.2
+Pulao,Cheese Tawa Pulao,1,0,Lasan chutney + Salad + Papad included,183.6
+Pulao,Jeera Rice,1,0,,122.4
+Pulao,Kashmiri Pulao,1,0,"Salad + Papad included [Kaju, Draksh, Curry Special Pulao]",153.0
+Pulao,Only Cheese Kashmiri Pulao,1,0,Salad+Papad+Kaju+Draksh+Curry Special Pulao,183.6
+Pulao,Paneer Pulao,1,0,Lasan chutney + Salad + Papad included,175.2
+Pulao,Paneer Tawa Pulao,1,0,Lasan chutney + Salad + Papad included,183.6
+Pulao,Tawa Pulao,1,0,Lasan chutney + Salad + Papad included,153.0
+Pulao,Veg Pulao,1,0,A wholesome dish prepared by cooking chopped vegetables and rice in a flavorful ... read more,153.0
+Chinese,Chinese Bhel,1,0,Salad included,120.0
+Chinese,Chinese Bombay Bhel,1,0,Served with salad.,138.6
+Chinese,Garlic Manchurian,1,0,Served with salad.,129.0
+Chinese,Manchurian Dry,1,0,Served with salad.,120.0
+Chinese,Manchurian Gravy,1,0,Served with salad.,120.0
+Chinese,Paneer Chilli Dry,1,0,Salad included,212.4
+Chinese,Paneer Chilli Gravy,1,0,Salad included,231.0
+Chinese,Paneer Manchurian,1,0,Served with salad.,173.4
+Chinese,Schezwan Manchurian,1,0,Served with salad.,129.0
+Fried Rice And Noodles,Chinese Rice,1,0,Served with salad.,120.0
+Fried Rice And Noodles,Combination Rice,1,0,Rice+Noodles+Paneer Special Rice+Salad,120.0
+Fried Rice And Noodles,Fried Rice,1,0,Served with salad.,120.0
+Fried Rice And Noodles,Manchurian Rice,1,0,"Salad+Manchurian+Rice. IndoChinese dish, deep fried vegetable balls tossed in Chinese sauces and finished ... read more",120.0
+Fried Rice And Noodles,Singapore Rice,1,0,Haldi+Red Chilli Special Rice+Salad,120.0
+Fried Rice And Noodles,Triple Rice,1,0,Salad+Fried Rice+Chinese Rice+Singapuri Rice+Gravy Manchurian,184.8
+Fried Rice And Noodles,Burnt Garlic Noodles,1,0,,163.2
+Fried Rice And Noodles,Hakka Noodles,1,0,Served with salad.,120.0
+Fried Rice And Noodles,Schezwan Noodles,1,0,Served with salad. [Medium Spicy],120.0
+Fried Rice And Noodles,Singapore Noodles,1,0,Served with salad.,120.0
+Snacks And Chaat,Bhel Puri,1,0,"A spicy and tangy chaat with puffed rice, sev, onions, tomatoes mixed together ... read more",59.4
+Snacks And Chaat,Dahi Batata Puri [5 Pieces],1,0,,59.4
+Snacks And Chaat,Dahi Puri [5 Pieces],1,0,,59.4
+Snacks And Chaat,Dahi Vada,1,0,Crispy and delicious vada dunked in creamy dahi topped with chaat powders.,59.4
+Snacks And Chaat,Delhi Chaat,1,0,,59.4
+Snacks And Chaat,Kachori Chaat,1,0,,59.4
+Snacks And Chaat,Limbu Churmur,1,0,"A tangy combination of puri, moong, chana, alu, lemon and dhaniya.",59.4
+Snacks And Chaat,Masala Puri [5 Pieces],1,0,,59.4
+Snacks And Chaat,Pani Puri [10 Pieces],1,0,,59.4
+Snacks And Chaat,Papdi Chaat,1,0,"Crispy papdis topped with boiled potatoes, chickpeas, chutneys, chaat masala, plenty of curd ... read more",59.4
+Snacks And Chaat,Sev Puri [5 Pieces],1,0,,59.4
+Snacks And Chaat,Cheese Sev Puri,1,0,,73.8
+Snacks And Chaat,Ragda Pattice,1,0,,78.0
+Sandwich,Aloo Matar Toast Sandwich,1,0,,58.2
+Sandwich,Bread Butter Sandwich,1,0,,64.8
+Sandwich,Cheese Aloo Matar Toast Sandwich,1,0,,73.8
+Sandwich,Cheese Bread Butter Sandwich,1,0,,64.8
+Sandwich,Cheese Veg Toast Sandwich,1,0,,92.4
+Sandwich,Grilled Sandwich,1,0,,119.4
+Sandwich,Veg Cheese Sandwich,1,0,,82.8
+Sandwich,Veg Sandwich,1,0,,51.0
+Sandwich,Veg Toast Sandwich,1,0,,59.4
+Pizza,Chinese Pizza [6 Inches],1,0,Pizza topped with Noodles for a Chinese-Italian experience.,147.6
+Pizza,Margherita Pizza [6 Inches],1,0,,120.0
+Pizza,Paneer Tikka Pizza [6 Inches],1,0,,175.2
+Pizza,Veg Cheese Pizza [6 Inches],1,0,,138.6
+Soups,Manchow Soup,1,0,Fried Noodles included. Manchow soup is a spicy and hot soup made from ... read more,101.4
+Soups,Noodles Soup,1,0,"Contains boiled noodles.. || Images used are for representation purposes only, and do ... read more",101.4
+Soups,Hot & Sour Soup,1,0,A Thick Spicy & Sour Soup Made From Juliennes of vegetables !,101.4
+Soups,Tomato Soup,1,0,"Bread crumbs included. A vegetable both prepared using garden fresh tomatoes, herbs and ... read more",101.4
+Kesariya Jalebi And Dry Fruit Milk,Jalebi 250g,1,0,,120.0
+Kesariya Jalebi And Dry Fruit Milk,Jalebi 500g,1,0,,240.0
+Kesariya Jalebi And Dry Fruit Milk,Jalebi [100 Grams],1,0,,54.0
+Kesariya Jalebi And Dry Fruit Milk,Rabdi 250g,1,0,,135.0
+Kesariya Jalebi And Dry Fruit Milk,Rabdi 500g,1,0,,270.0
+Kesariya Jalebi And Dry Fruit Milk,Rabdi [100 Grams],1,0,,60.0
+Accompaniments,Buttermilk,1,0,,18.0
+Accompaniments,Fried Noodles,1,0,,21.0
+Accompaniments,Jeeru Masti Cold Drink [200 ML],1,0,,18.0
+Accompaniments,Lasan Chutney,1,0,,36.0
+Accompaniments,Only Bhaji + Salad + Papad,1,0,,90.0
+Accompaniments,Only Bhaji,1,0,,88.8
+Accompaniments,Papad,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",9.0
+Accompaniments,Pav [4 Piece],1,0,,24.0
+Accompaniments,Salad,1,0,,30.0
+Extra,Pav Ladi (12Pcs),1,0,,72.0

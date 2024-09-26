@@ -1,0 +1,124 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Roll,Chicken & Egg Roll,0,0,,280.0
+Roll,Chicken Roll,0,0,,260.0
+Roll,Chocolate Peanut Butter Roll,1,0,,120.0
+Roll,Paneer Roll,1,0,,220.0
+Roll,Peanut Butter Roll,1,0,,100.0
+Roll,Vegetable Roll,1,0,,200.0
+Roll,Egg Dragon Roll,0,0,,310.0
+Soups,Vegetable Gym Soup,1,0,,240.0
+Soups,Vegetable Lemon Coriander Soup,1,0,,240.0
+Soups,Vegetable Manchow Soup,1,0,,240.0
+Soups,Broccoli Soup,1,0,,240.0
+Soups,Paneer Gym Soup,1,0,,240.0
+Soups,Vegetable Sweet Corn Soup,1,0,,240.0
+Soups,Egg Gym Soup,0,0,,240.0
+Soups,Egg Sweet Corn Soup,0,0,,240.0
+Soups,Chicken Gym Soup,0,0,,240.0
+Soups,Chicken Sweet Corn Soup,0,0,,240.0
+Bowl & Salad,Boil Vegetable With Sprout Salad,1,0,,20.0
+Bowl & Salad,Exotic Vegetable Salad,1,0,,260.0
+Bowl & Salad,Protein Bowl,1,0,,250.0
+Bowl & Salad,Paneer Roasted Bowl,1,0,,290.0
+Bowl & Salad,Egg Roasted Salad,0,0,,290.0
+Bowl & Salad,Chicken Boiled Salad,0,0,,260.0
+Bowl & Salad,Chicken Roasted Salad,0,0,,300.0
+Starters,Chicken Tikka,0,0,,360.0
+Starters,Tandoori Chest,0,0,,260.0
+Starters,Tandoori Leg,0,0,,260.0
+Starters,Paneer Chilli,1,0,,360.0
+Starters,Veg Crispy,1,0,,360.0
+Starters,Chicken Kacha Pakka,0,0,,450.0
+Starters,Chilli Chicken,0,0,,450.0
+Starters,Tai Pei Paneer,1,0,,360.0
+Starters,Tai Pei Chicken,0,0,,450.0
+Egg Starter,Boil Egg,0,0,,20.0
+Egg Starter,Cheese Boil Egg 2 Pcs,0,0,,80.0
+Egg Starter,Cheese Omelette,0,0,,150.0
+Egg Starter,Nimbu Mari Omelette,0,0,,130.0
+Egg Starter,Omelette,0,0,,150.0
+Egg Starter,Vegetable Omelette,0,0,,130.0
+Egg Starter,Egg Bhurji,0,0,,150.0
+Egg Starter,Scrambled Egg,0,0,,180.0
+Egg Starter,Masala Boil Fry,0,0,,260.0
+Egg Starter,Schezwan Egg,0,0,,320.0
+Gym Specials,Gym Mexican Fry,0,0,,210.0
+Gym Specials,Gym Fry Egg,0,0,,130.0
+Gym Specials,Gym Bhurji,0,0,,180.0
+Gym Specials,Gym Special,0,0,,315.0
+Main Course,Green Garlic Boil Fry,0,0,,220.0
+Main Course,Green Garlic Fry,0,0,,220.0
+Main Course,Green Khima,0,0,,220.0
+Main Course,Tomato Half Fry,0,0,,220.0
+Main Course,Egg Butter Masala,0,0,,320.0
+Main Course,Australian Fry,0,0,,400.0
+Main Course,Mexican Fry,0,0,,420.0
+Main Course,Egg Lahori,0,0,,420.0
+Main Course,Paplet,0,0,,420.0
+Main Course,Butter Chicken,0,0,,450.0
+Main Course,Chicken Lababdar,0,0,,480.0
+Main Course,Chicken Omelette,0,0,,450.0
+Main Course,Dahi Chicken,0,0,,450.0
+Main Course,Ghauty Chicken,0,0,,450.0
+Main Course,Lemon Chicken,0,0,,450.0
+Main Course,Dhaba Chicken,0,0,,450.0
+Main Course,Kadhai Chicken,0,0,,450.0
+Main Course,Chicken Tikka Masala,0,0,,450.0
+Main Course,Paneer Bhurji,1,0,,350.0
+Main Course,Kadhai Paneer,1,0,,360.0
+Main Course,Matar Paneer,1,0,,320.0
+Main Course,Mix Veg,1,0,,350.0
+Main Course,Palak Paneer,1,0,,360.0
+Main Course,Paneer Butter Masala,1,0,,360.0
+Main Course,Paneer Handi,1,0,,360.0
+Main Course,Paneer Kacha Pakka,1,0,,360.0
+Main Course,Paneer Masala Cheese,1,0,,380.0
+Main Course,Paneer Lababdar,1,0,,340.0
+Main Course,Dal Fry,1,0,,230.0
+Roti And Papad,Bread [Butter],1,0,,15.0
+Roti And Papad,Roti [Plain],1,0,,15.0
+Roti And Papad,Papad [Plain],1,0,,20.0
+Roti And Papad,Roti [Butter],1,0,,20.0
+Roti And Papad,Chaas [buttermilk],1,0,,45.0
+Roti And Papad,Masala Papad,1,0,,40.0
+Roti And Papad,Masala Cheese Papad,1,0,,80.0
+Rice & BIryani,Chicken Biryani & Raitta,0,0,,450.0
+Rice & BIryani,Chicken Mexican Rice,0,0,,310.0
+Rice & BIryani,Dal,1,0,,220.0
+Rice & BIryani,Egg Biryani With Raita,0,0,,429.0
+Rice & BIryani,Paneer Biryani With Raita,1,0,,450.0
+Rice & BIryani,Paneer Fried Rice,1,0,,320.0
+Rice & BIryani,Steam Rice,1,0,,80.0
+Rice & BIryani,Jeera Rice,1,0,,120.0
+Rice & BIryani,Vegetable Fried Rice,1,0,,320.0
+Rice & BIryani,Schezwan Fried Rice,1,0,,320.0
+Rice & BIryani,Paneer Fried Rice [gym],1,0,,280.0
+Rice & BIryani,Mushroom Garlic Fried Rice,1,0,,380.0
+Rice & BIryani,Paneer Mexican Rice,1,0,,380.0
+Rice & BIryani,Egg Fried Rice [Gym],0,0,,320.0
+Rice & BIryani,Egg Mexican Rice,0,0,,380.0
+Rice & BIryani,Chicken Fried Rice [Gym],0,0,,380.0
+Rice & BIryani,Chicken Fried Rice,0,0,,380.0
+Rice & BIryani,Chicken Mushroom Corn Fried Rice,0,0,,380.0
+Maggi,Plain Maggi,1,0,,80.0
+Maggi,Vegetable Maggi,1,0,,120.0
+Maggi,Egg Maggi,0,0,,150.0
+Maggi,Chicken Maggi,0,0,,180.0
+Sandwich,Bread Butter,1,0,,50.0
+Sandwich,Chocolate Peanut Butter Sandwich,1,0,,100.0
+Sandwich,Peanut Butter Sandwich,1,0,,100.0
+Sandwich,Vegetable Sandwich,1,0,,180.0
+Sandwich,Paneer Garden Sandwich,1,0,,220.0
+Sandwich,Egg Sandwich,0,0,,140.0
+Sandwich,Egg Garden Sandwich,0,0,,200.0
+Sandwich,Chicken Sandwich,0,0,,260.0
+Tea & Coffee,Cold Coffee,1,0,350 Ml.,200.0
+Tea & Coffee,Lemon Iced Tea,1,0,350 Ml.,180.0
+Drinks (Beverages),Banana Smoothie,1,0,350 Ml.,220.0
+Drinks (Beverages),Banana & Peanut Butter Smoothie,1,0,350 Ml.,240.0
+Drinks (Beverages),Chocolate Peanut Butter Smoothie,1,0,350 Ml.,240.0
+Drinks (Beverages),Chocolate Shake,1,0,350 Ml.,200.0
+Drinks (Beverages),Kit-Kat Shake,1,0,350 Ml.,220.0
+Drinks (Beverages),Oreo Shake,1,0,350 Ml.,220.0
+Drinks (Beverages),Protein Shake,1,0,350 Ml.,260.0
+Drinks (Beverages),Water Bottle,1,0,1 Litre.,15.0

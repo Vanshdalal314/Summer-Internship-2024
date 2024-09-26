@@ -1,0 +1,108 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Shivratri Special,Sabudana ki Khichdi,1,0,,89.0
+Shivratri Special,Sukhi Bhaji,1,0,,86.0
+Breakfast,Bread Butter,1,0,,55.0
+Breakfast,Vegetable Sandwich,1,0,Not grilled.,79.0
+Breakfast,Bread Butter with Jam,1,0,,63.0
+Breakfast,Jain Surti Khaman with Sev [150 grams],1,0,[Jain Preparation],98.0
+Breakfast,3 Thepla,1,0,,60.0
+Breakfast,Poha [300 grams],1,0,,88.0
+Breakfast,Poha [300 grams] with Dahi [150 grams],1,0,,119.0
+Breakfast,2 Plain Bhakri,1,0,,53.0
+Breakfast,3 Thepla with Poha [200 grams] and Dahi,1,0,,149.0
+Breakfast,Papdi Gathiya [100 grams],1,0,,58.0
+Breakfast,Surti Khaman with Sev,1,0,,88.0
+Breakfast,Jain Poha [300 grams],1,0,[Jain Preparation],78.0
+Thali,Gujarati Thali,1,0,2 Sabji+4 Roti+Dal+Rice+Sweet [1 Piece]+1 Buttermilk+Achar+Salad+Mouth Freshener [Subject to Availability],198.0
+Thali,Punjabi Thali,1,0,2 Punjabi Sabji+4 Roti+Dal Fry+Jeera Rice+Buttermilk+Sweet [1 Piece]+Salad+Achar+Mukhwas [Subject to Availability],230.0
+Thali,Jain Gujarati Thali,1,0,[Jain Preparation] 1 Sabji+4 Roti+1 Dal Bhat+Sweet [1 Piece]+1 Buttermilk+Achar+Mukhwas [Subject to Availability],179.0
+Thali,Jain Gujarati Thali [Serves 5],1,0,[Jain Preparation] 1 Sabji+4 Roti+Dal+Rice+Sweet [1 Piece]+1 Buttermilk+Achar+Mukhwas [Subject to Availability],846.0
+Thali,Gujarati Thali [Serves 5],1,0,2 Sabji+4 Roti+Dal+Rice+Sweet [1 Piece]+1 Buttermilk+Salad+Achar+Mukhwas [Subject to Availability],990.0
+Thali,Gujarati Thali [Mini],1,0,1 Gujarati Sabji [175 grams]+4 Roti+1 Buttermilk+Achar [Subject to Availability],149.0
+Thali,Jain Punjabi Thali [Mini],1,0,[Jain Preparation] 1 Jain Punjabi Sabji [175 grams]+4 Roti+1 Buttermilk [Subject to Availability],159.0
+Thali,Punjabi Thali [mi],1,0,1 Punjabi Sabji [175 grams]+4 Roti+Buttermilk [Subject to Availability],177.0
+Thali,Mixed Thali,1,0,4 Roti+1 Punjabi Sabji+1 Gujarati Sabji+Plain Rice+Dal Fry+Sweet [1 Piece]+1 Buttermilk+Papad [1 Piece]+Achar+Salad ... read more,237.0
+Thali,Jain Punjabi Thali,1,0,[Jain Preparation] 2 Punjabi Sabji+2 Paratha+Jeera Rice+Dal Fry+Salad+Pickle+Buttermilk [Subject to Availability],288.0
+Thali,2 Paratha with Dal Fry,1,0,2 Punjabi Sabji+2 Paratha+Dal Fry+Jeera Rice+1 Buttermilk+Sweet [1 Piece]+Salad+Achar+Mukhwas [Subject to Availability],259.0
+Thali,Gujarati Fix Thali,1,0,2 Sabji+4 Phulka Rotali+Dal+Rice+Buttermilk+Salad [Subject to Availability],199.0
+Combos,Chole Poori Combo,1,0,Chole [250 grams]+Poori [6 Poori]+1 Masala Buttermilk+Salad,159.0
+Combos,Lite Combo,1,0,Dal Fry [250 grams]+Jeera Rice [250 grams]+Roasted Papad [1 Piece]+1 Buttermilk+Pickle+Salad,159.0
+Combos,Pav Bhaji Combo,1,0,Bhaji [200 grams]+2 Pav+1 Buttermilk+1 Salad,166.0
+Combos,Chole Masala with Paratha,1,0,2 Paratha+Chole [200 grams]+1 Buttermilk,169.0
+Combos,Paneer Toofani with Paratha,1,0,Paneer Toofani+2 Paratha+Salad+1 Buttermilk+Pickle+Cutlery,180.0
+Combos,Jain Paneer Toofani with Paratha,1,0,Paneer Toofani+2 Paratha+1 Buttermilk+Salad+Mukhwas,195.0
+Combos,Jain Chole Masala with Paratha,1,0,2 Paratha+Chole [200 grams]+1 Buttermil,188.0
+Combos,Kathiyawadi Combo 2,1,0,2 Paratha+1 Sev Tomato Sabji [175 grams]+1 Buttermilk+Salad+Achar,180.0
+Combos,Kathiyawadi Combo 1,1,0,3 Thepla+Sukhi Bhaji [250 grams]+Dahi [125 grams]+Achar,169.0
+Meals,Buttermilk with Chole Masala and Paratha,1,0,,189.0
+Meals,Buttermilk with Kathiyawadi,1,0,,189.0
+Starters,Manchurian Dry [300 grams],1,0,,149.0
+Starters,Paneer Chilli [300 grams],1,0,,195.0
+Starters,Jain Paneer Chilli [300 grams],1,0,,168.0
+Mains,Special Sev Tomato [300 grams],1,0,,165.0
+Mains,Special Rajwadi Undhiyu [300 grams],1,0,,175.0
+Mains,Special Bhareli Bhindi [300 grams],1,0,,178.0
+Mains,Special Jeera Aloo [300 grams],1,0,,159.0
+Mains,Special Rajwadi Dhokli [300 grams],1,0,,188.0
+Mains,Special Dry Bhindi Masala [300 grams],1,0,,179.0
+Mains,Special Chole Chana [300 grams],1,0,,168.0
+Mains,Special Aloo Matar [300 grams],1,0,,168.0
+Mains,Special Suki Bhaji [300 grams],1,0,,149.0
+Mains,Special Dum Aloo [300 grams],1,0,,166.0
+Mains,Special Rasvala Aloo [300 grams],1,0,,159.0
+Mains,Special Dahi Tikhari [300 grams],1,0,,162.0
+Mains,Special Kaju Gadhiya [300 grams],1,0,,178.0
+Mains,Special Ringan No Oro [300 grams],1,0,Bhadthu.,189.0
+Mains,Special Jain Bhindi Masala [300 grams],1,0,,177.0
+Mains,Special Jain Chana Masala [300 grams],1,0,,175.0
+Mains,Special Bharela Ringan [300 grams],1,0,,170.0
+Mains,Special Lusan Gadhiya [300 grams],1,0,,175.0
+Mains,Special Kaju Patra [300 grams],1,0,,189.0
+Mains,Paneer Butter Masala [300 grams],1,0,,262.0
+Mains,Paneer Tikka Masala [300 grams],1,0,,280.0
+Mains,Kaju Paneer Butter Masala [300 grams],1,0,,290.0
+Mains,Kaju Curry [300 grams],1,0,,246.0
+Mains,Paneer Toofani [300 grams],1,0,,280.0
+Mains,Paneer Bhurji [300 grams],1,0,,315.0
+Mains,Jain Kaju Curry [300 grams],1,0,,290.0
+Mains,Kaju Paneer [300 grams],1,0,,298.0
+Mains,Somnath Special Paneer Sabji [300 grams],1,0,,296.0
+Mains,Punjabi Chole Masala [300 grams],1,0,,220.0
+Mains,Palak Paneer [300 grams],1,0,,270.0
+Rice and Biryani,Dal Rice [Serves 1],1,0,,85.0
+Rice and Biryani,Kadhi Khichdi [300 grams],1,0,,145.0
+Rice and Biryani,Dal Fry Jeera Rice [300 grams],1,0,,181.0
+Rice and Biryani,Masala Khichdi [300 grams],1,0,,169.0
+Rice and Biryani,Kadhi Pulao [300 grams],1,0,,160.0
+Rice and Biryani,Dal Masala Khichdi [Serves 2],1,0,,177.0
+Rice and Biryani,Plain Rice [300 grams],1,0,,69.0
+Rice and Biryani,Jeera Rice [300 grams],1,0,,99.0
+Rice and Biryani,Plain Khichdi [300 grams],1,0,,80.0
+Rice and Biryani,Curd Rice [300 grams],1,0,,99.0
+Rice and Biryani,Jain Pulao [300 grams],1,0,,175.0
+Rice and Biryani,Kaju Pulao [300 grams],1,0,,195.0
+Rice and Biryani,Matar Pulao [300 grams],1,0,,170.0
+Rice and Biryani,Jaun Kaju Pulao [300 grams],1,0,,180.0
+Rice and Biryani,Paneer Pulao [300 grams],1,0,,180.0
+Rice and Biryani,Veg Biryani with Raita,1,0,"Veg biryani [300 grams], raita [200 grams] pickle, salad and accessories.",169.0
+Rice and Biryani,Veg Hyderabadi Biryani with Raita,1,0,"Veg Hyderabadi biryani [300 grams], raita [200 grams] pickle, salad and accessories.",197.0
+Breads,Lasaniya Rotla [Serves 1],1,0,Served with curd [dahi].,142.0
+Breads,3 Plain Roti,1,0,,42.5
+Breads,3 Butter Roti,1,0,,52.5
+Breads,2 Plain Paratha,1,0,,65.5
+Breads,3 Thepla,1,0,,50.5
+Breads,2 Plain Bhakri,1,0,,53.5
+Breads,Bajri No Rotlo,1,0,,35.0
+Breads,Butter Bajri Rotlo,1,0,,40.5
+Breads,2 Butter Paratha,1,0,,69.5
+Fried Rice,Fried Rice [300 grams],1,0,,188.0
+Fried Rice,Jain Fried Rice [300 grams],1,0,,168.0
+Sandwiches,Vegetable Sandwich [3 Layer],1,0,Not grilled.,88.0
+Sandwiches,Jain Veg Cheese Sandwich [3 Layer],1,0,Not grilled.,88.0
+Farali,Farali Sabudana Ni Khichdi [300 grams],1,0,,139.0
+Farali,Farali Suki Aloo Bhaji [300 grams],1,0,,166.0
+Snacks,Poha [300 grams],1,0,,88.0
+Snacks,2 Pav,1,0,,16.0
+Accompaniment,Curd [201 ml],1,0,Dahi.,28.0
+Drinks (Beverages),Buttermilk [200 ml],1,0,,20.0
+Drinks (Beverages),Masala Buttermilk [200 ml],1,0,,20.0

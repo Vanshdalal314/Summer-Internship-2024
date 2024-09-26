@@ -1,0 +1,70 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Samosa and Kachori,Dal Kachori [2 Pieces],1,0,,60.0
+Samosa and Kachori,Samosa [2 pieces],1,0,,70.0
+Samosa and Kachori,Pyaza Kachori [2 Pieces],1,0,,80.0
+Chappan Bhog,Chappan Bhog Special Box,1,0,,2051.0
+Namkeens,Sweet Farali Chivda,1,0,,100.0
+Dry Fruit Sweets,Kaju Katli,1,0,,345.0
+Dry Fruit Sweets,Strawberry Katli,1,0,,360.0
+Dry Fruit Sweets,Kesar Katli,1,0,,375.0
+Dry Fruit Sweets,Kaju Jalebi,1,0,,375.0
+Dry Fruit Sweets,Dry Fruit Laddu,1,0,,375.0
+Dry Fruit Sweets,Chocolate Bites,1,0,,350.0
+Dry Fruit Sweets,Mixed Bite,1,0,,400.0
+Dry Fruit Sweets,Anjeer Kasatta,1,0,,290.0
+Dry Fruit Sweets,Mixed Anjeer Khajoor,1,0,,330.0
+Dry Fruit Sweets,Anjeer Ball,1,0,,400.0
+Dry Fruit Sweets,Kaju Pista Roll,1,0,,320.0
+Dry Fruit Sweets,Kaju Katori,1,0,,320.0
+Dry Fruit Sweets,Kaju Patra,1,0,,320.0
+Dry Fruit Sweets,Kaju Pan Pasand,1,0,,430.0
+Dry Fruit Sweets,Basket Baklava,1,0,,460.0
+Dry Fruit Sweets,Pyramid Baklava,1,0,,460.0
+Dry Fruit Sweets,Kamal Bhog [5 Pieces],1,0,,200.0
+Bengali Sweets,Rasgulla [5 Pieces],1,0,,165.0
+Bengali Sweets,Gulab Jamun [5 Pieces],1,0,,200.0
+Bengali Sweets,Jodhpuri Gulab Jamun [5 Pieces],1,0,,200.0
+Bengali Sweets,Kala Gulab Jamun [5 Pieces],1,0,,225.0
+Bengali Sweets,Chum Chum [5 Pieces],1,0,,225.0
+Bengali Sweets,Malai Chum Chum [5 Pieces],1,0,,225.0
+Bengali Sweets,Rasmalai [5 Pieces],1,0,,360.0
+Rajasthani Special Sweets,Angoori White Petha,1,0,,130.0
+Rajasthani Special Sweets,Kesar Angoori Petha,1,0,,145.0
+Rajasthani Special Sweets,Agra Petha,1,0,,160.0
+Rajasthani Special Sweets,Gulab Halwa,1,0,,200.0
+Rajasthani Special Sweets,Mysore Pak,1,0,,200.0
+Rajasthani Special Sweets,Moong Dal Halwa,1,0,,210.0
+Rajasthani Special Sweets,Balu Shahi,1,0,,220.0
+Rajasthani Special Sweets,Gujiya,1,0,,220.0
+Rajasthani Special Sweets,Sohan Halwa,1,0,,280.0
+Laddu,Motichoor Laddu,1,0,,230.0
+Laddu,Sada Motichoor Laddu,1,0,,200.0
+Laddu,Boondi Laddu,1,0,,200.0
+Laddu,Gond Giri Laddu,1,0,,230.0
+Laddu,Besan Laddu,1,0,,200.0
+Laddu,Boondi,1,0,,150.0
+Laddu,Chana Badami Laddu,1,0,,220.0
+Peda,Malai Peda,1,0,Special Peda,200.0
+Peda,Kesar Peda,1,0,,210.0
+Peda,Makhaniya Peda,1,0,,215.0
+Peda,Kesar Makhaniya Peda,1,0,,230.0
+Peda,Chirawa Peda,1,0,,235.0
+Peda,Mathura Peda,1,0,,235.0
+Barfi,Bikaner Barfi,1,0,,260.0
+Barfi,Coconut Barfi,1,0,,200.0
+Barfi,Malai Kalakand Barfi,1,0,,200.0
+Barfi,Kesar Coconut Barfi,1,0,,220.0
+Barfi,Kashmiri Coconut Barfi,1,0,,160.0
+Barfi,Milk Cake,1,0,,200.0
+Barfi,Besan Barfi,1,0,,200.0
+Barfi,Chana Badami Burfi,1,0,,220.0
+Ghewar,Rabdi Ghewar,1,0,,425.0
+Ghewar,Kesariya Ghewar,1,0,,260.0
+Sugar Free Sweets,Sugar Free Gujiya,1,0,Dry gunjia,225.0
+Fast Food,Cheese Pizza [7 inches],1,0,,300.0
+Fast Food,Veg Cheese Pizza [7 inches],1,0,,350.0
+Fast Food,Paneer Tikka Pizza [7 inches],1,0,7 Inches,400.0
+Fast Food,Corn Cheese Pizza [7 inches],1,0,7 Inches,400.0
+Fast Food,Mexican Cheese Pizza [7 inches],1,0,7 Inches,430.0
+Fast Food,Veg Sandwich,1,0,,130.0
+Fast Food,Veg Cheese Sandwich,1,0,,170.0

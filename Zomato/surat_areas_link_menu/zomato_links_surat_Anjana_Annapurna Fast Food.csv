@@ -1,0 +1,55 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Peppy Paneer Pizza [8 inches],1,0,Topped fresh red paprika and tandoori paneer cubes dipped in mozzarella cheese with ... read more,190.0
+Pizza,Cheese and Corn Pizza [8 inches],1,0,Yummy cheesy pizza with sweet corn dipped in it.,160.0
+Pizza,Deluxe Veggie Pizza [8 inches],1,0,"Farm fresh veggies, olives, jalapenos, paneer dipped in Mozzarella cheese with other sauce ... read more",270.0
+Pizza,Jalapenos Pizza [7 inches],1,0,Fresh sliced green jalapeno dipped in Mozzarella cheese and sauce.,170.0
+Pizza,Onion and Paneer Pizza [8 inches],1,0,Fresh onion slices and paneer cubes dipped in Mozzarella cheese and red sauce.,200.0
+Pizza,Olives and Paneer Pizza [8 inches],1,0,Black olives and paneer dipped with cheese.,249.0
+Pizza,Veg Cheese Pizza [8 inches],1,0,"Fresh veggies, capsicum, onion, jalapenos, paprika.topped in mozzarella cheese.",155.0
+Pizza,Margherita Pizza [8 inches],1,0,"Dipped in full Mozzarella cheese, chilli flakes and sauce. Cheesy flavour.",165.0
+Pizza,Capsicum Pizza [8 inches],1,0,"Fresh green capsicum, dipped in cheese and sauce.",130.0
+Pizza,Onion Pizza [8 inches],1,0,Sliced onion topping with Mozzarella dipped.,130.0
+Pizza,Tomato Pizza [8 inches],1,0,Fresh red tomatoes topping dipped with Mozzarella cheese and red paprika.,120.0
+Pizza,Italian Pizza [8 inches],1,0,,190.0
+Pizza,Red Paprika Pizza [8 inches],1,0,Sliced paprika with Mozzarella cheese dipped.,170.0
+Burgers and Sandwiches,Veg Burger,1,0,,70.0
+Burgers and Sandwiches,Tikki Burger,1,0,,60.0
+Burgers and Sandwiches,Cheese Burger,1,0,,100.0
+Burgers and Sandwiches,Schezwan Cheese Burger,1,0,,110.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,70.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,100.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,,150.0
+Burgers and Sandwiches,Cheese Grilled Sandwich,1,0,,170.0
+Burgers and Sandwiches,Chocolate Grilled Sandwich,1,0,,200.0
+Snacks,Plain Vada Pav,1,0,,33.0
+Snacks,Cheese Vada Pav,1,0,,60.0
+Snacks,Salted Fries [Regular],1,0,,90.0
+Snacks,Peri Peri Masala Fries,1,0,,115.0
+Snacks,Solid Masti Mayo Pav,1,0,,50.0
+Snacks,Cream and Onion Mayo Pav,1,0,,60.0
+Snacks,Plain Bread Pakoda [1 Piece],1,0,,45.0
+Snacks,Paneer Bread Pakoda [1 Piece],1,0,,70.0
+Snacks,Cheese Bread Pakoda [1 Piece],1,0,,100.0
+Momos,Veg Steamed Momos [8 Pieces],1,0,Delicious steamed momos with spicy red chutney and mayonnaise.,100.0
+Momos,Veg Fried Momos [8 Pieces],1,0,,120.0
+Momos,Paneer Steamed Momos [8 Pieces],1,0,,110.0
+Momos,Paneer Fried Momos [8 Pieces],1,0,,130.0
+Momos,Cheese Steamed Momos [8 Pieces],1,0,,140.0
+Momos,Cheese Fried Momos [8 Pieces],1,0,,160.0
+Momos,Cheese Corn Steamed Momos [8 Pieces],1,0,,180.0
+Momos,Cheese Corn Fried Momos [8 Pieces],1,0,,200.0
+Momos,Kurkure Momos [8 Pieces],1,0,,200.0
+Momos,Cheese Kurkure Momos [8 Pieces],1,0,,230.0
+Maggi,Plain Maggi,1,0,,65.0
+Maggi,Vegetable Maggi,1,0,,85.0
+Maggi,Cheese Maggi,1,0,,105.0
+Frankies,Veg Frankie,1,0,,70.0
+Frankies,Veg Cheese Frankie,1,0,,105.0
+Frankies,Paneer Frankie,1,0,,120.0
+Bread Toast,Plain Bread Masala Toast,1,0,,70.0
+Bread Toast,Paneer Bread Masala Toast,1,0,,102.0
+Bread Toast,Cheese Bread Masala Toast,1,0,,130.0
+Garlic Breads,Cheesy Garlic Bread [4 Pieces],1,0,,170.0
+Hot Dog,Veggie Hot Dog,1,0,,90.0
+Hot Dog,Paneer Hot Dog,1,0,,115.0
+Hot Dog,Cheesy Hot Dog,1,0,,150.0

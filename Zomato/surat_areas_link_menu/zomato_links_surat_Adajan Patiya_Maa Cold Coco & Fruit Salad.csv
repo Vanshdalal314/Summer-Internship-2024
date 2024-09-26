@@ -1,0 +1,112 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+American Thik Shake (290 Ml),Akhrot Anjeer (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Banana (Thishake),1,0,,100.0
+American Thik Shake (290 Ml),Black Currant (Thikshake),1,0,,100.0
+American Thik Shake (290 Ml),Butterscotch (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Chocolate Almond (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Coconut Kaju (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Coffee Cranch (Colfee + Kitkat) (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Coffee Masti (Coffee + Kilkat +Oreo + Fruit) (Thikshake),1,0,,123.81
+American Thik Shake (290 Ml),Cold Coffee (Thikshake),1,0,,100.0
+American Thik Shake (290 Ml),Gulab Masti (Thikshake),1,0,,100.0
+American Thik Shake (290 Ml),Gulab Masti Kaju (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Kaju (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Kaju Anjeer (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Kaju Badam (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Kaju Badam Pista (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Kaju Draksh (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Kaju Gulkand (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Kesar Pista (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Khajoor Akhrot (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Kiwi (Thikshake),1,0,,100.0
+American Thik Shake (290 Ml),Mango (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Mango Kaju (Thikshake),1,0,,123.81
+American Thik Shake (290 Ml),Pineapple (Thikshake),1,0,,100.0
+American Thik Shake (290 Ml),Rajbhog Dry Fruit (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Roasted Almond (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Rose (Thikshake),1,0,,100.0
+American Thik Shake (290 Ml),Rosted Almond Anjeer (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Strawberry (Thikshake) Regular,1,0,,100.0
+American Thik Shake (290 Ml),Strawberry Fresh (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Thandai (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Vailla (Thikshake),1,0,,100.0
+American Thik Shake (290 Ml),Vanilla Chips (Thikshake),1,0,,109.52
+American Thik Shake (290 Ml),Vanilla Kaju (Thikshake),1,0,,109.52
+Choco Item,Biscoff Cranch (Thikshake),1,0,,161.9
+Choco Item,Biscoff Lovers (Thikshake),1,0,(Biscoff + Dry Fruit + Oreo + Kitkat + Ferrero Rocher),200.0
+Choco Item,Choco Blast (Thikshake),1,0,,200.0
+Choco Item,Chocolate (Thikshake),1,0,,100.0
+Choco Item,Chocolate Chips (Thikshake),1,0,,109.52
+Choco Item,Dark Ferrero (Thikshake),1,0,,147.62
+Choco Item,Ferrero Rocher (Thikshake),1,0,,200.0
+Choco Item,Kaju Chocolate (Thikshake),1,0,,109.52
+Choco Item,Kitkat (Thikshake),1,0,,109.52
+Choco Item,Naughty Nutella (Thikshake),1,0,,147.62
+Choco Item,Naughty Nutella Crunch (Thikshake),1,0,,161.9
+Choco Item,Nutella Plain (Thikshake),1,0,,138.1
+Choco Item,Plain Biscoff (Thikshake),1,0,,138.1
+Fresh Juice (300 Ml),"Ganga Jamna (Mosambi, Orange) (Fresh)",1,0,,85.71
+Fresh Juice (300 Ml),Ganga Jamna Sarswati,1,0,"(Mosambi, Pineapple, Orange) (Fresh)",85.71
+Fresh Juice (300 Ml),Mosambi Pineapple Mix (Fresh),1,0,,85.71
+Fresh Juice (300 Ml),Orange (Seasonal) (Fresh),1,0,,85.71
+Fresh Juice (300 Ml),Pineapple (Fresh),1,0,,85.71
+Fresh Juice (300 Ml),Pomegranate (Fresh),1,0,,147.62
+Fresh Juice (300 Ml),Strawberry Fresh (Seasonal) (Fresh),1,0,,104.76
+Fresh Juice (300 Ml),Sweet Lime (Mosambi) (Fresh),1,0,,85.71
+Milk Shake (300 Ml),Anjeer Milk Shake Milk Shake),1,0,,123.81
+Milk Shake (300 Ml),Apple (Mik Shake),1,0,,76.19
+Milk Shake (300 Ml),Badam (Milk Shake),1,0,,185.71
+Milk Shake (300 Ml),Badam Shake (1 Liter),1,0,,271.43
+Milk Shake (300 Ml),Chikoo (Milk Shake),1,0,,61.9
+Milk Shake (300 Ml),Chikoo Chocolate (Milk Shake),1,0,,76.19
+Milk Shake (300 Ml),Chikoo Kaju (Milk Shake),1,0,,100.0
+Milk Shake (300 Ml),Chikoo Kaju With Ice-Cream (Milk Shake),1,0,,109.52
+Milk Shake (300 Ml),Chocolate (Milk Shake),1,0,,61.9
+Milk Shake (300 Ml),Chokoo Chocolate With Ice-Cream (Milk Shake),1,0,,85.71
+Milk Shake (300 Ml),Coco Ice-Cream,1,0,,100.0
+Milk Shake (300 Ml),Cold Coco (1 Liter),1,0,,247.62
+Milk Shake (300 Ml),Cold Coco With Chips,1,0,,100.0
+Milk Shake (300 Ml),Cold Coco,1,0,,85.71
+Milk Shake (300 Ml),Cold Coffee (Mik Shake),1,0,,109.52
+Milk Shake (300 Ml),Farali Fruit Salad (1 Liter),1,0,,257.14
+Milk Shake (300 Ml),Farali Fruit Salad,1,0,,100.0
+Milk Shake (300 Ml),Fruit Salad (1 Liter),1,0,,247.62
+Milk Shake (300 Ml),Fruit Salad With Dry Fruit,1,0,,109.52
+Milk Shake (300 Ml),Fruit Salad With Ice-Cream,1,0,,100.0
+Milk Shake (300 Ml),Fruit Salad,1,0,,85.71
+Milk Shake (300 Ml),Kaiu Badam (Milk Shake),1,0,,185.71
+Milk Shake (300 Ml),Kaju Anjeer (Mik Shake),1,0,,161.9
+Milk Shake (300 Ml),Kaju Badam Anjeer (Milk Shake),1,0,,185.71
+Milk Shake (300 Ml),Kaju Badam Pista (Milk Shake),1,0,,185.71
+Milk Shake (300 Ml),Kaju Chocolate (Mik Shake),1,0,,185.71
+Milk Shake (300 Ml),Kaju Coco,1,0,,123.81
+Milk Shake (300 Ml),Kaju Gulkand (Mik Shake),1,0,,171.43
+Milk Shake (300 Ml),Kaju Mango (Mik Shake),1,0,,147.62
+Milk Shake (300 Ml),Kaju Mango With Ice-Cream (Mik Shake),1,0,,161.9
+Milk Shake (300 Ml),Kaju Mik Shake),1,0,,185.71
+Milk Shake (300 Ml),Kesar Badam Shake (Without Custard),1,0,,100.0
+Milk Shake (300 Ml),Kesar Thandai Milkshake,1,0,,100.0
+Milk Shake (300 Ml),Kitkat Coco,1,0,,109.52
+Milk Shake (300 Ml),Lassi (250 Mi),1,0,,52.38
+Milk Shake (300 Ml),Mango (Milk Shake),1,0,,109.52
+Milk Shake (300 Ml),Mango With Ice-Cream (Milk Shake),1,0,,123.81
+Milk Shake (300 Ml),Oreo (Milk Shake),1,0,,76.19
+Milk Shake (300 Ml),Pineapple (Milk Shake),1,0,,61.9
+Milk Shake (300 Ml),Pineapple Ice-Cream (Milk Shake),1,0,,76.19
+Milk Shake (300 Ml),Pineapple Kaju (Mik Shake),1,0,,100.0
+Milk Shake (300 Ml),Pineapple Kaju With Ice-Cream (Mik Shake),1,0,,109.52
+Milk Shake (300 Ml),Rose Milkshake (Milk Shake),1,0,,61.9
+Milk Shake (300 Ml),Special Custard Apple (Seasonal) (Mik Shake),1,0,,100.0
+Milk Shake (300 Ml),Strawberry Milkshake (Milk Shake),1,0,,61.9
+Milk Shake (300 Ml),Venila (Mik Shake),1,0,,76.19
+Oreo Item,Black Magic (Thikshake),1,0,(Black Curant + Dry Fruit + Oreo + Kitkat),109.52
+Oreo Item,Choco Classic (Thikshake),1,0,,109.52
+Oreo Item,Green Magic (Thikshake),1,0,(Kiwi + Dry Fruit + Oreo + Kitkat),109.52
+Oreo Item,Oreo Chocolate (Thikshake),1,0,,109.52
+Oreo Item,Oreo Cookies (Thikshake),1,0,,100.0
+Oreo Item,Oreo Cookies Chips (Thikshake),1,0,,109.52
+Oreo Item,Oreo Kaju (Thikshake),1,0,,109.52
+Oreo Item,Oreo Tukda (Thikshake),1,0,,109.52
+Oreo Item,Red Magic (Thikshake),1,0,(Rose +Dry Fruit + Oreo + Kitkat),109.52
+Oreo Item,Surprise (Thikshake),1,0,(Banana + Pista + Dry Fruit + Oreo + Kitkat),109.52
+Oreo Item,White Magic (Thikshake),1,0,(Venila + Dry Fruit + Oreo + Kitkat),109.52

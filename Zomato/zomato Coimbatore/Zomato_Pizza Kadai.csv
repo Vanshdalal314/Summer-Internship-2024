@@ -1,0 +1,37 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Cheese & Tomato Pizza [8 inches],1,0,A 7-inches pizza crust filled with mozarella cheese and topped with tomato chunks.,159.0
+Pizza,Peri Peri Pizza [8 inches],1,0,A 7-inches pizza filled with mozarella cheese and seasoned with peri peri.,159.0
+Pizza,Veg Pizza [8 inches],1,0,"A veg classic pizza with a combination of onion, capsicum and mozzarella cheese.",169.0
+Pizza,Paneer Pizza [8 inches],1,0,"A pizza with a delightful combination of paneer tikka, onion, capsicum and mozzarella ... read more",189.0
+Pizza,Mushroom Pizza [8 inches],1,0,"A 7-inch pizza loaded with mozzarella cheese and topped with mushroom, onion and ... read more",189.0
+Pizza,Chicken Tikka Pizza [8 inches],1,0,"A 7-inch pizza with a lovely combination of onion, capsicum and chicken tikka ... read more",189.0
+Pizza,Schezwan Chicken Pizza [8 inches],1,0,"A 7-inches pizza with schezwan chicken toppings along with onion, capsicum and mozzarella ... read more",189.0
+Pizza,Bhuna Chicken Pizza [8 inches],1,0,"A 7-inches pizza with bhuna chicken toppings along with onion, capsicum and mozzarella ... read more",189.0
+Burgers,Veg Mini Burger,1,0,"Deep fried patty served along with lettuce, onion, tomato and topped with chipotle ... read more",119.0
+Burgers,Spicy Veg Burger,1,0,A delicious crunchy veg patty served along with fresh veggies and packed with ... read more,139.0
+Burgers,Classic Veg Burger,1,0,A delicious crunchy veg patty served along with fresh veggies and packed with ... read more,139.0
+Burgers,Classic Paneer Burger,1,0,A treat for paneer lovers as this burger has a deep fried paneer ... read more,169.0
+Burgers,Mexican Chicken Burger,1,0,Delicious burger made with a crunchy fried chicken patty and filled with fresh ... read more,159.0
+Burgers,Deluxe Premium Chicken Burger,1,0,"Soft bun, fresh veggies packed along with a signature mayo and a special ... read more",189.0
+Burgers,Schezwan Premium Mutton Burger,1,0,An irresistible mutton patty specially prepared packed with a soft bun along with ... read more,209.0
+Burgers,Chipotle Mutton Burger,1,0,A supremely delicious mutton patty deep fried and presented along with fresh veggies ... read more,189.0
+Fried Chicken,Assorted Fried Chicken,1,0,,99.0
+Fried Chicken,Fried Chicken Wings,1,0,,179.0
+Starters,French Fries,1,0,"Deep fried potato wedges, best had with some tangy tomato ketchup.",99.0
+Starters,Peri Peri French Fries,1,0,Fries deep fries added with peri peri masala that makes fries spicy.,99.0
+Starters,Chilli Garlic French Fries,1,0,French fries sprinkled generously with our in house punchy seasoning of chilli garlic.,99.0
+Starters,Lemon Pepper French Fries,1,0,A unique seasoning of lemony tang with freshly ground pepper dusted on top ... read more,99.0
+Starters,Veg Fingers,1,0,"Vegetable fingers coated in crispy bread crumbs, deep fried.",169.0
+Starters,Chicken Popcorn,1,0,Boneless bite size crispy chicken with spice rub. Add a dip of your ... read more,149.0
+Starters,Chicken Fingers,1,0,,199.0
+Desserts,Choco Lava Cake,1,0,"A chocolate cake with a soft, fudge like center. As we break the ... read more",99.0
+Desserts,Truffle Brownie,1,0,A delicious chocolate brownie topped up with choco truffle sauce giving it a ... read more,99.0
+Desserts,Walnut Brownie,1,0,Choco brownie topped with truffle and walnut to offer a fantastic taste.,99.0
+Drinks (Beverages),Mint Mojito [Serves 1],1,0,A refreshing mojito beverage in mint flavor to satisfy your thirst and taste ... read more,139.0
+Drinks (Beverages),Blue Curacao Mojito,1,0,The famous blue beverage to quench your thirst served in combination with soda ... read more,139.0
+Drinks (Beverages),Virgin Mojito,1,0,[Non Alcoholic] An exotic flavor served with green chilly and soda. This may ... read more,139.0
+Drinks (Beverages),Butterscotch Frappe Milkshake,1,0,"Frappe shake served cold with a rich taste of butterscotch. Prepared using frappe, ... read more",99.0
+Drinks (Beverages),Chocolate Frappe Milkshake,1,0,"A rich and tasty choco flavored chocolate shake prepared with milk, ice cubes, ... read more",99.0
+Drinks (Beverages),Rose Frappe Milkshake,1,0,Rose flavored frappe shake served cold to treat your taste buds.,66.0
+Drinks (Beverages),Mango Frappe Milkshake,1,0,A cold mango beverage to satisfy your taste buds. Prepared along with fresh ... read more,109.0
+Drinks (Beverages),Strawberry Frappe Milkshake,1,0,Rich creamy irresistible strawberry flavored shake. A refreshing beverage and a must try ... read more,109.0

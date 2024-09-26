@@ -1,0 +1,85 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tea,Black Lemon Tea [2 Cups],1,0,,80.0
+Tea,Black Lemon Ginger Tea [2 Cups],1,0,,80.0
+Tea,Darjeeling Lemon Tea [2 Cups],1,0,,80.0
+Tea,Darjeeling Lemon Ginger Tea [2 Cups],1,0,,80.0
+Tea,Green Lemon Tea [2 Cups],1,0,,80.0
+Tea,Green Lemon Ginger Tea [2 Cups],1,0,,80.0
+Tea,Organic Tulsi Tea [2 Cups],1,0,,90.0
+Tea,Kesar Elachi Tea [2 Cups],1,0,Kesar elaichy tea(2 cup full),120.0
+Tea,Masala Tea [2 Cups],1,0,Masala tea(2 cup full),100.0
+Tea,Ginger Tea [2 Cups],1,0,,100.0
+Tea,Ginger Pudina Tea [2 Cups],1,0,Ginger Pudina Tea(2 Cup Full),100.0
+Tea,Ginger Lemongrass Tea [2 Cups],1,0,,100.0
+Tea,Elachi Tea [2 Cups],1,0,,100.0
+Tea,Pudina Tea [2 Cups],1,0,,100.0
+Tea,Plain Tea [2 Cups],1,0,,100.0
+Sandwiches,Veg Grilled Cheese Sandwich,1,0,,80.0
+Sandwiches,Veg Grilled Sandwich,1,0,,65.0
+Sandwiches,Grilled Club Sandwich,1,0,[Non Jain] Grilled club sandwich.,120.0
+Sandwiches,Italian Grilled Sandwich,1,0,[Non Jain],70.0
+Sandwiches,Cheese Corn Grilled Sandwich,1,0,,75.0
+Sandwiches,Peri Peri Paneer Grilled Sandwich,1,0,[Non Jain],120.0
+Sandwiches,Veg Plain Sandwich,1,0,,50.0
+Sandwiches,Veg Plain Cheese Sandwich,1,0,,65.0
+Sandwiches,Coleslaw Plain Sandwich,1,0,[Non Jain],50.0
+Sandwiches,Coleslaw Grilled Sandwich,1,0,[Non Jain],60.0
+Sandwiches,Cheese Plain Chutney Sandwich,1,0,,60.0
+Sandwiches,Cheese Grilled Chutney Sandwich,1,0,,75.0
+Sandwiches,Chocolate Grilled Sandwich,1,0,[Non Jain],90.0
+Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,[Non Jain],120.0
+Maggi,Cheese Veg Maggi Noodles,1,0,[Non Jain],80.0
+Maggi,Veg Maggi Noodles,1,0,[Non Jain],65.0
+Snacks,Masala French Fries,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",90.0
+Snacks,French Fries,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",80.0
+Snacks,Chilli Garlic Potato Balls,1,0,"| Images used are for representation purposes only, and do not indicate size, ... read more",90.0
+Snacks,Potato Wedges,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",90.0
+Snacks,Smiles,1,0,,90.0
+Snacks,Veggie Nuggets,1,0,,90.0
+Quick Bites,Chilly Cheese Garlic Toast,1,0,,60.0
+Quick Bites,Hot Wheat Khari,1,0,Wheat Khari Biscuits or Puffed Salted Biscuits comes with the goodness of whole ... read more,35.0
+Quick Bites,Bread Butter,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",30.0
+Quick Bites,Bread Butter Jam,1,0,,35.0
+Quick Bites,Bread Butter Toast,1,0,,20.0
+Quick Bites,Chilly Cheese Toast,1,0,,60.0
+Quick Bites,Veg Supreme Toast,1,0,[Non Jain],70.0
+Quick Bites,Corn Cheese Toast,1,0,,60.0
+Drinks (Beverages),Hot Coffee [2 Cups],1,0,,120.0
+Drinks (Beverages),Hot Chocolate [2 Cups],1,0,,120.0
+Drinks (Beverages),Hot Bournvita [2 Cups],1,0,,120.0
+Drinks (Beverages),Cold Coffee Blended Ice Cream,1,0,,90.0
+Drinks (Beverages),Choco Fiesta,1,0,,70.0
+Drinks (Beverages),Cold Bournvita,1,0,,80.0
+Drinks (Beverages),Black Coffee,1,0,,70.0
+Drinks (Beverages),Blended Cold Coffee with Ice Cream,1,0,,90.0
+Drinks (Beverages),Caramel Cold Coffee,1,0,,100.0
+Drinks (Beverages),Hot Kesar Masala Milk [2 Cups],1,0,,120.0
+Drinks (Beverages),Cold Kesar Masala Milk,1,0,,120.0
+Drinks (Beverages),Lemon Iced Tea,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",60.0
+Drinks (Beverages),Mixed Berries Iced Tea,1,0,,60.0
+Drinks (Beverages),Peach Iced Tea,1,0,,60.0
+Drinks (Beverages),Green Iced Tea,1,0,,80.0
+Drinks (Beverages),Muskmelon Iced Tea,1,0,,60.0
+Drinks (Beverages),Fresh lime Ginger Water,1,0,,60.0
+Drinks (Beverages),Classical Vanilla Shake,1,0,,70.0
+Drinks (Beverages),Strawberry Magic Shake,1,0,,80.0
+Drinks (Beverages),Black Current Shake,1,0,,80.0
+Drinks (Beverages),Blueberry Shake,1,0,,80.0
+Drinks (Beverages),Classical Caramel Shake,1,0,,80.0
+Drinks (Beverages),Caramel Banana Shake,1,0,,80.0
+Drinks (Beverages),Oreo Chocolate,1,0,,85.0
+Drinks (Beverages),Caramel Oreo,1,0,,85.0
+Drinks (Beverages),Kit Kat Shake,1,0,,85.0
+Drinks (Beverages),Five Star Shake,1,0,,85.0
+Drinks (Beverages),Snickers Shake,1,0,,85.0
+Drinks (Beverages),Caramel Chocolate Shake,1,0,,85.0
+Drinks (Beverages),Guava Shake,1,0,,85.0
+Drinks (Beverages),Pineapple Shake,1,0,,85.0
+Drinks (Beverages),Lychee Shake,1,0,,85.0
+Drinks (Beverages),Kiwi Shake,1,0,,85.0
+Drinks (Beverages),Banana Shake,1,0,,85.0
+Drinks (Beverages),Green Apple Shake,1,0,,85.0
+Drinks (Beverages),Mojito Mint,1,0,,75.0
+Drinks (Beverages),Green Apple Mocktail,1,0,,75.0
+Drinks (Beverages),Blue Curacao Mocktail,1,0,,75.0
+Drinks (Beverages),Blackcurrant Mocktail,1,0,,75.0

@@ -1,0 +1,27 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+All New Thali and Meal,Mutton Masala Fry Combo,0,0,Mutton Masala Fry+5 Roti+Dal Tadka+Jeera Rice+Papad [2 Pieces]+Salad,259.0
+All New Thali and Meal,Chana Masala with 6 Roti,0,0,Sabji Fry+Chana Masala+6 Roti+Dal Fry+Jeera Rice+Papad [2 Pieces]+Salad [Salad and Sabji-Subject to Availability],249.0
+Main Course,Dal Fry,1,0,A light and tangy dish made with lentils and spices. A traditional and ... read more,129.0
+Main Course,Dal Tadka,1,0,A delightful and flavorful dish made with lentils cooked in a spicy and ... read more,129.0
+Main Course,Chana Masala Fry,1,0,Chana masala made by cooking chickpeas in a spicy onion tomato masala gravy.,129.0
+Main Course,Egg Fry Gravy,0,0,A light and flavorful gravy with a hint of spice that perfectly complements ... read more,149.0
+Main Course,Mutton Masala Fry [Gravy],0,0,"Tender mutton cooked in a spicy and aromatic gravy, perfect for a hearty ... read more",169.0
+Main Course,Chicken Fry,0,0,Chicken pieces that have been coated with seasoned flour or batter and deep ... read more,169.0
+Main Course,Special Egg Chicken Fry,0,0,"Special egg chicken fry is a delicious, spicy and mouth watering dish.",179.0
+Main Course,Special Keema Fry,0,0,"A delectable preparation of minced lamb cooked with aromatic spices, garnished with fresh ... read more",160.0
+Main Course,Mutton Kaleji Fry,0,0,Mutton meat cooked in a rich and aromatic sauce with a blend of ... read more,160.0
+Main Course,Bhuna Mutton Fry,0,0,Dry mutton and tomato gravy,170.0
+Main Course,Mutton Egg Keema,0,0,A succulent and rich mutton dish with tender pieces of meat and creamy ... read more,170.0
+Main Course,Dal Gosht Fry,0,0,Tender and flavorful Indian style lentils and meat with a spicy twist.,155.0
+Main Course,Bhuna Chicken Masala,0,0,Cant wait to dig into this flavorful dish that is packed with rich ... read more,180.0
+Main Course,Egg Biryani,0,0,"A flavorful and aromatic rice dish made with eggs, aromatic spices and saffron. ... read more",155.0
+Main Course,Mughlai Mutton Masala Fry,0,0,Tender mutton pieces in a rich and aromatic gravy made with fresh spices.,179.0
+Main Course,Special Tadka Keema Fry,0,0,An aromatic and flavorful keema fry prepared with special tadka and spices. A ... read more,189.0
+Ahmedi Special Combos,Mutton Fry with Jeera Rice,0,0,Mutton Fry+Jeera Rice+Papad+4 Roti+Salad,240.0
+Bread,Roti,1,0,"Healthy and delicious Indian flatbread, perfect for a quick meal or a snack.",14.0
+Rice and Biryani,Masala Rice,1,0,"A fragrant, flavorful and aromatic rice dish made with aromatic spices and herbs.",90.0
+Rice and Biryani,Jeera Rice,1,0,"A flavorful and fragrant rice dish, jeera rice is a traditional Indian dish ... read more",75.0
+Rice and Biryani,Egg Masala Rice,0,0,"A flavorful rice dish made with soft boiled eggs, aromatic spices and fragrant ... read more",139.0
+Rice and Biryani,Chicken Pulao,0,0,Pulao is a dish of Indian cuisine made with a mixture of rice ... read more,140.0
+Rice and Biryani,Mutton Pulao,0,0,A classic Persian dish featuring tender pieces of lamb cooked with fragrant rice ... read more,140.0
+Accompaniment,Roasted Papad,1,0,A spicy and crunchy roasted papad that is perfect for any meal.,10.0

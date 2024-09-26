@@ -1,0 +1,10 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Mini cake,Truffle Cake Chocolate [250 grams],1,0,"A rich, chocolaty cake topped with a layer of truffle for an indulgent ... read more",355.0
+Fresh Cream Cakes,Black Forrest Cake [500 grams],1,0,"A decadent, moist and rich cake with layers of chocolate sponge filled with ... read more",515.0
+Fresh Cream Cakes,Pineapple Cake [500 grams],1,0,,515.0
+Fresh Cream Cakes,Cassata Cake [500 grams],1,0,An Italian dessert with layers of soft sponge cake filled with creamy ricotta ... read more,515.0
+Exotic Cakes,KitKat Almond Cake [500 grams],1,0,"A delectable indulgence that features a moist and soft sponge cake, enhanced with ... read more",570.0
+Exotic Cakes,Swiss Desire Cake [500 grams],1,0,"Swiss Desire A rich and luscious cake, this Swiss Desire cake is perfect ... read more",570.0
+Premium Cake,Red Velvet Cake Heart Shaped [500 grams],0,0,With cheese.,685.0
+Designer Cake,Gulliver gold cake [500 grams],1,0,,685.0
+Designer Cake,Kitkat New Cake [500 grams],1,0,"A moist, decadent cake with a rich, creamy texture and a decadent chocolatey ... read more",685.0

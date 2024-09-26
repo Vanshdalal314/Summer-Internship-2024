@@ -1,0 +1,296 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bowls,Cream Salad [500 g],1,0,,399.0
+Bowls,Dry Fruit Bowl [500 g],1,0,,439.0
+Bowls,Chocolate Bowl [500 g],1,0,,399.0
+Pizza and Pasta,Margherita Pizza,1,0,Loaded with cheese.,186.0
+Pizza and Pasta,Exotic Fresh Veggie Pizza,1,0,"Broccoli, onion, bell pepper, black olives.",239.0
+Pizza and Pasta,Mushroom O Olive Pizza,1,0,"Mushroom, onion, baby corn, red paprika.",253.0
+Pizza and Pasta,Paneer Makhani Pizza,1,0,"Makhani paneer, onion, capsicum, red paprika.",253.0
+Pizza and Pasta,Desi Tandoori Paneer Pizza,1,0,"Tandoori paneer, capsicum, onion, red paprika.",253.0
+Pizza and Pasta,Paneer Barbeque Flame Pizza,1,0,,253.0
+Pizza and Pasta,Paneer Peri Peri Pizza,1,0,"Peri peri paneer, onion, bell pepper, jalapenos.",279.0
+Pizza and Pasta,Farmers Basic Pizza,1,0,,239.0
+Pizza and Pasta,Mexican Salsa Pizza,1,0,"Sweet corn, bell pepper, onion, jalapenos, black olives.",253.0
+Pizza and Pasta,Paneer Tukda Farm Pizza,1,0,"Paneer, onion, fresh, tomatoes, sweet corn.",279.0
+Pizza and Pasta,Las Vegas Salute Pizza,1,0,"Mushroom, baby corn, bell pepper, broccoli, jalapenos.",279.0
+Pizza and Pasta,Cheese Overload Pizza,1,0,Loaded with 5 different types of cheese.,253.0
+Pizza and Pasta,Garfic Cheesy Veg Pizza,1,0,,253.0
+Pizza and Pasta,Veggie Paradise Pizza,1,0,"Mixed bell papers, fresh tomatoes, onion, jalapenos, sweet corn, red paprika.",253.0
+Pizza and Pasta,Burned By Bake Pizza,1,0,"Paneer, capsicum, onion, olives, jalapenos.",253.0
+Pizza and Pasta,Arrabiata Pasta,1,0,,293.0
+Pizza and Pasta,Cheese AIfredo Pasta,1,0,,293.0
+Pizza and Pasta,Pink Sauce Pasta,1,0,,293.0
+Pizza and Pasta,Mac N Cheese Pasta,1,0,"Cheese, Cheese & Only Cheese",333.0
+Pizza and Pasta,Indian Tandoori Sauce Pasta,1,0,"Tandoori sauce, bell peppers, olives, brocolli and fine quality herbs.",293.0
+Burgers and Sandwiches,Classic Aloo Tikki Burger,1,0,Classic Aloo Tikki Served,80.0
+Burgers and Sandwiches,Veg Cheese Aloo Tikki Burger,1,0,Classic Aloo Tikki Served With Cheese,106.0
+Burgers and Sandwiches,Exotic Veg Burger,1,0,Served with veg tikki & cheese.,160.0
+Burgers and Sandwiches,Mexican Cheese Burger,1,0,"Mexican patty, onion, corn, jalapenos & cheese.",160.0
+Burgers and Sandwiches,Tandoori Paneer Burger,1,0,"Tandoori paneer, capsicum, onion, red paprika & cheese.",173.0
+Burgers and Sandwiches,Paneer Peri Peri Burger,1,0,"Peri peri paneer, onion, bell pepper, olives & cheese.",173.0
+Burgers and Sandwiches,Paneer Makhani Burger,1,0,"Makhani paneer, capsicum, onion, red paprika & cheese.",173.0
+Burgers and Sandwiches,Vegetable Sandwich,1,0,"Potato, tomato, cucumber and bread [2 slices].",80.0
+Burgers and Sandwiches,Vegetable Cheese Sandwich,1,0,"Potato, tomato, cucumber, cheese and bread [2 slices].",120.0
+Burgers and Sandwiches,Vegetable Toast Sandwich,1,0,,93.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,"Potato, tomato, cucumber & cheese toasted in  bread [2 slices].",133.0
+Burgers and Sandwiches,Bread Butter Aloo Sandwich,1,0,,67.0
+Burgers and Sandwiches,Bread Butter Chutney Sandwich,1,0,,53.0
+Burgers and Sandwiches,Exotic Cheese Veggie Grilled Sandwich,1,0,,200.0
+Burgers and Sandwiches,Tandoori Paneer Tikka Grilled Sandwich,1,0,,200.0
+Burgers and Sandwiches,Mexican Grilled Sandwich,1,0,,200.0
+Burgers and Sandwiches,Delighted Mushroom Grilled Sandwich,1,0,,200.0
+Burgers and Sandwiches,Paneer Peri Peri Grilled Sandwich,1,0,,200.0
+Burgers and Sandwiches,Paneer Makhani Grilled Sandwich,1,0,,200.0
+Burgers and Sandwiches,Veg Cheese Bombay Grilled Sandwich,1,0,,239.0
+Snacks,American Bloom Bread,1,0,Corn cheese stuffed bread served with special cheese sauce on sizzler.,266.0
+Snacks,Mexican Bloom Bread,1,0,,266.0
+Snacks,Plain Fries,1,0,,120.0
+Snacks,Peri Peri Fries,1,0,,146.0
+Snacks,Pizza Fries,1,0,,186.0
+Snacks,Tandoori Mayo Fries,1,0,"Special tandoori sauce, capsicum, onion & cheese.",186.0
+Snacks,Chee Mayo Fries,1,0,,160.0
+Snacks,Cheesy Corn Fries,1,0,"Special cheesy sauce, American sweet corn, jalapenos & fine quality herbs.",186.0
+Snacks,Barbeque Fries,1,0,,186.0
+Snacks,Classic Garlic Bread,1,0,,133.0
+Snacks,Cheese Garlic Bread,1,0,Fresh made garlic bread served with garlic butter & lots of cheese.,186.0
+Snacks,Cheese Corn Jalapenos Garlic Bread,1,0,,200.0
+Snacks,Classic Garlic Bread Sticks,1,0,,173.0
+Snacks,Cheese Blast Garlic Bread,1,0,,239.0
+Snacks,Cheesy Corn and Jalapeno Garlic Bread Sticks,1,0,,253.0
+Sides,Malai,1,0,,53.0
+Sides,Kaju,1,0,"A delightfully flavorful mastani flavored with wholesome Kaju,perfect to refresh your senses.",53.0
+Sides,Chocolate Chips,1,0,Delightful Treat For Chocoholics Seeking Sweet And Creamy Satisfaction.?,40.0
+Sides,Ice Cream,1,0,,53.0
+Sides,Mix Du Fruit,1,0,,67.0
+Sides,Fresh Fruits,1,0,,67.0
+Sides,Waffle Cone,1,0,,13.0
+Sides,Waffle Basket,1,0,,27.0
+Sides,Roasted Nuts,1,0,,53.0
+Sides,Cheese Dip,1,0,,40.0
+Sides,Jalapeno Dip,1,0,,40.0
+Sides,Hot and Garlic Dip,1,0,,40.0
+Sides,Peri Peri Dip,1,0,,40.0
+Sides,Mexican Dip,1,0,,40.0
+Sides,Mayo Dip,1,0,,40.0
+Sides,Chipotle Dip,1,0,,40.0
+Sides,Yellow Cheese Dip,1,0,,40.0
+Desserts,Jelly Pineapple Kaju Sundae,1,0,,146.0
+Desserts,Jelly Pineapple Malai DryFruit Sundae,1,0,,200.0
+Desserts,Fresh Gotala Sundae,1,0,Sundae.,200.0
+Desserts,Chocolate Gotala Sundae,1,0,,266.0
+Desserts,Hot Chocolate Brownie Sundae,1,0,,279.0
+Desserts,Triple Sundae,1,0,Sundae.,266.0
+Desserts,Hungama Sundae,1,0,Sundae.,306.0
+Desserts,Royal Salute Sundae,1,0,Sundae.,306.0
+Desserts,Choco Dance Sundae,1,0,Sundae.,333.0
+Desserts,Exotic Fresh Fruit Sundae,1,0,,532.0
+Desserts,Nutella Delight Sundae,1,0,,532.0
+Desserts,Vanilla Ice Cream,1,0,,266.0
+Desserts,Strawberry Ice Cream,1,0,,266.0
+Desserts,Mango Ice Cream,1,0,,266.0
+Desserts,Butterscotch Ice Cream,1,0,,266.0
+Desserts,Chocolate Chips Ice Cream,1,0,,266.0
+Desserts,Oreo Cookies Ice Cream,1,0,,266.0
+Desserts,Blackcurrant Ice Cream,1,0,,266.0
+Desserts,Kaju Draksh Ice Cream,1,0,,266.0
+Desserts,Badam Cadbury Ice Cream,1,0,,266.0
+Desserts,Mava Malai Ice Cream,1,0,,266.0
+Desserts,Rose Nuts Ice Cream,1,0,,266.0
+Desserts,Blue Ocean Ice Cream,1,0,,266.0
+Desserts,Bubble Gum Ice Cream,1,0,,266.0
+Desserts,Pan Bahar Ice Cream,1,0,,266.0
+Desserts,Kaju Anjeer Ice Cream,1,0,,266.0
+Desserts,ADF Ice Cream,1,0,,266.0
+Desserts,Rajbhog Ice Cream,1,0,A Decadent And Creamy Vegetarian Ice Cream With A Hint Of Exotic Flavors.?,266.0
+Desserts,Kesar Pista Ice Cream,1,0,,266.0
+Desserts,Original Chikku Ice Cream,1,0,,266.0
+Desserts,Fruit Overloaded Ice Cream,1,0,,266.0
+Desserts,Mava Rabri Ice Cream,1,0,,266.0
+Desserts,World Class Chocolate Ice Cream,1,0,,266.0
+Desserts,Belgian Dark Chocolate Ice Cream,1,0,,266.0
+Desserts,Nutty Nutella Ice Cream,1,0,,266.0
+Desserts,Fererro Rocher Ice Cream,1,0,,266.0
+Desserts,Tender Coconut Ice Cream,1,0,,266.0
+Desserts,Fresh Jamboo Ice Cream,1,0,,266.0
+Desserts,Royal Nuts Ice Cream,1,0,,266.0
+Desserts,Vanilla Sugarfree Ice Cream,1,0,,266.0
+Desserts,Royal Cashew and Anjeer Sugarfree Ice Cream,1,0,,266.0
+Desserts,Fresh Mango Ice Cream,1,0,,266.0
+Desserts,Fresh Sitaphal Ice Cream,1,0,,266.0
+Desserts,Fresh Strawberry Ice Cream,1,0,,266.0
+Desserts,Strawberry Cheesecake Ice Cream,1,0,,266.0
+Desserts,Lotus Biscoff Ice Cream,1,0,,266.0
+Desserts,KitKat Break Ice Cream,1,0,,266.0
+Desserts,Chocolate Overloaded Ice Cream,1,0,,266.0
+Desserts,Masti Falooda,1,0,,106.0
+Desserts,Rose Falooda,1,0,,173.0
+Desserts,Chocolate Falooda,1,0,Indulge in a creamy chocolate dessert with the traditional falooda texture.,173.0
+Desserts,Mango Falooda,1,0,A refreshing and fruity Falooda with a sweet and creamy texture.,173.0
+Desserts,Strawberry Falooda,1,0,,173.0
+Desserts,Butterscotch Falooda,1,0,,173.0
+Desserts,Pineapple Falooda,1,0,,173.0
+Desserts,Kesar Falooda,1,0,Experience the perfect blend of saffron and sweetness with this refreshing falooda.,200.0
+Desserts,Badam Pista Falooda,1,0,,200.0
+Desserts,Rajbhog Falooda,1,0,,200.0
+Desserts,Kaju Anjeer Falooda,1,0,,200.0
+Desserts,Mava Rabri Falooda,1,0,,200.0
+Desserts,Delux Rose Falooda with Malai,1,0,,186.0
+Desserts,Royal Kesar Falooda with Malai,1,0,Served with malai.,213.0
+Desserts,Fresh Sitafal Falooda,1,0,Served without malai.,200.0
+Desserts,Fresh Strawberry Falooda,1,0,Served without malai.,200.0
+Desserts,Fresh Mango Falooda,1,0,,200.0
+Desserts,Mix Fruit Falooda,1,0,Serves1,200.0
+Desserts,Blackcurrent Falooda,1,0,"A delightfully refreshing falooda prepared with black current syrup, sabja seeds, milk, cream ... read more",173.0
+Desserts,Chocolate Cream [250 g],1,0,,306.0
+Desserts,Fresh Sitaphal Cream [250 g],1,0,,333.0
+Desserts,Fresh Strawberry Cream [250 g],1,0,,333.0
+Desserts,Fresh Mango Cream [250 g],1,0,,372.0
+Desserts,Dry Fruit Cream [250 g],1,0,,372.0
+Desserts,Fresh Fruit Cream Cream [250 g],1,0,,333.0
+Desserts,KitKat Cream Cream [250 g],1,0,,372.0
+Desserts,Ferrero Rocher Cream [250 g],1,0,,399.0
+Desserts,Coconut Cream [250 g],1,0,,399.0
+Drinks (Beverages),Strawberry Thickshake [250 ml],1,0,,113.0
+Drinks (Beverages),Pineapple Thickshake [250 ml],1,0,,113.0
+Drinks (Beverages),Banana Thickshake [250 ml],1,0,,113.0
+Drinks (Beverages),Orange Thickshake [250 ml],1,0,,113.0
+Drinks (Beverages),Mango Thickshake [250 ml],1,0,,113.0
+Drinks (Beverages),Chikku Thickshake [250 ml],1,0,,120.0
+Drinks (Beverages),Blackcurrant Thickshake [250 ml],1,0,,146.0
+Drinks (Beverages),Fresh Sitaphal Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Fresh Strawberry Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Fresh Mango Thickshake [250 ml],1,0,,239.0
+Drinks (Beverages),Fresh Litchi Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Fresh Kiwi Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Juicy Jamboo Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Mixed Berries Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Exotic Raspberry Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Blueberry Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Mulberry Thickshake [250 ml],1,0,,173.0
+Drinks (Beverages),Fruit Overload Thickshake [300 ml],1,0,,200.0
+Drinks (Beverages),Tender Coconut Thickshake [250 ml],1,0,,213.0
+Drinks (Beverages),Vanilla Thickshake [250 ml],1,0,,113.0
+Drinks (Beverages),Milk Thickshake [250 ml],1,0,,113.0
+Drinks (Beverages),Rose Thickshake [250 ml],1,0,,113.0
+Drinks (Beverages),Thandai Thickshake [250 ml],1,0,,120.0
+Drinks (Beverages),Pan Masala Thickshake [250 ml],1,0,,133.0
+Drinks (Beverages),Bubble Gum Thickshake [250 ml],1,0,,120.0
+Drinks (Beverages),Gulkand Thickshake [250 ml],1,0,,120.0
+Drinks (Beverages),Butterscotch Thickshake [250 ml],1,0,,133.0
+Drinks (Beverages),Mava Malai Thickshake [250 ml],1,0,,173.0
+Drinks (Beverages),Coffee Thickshake [250 ml],1,0,,133.0
+Drinks (Beverages),Chocolate Thickshake [250 ml],1,0,,120.0
+Drinks (Beverages),Chikku Chocolate Thickshake [250 ml],1,0,,140.0
+Drinks (Beverages),Oreo Cookies Thickshake [250 ml],1,0,,120.0
+Drinks (Beverages),Choco Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Vanilla Chips Thickshake [250 ml],1,0,,146.0
+Drinks (Beverages),Chocolate Chips Thickshake [250 ml],1,0,,146.0
+Drinks (Beverages),Choco Crunch Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Snickers Thickshake [250 ml],1,0,,186.0
+Drinks (Beverages),KitKat Thickshake [250 ml],1,0,,173.0
+Drinks (Beverages),Chocolate Mava Malai Thickshake [250 ml],1,0,,186.0
+Drinks (Beverages),Signature Nutty Nutella Thickshake [250 ml],1,0,,226.0
+Drinks (Beverages),Ferrero Rocher Thickshake [250 ml],1,0,,226.0
+Drinks (Beverages),Nutella Brownie Thickshake [250 ml],1,0,,213.0
+Drinks (Beverages),Lotus Biscoff Thickshake [250 ml],1,0,,213.0
+Drinks (Beverages),Dairy Milk Silk Thickshake [250 ml],1,0,,186.0
+Drinks (Beverages),Dairy Milk Brownie Thickshake [250 ml],1,0,,213.0
+Drinks (Beverages),Siganture Kaju Anjeer Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Kaju Badam Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Kaju Mango Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Kaju Chocolate Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Kaju Gulkand Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Kaju Draksh Thickshake [250 ml],1,0,,160.0
+Drinks (Beverages),Kaju Thickshake [250 ml],1,0,,173.0
+Drinks (Beverages),Kesar Kaju Thickshake [250 ml],1,0,,173.0
+Drinks (Beverages),Kaju Khajoor Thickshake [250 ml],1,0,,173.0
+Drinks (Beverages),Roasted Almond Thickshake [250 ml],1,0,,173.0
+Drinks (Beverages),Kaju Pista Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Badam Pista Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Green Pista Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Roasted Almond Anjeer Thickshake [250 ml],1,0,,186.0
+Drinks (Beverages),Kaju Katri Thickshake [250 ml],1,0,,186.0
+Drinks (Beverages),Mava Rabri Thickshake [250 ml],1,0,,213.0
+Drinks (Beverages),Kesar Pista Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Kaju Mava Malai Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Badam Mava Malai Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Pista Mava Thickshake [250 ml],1,0,,200.0
+Drinks (Beverages),Kaju Tukda Thickshake [250 ml],1,0,,213.0
+Drinks (Beverages),Rajbhog Thickshake [300 ml],1,0,,226.0
+Drinks (Beverages),Gulab Masti Thickshake [300 ml],1,0,,226.0
+Drinks (Beverages),Kaju Badam Pista Thickshake [300 ml],1,0,,226.0
+Drinks (Beverages),Royal Dry Fruit Thickshake [300 ml],1,0,,239.0
+Drinks (Beverages),Rajwadi Kaju Thickshake [300 ml],1,0,,239.0
+Drinks (Beverages),Rajwadi Mango Thickshake [300 ml],1,0,,239.0
+Drinks (Beverages),Rajwadi Kaju Anjeer Thickshake [300 ml],1,0,,266.0
+Drinks (Beverages),Rajwadi Dry Fruit Thickshake [300 ml],1,0,,319.0
+Drinks (Beverages),Strawberry Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Mango Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Rimzim Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Fresh Sitaphal Premium Milkshake [300 ml],1,0,,186.0
+Drinks (Beverages),Fresh Kiwi Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Pineapple Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Fresh Litchi Premium Milkshake [300 ml],1,0,,186.0
+Drinks (Beverages),Blackcurrant Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Orange Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Coconut Premium Milkshake [300 ml],1,0,,213.0
+Drinks (Beverages),Fresh Jamboo Premium Milkshake [300 ml],1,0,,186.0
+Drinks (Beverages),Fresh Strawberry Premium Milkshake [300 ml],1,0,,186.0
+Drinks (Beverages),Fresh Mango Premium Milkshake [300 ml],1,0,,226.0
+Drinks (Beverages),Bubble Gum Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Blue Ocean Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Butterscotch Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Chocolate Chips Premium Milkshake [300 ml],1,0,,173.0
+Drinks (Beverages),Choco Oreo Mocha Premium Milkshake [300 ml],1,0,,200.0
+Drinks (Beverages),The Original Oreo Premium Milkshake [300 ml],1,0,,173.0
+Drinks (Beverages),Nutella Love Premium Milkshake [300 ml],1,0,,239.0
+Drinks (Beverages),Cold Coffee Premium Milkshake [300 ml],1,0,,146.0
+Drinks (Beverages),KitKat Break Premium Milkshake [300 ml],1,0,,213.0
+Drinks (Beverages),Choco Brownie Mocha Premium Milkshake [300 ml],1,0,,213.0
+Drinks (Beverages),Oreo Strawberry Premium Milkshake [300 ml],1,0,,173.0
+Drinks (Beverages),Fererro Rocher Premium Milkshake [300 ml],1,0,,239.0
+Drinks (Beverages),Kaju Katri Premium Milkshake [300 ml],1,0,,186.0
+Drinks (Beverages),Kaju Gulkand Premium Milkshake [300 ml],1,0,,186.0
+Drinks (Beverages),Rajbhog Premium Milkshake [300 ml],1,0,,213.0
+Drinks (Beverages),Kesar Pista Premium Milkshake [300 ml],1,0,,213.0
+Drinks (Beverages),Kaju Anjeer Premium Milkshake [300 ml],1,0,,213.0
+Drinks (Beverages),Kaju Mango Premium Milkshake [300 ml],1,0,,186.0
+Drinks (Beverages),Roasted Almond Premium Milkshake [300 ml],1,0,,200.0
+Drinks (Beverages),kaiu Badam Premium Milkshake [300 ml],1,0,,213.0
+Drinks (Beverages),Mava Rabri Premium Milkshake [300 ml],1,0,,213.0
+Drinks (Beverages),Belgium Dark Chocolate Premium Milkshake [300 ml],1,0,,239.0
+Drinks (Beverages),Guava Premium Milkshake [300 ml],1,0,,160.0
+Drinks (Beverages),Dolce Late Premium Milkshake [300 ml],1,0,,200.0
+Drinks (Beverages),"Chocolate Overload Freak Shake [250 ml, 1 Jar]",1,0,,479.0
+Drinks (Beverages),"Fruit Overload Freak Shake [250 ml, 1 Jar]",1,0,,426.0
+Drinks (Beverages),"Royal UTS Freak Shake [250 ml, 1 Jar]",1,0,,479.0
+Drinks (Beverages),"Nutty Rocher Freak Shake [250 ml, 1 Jar]",1,0,,505.0
+Drinks (Beverages),"Lotus Biscoff Freak Shake [250 ml, 1 Jar]",1,0,,505.0
+Drinks (Beverages),"Seasonal Fresh Mango Freak Shake [250 ml, 1 Jar]",1,0,,505.0
+Drinks (Beverages),"Seasonal Fresh Sitafal Freak Shake [250 ml, 1 Jar]",1,0,,479.0
+Drinks (Beverages),"Seasonal Fresh Strawberry Freak Shake [250 ml, 1 Jar]",1,0,,479.0
+Drinks (Beverages),Watermelon Juice [300 ml],1,0,,93.0
+Drinks (Beverages),Mosambi Juice [300 ml],1,0,,106.0
+Drinks (Beverages),Pineapple Juice [300 ml],1,0,,106.0
+Drinks (Beverages),Orange Juice [300 ml],1,0,,120.0
+Drinks (Beverages),Ganga Jamna Juice [300 ml],1,0,,120.0
+Drinks (Beverages),Sangam Juice [300 ml],1,0,,120.0
+Drinks (Beverages),Grapes Juice [300 ml],1,0,,120.0
+Drinks (Beverages),Green Grapes Juice [300 ml],1,0,,120.0
+Drinks (Beverages),Cocktail Juice [300 ml],1,0,,120.0
+Drinks (Beverages),Pomegrante Juice [300 ml],1,0,,146.0
+Drinks (Beverages),Apple Juice [300 ml],1,0,,146.0
+Drinks (Beverages),Fresh Kiwi Juice [300 ml],1,0,,146.0
+Drinks (Beverages),fresh Jamboo Juice [300 ml],1,0,,146.0
+Drinks (Beverages),Fresh Strawberry Juice [300 ml],1,0,,160.0
+Drinks (Beverages),Fresh Mango Juice [300 ml],1,0,Alphonso.,293.0
+Drinks (Beverages),Coco,1,0,Deliciously Refreshing With Tropical Flavors.?,93.0
+Drinks (Beverages),Coco with Vanilla Ice Cream [300 ml],1,0,Serves 1,120.0
+Drinks (Beverages),Coco with Chocolate Ice Cream [300 ml],1,0,Serves 1,120.0
+Drinks (Beverages),Coco with Chips [300 ml],1,0,,120.0
+Drinks (Beverages),Kaju Coco [300 ml],1,0,"A flavorful, creamy dish with an irresistible cashew base.",146.0
+Drinks (Beverages),Coco Malai Kaju [300 ml],1,0,Rich and creamy coconut with a nutty twist.,200.0
+Drinks (Beverages),Mango Lassi [250 ml],1,0,,80.0
+Drinks (Beverages),Rose Lassi [250 ml],1,0,,80.0
+Drinks (Beverages),Lassi with Ice [250 ml],1,0,,93.0
+Drinks (Beverages),Special Lassi [250 ml],1,0,,160.0

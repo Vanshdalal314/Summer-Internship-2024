@@ -1,0 +1,62 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Punjabi Paratha,Aloo Paratha,1,0,A popular Indian dish of unleavened whole wheat savory and spiced potato stuffed ... read more,80.0
+Punjabi Paratha,Onion Paratha,1,0,,80.0
+Punjabi Paratha,Aloo Onion Paratha,1,0,,90.0
+Punjabi Paratha,Aloo Methi Paratha,1,0,,90.0
+Punjabi Paratha,Aloo Palak Paratha,1,0,,90.0
+Punjabi Paratha,Aloo Pata Gobi Kobiz Paratha,1,0,,90.0
+Punjabi Paratha,Palak Onion Paratha,1,0,,90.0
+Punjabi Paratha,Mix Veg Paratha,1,0,,90.0
+Punjabi Paratha,Veg Keema Paratha,1,0,,110.0
+Punjabi Paratha,Aloo Onion Methi Paratha,1,0,,100.0
+Paneer/Cheese Paratha,Aloo Paneer Paratha,1,0,,110.0
+Paneer/Cheese Paratha,Veg Paneer Paratha,1,0,,120.0
+Paneer/Cheese Paratha,Palak Onion Paneer Paratha,1,0,,120.0
+Paneer/Cheese Paratha,Aloo Palak Paneer Paratha,1,0,,120.0
+Paneer/Cheese Paratha,Aloo Cheese Paratha,1,0,,120.0
+Paneer/Cheese Paratha,Onion Cheese Paratha,1,0,,120.0
+Paneer/Cheese Paratha,Aloo Onion Cheese Paratha,1,0,"Paratha stuffed with mashed potatoes and onions, coated with dollops of fresh cheese.",120.0
+Paneer/Cheese Paratha,Pata Gobi Onion Cheese Paratha,1,0,,130.0
+Paneer/Cheese Paratha,Palak Onion Cheese Paratha,1,0,,130.0
+Paneer/Cheese Paratha,Methi Onion Cheese Paratha,1,0,,130.0
+Paneer/Cheese Paratha,Aloo Pata Gobi Cheese Paratha,1,0,,130.0
+Paneer/Cheese Paratha,Aloo Paneer Cheese Paratha,1,0,"Paratha stuffed with mashed potatoes and paneer, coated with dollops of fresh cheese.",130.0
+Paneer/Cheese Paratha,Onion Paneer Cheese Paratha,1,0,Cheese paratha plain 1pc + green chutney that's tawa paratha made by wheat ... read more,130.0
+Paneer/Cheese Paratha,Mix Veg Cheese Paratha,1,0,,130.0
+Chinese Paratha,Chilli Cheese Paneer Paratha,1,0,"Paratha stuffed with squelchy paneer, coated with dollops of fresh chillies & cheese.",160.0
+Chinese Paratha,Chilli Paneer Paratha,1,0,Start your day with fresh chilli paneer paratha prepared with fresh dough and ... read more,130.0
+Chinese Paratha,Veg Schezwan Paratha,1,0,,110.0
+Chinese Paratha,Paneer Schezwan Paratha,1,0,,130.0
+Pizza Paratha,Paneer Pizza Paratha,1,0,Paneer pizza paratha made with the fresh tandoor and lots of mozzarella cheese ... read more,160.0
+Pizza Paratha,Cheese Pizza Paratha,1,0,,160.0
+Pizza Paratha,Special Pizza Paratha,1,0,Wholesome and fluffy paratha with a tasty pizza stuffing served along with chutney.,170.0
+Pizza Paratha,Paneer Cheese Pizza Paratha,1,0,,170.0
+Pizza Paratha,Hot and Hot Pizza Paratha,1,0,,170.0
+Pizza Paratha,Kashmiri Pizza Paratha,1,0,Wholesome and fluffy paratha with a tasty pizza stuffing served along with chutney ... read more,170.0
+Special Paratha,Maa Special Paratha,1,0,[Chef's Special],180.0
+Special Paratha,Cheese Special Paratha,1,0,,160.0
+Special Paratha,Suryamukhi Special Paratha,1,0,,160.0
+Special Paratha,Rim Zim Special Paratha,1,0,,160.0
+Special Paratha,Kashmiri Special Paratha,1,0,Large parantha filled with mixed filling of veggies along with the Kashmir flavor.,160.0
+Special Paratha,Hyderabadi Special Paratha,1,0,,170.0
+Special Paratha,Delhi Darbar Special Paratha,1,0,,170.0
+Special Paratha,Paneer Cheese Special Paratha,1,0,,170.0
+Special Paratha,Rajwadi Special Paratha,1,0,,170.0
+Special Paratha,Kathyawadi Special Paratha,1,0,,170.0
+Jain Paratha,Pata Gobi Paratha,1,0,,80.0
+Jain Paratha,Palak Paratha,1,0,,80.0
+Jain Paratha,Methi Paratha,1,0,,80.0
+Jain Paratha,Palak Paneer Paratha,1,0,,110.0
+Jain Paratha,Pata Gobi Cheese Paratha,1,0,,120.0
+Jain Paratha,Palak Cheese Paratha,1,0,,120.0
+Jain Paratha,Methi Cheese Paratha,1,0,,120.0
+Jain Paratha,Palak Paneer Cheese Paratha,1,0,"Paratha stuffed with mashed palak and paneer, coated with dollops of fresh cheese.",130.0
+Jain Paratha,Pata Gobi Paneer Cheese Paratha,1,0,,130.0
+Jain Paratha,Methi Paneer Cheese Paratha,1,0,,130.0
+Jain Paratha,Paneer Cheese Paratha,1,0,,170.0
+Jain Paratha,Jain Special Paratha,1,0,Paratha made without the use of onion and garlic.,170.0
+Spring Roll,Paneer Onion Cheese Spring Roll,1,0,,170.0
+Spring Roll,Pata Gobi Onion Cheese Spring Roll,1,0,,170.0
+Spring Roll,Veg Schezwan Cheese Spring Roll,1,0,Mixed vegetables & cheese encased in crispy spring roll sheet served with sweet ... read more,170.0
+Spring Roll,Pata Gobi Paneer Cheese Spring Roll,1,0,,170.0
+Spring Roll,Chilli Cheese Paneer Spring Roll,1,0,Mixed vegetables & paneer encased in crispy spring roll sheet served with sweet ... read more,170.0

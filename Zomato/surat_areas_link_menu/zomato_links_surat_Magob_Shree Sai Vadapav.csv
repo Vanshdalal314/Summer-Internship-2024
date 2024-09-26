@@ -1,0 +1,106 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Aunty Ka Vadapav,Butter Pav,1,0,,15.0
+Aunty Ka Vadapav,Chees Butter Vadapav,1,0,,64.0
+Aunty Ka Vadapav,Chees Grill Vadapav,1,0,,57.6
+Aunty Ka Vadapav,Chees Schwzan Vadapav,1,0,,64.0
+Aunty Ka Vadapav,Chees Vadapav,1,0,,51.2
+Aunty Ka Vadapav,Cheese Mayo Vadapav,1,0,,64.0
+Aunty Ka Vadapav,Garlic Vadapav,1,0,,25.0
+Aunty Ka Vadapav,Grill Cheese Schwzan Vadapav,1,0,,70.4
+Aunty Ka Vadapav,Grill Garlic Vadapav,1,0,,30.0
+Aunty Ka Vadapav,Grill Vadapav,1,0,,30.0
+Aunty Ka Vadapav,Mayo Vadapav,1,0,,51.2
+Aunty Ka Vadapav,Schezwan Vadapav,1,0,,32.0
+Aunty Ka Vadapav,Vada,1,0,,15.0
+Aunty Ka Vadapav,Vadapav,1,0,,25.0
+Puff,Butter Puff,1,0,,32.0
+Puff,Chees Butter Puff,1,0,,64.0
+Puff,Chees Puff,1,0,,51.2
+Puff,Grill Chees Puff,1,0,,57.6
+Puff,Grill Cheese Schezwan Puff,1,0,,70.4
+Puff,Grill Puff,1,0,,25.6
+Puff,Grill Stuff Puff,1,0,,38.4
+Puff,Masala Puff,1,0,,38.4
+Puff,Mayo Puff,1,0,,51.2
+Puff,Puff,1,0,,19.2
+Puff,Schezwan Puff,1,0,,32.0
+Mayo Pav,Aachari Mayo,1,0,,44.8
+Mayo Pav,Barbique Mayo,1,0,,38.4
+Mayo Pav,Cheese Pav,1,0,,30.0
+Mayo Pav,Chinese Mayo,1,0,,64.0
+Mayo Pav,Garlic Mayo,1,0,,38.4
+Mayo Pav,Maggi Mayo,1,0,,38.4
+Mayo Pav,Mexican Mayo,1,0,,38.4
+Mayo Pav,Paneer Mayo,1,0,,57.6
+Mayo Pav,Peri - Peri Mayo,1,0,,38.4
+Mayo Pav,Schezwan Mayo,1,0,,38.4
+Mayo Pav,Solid Masti Mayo,1,0,,44.8
+Mayo Pav,Tandoori Mayo,1,0,,38.4
+Cheese Mayo Pav,Aachari,1,0,,57.6
+Cheese Mayo Pav,Barbique,1,0,,51.2
+Cheese Mayo Pav,Chinese,1,0,,76.8
+Cheese Mayo Pav,Garlic,1,0,,51.2
+Cheese Mayo Pav,Maggi,1,0,,51.2
+Cheese Mayo Pav,Mexican,1,0,,51.2
+Cheese Mayo Pav,Paneer,1,0,,64.0
+Cheese Mayo Pav,Peri - Peri,1,0,,51.2
+Cheese Mayo Pav,Schezwan,1,0,,51.2
+Cheese Mayo Pav,Solid Masti,1,0,,57.6
+Cheese Mayo Pav,Tandoori,1,0,,51.2
+Gravy Masala Pav,Maggie Masala Pav,1,0,,44.8
+Gravy Masala Pav,Masala Pav,1,0,,38.4
+Gravy Masala Pav,Paneer Masala Pav,1,0,,64.0
+Grill Sandwich,Grill Cheese Sandwich,1,0,,128.0
+Grill Sandwich,Grill Sandwich,1,0,,89.6
+Grill Sandwich,Paneer Cheese Grill Sandwich,1,0,,192.0
+Grill Sandwich,Pizza Grill Sandwich,1,0,,217.6
+Garlic Bread,Cheese Garlic Bread,1,0,,140.8
+Garlic Bread,Garlic Bread,1,0,,89.6
+Garlic Bread,Schezwan Garlic Bread,1,0,,166.4
+Garlic Bread,Special Garlic Bread,1,0,,192.0
+Burger,Cheese Burger,1,0,,102.4
+Burger,Classic Burger,1,0,,64.0
+Burger,Double Cheese Burger,1,0,,153.6
+Burger,Hurb & Chilly Burger,1,0,,115.2
+Burger,Paneer Burger,1,0,,128.0
+Burger,Supper Spicy Burger,1,0,,128.0
+French Fries,Baked Chesse French Fries,1,0,,192.0
+French Fries,Cheese French Fries,1,0,,128.0
+French Fries,Classic French Fries,1,0,,64.0
+French Fries,Mexican French Fries,1,0,,89.6
+French Fries,Mix French Fries,1,0,,256.0
+French Fries,Peri Peri French Fries,1,0,,89.6
+Tacos (2Pcs),Paneer Tacos,1,0,,230.4
+Tacos (2Pcs),Red Bean Taco,1,0,. 200,179.2
+Nachos,Nachos,1,0,,128.0
+Nachos,Nachos Supreme,1,0,,179.2
+Pizza,Achari Pizza,1,0,7 Inch.,281.6
+Pizza,Cheese Bust Pizza,1,0,7 Inch.,384.0
+Pizza,Cheese Corn Pizza,1,0,7 Inch.,179.2
+Pizza,Cheese Pizza,1,0,7 Inch.,128.0
+Pizza,Chipotle Pizza,1,0,7 Inch.,256.0
+Pizza,French Fries Pizza,1,0,7 Inch.,320.0
+Pizza,Margarita Pizza,1,0,7 Inch.,153.6
+Pizza,Paneer Tikka Pizza,1,0,7 Inch.,230.4
+Pizza,Peri Peri Pizza,1,0,7 Inch.,358.4
+Pizza,Soya Chaap Pizza,1,0,7 Inch.,320.0
+Pizza,Veg Cheese Pizza,1,0,7 Inch.,179.2
+Pasta,Alfredo Pasta White Sauce,1,0,,153.6
+Pasta,Arrabita Pasta Red Sauce,1,0,,128.0
+Pasta,Mac & Cheese Pasta,1,0,,256.0
+Pasta,Pink Sauce Pasta Pink Sauce,1,0,,192.0
+Pindi Chhole Bhature,Bhature,1,0,,25.6
+Pindi Chhole Bhature,Chhole,1,0,,89.6
+Pindi Chhole Bhature,Paneer Chhole Bhature,1,0,,166.4
+Pindi Chhole Bhature,Pindi Chhole Bhature,1,0,,128.0
+Pavbhaji,Bhaji,1,0,,80.0
+Pavbhaji,Butter Pavbhaji,1,0,,100.0
+Pavbhaji,Cheese Pavbhaji,1,0,,140.0
+Pavbhaji,Paneer Pavbhaji,1,0,,130.0
+Pavbhaji,Pav,1,0,,20.0
+Momos,Cheese Fry Momo,1,0,,140.0
+Momos,Cheese Steam Momo,1,0,,120.0
+Momos,Fry Paneer Momo,1,0,8 Pcs.,153.6
+Momos,Fry Veg Momo,1,0,8 Pcs.,128.0
+Momos,Steam Paneer Momo,1,0,8 Pcs.,128.0
+Momos,Steam Veg Momo,1,0,8 Pcs.,102.4

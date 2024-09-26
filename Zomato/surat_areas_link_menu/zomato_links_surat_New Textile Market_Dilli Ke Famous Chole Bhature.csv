@@ -1,0 +1,6 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chole Bhature,Chole Bhature [1 Bhature],1,0,Chole [150 grams]+Paneer Stuffed Bhature [1 Bhature]+Salad [Subject to Availability] [Jain Not Available],89.1
+Chole Bhature,Chole Bhature [2 Bhature],1,0,Chole [200 grams]+Paneer Stuffed Bhature [2 Bhature]+Salad [Subject to Availability] [Jain Not Available],107.1
+Chole Bhature,Extra Bhature [1 Bhature],1,0,,31.5
+Extra,Chole,1,0,Chole [200 grams]+Gajar ka Achar+Mirchi+Chutney+Onion [Jain Not Available],72.0
+Extra,Extra Bhature [1 Bhature],1,0,,31.5

@@ -1,0 +1,11 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sweets,Mohanthal,1,0,,135.0
+Sweets,Mysore Pak,1,0,,140.0
+Sweets,Magaj,1,0,,135.0
+Sweets,Desi Feni,1,0,Dahithara.,140.0
+Sweets,Badam Katli,1,0,,312.5
+Sweets,Surati Dhari,1,0,,250.0
+Sweets,Milk Cake,1,0,,156.25
+Sweets,Gulkand Burfi,1,0,,150.0
+Sweets,Coco Burfi,1,0,,150.0
+Sweets,Kesar Burfi,1,0,,150.0

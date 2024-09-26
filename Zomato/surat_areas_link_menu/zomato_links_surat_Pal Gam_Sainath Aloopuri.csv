@@ -1,0 +1,23 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Aloo Puri,Regular Jain Aloo Puri,1,0,4 Piece,30.0
+Aloo Puri,Crunchy Jain Aloo Puri,1,0,,50.0
+Aloo Puri,Mayonnaise Jain Aloo Puri,1,0,,50.0
+Aloo Puri,Mayonnaise Cheese Jain Aloo Puri,1,0,,90.0
+Aloo Puri,Crunchy Cheese Jain Aloo Puri,1,0,,90.0
+Aloo Puri,Mayonnaise Crunchy Jain Aloo Puri,1,0,,80.0
+Aloo Puri,Mayonnaise Cheese Crunchy Jain Aloo Puri,1,0,,120.0
+Aloo Puri,Cheese Jain Aloo Poori [6 Poori],1,0,,75.0
+Aloo Puri,Schezwan Crunchy Cheese,1,0,,100.0
+Aloo Puri,Mayonnaise Crunchy Cheese,1,0,,120.0
+Aloo Puri,Regular Aloo Puri,1,0,4 Piece,30.0
+Aloo Puri,Cheese Aloo Puri,1,0,,75.0
+Aloo Puri,Schezwan Aloo Puri,1,0,,40.0
+Aloo Puri,Schezwan Cheese Aloo Puri,1,0,,85.0
+Aloo Puri,Schezwan Mayonnaise Aloo Puri,1,0,,65.0
+Aloo Puri,Schezwan Crunchy Aloo Puri,1,0,,65.0
+Aloo Puri,Schezwan Mayonnaise Cheese Aloo Puri,1,0,,100.0
+Aloo Puri,Crunchy Aloo Puri,1,0,,50.0
+Aloo Puri,Mayonnaise Aloo Puri,1,0,,50.0
+Aloo Puri,Mayonnaise Cheese Aloo puri,1,0,,90.0
+Aloo Puri,Crunchy Cheese Aloo Puri,1,0,,90.0
+Aloo Puri,Crunchy Mayonnaise Aloo puri,1,0,,80.0

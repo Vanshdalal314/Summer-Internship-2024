@@ -1,0 +1,292 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Idli,1,0,2 Idli,95.0
+Snacks,Wada,1,0,,100.0
+Snacks,Idli/Wada,1,0,,100.0
+Snacks,Samosa,1,0,,95.0
+Snacks,Cutlet,1,0,,95.0
+Snacks,Idli Fry,1,0,,100.0
+Snacks,Dhai Idli,1,0,,120.0
+Snacks,Finger Chips,1,0,,110.0
+Dosa - Variety,Sada Dosa,1,0,,95.0
+Dosa - Variety,Mysore Sada,1,0,,110.0
+Dosa - Variety,Masala Dosa,1,0,,120.0
+Dosa - Variety,Mysore Masala,1,0,,135.0
+Dosa - Variety,Rava Sada,1,0,,120.0
+Dosa - Variety,Onion Rava Sada,1,0,,130.0
+Dosa - Variety,Rava Masala,1,0,,130.0
+Dosa - Variety,Onion Rava Masala,1,0,,135.0
+Dosa - Variety,Palak Dosa,1,0,,125.0
+Dosa - Variety,Palak Paneer Dodsa,1,0,,155.0
+Dosa - Variety,Sp. Masala Dosa,1,0,,175.0
+Uttappa,Uttappa,1,0,,95.0
+Uttappa,Onion Uttappa,1,0,,115.0
+Uttappa,Tomato Uttappa,1,0,,120.0
+Uttappa,Coconut Uttappa,1,0,,120.0
+Uttappa,Masala Uttappa,1,0,,120.0
+Uttappa,Tomato Onion Uttappa,1,0,,120.0
+Uttappa,Mix Masala Uttappa,1,0,,125.0
+Extra - Add On,Extra Butter,1,0,,30.0
+Extra - Add On,Extra Cheese,1,0,,40.0
+Extra - Add On,Ghee Extra,1,0,,40.0
+Papad,Roasted Papad,1,0,,40.0
+Papad,Fry Papad,1,0,,60.0
+Papad,Masala Papad,1,0,,65.0
+Soup,Tomato Soup,1,0,,140.0
+Soup,Veg Clear Soup,1,0,,140.0
+Soup,Sweet Corn Soup,1,0,,150.0
+Soup,Veg Sweet Corn Soup,1,0,,165.0
+Soup,Veg Mushroom Soup,1,0,,170.0
+Soup,Veg Manchow Soup,1,0,,170.0
+Soup,Veg Noodle Soup,1,0,,165.0
+Soup,Hot n Sour Soup,1,0,,165.0
+Soup,Lung Fung Soup,1,0,,165.0
+Soup,Palak Soup,1,0,,145.0
+Soup,Ministron Soup,1,0,,165.0
+Soup,Lemon Coriander Soup,1,0,,165.0
+Starter,Mushroom Tikka,1,0,,300.0
+Starter,Paneer Tikka Dry,1,0,,290.0
+Starter,Hara Bhara Kabab,1,0,,280.0
+Starter,Paneer Malai Tikka,1,0,,290.0
+Starter,Paneer Pahadi Tikka,1,0,,295.0
+Puri-Ke-Saath,Chole Bhature,1,0,,190.0
+Puri-Ke-Saath,Bhatura(2 Pcs),1,0,,95.0
+Punjabi Dishes,Dal Fry,1,0,,180.0
+Punjabi Dishes,Dal Tadka,1,0,,185.0
+Punjabi Dishes,Dal Makhni,1,0,,195.0
+Punjabi Dishes,Alu Mutter,1,0,,170.0
+Punjabi Dishes,Alu Palak,1,0,,170.0
+Punjabi Dishes,Alu Gobi,1,0,,170.0
+Punjabi Dishes,Alu Jeera,1,0,,165.0
+Punjabi Dishes,Chana Masala,1,0,,165.0
+Punjabi Dishes,Mushroom Masala,1,0,,220.0
+Punjabi Dishes,Mix Veg,1,0,,200.0
+Punjabi Dishes,Nav Ratna Korma,1,0,,190.0
+Punjabi Dishes,Methi Mutter Malai,1,0,,190.0
+Punjabi Dishes,Dum Alu Punjabi,1,0,,190.0
+Punjabi Dishes,Dum Alu Kashmiri,1,0,,195.0
+Punjabi Dishes,Stuffed Tomato,1,0,,190.0
+Punjabi Dishes,Stuffed Capsicum,1,0,,195.0
+Punjabi Dishes,Veg Shahi Kurma,1,0,,195.0
+Punjabi Dishes,Veg Hungama,1,0,,195.0
+Punjabi Dishes,Veg Makhanwala,1,0,,200.0
+Punjabi Dishes,Veg Kolhapuri,1,0,,200.0
+Punjabi Dishes,Veg Jaipuri,1,0,,195.0
+Punjabi Dishes,Veg Hydrabadi,1,0,,195.0
+Punjabi Dishes,Veg Patiyala,1,0,,230.0
+Punjabi Dishes,Veg Lucknowi,1,0,,225.0
+Punjabi Dishes,Paneer Balti,1,0,,260.0
+Punjabi Dishes,Paneer Rajwadi,1,0,,265.0
+Punjabi Dishes,Paneer Angara,1,0,,255.0
+Punjabi Dishes,Paneer Dhaniya Adraki,1,0,,265.0
+Punjabi Dishes,Veg Hariyali,1,0,,225.0
+Punjabi Dishes,Veg Angara,1,0,,220.0
+Punjabi Dishes,Veg Pukara,1,0,,280.0
+Punjabi Dishes,Paneer Mutter,1,0,,230.0
+Punjabi Dishes,Paneer Chana,1,0,,230.0
+Punjabi Dishes,Paneer Palak,1,0,,225.0
+Punjabi Dishes,Paneer Laziz,1,0,,255.0
+Punjabi Dishes,Paneer Shahi Kurma,1,0,,225.0
+Punjabi Dishes,Paneer Bhurji,1,0,,235.0
+Punjabi Dishes,Paneer Butter Masala,1,0,,235.0
+Punjabi Dishes,Paneer Tikka Masala,1,0,,240.0
+Punjabi Dishes,Paneer Lasania(Non-Jain),1,0,,280.0
+Punjabi Dishes,Paneer Jalfrazi,1,0,,280.0
+Punjabi Dishes,Paneer Sufiana,1,0,,280.0
+Punjabi Dishes,Paneer Achari,1,0,,265.0
+Punjabi Dishes,Paneer Chutneywala,1,0,,265.0
+Punjabi Dishes,Paneer Pukara,1,0,,265.0
+Punjabi Dishes,Veg Kofta,1,0,,205.0
+Punjabi Dishes,Veg Japani,1,0,,285.0
+Punjabi Dishes,Malai Kofta,1,0,,225.0
+Punjabi Dishes,Nargis Kofta,1,0,,240.0
+Punjabi Dishes,Paneer Khaiber,1,0,,240.0
+Punjabi Dishes,Corn Palak,1,0,,245.0
+Punjabi Dishes,Corn Capsicum Bhurji,1,0,,255.0
+Punjabi Dishes,Kaju Masala,1,0,,275.0
+Punjabi Dishes,Kaju Curry,1,0,,275.0
+Punjabi Dishes,Kaju Paneer,1,0,,275.0
+Punjabi Dishes,Kaju Khoya,1,0,,275.0
+Punjabi Dishes,Kaju Kofta,1,0,,290.0
+Punjabi Dishes,Paneer Chatpata,1,0,,260.0
+Punjabi Dishes,Mushroom Kali Mirch,1,0,,245.0
+Punjabi Dishes,Paneer Kofta,1,0,,245.0
+Punjabi Dishes,Palak Kofta,1,0,,245.0
+Punjabi Special,Veg Handi,1,0,,240.0
+Punjabi Special,Veg Kadai,1,0,,240.0
+Punjabi Special,Veg Tava,1,0,,240.0
+Punjabi Special,Veg Balti,1,0,,230.0
+Punjabi Special,Veg Toofani,1,0,,230.0
+Punjabi Special,Veg Timbura,1,0,,270.0
+Punjabi Special,Veg Do Pyaza,1,0,,235.0
+Punjabi Special,Veg Maharaja,1,0,,235.0
+Punjabi Special,Veg Diwani Handi,1,0,,245.0
+Punjabi Special,Veg Lajawab Handi,1,0,,245.0
+Punjabi Special,Veg Nawabi Handi,1,0,,245.0
+Punjabi Special,Paneer Handi,1,0,,255.0
+Punjabi Special,Paneer Kadai,1,0,,255.0
+Punjabi Special,Paneer Tava,1,0,,255.0
+Punjabi Special,Paneer Lahori,1,0,,265.0
+Punjabi Special,Paneer Toofani,1,0,,265.0
+Punjabi Special,Paneer Timbura,1,0,,290.0
+Punjabi Special,Paneer Do Pyaza,1,0,,265.0
+Punjabi Special,Paneer Pasanda,1,0,,265.0
+Punjabi Special,Paneer Peshawari,1,0,,265.0
+Punjabi Special,Baby Corn Masala,1,0,,230.0
+Punjabi Special,Veg Dehati Masala,1,0,,240.0
+Punjabi Special,Veg Keema Kolhapuri,1,0,,240.0
+Punjabi Special,Cheese Angoori,1,0,,270.0
+Punjabi Special,Cheese Begum Bahar,1,0,,270.0
+Punjabi Special,Veg Rajwadi,1,0,,260.0
+Punjabi Special,Geetha Sp Veg,1,0,,275.0
+Punjabi Special,Cheese Butter Masala,1,0,,275.0
+Punjabi Special,Delhi Darbar,1,0,,275.0
+Tandoories,Roti (Tandoori),1,0,,28.0
+Tandoories,Butter Roti (Tandoori),1,0,,32.0
+Tandoories,Paratha (Tandoori),1,0,,40.0
+Tandoories,Butter Paratha (Tandoori),1,0,,45.0
+Tandoories,Stuffed Paratha (Tandoori),1,0,,60.0
+Tandoories,Kulcha (Tandoori),1,0,,40.0
+Tandoories,Butter Kulcha (Tandoori),1,0,,50.0
+Tandoories,Stuffed Kulcha (Tandoori),1,0,,70.0
+Tandoories,Masala Kulcha (Tandoori),1,0,,70.0
+Tandoories,Naan,1,0,,42.0
+Tandoories,Butter Naan,1,0,,48.0
+Tandoories,Stuffed Naan,1,0,,70.0
+Tandoories,Cheese Garlic Naan,1,0,,73.0
+Tandoories,Kashmiri Naan,1,0,,95.0
+Tandoories,Cheese Naan,1,0,,95.0
+Tandoories,Garlic Naan,1,0,,90.0
+Tandoories,Chapati,1,0,,15.0
+Tandoories,Butter Chapati,1,0,,20.0
+Tandoories,Palak Garlic Roti (Tandoori),1,0,,60.0
+Rice,Palak Khichdi,1,0,,150.0
+Rice,Steam Rice,1,0,,125.0
+Rice,Jeera RIce,1,0,,140.0
+Rice,Veg Pulav Curry,1,0,,170.0
+Rice,Masala Khichdi,1,0,,150.0
+Rice,Dal Khichdi,1,0,,160.0
+Rice,Kashmiri Pulav,1,0,,170.0
+Rice,Veg Biryani,1,0,,170.0
+Rice,Hydrabadi Biryani,1,0,,180.0
+Rice,Handi Biryani,1,0,,195.0
+Rice,Mushroom Biryani,1,0,,200.0
+Rice,Geetha Sp Biryani,1,0,,240.0
+Chinese Fried Rice and Noodles,Veg Hakka Noodles,1,0,,200.0
+Chinese Fried Rice and Noodles,Veg Garlic Noodles,1,0,,215.0
+Chinese Fried Rice and Noodles,Veg Schezwan Noodles (Non-Jain),1,0,,210.0
+Chinese Fried Rice and Noodles,Veg Fried RIce,1,0,,180.0
+Chinese Fried Rice and Noodles,Singapuri Fried Rice,1,0,,180.0
+Chinese Fried Rice and Noodles,Schezwan Fried RIce (Non-Jain),1,0,,180.0
+Chinese Fried Rice and Noodles,Triple Fried Rice,1,0,,235.0
+Chinese Fried Rice and Noodles,Combination RIce,1,0,,230.0
+Chinese Fried Rice and Noodles,Chinese Bhel,1,0,,220.0
+Chinese Fried Rice and Noodles,American Choupsey,1,0,,190.0
+Chinese Fried Rice and Noodles,Chinese Choupsey,1,0,,190.0
+Chinese Fried Rice and Noodles,Idli Chilly,1,0,,200.0
+Chinese Fried Rice and Noodles,Mushroom Fried Rice,1,0,,220.0
+Chinese Fried Rice and Noodles,Manchurian Schezwan Fried Rice (Non-Jain),1,0,,195.0
+Chinese Dishes,Veg Loly Pop,1,0,,270.0
+Chinese Dishes,Spring Roll,1,0,,270.0
+Chinese Dishes,Gobi Manchurian,1,0,,170.0
+Chinese Dishes,Veg Manchurian,1,0,,175.0
+Chinese Dishes,Veg 65(Non-Jain),1,0,,165.0
+Chinese Dishes,Paneer Shanghai,1,0,,260.0
+Chinese Dishes,Veg Hot Garlic sauce,1,0,,200.0
+Chinese Dishes,Dragon Paneer,1,0,,260.0
+Chinese Dishes,Paneer Chilly,1,0,,240.0
+Chinese Dishes,Paneer 65(Non-Jain),1,0,,255.0
+Chinese Dishes,Mushroom Chilly,1,0,,260.0
+Chinese Dishes,Veg Crispy(Non-Jain),1,0,,230.0
+Chinese Dishes,Paneer Manchurian,1,0,,240.0
+Pavbhaji & Pulav,Butter Pavbhaji,1,0,,170.0
+Pavbhaji & Pulav,Jain Pav Bhaji,1,0,,175.0
+Pavbhaji & Pulav,Paneer Pav Bhaji,1,0,,190.0
+Pavbhaji & Pulav,Cheese Pavbhaji,1,0,,200.0
+Pavbhaji & Pulav,Mushroom Pavbhaji,1,0,,195.0
+Pavbhaji & Pulav,Dry Fruit Pav Bhaji,1,0,,200.0
+Pavbhaji & Pulav,Tava Pulav,1,0,,180.0
+Pavbhaji & Pulav,Cheese Pulav,1,0,,200.0
+Pavbhaji & Pulav,Paneer Pulav,1,0,,200.0
+Pavbhaji & Pulav,Mushroom Pulav,1,0,,200.0
+Pavbhaji & Pulav,Geetha Sp Tava Pulav,1,0,,210.0
+Pavbhaji & Pulav,Masala Pav,1,0,,80.0
+Pavbhaji & Pulav,Pav (2 Pcs),1,0,,15.0
+Pavbhaji & Pulav,Tomato Garlic Chutney,1,0,,70.0
+Sandwich,Veg. Sandwich,1,0,,95.0
+Sandwich,Tomato Sandwich,1,0,,95.0
+Sandwich,Chutney Sandwich,1,0,,95.0
+Sandwich,Veg. Jam Sandwich,1,0,,100.0
+Sandwich,Cheese Sandwich,1,0,,120.0
+Sandwich,Veg. Cheese Sandwich,1,0,,135.0
+Sandwich,Veg. Cheese Toast Sandwich,1,0,,150.0
+Sandwich,Club Sandwich,1,0,,160.0
+Sandwich,Bread Butter,1,0,,75.0
+Sandwich,Bread Butter Toast,1,0,,90.0
+Sandwich,Bread Butter Jam,1,0,,100.0
+Sandwich,Veg. Cheese Grill Sandwich,1,0,,170.0
+Sandwich,Kashmiri Grill Sandwich,1,0,,190.0
+Sandwich,Geetha Sp. Grill Sandwich,1,0,,200.0
+Sandwich,Bombay Grill Sandwich,1,0,,175.0
+Sandwich,Palak Corn Grill Sandwich,1,0,,175.0
+Sandwich,Chilly Chees Grill Sandwich,1,0,,155.0
+Sandwich,Cheese Chilly Toast,1,0,,100.0
+Pizza,Veg. Pizza,1,0,,190.0
+Pizza,Onion Capsicum Pizza,1,0,,190.0
+Pizza,Italian Pizza,1,0,,195.0
+Pizza,Jain Pizza,1,0,,195.0
+Pizza,Mushroom Pizza,1,0,,220.0
+Pizza,American Pizza,1,0,,210.0
+Pizza,Cheese Pizza,1,0,,220.0
+Pizza,Pineapple Pizza,1,0,,220.0
+Pizza,Geetha Sp. Pizza,1,0,,220.0
+Pizza,Tandoori Paneer Pizza,1,0,,200.0
+Pizza,Baby Corn Pizza,1,0,,200.0
+Pizza,Continental Pizza,1,0,,200.0
+Pizza,Twin Pizza,1,0,,210.0
+Pizza,Margherita Pizza,1,0,,210.0
+Pizza,Sweet Corn Pizza,1,0,,200.0
+Rolls & Burgers,Veg Burger,1,0,,120.0
+Rolls & Burgers,Veg Cheese Burger,1,0,,130.0
+Salads,Green Salad,1,0,,60.0
+Salads,Tomato Salad,1,0,,60.0
+Salads,Jain Salad,1,0,,65.0
+Salads,Onion Salad,1,0,,25.0
+Raitas,Dhai Wada,1,0,,120.0
+Raitas,Plain Dhai,1,0,,90.0
+Raitas,Potato Raita,1,0,,95.0
+Raitas,Boondi Raita,1,0,,95.0
+Raitas,Pineapple Raita,1,0,,95.0
+Raitas,Veg. Raita,1,0,,90.0
+Milk Shake,Chikoo Shake,1,0,,100.0
+Milk Shake,Mango Milk Shake,1,0,,120.0
+Milk Shake,Kaju Mango Shake,1,0,,165.0
+Milk Shake,Kaju Anjeer Milkshake,1,0,,170.0
+Milk Shake,Kaju Draksh,1,0,,170.0
+Milk Shake,Kaju Badam,1,0,,185.0
+Milk Shake,Dry Fruit Milk Shake,1,0,,185.0
+Milk Shake,Cold Coffee,1,0,,90.0
+Milk Shake,Fruit Salad With Ice-cream,1,0,,155.0
+Milk Shake,Geetha Sp. Lassi,1,0,,135.0
+Milk Shake,Sweet Lassi,1,0,,100.0
+Milk Shake,Salted Lassi,1,0,,100.0
+Milk Shake,Butter Milk,1,0,,40.0
+Milk Shake,Pineapple Milk Shake,1,0,,95.0
+Milk Shake,Badam Milk Shake,1,0,,255.0
+Milk Shake,Rose Milk Shake,1,0,,100.0
+Milk Shake,Chocolate Milk Shake,1,0,,95.0
+Milk Shake,Fruit Salad,1,0,,140.0
+Milk Shake,Vanilla Milk Shake,1,0,,95.0
+Milk Shake,Strawberry Shake,1,0,,95.0
+Milk Shake,Apple Shake,1,0,,140.0
+Milk Shake,Kaju Chocolate Shake,1,0,,210.0
+Falooda,Royal Falooda,1,0,,170.0
+Falooda,Kesar Falooda,1,0,,170.0
+Falooda,Ice Cream Falooda,1,0,,170.0
+Fresh Juice,Mosambi Juice,1,0,,90.0
+Fresh Juice,Orange Juice,1,0,,100.0
+Fresh Juice,Pineapple Juice,1,0,,90.0
+Fresh Juice,Grape Juice,1,0,,100.0
+Fresh Juice,Cocktail Juice,1,0,,110.0
+Fresh Juice,Ganga Jamuna Juice,1,0,,100.0
+Fresh Juice,Mara Mari,1,0,,100.0
+Fresh Juice,Fresh Lime Juice,1,0,,70.0

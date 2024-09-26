@@ -1,0 +1,37 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fresh Juices - Fruit (Cold Pressed),Apple Juice,1,0,IMPROVES - Digestion / Bone Health / Reducing Weight. PREVENT- Respiratory Problem / ... read more,250.0
+Fresh Juices - Fruit (Cold Pressed),Pineapple Juice,1,0,IMPROVES - Bone Strength / Digestion / Oral Health. PREVENT - Sinus & ... read more,210.0
+Fresh Juices - Fruit (Cold Pressed),Watermelon Juice,1,0,IMPROVES - Skin Hydration / Kidney Health / Hair Growth. PREVENT - Blood ... read more,210.0
+Fresh Juices - Health (Cold Pressed),Bare Detox Juice,1,0,"Healthy mix of fresh fruit, herbs and veggies made by gently pressing celery, ... read more",210.0
+Fresh Juices - Health (Cold Pressed),Bare Energy Juice,1,0,"Healthy mix of fresh fruit, herbs and veggies made by gently pressing spinach, ... read more",210.0
+Fresh Juices - Health (Cold Pressed),Bare Glow Juice,1,0,"Healthy mix of fresh fruit, herbs and veggies made by gently pressing carrot, ... read more",210.0
+Fresh Juices - Health (Cold Pressed),Bare Immunity Juice,1,0,"Healthy mix of fresh fruit, herbs and veggies made by gently pressing orange, ... read more",210.0
+Juice Cleanse,Bare Basic (6 X 500ml),1,0,Our Bare Basic Cleanse is an all-day juice cleanse with no solid food. ... read more,2100.0
+Juice Cleanse,Bare Hardcore (6 X 500ml),1,0,Our Bare Hardcore Cleanse is for veteran cleansers and includes drinking six juices ... read more,2100.0
+Juice Cleanse,Juice Til Dinner (4 X 500ml),1,0,Our Juice 'Til Dinner Cleanse is a great introductory cleanse for people that ... read more,1400.0
+Cheesecakes On Stick,Caramilk,1,0,New York Cheesecake dipped in Dark Chocolate and Topped with Fresh Banana & ... read more,300.0
+Cheesecakes On Stick,Chocolate Brownie,1,0,"New York Cheesecake dipped in Dark Chocolate and Topped with Brownie Crumbs, Chocolate ... read more",300.0
+Cheesecakes On Stick,Coconut Oreo,1,0,"New York Cheesecake dipped in Milk Chocolate and Topped with Oreo Crumbs, Chocolate ... read more",300.0
+Cheesecakes On Stick,Cookie Coffee Crunch,1,0,"New York Cheesecake dipped in Dark Chocolate and Topped with Biscoff Spread, Caramel ... read more",300.0
+Cheesecakes On Stick,Pb & J,1,0,"New York Cheesecake dipped in Milk Chocolate and Topped with Peanut Butter, Strawberry ... read more",300.0
+Cheesecakes On Stick,Plain Jane,1,0,New York Cheesecake dipped in a Sauce of your choice is Freshly prepared ... read more,300.0
+Mango Menu,Mango Coco,1,0,,420.0
+Strawberry Menu,Strawberry Cream,1,0,Dive into indulgence with our Strawberry Fresh Cream at BarePress. A symphony of ... read more,340.0
+Fruit Iced Tea,Apple Fruit Tea,1,0,Apple Fruit Tea is a sweetened tea infused with the crisp taste of ... read more,260.0
+Fruit Iced Tea,Gulkand Iced Tea,1,0,Gulkand Rosewater Iced Tea is a sweet and floral drink made with gulkand ... read more,260.0
+Fruit Iced Tea,Strawberry Vanilla Fruit Tea,1,0,"Vanilla strawberry fruit tea is a delightful infusion of black tea leaves, natural ... read more",260.0
+Classic Smoothies,Avocado Smoothie,1,0,"Avocado, Spinach, Banana, Dates, Milk [No added sugar]",390.0
+Classic Smoothies,Mango Beet Smoothie,1,0,"Mango, Beetroot, Banana [No added sugar][VEGAN]",280.0
+Classic Smoothies,Mango Pineapple Smoothie,1,0,"Mango, Pineapple, Banana [No added sugar][VEGAN]",280.0
+Classic Smoothies,Peanut Butter Smoothie,1,0,"Peanut Butter, Banana, Dates, Milk [No added sugar]",280.0
+Classic Smoothies,Pina-colada Smoothie,1,0,"Pineapple, Coconut Milk, Banana [No added sugar][VEGAN]",280.0
+Classic Smoothies,Strawberry Banana Smoothie,1,0,"Strawberry, Banana, Milk [No added sugar]",280.0
+Signature Smoothies,Berry Oats Smoothie,1,0,"Blueberry, Strawberry, Banana, Rolled Oats, Dates, Greek Yogurt, Milk [No added sugar]",280.0
+Signature Smoothies,Cacao Dreams Smoothie,1,0,"Peanut Butter, Cacao, Banana, Milk chocolate, Dates, Milk [No added sugar]",280.0
+Signature Smoothies,Green Power Smoothie,1,0,"Spinach, Apple, Banana, Pineapple [No added sugar][VEGAN]",280.0
+Signature Smoothies,Jamun Bliss Smoothie,1,0,"Jamun, Strawberry, Banana, Greek Yogurt, Milk [No added sugar]",280.0
+Signature Smoothies,Mango-licious Smoothie,1,0,"Mango, Pineapple, Strawberry [No added sugar][VEGAN]",280.0
+Signature Smoothies,Pitaya Coconut (Dragonfruit Coconut) Smoothie,1,0,"Pitaya, Pineapple, Banana, Coconut milk [No added sugar][VEGAN]",280.0
+Mangonada (Mexican Street Style),Mangonada,1,0,"Mangonada is a popular Mexican frozen beverage made with mango, spicy sauce, and ... read more",370.0
+Wellness Shots,Ginger & Lemon Shots,1,0,Kick Start Your Digestion / Helps You Lose Weight / Prevents Flu & ... read more,150.0
+Coffees,Cold Brew,1,0,,220.0

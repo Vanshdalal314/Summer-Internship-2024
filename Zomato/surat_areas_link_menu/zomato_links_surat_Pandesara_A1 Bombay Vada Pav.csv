@@ -1,0 +1,12 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pav,Butter Vada Pav,1,0,,30.0
+Pav,Grilled Vada Pav,1,0,,35.0
+Pav,Cheese Vada Pav,1,0,,50.0
+Pav,Cheese Grilled Vada Pav,1,0,,55.0
+Pav,Schezwan Vada Pav,1,0,,35.0
+Snacks and Chaat,Samosa Chaat,1,0,,35.0
+Snacks and Chaat,Samosa Dahi Chaat,1,0,,50.0
+Snacks and Chaat,Sev Kachori,1,0,,30.0
+Snacks and Chaat,Dahi Kachori,1,0,,50.0
+Snacks and Chaat,Butter Bread Pakoda,1,0,,30.0
+Snacks and Chaat,Samosa,1,0,,18.0

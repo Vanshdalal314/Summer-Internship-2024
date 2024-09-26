@@ -1,0 +1,69 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Winter Specials,Gud Sandesh [1 Piece],1,0,,31.2
+Chenna Sweets,Rajbhog [1 Piece],1,0,,30.24
+Bengali Sweets,Cham Cham [1 Piece],1,0,,25.8
+Bengali Sweets,Malai Cham Cham [1 Piece],1,0,,28.8
+Bengali Sweets,Gulab Bhog [1 Piece],1,0,,31.2
+Bengali Sweets,Kesariya Cham Cham [1 Piece],1,0,,31.2
+Bengali Sweets,Gulab Jamun [1 Piece],1,0,,19.2
+Bengali Sweets,Mother India Sweet [1 Piece],1,0,,28.8
+Bengali Sweets,Malai Roll [1 Piece],1,0,,34.8
+Bengali Sweets,Rasgulla [1 Piece],1,0,,19.2
+Bengali Sweets,Kesariya Sandesh [1 Piece],1,0,,25.8
+Bengali Sweets,Lychee Gulla [1 Piece],1,0,,33.0
+Bengali Sweets,Malai Sandwich [1 Piece],1,0,,31.2
+Bengali Sweets,Badam Pista Nut [1 Piece],1,0,,36.0
+Bengali Sweets,Rose Cham Cham [1 Piece],1,0,,28.8
+Bengali Sweets,Kala Jamun [1 Piece],1,0,,23.4
+Bengali Sweets,Kesar Malai Roll [1 Piece],1,0,,37.2
+Bengali Sweets,Strawberry Cham Cham [1 Piece],1,0,,28.8
+Dry Fruit Sweets,Kaju Blackcurrant,1,0,,270.0
+Liquid Sweets,Rasmalai,1,0,,150.0
+Liquid Sweets,Angur Rabri,1,0,,150.0
+Liquid Sweets,Sada Basundi,1,0,,127.8
+Liquid Sweets,Kesariya Basundi,1,0,,141.0
+Liquid Sweets,Angur Goti,1,0,,112.2
+Peda Sweets,Special Malai Peda,1,0,,180.0
+Peda Sweets,Mathura Peda,1,0,,156.0
+Peda Sweets,Thabdi Peda,1,0,,156.0
+Peda Sweets,Sada Surati Peda,1,0,,145.2
+Peda Sweets,Bhavnagari Peda,1,0,,150.0
+Peda Sweets,Surati Kesariya Peda,1,0,,160.8
+Shrikhand,American Dry Fruit Shrikhand,1,0,,121.2
+Shrikhand,Sada Shrikhand,1,0,,90.0
+Shrikhand,Kesar Elaichi Shrikhand,1,0,,121.2
+Shrikhand,Kesar Dry Fruit Shrikhand,1,0,,130.8
+Laddu,Motichoor Laddu,1,0,,147.0
+Laddu,Churma Laddu,1,0,,157.8
+Fusion Sweets,Nutella Chocolate Barfi,1,0,,171.0
+Fusion Sweets,Baked Rasgulla [1 Piece],1,0,,72.6
+Fusion Sweets,Baked Cham Cham [1 Piece],1,0,,31.2
+Ghari,Pista Ghari,1,0,,222.0
+Ghari,Kesar Pista Ghari,1,0,,150.0
+Matho Sweets,Sada Matho,1,0,,90.0
+Matho Sweets,American Dry Fruit Matho,1,0,,121.2
+Matho Sweets,Kesar Elaichi Matho,1,0,,150.0
+Traditional Sweets,Magaj,1,0,,180.0
+Traditional Sweets,Mohanthal,1,0,,150.0
+Traditional Sweets,Chandrakala,1,0,,150.0
+Traditional Sweets,Gujiya,1,0,,150.0
+Traditional Sweets,Balusahi,1,0,,135.0
+Traditional Sweets,Soan Papdi [1 kg],1,0,,540.0
+Summer Specials,Lassi,1,0,,51.6
+Summer Specials,Cold Coco,1,0,,51.6
+Summer Specials,Thandai,1,0,,84.0
+Festival Specials,Mishti Dahi,1,0,,48.0
+Festival Specials,Malai Peda,1,0,,160.2
+Festival Specials,Malai Kesar Peda,1,0,,192.0
+Festival Specials,Malai Barfi,1,0,,192.0
+Festival Specials,Milk Cake,1,0,,171.0
+Festival Specials,Dudh Badam Barfi,1,0,,171.0
+Festival Specials,Anjeer Barfi,1,0,,204.0
+Festival Specials,Akhrot Barfi,1,0,,171.0
+Festival Specials,Kaju Katli,1,0,,248.4
+Festival Specials,Boondi Laddu,1,0,,147.0
+Festival Specials,Churma Laddu,1,0,,186.0
+Snacks,Samosa [2 Pieces],1,0,,41.4
+Snacks,Kachori [2 Pieces],1,0,,41.4
+Snacks,Pyaz Kachori [2 Pieces],1,0,,41.4
+Drinks (Beverages),Thandai [1 Glass],1,0,,84.0

@@ -1,0 +1,118 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Capsicum And Corn Pizza,1,0,Pizza Sauce /cheese/capsicum/sweet Corn/,285.0
+Pizza,Cheese Lovers Pizza,1,0,Pizza Sauce/cheese/cheese And Lots Of Cheese,235.0
+Pizza,Cheese And Corn Pizza,1,0,Pizza Sauce/cheese/sweet Corn/mayo,285.0
+Pizza,Cheese And Onion Pizza,1,0,Pizza Sauce/cheese/onion/mayonnaise,285.0
+Pizza,Margarita Pizza,1,0,Pizza Sauce/cheese/tomato/basil,285.0
+Pizza,Vegetable Hungama Pizza,1,0,Pizza Sauce/cheese/onion/tomato/capsicum/,300.0
+Pizza,Veggie Delight Pizza,1,0,Pizza Sauce/cheese/capsicum/onion/tomato,285.0
+Pizza,Veggie Trio Pizza,1,0,Pizza Sauce/cheese/onion/mushroom/tomato,300.0
+Pizza,Bbq Paneer Pizza,1,0,Pizza Sauce/cheese/bbq Paneer/spring Onion/bbq Sauce,340.0
+Pizza,Deli Veg And Paneer Pizza,1,0,Pizza Sauce/cheese/capsicum/onion/mushroom/paneer/mint Mayo,340.0
+Pizza,Exotic Pizza,1,0,Pizza Sauce/cheese/yellow Capsicum/brocolli/basil/jalapenos/olives,310.0
+Pizza,Fire Eater Pizza,1,0,Pizza Sauce/cheese/capsicum/onion/mushroom/jalapenos/chilli Flakes,300.0
+Pizza,God Father Pizza,1,0,Pizza Sauce/cheese/capsicum/tomato/babycorn/jalapenos/olives/olive Oil,310.0
+Pizza,Paneer Deluxe Pizza,1,0,Pizza Sauce/cheese/capsicum/tomato/sweet Corn/paneer/jalapenos,340.0
+Pizza,Paneer Tikka Pizza,1,0,Punjabi Sauce/cheese/capsicum/onion/jalapenos/paneer/mint Mayo,340.0
+Pizza,Spicy Feast Pizza,1,0,Spicy Pizza Sauce/mustard Sauce/capsicum/onion/tomato/mushroom/sweet Corn/cheesy Jalapenos,310.0
+Pizza,Spicy Mustard Paneer Pizza,1,0,Spicy Pizza Sauce/mustard Sauce/capsicum/onion/mushroom/paneer/olives/olive Oil,340.0
+Pizza,Tandoori Paneer Pizza,1,0,Punjabi Sauce/cheese/onion/capsicum/tomato/babycorn/paneer/mint Mayo,340.0
+Pizza,Veg Italiano Pizza,1,0,Pizza Sauce/cheese/tomato/onion/mushroom/jalapenos/mayonnaise,300.0
+Pizza,Veggie Heaven Pizza,1,0,Pizza Sauce/cheese/onion/mushroom/sweet Corn/jalapenos/olives/mayonnaise,310.0
+Pizza,Veggie Supreme Pizza,1,0,Pizza Sauce/cheese/capsicum/onion/mushroom/tomato/pineapple/baby Corn,300.0
+Pizza,Bbq Mushroom Delight Pizza,1,0,Pizza Sauce/onion/capsicum/garlic/sweet Corn/mushroom/spring Onion/bbq Sauce,365.0
+Pizza,Bbq Soya Chap Delight Pizza,1,0,Pizza Sauce/cheese/onion/capsicum/soya Chap/spring Onion/bbq Sauce,365.0
+Pizza,California Pizza,1,0,Pizza Sauce/sun Dried Tomato/red Paprika/olive/mushroom/spring Onion/basil,365.0
+Pizza,Chiily Beans Pizza,1,0,Beans/onion/capsicum/tomato/jalapenos/green Chilly/garlic/cooked With Tomato Puree,365.0
+Pizza,Classico Italiano Pizza,1,0,Pizza Sauce/cheese/onion/pasta/olives/jalapenos/brocolli/baby Corn/capsicum/tomato,365.0
+Pizza,Mexican Tax Max Pizza,1,0,Pizza Sauce/cheese/onion/tomato/capsicum/nachos/sweet Corn/bean Sauce/cheese Sauce/sour Cream,365.0
+Pizza,Paneer Paprika Pizza,1,0,Spicy Pizza Sauce/mustard Sauce/cheese/onion/capsicum/green Chilly/red Paprika/paneer/mushroom/cheesy Jalapenos,365.0
+Pizza,Paneer Patiala Pizza,1,0,Spicy Pizza Sauce/mustard Sauce/cheese/capsicum/onion/green Chilly/paneer/spring Onion,365.0
+Pizza,Soya Chap Paprika,1,0,Spicy Pizza Souce/cheese/yellow Capsicum/mustard Sauceonion/brocolli/red Paprika/soya Chap/olives/cheesy Jalapeno,365.0
+Pizza,Garlic Paneer And Parmesan Cheese,1,0,"Pizza Sauce/cheese/capsicum, Onion/paneer/jalapenos/spring Onion/garlic/parmesan Cheese",455.0
+Pizza,Paneer Monster Pizza,1,0,Pizza Sauce/cheese/capsicum/tomato/jalepeno/zucchini/red Paprika/paneer/olives/green Chilli/cheese Sauce,440.0
+Pizza,Paneer And Ricotta Cheese Pizza,1,0,Pizza Sauce/cheese/onion/mushroom/brocolli/paneer/ricotta Cheese/olives/cherry Tomatoes/cheese Sauce,455.0
+Pizza,Paneer And Soya Chap Mania,1,0,,365.0
+Pizza,Seven Cheese Pizza,1,0,Pizza Sauce/cheese Sauce/mozzarella Cheese/colby Cheese/monterey Jack Cheese/ricotta Cheese/cheddar Cheese/parmesan Cheese,440.0
+Pizza,Spicy Vegorama Pizza,1,0,Cheesy Jalapeno/green Chillies/olives/mushroom/onion/brocolli/spicy Pizza Sauce/mustard Sauce/jalapeno/red Paprika/zucchini/basil/parmesan Cheese,455.0
+Garlic Bread,Cheese Garlic Bread,1,0,,170.0
+Garlic Bread,Chilli Cheese Garlic Bread,1,0,Green Chilly/cheese,210.0
+Garlic Bread,Corn Cheese Garlic Bread,1,0,Sweet Corn/cheese,210.0
+Garlic Bread,Corn Chilly Cheese Garlic Bread,1,0,Sweet Corn/green Chilly/cheese,210.0
+Garlic Bread,Exotic Garlic Bread,1,0,Jalapenos/olives/cheese,250.0
+Garlic Bread,Garlic Bread,1,0,,130.0
+Garlic Bread,Veg Cheese Garlic Bread,1,0,Capsicum/onion/cheese,210.0
+Italian Bake,Cheese Macaroni,1,0,,455.0
+Italian Bake,Corn Spinach Delight,1,0,,495.0
+Italian Bake,Enchilada With Beans,1,0,,455.0
+Italian Bake,Enchilada With Corn,1,0,,480.0
+Italian Bake,Enchilada With Paneer,1,0,,495.0
+Italian Bake,Lasagna Premium,1,0,,495.0
+Italian Bake,Lasagna Supreme,1,0,,520.0
+Italian Bake,Mexican Baked Bowl,1,0,,455.0
+Italian Bake,Swiss Roll,1,0,,520.0
+Italian Bake,Vegetable Au Gratin,1,0,,430.0
+Mexican,Assorted Tacos,1,0,,325.0
+Mexican,Bean Tacos,1,0,,275.0
+Mexican,Bruschetta,1,0,,325.0
+Mexican,Burritos,1,0,,300.0
+Mexican,Burritos With Paneer,1,0,,350.0
+Mexican,Corn Cheese Balls,1,0,,325.0
+Mexican,Corn Cheese Quesadilla,1,0,,390.0
+Mexican,Mexican Burritos,1,0,,340.0
+Mexican,Spl Bruschetta,1,0,,340.0
+Mexican,Spl Quesadilla,1,0,,440.0
+Mexican,Spl Tacos,1,0,,300.0
+Mexican,Veg Quesadilla,1,0,,415.0
+Pasta Bar,Alfredo Pasta,1,0,,415.0
+Pasta Bar,Arabiata Pasta,1,0,,355.0
+Pasta Bar,Formaggi Pasta,1,0,,390.0
+Pasta Bar,Italian Pasta,1,0,,440.0
+Pasta Bar,Mexican Pasta,1,0,,415.0
+Pasta Bar,Olive Oil Fried Pasta With Paneer,1,0,,440.0
+Pasta Bar,Paneer Tikka Pasta,1,0,,455.0
+Pasta Bar,Pesto Genovese Pasta,1,0,,405.0
+Pasta Bar,Primavera Pasta,1,0,,405.0
+Pasta Bar,Siciliana Pasta,1,0,,390.0
+Nachos,Cheese Masala Nachos,1,0,,170.0
+Nachos,Masala Nachos,1,0,,130.0
+Nachos,Nachos Fajita,1,0,,285.0
+Nachos,Nachos With Cheese Sauce,1,0,,245.0
+Nachos,Nachos With Refried Beans,1,0,,285.0
+Rice,Chilli Garlic Nachos Rice,1,0,,325.0
+Rice,Mexican Herb Rice,1,0,,310.0
+Rice,Mexican Layered Rice,1,0,,390.0
+Rice,Mushroom Paneer Rice,1,0,,325.0
+Rice,Schezwan Rice,1,0,,285.0
+Rice,Singapore Rice,1,0,,285.0
+Rice,Sp Rice,1,0,,415.0
+Rice,Veg Fried Rice,1,0,,260.0
+Chinese,Bombay Bhel,1,0,,290.0
+Chinese,Chinese Bhel,1,0,,290.0
+Chinese,Crispy Baby Corn,1,0,,325.0
+Chinese,Crispy Mushroom,1,0,,340.0
+Chinese,Crispy Veg,1,0,,325.0
+Chinese,Hakka Noodles,1,0,,260.0
+Chinese,Pad Thai Noodles,1,0,,300.0
+Chinese,Paneer Chilly,1,0,,325.0
+Chinese,Paneer Hotpan,1,0,,355.0
+Chinese,Paneer Hunan,1,0,,375.0
+Chinese,Paneer Red Cook,1,0,,375.0
+Chinese,Paneer Shanghai,1,0,,350.0
+Chinese,Schezwan Noodles,1,0,,285.0
+Chinese,Singapore Noodles,1,0,,285.0
+Chinese,Veg Manchurian,1,0,,250.0
+French Fries,Cheese Peri Peri French Fries,1,0,,200.0
+French Fries,Garlic Butter Fries,1,0,,225.0
+French Fries,Peri Peri French Fries,1,0,,175.0
+French Fries,Regular French Fries,1,0,,150.0
+Shakes,Chocolate Shake,1,0,,180.0
+Shakes,Kitkat Shake,1,0,,245.0
+Salad,Maxican Salad,1,0,,260.0
+Salad,Protein Salad,1,0,,285.0
+Soup,Hot And Sour Soup,1,0,,160.0
+Soup,Lemon Coriander Soup,1,0,,160.0
+Soup,Manchow Soup,1,0,,160.0
+Soup,Mushroom Soup,1,0,,160.0
+Soup,Sweet Corn Soup,1,0,,160.0
+Soup,Tomato Soup,1,0,,160.0

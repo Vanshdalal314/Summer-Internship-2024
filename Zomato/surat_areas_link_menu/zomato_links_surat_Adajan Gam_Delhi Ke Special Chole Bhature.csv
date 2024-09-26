@@ -1,0 +1,4 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chole Bhature,Chole Bhature [2 Bhature],1,0,,150.0
+Chole Bhature,Cheese Chole Bhature,1,0,,170.0
+Main Course,Chole Masala,1,0,Serves in plate.,90.0

@@ -1,0 +1,186 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Continental,Thai Green Curry With Rice,1,0,Fresh American crushed corn sauteed with Thai spices buttered and deep fried served ... read more,332.0
+Continental,Thai Red Curry With Rice,1,0,Fresh American crushed corn sauteed with Thai spices buttered and deep fried served ... read more,332.0
+Soups And Salads,Mexican Chilli Beans Soup,1,0,,172.0
+Soups And Salads,Cream Of Mushroom Soup,1,0,,172.0
+Soups And Salads,Cream Of Tomato Soup,1,0,,155.0
+Soups And Salads,Cream Of Veg Soup,1,0,,155.0
+Soups And Salads,Minestrone Soup,1,0,,161.0
+Soups And Salads,Thai Coconut Soup,1,0,,172.0
+Soups And Salads,Tomato Corn Cheese Soup,1,0,,172.0
+Soups And Salads,Brocolli Almond Soup,1,0,,172.0
+Soups And Salads,Hot And Sour Soup,1,0,,144.0
+Soups And Salads,Mexican Tortilla Soup,1,0,,172.0
+Soups And Salads,Manchow Soup,1,0,,144.0
+Soups And Salads,Lemon Coriander Soup,1,0,,144.0
+Soups And Salads,Noodle Clear Soup,1,0,,128.0
+Soups And Salads,Plain Sweet Corn Soup,1,0,,144.0
+Soups And Salads,Veg Clear Soup,1,0,,128.0
+Soups And Salads,Veg Sweet Corn Soup,1,0,,144.0
+Soups And Salads,Veg Talumein Soup,1,0,,139.0
+Soups And Salads,Tom Yum Soup,1,0,,161.0
+Soups And Salads,Kachumber Salad,1,0,,110.0
+Soups And Salads,Garden Fresh Salad,1,0,,110.0
+Soups And Salads,Butter Corn Salad,1,0,"A traditional succotash and features fresh corn, butter with bell pepper and tomatoes.",139.0
+Soups And Salads,Italian Healthy Salad,1,0,Exotic vegetable drizzled with Italians herbs and olive oil.,221.0
+Soups And Salads,Russian Salad,1,0,"Boiled vegetable, cubes of potato and apple mixed with mayonnaise.",194.0
+Soups And Salads,Waldrof Salad,1,0,Walnut and apple mixed with rich cream.,221.0
+Starters,Cheesy Paneer Tikka,1,0,,305.0
+Starters,Hara Bhara Pudina Kebab,1,0,"Mix vegetables, spinach and green peas tikki deep fried and served hot.",250.0
+Starters,Kasundi Paneer Tikka,1,0,,305.0
+Starters,Multani Mushroom,1,0,,305.0
+Starters,Paneer Tikka Dry,1,0,,305.0
+Starters,Pudina Paneer Tikka,1,0,,305.0
+Starters,Veg Seekh Kebab,1,0,Mix veg keema seasoned with spices and cooked in tandoor.,300.0
+Starters,Hara Bhara Cheese Kebab,1,0,"Mix vegetables, spinach and green peas stuffed with cheese and deep made.",276.0
+Starters,Paneer Afgani Tikka,1,0,Paneer marinated with special koya parle and cooked in tandoor.,305.0
+Starters,Paneer Banjara Tikka,1,0,Paneer tikka marinated with speical and chef special masala.,305.0
+Starters,Paneer Kali Mirch Tikka,1,0,Saffron paneer stuffed with khajur chutney and pepper grilled in tandoor.,305.0
+Starters,Veg Kebab Platter,1,0,A platter of different vegetables 5 paneer grilled in tandoor.,387.0
+Starters,Chinese Bhel,1,0,,276.0
+Starters,Green Chilli Paneer,1,0,,266.0
+Starters,Mushroom Chilli Dry,1,0,,300.0
+Starters,Paneer Chilli Dry,1,0,,289.0
+Starters,Paneer Mushroom Chilli,1,0,,300.0
+Starters,Smokey Coating Paneer,1,0,,305.0
+Starters,Schezwan Chilli Paneer,1,0,,289.0
+Starters,Crispy Fried Vegetables,1,0,,276.0
+Starters,Veg 65,1,0,,276.0
+Starters,Veg Lollypop,1,0,,279.0
+Starters,Veg Manchurian Dry,1,0,,276.0
+Starters,Veg Spring Roll,1,0,,276.0
+Starters,Paneer Manchurian,1,0,,289.0
+Starters,Green Pepper Paneer,1,0,,289.0
+Main Course,Aloo Gobi,1,0,,239.0
+Main Course,Aloo Mutter,1,0,,239.0
+Main Course,Aloo Palak,1,0,,239.0
+Main Course,Chana Masala,1,0,,239.0
+Main Course,Dum Aloo,1,0,,239.0
+Main Course,Jeera Aloo,1,0,,239.0
+Main Course,Corn Butter Masala,1,0,Fresh boiled American corn cooked in red spicy tomato based gravy.,250.0
+Main Course,Corn Palak,1,0,Fresh boiled American corn and spinach cooked in green gravy.,250.0
+Main Course,Mushroom Butter Masala,1,0,,276.0
+Main Course,Sweet Navratan Korma,1,0,,250.0
+Main Course,Veg Handi,1,0,Diced mix veggie cooked in brown based gravy served medium spicy.,250.0
+Main Course,Veg Jaipuri,1,0,Shredded mix veggie cooked on spicy brown gravy garnished with roasted papad.,250.0
+Main Course,Veg Kadai,1,0,"Diced mix veggie sauteed with cubes cutting of tomato, onion, capsicum cooked in ... read more",250.0
+Main Course,Veg Keema Amritsari,1,0,Finely chopped vegetables cooked on pan in Amritsari red masala.,250.0
+Main Course,Veg Keema Hyderabadi,1,0,Finely chopped vegetable cooked on pan in Hyderbadi green masala.,250.0
+Main Course,Veg Kolhapuri,1,0,Diced mix veggie cooked in red spicy tomato based tangy gravy.,250.0
+Main Course,Veg Makhanwala,1,0,Diced mix veggie cooked in rich makhani tomato based medium spicy gravy.,250.0
+Main Course,Cheese Butter Masala,1,0,Cubes of soft cheese cooked in red tangy tomato based gravy.,332.0
+Main Course,Veg Angara,1,0,Diced mix veggies cooked in spicy gravy.,261.0
+Main Course,Kadhai Kofta,1,0,,250.0
+Main Course,Kaju Paneer Masala,1,0,,305.0
+Main Course,Sweet Kashmiri Kofta,1,0,,276.0
+Main Course,Sweet Shahi Malai Kofta,1,0,,276.0
+Main Course,Veg Nargisi Kofta,1,0,,250.0
+Main Course,Kaju Butter Masala,1,0,Cashew cooked with brown gravy.,305.0
+Main Course,Kaju Curry,1,0,Cashew cooked with yellow creamy gravy.,305.0
+Main Course,Sweet Khoya Kaju,1,0,Cashew cooked with white gravy.,305.0
+Main Course,Paneer Chilly Gravy,1,0,,289.0
+Main Course,Veg Manchurian Gravy,1,0,,276.0
+Main Course,Dal Fry,1,0,,165.0
+Main Course,Dal Tadka,1,0,,183.0
+Main Course,Dal Palak,1,0,,194.0
+Breads,Plain Chapati,1,0,,19.0
+Breads,Butter Chapati,1,0,,24.0
+Breads,Plain Tandoori,1,0,,28.0
+Breads,Butter Tandoori,1,0,,33.0
+Breads,Plain Paratha,1,0,,44.0
+Breads,Butter Paratha,1,0,,50.0
+Breads,Plain Kulcha,1,0,,44.0
+Breads,Plain Naan,1,0,,44.0
+Breads,Butter Kulcha,1,0,,50.0
+Breads,Butter Naan,1,0,,50.0
+Breads,Laccha Paratha,1,0,,54.0
+Breads,Stuff Paratha,1,0,,65.0
+Breads,Sweet Kashmiri Naan,1,0,,77.0
+Breads,Stuff Kulcha,1,0,,77.0
+Breads,Stuffed Naan,1,0,,77.0
+Breads,Cheese Naan,1,0,,83.0
+Breads,Garlic Kulcha,1,0,,83.0
+Breads,Garlic Naan,1,0,,83.0
+Breads,Onion Kulcha,1,0,,83.0
+Breads,Cheese Chilly Naan,1,0,,88.0
+Breads,Cheese Garlic Naan,1,0,,88.0
+Breads,Cheese Chilly Garlic Naan,1,0,,94.0
+Rice And Biryani,Jeera Rice,1,0,Basmati rice and cumin seeds tadka.,165.0
+Rice And Biryani,Steam Rice,1,0,,165.0
+Rice And Biryani,Steamed Rice,1,0,,165.0
+Rice And Biryani,Veg Biryani,1,0,,250.0
+Rice And Biryani,Dal Khichdi Tadkewali,1,0,Lentil and rice cooked with desi ghee and red chilly whole tadka.,221.0
+Rice And Biryani,Green Peas Pulao,1,0,Basmati rice stir fried on pan. mixed with fresh vegetables flavoured with khada ... read more,221.0
+Rice And Biryani,Kashmiri Pulao,1,0,Basmati rice cooked with fruit and dry fruits.,221.0
+Rice And Biryani,Vegetable Pulao,1,0,Basmati rice stir fried on pan. mixed with fresh vegetables flavoured with khada ... read more,221.0
+Rice And Biryani,Hyderabadi Biryani,1,0,"Traditional dish from hyderabadi, cooked together With aromation basmati rice and green spices, ... read more",250.0
+Rice And Biryani,Veg Dum Biryani,1,0,,266.0
+Fried Rice And Chopsuey,Veg Fried Rice,1,0,,250.0
+Fried Rice And Chopsuey,Veg Schezwan Rice,1,0,,250.0
+Fried Rice And Chopsuey,Veg Singapore Rice,1,0,,250.0
+Fried Rice And Chopsuey,American Chopsuey,1,0,,276.0
+Fried Rice And Chopsuey,Chinese Chopsuey,1,0,,276.0
+Fried Rice And Chopsuey,Veg Hakka Noodles,1,0,,250.0
+Pizza And Pasta,Cheese Pizza,1,0,,276.0
+Pizza And Pasta,Desi Dhamaka Pizza,1,0,,250.0
+Pizza And Pasta,Margherita Pizza,1,0,,276.0
+Pizza And Pasta,Taste Of India Pizza,1,0,,250.0
+Pizza And Pasta,Exotic Pizza,1,0,,250.0
+Pizza And Pasta,Pesto Pizza,1,0,,250.0
+Pizza And Pasta,Spicy American Pizza,1,0,,250.0
+Pizza And Pasta,Veg Magic Pizza,1,0,,250.0
+Pizza And Pasta,Veg Supremo Pizza,1,0,,276.0
+Pizza And Pasta,Baked Corn Chilly,1,0,,305.0
+Pizza And Pasta,Pink Sauce Penne Pasta,1,0,,332.0
+Pizza And Pasta,Baked Macaroni With Pineapple,1,0,Macaroni cooked with sauce pineapple baked with cheese.,305.0
+Pizza And Pasta,Veg Augratin,1,0,A baked of exotic vegetable and pineapple.,305.0
+Pizza And Pasta,Enchiladas,1,0,Beans and jalapeno cheese enchiladas/American corn cheese enchiladas.,332.0
+Pizza And Pasta,Lasagne,1,0,Layer of pasta sheets filled with spicy tomato veggies. topped with white sauce ... read more,332.0
+Pizza And Pasta,Alfredo Pasta,1,0,Cream and cheese sauce sprinkled with Parmesan.,332.0
+Pizza And Pasta,Arrabitta Pasta,1,0,"Served with garlic bread. Spicy tomato sauce, fresh basil and pepper Chino.",332.0
+Quick Bites,French Fries,1,0,,110.0
+Quick Bites,Plain Garlic Bread,1,0,,139.0
+Quick Bites,Cheese Garlic Bread,1,0,,178.0
+Quick Bites,Bruschetta,1,0,,194.0
+Quick Bites,Mexican Rice,1,0,,250.0
+Quick Bites,Nachos,1,0,,194.0
+Quick Bites,Corn Cheese Balls,1,0,,276.0
+Quick Bites,Tacos,1,0,,250.0
+Quick Bites,Veg Pesto,1,0,,266.0
+Quick Bites,Bread Butter Sandwich,1,0,,67.0
+Quick Bites,Chilli Paneer Grilled Sandwich,1,0,,194.0
+Quick Bites,Veg Sandwich,1,0,,110.0
+Quick Bites,Cheese Sandwich,1,0,,139.0
+Quick Bites,Veg Cheese Sandwich,1,0,,139.0
+Quick Bites,Veg Grilled Sandwich,1,0,,165.0
+Quick Bites,Veg Cheese Grilled Sandwich,1,0,,194.0
+Specialites,Palak Paneer,1,0,Diced soft paneer cooked with fresh spinach in Indian spices served in gravy.,276.0
+Specialites,Paneer Bhurji,1,0,Soft grated with Indian spices cooked in brown gravy.,276.0
+Specialites,Paneer Butter Masala,1,0,Soft paneer coked in butter with rich makhani tomato based medium spicy gravy.,276.0
+Specialites,Paneer Handi,1,0,Diced soft paneer cooked in brown medium spicy gravy.,276.0
+Specialites,Paneer Kadai,1,0,Cubes of soft paneer sautted with cubes of onion tomato capsicum cooked in ... read more,276.0
+Specialites,Paneer Lababdar,1,0,Soft paneer grilled in barbeque with diced onion tomato capsicum and honey cooked ... read more,276.0
+Specialites,Paneer Pahadi,1,0,Paneer cooked in delicious masala served in green and red gravy combination.,276.0
+Specialites,Paneer Tikka Masala,1,0,"Cubes of roasted paneer cooked in red gravy with dices of onion, tomato ... read more",276.0
+Specialites,Paneer Lasuniya,1,0,Fresh malai paneer in our Chefs special red gravy.,276.0
+Specialites,Paneer Tawa Masala,1,0,"Paneer cooked with tawa masala with onion tomato, cashew and medium spicy gravy.",276.0
+Specialites,Paneer Angara,1,0,Cubes of paneer cooked in red gravy served on hot pot.,276.0
+Specialites,Veg Bullet Raja,1,0,,305.0
+Specialites,Veg Mehfil,1,0,,305.0
+Specialites,Veg Kofta Do Pyaza,1,0,,305.0
+Specialites,Veg Mahefil,1,0,"Mix veg, baby corn, red and yellow capsicum, potato, yellow gravy and red ... read more",305.0
+Specialites,Kaju Tawa Masala,1,0,Cashew cooked with red gravy.,332.0
+Specialites,Paneer Kurchan,1,0,Malai paneer marianted with Indian spices cooked with exotic vegetable in red gravy.,332.0
+Specialites,Paneer Mumtaj,1,0,Stuffed paneer in our Chefs special red gravy.,332.0
+Specialites,Paneer Rajwadi,1,0,,332.0
+Accompaniments,Roasted Papad,1,0,,28.0
+Accompaniments,Fry Papad,1,0,,33.0
+Desserts And Beverages,Hot Gulab Jamun (2 Pic),1,0,,35.0
+Desserts And Beverages,Hot Gulab Jamun (4 Piece),1,0,,72.0
+Desserts And Beverages,Salted Plain Lassi,1,0,,122.0
+Desserts And Beverages,Butter Milk,1,0,,44.0
+Desserts And Beverages,Masala Butter Milk,1,0,,50.0
+Desserts And Beverages,Sweet Plain Lassi,1,0,,122.0
+Desserts And Beverages,Curd [250ml],1,0,,89.0
+Desserts And Beverages,Dry Fruit Lassi With Ice Cream,1,0,,150.0
+Desserts And Beverages,Chocolate Milk Shake,1,0,,194.0

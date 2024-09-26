@@ -1,0 +1,55 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Momos,Original Veggie Momos [5 Pieces],1,0,| Cabbage | Carrot | Onion | Garlic | Ginger | Sp. Onion ... read more,77.4
+Momos,Original Veggie Wheat Momos [5 Piece],1,0,| Wheat Base | Cabbage | Carrot | Onion | Garlic | Ginger ... read more,83.4
+Momos,Cottage Cheese Sui Mai Momos [5 Pieces],1,0,| Cottage Cheese | Momo Sp. Spices | Sp.onion | Onion ... read more,113.4
+Momos,Cheezylicious Momos [5 Pieces],1,0,| Cheese | Cabbage | Carrot | Onion | Garlic | Ginger | ... read more,113.4
+Momos,Spicy Veggie Momos [5 Pieces],1,0,|Sweet corns | Cabbage | Carrot | Onion | Garlic | Ginger | ... read more,113.4
+Momos,Italiano Cheese Momo [5 Piece],1,0,| Cheese | Italian Herbs | Momo Sp. Spices | Sp.onion | ... read more,113.4
+Momos,Paneer Tikka Momos [5 Piece],1,0,| Malai Paneer | Tikka Masala | Tikka Hearbs | Sichuan Sauce | ... read more,77.4
+Momos,Corn Cheese Momos [5 Piece],1,0,Fresh Sweetcorn | Herbs | Cheese,107.4
+Momos,Veg Assorted Momo [10 Piece],1,0,2 Pieces of 5 different momos served with momo chutney,161.4
+Starters,[V] Manchurian Dry,1,0,,161.4
+Starters,Paneer Chilli Dry,1,0,,161.4
+Starters,Shandong Potato,1,0,,155.4
+Starters,Street Thai Cottage Cheese,1,0,,161.4
+Soups,Lung Fung Soup,1,0,,83.4
+Soups,Hot And Sour Soup,1,0,,83.4
+Soups,Manchow Soup,1,0,,83.4
+Soups,Momoman Special Soup,1,0,,83.4
+Soups,Talumein Soup,1,0,,83.4
+Noodles,Fiery Sichuan Noodles,1,0,,161.4
+Noodles,Happy Hakka Noodles,1,0,,161.4
+Noodles,Hawker's Peppered Noodles,1,0,,161.4
+Noodles,Hunan Noodles,1,0,,167.4
+Noodles,Silly Chilly Noodles,1,0,,167.4
+Noodles,The Phuket Noodles,1,0,,173.4
+Veg Soupy Noodle Bowls,American Chopsuey,1,0,,167.4
+Veg Soupy Noodle Bowls,Pan Fried Noodles,1,0,,167.4
+Veg Soupy Noodle Bowls,Ramen,1,0,,167.4
+Veg Soupy Noodle Bowls,Thupka,1,0,,167.4
+Rice Bowls,Veg Fried Rice,1,0,,149.4
+Rice Bowls,Oriental Green Rice,1,0,,149.4
+Rice Bowls,Sichuan Fried Rice,1,0,,149.4
+Rice Bowls,Steamed Rice,1,0,,71.4
+Rice Bowls,Sticky Coconut Rice,1,0,,149.4
+Meals In A Plate,Hot Sichuan Gravy Meal,1,0,,167.4
+Meals In A Plate,Thai Green Curry Meal,1,0,,167.4
+Meals In A Plate,Thai Red Curry Meal,1,0,,167.4
+Meals In A Plate,Manchurian Gravy Meal,1,0,,167.4
+Meals In A Plate,Paneer Chilli Gravy Meal,1,0,[Paneer chilly gravy + fried rice],167.4
+Meals In A Plate,Thai Massaman Curry Meal,1,0,[Steam rice + massaman curry],167.4
+Tandoori Momos,Tandoori Cheesy Veg Momos,1,0,,149.4
+Tandoori Momos,Tandoori Paneer Momos,1,0,,149.4
+Tandoori Momos,Tandoori Veggie Momos,1,0,,119.4
+Combos,Veg Momos + Noodles,1,0,Momos (5 pieces) + Hakka Noodles (500 grams),209.4
+Combos,Veg Momos + Rice,1,0,Momos [5 Pieces]+Rice in bowl - Veg Fried Rice [500 grams],209.4
+Combos,Veg Momos + Rice + Noodles [mm],1,0,Momos [5 Pieces] + Hakka Noodles [500 grams] + Rice In Bowl - ... read more,293.4
+Family Binge Combos,Manchurian Noodles Combo,1,0,Manchurian Dry + Veg Hakka Noodles,299.4
+Family Binge Combos,Veg Fried Rice Manchurian Combo,1,0,Veg Fried Rice + Veg Classic Manchurian Gravy,305.4
+Soupy Momos,Darjeeling Momo Soup,1,0,Enjoy your favorite Veg momos in darjeeling style,119.4
+Soupy Momos,Fire Cracker Chess Momo Soup,1,0,Your favorite chess momos with spicy soup,119.4
+Soupy Momos,Leafy Green Soupy Momos,1,0,Healthiest way to eat your momos,119.4
+Soupy Momos,Malay Cottage Cheese Momo Soup,1,0,Paneer momos soupy style,119.4
+Saucy Momos,Cheese Chilli Garlic Momos,1,0,Chess momos with pinch of garlic for your taste buds,131.4
+Saucy Momos,Cottage Cheese Oriental Orgasm,1,0,Paneer momos with your favorite gravy,131.4
+Saucy Momos,Fire Cracker Veg. Momo,1,0,Veg momos in spicy gravy,131.4

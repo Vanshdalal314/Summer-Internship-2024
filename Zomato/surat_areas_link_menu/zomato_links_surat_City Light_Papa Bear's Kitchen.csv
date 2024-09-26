@@ -1,0 +1,140 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Healthy Bowls,Paneer Makhani Bowl,1,0,"(Brown Rice, Corn, Tomato, Broccoli, Saut",430.0
+Healthy Bowls,Italian Buddha Bowl,1,0,"(Whole Wheat Spaghetti Aglio e Olio, Broccoli, Cherry Tomatoes, Mushroom, Corn, Olives, Bell ... read more",460.0
+Healthy Bowls,Indian Rajma Bowl,1,0,"(Brown Rice with Indian Style Rajma, Sliced Onions, Red Cabbage)",420.0
+Healthy Bowls,Classic Chole Bowl,1,0,"(Brown Rice with Chole Gravy, Onion Salad, Red Cabbage, Dressing of Tandoori Sauce)",410.0
+Healthy Bowls,Mexican Burrito Bowl,1,0,"(Brown Rice, Bell Peppers, Kidney Beans, Corn, Tomatoes, Lettuce, Olives, Jalape",440.0
+Healthy Bowls,Greek Buddha Bowl,1,0,"(Quinoa, Lettuce, Cherry Tomatoes, Cucumber, Herb Potatoes, Olives, Purple Cabbage, Saut",470.0
+Healthy Bowls,Hot Santa-Fe Bear,1,0,"(Brown rice, Smoked Paneer, Chilli, Baked Beans, Sour Cream, Salsa, Lettuce, Corn, Olive, ... read more",420.0
+Healthy Bowls,Hummus Bowl,1,0,"(Falafal Tikki, Lettuce, Red Cabbage, Sour Cream, Olive, Jalape",460.0
+Healthy Bowls,Mushroom Stroganoff With Black Rice,1,0,Black rice with Creamy Mushroom Gravy,490.0
+Mac & Cheese,Classic Mac & Cheese,1,0,"(Classic English Pan Style, Not Baked)",380.0
+Mac & Cheese,Spicy Papa,1,0,"(Classic English Pan Style, Not Baked)",410.0
+Mac & Cheese,Angry Mama,1,0,"(Classic English Pan Style, Not Baked)",420.0
+Mac & Cheese,Nutty Pesto,1,0,"(Classic English Pan Style, Not Baked)",460.0
+Pizzas,Classic Margherita Pizza [11 Inches],1,0,"(Pomodora Sauce, Mozzarella, Basil, Olive Oil)",540.0
+Pizzas,Bear Flames Pizza [11 Inches],1,0,"(White Garlic Sauce, Jalape",600.0
+Pizzas,Teekha Papa Paneer Pizza [11 Inches],1,0,"(Spicy In-House Sauce, Paneer, Mixed Bell Peppers, Broccoli, Zucchini, Red Paprika, Cheddar Cheese, ... read more",590.0
+Pizzas,Smokey Head Papa Pizza,1,0,"(Pesto sauce, Mushrooms, Onions, Red Paprika, Jalape",620.0
+Pizzas,Arabic Rush Pizza [11 Inches],1,0,"(Hummus, Falafel Cubes, Olives, Red Bell Pepper, Red Paprika, Mozzarella)",580.0
+Pizzas,Green Pesto Pizza [11 Inches],1,0,"(Pesto Sauce, Olive Oil, Basil, Mozzarella, Cherry Tomatoes)",560.0
+Pizzas,Veggie Bear Pizza [11 Inches],1,0,"(Pomodora Sauce, Onion, Jalape",580.0
+Pizzas,Cheesy Papa Bear Pizza [11 Inches],1,0,"(In-house Creamy Cheese Sauce, Cheddar Cheese, Jack Monterey Cheese, Orange Cheddar Cheese, Mozzarella ... read more",620.0
+Pizzas,Creamy Mushroom Fusilli,1,0,"Indulge in the creamy decadence of our Mushroom Fusilli Pasta, where tender fusilli ... read more",460.0
+Pizzas,Arrabbiata Penne,1,0,"Pasta made from garlic, tomatoes, and dried red chili peppers cooked in olive ... read more",420.0
+Pizzas,Alfredo Pasta,1,0,"Indulge in a creamy symphony of flavors with our Alfredo Penne pasta, where ... read more",430.0
+Pizzas,Rosso Pink Pasta,1,0,"""A captivating blend of traditional Italian craftsmanship and modern creativity, boasting vibrant pink ... read more",460.0
+Pizzas,Pesto Spaghettii Pasta,1,0,,460.0
+Pizzas,Aglio E Olio Pasta,1,0,"""Indulge in the timeless simplicity of our Aglio-e Olio Pasta, where perfectly al ... read more",430.0
+Hummus,Classic Hummus,1,0,(Served with Pita Bread and Falafel Bullets),420.0
+Hummus,Peri Peri Hummus,1,0,(Served with Pita Bread and Falafel Bullets),430.0
+Burger,Spicy Paneer Burger,1,0,"(Toasted Bun, Crispy Paneer Patty, Spicy Garlic In-House Sauce, Crispy Lettuce, Sliced Onions, ... read more",410.0
+Burger,Papas Favourite Burger,1,0,"(Toasted Bun, Patty made with Favourite Vegetables & Herbs, Rosso Lettuce, Sliced Tomatoes, ... read more",420.0
+Burger,Smoky Bear Burger,1,0,"(Toasted Bun, Paneer Patty, Caramelised Onions, Melted Cheese, Creamy Mushrooms, Jalape",430.0
+Burger,Caprese Veggie Burger,1,0,"(Toasted Bun, Grilled Vegetable Patty, Mozzarella Cheese, In-House Pesto Sauce, Balsamic Onions, Cheddar ... read more",430.0
+Panini,Basil Pesto,1,0,(Served with Classic Fries on Side),420.0
+Panini,Saute Mushroom,1,0,(Served with Classic Fries on Side),460.0
+Panini,Scrambled Paneer,1,0,(Served with Classic Fries on Side),440.0
+Fries,Potato Wedges,1,0,"""Savor the crispy perfection of our potato wedge fries, seasoned to golden-brown perfection ... read more",220.0
+Fries,Classic Salted Fries,1,0,"""Indulge in the timeless appeal of our Classic Salted Fries, meticulously crafted to ... read more",190.0
+Fries,Peri-Peri Fries,1,0,"""Indulge in the fiery allure of our Peri-peri fries, tantalizing your taste buds ... read more",230.0
+Fries,Spicy Garlic Fries,1,0,"""Indulge in a tantalizing fusion of bold flavors with our Spicy Garlic Fries, ... read more",260.0
+Fries,Pizza Fries,1,0,"""Indulge in the ultimate fusion of Italian and American flavors with our savory ... read more",280.0
+Fries,Tandoori Cheese Fries,1,0,"""Indulge in the perfect fusion of smoky tandoori spices and gooey melted cheese ... read more",300.0
+Fries,Baked Cheesy Nachos,1,0,"""Indulge in the irresistible crunch of golden-baked nachos smothered in a decadent blend ... read more",470.0
+Fries,Nachos With Beans,1,0,"""Indulge in the perfect harmony of crunchy tortilla chips topped with savory beans, ... read more",430.0
+Toasties,English Cheddar,1,0,"(Served with Cheddar, Jack Monterey and Mozzarella Cheese)",380.0
+Toasties,Saute Mushroom Tosties,1,0,"""Savor the irresistible fusion of earthy sautéed mushrooms atop perfectly toasted bread, a ... read more",460.0
+Toasties,Green Hummus Toastie,1,0,,410.0
+Toasties,Avocado Goodness,1,0,"""Indulge in the creamy richness of ripe avocados atop perfectly toasted bread, a ... read more",420.0
+Toasties,Pesto Hummus,1,0,"""Savor the fusion of Mediterranean and Middle Eastern flavors with our Pesto Hummus ... read more",410.0
+Bruschetta,Classic Bruschetta,1,0,(A Portion has 4 Pieces and A Dip),310.0
+Bruschetta,Tandoori Paneer,1,0,(A Portion has 4 Pieces and A Dip),340.0
+Bruschetta,Spicy Garlic Cheese,1,0,(A Portion has 4 Pieces and A Dip),350.0
+Garlic Bread,Cheese Garlic,1,0,(Served on Sourdough Bread),250.0
+Garlic Bread,Spicy Cheese,1,0,(Served on Sourdough Bread),280.0
+Garlic Bread,Pesto Garlic,1,0,(Served on Sourdough Bread),300.0
+Coffee,Espresso Coffee,1,0,"""Intensely flavorful espresso: a bold, aromatic pick-me-up crafted for true coffee aficionados. Savor ... read more",160.0
+Coffee,Cappuccino Coffee,1,0,"Indulge in the rich harmony of espresso, velvety steamed milk, and a frothy ... read more",250.0
+Coffee,Cafe Latte Coffee,1,0,"""Indulge in the creamy richness of our signature Cafe Latte, crafted with expertly ... read more",250.0
+Coffee,Cafe Mocha Coffee,1,0,Indulge in the rich harmony of espresso and velvety chocolate with our Café ... read more,280.0
+Coffee,Flat White Coffee,1,0,"""Indulge in the smooth harmony of espresso and velvety microfoam in our Flat ... read more",280.0
+Coffee,Americano Coffee,1,0,"""A bold espresso-based beverage with hot water, offering a smooth and robust flavor ... read more",200.0
+Coffee,V60 Pour Over Coffee,1,0,"""Indulge in the exquisite art of coffee brewing with our Hot V60 Pour ... read more",260.0
+Coffee,V60 Iced Pour Over Coffee,1,0,"Experience the refreshing chill of V60 Iced Pour Over, where smooth coffee meets ... read more",260.0
+Coffee,Cold Brew Coffee,1,0,"A smooth and refreshing coffee delight, crafted by steeping coarse coffee grounds in ... read more",240.0
+Coffee,Cold Brew Tonic Coffee,1,0,"Elevate your refreshment with Cold Brew Tonic, a harmonious blend of smooth, bold ... read more",300.0
+Coffee,Espresso Tonic Coffee,1,0,"Experience the invigorating fusion of intense espresso and crisp tonic water, resulting in ... read more",310.0
+Coffee,Iced Mocha Coffee,1,0,"""A harmonious blend of rich espresso and creamy chocolate, chilled to perfection for ... read more",280.0
+Coffee,Affogato Coffee,1,0,Indulge in the rich harmony of espresso poured over creamy vanilla ice cream ... read more,260.0
+Coffee,Signature Hot Chocolate,1,0,"Indulge in the rich decadence of our Signature Hot Chocolate, crafted with 54% ... read more",260.0
+Coffee,Nutella Hot Chocolate,1,0,"Indulge in the rich decadence of Nutella Hot Chocolate, boasting a velvety blend ... read more",300.0
+Coffee,Salted Caramel Hot Chocolate,1,0,"Indulge in the decadent fusion of rich 54% cocoa with luscious salted caramel, ... read more",290.0
+Coffee,Tiramisu Hot Chocolate,1,0,"Indulge in the decadent fusion of velvety Tiramisu, rich caramel, and smooth 54% ... read more",310.0
+Coffee,Papa Bears Mix Chocolate,1,0,"Indulge in the rich, velvety goodness of Papa Bear's Mix Hot Chocolate, crafted ... read more",340.0
+Frappe,Classic Frappe,1,0,"Escape to a blissful oasis with the Classic Frappe, where smooth espresso meets ... read more",250.0
+Frappe,Irish Frappe,1,0,"Embark on a decadent journey with Irish Frappe, where velvety coffee meets the ... read more",290.0
+Frappe,Hazelnut Frappe,1,0,"Indulge in the creamy decadence of a hazelnut frappe, where velvety hazelnut essence ... read more",290.0
+Frappe,Vanilla Frappe,1,0,"Escape into creamy decadence with a Vanilla Frappe, where smooth vanilla meets chilled ... read more",290.0
+Frappe,Signature Mocha Frappe,1,0,"Experience the irresistible allure of a Signature Mocha Frappe, where velvety chocolate meets ... read more",340.0
+Frappe,Caramel Frappe,1,0,"Indulge in a creamy blend of espresso and caramel, crowned with whipped cream ... read more",300.0
+Frappe,Cookie Monster Mocha Frappe,1,0,"Embark on a deliciously wild ride with the Cookies Monster Mocha Frappe, where ... read more",320.0
+Frappe,Seasonal Special Frappe,1,0,"Embrace the flavors of the season with our tantalizing Seasonal Special Frappe, blending ... read more",330.0
+Tea,Passion Fruit Iced Tea,1,0,Quench your thirst with a tropical burst of tangy passion fruit infused into ... read more,260.0
+Tea,Blueberry Iced Tea,1,0,Cool off with the refreshing taste of blueberries infused into a crisp and ... read more,280.0
+Tea,Strawberry Iced Tea,1,0,"Quench your thirst with the refreshing allure of Strawberry Iced Tea, where the ... read more",280.0
+Tea,Peach Iced Tea,1,0,"""Refreshingly sweet and tangy peach flavors dance in every sip of our Peach ... read more",290.0
+Tea,Berryblast Iced Tea,1,0,"Quench your thirst with Berryblast Iced Tea, a refreshing infusion of ripe berries ... read more",290.0
+Tea,Mango Iced Tea,1,0,"""Indulge in the refreshing fusion of sweet mango and cool tea with our ... read more",280.0
+Tea,Honey Mint Green Tea,1,0,"""Savor the refreshing fusion of delicate green tea infused with the sweetness of ... read more",160.0
+Tea,Hibiscus Cinnamon,1,0,"""Savor the invigorating blend of hibiscus petals and green tea, delicately infused with ... read more",170.0
+Tea,Kashmiri Kahwa Kesar,1,0,"Indulge in the aromatic allure of Kashmiri Kahwa, a tantalizing blend of saffron-infused ... read more",160.0
+Tea,Chamomile Green Tea,1,0,"""Savor the soothing blend of delicate chamomile flowers and refreshing green tea, a ... read more",140.0
+Mocktails,Blue Sky,1,0,"""Refreshing and vibrant blue sky mojito, a tropical twist on a classic cocktail. ... read more",230.0
+Mocktails,Lavendar,1,0,"""Indulge in the refreshing fusion of zesty lime and fragrant lavender, a tantalizing ... read more",250.0
+Mocktails,Spicy Guava,1,0,"""Experience a tantalizing twist with our Spicy Guava Mojito, blending the refreshing essence ... read more",260.0
+Mocktails,Pink Lemonade,1,0,"""Indulge in a refreshing twist with our Pink Lemonade Mojito, blending zesty lemon, ... read more",260.0
+Mocktails,Spicy Pineapple,1,0,"""Indulge in a tantalizing twist with our Spicy Pineapple Mojito, where zesty pineapple ... read more",280.0
+Mocktails,Orange Citrus,1,0,"""Refreshing Orange Citrus Mojito: A zesty twist on the classic with tangy oranges, ... read more",310.0
+Mocktails,Sky Red,1,0,"""Indulge in the vibrant allure of a Sky Red Mojito, where zesty lime ... read more",230.0
+Mocktails,Orange Citrus Smoothie,1,0,"""Indulge in a zesty whirlwind of sunshine with our Orange Citrus milkshake – ... read more",310.0
+Mocktails,Strawberry Smoothie,1,0,"Embark on a refreshing journey with a strawberry smoothie, blending luscious strawberries with ... read more",300.0
+Mocktails,Blueberry Smoothie,1,0,"A refreshing blend of plump, ripe blueberries, this vibrant smoothie bursts with antioxidants ... read more",300.0
+Mocktails,Berry Blast Smoothie,1,0,Indulge in the refreshing taste of ripe strawberries blended to perfection with dairy-free ... read more,310.0
+Mocktails,Passion Fruit Smoothie,1,0,"Embark on a tantalizing journey with the Passion Fruit smoothie, where the tangy ... read more",300.0
+Mocktails,Papa Bear Signature Smoothie,1,0,"The House Blend Signature smoothie offers a symphony of flavors, blending ripe tropical ... read more",320.0
+Healthy Juices,Doctors Favourite Juice,1,0,"(Apple, Beetroot, Carrot)",180.0
+Healthy Juices,Papa's Blood Juice,1,0,"(Guava, Beetroot, Apple, Tomato)",190.0
+Healthy Juices,Ginger Goodness Juice,1,0,"(Spinach, Ginger, Basil, Apple, Olive Oil)",190.0
+Healthy Juices,Yellow Blend Juice,1,0,"(Carrot, Pineapple, Orange, Turmeric)",200.0
+Healthy Juices,Pink Root Juice,1,0,"(Orange, Pineapple, Beetroot, Cucumber)",190.0
+Milkshake,Double Brownie Milk Shakes,1,0,Indulge in the ultimate decadence with our Double Brownie Milkshake - a rich ... read more,300.0
+Milkshake,Red Velvet Cheesecake Milk Shakes,1,0,"Indulge in decadence with our Red Velvet Cheesecake milkshake, a creamy fusion of ... read more",350.0
+Milkshake,Tiramisu Milk Shakes,1,0,"Indulge in the creamy delight of a Tiramisu milkshake, blending rich espresso, velvety ... read more",310.0
+Milkshake,Hazelnut Milk Shakes,1,0,"Indulge in the creamy decadence of a hazelnut milkshake, where smooth hazelnut flavors ... read more",300.0
+Milkshake,Kitkat Milk Shakes,1,0,"Indulge in a creamy symphony of crushed KitKat bars blended with chilled milk, ... read more",290.0
+Milkshake,Biscoff Milk Shakes,1,0,"Indulge in the creamy delight of a Biscoff milkshake, blending smooth vanilla ice ... read more",340.0
+Milkshake,Oreomilk Shakes,1,0,"Indulge in the ultimate creamy treat with an Oreo milkshake, blending velvety vanilla ... read more",290.0
+Milkshake,Seasonal Fruit Milk Shakes,1,0,"""Indulge in a symphony of seasonal fruits dancing in creamy harmony, where every ... read more",350.0
+Milkshake,Rocher Milk Shakes,1,0,"Indulge in the velvety embrace of Rocher chocolate, swirled into a milkshake so ... read more",320.0
+Milkshake,Mixed Berry Milk Shakes,1,0,"""Indulge in a symphony of summer's sweetness with our Mixed Berry milkshake, where ... read more",320.0
+Milkshake,Classic Pb,1,0,"Indulge in nostalgia with our Classic Milkshake, where every sip whispers tales of ... read more",310.0
+Milkshake,Caramel Milk Shakes,1,0,"Indulge in the sweet symphony of caramel kissed with cream, a milkshake so ... read more",300.0
+Milkshake,Strawberry Cheesecake Milk Shakes,1,0,"""Indulge in a whirlwind of creamy delight and fruity bliss with our Strawberry ... read more",360.0
+Desserts,Classic New York Cheesecake,1,0,"Indulge in the decadent delight of New York cheesecake, featuring a creamy, velvety ... read more",280.0
+Desserts,Green Matcha Cheesecake,1,0,"""Indulge in a tantalizing dance of flavors with our Green Matcha cheesecake, where ... read more",300.0
+Desserts,Nutty Hazelnut Cheesecake,1,0,"Indulge in a decadent Nutty Hazelnut cheesecake, where every creamy bite is a ... read more",310.0
+Desserts,Milky Kitkat Cheesecake,1,0,"Indulge in the creamy delight of Milky Kitkat cheesecake, where velvety smoothness meets ... read more",310.0
+Desserts,Mr. Rocher Cheesecake,1,0,"Indulge in decadent delight with Mr. Bear Rocher cheesecake, where creamy chocolate meets ... read more",350.0
+Desserts,Creamy Biscoff Cheesecake,1,0,Indulge in layers of velvety Biscoff-infused creaminess atop a crumbly biscuit base—because every ... read more,350.0
+Desserts,Classic Brownie,1,0,"Indulge in the timeless allure of our Classic Brownie, where rich chocolate meets ... read more",200.0
+Desserts,Nutella Brownie,1,0,"Indulge in a decadent Nutella brownie, where every bite is a blissful swirl ... read more",250.0
+Desserts,Biscoff Brownie,1,0,"The cookie spread that turns your toast into a gourmet indulgence, making every ... read more",250.0
+Desserts,Red Velvet Cream Cheese Brownie,1,0,Indulge in decadent layers of rich red velvet and creamy cheesecake atop a ... read more,260.0
+Desserts,Chef Papa's Mocha Brownie,1,0,"Indulge in Chef Papa's decadent Mocha Brownie, where rich cocoa meets aromatic espresso ... read more",280.0
+Salads,Pesto Spaghetti,1,0,"""Savor the vibrant flavors of summer with our Pesto Spaghetti Salad: a harmonious ... read more",300.0
+Salads,Healthy Punch,1,0,"(Paneer, Lettuce, Mushrooms, Sweet Corn, Cherry Tomato, Cucumber, Mixed Bell Peppers, Olives, Southwest ... read more",250.0
+Salads,Bear Fiesta,1,0,"(Paneer, Mixed Bell Peppers, Cucumber, Lettuce, Sweet Corn, Jalape",260.0
+Salads,Papa Honey,1,0,"(Apple, Walnuts, Honey, Feta Cheese, Olives, Sweet Corn, Paneer, Sweet Vinaigrette)",240.0
+Salads,Green Papa Bear,1,0,"(Boiled Pasta, Olives, Lettuce, Cherry Tomatoes, Mixed Bell Peppers, Pesto Dressing)",280.0
+Salads,Mexican Tango,1,0,"(Red Kidney Beans, Lettuce, Mixed Peppers, Onion, In House Cooked Nachos, Sweet Corn, ... read more",260.0

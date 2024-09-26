@@ -1,0 +1,57 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bonanza Combos,Dal Makhni+ Jeera Rice,1,0,,219.0
+Bonanza Combos,Chur Chur Special Kulcha+ Malai Chaap,1,0,,260.0
+Bonanza Combos,Paneer Tikka+Afghani Chaap,1,0,,300.0
+Bonanza Combos,Chaap Gravy with 2 Butter Naan Combo,1,0,,250.0
+Bonanza Combos,Shahi Paneer+ 2 Plain Naan,1,0,,270.0
+Bonanza Combos,Malai Chaap +2 Butter Naan Plain+ Dal Makhani,1,0,,440.0
+Bonanza Combos,Afghani Chaap + Rajma Masala + 2 Lachha Paratha,1,0,,400.0
+Bonanza Combos,Achari Chaap +Chhole Plate+ 2 Garlic Naan [Plain],1,0,,470.0
+Bonanza Combos,Paneer Tikka + Shahi Paneer+ 4 Roti,1,0,,480.0
+Bonanza Combos,Cheese Chaap+Gravy Chaap + Chur Chur Special Kulcha,1,0,,540.0
+Bonanza Combos,Amritsari Special Kulcha+ Afghani Chaap,1,0,,300.0
+Meals,Lachha Paratha with Chole,1,0,"Shredded paratha, a very famous North Indian dish which is coming up with ... read more",119.0
+Meals,Garlic Naan with Chole,1,0,,139.0
+Meals,Butter Naan with Chole,1,0,,109.0
+Meals,Cheese Naan with Gravy,1,0,,189.0
+Meals,Gravy Chaap with 2 Butter Naan,1,0,A unique and protein rich Indian curry recipe made with soya chaap and ... read more,289.0
+Meals,Lachha Paratha with Soya Sabzi,1,0,,129.0
+Meals,Chole Rice,1,0,A wholesome dish consisting of a delicious chickpea gravy served with rice.,119.0
+Meals,Rajma Rice,1,0,The kidney beans populary known as rajma in India is a healthy and ... read more,119.0
+Starters,Paneer Tikka,1,0,Charcoal grilled roasted chunks of cottage cheese marinated in spices and served with ... read more,229.0
+Chaap,Afghani Chaap,1,0,"Chaap marinated in a marinade made with yogurt [curd], cream and spices and ... read more",220.0
+Chaap,Malai Chaap,1,0,"Soy chunks marinated with rich creamy masala, broiled in tandoor, mixed with veggies ... read more",220.0
+Chaap,Hariyali Chaap,1,0,,220.0
+Chaap,Achari Chaap,1,0,A creamy dish with fresh and soft chaap cooked in a rich tomato ... read more,220.0
+Chaap,Cheese Chaap,1,0,,239.0
+Chaap,Garlic Chaap,1,0,,220.0
+Main Course,Chole [1 Plate],1,0,A classic Amritsari style thick and indulgent chole gravy served with salad.,159.0
+Main Course,Paneer Bhurji,1,0,"A delightfully hearty preparation of a flavor packed paneer bhurji, made to perfection. ... read more",239.0
+Main Course,Paneer Butter Masala,1,0,A creamy dish with pre cooked tandoor style soft paneer pieces cooked in ... read more,239.0
+Main Course,Shahi Paneer,1,0,A delicious soft and juicy shahi paneer mix with veggies and spices.,239.0
+Main Course,Paneer Tikka Gravy,1,0,Gravy that consists charcoal grilled roasted chunks of cottage cheese marinated in spices.,239.0
+Main Course,Rajma Masala,1,0,,159.0
+Main Course,Nutri [1 Plate],1,0,,189.0
+Main Course,Dal Makhani,1,0,A decadently indulgent dish prepared by cooking black lentil and red kidney beans ... read more,189.0
+Breads,Plain Butter Naan,1,0,North Indian bread that tastes brilliant when paired with a gravy.,79.0
+Breads,Plain Lachha Paratha,1,0,"Shredded paratha, a very famous North Indian dish which becomes best with gravy.",79.0
+Breads,Cheese Garlic Naan,1,0,"Soft Indian flatbread made from all purpose flour with a hint of garlic, ... read more",189.0
+Breads,Plain Garlic Naan,1,0,,99.0
+Breads,Roti,1,0,Plain whole wheat roll clay oven tandoori cooked.,24.0
+Rice and Biryani,Jeera Rice,1,0,,99.0
+Rice and Biryani,Soya Biryani,1,0,,119.0
+Snacks,Aloo Onion Kulcha,1,0,"Aloo onion kulcha is leavened Indian flatbread stuffed with potato, onion and spices.",121.0
+Snacks,Aloo Gobi Kulcha,1,0,,129.0
+Snacks,Paneer Kulcha,1,0,Paneer kulcha is leavened Indian flatbread stuffed with paneer and spices.,139.0
+Snacks,Aloo Methi Kulcha,1,0,,139.0
+Snacks,Cheese Chinese Kulcha,1,0,Cheese Chinese kulcha is leavened Indian flatbread stuffed with Chinese and spices topped ... read more,189.0
+Snacks,Gobi Methi Kulcha,1,0,,139.0
+Snacks,Paneer Cheese Kulcha,1,0,Paneer cheese kulcha is leavened Indian flatbread stuffed with paneer and spices topped ... read more,189.0
+Snacks,Palak Cheese Kulcha,1,0,Palak cheese kulcha is leavened Indian flatbread stuffed with palak and spices.,189.0
+Snacks,Amritsari Special Kulcha,1,0,,139.0
+Snacks,Double Cheese Kulcha,1,0,Double cheese kulcha is leavened Indian flatbread stuffed with double cheese and spices.,223.0
+Snacks,Chur Chur Special Kulcha,1,0,,148.0
+Snacks,Mix Veg Kulcha,1,0,,139.0
+Snacks,Jain Kulcha,1,0,,139.0
+Snacks,Garlic Methi Kulcha,1,0,,139.0
+Accompaniments,Amritsari Roasted Papad,1,0,,55.0

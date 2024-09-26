@@ -1,0 +1,134 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bakery,Aata Elaichi Cookies,1,0,,153.0
+Bakery,Ajwain Cookies,1,0,,153.0
+Bakery,Assorted Cookies,1,0,,382.0
+Bakery,Butter Badam Cookies,1,0,,178.0
+Bakery,Butter Badam Nan Khatai,1,0,,128.0
+Bakery,Chocolate Chips Cookies,1,0,,178.0
+Bakery,Coconut Cookies,1,0,,178.0
+Bakery,Fruit Cookies,1,0,,178.0
+Bakery,Jeera Cookies,1,0,,153.0
+Bakery,Kaju Pista Cookies,1,0,,178.0
+Bakery,Kesar Badam Pista Cookies,1,0,,191.0
+Bakery,Marble Cookies,1,0,,178.0
+Bakery,Nan Khatai,1,0,,115.0
+Bakery,Roasted Dryfruit Cookies,1,0,,204.0
+Bakery,Shahi Jeera Cookies,1,0,,153.0
+Bakery,Khari Ajwain,1,0,,77.0
+Bakery,Khari Methi,1,0,,77.0
+Drinks (Beverages),Malai Lassi,1,0,,86.0
+Drinks (Beverages),Mango Lassi,1,0,,100.0
+Drinks (Beverages),Masala Milk,1,0,200 Ml,115.0
+"Chaat, Snacks & Quick Bites",Cheese Roll (1 Pc),1,0,,64.0
+"Chaat, Snacks & Quick Bites",Paneer Puff,1,0,,51.0
+"Chaat, Snacks & Quick Bites",Aloo Tikki Chaat,1,0,,129.0
+"Chaat, Snacks & Quick Bites",Bhalla Papdi Chaat,1,0,Bhalla Papdi is a popular and delightful Indian street food that offers a ... read more,143.0
+"Chaat, Snacks & Quick Bites",Chole Aloo Tikki,1,0,Non Jain,143.0
+"Chaat, Snacks & Quick Bites",Dilli Chaat,1,0,1 Plate,143.0
+"Chaat, Snacks & Quick Bites",Kachori Chaat (Dahi),1,0,,86.0
+"Chaat, Snacks & Quick Bites",Papdi Chaat,1,0,Papdi Chaat is a popular and delightful Indian street food that offers a ... read more,129.0
+"Chaat, Snacks & Quick Bites",Samosa Chaat (Dahi),1,0,,86.0
+"Chaat, Snacks & Quick Bites",Sandwich Khaman (2 Pc),1,0,,72.0
+"Chaat, Snacks & Quick Bites",Bedmi Puri With Aloo Sabji,1,0,"Bedmi Puri - 2 Pc, Aloo Sabji, Masala Onion Laccha & Pickle",129.0
+"Chaat, Snacks & Quick Bites",Chole Bhature,1,0,"Bhatura - 2 Pc, Chole With Masala Aloo & Mirchi, Mint Onion Laccha ... read more",200.0
+"Chaat, Snacks & Quick Bites",Chole Kulcha,1,0,"Kulcha - 2 Pc, Chole With Masala Aloo & Mirchi, Mint Onion Laccha ... read more",172.0
+"Chaat, Snacks & Quick Bites",Pav Bhaji,1,0,"An all time favorite pav bhaji filled with butter, made with Indian spices, ... read more",172.0
+"Chaat, Snacks & Quick Bites",Kachori (2 Pc),1,0,,52.0
+"Chaat, Snacks & Quick Bites",Samosa (2 Pc),1,0,,52.0
+"Chaat, Snacks & Quick Bites",Samosa Cheese Pav,1,0,New Introduction. Cheesy Samosa Pav.,58.0
+"Chaat, Snacks & Quick Bites",Samosa Pav,1,0,New Introduction To Menu. Samosa With Pav & Fry Green Chilly.,36.0
+Namkeen & Savouries,Achari Mathi,1,0,,148.0
+Namkeen & Savouries,Bhakharwadi,1,0,,148.0
+Namkeen & Savouries,Chai Nasta (Assorted Maida Namkeen),1,0,,322.0
+Namkeen & Savouries,Chakri,1,0,,148.0
+Namkeen & Savouries,Dry Kachori,1,0,,148.0
+Namkeen & Savouries,Dry Samosa,1,0,,148.0
+Namkeen & Savouries,Matarfali,1,0,,148.0
+Namkeen & Savouries,Methi Puri / Methi Mathi,1,0,,148.0
+Namkeen & Savouries,Trikon Mathi,1,0,,148.0
+Namkeen & Savouries,All In One,1,0,,134.0
+Namkeen & Savouries,Badam Laccha (Falahari Chevda),1,0,,175.0
+Namkeen & Savouries,Bikaneri Bhujiya,1,0,,134.0
+Namkeen & Savouries,Kaju Cornflakes,1,0,,161.0
+Namkeen & Savouries,Karodpati Sev,1,0,,108.0
+Namkeen & Savouries,Khatta Meetha,1,0,,161.0
+Namkeen & Savouries,King Mixture,1,0,,215.0
+Namkeen & Savouries,Marwadi Sev,1,0,,108.0
+Namkeen & Savouries,Navratan Mixture,1,0,,134.0
+Namkeen & Savouries,Ratlami Sev,1,0,,108.0
+Namkeen & Savouries,Shahi Dalmoth Mixture,1,0,,175.0
+Namkeen & Savouries,Shahi Mixture,1,0,,175.0
+Namkeen & Savouries,Surti Mixture / Bhusu,1,0,,108.0
+Namkeen & Savouries,Jaali Waffers,1,0,200 Gm Pkt,118.0
+Namkeen & Savouries,Khelra Waffer,1,0,,148.0
+Namkeen & Savouries,Tomato Waffer,1,0,200 Gm Pkt,118.0
+Namkeen & Savouries,Waffer,1,0,,118.0
+Sweets,Angoor Rabdi,1,0,,208.0
+Sweets,Malai Roll (2 Piece),1,0,,100.0
+Sweets,Pistamoon (2 Pc),1,0,,86.0
+Sweets,Rasmalai,1,0,,343.0
+Sweets,Sponge Rasgulla,1,0,,172.0
+Sweets,Assorted Baklawa Box,1,0,,886.0
+Sweets,Anjeer Cutlet,1,0,,458.0
+Sweets,Df Delight (Chocolate),1,0,,458.0
+Sweets,Df Delight (Kesar),1,0,,458.0
+Sweets,Df Delight (Pista),1,0,,458.0
+Sweets,Dryfruit Tacos,1,0,,458.0
+Sweets,Dryfruit Vatika,1,0,,458.0
+Sweets,Fruit Sandwich,1,0,,336.0
+Sweets,Kaju Anjeer Roll,1,0,,422.0
+Sweets,Kaju Kasata,1,0,,458.0
+Sweets,Kaju Katli,1,0,,372.0
+Sweets,Kaju Mix / Dryfruit Mix Sweet,1,0,,458.0
+Sweets,Kaju Roll,1,0,,422.0
+Sweets,Kamal Bhog / Kalingar,1,0,,458.0
+Sweets,Kesar Katli,1,0,,408.0
+Sweets,Khajoor Pak / Date Chikey,1,0,,458.0
+Sweets,Mewa Bites / Dryfruit Delight (Mix Flavour),1,0,,458.0
+Sweets,Pista Madhuram,1,0,,458.0
+Sweets,Rose Bud,1,0,,458.0
+Sweets,Shahi Paan,1,0,,458.0
+Sweets,Strawberry Katli,1,0,,408.0
+Sweets,Tulsi Ganga,1,0,,458.0
+Sweets,Balushahi / Makhanbada,1,0,,222.0
+Sweets,Besan Laddo,1,0,,200.0
+Sweets,Bundi,1,0,,179.0
+Sweets,Dodha Barfi,1,0,,236.0
+Sweets,Gulabjamun (Angoori),1,0,,208.0
+Sweets,Gulabjamun,1,0,,172.0
+Sweets,Kalajamun (Angoori),1,0,,215.0
+Sweets,Kalajamun,1,0,,240.0
+Sweets,Kesar Gujia,1,0,,250.0
+Sweets,Kesar Pista Ghari,1,0,,329.0
+Sweets,Kesari Ghewar,1,0,Per Pc,258.0
+Sweets,Kesariya Jalebi,1,0,Made In Pure Desi Ghee,208.0
+Sweets,Mohanthal / Besan Barfi,1,0,,236.0
+Sweets,Moong Dal Barfi,1,0,,236.0
+Sweets,Motichur Laddo,1,0,,200.0
+Sweets,Motipak,1,0,,236.0
+Sweets,Rabdi Ghewar,1,0,Per Pc,286.0
+Sweets,Soan Papri,1,0,,193.0
+Sweets,Special Motichur Laddo,1,0,,236.0
+Sweets,Sutter Feni,1,0,,250.0
+Sweets,Chocolate Barfi,1,0,,236.0
+Sweets,Chocolate Peda / Bounty,1,0,,258.0
+Sweets,Fruit Roll,1,0,,258.0
+Sweets,Kalakand,1,0,,236.0
+Sweets,Kesar Peda,1,0,,243.0
+Sweets,Khopra Pak,1,0,,236.0
+Sweets,Malai Barfi,1,0,,236.0
+Sweets,Malai Peda,1,0,,222.0
+Sweets,Mathura Peda,1,0,,236.0
+Sweets,Mawa Mix,1,0,,258.0
+Sweets,Milkcake,1,0,,236.0
+Sweets,Pista Mawa Barfi,1,0,,236.0
+Sweets,Khajoor Sugarfree Sweet,1,0,,565.0
+Rice Bowl,Chole Rice Bowl,1,0,Serves 1 | Chole with rice is a classic and comforting North Indian ... read more,143.0
+Sandwiches Burger & Fries,French Fries,1,0,,115.0
+Sandwiches Burger & Fries,Veg Burger,1,0,Indian style burger stuffed with crispy potatoes and vegetable patties.,100.0
+Sandwiches Burger & Fries,Veg Cheese Burger,1,0,Indian style burger stuffed with cheese & crispy potatoes and vegetable patties.,143.0
+Sandwiches Burger & Fries,Veg Cheese Grilled Sandwich,1,0,A grilled sandwich with chips is a classic and satisfying meal that combines ... read more,172.0
+Sandwiches Burger & Fries,Veg Cheese Sandwich,1,0,"A delicious and wholesome sandwich filled with cheese & fresh vegetables, often accompanied ... read more",129.0
+Sandwiches Burger & Fries,Veg Sandwich,1,0,"A delicious and wholesome sandwich filled with fresh vegetables, often accompanied by spreads ... read more",86.0
+Thali & Platter,Mini Punjabi Thali,1,0,,215.0
+Thali & Platter,Special Punjabi Thali,1,0,"Serves 1 | A ""Special Thali with Tawa Paratha"" is a wholesome and ... read more",315.0

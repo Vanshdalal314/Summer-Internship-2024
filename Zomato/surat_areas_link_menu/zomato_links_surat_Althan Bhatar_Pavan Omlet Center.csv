@@ -1,0 +1,75 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Omelette,0,0,,110.0
+Snacks,Cutlets,0,0,,130.0
+Snacks,Omelette Sandwich,0,0,,150.0
+Snacks,Boil Fry,0,0,,70.0
+Snacks,Egg Curry,0,0,,170.0
+Snacks,Keema,0,0,,170.0
+Snacks,Bhurji,0,0,,170.0
+Snacks,Lehsun Fry,0,0,,170.0
+Snacks,Limboo Mari Omelette,0,0,,120.0
+Snacks,Boiled Tomato Fry,0,0,,80.0
+Snacks,Ghotalo,0,0,,170.0
+Snacks,Cheese Fry,0,0,,150.0
+Snacks,Sunday To Sunday,0,0,,170.0
+Snacks,Boil Chips,0,0,,150.0
+Snacks,Lehsun Kachu,0,0,,150.0
+Snacks,Goti Gravy,0,0,,70.0
+Snacks,Goti Tomato Fry,0,0,,80.0
+Snacks,Green Lachko,0,0,,180.0
+Snacks,Egg Locho,0,0,,150.0
+Snacks,Omelette Gravy,0,0,,130.0
+Main Course,Special Rajwadi,0,0,,260.0
+Main Course,Special Lahori,0,0,,200.0
+Main Course,Special South Indian Tadka,0,0,,440.0
+Main Course,Omelette Kebab,0,0,,380.0
+Main Course,Australian Fry,0,0,,290.0
+Main Course,Egg Kebab,0,0,,320.0
+Main Course,Shahi Korma,0,0,,360.0
+Main Course,Chinese Fry,0,0,,200.0
+Main Course,Special Patudi,0,0,,290.0
+Main Course,Cheese Kofta,0,0,,220.0
+Main Course,Green Rajwadi,0,0,,320.0
+Main Course,Egg Patra,0,0,,440.0
+Main Course,Egg Dosa Gravy,0,0,,400.0
+Main Course,Green Tikka Gravy,0,0,,330.0
+Main Course,Red Tikka Gravy,0,0,,330.0
+Main Course,Garib Rath,0,0,,440.0
+Main Course,Cutlesh Curry,0,0,,360.0
+Main Course,Akori,0,0,,200.0
+Main Course,Cocktail,0,0,,220.0
+Main Course,Doble Deckar,0,0,,450.0
+Main Course,Green Tadka,0,0,,360.0
+Main Course,Kolhapuri,0,0,,320.0
+Main Course,Laziz,0,0,,320.0
+Main Course,Special Ravaiya,0,0,,360.0
+Main Course,Red Tadka,0,0,,360.0
+Main Course,Triple Fry,0,0,,440.0
+Main Course,Tadka Lahori,0,0,,220.0
+Main Course,Special Nawabi,0,0,,360.0
+Main Course,Green Ravaiya,0,0,,220.0
+Main Course,Green Chinese,0,0,,220.0
+Main Course,Special Hum Tum,0,0,,570.0
+Main Course,Macchi Curry,0,0,,330.0
+Main Course,Italian Curry,0,0,,360.0
+Main Course,Punjabi Tadka,0,0,,400.0
+Main Course,Begum Bahar,0,0,,440.0
+Main Course,Egg Raja Rani,0,0,,570.0
+Main Course,Egg Tikhari,0,0,,400.0
+Main Course,Egg Cheese Chilli,0,0,,360.0
+Main Course,Dosa,0,0,,220.0
+Main Course,American Chopsuey,0,0,,220.0
+Main Course,Green Roll,0,0,,360.0
+Main Course,Egg Aloo Puri,0,0,,440.0
+Main Course,Goti Tadka,0,0,,220.0
+Main Course,Mini Paplet,0,0,,230.0
+Main Course,Royal Egg,0,0,,220.0
+Main Course,Rajwadi Omelette,0,0,,340.0
+Main Course,Royal Omelette,0,0,,290.0
+Main Course,American Omelette,0,0,,210.0
+Main Course,Egg Gahri,0,0,,440.0
+Rice,Egg Pulao,0,0,,90.0
+Rice,Bhurji Pulao,0,0,,80.0
+Rice,Kashmiri Pulao,1,0,,100.0
+Rice,Special Pulao,0,0,,290.0
+Rice,Gravy Pulao,1,0,,120.0

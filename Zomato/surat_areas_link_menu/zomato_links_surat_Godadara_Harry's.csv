@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Pizza [7 inches],1,0,,100.0
+Pizza,Double Cheese Margherita Pizza [7 inches],1,0,,110.0
+Burgers & Sandwiches,Veg Sandwich,1,0,,50.0
+Burgers & Sandwiches,Mayonnaise Veg Cheese Sandwich,1,0,,70.0
+Burgers & Sandwiches,Aloo Tikki Burger,1,0,,40.0
+Burgers & Sandwiches,Aloo Tikki Mayonnaise Cheese Burger,1,0,,60.0
+Burgers & Sandwiches,Schezwan Cheese Burger,1,0,,65.0
+Burgers & Sandwiches,Tandoori Cheese Burger,1,0,,75.0
+Burgers & Sandwiches,Double Cream Cheese Burger,1,0,,75.0
+Burgers & Sandwiches,Harrys Special Paneer Cheese Blast Burger,1,0,,100.0
+Frankies,Veg Frankie,1,0,,40.0
+Frankies,Veg Cheese Frankie,1,0,,50.0
+Frankies,Schezwan Cheese Frankie,1,0,,55.0
+Frankies,Chips Schezwan Cheese Frankie,1,0,,60.0
+Frankies,Mayonnaise Cheese Frankie,1,0,,60.0
+Frankies,Mixed Cheese Frankie,1,0,,65.0
+Frankies,Double Cream Cheese Blast Frankie,1,0,,80.0
+Frankies,Tandoori Nachos Cheese Frankie,1,0,,90.0
+Frankies,Chilli Paneer Cheese Frankie,1,0,,100.0
+Frankies,Harrys Special Paneer Tandoori Cheese Blast Frankie,1,0,,110.0
+Garlic Breads,Tandoori Cheese Garlic Bread,1,0,,110.0
+Garlic Breads,Chilli Corn Cheese Garlic Bread,1,0,,130.0
+Garlic Breads,Green Chilli Cheese Garlic Bread,1,0,,130.0
+Garlic Breads,Greeny Cheese Garlic Bread,1,0,,130.0
+Garlic Breads,All Toppings Cheese Garlic Bread,1,0,"Capsicum, corn, onion & black olives.",150.0
+Garlic Breads,Harrys Special Paneer Tandoori Cheese Garlic Bread,1,0,,170.0
+Snacks,Cream & Onion Mayonnaise Pav,1,0,,25.0
+Snacks,Cream & Onion Cheese Mayonnaise Pav,1,0,,30.0
+Snacks,Solid Masti Mayonnaise Pav,1,0,,25.0
+Snacks,Solid Masti Cream Cheese Mayonnaise Pav,1,0,,30.0
+Snacks,Tandoori Nachos Mayonnaise Pav,1,0,,30.0
+Snacks,Tandoori Nachos Cheese Mayonnaise Pav,1,0,,35.0
+Snacks,Harrys Special Paneer Tandoori Cheese Blast Mayonnaise Pav,1,0,,50.0
+Snacks,Aloo Tikki Mayonnaise Pav,1,0,,30.0
+Snacks,Aloo Tikki Cream Cheese Mayonnaise Pav,1,0,,35.0

@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Kacha dal samosa,1,0,,70.0
+Snacks,Kacha petis,1,0,,80.0
+Snacks,Kacha Chinese Samosa,1,0,,80.0
+Snacks,Kacha Lilva Kachori,1,0,,80.0
+Snacks,Kacha Cheez Paneer Samosa,1,0,,125.0
+Snacks,Farali Petis,1,0,,90.0
+Snacks,Tikho Farali Chevdo,1,0,,80.0
+Snacks,Farali Mitho Chevdo,1,0,,80.0
+Snacks,Jain Chinese Samosa,1,0,,90.0
+Snacks,Jain lilva kachori,1,0,,90.0
+Snacks,Methi Gota,1,0,,90.0
+Snacks,Kela Methi Bhajiya,1,0,,90.0
+Snacks,Batata Puri,1,0,,90.0
+Snacks,Mixed Bhajiya,1,0,,90.0
+Snacks,Fafda,1,0,"Nylon fafda served with besan kadhi, papaya sambhar and fried mirch.",150.0
+Snacks,Vanela Gathiya,1,0,"Vanela gathiya served with besan kadhi, papaya sambar and fried mirch.",150.0
+Snacks,Sada Khaman,1,0,,40.0
+Snacks,Khaman,1,0,,70.0
+Snacks,Khamani,1,0,,70.0
+Snacks,Vagharela Idda,1,0,,70.0
+Snacks,Sada Idda,1,0,,40.0
+Snacks,Sada Patra,1,0,,50.0
+Snacks,Vagharela Patra,1,0,,70.0
+Snacks,Petis,1,0,,90.0
+Snacks,Lilva Kachori,1,0,,80.0
+Snacks,Dal Samosa,1,0,,80.0
+Snacks,Chinese Samosa,1,0,,90.0
+Snacks,Cheese Paneer Samosa,1,0,,140.0
+Snacks,Kesaria Jalebi,1,0,,150.0
+Snacks,Nylon Khaman,1,0,Soft and spongy variant of khaman made from gram flour.,70.0
+Snacks,Khandvi,1,0,Soft and delicious Gujrati snack made from gram flour and curd.,70.0
+Snacks,Punjabi Samosa [1 Piece],1,0,,25.0
+Farsan,Surati Bhusu,1,0,,110.0
+Farsan,Nylon Papdi,1,0,,90.0
+Farsan,Masala Papdi,1,0,,90.0
+Farsan,Tikhi Papdi,1,0,,90.0
+Farsan,Tikha Gathiya,1,0,,90.0
+Farsan,Mora Gathiya,1,0,,90.0
+Farsan,Nylon Sev,1,0,,90.0
+Farsan,Sev (jadi),1,0,,90.0
+Farsan,Jada Gathiya,1,0,,90.0
+Farsan,Fulwadi,1,0,,90.0
+Farsan,Sakkarpara,1,0,,90.0
+Farsan,Goba Puri,1,0,,90.0
+Farsan,Methi puri,1,0,,90.0
+Farsan,Pauva Chevdo,1,0,,90.0
+Farsan,Bhakharwadi,1,0,,90.0
+Farsan,Dry Kachori,1,0,,90.0
+Farsan,Sarasiya Khaja,1,0,,120.0

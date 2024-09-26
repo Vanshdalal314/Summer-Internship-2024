@@ -1,0 +1,48 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Value Meals (Upto 20% off),Bold Chicken Sandwich & Fries Combo,0,0,Bold Chicken Sandwich and Cajun Fries (Regular),249.0
+Value Meals (Upto 20% off),Classic Chicken Sandwich & Fries Combo,0,0,Classic Chicken Sandwich and Cajun Fries (Regular),249.0
+Value Meals (Upto 20% off),Chicken and Fries Combo,0,0,"Signature Chicken 1P, Sweet Chilli Wings 2P and Cajun Fries (Regular)",249.0
+Value Meals (Upto 20% off),Wings & Fries Combo,0,0,Sweet Chilli Wings (4P) and Cajun Fries (Regular),249.0
+Value Meals (Upto 20% off),Tenders and Fries Combo,0,0,Cajun Chicken Tenders 3P and Cajun Fries (Regular),249.0
+Value Meals (Upto 20% off),Classic Chicken Wrap & Fries Combo,0,0,Classic Chicken Wrap and Cajun Fries (Regular),249.0
+Value Meals (Upto 20% off),Cajun Veg Burger & Fries,0,0,Cajun Veg Burger and Cajun Fries (Reg) Combo,249.0
+Value Meals (Upto 20% off),Classic Veg Wrap & Fries Combo,0,0,Classic Veg Wrap and Cajun Fries (Regular),249.0
+Popeyes Chicken Sandwich,Bold Chicken Sandwich,0,0,12 Hrs marinated crispy chicken fillet with pickled cucumbers & spicy mayo in ... read more,219.0
+Popeyes Chicken Sandwich,Classic Chicken Sandwich,0,0,12 Hrs marinated crispy chicken fillet with pickled cucumbers & creamy mayo in ... read more,209.0
+Match Day Value Combo(Save Upto Rs.200),Crunch & Cheer Combo! Save Rs 130/-,0,0,"Save ₹130 with 11 Pc Chicken Party Platter: Popeyes Signature Chicken 4P, Cajun ... read more",839.0
+Match Day Value Combo(Save Upto Rs.200),Match inning starters Save Rs 100/-,0,0,"Save ₹100. Enjoy Chicken Sides Combo: Sweet Chilli Wings 6 P, Cajun Chicken ... read more",499.0
+Match Day Value Combo(Save Upto Rs.200),"Champion's Choice Combo, Save Rs. 100/-",0,0,"Save ₹100. 8Pc Chicken Combo - Popeyes Signature Chicken 2P, Sweet Chilli Wings ... read more",549.0
+Match Day Value Combo(Save Upto Rs.200),"Big Game, Big savings Combo for 4 Save Rs 200/-",0,0,"Save ₹200. 15P Chicken Combo - Popeyes Signature Chicken 2P, Sweet Chilli Wings ... read more",879.0
+Chicken,Popeyes Signature Chicken,0,0,"Chicken marinated for 12 hrs in Cajun seasoning, hand battered & breaded for ... read more",229.0
+Chicken,Hot Grilled Chicken,0,0,Slow-grilled chicken in zesty Indian spices,249.0
+Chicken,Sweet Chili Chicken Wings,0,0,"Juicy, crunchy, hand battered and breaded chicken wings topped with sweet chilli seasoning",179.0
+Chicken,Cajun Chicken Tenders,0,0,Crispy boneless tenders bursting with Cajun spices.,199.0
+Chicken,Cajun Chicken Popcorn,0,0,"Hand battered and fried, bite sized real chicken pieces with bold cajun seasoning.",119.0
+Chicken,Cajun Chicken Tenders - 2pcs,0,0,Crispy boneless tenders bursting with Cajun spices.,139.0
+Party Combos,11 Pcs Popeyes Chicken Party,0,0,"Popeyes Signature Chicken (4pc), Cajun Chicken Tenders (3pc), Sweet Chili Chicken Wings (4pc) ... read more",909.0
+Party Combos,10 Pcs Love That Chicken Platter,0,0,"Signature Chicken (2pc), Hot Grilled Chicken (2pc), Cajun Chicken Tenders (2pc), Sweet Chili ... read more",879.0
+Party Combos,Chicken Sandwich Combo-Medium,0,0,"Chicken Sandwich, Fries (Medium) & Coca Cola (PET)",358.0
+Party Combos,Chicken Sandwich + Wings Combo,0,0,Chicken Sandwich + Sweet Chilli Wings 4 Pcs + Coca Cola PET (475 ... read more,429.0
+Party Combos,Chicken Sandwich & Popcorn Combo,0,0,"Chicken Sandwich, Popcorn (Medium) & Coca Cola (PET)",419.0
+Party Combos,Classic Chicken Wrap Combo-Medium,0,0,"Classic Chicken Wrap, Cajun Fries (M) & Coca Cola PET 475 (ml) Combo.",349.0
+Party Combos,Cajun Veg Burger Combo-Medium,0,0,"Cajun Veg Burger, Cajun Fries (M) & Coca Cola PET 475 (ml).",328.0
+Party Combos,Classic Veg Wrap Combo -Medium,0,0,"Classic Veg Wrap, Cajun Fries (M) & Coca Cola PET 475 (ml).",338.0
+Party Combos,Classic Veg Burger Combo-Medium,0,0,"Classic Veg Burger, Cajun Fries (M) & Coca Cola PET 475 (ml) Combo.",248.0
+Rice Bowl Combos,Grilled Chicken Rice Bowl Combo,0,0,"Flavourful rice, cooked with special blend of spices served with hot grilled chicken ... read more",279.0
+Rice Bowl Combos,Chicken Popcorn Rice Bowl Combo,0,0,"Flavourful rice, cooked with special blend of spices served with crispy chicken popcorn ... read more",269.0
+Rice Bowl Combos,Veg Rice Bowl Combo,0,0,"Flavourful rice, cooked with special blend of spices served with Cajun onion rings ... read more",239.0
+Rice Bowls & Wraps,Classic Chicken Wrap,0,0,"Crispy chicken fillet, lettuce, onion, tomatoes, creamy mayo, wrapped in a whole wheat ... read more",219.0
+Rice Bowls & Wraps,Classic Veg Wrap,0,0,"Crispy veg patty, lettuce, onion, tomatoes, and creamy mayo wrapped in whole wheat ... read more",209.0
+Rice Bowls & Wraps,Zesty Rice Bowl,0,0,"Dig into a delicious rice bowl. Flavourful rice, cooked with special blend of ... read more",99.0
+Rice Bowls & Wraps,Zesty Rice Bowl with Grilled Chicken,0,0,"Dig into a delicious rice bowl. Flavourful rice, cooked with special blend of ... read more",219.0
+Rice Bowls & Wraps,Zesty Rice Bowl with Chicken Popcorn,0,0,"Dig into a delicious rice bowl. Flavourful rice, cooked with special blend of ... read more",209.0
+Rice Bowls & Wraps,Zesty Rice Bowl with Onion Rings,0,0,"Dig into a delicious rice bowl. Flavourful rice, cooked with special blend of ... read more",179.0
+Vegetarian,Cajun Veg Burger,0,0,"Crispy veg patty, cajun mayo, cajun onion rings & jalapenos between buttery brioche ... read more",199.0
+Vegetarian,Classic Veg Burger,0,0,"Crispy veg patty, fresh tomatoes, onion, lettuce & creamy mayo in sesame buns.",119.0
+Vegetarian,Cajun Fries,0,0,Signature cajun flavor coated crispy fries.,89.0
+Vegetarian,Cajun Onion Rings,0,0,"Cajun onion rings, breaded and fried to perfection",109.0
+Sides,Cajun Mayo,0,0,Signature Cajun Mayo Dip.,30.0
+Drinks (Beverages),Coke Zero - 330 ml Can,0,0,Refreshing carbonated beverage,70.0
+Drinks (Beverages),Thums Up - 330 ml Can,0,0,Refreshing carbonated beverage,70.0
+Drinks (Beverages),Coke PET Bottle -475ml,0,0,Refreshing carbonated beverage,70.0
+Drinks (Beverages),Bailley One Water Bottle-500ml,0,0,Packaged drinking water,20.0

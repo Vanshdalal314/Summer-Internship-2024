@@ -1,0 +1,176 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Crispy Crunchy Vegetable,1,0,Diced cut crispy fried veg toss with spicy schezwan hot garlic sauce.,270.0
+Starters,Crispy Malaysian Aubergine [15 Pieces],1,0,,275.0
+Starters,Dragon Humpty Dumpty,1,0,Coating fry baby potato and veg balls toss with sichuan garlic sauce serve ... read more,281.0
+Starters,Honey Chili Potato,1,0,Honey flavored finger cut of potato toss with red chilli paste and honey ... read more,220.0
+Starters,Mapo Doufu [15 Pieces],1,0,,289.0
+Starters,Mushroom Oyster Fungi Chili Dry,1,0,,295.0
+Starters,Paneer Capri Chili [16 Pieces],1,0,,295.0
+Starters,Paneer Schezwan Chilli,1,0,,275.0
+Starters,Thai Spice Cottage Cheese,1,0,Cube of fried cottage cheese toss with thai spice sauce.,285.0
+Starters,Veg Cheesy Hot Pot Golder [8 Pieces],1,0,,290.0
+Starters,Veg Tawa 65,1,0,Chopped veg mashing with oriental spice finger type roll toss with yummy curd ... read more,270.0
+Starters,Vegetable Manchurian Dry,1,0,Chopped veg and make ball toss with soya chilli sauce.,220.0
+Starters,Paneer Chilly Dry,1,0,,280.0
+Starters,Creamy Paneer Garlic,1,0,So yummy soft paneer toss on pan with bell pepper garlic and cheesy ... read more,270.0
+Starters,Afghani Malai Chaap [8 Pieces],1,0,,289.0
+Starters,Hara Bhara Kebab [8 Pieces],1,0,,270.0
+Starters,Malai Paneer Tikka [8 Pieces],1,0,,280.0
+Starters,Mint Coal Roasted Paneer Tikka [8 Pieces],1,0,,290.0
+Starters,Peri Peri Paneer Tikka [8 Pieces],1,0,,290.0
+Starters,Peri Peri Tandoori Chaap [8 Pieces],1,0,,275.0
+Starters,Vegetable Seek Kebab,1,0,Cooked green veggies chop and masing with Indian spice make seek and roast ... read more,265.0
+Main Course,Desi Videsi Ka Sangam [500 ml],1,0,,265.0
+Main Course,Kadhai Veg [500 ml],1,0,,230.0
+Main Course,Kaju Curry [500 ml],1,0,,320.0
+Main Course,Masoori Jeera Aloo,1,0,Famous of hill station dish granule mustard seed with cumin seed toss on ... read more,160.0
+Main Course,Mushroom Butter Masala [500 ml],1,0,,285.0
+Main Course,Navratan Korma [500 ml],1,0,,255.0
+Main Course,Sabzi Chaap Masala [500 ml],1,0,,220.0
+Main Course,Sabzi Desi Videsi [500 ml],1,0,,260.0
+Main Course,Sabzi Lajawab [500 ml],1,0,,220.0
+Main Course,Soya Chap Lababdar [500 ml],1,0,,265.0
+Main Course,Ralli Malli Subzi [500 ml],1,0,,230.0
+Main Course,Tit Bit Special [500 ml],1,0,,275.0
+Main Course,Dum Aloo Punjabi [500 ml],1,0,,245.0
+Main Course,Jamaican Paneer Tikka Mirchi [500 ml],1,0,,299.0
+Main Course,Paneer Amritsari [500 ml],1,0,,270.0
+Main Course,Paneer Butter Masala [500 ml],1,0,,280.0
+Main Course,Paneer Chagezi [500 ml],1,0,,285.0
+Main Course,Paneer Chettinad [500 ml],1,0,,275.0
+Main Course,Paneer Dum Kali Mirch [500 ml],1,0,,270.0
+Main Course,Paneer Gotala [500 ml],1,0,,280.0
+Main Course,Paneer Khurchan [500 ml],1,0,,270.0
+Main Course,Paneer Lababdar [500 ml],1,0,,265.0
+Main Course,Paneer Lucknowi Tawa [500 ml],1,0,,260.0
+Main Course,Paneer Makhani [500 ml],1,0,,270.0
+Main Course,Paneer Tikka Lajawab [500 ml],1,0,,279.0
+Main Course,Paneer Tikka Masala [500 ml],1,0,,275.0
+Main Course,Three Pepper Paneer Bhurji [500 ml],1,0,,270.0
+Main Course,Turkey Paneer Saag Wala [500 ml],1,0,,250.0
+Main Course,Exotic Red Pepper Sauce [500 ml],1,0,,265.0
+Main Course,Paneer Beijing Sauce [500 ml],1,0,,260.0
+Main Course,Paneer Chilli Gravy [500 ml],1,0,,280.0
+Main Course,Green Thai Curry [500 ml],1,0,,280.0
+Main Course,Red Thai Curry [500 ml],1,0,,320.0
+Main Course,Shamble Thai Curry [300 ml],1,0,,300.0
+Main Course,Veg Ball In Hot Garlic Sauce [500 ml],1,0,,260.0
+Main Course,Veg Manchurian Gravy,1,0,Make manchurian ball make gravy with dark soya and chilli sauce.,220.0
+Main Course,Angoori Cheese Kofta,1,0,,290.0
+Main Course,Malai Kofta,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",280.0
+Main Course,Veg Kofta,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",260.0
+Main Course,Dal Fry,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,195.0
+Main Course,Dal Palak,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",210.0
+Main Course,Dal Tadka,1,0,"Arhar dal tempered twice, to enhance the flavors, aroma and taste.",200.0
+Breads,Butter Lachha Paratha,1,0,,60.0
+Breads,Butter Missi Roti,1,0,,50.0
+Breads,Butter Naan,1,0,,50.0
+Breads,Butter Roti,1,0,Prepared with wheat atta.,30.0
+Breads,Cheese Chilli Naan,1,0,,80.0
+Breads,Cheese Garlic Naan,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",80.0
+Breads,Cheese Naan,1,0,North Indian bread with a generous serving of cheese that tastes brilliant when ... read more,60.0
+Breads,Chilli Garlic Naan,1,0,,50.0
+Breads,Chur Chur Naan,1,0,,50.0
+Breads,Plain Lachha Paratha,1,0,,40.0
+Breads,Plain Missi Roti,1,0,,20.0
+Breads,Plain Roti,1,0,,20.0
+Breads,Pudina Chilli Roti,1,0,,40.0
+Breads,Stuffed Aloo Paratha,1,0,,60.0
+Breads,Stuffed Veg Paratha,1,0,,60.0
+Breads,Plain Naan,1,0,,40.0
+Rice and Biryani,Dal Khichdi [500 ml],1,0,,178.0
+Rice and Biryani,Dal Palak Garlic Khichdi [500 ml],1,0,,190.0
+Rice and Biryani,Dal Palak Khichdi [500 ml],1,0,,220.0
+Rice and Biryani,Exotic Veg Risotto Rice,1,0,Cook exotic veggies with Italian rice creamy cheese and milky flavor.,280.0
+Rice and Biryani,Garlic Basil Risotto Rice,1,0,Smoothies cook risotto rice with chop garlic basil milky and cheesy garlic flavored.,280.0
+Rice and Biryani,Mushroom Cheese Risotto Rice,1,0,Smoothies cook Italian risotto rice with milky and cheesy mushroom flavored.,280.0
+Rice and Biryani,Matar Paneer Pulao,1,0,,170.0
+Rice and Biryani,Peri Peri Pulao,1,0,,220.0
+Rice and Biryani,Risotto Dal Khichdi,1,0,This is same like to dal khichdi but here but presenting different type ... read more,280.0
+Rice and Biryani,Steamed Rice,1,0,,100.0
+Rice and Biryani,Jeera Rice,1,0,,150.0
+Rice and Biryani,Awadhi Dum Biryani [750 ml],1,0,,280.0
+Rice and Biryani,Jambalaya Tikka Biryani [750 ml],1,0,,280.0
+Rice and Biryani,Paneer Jamacian Dum Biryani,1,0,,280.0
+Rice and Biryani,Subzi Dum Biryani,1,0,,260.0
+Fried Rice and Noodles,Burnt Garlic Fried Rice,1,0,Just burnt garlic with blanched veggies stir on wok with light chilli spice ... read more,230.0
+Fried Rice and Noodles,Cilantro Bean Fried Rice,1,0,Chopped exotic veggies toss on pan kidney bean and corn combination cilantro flavored.,260.0
+Fried Rice and Noodles,Cottage Cheese Beijing Fried Rice,1,0,Simply cut cube cottage cheese with veggies bell pepper stir on wok rice ... read more,220.0
+Fried Rice and Noodles,Cottage Cheese Ginger Fried Rice,1,0,Thinly cut slice ginger veggies and cottage cheese with cheese stir on wok ... read more,245.0
+Fried Rice and Noodles,Italian Pasta Fried Rice,1,0,Cook cut pasta exotic veggies rice toss on pan with Italian herb.,240.0
+Fried Rice and Noodles,Mexican Chilli Bean Fried Rice,1,0,Cooked corn kidney bean with chopped veggies toss on pan with pomodoro sauce.,260.0
+Fried Rice and Noodles,Peri Peri Pepper Fried Rice,1,0,Chunk cut of cook veggies with spice peri peri.,230.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,180.0
+Fried Rice and Noodles,Special Triple Fried Rice,1,0,Simply blanched veggies make Sichuan rice serve with deep and to up grade ... read more,230.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,Chop cut chunky veggies stir on wok with rice.,180.0
+Fried Rice and Noodles,Hakka Burnt Garlic Noodles,1,0,Sliced thinly cut veggies steamed noodles stir on wok with burnt garlic.,245.0
+Fried Rice and Noodles,Hong Kong Style Noodles,1,0,Steamed noodles exotic veggies with spicy hot hong kong style sauce.,245.0
+Fried Rice and Noodles,Mushroom and Baby Corn Scallion Noodles,1,0,Sliced thinly mushroom with baby corn stir on wok with hot an spicy ... read more,230.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,Sheered cutting veggies toss on wok with soya chilli sauce.,180.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,Steam noodles stir on wok veggies with schezwan sauce.,220.0
+Pizza and Pasta,Barbecue Paneer Pizza [9 inches],1,0,,399.0
+Pizza and Pasta,Corn and Cheese Pizza [9 inches],1,0,Spicy pizza sauce and mozzarella cheese fresh corn only.,390.0
+Pizza and Pasta,Margherita Pizza [9 inches],1,0,Spicy pizza sauce slice tomato blasting mozzarella cheese than backed.,320.0
+Pizza and Pasta,Paneer Chilli Pizza [9 inches],1,0,Stir paneer chilli with spicy pizza sauce and bell pepper onion blasting mozzarella ... read more,380.0
+Pizza and Pasta,Paneer Makhani Pizza [9 inches],1,0,Spice pizza sauce bell pepper onion broccoli cube makhani paneer mozzarella cheese olive ... read more,350.0
+Pizza and Pasta,Paprika Farmhouse Pizza [9 inches],1,0,Spicy pizza sauce julian cut veggies zucchini bell pepper baby corn mushroom paneer ... read more,390.0
+Pizza and Pasta,Veggies Deluxe Pizza [9 inches],1,0,Cube paneer veggies bell pepper olive jalapeno spicy pizza sauce and mozzarella cheese.,370.0
+Pizza and Pasta,Baked Macaroni,1,0,,290.0
+Pizza and Pasta,Baked Parmesan Cheese Spaghetti,1,0,,299.0
+Pizza and Pasta,Exotic Veg Lasagna Pasta,1,0,,430.0
+Pizza and Pasta,Baked Au Gratin Pasta,1,0,,300.0
+Pizza and Pasta,Ala Arrabiata Pasta,1,0,,290.0
+Pizza and Pasta,Ala Pink Sauce Pasta,1,0,,290.0
+Pizza and Pasta,Ala Alfredo Pasta,1,0,,290.0
+Pizza and Pasta,Spaghetti Pomodoro Sauce Pasta,1,0,,290.0
+Sandwiches,Began Chiptole Paneer Grilled Sandwich,1,0,Slice bread spared mint sauce its also healthy sandwich paneer stir in pan ... read more,230.0
+Sandwiches,Guppy Suppy Grilled Sandwich,1,0,Its healthy sandwich [2 Slices] bread spared mint mayo sauce and lattice cube ... read more,230.0
+Sandwiches,Paneer Tikka Grilled Sandwich,1,0,Its a gym healthy sandwich curd marinated paneer with stir in pan with ... read more,230.0
+Sandwiches,Peri Peri Paneer Grilled Sandwich [2 Slices],1,0,Bread spared butter chutney and onion bell pepper mashing with peri sauce and ... read more,230.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,3 Layered jumbo bread slice spared butter green chutney mashing potato pepper cheese ... read more,190.0
+Sandwiches,Veg Cheese Sandwich,1,0,,145.0
+Sandwiches,Veg Sandwich,1,0,,90.0
+Snacks,Mexican Cheese Nachos,1,0,This is yummy corn tortilla topped with cheese and bell pepper.,275.0
+Snacks,Spicy Mexican Tacos [6 Pieces],1,0,,280.0
+Snacks,Corn Cheese Popers [8 Pieces],1,0,,260.0
+Snacks,Broccoli Cheese Popers [8 Pieces],1,0,,260.0
+Snacks,Mix Veg Cheese Popers [8 Pieces],1,0,,260.0
+Snacks,Tomato Basil Olive Bruschetta [6 Pieces],1,0,,290.0
+Rolls,Cheese Cigar Roll,1,0,,255.0
+Rolls,Exotic Veg Cheese Cigar Roll,1,0,Chopped exotic veg toss with spice great cheese mashing together than wrapped and ... read more,255.0
+Wraps,Mexican Cheese Wrap,1,0,Thinly cut of exotic veg stuffed in pan with Mexican spice wrapped with ... read more,270.0
+Wraps,Tit Bit Tax Max Wrap,1,0,Cut of exotic veg and pure of tomato sauce titbit masala cottage cheese ... read more,280.0
+Garlic Bread,Mexican Cheese Garlic Bread [6 Pieces],1,0,,255.0
+Accompaniments,Cucumber Raita,1,0,,110.0
+Accompaniments,Fried Papad,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",30.0
+Accompaniments,Mint Raita,1,0,,130.0
+Accompaniments,Pineapple Raita,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",120.0
+Accompaniments,Roasted Papad,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",30.0
+Accompaniments,Veg Raita,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",110.0
+Comobs,Dal Tadka Combo,1,0,Dal Tadka+Jeera Rice+2 Butter Roti+Chaas [250 ml],310.0
+Comobs,Paneer Achari Combo,1,0,Paneer Achari+4 Garlic Roti+Chaas+Achar+Salad [Salad-Subject to Availability],430.0
+Comobs,Paneer Butter Masala Combo,1,0,Paneer Butter Masala+Veg Pulao+4 Butter Roti+2 Chaas+Salad+Achar [Salad-Subject to Availability],430.0
+Comobs,Paneer Kadai Combo,1,0,Paneer Kadai+4 Butter Naan+2 Chaas+Salad+Achar [Salad-Subject to Availability],385.0
+Comobs,Veg Thai Curry Combo,1,0,Exotic red Thai Curry+Butter Steamed Rice+Salad+Coke [250 ml] [Salad-Subject ti Availability],370.0
+Comobs,Manchurian Combo,1,0,,320.0
+Comobs,Cottage Cheese Chilli Combo,1,0,,325.0
+Comobs,Schezwan Chili Combo,1,0,,320.0
+Comobs,Honey Chili Combo,1,0,Honey Chili Potato+Chinese Bhel+Salad+Coke [250 ml] [Salad-Subject to Availability],340.0
+Soups and Salads,Broccoli Soya Protein Salad,1,0,Blanched broccoli shocked rich soya bell pepper lime with BBQ dressing.,230.0
+Soups and Salads,Ceaser Salad,1,0,Cooled crunchy leafy roman lattice with creamy dressing with cottage cheese bell pepper ... read more,145.0
+Soups and Salads,Helly Crunchy Salad,1,0,This is special child crunchy roman lattice with light sweet creamy dressing.,220.0
+Soups and Salads,Lime Pasta Pesto Dressing Salad,1,0,Cooked pasta and cube of bell pepper onion cucumber coriander and pesto sauce ... read more,230.0
+Soups and Salads,Toast Salad with Lime Dressing,1,0,Cube cut of indo exotic veg and bread bottom lime and soya dressing.,220.0
+Soups and Salads,Basil Tomato Soup,1,0,,130.0
+Soups and Salads,Cream of Broccoli Almond Soup,1,0,Mashing almond and broccoli with creamy based soup.,160.0
+Soups and Salads,Cream of Garlic Onion Soup,1,0,Deep fried garlic and onion passing mix with creamy milk top up great ... read more,160.0
+Soups and Salads,Cream of Veggies Soup,1,0,Cuts cube veggies with creamy and cheesy.,155.0
+Soups and Salads,Mexican Chilli Bean Soup,1,0,Cubes of exotic veg kidney bean American corn light thick.,150.0
+Soups and Salads,Mushroom Cheese Soup,1,0,Mashing greeted mushroom with milk and cheese.,140.0
+Soups and Salads,Spinach Green Peas Soup,1,0,Must be have make from cooked spinach and peas pure Italian style.,130.0
+Soups and Salads,Classic Sweet Corn Soup,1,0,Chopped broth veggies sweet corn cream and yummy lipping water feel.,110.0
+Soups and Salads,Classic Tom Yum Soup,1,0,"Basically, this soup is thai cusine soup serve with boiled noodles.",130.0
+Soups and Salads,Exotic Veg Burmese Soup,1,0,This is specially burma cusine soup exotic veggies with coconut flavored soup.,170.0
+Soups and Salads,Lemon Corriander Soup,1,0,Simple sour type indo veggies and lime flavored.,145.0
+Soups and Salads,Veg Hot and Sour Soup,1,0,This soup is spice and sour.,150.0
+Soups and Salads,Veg Manchow Soup,1,0,This is all time favorite soup serves with crispy stick noodle.,150.0

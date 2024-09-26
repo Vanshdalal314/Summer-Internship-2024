@@ -1,0 +1,41 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Brownie With Ice Cream,Nutella Brownie With Ice Cream,1,0,Extremely gooey brownie topped with Nutella spread & served with an ice cream. ... read more,180.95
+Brownie With Ice Cream,Biscoff Brownie With Ice Cream,1,0,Extremely gooey brownie topped with Biscoff spread & served with an ice cream,180.95
+Brownie With Ice Cream,Walnut Nutella Brownie With Ice Cream,1,0,Extremely gooey Walnut brownie topped with Nutella spread & served with an ice ... read more,200.0
+Brownie With Ice Cream,Classic Brownie With Ice Cream,1,0,Extremely gooey brownie served with an ice cream.,161.9
+Brownie With Ice Cream,Chocolate Sauce Brownie With Ice Cream,1,0,Extremely gooey brownie topped with an in-house chocolate sauce & served with an ... read more,176.19
+Brownie With Ice Cream,Walnut Caramel Brownie With Ice Cream,1,0,Extremely gooey Walnut brownie topped with an in-house caramel sauce & served with ... read more,180.95
+Brownies,Nutella Brownie,1,0,Extremely gooey brownie topped with Nutella Spread. Bestseller!,114.29
+Brownies,Biscoff Brownie,1,0,Extremely gooey Brownie topped with Biscoff Spread.,114.29
+Brownies,Classic Brownie,1,0,Extremely gooey brownie.,104.76
+Brownies,Chocolate Sauce Brownie,1,0,Extremely gooey brownie topped with an in-house Chocolate Sauce.,114.29
+Brownies,Walnut Caramel Brownie,1,0,Extremely gooey Walnut brownie topped with an in-house caramel sauce.,114.29
+Brownies,Walnut Nutella Brownie,1,0,Extremely gooey Walnut brownie topped with Nutella spread.,123.81
+Brownies,Walnut Brownie (without Caramel),1,0,Extremely gooey brownie topped with Walnuts.,114.29
+Cookies,Dark Chocolate And Sea Salt Cookie,1,0,"Crispy on the edges, soft in the middle dark chocolate & sea salt ... read more",85.71
+Cookies,White Chocolate And Corn Flakes Cookie,1,0,"Crispy on the edges, soft in the middle white chocolate and corn flakes ... read more",85.71
+Cheesecakes,Biscoff Cheesecake,1,0,Smooth & lucious cream cheese filling set on a buttery biscuit base & ... read more,257.14
+Cheesecakes,Nutella Cheesecake,1,0,Smooth & lucious cream cheese filling set on a buttery biscuit base & ... read more,257.14
+Cheesecakes,Blueberry Cheesecake,1,0,Smooth & lucious cream cheese filling set on a buttery biscuit base & ... read more,247.62
+Cheesecakes,Nutella Triple Chocolate Cheesecake,1,0,Sinful chocolaty cream cheese filling set on a buttery chocolaty base and topped ... read more,257.14
+Cheesecakes,New York Classic Cheesecake,1,0,Smooth & lucious cream cheese filling set on a buttery biscuit base.,238.1
+Cheesecakes,Triple Chocolate Cheesecake,1,0,Sinful chocolaty cream cheese filling set on a buttery chocolaty base.,238.1
+Brownie Party (Combos),Assortment Of 4 Brownies,1,0,It's time for a GOOEY BROWNIE PARTY!,400.0
+Brownie Party (Combos),Any 4 Brownies With 4 Ice Creams,1,0,It's time for a GOOEY BROWNIE & ICE CREAM PARTY!,595.24
+Brownie Party (Combos),Assortment Of 6 Brownies,1,0,It's time for a GOOEY BROWNIE PARTY!,595.24
+Brownie Party (Combos),Any 6 Brownies With 6 Ice Creams,1,0,It's time for a GOOEY BROWNIE & ICE CREAM PARTY!,809.52
+Cookie Crumble Brownie With Ice Cream,Nutella Cookie Crumble Brownie With Ice Cream,1,0,"Extremely gooey brownie topped with Nutella Spread, in-house cookie crumble & served with ... read more",200.0
+Cookie Crumble Brownie With Ice Cream,Biscoff Cookie Crumble Brownie With Ice Cream,1,0,"Extremely gooey brownie topped with Biscoff Spread, in-house cookie crumble & served with ... read more",200.0
+Cookie Crumble Brownie With Ice Cream,Classic Cookie Crumble Brownie With Ice Cream,1,0,Extremely gooey brownie topped with an in-house cookie crumble & served with an ... read more,176.19
+Bottled Shakes,Nutella Shake,1,0,Creamy Nutella flavoured shake served in a very cool glass bottle. Shake well ... read more,209.52
+Bottled Shakes,Biscoff Shake,1,0,Creamy Biscoff flavoured shake served in a very cool glass bottle. Shake well ... read more,209.52
+Bottled Shakes,Tiramisu Shake,1,0,Creamy Tiramisu flavoured shake served in a very cool glass bottle. Shake well ... read more,209.52
+Bottled Shakes,Intense Frappe,1,0,Creamy & strong Coffee flavoured shake served in a very cool glass bottle. ... read more,209.52
+Cookie Ice Cream Sandwich,Dark Chocolate And Sea Salt Cookie Sandwich,1,0,"Crispy on the edges, soft in the middle dark chocolate & sea salt ... read more",176.19
+Cookie Ice Cream Sandwich,White Chocolate And Corn Flakes Cookie Sandwich,1,0,"Crispy on the edges, soft in the middle white chocolate & corn flakes ... read more",176.19
+Cookie Crumble Brownie,Nutella Brownie With Cookie Crumble,1,0,Extremely gooey brownie topped with Nutella Spread & an in-house cookie crumble.,133.33
+Cookie Crumble Brownie,Biscoff Brownie With Cookie Crumble,1,0,Extremely gooey brownie topped with Biscoff Spread & an in-house cookie crumble.,133.33
+Cookie Crumble Brownie,Classic Brownie With Cookie Crumble,1,0,Extremely gooey brownie topped with an in-house cookie crumble.,123.81
+Extra Ice Cream Scoop,Vanilla Ice Cream,1,0,,76.19
+Extra Ice Cream Scoop,Chocolate Ice Cream,1,0,,76.19
+UG Bestsellers (Combo),Combo 1,1,0,"Combo of Nutella Brownie w Ice Cream X 1 , Biscoff Cheesecake X ... read more",561.9

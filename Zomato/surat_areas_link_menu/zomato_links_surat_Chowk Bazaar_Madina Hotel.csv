@@ -1,0 +1,115 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Breakfast,Egg Burji with 2 Pav,0,0,,81.0
+Breakfast,Keema Mutton,0,0,,135.0
+Combo and Meal,Mutton Seekh [2 Pieces] with 2 Paratha,0,0,,198.0
+Starters,Reshmi Kabab [6 Pieces],0,0,,207.0
+Starters,Garlic Kabab [6 Pieces],0,0,,189.0
+Starters,Ginger Kabab [6 Pieces],0,0,,171.0
+Starters,Mint Kabab [6 Pieces],0,0,,198.0
+Starters,Kali Mirchi [6 Pieces],0,0,,175.5
+Starters,Red Chilli Kabab [6 Pieces],0,0,,175.5
+Starters,Gym Chest,0,0,,157.5
+Starters,Chicken Chilli Dry,0,0,,252.0
+Starters,Chicken Lollipop [4 Pieces],0,0,,171.0
+Starters,Tawa Chicken Lollipop [4 Pieces],0,0,,117.0
+Starters,Chicken Ahmedabad Tawa Fry,0,0,,189.0
+Starters,Chicken Machhi Masala,0,0,,135.0
+Starters,Chicken Bombay Tawa Fry,0,0,,126.0
+Starters,Chicken Tawa Fry,0,0,,139.5
+Starters,Chicken Leg Fry,0,0,,117.0
+Starters,Chicken Chest Fry,0,0,,135.0
+Starters,Green Chicken Fry,0,0,,117.0
+Starters,Chicken Trod Fry,0,0,,162.0
+Starters,Chicken Achari,0,0,,139.5
+Starters,Chicken Mughlai,0,0,,144.0
+Starters,Chicken 65,0,0,,121.5
+Starters,Boneless Chicken,0,0,,135.0
+Main Course,Aloo Gobi Masala,1,0,,99.0
+Main Course,Mix Masala,1,0,,94.5
+Main Course,Green Peas,1,0,,108.0
+Main Course,Dal Fry,1,0,,72.0
+Main Course,Dal Tadka,1,0,,81.0
+Main Course,Paneer Masala,1,0,,99.0
+Main Course,Paneer Butter Masala,1,0,,117.0
+Main Course,Paneer Angara,1,0,,108.0
+Main Course,Paneer Kadai,1,0,,139.5
+Main Course,Paneer Handi,1,0,,135.0
+Main Course,Paneer Green Masala,1,0,,144.0
+Main Course,Paneer Hyderabadi Masala,1,0,,126.0
+Main Course,Pepper Paneer Masala,1,0,,144.0
+Main Course,Egg Bhuji,0,0,,72.0
+Main Course,Egg Keema,0,0,,108.0
+Main Course,Egg Masala,0,0,,72.0
+Main Course,Egg Curry,0,0,,81.0
+Main Course,Chicken Masala [4 Pieces],0,0,,121.5
+Main Course,Chicken Curry [4 Pieces],0,0,,130.5
+Main Course,Pepper Chicken Masala [5 Pieces],0,0,,139.5
+Main Course,Kadai Chicken Masala [4 Pieces],0,0,,144.0
+Main Course,Boneless Butter Chicken Masala,0,0,,162.0
+Main Course,Chicken Triple Masala [5 Pieces],0,0,,153.0
+Main Course,Hyderabadi Chicken Masala,0,0,,121.5
+Main Course,Chettinad Chicken Masala [5 Pieces],0,0,,148.5
+Main Course,Andhra Chicken Masala [5 Pieces],0,0,,144.0
+Main Course,Bang Chicken Masala [5 Pieces],0,0,,130.5
+Main Course,Rangga Chicken Masala [7 Pieces],0,0,,207.0
+Main Course,Kerala Chicken Masala [5 Pieces],0,0,,166.5
+Main Course,Chicken Darbari,0,0,,179.1
+Main Course,Chicken Afghani,0,0,,153.0
+Main Course,Chicken Singapore,0,0,,179.1
+Main Course,Murgh Masala,0,0,,162.0
+Main Course,Mutton Masala [5 Pieces],0,0,,166.5
+Main Course,Mutton Curry [5 Pieces],0,0,,162.0
+Main Course,Mutton Mughlai [7 Pieces],0,0,,202.5
+Main Course,Mutton Handi [7 Pieces],0,0,,171.0
+Main Course,Mutton Bhuna [12 Pieces],0,0,,216.0
+Main Course,Mutton Tawa [5 Pieces],0,0,,179.1
+Main Course,Boneless Mutton Butter Masala,0,0,,162.0
+Main Course,Mutton Triple Masala,0,0,,207.0
+Main Course,Mutton Pepper Masala,0,0,,179.1
+Main Course,Mutton Kadai,0,0,,198.0
+Main Course,Malabar Mutton [6 Pieces],0,0,,202.5
+Main Course,Chettinad Mutton [5 Pieces],0,0,,179.1
+Main Course,Shesone Mutton Masala,0,0,,166.5
+Main Course,Mutton Kosha [4 Pieces],0,0,,175.5
+Main Course,Hyderabadi Mutton,0,0,,184.5
+Main Course,Coco Mutton [5 Pieces],0,0,,193.5
+Main Course,Mutton Korma,0,0,,126.0
+Main Course,Mutton Singapuri,0,0,,184.5
+Main Course,Mutton Beja Fry,0,0,,234.0
+Main Course,Mutton Keema,0,0,,202.5
+Breads,South Paratha,1,0,,22.5
+Breads,Chapati,1,0,,9.0
+Rice and Biryani,Green Peas Pulao,1,0,,103.5
+Rice and Biryani,Paneer Pulao,1,0,,103.5
+Rice and Biryani,Chicken Darbari Pulao,0,0,,135.0
+Rice and Biryani,Mutton Singapuri Pulao,0,0,,153.0
+Rice and Biryani,Paneer Biryani,1,0,,108.0
+Rice and Biryani,Paneer Matka Biryani,1,0,,162.0
+Rice and Biryani,Chicken Biryani,0,0,,108.0
+Rice and Biryani,Chicken Shahi Biryani,0,0,,112.5
+Rice and Biryani,Chicken Matka Biryani,0,0,,135.0
+Rice and Biryani,Mutton Biryani,0,0,,126.0
+Rice and Biryani,Mutton Matka Biryani,0,0,,162.0
+Rice and Biryani,Fish Biryani,0,0,,144.0
+Rice and Biryani,Fish Matka Biryani,0,0,,198.0
+Rice and Biryani,Prawns Biryani,0,0,,153.0
+Rice and Biryani,Prawns Matka Biryani,0,0,,202.5
+Seafood,Fish Tikka [6 Pieces],0,0,,261.0
+Seafood,Fish Hyderabadi Tikka [6 Pieces],0,0,,261.0
+Seafood,Prawns Fry,0,0,,234.0
+Seafood,Prawns Tikka [10 Pieces],0,0,,252.0
+Seafood,Prawns Hyderabadi Tikka,0,0,,261.0
+Seafood,Prawns Masala,0,0,,198.0
+Rolls,Egg Roll,0,0,,63.0
+Rolls,Chicken Roll,0,0,,85.5
+Rolls,Mutton Roll,0,0,,103.5
+Snacks,Boiled Egg,0,0,,22.5
+Snacks,Plain Omelette,0,0,,72.0
+Snacks,Masala Omelette,0,0,,81.0
+Snacks,Egg Omelette Tawa Fry,0,0,,76.5
+Snacks,Egg Green Tawa Fry,0,0,,85.5
+Accompaniments,Onion Raita,1,0,,49.5
+Accompaniments,Veg Raita,1,0,,72.0
+Accompaniments,Cucumber Raita,1,0,,72.0
+Accompaniments,Tomato Mixed Raita,1,0,,81.0
+Accompaniments,Tomato Salad,1,0,,45.0

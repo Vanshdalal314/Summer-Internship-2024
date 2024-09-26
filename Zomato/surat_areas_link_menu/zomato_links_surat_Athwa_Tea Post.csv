@@ -1,0 +1,110 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combo,Chai Thepla Combo,1,0,The ultimate gujju snack (3 pcs) Thepla to be relished with your favorite ... read more,230.0
+Combo,Chai Maska Bun Combo,1,0,Try our delicious Maska Bun - laced with Dollops of Butter with your ... read more,230.0
+Combo,Break Bread Combo,1,0,"Indulge in the goodness of a grilled-to-perfection butter & cheese sandwich, paired with ... read more",315.0
+Combo,Mexicano Combo,1,0,A true fiesta of fiery flavours! A lip-smacking combo of Mexican Cheese Grilled ... read more,295.0
+Combo,Best Trinity Combo,1,0,"Unleash the power of the trinity - with your favourite Chai, your favorite ... read more",325.0
+Combo,Bread Basket Combo,1,0,Experience the fusion of flavors with our club-style grilled tandoori paneer sandwich - ... read more,360.0
+Combo,Bun-wich Combo,1,0,Choose from our range of buttery & fluffy maska buns paired with your ... read more,215.0
+Combo,Evening Drive Combo,1,0,Check out our Spicy Masala Bun + Crispy Veggie Fingers (5 Pcs) + ... read more,420.0
+Combo,Finger FriesTea Combo,1,0,The tasty trio of perfectly seasoned Veggie Fingers + Choice of Fries + ... read more,450.0
+Combo,Chai Samosa Combo,1,0,Awesome aromatic chai options for you to choose from paired with crispy samosa ... read more,230.0
+Combo,Maska Poha Combo,1,0,Choose from our array of maska buns with different flavours to pair with ... read more,165.0
+Combo,Shake-O-Holic Combo,1,0,Choose from our range of creamy milkshakes and pair it with our signature ... read more,380.0
+Combo,Sandwichill Combo,1,0,Experience a delightful duo of your choice of savory sandwich and your choice ... read more,300.0
+Combo,Snackoffee Combo,1,0,Try this delightful combo by picking your choice of puff and combining it ... read more,250.0
+Combo,My Pocket Combo,1,0,This is the perfect combo for indulging in our yummy Upma + Thepla ... read more,325.0
+Tea,Black Tea (2 Cups),1,0,The perfect refreshment for those who like their cuppa to be hot and ... read more,110.0
+Tea,Healthy Tea (2 Cups),1,0,Healthy tea is a new version of green tea with pure honey added ... read more,140.0
+Tea,Kavo (2 Cups),1,0,Kahvo is the most popular version of tea without milk ? created with ... read more,100.0
+Tea,Green Tea (2 Cups),1,0,A detoxing and relaxing cup of hot green tea for those who like ... read more,120.0
+Tea,Indian Masala Chai (2 Cups),1,0,Our Indian Masala Tea hits the right spot with its sweet & aromatic ... read more,135.0
+Tea,Elaichi Chai (2 Cups),1,0,The comfort in a cup with the hint of elaichi and sugar in ... read more,140.0
+Tea,Sugar Free Tea (2 Cups),1,0,"A scintillating cup of hot tea made with Sugar-free, for the health-conscious tea ... read more",140.0
+Tea,Pudina Elaichi Tea (2 Cups),1,0,Featuring Elaichi. A sweetened pudina chai flavored with notes of elaichi in luscious ... read more,140.0
+Tea,Traditional Tea (2 Cups),1,0,"An aromatic blend of ginger, elaichi, fresh tea leaves, milk and sugar. Our ... read more",270.0
+Tea,Ginger & Pudina Tea (2 Cups),1,0,"Sweet and Warm, the Ginger Pudina is the definition of cozy, this season! ... read more",140.0
+Tea,Lemon Ice Tea,1,0,A super-refreshing cup of Lemon Ice Tea that is created with authentic Assamese ... read more,160.0
+Tea,Blueberry Mint Ice Tea,1,0,The Blueberry Mint Ice Tea boasts of an assortment of blueberry & rose ... read more,160.0
+Tea,Peach Ice Tea,1,0,"Peach syrup, black tea and a squeeze of lime into a lush, light, ... read more",160.0
+Coffee,Black Coffee (2 Cups),1,0,The legendary cup of black coffee that has millions of fans all over ... read more,130.0
+Coffee,Hot Coffee Hazelnut (2 Cups),1,0,The classic cup of hot coffee Hazelnut created with creamy milk and ... read more,170.0
+Coffee,Filter Coffee (2 Cups),1,0,,165.0
+Coffee,Hot Coffee (2 Cups),1,0,The classic cup of hot coffee created with creamy milk and authentic Columbian ... read more,165.0
+Coffee,Hot Coffee Vanilla (2 Cups),1,0,Vanilla and coffee come together to create a cup of coffee that instantly ... read more,165.0
+Coffee,Kadak Kold Koffee,1,0,"Quench your summer thirst with our Kadak Kold Koffee! Bold, refreshing, and a ... read more",220.0
+Coffee,Classic Cold Coffee,1,0,A treat for those who like their cup of coffee served chilled! The ... read more,180.0
+Coffee,Hazelnut Cold Coffee,1,0,"""Feel the hazelnut dazzle"" lip-smacking Hazelnut Cold Coffee leaving a sweet and nutty ... read more",200.0
+Coffee,Irish Cold Coffee*,1,0,"""Creamy and scintillating""Irish Cold Coffee made as per our special Tea Post recipe. ... read more",200.0
+Coffee,Caramel Latte Cold Coffee,1,0,"A sweet, caramelly brew, our Caramel Latte is made by blending sugar caramel ... read more",200.0
+Coffee,Cappuccino Cold Coffee,1,0,Cappuccino Cold Coffee which has the bold taste of coffee combined with milk ... read more,200.0
+Coffee,Mocha Cold Coffee,1,0,"A bitter-sweet symphony,perfect cuppa of Mocha Cold Coffee with finely balanced proportions of ... read more",200.0
+Milk & Milkshakes,Bournvita Hot,1,0,"""A hot cup of milk with the authentic Bournvita flavour and sweetness that ... read more",110.0
+Milk & Milkshakes,Bournvita Cold,1,0,"""A cup of cold milk with the classic Bournvita flavour - chilled to ... read more",160.0
+Milk & Milkshakes,Cold COCO*,1,0,"""The classic old cold cocoa with the signature flavour of cocoa powder and ... read more",170.0
+Milk & Milkshakes,Hot Chocolate Milk*,1,0,The classical combination of cocoa powder and chocolate culminating in a creamy cup ... read more,160.0
+Milk & Milkshakes,Tiramitsu Cheese Cake Shake,1,0,"The perfect blend of coffee, chocolate, cold milk and cream cheese. Experience this ... read more",299.0
+Milk & Milkshakes,Chocolate Cheese Cake Shake,1,0,Classic chocolate and cold milk with a dash of cream cheese. Blended to ... read more,299.0
+Milk & Milkshakes,Milk Shake Chocolate,1,0,"""A Chocolate Milkshake that refreshes your heart from the inside out. Crafted with ... read more",200.0
+Milk & Milkshakes,Milk Shake Oreo,1,0,"""Crunchy Oreo madness,with added cocoa powder and sugar , making it a combination ... read more",200.0
+Milk & Milkshakes,Milk Shake Mango,1,0,Summer is incomplete without mangoes. A cup of cold milk with all-time favourite ... read more,200.0
+Coolers,Kala Khatta Cooler,1,0,"A summer must-have drink! Experience the taste of cumin and black grapes, blended ... read more",139.0
+Coolers,Mango Chilli Cooler,1,0,"The mix of spicy chillies with the all-time favourite mango, add in some ... read more",139.0
+Coolers,Fruit Punch,1,0,"""A stimulating cup of Fruit Punch loaded with finely balanced flavours of different ... read more",115.0
+Coolers,Lemon Ginger,1,0,Wink wala drink,115.0
+Coolers,Masala Lemonade Cooler,1,0,"Squeeze the day with a Masala Lemonade. Made of tangy lemon juice, jeera ... read more",115.0
+Coolers,Mojito Cooler,1,0,"The blend of simple ingredients, mint, sugar, lime juice is the perfect ... read more",115.0
+Breakfast,Chocolate Maska Bun,1,0,A small bite of this mouth watering bun for Breakfast will satisfy your ... read more,100.0
+Breakfast,Seviyan Upma,1,0,"The solution to your ""I'm craving something nice"" is here! Prepared with Sevaiya, ... read more",119.0
+Breakfast,Masala Oats,1,0,Your quick fix of healthy snacks is here. Now beat the hunger with ... read more,129.0
+Breakfast,Poha*,1,0,Classic Indian light snack created with steamed Poha (puffed rice) along with chopped ... read more,70.0
+Breakfast,Samosa ( 2 Pc ),1,0,The king of Indian snacks ;crispy fried Samosa pockets with the special Tea ... read more,95.0
+Breakfast,Thepla ( 3 Pcs),1,0,"The most popular traditional Gujarati dish ,masaledar Thepla Rotis made with added spices ... read more",95.0
+Breakfast,Upma,1,0,A classical south Indian light snack made with Rava and vegetables such as ... read more,95.0
+Breakfast,Maska Bun,1,0,"""The classic Indian sidekick of a nice cup of hot tea. A perfect ... read more",95.0
+Breakfast,Maska Bun With Jam,1,0,"""One step ahead from the classic Muska Bun, it has delicious jam along ... read more",105.0
+Breakfast,Spicy Masala Bun,1,0,The epitome of bun revolution's with grated cheese concealed within two layers of ... read more,135.0
+Breakfast,Veggie Fingers (5 Pcs),1,0,Super crispy veggie fingers ? deep fried to create a glowing brown crust ... read more,150.0
+Breakfast,Cheese Garlic Bread,1,0,Round Garlic Bread slices - which are baked nicely to make the edges ... read more,180.0
+Breakfast,Handvo,1,0,Traditional Gujarati Handvo pancakes made from rice & dal batter added with green ... read more,190.0
+Breakfast,French Fries,1,0,Hot and crunchy potato sticks deep fried to perfection to give it the ... read more,165.0
+Breakfast,French Fries Sprinkle Flavours,1,0,Your favourite French Fries' visit to the new flavour Peri Peri Mix. A ... read more,190.0
+Breakfast,French Fries With Cheese,1,0,Cheesy French fries are in a different league altogether. Potato sticks - fried ... read more,195.0
+Breakfast,Sabudana Vada (4 Pcs),1,0,Boiled Sabudana are mixed with Farali flour and selected masalas which are suitable ... read more,180.0
+Breakfast,Farali Bhel,1,0,Keep your fasting day commitment tight with a light Farali Bhel. Made with ... read more,140.0
+Sandwich,Fiery Paneer Sandwich,1,0,,195.0
+Sandwich,Cheese chilli corn sandwich,1,0,,195.0
+Sandwich,Schezwan Cheese Sandwich,1,0,,195.0
+Sandwich,Bread Butter Sandwich,1,0,Nothing beats the simplicity and legacy of the good old Bread Butter. slices ... read more,120.0
+Sandwich,Jam Butter Sandwich,1,0,If you have a craving for something sweet and buttery .this is it! ... read more,120.0
+Sandwich,Vegetable Grilled Sandwich,1,0,An interesting way to eat healthy veggies. It is made with two bread ... read more,120.0
+Sandwich,Cheese Butter Sandwich,1,0,The simplest Grilled Sandwich with just cheese and butter in it. It is ... read more,180.0
+Sandwich,Cheese Chilly Sandwich,1,0,"Grilled sandwich prepared with chopped onions, chopped capsicum, a lot of cheese, and ... read more",195.0
+Sandwich,Tandoori Paneer Sandwich,1,0,"slices of bread stuffed with yummy Tandoori Paneer filler, layered with butter and ... read more",195.0
+Sandwich,Mexican Cheese Sandwich,1,0,"slices of bread holding our special Mexican filler within, grilled to perfection. The ... read more",195.0
+Sandwich,Paneer Piri Piri Sandwich,1,0,A special Peri Peri Grilled Sandwich for those who like it Peri ... read more,190.0
+Instant Noodles,Masala Noodles,1,0,"With each bite delicious and satisfying, Smith & Jones Masala Noodles is a ... read more",95.0
+Instant Noodles,Tadka Noodles,1,0,Be pout ready,160.0
+Snacks (Puffs & Patties),Fiery Puff,1,0,Delicious Indian bakery-style crispy snack prepared with wheat flour and Fiery ingredients inside ... read more,100.0
+Snacks (Puffs & Patties),Schezwan Puff,1,0,Delicious Indian bakery-style crispy snack prepared with wheat flour and Schezwan ingredients inside ... read more,100.0
+Snacks (Puffs & Patties),Tandoori Puff,1,0,Delicious Indian bakery-style crispy snack prepared with wheat flour and Tandoori ingredients inside ... read more,100.0
+Snacks (Puffs & Patties),Peri Peri Puff,1,0,Delicious Indian bakery-style crispy snack prepared with wheat flour and Peri Peri ingredients ... read more,100.0
+Snacks (Puffs & Patties),Veg Puff,1,0,Crispy bakery-style puff stuffed with smashed aloo & spices is a popular snack ... read more,70.0
+Snacks (Puffs & Patties),Cheese Puff,1,0,"Crispy bakery-style savory, flaky on the outside and flavorful mashed potato mix filling ... read more",100.0
+Snacks (Puffs & Patties),Mexican Puff,1,0,Delicious Indian bakery-style crispy snack prepared with wheat flour and Mexican ingredients inside ... read more,100.0
+Jain Special Category,Thepla (3 Pcs)-Jain Food,1,0,Served with pickles.Jispe har gujarati trip karta hai,95.0
+Jain Special Category,Handvo-Jain Food,1,0,No onion & garlic,190.0
+Jain Special Category,Maska Bun-Jain Food,1,0,"""The classic Indian sidekick of a nice cup of hot tea. A perfect ... read more",95.0
+Jain Special Category,Chocolate Maska Bun-Jain Food,1,0,,130.0
+Live Counter Snacks,Khichu,1,0,"A perfect solution to those street food cravings! Prepared from the rice flour, ... read more",105.0
+Wrap,Schezwan Paneer Wrap,1,0,"Both soothing and tempting, Schezwan Paneer Wrap is made of luscious paneer pieces, ... read more",160.0
+Wrap,Fiery Paneer Wrap,1,0,"Both soothing and tempting, Fiery Paneer Wrap is made of luscious paneer pieces, ... read more",160.0
+Wrap,Mexican Wrap,1,0,"Both soothing and tempting, Mexican Wrap is made of Mexican sauce and chilli ... read more",160.0
+Wrap,Tandoori Paneer Wrap,1,0,"Tasty bite-sized fried paneer pieces mixed with spices, chopped onion, tomatoes, coriander and ... read more",160.0
+Burger,Mexican Classic Burger,1,0,"A burger with a Masala Aloo Patty concealed between two perfectly grilled buns, ... read more",140.0
+Burger,Peri Peri Classic Burger,1,0,A mouth-watering burger made with a Masala Aloo Patty topped with garden-fresh veggies ... read more,140.0
+Burger,Fiery Classic Burger,1,0,Craving some heat? This fiery burger is set to increase the temperatures! Spiced ... read more,140.0
+Burger,Tandoori Classic Burger,1,0,Looking for something with an Indian twist? Satisfy your Desi cravings with this ... read more,140.0
+Pasta,Pink Sauce Pasta,1,0,"Relish a delectable serving of Penne pasta, pan-tossed with vegetables in our house ... read more",120.0
+Pasta,Red Sauce Pasta,1,0,"A tangy scrumptious serving of pasta in red sauce with pan-tossed vegetables, an ... read more",120.0
+Pasta,White Sauce Pasta,1,0,A divine rendition of the classic - creamy and cheesy white sauce pasta ... read more,120.0

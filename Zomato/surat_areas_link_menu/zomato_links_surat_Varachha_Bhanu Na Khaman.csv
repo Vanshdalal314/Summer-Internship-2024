@@ -1,0 +1,5 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Khaman,1,0,"Live streamed hot garma garam khaman served with oil, sev packet, masala packet, ... read more",80.0
+Snacks,Sev [1 Packet],1,0,1 packet of Sev,15.0
+Snacks,Masala Packet [3 Packet],1,0,,15.0
+Refreshment,Matuki Masala Chaas,1,0,Matuki masala buttermilk.,25.0

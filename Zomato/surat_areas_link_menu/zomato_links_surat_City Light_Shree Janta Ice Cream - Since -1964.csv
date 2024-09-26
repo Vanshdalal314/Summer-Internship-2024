@@ -1,0 +1,73 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Creams,Vanilla Ice Cream,1,0,Vanilla flavoured ice cream made with pure milk & cream.,55.0
+Ice Creams,Mawa Malai Pista Ice Cream,1,0,"Vanilla flavoured ice cream mix with mawa, pistachio and malai.",55.0
+Ice Creams,Panking Ice Cream,1,0,"Every bite tastes calcutta methapati pan with full of cashews, gulakand & much ... read more",65.0
+Ice Creams,Gulabi Masti Ice Cream,1,0,"Fresh rose petals, rich cashew pure gulkand cream to just give u perfect ... read more",65.0
+Ice Creams,Anjir Almond Ice Cream,1,0,Combination of roasted almond & anjeer [fig] gives u appetizing & lucious taste.,65.0
+Ice Creams,Vanilla cone,1,0,,25.0
+Ice Creams,Chocolate Cone,1,0,,30.0
+Ice Cream Sundae,Crunchy Oreo Crumble Sundae,1,0,"Classic cookie cream ice cream, topped with crunchy oreo biscuit, chocolate sauce, choco ... read more",85.0
+Ice Cream Sundae,Nutty Fruits Valley Sundae,1,0,"Fresh fruit overload ice cream topped with rich cashews, kismis and almond with ... read more",85.0
+Ice Cream Sundae,Rajashahi Royal Marine Sundae,1,0,"Rajbhog and kaju kismis ice cream topped with kismiss, cashew, almonds with rose ... read more",145.0
+Ice Cream Sundae,Chocolate Safari Sundae,1,0,"Chocomoco brownie & chocolate chips ice cream topped with chocolate sauce, choco chips ... read more",145.0
+Ice Cream Sundae,Royal Salute Sundae,1,0,Strawberry ice cream made with fresh strawberry pieces to give u a original ... read more,205.0
+Ice Cream Sundae,Chocolate Birds Nest Sundae,1,0,"Classic cookie cream, chocolate chips, choco moco brownie ice cream topped with chocolate ... read more",205.0
+Chocolate Flavored Ice Cream,Chocolate Chips Ice Cream,1,0,Tempting chocolate ice cream with full of crunchy milky chocolates.,55.0
+Chocolate Flavored Ice Cream,Oreo Ice Cream,1,0,Chocolate ice cream flavoured with crunchy Oreo biscuits.,55.0
+Chocolate Flavored Ice Cream,Cookie Cream Ice Cream,1,0,Vanilla ice cream flavoured with soft sinful brownie pieces.,55.0
+Chocolate Flavored Ice Cream,Butterscotch Ice Cream,1,0,Vanilla ice cream swirled with original & crunchy chocolate flavoured butterscotch nuts.,65.0
+Chocolate Flavored Ice Cream,Almond Chocolate Ice Cream,1,0,Vanilla ice cream flavoured with crunchy almonds & yummy milky chocolates.,65.0
+Chocolate Flavored Ice Cream,Choco Moco Brownie Ice Cream,1,0,Tempting choco moco brownie ice cream made with chocolate flavoured ice cream with ... read more,65.0
+Chocolate Flavored Ice Cream,Coffee Walnut Ice Cream,1,0,Just perfect combination of South Indian coffee with rich wall nuts for coffee ... read more,65.0
+Chocolate Flavored Ice Cream,Wall Crunch Ice Cream,1,0,"Wall crunch light chocolate ice cream is filled with full almonds, cashew, cadbury, ... read more",65.0
+Chocolate Flavored Ice Cream,Belgian Choclate Ice Cream,1,0,Tempting dark chocolate ice cream with full of crunchy milky chocolates dark chocolate ... read more,65.0
+Chocolate Flavored Ice Cream,Fruit and Nut Chocolate Ice Cream,1,0,"Tempting dark chocolate ice cream with full of crunchy milky chocolates, rich cashew ... read more",65.0
+Chocolate Flavored Ice Cream,KitKat Ice Cream,1,0,Light chocolate flavoured ice cream with full of crunchy KitKat bites.,65.0
+Chocolate Flavored Ice Cream,Winter Cream Ice Cream,1,0,"Winter cream light chocolate ice cream is filled with full of almond, cashew, ... read more",65.0
+Chocolate Flavored Ice Cream,Special Cake Cream Ice Cream,1,0,Vanilla ice cream flavoured with soft sinful brownie pieces & topped with fresh ... read more,75.0
+Rich Dry Fruits and Nuts Ice Cream,American Dryfruit Ice Cream,1,0,"Fresh vanilla ice cream combined with rich and pure cashews, almonds, milk, chocolate ... read more",65.0
+Rich Dry Fruits and Nuts Ice Cream,Kaju Anjeer Ice Cream,1,0,Its simple like made with all time desi nuts cashew and anjeer [fig] ... read more,65.0
+Rich Dry Fruits and Nuts Ice Cream,Kesar Pista Ice Cream,1,0,"Very delicious and wonderfully smooth, creamy pistachio saffron ice cream.",65.0
+Rich Dry Fruits and Nuts Ice Cream,Afghan Dry Fruits Ice Cream,1,0,"Anjeer, dates and honey make the ice cream more healthy and tasty.",65.0
+Rich Dry Fruits and Nuts Ice Cream,Madhu Malti Ice Cream,1,0,"Madhu malti made with full of high quality nuts almonds, cashew, pistachio, saffrons ... read more",65.0
+Rich Dry Fruits and Nuts Ice Cream,Sweet Dream Ice Cream,1,0,Sweet cream made with almond cashew combined with mixed fruit jelly and tangy ... read more,65.0
+Rich Dry Fruits and Nuts Ice Cream,Kaju Draksh Ice Cream,1,0,"Its simple, like made with all time desi nuts cashew and kismis made ... read more",55.0
+Rich Dry Fruits and Nuts Ice Cream,White House Ice Cream,1,0,"White house flavour made with nuts [almond, cashew] milky chocolates & mixed fruit ... read more",65.0
+Rich Dry Fruits and Nuts Ice Cream,Rajbhog Ice Cream,1,0,"Rajbhog [king dish] made with full of nuts [cashew, almond, pistachio] & pure ... read more",65.0
+Seasonal Fresh Fruit Ice Creams,Blackcurrant Ice Cream,1,0,Made with pure milk and cream ice cream with blackcurrant & raisins.,65.0
+Seasonal Fresh Fruit Ice Creams,Black Jamun Ice Cream,1,0,Black jamun ice cream with fresh jamun makes a healthy treat for diabetes ... read more,65.0
+Seasonal Fresh Fruit Ice Creams,Coconut Ice Cream,1,0,Coconut ice cream with fresh coconut pieces [contains pure milk & cream makes ... read more,65.0
+Seasonal Fresh Fruit Ice Creams,Juicy Lychee Ice Cream,1,0,Made with fresh and high quality litchi pieces which makes lovely treat.,65.0
+Seasonal Fresh Fruit Ice Creams,Pina Orange Ice Cream,1,0,Pineapple orange ice cream made with tangy and sweet orange and juicy pineapple.,65.0
+Seasonal Fresh Fruit Ice Creams,Fruit Overload Ice Cream,1,0,"Made with naspati, pineapple, lychee, papita, cherry and many more fruits its complete ... read more",65.0
+Seasonal Fresh Fruit Ice Creams,Alphonso Mango Ice Cream,1,0,"Guava ice cream made with fresh guava pulp, which is one of the ... read more",65.0
+Seasonal Fresh Fruit Ice Creams,Pineapple Papaya Ice Cream,1,0,Pineapple and papaya combinations is just perfect to delight your mood.,65.0
+Thickshake,Sumis Love Butterscotch,1,0,The scotch with a crunch,139.0
+Thickshake,Blackcurrant Thickshake,1,0,Made with pure blackcurrant ice cream with blackcurrant and raisins.,139.0
+Thickshake,Madagascar Vanilla,1,0,"Classic and  distinctive,tasty vanila thickshake",119.0
+Thickshake,Crunchy Chocolate Oreo,1,0,"A perfect blend of addictive choclate icecream  with crunchy oreo ,which turns brown ... read more",139.0
+Thickshake,Black Panther Chocolate,1,0,A kiss that consists of a conical bite-sized piece of chocolate to give ... read more,139.0
+Thickshake,Lychee Valley,1,0,"Made with fresh and high quality litchi pieces ,which makes lovely treat,",139.0
+Thickshake,Pina Ruby,1,0,Pinapple orange icecream and  blended with pure pinaple and oranges,139.0
+Thickshake,Light Brownish Crunchy KitKat,1,0,Made with crunchy kitkat shake,139.0
+Thickshake,Dark Fantasy Choco Fills,1,0,A perfect blend with dark fantacy choco fills cookie with distinctive choclate icecream,139.0
+Thickshake,Nutty and Healthy 24 Carats,1,0,"rajashahi MADE WITH FULL OF NUTS(CASHEW,ALMOND,PISTACHIO,)& PURE SAFFRON TO GIVE U KING EXPERIENCE",139.0
+Cold Coco,Special Cold Coco,1,0,,60.0
+Cold Coco,Coco with Ice Cream,1,0,,70.0
+Cold Coco,Coco with Cadbury,1,0,,70.0
+Falooda,Kesar Falooda,1,0,"Made with kesar flavoured milk, blended with tooth morya seeds, falooda sev,& topped ... read more",110.0
+Falooda,Rose Falooda,1,0,"Made with rose flavoured milk, blended with tooth morya seeds, falooda sev & ... read more",110.0
+Falooda,Choclate Falooda,1,0,"Made with chocolate flavoured milk, blended with tooth morya seeds, falooda sev & ... read more",110.0
+Coffee,Classic Thick Cold Coffee,1,0,,90.0
+Coffee,Special Chocolate Loaded Thick Cold Coffee,1,0,,110.0
+Coffee,Choclate Monster Cold Coffee,1,0,,130.0
+Milkshakes,Rose E Garden Milkshake,1,0,"A perfect blend of romance through our pure milk, which turns pink with ... read more",125.0
+Milkshakes,Pan E Bahar Milkshake,1,0,Fresh calcutta meetha pan ice cream and milk.,125.0
+Milkshakes,Twilight Orange Milkshake,1,0,Arihant's special thandai ice cream blend with pure milk and cream.,125.0
+Milkshakes,Traditional Thandai Milkshake,1,0,Arihant's special thandai ice cream blend with pure milk and cream.,125.0
+Milkshakes,Swiss Miss Chocolate Milkshake,1,0,A beautiful mix of condensed milk and raw chocolate to make it unavoidable ... read more,110.0
+Milkshakes,KitKat Milkshake,1,0,"Made with pure KitKat chocolate, and blended with pure milk and cream.",110.0
+Milkshakes,Oreo Milkshake,1,0,"Made with pure Oreo biscuits, and blended with pure milk and cream & ... read more",110.0
+Milkshakes,Majesty Vanilla Milkshake,1,0,Vanilla ice cream and syrup with milk.,110.0
+Milkshakes,Sumis Love Butterscotch Milkshake,1,0,The scotch with a crunch.,110.0
+Drinks (Beverages),Blackcurrant Thick Shake,1,0,Made with pure blackcurrant ice cream with blackcurrant & raisins.,168.64

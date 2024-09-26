@@ -1,0 +1,3 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Gathiya,Vanela Gathiya,1,0,"Served with red chutney, onion [kanda], green chilli [marcha], kadhi, papaya salad.",110.0
+Snack,Special Fafada,1,0,"Special Fafada's Kadhi with Special Red Chutney, Onion, Green Chilli and Papaya's Salad.",150.0

@@ -1,0 +1,14 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Maggi,Masala Maggi,1,0,,75.0
+Tandoori Matka Chai,Tandoori Matka Chai [Pack of 3],1,0,Tandoori & Matka Chai Come (3) Cutting In One Single Pack.,99.0
+Tandoori Matka Chai,Tandoori Matka Chai [Pack of 5],1,0,Tandoori & Matka Chai Come (5) Cutting In One Single Pack.,149.0
+Tandoori Matka Chai,Jaggery Tea | गुड़ वाली चाय [Pack of 3],1,0,,99.0
+Tandoori Matka Chai,Jaggery Tea | गुड़ वाली चाय [Pack of 5],1,0,,149.0
+Tandoori Matka Chai,Chocolate Coffee [Pack Of 3],1,0,,99.0
+Tandoori Matka Chai,Cold coffee [Pack of 2],1,0,,99.0
+Tandoori Matka Chai,Tandoori Coffee [Pack of 3],1,0,,99.0
+Tandoori Matka Chai,Chocolate Coffee [Pack Of 5],1,0,,149.0
+Tandoori Matka Chai,Cold Coffee [Pack of 5],1,0,,199.0
+Tandoori Matka Chai,Tandoori Coffee [Pack of 5],1,0,,149.0
+Tandoori Matka Chai,Black Coffee,1,0,,99.0
+Tandoori Matka Chai,Hot Chocolate [Pack of 2],1,0,,149.0

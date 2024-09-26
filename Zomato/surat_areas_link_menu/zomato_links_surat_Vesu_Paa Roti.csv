@@ -1,0 +1,86 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Manchow Soup,1,0,[Veg preparation],130.0
+Soups,Hot and Sour Soup,1,0,,130.0
+Soups,Veg Sweet Corn Soup,1,0,,130.0
+Soups,Lemon Coriander Soup,1,0,,130.0
+Rice,Fried Rice,1,0,,260.0
+Rice,Singapore Rice,1,0,,290.0
+Rice,Schezwan Rice,1,0,,290.0
+Rice,Burnt Garlic Rice,1,0,,290.0
+Rice,Paneer Rice,1,0,,320.0
+Rice,Mexican Rice,1,0,,340.0
+Rice,Schezwan Paneer Rice,1,0,,390.0
+Rice,Triple Rice,1,0,[Chef's Special],580.0
+Chinese,Manchurian Dry,1,0,,220.0
+Chinese,Manchurian Gravy,1,0,,220.0
+Chinese,Mixed Paneer Manchurian,1,0,,300.0
+Chinese,Schezwan Manchurian,1,0,,260.0
+Chinese,Green Chilli Manchurian Dry,1,0,,260.0
+Chinese,Hakka Noodles,1,0,,260.0
+Chinese,Singapore Noodles,1,0,,260.0
+Chinese,Schezwan Noodles,1,0,,300.0
+Chinese,Chilli Garlic Noodles,1,0,,300.0
+Chinese,Chinese Bhel,1,0,,310.0
+Chinese,Bombay Bhel,1,0,,310.0
+Chinese,Veg Crispy,1,0,,330.0
+Chinese,Sweet Chilli Potato,1,0,,220.0
+Chinese,Paneer Chilli Dry,1,0,,330.0
+Chinese,Schezwan Paneer Chilli,1,0,,340.0
+Chinese,Lollipop Stick Dry,1,0,,270.0
+Chinese,Veg 65 Dry,1,0,,270.0
+Chinese,Diet Bowl,1,0,,320.0
+Finger Foods,French Fries,1,0,,170.0
+Finger Foods,Cheese French Fries,1,0,,200.0
+Finger Foods,Peri Peri Fries,1,0,,200.0
+Finger Foods,Cheese Peri Peri Fries,1,0,,240.0
+Finger Foods,Schezwan French Fries,1,0,,240.0
+Finger Foods,Cheese Garlic Bread,1,0,,210.0
+Finger Foods,Bruschetta,1,0,"Classic tossed garlic bread with Mozzarella, black olive, jalapeno, capsicum and tomato.",290.0
+Finger Foods,Cheese Chilli Toast,1,0,,260.0
+Finger Foods,Cheese Nachos,1,0,,260.0
+Finger Foods,Nachos with Veg Toppings,1,0,,310.0
+Finger Foods,Cheese Corn Ball,1,0,Favorite.,300.0
+Maggi,Masala Maggi,1,0,,160.0
+Maggi,Cheese Masala Maggi,1,0,,200.0
+Maggi,Vegetable Maggi,1,0,,200.0
+Maggi,Vegetable Cheese Maggi,1,0,,220.0
+Maggi,Burnt Garlic Maggi,1,0,,220.0
+Maggi,Schezwan Maggi,1,0,,220.0
+Sandwhiches,Bread Butter Sandwich,1,0,,40.0
+Sandwhiches,Bread Butter Grilled Sandwich,1,0,,70.0
+Sandwhiches,Veg Cheese Sandwich,1,0,,160.0
+Sandwhiches,Grilled Cheese Sandwich,1,0,Favorite.,210.0
+Sandwhiches,Spinach Cheese Corn Sandwich,1,0,,260.0
+Sandwhiches,Paneer Tikka Sandwich,1,0,,290.0
+Sandwhiches,Mayo Sandwich,1,0,,180.0
+Pasta,Alfredo White Sauce Pasta,1,0,,390.0
+Pasta,Arrabiata Red Sauce Pasta,1,0,,390.0
+Pasta,Pink Sauce Pasta,1,0,,390.0
+Pizza,Margherita Pizza [9 inches],1,0,,330.0
+Pizza,So Cheesy Pizza [9 inches],1,0,,350.0
+Pizza,Veggie Delight Pizza [9 inches],1,0,,390.0
+Pizza,Schezwan Pizza [9 inches],1,0,"Bell pepper, zucchini, black olives, baby corn, onion with schezwan sauce and cheese.",390.0
+Pizza,Supreme Vagiano Pizza [9 inches],1,0,,430.0
+Pizza,Paneer Tikka Pizza [9 inches],1,0,"[Chef's Special] Freshly topped with bell pepper, capsicum, onion, tomato, paneer, big chilli ... read more",450.0
+Pizza,Paa Roti Special Pizza [12 inches],1,0,,980.0
+Shakes,Mango Shake,1,0,,180.0
+Shakes,Strawberry Shake,1,0,,180.0
+Shakes,Oreo Shake,1,0,,220.0
+Shakes,KitKat Shake,1,0,,220.0
+Shakes,Chocolate Shake,1,0,,220.0
+Shakes,Oreo KitKat Mixed Shake,1,0,,260.0
+Shakes,Brownie Shake,1,0,,290.0
+Shakes,Ferrero Rocher Shake,1,0,,290.0
+Mocktails,Mint Mojito,1,0,[Non Alcoholic],160.0
+Mocktails,Kiwi Mojito,1,0,[Non Alcoholic],160.0
+Mocktails,Blue Lagoon Mocktail,1,0,[Non Alcoholic],160.0
+Mocktails,Red Bull Mojito,1,0,,330.0
+Coffee,Cold Coffee,1,0,,160.0
+Coffee,Cold Coffee with Oreo,1,0,,220.0
+Coffee,Cold Coffee with Chocolate,1,0,,220.0
+Rolls/Calzones,Veg Spring Roll,1,0,,260.0
+Rolls/Calzones,Veg Cigar Roll,1,0,,260.0
+Rolls/Calzones,Veg Baked Roll,1,0,,200.0
+Rolls/Calzones,Veg Paneer Roll,1,0,,260.0
+Rolls/Calzones,Cheese Pocket,1,0,,260.0
+Rolls/Calzones,Roasted Tandoori Tikka,1,0,[Veg preparation] Favorite.,310.0

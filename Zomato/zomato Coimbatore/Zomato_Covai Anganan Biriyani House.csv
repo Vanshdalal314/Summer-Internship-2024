@@ -1,0 +1,93 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Hot N Sour Veg Soup,1,0,Hot N Sour Veg Soup is a spicy and hot soup made with ... read more,138.0
+Soups,Hot N Sour Chicken Soup,1,0,Hot N Sour Chicken Soup is made of boiled shredded chicken cooked with ... read more,160.0
+Soups,Chicken Milagu Soup,1,0,Chicken Milagu Soup is a Tamil style soup made with a freshly ground ... read more,149.0
+Soups,Mutton Milagu Soup,1,0,A spicy pepper-based soup loaded with shredded mutton.,170.0
+Biryani,Chicken Biriyani,1,0,Traditional dum biriyani cooked with succulent Chicken 4 pieces and hand-ground spices ... read more,311.0
+Biryani,Mutton Biriyani,1,0,Traditional dum biriyani cooked with succulent Mutton 4 pieces and hand-ground spices ... read more,334.8
+Biryani,Mutton Kola Biriyani,1,0,Traditional dum biriyani cooked with succulent 3 pcs of Mutton Kola pieces and ... read more,343.0
+Biryani,Egg Biryani (500 Gms),1,0,"Rice cooked in flavourful broth with whole spices, mint leaves and spice powders, ... read more",242.0
+Biryani,Chicken 65 Biryani (500 Gms),1,0,Chicken 65 Biryani is a special kind of biryani where the cooked rice ... read more,289.0
+Non Veg Starters,Chicken Porichu,1,0,,320.0
+Non Veg Starters,Chilli Chicken Boneless Spicy,1,0,Boneless chicken pieces marinated and deep fried in chilli based coating + served ... read more,268.0
+Non Veg Starters,Kongu Chicken Masala,1,0,,297.6
+Non Veg Starters,Majura Chicken,1,0,"Whole chicken marinated and deepfried in our chilli based masala butter,served with onion ... read more",480.0
+Non Veg Starters,Nattukozhi Idicha Varuval,1,0,,296.0
+Non Veg Starters,Theepori Lollipop,1,0,,314.0
+Non Veg Starters,Chilli Chicken (Boneless),1,0,Boneless chicken pieces marinated and deep fried + served with onion salad ... read more,273.0
+Non Veg Starters,Chicken Lollypop (4 PC),1,0,Chicken lollipop is a popular Indo-Chinese appetizer where a frenched chicken drumette is ... read more,260.0
+Non Veg Starters,Chicken Roast,1,0,"Chicken roast is a flavor-packed, finger-licking, spicy and tangy chicken recipe prepared using ... read more",278.0
+Non Veg Starters,Chicken Wings,1,0,Marinated chicken wings are air-fried to perfection having crispiness outside and retain all ... read more,238.0
+Non Veg Starters,Chicken Wings Pepper Fry,1,0,Marinated chicken wings are air-fried to perfection having crispiness outside and retain all ... read more,244.0
+Non Veg Starters,Special Chicken Leg,1,0,"Dark, tender meat with bone from the lower leg of chicken. These super ... read more",280.0
+Non Veg Starters,Chicken 74,1,0,Whole half Chicken marinated and deep fried in our chilli based masala batter ... read more,310.0
+Non Veg Starters,Pepper Chicken Boneless,1,0,Pepper Chicken is a hot & spicy dry curry made by cooking chicken ... read more,358.0
+Non Veg Starters,Dragon Chicken,1,0,Dragon chicken made restaurant style in which chicken is fried till crispy and ... read more,304.0
+Non Veg Starters,Nattukozhi Fry,1,0,Nattu koli Varuval ? It is a lip-smacking Country Chicken preparation made with ... read more,298.0
+Non Veg Starters,Butter Chicken Gravy,1,0,Chicken Butter Masala is a popular Indian dish of grilled chicken simmered in ... read more,310.0
+Non Veg Starters,Chicken Chettinadu Gravy,1,0,"Chicken Chettinadu Gravy is South India's most flavorful dish made with chicken, fresh ... read more",298.0
+Non Veg Starters,Nattukozhi Gravy,1,0,Country chicken gravy or Nattukozhi kuzhambu is a thin spicy gravy made of ... read more,310.0
+Non Veg Starters,Mutton Kudal Fry,1,0,Mutton Boti Fry is prepared from Lamb gizzards and the dish is famous ... read more,263.0
+Non Veg Starters,Mutton Thala Kari,1,0,Goat head is a delicacy that is enjoyed by mutton lovers for its ... read more,280.0
+Non Veg Starters,Mutton Brain Fry,1,0,Mutton Brain Fry is a classic recipe made with goat brain and freshly ... read more,250.0
+Non Veg Starters,Mutton Brain Egg Fry,1,0,Mutton Brain Fry is a classic recipe made with goat brain and freshly ... read more,274.0
+Non Veg Starters,Mutton Liver Fry,1,0,Mutton liver fry recipe is a mouthwatering non-vegetarian dish famous among mutton lovers ... read more,304.0
+Non Veg Starters,Mutton Kola (2 Pieces),1,0,Mutton Kola Urundai or Mutton keema balls is a spiced lamb mince meatball.,125.0
+Non Veg Starters,Mutton Kothu Kari,1,0,Mutton Kothu Kari is made with boneless mutton minced and cut and made ... read more,321.0
+Non Veg Starters,Mutton Nenjukari,1,0,"Mutton ribs or Nenjukari have layers of meat fat, and bones that impart ... read more",321.6
+Non Veg Starters,Mutton Chukka Bone,1,0,Mutton Sukka is a spicy tasty dry curry made by cooking evenly cut ... read more,315.0
+Non Veg Starters,Kaadai Fry,1,0,Kaadai fry is deep fried bird called Quail. Quail fry is slightly crisp ... read more,250.0
+Non Veg Starters,Kaadai Pepper Roast,1,0,Kaadai Pepper Roast is deep fried bird called Quail. Quail fry is slightly ... read more,274.0
+Non Veg Starters,Prawn 65,1,0,Prawn 65 is a delicious South Indian starter or appetizer. This is a ... read more,334.0
+Non Veg Starters,Prawn Pepper Fry,1,0,Prawns pepper fry is a delicious and spicy stir fry made with prawns ... read more,321.0
+Non Veg Starters,Prawn Manchurian,1,0,"Prawn Manchurian ? A Classic Spicy, Sweet n Tangy Indo Chinese dish, best ... read more",345.0
+Non Veg Starters,Fish Fry,1,0,Sear fish marinated in chilli spice masala and deep-fried to perfection. Served with ... read more,384.0
+Non Veg Starters,Fish Fingers,1,0,These Homemade Crispy Fish Fingers are a delicious appetizer where batons of boneless ... read more,356.0
+Indian Breads,Chicken Stuffed Parotta,1,0,,177.0
+Indian Breads,Mutton Dosai,1,0,"Super crisp dosa cooked with a generous dousing of with mutton masala, perfect ... read more",200.0
+Indian Breads,Mutton Kothu Parotta,1,0,,211.0
+Indian Breads,Nool Parotta,1,0,,48.0
+Indian Breads,Phulka (2 PC),1,0,Phulkas also known as Roti or Chapati in some regions are a whole ... read more,54.0
+Indian Breads,Chapathi (1 PC),1,0,Chapati (also spelled chapathi) is an Indian flat bread that is a staple ... read more,36.0
+Indian Breads,Parotta (1 PC),1,0,"Kerala parotta, popularly known as paratha or porotta, is a delicacy from Kerala. ... read more",35.0
+Indian Breads,Wheat Parotta (1 PC),1,0,"Wheat parotta, popularly known as paratha or porotta, is a delicacy from Kerala. ... read more",54.0
+Indian Breads,Egg Stuffed Parotta (1 PC),1,0,Egg Paratha is a delicious layered flat bread with omelette stuffing.,78.0
+Indian Breads,Veg Kothu Parotta,1,0,"Veg Kothu Parotta, a shredded flaky multi layered Indian flatbread stir fried with ... read more",78.0
+Indian Breads,Egg Kothu Parotta,1,0,"Egg Kothu Parotta, a shredded flaky multi layered Indian flatbread stir fried with ... read more",89.0
+Indian Breads,Chicken Kothu Parotta,1,0,"Chicken Kothu Parotta, a shredded flaky multi layered Indian flatbread stir fried with ... read more",185.0
+Indian Breads,Plain Roast Dosa,1,0,"Roast dosa is South Indian, fermented crepe made from rice batter and black ... read more",78.0
+Indian Breads,Podi Roast Dosa,1,0,"Podin dosa is South Indian, fermented crepe made from rice batter and black ... read more",89.0
+Indian Breads,Onion Roast Dosa,1,0,"Onion dosa is South Indian, fermented crepe made from rice batter and black ... read more",89.0
+Indian Breads,Egg Roast Dosa,1,0,"Egg dosa is South Indian, fermented crepe made from rice batter and black ... read more",78.0
+Indian Breads,Chicken Kari Dosa,1,0,The Chicken Keema Dosa is?a spicy meat masala dosa?that is a speciality of ... read more,196.0
+Fried Rice & Noodles,Veg Fried Rice,1,0,"Veg Fried rice is a traditional Chinese preparation of cooked rice, vegetables, protein, ... read more",196.0
+Fried Rice & Noodles,Egg Fried Rice,1,0,"Egg Fried Rice, a famous Indo-Chinese rice?recipe?made with?eggs?and vegetables.",209.0
+Fried Rice & Noodles,Chicken Fried Rice,1,0,"Chicken Fried Rice, a famous Indo-Chinese rice?recipe?made with?shredded chicken?and vegetables.",231.0
+Fried Rice & Noodles,Schezwan Veg Fried Rice,1,0,"Schezwan Fried Rice is a zesty, hearty vegetarian stir-fry dish that features a ... read more",209.0
+Fried Rice & Noodles,Schezwan Egg Fried Rice,1,0,"Schezwan Egg Fried Rice, a famous Indo-Chinese rice?recipe?made with?eggs?and vegetables tossed with schezwan ... read more",221.0
+Fried Rice & Noodles,Schezwan Chicken Fried Rice,1,0,"Chicken Fried Rice, a famous Indo-Chinese rice?recipe?made with?shredded chicken?and vegetables and tossed with ... read more",244.0
+Fried Rice & Noodles,Veg Noodles,1,0,Vegetable noodles is a healthy Chinese inspired dish where cooked noodles are stir ... read more,220.0
+Fried Rice & Noodles,Egg Noodles,1,0,"Schezwan Noodles is a spicy, flavourful and tasty dish that is made by ... read more",233.0
+Fried Rice & Noodles,Chicken Noodles,1,0,Vegetable noodles is a healthy Chinese inspired dish where cooked noodles are stir ... read more,280.0
+Fried Rice & Noodles,Schezwan Chicken Noodles,1,0,,267.0
+Fried Rice & Noodles,Schezwan Egg Noodle,1,0,,235.0
+Fried Rice & Noodles,Schezwan Veg Noodles,1,0,Schezwan Vegetable noodles is a healthy Chinese inspired dish where cooked noodles are ... read more,233.0
+Eggs To Order,Egg Masala,1,0,Egg Masala is made by freshly roasting and grinding spices the chettinad style ... read more,89.0
+Eggs To Order,Boiled Egg (1 PC),1,0,"Boiled eggs are eggs, typically from a chicken, cooked with their shells unbroken, ... read more",24.0
+Eggs To Order,Omlette,1,0,An omelet is a dish you might order for breakfast or lunch or ... read more,30.0
+Eggs To Order,Egg Bhurji,1,0,"Egg bhurji is a simple scrambled eggs dish made with spices, eggs & ... read more",89.0
+Dessert & Beverages,Anganan Special Pudding,1,0,A classic anganan delight pudding.,89.0
+Chinese Vegetarian,Kadai Veg (gravy),1,0,,252.0
+Chinese Vegetarian,Paneer Butter Masala,1,0,,297.0
+Chinese Vegetarian,Gobi Manchurian,1,0,Gobi Manchurian is a popular Indo Chinese dish of batter coated pan fried ... read more,263.0
+Chinese Vegetarian,Mushroom Manchurian,1,0,Mushroom Manchurian is a popular Indo Chinese dish of batter coated pan fried ... read more,263.0
+Chinese Vegetarian,Paneer Manchurian,1,0,Paneer Manchurian is a popular Indo Chinese dish of batter coated pan fried ... read more,263.0
+Chinese Vegetarian,Babycorn Manchurian,1,0,"Baby Corn Manchurian is a spicy, sweet and sour Indian Chinese fusion dish.",263.0
+Chinese Non- Vegetarian Starters,Crispy Chicken,1,0,,331.0
+Chinese Non- Vegetarian Starters,Crispy Prawn,1,0,,360.0
+Chinese Non- Vegetarian Starters,Hot Pepper Chicken,1,0,Pepper Chicken is a hot & spicy dry curry made by cooking chicken ... read more,343.0
+Chinese Non- Vegetarian Starters,Garlic Chicken (Chinese Style),1,0,Garlic Chicken is a stir fried dish which includes pieces of chicken and ... read more,268.0
+Chinese Non- Vegetarian Starters,Chicken Manchurian,1,0,Chicken Manchurian is a delicious and popular Indo-Chinese recipe that is made with ... read more,310.0
+Barbeque & Tandoori,Alfam Barbeque Half,1,0,,348.0
+Barbeque & Tandoori,Barbeque Chicken Half,1,0,,336.0
+Barbeque & Tandoori,Tandoori Chicken Half,1,0,,330.0

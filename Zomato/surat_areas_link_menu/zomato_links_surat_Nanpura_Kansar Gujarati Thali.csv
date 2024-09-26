@@ -1,0 +1,15 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Zomato Express Meals,Dal Rice,1,0,,150.0
+Zomato Express Meals,Kadhi Khichdi,1,0,,150.0
+Main Course,Paneer Sabji - Today Special,1,0,,150.0
+Main Course,Aloo Sabji - Today Special,1,0,,120.0
+Main Course,Veg Sabji - Today Gujarati Special,1,0,,120.0
+Main Course,Kathol Sabji - Today Special,1,0,,120.0
+Combo,Dal Rice,1,0,,150.0
+Match Day Special Combos,Mini Tiffn [Serves -2],1,0,"1 Types of sweet [4 pieces, 150 grams]+2 types of farsan [fried [4 ... read more",528.0
+Match Day Special Combos,Family Pack [Serves -4],1,0,"1 Types of sweet [7 pieces, 200 grams]+2 types of farsan [fried [8 ... read more",799.0
+Match Day Special Combos,Meal For 1,1,0,2 type subji+4 Chapati+Dal+Rice+Pickle+Gulab Jamun [1 Piece],140.0
+Breads,Roti,1,0,,10.0
+Breads,Poori,1,0,,5.0
+Snack,Fry Farsan,1,0,,120.0
+Dessert,Sweet,1,0,,110.0

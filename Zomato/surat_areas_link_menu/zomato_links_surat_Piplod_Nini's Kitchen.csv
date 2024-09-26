@@ -1,0 +1,164 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Spinach Soup,1,0,"Spinach soup made up of fresh spinach puree, flavoured with mild spices & ... read more",260.0
+Soups,Tomato Soup,1,0,"Tomato soup made up of fresh tomato puree, flavoured with mild spices & ... read more",250.0
+Soups,Hot & Sour Soup,1,0,(NOT AVAILABLE IN JAIN) A spicy & tangy soup,250.0
+Soups,Sweet Corn Vegetable Soup,1,0,A delicately flavoured broth with corn kernels & chopped veggies,250.0
+Soups,Creamy Mushroom Soup,1,0,(NOT AVAILABLE IN JAIN) Garlic sauteed mushroom in a rich Veloutte sauce.,270.0
+Soups,Lemon Coriander Soup,1,0,(NOT AVAILABLE IN JAIN ) A tangy clear soup of vegetables with coriander ... read more,260.0
+Soups,Minestrone Soup,1,0,"A thick tomato based soup, made with veggies, beans and pasta",260.0
+Soups,Veg Wonton Soup,1,0,(NOT AVAILABLE IN JAIN) A clear soup of Bok choy and broth boiled ... read more,250.0
+Soups,Roasted Tomato & Bellpepper Soup,1,0,Roasted bellpeppers and tomatoes simmered into a hearty bisque,250.0
+Soups,Cantonese Soup with Crispy Noodles,1,0,(NOT AVAILABLE IN JAIN) A soy based hot and sour soup with vegetables ... read more,270.0
+Soups,Thukpa Soup,1,0,Tibetan noodle soup with vegetables & clear broth,270.0
+Starters,Stuffed Aloo,1,0,"(NOT AVAILABLE IN JAIN) stuffed baby potatoes marinated in yogurt, flavoured with Indian ... read more",385.0
+Starters,Hariyali Paneer Tikka,1,0,Cubes of fresh cottage cheese marinated in pudina tikka masala & grilled in ... read more,460.0
+Starters,Hara Bhara Kebab,1,0,"Delicate kebabs fashioned with spinach, green peas & cottage cheese, spiced with herbs ... read more",385.0
+Starters,Assorted Veg Platter,1,0,"(NOT AVAILABLE IN JAIN) Platter of stuffed mushroom tikka, paneer tikka, achari aloo, ... read more",490.0
+Starters,Paneer Tikka,1,0,Cubes of fresh cottage cheese marinated in spicy tikka masala & grilled in ... read more,450.0
+Starters,Bharwaan Mushroom,1,0,"(NOT AVAILABLE IN JAIN) Fresh mushroom stuffed with cheese, marinated in yogurt, flavoured ... read more",450.0
+Starters,Paneer Nazakat,1,0,"Nazakat’ Means Delicate Elegance. Paneer Cubes Thinly Stuffed And Marinated In Masalas, Grilled ... read more",450.0
+Starters,Tandoori Dim Sum,1,0,"This Humble Snack Gets ‘Delhified’ In Our Tandoori Version. Steamed Momos, Doused In ... read more",450.0
+Starters,Dahi Ke Kebab,1,0,"(6 pcs.) A Classic Mughlai appetizer made using hang curd, creamy on the ... read more",420.0
+Starters,Beetroot Peanut Cutlet with Mango Chilli Sauce,1,0,(NOT AVAILABLE IN JAIN) Panko breadcrumbs crusted and pan fried crispy beetroot and ... read more,460.0
+Starters,Chinese Cigar,1,0,(N/A in JAIN) Made by rolling a succulent stuffing of mixed vegetables and ... read more,430.0
+Starters,Veg Wontons,1,0,"(NOT AVAILABLE IN JAIN) A Chinese starter consisting of dumplings filled with vegetables, ... read more",420.0
+Starters,Pesto Mushroom Crostini,1,0,(NOT AVAILABLE IN JAIN) Toasted bread topped with grilled mushrooms on a bed ... read more,360.0
+Starters,Lebanese Platter,1,0,"(NOT AVAILABLE IN JAIN) House made piri-piri tortilla chips, whole wheat pita bread, ... read more",490.0
+Starters,Tomato & Basil Bruschetta,1,0,"(6 pcs) This classic Italian antipasto uses toasted Italian bread rubbed with garlic, ... read more",360.0
+Starters,Exotic Veggie Crostini,1,0,"Toasted bread topped with grilled zucchini, bell peppers, baby corns and aubergine on ... read more",360.0
+Starters,Spinach and Cheese Cigars,1,0,"(NOT AVAILABLE IN JAIN) Sauteed spinach, roasted corn, cheddar and mozzarella cheese made ... read more",430.0
+Starters,Mushroom Paneer Shawarma,1,0,"(NOT AVAILABLE IN JAIN) Mushroom and cottage cheese marinated in lebanese spices, grilled ... read more",320.0
+Starters,Paneer Shawarma,1,0,"(NOT AVAILABLE IN JAIN) Cottage cheese marinated in lebanese spices, grilled and rolled ... read more",320.0
+Starters,Mixed Shawarma,1,0,"(NOT AVAILABLE IN JAIN) Cottage cheese, mushroom and potato marinated in lebanese spices, ... read more",320.0
+Starters,Deconstructed Mushroom Paneer Shawarma,1,0,"(NOT AVAILABLE IN JAIN) Shawarma of your choice, in an open format (instead ... read more",320.0
+Starters,Hummus With Pita,1,0,"(NOT AVAILABLE IN JAIN) A smooth creamy dip of puffed chickpeas with tahini, ... read more",290.0
+Starters,Spinach Corn & Cheese Roll,1,0,"spinach corn & cheese masala rolled in Indian bread with onions, lettuce & ... read more",290.0
+Starters,Mushroom Tandoori Roll,1,0,(NOT AVAILABLE IN JAIN) Tandoori mushroom & tandoori paneer tikka marinated in Indian ... read more,290.0
+Starters,Paneer Tikka Tandoori Roll,1,0,"Tandoori paneer tikka marinated in Indian spices, rolled in Indian bread with onions, ... read more",290.0
+Starters,Deconstructed Paneer Shawarma,1,0,"(NOT AVAILABLE IN JAIN) Shawarma of your choice, in an open format (instead ... read more",320.0
+Starters,Extra Pita Bread,1,0,,80.0
+Starters,Deconstructed Mixed Shawarma,1,0,"(NOT AVAILABLE IN JAIN) Shawarma of your choice, in an open format (instead ... read more",320.0
+Starters,Falafel in pesto hummus,1,0,(NOT AVAILABLE IN JAIN) Whole Wheat Pita Bread Wrap Of Falafel Balls In ... read more,330.0
+Starters,Hara Bhara Hariyali Roll,1,0,"Pieces of hara bhara kebab rolled in Indian bread with onions, lettuce & ... read more",290.0
+Starters,Potato Punch Roll,1,0,"(NOT AVAILABLE IN JAIN) Tandoori potatoes marinated in Indian spices, rolled in Indian ... read more",290.0
+Starters,Corn Croquettes,1,0,"Crumb fried rolls/fingers of slow roast corn with thyme, pepper & cheese",380.0
+Starters,Sriracha Basil Paneer,1,0,"Crispy cottage cheese tossed in sriracha, cashew & basil leaves",480.0
+Starters,Mixed Roll,1,0,,290.0
+Snacks,Garlic Bread with Cheese & Chilli,1,0,Slices of in-house toasted French Loaf drizzled with Garlic Butter topped with Cheese ... read more,230.0
+Snacks,Garlic Bread With Cheese,1,0,Slices of in-house toasted French Loaf drizzled with Garlic Butter topped with Cheese,220.0
+Snacks,Garlic Bread,1,0,Slices of in-house toasted French Loaf drizzled with Garlic Butter,170.0
+Snacks,Cheese Nachos,1,0,Nachos Chips served with Cheese Sauce and Salsa,280.0
+Snacks,Cheesy BBQ Fries,1,0,(NOT AVAILABLE IN JAIN) Desi twist on Canadian Poutine. French Fries doused in ... read more,320.0
+Snacks,Pull Apart Bread,1,0,"House made, blooming bread stuffed with mozzarella cheese and coated in herb butter.",260.0
+Snacks,French Fries,1,0,,210.0
+Snacks,Nini's Nom Nom Nachos,1,0,"(NOT AVAILABLE IN JAIN) Our take on fully loaded nachos with Salsa, Cheese ... read more",360.0
+Snacks,French Fries With Cheese,1,0,,250.0
+Salads,Fruggie (Fruit + Veggie Salads),1,0,"Tomato, orange, pineapple, cucumber, capsicum, bell pepper, lettuce, olives, white vinegar & lemon ... read more",330.0
+Salads,Fruit Bowl,1,0,A bowl of freshly cut seasonal fruits,320.0
+Salads,Hasta La Pasta,1,0,"Bell pepper, lettuce, olives, tomato with penne pasta doused in mayo sauce & ... read more",330.0
+Salads,Mediterranean Quinoa Salad,1,0,"(NOT AVAILABLE IN JAIN) Healthy and delicious, with the superfood quinoa taking the ... read more",400.0
+Salads,Watermelon And Feta Salad,1,0,"Light and breezy with a riot of textures, flavours and colors from freshly ... read more",400.0
+Salads,Greek Salad,1,0,"Cucumber, onion, tomatoes, olives, lettuce, mint & feta",370.0
+Burgers,Piri Piri Paneer Burger,1,0,"Crispy paneer piri piri patty, pickled cucumber, salt cured tomatoes, house made sauce",320.0
+Burgers,Veg Kebab Burger,1,0,"(Not Available in Jain) Crispy vegetable kebab patty, seared onions, salt cured tomatoes, ... read more",320.0
+Sandwiches,Hawaiian Sandwich,1,0,"(NOT AVAILABLE IN JAIN) Batter fried Cauliflower, Pineapple and Jalapeno relish, Sriracha Mayo, ... read more",320.0
+Sandwiches,Habibi Sandwich,1,0,"(NOT AVAILABLE IN JAIN) Garlic sauteed Mushrooms, Hummus, Tzatziki, salt cured Tomatoes, Cheese, ... read more",320.0
+Sandwiches,Toasty Roasty,1,0,"(Not Available in Jain) Roasted Aubergine, Zucchini, Onions, Mushrooms, Bell-Peppers and Cheese drizzled ... read more",320.0
+Sandwiches,Clt,1,0,"Old school style, Cheese, Lettuce and Tomato drizzled with some Pesto Mayo",320.0
+Sandwiches,Tik-Tok Sandwich,1,0,"(NOT AVAILABLE IN JAIN) Tikka Paneer, Mint dip, Sriracha Mayo, Garlic Aoli, Cheese, ... read more",320.0
+Global Mains,Mushroom & Cheese Risotto,1,0,"An Italian dish made of Arborio rice, cheddar and mozzarella cheese, sauteed mushrooms, ... read more",490.0
+Global Mains,Pasta Alfredo,1,0,"Penne pasta with bell peppers, mushrooms, sauteed onions & sundried tomatoes, cooked in ... read more",380.0
+Global Mains,Pasta Pesto,1,0,Penne pasta cooked in a combination of green pesto sauce (fresh basil leaves ... read more,450.0
+Global Mains,Lasagna,1,0,"Layers Of Stuffed Pasta, Baked With Oodles Of Cheese, In A Combination Of ... read more",490.0
+Global Mains,Mac-n-Cheese,1,0,"A Pakko Amdavadi Doesn'T Need To Read The Description For Everyone Else, It'S ... read more",450.0
+Global Mains,Spaghetti Aglio e Olio,1,0,(NOT AVAILABLE IN JAIN) Spaghetti Tossed In Lightly Sauteed Garlic In Olive Oil. ... read more,410.0
+Global Mains,Pasta Rosato,1,0,Penne pasta cooked in a pink sauce (a dreamy combination of white & ... read more,430.0
+Global Mains,Pasta Arrabiata,1,0,"Penne pasta, cooked in a spicy red sauce of tomatoes, garlic, onions & ... read more",410.0
+Global Mains,Enchiladas Mexican,1,0,"Tortilla rolled around Mexican spiced exotic vegetables, beans & corns with chipotle marinara ... read more",450.0
+Global Mains,Bhuna Paneer Enchiladas,1,0,Tortilla rolled with paneer bhuna masala served on a bed of cheesy rich ... read more,450.0
+Global Mains,Spinach Corn Cheese Cannelloni,1,0,Rolled pasta stuffed with spinach corn and cheese served with housemade marinara,450.0
+Main Course,Dal Fry,1,0,"Pressure cooked dal fried in a pan with chillies, garlic and coriander",370.0
+Main Course,Cheese Butter Masala,1,0,Amdavadi favorite : Amul cheese chunks in lip smacking tomato gravy,510.0
+Main Course,Paneer Makhani,1,0,"Speciality of the house, cubes of cottage cheese in a creamy tomato gravy",500.0
+Main Course,Navratna Korma,1,0,"A beautiful medly of 9 veggies, fruits and dry fruits in creamy and ... read more",490.0
+Main Course,Paneer Nawabi,1,0,"Stuffed cottage cheese, grilled to perfection served in a rich tomato gravy",530.0
+Main Course,Palak Paneer,1,0,"Paneer cubes cooked in an onion tomato spinach based gravy, flavoured with indian ... read more",500.0
+Main Course,Veg Handi,1,0,A medley of mildly roasted mixed vegetables in light brown gravy,450.0
+Main Course,Corn Capsicum Mushroom,1,0,"Mixed bell peppers, corn and mushroom cooked in brown gravy",470.0
+Main Course,Veg Kolhapuri,1,0,Lightly roasted mixed vegetables in spicy red gravy with a tadka of kolhapuri ... read more,450.0
+Main Course,Kadhai Paneer,1,0,Paneer and colorful bell peppers sauteed in light brown gravy,500.0
+Main Course,Seedhi Saadhi Yellow Dal,1,0,"Pan fried lentil curry with onion and tomatoes, spiced with pepper & cumin",350.0
+Main Course,Khoya Kaju,1,0,Roasted Cashewnuts In Creamy Sweet Gravy.,490.0
+Main Course,Dal Makhani,1,0,"Traditional curry of kidney beans and lentils, simmered in creamy gravy, topped with ... read more",420.0
+Main Course,Dal Tadka,1,0,"Traditional Indian lentil curry tempered with cumin, ginger, garlic & chilli",370.0
+Main Course,Kaju Curry,1,0,"Roasted Cashewnuts Cooked In Rich, Creamy, Onion-Tomato Based Spicy Gravy.",490.0
+Main Course,Dum Aloo,1,0,"(NOT AVAILABLE IN JAIN) Stuffed Baby Potatoes, Simmered In Smooth, Creamy Brown Gravy.",460.0
+Main Course,Subz Teen Patti,1,0,"A Medley Of Vegetables Simmered In Three Different Gravies- Red, Brown And Green.",550.0
+Main Course,Vegetable & Cheese Kofta,1,0,Mixed Vegetable Koftas Stuffed With Cheese In Silky Red Gravy.,520.0
+Main Course,Paneer Teen Patti,1,0,"A Triology Of Three Different Gravies In Red, Brown And White, Dousing Soft ... read more",550.0
+Main Course,Palak Corn,1,0,A Healthy And Tasty Sabzi Made From Palak (Spinach) And Sweet Corn Kernels. ... read more,470.0
+Main Course,Paneer Bhurji,1,0,"Scrambled Paneer Sauted In Tomatoes, Onions And Spices.",520.0
+Main Course,Jeera Aloo,1,0,(NOT AVAILABLE IN JAIN) A Mildly Spiced Dish Made Of Boiled Potatoes & ... read more,410.0
+Main Course,Veg Hyderabadi,1,0,Aromatic Medly Of Vegetables And Spices In A Green Gravy. (Spicy),450.0
+Main Course,Dal Bukhara,1,0,"(NOT AVAILABLE IN JAIN) Slow cooked overnight in tandoor using the traditional technique, ... read more",460.0
+Main Course,Peri-Peri Paneer Kofta,1,0,"Panko fried Peri-Peri Cottage Cheese Kofta, doused in Butter Makhni Gravy.",520.0
+Main Course,Dum Pukht Biryani,1,0,(NOT AVAILABLE IN JAIN) Slow cooked with a traditional method from the Royal ... read more,550.0
+Main Course,Dhaba Paneer,1,0,(NOT AVAILABLE IN JAIN) Paneer doused in house made kadhai blend of red ... read more,490.0
+Main Course,Paneer Kolhapuri,1,0,(NOT AVAILABLE IN JAIN) Paneer doused in a spicy paste of Red Chillies ... read more,490.0
+Bread,Butter Roti,1,0,,80.0
+Bread,Plain Roti,1,0,,70.0
+Bread,Butter Naan,1,0,,135.0
+Bread,Garlic Naan,1,0,,150.0
+Bread,Hariyali Garlic Naan,1,0,,175.0
+Bread,Lachha Parantha,1,0,,150.0
+Bread,Cheese Naan,1,0,,200.0
+Bread,Kulcha,1,0,,140.0
+Bread,Onion Kulcha,1,0,(Not available in jain),150.0
+Bread,Khamiri Roti (Sourdough wheat flatbread),1,0,"This Mughlai Roti Is Soft, Spongy And Mildly Tangy, From The Khamir ( ... read more",190.0
+Bread,Garlic Coriander Roti,1,0,,130.0
+Bread,Cheese Olive Naan,1,0,,210.0
+Bread,Cheese Garlic Naan,1,0,,210.0
+Bread,Plain Naan,1,0,,125.0
+Stuffed Paranthas,Aloo & Onion Paratha,1,0,(Not available in jain),240.0
+Stuffed Paranthas,Mixed Vegetable Paratha,1,0,,240.0
+Stuffed Paranthas,Paneer Cheese Garlic Paratha,1,0,,250.0
+Stuffed Paranthas,Gobi Paratha,1,0,,240.0
+Stuffed Paranthas,Paneer Paratha,1,0,,250.0
+Rice,Steamed Rice,1,0,Plain basmati rice steamed to perfection,230.0
+Rice,Green Peas Pulao,1,0,"A Simple Rice Item Of Basmati Rice, Herbs And Spices With Green Peas ... read more",360.0
+Rice,Veg Pulao,1,0,Seasonal vegetables combined with whole spices & basmati rice,360.0
+Rice,Hyderabadi Biryani,1,0,"Aromatic Preparation Of Rice, Vegetables And Spices In A Green Gravy. (Spicy)",480.0
+Rice,Jeera Rice,1,0,Basmati rice tempered with butter & cumin seeds,280.0
+Rice,Veg Dum Biryani,1,0,"Basmati rice cooked with assorted vegetables, finished in a sealed handi with cardamom, ... read more",480.0
+Rice,Baked Palak Khichdi,1,0,"Desi Khichdi With An Angrezi Twist. Pressure Cooked Medley Of Rice, Dal And ... read more",470.0
+Rice,Mexican Hot Pot,1,0,"A Hearty Mexican Dish Of Rice And Vegetables With Kidney Beans, Doused In ... read more",570.0
+Rice,Thai Curry with Steam Rice (Red),1,0,"(NOT AVAILABLE IN JAIN) Made From Scratch, From Ingredients Sourced From Thailand. It’S ... read more",580.0
+Rice,Thai Curry with Steam Rice (Green),1,0,"(NOT AVAILABLE IN JAIN) Made From Scratch, From Ingredients Sourced From Thailand. It’S ... read more",580.0
+Rice,Baked Masala Khichdi,1,0,"Desi Khichdi With An Angrezi Twist. Pressure Cooked Medley Of Rice, Dal And ... read more",470.0
+Accompaniments,Roasted Papad,1,0,,45.0
+Accompaniments,Plain Curd (Dahi),1,0,,65.0
+Accompaniments,Fried Papad,1,0,,45.0
+Accompaniments,Boondi Raita,1,0,,130.0
+Accompaniments,Green Salad,1,0,,140.0
+Accompaniments,Kachumber,1,0,,140.0
+Accompaniments,Vegetable Raita,1,0,,130.0
+Accompaniments,Pineapple Raita,1,0,,140.0
+Accompaniments,Masala Papad,1,0,,100.0
+Accompaniments,Bottled Water,1,0,,57.0
+Desserts,Mango Ice Cream,1,0,,95.0
+Desserts,Kesar Pista Ice Cream,1,0,,95.0
+Desserts,Carrot Cake With Cream Cheese Frosting,1,0,(150 gms) Sprinkled with almond crumble. Comes with a side of mini vanilla ... read more,280.0
+Desserts,Newyork Style Baked Cheesecake,1,0,"Completely gelatin free, this sinful cheesecake is served with basil caviar, blueberry compote, ... read more",280.0
+Desserts,Choco Mud Pot,1,0,,440.0
+Desserts,Coffee Ice Cream,1,0,,95.0
+Desserts,Chocolate Ice Cream,1,0,,95.0
+Desserts,Vanilla Ice Cream,1,0,,95.0
+Desserts,Baked Mango Cheesecake,1,0,,280.0
+Desserts,Italian Hot Chocolate,1,0,"Rich, thick, simmering hot and full of real dark chocolate. Our regulars fondly ... read more",220.0
+Desserts,Mango Tres Leches,1,0,,320.0
+Combos,Single Serve Combo - Paneer Makhani with 2 Butter Roti + Chaas,1,0,,329.0
+Combos,Single Serve Combo - Veg Dum Biryani with Raita + Chaas,1,0,,329.0
+Combos,Single Serve Combo - Mexican Hot Pot + Ice Tea,1,0,,329.0
+Combos,Single Serve Combo - Dal Makhani with Jeera Rice & Salad + Chaas,1,0,,329.0
+Combos,Single Serve Combo - Dal Makhani with Onion Kulcha + Chaas,1,0,,329.0
+Combos,Single Serve Combo - Veg Handi with 2 Butter Roti + Chaas,1,0,,329.0

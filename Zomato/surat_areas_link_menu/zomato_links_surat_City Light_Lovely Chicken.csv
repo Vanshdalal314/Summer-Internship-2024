@@ -1,0 +1,54 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Dishes,Lovely Special,0,0,Semi Dry Chicken Gravy,380.0
+Special Dishes,Lovely Special with Cheese,0,0,[Chef's Special] With Bone,410.0
+Soup,Special Chicken Soup,0,0,"Chicken soup is a soup made from chicken, simmered in water, usually with ... read more",210.0
+Starters,Chicken Afghani,0,0,"Grilled strips of marinated chicken cooked in an aghani masala, and wrapped in ... read more",380.0
+Starters,Chilli Chicken,0,0,"Chilli chicken is a sweet, spicy and crispy appetizer, most popular in Indo-Chinese ... read more",340.0
+Starters,Chicken Manchurian,0,0,A delicious and popular Indo-Chinese recipe-chicken Manchurian.Fried chicken pieces in a spicy and ... read more,340.0
+Starters,Chicken Lollipop,0,0,Chinese.,340.0
+Starters,Tandoori Lollipop,0,0,,340.0
+Starters,Punjabi Lollipop,0,0,,380.0
+Starters,Leg Piece,0,0,,190.0
+Starters,Tandoori Chicken,0,0,Tandoori chicken is a chicken dish prepared by roasting chicken marinated in yogurt ... read more,360.0
+Starters,Special Chicken Cheese Tikka,0,0,Cheesy chicken tikka is a party appetizer which just melts in the mouth. ... read more,380.0
+Starters,Special Malai Kebab,0,0,,380.0
+Starters,Chicken Tikka,0,0,A flavourful dish of chicken boneless tikka made with variety of Indian masala.,340.0
+Starters,Haryali Kebab,0,0,,340.0
+Starters,Reshmi Kebab,0,0,,340.0
+Starters,Banjara Kebab,0,0,,340.0
+Starters,Mixed Kebab,0,0,,350.0
+Starters,Special Cheese Malai Tikka,0,0,,410.0
+Starters,Chicken 65,0,0,,340.0
+Starters,Chicken Dana,0,0,,340.0
+Starters,Special Chicken Seekh Kabab,0,0,,340.0
+Starters,Paneer Chilli,1,0,,340.0
+Starters,Paneer Manchurian,1,0,,340.0
+Main Course,Chicken Masala,0,0,"Chicken masala is a simple Indian dish made with chicken, spices, herbs, onions ... read more",325.0
+Main Course,Lemon Chicken,0,0,"Grilled lemon chicken is a tender, juicy and savory grilling recipe that is ... read more",325.0
+Main Course,Special Chicken Chatpata,0,0,Spicy.,495.0
+Main Course,Special Kadhai Chicken,0,0,,325.0
+Main Course,Special Cheese Butter Chicken,0,0,Chicken simmered and cooked in smooth and delicious butter rich tomato gravy and ... read more,495.0
+Main Course,Butter Chicken,0,0,Chicken simmered and cooked in smooth and delicious butter rich tomato gravy.,325.0
+Main Course,Boneless Butter Chicken,0,0,,325.0
+Main Course,Chicken Tikka Masala,0,0,Tandoor and juicy pieces of chicken tikka cooked in red gravy of tomato ... read more,495.0
+Main Course,Chicken Kali Mirch,0,0,,325.0
+Main Course,Paneer Butter Masala,1,0,,325.0
+Main Course,Special Kadai Paneer,1,0,,325.0
+Main Course,Special Paneer Kali Mirch,1,0,,325.0
+Main Course,Special Paneer Chatpata,1,0,,325.0
+Main Course,Special Cheese Butter Masala,1,0,,325.0
+Main Course,Special Cheese Anguri,1,0,,325.0
+Breads,Roti,1,0,,25.0
+Breads,Butter Roti,1,0,,30.0
+Breads,Butter Paratha,1,0,,50.0
+Breads,Chapati,1,0,,16.0
+Breads,Butter Chapati,1,0,,18.0
+Rice and Biryani,Rice,1,0,,110.0
+Rice and Biryani,Boneless Chicken Biryani,0,0,,360.0
+Rice and Biryani,Chicken Biryani,0,0,,360.0
+Rice and Biryani,Gravy Rice,0,0,,199.0
+Fried Rice,Jeera Fried Rice,1,0,,199.0
+Fried Rice,Egg Fried Rice,0,0,,280.0
+Fried Rice,Chicken Fried Rice,0,0,,360.0
+Fried Rice,Chicken Schezwan Fried Rice,0,0,,370.0
+Accompaniment,Papad,1,0,,20.0

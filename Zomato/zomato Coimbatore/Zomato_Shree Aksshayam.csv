@@ -1,0 +1,63 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,Butter Roast Dosa,1,0,"Crispy And Golden Dosa Generously Smeared With Butter, Creating A Classic And Indulgent ... read more",120.0
+South Indian,Sambar Vadai (1 Pc),1,0,Vada is a category of savoury fried snacks native to South India. Vadas ... read more,40.0
+South Indian,Kesari,1,0,It is a sweet Indian food that is common throughout the country. The ... read more,50.0
+South Indian,Roast Dosa,1,0,"Roast dosa is South Indian, fermented crepe made from rice batter and black ... read more",90.0
+South Indian,Ghee Roast Dosa,1,0,"Ghee dosa is South Indian, fermented crepe made from rice batter and black ... read more",110.0
+South Indian,Onion Roast Dosa,1,0,"Onion dosa is South Indian, fermented crepe made from rice batter and black ... read more",110.0
+South Indian,Masala Roast Dosa,1,0,"Masala dosa is South Indian, fermented crepe made from rice batter and black ... read more",110.0
+South Indian,Ghee Masala Roast Dosa,1,0,"Ghee Masala is South Indian, fermented crepe made from rice batter and black ... read more",115.0
+South Indian,Podi Roast Dosa,1,0,"Onion dosa is South Indian, fermented crepe made from rice batter and black ... read more",110.0
+South Indian,Uthappam,1,0,Uthapam is savory pancakes with crispy golden edges and a pillowy soft center ... read more,90.0
+South Indian,Ghee Uthappam,1,0,Ghee Uthapam is savory pancakes cooked with Ghee to have crispy golden edges ... read more,100.0
+South Indian,Onion Uttapam,1,0,Onion Uthapam is savory pancakes cooked with onions all over it and to ... read more,110.0
+South Indian,Podi Uthappam,1,0,Onion Uthapam is savory pancakes cooked with podi all over it and to ... read more,110.0
+Meals & Variety Rice,Arisi Paruppu Sadham,1,0,Traditional South Indian Rice Dish Cooked With A Flavorful Blend Of Rice And ... read more,85.0
+Meals & Variety Rice,Meals - South Indian,1,0,Rice + Dhal + Sambar + Rasam + Kootu + Poriyal + Appalam ... read more,146.0
+Meals & Variety Rice,Mini Meals,1,0,3 Variety Rices + Chapathi + Kootu + Poriyal + Appalam + Pickle,140.0
+Meals & Variety Rice,Sambar Rice,1,0,"Steamed rice mixed with a gravy dish that is usually cooked with lentils, ... read more",75.0
+Meals & Variety Rice,Curd Rice,1,0,"Curd rice, also called yogurt rice, is a dish originating from India. The ... read more",70.0
+Meals & Variety Rice,Rasam Rice,1,0,Steamed Rice mixed with soup of spices traditionally prepared using tamarind juice as ... read more,65.0
+Meals & Variety Rice,Tomato Rice,1,0,"Tomato Rice is a slightly spicy rice dish that is made with tomato, ... read more",65.0
+Biryani & Pulav,Dum Vegetable Biryani,1,0,Veg biryani also known as vegetable biryani is an aromatic rice dish made ... read more,110.0
+Biryani & Pulav,Dum Mushroom Biryani,1,0,"Mushroom biryani is a delicious one pot dish made with rice, mushrooms, masala ... read more",110.0
+Indian Breads,Parotta (2 Pcs),1,0,"Flaky And Layered Flatbread, Served In A Pair, Offering A Delicious And Versatile ... read more",70.0
+Indian Breads,Chappathi (2 Pc),1,0,"Chapathi is a form of roti (bread).The word chapat in marathi means ""flat,"" ... read more",75.0
+Snacks,Mushroom Bun Roll,1,0,Soft And Fluffy Bun Roll Filled With A Savory And Spiced Mixture Of ... read more,40.0
+Snacks,Mushroom Puffs,1,0,,30.0
+Snacks,Onion Bonda (1 Pc),1,0,"Deep-Fried And Crispy Fritter Made With Spiced Gram Flour Batter And Onions, Creating ... read more",15.0
+Snacks,Paneer Bun Roll,1,0,"Soft buns filled with a spicy paneer mixture, rolled and toasted for a ... read more",49.0
+Snacks,Paneer Puff,1,0,"A savory pastry filled with spiced paneer (Indian cottage cheese) mixture, baked until ... read more",49.0
+Snacks,Samosa (1 Pc),1,0,Crispy And Triangular Pastry Filled With A Savory Mixture Of Spiced Potatoes And ... read more,25.0
+Snacks,Sweet Cake (1 Pc),1,0,"A Sweet And Delectable Cake, Offering A Delightful Treat For Those With A ... read more",25.0
+Snacks,Veg Puffs,1,0,,25.0
+Snacks,Vegetable Bun Roll,1,0,"Soft And Fluffy Bun Roll Filled With A Flavorful Mixture Of Vegetables, Creating ... read more",35.0
+Snacks,Curd Vadai (1 Pc),1,0,Dahi Vada is a type of chaat (snack) originating from the Indian subcontinent. ... read more,40.0
+Snacks,Paruppu Vadai,1,0,"Paruppu Vada or dal vada, made with chana dal and a little urad ... read more",15.0
+Snacks,Ragi Vadai (1 Pc),1,0,Ragi Vada is also known as Finger millet is an Indian savoury fried ... read more,20.0
+Snacks,Milagai Bajji (1 Pc),1,0,"Mirchi Bajji or Chilli Bajji are fried, spiced and tangy stuffed green chilies.",15.0
+Snacks,Masala Bonda (1 Pc),1,0,Aloo or Masala Bonda is a deep-fried South Indian potato snack,15.0
+Snacks,Valakkai Bajji (1 Pc),1,0,A simple and easy deep fried fritters recipe made with raw banana or ... read more,15.0
+Snacks,Nenthiram Pala Bajji (1 Pc),1,0,A simple and easy deep fried fritters recipe made with raw banana or ... read more,20.0
+Snacks,Kara Kolukattai (1 Pc),1,0,Kara kolukattai has a soft and chewy texture from the steamed dough and ... read more,20.0
+Snacks,Sweet Kolukattai (1 Pc),1,0,Sweet kolukattai has a soft and chewy texture from the steamed dough and ... read more,20.0
+Snacks,Suyam (1 Pc),1,0,Susiyam is a traditional sweet of South India especially in the state of ... read more,20.0
+Snacks,Adhirasam (1 Pc),1,0,Our traditional Adhirasam is made with the right amount of sweetness from cane ... read more,20.0
+Juices & Milkshakes,Lime Juice,1,0,"Lemon Juice is a simple, refreshing, and healthy drink loaded with bright and ... read more",40.0
+Juices & Milkshakes,Watermelon Juice,1,0,"Homemade watermelon juice is refreshing, pure ? free from additives and loaded with ... read more",70.0
+Juices & Milkshakes,Grape Juice,1,0,Grape juice is obtained from crushing and blending grapes into a liquid.,75.0
+Juices & Milkshakes,Pineapple Juice,1,0,Pineapple juice is a juice made from pressing the natural liquid out from ... read more,75.0
+Juices & Milkshakes,Muskmelon Juice,1,0,"Muskmelon, also called nutmeg melon noted for their musky-scented sweet juicy orange flesh ... read more",75.0
+Juices & Milkshakes,Mosambi Juice,1,0,Mosambi (Citrus limetta) is a cultivar of sweet lime variation. Due to high ... read more,80.0
+Juices & Milkshakes,Apple Juice,1,0,Apple juice is a fruit juice made by the maceration and pressing of ... read more,90.0
+Juices & Milkshakes,Orange Juice,1,0,"Orange juice is a liquid extract of the orange tree fruit, produced by ... read more",90.0
+Juices & Milkshakes,Pomegranate Juice,1,0,Pomegranate juice is a delicious and nutritious drink that can help you stay ... read more,110.0
+Juices & Milkshakes,Rose Milk,1,0,"Coold and refreshing rose milk made with rose syrup, milk & sugar.",60.0
+Juices & Milkshakes,Cold Badam Milk,1,0,"Badam Milk is an Indian milk beverage flavored with ground almonds, cardamom & ... read more",60.0
+Juices & Milkshakes,Vanilla Milkshake,1,0,Vanilla Milkshakes are thick and creamy flavoured shakes fortified with the goodness of ... read more,125.0
+Juices & Milkshakes,Chocolate Milkshake,1,0,Chocolate Milkshakes are thick and creamy flavoured shakes fortified with the goodness of ... read more,125.0
+Juices & Milkshakes,Pista Milkshake,1,0,Pista Milkshakes are thick and creamy flavoured shakes fortified with the goodness of ... read more,125.0
+Juices & Milkshakes,Butterscotch Milkshake,1,0,Butterscotch Milkshakes are thick and creamy flavoured shakes fortified with the goodness of ... read more,150.0
+Juices & Milkshakes,Mango Milkshake,1,0,Mango Milkshakes are thick and creamy flavoured shakes fortified with the goodness of ... read more,150.0
+Juices & Milkshakes,Strawberry Milkshake,1,0,Strawberry Milkshakes are thick and creamy flavoured shakes fortified with the goodness of ... read more,150.0
+Accompaniment,Water Bottle,1,0,,25.0

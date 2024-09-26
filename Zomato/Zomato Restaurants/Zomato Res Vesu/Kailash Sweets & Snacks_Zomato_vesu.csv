@@ -1,0 +1,152 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Diwali Gift Hamper,Royal Delights,1,0,Dates Delights [6 pieces]+American Delights [6 pieces]+Anjeer Delights [6 pieces],800.0
+Bengali Sweets,Angoor Rabdi,1,0,,137.14
+Bengali Sweets,Lachha Rabdi,1,0,,137.14
+Bengali Sweets,Rasmalai [2 Pieces],1,0,,114.29
+Bengali Sweets,Rasgulla [5 Pieces],1,0,,95.23
+Bengali Sweets,Rasgulla [10 Pieces],1,0,,190.48
+Packed Sweets,Khoya Delight [250gm],1,0,,171.43
+Packed Sweets,Khoya Delight [500gm],1,0,,342.86
+Packed Sweets,Khoya Delight [1kg],1,0,,685.71
+Packed Sweets,"Mix Delight Round [9 Pieces, 235 grams]",1,0,Choco Chips Balls [3 pieces]+Cranberry Balls [3 pieces]+Khajur Balls [3 pieces],320.0
+Packed Sweets,"Mix Delight Round [18 Pieces, 450 grams]",1,0,,628.57
+Packed Sweets,Mix Delight Square [9pc] [225gm],1,0,,297.14
+Packed Sweets,Mix Delight Square [18pc] [400gm],1,0,,571.43
+Packed Sweets,Royal Combo Box [350gm],1,0,,514.29
+Packed Sweets,Royal Combo Box [600gm],1,0,,971.43
+Packed Sweets,Mix Delight Square [36pc] [800gm],1,0,,1028.57
+Packed Sweets,Motichoor Ladoo [250gm],1,0,,161.0
+Packed Sweets,Motichoor Ladoo [500gm],1,0,,321.5
+Packed Sweets,Motichoor Ladoo [1kg],1,0,,642.85
+Packed Sweets,Paaye Ladoo [250gm],1,0,,200.0
+Packed Sweets,Paaye Ladoo [500gm],1,0,,400.0
+Packed Sweets,Paaye Ladoo [1kg],1,0,,800.0
+Packed Sweets,Kesar Badam Ghari [1kg],1,0,,822.86
+Packed Sweets,Akhrot Halwa [500gm],1,0,,400.0
+Packed Sweets,Soan Papdi [250gm],1,0,,154.76
+Packed Sweets,Soan Papdi [500gm],1,0,,309.52
+Packed Sweets,Soan Papdi [1kg],1,0,,619.05
+Packed Sweets,Chikki Box 250gmchikki Box [250gm],1,0,,285.71
+Packed Sweets,Milk Cake [250gm],1,0,,178.57
+Packed Sweets,Milk Cake [500gm],1,0,,357.14
+Packed Sweets,Milk Cake [1kg],1,0,,714.28
+Packed Sweets,Kalakand [250gm],1,0,,178.57
+Packed Sweets,Kalakand [500gm],1,0,,357.14
+Packed Sweets,Kalakand [1kg],1,0,,714.28
+Packed Sweets,Kesar Peda [250gm],1,0,,154.29
+Packed Sweets,Kesar Peda [500gm],1,0,,308.57
+Packed Sweets,Kesar Peda [1kg],1,0,,617.14
+Packed Sweets,Sada Peda [250gm],1,0,,142.86
+Packed Sweets,Sada Peda [500gm],1,0,,285.71
+Packed Sweets,Sada Peda [1kg],1,0,,571.43
+Packed Sweets,Chocolate Peda [250gm],1,0,,171.43
+Packed Sweets,Chocolate Peda [500gm],1,0,,342.86
+Packed Sweets,Chocolate Peda [1kg],1,0,,685.71
+Packed Sweets,Dudhi Halwa [250gm],1,0,,172.0
+Packed Sweets,Dudhi Halwa [500gm],1,0,,345.0
+Packed Sweets,Chocolate Burfi [250gm],1,0,,172.0
+Packed Sweets,Chocolate Burfi [500gm],1,0,,345.0
+Packed Sweets,Kaju Katli [250gm],1,0,,275.0
+Packed Sweets,Kaju Katli [500gm],1,0,,550.0
+Packed Sweets,Kaju Katli [1kg],1,0,,1095.0
+Packed Sweets,American Delight [250gm],1,0,,342.86
+Packed Sweets,American Delight [500gm],1,0,,685.71
+Packed Sweets,American Delight [1kg],1,0,,1371.43
+Packed Sweets,Dates Delight [250gm],1,0,,342.86
+Packed Sweets,Dates Delight [500gm],1,0,,685.71
+Packed Sweets,Dates Delight [1kg],1,0,,1371.43
+Packed Sweets,Anjeer Delight [250gm],1,0,,342.86
+Packed Sweets,Anjeer Delight [500gm],1,0,,685.71
+Packed Sweets,Anjeer Delight [1kg],1,0,,1371.43
+Dry Fruit Sweets,Kaju Katli,1,0,,275.0
+Dry Fruit Sweets,Kesar Katli,1,0,,274.29
+Dry Fruit Sweets,Badam Katli,1,0,,280.0
+Dry Fruit Sweets,Strawberry Katli,1,0,,274.29
+Dry Fruit Sweets,Anjeer Roll,1,0,,327.38
+Dry Fruit Sweets,Pista Roll,1,0,,327.38
+Dry Fruit Sweets,Pista Cone,1,0,,327.38
+Dry Fruit Sweets,Anjeer Patra,1,0,,327.38
+Dry Fruit Sweets,Kamal Bhog,1,0,,327.38
+Dry Fruit Sweets,Dryfruit Cutlet,1,0,,327.38
+Dry Fruit Sweets,Royal Cassatta,1,0,,327.38
+Dry Fruit Sweets,Dryfruit Tacos,1,0,,285.71
+Dry Fruit Sweets,American Dryfruit,1,0,,342.86
+Dry Fruit Sweets,Dubai Burfi,1,0,,342.86
+Dry Fruit Sweets,Khajur Paak,1,0,,342.86
+Dry Fruit Sweets,Anjeer Paak,1,0,,342.86
+Dry Fruit Sweets,Apricot Laddu,1,0,,357.14
+Dry Fruit Sweets,Cranberry Laddu,1,0,,285.71
+Dry Fruit Sweets,Vanilla Chocochips Laddu,1,0,,285.71
+Dry Fruit Sweets,Rose Almond Laddu,1,0,,314.29
+Dry Fruit Sweets,Swiss Burfi,1,0,,357.14
+Dry Fruit Sweets,Australian Truffle,1,0,,357.14
+Dry Fruit Sweets,Pista Rocher,1,0,,342.86
+Dry Fruit Sweets,Vanilla Rocher,1,0,,342.86
+Dry Fruit Sweets,Strawberry Rocher,1,0,,342.86
+Dry Fruit Sweets,Shahi Badam,1,0,,327.38
+Dry Fruit Sweets,Anjeer Litchi,1,0,,327.38
+Dry Fruit Sweets,Pineapple Laddu,1,0,,314.29
+Dry Fruit Sweets,Mango Delight,1,0,,357.14
+Dry Fruit Sweets,Pista Akhrot,1,0,,342.86
+Dry Fruit Sweets,Strawberry Sandwich,1,0,,327.38
+Dry Fruit Sweets,Pineapple Vati,1,0,,327.38
+Dry Fruit Sweets,Kaju Gulkand Katori,1,0,,327.38
+Dry Fruit Sweets,Dark Chocolate Almond,1,0,,357.14
+Dry Fruit Sweets,White Chocolate Almond,1,0,,357.14
+Ghee Sweets,Gulab Jamun [5 Pieces],1,0,,85.71
+Ghee Sweets,Gulab Jamun [10 Pieces],1,0,,171.43
+Ghee Sweets,Special Dryfruit Jamun [2 Pieces],1,0,,41.14
+Ghee Sweets,Kala Jamun [2 Piece],1,0,,41.14
+Ghee Sweets,Motichur Laddu,1,0,,161.0
+Ghee Sweets,Besan Laddu,1,0,,172.0
+Ghee Sweets,Pista Ghari,1,0,,237.25
+Ghee Sweets,Paaye Laddu,1,0,,200.0
+Ghee Sweets,Soan Papdi,1,0,,154.76
+Ghee Sweets,Soan Halwa,1,0,,208.33
+Ghee Sweets,Karachi Halwa,1,0,,357.14
+Ghee Sweets,Imarti,1,0,,166.66
+Ghee Sweets,Sweet Bundi,1,0,,114.29
+Ghee Sweets,Bundi Laddu,1,0,,161.0
+Mixed Sweet,Mixed Dryfruit Sweets Box,1,0,,285.71
+Mixed Sweet,Mixed Mawa Sweets Box,1,0,,171.43
+Samosa and Kachori,Kachori [2 Pieces],1,0,,41.14
+Samosa and Kachori,Samosa [2 Pieces],1,0,,42.85
+Samosa and Kachori,Chole Tikki,1,0,Jain preparation not available.,74.29
+Samosa and Kachori,Ragda Patties,1,0,Jain preparation not available.,68.57
+Samosa and Kachori,Ragda Kachori,1,0,Jain preparation not available.,68.57
+Samosa and Kachori,Ragda Samosa,1,0,Jain preparation not available.,68.57
+Samosa and Kachori,Potli Samosa [2 Pieces],1,0,[Max 5 Plate] Please confirm the availability of this item by calling the ... read more,68.57
+Frankies,Mayo Frankie,1,0,Jain Preparation Not Available,65.0
+Frankies,Schezwan Frankie,1,0,Jain Preparation Not Available,60.0
+Frankies,Schezwan Cheese Frankie,1,0,Jain Preparation Not Available,75.0
+Frankies,Mayo Schezwan Cheese Frankie,1,0,Jain Preparation Not Available,85.0
+Frankies,Veg Frankie,1,0,Jain preparation not available.,60.0
+Frankies,Veg Cheese Frankie,1,0,Jain preparation not available.,65.0
+Drinks (Beverages),Coco [200 ml],1,0,,45.71
+Drinks (Beverages),Kaju Coco [200 ml],1,0,,80.0
+Drinks (Beverages),Dryfruit Coco [200 ml],1,0,,80.0
+Drinks (Beverages),Lassi [200 ml],1,0,,48.0
+Drinks (Beverages),Rose Lassi [200 ml],1,0,,57.14
+Drinks (Beverages),Dryfruit Lassi [200 ml],1,0,,80.0
+Drinks (Beverages),Milk Masala [200 ml],1,0,,80.0
+New Sweets,Walnut Delight,1,0,,595.24
+New Sweets,Anjeer Tart,1,0,,476.19
+New Sweets,Badam Floral,1,0,,476.19
+New Sweets,Choco Delight,1,0,,476.19
+New Sweets,Anjeer Kali,1,0,,476.19
+New Sweets,Anjeer Supreme,1,0,,476.19
+New Sweets,Tacos Delight,1,0,,476.19
+New Sweets,Oreo Crunch,1,0,,357.14
+New Sweets,Roasted Badam Sweet,1,0,,357.14
+New Sweets,Mathura Peda,1,0,,178.57
+New Sweets,Orange Karachi Halwa,1,0,,208.33
+New Sweets,Gulab Barfi,1,0,,178.57
+Namkeen and Cookies,Dry Fruit Kachori [500 grams],1,0,,285.71
+Ganesh Festival Specials,Motichur Modak,1,0,,178.57
+Snacks,Ragada Samosa,1,0,,68.0
+Snacks,Ragda Kachori,1,0,Jain preparation not available.,68.0
+Snacks,Dahi Vada [2 Vada],1,0,,74.0
+Snacks,Dahi Kachori,1,0,,74.0
+Snacks,"Paneer Pakoda [5 Plates, 2 Pieces]",1,0,Please confirm the availability of this item by calling the restaurant if you ... read more,71.0
+Snacks,Paneer Lifafa,1,0,,71.0
+IPL Combos,Samosa [2 Pieces]+Kachori [2 Pieces],1,0,,82.0

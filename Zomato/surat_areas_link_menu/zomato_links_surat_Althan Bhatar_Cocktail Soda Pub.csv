@@ -1,0 +1,98 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cocktail Soda,Jeera Masala Soda,1,0,,30.0
+Cocktail Soda,Kashmiri Pudina Masala Soda,1,0,,30.0
+Cocktail Soda,Kashmiri Green Apple Soda,1,0,,30.0
+Cocktail Soda,Kashmiri Kalakhatta Soda,1,0,,30.0
+Cocktail Soda,Kashmiri Kachhikerry soda,1,0,,30.0
+Cocktail Soda,Kashmiri Pineapple Soda,1,0,,30.0
+Cocktail Soda,Lemon Blueberry Soda,1,0,,30.0
+Cocktail Soda,Lemon Kiwi Soda,1,0,,30.0
+Cocktail Soda,Kashmiri Orange Soda,1,0,,30.0
+Cocktail Soda,Fruit Beer,1,0,,30.0
+Cocktail Soda,Lemon Soda,1,0,,30.0
+Cocktail Soda,Lemon Guava Soda,1,0,,30.0
+Cocktail Soda,Lemon Apple Soda,1,0,,30.0
+Cocktail Soda,Kashmiri Falsa Soda,1,0,,30.0
+Cocktail Soda,Lemon Lychee Soda,1,0,,30.0
+Cocktail Soda,Fuljar Soda,1,0,,40.0
+Cocktail Soda,Pineapple Tukda Soda,1,0,,40.0
+Offers,Buy 1 Cold Coffee and Get 1 Cold Coffee Free,1,0,,199.0
+Offers,Buy 1 Milkshake and Get 1 Milkshake Free,1,0,,229.0
+Offers,Buy 1 Mocktail and Get 1 Mocktail Free,1,0,,219.0
+Combos,Veg Cheese Burger with French Fries and Soda,1,0,,179.0
+Combos,Cheese Margherita Pizza with Fries and Soda,1,0,,249.0
+Combos,Veg Cheese Grilled Sandwich with Fries and Soda,1,0,,199.0
+Combos,Veg Cheese Timepass with Fries and Soda,1,0,,149.0
+Combos,Cheese Garlic Bread with Fries and Soda,1,0,,199.0
+Combos,Cheese Wrap with Fries and Soda,1,0,,199.0
+Pizza,Cheese Margherita Pizza [8 inches],1,0,,149.0
+Pizza,Vegetable Bite Pizza [8 inches],1,0,,199.0
+Pizza,Mexican Delight Pizza [8 inches],1,0,,129.0
+Pizza,Exotic Pizza [8 inches],1,0,,249.0
+Pizza,Tandoori Paneer Pizza [8 inches],1,0,,279.0
+Burgers and Sandwiches,Veg Burger,1,0,,79.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,99.0
+Burgers and Sandwiches,Double Decker Burger,1,0,,149.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,89.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,109.0
+Burgers and Sandwiches,Veg Cheese Mayonnaise Sandwich,1,0,,129.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,149.0
+Burgers and Sandwiches,Tandoori Paneer Sandwich,1,0,,189.0
+Burgers and Sandwiches,Bombay Club Sandwich,1,0,,229.0
+Wraps,Aloo Tikki Wrap,1,0,,149.0
+Wraps,Paneer Tikka Wrap,1,0,,199.0
+Maggi,Masala Maggi,1,0,,99.0
+Maggi,Cheese Maggi,1,0,,129.0
+Snacks,Regular French Fries,1,0,,79.0
+Snacks,Cheese French Fries,1,0,,99.0
+Snacks,Cheese Garlic Bread,1,0,,129.0
+Snacks,Supreme Garlic Bread,1,0,,149.0
+Snacks,Chilli Cheese Garlic Bread,1,0,,139.0
+Snacks,Bruschetta,1,0,,169.0
+Snacks,Veg Cheese Timepass,1,0,,89.0
+Snacks,Chilli Cheese Timepass,1,0,,99.0
+Snacks,Tandoori Paneer Timepass,1,0,,129.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,129.0
+Drinks (Beverages),Kiwi Milkshake,1,0,,129.0
+Drinks (Beverages),Mango Milkshake,1,0,,129.0
+Drinks (Beverages),Pineapple Milkshake,1,0,,129.0
+Drinks (Beverages),Paan Milkshake,1,0,,149.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,149.0
+Drinks (Beverages),Chocolate Banana Milkshake,1,0,,169.0
+Drinks (Beverages),Strawberry Banana Milkshake,1,0,,169.0
+Drinks (Beverages),Blue Heaven Mocktail,1,0,[Non Alcoholic],150.0
+Drinks (Beverages),Strawberry Lemonade,1,0,[Non Alcoholic],110.0
+Drinks (Beverages),Kiwi Lemonade,1,0,[Non Alcoholic],110.0
+Drinks (Beverages),Mango Delight Mocktail,1,0,[Non Alcoholic],110.0
+Drinks (Beverages),Paan Lemonade,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Pineapple Lemonade,1,0,[Non Alcoholic],110.0
+Drinks (Beverages),Classic Cold Coffee,1,0,,149.0
+Drinks (Beverages),Choco Frappe,1,0,,149.0
+Drinks (Beverages),Mocha Frappe,1,0,,149.0
+Drinks (Beverages),Classic Mojito,1,0,[Non Alcoholic],129.0
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],129.0
+Drinks (Beverages),Strawberry Mojito,1,0,[Non Alcoholic],129.0
+Drinks (Beverages),Paan Mojito,1,0,[Non Alcoholic],149.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,129.0
+Drinks (Beverages),Strawberry Iced Tea,1,0,,129.0
+Drinks (Beverages),Regular Coffee [165 l],1,0,,60.0
+Drinks (Beverages),Cappuccino [200 ml],1,0,,99.0
+Drinks (Beverages),Caffe Latte [200 ml],1,0,,99.0
+Drinks (Beverages),Cafe Mocha [200 ml],1,0,,110.0
+Drinks (Beverages),Irish Cappuccino [200 ml],1,0,,119.0
+Drinks (Beverages),Hazelnut Cappuccino [200 ml],1,0,,119.0
+Drinks (Beverages),Special Chai [165 ml],1,0,,60.0
+Drinks (Beverages),Lemon Tea [165 ml],1,0,,60.0
+Drinks (Beverages),Green Tea [165 ml],1,0,,60.0
+Drinks (Beverages),Lemon Ginger Pudina Tea [165 ml],1,0,Without milk.,70.0
+Fresh Juices,Mosambi Juice,1,0,,80.0
+Cocktail Flots,Falsa Flots,1,0,,60.0
+Cocktail Flots,Stroberry Flots,1,0,,60.0
+Cocktail Flots,Blueberry Flots,1,0,,60.0
+Cocktail Flots,Kiwi Flots,1,0,,60.0
+Cocktail Flots,Painepple Flots,1,0,,60.0
+Cocktail Flots,Orange Flots,1,0,,60.0
+Momos,Classic Momos [6 Pieces],1,0,,99.0
+Momos,Classic Cheesy Momos [6 Pieces],1,0,,119.0
+Momos,Schezwan Momos [6 Pieces],1,0,,109.0
+Momos,Schezwan with Cheese Momos [6 Pieces],1,0,,129.0

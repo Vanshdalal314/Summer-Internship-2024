@@ -1,0 +1,90 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Classic Veg Burger Combo,1,0,Classic Veg Burger+French Fries+Any Mojito [Non Alcoholic],219.0
+Combos,Veg Cheese Grilled Sandwich Combo,1,0,Veg Cheese Grilled Sandwich+French Fries+Any Mojito [Non Alcoholic],269.0
+Combos,Any One Pasta Combo,1,0,Any One Pasta From Menu+French Fries+Any Mojito [Non Alcoholic],279.0
+Combos,Veg Exotic Pizza Combo,1,0,Veg Exotic Pizza+Cheese Garlic Bread+French Fries+Any Mojito [Non Alcoholic],419.0
+Combos,Any One Pasta Combo,1,0,Any One Pasta From Menu+Cappucccino+Cold Coffee,249.0
+Combos,Classic Litti Chokha Combo,1,0,Classic Litti Chokha/Fried Litti Chokha+1 Any Mojito+Desserts,219.0
+Combos,Mojito Combo,1,0,Mojito [Non Alcoholic]+French Fries/Garlic Bread,159.0
+Breads,1 Regular Stuffed Sattu Paratha,1,0,,149.0
+Breads,1 Regular Stuffed Paneer Sattu Paratha,1,0,,169.0
+Pizza and Pasta,Margherita Pizza,1,0,Neapolitan pizza with special sauce and cheese.,149.0
+Pizza and Pasta,Jalapeno and Onion Cheese Pizza,1,0,"Jalapeno, onion, cheese and sauce.",169.0
+Pizza and Pasta,Cheese Golden Corn Pizza,1,0,Loved american corns with cheese and sauce.,179.0
+Pizza and Pasta,Hot To Hell Cheese Pizza,1,0,Spicy itna ki yaad dila de jitna.,199.0
+Pizza and Pasta,Veg Exotica Pizza,1,0,"Olives, jalapeno, capsicum, red paprika, onion with sauce and cheese.",239.0
+Pizza and Pasta,Ultimate Paneer Peri Peri Pizza,1,0,"Paneer capsicum, red paprika with special sauce, spices and cheese.",249.0
+Pizza and Pasta,Paneer Makhani Burst Pizza,1,0,"Ther burst makhani tossed with paneer, capsicum, onion, corn and cheese.",299.0
+Pizza and Pasta,Mac and Cheese Burst Pizza Pizza,1,0,Pizza topped with cheesy creamy white sauce pasta and Italian herbs and lots ... read more,339.0
+Pizza and Pasta,Momos Cheese Bite Pizza,1,0,The best ever fusion with special Tibetan sauce and topped momos.,359.0
+Pizza and Pasta,Roller Coaster Special Arrabbiata Pasta,1,0,[Chef's Special],119.0
+Pizza and Pasta,Alfredo Pasta,1,0,,119.0
+Pizza and Pasta,Pink Sauce Pasta,1,0,,129.0
+Pizza and Pasta,Peri Peri Pasta,1,0,,129.0
+Pizza and Pasta,Magic Maggi Masala Pasta,1,0,,129.0
+Burgers and Sandwiches,Classic Veg Burger,1,0,,89.0
+Burgers and Sandwiches,Peri Peri Burger,1,0,,99.0
+Burgers and Sandwiches,Spicy Chilli Burger,1,0,,99.0
+Burgers and Sandwiches,Barbeque Veg Burger,1,0,,119.0
+Burgers and Sandwiches,Schezwan Queen Burger,1,0,,119.0
+Burgers and Sandwiches,Tikki Burger,1,0,,129.0
+Burgers and Sandwiches,Mexican King Burger,1,0,,129.0
+Burgers and Sandwiches,Veg Cheese Grilled Burger,1,0,,159.0
+Burgers and Sandwiches,Paneer Makhani Burger,1,0,,159.0
+Burgers and Sandwiches,Maharaja Paneer Burger,1,0,[Jain Preparation],179.0
+Burgers and Sandwiches,Mad Momos Burger,1,0,,189.0
+Burgers and Sandwiches,Cheesy Saucy Crazy Burger,1,0,,189.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,79.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,99.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,,119.0
+Burgers and Sandwiches,Cheese Burst Melt Grilled Sandwich,1,0,,149.0
+Burgers and Sandwiches,Paneer Supreme Cheese Sandwich,1,0,,169.0
+Snacks,Roller Coaster Special Classic Litti Chokha,1,0,[Chef's Special],159.0
+Snacks,Roller Coaster Special Cheese Loaded Kulhad Pizza,1,0,[Chef's Special],239.0
+Snacks,Roller Coaster Special Cheesy Nachos,1,0,[Chef's Special],159.0
+Snacks,Regular Classic Litti Chokha [2 Pieces],1,0,,159.0
+Snacks,Regular Fried Litti Chokha [2 Pieces],1,0,,159.0
+Snacks,Regular Paneer Fried Litti Chokha [2 Pieces],1,0,,179.0
+Snacks,Salted French Fries,1,0,,119.0
+Snacks,Peri Peri Fries,1,0,,149.0
+Snacks,Cheese Masala Fries,1,0,,179.0
+Snacks,Classic Cheese Garlic Bread [3 Pieces],1,0,,129.0
+Snacks,Cheese Hot Chilli Garlic Bread [3 Pieces],1,0,,149.0
+Snacks,Mexican Treat Garlic Bread [3 Pieces],1,0,,159.0
+Snacks,Crunchy Veg Nachos,1,0,,129.0
+Snacks,Potato Shots [6 Pieces],1,0,Served with dip.,99.0
+Snacks,Cheese Shots [6 Pieces],1,0,Served with dip.,159.0
+Snacks,Maggi Pocket [4 Pieces],1,0,Served with dip.,159.0
+Snacks,Pizza Puffs [4 Pieces],1,0,Served with dip.,159.0
+Maggi,Masala Maggi,1,0,,89.0
+Maggi,Hot Spicy Maggi,1,0,,119.0
+Maggi,Veggie Masala Maggi,1,0,,129.0
+Maggi,Mexican Corn Maggi,1,0,,149.0
+Momos,Roller Coaster Special Cheese Loaded Kulhad Momos,1,0,[Chef's Special],209.0
+Momos,Veg Fried Momos [6 Pieces],1,0,,159.0
+Momos,Veg Cheesy Gravy Momos [6 Pieces],1,0,,209.0
+Rolls,Roller Coaster Special Paneer Kathi Roll,1,0,[Chef's Special],129.0
+Rolls,Veg Kathi Roll,1,0,,99.0
+Rolls,Tandoori Kathi Roll,1,0,,119.0
+Rolls,Schezwan Queen Kathi Roll,1,0,,119.0
+Rolls,Barbeque King Kathi Roll,1,0,,119.0
+Accompaniments,Mayonnaise Dip,1,0,,39.0
+Accompaniments,Peri Peri Dip,1,0,,39.0
+Drinks (Beverages),Gold Latte Cold Coffee,1,0,,89.0
+Drinks (Beverages),Mocha Cold Coffee,1,0,,89.0
+Drinks (Beverages),French Vanila Cold Coffee,1,0,,89.0
+Drinks (Beverages),Hazelnut Cold Coffee,1,0,,119.0
+Drinks (Beverages),Blueberry Gold Cold Coffee,1,0,,119.0
+Drinks (Beverages),Cappuccino Cold Coffee,1,0,,129.0
+Drinks (Beverages),Classic Litchi Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Fabulous Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Overtake Mint Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Tangy Mango Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Orange Cindrella Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Pineapple Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Thor Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Classic Hot Tea,1,0,,35.0
+Drinks (Beverages),Classic Hot Coffee,1,0,,39.0
+Drinks (Beverages),Classic Leman Tea,1,0,,39.0
+Drinks (Beverages),Hot Chocolate,1,0,,69.0
+Drinks (Beverages),Hot Mocha Chocolate,1,0,,69.0

@@ -1,0 +1,190 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Appetizer(200 Ml),Lassi (Salty),1,0,,99.0
+Appetizer(200 Ml),Lassi (Sweet),1,0,,99.0
+Appetizer(200 Ml),Mineral Water (Mrp+Sc),1,0,,20.0
+Appetizer(200 Ml),Rajwadi Lassi,1,0,,140.0
+Soup(300 Ml),Cream Of Tomato Soup,1,0,,160.0
+Soup(300 Ml),Cream Of Veg. Soup,1,0,,160.0
+Soup(300 Ml),Hot & Sour Soup,1,0,,160.0
+Soup(300 Ml),Lemon Coriander Soup,1,0,,160.0
+Soup(300 Ml),Manchow Soup,1,0,,160.0
+Soup(300 Ml),Ministrone Soup,1,0,,155.0
+Soup(300 Ml),Mushroom Soup,1,0,,160.0
+Soup(300 Ml),Sweet Corn Soup(Plain),1,0,,155.0
+Soup(300 Ml),Sweet Corn Veg .Soup,1,0,,155.0
+Chainese Starter(350 Gm),Babycorn Chilly(Dry),1,0,,250.0
+Chainese Starter(350 Gm),Crispy Veg.,1,0,,255.0
+Chainese Starter(350 Gm),Mushroom Chilly,1,0,,260.0
+Chainese Starter(350 Gm),Paneer 65,1,0,,270.0
+Chainese Starter(350 Gm),Paneer Chilly (Dry),1,0,,270.0
+Chainese Starter(350 Gm),Schezwan Manchurian(Dry),1,0,,250.0
+Chainese Starter(350 Gm),Veg. 65,1,0,,255.0
+Chainese Starter(350 Gm),Veg.Lolipop,1,0,,255.0
+Chainese Starter(350 Gm),Veg.Manchurian(Dry),1,0,,245.0
+Tandoor Starter(8 Pcs),Corn Tikki(Fried),1,0,,250.0
+Tandoor Starter(8 Pcs),Paneer Hariyali Tikka,1,0,,270.0
+Tandoor Starter(8 Pcs),Paneer Tikka Dry,1,0,,270.0
+Tandoor Starter(8 Pcs),Veg.Hara Bhara Kabab(Fried),1,0,,250.0
+Punjabi Dishes(350 Gm),Alu Mutter,1,0,,199.0
+Punjabi Dishes(350 Gm),Alu Palak,1,0,,199.0
+Punjabi Dishes(350 Gm),Baby Corn Butter Masala,1,0,,240.0
+Punjabi Dishes(350 Gm),Baby Corn Hara Masala,1,0,,240.0
+Punjabi Dishes(350 Gm),Baby Corn Masala,1,0,,240.0
+Punjabi Dishes(350 Gm),Chana Masala,1,0,,199.0
+Punjabi Dishes(350 Gm),Chana Paneer,1,0,,220.0
+Punjabi Dishes(350 Gm),Cheese Anguri(Sweet),1,0,,270.0
+Punjabi Dishes(350 Gm),Cheese Butter Masala,1,0,,260.0
+Punjabi Dishes(350 Gm),Cheese Corn Palak,1,0,,225.0
+Punjabi Dishes(350 Gm),Cheese Corn Tomato,1,0,,225.0
+Punjabi Dishes(350 Gm),Cheese Garlik Palak,1,0,,225.0
+Punjabi Dishes(350 Gm),Cheese Palak,1,0,,220.0
+Punjabi Dishes(350 Gm),Cheese Paneer Bt. Masala,1,0,,260.0
+Punjabi Dishes(350 Gm),Corn Palak,1,0,,199.0
+Punjabi Dishes(350 Gm),Dal Fry Butter,1,0,,160.0
+Punjabi Dishes(350 Gm),Dal Fry,1,0,,150.0
+Punjabi Dishes(350 Gm),Dal Palak,1,0,,160.0
+Punjabi Dishes(350 Gm),Dal Tadka,1,0,,170.0
+Punjabi Dishes(350 Gm),Dum Alu Punjabi,1,0,,230.0
+Punjabi Dishes(350 Gm),Garlic Palak,1,0,,210.0
+Punjabi Dishes(350 Gm),Green Peace Masala,1,0,,199.0
+Punjabi Dishes(350 Gm),Kaju Balti,1,0,,260.0
+Punjabi Dishes(350 Gm),Kaju Curry,1,0,,270.0
+Punjabi Dishes(350 Gm),Kaju Handi,1,0,,260.0
+Punjabi Dishes(350 Gm),Kaju Kadai,1,0,,260.0
+Punjabi Dishes(350 Gm),Kaju Khoya (Sweet),1,0,,270.0
+Punjabi Dishes(350 Gm),Kaju Navratna(Seweet),1,0,,260.0
+Punjabi Dishes(350 Gm),Kaju Tawa,1,0,,260.0
+Punjabi Dishes(350 Gm),Kashmiri Dum Alu (Sweet),1,0,,230.0
+Punjabi Dishes(350 Gm),Mix Vegetable,1,0,,199.0
+Punjabi Dishes(350 Gm),Mushroom Baby Corn Masala,1,0,,250.0
+Punjabi Dishes(350 Gm),Mushroom Butter Masala,1,0,,245.0
+Punjabi Dishes(350 Gm),Mushroom Masala,1,0,,240.0
+Punjabi Dishes(350 Gm),Mushroom Mutter Masala,1,0,,240.0
+Punjabi Dishes(350 Gm),Mushroom Paneer Masala,1,0,,250.0
+Punjabi Dishes(350 Gm),Navratan Korma(Sweet),1,0,,249.0
+Punjabi Dishes(350 Gm),Palak Mutter,1,0,,199.0
+Punjabi Dishes(350 Gm),Plain Palak,1,0,,199.0
+Punjabi Dishes(350 Gm),Sp. Kaju Mashroom Masala,1,0,,270.0
+Punjabi Dishes(350 Gm),Sp. Veg. Topaz(Signature Dish),1,0,,260.0
+Punjabi Dishes(350 Gm),Sp.Kaju Angara,1,0,,270.0
+Punjabi Dishes(350 Gm),Sp.Kaju Butter Masala,1,0,,270.0
+Punjabi Dishes(350 Gm),Sp.Kaju Masala,1,0,,270.0
+Punjabi Dishes(350 Gm),Sp.Veg Anagara,1,0,,250.0
+Punjabi Dishes(350 Gm),Sp.Veg Chatpata,1,0,,250.0
+Punjabi Dishes(350 Gm),Sp.Veg Kheema Masala,1,0,,250.0
+Punjabi Dishes(350 Gm),Sp.Veg. Handi,1,0,,240.0
+Punjabi Dishes(350 Gm),Sp.Veg. Hydrabadi,1,0,,240.0
+Punjabi Dishes(350 Gm),Sp.Veg. Kolhapuri,1,0,,240.0
+Punjabi Dishes(350 Gm),Sp.Veg. Tawa Masala,1,0,,240.0
+Punjabi Dishes(350 Gm),Sp.Veg. Toofani,1,0,,240.0
+Punjabi Dishes(350 Gm),Sp.Veg.Kadai,1,0,,240.0
+Punjabi Dishes(350 Gm),Sp.Veg.Patiyala,1,0,,240.0
+Punjabi Dishes(350 Gm),Sukhi Bhaji,1,0,,199.0
+Punjabi Dishes(350 Gm),Veg. Jaipuri,1,0,,240.0
+Punjabi Dishes(350 Gm),Veg.Diwani Handi,1,0,,250.0
+Punjabi Dishes(350 Gm),Veg.Lasuni,1,0,,250.0
+Punjabi Dishes(350 Gm),Veg.Makhanwala,1,0,,240.0
+Punjabi Dishes(350 Gm),Veg.Silsila,1,0,,250.0
+Punjabi Dishes(350 Gm),Veg.Tawa Mahefil,1,0,,250.0
+Kofta Dishes(350 Gm),Cheese Kofta,1,0,,250.0
+Kofta Dishes(350 Gm),Italian Kofta,1,0,,250.0
+Kofta Dishes(350 Gm),Kadai Kofta,1,0,,250.0
+Kofta Dishes(350 Gm),Kaju Kofta,1,0,,260.0
+Kofta Dishes(350 Gm),Kashmiri Kofta (Sweet),1,0,,250.0
+Kofta Dishes(350 Gm),Malai Kofta,1,0,,250.0
+Kofta Dishes(350 Gm),Nargis Kofta,1,0,,250.0
+Kofta Dishes(350 Gm),Navratan Kofta,1,0,,260.0
+Kofta Dishes(350 Gm),Veg. Kofta,1,0,,240.0
+Paneer Dishes(350 Gm),Balti Paneer,1,0,,260.0
+Paneer Dishes(350 Gm),Kaju Paneer,1,0,,260.0
+Paneer Dishes(350 Gm),Palak Paneer,1,0,,250.0
+Paneer Dishes(350 Gm),Paneer Bhurjee,1,0,,265.0
+Paneer Dishes(350 Gm),Paneer Butter Masala,1,0,,260.0
+Paneer Dishes(350 Gm),Paneer Handi,1,0,,260.0
+Paneer Dishes(350 Gm),Paneer Hara Masala,1,0,,250.0
+Paneer Dishes(350 Gm),Paneer Haydrabadi,1,0,,255.0
+Paneer Dishes(350 Gm),Paneer Kadai,1,0,,260.0
+Paneer Dishes(350 Gm),Paneer Korma,1,0,,250.0
+Paneer Dishes(350 Gm),Paneer Mutter,1,0,,250.0
+Paneer Dishes(350 Gm),Paneer Nizamee,1,0,,260.0
+Paneer Dishes(350 Gm),Paneer Pasanda,1,0,,260.0
+Paneer Dishes(350 Gm),Paneer Patiyala,1,0,,260.0
+Paneer Dishes(350 Gm),Paneer Tikka Masala,1,0,,260.0
+Paneer Dishes(350 Gm),Paneer Toofani,1,0,,260.0
+Paneer Dishes(350 Gm),Shahi Paneer,1,0,,250.0
+Paneer Dishes(350 Gm),Sp. Paneer Topaz(Signature Dish),1,0,,280.0
+Paneer Dishes(350 Gm),Sp.Paneer Angara,1,0,,270.0
+Paneer Dishes(350 Gm),Sp.Paneer Chatpata,1,0,,270.0
+Paneer Dishes(350 Gm),Sp.Paneer Jaljala,1,0,,270.0
+Paneer Dishes(350 Gm),Sp.Paneer Lababdar,1,0,,270.0
+Paneer Dishes(350 Gm),Sp.Paneer Lasuni,1,0,,270.0
+Paneer Dishes(350 Gm),Sp.Paneer Laziz,1,0,,270.0
+Paneer Dishes(350 Gm),Sp.Paneer Pahadi,1,0,,270.0
+Paneer Dishes(350 Gm),Sp.Paneer Silsila,1,0,,270.0
+Paneer Dishes(350 Gm),Sp.Paneer Tawa Mahefil,1,0,,270.0
+Paneer Dishes(350 Gm),Tava Paneer,1,0,,260.0
+Chinese Main Course(350 Gm),American Choupsey,1,0,,230.0
+Chinese Main Course(350 Gm),Baby Corn Chilly(Gravy),1,0,,230.0
+Chinese Main Course(350 Gm),Chinese Bhel,1,0,,230.0
+Chinese Main Course(350 Gm),Combination Fry Rice,1,0,,220.0
+Chinese Main Course(350 Gm),Manchurian Fry Rice,1,0,,199.0
+Chinese Main Course(350 Gm),Mumbai Bhel,1,0,,230.0
+Chinese Main Course(350 Gm),Mushroom Fry Rice,1,0,,199.0
+Chinese Main Course(350 Gm),Paneer Chilly (Gravy),1,0,,235.0
+Chinese Main Course(350 Gm),Schezwan Fry Rice,1,0,,220.0
+Chinese Main Course(350 Gm),Sezwan Fry Noodles,1,0,,210.0
+Chinese Main Course(350 Gm),Singapuri Fry Noodles,1,0,,210.0
+Chinese Main Course(350 Gm),Singapuri Fry Rice,1,0,,210.0
+Chinese Main Course(350 Gm),Sp Topaz Fry Rice,1,0,,225.0
+Chinese Main Course(350 Gm),Triple Fry Rice,1,0,,230.0
+Chinese Main Course(350 Gm),Veg Fry Rice,1,0,,199.0
+Chinese Main Course(350 Gm),Veg Hakka Noodles,1,0,,210.0
+Chinese Main Course(350 Gm),Veg.Manchurian (Gravy),1,0,,220.0
+Tandoori(Per Pc),Alu Parotha,1,0,,115.0
+Tandoori(Per Pc),Butter Kulcha,1,0,,50.0
+Tandoori(Per Pc),Butter Nan,1,0,,50.0
+Tandoori(Per Pc),Butter Parotha,1,0,,45.0
+Tandoori(Per Pc),Butter Roti,1,0,,38.0
+Tandoori(Per Pc),Cheese Garlic Nan,1,0,,115.0
+Tandoori(Per Pc),Cheese Garlik Kulcha,1,0,,120.0
+Tandoori(Per Pc),Cheese Kulcha,1,0,,115.0
+Tandoori(Per Pc),Cheese Nan,1,0,,105.0
+Tandoori(Per Pc),Garlic Kulcha,1,0,,115.0
+Tandoori(Per Pc),Garlic Nan,1,0,,105.0
+Tandoori(Per Pc),Kulcha,1,0,,47.0
+Tandoori(Per Pc),Nan,1,0,,47.0
+Tandoori(Per Pc),Parotha,1,0,,42.0
+Tandoori(Per Pc),Roti,1,0,,35.0
+Tandoori(Per Pc),Stuff Kulcha,1,0,,115.0
+Tandoori(Per Pc),Stuff Nan,1,0,,115.0
+Tandoori(Per Pc),Stuff Parotha,1,0,,115.0
+Rice(350 Gm),Jeera Rice,1,0,,150.0
+Rice(350 Gm),Kaju Pulao,1,0,,225.0
+Rice(350 Gm),Kashmiri Pulao (Sweet),1,0,,220.0
+Rice(350 Gm),Peas Pulao,1,0,,199.0
+Rice(350 Gm),Steam Rice,1,0,,130.0
+Rice(350 Gm),Veg Cheese Pulao,1,0,,220.0
+Rice(350 Gm),Veg Haidrabadi Biryani,1,0,,220.0
+Rice(350 Gm),Veg Pulao,1,0,,199.0
+Rice(350 Gm),Veg.Biryani,1,0,,220.0
+Rice(350 Gm),Veg.Handi Biryani,1,0,,230.0
+Raita/Salad(Per Plate),Bundi Raita,1,0,,90.0
+Raita/Salad(Per Plate),Butter Milk,1,0,,45.0
+Raita/Salad(Per Plate),Cheese Masala Papad,1,0,,55.0
+Raita/Salad(Per Plate),Curd,1,0,,85.0
+Raita/Salad(Per Plate),Dahi Bundi(Sweet),1,0,,99.0
+Raita/Salad(Per Plate),Green Salad,1,0,,99.0
+Raita/Salad(Per Plate),Masala Butter Milk,1,0,,55.0
+Raita/Salad(Per Plate),Masala Papad,1,0,,45.0
+Raita/Salad(Per Plate),Papad (Fried),1,0,,35.0
+Raita/Salad(Per Plate),Papad (Roasted),1,0,,32.0
+Raita/Salad(Per Plate),Pineapple Raita,1,0,,99.0
+Raita/Salad(Per Plate),Tomato Salad,1,0,,99.0
+Raita/Salad(Per Plate),Veg Raita,1,0,,90.0
+Sandwitch(Per Plate),Bread Butter,1,0,,75.0
+Sandwitch(Per Plate),Cheese Chatni Sandwich,1,0,,105.0
+Sandwitch(Per Plate),Cheese Sandwich,1,0,,99.0
+Sandwitch(Per Plate),Jam Sandwich,1,0,,99.0
+Sandwitch(Per Plate),Masala Sandwich,1,0,,95.0
+Sandwitch(Per Plate),Veg Cheese Sandwich,1,0,,105.0
+Sandwitch(Per Plate),Veg Sandwich,1,0,,95.0

@@ -1,0 +1,53 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwich,Bread Butter Sandwich,1,0,,45.0
+Sandwich,Bread Butter Cheese Sandwich,1,0,,75.0
+Sandwich,Paneer Cheese Grilled Sandwich,1,0,,219.0
+Sandwich,Bread Jam Sandwich,1,0,,45.0
+Sandwich,Chilli Cheese Grilled Sandwich,1,0,,190.0
+Sandwich,Mexican Cheese Grilled Sandwich,1,0,,190.0
+Sandwich,Schezwan Cheese Grilled Sandwich,1,0,,160.0
+Sandwich,Jay Veeru Special Senorita Cheese Grilled Sandwich,1,0,,190.0
+Sandwich,Special Veg Cheese Sandwich,1,0,,90.0
+Sandwich,Veg Cheese Grilled Sandwich,1,0,,150.0
+Sandwich,Veg Cheese Sandwich,1,0,,80.0
+Sandwich,Veg Sandwich,1,0,,60.0
+Snacks,Cheese Cream And Onion Pav,1,0,,55.0
+Snacks,Cheese Solid Masti Pav,1,0,,55.0
+Snacks,Dubai Pav,1,0,,65.0
+Snacks,Garlic Cheese Solid Masti Pav,1,0,,65.0
+Snacks,Paneer Cheese Pav,1,0,,70.0
+Snacks,Peri Peri Cheese Pav,1,0,,65.0
+Snacks,Seno Pav,1,0,,65.0
+Snacks,Tandoori Cheese Solid Masti Pav,1,0,,65.0
+Snacks,Thousand Cheese Solid Masti Pav,1,0,,65.0
+Snacks,Time Pass Pav,1,0,,55.0
+Toast,Special Aflatoon Toast,1,0,,120.0
+Toast,Special Bread Butter Jam Toast,1,0,,70.0
+Toast,Special Bread Butter Toast,1,0,,60.0
+Toast,Special Cheese Chutney Toast,1,0,,85.0
+Toast,Special Pizza Toast,1,0,,110.0
+Toast,Special Veg Cheese Toast,1,0,,90.0
+Toast,Special Veg Toast,1,0,,75.0
+Frankie,Cheese Crispy Frankie,1,0,,80.0
+Frankie,Cheese Noodles Manchurian Frankie,1,0,,85.0
+Frankie,Cocktail Crispy Frankie,1,0,[Non Alcoholic],100.0
+Frankie,Cocktail Noodles Frankie,1,0,[Non Alcoholic],100.0
+Frankie,Cream Onion Crispy Frankie,1,0,,85.0
+Frankie,Cream Onion Noodles Frankie,1,0,,90.0
+Frankie,Crispy Frankie,1,0,,60.0
+Frankie,Dual Shot Cocktail Frankie,1,0,,119.0
+Frankie,Hem Frankie,1,0,,109.0
+Frankie,Mayo Crispy Frankie,1,0,,75.0
+Frankie,Mayo Noodles Frankie,1,0,,65.0
+Frankie,Noodles Frankie,1,0,,60.0
+Frankie,Paneer Chilli Frankie,1,0,,130.0
+Frankie,Peri Peri Cocktail Crispy Frankie,1,0,[Non Alcoholic],109.0
+Frankie,Peri Peri Cocktail Noodles Frankie,1,0,[Non Alcoholic],109.0
+Frankie,Schezwan Crispy Frankie,1,0,,75.0
+Frankie,Schezwan Noodles Frankie,1,0,,75.0
+Frankie,Special Veg Cheese Frankie,1,0,,80.0
+Frankie,Tandoori Cheese Cocktail Crispy Frankie,1,0,,109.0
+Frankie,Tandoori Cheese Cocktail Noodles Frankie,1,0,[Non Alcoholic],109.0
+Frankie,Thousand Crispy Frankie,1,0,,80.0
+Frankie,Thousand Noodles Frankie,1,0,,85.0
+Frankie,Triple Shoot Frankie,1,0,,140.0

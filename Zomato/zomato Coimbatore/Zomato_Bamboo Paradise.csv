@@ -1,0 +1,86 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Paradise Special,Chicken 777,0,0,,221.0
+Paradise Special,Chicken Chinthamani,0,0,,289.0
+Paradise Special,Chicken Kasa,0,0,,289.0
+Paradise Special,Hyderabadi Chicken,0,0,,289.0
+Paradise Special,Japanese Chicken,0,0,,289.0
+Starters,Aloo 65,0,0,,156.0
+Starters,Baby Corn 65,0,0,,156.0
+Starters,Gobi 65,0,0,,169.0
+Starters,Mushroom 65,0,0,,168.0
+Starters,Chilli Gobi,0,0,,176.0
+Starters,Chilli Mushroom,0,0,,176.0
+Starters,Chilli Paneer,0,0,,208.0
+Starters,Baby Corn Manchurian,0,0,,182.0
+Starters,Gobi Manchurian,0,0,,182.0
+Starters,Mushroom Manchurian,0,0,,182.0
+Starters,Paneer Manchurian,0,0,,221.0
+Starters,Pepper Baby Corn,0,0,,182.0
+Starters,Pepper Mushroom,0,0,,182.0
+Starters,Chicken 65,0,0,,182.0
+Starters,Chicken Salt & Pepper,0,0,,195.0
+Starters,French Chicken,0,0,,234.0
+Starters,Pepper Chicken,0,0,,208.0
+Starters,Chicken Manchurian,0,0,,208.0
+Starters,Garlic Chicken,0,0,,208.0
+Starters,Chilli Chicken,0,0,,221.0
+Starters,Dragon Chicken,0,0,,260.0
+Starters,Chicken Sholey Kebab,0,0,,221.0
+Starters,Mutton Pepper Fry,0,0,,312.0
+Starters,Fish 65,0,0,,182.0
+Starters,Chilli Fish,0,0,,182.0
+Starters,Pepper Fish,0,0,,182.0
+Starters,Fish Manchurian,0,0,,182.0
+Starters,Chilli Prawns,0,0,,221.0
+Starters,Prawns Manchurian,0,0,,221.0
+Starters,Pepper Prawns,0,0,,260.0
+Main Course,Dal Fry,0,0,,130.0
+Main Course,Aloo Masala,0,0,,156.0
+Main Course,Mushroom Masala,0,0,,182.0
+Main Course,Paneer Masala,0,0,,195.0
+Main Course,Paneer Butter Masala,0,0,,195.0
+Main Course,Matar Paneer,0,0,,195.0
+Main Course,Matar Mushroom,0,0,,195.0
+Main Course,Kadhai Paneer,0,0,,234.0
+Main Course,Kadhai Mushroom,0,0,,234.0
+Main Course,Hyderabadi Paneer,0,0,,208.0
+Main Course,Egg Bhurji Masala,0,0,,182.0
+Main Course,Chicken Sukka,0,0,Semi gravy.,208.0
+Main Course,Chicken Keema Masala,0,0,,208.0
+Main Course,Chicken Chettinad,0,0,,208.0
+Main Course,Chicken Tikka Masala,0,0,,221.0
+Main Course,Butter Chicken,0,0,,208.0
+Main Course,Mutton Sukka,0,0,,312.0
+Main Course,Mutton Masala,0,0,,312.0
+Main Course,Fish Masala,0,0,,182.0
+Main Course,Prawns Masala,0,0,,260.0
+Breads,Phulka,0,0,,16.0
+Breads,Chapati,0,0,,20.0
+Breads,Wheat Paratha,0,0,,33.0
+Rice and Biryani,Steamed Rice,0,0,,52.0
+Rice and Biryani,Plain Biryani,0,0,[Veg preparation],120.0
+Rice and Biryani,Chicken Biryani,0,0,,169.0
+Rice and Biryani,Chicken Thokku Biryani,0,0,,195.0
+Rice and Biryani,Mutton Thokku Biryani,0,0,,260.0
+Rice and Biryani,Prawns Thokku Biryani,0,0,,234.0
+Fried Rice and Noodles,Jeera Fried Rice,0,0,,130.0
+Fried Rice and Noodles,Veg Fried Rice,0,0,,130.0
+Fried Rice and Noodles,Ghee Fried Rice,0,0,,156.0
+Fried Rice and Noodles,Cashew Fried Rice,0,0,,156.0
+Fried Rice and Noodles,Butter Corn Fried Rice,0,0,,156.0
+Fried Rice and Noodles,Mushroom Fried Rice,0,0,,156.0
+Fried Rice and Noodles,Gobi Fried Rice,0,0,,156.0
+Fried Rice and Noodles,Paneer Fried Rice,0,0,,156.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,143.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,156.0
+Fried Rice and Noodles,Veg Noodles,0,0,,143.0
+Fried Rice and Noodles,Mushroom Noodles,0,0,,169.0
+Fried Rice and Noodles,Butter Corn Noodles,0,0,,169.0
+Fried Rice and Noodles,Gobi Noodles,0,0,,169.0
+Fried Rice and Noodles,Egg Noodles,0,0,,156.0
+Fried Rice and Noodles,Chicken Noodles,0,0,,169.0
+Snacks,French Fries,0,0,,130.0
+Snacks,Veg Kothu Chapati,0,0,,104.0
+Snacks,Egg Kothu Chapati,0,0,,117.0
+Snacks,Boiled Egg [2 Eggs],0,0,,39.0
+Snacks,Chicken Kothu Chapati,0,0,,130.0

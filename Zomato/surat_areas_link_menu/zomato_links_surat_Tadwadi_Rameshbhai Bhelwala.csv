@@ -1,0 +1,76 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Veg Cheese Pizza [7 inches],1,0,,150.0
+Pizza,Only Cheese Pizza [7 inches],1,0,,160.0
+Pizza,Italian Pizza [7 inches],1,0,,150.0
+Pizza,Sweet Corn Pizza [7 inches],1,0,,150.0
+Pizza,Only Cheese Blast Pizza [7 inches],1,0,,200.0
+Pizza,Veg Cheese Blast Pizza [7 inches],1,0,,180.0
+Pizza,Paneer Tikka Cheese Blast Pizza [7 inches],1,0,,200.0
+Pizza,Olive Blast Pizza [7 inches],1,0,,200.0
+Pizza,Sweet Corn Blast Pizza [7 inches],1,0,,200.0
+Pizza,In Side Out Side Sandwich Pizza [7 inches],1,0,,180.0
+Burgers and Sandwiches,Veg Burger,1,0,,80.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,100.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,35.0
+Burgers and Sandwiches,Bread Butter Jam Sandwich,1,0,,40.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich,1,0,,60.0
+Burgers and Sandwiches,Bread Butter Jam Cheese Sandwich,1,0,,70.0
+Burgers and Sandwiches,Bread Butter Chutney Sandwich,1,0,,40.0
+Burgers and Sandwiches,Bread Butter Aloo Sandwich,1,0,,40.0
+Burgers and Sandwiches,Bread Butter Toast Sandwich,1,0,,40.0
+Burgers and Sandwiches,Bread Butter Chutney Toast Sandwich,1,0,,60.0
+Burgers and Sandwiches,Bread Butter Chutney Cheese Toast Sandwich,1,0,,75.0
+Burgers and Sandwiches,Veg Sandwich Sandwich,1,0,,60.0
+Burgers and Sandwiches,Veg Toast Sandwich,1,0,,70.0
+Burgers and Sandwiches,Masala Toast Sandwich,1,0,,70.0
+Burgers and Sandwiches,Masala Cheese Toast Sandwich,1,0,,90.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,75.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,90.0
+Burgers and Sandwiches,Double Decker Sandwich,1,0,,65.0
+Burgers and Sandwiches,Double Decker Cheese Sandwich,1,0,,80.0
+Burgers and Sandwiches,Club Toast Sandwich,1,0,,80.0
+Burgers and Sandwiches,Club Cheese Toast Sandwich,1,0,,100.0
+Burgers and Sandwiches,Cheesy Juicy Sandwich,1,0,,140.0
+Burgers and Sandwiches,Rimzim Sandwich,0,0,,200.0
+Burgers and Sandwiches,Tandoori Paneer Rimzim Sandwich,1,0,Tandoori paneer rimzim sandwich.,250.0
+Burgers and Sandwiches,Cheese Chilly Toast,1,0,,110.0
+Burgers and Sandwiches,Masala Ghughra Sandwich,1,0,,70.0
+Burgers and Sandwiches,Cheese Masala Ghughra Sandwich,1,0,,90.0
+Burgers and Sandwiches,Veg Ghughara Sandwich,1,0,,70.0
+Burgers and Sandwiches,Veg Cheese Ghughra Sandwich,1,0,,90.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,140.0
+Burgers and Sandwiches,Veg Italian Grilled Sandwich,1,0,,150.0
+Burgers and Sandwiches,Only Cheese Grilled Sandwich,1,0,,160.0
+Burgers and Sandwiches,Paneer Tikka Cheese Grilled Sandwich,1,0,,180.0
+Burgers and Sandwiches,Paneer Barbeque Grilled Sandwich,1,0,"Paneer marinated in barbaque sauce, barbaque dip and mayonise dip.",200.0
+Snacks and Chaat,Paneer Tikka Kulcha Bread,1,0,,170.0
+Snacks and Chaat,Bhel,1,0,,60.0
+Snacks and Chaat,Jain Bhel,1,0,,60.0
+Snacks and Chaat,Cheese Bhel,1,0,,80.0
+Snacks and Chaat,Jain Cheese Bhel,1,0,,80.0
+Snacks and Chaat,Suki Bhel,1,0,,65.0
+Snacks and Chaat,Corn Bhel,1,0,,80.0
+Snacks and Chaat,Cheese Corn Bhel,1,0,,100.0
+Snacks and Chaat,Jain Corn Bhel,1,0,,80.0
+Snacks and Chaat,Jain Cheese Corn Bhel,1,0,,100.0
+Snacks and Chaat,Golden Bhel,1,0,,110.0
+Snacks and Chaat,Jain Golden Bhel,1,0,,110.0
+Snacks and Chaat,Cold Panipuri,1,0,,40.0
+Snacks and Chaat,Masala Puri,1,0,,60.0
+Snacks and Chaat,Cheese Masala Puri,1,0,,80.0
+Snacks and Chaat,Sev Batata Puri,1,0,,60.0
+Snacks and Chaat,Cheese Sev Batata Puri,1,0,,80.0
+Snacks and Chaat,Ragda Patty,1,0,,65.0
+Snacks and Chaat,Ragda Kachori,1,0,,70.0
+Snacks and Chaat,Aloo Tikki Chaat,1,0,,70.0
+Snacks and Chaat,Aloo Corn Tikki Chaat,1,0,,80.0
+Snacks and Chaat,Dahi Puri,1,0,,65.0
+Snacks and Chaat,Dahi Batata Puri,1,0,,70.0
+Snacks and Chaat,Dahi Khasta Kachori,1,0,,65.0
+Snacks and Chaat,Raj Kachori,1,0,,65.0
+Snacks and Chaat,Delhi Chaat,1,0,,65.0
+Snacks and Chaat,Dahi Papdi Chaat,1,0,,65.0
+Snacks and Chaat,Dahi Vada,1,0,,90.0
+Garlic Bread,Cheese Garlic Bread,1,0,,120.0
+Garlic Bread,Olive Cheese Garlic Bread,1,0,,130.0
+Garlic Bread,Sweet Corn Cheese Garlic Bread,1,0,,130.0

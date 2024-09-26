@@ -1,0 +1,25 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Khausa with Cheese Papdi Chaat,1,0,3 Khausa+2 Cheese Papdi Chaat+1 Extra Papdi+1 Special Chutney+3 Buttermilk,400.0
+Combos,Cheese Khausa Combo,1,0,1 Cheese Khausa+2 Sada Khausa+2 Cheese Papdi Chaat+1 Special Chutney+1 Extra Papdi+3 Buttermilk,440.0
+Combos,Special Raj Khausa Combo,1,0,2 Special Raj Khausa+1 Cheese Papdi Chaat+1 Cheese Sadi Papdi+1 Special Chutney+3 Buttermilk,380.0
+Combos,5 Khausa Combo,1,0,5 Khausa+3 Cheese Papdi Chaat+2 Extra Papdi+2 Special Chutney+5 Buttermilk,699.0
+Combos,Khausa Combo,1,0,2 Khausa+1 Cheese Papdi Chaat+1 Special Chutney+2 Buttermilk.,230.0
+Khausa,Cheese Khawsa,1,0,,80.0
+Khausa,Special Raj Khausa,1,0,We serve our speciality and this is our monopoly in burmese recipes.,100.0
+Khausa,Sada Khawsa,1,0,"Spring onion, fried garlic, papadi, chat masala, noodles, red chilli powder, onion slurry, ... read more",60.0
+Papdi Chaat,Papdi Chaat,1,0,,60.0
+Papdi Chaat,Cheese Papdi Chaat,1,0,,80.0
+Papdi Chaat,Sadi Papdi,1,0,,35.0
+Maggi,Sadi Maggi,1,0,"Maggi noodles, double chillies, maggi magic masala and onion slurry.",60.0
+Maggi,Vegetable Maggi,1,0,"Maggi noodles, maggi masala, onion slurry, carrot, tomato, ginger slurry, spring onion, garlic ... read more",70.0
+Maggi,Cheese Maggi,1,0,"Maggi noodles, Amul cheese, maggi masala and onion slurry.",80.0
+Maggi,Butter Maggi,1,0,"Maggi noodles, Amul butter, maggi masala and onion slurry.",70.0
+Maggi,Cheese Vegetable Maggi,1,0,"Maggi noodles, Amul cheese, maggi magic masala, onion slurry, carrot, tomato, ginger slurry, ... read more",70.0
+Maggi,Butter Vegetable Maggi,1,0,"Maggi noodles, Amul butter, maggi masala, onion slurry, carrot, tomato, ginger slurry, spring ... read more",80.0
+Maggi,Cheese Butter Maggi,1,0,"Maggi noodles, Amul cheese, Amul butter, Maggi masala, onion slurry and tomato gravy.",90.0
+Maggi,Cheese Butter Vegetable Maggi,1,0,"Maggi noodles, Amul butter, Amul cheese, maggi masala, onion slurry, carrot, tomato, ginger ... read more",110.0
+Accompaniment,Special Chutney,1,0,"Red chilli cluster, onion slurry, chaat masala, spring onion and fried garlic.",10.0
+Drinks (Beverages),Masala Buttermilk [200 ml],1,0,,15.0
+IPL Combo,Cheese Papdi Chaat [4 Pieces] with Masala Chas [200 ml],1,0,,92.0
+IPL Combo,Sada Khawsa [1 Plate] with Special Chutney,1,0,,70.0
+IPL Combo,Sada Khawsa [1 Plate] with Sadi Papdi [1 Plate],1,0,,95.0

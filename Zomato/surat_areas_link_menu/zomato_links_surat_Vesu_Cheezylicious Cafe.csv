@@ -1,0 +1,150 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chinese Combo,Chinese Bhel & Crispy Corn Chill,1,0,,360.0
+Chinese Combo,Fried Rice & Manchurian Gravy,1,0,,370.0
+Chinese Combo,Mushroom Chili & Baby Corn Chili,1,0,,410.0
+Chinese Combo,Oriental Sizzler,1,0,,420.0
+Chinese Combo,Paneer Chilli & Burnt Garlic Noodles,1,0,,390.0
+Mexican Rice & Gravy Combo,Barbeque Sizzler,1,0,,430.0
+Mexican Rice & Gravy Combo,Labanese Green Curry & Labanese Rice,1,0,,350.0
+Mexican Rice & Gravy Combo,Mexican Platter,1,0,,470.0
+Mexican Rice & Gravy Combo,Mexican Red Curry & Mexican Rice,1,0,,330.0
+Mexican Rice & Gravy Combo,Cold Americano,1,0,,390.0
+Mexican Rice & Gravy Combo,Mix Veg. Rice & Cheesy Gravy,1,0,,270.0
+Mexican Rice & Gravy Combo,Pimento Rice & Clear Exotic Veg. Curry,1,0,,320.0
+Mexican Rice & Gravy Combo,Thai Curry & Mixed Veg. Rice,1,0,,310.0
+Soup,Burnt Garlic Soup,1,0,,160.0
+Soup,Clear Exotic Soup,1,0,,150.0
+Soup,Hot & Sour Soup,1,0,,100.0
+Soup,Lemon Coriander Soup,1,0,,110.0
+Soup,Manchow Soup,1,0,,90.0
+Soup,Sweet Corn Soup,1,0,,150.0
+Soup,Thai Curry,1,0,,170.0
+Salad,Greek Salad,1,0,,280.0
+Salad,Grilled Paneer With Exotic Veggies Salad,1,0,,290.0
+Salad,Kimchi Salad,1,0,,220.0
+Salad,Roasted Exotic Veggies Salad,1,0,,260.0
+Chinese Starters,Crispy Baby Corn Chili,1,0,,240.0
+Chinese Starters,Crispy Chilli Potato,1,0,,190.0
+Chinese Starters,Crispy Corn Chilli,1,0,,240.0
+Chinese Starters,Dry Manchurian,1,0,,200.0
+Chinese Starters,Gravy Manchurian,1,0,,210.0
+Chinese Starters,Honey Chilli Potato,1,0,,210.0
+Chinese Starters,Mushroom Chill,1,0,,290.0
+Chinese Starters,Paneer Chilli,1,0,,230.0
+Chinese Starters,Paneer Chilli Gravy,1,0,,240.0
+Chinese Starters,Paneer Manchurian Dry,1,0,,270.0
+Chinese Starters,Schezwan Paneer Dry,1,0,,230.0
+Chinese Starters,Sizzling Chilli Potato,1,0,,380.0
+Chinese Starters,Spring Roll,1,0,,190.0
+Chinese Starters,Veg. Crispy,1,0,,260.0
+Shahi Khazana,Cheese Anguri,1,0,,330.0
+Shahi Khazana,Hyderabadi Paneer Tikka,1,0,,270.0
+Shahi Khazana,Paneer Paprika,1,0,,270.0
+Shahi Khazana,Palak Paneer,1,0,,270.0
+Shahi Khazana,Paneer Angara,1,0,,280.0
+Shahi Khazana,Paneer Bhurji,1,0,,320.0
+Shahi Khazana,Paneer Butter Masala,1,0,,250.0
+Shahi Khazana,Paneer Handi,1,0,,250.0
+Shahi Khazana,Paneer Khurchan,1,0,,280.0
+Shahi Khazana,Paneer Kolhapuri,1,0,,260.0
+Shahi Khazana,Paneer Pasanda,1,0,,300.0
+Shahi Khazana,Paneer Lababdar,1,0,,370.0
+Shahi Khazana,Paneer Tikka Masala,1,0,,290.0
+Shahi Khazana,Shahi Paneer,1,0,,270.0
+Rice,Burnt Garlic Rice,1,0,,230.0
+Rice,Combination Rice,1,0,,250.0
+Rice,Manchurian Rice,1,0,,230.0
+Rice,Paneer Manchurian Rice,1,0,,250.0
+Rice,Paneer Rice,1,0,,240.0
+Rice,Schezwan Fried Rice,1,0,,220.0
+Rice,Singapuri Rice,1,0,,220.0
+Rice,Veg. Fried Rice,1,0,,200.0
+Noodles,Bombay Bhel,1,0,,240.0
+Noodles,Burnt Garlic Noodles,1,0,,210.0
+Noodles,Chilly Garlic Noodles,1,0,,200.0
+Noodles,Chinese Bhel,1,0,,220.0
+Noodles,Stir Fried With Exotic Veggie Noodles,1,0,,260.0
+Noodles,Hakka Noodles,1,0,,180.0
+Noodles,Schezwan Noodles,1,0,,190.0
+Noodles,Singapuri Noodles,1,0,,220.0
+Noodles,Sweet Crispy Noodles,1,0,,250.0
+Pizza,Melted Cheese Pizza,1,0,,325.0
+Pizza,Exotic Veggies Pizza,1,0,,245.0
+Pizza,Italian Pizza,1,0,,220.0
+Pizza,Margherita Pizza,1,0,,160.0
+Pizza,Mexican Pizza,1,0,,210.0
+Pizza,Mix Veggies Pizza,1,0,,190.0
+Pizza,Tandoori Paneer Pizza,1,0,,220.0
+Pasta,Aglio E Olio Pasta,1,0,,300.0
+Pasta,Alfredo Pasta,1,0,,220.0
+Pasta,Arrabiata Pasta,1,0,,210.0
+Pasta,Basil Pesto Pasta,1,0,,230.0
+Pasta,Cheezylicious Baked Pasta,1,0,,310.0
+Pasta,Combination Pasta,1,0,,280.0
+Sandwich,Bread Butter,1,0,,40.0
+Sandwich,Bread Butter Cheese,1,0,,60.0
+Sandwich,Bread Butter Cheese Chutney,1,0,,70.0
+Sandwich,Bread Butter Cheese Chutney Toast,1,0,,80.0
+Sandwich,Bread Butter Cheese Toast,1,0,,50.0
+Sandwich,Bread Butter Toast,1,0,,60.0
+Sandwich,Cheese Chocolate Sandwich,1,0,,160.0
+Sandwich,Cheezylicious Special Sandwich,1,0,,180.0
+Sandwich,Chocolate Sandwich,1,0,,130.0
+Sandwich,Masala Aloo Slices,1,0,,60.0
+Sandwich,Mix Veg. Toast Sandwich,1,0,,180.0
+Sandwich,Tikki Toast Sandwich,1,0,,205.0
+Sandwich,Veg. Cheese Sandwich,1,0,,110.0
+Sandwich,Veg. Cheese Toast Sandwich,1,0,,150.0
+Sandwich,Veg. Sandwich,1,0,,90.0
+Sandwich,Veg. Toast Sandwich,1,0,,130.0
+French Fries,Baked Fries,1,0,,220.0
+French Fries,Cheesy Masala Fries,1,0,,200.0
+French Fries,Perri Perri Fries,1,0,,170.0
+French Fries,Salted Fries,1,0,,130.0
+Garlic Bread,Cheese Corn Garlic Bread,1,0,,190.0
+Garlic Bread,Cheese Garlic Bread,1,0,,165.0
+Garlic Bread,Chilly Cheese Garlic Bread,1,0,,175.0
+Garlic Bread,Garlic Bread,1,0,,125.0
+Garlic Bread,Loaded Veggies Garlic Bread,1,0,,205.0
+Cheezylicious Special,Biscuit Pie,1,0,,170.0
+Cheezylicious Special,Bunny Chow,1,0,,235.0
+Cheezylicious Special,Cheezylicious Special Sizzler,1,0,,470.0
+Cheezylicious Special,Cold Coleslaw Sandwich,1,0,,140.0
+Cheezylicious Special,Juicy Mix Veg. Toast Sandwich,1,0,,150.0
+Cheezylicious Special,Mexican Beans,1,0,,185.0
+Cheezylicious Special,Paneer Tikka Sub,1,0,,190.0
+Pantry,Milk,1,0,,32.0
+Pantry,Warm Milk,1,0,,30.0
+Special Tea,Bread Butter Chutney,1,0,,50.0
+Special Tea,Green Tea,1,0,,40.0
+Special Tea,Lemon Tea,1,0,,30.0
+Special Tea,Masala Tea,1,0,,30.0
+Special Tea,Mexican Pizza (9 Inch),1,0,,270.0
+Special Tea,Mint Tea,1,0,,30.0
+Special Tea,Peach Lce Tea,1,0,350 Ml,140.0
+Hot Chocolate Special,Dark Hot Chocolate,1,0,[300 Ml],80.0
+Hot Chocolate Special,Hot Chocolate,1,0,[300 Ml],70.0
+Coffee,Black Coffee,1,0,,50.0
+Coffee,Cappuccino,1,0,,80.0
+Coffee,Chocolate Coffee,1,0,,70.0
+Coffee,Cold Brew,1,0,,140.0
+Coffee,Cold Coffee,1,0,,150.0
+Coffee,Hot Coffee,1,0,,60.0
+Shakes,Banana Shake,1,0,,100.0
+Shakes,Chocolate Shake,1,0,350 Ml,140.0
+Shakes,Kit Kat Shake,1,0,350 Ml,130.0
+Shakes,Oreo Shake,1,0,350 Ml,150.0
+Footlong,Melted Cheese Footlong,1,0,,280.0
+Footlong,Mexican Footlong,1,0,,180.0
+Footlong,Pepper Paneer Footlong,1,0,,210.0
+Footlong,Saute Exotic Veggie Footlong,1,0,,240.0
+Mexican Quick Bites,Cheese Corn Balls,1,0,,190.0
+Mexican Quick Bites,Corn Cheese Quesadilla,1,0,,230.0
+Mexican Quick Bites,Masala Wrap,1,0,,180.0
+Mexican Quick Bites,Paneer Wrap,1,0,,200.0
+Mexican Quick Bites,Quesadilla,1,0,,210.0
+Open Toast,Chilly Cheese Open Toast,1,0,,115.0
+Open Toast,Exotics Open Toast,1,0,,165.0
+Open Toast,Grill Open & Cheese Toast,1,0,,175.0
+Open Toast,Mix Veggies Open Toast,1,0,,135.0
+Open Toast,Saute Paneer Open Toast,1,0,,145.0

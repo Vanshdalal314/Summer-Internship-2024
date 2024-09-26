@@ -1,0 +1,95 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burger Meal,Classic Veg Burger + Coca Cola (250ml),1,0,"Bun - onion tomato slices, petty, lettuce & chilly mayo.(coca cola 250ml)",149.0
+Burger Meal,Mexican Cheese Burger + Coca Cola (250ml),1,0,"Bun - onion tomato jalapeno slices, petty, lettuce, cheese slice & our signature ... read more",179.0
+Burger Meal,Veg Cheese Burger + Coca Cola (250ml),1,0,"Bun - onion tomato slices, petty, lettuce, cheese slice & chilly mayo. ( ... read more",169.0
+Appetizers,Cheese Garlic Bread,1,0,Garlic bread baked to perfection with cheese.,209.0
+Appetizers,Cheese Garlic Bread With Chili Onion,1,0,"Garlic bread baked to perfection with cheese, onion & green chilli.",229.0
+Appetizers,Cheese Garlic Bread With Corn & Jelapeno,1,0,"Garlic bread baked to perfection with cheese, corn & jalapeno.",229.0
+Appetizers,Cheesy French Fries,1,0,"Perfect Crispy French Fries topped With Cheesy sauce, Cheese chilly Dip & process ... read more",199.0
+Appetizers,Creamy Garlic Stick,1,0,"Delectable creation start with our signature dough, baked to golden perfection with garlic ... read more",229.0
+Appetizers,French Fries,1,0,Golden and crispy deep-fried potato sticks.,149.0
+Appetizers,Mexican Nachos,1,0,"Crispy corn nachos serve with delicoius mexican sauce, onion, capsicum, olive, jalapeno with ... read more",249.0
+Appetizers,Nachos,1,0,Crispy corn nachos serve with cheese dip & cheese chilly dip.,199.0
+Appetizers,Peri Peri Fries,1,0,"Crispy, seasoned French fries with a fiery kick of peri peri spices.",169.0
+Appetizers,The Garlic Knot,1,0,"Garlic knots are small, soft bread rolls that are typically tied into knot ... read more",229.0
+Pizza,Corn Classic,1,0,"Sweet corn, tomato with cheese & tomato sauce.",379.0
+Pizza,Italian Classic,1,0,"Garlic, basil with cheese & tomato sauce.",379.0
+Pizza,Margherita,1,0,Blend of mozzrella & cheddar with tomato sauce.,299.0
+Pizza,Simply Classic,1,0,"Onion, tomato with cheese & tomato sauce.",379.0
+Pizza,Spicy Classic,1,0,"Green chili, cheese, onion, capsicum with cheese & tomato sauce.",379.0
+Pizza,Fresh Fusion Delight,1,0,"Tomato, capsicum, sweet corn with cheese & tomato sauce.",439.0
+Pizza,Garden Assorted Delight,1,0,"Basil, tomato, zucchini with cheese & tomato sauce.",439.0
+Pizza,Rural Retreat Delight,1,0,"Tomato, capsicum, baby corn with cheese & tomato sauce.",439.0
+Pizza,Spiced Veggies Delight,1,0,"Green chili, onion, capsicum, red paprika with cheese & tomato sauce.",439.0
+Pizza,Veggies Delight,1,0,"Onion, tomato, capsicum with cheese & tomato sauce.",439.0
+Pizza,Bbq Blaze Exotica,1,0,"Paneer, broccoli, tomato, capsicum, jalapeno with cheese, bbq schezwan sauce & tomato sauce.",679.0
+Pizza,Cheezie Exotica [N],1,0,"Extra blend of mozzrella, white cheddar, montary jack, colby, orange cheddar, creamy jalapeno ... read more",679.0
+Pizza,Creamy Paneer Alfredo,1,0,"Paneer, onion, sweet corn, red paprika with cheese & alfredo sauce.",749.0
+Pizza,Extreme Exotic Exotica,1,0,"Basil. broccoli, jalapeno, olive, red paprika, mushroom with cheese, garlic sauce & tomato ... read more",679.0
+Pizza,Garden Harmony Alfredo,1,0,"Basil, broccoli, tomato, red paprika, zucchini with cheese & alfredo sauce.",749.0
+Pizza,Italian Bliss Alfredo,1,0,"Pasta, capsicum, sweet corn, mushroom, olive with cheese & alfredo sauce.",749.0
+Pizza,Knot Special Exotca,1,0,"Basil, brocoli, tomato, red paprika, zucchini with cheese, peri peri sauce & tomato ... read more",679.0
+Pizza,Pasta Passion Exotica,1,0,"Basil, green chili, pasta, red paprika, jalapeno, baby corn with cheese, jalapeno sauce ... read more",679.0
+Pizza,Peri Paneer Exotica [N],1,0,"Basil, paneer, onion, capsicum, sweet corn, olive with cheese, peri peri sauce & ... read more",679.0
+Pizza,Tandoori Twist Exotica,1,0,"Garlic, paneer, tomato, onion, red paprika, mushroom with cheese, indian sauce & tomato ... read more",679.0
+Pizza,Tgk Signature Exotica,1,0,"Paneer, fresh garlic, tomato, onion, capsicum, mushroom with cheese, garlic sauce & tomato ... read more",679.0
+Pizza,Corny Paneer Surprise,1,0,"Garlic, paneer, onion, sweet corn, jalapeno with cheese, salsa sauce & tomato sauce.",649.0
+Pizza,Double Cheese Surprise[n],1,0,Extra blend of mozzrella & cheddar with cheese & tomato sauce.,649.0
+Pizza,Farm House Surprise,1,0,"Tomato, capsicum, red paprika, olive, with cheese salsa sauce & tomato sauce.",649.0
+Pizza,Hot & Tangy Surprise,1,0,"Green chili, tomato, sweet corn, red paprika, jalapeno with cheese schewan BBQ sauce ... read more",649.0
+Pizza,Mexican Fiesta Surprise,1,0,"Green chili, onion, sweet corn, red paprika, jalapeno, with cheese jalapeno sauce & ... read more",649.0
+Pizza,Paneer Paradise Surprise,1,0,"Garlic, paneer, onion, red paprika, baby corn with cheese, chipotle sauce & tomato ... read more",649.0
+Pizza,Smokey Veggie Surprise,1,0,"Garlic, broccoli, cheese, onion, capsicum, olive with cheese, Schezwan BBQ sauce & tomato ... read more",649.0
+Pizza,Zesty Zuchini Surprise,1,0,"Basil, onion, capsicum, olive, zucchini with cheese, chilly garlic sauce & tomato sauce.",649.0
+Pasta,Pasta Alfredo,1,0,"Sweet corn, capsicum, zucchini, broccoli with white sauce.",349.0
+Pasta,Pasta Indiana,1,0,"Paneer, onion, capsicum with Indian sauce.",349.0
+Pasta,Pasta Italiano,1,0,"Capsicum, olive, broccoli, mushroom with pink sauce.",349.0
+Pasta,Pasta Marinara,1,0,"Onion, capsicum, olive, cheese with red sauce.",349.0
+Rice,Creamy Garlic Mushroom Rice,1,0,"Rice serve with mushrrom, onion, creamy sauce, garlic & herbs.",369.0
+Rice,Mexican Rice,1,0,"Made with beans,corn herbs & cheesy mexican sauce.",369.0
+Rice,Peri Paneer Rice,1,0,"Mixed veggies, corn & paneer with peri peri sauce.(spicy)",349.0
+Rice,Spiced Fusion Rice Rice,1,0,Rice serve with vegetable & spicy schezwan sauce),349.0
+Wrapes,Mexican Wrape,1,0,"Beans, onion, capsicum, lettuce & cheese wrapped",199.0
+Wrapes,Paneer Wrape,1,0,"Paneer wrapped with onion, capsicum, lettuce,indian sauce & cheese)",199.0
+Wrapes,Veggie Wrape,1,0,"Wrapped with premium mayo,onion, tomato, capsicum,olive & cheese with lettuce.",199.0
+Burgers,Classic Veg Burger,1,0,"Bun - onion tomato slices, petty, lettuce & chilly mayo.",119.0
+Burgers,Mexican Cheese Burger,1,0,"Bun - onion tomato jalapeno slices, petty, lettuce, cheese slice & our signature ... read more",149.0
+Burgers,Veg Cheese Burger,1,0,"Bun - onion tomato slices, petty, lettuce, cheese slice & chilly mayo.",139.0
+Coffee,Biscoff Frappe,1,0,The great combination of coffee & biscoff.,349.0
+Coffee,Cappuccino Frappe,1,0,"Cold espresso shot blended with milk, cream and vanilla ice cream.",249.0
+Coffee,Choco Oreo,1,0,"Chocolate blended with milk, ice cream and oreo",299.0
+Coffee,Esspresso Tonic,1,0,Pulling an espresso shot on top of tonic water.,239.0
+Coffee,Hazelnut Frappe,1,0,"Espresso blend with milk,ice cream & hazelnut.",249.0
+Coffee,Hazelnut Mocha Frappe,1,0,"Espresso blend with milk,ice cream,chocolate & hazelnut, topped with ice cream.",299.0
+Coffee,Ice Cappuccino,1,0,Freshly brewed esspresso with milk & ice cube.,169.0
+Coffee,Iced Cappuccino,1,0,Cold coffee with our signature knot twist.,169.0
+Coffee,Iced Latte,1,0,Esspresso with cold mlk over ice.,199.0
+Coffee,Iced Mocha,1,0,Chocolate flavoured esspresso serve with cold milk oveer ice.,299.0
+Coffee,Irish Frappe,1,0,"Espresso blend with milk,ice cream & irish.",249.0
+Coffee,Irish Mocha Frape,1,0,"Espresso blend with milk,ice cream,chocolate & irish, topped with ice cream.",299.0
+Coffee,Choco Knot,1,0,Cold espresso shot blended with milk chocolate ice cream and chocolate syrup topped ... read more,299.0
+Coffee,Mocha Frappe,1,0,"Cold espresso shot blended with milk, cream, vanilla ice cream and chocolate syrup.",299.0
+Coffee,Mocha Oreo Frappe,1,0,"Cold espresso shot blended with milk, vanilla ice cream, chocolate syrup and oreo ... read more",299.0
+Coffee,Oreo Frappe,1,0,"Cold espesso shot blended with milk, vanilla ice cream and oreo",249.0
+Coffee,Redbull Esspresso,1,0,Cold esspresso diluted in ice cube & red bull.,399.0
+Coffee,Sweet Chocolate,1,0,Chocolate blended with milk and ice cream.,229.0
+Coffee,Vietnamese,1,0,Combination of condensed milk & esspresso shot is an extra sweet coffee drink.,249.0
+Desserts And Beverages,Black Current Smoothie,1,0,,229.0
+Desserts And Beverages,Chocolate Smoothie,1,0,,229.0
+Desserts And Beverages,Kiwi Smoothie,1,0,,229.0
+Desserts And Beverages,Mango Smoothie,1,0,,229.0
+Desserts And Beverages,Strawberry Smoothie,1,0,,229.0
+Desserts And Beverages,Black Current Mojito,1,0,,249.0
+Desserts And Beverages,Green Apple Mojito,1,0,[Non Alcoholic],249.0
+Desserts And Beverages,Kiwi Mojito,1,0,[Non Alcoholic],249.0
+Desserts And Beverages,Lemon Ice Tea,1,0,,199.0
+Desserts And Beverages,Mango Mojito,1,0,[Non Alcoholic],249.0
+Desserts And Beverages,Mojito,1,0,[Non Alcoholic],249.0
+Desserts And Beverages,Peach Ice Tea,1,0,,199.0
+Desserts And Beverages,Redbull Mojito,1,0,,399.0
+Desserts And Beverages,Strawberry Mojito,1,0,[Non Alcoholic],249.0
+Desserts And Beverages,Biscoff Shake,1,0,Biscoff blend with ice cream.,369.0
+Desserts And Beverages,Brownie Mocha Shake,1,0,"A smooth combination of brownie,coffee & chocolate.",339.0
+Desserts And Beverages,Brownie Shake,1,0,Brownie blend with ice cream & chocolate.,329.0
+Desserts And Beverages,KitKat Shake,1,0,Delicious kitkat blend with chocolate ice cream.,299.0
+Desserts And Beverages,Oreo Shake,1,0,Vanilla ice cream blend with oreo.,299.0

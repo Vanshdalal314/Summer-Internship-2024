@@ -1,0 +1,236 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwich,Bread Butter,1,0,"Serve with green chutney,tomato catchup",36.0
+Sandwich,Bread Butter Aloo,1,0,"Serve with green chutney,tomato catchup",49.5
+Sandwich,Bread Butter Aloo Cheese,1,0,"Serve with green chutney,tomato catchup",63.0
+Sandwich,Bread Butter Cheese,1,0,"Serve with green chutney,tomato catchup",54.0
+Sandwich,Bread Jam,1,0,"Serve with green chutney,tomato catchup",36.0
+Sandwich,Cheese Chilli Tost,1,0,"Serve with green chutney,tomato catchup",112.5
+Sandwich,Cheese Grill Sandwich,1,0,"Serve with green chutney,tomato catchup",153.0
+Sandwich,Chilli Tost,1,0,"Serve with green chutney,tomato catchup",90.0
+Sandwich,Grill Sandwich,1,0,"Serve with green chutney,tomato catchup",126.0
+Sandwich,Kolslow Sandwich (Sp),1,0,"Serve with green chutney,tomato catchup",162.0
+Sandwich,Veg Cheese Sandwich,1,0,"Serve with green chutney,tomato catchup",90.0
+Sandwich,Veg Cheese Tost,1,0,"Serve with green chutney,tomato catchup",99.0
+Sandwich,Veg Sandwich,1,0,"Serve with green chutney,tomato catchup",72.0
+Sandwich,Veg Tost,1,0,"Serve with green chutney,tomato catchup",72.0
+French Fries,Cheese Fry,1,0,"(Serve with tandoori dip,schezwan dip,peri peri dip,mayonnaise dip,tomato catchup",108.0
+French Fries,Maggie Masala Fry,1,0,"(Serve with tandoori dip,schezwan dip,peri peri dip,mayonnaise dip,tomato catchup",90.0
+French Fries,Peri Peri Fry,1,0,"(Serve with tandoori dip,schezwan dip,peri peri dip,mayonnaise dip,tomato catchup",90.0
+French Fries,Salted Fry,1,0,"(Serve with tandoori dip,schezwan dip,peri peri dip,mayonnaise dip,tomato catchup",72.0
+Frankie,Cheese Frankie,1,0,,72.0
+Frankie,Cheese Mayo Frankie,1,0,,81.0
+Frankie,Kolslow Frankie (Sp),1,0,,144.0
+Frankie,Peri Peri Frankie,1,0,,99.0
+Frankie,Schezwan Frankie,1,0,,99.0
+Frankie,Tandoori Frankie,1,0,,99.0
+Frankie,Tandoori Paneer Frankie,1,0,,126.0
+Frankie,Veg Frankie,1,0,,54.0
+Frankie,Waffer Frankie (Sp),1,0,,90.0
+Wada Pav,Amul Butter Wada Pav,1,0,,36.0
+Wada Pav,Cheese Wada Pav,1,0,,54.0
+Wada Pav,Grill Extra,1,0,,18.0
+Wada Pav,Schezwan Wada Pav,1,0,,54.0
+Wada Pav,Tandoori Wada Pav,1,0,,54.0
+Wada Pav,Time Pass,1,0,,45.0
+Burger,Aloo Tikki Burger,1,0,,58.5
+Burger,Cheese Aloo Tikki Burger,1,0,,81.0
+Burger,Double Aloo Tikki Burger,1,0,,81.0
+Burger,Paneer Cheese Aloo Tikki Burger (Sp),1,0,,135.0
+Burger,Veggie Burger,1,0,,90.0
+Burger,Veggie Cheese Burger,1,0,,108.0
+Pizza,Cheese Corn Pizza,1,0,,99.0
+Pizza,Cheese Onion Pizza,1,0,,99.0
+Pizza,Cheese Panner Pizza,1,0,,135.0
+Pizza,Cheese Tomato Pizza,1,0,,99.0
+Pizza,Green Pesto Pizza ( Fire ) (Sp),1,0,"BLACK & GREEN OLIVE , VIGGIE & corn",180.0
+Pizza,Italian Pizza,1,0,,99.0
+Pizza,Margherita Pizza,1,0,,81.0
+Pizza,Veg Tandoori Paneer Pizza (Sp),1,0,,144.0
+Garlic Bread,Cheese Chilli Garlic Bread,1,0,,135.0
+Garlic Bread,Cheese Corn Bread (Jain),1,0,,81.0
+Garlic Bread,Cheese Garlic Bread,1,0,,135.0
+Garlic Bread,Garlic Bread,1,0,,117.0
+Garlic Bread,Paneer Cheese Chilli Garlic Bread (Sp),1,0,,144.0
+Maggi,Cheese Maggie,1,0,,72.0
+Maggi,Cheese Viggie Maggie,1,0,,90.0
+Maggi,Peri Peri Masala Maggie,1,0,,81.0
+Maggi,Regular Maggi,1,0,,45.0
+Maggi,Schezwan Maggie,1,0,,81.0
+Maggi,Tandoori Maggie,1,0,,81.0
+Maggi,Viggie Maggie,1,0,,63.0
+Extra Toppings,Chocolate Chips,1,0,,33.3
+Extra Toppings,Ice Cream,1,0,,33.3
+Extra Toppings,Kaju,1,0,,45.0
+Extra Toppings,Malai,1,0,,45.0
+Extra Toppings,Mix Dry Fruits,1,0,,45.0
+American Thick Shake [250Ml],Almond Caramel American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],American Dryfruit American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Black Current American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,111.6
+American Thick Shake [250Ml],Black Forest American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Bubble Gum American Thick Shake,1,0,,89.1
+American Thick Shake [250Ml],Butterscotch American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,100.8
+American Thick Shake [250Ml],Chickoo American Thick Shake,1,0,,78.3
+American Thick Shake [250Ml],Chikoo Chocolate American Thick Shake,1,0,,100.8
+American Thick Shake [250Ml],Choco Brownie American Thick Shake,1,0,,156.6
+American Thick Shake [250Ml],Chocolate Chips American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,111.6
+American Thick Shake [250Ml],Coffee Caramel American Thick Shake,1,0,,89.1
+American Thick Shake [250Ml],Dairy Milk American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Dryfruit American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,167.4
+American Thick Shake [250Ml],Dryfruit Khazana American Thick Shake,1,0,,178.2
+American Thick Shake [250Ml],Fresh Kiwi American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Fresh Mango American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Fresh Sitafal American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Fresh Strawberry American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Gulab Jamun American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Gulab Masti American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Gulkand American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,100.8
+American Thick Shake [250Ml],Kaju Anjeer American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,122.4
+American Thick Shake [250Ml],Kaju Anjeer Tukda American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Kaju Badam American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,122.4
+American Thick Shake [250Ml],Kaju Badam Tukda American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Kaju Chocolate American Thick Shake,1,0,,144.9
+American Thick Shake [250Ml],Kaju Draksh American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,111.6
+American Thick Shake [250Ml],Kaju Gulkand American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,134.1
+American Thick Shake [250Ml],Kaju Katri American Thick Shake,1,0,,144.9
+American Thick Shake [250Ml],Kaju Khajur American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Kaju Malai Tukda American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Kaju Mango American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,134.1
+American Thick Shake [250Ml],Kesar Pista American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,134.1
+American Thick Shake [250Ml],Kit Kat American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Lotus Biscoff American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Maakhan Bhog American Thick Shake,1,0,,156.6
+American Thick Shake [250Ml],Mango American Thick Shake,1,0,,89.1
+American Thick Shake [250Ml],Mango Malai American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,111.6
+American Thick Shake [250Ml],Mava Malai American Thick Shake,1,0,,122.4
+American Thick Shake [250Ml],Nutella American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,134.1
+American Thick Shake [250Ml],Oreo Cookie (Cream) American Thick Shake,1,0,,100.8
+American Thick Shake [250Ml],Paan Masala American Thick Shake,1,0,,100.8
+American Thick Shake [250Ml],Pineapple American Thick Shake,1,0,,78.3
+American Thick Shake [250Ml],Pista Malai American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,167.4
+American Thick Shake [250Ml],Plain Chocolate American Thick Shake,1,0,,89.1
+American Thick Shake [250Ml],Rajbhog American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Rajwadi Dryfruit American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Rajwadi Kaju American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Red Velvet A American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Rocher Ferrero American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Rose Malai American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,111.6
+American Thick Shake [250Ml],Rosted Almond American Thick Shake,1,0,,134.1
+American Thick Shake [250Ml],Strawberry American Thick Shake,1,0,,78.3
+American Thick Shake [250Ml],Tender Coconut American Thick Shake,1,0,,167.4
+American Thick Shake [250Ml],Vanilla American Thick Shake,1,0,,78.3
+American Thick Shake [250Ml],Vanilla Chips American Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,111.6
+American Thick Shake [250Ml],Walnut Chocolate American Thick Shake,1,0,,134.1
+Special Falooda [350Ml],Badam Pista Falooda,1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",144.9
+Special Falooda [350Ml],Black Current Falooda,1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",144.9
+Special Falooda [350Ml],Chocolate Falooda,1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",134.1
+Special Falooda [350Ml],Green Pista Falooda,1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",134.1
+Special Falooda [350Ml],Kaju Anjeer Falooda,1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",144.9
+Special Falooda [350Ml],Kesar Pista Falooda,1,0,,144.9
+Special Falooda [350Ml],Mango Falooda,1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",134.1
+Special Falooda [350Ml],Mastani (250 Ml),1,0,,55.8
+Special Falooda [350Ml],Raibhog Falooda,1,0,,167.4
+Special Falooda [350Ml],Rajwadi Falooda,1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",167.4
+Special Falooda [350Ml],Red Rose Falooda,1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",144.9
+Special Falooda [350Ml],Rose Falooda,1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",111.6
+Special Falooda [350Ml],Shalimar (250 Ml),1,0,,66.6
+Special Falooda [350Ml],Sitafal Falooda,1,0,,156.6
+Special Falooda [350Ml],Strawberry Falooda,1,0,,134.1
+Special Fresh Cream,Dryfruit Cream,1,0,,223.2
+Special Fresh Cream,Fesh Sitafal Cream,1,0,,223.2
+Special Fresh Cream,Fresh Mango Cream,1,0,,223.2
+Special Fresh Cream,Fresh Strawberry Cream,1,0,,200.7
+Special Fresh Cream,Rajwadi Dryfruit Cream,1,0,,245.7
+Special Fresh Cream,Sp. Cream Salad,1,0,,178.2
+Special Fresh Cream,Tender Coconut Cream,1,0,,279.0
+Ice Cream Sundaes,Choco Dance (3 Scoop),1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,200.7
+Ice Cream Sundaes,Chocolate Chios Gotala,1,0,,200.7
+Ice Cream Sundaes,Dryfruit Gotala,1,0,,223.2
+Ice Cream Sundaes,Fresh Gotala,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,167.4
+Ice Cream Sundaes,Fruitioom Sundae,1,0,,200.7
+Ice Cream Sundaes,Hungama (5 Scoops),1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,245.7
+Ice Cream Sundaes,Jelly Malai Pineapple,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,167.4
+Ice Cream Sundaes,Mava Masti Gotala,1,0,,200.7
+Ice Cream Sundaes,Rocher Sundae,1,0,,390.6
+Ice Cream Sundaes,Subkuch (6 Scoop),1,0,,301.5
+Ice Cream Sundaes,Tripple Sundee (3 Scoop),1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,200.7
+Live Ice-Creams [Fog & Roll],American Dryfruit [dryfruit Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,156.6
+Live Ice-Creams [Fog & Roll],Butterscotch [Our Signature],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,167.4
+Live Ice-Creams [Fog & Roll],Choco Walnut [chocolate Choice],1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,178.2
+Live Ice-Creams [Fog & Roll],Chocolate Chips [chocolate Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,156.6
+Live Ice-Creams [Fog & Roll],Chocolate Fudge Brownie [chocolate Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,178.2
+Live Ice-Creams [Fog & Roll],Dairy Milk [chocolate Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,167.4
+Live Ice-Creams [Fog & Roll],Dryfruit Khazana [dryfruit Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,178.2
+Live Ice-Creams [Fog & Roll],Fresh Jambu [fruits & Berries (seasonal),1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,156.6
+Live Ice-Creams [Fog & Roll],Fresh Kiwi [fruits & Berries (seasonal),1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,156.6
+Live Ice-Creams [Fog & Roll],Fresh Litchi [fruits & Berries (seasonal),1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,156.6
+Live Ice-Creams [Fog & Roll],Fresh Sitafal [fruits & Berries (seasonal),1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,156.6
+Live Ice-Creams [Fog & Roll],Fresh Strawberry [fruits & Berries (seasonal),1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,156.6
+Live Ice-Creams [Fog & Roll],Guava Chilly [fruits & Berries (seasonal),1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,178.2
+Live Ice-Creams [Fog & Roll],Honey Almond [dryfruit Choice],1,0,,167.4
+Live Ice-Creams [Fog & Roll],Kaju Anjeer [dryfruit Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,144.9
+Live Ice-Creams [Fog & Roll],Kaju Draksh [dryfruit Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,144.9
+Live Ice-Creams [Fog & Roll],Kaju Gulkand [dryfruit Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,144.9
+Live Ice-Creams [Fog & Roll],Kaju Katil [dryfruit Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,167.4
+Live Ice-Creams [Fog & Roll],Kesar Pista [dryfruit Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,167.4
+Live Ice-Creams [Fog & Roll],Kitkat Chunks [chocolate Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,167.4
+Live Ice-Creams [Fog & Roll],Lotus Biscoff [our Signature],1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,167.4
+Live Ice-Creams [Fog & Roll],Mango Malai [fruits & Berries (seasonal),1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,156.6
+Live Ice-Creams [Fog & Roll],Mava Malai [our Signature],1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,167.4
+Live Ice-Creams [Fog & Roll],Nutella Chocolate [chocolate Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,167.4
+Live Ice-Creams [Fog & Roll],Oreo Cookies [our Signature],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,144.9
+Live Ice-Creams [Fog & Roll],Paan Masala [our Signature],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,167.4
+Live Ice-Creams [Fog & Roll],Rajbhog [dryfruit Choice],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,156.6
+Live Ice-Creams [Fog & Roll],Roasted Almond [Dryfruit Choice],1,0,,178.2
+Live Ice-Creams [Fog & Roll],Rocher Ferrero [Chocolate Choice],1,0,,223.2
+Live Ice-Creams [Fog & Roll],Shetur (Mulberry) [Fruits & Berries (Seasonal),1,0,,178.2
+Live Ice-Creams [Fog & Roll],Tender Coconut [our Signature],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,167.4
+Smoothies Premium Milkshake,Black Current Smoothies Premium Milkshake,1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",156.6
+Smoothies Premium Milkshake,Blueberry Smoothies Premium Milkshake,1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",167.4
+Smoothies Premium Milkshake,Bubblegum Smoothies Premium Milkshake,1,0,,134.1
+Smoothies Premium Milkshake,Carmel Snicker Smoothies Premium Milkshake,1,0,,223.2
+Smoothies Premium Milkshake,Choco Brownie Smoothies Premium Milkshake,1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",178.2
+Smoothies Premium Milkshake,Chocolate Chips Smoothies Premium Milkshake,1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",156.6
+Smoothies Premium Milkshake,Coffee Mocha Smoothies Premium Milkshake,1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",167.4
+Smoothies Premium Milkshake,Dairy Milk Choc Smoothies Premium Milkshake,1,0,,178.2
+Smoothies Premium Milkshake,Dark Chocolate Smoothies Premium Milkshake,1,0,,178.2
+Smoothies Premium Milkshake,Fresh Chickoo Smoothies Premium Milkshake,1,0,,144.9
+Smoothies Premium Milkshake,Fresh Guava Smoothies Premium Milkshake,1,0,,167.4
+Smoothies Premium Milkshake,Fresh Strawberry Smoothies Premium Milkshake,1,0,,156.6
+Smoothies Premium Milkshake,Kaju Anjeer Smoothies Premium Milkshake,1,0,,178.2
+Smoothies Premium Milkshake,Kitkat Smoothies Premium Milkshake,1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",167.4
+Smoothies Premium Milkshake,Mango Milk Smoothies Premium Milkshake,1,0,,156.6
+Smoothies Premium Milkshake,Nutella Smoothies Premium Milkshake,1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",178.2
+Smoothies Premium Milkshake,Ores Cookies Smoothies Premium Milkshake,1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",134.1
+Smoothies Premium Milkshake,Rocher Ferrero Smoothies Premium Milkshake,1,0,,223.2
+Smoothies Premium Milkshake,Sitafal Smoothies Premium Milkshake,1,0,,167.4
+Smoothies Premium Milkshake,Vanilla Smoothies Premium Milkshake,1,0,,111.6
+Smoothies Premium Milkshake,Walnut Chocolate Fudge Smoothies Premium Milkshake,1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",178.2
+Water,Water Bottle,1,0,,10.8
+Cold Coco [300Ml],1 Litr Coco,1,0,,236.7
+Cold Coco [300Ml],Cadbury Coco,1,0,,109.8
+Cold Coco [300Ml],Cold Coco (250 Ml),1,0,Try Surat's famous cold coco to experience real deliciousness. Cold coco is a ... read more,63.0
+Cold Coco [300Ml],Icecream Coco,1,0,,109.8
+Cold Coco [300Ml],Kaju Coco,1,0,,120.6
+Cold Coco [300Ml],Malai Coco,1,0,,120.6
+Cold Coco [300Ml],Rajwadi Coco (350 Ml),1,0,,176.4
+Lassi [300Ml],Kaju Lassi,1,0,,89.1
+Lassi [300Ml],Lassi (250 Mi),1,0,,45.0
+Lassi [300Ml],Malai Lassi,1,0,,89.1
+Lassi [300Ml],Mango Lassi,1,0,,66.6
+Lassi [300Ml],Raiwadi Lassi (350 Mi),1,0,,134.1
+Milk Shake,Badam Shake,1,0,,78.3
+Milk Shake,Chickoo,1,0,,55.8
+Milk Shake,Cold Coffee,1,0,,89.1
+Milk Shake,DryFruit,1,0,,189.9
+Milk Shake,Fresh Fruit (Seasonal),1,0,,144.9
+Milk Shake,Kaju Anjeer,1,0,,156.6
+Milk Shake,Kaju Badam,1,0,,156.6
+Milk Shake,Kaju Gulkand,1,0,,156.6
+Milk Shake,Kaju Mango,1,0,,134.1
+Milk Shake,Kesar Pista,1,0,,178.2
+Milk Shake,Mango,1,0,,78.3
+Milk Shake,Only Kaju,1,0,,156.6
+Milk Shake,Pineapple,1,0,,45.0
+Milk Shake,Rajwadi Dryfruit,1,0,,245.7
+Milk Shake,Rose,1,0,,45.0
+Fresh Juice,Mosambi Fresh Juice,1,0,,55.8

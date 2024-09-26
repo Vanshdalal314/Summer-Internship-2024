@@ -1,0 +1,16 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dosa,Davangere Dosa,1,0,,65.0
+Dosa,Sponge Dosa,1,0,,90.0
+Dosa,Cheese Cut Dosa,1,0,,80.0
+Dosa,Schezwan Cut Dosa,1,0,,80.0
+Starters,Manchurian Dry,1,0,,80.0
+Biryani,Veg Dum Biryani,1,0,,90.0
+South Indian,Idli Sambar,1,0,,35.0
+South Indian,Onion Uttapam,1,0,,80.0
+South Indian,Tomato Uttapam,1,0,,80.0
+South Indian,Mix Uttapam,1,0,,80.0
+Snacks,Vada Sambar,1,0,,35.0
+Snacks,Cheese Corn Ball,1,0,,80.0
+Snacks,Onion Rings,1,0,,80.0
+Snacks,Capsicum Rings,1,0,,80.0
+Snacks,French Fries,1,0,,80.0

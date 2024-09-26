@@ -1,0 +1,23 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Ulundu Vada [1 Vada],1,0,Served with chutney.,20.0
+Snacks,Paruppu Vada [1 Piece],1,0,,22.0
+Snacks,Sambhar Vada [1 Piece],1,0,,50.0
+Snacks,Curd Vada [1 Piece],1,0,,60.0
+Sweets,Tirunelveli Karupatti Halwa [250 grams],1,0,"Karupatti halwa, also known as palm jaggery halwa, is a traditional dessert from ... read more",251.0
+Sweets,Tirunelveli Cashew Halwa [250 g],1,0,Indulge in the rich and irresistible sweetness of Tirunelveli cashew halwa.,254.0
+Sweets,Tirunelveli Halwa [250 g],1,0,A delectable traditional Indian dessert bursting with rich flavors and a luscious texture.,183.0
+Sweets,Tirunelveli Muscoth Halwa [250 g],1,0,"Indulge in the delectable taste of this traditional Tirunelveli uscoth halwa, a mouth watering ... read more",170.0
+Hot Beverages,Karupatti Filter Coffee,1,0,Authentic filter coffee made with organic karupatti and rich milk. Due to online ... read more,45.0
+Hot Beverages,Naattu Sakkarai Filter Coffee,1,0,Authentic filter coffee made with organic naattu sakkarai and rich milk. Due to ... read more,45.0
+Hot Beverages,Naattu Sakkarai Tea,1,0,Tasteful tea made with organic naattu sakkarai and rich milk. Due to online ... read more,45.0
+Hot Beverages,Karupatti Tea,1,0,Tasteful tea made with organic karupatti and rich milk. Due to online delivery ... read more,45.0
+Juices,Muskmelon Juice,1,0,Fresh muskmelon juice.,69.0
+Juices,Apple Juice,1,0,Fresh apple juice.,99.0
+Juices,Apple Juice with Milk,1,0,Fresh apple juice blended with milk.,109.0
+Juices,Pomegranate Juice,1,0,Fresh pomegranate juice.,109.0
+Juices,Pomegranate Juice with Milk,1,0,Fresh pomegranate juice.,119.0
+Juices,Lemon Juice,1,0,Fresh lemon juice.,40.0
+Juices,Orange Juice,1,0,Fresh orange juice.,110.0
+Juices,Mosambi Juice,1,0,Fresh mosambi juice.,80.0
+Juices,Watermelon Juice,1,0,Fresh watermelon juice.,55.0
+Juices,Palm Fruit Juice,1,0,"Nungu palm. Palm fruit, milk, sugar and elaichi.",95.0

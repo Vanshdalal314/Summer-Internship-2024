@@ -1,0 +1,41 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dabeli,Butter Dabeli,1,0,,30.0
+Dabeli,Butter Schezwan Dabeli,1,0,,40.0
+Dabeli,Jam Butter Dabeli,1,0,,40.0
+Dabeli,Mayonaise Butter Dabeli,1,0,,40.0
+Dabeli,Cheese Butter Dabeli,1,0,,55.0
+Dabeli,Butter Schezwan Cheese Dabeli,1,0,,60.0
+Dabeli,Cheese Jam Butter Dabeli,1,0,,60.0
+Dabeli,Butter Mayonnaise Cheese Dabeli,1,0,,60.0
+Dabeli,Chocolaty Cheesey Dabeli,1,0,,65.0
+Dabeli,Dilkhush Special Dabeli,1,0,[Chef's Special],80.0
+Dabeli,Amul Butter Dabeli,1,0,,40.0
+Dabeli,Amul Butter Schezwan Dabeli,1,0,,50.0
+Dabeli,Amul Butter Jam Dabeli,1,0,,50.0
+Dabeli,Amul Butter Mayonnaise Dabeli,1,0,,50.0
+Dabeli,Amul Butter Cheese Dabeli,1,0,,65.0
+Dabeli,Amul Butter Schezwan Cheese Dabeli,1,0,,70.0
+Dabeli,Amul Butter Cheese Jam Dabeli,1,0,,70.0
+Dabeli,Amul Butter Mayonnaise Cheese Dabeli,1,0,,70.0
+Dabeli,Double Butter Cheese Dabeli,1,0,,65.0
+Snacks and Chaat,Butter Vada Pav,1,0,,30.0
+Snacks and Chaat,Butter Schezwan Vada Pav,1,0,,40.0
+Snacks and Chaat,Butter Mayonnaise Vada Pav,1,0,,40.0
+Snacks and Chaat,Butter Schezwan Cheese Vada Pav,1,0,,60.0
+Snacks and Chaat,Mayonnaise Cheese Butter Vada Pav,1,0,,60.0
+Snacks and Chaat,Dilkhush Special Vada Pav,1,0,[Chef's Special],80.0
+Snacks and Chaat,Double Butter Pav,1,0,,20.0
+Snacks and Chaat,Chocolate Butter Pav,1,0,,35.0
+Snacks and Chaat,Jam Butter Pav,1,0,,35.0
+Snacks and Chaat,Jam Butter Cheese Pav,1,0,,55.0
+Snacks and Chaat,Chocolate Cheese Butter Pav,1,0,,55.0
+Snacks and Chaat,Bread Pakoda,1,0,,30.0
+Snacks and Chaat,Collegian Bhel,1,0,Collegian bhel,50.0
+Snacks and Chaat,Lasaniya Bhungda Bataka,1,0,Lasaniya bhungda bataka,50.0
+Snacks and Chaat,Amul Butter Vada Pav,1,0,,40.0
+Snacks and Chaat,Amul Butter Schezwan Vada Pav,1,0,,50.0
+Snacks and Chaat,Amul Butter Mayonnaise Vada Pav,1,0,,50.0
+Snacks and Chaat,Cheese Butter Vada Pav,1,0,,50.0
+Snacks and Chaat,Amul Cheese Butter Vada Pav,1,0,,60.0
+Snacks and Chaat,Amul Cheese Butter Schezwan Vada Pav,1,0,,70.0
+Snacks and Chaat,Amul Cheese Butter Mayonnaise Vada Pav,1,0,,70.0

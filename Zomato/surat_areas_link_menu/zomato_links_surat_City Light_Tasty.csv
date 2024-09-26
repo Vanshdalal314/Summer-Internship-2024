@@ -1,0 +1,11 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Classic Vada Pav,1,0,,30.0
+Snacks,Masala Vada Pav,1,0,,50.0
+Snacks,Cheese Vada Pav,1,0,,60.0
+Snacks,Masala Cheese Vada Pav,1,0,,80.0
+Snacks,Schezwan Vada Pav,1,0,,50.0
+Snacks,Mayo Vada Pav,1,0,,50.0
+Snacks,Jain Vada Pav,1,0,[Jain Preparation],35.0
+Snacks,Classic Bread Pakoda,1,0,,35.0
+Snacks,Paneer Bread Pakoda,1,0,,70.0
+Snacks,Bread Butter,1,0,,45.0

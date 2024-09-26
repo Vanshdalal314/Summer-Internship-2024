@@ -1,0 +1,10 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chole Bhature,Chole Poori [2 Poori,1,0,"Chole [250 ml]. Served with onion salad, pickle and green chutney.",90.0
+Chole Bhature,2 Poori with Aloo Matar Sabji [250 ml],1,0,"Served with onion salad, pickle and green chutney.",90.0
+Chole Bhature,Chole with Paneer Stuffed Bhature,1,0,"Served with onion salad, pickle and green chutney.",100.0
+Chole Bhature,Chole Rice,1,0,"Served with onion salad, pickle and green chutney.",100.0
+Chole Bhature,Chole,1,0,[Special Chole [350 ml]+Onion Salad+Pickle+Green Chutney] in half plate [Special Chole [500 ml]+Onion ... read more,90.0
+Chole Bhature,Extra Bhature [1 Bhature],1,0,,50.0
+Rajma and Kadhi Chawal,Rajma Rice,1,0,"Served with onion salad, pickle and salad.",100.0
+Rajma and Kadhi Chawal,Rajma,1,0,(Sp rajma 350 ml + onion salad + pickle + green chatni) in ... read more,100.0
+Buttermilk,Masala Chaas,1,0,,30.0

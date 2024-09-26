@@ -1,0 +1,30 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cold Coco,Kaju Coco,1,0,"Cold coco is a dense, creamy and silky chocolate beverage.",130.0
+Cold Coco,Ice Cream Coco,1,0,"Cold coco is a dense, creamy and silky chocolate beverage.",130.0
+Cold Coco,Special Ice Cream Kaju Coco,1,0,"Kaju coco is a dense, creamy and silky chocolate beverage.",170.0
+Cold Coco,Cold Coco,1,0,"Cold coco is a dense, creamy and silky chocolate beverage.",90.0
+Falooda,Special Ice Cream Rose Falooda,1,0,Falooda made with sharbat syrup misses a core part of the flavor of ... read more,100.0
+Fresh Juices,Mosambi Fresh Juice,1,0,,80.0
+Lassi,Gulab Lassi,1,0,"Sweet lassi, as the name says, is sweet in taste and is more ... read more",70.0
+Lassi,Plain Lassi,1,0,"Sweet lassi, as the name says, is sweet in taste and is more ... read more",65.0
+Lassi,Kesar Lassi,1,0,"Kesar lassi, as the name says, is sweet in taste and is more ... read more",70.0
+Milkshakes,Kaju Milkshake,1,0,The smooth and creamy texture with cashews. Great for consuming anytime!,155.0
+Milkshakes,Kaju Anjeer Milkshake,1,0,The smooth and creamy texture of anjeer juice along with cashews. Great for ... read more,150.0
+Milkshakes,Kaju Anjeer Tukda Milkshake,1,0,"Shake blended with rick dryfruits like kaju, anjeer etc.",190.0
+Milkshakes,Kaju Anjeer Gulkand Milkshake,1,0,"Shake blended with rick dryfruits like kaju, anjeer & gulkand.",165.0
+Milkshakes,Kaju Mango Milkshake,1,0,"Soft, smooth and slurpy milkshake made from wholesome mangoes topped with cashew.",125.0
+Milkshakes,Mango Milkshake,1,0,A sweet and refreshing mango Milk shake is the perfect drink to enjoy ... read more,80.0
+Milkshakes,Kaju Badam Milkshake,1,0,,165.0
+Milkshakes,Kaju Pista Milkshake,1,0,The smooth and creamy texture of Kaju & Pista. Great for consuming anytime!,175.0
+Milkshakes,Kaju Gulkand Milkshake,1,0,A milk shake made from plush of Gulkand topped with Kaju (serves 1),125.0
+Milkshakes,Kaju Mango Tukda Milkshake,1,0,A sweet and refreshing mango Milk shake is the perfect drink to enjoy ... read more,175.0
+Milkshakes,Kaju Chocolate Milkshake,1,0,,165.0
+Milkshakes,Dry Fruit Milkshake,1,0,For instant boost of energy this dry fruits milkshake works like magic.,199.0
+Milkshakes,Badam Milkshake,1,0,,170.0
+Milkshakes,Badam Anjeer Milkshake,1,0,,150.0
+Milkshakes,Badam Pista Milkshake,1,0,The smooth and creamy texture of Badam & Pista. Great for consuming anytime!,165.0
+Milkshakes,Badam Gulkand Milkshake,1,0,,150.0
+Milkshakes,Pineapple Milkshake,1,0,,90.0
+Milkshakes,Gulkand Milkshake,1,0,A milk shake made from plush of Gulkand (serves 1),70.0
+Milkshakes,Anjeer Milkshake,1,0,,140.0
+Milkshakes,Chocolate Milkshake,1,0,"A refreshing milkshake prepared with chocolate ice cream, chocolate sauce and wholesome milk ... read more",80.0

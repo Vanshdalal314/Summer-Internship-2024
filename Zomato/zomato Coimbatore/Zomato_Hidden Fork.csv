@@ -1,0 +1,101 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Party Combos,Chettinad Chicken Sandwich With Chicken Popcorn,0,0,Chettinad Chicken Sandwich + Chicken Popcorn,390.0
+Party Combos,Fried Chicken Burger With Peri Peri Fries,0,0,Fried Chicken Burger + Peri Peri Fries,355.0
+Party Combos,White Sauce Pasta With Classic Fries,0,0,White Sauce Pasta + Classic Fries,360.0
+Starters,Jalepeno Nachos,0,0,The Sizzling Taste Of Jalapenos In Crunchy Crispy Nachos Pairs Excellently With Tangy ... read more,180.0
+Starters,Cheese Fries,0,0,Crispy Fries Topped With White Cheese Sauce And Topped With Olives.,145.0
+Starters,Cheese Garlic Bread,0,0,Fresh Baked Garlic Bread Topped With Cheese And Baked.,145.0
+Starters,Chicken Fingers,0,0,"Mildly Seasoned Minced Chicken Strips, Dipped In Batter Emulsion For Coating With Bread ... read more",170.0
+Starters,Chicken Popcorn,0,0,"Mildly Seasoned Chicken Cubes, Dipped In Batter Emulsion For Coating With Bread Crumb.",195.0
+Starters,Classic Fries,0,0,All Time Classic.,120.0
+Starters,American Cheese Corn Ball,0,0,Lightly Flavoured & Spiced Cheese Stuffed Mashed Potatoes With Corn Kernels & Italian ... read more,170.0
+Starters,Fish Finger,0,0,Marinated Fish Coated With Bread Crumbs And Fried. Served With Peri Peri Sauce.,170.0
+Starters,Garlic Bread,0,0,Fresh Baked Garlic Bread.,120.0
+Starters,Jalepeno Cheese Balls,0,0,Lightly Flavoured & Spiced Cheese Stuffed Mashed Potatoes With Jalepeno Dice & Italian ... read more,170.0
+Starters,Jalapeno Fries,0,0,Crispy Fries Topped With A Home Made Jalapeno Sauce And Topped With Sliced ... read more,145.0
+Starters,Jamaican Chicken,0,0,A Well-Seasoned Grilled Chicken Strips With Jamaican Jerk Marinade That Has The Perfect ... read more,180.0
+Starters,Mozzarella Cheese Sticks,0,0,Panko Crumbed Mozzarella Cheese,170.0
+Starters,Peri Peri Fries,0,0,Crispy Fries Tossed In Spicy Peri Peri Seasoning And Served With Garlic Aioli.,160.0
+Starters,Bbq Chicken Wings,0,0,Wings Sauteed In Smoky Bbq Sauce.,180.0
+Starters,Crispy Wings,0,0,Crispy Fried Wings Served With A Peri Peri Mayo On The Side.,180.0
+Starters,Honey Chilli Wings,0,0,Chicken Wings Sauteed In Honey And Spicy Sauce,180.0
+Bruschetta,Mushroom Bruschetta,0,0,Italian appetizer of garlic bread topped with mushrooms,160.0
+Salad,Non-Veg Caesar Salad,0,0,,195.0
+Salad,Veg Caesar Salad,0,0,,170.0
+Sub,Chicken Submarine,0,0,Grilled Shredded Chicken Mixed With Mayonnaise And Seasonings And Sandwiched Between Loaf.,220.0
+Sub,Paneer Submarine,0,0,Grillled Paneer Mixed With Mayonnaise And Seasonings And Sandwiched Between Loaf,180.0
+Sub,Scrambled Egg Mint Mayo Sanwich,0,0,Scrambled Egg With Mint Mayo,150.0
+Maggie,Classic Maggie,0,0,Nostalgia Overload.,85.0
+Maggie,Cream Cheese Maggie,0,0,"Maggi Noodles, Combined With Cheese And Fresh Cream - Rich And Drool Some",90.0
+Maggie,Desi Indian Maggie,0,0,"Hearty Maggi Topped With Tomato And Onion, Bhujia, Some Mint Mayo And A ... read more",110.0
+Maggie,Lemon Corriander Maggie,0,0,,110.0
+Maggie,Peri Peri Maggie,0,0,A Classic Favorite Maggie Prepared With Prepared Seasoning.,110.0
+Maggie,Schezwan Maggie,0,0,Maggie Noodles With A Cinese Twist Added Schezwan Sauce And Shredded Chicken.,90.0
+Sandwiches And Burgers,Chettinad Chicken Sandwich,0,0,"A Spicy, Flavourful Blend Of Toasted Ground Spices And Tender Chicken Pieces Stuffed ... read more",195.0
+Sandwiches And Burgers,Desi Mumbai Sandwich,0,0,Amchi Mumbai Ki Desi Street Style Sandwich With Mint Chutney Tomatoes And Cucumber.,195.0
+Sandwiches And Burgers,Garlic Mayo Chicken Sandwich,0,0,Shredded Chicken With Creamy Garlic Mayo Seasoned With Italion Seasonings,220.0
+Sandwiches And Burgers,Hidden Fork Special Sandwich,0,0,"3 Layered Monster Sandwich Made With Juicy Chunky Chicken, Sausages, Herb Mayo, Fried ... read more",300.0
+Sandwiches And Burgers,Spicy Chicken Sandwich,0,0,Wheat Bread Sandwiched With Shredded Chicken Mixture And Flavoured With Tongue Tickling Spice ... read more,195.0
+Sandwiches And Burgers,Spicy Paneer Sandwich,0,0,Wheat Bread Sandwiched With Succulent Paneer Mixture And Flavoured With Tongue Tickling Spice ... read more,195.0
+Sandwiches And Burgers,Tandoori Chicken Sandwich,0,0,Irresistibly Tangy And Frangrantly Spiced Tandoori Sauce With Shredded Chicken And Caramelised Onion.,195.0
+Sandwiches And Burgers,Tandoori Paneer Sandwich,0,0,Irresistibly Tangy And Frangrantly Spiced Tandoori Sauce With Paneer Cubes And Caramelised Onion.,195.0
+Sandwiches And Burgers,Chicken Burger,0,0,,180.0
+Sandwiches And Burgers,Fried Chicken Burger,0,0,Crumb Fried Chicken Patty Topped With Lots Of In House Sauces And Lettuce.,195.0
+Sandwiches And Burgers,Panko Chicken Burger,0,0,Panko Fried Chicken Patty Topped With Lots Of In House Sauces And Lettuce.,199.0
+Sandwiches And Burgers,Ultimate Hidder Fork Burger,0,0,"Our Signature Burger Made Of Juicy Patty, Crumb Fried Chicken, Smoked Sausage And ... read more",325.0
+Sandwiches And Burgers,Veg Burger,0,0,Meh!!,160.0
+Mac N Cheese,Mac N Cheese (Corn Capsicum),0,0,Macroni Pasta Cooked With Our Inhouse Made Cheese Sauce And Corn Capsicum,270.0
+Mac N Cheese,Mac N Cheese - Classic,0,0,Macroni Pasta Cooked With Our Inhouse Made Cheese Sauce,270.0
+Pizzas And Pastas,Pesto Pasta,0,0,Pasta Tossed In Fresh Basil Herb Sauce.,260.0
+Pizzas And Pastas,Pink Sauce Pasta,0,0,Penne Pasta Made With Combo Of Red N White Sauce With Veggies : ... read more,240.0
+Pizzas And Pastas,Red Sauce Pasta,0,0,"Perfectly Cooked Penne Dunked In A Rustic Tomato Sauce Cooked With Garlic, Fresh ... read more",240.0
+Pizzas And Pastas,White Sauce Pasta,0,0,Vegetables And Penne Pasta Tossed In A Creamy And Cheesy Alfredo Sauce Along ... read more,240.0
+Pizzas And Pastas,"9"" Masala Chicken Pizza",0,0,,315.0
+Pizzas And Pastas,"9"" Masala Panneer Pizza",0,0,,300.0
+Pizzas And Pastas,Bbq Chicken Pizza Nonveg (9 Inch),0,0,Bbq Chicken And Mushroom.,340.0
+Pizzas And Pastas,Chicken Sausage Pizza (9 Inch),0,0,| Serves 1 | Chicken Pepperoni/Salami And Jalapenos.,315.0
+Pizzas And Pastas,Supreme Pizza Nonveg (9 Inch),0,0,"Chicken, Onion, Capsicum And Olives.",315.0
+Pizzas And Pastas,Exotica Pizza Veg (9 Inch),0,0,"Onion, Capsicum, Mushroom, Olive And Jalapeno.",350.0
+Pizzas And Pastas,Extragavanza Pizza (9 Inch),0,0,"Chicken, Onion, Capsicum, Mushroom, Olive And Jalapeno.",375.0
+Pizzas And Pastas,Fiery Chicken Pizza (9 Inch),0,0,| Serves 1 | Spicy Chicken And Onion.,340.0
+Pizzas And Pastas,Fiery Paneer Pizza Veg (9 Inch),0,0,Paneer And Onion.,340.0
+Pizzas And Pastas,Fiesta Pizza Veg (9 Inch),0,0,"Coloured Capsicum, Onion, Chilli And Garlic.",265.0
+Pizzas And Pastas,Margherita Pizza Veg (9 Inch),0,0,,255.0
+Pizzas And Pastas,Mexicana Pizza Nonveg (9 Inch),0,0,| Serves 1 | Grilled Chicken And Chipotle.,340.0
+Pizzas And Pastas,Mexicana Pizza Veg (9 Inch),0,0,"Colored Capsicum, Onion, Jalapeno And Chipotle.",340.0
+Pizzas And Pastas,Slurpy Shrooms Pizza Veg (9 Inch),0,0,| Serves 1 | Mushrooms And Onion.,290.0
+Desserts,Brownie Cake,0,0,Rich Chewy Chocolate Cake Preferred By Cake Connoisseurs Everywhere.,110.0
+Desserts,Elaneer Payasam,0,0,,150.0
+Drinks (Beverages),Brownie Choclate Shake,0,0,,170.0
+Drinks (Beverages),Brownie Shake,0,0,,170.0
+Drinks (Beverages),Choco Almond Shake,0,0,,195.0
+Drinks (Beverages),Choco Peanut Shake,0,0,,180.0
+Drinks (Beverages),Frerro Rocher Shake,0,0,,240.0
+Drinks (Beverages),Kitkat Shake,0,0,,180.0
+Drinks (Beverages),Lotus Biscoff Shake,0,0,A refreshing and indulgent iced drink for all Biscoff lovers!,280.0
+Drinks (Beverages),Milo Shake,0,0,,220.0
+Drinks (Beverages),Nutella Shake,0,0,,220.0
+Drinks (Beverages),Oreo Shake,0,0,| Serves 1 |,170.0
+Drinks (Beverages),Red Velvet Shake,0,0,,170.0
+Drinks (Beverages),Roasted Almond Shake,0,0,,180.0
+Drinks (Beverages),Strawberry Shake,0,0,| Serves 1 |,160.0
+Drinks (Beverages),Thick Cold Coffee Frappe,0,0,,145.0
+Drinks (Beverages),Vanilla Shake,0,0,,170.0
+Drinks (Beverages),7Up 750Ml,0,0,,70.0
+Drinks (Beverages),Pepsi 750Ml,0,0,| Serves 1 |,70.0
+Drinks (Beverages),Water Bottle 1Lrt,0,0,,35.0
+Coolers,Blue Curraco,0,0,| Serves 1 |,100.0
+Coolers,Green Apple Fizz,0,0,,85.0
+Coolers,Lemon Iced Tea,0,0,,85.0
+Coolers,Lime Juice,0,0,,60.0
+Coolers,Lime Soda,0,0,,75.0
+Coolers,Mango Chilli Mojo,0,0,,110.0
+Coolers,Mint Lime,0,0,,60.0
+Coolers,Orange Green Apple Mojo,0,0,,110.0
+Coolers,Virjin Mojito,0,0,,100.0
+Coolers,Watermelon Apple Mojo,0,0,,110.0
+Extras,3 Dip,0,0,,50.0
+Extras,Cheese Slice,0,0,,20.0
+Extras,Garlic Dip,0,0,,20.0
+Extras,Paneer Extra,0,0,,30.0
+Extras,Peri Peri Dip,0,0,,20.0

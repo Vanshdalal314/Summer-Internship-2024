@@ -1,0 +1,66 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Surti Locho,Plain Locho (w/o Oil),1,0,Surat's most popular steamed Gujarati farsan topped with in-house flavourful masala and served ... read more,94.0
+Surti Locho,Oil Locho,1,0,"Surat's most popular steamed Gujarati farsan topped with in-house flavourful masala, peanut oil ... read more",54.0
+Surti Locho,Butter Locho,1,0,"Surat's most popular steamed Gujarati farsan topped with in-house flavourful masala, delicious butter ... read more",74.0
+Surti Locho,Cheese Butter Locho,1,0,"Surat's most popular steamed Gujarati farsan topped with in-house flavourful masala, delicious butter, ... read more",94.0
+Surti Locho,Classic Mayo-Cheese Roll Locho,1,0,Experience a delightful fusion of Locho rolled with mouth watering cheese and mayonnaise ... read more,154.0
+Surti Locho,Lasaniya Cheese Roll Locho [Non-Jain],1,0,"Experience a delightful fusion of Locho rolled with mouth watering cheese, mayonnaise and ... read more",164.0
+Surti Locho,Cheese Chilli Roll Locho,1,0,"Experience a delightful fusion of Locho rolled with mouth watering cheese, mayonnaise and ... read more",164.0
+Surti Locho,Tandoori Mayo Cheese Roll Locho [Non-Jain],1,0,"An mouth-watering fusion of warm cheese and delightful tandoori spices, rolled in a ... read more",154.0
+Surti Locho,Mexican Salsa Cheese Roll [Jain Not Available],1,0,,164.0
+Surti Locho,Thousand Cheese Roll [1 Plate],1,0,,184.0
+Surti Locho,Mexican Cheese Locho [Jain Not Available],1,0,,164.0
+Surti Locho,Thousand Mayo Cheese Roll Locho [1 Plate],1,0,,150.0
+Surti Locho,Locha No Lachko [1 Plate],1,0,,144.0
+Surti Locho,Green Chilli Locho [1 Plate],1,0,,144.0
+Surti Locho,Lasaniya Cheese Locho [1 Plate],1,0,,144.0
+Surti Locho,Schezwan Locho [1 Plate],1,0,,144.0
+Surti Locho,Thousand Mayo Locho [1 Plate],1,0,,144.0
+Surti Locho,Zesty Achari Locho [1 Plate],1,0,,144.0
+Surti Locho,Mexican Salsa Locho [1 Plate],1,0,,144.0
+Surti Locho,Peri Peri Locho [1 Plate],1,0,,144.0
+Surti Locho,Italian Locho [1 Plate],1,0,,144.0
+Surti Locho,Bhut Jolokiya Super Spicy Locho [1 Plate],1,0,,154.0
+Surti Locho,Paneer Makhani Locho [1 Plate],1,0,,164.0
+Surti Locho,Pizza Cheesy Locho [1 Plate],1,0,,164.0
+Surti Locho,Exotic Cheese Burst Locho [1 Plate],1,0,,164.0
+Surti Locho,Tandoori Mayo Locho [1 Plate],1,0,,164.0
+Surti Locho,Green Garlic Cheese Locho [1 Plate],1,0,,144.0
+Surti Locho,Schezwan Cheese Locho [1 Plate],1,0,,144.0
+Surti Locho,Classic Lasaniya Cheese Locho [1 Plate],1,0,,134.0
+Surti Locho,Cheese Burst Locho [1 Plate],1,0,,144.0
+Surti Locho,Italian Cheese Locho [1 Plate],1,0,,144.0
+Surti Locho,Choco Blast Locho [1 Plate],1,0,,160.0
+Crispy Appetizer,Live Petis,1,0,Lasan aloo copra stuffing.,74.0
+Crispy Appetizer,Live Chinese Roll,1,0,Chinese nuddles stuffing in roll,64.0
+Desi Delights,Sada Khaman,1,0,Without oil and sev.,44.0
+Desi Delights,Nylon Khaman,1,0,"Khaman with sev, green chilli and coriander with green chutney.",54.0
+Desi Delights,Sev Khaman,1,0,"Vagharela khaman with sev,corrinder,and green chutney",54.0
+Desi Delights,Tam Tam Khaman,1,0,"Khaman with red spicy and green chilli, coriander and green chutney.",74.0
+Desi Delights,Vagharela Sev Khaman,1,0,,54.0
+Desi Delights,Lasaniya Sev Khaman,1,0,,84.0
+Desi Delights,Mexican Sev Khaman,1,0,,84.0
+Desi Delights,Schezwan Cheese Khaman,1,0,,114.0
+Desi Delights,Green Garlic Cheese Khaman,1,0,,114.0
+Desi Delights,Mexican Cheese Khaman,1,0,,114.0
+Desi Delights,Cheese Sev Khaman,1,0,,94.0
+Idada and Dhokla,Fry Idada,1,0,Fry idada with coriander and green chutney.,54.0
+Idada and Dhokla,Green Garlic Cheese Idada [1 Plate],1,0,,114.0
+Idada and Dhokla,Cheese Butter Idada [1 Plate],1,0,,104.0
+Idada and Dhokla,Schezwan Cheese Idada [1 Plate],1,0,,114.0
+Idada and Dhokla,Sada Idada,1,0,,44.0
+Idada and Dhokla,Butter Idada,1,0,,74.0
+Idada and Dhokla,Cheese Idada,1,0,,94.0
+Idada and Dhokla,Tam Tam Idada,1,0,,84.0
+Idada and Dhokla,Lasaniya Idada,1,0,,84.0
+Idada and Dhokla,Mexican Idada,1,0,,84.0
+Idada and Dhokla,Schezwan Cheese Idada,1,0,,114.0
+Idada and Dhokla,Gareen Garlic Cheese Idada,1,0,,114.0
+Dhokla,Live Corn Dhokla,1,0,,33.0
+Dhokla,Butter Live Dhokla,1,0,,55.0
+Dhokla,Cheese Butter Live Dhokla,1,0,,65.0
+Dhokla,Schezwan Cheese Live Dhokla [1 Plate],1,0,,125.0
+Dhokla,Garlic Cheese Live Dhokla [1 Plate],1,0,,125.0
+Dhokla,Mayonnaise Cheese Live Dhokla [1 Plate],1,0,,125.0
+Dhokla,Live Dhokla,1,0,,54.0
+Jalebi,Jalebi,1,0,,33.0

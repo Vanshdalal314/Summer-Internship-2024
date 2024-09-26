@@ -1,0 +1,104 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Veg Soup,1,0,,60.0
+Soups,Manchow Soup,1,0,[Veg preparation],60.0
+Soups,Paneer Soup,1,0,[Veg preparation],60.0
+Soups,Mushroom Soup,1,0,[Veg preparation],80.0
+Soups,Egg Soup,0,0,,60.0
+Soups,Chicken Soup,0,0,,60.0
+Soups,Mutton Soup,0,0,,110.0
+Soups,Crab Soup,0,0,,80.0
+Starters,Paneer Chilli,1,0,,180.0
+Starters,Mushroom Chilli,1,0,,160.0
+Starters,Paneer 65,1,0,,170.0
+Starters,Green Paneer Tikka,1,0,,140.0
+Starters,Paneer Manchurian,1,0,,180.0
+Starters,Chilli Chicken,0,0,,170.0
+Starters,Chicken Lollipop,0,0,,130.0
+Starters,Fish Fry,0,0,,90.0
+Starters,Prawns Chilli,0,0,,150.0
+Starters,Paneer Tikka,1,0,,100.0
+Starters,Chicken Tandoori,0,0,,90.0
+Starters,Chicken Tangdi,0,0,,90.0
+Starters,Chicken Tikka,0,0,,100.0
+Starters,Chicken Stick Kabab,0,0,,150.0
+Starters,Fish Tikka,0,0,,120.0
+Starters,Pomfret Tandoori,0,0,,120.0
+Starters,Tandoori Prawns,0,0,,130.0
+Main Course,Paneer Butter Masala,1,0,,150.0
+Main Course,Kaju Paneer,1,0,,160.0
+Main Course,Palak Paneer,1,0,,140.0
+Main Course,Matar Paneer,1,0,,110.0
+Main Course,Chana Paneer,1,0,,100.0
+Main Course,Paneer Masala,1,0,,150.0
+Main Course,Paneer Handi,1,0,,160.0
+Main Course,Mushroom Handi,1,0,,210.0
+Main Course,Mushroom Masala,1,0,,150.0
+Main Course,Kaju Mushroom,1,0,,190.0
+Main Course,Paneer Chilli Gravy,1,0,,170.0
+Main Course,Paneer Tikka Gravy,1,0,,140.0
+Main Course,Mushroom Chilli Gravy,1,0,,190.0
+Main Course,Egg Keema,0,0,,80.0
+Main Course,Egg Bhurji,0,0,,90.0
+Main Course,Egg Kadhi,0,0,,90.0
+Main Course,Egg Lasan Tadka,0,0,,60.0
+Main Course,Chicken Kasa,0,0,,140.0
+Main Course,Chicken Curry,0,0,,130.0
+Main Course,Chicken Tikka Butter Masala,0,0,,140.0
+Main Course,Chicken Kabab Butter Masala,0,0,,170.0
+Main Course,Chicken Leg Butter Masala,0,0,,150.0
+Main Course,Chicken Stick Kabab Butter Masala,0,0,,150.0
+Main Course,Chicken Butter Masala,0,0,,150.0
+Main Course,Mutton Curry,0,0,,180.0
+Main Course,Mutton Kasa,0,0,,180.0
+Main Course,Fish Masala,0,0,,100.0
+Main Course,Prawns Curry [Small],0,0,,170.0
+Main Course,Prawns Curry,0,0,,170.0
+Main Course,Crab Curry,0,0,,150.0
+Rice and Biryani,Biryani Rice,1,0,[Veg preparation],110.0
+Rice and Biryani,Jeera Rice,1,0,[Veg preparation],110.0
+Rice and Biryani,Sada Rice,1,0,[Veg preparation],90.0
+Rice and Biryani,Veg Pulao,1,0,[Veg preparation],120.0
+Rice and Biryani,Egg Pulao,0,0,,130.0
+Rice and Biryani,Egg Jeera Rice,0,0,,80.0
+Rice and Biryani,Egg Kadhi Pulao,0,0,,110.0
+Rice and Biryani,Veg Biryani,1,0,,120.0
+Rice and Biryani,Egg Biryani,0,0,,120.0
+Rice and Biryani,Chicken Special Biryani,0,0,,120.0
+Rice and Biryani,Chicken Biryani,0,0,,110.0
+Rice and Biryani,Fashion Mutton Biryani,0,0,,160.0
+Rice and Biryani,Mutton Biryani,0,0,,180.0
+Fried Rice and Noodles,Fried Rice,1,0,,110.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,110.0
+Fried Rice and Noodles,Egg Bhurji Fried Rice,0,0,,90.0
+Fried Rice and Noodles,Egg Schezwan Fried Rice,0,0,,90.0
+Fried Rice and Noodles,Egg Chicken Fried Rice,0,0,,140.0
+Fried Rice and Noodles,Paneer Chowmein,1,0,,100.0
+Fried Rice and Noodles,Mushroom Chowmein,1,0,,130.0
+Fried Rice and Noodles,Mix Veg Chowmein,1,0,,110.0
+Fried Rice and Noodles,Egg Chowmein,0,0,,90.0
+Fried Rice and Noodles,Chicken Chowmein,0,0,,100.0
+Fried Rice and Noodles,Double Egg Chicken Chowmein,0,0,,110.0
+Fried Rice and Noodles,Egg Chicken Chowmein,0,0,,100.0
+Fried Rice and Noodles,Mixed Chowmein,0,0,,130.0
+Snacks,Paneer Pakoda,1,0,,140.0
+Snacks,Mushroom Pakoda,1,0,,170.0
+Snacks,Omelette,0,0,,50.0
+Snacks,Special Limbu Mari Omelette,0,0,,60.0
+Snacks,Egg Sadi Half Fry,0,0,,50.0
+Snacks,Egg Tomato Half Fry,0,0,,60.0
+Snacks,Egg Lasan Half Fry,0,0,,60.0
+Snacks,Egg Boiled Fry,0,0,,50.0
+Snacks,Boiled Egg [1 Egg],0,0,,15.0
+Snacks,Boneless Chicken 65 Pakoda,0,0,,120.0
+Snacks,Chicken Pakoda,0,0,,100.0
+Snacks,Prawns Pakoda,0,0,,140.0
+Snacks,Prawns Pakoda [Small],0,0,,140.0
+Snacks,Crab Pakoda,0,0,,130.0
+Rolls,Paneer Roll,1,0,,90.0
+Rolls,Mushroom Roll,1,0,,80.0
+Rolls,Mix Veg Roll,1,0,,80.0
+Rolls,Egg Roll,0,0,,60.0
+Rolls,Double Egg Roll,0,0,,80.0
+Rolls,Egg Chicken Roll,0,0,,80.0
+Rolls,Double Egg Chicken Roll,0,0,,90.0
+Rolls,Laccha Egg Chicken Roll,0,0,,100.0

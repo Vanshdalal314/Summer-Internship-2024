@@ -1,0 +1,45 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Punjabi Thali,4m Special Punjabi Thali,1,0,One paneer sabzi.one veg sabji.dal fry.jeera rice. two layer roti 3no.roasted papad.plain butter ... read more,210.0
+Punjabi Thali,Kathiyawadi Thali,1,0,Sev Tomato.lasaniya bataka.sadi khichdi.1no thepa+two layer ghee roti 2no.butter milk.roasted papad.salad (NON JAIN),203.0
+Combo,4m Chana Masala Combo (rice),1,0,"(Chana Masala 200 Gm, Plain Rice Butter 150 Gm, Salad, Butter Milk, Roasted ... read more",150.5
+Combo,4m Dal Fry Combo,1,0,"(Dal Fry 200 Gm, Jira Rice Butter 150 Gm, Salad, Butter Milk, Roasted ... read more",133.0
+Combo,4m Lasaniya Bataka Combo,1,0,"(Lasaniya Bataka 200 Gm, 2Layer Tava Roti Butter 2 Nos, Salad, Butter Milk, ... read more",133.0
+Combo,4m Mix Veg Combo,1,0,"(Mix Veg 200 Gm, 2Layer Tava Roti Butter 2 Nos, Salad, Butter Milk, ... read more",133.0
+Combo,4m Paneer Sabi Combo,1,0,"(Paneer Sabji 200 Gm, 2 Layer Tava Roti Butter 2 Nos, Salad, Butter ... read more",178.5
+Combo,4m Punjabi Chana Masala Combo-(roti),1,0,"(Chana Masala 200 Gm, 2 Layer Tava Roti Butter 2 Nos, Salad, Butter ... read more",150.5
+Combo,4m Veg Sabzi Combo,1,0,"(Panjabi Veg Sabji 200 Gm, 2 Layer Tava Roti Butter 2 Nos, Salad, ... read more",157.5
+Wrap,4M Bhakhari Pizza,1,0,Experience the best of both worlds with our Bhakri Pizza – a delightful ... read more,177.8
+Wrap,4M Desi Aloo Wrap,1,0,"Indulge in exotic desi flavours of our DESI ALOO WRAP , a ... read more",81.9
+Wrap,4M Desi Green Cheese Wrap,1,0,Elevate your taste buds with our Green Chutney Cheese Wrap – a harmonious ... read more,129.5
+Wrap,4M Desi Paneer Tikka Wrap,1,0,Savor the essence of Indian flavors with our Paneer Tikka Wrap – a ... read more,157.5
+Wrap,4M Desi Pizza Wrap,1,0,Introducing our Pizza Wrap – a fusion of desi comfort and on-the-go convenience! ... read more,154.0
+Wrap,4M Fulka Sandwich,1,0,Elevate your sandwich game with our Fulka Sandwich – a culinary delight that ... read more,157.5
+Gujarati Kathyawadi Sabji,4m Kaju Gathiya,1,0,NON JAIN gujarati savoury dish prepared with kaju and gathiya,192.5
+Gujarati Kathyawadi Sabji,4m Lasaniya Bataka (non Jain),1,0,NON JAIN kathiyawadi rasawala bataka withlasaniya tadka,154.0
+Gujarati Kathyawadi Sabji,4M Sev Tameta,1,0,NON JAIN kathiyawaditameta sabziwiththe crunchof sev,126.0
+Gujarati Kathyawadi Sabji,4m Vatana Bataka Tameta,1,0,NON JAIN home style gujarati vatana bataka tameta,126.0
+Paneer Cheese Sabji,4m Green Cheese Tadka,1,0,NON JAIN cubes of cheese cooked with masala palak gravy with garlic ... read more,259.0
+Paneer Cheese Sabji,4m Palak Paneer,1,0,NON JAIN cubes of paneer cooked in earthen flavours of green palak ... read more,227.5
+Paneer Cheese Sabji,4m Paneer Bhurji,1,0,NON JAIN sredded paneer cooked in semi thick gravy,259.0
+Paneer Cheese Sabji,4m Paneer Butter Masala,1,0,NON JAIN paneer pieces cooked in buttery masala gravy of tomato and onion,266.0
+Paneer Cheese Sabji,4m Paneer Lababdar,1,0,NON JAIN NON paneer pieces cookedJAIN,248.5
+Paneer Cheese Sabji,4m Paneer Lasasniya,1,0,NON JAIN cubes paneer cooked in spicy red gravy with lasanya tadka,252.0
+Veg Sabji,4m Aloo Sukha Masala,1,0,NON JAIN homa style sukha aloo sabzi with jeera tadka,133.0
+Veg Sabji,4m Chana Masala,1,0,NON JAIN chickpeas cooked in onion tomato gravy,168.0
+Veg Sabji,4m Dahi Aloo,1,0,NON JAIN home style aloo sabzi with curd,168.0
+Veg Sabji,4m Dal Fry,1,0,NON JAIN dal cooked in buttery north indian spices,119.0
+Veg Sabji,4m Dal Tadka,1,0,NON JAIN dal fry with additional spicy tadka,143.5
+Veg Sabji,4m Mix Veg Dhaba Style,1,0,NON JAIN vegetable cooked in dhaba style semi thick curry,224.0
+Veg Sabji,4m Sabji Diwani Handi,1,0,NON JAIN sabzi cooked in royal creamy gravy,241.5
+Veg Sabji,4m Veg Kolhapuri,1,0,NON JAIN vege table cooked in spicy red onion tomato gravy,224.0
+Rice,4m Dal Khichdi,1,0,NON JAIN a combination of lots of dal and rice cooked with indian ... read more,171.5
+Rice,4m Jeera Rice,1,0,Rice tossed in butter and jeera,126.0
+Rice,4m Palak Khiichdi,1,0,NON JAIN rice cooked in a buttery palak gravy topped with lot of ... read more,210.0
+Rice,4m Plain Rice,1,0,Rice tossed in butter,91.0
+Rice,4m Rajwadi Khichdi,1,0,NON JAIN home style vegetable khichdi cooked with indian spices and served,185.5
+Rice,4m Veg Biryani,1,0,NON JAIN rice layered with vegetable thick tangy gravy and caramelized onion anad ... read more,227.5
+Extra Menu,2 Layer Tava Roti Butter,1,0,,28.0
+Extra Menu,Butter Milk - Plain,1,0,,31.5
+Extra Menu,Roasted Papad,1,0,,24.5
+Undhiyu,Undhiyu(1kg),1,0,,483.0
+Undhiyu,Undhiyu(500gm),1,0,,238.0

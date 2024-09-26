@@ -1,0 +1,16 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Rolls,Paneer Kathi Roll,1,0,,150.0
+Rolls,Paneer Spicy Kathi Roll,1,0,,165.0
+Rolls,Chef Special Kathi Roll,1,0,,200.0
+Rolls,Chicken Kathi Roll,0,0,,250.0
+Rolls,Chicken Spicy Roll,0,0,,230.0
+Rolls,Chef's Special Chicken Roll,0,0,,270.0
+Maggi,Classic Maggi,1,0,,70.0
+Maggi,Double Masala Maggi,1,0,,90.0
+Maggi,Butter Maggi,1,0,,180.0
+Maggi,Cheese Maggi,1,0,,200.0
+Maggi,Exotic Maggi,1,0,,250.0
+Main Course,Chicken Curry,0,0,Spicy and chicken curry for a perfect meal.,180.0
+Main Course,Chicken Curry and Bread,0,0,Spicy chicken curry with bread [3 pieces].,185.0
+Main Course,Chicken Curry and Rice,0,0,Spicy chicken curry served with steamed rice.,200.0
+Main Course,Ghee Chicken,0,0,Juicy tender chicken cooked in desi ghee to make it healthy for you.,450.0

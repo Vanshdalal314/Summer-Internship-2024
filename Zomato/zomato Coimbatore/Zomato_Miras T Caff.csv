@@ -1,0 +1,127 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Celebration Combos,Veg Sandwich with Veg Shawarma and Vanilla Shake,1,0,"Delight in a veg sandwich featuring flavourful veg shawarma, offering a blend of ... read more",180.0
+Celebration Combos,Chicken Burger with Fries and Chocolate Shake,1,0,"Savour a chicken burger, perfectly grilled and nestled in a bun, accompanied by ... read more",230.0
+Celebration Combos,BBQ Chicken [Quarter] with Crispy Wings and Butterscotch Shake,1,0,"Relish a BBQ chicken quarter, slow-cooked to perfection, accompanied by crispy wings for ... read more",309.0
+Celebration Combos,Crispy Chicken Popcorn Combo,1,0,"Crispy Chicken Popcorn+Rose Milk+Peri Peri Fries [Mini] Enjoy the crispy delight of chicken popcorn, ... read more",250.0
+Exclusive Combos,Veg Sandwich Combo,1,0,Veg Sandwich+Lime Juice+Mine Fries,130.0
+Exclusive Combos,Chicken Strips Combo,1,0,2 Chicken Strips+Lime Soda+Bread Omelette,150.0
+Exclusive Combos,Regular Shawarma Combo,1,0,Regular Shawarma+Chicken Burger+Watermelon Juice,180.0
+Exclusive Combos,Veg Pizza Combo,1,0,Veg Pizza+Veg Sandwich+Virgin Mojito,200.0
+Exclusive Combos,Masala Maggi Combo,1,0,Masala Maggi+Smiley+Vanilla Shake,200.0
+Pizza & Pasta,Veg White Sauce Pasta,1,0,,100.0
+Pizza & Pasta,Veg Red Sauce Pasta,1,0,,110.0
+Pizza & Pasta,Non Veg White Sauce Pasta,1,0,,120.0
+Pizza & Pasta,Non Veg Red Sauce Pasta,1,0,,130.0
+Pizza & Pasta,Veg Pizza [7 inches],1,0,,130.0
+Pizza & Pasta,Corn & Olives Pizza [7 inches],1,0,,140.0
+Pizza & Pasta,Chicken Pizza [7 inches],1,0,,150.0
+Pizza & Pasta,Crispy Chicken Pizza [7 inches],1,0,,170.0
+Burgers & Sandwiches,Cheese Sandwich,1,0,,50.0
+Burgers & Sandwiches,Classic Veg Sandwich,1,0,,60.0
+Burgers & Sandwiches,Paneer Sandwich,1,0,,100.0
+Burgers & Sandwiches,Chicken Sandwich,1,0,,80.0
+Burgers & Sandwiches,Crispy Chicken Sandwich,1,0,,110.0
+Burgers & Sandwiches,Chicken Shawarma Sandwich,1,0,,90.0
+Burgers & Sandwiches,Veg Burger,1,0,,70.0
+Burgers & Sandwiches,Veg Cheese Burger,1,0,,90.0
+Burgers & Sandwiches,Double Patty Burger,1,0,,110.0
+Burgers & Sandwiches,Paneer Burger,1,0,,100.0
+Burgers & Sandwiches,Chicken Burger with Fries and Lime Juice,1,0,,180.0
+Burgers & Sandwiches,Chicken Burger [2 Pieces],1,0,,160.0
+Burgers & Sandwiches,Chicken Burger,1,0,,90.0
+Burgers & Sandwiches,Chicken Cheese Burger,1,0,,100.0
+Burgers & Sandwiches,Crispy Chicken Burger,1,0,,110.0
+Burgers & Sandwiches,Miras Special Chicken Burger,1,0,,110.0
+Burgers & Sandwiches,Chipotle Burger,1,0,,90.0
+Shawarma,Veg Shawarma,1,0,,80.0
+Shawarma,Regular Shawarma,1,0,,90.0
+Shawarma,Peri Peri Shawarma,1,0,,100.0
+Shawarma,Mexican Shawarma,1,0,,110.0
+Shawarma,Special Shawarma,1,0,,110.0
+Shawarma,Ghost Shawarma,1,0,,110.0
+Shawarma,Shawarma Plate,1,0,,110.0
+Shawarma,Peri Peri Shawarma Plate,1,0,,120.0
+Shawarma,Mexican Shawarma Plate,1,0,,120.0
+Shawarma,Ghost Shawarma Plate,1,0,,120.0
+Shawarma,Roll Shawarma with Mini Fries and Fresh Lime Juice,1,0,,170.0
+Shawarma,Chicken Roll Shawarma,1,0,,160.0
+Shawarma,Chicken Plate Shawarma [2 Pieces],1,0,,190.0
+Shawarma,Chicken Roll Shawarma with Chicken BBQ and Lime Juice,1,0,,220.0
+Shawarma,Veg Shawarma Roll,1,0,,80.0
+Shawarma,Paneer Shawarma Roll,1,0,,90.0
+Shawarma,Peri Peri Veg Shawarma Roll,1,0,,90.0
+Shawarma,Peri Peri Paneer Shawarma Roll,1,0,,90.0
+Shawarma,Ghost Paneer Shawarma Roll,1,0,,90.0
+Momos,Veg Fried Momos [6 Pieces],1,0,,90.0
+Momos,Chicken Momos [6 Pieces],1,0,,100.0
+Snacks,Classic Fries,1,0,,90.0
+Snacks,Peri Peri Fries,1,0,,100.0
+Snacks,Chilli Garlic Fries,1,0,,100.0
+Snacks,Cheese Fries,1,0,,110.0
+Snacks,Chipotle Fries,1,0,,120.0
+Snacks,Chillis & Cheese Fries,1,0,,130.0
+Snacks,French Fries Smiley,1,0,,90.0
+Snacks,Veg Fingers,1,0,,100.0
+Snacks,Corn Cheese Nuggets,1,0,,110.0
+Snacks,Garlic Bread,1,0,,70.0
+Snacks,Bread Omelette,1,0,,50.0
+Snacks,Bread Omelette Cheese,1,0,,60.0
+Snacks,Chicken Nuggets,1,0,,130.0
+Snacks,Chicken Fingers,1,0,,130.0
+Snacks,Crispy Chicken Popcorn,1,0,,150.0
+Snacks,Chicken Strips,1,0,,170.0
+Snacks,Fish Fingers,1,0,,130.0
+Maggi,Veg Masala Maggi,1,0,,60.0
+Maggi,Veg Peri Peri Maggi,1,0,,80.0
+Maggi,Veg Chilli Garlic Maggi,1,0,,80.0
+Maggi,Veg Cheese Maggi,1,0,,90.0
+Maggi,Non Veg Masala Maggi,1,0,,70.0
+Maggi,Non Veg Peri Peri Maggi,1,0,,90.0
+Maggi,Non Veg Chilli Garlic Maggi,1,0,,90.0
+Maggi,Non Veg Cheese Maggi,1,0,,100.0
+Grilled & BBQ,BBQ Chicken,1,0,Quater,130.0
+Grilled & BBQ,Pepper BBQ Chicken [Half],1,0,,270.0
+Grilled & BBQ,Hot and Spicy BBQ Chicken,1,0,Half BBQ,270.0
+Grilled & BBQ,BBQ Chicken [Full],1,0,BBQ chicken.,420.0
+Grilled & BBQ,BBQ Chicken [Half],1,0,,230.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Watermelon,1,0,Fresh fruits,70.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Pomegranate,1,0,FRESH fruits,99.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Lime Juice,1,0,FRESH kemon,70.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Mosambi,1,0,Fresh sathukudi,99.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Orange,1,0,,99.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Apple,1,0,Fresh fruits,99.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Venilla Shake,1,0,Shake,99.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Strawberry shake,1,0,Milk ice cream,99.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Butterscotch Shake,1,0,Milk ice cream,120.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Pista shake,1,0,Milk flower ice cream,120.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Chocolate shake,1,0,Milk & Flavor ice cream,120.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Oreo shake,1,0,Milk & Flavor ice cream,130.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Black current shake,1,0,Milk & Flavor ice cream,140.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Cold coffee,1,0,Milk & flavor ice cream coffee,60.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Cold Boost [Medium],1,0,,130.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Cold Horlicks,1,0,,130.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Kit Kat Shake,1,0,Kit kat.milk flavor ice cream,150.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Daily Milk Shake,1,0,Daily milk. Milk flavor ice cream,150.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Brownie Shake,1,0,Brownie. Milk ice cream,150.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Dates. Milk Ice Cream,1,0,,150.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Nuttella Shake,1,0,,150.0
+Fresh Juice Milkshakes [Buy 1 Get 1],Peanut Shake,1,0,Peanut.milk ice cream etc,150.0
+Fast Foods,Chicken Fried Rice,1,0,,160.0
+Fast Foods,Schezwan Chicken Fried Rice,1,0,,170.0
+Fast Foods,Ghost Chicken Fried Rice,1,0,,170.0
+Fast Foods,Egg Fried Rice,1,0,,150.0
+Fast Foods,Schezwan Egg Fried Rice,1,0,,150.0
+Fast Foods,Ghost Egg Fried Rice,1,0,,150.0
+Fast Foods,Veg Fried Rice,1,0,,140.0
+Fast Foods,Schezwan Veg Fried Rice,1,0,,140.0
+Fast Foods,Chicken Noodles,1,0,,160.0
+Fast Foods,Schezwan Chicken Noodles,1,0,,170.0
+Fast Foods,Ghost Chicken Noodles,1,0,,170.0
+Fast Foods,Egg Noodles,1,0,,150.0
+Fast Foods,Schezwan Egg Noodles,1,0,,150.0
+Fast Foods,Ghost Egg Noodles,1,0,,150.0
+Fast Foods,Veg Noodles,1,0,,140.0
+Fast Foods,Schezwan Veg Noodles,1,0,,140.0
+Fast Foods,Ghost Veg Noodles,1,0,,140.0
+Party Combos,Chicken Burger [2 Pieces] with Classic Fries,1,0,,250.0
+Party Combos,Chicken Burger [2 Pieces] with Crispy Chicken Popcorn,1,0,,310.0

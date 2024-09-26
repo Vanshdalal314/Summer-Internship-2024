@@ -1,0 +1,112 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza And Pasta,Chocolate Pizza,1,0,,140.0
+Pizza And Pasta,Margherita Pizza,1,0,,110.0
+Pizza And Pasta,Tomato Pizza,1,0,,120.0
+Pizza And Pasta,Veg Maggie Pizza,1,0,,120.0
+Pizza And Pasta,Indian Pizza,1,0,,120.0
+Pizza And Pasta,Khet Khaliyan Pizza,1,0,,140.0
+Pizza And Pasta,Cheesy Golden Corn Pizza,1,0,,150.0
+Pizza And Pasta,Italian Pizza,1,0,,160.0
+Pizza And Pasta,Lucknowi Nawabi Pizza,1,0,,150.0
+Pizza And Pasta,Alfredo Pasta,1,0,,110.0
+Pizza And Pasta,Chinese Pasta,1,0,,150.0
+Pizza And Pasta,Macroni Pasta,1,0,,150.0
+Pizza And Pasta,Tomato Pasta,1,0,,150.0
+Pizza And Pasta,Maggi Fusion Pasta,1,0,,130.0
+Pizza And Pasta,Del Bronze Pasta,1,0,,140.0
+Pizza And Pasta,Cheesy Pasta,1,0,,170.0
+Pizza Khakhra,Masala Khakhra,1,0,,70.0
+Pizza Khakhra,Cheese Masala Khakhra,1,0,,90.0
+Pizza Khakhra,Cheese Mayo Khakhra,1,0,,100.0
+Pizza Khakhra,Schezwan Khakhra,1,0,,110.0
+Pizza Khakhra,Apna Adda Special Khakhra,1,0,,120.0
+Sandwiches,Open Sandwich,1,0,,90.0
+Sandwiches,Pizza Toast Sandwich,1,0,,90.0
+Sandwiches,Veg Toast Sandwich,1,0,,80.0
+Sandwiches,Veg Sandwich,1,0,,60.0
+Sandwiches,Veg Cheese Sandwich,1,0,,80.0
+Sandwiches,Chocolate Bite Sandwich,1,0,,110.0
+Sandwiches,Grill Sandwich,1,0,,110.0
+Maggi,Masala Maggie,1,0,,50.0
+Maggi,Schezwan Maggie,1,0,,100.0
+Maggi,Veg Cheese Garlic Maggie,1,0,,120.0
+Maggi,Veg Maggi,1,0,,60.0
+Maggi,Peri Peri Maggi,1,0,,80.0
+Maggi,Veg Cheese Maggi,1,0,,80.0
+Maggi,Garden Maggi,1,0,,110.0
+Maggi,Apna Adda Special Maggi,1,0,,120.0
+Snacks,Bread Maska,1,0,,40.0
+Snacks,Bread Maska Chutny,1,0,,50.0
+Snacks,Bread Maska Chutny Toast,1,0,,90.0
+Snacks,Bread Maska Jam,1,0,,50.0
+Snacks,Bread Maska Jam Toast,1,0,,60.0
+Snacks,Bread Maska Toast,1,0,,60.0
+Snacks,Cheese Bread Maska Chunty Toast,1,0,,100.0
+Snacks,Cheese Bread Maska Chutny,1,0,,80.0
+Snacks,Cheese Bread Maska Jam,1,0,,90.0
+Snacks,Cheese Bread Maska,1,0,,70.0
+Snacks,Fries Time,1,0,,90.0
+Snacks,Spicy Fries,1,0,,110.0
+Snacks,Cheesy Potato,1,0,,120.0
+Snacks,Butter Masala Corn,1,0,,70.0
+Snacks,Cheese Butter Masala Corn,1,0,,80.0
+Snacks,Cheese Maxican Corn,1,0,,90.0
+Snacks,Paneer Schezwan Corn,1,0,,100.0
+Snacks,Schezwan Corn,1,0,,90.0
+Garlic Breads,Cheese Burst Garlic Bread,1,0,,180.0
+Garlic Breads,Cheese Chilly Garlic Bread,1,0,,110.0
+Garlic Breads,Cheese Corn Garlic Bread,1,0,,120.0
+Garlic Breads,Cheese Garlic Bread,1,0,,110.0
+Garlic Breads,Maxican Garlic Bread,1,0,,150.0
+Garlic Breads,Paneer Garlic Bread,1,0,,140.0
+Garlic Breads,Garlic Bread,1,0,,80.0
+Chai Ke Sath,Cheesy Manaco Bites,1,0,,70.0
+Chai Ke Sath,Excotic Chat,1,0,,110.0
+Chai Ke Sath,Stuffed Monaco Sev Puri,1,0,,80.0
+Cold Coco,Choco Brownie Coco,1,0,,120.0
+Cold Coco,Coco,1,0,,50.0
+Cold Coco,Kaju Coco,1,0,,110.0
+Cold Coco,Coco With Ice Cream,1,0,,120.0
+Cold Coco,Death By Chocolate Coco,1,0,,130.0
+Dessert And Beverages,Hot Chocolate Brownie,1,0,,100.0
+Dessert And Beverages,Sizzling Brownie,1,0,,120.0
+Dessert And Beverages,Walnut Brownie,1,0,,170.0
+Dessert And Beverages,Apna Adda Special Brownie,1,0,,200.0
+Dessert And Beverages,Black Tea,1,0,,30.0
+Dessert And Beverages,Green Tea,1,0,,60.0
+Dessert And Beverages,Masala Tea,1,0,,40.0
+Dessert And Beverages,Kaju Anjeer Shake,1,0,,140.0
+Dessert And Beverages,Strawberry Shake,1,0,,110.0
+Dessert And Beverages,Kit Kat Shake,1,0,,130.0
+Dessert And Beverages,Oreo Shake,1,0,,120.0
+Dessert And Beverages,Pan Shake,1,0,,120.0
+Dessert And Beverages,Chocolate Shake,1,0,,150.0
+Dessert And Beverages,Lemon And Lime Ice Tea,1,0,,110.0
+Dessert And Beverages,Litchi Ice Tea,1,0,,110.0
+Dessert And Beverages,Mint Green Ice Tea,1,0,,110.0
+Dessert And Beverages,Orange Ice Tea,1,0,,110.0
+Dessert And Beverages,Peach Cooler,1,0,,110.0
+Dessert And Beverages,Wild Berry Ice Tea,1,0,,110.0
+Dessert And Beverages,Black Coffee,1,0,,80.0
+Dessert And Beverages,Bornvita,1,0,,90.0
+Dessert And Beverages,Capachino,1,0,,150.0
+Dessert And Beverages,Cold Coffee,1,0,,100.0
+Dessert And Beverages,Expresso,1,0,,150.0
+Dessert And Beverages,Hot Chocolate,1,0,,110.0
+Dessert And Beverages,Hot Coffee,1,0,,100.0
+Dessert And Beverages,Chocolate Cold Coffee,1,0,,110.0
+Dessert And Beverages,Cold Coffee With Ice Cream,1,0,,130.0
+Dessert And Beverages,Oreo Cold Coffee,1,0,,110.0
+Dessert And Beverages,Blue Mint Martini,1,0,,150.0
+Dessert And Beverages,Bull Red,1,0,,280.0
+Dessert And Beverages,Cool Island,1,0,,150.0
+Dessert And Beverages,Cosmopolitan,1,0,,180.0
+Dessert And Beverages,Kiwi Crush,1,0,,210.0
+Dessert And Beverages,Snow Ball,1,0,,160.0
+Dessert And Beverages,Strawberry Citrus,1,0,,160.0
+Dessert And Beverages,Triple Flare,1,0,[Non Alcoholic],160.0
+Dessert And Beverages,Virgin Mojito,1,0,,140.0
+Dessert And Beverages,Blue Lagoon,1,0,[Non Alcoholic],180.0
+Dessert And Beverages,Fantastic Mocktail,1,0,[Non Alcoholic],140.0
+Dessert And Beverages,Peach Pina Colada,1,0,[Non Alcoholic],190.0
+Dessert And Beverages,Pina Colada,1,0,[Non Alcoholic],170.0

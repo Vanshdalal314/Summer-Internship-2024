@@ -1,0 +1,38 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Assorted Pack,Assorted Dessert Pack 4 Products[320Gms],1,0,"Nutella Burst, Espresso Lava, Hazelnut Caramel, And Blondie",700.0
+Assorted Pack,Chocolate Cookie Variety Pack Of 4 Cookies[300Gms],1,0,"Dark Belgian Chocolate, Nyc Classic Chocolate, Espresso Lava, And Praline Fudge",620.0
+Assorted Pack,Cookie Tester Pack Of 4 Cookies[300Gms],1,0,"Nutella Burst, Nyc Classic, Dark Chocolate Orange, And Red Velvet Cheesecake",580.0
+Assorted Pack,Fruit Base Variety Pack Of 4 Cookies[300Gms],1,0,"Red Riding Hood, Strawberry Galaxy, Lemon Butter, And Dark Choco Orange",650.0
+Classic,Belgian Dark Chocolate Chunk[75Gms],1,0,Dark Chocolate Cookie With Couverture Chocolate,140.0
+Classic,Funfetti[75Gms],1,0,Dark Chocolate Cookie With Funfetti And Couverture Chocolate,140.0
+Classic,Lemon Butter Cookies[75Gms],1,0,Lemon Flavour Cookie With Eggless Lemon Curd,140.0
+Classic,Oats Carmelita[75Gms],1,0,Oats Cookie With Salted Caramel Sauce,140.0
+Premium,Cadbury Gems White Chocolate[75Gms],1,0,American Style Cookie With Gems And White Chocolate Chunks,160.0
+Premium,Chocochip And Walnut[75Gms],1,0,American Style Chocolate Chunk Cookie And Walnuts,160.0
+Premium,Espresso Lava[75Gms],1,0,Dark Chocolate Cookie With Chocolate Espresso Ganache,160.0
+Premium,Nyc Chocolate Chunk[75Gms],1,0,American Style Chocolate Chunk Cookie,160.0
+Premium,Praline Fudge[75Gms],1,0,Belgian Chocolate Cookie With Chocolate Ganache Topped With Praline,160.0
+Premium,Red Velvet Cream Cheese[75Gms],1,0,Redvelvet Cookie With Cream Cheese Filling,160.0
+Signature,Chocolate Orange[75Gms],1,0,Belgian Chocolate Cookie With Home-Made Orange Peel And Couverture Chocolate Ganache,170.0
+Signature,Chocolate Quinoa[75Gms],1,0,Gluten Free Chocolate Cookie With Almonds,170.0
+Signature,Galaxy - Strawberry[75Gms],1,0,American Style Cookie With Home-Made Strawberry Preserve,170.0
+Signature,Nutella Burst[75Gms],1,0,American Style Cookie With Nutella Filling,170.0
+Signature,Red Riding Hood[75Gms],1,0,Redvelvet Cookie With Home-Made Rasberry Preserve,170.0
+Signature,S'Mores[75Gms],1,0,American Style Cookie With Marshmallow And Meringue,170.0
+Brownie,Blondies[85Gms],1,0,White Chocolate Brownie,180.0
+Brownie,Cheesecake Brownie[85Gms],1,0,Cheesecake Brownie,200.0
+Brownie,Hazelnut Caramel[85Gms],1,0,Chopped Hazelnut And Caramel Brownie,200.0
+Brownie,Layered Rocky Road Brownie[85Gms],1,0,Marshmallow Nuts And Meringue Brownie,200.0
+Brownie,Walnut Fudge Brownie[85Gms],1,0,Walnut And Chocolate Chunk Brownie,180.0
+Cheesecake,Basque Burnt Cheese Cake[135Gms],1,0,Eggless Baked Cheesecake,280.0
+Cheesecake,San Sebastian Cheese Cake[135Gms],1,0,Eggless Baked Cheesecake With Home-Made Milk Chocolate Sauce,330.0
+Add Ons,Big Gift Box[1BOX],1,0,,300.0
+Add Ons,Small Gift Box[1BOX],1,0,,250.0
+Milk Shakes,Brownie Milkshake[300ML],1,0,,230.0
+Milk Shakes,Chocolate Diablo[300ML],1,0,,230.0
+Milk Shakes,Homestyle Cold Coffee[300ML],1,0,,230.0
+Milk Shakes,Pb&J[300ML],1,0,,230.0
+Milk Shakes,Redvelvet[300ML],1,0,,230.0
+Hot Chocolate,Classic Hot Chocolate[250ML],1,0,,280.0
+Hot Chocolate,Mexican Hot Chocolate[250ML],1,0,,280.0
+Hot Chocolate,Salted Caramel Hot Chocolate[250ML],1,0,,280.0

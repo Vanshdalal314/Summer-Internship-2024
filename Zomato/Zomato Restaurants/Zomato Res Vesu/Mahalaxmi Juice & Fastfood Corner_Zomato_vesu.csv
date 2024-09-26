@@ -1,0 +1,141 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fresh Juice(300ml),Apple Fresh Juice,1,0,,143.0
+Fresh Juice(300ml),Cocktail Fresh Juice,1,0,"Apple, pineapple, grapes",96.0
+Fresh Juice(300ml),Grapes Fresh Juice,1,0,,96.0
+Fresh Juice(300ml),Mosambi Pineapple Fresh Juice,1,0,,84.0
+Fresh Juice(300ml),Pineapple Fresh Juice,1,0,,84.0
+Fresh Juice(300ml),Pomegranate Fresh Juice,1,0,,143.0
+Fresh Juice(300ml),Sweet Lime Fresh Juice (Mosambi),1,0,Mosambi,84.0
+Fresh Juice(300ml),Water Melon Fresh Juice,1,0,,48.0
+Pizza,Italian Cheese Pizza(NON JAIN) [6 Inches],1,0,"Non jain. Macaroni, onion, kaju and capsicum.",167.0
+Pizza,Plain Cheese Pizza(NON JAIN) [6 Inches],1,0,,167.0
+Pizza,Veg Cheese Pizza(NON JAIN) [6 Inches],1,0,"Tomato, capsicum, onion.",155.0
+Burger,Italian Cheese Burger,1,0,Non Jain,131.0
+Burger,Plain Cheese Burger,1,0,Non Jain,131.0
+Burger,Veg Cheese Burger,1,0,Non Jain,120.0
+Sandwich,Aloo Matar Cheese Toast,1,0,,108.0
+Sandwich,Aloo Matar Toast,1,0,,72.0
+Sandwich,Bread Butter,1,0,,36.0
+Sandwich,Bread Butter Jam,1,0,,48.0
+Sandwich,Bread Butter Toast,1,0,,42.0
+Sandwich,Jain Cheese Grilled Sandwich,1,0,,149.0
+Sandwich,Plain Cheese Grilled Sandwich,1,0,,191.0
+Sandwich,Plain Cheese Jam Sandwich,1,0,,102.0
+Sandwich,Plain Cheese Sandwich,1,0,,90.0
+Sandwich,Plain Cheese Toast,1,0,,96.0
+Sandwich,Swaminarayan Cheese Grilled Sandwich,1,0,,149.0
+Sandwich,Veg Cheese Grilled Sandwich,1,0,,149.0
+Sandwich,Veg Cheese Sandwich,1,0,,96.0
+Sandwich,Veg Cheese Toast,1,0,,102.0
+Sandwich,Veg Sandwich,1,0,,60.0
+Sandwich,Veg Toast Sandwich,1,0,,66.0
+Coco(300ml),Cold Coco [300 Ml],1,0,,84.0
+Coco(300ml),Cold Coco With Chocolate Chips [300 Ml],1,0,,102.0
+Coco(300ml),Cold Coco With Ice Cream [300 Ml],1,0,,96.0
+Coco(300ml),Kaju Coco [300 Ml],1,0,,120.0
+Coco(300ml),Kaju Coco With Ice Cream [300 Ml],1,0,,131.0
+Dessert(300ml),Fruit Salad [300 Ml],1,0,,90.0
+American Thickshakes,Akhrot Anjeer Thick Shake [250 Ml],1,0,,108.0
+American Thickshakes,Badam Anjeer Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Biscoff Thickshake [250 Ml],1,0,,114.0
+American Thickshakes,Blackcurrant Thickshake [250 Ml],1,0,,96.0
+American Thickshakes,Bubblegum Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Butterscotch Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Caramel Cookies Thick Shake,1,0,,132.0
+American Thickshakes,Caramel Walnut Thick Shake [250 Ml],1,0,,144.0
+American Thickshakes,Chickoo Thickshake [250 Ml],1,0,,96.0
+American Thickshakes,Chikoo Chocolate Thickshake [250 Ml],1,0,,96.0
+American Thickshakes,Chikoo Kaju Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Chocolate Chips Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Chocolate Kaju Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Chocolate Thickshake [250 Ml],1,0,,96.0
+American Thickshakes,Coconut Kaju Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Cold Coffee [250 Ml],1,0,,108.0
+American Thickshakes,Ferrero Rocher Thickshake [250 Ml],1,0,,167.0
+American Thickshakes,Figs And Honey Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Kaju Akhrot Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Kaju Anjeer Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Kaju Badam Pista Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Kaju Badam Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Kaju Draksh Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Kaju Gulkand Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Kaju Khajur Thick Shake [250 Ml],1,0,,108.0
+American Thickshakes,Kaju Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Kesar Pista Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Khajur Akhrot Thick Shake [250 Ml],1,0,,108.0
+American Thickshakes,KitKat Thickshake [250 Ml],1,0,,114.0
+American Thickshakes,Kiwi Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Litchi Thickshake [250ml],1,0,,108.0
+American Thickshakes,Mango Kaju Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Mango Thickshake [250 Ml],1,0,,96.0
+American Thickshakes,Nutella Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Orange Thickshake [250 Ml],1,0,,96.0
+American Thickshakes,Oreo Cookies Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Paan Thickshake [250 Ml],1,0,,96.0
+American Thickshakes,Pineapple Thickshake [250 Ml],1,0,,96.0
+American Thickshakes,Rajbhog Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Red Velvet Brownie Thick Shake [250 Ml],1,0,,120.0
+American Thickshakes,Roasted Almond Chocolate Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Roasted Almond Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Rose Akhrot Thick Shake [250 Ml],1,0,,108.0
+American Thickshakes,Rose Thick Shake [250 Ml],1,0,,96.0
+American Thickshakes,Strawberry Oreo Thick Shake [250 Ml],1,0,,120.0
+American Thickshakes,Strawberry Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Thandai Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Vanilla Chips Thickshake [250 Ml],1,0,,108.0
+American Thickshakes,Vanilla Thickshake [250 Ml],1,0,,96.0
+American Thickshakes,Walnut Brownie Thickshake [250 Ml],1,0,,120.0
+Milk Shake(300ml),Anjeer Milkshake [300 Ml],1,0,,155.0
+Milk Shake(300ml),Apple Milkshake [300 Ml],1,0,,78.0
+Milk Shake(300ml),Badam Milkshake [300 Ml],1,0,,203.0
+Milk Shake(300ml),Chikoo Chocolate Milkshake [300 Ml],1,0,,78.0
+Milk Shake(300ml),Chikoo Chocolate With Ice Cream Milk Shake [300 Ml],1,0,,90.0
+Milk Shake(300ml),Chikoo Kaju Milkshake [300 Ml],1,0,,102.0
+Milk Shake(300ml),Chikoo Kaju With Ice Cream Milk Shake [300 Ml],1,0,,114.0
+Milk Shake(300ml),Chikoo Milkshake [300 Ml],1,0,,66.0
+Milk Shake(300ml),Chikoo Ice Cream Milk Shake [300 Ml],1,0,,78.0
+Milk Shake(300ml),Chocolate Milkshake [300 Ml],1,0,,84.0
+Milk Shake(300ml),Cold Coffee Milkshake [300 Ml],1,0,,108.0
+Milk Shake(300ml),Dry Fruit Milkshake [300 Ml],1,0,,239.0
+Milk Shake(300ml),Kaju Anjeer Milkshake [300 Ml],1,0,,167.0
+Milk Shake(300ml),Kaju Badam Anjeer Milkshake [300 Ml],1,0,,203.0
+Milk Shake(300ml),Kaju Badam Milkshake [300 Ml],1,0,,203.0
+Milk Shake(300ml),Kaju Badam Pista Milkshake [300 Ml],1,0,,203.0
+Milk Shake(300ml),Kaju Chocolate Milkshake [300 Ml],1,0,,203.0
+Milk Shake(300ml),Kaju Draksh Milk Shake [300 Ml],1,0,,167.0
+Milk Shake(300ml),Kaju Gulkand Milkshake [300 Ml],1,0,,167.0
+Milk Shake(300ml),Kaju Khajur Milk Shake [300 Ml],1,0,,215.0
+Milk Shake(300ml),Kaju Mango Milkshake [300 Ml],1,0,,125.0
+Milk Shake(300ml),Kaju Mango With Ice Cream Milk Shake [300 Ml],1,0,,137.0
+Milk Shake(300ml),Kaju Milkshake [300 Ml],1,0,,203.0
+Milk Shake(300ml),Khajur Akhrot Milkshake [300 Ml],1,0,,215.0
+Milk Shake(300ml),Mango Milkshake [300 Ml],1,0,,90.0
+Milk Shake(300ml),Mango With Ice Cream Milk Shake [300 Ml],1,0,,102.0
+Milk Shake(300ml),Muskmelon Milkshake [300 ML],1,0,,72.0
+Milk Shake(300ml),Pineapple Kaju With Ice Cream Milk Shake [300 Ml],1,0,,114.0
+Milk Shake(300ml),Pineapple Kaju Milkshake [300 Ml],1,0,,102.0
+Milk Shake(300ml),Pineapple Milkshake [300 Ml],1,0,,66.0
+Milk Shake(300ml),Pineapple With Ice Cream Milkshake [300 Ml],1,0,,78.0
+Milk Shake(300ml),Rose Milkshake [300 Ml],1,0,,66.0
+Milk Shake(300ml),Strawberry Milkshake [300 Ml],1,0,,66.0
+Milk Shake(300ml),Vanilla Milkshake [300 Ml],1,0,,72.0
+Party Combos,Aloo Matar Toast Sandwich With Cold Coco [300 Ml],1,0,Aloo Matar Toast Sandwich with Cold Coco [300 ml],155.0
+Party Combos,Aloo Matar Toast Sandwich With Fresh Juice,1,0,Aloo Matar Toast Sandwich with Fresh Juice,153.0
+Party Combos,Aloo Matar Toast Sandwich With Fruit Salad [300 Ml],1,0,Aloo Matar Toast Sandwich with Fruit Salad [300 ml],161.0
+Party Combos,Aloo Matar Toast Sandwich With Thick Shake,1,0,Aloo Matar Toast Sandwich with Thick Shake,176.0
+Party Combos,Italian Non Jain Cheese Pizza [6 Inches] With Cold Coco [300 Ml],1,0,Italian Non Jain Cheese Pizza [6 inches] with Cold Coco [300 ml],251.0
+Party Combos,Italian Non Jain Cheese Pizza [6 Inches] With Fresh Juice [300 Ml],1,0,Italian Non Jain Cheese Pizza [6 inches] with Fresh Juice [300 ml],248.0
+Party Combos,Italian Non Jain Cheese Pizza [6 Inches] With Fruit Salad [300 Ml],1,0,Italian Cheese Pizza [6 inches] with Fruit Salad [300 ml],257.0
+Party Combos,Italian Non Jain Cheese Pizza [6 Inches] With Thickshake [250 Ml],1,0,Italian Non Jain Cheese Pizza [6 inches] with Thickshake [250 ml],271.0
+Party Combos,Veg Cheese Burger With Cold Coco,1,0,,203.0
+Party Combos,Veg Cheese Burger With Fresh Juice,1,0,,201.0
+Party Combos,Veg Cheese Burger With Fruit Salad,1,0,,209.0
+Party Combos,Veg Cheese Burger With Thick Shake,1,0,,224.0
+Party Combos,Veg Cheese Griled Sandwich With Cold Coco [300 Ml],1,0,Veg Cheese Griled Sandwich with Cold Coco [300 ml],233.0
+Party Combos,Veg Cheese Grilled Sandwich With Fresh Juice [300 Ml],1,0,Veg Cheese Grilled Sandwich with Fresh Juice [300 ml],230.0
+Party Combos,Veg Cheese Grilled Sandwich With Fruit Salad [300 Ml],1,0,Veg Cheese Grilled Sandwich with Fruit Salad [300 ml],239.0
+Party Combos,Veg Cheese Grilled Sandwich With Thick Shake,1,0,Veg Cheese Grilled Sandwich with Thick Shake,253.0
+Party Combos,Veg Cheese Pizza(NON JAIN) [6 Inches] With Cold Coco [300 Ml],1,0,Veg Cheese Pizza [6 inches] with Cold Coco [300 ml],239.0
+Party Combos,Veg Cheese Pizza(NON JAIN) [6 Inches] With Fruit Salad [300 Ml],1,0,Veg Cheese Pizza [6 inches] with Fruit Salad [300 ml],245.0
+Party Combos,Veg Cheese Pizza(NON JAIN)[6 Inches] With Fresh Juice [300 Ml],1,0,Veg Cheese Pizza [6 inches] with Fresh Juice [300 ml],236.0
+Party Combos,Veg Cheese Pizza(NON JAIN)[6 Inches] With Thick Shake,1,0,Veg Cheese Pizza [6 inches] with Thick Shake,259.0

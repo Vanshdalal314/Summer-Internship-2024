@@ -1,0 +1,76 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Morning Thali,Gujarati Thali [Non Jain],1,0,| Serve 1 | | Medium spicy | 1 Green Sabzi [Subject to ... read more,237.75
+Morning Thali,Special Jalaram Thali [Non Jain],1,0,3 Sabji + Phulka Roti- 5 + Gujarati dal + Rice + Papad ... read more,352.75
+Starters,Bhindi Fry,1,0,| Serve 1 | | Medium spicy | | Served Dry | | ... read more,157.25
+Starters,Dahi Tikhari,1,0,Creamy Yogurt Curry With Tantalizing Tangy Flavors.?,163.0
+Starters,Jeera Aloo,1,0,| Serve 1 | | Medium spicy | | Served Dry |,145.75
+Starters,Kaju Gathia,1,0,,186.0
+Starters,Pulses,1,0,,157.25
+Starters,Lasaniya Batata,1,0,A Comforting Vegetarian Main Course Bursting With Bold Flavors.?,157.25
+Starters,Lili Cheese Dungri,1,0,,195.0
+Starters,Ringan Nu Bharty,1,0,| Serve 1 | | Medium spicy | | Served Semi-gravy |,157.25
+Starters,Ringan Ravaiya,1,0,,198.0
+Starters,Sev Lasan,1,0,,163.0
+Starters,Sev Tomato,1,0,| Serve 1 | | Medium spicy | | Served Gravy |,170.0
+Starters,Vagharelo Rotalo,1,0,,163.0
+Main Course,Aloo Matar,1,0,Aloo mutter is a punjabi dish from the indian subcontinent which is made ... read more,255.0
+Main Course,Aloo Palak,1,0,A hearty dish with soft potato cooked in Palak puree with a flavorful ... read more,255.0
+Main Course,Chana Masala,1,0,| Serve 1 | | Medium spicy | | Served Gravy |,255.0
+Main Course,Cheese Butter Masala,1,0,Creamy And Flavorful.?,325.0
+Main Course,Dal Fry,1,0,| Serve 1 | | Medium spicy | | Served Gravy |,195.0
+Main Course,Dal Tadka,1,0,| Serve 1 | | Medium spicy | | Served Gravy |,232.0
+Main Course,Kaju Curry,1,0,A Rich And Flavorful Curry With A Creamy Cashew Base.?,483.0
+Main Course,Kaju Masala,1,0,A Creamy Cashew Curry Bursting With Flavor.?,301.0
+Main Course,Kaju Paneer Masala,1,0,A Creamy And Rich Indian Dish Perfect For A Special Occasion.?,483.0
+Main Course,Lasuni Palak,1,0,400 Ml.,347.0
+Main Course,Mix Veg,1,0,A Delightful Medley Of Garden-Fresh Vegetables Bursting With Flavor. Serves 1-2,289.0
+Main Course,Palak Paneer,1,0,| Serve 1 | | Medium spicy | | Served Semi-gravy |,301.0
+Main Course,Paneer Bhurji,1,0,This Hearty Vegetarian Dish Is Bursting With Flavor And Sure To Please Any ... read more,398.0
+Main Course,Paneer Butter Masala,1,0,| Serve 1 | | Medium spicy | | Served Gravy |,330.0
+Main Course,Paneer Chatpata,1,0,A Tantalizing Mix Of Flavors And Textures That Will Leave Your Taste Buds ... read more,312.0
+Main Course,Paneer Cheese Masala,1,0,A Creamy And Flavourful Vegetarian Dish With Tender Chunks Of Paneer Cheese. Serves ... read more,450.0
+Main Course,Paneer Handi,1,0,"An Indian Classic, Rich And Creamy Curry With Soft Paneer Pieces, Cooked To ... read more",341.0
+Main Course,Paneer Hariyali,1,0,"Fresh cottage cheese marinated in yogurt, cooked in tandoor.",398.0
+Main Course,Paneer Kadai,1,0,A Rich And Aromatic Delicacy With Tender Paneer.?,341.0
+Main Course,Paneer Lasaniya,1,0,,312.0
+Main Course,Paneer Laziz,1,0,Paneer based gravy cooked in butter and tomato gravy. It is one of ... read more,341.0
+Main Course,Matar Paneer,1,0,A Flavorful Vegetarian Main Course With Soft Paneer And Tender Peas In A ... read more,301.0
+Main Course,Paneer Shahi Korma,1,0,"A creamy and mildly sweet gravy made with butter, cashewnut paste, tomato gravy, ... read more",312.0
+Main Course,Paneer Tufani,1,0,A Flavourful And Hearty Vegetarian Main Course.?,341.0
+Main Course,Plain Palak,1,0,"Approx 300 ml , serve 2 person",255.0
+Main Course,Raja Rani,1,0,,450.5
+Main Course,Veg Special Jalaram,1,0,,427.5
+Main Course,Veg Akbari,1,0,,289.0
+Main Course,Veg Handi,1,0,A Flavorful Veg Dish Loaded With Aromatic Spices And Savory Flavors.?,289.0
+Main Course,Veg Hariyali,1,0,A vibrant green main course bursting with fresh flavors.,358.0
+Main Course,Veg Kadai,1,0,A Flavorful Medley Of Vegetables Cooked To Perfection In Aromatic Spices.?,289.0
+Main Course,Veg Keema,1,0,"Approx 250 gms, serve 2",289.0
+Main Course,Veg Kolhapuri,1,0,A Flavorful And Aromatic Vegetable Dish From Maharashtra With A Perfect Blend Of ... read more,289.5
+Rice And Biryani,Dal Khichdi,1,0,| Serve 1 | | Not spicy | | Served Semi-gravy |,266.0
+Rice And Biryani,Jeera Rice,1,0,| Serve 1 | | Not spicy | | Served Dry |,209.0
+Rice And Biryani,Palak Khichdi,1,0,|Serve 1|Served Semi-gravy|,198.0
+Rice And Biryani,Plain Rice,1,0,| Serve 1 |,151.0
+Rice And Biryani,Veg Biryani,1,0,| Serve 1 | | Medium spicy | | Served Dry |,315.0
+Rice And Biryani,Veg Hyderabadi Biryani,1,0,"A Fragrant, Flavorful Vegetarian Rice Dish With Hyderabadi Influence.?",330.0
+Breads,Bajra Roti,1,0,"| Serve 1 , 1 Pc |",40.0
+Breads,Fulka Roti,1,0,"| Serve 1 , 1 Pc |",18.0
+Breads,Jowar Roti,1,0,"| Serve 1 , 1 Pc |",50.0
+Breads,Paratha,1,0,"| Serve 1 , 1 Pc |",45.0
+Breads,Thepla,1,0,"| Serve 1 , 1 Pc | | Not spicy |",30.0
+Accompaniments,Bundi Raita,1,0,A Refreshing Yogurt-Based Accompaniment With A Burst Of Sweetness And Crunch.?,157.25
+Accompaniments,Butter,1,0,Manikpal.singh@swiggy.in,105.5
+Accompaniments,Dal,1,0,| serve 1 | | Not spicy | | Served Gravy |,88.0
+Accompaniments,Ghee,1,0,,105.5
+Accompaniments,Gud,1,0,,65.25
+Accompaniments,Gud Ghee,1,0,,105.5
+Accompaniments,Kadhi,1,0,"| Serve 1 , 1 Pc | | Not spicy | | Served ... read more",88.0
+Accompaniments,Lasun Chatni,1,0,,105.5
+Accompaniments,Masala Butter Milk,1,0,| Serve 1 | | Medium spicy |,76.75
+Accompaniments,Mix Raita,1,0,Mix raita is a North Indian raita variety made with spiced yogurt and ... read more,157.25
+Accompaniments,Roasted Papad,1,0,"| Serve 1 , 1 Pc | | Medium spicy |",53.75
+Accompaniments,Vedmi,1,0,"| Serve 1 , 1 Pc |",110.0
+Aapnu Bhojan,Sabji Half,1,0,,105.5
+All Day Thali,Punjabi Thali [Non Jain],1,0,| Serve 1 | | Medium spicy | 1 Paneer Sabzi [Subject to ... read more,278.0
+Salads,Green Salad,1,0,Healthy green salad made from slices of garden fresh greens.,145.75
+Salads,Tomato Salad,1,0,A Refreshing Sweet And Savory Salad With Juicy Ripe Tomatoes As The Star.?,128.5
+Drinks (Beverages),Butter Milk,1,0,| Serve 1 |,65.25

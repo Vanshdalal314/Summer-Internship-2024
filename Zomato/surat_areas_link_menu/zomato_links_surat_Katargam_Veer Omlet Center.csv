@@ -1,0 +1,90 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Manchurian,1,0,,270.0
+Starters,Boiled Mushroom,1,0,,220.0
+Starters,Afghani Egg,0,0,,370.0
+Starters,Egg Tikka,0,0,,320.0
+Starters,Egg Green Tikka,0,0,,320.0
+Starters,Jhinga Fry,0,0,,270.0
+Main Course,Tomato Chutney,1,0,,40.0
+Main Course,Kaju Curry,1,0,,240.0
+Main Course,Shahi Korma,1,0,,190.0
+Main Course,Egg Dal Dhokli,0,0,,110.0
+Main Course,Bhurji,0,0,,60.0
+Main Course,Green Keema,0,0,,60.0
+Main Course,Lal Keema,0,0,,60.0
+Main Course,Goti Chutney,0,0,,50.0
+Main Course,Egg Chutney,0,0,,30.0
+Main Course,Egg India Curry,0,0,,60.0
+Main Course,Katki Keema,0,0,,60.0
+Main Course,Egg Kachu Tadka,0,0,,270.0
+Main Course,Paplet,0,0,,360.0
+Main Course,Rangin Paplet,0,0,,420.0
+Main Course,Royal Paplet,0,0,,570.0
+Main Course,Egg Dal Bati,0,0,,110.0
+South Indian,Mysore Dosa,1,0,,320.0
+South Indian,Dosa,1,0,,310.0
+Pizza and Pasta,Egg Pasta,0,0,,270.0
+Snacks,Raja Rani,1,0,,420.0
+Snacks,Samosa,1,0,,420.0
+Snacks,Slice,1,0,,130.0
+Snacks,Aloo Poori,1,0,,420.0
+Snacks,Boiled Toaster,1,0,,320.0
+Snacks,Omelette,0,0,,50.0
+Snacks,Cutletsh,0,0,,90.0
+Snacks,Green Ghotala,0,0,,120.0
+Snacks,Red Ghotala,0,0,,120.0
+Snacks,Paper Omelette,0,0,,50.0
+Snacks,Half Fry,0,0,,60.0
+Snacks,Green Fry,0,0,,90.0
+Snacks,Garlic Fry,0,0,,60.0
+Snacks,Boiled Tikka,0,0,,130.0
+Snacks,Kachu Paku,0,0,,60.0
+Snacks,Lachko,0,0,,60.0
+Snacks,Boiled Fry,0,0,,60.0
+Snacks,Cheese Boiled,0,0,,70.0
+Snacks,Egg Bhel,0,0,,15.0
+Snacks,Boiled Kopata,0,0,,130.0
+Snacks,Gotti Gotalo,0,0,,100.0
+Snacks,Egg Shak,0,0,,60.0
+Snacks,Katki Ghotala,0,0,,110.0
+Snacks,Doctor Fry,0,0,,40.0
+Snacks,Baby Omelette,0,0,,30.0
+Snacks,Ravaiya,0,0,,110.0
+Snacks,Tikahri,0,0,,190.0
+Snacks,Anamat,0,0,,130.0
+Snacks,Mughlai Egg,0,0,,190.0
+Snacks,Australian Fry,0,0,,190.0
+Snacks,Chinese Fry,0,0,,180.0
+Snacks,Egg Kick,0,0,,130.0
+Snacks,Egg Mamna,0,0,,270.0
+Snacks,Russian Omelette,0,0,,310.0
+Snacks,Part 2,0,0,,370.0
+Snacks,Egg Bahubali,0,0,,1180.0
+Snacks,Egg Patra,0,0,,270.0
+Snacks,Egg Abcd 2,0,0,,520.0
+Snacks,Egg Ghari,0,0,,570.0
+Snacks,Egg Patudi,0,0,,270.0
+Snacks,Masala Cheese Boiled Egg,0,0,,90.0
+Snacks,Chataka Pataka,0,0,,320.0
+Snacks,Egg Ashiqui,0,0,,420.0
+Snacks,Egg Dewarani Jethani,0,0,,570.0
+Snacks,Rassa Vadi Omelette,0,0,,110.0
+Snacks,Lahori Egg,0,0,,190.0
+Snacks,Hyderabdi Egg,0,0,,370.0
+Snacks,Royal Omelette,0,0,,130.0
+Snacks,Dry Fruit Egg,0,0,,320.0
+Snacks,Mexican Egg,0,0,,200.0
+Snacks,Egg Locho,0,0,,130.0
+Snacks,Egg Pushpa,0,0,,570.0
+Snacks,Kutuchi Lahori Egg,0,0,,220.0
+Snacks,Egg Ramjane,0,0,,160.0
+Snacks,Pataudi [Half],0,0,,160.0
+Snacks,Egg Bhool Bhuliaya,0,0,,520.0
+Snacks,1 Boiled Egg,0,0,,10.0
+Breads,Roti,1,0,,15.0
+Breads,Bread [6 Pieces],1,0,,20.0
+Accompaniments,Garlic Chutney,1,0,,50.0
+Accompaniments,Papad,1,0,,10.0
+Accompaniments,Masala Papad,1,0,,20.0
+Accompaniments,Cheese Papad,1,0,,40.0
+Accompaniments,Buttermilk,1,0,,20.0

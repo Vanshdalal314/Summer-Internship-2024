@@ -1,0 +1,42 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+TheTODP Specials,Chole Pakwan,1,0,,110.0
+TheTODP Specials,Dal Pakwan,1,0,Crispy pakwan (an indian fried bread) served with chana daal combined with duo ... read more,110.0
+Extras,Chole,1,0,,60.0
+Extras,Dal,1,0,,55.0
+Extras,Pakwan,1,0,,55.0
+Extras,Pav [4 Pieces],1,0,,50.0
+Extras,Extra Sindhi Kadhi,1,0,,120.0
+Drinks (Beverages),Masala Chaas,1,0,,35.0
+Drinks (Beverages),Coke [250 ML],1,0,,32.0
+Drinks (Beverages),Fanta [250 ML],1,0,,32.0
+Drinks (Beverages),Limca [250 ML],1,0,,32.0
+Drinks (Beverages),Sosyo [250 ML],1,0,,60.0
+Drinks (Beverages),Sprite [250 ML],1,0,,38.0
+Drinks (Beverages),Sting [250 ML],1,0,,32.0
+Drinks (Beverages),Thums Up [250 ML],1,0,,32.0
+The Chaat Specials,Dahi Bhalla,1,0,A cool and sweet chaat possessing the original taste from the indian subcontinent ... read more,80.0
+The Chaat Specials,Dahi Papdi Chaat,1,0,,80.0
+The Dessert Specials,Gulab Jamun (2 Pcs.),1,0,,48.0
+The Dessert Specials,Gulab Jamun (4 Pcs),1,0,Fried balls of mawa dipped in sugar water oozing with flavor of rose ... read more,84.0
+The Dessert Specials,Sooji Halwa (100 Gms.),1,0,,60.0
+Sandwich Specials,Aloo Masala Cheese Grilled Sandwich,1,0,,165.0
+Sandwich Specials,Veg Cheese Sandwich,1,0,,100.0
+Sandwich Specials,Veg Sandwich,1,0,,75.0
+Sandwich Specials,Veg. Cheese Grilled Sandwich,1,0,,155.0
+Burger Specials,Double Patty Cheese Burger,1,0,,150.0
+Burger Specials,Veg. Burger,1,0,,80.0
+Burger Specials,Veg Cheese Burger,1,0,,110.0
+Pav Bhaji Specials (Jain Not Available),Butter Masala Pav,1,0,,60.0
+Pav Bhaji Specials (Jain Not Available),Butter Pav Bhaji,1,0,Popular street food which consists of Mix Vegetables mashed and Soft Buns,155.0
+Pav Bhaji Specials (Jain Not Available),Cheese Masala Pav [2 Pieces],1,0,,85.0
+Pav Bhaji Specials (Jain Not Available),Cheese Pav Bhaji,1,0,Popular street food which consists of Mix Vegetables with Cheese mashed and Soft ... read more,190.0
+Panipuri Specials,Basket Chaat,1,0,,40.0
+Panipuri Specials,Basket Chaat With Corn & Cheese,1,0,,80.0
+Panipuri Specials,Basket Chaat With Dahi,1,0,,60.0
+Panipuri Specials,Cheese Basket Chaat,1,0,,70.0
+Panipuri Specials,Corn Basket Chaat,1,0,,50.0
+Panipuri Specials,Dahi Puri,1,0,,100.0
+Panipuri Specials,Masala Puri,1,0,,30.0
+Panipuri Specials,Pani Puri,1,0,,70.0
+Panipuri Specials,Raj Kachori Chaat,1,0,,50.0
+Panipuri Specials,Sev Puri,1,0,,80.0

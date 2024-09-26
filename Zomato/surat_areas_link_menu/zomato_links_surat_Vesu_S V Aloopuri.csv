@@ -1,0 +1,3 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Aloo Poori,Mexican Aloo Poori,1,0,,90.0
+Aloo Poori,Punjabi Paneer Aloo Poori,1,0,,90.0

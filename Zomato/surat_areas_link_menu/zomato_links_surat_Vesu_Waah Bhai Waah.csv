@@ -1,0 +1,57 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Platters,Mix Chaap Platter,1,0,Wbw Special Chaap+Malai Chaap+Achari Chaap+Chaap Lollipop+Hare Masale ki Chaap,525.0
+Starters,Wbw Spl Soya Chaap,1,0,lip-smacking teat to the taste buds,185.0
+Starters,Afghani Chaap,1,0,,155.0
+Starters,Malai Chaap,1,0,,207.0
+Starters,Irani Chaap,1,0,,213.0
+Starters,Achari Chaap,1,0,,194.0
+Starters,Chaap ke Sholay,1,0,,200.0
+Starters,Devil Stuff Chaap,1,0,,265.0
+Starters,Chaap Chatpati,1,0,,213.0
+Starters,Pahadi Chaap,1,0,,357.0
+Starters,Chaap Lolipop [4 Pieces],1,0,,395.0
+Starters,Wbw Spl Paneer Tikka,1,0,,160.0
+Starters,Malai Paneer Tikka,1,0,,165.0
+Starters,Veg Crunchy Kebab,1,0,,255.0
+Starters,Mushroom Tikka,1,0,,295.0
+Starters,Stuffed Tandoori Aloo,1,0,,305.0
+Starters,Jain Wbw Special Paneer Tikka,1,0,,165.0
+Starters,Paneer Kurkure Tikka,1,0,,205.0
+Main Course,Wbw Sp Dal Makhani,1,0,made with delicious flavor and spices topped with butter,200.0
+Main Course,Dal Bukhara,1,0,,208.0
+Main Course,Dal Tadka,1,0,,194.0
+Main Course,Mix Vegetable,1,0,,215.0
+Main Course,Chana Masala,1,0,,222.0
+Main Course,Mushroom Do Pyaza,1,0,,230.0
+Main Course,Veg Handi,1,0,,223.0
+Main Course,Paneer Butter Masala,1,0,,230.0
+Main Course,Paneer Tikka Masala,1,0,,238.0
+Main Course,Paneer Makhani,1,0,,230.0
+Main Course,Kadhai Paneer,1,0,,245.0
+Main Course,Chaap Rogan Josh,1,0,,230.0
+Main Course,Butter Chaap,1,0,,235.0
+Main Course,Kadhai Chaap,1,0,,285.0
+Main Course,Soya Chaap Tikka Masala,1,0,,235.0
+Main Course,Jain Dal Makhani,1,0,,225.0
+Main Course,Jain Shahi Paneer,1,0,,275.0
+Breads,Wbw Spl Chur Chur Naan,1,0,Served with gravy.,95.0
+Breads,Wbw Spl Lachha Paratha,1,0,Served with gravy.,85.0
+Breads,Red Chilli Paratha,1,0,Served with gravy.,95.0
+Breads,Rumali Roti,1,0,Served with gravy.,85.0
+Breads,Plain Roti,1,0,Served with gravy.,45.0
+Breads,Butter Roti,1,0,Served with gravy.,50.0
+Breads,Butter Naan,1,0,Served with gravy.,105.0
+Breads,Wbw Spl Amritsari Kulcha,1,0,Served with gravy.,110.0
+Breads,Garlic Butter Naan,1,0,Served with gravy.,115.0
+Breads,Cheese Garlic Naan,1,0,Served with gravy.,135.0
+Rice and Biryani,Jeera Rice,1,0,,155.0
+Rice and Biryani,Steamed Rice,1,0,,145.0
+Rice and Biryani,Veg Dum Biryani with Raita,1,0,,275.0
+Chinese,Veg Manchurian Dry,1,0,,235.0
+Wraps,Afghani Rumali Wrap,1,0,,150.0
+Wraps,Soya Tikka Rumali Wrap,1,0,,150.0
+Wraps,Achari Rumali Wrap,1,0,,150.0
+Wraps,Paneer Tikka Rumali Wrap,1,0,give a treat to yourself by indulging in softness off panner wrapped in ... read more,150.0
+Wraps,Wbw Spl Wrap,1,0,,135.0
+Accompaniments,Papad,1,0,,35.0
+Accompaniments,Boondi Raita,1,0,,174.0

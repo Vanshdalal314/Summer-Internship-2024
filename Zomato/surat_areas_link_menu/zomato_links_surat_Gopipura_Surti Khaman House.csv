@@ -1,0 +1,43 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Locho,Plain Locho,1,0,| Serves 1 |,75.0
+Locho,Oil Locho,1,0,Served with chutney & onion.,110.0
+Locho,Butter Locho,1,0,Served with chutney & onion.,170.0
+Locho,Cheese Butter Locho,1,0,Served with chutney & onion.,240.0
+Khaman,Plain Khaman,1,0,,64.0
+Khaman,Vagharela Khaman,1,0,Served with chutney & onion.,97.0
+Khaman,Nylon Khaman,1,0,Served with chutney & onion.,97.0
+Khaman,Rasawala Khaman,1,0,Served with onion 7 chutney.,79.0
+Idada,Plain Idada,1,0,,64.0
+Idada,Vagharela Idada,1,0,,80.0
+Idada,Chinese Idada with Cheese,1,0,,150.0
+Idada,Chinese Idada,1,0,,110.0
+Khamani,Jain Amiri Khamani,1,0,[Jain Preparation],97.0
+Khamani,Garlic Amiri Khamani,1,0,,97.0
+Khandvi,Plain Khandvi,1,0,,75.0
+Khandvi,Vaghareli Khandvi,1,0,,97.0
+Patra,Bafela Patra,1,0,| Serves 1 |,85.0
+Patra,Vagharela Patra,1,0,Served with chutney & onion.,110.0
+Patra,Fry Patra,1,0,,135.0
+Bhajiya,Bataka Poori,1,0,,135.0
+Bhajiya,Dal Vada,1,0,| Serves 1 |,135.0
+Bhajiya,Methi Gota,1,0,,135.0
+Bhajiya,Mix Bhajiya,1,0,Served with chutney & onion.,135.0
+Bhajiya,Kanda Bhajiya,1,0,,135.0
+Bhajiya,Bataka Vada,1,0,,135.0
+Bhajiya,Fry Petis,1,0,,135.0
+Samosa,Jain Kacha Dal Samosa,1,0,[Jain Preparation],85.0
+Samosa,Onion Kacha Dal Samosa,1,0,,85.0
+Samosa,Jain Fry Dal Samosa,1,0,[Jain Preparation],135.0
+Samosa,Onion Fry Dal Samosa,1,0,,135.0
+Samosa,Jain Fry Chinese Samosa,1,0,[Jain Preparation],135.0
+Samosa,Kacha Cheese Paneer Samosa,1,0,| Serves 1 |,170.0
+Kachori,Lilva Kachori Fry,1,0,,135.0
+Kachori,Lilva Kachori Half Fry,1,0,,110.0
+Kachori,Khasta Kachori,1,0,,89.0
+Farsan,Sev Farsan,1,0,,135.0
+Farsan,Papdi Farsan,1,0,,135.0
+Farsan,Tikha Gathiya Farsan,1,0,,135.0
+Farsan,Mola Gathiya Farsan,1,0,,135.0
+Sweet,Oil Jalebi,1,0,,110.0
+Drinks (Beverages),Masala Chaas,1,0,,25.0
+Fafda,Fafda,1,0,Served with curry.,170.0

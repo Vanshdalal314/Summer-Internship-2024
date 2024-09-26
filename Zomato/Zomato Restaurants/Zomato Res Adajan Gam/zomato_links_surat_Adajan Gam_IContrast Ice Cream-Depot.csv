@@ -1,0 +1,108 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+IC Super Saver Combo,Combo @289,1,0,1 (7 Inch) Italian Pizza & 1 Nutella Lover Thick Shake,289.0
+IC Super Saver Combo,Combo @ 349 Rs,1,0,1 (7 Inch) Green Wave Pizza & 1 Live Ferrero Ecstacy Freezing Stone,349.0
+IC Super Saver Combo,Combo @ 519 Rs,1,0,1 (7 Inch) Tandoori Paneer Pizza + 1 (7 Inch) Mexican Pizza + ... read more,519.0
+IC Super Saver Combo,Combo @219rs,1,0,2 Pcs Cheese Garlic Bread & 1 Ferrero Rocher Thick Shake,219.0
+IC Super Saver Combo,Combo @249rs,1,0,1 (7 Inch) Margherita Pizza & 1 Oreo Vanilla Thick Shake,249.0
+IC Super Saver Combo,Combo @399 Rs,1,0,1 (7 Inch) Mexican Pizza & (2 Pcs) Garlic Bread & 2 Cold ... read more,399.0
+IC Super Saver Combo,Combo @ 319 Rs,1,0,1 (7 Inch) American Garden Pizza & 1 Exotic Brownie Thick Shake,319.0
+IC Super Saver Combo,Combo@279 Rs,1,0,1 (7 Inch) Tandoori Paneer Pizza & (4 Pcs) Cheese Garlic Bread,279.0
+Pizza & More,American Garden (7 Inch Pizza),1,0,"Loaded with American Baby Corn, Olives, Jalapenos & Capsicum",199.0
+Pizza & More,Cheesee Garlic Bread (4 Pcs),1,0,Garlic & Bread Bakes to Perfection with Cheese,149.0
+Pizza & More,Cheesee Margherita (7 Inch Pizza),1,0,"A Classic Combination of Marinara Sauce, Fresh Basil and A Blend of Cheese",179.0
+Pizza & More,Made In Italy (7 Inch Pizza),1,0,"Authentic Italian Pizza Toppes with Combination of Oregano, Olives, Jalapeno, Onion, Mozzarella and ... read more",199.0
+Pizza & More,Mexican Delight (7 Inch Pizza),1,0,"Signature Slowly cooked pizza sauce with Paprika, Bell Peppers, Sweet Corn, Olives & ... read more",199.0
+Pizza & More,Tandoori Zyaka (7 Inch Pizza),1,0,Cottage Cheese with a Spicy Tandoori Zayka,199.0
+Pizza & More,Veg Green Wave (7 Inch Pizza),1,0,"Fresh Tomatoes, Onions, Capsicum, Olives & Jalapenos",199.0
+Chocolate Thick Shakes,Choco Coffee Crunch Shake,1,0,,179.0
+Chocolate Thick Shakes,Chocolate Chip Shake,1,0,,158.0
+Chocolate Thick Shakes,Cocoa Mocha Shake,1,0,,189.0
+Chocolate Thick Shakes,Double Ferreo Shake,1,0,,249.0
+Chocolate Thick Shakes,Double Kit Kat Shake,1,0,,199.0
+Chocolate Thick Shakes,Exotic Brownie Chocolate Shake,1,0,,189.0
+Chocolate Thick Shakes,Exotic Brownie Vanilla Shake,1,0,,179.0
+Chocolate Thick Shakes,Ferreo Rocher Shake,1,0,,219.0
+Chocolate Thick Shakes,Fudy Nuttela Brownie Shake,1,0,,199.0
+Chocolate Thick Shakes,Kit Kat Thick Shake,1,0,,199.0
+Chocolate Thick Shakes,Nutella Hazelnut Shake,1,0,,199.0
+Chocolate Thick Shakes,Nutella Lover Shake,1,0,,199.0
+Chocolate Thick Shakes,Nutties Shake,1,0,,189.0
+Chocolate Thick Shakes,Nutty Ferrero Blast Shake,1,0,,249.0
+Chocolate Thick Shakes,Nutty Nutella Shake,1,0,,189.0
+Chocolate Thick Shakes,Oreo Shake Chocolate Shake,1,0,,189.0
+Chocolate Thick Shakes,Oreo Shake Vanilla Shake,1,0,,179.0
+Chocolate Thick Shakes,Rich Chocolate,1,0,,149.0
+Fruit Thick Shakes,Black Currant Thick Shake,1,0,,149.0
+Fruit Thick Shakes,Bluebeery Cheesecake Shake,1,0,,158.0
+Fruit Thick Shakes,Blueberry Shake,1,0,,169.0
+Fruit Thick Shakes,French Vanilla Shake,1,0,,149.0
+Fruit Thick Shakes,Green Apple Shake,1,0,,149.0
+Fruit Thick Shakes,Kiwi Shake,1,0,,149.0
+Fruit Thick Shakes,Lichi Shake,1,0,,149.0
+Fruit Thick Shakes,Mango Shake,1,0,,158.0
+Fruit Thick Shakes,Mulberry,1,0,,158.0
+Fruit Thick Shakes,Pineapple Shake,1,0,,149.0
+Fruit Thick Shakes,Strawberry Shake,1,0,,149.0
+Fruit Thick Shakes,Tender Coconut Thick Shake,1,0,,199.0
+Fruit Thick Shakes,Tropical Fusion Shake,1,0,,179.0
+Dry Fruit Thick Shakes,American Dryfruit Shake,1,0,,189.0
+Dry Fruit Thick Shakes,Butterscotch Heaven Shake,1,0,,179.0
+Dry Fruit Thick Shakes,Carmel Almond Shake,1,0,,179.0
+Dry Fruit Thick Shakes,Kaju Anjeer Shake,1,0,,179.0
+Dry Fruit Thick Shakes,Kaju Gulkand Shake,1,0,,169.0
+Dry Fruit Thick Shakes,Kaju Mango Shake,1,0,,179.0
+Dry Fruit Thick Shakes,Kaju Tukda Shake,1,0,,179.0
+Dry Fruit Thick Shakes,Kesar Nuts Shake,1,0,,179.0
+Dry Fruit Thick Shakes,Kaju Badam Shake,1,0,,179.0
+Dry Fruit Thick Shakes,Mava Malai Meva Shake,1,0,,199.0
+Dry Fruit Thick Shakes,Rose Almond Shake,1,0,,169.0
+Scoops,Alphonso Mango Scoop,1,0,,89.0
+Scoops,American Nuts Scoop,1,0,,89.0
+Scoops,Belgium Chocolate Ice Cream,1,0,,109.0
+Scoops,Blueberry Oreo Scoop,1,0,,119.0
+Scoops,Caramel Almond Scoop,1,0,,99.0
+Scoops,Choco Orange Scoop,1,0,,109.0
+Scoops,Chocolate Chip Scoop,1,0,,99.0
+Scoops,Coffee Crunch Scoop,1,0,,109.0
+Scoops,Ferrero Rocher Scoop,1,0,,129.0
+Scoops,Fresh Guava Scoop,1,0,,109.0
+Scoops,Kaju Draksh Scoop,1,0,,89.0
+Scoops,Kesar Pista Scoop,1,0,,99.0
+Scoops,Mango Choco Vanilla Scoop,1,0,,119.0
+Scoops,Natural Strawberry Scoop,1,0,,99.0
+Scoops,Pan Masala Scoop,1,0,,89.0
+Scoops,Rajbhog Scoop,1,0,,109.0
+Scoops,Raspberry Chesscake Scoop,1,0,,129.0
+Scoops,Tender Coconut Handchurned Icecream,1,0,,119.0
+Scoops,Vanilla Popular Scoop,1,0,,69.0
+Live Freezing Stone Ice Cream,Alphanso Dry Fruit Freezing Stone,1,0,,219.0
+Live Freezing Stone Ice Cream,Choco Nutty Freezing Stone,1,0,,229.0
+Live Freezing Stone Ice Cream,Frerrero Ecstacy Freezing Stone,1,0,,299.0
+Live Freezing Stone Ice Cream,Kit Kat Break Freezing Stone,1,0,,279.0
+Live Freezing Stone Ice Cream,Mango Malai Gotala Freezing Stone,1,0,,299.0
+Live Freezing Stone Ice Cream,Nutella Brownie Chocolate Freezing Stone,1,0,,219.0
+Live Freezing Stone Ice Cream,Truffle Oreo Freezing Stone,1,0,,229.0
+Live Rolling Stone Ice Cream,Black Forest Rolling Stone,1,0,,249.0
+Live Rolling Stone Ice Cream,Choco Extra Vaaganza Rolling Stone,1,0,,249.0
+Live Rolling Stone Ice Cream,Chocolate Oreo Delight Rolling Stone,1,0,,199.0
+Live Rolling Stone Ice Cream,Chocolate Paradise Rolling Stone,1,0,,199.0
+Live Rolling Stone Ice Cream,Ferrero Rocher Roll Rolling Stone,1,0,,269.0
+Live Rolling Stone Ice Cream,Fresh Guava Roll Rolling Stone,1,0,,209.0
+Live Rolling Stone Ice Cream,Green Apple Roll Rolling Stone,1,0,,199.0
+Live Rolling Stone Ice Cream,Kaju Anjeer Rolling Stone,1,0,,209.0
+Live Rolling Stone Ice Cream,Kalkatti Pan Rolling Stone,1,0,,219.0
+Live Rolling Stone Ice Cream,Kesar Pista Roll Rolling Stone,1,0,,209.0
+Live Rolling Stone Ice Cream,Kitkat Roll,1,0,,249.0
+Live Rolling Stone Ice Cream,Mango Oreo Delight Rolling Stone,1,0,,199.0
+Live Rolling Stone Ice Cream,Mava Malai Maharaj Rolling Stone,1,0,,249.0
+Live Rolling Stone Ice Cream,Mix Fruit Delight Rolling Stone,1,0,,229.0
+Live Rolling Stone Ice Cream,Nutty Chocolate Roll Rolling Stone,1,0,,249.0
+Live Rolling Stone Ice Cream,Nutty Ferrero Roll Rolling Stone,1,0,,269.0
+Live Rolling Stone Ice Cream,Rose Nut Roll Rolling Stone,1,0,,209.0
+Live Rolling Stone Ice Cream,Royal Dry Fruit Rolling Stone,1,0,,229.0
+Cold Coffee & Coco,Cold Coco,1,0,,99.0
+Cold Coffee & Coco,Cold Coffee,1,0,,109.0
+Cold Coffee & Coco,Cold Coffee With Ice Cream,1,0,,119.0
+Cold Coffee & Coco,Kaju Coco,1,0,,109.0
+Cold Coffee & Coco,Special Uncle Coffee,1,0,,149.0
+Kulfi,Real Kesar Pista Kulfi,1,0,,79.0

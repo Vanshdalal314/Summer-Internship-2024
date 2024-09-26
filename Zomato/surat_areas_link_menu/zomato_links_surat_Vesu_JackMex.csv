@@ -1,0 +1,73 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Creamy Tortilla Soup,1,0,"Creamy Soup with exotic vegetable, corn, beans, garnished with pico de gallo shredded ... read more",279.0
+Soup,Smoky Mexicano Soup,1,0,"Smokey Spicey soup for spice lovers with exotic veggies, jalepenos garnished with cream ... read more",269.0
+Tacos,Chiptole Paneer Crunchy Taco,1,0,Paneer Sauteed in spicy chipotle with a varriety of toppings & sauces of ... read more,379.0
+Tacos,Herb Potato Crunchy Taco,1,0,Herbed Potato with a varriety of toppings & sauces of your choice served ... read more,339.0
+Tacos,Mexican Crunchy Paneer Crunchy Taco,1,0,Crunchy Paneer with variety of toppings & sauces of your choice served as ... read more,379.0
+Tacos,Mushroom Crunchy Taco,1,0,Crunchy Mushroom with variety of toppings & sauces of your choice served as ... read more,369.0
+Tacos,Tex Max Crunchy Taco,1,0,Tex Mex beans gravy with a varriety of toppings & sauces of your ... read more,369.0
+Tacos,Veggie Crunchy Taco,1,0,Sauteed vegitables with a varriety of toppings & sauces of your choice served ... read more,339.0
+Tacos,Chiptole Paneer Open Taco,1,0,Paneer Sauteed in spicy chipotle with a varriety of toppings & sauces of ... read more,379.0
+Tacos,Herb Potato Open Taco,1,0,Herbed Potato with a varriety of toppings & sauces of your choice served ... read more,339.0
+Tacos,Mexican Crunchy Paneer Open Taco,1,0,Crunchy paneer with a varriety of toppings & sauces of your choice served ... read more,379.0
+Tacos,Mushroom Open Taco,1,0,Crunchy Mushroom with a varriety of toppings & sauces of your choice served ... read more,369.0
+Tacos,Tex Max Open Taco,1,0,Tex Mex beans gravy with a varriety of toppings & sauces of your ... read more,369.0
+Tacos,Veggie Open Taco,1,0,Sauteed vegitables with a varriety of toppings & sauces of your choice served ... read more,339.0
+Burrito & Rice Bowl,Chiptole Paneer Burrito,1,0,Paneer Sauteed in spicy chipotle with seasoned or herbed rice and a varriety ... read more,379.0
+Burrito & Rice Bowl,Herb Potato Burrito,1,0,Herbed Potato with seasoned or herbed rice and a varriety of toppings & ... read more,339.0
+Burrito & Rice Bowl,Mexican Crunchy Paneer Burrito,1,0,Crunchy paneer with seasoned or herbed rice and a varriety of toppings & ... read more,379.0
+Burrito & Rice Bowl,Mushroom Burrito,1,0,Crunchy Mushroom with seasoned or herbed rice and a varriety of toppings & ... read more,369.0
+Burrito & Rice Bowl,Tex Max Burrito,1,0,Tex Mex beans gravy with seasoned or herbed rice and a varriety of ... read more,369.0
+Burrito & Rice Bowl,Veggie Burrito,1,0,Sauteed vegitables stuffing with seasoned or herbed rice and a varriety of toppings ... read more,339.0
+Burrito & Rice Bowl,Chiptole Paneer Rice Bowl,1,0,A bowl full of Paneer Sauteed in spicy chipotle with seasoned or herbed ... read more,379.0
+Burrito & Rice Bowl,Herb Potato Rice Bowl,1,0,A bowl full of Herbed Potato with seasoned or herbed rice and a ... read more,339.0
+Burrito & Rice Bowl,Mexican Crunchy Paneer Rice Bowl,1,0,A bowl full of Crunchy paneer with seasoned or herbed rice and a ... read more,379.0
+Burrito & Rice Bowl,Mushroom Rice Bowl,1,0,A bowl full of Crunchy Mushroom with seasoned or herbed rice and a ... read more,369.0
+Burrito & Rice Bowl,Tex Max Rice Bowl,1,0,A bowl full of Tex Mex beans gravy with seasoned or herbed rice ... read more,369.0
+Burrito & Rice Bowl,Veggie Rice Bowl,1,0,A bowl full of Sauteed vegitables stuffing with seasoned or herbed rice and ... read more,339.0
+Salad Bowl,Chipotle Paneer Salad Bowl,1,0,Paneer Sauteed in spicy chipotle with lettuce-purple cabbage-pico de gallo salad and a ... read more,379.0
+Salad Bowl,Crunchy Mushroom Salad Bowl,1,0,Crunchy Mushroom with lettuce-purple cabbage-pico de gallo salad and a varriety of toppings ... read more,369.0
+Salad Bowl,Herbed Potato Salad Bowl,1,0,Herbed Potato with lettuce-purple cabbage-pico de gallo salad and a varriety of toppings ... read more,339.0
+Salad Bowl,Mexican Crunchy Paneer Slad Bowl,1,0,Crunchy paneer with lettuce-purple cabbage-pico de gallo salad and a varriety of toppings ... read more,379.0
+Salad Bowl,Tex Mex Salad Bowl,1,0,Tex Mex beans gravy with lettuce-purple cabbage-pico de gallo salad and a varriety ... read more,369.0
+Salad Bowl,Veggie Salad Bowl,1,0,Sauteed vegitables stuffing with a lettuce-purple cabbage-pico de gallo salad and a ... read more,339.0
+Nachos,Cheesy Chipotle Nachos,1,0,"Crispy Nachos served with spicey chipotle sauce, cheese sauce and spicey tangy salsa ... read more",349.0
+Nachos,Classic Nachos,1,0,Crispy Nachos served with cheese sauce and spicey tangy salsa dip (DIY: Nachos ... read more,279.0
+Nachos,Guacamole With Chips,1,0,"Love of the elites, celebrities and fitness gurus. Enjoy the guacamole dip ... read more",469.0
+Nachos,Overloaded Nachos,1,0,"Crispy Nachos served with tex mex beans, pico de gallo, black olives, cheese ... read more",409.0
+Nachos,Queso With Chips,1,0,Melted cheese dip that will melt your heart. Creamy velvety cheese dip bowl ... read more,399.0
+Fries,Cheesy Chipotle Fries,1,0,"Fries served with spicey chipotle sauce, cheese sauce and spicey tangy salsa dip ... read more",299.0
+Fries,Jackmex Fries,1,0,Crispy fries seasoned JackMex special seasoning,259.0
+Fries,Loaded Mexican Fries,1,0,"Fries tossed in mexican seasoning, served with pico de gallo, black olives, cheese ... read more",299.0
+Fries,Salted Fries,1,0,"You know it we know it, our old classic salted fries. Kid's Choice.",229.0
+Avacado Toast,Avacado Toast Classic,1,0,,249.0
+Avacado Toast,Avacado Toast With Grilled Mashroom,1,0,,329.0
+Avacado Toast,Avacado Toast With Grilled Tomato,1,0,,329.0
+Quesadilla,Chipotle Paneer Quesadilla [online],1,0,Grilled tortilla stuffed with lots of cheese and paneer tossed in chipotle sauce.,329.0
+Quesadilla,Corn & Cheese Quesadilla,1,0,Grilled tortilla stuffed with lots of cheese and corn.,309.0
+Quesadilla,Tex Mex Beans Quesadilla,1,0,Grilled tortilla stuffed with lots of cheese and beans.,329.0
+Quesadilla,Veggie Speical Quesadilla,1,0,Grilled tortilla stuffed with lots of cheese and chopped RGY bell pepper and ... read more,309.0
+Crunchy Pizza,Cheesy Loded Crunchy Pizza,1,0,"8'' Two layers of fried tortillas, pizza sauce and beans gravy stuffed in ... read more",409.0
+Crunchy Pizza,Chipotle Paneer Crunchy Pizza,1,0,"8"" Two layers of fried tortillas, pizza sauce and beans gravy stuffed in ... read more",409.0
+Crunchy Pizza,Veggie Delight Crunchy Pizza,1,0,"8 '' Two layers of fried tortillas, pizza sauce and beans gravy stuffed ... read more",409.0
+Carvan,Curried Beans With Fried Tortilla,1,0,"Spicey Tangy gravy with beans, garnished with pico de gallo and shredded cheese",289.0
+Baked Enchiladas,Beans & Veggie Enchiladas,1,0,"Grilled Fajitas and Beans wrapped in tortilla, baked in tomato gravy with a ... read more",489.0
+Rice & Gravy,Cilantro Rice With Red Exotic Gravy,1,0,Cilantro rice served with exotic vegetables in spicy tangy red gravy,449.0
+Rice & Gravy,Herbed Rice With Creamy Exotic Gravy,1,0,Herbed rice served with creamy exotic gravy,459.0
+Rice & Gravy,Herbed Rice With Mushrom Gravy,1,0,Herbed rice served with cheesy mushroom gravy,449.0
+Rice & Gravy,Herbed Rice With Red Exotic Gravy,1,0,Herbed Rice with exotic veggies in spicy tangy gravy,449.0
+Rice & Gravy,Mexican Rice With Cheesy Gravy,1,0,Seasoned Rice with beans and exotic veggies in spicy cheesey gravy,469.0
+Pasta,Alfredo Sauce Pasta (White Sauce),1,0,Prepared in white cheese sauce and exotic vegetables with a pasta of your ... read more,399.0
+Pasta,Arabbiata Sauce Pasta (Red Sauce),1,0,Prepared in red tangy spicy sauce and exotic vegetables with a pasta of ... read more,379.0
+Pasta,Cocktail Sauce Pasta (Pink Sauce),1,0,Prepared in mix of red & white sauce and exotic vegetables with a ... read more,429.0
+Pasta,Pesto Sauce Pasta (Green Sauce),1,0,Prepared in green basil sauce and exotic vegetables with a pasta of your ... read more,429.0
+Drinks & Beverages,Chilled Lemon Iced Tea,1,0,Classic Lemon Tea served chilled with ice cube and fresh lemon,209.0
+Drinks & Beverages,Hibiscus Flower Iced Tea,1,0,"Made from real hibiscus flower petals, served chilled with ice cubes and fresh ... read more",209.0
+Drinks & Beverages,Peach & Apricot Iced Tea,1,0,Sweet And Tangy Peach Apricot flavoured tea served chilled with Ice cubes and ... read more,209.0
+Drinks & Beverages,Chocolate Milk Shake,1,0,Thick and frothy chocolate flavoured milk shake,289.0
+Drinks & Beverages,Strawberry Milk Shake,1,0,Thick and frothy strawberry flavoured milk shake,289.0
+Drinks & Beverages,Cranberry Mojito,1,0,[Non Alcoholic] Craneberry flavoured fizzy drink served with ice cubes and fresh lemon ... read more,269.0
+Drinks & Beverages,Curacao Blue Mojito,1,0,[Non Alcoholic] Curacao blue flavoured fizzy drink served with ice cubes and fresh ... read more,269.0
+Drinks & Beverages,Fresh Mint Mojito,1,0,[Non Alcoholic] Refreshing Mint flavoured fizzy drink served with ice cubes and fresh ... read more,269.0
+Drinks & Beverages,Passion Fruit Mojito,1,0,[Non Alcoholic] Passion fruit flavoured fizzy drink served with ice cubes and fresh ... read more,269.0
+Desserts,Churos With Dip,1,0,"Tradtional Spanish-Mexican dessert made of flour, crispy on the outside soft on ... read more",269.0

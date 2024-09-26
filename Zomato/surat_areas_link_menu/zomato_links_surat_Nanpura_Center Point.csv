@@ -1,0 +1,93 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Affordable Meals,Italian Cheese Pizza [n],1,0,,270.0
+Affordable Meals,Veg Cheese Pizza [n],1,0,,260.0
+Meal For One,Manchurian Combo,1,0,Dry Manchurian + Fried Rice + Salad,240.0
+Combos,Chilli Cheese Toast + Veg Cheese Sandwich,1,0,| Serves 1 |,312.0
+Combos,Dry Manchurian + Fried Rice + Salad,1,0,| Serves 1 | A flavor-packed combo of hearty veg fried rice paired ... read more,240.0
+Combos,Gravy Manchurian + Fried Rice + Salad,1,0,,240.0
+Combos,Gravy Paneer Chilly + Fried Rice + Salad,1,0,,255.0
+Combos,Manchurian + Noodles + Salad,1,0,| Serves 1 | Serves with cabbage salad,235.0
+Combos,Manchurian Thali,1,0,| Serves 1 | Manchurian + Rice + Noodles + Salad,290.0
+Combos,Paneer Chilly + Fried Rice + Salad,1,0,| Serves 1 | Fresh veggies tossed in a pan with steamed rice; ... read more,255.0
+Combos,Paneer Chilly Thali,1,0,| Serves 1 | Paneer chilly + Rice + Noodles + Salad,300.0
+Combos,Veg Cheese Grill Sandwich + Veg Cheese Sandwich,1,0,| Serves 1 |,416.0
+Chinese,Bombay Bhel,1,0,| Serves 1 |Fried noodles tossed with veggies & manchurian in chinese style,160.0
+Chinese,Chinese Bhel,1,0,"| Serves 1 | Chinese bhel is made of fried noodles, perked up ... read more",190.0
+Chinese,Manchow Soup,1,0,,140.0
+Chinese,Manchurian Dry,1,0,| Serves 1 |The Indo Chinese starter dish where fried vegetable balls are ... read more,180.0
+Chinese,Manchurian Gravy,1,0,,160.0
+Chinese,Paneer Chilli Dry,1,0,"| serves 1-2 | Paneer chunks sauteed well with spices, chillies, onion, capsicum ... read more",200.0
+Chinese,Paneer Chilli Gravy,1,0,,180.0
+Chinese,Schezwan Fried Rice,1,0,|Serves 1-2 |,180.0
+Chinese,Triple Schezwan Rice,1,0,,200.0
+Chinese,Veg Fried Rice,1,0,| Serves 1 | Fresh veggies tossed in a pan with steamed rice ... read more,180.0
+Chinese,Veg Hakka Noodles,1,0,| Serves 1 | A delectable dish with slippery strands of noodles dressed ... read more,180.0
+Chinese,Veg Schezwan Noodles,1,0,,190.0
+Sandwich,Atta Veg Cheese S/w,1,0,Classic Veg. Cheese S/w in whole wheat brown bread,192.0
+Sandwich,Atta Veg Sandwich,1,0,Classic Veg Sandwich in Whole wheat brown Bread,128.0
+Sandwich,Bread Butter Aloo Cheese,1,0,| Serves 1 |,120.0
+Sandwich,Bread Butter Aloo,1,0,,80.0
+Sandwich,Bread Butter Cheese Chatni,1,0,| Serves 1 |,112.0
+Sandwich,Bread Butter Cheese,1,0,,112.0
+Sandwich,Bread Butter Jam Cheese,1,0,,112.0
+Sandwich,Bread Butter Jam,1,0,| Serves 1 |,56.0
+Sandwich,Bread Butter,1,0,| Serves 1 |,48.0
+Sandwich,Double Decker Cheese Sandwich,1,0,| Serves 1 |,184.0
+Sandwich,Double Decker Sandwich,1,0,| Serves 1 |,128.0
+Sandwich,Mayonnaise Veg Sandwich,1,0,,136.0
+Sandwich,Veg Cheese Sandwich,1,0,| Serves 1 |,160.0
+Sandwich,Veg Jam Cheese Sandwich,1,0,,168.0
+Sandwich,Veg Sandwich,1,0,| Serves 1 |,96.0
+Burger,Mayonnaise Ball Burger,1,0,,144.0
+Burger,Mexican Cheese Burger,1,0,,192.0
+Burger,Veg Burger,1,0,| Serves 1 |,120.0
+Burger,Veg Cheese Burger,1,0,| Serves 1 |,176.0
+Pizza (6 Inches),Italian Cheese Pizza,1,0,Comes with tangy italian sauce mixed with macroni and vegetables,270.0
+Pizza (6 Inches),Mexican Pizza,1,0,Vegetables mixed in in house spicy mexican sauce.,270.0
+Pizza (6 Inches),Mushroom Cheese Pizza,1,0,Vegetables with mushrooms,270.0
+Pizza (6 Inches),Only Cheese Pizza,1,0,Classic margherita pizza with lots of cheese.,280.0
+Pizza (6 Inches),Only Mushroom Cheese Pizza,1,0,Loaded only with lots of mushrooms & cheese.,280.0
+Pizza (6 Inches),Only Pineapple Cheese Pizza,1,0,Loaded with only pineapple & cheese,280.0
+Pizza (6 Inches),Tandoori Paneer Pizza,1,0,Loaded with chunks of paneer & vegetables in tandoori sauce.,300.0
+Pizza (6 Inches),Veg Cheese Pizza,1,0,"Veg cheese pizza that decidedly staggers under an overload of crunchy onions, crisp ... read more",260.0
+Toast,Butter Toast,1,0,,96.0
+Toast,Chatni Cheese Toast,1,0,,160.0
+Toast,Chatni Toast,1,0,,96.0
+Toast,Chilli Cheese Toast,1,0,| Serves 1 |,176.0
+Toast,Chocolate Toast,1,0,,144.0
+Toast,Club Cheese Toast,1,0,| Serves 1 |,192.0
+Toast,Club Toast,1,0,,128.0
+Toast,Jam Cheese Toast,1,0,,144.0
+Toast,Jam Toast,1,0,,104.0
+Toast,Masala Cheese Toast,1,0,| Serves 1 |,176.0
+Toast,Masala Toast,1,0,| Serves 1 |,112.0
+Toast,Mushroom Cheese Toast,1,0,| Serves 1 |,176.0
+Toast,Only Cheese Toast,1,0,,192.0
+Toast,Only Mushroom Toast,1,0,,192.0
+Toast,Pizza Cheese Toast,1,0,| Serves 1 |,176.0
+Toast,Special Cheese Toast,1,0,,192.0
+Toast,Veg Cheese Toast,1,0,| Serves 1 |,176.0
+Toast,Veg Toast,1,0,| Serves 1 |,112.0
+Veg Cheese Grill,Bahubali Sandwich,1,0,,320.0
+Veg Cheese Grill,Chocolate Cheese Grill,1,0,,240.0
+Veg Cheese Grill,Italian Cheese Grill,1,0,| Serves 1 |,290.0
+Veg Cheese Grill,Juicy Cheese Grill,1,0,,290.0
+Veg Cheese Grill,Mayonnaise Cheese Grill,1,0,,290.0
+Veg Cheese Grill,Mexican Cheese Grill,1,0,,290.0
+Veg Cheese Grill,Mushroom Cheese Grill,1,0,,290.0
+Veg Cheese Grill,Only Mushroom Cheese Grill,1,0,,290.0
+Veg Cheese Grill,Pineapple Cheese Grill,1,0,,290.0
+Veg Cheese Grill,Tandoori Paneer Grill,1,0,| Serves 1 |,300.0
+Veg Cheese Grill,Veg Cheese Grill,1,0,| Serves 1 |,270.0
+Pav Bhaji,Extra Pav,1,0,1 Piece,24.0
+Pav Bhaji,Only Bhaji,1,0,Bhaji Only,224.0
+Pav Bhaji,Pav Bhaji (Butter),1,0,Served with 4 Pc. Pav and salad,264.0
+Pav Bhaji,Pav Bhaji Combo,1,0,"Served with 3. pc Pav, Tawa Pulav & Salad",260.0
+Pav Bhaji,Tawa Pulav,1,0,,264.0
+Extras,Aloo Chat,1,0,| Serves 1 |,144.0
+Extras,Cheese,1,0,,72.0
+Extras,Cheese Chilly Garlic Bread,1,0,,168.0
+Extras,Garlic Bread With Cheeses,1,0,,152.0
+Extras,Veg Supreme Garlic Bread,1,0,,168.0
+Chinese Combo,Paneer Chilli Combo,1,0,,255.0
+Chinese Combo,Veg Manchurian Combo,1,0,,240.0

@@ -1,0 +1,159 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Egg Manchow,0,0,,110.0
+Soup,Egg Khawsa,0,0,,120.0
+Soup,Egg Soup,0,0,,110.0
+Soup,Veg Manchow Soup,1,0,Soups,90.0
+Soup,Veg Khawsa,1,0,,100.0
+Starters,Anda Maggi,0,0,,180.0
+Starters,Egg Roll,0,0,,170.0
+Starters,French Toast,0,0,,200.0
+Starters,Egg Salad,0,0,,155.0
+Starters,Boil Sukha Masala,0,0,,210.0
+Starters,Egg Cutlets,0,0,,210.0
+Starters,Egg Patra,0,0,,210.0
+Starters,Cheese Bonda,0,0,,270.0
+Starters,Cheese Paneer Samosa,1,0,,210.0
+Omelettes,Lemon Pepper Omelette,0,0,,135.0
+Omelettes,Masala Omelette,0,0,,135.0
+Omelettes,Bombayomelette,0,0,,135.0
+Omelettes,Plain Omelette,0,0,,100.0
+Omelettes,Tandoori Omelette,0,0,,220.0
+Omelettes,Cheese Omelette,0,0,,175.0
+Omelettes,Gravy Omelette,0,0,,210.0
+Omelettes,Schezwan Omelette,0,0,,190.0
+Omelettes,Stuffed Omelette,0,0,,220.0
+Omelettes,Italian Omelette,0,0,,220.0
+Omelettes,Indian Masala Omelette,0,0,,210.0
+Omelettes,Roll Omelette,0,0,,195.0
+Omelettes,Mexican Omelette,0,0,,220.0
+Omelettes,Silky Omelette,0,0,,185.0
+Omelettes,Spanish Omelette,0,0,,220.0
+Omelettes,Corn Omelette,0,0,,220.0
+Omelettes,Mexican Salsa,0,0,,220.0
+Surti Zayka,Red Kheema,0,0,,155.0
+Surti Zayka,Green Egg Bhurji,0,0,,155.0
+Surti Zayka,Egg Sabji,0,0,,195.0
+Surti Zayka,Green Kachu,0,0,,155.0
+Surti Zayka,Ultimate Kheema,0,0,,215.0
+Surti Zayka,Egg Lachkka,0,0,,175.0
+Surti Zayka,Red Egg Bhurji,0,0,,155.0
+Surti Zayka,Red Kachu,0,0,,155.0
+Surti Zayka,Boil Fry Masala,0,0,,175.0
+Surti Zayka,Boil Fry Tomato,0,0,,205.0
+Surti Zayka,Green Kheema,0,0,,155.0
+Surti Zayka,Boil Fry Garlic,0,0,,205.0
+Surti Zayka,Egg Lassalas,0,0,,195.0
+Surti Zayka,Egg Lachkka Tadka,0,0,,215.0
+Surti Zayka,Gotada,0,0,,205.0
+Surti Zayka,Goti Gotada,0,0,,230.0
+Curry Special,Egg Rassewala,0,0,,245.0
+Curry Special,Green Egg Curry,0,0,,225.0
+Curry Special,Red Egg Curry,0,0,,225.0
+Curry Special,Egg Malwan Curry,0,0,,290.0
+Curry Special,Maska,0,0,,290.0
+Curry Special,Southern Egg Curry,0,0,,225.0
+Curry Special,Coriander Curry,0,0,,245.0
+Curry Special,Egg White Curry,0,0,,260.0
+Curry Special,Goa King,0,0,,300.0
+Curry Special,Royal Curry,0,0,,290.0
+Ec Novelty,Egg Salami,0,0,,360.0
+Ec Novelty,Emi Cheeses,0,0,,340.0
+Ec Novelty,Go Greeny,0,0,,270.0
+Ec Novelty,Green Diamond,0,0,,340.0
+Ec Novelty,Dal Tadka,0,0,,320.0
+Ec Novelty,Butter Garlic,0,0,,350.0
+Ec Novelty,Mix&Match,0,0,,280.0
+Ec Novelty,Ande Ka Funda,0,0,,330.0
+Ec Novelty,Eggi Mysore Masala,0,0,,320.0
+Ec Novelty,Submarine,0,0,,350.0
+Ec Novelty,Egg Patudi,0,0,,390.0
+Ec Novelty,Angoor Rabbadi,0,0,,380.0
+Ec Novelty,Pinwheels,0,0,,380.0
+Ec Novelty,Patrani Inda,0,0,,420.0
+Half Fry Ka Full Mazza,Garlic Goti Fry,0,0,,210.0
+Half Fry Ka Full Mazza,Garlic Fry,0,0,,210.0
+Half Fry Ka Full Mazza,Tomato Goti Fry,0,0,,220.0
+Half Fry Ka Full Mazza,Chinese Fry,0,0,,240.0
+Half Fry Ka Full Mazza,Egg Fantasy,0,0,,260.0
+Half Fry Ka Full Mazza,Fry Tadka,0,0,,250.0
+Half Fry Ka Full Mazza,Half Fry,0,0,,110.0
+Half Fry Ka Full Mazza,Tomato Fry,0,0,,200.0
+Half Fry Ka Full Mazza,Red Dragon Fry,0,0,,250.0
+Half Fry Ka Full Mazza,Australain Fry,0,0,,260.0
+Half Fry Ka Full Mazza,Royal Fry,0,0,,260.0
+Half Fry Ka Full Mazza,3 Idiots,0,0,,270.0
+Half Fry Ka Full Mazza,Masala Fry,1,0,,150.0
+Egg Rice Dishes,Egg Dum Biryani,0,0,,230.0
+Egg Rice Dishes,Cha Cha Rice,0,0,,310.0
+Egg Rice Dishes,Schezwan Egg Fried Rice,0,0,,240.0
+Egg Rice Dishes,Egg Fried Rice,0,0,,220.0
+Egg Rice Dishes,Egg Garlic Rice,0,0,,200.0
+Egg Rice Dishes,Kheema Pulav,0,0,,220.0
+Egg Rice Dishes,Egg Pulav,0,0,,220.0
+Egg Rice Dishes,Egg Exotic Rice,0,0,,260.0
+Special Gym Menu,Egg Exotic Salad,0,0,,160.0
+Special Gym Menu,Scrambled Egg,0,0,,160.0
+Special Gym Menu,French Toastt,0,0,,150.0
+Special Gym Menu,Ubla Anda Masala,0,0,,170.0
+Special Gym Menu,Sada Hi Fry,0,0,,140.0
+Special Gym Menu,Lime Omelette,0,0,,150.0
+Special Gym Menu,Egg White Omelette,0,0,,150.0
+Special Gym Menu,Mexican Cheese Omelette,0,0,,200.0
+Special Gym Menu,Protein Shake,0,0,,160.0
+Special Gym Menu,Exotic Bhurji,0,0,,170.0
+Breakfast,Toast Omelette,0,0,,90.0
+Breakfast,Boiled Egg,0,0,,20.0
+Breakfast,Gotadaa,0,0,,90.0
+Breakfast,Boil Fry Garlicc,0,0,,90.0
+Breakfast,Khawsa,0,0,,69.0
+Breakfast,Kachuu,0,0,,90.0
+Breakfast,White Omlete,0,0,,85.0
+Breakfast,Egg Rolll,0,0,,90.0
+Breakfast,Tomato Fryy,0,0,,90.0
+Breakfast,Plain Omlete,0,0,,70.0
+Breakfast,Lemon Pepper Omlete,0,0,,85.0
+Breakfast,Bombay Omlete,0,0,,85.0
+Breakfast,Half Fryy,0,0,,60.0
+Breakfast,Garlic Fryy,0,0,,90.0
+Breakfast,Bhurjii,0,0,,90.0
+Breakfast,Kheemaa,0,0,,90.0
+Breakfast,Cheese Toast,1,0,,90.0
+Chutney,Tomato Chutney,1,0,,110.0
+Chutney,Garlic Chutney,1,0,,110.0
+Add Ons,Cheese,1,0,,40.0
+Add Ons,Egg,0,0,,35.0
+Add Ons,Butter,1,0,,35.0
+Bread,Brown Bread,1,0,,20.0
+Bread,G.Masala Pav,1,0,,70.0
+Bread,Pav (4 Pcs),1,0,,42.0
+Acompainments,Roti,1,0,,25.0
+Acompainments,Butter Roti,1,0,,30.0
+Acompainments,Veg Raita,1,0,,90.0
+Acompainments,Plain Curd,1,0,,70.0
+Acompainments,Masala Roti,1,0,,70.0
+Maggi,Masala Veg Maggi,1,0,,70.0
+Maggi,Masala Maggi,1,0,,55.0
+Maggi,Masala Cheese Maggi,1,0,,100.0
+Maggi,Schezwan Maggi,1,0,,110.0
+Veg Main Course,Paneer Bhurji,1,0,,250.0
+Veg Main Course,Paneer Butter Masala,1,0,,230.0
+Veg Main Course,Paneer Sukha,1,0,,250.0
+Veg Main Course,Paneer Garlic Gravy/Dry,1,0,,250.0
+Veg Main Course,Royal Paneer,1,0,,260.0
+Veg Main Course,Veg Dal Tadka,1,0,,190.0
+Noodles,Veg Noodles,1,0,,110.0
+Indo Western,Schezwan Fried Rice,1,0,,150.0
+Indo Western,Veg Fried Rice,1,0,,200.0
+Indo Western,P.Chilly Dry/ Gravy,1,0,,260.0
+Rice Dishes,Veg Pulav,1,0,,200.0
+Rice Dishes,Jeera Rice,1,0,,120.0
+Rice Dishes,Veg Biryani,1,0,,220.0
+Rice Dishes,Plain Rice,1,0,,110.0
+Rice Dishes,Corn Paneer Rice,1,0,,210.0
+Rice Dishes,Royal Paneer Rice,1,0,Veg rice dishes,270.0
+Rice Dishes,Exotic Veg Rice,1,0,,280.0
+Rice Dishes,Burnt Garlic Rice,1,0,,280.0
+Rice Dishes,Paneer Garlic Rice,1,0,,270.0
+Salad,Veg Exotic Salad,1,0,,250.0
+Salad,Paneer Saute Salad,1,0,,280.0
+Drinks (Beverages),Bisleri Bottle,1,0,,30.0

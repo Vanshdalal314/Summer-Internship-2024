@@ -1,0 +1,52 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali And Mini Meals,Rasam Rice,1,0,Served with appalam.,140.0
+Thali And Mini Meals,Sambhar Rice,1,0,Served with masala vada / appalam.,140.0
+Thali And Mini Meals,Curd Rice,1,0,Served with masala vada & pickles.,140.0
+Thali And Mini Meals,Tomato Rice,1,0,Served with masala vada / appalam.,150.0
+Thali And Mini Meals,Kerala Porotta Kurma,1,0,"Nos [2] . Porotta served with cauliflower, potato, green peas gravy with curd ... read more",150.0
+Thali And Mini Meals,Mint Coriander Rice,1,0,Rice cooked in tangy mint and spicy coriander chutney with green chilli served ... read more,160.0
+Idli,Hot Idli [2 Pieces],1,0,Served with sambhar and 2 types chutney.,90.0
+Idli,Thatte Idli [1 Piece],1,0,Served with ghee Sambhar and 2 types Chutney.,110.0
+Idli,Mini Idli [10 Pieces],1,0,Dipped in sambhar and 2 types chutney.,110.0
+Idli,Rava Idli [2 Pieces],1,0,Served with sambhar and 2 types chutney.,120.0
+Idli,Cheese Corn Idli [2 Pieces],1,0,Served with sambhar and 2 types chutney.,120.0
+Idli,Schezwan Cheese Idli [2 Pieces],1,0,Served with sambhar and 2 types chutney.,120.0
+Idli,Podi Thatte Idli [1 Piece],1,0,"Served with podi, ghee, sambhar and 2 types chutney.",130.0
+Idli,Kanchipuram Thatte Idli [1 Piece],1,0,Idli loaded with tadka served with 2 types of chutney.,140.0
+Idli,"Fried Idli [15 Pieces, Mini]",1,0,Idli fried in masala made of tomato onion paste with tangy sauces served ... read more,150.0
+Idli,"Schezwan Cheese Fried Idli [15 Pieces, Mini]",1,0,Idli fried with schezwan sauce and tomato masala served with mayonnaise sauce.,160.0
+Medu Vada,Medu Vada [2 Vada],1,0,Served with sambhar and 2 types chutney.,100.0
+Medu Vada,Masala Vada [2 Pieces],1,0,Served with sambhar and 2 types chutney.,100.0
+Medu Vada,Sambhar Vada [2 Pieces],1,0,Dipped in sambhar and 2 types chutney.,110.0
+Medu Vada,Rasam Vada [2 Pieces],1,0,Served with rasam.,110.0
+Medu Vada,Upma and Vada,1,0,Served with sambhar and 2 types chutney.,130.0
+Medu Vada,Cauliflower Dry Roast [8 Pieces],1,0,Dry roasted cauliflower features tender florets coated in olive oil and seasoned with ... read more,170.0
+Dosa,Banana Bajji [3 Pieces],1,0,With chutney.,100.0
+Dosa,Ghee Plain Dosa [Davangere],1,0,Served with sambhar and 2 types chutney.,120.0
+Dosa,Ghee Roast Dosa [Nice],1,0,Thin crunch dosa served with sambhar and 2 types chutney.,130.0
+Dosa,Ghee Podi Dosa [Davangere],1,0,Served with sambhar and 2 types chutney.,130.0
+Dosa,Cheese Sada Dosa,1,0,Served with sambhar and 2 types chutney.,130.0
+Dosa,Rava Ghee Roast Dosa,1,0,Served with sambhar and 2 types chutney.,140.0
+Dosa,Cheese Masala Dosa,1,0,"Served with potato veg masala, sambhar and 2 types chutney.",150.0
+Dosa,Ghee Podi Masala Dosa [Davangere],1,0,"Served with potato veg masala, sambhar and 2 types chutney.",150.0
+Dosa,Mysuru Sada Dosa,1,0,Served with sambhar and 2 types chutney.,150.0
+Dosa,Tomato Dosa,1,0,Green chilli mixed in tangy tomato puree served with 2 types of chutney.,150.0
+Dosa,Ghee Roast Masala Dosa [Nice],1,0,"Thin crunch dosa served with potato veg masala, sambhar and 2 types chutney.",160.0
+Dosa,Rava Ghee Roast Masala Dosa,1,0,"Served with potato veg masala, sambhar and 2 types chutney.",165.0
+Dosa,Mysuru Masala Dosa,1,0,"Served with potato onion tomato bhaji, sambhar and 2 types chutney.",200.0
+Dosa,Palak Cheese Dosa,1,0,Mixed of palak cheese and masala served with sambhar and 2 types chutney.,210.0
+Dosa,Palak Paneer Bhurji Dosa,1,0,Spicy paneer bhurji mixed with palak paste. Served with 2 types of chutney.,210.0
+Dosa,Kanchipuram Kal Dosa,1,0,"Thick dosa filled with onion, capsicum, tomato with lots of sauces and cheese. ... read more",250.0
+Uttappam,Onion Uttappam,1,0,Served with sambhar and 2 types chutney.,140.0
+Uttappam,Tomato Uttappam,1,0,Served with sambhar and 2 types chutney.,140.0
+Uttappam,Onion Tomato Uttapam,1,0,Served with 2 types of chutney.,150.0
+Uttappam,Coriander Chilli Uttapam,1,0,Fresh coriander leaves mixed with mint paste and green chilli. Served with 2 ... read more,150.0
+Uttappam,Mixed Vegetable Uttappam,1,0,Served with sambhar and 2 types chutney.,180.0
+Uttappam,Pizza Uttapam,1,0,"Uttapam base garnished with tomato, onion, capsicum and lot of cheese fully loaded, ... read more",180.0
+Sweets,Special Pineapple Kesari [100 ml],1,0,Rava with saffron and dry fruits.,60.0
+Sweets,Sakarai Pongal,1,0,"Made with rice, moong, ghee, dry fruits and jaggery.",150.0
+Sweets,Kesari,1,0,Rava with saffron and dry fruits.,160.0
+Sweets,Payasam,1,0,"Vermicelli, milk, ghee and dry fruits.",170.0
+Drinks (Beverages),Filter Coffee,1,0,Original filter coffee.,60.0
+Drinks (Beverages),Buttermilk,1,0,"Buttermilk is a tangy, fermented dairy beverage traditionally made from the liquid left ... read more",60.0
+Drinks (Beverages),Horlicks,1,0,With milk and malt.,70.0

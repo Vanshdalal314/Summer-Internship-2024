@@ -1,0 +1,104 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Student Class Thali,1,0,1 Veg Sabji + 4 Butter Chapati + Dal + Rice [Jain Not ... read more,240.0
+Thali,Corporate Thali,1,0,1 Paneer Sabji + 1 Green Sabji + 4 Butter Chapati + Dal ... read more,300.0
+Thali,Punjabi Thali,1,0,1 Punjabi Paneer + 1 Special Punjabi Chana Masala + 4 Butter Chapati ... read more,300.0
+Thali,Jain Special Thali,1,0,4 Butter Chapati +1 Paneer Sabji + 1 Green Sabji + Dal + ... read more,360.0
+Thali,Family Class Thali,1,0,1 Paneer Sabji + 1 Green Sabji + 4 Butter Chapati + Dal ... read more,400.0
+Thali,Business Class Thali,1,0,1 Paneer Sabji + 1 Green Sabji + 6 Butter Chapati + Dal ... read more,500.0
+Thali,Indian Super Deluxe Thali,1,0,1 Paneer Sabji + 1 Veg Sabji + 4 Plain Paratha + Dal ... read more,560.0
+Thali,Chinese Thali,1,0,Fried Rice + Manchurian Gravy + Chow Mein + Crispy Veg + Salad ... read more,600.0
+Combos,Chole With Puri Combo,1,0,Punjabi chhole [300 ml] + 4 Puri,238.0
+Combos,Chole Masala With Roti,1,0,Chana Masala [300 ml] + 4 Butter Roti,238.0
+Combos,Chole With Rice,1,0,Chole [300 ml] With Rice [300 ml],238.0
+Combos,Rajma With Rice,1,0,Rajma [300 ml] With Rice [300 ml],238.0
+Combos,Dal Fry With Rice,1,0,Dal Fry [300 ml] with Rice [300 ml],238.0
+Combos,Paneer Butter Masala Rice,1,0,Paneer Butter Masala [300 ml] With Rice [300 ml],298.0
+Combos,Dal Makhani With Rice,1,0,Dal Makhani [300 ml] With Rice [300 ml],298.0
+Combos,Kadai Paneer With Roti,1,0,Kadai Paneer [300 ml] + 4 Roti,298.0
+Combos,Malai Kofta With Roti,1,0,Malai kofta [300 ml] + 4 Chapati Roti,318.0
+Combos,Paneer Butter Masala With Roti,1,0,Paneer Butter Masala [300 ml] + 4 Roti,298.0
+Combos,Chinese Combo,1,0,Hakka noodles served with manchurian dary,199.0
+Combos,Manchurian Gravy With Fried Rice,1,0,Manchurian Gravy [300 ml] with Fried Rice [300 ml],318.0
+Combos,Schezwan Fried Rice With Sizzling Vegetables Gravy,1,0,Schezwan Fried Rice [300 ml] with Sizzling Vegetables Gravy [300 ml],338.0
+Combos,Chilli Paneer Gravy With Fried Rice,1,0,Chilli Paneer [300 ml] With Fried Rice [300 ml],378.0
+Combos,Aloo Gobi Paratha Combo,1,0,"2 Aloo Gobi Paratha with Curd, Green Chutney and Pickle Sachet",450.0
+Combos,Aloo Paratha Combo,1,0,"2 Aloo Paratha with Curd, Green Chutney and Pickle Sachet",450.0
+Combos,Paneer Chilli Paratha Combo,1,0,"2 Paneer Chilli Paratha with Curd, Green Chutney and Pickle Sachet",550.0
+Combos,Paneer Paratha Combo,1,0,"2 Paneer Paratha with Curd, Green Chutney and Pickle SachetPickle Sachet",550.0
+Combos,Dal Fry & Jeera Rice With Classic Indian Kheer,1,0,Dal Fry [300 ml] + Rice [300 ml] + Classic Indian Kheer [300 ... read more,438.0
+Combos,Kadai Paneer & Roti With Classic Indian Kheer,1,0,Kadai Paneer [300 ml] + 4 Roti + Classic Indian Kheer [300 ml],498.0
+Combos,Paneer Butter Masala & Jeera Rice With Classic Indian Kheer,1,0,Paneer Butter Masala [300 ml] + Jeera Rice [300 ml] + Classic Indian ... read more,558.0
+Combos,Veg Biryani & Dal Makhani With Classic Indian Kheer,1,0,Veg Biryani [300 ml] + Dal Makhani [300 ml] + Classic Indian Kheer ... read more,598.0
+Combos,Couple Food Box,1,0,4 Plain Paratha+6 Chapati with Butter+1Paneer Sabzi+2 Veg Sabzi+Curd or Raita+Green Salad+Dal or ... read more,800.0
+Pav Bhaji And Pulao,Pav Bhaji Regular,1,0,Regular Pav Bhaji [250 Grams Bhaji + 4 Pav + Salad + Papad],240.0
+Pav Bhaji And Pulao,Tawa Pulav,1,0,Tawa Pulav [500 ml],260.0
+Pav Bhaji And Pulao,Butter Pav (2 Pcs),1,0,Pav - 2Pc,20.0
+Main Course,Gobi Mattar Masala,1,0,Gobi Mattar Masala a gobi cooke with mattarin homemade masala,198.0
+Main Course,Masala Bhindi,1,0,Bhindi with fray on spice,198.0
+Main Course,Jeera Aloo,1,0,Jeera Aloo A dry aloo Saute with jeera,198.0
+Main Course,Aloo Matar,1,0,Aloo Matar A dry allo with mattar cooked with spicial masala,198.0
+Main Course,Aloo Chhola,1,0,Aloo Chhola A Kabuli Chana and Aloo prepar with traditional indian masala,198.0
+Main Course,Bhindi Do Pyaza,1,0,Bhindi do pyaza,198.0
+Main Course,Punjab Chana Masala,1,0,Punjabi Chana Masala A Kabuli Chana Cooked with Indian Spices in Red Gravy,238.0
+Main Course,Veg Kolhapuri,1,0,Veg Kolhapuri A spicy Kolhapuri style seasonal vegetable with red gravy,238.0
+Main Course,Vegetable Hyderabadi,1,0,Vegetable Hyderabadi A Hyderabad style mix vegetables in green gravy,238.0
+Main Course,Veg Kadai,1,0,Veg Kadai Special kadai masala vegetables cooked in Brown gravy,238.0
+Main Course,Diwanee Handi,1,0,Diwanee Handi Mixed Vegetables Cooked in Spices with Brown gravy,238.0
+Main Course,Janta Special Veg,1,0,,248.0
+Main Course,Malai Kofta,1,0,Malai Kofta A Veg dumpling cooked in white saffron gravy,278.0
+Main Course,Kaju Curry,1,0,Kaju Curry A special kaju tukda cooked with rich yellow gravy preparation,378.0
+Main Course,Mattar Paneer,1,0,Mattar Paneer A panner with muttar cooked in rich yellow gravy,338.0
+Main Course,Paneer Butter Masala,1,0,Paneer Butter Masala Paneer served with butter flavoured tomato gravy,338.0
+Main Course,Handi Paneer,1,0,Handi Paneer A traditional handi paneer in red gravy,338.0
+Main Course,Paneer Capsicum,1,0,Paneer Capsicum A traditional Paneer with Capsicum cooked in red gravy,338.0
+Main Course,Kadai Paneer,1,0,Kadai Paneer Paneer prepared with Indian spices in a kadhai,338.0
+Main Course,Paneer Makhani,1,0,Paneer Makhani A Paneer cooked with traditional Makhani tomato Sauce,338.0
+Main Course,Paneer Hyderabadi,1,0,Paneer Hyderabadi Ahyderabad style paneer cooked in green gravy,338.0
+Main Course,Shahi Paneer,1,0,Shahi Paneer A Paneer dumpling cooked in white saffron gravy,358.0
+Main Course,Paneer Toofani,1,0,Paneer Toofani a Indian hot Spices and Paneer with Red Gravy,358.0
+Main Course,Paneer Lababdar,1,0,Paneer Lababdar A lavish paneer preparation in red gravy,358.0
+Main Course,Paneer Bhurji,1,0,Paneer Bhurji A chopped paneer cooked with Indian Spices in yellow gravy,378.0
+Main Course,Janta Special Paneer,1,0,,378.0
+Main Course,Dal Fry,1,0,Dal Fry dal cooked with indian spices,238.0
+Main Course,Dal Tadka,1,0,Dal Tadka A Dal Tempered with galic and spices,278.0
+Main Course,Punjabi Kadhi,1,0,Punjabi Kadhi A preparation of besan and chaas topped with pakodi,278.0
+Main Course,Dal Makhani,1,0,Dal Makhani A preparation of udad dal in more butter and cream,318.0
+Rice & Biryani,Steam Rice,1,0,Steam rice Basmati Rice double cooked,198.0
+Rice & Biryani,Jeera Rice,1,0,Jeera Rice A Basmati rice Saute with jeera,238.0
+Rice & Biryani,Veg Pulao,1,0,Veg Pulao A combination of assorted green vagetables Pulao,258.0
+Rice & Biryani,Hyderabadi Biryani,1,0,Hyderabadi Biryani A traditional biryani cooked in hyderabadi spices,298.0
+Rice & Biryani,Veg Biryani,1,0,Veg Biryani A Basmati Chawal Cooked with vegetables in traditional indian Biryani masala,298.0
+Rice & Biryani,Achari Biryani,1,0,Achari Biryani Achari Biryani cooked in chef secrets spices,338.0
+Rice & Biryani,Dum Biryani,1,0,Dum Bityani A Birayani cooked Dum Style with Indian Spices,338.0
+Rice & Biryani,Paneer Biryani,1,0,Panner Biryani A Basmati Chawal Cooked with vegetable and Panner in traditional indian ... read more,358.0
+Roti,Butter Tawa Roti,1,0,Chapati with butter chapati prepared on wheat flour with Butter,23.0
+Chinese,Manchurian Dry,1,0,Manchurian Dry fried Vegetable dumplings tossed dry vegetable,258.0
+Chinese,Manchurian Gravy,1,0,Manchurian Gravy fried Vegetable dumplings tossed in soya sauce,258.0
+Chinese,Chilli Paneer Dry,1,0,Chilli Paneer Dry Fried fingers of paneer tossed dry with vegetable,318.0
+Chinese,Chilli Paneer Gravy,1,0,Chilli Paneer Gravy Fried fingers of paneer tossed in a thick soya sauce,318.0
+Chinese,Manchurian Rice,1,0,,258.0
+Chinese,Veg Fried Rice,1,0,Veg Fried Rice Tossed fried rice with spring onion,278.0
+Chinese,Schezwan Fried Rice,1,0,Schezwan Fried Rice Tossed Schezwan in fried rice with spring onion,298.0
+Chinese,Hakka Noodles,1,0,Hakka Noodles Tossed Hakka Noodles with spring onion,258.0
+Chinese,Chowmein,1,0,Chowmein A hakka noodle in chinese gravy,258.0
+Chinese,Vegetables In Hot Garlic Sauce,1,0,Vegetables in Hot Garlic Sauce A spicy version of sweet & sour vegetables,298.0
+Chinese,Schezwan Hakka Noodles,1,0,Schezwan Hakka Noodles Tossed Schezwan in Hakka Noodles with spring onion,298.0
+Pasta,Macroni In Tomato Sauce,1,0,Macroni made in spicy Tomato Sauce,358.0
+Pasta,Penne In Tomato Sauce,1,0,Penne made in spicy Tomato Sauce,358.0
+Pasta,Spaghetti In Tomato Sauce,1,0,Spaghetti made in spicy Tomato Sauce,358.0
+Pasta,Penne In White Sauce,1,0,Penne made in creame & cheese white suce,398.0
+Pasta,Macroni In White Sauce,1,0,Macroni made in creame & cheese white suce,398.0
+Pasta,Spaghetti In White Sauce,1,0,Spaghetti made in creame & cheese white suce,398.0
+Chaas And Papad,Butter Milk,1,0,,30.0
+Chaas And Papad,Water Bottle,1,0,Package drinking water,60.0
+Chaas And Papad,Roasted Papad,1,0,Roasted crispy Papad,38.0
+Chaas And Papad,Fry Papad,1,0,Dipp Fry Papad,58.0
+Chaas And Papad,Masala Papad Roasted,1,0,Fry Papad toping with spice veg,78.0
+Chaas And Papad,Masala Papad Fry,1,0,Fry Papad toping with spice veg,98.0
+Raita & Curd,Plain Curd,1,0,Homemade Curd,118.0
+Raita & Curd,Sweet Curd,1,0,Homemade Curd with added sugar,138.0
+Raita & Curd,Tadka Masala Raita,1,0,Tadka with Spics chilly in curd,178.0
+Raita & Curd,Mix Veg Raita,1,0,Chopped Mix Vegetable curd,178.0
+Raita & Curd,Boondi Raita,1,0,Boondi dipp curd,178.0
+Raita & Curd,Green Salad,1,0,Fresh Green Salad,158.0
+Sweets,Gulab Jamun,1,0,Hot Gulab Jamun [4 Pieces],158.0

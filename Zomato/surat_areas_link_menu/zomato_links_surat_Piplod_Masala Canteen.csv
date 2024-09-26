@@ -1,0 +1,184 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup & Salad,Chicken Asian Lemon & Corriander Soup,0,0,,228.0
+Soup & Salad,Chicken Burnt Garlic Soup,0,0,,228.0
+Soup & Salad,Chicken Manchow,0,0,,228.0
+Soup & Salad,Chicken Sweet Corn,0,0,,228.0
+Soup & Salad,Eastern Sea Food Soup,0,0,Creamy Base Eastern Soup,279.0
+Soup & Salad,Laksa Sea Food Soup,0,0,A'' Delicious Tangy And Spicy Flavor Coconut Milk Base Soup,279.0
+Soup & Salad,Roasted Tomato Basil,1,0,(Uncles Favourite Soup),199.0
+Soup & Salad,Sea Food Eight Treasure Soup,0,0,A Must Try-Prawns Broccoli Carrot Thick Base Soup,279.0
+Soup & Salad,Veg Asian Lemon & Corriander Soup,1,0,,199.0
+Soup & Salad,Veg Burnt Garlic Soup,1,0,,199.0
+Soup & Salad,Veg Manchow,1,0,,199.0
+Soup & Salad,Veg Sweet Corn,1,0,,199.0
+Veg Appetizers,Assorted Bruchettas,1,0,,329.0
+Veg Appetizers,Baked Quesadillas,1,0,,379.0
+Veg Appetizers,Double Cheese Jalapeno Poppers,1,0,(Served With Pesto Aioli),329.0
+Veg Appetizers,Loaded Nachos,1,0,"(Desi Nachos Crispy Tortilla Tamatar Nu Salsa, Cheddar Cheese Fondue On Top Garnished ... read more",359.0
+Veg Appetizers,Peri Peri Paneer,1,0,[Veg Preparation] (Coutage Cheese Saute In Peri Peri Sauce),379.0
+Veg Appetizers,Skewered Harrisa Paneer,1,0,(Skewerds Cottage Cheese Tossed In Harrisa),379.0
+Veg Appetizers,Two Way Hummus,1,0,"(Peri Peri Hummus, Pesto Hummus, Served With Zatar Pita Bread)",359.0
+Non Veg Appetizers,Aila Chicken Lollypop,0,0,(Chicken Lollypop Marinated In Indian Spices And Fried Kebab Style),369.0
+Non Veg Appetizers,Fish Koliwada,0,0,,419.0
+Non Veg Appetizers,Junglee Masale Ka Prawns Tikka,0,0,"A Must Try, Prawns Marinated With Indian Spices Cooked With Charcoal Tandoor",659.0
+Non Veg Appetizers,Lemon Butter Garlic Prawns,0,0,Tiger Prawns Cooked With Lemon Butter Garlic Sauce,659.0
+Non Veg Appetizers,Nimbu Chicken,0,0,,389.0
+Non Veg Appetizers,Prawns Sambaloelek,0,0,Prawns Cooked With Sambal Oelek Sauce,659.0
+Veg Oriental Starters,Chilli Basil Mushroom,1,0,(Whole Mushroom Tossed With Chilli Garlic & Flavoured With Chilli Garlic Basil Leaf),359.0
+Veg Oriental Starters,Chilli Paneer,1,0,"Popular Indo - Chinese Dish Of Cottage Cheese With Soya, Chilli & Green ... read more",359.0
+Veg Oriental Starters,Crispy Exotic Veggies,1,0,(Exotic Vegetable Tossed In Ginger Chilli Sauce),359.0
+Veg Oriental Starters,Crispy Water Chestnut & Brocolli,1,0,(Crispy Water Chestnut & Brocolli Tossed In Sirarcha),359.0
+Veg Oriental Starters,Dusted Crispy Lotus Steam,1,0,Crispy Lotus Steam Tossed In Singapore Sauce),349.0
+Veg Oriental Starters,Kung Pao Potatoes,1,0,(Potato Strips Tossed In A Tangy Hot Sauce & Garnished With Fried Cashew ... read more,349.0
+Veg Oriental Starters,Lemon Chilli Potatoes,1,0,(Diced Cut Potatoes Stir Fried With Chilli Lemon Sauce),349.0
+Veg Oriental Starters,Schezwan Paneer & Mushroom,1,0,(Crispy Paneer & Mushroom Tossed In Schezwan Sauce),359.0
+Veg Oriental Starters,Stir Fry Mushroom In Sweet Chilli,1,0,(Button Mushroom Stir Fried In Sweet Chilli Sauce),369.0
+Veg Oriental Starters,Veg Manchurian,1,0,(Old School Favourite),239.0
+Non Veg Oriental Starters,Chilli Chicken,0,0,"(Popular Indo - Chinese Dish Of Chicken With Soya, Chilli & Green Peppers)",389.0
+Non Veg Oriental Starters,Chilli Fish,0,0,(Popular Indo,399.0
+Non Veg Oriental Starters,Chilli Garlic Chicken,0,0,(Chunks Of Chicken Tossed In Hot Garlic Sauce),389.0
+Non Veg Oriental Starters,Chilli Garlic Fish,0,0,Chunks Of Fish Tossed In Hot Garlic Sauce,399.0
+Non Veg Oriental Starters,Hot Basil Chicken,0,0,(Fried Chicken Tossed In Spicy Sauce & Hint Of Sweet Basil),389.0
+Non Veg Oriental Starters,Hot Basil Fish,0,0,(Fried Basa Fish Tossed In Spicy Sauce & Hint Of Sweet Basil),399.0
+Non Veg Oriental Starters,Lemon Corriander Chicken,0,0,(Chunks Of Chicken Tossed In Lemon Corriander Sauce),389.0
+Non Veg Oriental Starters,Lemon Corriander Fish,0,0,(Chunks Of Basa Fish Tossed In Lemon Corriander Sauce),399.0
+Non Veg Oriental Starters,Pan Fried Hunan Chicken,0,0,(Pan Fried Chicken Tossed In Hunan Chicken),389.0
+Non Veg Oriental Starters,Pan Fried Hunan Fish,0,0,(Pan Fried Basa Fish Tossed In Hunan),399.0
+Non Veg Oriental Starters,Pan Fried Hunan Prawns,0,0,(Pan Fried Basa Prawns Tossed In Hunan),499.0
+Non Veg Oriental Starters,Schezwan Chicken,0,0,(Crispy Chicken Tossed In Schezwan Sauce),389.0
+Non Veg Oriental Starters,Schezwan Fish,0,0,(Crispy Basa Fish Tossed In Schezwan Sauce),399.0
+Non Veg Oriental Starters,Wok Tossed Oyster Chicken,0,0,(In A Chilli Oyster Sauce),389.0
+Non Veg Oriental Starters,Wok Tossed Oyster Fish,0,0,(In A Chilli Oyster Sauce),399.0
+Non Veg Oriental Starters,Wok Tossed Oyster Prawns,0,0,(In A Chilli Oyster Sauce),499.0
+Veg Tandoor Starters,Basil Pesto Stuffed Mushroom,1,0,(Saut,359.0
+Veg Tandoor Starters,Cheese Stuffed Mushroom,1,0,(Saut,379.0
+Veg Tandoor Starters,Corn Malai Aur Spring Onion Seekh,1,0,(Minced Tender Corn Kernels And Paneer Cooked On Skewer),359.0
+Veg Tandoor Starters,Creamy Soya Chaap,1,0,(Served With Mint Chutney),329.0
+Veg Tandoor Starters,Do Rukha Khumb,1,0,"(Mushroom With Two Different Mixtures, Skewers And Broiled In Clay Oven)",349.0
+Veg Tandoor Starters,Hariyali Paneer Tikka,1,0,"(Clay Oven Cooked Cottage Cheese Marinated With Lemon, Green Chilli & Mint, Served ... read more",359.0
+Veg Tandoor Starters,Lal Mirch Paneer Tikka,1,0,(Fresh Paneer Marinade With Classical Blend Of Red Chilli And Selected Spices),359.0
+Veg Tandoor Starters,Malai Paneer Tikka,1,0,(Fresh Paneer Marinade With Classical Blend Of Cashew Paste And Selected Spices),359.0
+Veg Tandoor Starters,Mirchiwale Bharwan Aloo,1,0,(Tandoori Grilled Stuffed Potatoes Served With Tamato Garlic Chutney),329.0
+Veg Tandoor Starters,P3 Paneer Peri Peri,1,0,(Fresh Cottage Cheese Marinade With Peri Peri Sauce),359.0
+Veg Tandoor Starters,Paneer Darbari Tikka,1,0,(Clay Oven Cooked Spicy Saffron Cottage Cheese Skewered),359.0
+Veg Tandoor Starters,Pudina Mirch Paneer Roll,1,0,A House Special Must Try,379.0
+Veg Tandoor Starters,Soya Chaap,1,0,(Served With Tamatar Garlic Chutney),329.0
+Veg Tandoor Starters,Vegetable Gilafi Kebab,1,0,(Mix Vegetable & Almond Kebabs Cooked On A Skewer),359.0
+Non Veg Tandoor Starters,Ajwaini Fish Tikka,0,0,(Desi Tandoori Ajwain Fish Tikka Served With Tomato Garlic Chutney),399.0
+Non Veg Tandoor Starters,Amritsari Fish Tikka,0,0,(Basa Fish Marinated In Pind Da Grounded Masala And Ajwain),399.0
+Non Veg Tandoor Starters,Basil Chicken Tikka,0,0,(Chicken Marinated In Basil Yogurt And Green Chilli Paste),389.0
+Non Veg Tandoor Starters,Chicken Gilafi Kebab,0,0,"(Minced Chicken Kebabs Cooked With Indian Spices And A Hint Of Fennel, Served ... read more",399.0
+Non Veg Tandoor Starters,Chicken Tikka,0,0,(Cubes Of Chicken Flavoured Marinated In Coriander And Fresh Red Chilli Paste And ... read more,389.0
+Non Veg Tandoor Starters,Kali Mirch Chicken Tikka,0,0,"(Chicken Marinade With Curd, Green Chilli, Telicherry Peppercorn & Give The Dish Aroma ... read more",389.0
+Non Veg Tandoor Starters,Kebab E Khaas,0,0,"(Union Square Signature Chicken Stuffed Kebab, Served In Hari Chutney)",399.0
+Non Veg Tandoor Starters,Phahdi Chicken Tikka,0,0,(Cubes Of Chicken Flavoured Marinated In Coriander And Chilli Paste And Cooked In ... read more,389.0
+Non Veg Tandoor Starters,"Tandoori Chicken ""The Original""",0,0,"(Spring Half Chicken Marinated With Yoghurt, Ginger, Lemon Juice & Ground Spices In ... read more",469.0
+Non Veg Tandoor Starters,Tandoori Prawns,0,0,(Good Sized Prawns Marinated In Lal Mirch Masala Combined With Hung Yogurt And ... read more,499.0
+Pizza Pasta & Garlic Bread,Bombay Butter Paneer,1,0,(Cottage Cheese & Capsicum On Makhani Sauce),439.0
+Pizza Pasta & Garlic Bread,Chessy Garlic Bread,1,0,,279.0
+Pizza Pasta & Garlic Bread,Chicken Arrabiata Pasta,0,0,,378.0
+Pizza Pasta & Garlic Bread,Chicken Creamy Pasta,0,0,,378.0
+Pizza Pasta & Garlic Bread,Chicken Penne Pinky,0,0,,378.0
+Pizza Pasta & Garlic Bread,Chicken Spaghetti Aglio Olio,0,0,,378.0
+Pizza Pasta & Garlic Bread,Chicken Tikka Treat,0,0,"(Chicken Tikka, Red Onion, Charred Bell Peppers)",488.0
+Pizza Pasta & Garlic Bread,Garden City,1,0,"(Onion, Fresh Tomato, Green Bell Pepper, Olives, Jalapenos, Baby Corn & Broccoli)",429.0
+Pizza Pasta & Garlic Bread,Garlic Bread,1,0,,229.0
+Pizza Pasta & Garlic Bread,Just Margherita,1,0,"(Tomato Sauce, Fresh Basil & Tomato Sauce)",429.0
+Pizza Pasta & Garlic Bread,Stuffed Garlic Bread,1,0,,289.0
+Pizza Pasta & Garlic Bread,Veg Arrabiata Pasta,1,0,,349.0
+Pizza Pasta & Garlic Bread,Veg Creamy Pasta,1,0,,349.0
+Pizza Pasta & Garlic Bread,Veg Penne Pinky,1,0,,349.0
+Pizza Pasta & Garlic Bread,Veg Spaghetti Aglio Olio,1,0,,349.0
+Oriental Main Course,Chicken Thai Curry,0,0,,429.0
+Oriental Main Course,Chicken With Choice Of Gravy,0,0,,389.0
+Oriental Main Course,Chilli Paneer Gravy,1,0,,379.0
+Oriental Main Course,Exotic Veggies With Choice Of Gravy,1,0,,369.0
+Oriental Main Course,Fish With Choice Of Gravy,0,0,,439.0
+Oriental Main Course,Paneer With Choice Of Gravy,1,0,,379.0
+Oriental Main Course,Prawns With Choice Of Gravy,0,0,,509.0
+Oriental Main Course,Veg Manchurian Gravy,1,0,,339.0
+Oriental Main Course,Veg Thai Curry,1,0,,399.0
+Veg Indian Main Course,Aloo Ki Mandi,1,0,,329.0
+Veg Indian Main Course,Amritsari Chole,1,0,(Chickpeas Cooked With Pan Roasted Dry Spices And Herbs),339.0
+Veg Indian Main Course,Babycorn Mushroom Tawa Masala,1,0,(Flavoursome Concoction Of Mushroom & Babycorn),379.0
+Veg Indian Main Course,Bhindi Mirchi Masala,1,0,(Lady Finger Cooked With Three Peppers In Rich Tomato Gravy),369.0
+Veg Indian Main Course,Dal Makhani,1,0,(Black Lentil Cooked In Butter & Cream With Slow Fire),339.0
+Veg Indian Main Course,Dal Tadka,1,0,(Yellow Dal Tempered With Red Chilli And Garlic),279.0
+Veg Indian Main Course,Diwani Handi,1,0,(Garden Fresh Vegetable & Cottage Cheese Cooked In Tamato & Spinach Gravy),369.0
+Veg Indian Main Course,Dum Punjabi Aloo,1,0,(Baby Potatoes Cooked In Smooth Spicy Red Gravy),339.0
+Veg Indian Main Course,Kofta E Dilbar,1,0,"(Cottage Cheese Dumplings, Crushed Papad, Cashew And Saffron Gravy)",399.0
+Veg Indian Main Course,Kurkure Bhindi,1,0,,339.0
+Veg Indian Main Course,Lasooni Palak Paneer,1,0,(Cubes Cut Cottage Cheese Cooked In Rich Gravy Palak & Garlic Masala),379.0
+Veg Indian Main Course,Paneer Khurchan,1,0,(Mashed Cottage Cheese Cooked In Chatpata Indian Curry),389.0
+Veg Indian Main Course,Paneer Lababdar,1,0,(Classic & Contemporary Indian Curry),389.0
+Veg Indian Main Course,Paneer Makhanwala,1,0,(Delhi Style Cottage Cheese With And Tomato Concuss Gravy),389.0
+Veg Indian Main Course,Stuffed Mirch Salan,1,0,"(Cheese Stuffed Long Chilies Over Mild Peanut, Sesame And Chili Gravy)",379.0
+Veg Indian Main Course,Vilaayati Sabzi,1,0,(Stir Fry Veggie Made In Desi Style),369.0
+Non Veg Indian Main Course,Avdhi Chicken,0,0,(Pieces Of Chicken Or Lamb Well Cooked In Lemon Juice Selected Indian Spices ... read more,309.0
+Non Veg Indian Main Course,Bhuna Chicken,0,0,,299.0
+Non Veg Indian Main Course,Butter Chicken,0,0,,289.0
+Non Veg Indian Main Course,Chicken Mastana,0,0,(Fried Chicken Cooked In Red Gray),309.0
+Non Veg Indian Main Course,Chicken Tikka Masala,0,0,,309.0
+Non Veg Indian Main Course,Cooker Mein Kukad,0,0,(Simple Yet Delicious Home-Style Chicken Curry),309.0
+Non Veg Indian Main Course,Dhaba Chicken Curry,0,0,(Pind Style Chicken Curry),309.0
+Non Veg Indian Main Course,Goan Fish Curry,0,0,"(Basa Fish Cooked With Curry Leaves, Coconut Milk And Tamarind)",369.0
+Non Veg Indian Main Course,Goan Pomfret Curry,0,0,"A Delicious Tangy , Spicy Coconut Milk Based Curry.",829.0
+Non Veg Indian Main Course,Goan Prawn Curry,0,0,"A Delicious Tangy , Spicy Coconut Milk Based Curry.",719.0
+Non Veg Indian Main Course,Kolhapuri Anda Curry,0,0,(Eggs Cooked In Spicy Masala Curry),239.0
+Non Veg Indian Main Course,Malwani Prawns,0,0,(Konkan Speciality With An Aromatic Spiced Coconut Based Gravy),399.0
+Non Veg Indian Main Course,Mutton Rogan Josh,0,0,(Classic Chef Style Slow Cooked Mutton With Indian Spices),379.0
+Non Veg Indian Main Course,Prawns Malai Curry,0,0,Prawns Cooked With Coconut Milk Flavour And Indian Spices.,829.0
+Non Veg Indian Main Course,Rai Tomato Pomfret Curry,0,0,Mustured Flavoured Pomfret Curry.,829.0
+Non Veg Indian Main Course,Railway Tawa Chicken,0,0,"(Tender Pieces Of Chicken, Cooked In Brown Onion Masala)",449.0
+Non Veg Indian Main Course,Rajasthani Chicken,0,0,(Cubes Of Chicken Or Lamb Cooked In Authentic Rajasthani Red Masala),309.0
+Non Veg Indian Main Course,Siganture Chicken Curry,0,0,(A Union Square Speciality),469.0
+Non Veg Indian Main Course,Taka Tak Prawns Masala,0,0,"(Tender Pieces Of Prawns, Cooked In Brown Onion Masala)",399.0
+Non Veg Indian Main Course,Tawa Mutton Masala,0,0,"(Tender Pieces Of Lamb, Cooked In Brown Onion Masala)",379.0
+Non Veg Big Meals And Party Packs,Big Golden Meal For 2 ( Chicken ),0,0,Butter Chicken + Chicken Dhaba Curry+ Zaffrani Chicken Biryani + 4 Pcs Roti ... read more,1299.0
+Non Veg Big Meals And Party Packs,Big Platinum Meal For 2 ( Chicken ),0,0,4 Pcs Chicken Tikka + 8 Pcs Veg Manchrian + Butter Chicken + ... read more,1499.0
+Non Veg Big Meals And Party Packs,Chicken Grill Platter,0,0,5 Pcs Chicken Tikka + 5 Pcs Kebab-E-Khaas + 5 Pcs Chicken Kalimiri ... read more,1349.0
+Non Veg Big Meals And Party Packs,Non Veg Mix Platter,0,0,6 Pcs Chicken Tikka + 6 Pcs Mutton Seekh Kebab +6 Pcs Rawas ... read more,1899.0
+Non Veg Big Meals And Party Packs,Non Veg Starter Pack For 2,0,0,6 Pcs Chicken Tikka + 2 Pcs Cheese Chilli Toast + Peri Peri ... read more,749.0
+Biryani Rice & Noodles,Aloo Aur Chole Biryani,1,0,"(Cubes Of Potato, Soya And Kabuli Chana Cooked Mild Spicy Masala)",369.0
+Biryani Rice & Noodles,Butter Chicken Biryani,0,0,(Boneless Chicken Layered With This Classic Rich Makhni Gravy Made With Tomatoes & ... read more,419.0
+Biryani Rice & Noodles,Chicken Asian Pot Rice,0,0,,468.0
+Biryani Rice & Noodles,Chicken Burnt Garlic Rice,0,0,,329.0
+Biryani Rice & Noodles,Chicken Fried Rice,0,0,,329.0
+Biryani Rice & Noodles,Chicken Hakka Noodles,0,0,,348.0
+Biryani Rice & Noodles,Chicken Schezwan Hakka Noodle,0,0,,348.0
+Biryani Rice & Noodles,Chicken Schezwan Rice,0,0,,329.0
+Biryani Rice & Noodles,Chicken Zaffrani Biryani,0,0,(Delicately Flavoured Basmati Rice Cooked With Mildly Spices Chicken),419.0
+Biryani Rice & Noodles,Dal Khichdi,1,0,,289.0
+Biryani Rice & Noodles,Egg Burnt Garlic Rice,0,0,,329.0
+Biryani Rice & Noodles,Egg Fried Rice,0,0,,329.0
+Biryani Rice & Noodles,Egg Schezwan Rice,0,0,,329.0
+Biryani Rice & Noodles,Jeera Rice,1,0,(Aromatic Basmati Rice Tempered With Roasted Cumin Seeds),219.0
+Biryani Rice & Noodles,Lehsuni Corn Palak Khichdi,1,0,,299.0
+Biryani Rice & Noodles,Masala Vegetable Khichdi,1,0,,309.0
+Biryani Rice & Noodles,Signature Fried Rice,1,0,,369.0
+Biryani Rice & Noodles,Steamed Rice,1,0,(A Must With Every Indian Meal),199.0
+Biryani Rice & Noodles,Subz Dum Biryani,1,0,"(A Delicious Aromatic Biryani Of Several Assorted Vegetables, Reflecting The Northern Influence, Served ... read more",349.0
+Biryani Rice & Noodles,Veg Asian Pot Rice,1,0,,439.0
+Biryani Rice & Noodles,Veg Burnt Garlic Rice,1,0,,329.0
+Biryani Rice & Noodles,Veg Fried Rice,1,0,,329.0
+Biryani Rice & Noodles,Veg Hakka Noodles,1,0,,329.0
+Biryani Rice & Noodles,Veg Schezwan Hakka Noodle,1,0,,329.0
+Biryani Rice & Noodles,Veg Schezwan Rice,1,0,,329.0
+Indian Breads,Amritsari Kulcha,1,0,,109.0
+Indian Breads,Butter Garlic Naan,1,0,,89.0
+Indian Breads,Butter Naan,1,0,,59.0
+Indian Breads,Butter Roti,1,0,,39.0
+Indian Breads,Chur Chur Paratha,1,0,,79.0
+Indian Breads,Lacheddar Paratha,1,0,,79.0
+Indian Breads,Plain Garlic Naan,1,0,,89.0
+Indian Breads,Plain Naan,1,0,,49.0
+Indian Breads,Plain Roti,1,0,,29.0
+Indian Breads,Roti Basket,1,0,,239.0
+Desserts,Gulab Jamun,1,0,,99.0
+Desserts,Rabdi With Hot Gulab Jamun,1,0,,189.0
+Desserts,Shahi Tukda,1,0,,169.0
+Desserts,Zafrani Lacchedar Rabdi,1,0,,179.0
+Veg Big Meals And Party Packs,Big Golden Meal For 2 ( Vegetarian ),1,0,Paneer Lababdar + Veg Diwani Handi + 4 Pcs Roti + Veg Zaffrani ... read more,1099.0
+Veg Big Meals And Party Packs,Big Platinum Meal For 2 ( Vegetarian ),1,0,4 Pcs Paneer Tikka + 8 Pcs Manchurian + Paneer Lababdar + Veg ... read more,1399.0
+Veg Big Meals And Party Packs,Veg Grill Platter,1,0,5 Pcs Paneer Tikka + 5 Pcs Paneer Pahadi Tikka + 5 Pcs ... read more,1699.0
+Veg Big Meals And Party Packs,Veg Starter Pack For 2,1,0,6 Pcs Two Way Paneer Tikka + 2 Pcs Cheese Chilli Toast + ... read more,749.0

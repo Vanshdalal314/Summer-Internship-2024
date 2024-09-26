@@ -1,0 +1,169 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Veg Burnt Garlic Soup,1,0,,180.0
+Soups,Veg Classic Oriental Soup,1,0,,190.0
+Soups,Veg Hot And Sour Soup,1,0,,170.0
+Soups,Veg Lemon Coriander Soup,1,0,,180.0
+Soups,Veg Manchow Soup,1,0,,170.0
+Soups,Veg Sweet Corn Soup,1,0,,170.0
+Soups,Chi. Burnt Garlic Soup,0,0,,190.0
+Soups,Chi. Cla Oriental Soup,0,0,,200.0
+Soups,Chi. Lemon Coriander Soup,0,0,,190.0
+Soups,Chicken Hot & Sour Soup,0,0,,180.0
+Soups,Chicken Manchow Soup,0,0,,180.0
+Soups,Chicken Sweet Corn Soup,0,0,,180.0
+Soups,Crab Meat Soup,0,0,,200.0
+Soups,Egg Chicken Soup,0,0,,180.0
+Soups,Sea Food Soup,0,0,,200.0
+Veg Chinese Starters,Mushroom Butter Garlic,1,0,,310.0
+Veg Chinese Starters,Mushroom Chilli,1,0,,300.0
+Veg Chinese Starters,Mushroom Coriander Chilly,1,0,,300.0
+Veg Chinese Starters,Paneer Basil Chilly,1,0,,310.0
+Veg Chinese Starters,Paneer Butter Garlic Dry,1,0,,310.0
+Veg Chinese Starters,Paneer Chilli Dry,1,0,,310.0
+Veg Chinese Starters,Paneer Coriander Chilli,1,0,,300.0
+Veg Chinese Starters,Paneer Schezwan Dry,1,0,,310.0
+Veg Chinese Starters,Veg Manchurian Dry,1,0,,200.0
+Non Veg Chinese Starters,Chicken Basil Chilli,0,0,,330.0
+Non Veg Chinese Starters,Chicken Chilli Dry,0,0,,320.0
+Non Veg Chinese Starters,Chicken Green Pepper,0,0,,310.0
+Non Veg Chinese Starters,Chicken Lollypop (4pcs),0,0,,250.0
+Non Veg Chinese Starters,Chicken Manchurian,0,0,,320.0
+Non Veg Chinese Starters,Chicken Oyster Chilli Dry,0,0,,330.0
+Non Veg Chinese Starters,Chicken Schezwan Dry,0,0,,330.0
+Non Veg Chinese Starters,Crispy Chicken,0,0,,320.0
+Non Veg Chinese Starters,Drums Of Heaven,0,0,,310.0
+Non Veg Chinese Starters,Fish Coriander,0,0,,390.0
+Non Veg Chinese Starters,Fish Butter Garlic,0,0,,390.0
+Non Veg Chinese Starters,Fish Chilli,0,0,,390.0
+Non Veg Chinese Starters,Fish Basil Chilli,0,0,,390.0
+Non Veg Chinese Starters,Fish Crispy,0,0,,390.0
+Non Veg Chinese Starters,Fish Oyster Chilli,0,0,,390.0
+Non Veg Chinese Starters,Fish Salt N Pepper,0,0,,390.0
+Non Veg Chinese Starters,Fish Schezwan,0,0,,390.0
+Non Veg Chinese Starters,Chicken Kung Pao,0,0,,330.0
+Non Veg Chinese Starters,Prawns Butter Garlic,0,0,,450.0
+Non Veg Chinese Starters,Prawns Chilli,0,0,,450.0
+Non Veg Chinese Starters,Prawns Basil Chilli,0,0,,450.0
+Non Veg Chinese Starters,Prawns Coriander,0,0,,450.0
+Non Veg Chinese Starters,Prawns Crispy,0,0,,450.0
+Non Veg Chinese Starters,Prawns Oyster Chilli,0,0,,450.0
+Non Veg Chinese Starters,Prawns Salt N Pepper,0,0,,450.0
+Non Veg Chinese Starters,Prawns Schezwan,0,0,,450.0
+Starters,Achari Paneer Tikka (6pcs),1,0,,290.0
+Starters,Ajwaini Paneer Tikka (6pcs),1,0,,290.0
+Starters,Angara Paneer Tikka (6pcs),1,0,,290.0
+Starters,Kalimirch Paneer Tikka (6pcs),1,0,,290.0
+Starters,Lasuni Paneer Tikka (6pcs),1,0,,290.0
+Starters,Malai Paneer Tikka (6pcs),1,0,,290.0
+Starters,Pahadi Paneer Tikka (6pcs),1,0,,290.0
+Starters,Aachari Tikka,0,0,,370.0
+Starters,Afghani Tangdi (2pcs),0,0,,250.0
+Starters,Ajwaini Fish Tikka,0,0,,410.0
+Starters,Chicken Angara Tikka,0,0,,370.0
+Starters,Chicken Banjara Tikka,0,0,,370.0
+Starters,Cheese Malai Tikka,0,0,,410.0
+Starters,Chic Seekh Kebab,0,0,,350.0
+Starters,Chicken Tikka,0,0,,370.0
+Starters,Kalimirch Tikka,0,0,,370.0
+Starters,Chicken Kasturi Tikka,0,0,,370.0
+Starters,Lasuni Fish Tikka,0,0,,410.0
+Starters,Lasuni Tikka,0,0,,370.0
+Starters,Malai Tikka,0,0,,370.0
+Starters,Pahadi Tikka,0,0,,370.0
+Starters,Pudina Fish Tikka,0,0,,410.0
+Starters,Tandoori Chest,0,0,,180.0
+Starters,Tandoori Chicken,0,0,,320.0
+Starters,Tandoori Leg,0,0,,180.0
+Starters,Tangdi Kebab (2pcs),0,0,,250.0
+Veg Chinese Main Course,Mushroom Soya Chilli,1,0,,300.0
+Veg Chinese Main Course,Paneer Butter Lemon Chilli,1,0,,310.0
+Veg Chinese Main Course,Paneer Chilli Gravy,1,0,,310.0
+Veg Chinese Main Course,Paneer In Butter Garlic Sauce,1,0,,310.0
+Veg Chinese Main Course,Veg Manchurian Gravy,1,0,,230.0
+Non -Veg Chinese Main Course,Chicken Butter Lemon Chilli,0,0,,360.0
+Non -Veg Chinese Main Course,Chicken Chilli Gravy,0,0,,350.0
+Non -Veg Chinese Main Course,Chicken In Oyster Sauce,0,0,,360.0
+Non -Veg Chinese Main Course,Chicken In Schezwan Sauce,0,0,,360.0
+Non -Veg Chinese Main Course,Chicken Manchurian Gravy,0,0,,350.0
+Main Course,Amritsari Kheema Masala,1,0,,300.0
+Main Course,Babycorn Mushroom Masala,1,0,,290.0
+Main Course,Dal Fry,1,0,,230.0
+Main Course,Dal Makhni,1,0,,310.0
+Main Course,Dal Tadka,1,0,,270.0
+Main Course,Knc Spl Paneer Masala,1,0,,330.0
+Main Course,Palak Lasuni,1,0,,300.0
+Main Course,Palak Paneer,1,0,,300.0
+Main Course,Paneer Butter Masala,1,0,,310.0
+Main Course,Paneer Chatpata,1,0,,320.0
+Main Course,Paneer Kadhai,1,0,,300.0
+Main Course,Paneer Lazeez,1,0,,320.0
+Main Course,Paneer Tikka Masala,1,0,,310.0
+Main Course,Veg. Banjara,1,0,,300.0
+Main Course,Veg Chatpata,1,0,,290.0
+Main Course,Veg Kadhai,1,0,,290.0
+Main Course,Butter Chicken,0,0,,300.0
+Main Course,Butter Chicken BL,0,0,,290.0
+Main Course,Chic Bhuna,0,0,,300.0
+Main Course,Chic Bhuna BL,0,0,,290.0
+Main Course,Chic Gounty Style,0,0,,290.0
+Main Course,Chic Kadai BL,0,0,,290.0
+Main Course,Chic Kadhai,0,0,,300.0
+Main Course,Chic Tikka Masala,0,0,,300.0
+Main Course,Dhaba Chicken BL,0,0,,300.0
+Main Course,Knc Spl Chicken,0,0,,300.0
+Main Course,Egg Bhuna Masala,0,0,,250.0
+Main Course,Egg Bhurjee,0,0,,230.0
+Main Course,Egg Curry,0,0,,230.0
+Main Course,Egg Kheema,0,0,,230.0
+Main Course,Fish Masala Majedar,0,0,,390.0
+Main Course,Fish Tawa Masala,0,0,,390.0
+Main Course,Prawns Masala Majedar,0,0,,450.0
+Main Course,Prawns Tawa Masala,0,0,,450.0
+Breads,Btr Cheese Garlic Naan,1,0,,120.0
+Breads,Butter Cheese Naan,1,0,,110.0
+Breads,Butter Garlic Naan,1,0,,90.0
+Breads,Butter Garlic Roti,1,0,,70.0
+Breads,Butter Kulcha,1,0,,80.0
+Breads,Butter Naan,1,0,,80.0
+Breads,Lacha Pratha Butter,1,0,,80.0
+Breads,Plain Cheese Garlic Naan,1,0,,110.0
+Breads,Plain Cheese Naan,1,0,,90.0
+Breads,Plain Garlic Naan,1,0,,80.0
+Breads,Plain Garlic Roti,1,0,,60.0
+Breads,Plain Kulcha,1,0,,70.0
+Breads,Plain Lacha Paratha,1,0,,70.0
+Breads,Plain Naan,1,0,,70.0
+Breads,Rumali Roti Butter,1,0,,120.0
+Breads,Rumali Roti Plain,1,0,,110.0
+Breads,Tandoori Roti Butter,1,0,,40.0
+Breads,Tandoori Roti Plain,1,0,,30.0
+Rice / Biryani,Chicken Dum Biryani,0,0,,310.0
+Rice / Biryani,Chicken Dum Biryani Bl,0,0,,320.0
+Rice / Biryani,Egg Dum Biryani,0,0,,270.0
+Rice / Biryani,Jeera Rice,1,0,,130.0
+Rice / Biryani,Steamed Rice,1,0,,110.0
+Rice / Biryani,Veg Dum Biryani,1,0,,270.0
+Veg Rice / Noodles,Veg Burnt Garlic Noodles,1,0,,300.0
+Veg Rice / Noodles,Veg Burnt Garlic Rice,1,0,,300.0
+Veg Rice / Noodles,Veg Chilli Garlic Noodles,1,0,,290.0
+Veg Rice / Noodles,Veg Chilli Garlic Rice,1,0,,290.0
+Veg Rice / Noodles,Veg Fried Rice,1,0,,250.0
+Veg Rice / Noodles,Veg Hakka Noodles,1,0,,250.0
+Veg Rice / Noodles,Veg Hot Basil Noodles,1,0,,300.0
+Veg Rice / Noodles,Veg Hot Basil Rice,1,0,,300.0
+Veg Rice / Noodles,Veg Schezwan Noodles,1,0,,290.0
+Veg Rice / Noodles,Veg Schezwan Rice,1,0,,290.0
+Non-Veg Rice / Noodles,Chic Burnt Garlic Noodles,0,0,,310.0
+Non-Veg Rice / Noodles,Chic Burnt Garlic Rice,0,0,,310.0
+Non-Veg Rice / Noodles,Chic Chilli Garlic Noodles,0,0,,300.0
+Non-Veg Rice / Noodles,Chic Chilli Garlic Rice,0,0,,300.0
+Non-Veg Rice / Noodles,Chic Hakka Noodles,0,0,,260.0
+Non-Veg Rice / Noodles,Chic Hot Basil Noodles,0,0,,310.0
+Non-Veg Rice / Noodles,Chic Hot Basil Rice,0,0,,310.0
+Non-Veg Rice / Noodles,Chic Schezwan Noodles,0,0,,300.0
+Non-Veg Rice / Noodles,Chic Schezwan Rice,0,0,,300.0
+Non-Veg Rice / Noodles,Chicken Fried Rice,0,0,,260.0
+Non-Veg Rice / Noodles,Egg Fried Rice,0,0,,250.0
+Non-Veg Rice / Noodles,Pan Fry Noodles In Choice Of Sauce,1,0,,390.0
+Papad And Salad,Fried Papad,1,0,,40.0
+Papad And Salad,Roasted Papad,1,0,,30.0

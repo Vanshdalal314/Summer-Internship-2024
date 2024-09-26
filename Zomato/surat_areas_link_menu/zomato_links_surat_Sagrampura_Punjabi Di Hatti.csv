@@ -1,0 +1,182 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Veg Economy Thali,1,0,Chana Masala+2 Butter Tandoori Roti+Jeera Rice+Salad [Subject to Availability],219.0
+Thali,Basic Veg Thali,1,0,Mixed Veg+2 Butter Tandoori+Dal Fry+Steamed Rice+Papad+Salad [Salad-Subject to Availability],249.0
+Thali,Veg Deluxe Thali,1,0,Paneer Butter Masala+Mixed Veg+Jeera Rice+Dal Fry+3 Roti Tandoori+Papad+Salad+Gulab Jamun/Rasgulla [1 Piece]+Buttermilk,327.0
+Thali,Shahi Punjabi Thali,1,0,Chaap Starter+Shahi Paneer+Veg Kolhapuri+Dal Fry+Jeera Rice+2 Lachha Paratha+Salad+Buttermilk [Salad-Subject to Availability],471.0
+Combos,Butter Kulcha with Chole,1,0,[Chef's Special] Chole Kulche is a popular snack/breakfast dish from the Punjabi cuisine. ... read more,199.0
+Combos,Amritsari Kulcha with Chole,1,0,[Chef's Special] Amritsari Kulcha is a lip-smacking stuffed flatbread dish from Punjab. It ... read more,219.0
+Combos,Chole Bhature [2 Pieces],1,0,Chole bhature is a food dish popular in the Northern areas of the ... read more,249.0
+Combos,Chur Chur Naan with Chole,1,0,[Chef's Special] a popular north indian flat bread recipe made with plain flour ... read more,291.0
+Combos,Mixed Rajma Chawal,1,0,[Chef's Special] Rajma chawal is a rice dish where cooked rice is mixed ... read more,291.0
+Combos,Mixed Chole Chawal,1,0,[Chef's Special],291.0
+Combos,Sarso Da Saag Makke Di Roti,1,0,[Chef's Special] Sarson ka Saag te Makki ki Roti is a signature delicacy ... read more,345.0
+Combos,Amritsari Kulcha with Chole and Buttermilk,1,0,,237.0
+Combos,Dal Fry with Jeera Rice and Buttermilk,1,0,,246.0
+Combos,Dal Makhani with 2 Lachha Paratha and Buttermilk,1,0,,273.0
+Combos,Shahi Mughlai Paneer with 4 Butter Roti,1,0,,354.0
+Combos,Cheese Gravy with 2 Garlic Naan,1,0,,399.0
+Combos,Chaap Toofani Combo,1,0,1 Dal Fry+1 Rice+4 Roti,399.0
+Combos,Tawa Paneer with Dal Makhani and 5 Roti,1,0,,426.0
+Combos,Paneer Butter Masala with 4 Butter Roti and Dum Biryani,1,0,,426.0
+Platters,Paneer Mushroom Platter [12 Pieces],1,0,[Chef's Special],469.0
+Platters,Paneer Chaap Platter [12 Pieces],1,0,[Chef's Special],469.0
+Platters,Paneer Tikka Platter,1,0,[Chef's Special] 2 Types of assorted paneer.,469.0
+Platters,Chaap Tikka Platter,1,0,[Chef's Special] 2 Types of assorted chaap.,469.0
+Platters,Mixed Tandoori Platter,1,0,[Chef's Special] 3 Types of assorted chaap paneer and mushroom.,498.0
+Starters,Paneer Tikka Dry [10 Pieces],1,0,Blocks of paneer marinated in pdh spices and and vegetables grilled in clay ... read more,339.0
+Starters,Achari Paneer Tikka [10 Pieces],1,0,Paneer marinated in tangy pickle marinade and served with grilled vegetables in clay ... read more,339.0
+Starters,Hariyali Paneer Tikka [10 Pieces],1,0,Paneer coated with herbed mint paste and grilled in clay oven,339.0
+Starters,Malai Paneer Tikka [10 Pieces],1,0,A layer of clotted cream coated on paneer with herbs and spices and ... read more,339.0
+Starters,Lasooni Paneer Tikka [10 Pieces],1,0,,269.0
+Starters,Afghani Paneer Tikka [10 Pieces],1,0,"Soft paneer cubes marinated in cream, yogurt, cashew, and aromatic spices finished in ... read more",369.0
+Starters,Paneer Mushroom Tikka [12 Pieces],1,0,A tantalizing combination of paneer and mushroom marinated in aromatic spices and grilled ... read more,399.0
+Starters,Tandoori Mushroom [12 Pieces],1,0,mushroom marinated in spices marinade and vegetables and grilled in clay oven Achari mushroom,399.0
+Starters,Achari Mushroom [12 Pieces],1,0,mushrooms marinated with Tandy achaari marinade and served with vegetables tossed in clay ... read more,399.0
+Starters,Malai Mushroom [12 Pieces],1,0,Mushrooms marinated in clotted cream and Punjabi Di Hatti spices and grilled in ... read more,408.0
+Starters,Afghani Chaap [15 Pieces],1,0,"Juicy soya chaap marinated with cream, cashew and pdh spices and grilled in ... read more",329.0
+Starters,Chatpata Chaap [15 Pieces],1,0,Delicious soya chaap tossed with the tangy flavours(pickel and lemon) and spl pdh ... read more,329.0
+Starters,Lemon Chaap [15 Pieces],1,0,,329.0
+Starters,Achari Chaap [15 Pieces],1,0,soya chaap marinated with Tandy achaari marinade and served with vegetables tossed in ... read more,329.0
+Starters,Malai Chaap [15 Pieces],1,0,Juicy soya chaap marinated in clotted cream and pdh spices and grilled in ... read more,339.0
+Starters,Cream Chaap [9 Pieces],1,0,(Stuffed paneer)soya chaap stuffed with flavoured cottage cheese and tossed in clay oven ... read more,369.0
+Starters,Masala Chaap [9 Pieces],1,0,(paneer stuffed)soya chaap coated with chaap spices and grilled in clay oven. A ... read more,369.0
+Starters,Kali Mirch Afghani Chaap [15 Pieces] VI,1,0,Juicy soya chaap marinated with roasted black pepper and grilled in clay oven,369.0
+Starters,Angara Soya Chaap Dry [9 Pieces],1,0,Hot and Dry base soya chaap marinated in spicy flavour and pdh spices and ... read more,408.0
+Starters,Soya Stick Chaap [3 Pieces],1,0,Stuffed soya chaap marinated with delicious pdh marinade grilled in clay oven and ... read more,408.0
+Starters,Singapuri Chaap [9 Pieces],1,0,Soya chaap stuffed with cheese and grilled in clay oven with onions,408.0
+Starters,Lasooni Chaap [15 Pieces],1,0,Juicy soya chaap marinated with garlic marinade and vegetables grilled in clay oven,408.0
+Starters,Chaap Tikka Authentic [9 Pieces],1,0,Soya chaap marinated in red flavour and pdh spices and grilled in clay ... read more,408.0
+Starters,Cheese Overloaded Soya Chaap [9 Pieces],1,0,"Soya chaap stuffed with cheese, grilled in clay oven and served with cheese ... read more",438.0
+Main Course,Aloo Matar [500 ml],1,0,An authentic dish prepared with potatoes and peas in a semi dry tomato ... read more,399.0
+Main Course,Chana Masala [500 ml],1,0,A dish prepared from boiled chickpeas cooked in spiced gravy with special chana ... read more,399.0
+Main Course,Mix Veg [500 ml],1,0,Mixed of fresh vegetables cooked in gravy mixed with authentic spices and garnished ... read more,399.0
+Main Course,Veg Kolhapuri [500 ml],1,0,Mixed of fresh vegetables prepared in gravy with added spices and special dry ... read more,399.0
+Main Course,Veg Makhanwala [500 ml],1,0,Mix of fresh vegetables with roasted fox nuts cooked in red gravy and ... read more,327.0
+Main Course,Veg Diwani Handi [500 ml],1,0,Mix of fresh vegetables cooked in gray made from green leafy vegetables and ... read more,447.0
+Main Course,Punjabi Di Hatti Special Veg Murakhan [500 ml],1,0,[Chef's Special],498.0
+Main Course,Paneer Tikka Masala,1,0,Paneer cubes roasted in clay oven and cooked in creamy tomato and our ... read more,298.0
+Main Course,Tawa Paneer,1,0,"A semi dry curry with capsicum, onions and cubes of paneer cooked on ... read more",298.0
+Main Course,Tawa Cream Paneer,1,0,"A creamy curry with capsicum, onion and cubes of cottage cheese cooked on ... read more",298.0
+Main Course,Kadhai Paneer,1,0,Cottage cheese cubes with onion and capsicum combined with spicy kadhai gravy by ... read more,298.0
+Main Course,Shahi Paneer,1,0,Cubes of cottage cheese simmered in rich tomato gravy laced with cream.,244.0
+Main Course,Kali Mirch Paneer,1,0,Cubes of cottage cheese cooked in a thick gravy rich in black pepper ... read more,244.0
+Main Course,Paneer Angara,1,0,,298.0
+Main Course,Paneer Palak,1,0,Cubes of cottage cheese cooked in creamy fresh spinach gravy and tempered with ... read more,298.0
+Main Course,Paneer Bhurji [300 ml],1,0,Scrambled cottage cheese cooked in vegetables and Punjabi spices and finished with some ... read more,329.0
+Main Course,Shahi Mughlai Paneer,1,0,,349.0
+Main Course,Paneer Butter Masala,1,0,"Cottage cheese cooked in rich tomatoes, cashew nut paste, khoya and finished with ... read more",298.0
+Main Course,Lemon Paneer,1,0,Soft cubes of cottage cheese cooked in a gravy with dominant flavor of ... read more,298.0
+Main Course,Paneer Lasooni [500 ml],1,0,Cubes of cottage cheese cooked in a creamy and spiced gravy with the ... read more,399.0
+Main Course,Paneer Amritsari [500 ml],1,0,,399.0
+Main Course,Paneer Lababdar [500 ml],1,0,Cubes of cottage cheese and fresh spring onion tossed in wok then simmered ... read more,399.0
+Main Course,Paneer Toofani [500 ml],1,0,,399.0
+Main Course,Paneer Handi [500 ml],1,0,Cubes of cottage cheese cooked in a creamy and flavored gravy with added ... read more,327.0
+Main Course,Paneer Matar [500 ml],1,0,Cubes of cottage cheese with fresh peas in rich tomato gravy seasoned Punjabi ... read more,399.0
+Main Course,Paneer Lahori [500 ml],1,0,,399.0
+Main Course,Paneer Makhanwala [500 ml],1,0,Cubes of cottage cheese cooked in rich and creamy gravy with fox nuts ... read more,399.0
+Main Course,Paneer Do Pyaza [500 ml],1,0,,399.0
+Main Course,Punjabi Di Hatti Special Paneer Murakhan [500 ml],1,0,[Chef's Special],498.0
+Main Course,Cheese Butter Masala,1,0,Soft cheese cube cooked in rich cashew nut and tomato based buttery gravy ... read more,330.0
+Main Course,Cheese Paneer Butter Masala [500 ml],1,0,Soft cheese cubes and pieces of cottage cheese together cooked in rich cashew ... read more,423.0
+Main Course,Cheese Angoori [500 ml],1,0,,423.0
+Main Course,Cheese Angara [500 ml],1,0,,423.0
+Main Course,Kaju Butter Masala [500 ml],1,0,"Roasted cashews cooked in rich tomatoes, cashew nut paste, khoya and finished with ... read more",423.0
+Main Course,Kaju Curry [500 ml],1,0,,423.0
+Main Course,Kaju Paneer [500 ml],1,0,Roasted cashews and cubes of cottage cheese simmered in rich tomato gravy laced ... read more,487.0
+Main Course,Punjabi Di Hatti Special Kaju Murakhan [500 ml],1,0,[Chef's Special],498.0
+Main Course,Butter Chaap Masala,1,0,Pieces of marinated soft soya chaap cooked in rich cashew nut and tomato ... read more,298.0
+Main Course,Tawa Chaap,1,0,Pieces of marinated soft soya chaap cooked in red gravy with vegetables on ... read more,298.0
+Main Course,Tawa Cream Chaap,1,0,Pieces of marinated soft soya chaap cooked in medium spiced creamy gravy on ... read more,298.0
+Main Course,Lemon Chaap,1,0,Pieces of marinated soft soya chaap cooked in a gravy with dominant flavor ... read more,244.0
+Main Course,Kali Mirch Chaap,1,0,{Signature dish},298.0
+Main Course,Kadhai Chaap,1,0,Pieces of marinated soft soya chaap prepared in a creamy spicy tomato gravy ... read more,298.0
+Main Course,Chaap Angara [500 ml],1,0,,399.0
+Main Course,Shahi Chaap [500 ml],1,0,Pieces of marinated soft soya chaap cooked in creamy-medium spiced gravy with special ... read more,399.0
+Main Course,Stuffed Chaap Gravy [500 ml],1,0,Pieces of marinated soft soya chaap stuffed with cottage cheese filling and cooked ... read more,417.0
+Main Course,Punjabi Di Hatti Special Chaap Murakhan [500 ml],1,0,[Chef's Special],498.0
+Main Course,Veg Kofta [500 ml],1,0,Soft veg fried balls made from vegetable and boiled potato cooked in medium ... read more,478.0
+Main Course,Malai Kofta [500 ml],1,0,Soft veg fried balls made from cottage cheese and vegetables cooked in rich ... read more,478.0
+Main Course,Kaju Kofta [500 ml],1,0,Soft veg fried balls made from cashews and cottage cheese cooked in rich ... read more,478.0
+Main Course,Nargisi Kofta [500 ml],1,0,Soft veg fried balls made from cottage cheese an cheese cooked and served ... read more,489.0
+Main Course,Mushroom Butter Masala,1,0,"Button mushroom pieces cooked in rich tomatoes, cashew nut paste, khoya and finished ... read more",244.0
+Main Course,Mushroom Tikka Masala,1,0,Pieces of button mushroom roasted in clay oven and cooked in creamy tomato ... read more,298.0
+Main Course,Tawa Cream Mushroom,1,0,"A creamy curry with capsicum, onion and pieces of button mushroom cooked on ... read more",298.0
+Main Course,Punjabi Di Hatti Special Mushroom Murakhan [500 ml],1,0,[Chef's Special],498.0
+Main Course,Dal Fry [500 ml],1,0,Delicious and tasty lentils cooked with tomato and onion tempered with mild fried ... read more,229.0
+Main Course,Dal Tadka [500 ml],1,0,Delicious and tasty lentils cooked with tomato and onions and tempered with cumin ... read more,249.0
+Main Course,Dal Makhani [500 ml],1,0,Delicious and tasty black lentils and kidney beans cooked in rich and creamy ... read more,279.0
+Main Course,Double Dal Tadka [500 ml],1,0,"Delicious and tasty lentils cooked with tomatoes, onion and double tempered with cumin ... read more",279.0
+Main Course,Dal Palak [500 ml],1,0,Delicious and tasty lentils cooked with spinach and tempered with spices.,298.0
+Main Course,Rajma Masala [500 ml],1,0,"A lightly spiced, creamy and delicious Punjabi style curry made with protein rich ... read more",298.0
+Main Course,Punjabi Di Hatti Special Dal Makhani [500 ml],1,0,[Chef's Special],318.0
+Breads,Plain Tandoori Roti,1,0,Bake with whole wheat.,48.0
+Breads,Makki ki Roti,1,0,Punjabi style popular unleavened bread made with maize flour [cornmeal].,84.0
+Breads,Special Naan,1,0,Hand stretched flatbread of refined flour stuffed with veggies and baked in traditional ... read more,147.0
+Breads,Butter Kulcha,1,0,It has a neutral taste with the appetizing aroma and mild flavor of ... read more,109.0
+Breads,Butter Naan,1,0,Hand stretched flatbread of refined flour baked in traditional clay oven and layered ... read more,109.0
+Breads,Tandoori Butter Roti,1,0,Bake with whole wheat.,48.0
+Breads,Garlic Naan,1,0,Hand stretched flatbread of refined flour baked in traditional clay oven and layered ... read more,129.0
+Breads,Cheese Chilli Naan,1,0,Hand stretched flatbread of refined flour stuffed with cheese and green chilly and ... read more,208.0
+Breads,Cheese Garlic Naan,1,0,Hand stretched flatbread of refined flour stuffed with with cheese and garlic filling ... read more,208.0
+Breads,Cheese Naan,1,0,Hand stretched flatbread of refined flour stuffed with cheese and baked in traditional ... read more,201.0
+Breads,Chur Chur Naan,1,0,Hand stretched flatbread of refined flour stuffed with potato and onion with cashew ... read more,201.0
+Breads,Punjabi Di Hatti Special Onion Masala Roti,1,0,[Chef's Special],129.0
+Breads,Tawa Roti,1,0,,59.0
+Breads,Lachha Paratha,1,0,Served with curd.,84.0
+Breads,Aloo Paratha,1,0,Served with dahi.,198.0
+Breads,Onion Paratha,1,0,Served with dahi.,198.0
+Breads,Pudina Paratha,1,0,Served with dahi.,198.0
+Breads,Aloo Onion Paratha,1,0,Served with dahi.,219.0
+Breads,Paneer Paratha,1,0,Served with dahi.,237.0
+Breads,Cheese Paratha,1,0,Served with dahi.,264.0
+Breads,Stuffed Paratha,1,0,Served with dahi.,264.0
+Breads,Cheese Paneer Paratha,1,0,Served with dahi.,309.0
+Rice and Biryani,Plain Rice [500 ml],1,0,Basmati rice,147.0
+Rice and Biryani,Jeera Rice [500 ml],1,0,Fresh basmati rice mixed with burnt jeera masala.,174.0
+Rice and Biryani,Vegetable Pulao [500 ml],1,0,,333.0
+Rice and Biryani,Paneer Pulao [500 ml],1,0,,363.0
+Rice and Biryani,Kaju Pulao [500 ml],1,0,,327.0
+Rice and Biryani,Dal Khichdi [500 ml],1,0,,289.0
+Rice and Biryani,Veg Biryani [500 ml],1,0,Served with curd.,333.0
+Rice and Biryani,Chaap Biryani [500 ml],1,0,Served with curd.,333.0
+Rice and Biryani,Hyderabadi Biryani [500 ml],1,0,Served with curd.,333.0
+Rice and Biryani,Dum Biryani [500 ml],1,0,Served with curd.,369.0
+Rice and Biryani,Punjabi Di Hatti Special Matka Biryani [500 ml],1,0,[Chef's Special] Served with curd and boondi raita.,444.0
+Chinese,Manchurian [500 ml],1,0,,219.0
+Chinese,Peri Peri Manchurian [500 ml],1,0,,237.0
+Chinese,Cheese Manchurian [500 ml],1,0,,264.0
+Chinese,Paneer Chilli [500 ml],1,0,,381.0
+Chinese,Mushroom Chilli [500 ml],1,0,,312.0
+Chinese,Veg Crispy [500 ml],1,0,,381.0
+Chinese,Paneer 65 [500 ml],1,0,,381.0
+Fried Rice and Noodles,Fried Rice [500 ml],1,0,,219.0
+Fried Rice and Noodles,Schezwan Fried Rice [500 ml],1,0,,249.0
+Fried Rice and Noodles,Singapore Fried Rice [500 ml],1,0,,249.0
+Fried Rice and Noodles,Garlic Burnt Fried Rice [500 ml],1,0,,259.0
+Fried Rice and Noodles,Mushroom Fried Rice [500 ml],1,0,,249.0
+Fried Rice and Noodles,Manchurian Fried Rice [500 ml],1,0,,219.0
+Fried Rice and Noodles,Cheese and Pepper Fried Rice [500 ml],1,0,,309.0
+Fried Rice and Noodles,Triple Fried Rice [500 ml],1,0,,339.0
+Fried Rice and Noodles,Punjabi Di Hatti Special Fried Rice [500 ml],1,0,[Chef's Special],379.0
+Fried Rice and Noodles,Hakka Noodles [500 ml],1,0,,219.0
+Fried Rice and Noodles,Schezwan Noodles [500 ml],1,0,,237.0
+Fried Rice and Noodles,Singapore Noodles [500 ml],1,0,,237.0
+Fried Rice and Noodles,Chilli Garlic Noodles [500 ml],1,0,,237.0
+Fried Rice and Noodles,Cheese Noodles [500 ml],1,0,,264.0
+Fried Rice and Noodles,Punjabi Di Hatti Special Noodles [500 ml],1,0,[Chef's Special],298.0
+Soups,Vegetable Soup [500 ml],1,0,"Added fresh leafy vegetables, beans and carrots.",169.0
+Soups,Manchow Soup [500 ml],1,0,Spicy and hot soup with mixed vegetables,169.0
+Soups,Hot and Sour Soup [500 ml],1,0,Added mixed vegetables and crushed pepper in indo-chinese style.,139.0
+Soups,Mushroom Soup [500 ml],1,0,Spicy and hot soup with chopped mushroom and spices.,169.0
+Soups,Lemon Pepper Coriander Soup [500 ml],1,0,Fresh coriander and lemon zest added to vegetable broth.,169.0
+Diet,Diet Paneer Tikka [500 ml],1,0,,268.0
+Diet,Diet Soya Chaap [500 ml],1,0,,268.0
+Diet,Diet Rajma Salad [500 ml],1,0,,228.0
+Accompaniments,Roasted Papad,1,0,,39.0
+Accompaniments,Fried Papad,1,0,,49.0
+Accompaniments,Plain Curd,1,0,[Pre-Prepared],59.0
+Accompaniments,Boondi Raita,1,0,,98.0
+Accompaniments,Mix Veg Raita,1,0,,139.0
+Drinks (Beverages),Mineral Water,1,0,[Non Gold] [Non Promo] [Packaged],37.14
+Drinks (Beverages),Plain Lassi [300 ml],1,0,,129.0
+Drinks (Beverages),Special Lassi [300 ml],1,0,,199.0

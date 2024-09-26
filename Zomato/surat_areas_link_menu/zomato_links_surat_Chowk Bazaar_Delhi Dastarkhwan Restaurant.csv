@@ -1,0 +1,86 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken Seekh Kabab,0,0,,120.0
+Starters,Chicken Afghani Leg,0,0,,148.0
+Starters,Murgh Nizami Tikka [5 Pieces],0,0,,290.0
+Starters,Murgh Reshmi Tikka [5 Pieces],0,0,,290.0
+Starters,Murgh Malai Tikka [5 Pieces],0,0,,290.0
+Starters,Murgh Pahadi Tikka [5 Pieces],0,0,,290.0
+Starters,Dastarkhwan Special Chicken Barra,0,0,,230.0
+Delhi Signature Specials,Buffalo Stew,0,0,,203.0
+Delhi Signature Specials,Buffalo Bheja Fry,0,0,,162.0
+Delhi Signature Specials,Buffalo Kadai,0,0,,203.0
+Delhi Signature Specials,Buffalo Do Pyaaza,0,0,,203.0
+Delhi Signature Specials,Buffalo Rogan Ghost,0,0,,203.0
+Delhi Signature Specials,Buffalo Hyderabadi,0,0,,203.0
+Delhi Signature Specials,Buffalo Palak Ghost,0,0,,203.0
+Delhi Signature Specials,Buffalo Dal Ghost,0,0,,203.0
+Delhi Signature Specials,Buffalo Mast Malang,0,0,,230.0
+Delhi Signature Specials,Buffalo Lazeezdaar,0,0,,203.0
+Delhi Signature Specials,Buffalo Peshwari,0,0,,203.0
+Delhi Signature Specials,Buffalo White Gosht,0,0,,230.0
+Delhi Signature Specials,Buffalo Ustaad E Khas,0,0,,270.0
+Delhi Signature Specials,Buffalo Lucknowi Gravy,0,0,,270.0
+Delhi Signature Specials,Buffalo Yadgar,0,0,,270.0
+Delhi Signature Specials,Buffalo Hari Mirch Keema,0,0,,180.0
+Delhi Signature Specials,Mutton Buffalo Biryani,0,0,,176.0
+Delhi Signature Specials,Mutton Buffalo Pulao,0,0,,149.0
+Delhi Signature Specials,Buffalo Yakhni Pulao,0,0,,149.0
+Main Course,Chicken Kadai,0,0,Chunks of chicken cooked in special grounded kadai masala with delicious onion and ... read more,203.0
+Main Course,Chicken Mumtaz,0,0,,203.0
+Main Course,Chicken Dahiwala,0,0,,203.0
+Main Course,White Chicken,0,0,,216.0
+Main Course,Chicken Lahori,0,0,,203.0
+Main Course,Chicken Lazeez Handi,0,0,"Murgh handi lazeez chicken very delicious handi chicken is cooked with cream, stock, ... read more",203.0
+Main Course,Chicken Hyderabadi,0,0,,203.0
+Main Course,Chicken Matka,0,0,"The most tender and juiciest of chicken which looks raw, but is full ... read more",216.0
+Main Course,Chicken Khurchan,0,0,,216.0
+Main Course,Chicken Mughlai,0,0,"The dish comprises of special spiced, marinated chicken cooked in classic local flavours ... read more",216.0
+Main Course,Chicken Tikka Masala,0,0,"Chicken tikka masala, usually mix with spices and can be enjoyed with roti, ... read more",216.0
+Main Course,Chef's Dastarkhwan Special Chicken,0,0,[Chef's Special],230.0
+Main Course,Chicken Bhuna,0,0,,284.0
+Main Course,Butter Chicken [Serves 1],0,0,"Chicken marinated in lemon juice, dahi, Kashmiri lal mirch, salt, garam masala and ... read more",300.0
+Main Course,Chicken Afghani,0,0,,216.0
+Main Course,Murgh Musallam,0,0,Whole chicken cooked to perfection in a rich gravy masala along with secret ... read more,216.0
+Main Course,Mutton Do Pyaza,0,0,,338.0
+Main Course,Mutton Rogan Gosht,0,0,,350.0
+Main Course,Mutton Hyderabadi,0,0,,338.0
+Main Course,Mutton Stew,0,0,,350.0
+Main Course,Palak Mutton Gosht,0,0,,338.0
+Main Course,Dal Mutton Gosht,0,0,,338.0
+Main Course,Mutton Laziz Daar,0,0,,338.0
+Main Course,Mutton Peshawari,0,0,,350.0
+Main Course,White Mutton Gosht,0,0,,338.0
+Main Course,Dal Fry,1,0,,130.0
+Main Course,Dal Tadka,1,0,,140.0
+Main Course,Tawa Sabji Banjara,1,0,,162.0
+Main Course,Veg Lahori,1,0,,162.0
+Main Course,Veg Kadai,1,0,,162.0
+Main Course,Veg Diwani Handi,1,0,,162.0
+Main Course,Veg Hyderabadi,1,0,,162.0
+Main Course,Paneer Darbari,1,0,,203.0
+Main Course,Paneer Lahori,1,0,,203.0
+Main Course,Paneer Kadai,1,0,,203.0
+Main Course,Palak Paneer,1,0,,216.0
+Main Course,Shahi Paneer,1,0,,203.0
+Rice and Biryani,Biryani Rice,1,0,,70.0
+Rice and Biryani,Steam Rice,1,0,,75.0
+Rice and Biryani,Jeera Rice,1,0,Rice tempered with cumin seeds.,90.0
+Rice and Biryani,Veg Dum Biryani,1,0,,100.0
+Rice and Biryani,Anda Rice,0,0,,120.0
+Rice and Biryani,Veg Pulav,1,0,,135.0
+Rice and Biryani,Chicken Fried Rice,0,0,,148.0
+Rice and Biryani,Chicken Akhni Pulav,0,0,,162.0
+Rice and Biryani,Chicken Tikka Biryani,0,0,,203.0
+Rice and Biryani,Sp Delhi Chicken Dum Biryani,0,0,,189.0
+Meals,Tandoori Chicken Leg Meal,0,0,Tandoori Chicken Leg+Malai Phirni,199.0
+Meals,Chicken Biryani Meal,0,0,Delhi Chicken Biryani + Malai Phirni,210.0
+Meals,Veg Dum Biryani with Delhi Chicken Dum Biryani,0,0,,275.0
+Rolls,Egg Roll,0,0,,80.0
+Rolls,Chicken Kathi Roll [Serves 1],0,0,,110.0
+Rolls,Nizami Tikka Roll,0,0,,179.0
+Rolls,Malai Tikka Roll,0,0,,180.0
+Breads,Special Delhi Tandoori Roti,1,0,,18.0
+Breads,Chapati Roti,1,0,,18.0
+Breads,Butter Roti,1,0,,30.0
+Accompaniments,Rosted Papad,1,0,,13.0
+Accompaniments,Fried Papad,1,0,,15.0

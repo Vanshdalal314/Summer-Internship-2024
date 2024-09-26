@@ -1,0 +1,275 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Mocktails,Arnold Plumber,1,0,,195.0
+Mocktails,Blue Lady,1,0,,195.0
+Mocktails,Blue Lagoon,1,0,,185.0
+Mocktails,Cranberry Punch,1,0,,195.0
+Mocktails,Fruitesca,1,0,,205.0
+Mocktails,Fruits Punch,1,0,,205.0
+Mocktails,Green Mint Mojito,1,0,,195.0
+Mocktails,Guava Ginger,1,0,,195.0
+Mocktails,Gunner,1,0,,195.0
+Mocktails,Iron Dandy Sandy,1,0,,595.0
+Mocktails,Llb (Lemon Lime Bitters),1,0,,195.0
+Mocktails,Mint Berry Smash,1,0,,195.0
+Mocktails,Persian Kiss,1,0,,195.0
+Mocktails,Virgin Colada,1,0,,195.0
+Drinks (Beverages),Butter Milk,1,0,,95.0
+Drinks (Beverages),Cold Coffee,1,0,,205.0
+Drinks (Beverages),Cold Coffee With Ice Cream,1,0,,245.0
+Drinks (Beverages),Flavored Lassi (Mango),1,0,,165.0
+Drinks (Beverages),Flavored Lassi (Strawberry),1,0,,165.0
+Drinks (Beverages),Fresh Lime Soda,1,0,,95.0
+Drinks (Beverages),Iced Tea (Lemon),1,0,,195.0
+Drinks (Beverages),Iced Tea (Peach),1,0,,195.0
+Drinks (Beverages),Lassi (Salted),1,0,,145.0
+Drinks (Beverages),Lassi (Sweet),1,0,,145.0
+Drinks (Beverages),Masala Butter Milk,1,0,,105.0
+Drinks (Beverages),Red Bull,1,0,,165.0
+Fresh Fruit Juice,Cocktail Juice,1,0,,195.0
+Fresh Fruit Juice,Ganga Jamuna Juice,1,0,,155.0
+Fresh Fruit Juice,Mosambi Juice,1,0,,145.0
+Fresh Fruit Juice,Orange Juice,1,0,,145.0
+Fresh Fruit Juice,Pineapple Juice,1,0,,145.0
+Milk Shake,Blue Berry Milk Shake,1,0,,235.0
+Milk Shake,Chocolate Milk Shake,1,0,,225.0
+Milk Shake,Kaju Mango Milk Shake,1,0,,255.0
+Milk Shake,Mango Milk Shake,1,0,,225.0
+Milk Shake,Oreo Milk Shake,1,0,,235.0
+Milk Shake,Strawberry Milk Shake,1,0,,205.0
+Milk Shake,Vanilla Milk Shake,1,0,,195.0
+Soup,Asian Green Soup (Chinese),1,0,,195.0
+Soup,Broccoli Almond Soup,1,0,,245.0
+Soup,Burn Corn Soup (Mexican),1,0,,195.0
+Soup,Dumpling Coriender Soup (Chinese),1,0,,195.0
+Soup,French Onion Soup,1,0,,225.0
+Soup,Hot & Sour Soup,1,0,,195.0
+Soup,Jalapeno Cheese Soup (Conti),1,0,,205.0
+Soup,Lemon Coriander Soup,1,0,,225.0
+Soup,Manchow Soup,1,0,,225.0
+Soup,Mexican Chilli Beans Soup,1,0,,225.0
+Soup,Minestrone Soup,1,0,,225.0
+Soup,Mushroom Cream Of Soup,1,0,,225.0
+Soup,Spinach Cream Of Soup,1,0,,225.0
+Soup,Tom Yum Soup,1,0,,195.0
+Soup,Tomato Corn Cheese Soup,1,0,,205.0
+Soup,Veg Cream Of Soup,1,0,,225.0
+Soup,Veg Talumein Soup,1,0,,205.0
+Soup,Vegetable And Noodle Clear Soup,1,0,,195.0
+Soup,Wanton Soup,1,0,,225.0
+Appetizer,Achari Paneer Tikka,1,0,,355.0
+Appetizer,American Corn Fritters,1,0,,295.0
+Appetizer,Bruschetta,1,0,,355.0
+Appetizer,Cheese Nachos,1,0,,295.0
+Appetizer,Chilli Garlic Wanton,1,0,,335.0
+Appetizer,Chinese Cigar Roll,1,0,,355.0
+Appetizer,Ching Mai Mushroom,1,0,,385.0
+Appetizer,Corn Cheese Balls,1,0,,395.0
+Appetizer,Cottage Cheese Milange,1,0,,395.0
+Appetizer,Crackling Cottage Cheese,1,0,,395.0
+Appetizer,Crispy Chilli Paneer,1,0,,395.0
+Appetizer,Green Land Manchurian,1,0,,295.0
+Appetizer,Green Pepper Paneer,1,0,,395.0
+Appetizer,Hara Bhara Kebab,1,0,,275.0
+Appetizer,Hunan Chilli Potato,1,0,,325.0
+Appetizer,Jalapeno Cheese Pouch,1,0,,395.0
+Appetizer,Jark Paneer,1,0,,395.0
+Appetizer,Korean Paneer,1,0,,425.0
+Appetizer,Lebanese Cottage Cheese Bbq,1,0,,395.0
+Appetizer,Malasian Satay,1,0,,375.0
+Appetizer,Mangolian Babycorn,1,0,,365.0
+Appetizer,Mexican Cheesy Crunch,1,0,,355.0
+Appetizer,Mexican Gold Coins,1,0,,395.0
+Appetizer,Mexican Satay,1,0,,395.0
+Appetizer,Mexican Toastada,1,0,,395.0
+Appetizer,Nachos Loaded,1,0,,355.0
+Appetizer,Nihari Galouti Kebab,1,0,[Veg preparation],395.0
+Appetizer,Nizami Papad Rolls,1,0,,365.0
+Appetizer,Paneer Arrabitta,1,0,,395.0
+Appetizer,Paneer Chilli,1,0,,355.0
+Appetizer,Paneer Mexicano,1,0,,395.0
+Appetizer,Paneer Pahadi Tikka,1,0,,365.0
+Appetizer,Paneer Salt N Pepper,1,0,,385.0
+Appetizer,Paneer Tikka Dry,1,0,,365.0
+Appetizer,Paneer Tikka Lajawab,1,0,,365.0
+Appetizer,Peri Peri Barbeque Paneer,1,0,,395.0
+Appetizer,Pesto Balls In Peri Peri Sauce,1,0,,395.0
+Appetizer,Pesto Chilli Paneer Barbeque,1,0,,395.0
+Appetizer,Quesadilla,1,0,,325.0
+Appetizer,Roman Garlic Toast,1,0,,295.0
+Appetizer,Shanghai Chilli Paneer,1,0,,395.0
+Appetizer,Special Crostini,1,0,,345.0
+Appetizer,Spicy Cheese Spinach Balls,1,0,,395.0
+Appetizer,Stuffed Mushroom,1,0,,375.0
+Appetizer,Tacos,1,0,,365.0
+Appetizer,Tandoori Mushroom,1,0,,355.0
+Appetizer,Thai Corn Chilli,1,0,,355.0
+Appetizer,Veg Cheese Seek Kebab,1,0,,325.0
+Appetizer,Veg Manchurian,1,0,,275.0
+Appetizer,Veg Medallions,1,0,,395.0
+Appetizer,Veg Sixtyfive,1,0,,295.0
+Appetizer,Veg Spring Roll,1,0,,275.0
+Appetizer,Zade Paper Paneer,1,0,,395.0
+Pizza 10 Inch,Cheese Lovers Pizza,1,0,,455.0
+Pizza 10 Inch,Chinese Style Pizza,1,0,,455.0
+Pizza 10 Inch,Classic Paneer Pizza,1,0,,455.0
+Pizza 10 Inch,Deshi Dhamaka Pizza,1,0,,455.0
+Pizza 10 Inch,English Retreat Pizza,1,0,,455.0
+Pizza 10 Inch,Exotica Pizza,1,0,,455.0
+Pizza 10 Inch,Hot Passion Pizza,1,0,,455.0
+Pizza 10 Inch,Hot Treat Pizza,1,0,,455.0
+Pizza 10 Inch,Mexican Salsa Pizza,1,0,,455.0
+Pizza 10 Inch,Nawabi Pizza Pizza,1,0,,455.0
+Pizza 10 Inch,Peri Peri Veg Pizza,1,0,,455.0
+Pizza 10 Inch,Pesto Vegetable Pizza,1,0,,455.0
+Pizza 10 Inch,Spice Patel'S Special Pizza,1,0,,455.0
+Pizza 10 Inch,Spicy Americano Pizza,1,0,,455.0
+Pizza 10 Inch,Taste Of India Pizza,1,0,,455.0
+Pizza 10 Inch,Veg Supremo Pizza,1,0,,455.0
+Entree,Alfredo Pasta,1,0,,455.0
+Entree,Arrabiatta Pasta,1,0,,455.0
+Entree,Baked Macroni With Pineapple Cheese,1,0,,475.0
+Entree,Baked Veg Augratin,1,0,,455.0
+Entree,Beans Enchiladas,1,0,,425.0
+Entree,Cannelolni Al Formaggio,1,0,,475.0
+Entree,Corn Enchiladas,1,0,,425.0
+Entree,Lasagne Ala Nepolitana,1,0,,475.0
+Entree,Lemon Cilantro Rice,1,0,,375.0
+Entree,Mexican Hot Pot,1,0,,475.0
+Entree,Pasta & Pasta,1,0,,555.0
+Entree,Pesto Pasta,1,0,,475.0
+Entree,Primavera Pasta,1,0,,475.0
+Entree,Puttenesca Pasta,1,0,,475.0
+Entree,Special Enchiladas,1,0,,455.0
+Entree,Spicy Mexican Rice,1,0,,375.0
+Meals At Plate,Barbeque Herbed Rice,1,0,,455.0
+Meals At Plate,Burrito Supremo,1,0,,525.0
+Meals At Plate,Chilli Corn Carne,1,0,,455.0
+Meals At Plate,Five Jewel Vegetable,1,0,,455.0
+Meals At Plate,Ranchero Vegetable Fried Rice,1,0,,455.0
+Sizzling Hot Sizzlers,"3 C (Corn, Cheese And Chilli)",1,0,,595.0
+Sizzling Hot Sizzlers,Barbeque Paneer Tikka,1,0,,655.0
+Sizzling Hot Sizzlers,China Town,1,0,,595.0
+Sizzling Hot Sizzlers,Creamy Cheesy Cigar,1,0,,595.0
+Sizzling Hot Sizzlers,Fajitas El Paso,1,0,,645.0
+Sizzling Hot Sizzlers,Garlic Veg Milange,1,0,,595.0
+Sizzling Hot Sizzlers,Mexican Talk Times,1,0,,615.0
+Sizzling Hot Sizzlers,Mixed Grill Sizzler,1,0,,595.0
+Sizzling Hot Sizzlers,Oriental Special,1,0,,595.0
+Sizzling Hot Sizzlers,Paneer Shashlik,1,0,,615.0
+Sizzling Hot Sizzlers,Paneer Steak,1,0,,615.0
+Sizzling Hot Sizzlers,Shanghai Paneer Sizzler,1,0,,595.0
+Sizzling Hot Sizzlers,Soya Stick Barbeque,1,0,,595.0
+Sizzling Hot Sizzlers,Vegetable Satellite,1,0,,595.0
+Indian Cuisine,Cheese Butter Masala,1,0,,455.0
+Indian Cuisine,Cheese Paneer Angara,1,0,,495.0
+Indian Cuisine,Chui Mui Ke Kofte,1,0,,355.0
+Indian Cuisine,Delicious Paneer,1,0,,475.0
+Indian Cuisine,Dum Aloo Punjabi,1,0,,355.0
+Indian Cuisine,Dum Paneer Mitti Handi,1,0,,575.0
+Indian Cuisine,Kaju Curry,1,0,,395.0
+Indian Cuisine,Kaju Masala,1,0,,395.0
+Indian Cuisine,Kaju Paneer Masala,1,0,,455.0
+Indian Cuisine,Kurchan Paneer,1,0,,455.0
+Indian Cuisine,Lahori Kofta,1,0,,375.0
+Indian Cuisine,Malai Kofta,1,0,,355.0
+Indian Cuisine,Mirchi Ka Salan,1,0,,475.0
+Indian Cuisine,Nargisi Kofta,1,0,,445.0
+Indian Cuisine,Paneer Angara,1,0,,475.0
+Indian Cuisine,Paneer Anmol Khajana,1,0,,575.0
+Indian Cuisine,Paneer Butter Masala,1,0,,395.0
+Indian Cuisine,Paneer Deshi Handi,1,0,,445.0
+Indian Cuisine,Paneer Handi,1,0,,395.0
+Indian Cuisine,Paneer Kali Mirch,1,0,,455.0
+Indian Cuisine,Paneer Koliwada Masala,1,0,,455.0
+Indian Cuisine,Paneer Lababdar,1,0,,445.0
+Indian Cuisine,Paneer Mussalam,1,0,,455.0
+Indian Cuisine,Paneer Nepolian Tawa,1,0,,445.0
+Indian Cuisine,Paneer Patiyala,1,0,,445.0
+Indian Cuisine,Paneer Tikka Masala,1,0,,395.0
+Indian Cuisine,Paneer Toofani,1,0,,445.0
+Indian Cuisine,Rahra Paneer,1,0,,455.0
+Indian Cuisine,Sham Savere Kofta,1,0,,475.0
+Indian Cuisine,Special Petals Special Sabji,1,0,,495.0
+Indian Cuisine,Veg Barbeque Masala,1,0,,395.0
+Indian Cuisine,Veg Dewani Handi,1,0,,305.0
+Indian Cuisine,Veg Handi,1,0,,305.0
+Indian Cuisine,Veg Hyderabadi Kadai,1,0,,305.0
+Indian Cuisine,Veg Kadai,1,0,,305.0
+Indian Cuisine,Veg Kheema Masala,1,0,,355.0
+Indian Cuisine,Veg Kolahpuri,1,0,,305.0
+Indian Cuisine,Veg Malwani,1,0,,455.0
+Indian Cuisine,Veg Tawa Lucknowi,1,0,,395.0
+Indian Cuisine,Veg Toofani,1,0,,395.0
+Indian Cuisine,Vegetable Angara,1,0,,425.0
+Oriental Cuisine,Burn Garlic Fried Rice,1,0,,345.0
+Oriental Cuisine,Chilli Garlic Noodles,1,0,,305.0
+Oriental Cuisine,Choupsy (American),1,0,,355.0
+Oriental Cuisine,Choupsy (Chinese),1,0,,355.0
+Oriental Cuisine,Moo Faan (Rice),1,0,,375.0
+Oriental Cuisine,Pan Fried Noodles With Vegetable,1,0,,325.0
+Oriental Cuisine,Paneer In Curry Sauce(Green),1,0,,355.0
+Oriental Cuisine,Paneer In Curry Sauce(Red),1,0,,355.0
+Oriental Cuisine,Paneer In Hot Garlic Sauce,1,0,,355.0
+Oriental Cuisine,Paneer In Lemon Ginger Sauce,1,0,,355.0
+Oriental Cuisine,Paneer In Schezwan Sauce,1,0,,355.0
+Oriental Cuisine,Pot Rice,1,0,,455.0
+Oriental Cuisine,Singapori Noodles,1,0,,305.0
+Oriental Cuisine,Veg Fried Rice,1,0,,335.0
+Oriental Cuisine,Veg Hakka Noodles,1,0,,295.0
+Oriental Cuisine,Veg Schezwan Noodles,1,0,,295.0
+Oriental Cuisine,Veg Schezwan Rice,1,0,,335.0
+Oriental Cuisine,Veg Singapore Rice,1,0,,335.0
+Oriental Cuisine,Vegebale In Curry Sauce (Green),1,0,,345.0
+Oriental Cuisine,Vegebale In Curry Sauce (Red),1,0,,345.0
+Oriental Cuisine,Vegetable In Hot Garlic Sauce,1,0,,325.0
+Oriental Cuisine,Vegetable In Lemon Ginger Sauce,1,0,,325.0
+Oriental Cuisine,Vegetbale In Schezwan Sauce,1,0,,325.0
+Koile Ki Kamaal,Butter Kulcha,1,0,,115.0
+Koile Ki Kamaal,Butter Lachha Paratha,1,0,,115.0
+Koile Ki Kamaal,Butter Naan,1,0,,115.0
+Koile Ki Kamaal,Butter Roti,1,0,,60.0
+Koile Ki Kamaal,Cheese Chili Naan,1,0,,205.0
+Koile Ki Kamaal,Cheese Chilli Garlic Naan,1,0,,225.0
+Koile Ki Kamaal,Cheese Naan,1,0,,195.0
+Koile Ki Kamaal,Garlic Naan,1,0,,145.0
+Koile Ki Kamaal,Masala Kulcha,1,0,,145.0
+Koile Ki Kamaal,Missi Roti,1,0,,95.0
+Koile Ki Kamaal,Onian Kulcha,1,0,,125.0
+Koile Ki Kamaal,Plain Kulcha,1,0,,95.0
+Koile Ki Kamaal,Plain Lachha Paratha,1,0,,95.0
+Koile Ki Kamaal,Plain Naan,1,0,,95.0
+Koile Ki Kamaal,Plain Paratha,1,0,,95.0
+Koile Ki Kamaal,Plain Roti,1,0,,50.0
+Koile Ki Kamaal,Stuff Kulcha (Paneer),1,0,,195.0
+Koile Ki Kamaal,Stuff Kulcha (Veg),1,0,,155.0
+Koile Ki Kamaal,Stuff Paratha (Paneer),1,0,,195.0
+Koile Ki Kamaal,Stuff Paratha (Veg),1,0,,155.0
+Basmati Ka Khajana,Hyderabadi Biryani,1,0,,345.0
+Basmati Ka Khajana,Jeera Rice,1,0,,255.0
+Basmati Ka Khajana,Matka Dum Biryani,1,0,,465.0
+Basmati Ka Khajana,Mirch Makai Ke Pulao,1,0,,325.0
+Basmati Ka Khajana,Steamed Rice,1,0,,225.0
+Basmati Ka Khajana,Veg Biryani,1,0,,325.0
+Basmati Ka Khajana,Veg Makai Ke Pulao,1,0,,325.0
+Dal Ki Bahar,Dal Fry,1,0,,225.0
+Dal Ki Bahar,Dal Lasuni Tadka,1,0,,275.0
+Dal Ki Bahar,Dal Makhni,1,0,,355.0
+Dal Ki Bahar,Dal Palak,1,0,,255.0
+Saath Saath,Boondi Raita,1,0,,155.0
+Saath Saath,Cheese Masala Papad,1,0,,105.0
+Saath Saath,Fried Papad,1,0,,55.0
+Saath Saath,Green Salad,1,0,,145.0
+Saath Saath,Mix Veg Raita,1,0,,155.0
+Saath Saath,Pineapple Raita,1,0,,165.0
+Saath Saath,Plain Curd,1,0,,95.0
+Saath Saath,Roasted Papad,1,0,,35.0
+Saath Saath,Russain Salad,1,0,,245.0
+Desserts,Butter Scotch Ice Cream Premium,1,0,,95.0
+Desserts,Choco Blast,1,0,,305.0
+Desserts,Chocolate Chips Ice Cream Premium,1,0,,95.0
+Desserts,Double Sundae,1,0,,255.0
+Desserts,Kesar Pista Ice Cream Premium,1,0,,95.0
+Desserts,Single Sundae,1,0,,155.0
+Desserts,Strawberry Ice Cream,1,0,,85.0
+Desserts,Triple Sundae,1,0,,345.0
+Desserts,Vanilla Ice Cream,1,0,,85.0

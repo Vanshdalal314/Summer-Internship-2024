@@ -1,0 +1,45 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Bucket Mini Combo,0,0,2 Crispy Chicken+1 Dip Garlic+1 Bun+Cold Beverage [250 Ml]+1 French Fries,419.0
+Combos,Large Bucket Combo,0,0,4 Crispy Chicken+2 Dip Garlic+2 Bun+Cold Beverage [750 Ml]+1 French Fries,699.0
+Combos,Family Special Bucket Combo,0,0,8 Crispy Chicken+3 Dip Garlic+4 Bun+1 French Fries+Cold Beverage [1 Litre],1310.0
+Combos,Mega Bucket Combo,0,0,10 Crispy Chicken+4 Lollipop+3 Dip Garlic+1 French Fries+Cold Beverage [1 Litre],1649.0
+Meals,Ginger Meal Box,0,0,1 Ginger Burger+2 Chicken Lollipop+2 Chicken Wings+1 Dip Garlic+2 Boneless Chicken Strip+Cold Beverage ... read more,500.0
+Meals,Variety Meal Box,0,0,3 Crispy Chicken+1 Dip Garlic+4 Lollipop+Cold Beverage [250 Ml],675.0
+Meals,Friends Meal Box,0,0,4 Crispy Chicken+2 Dip Garlic+4 Lollipop+2 Crispy Strips+Cold Beverage [1 Litre],999.0
+Meals,Family Feast Box Meal,0,0,8 Crispy Chicken+4 Dip Garlic+4 Lollipop+Cold Beverage [1 Litre]+1 French Fries,1449.0
+Pizza,Veg Pizza [8.5 inches],1,0,,249.0
+Pizza,Chicken Delight Pizza [8.5 inches],0,0,,325.0
+Pizza,Chicken Peri Peri Pizza [8.5 inches],0,0,,325.0
+Pizza,Chicken Tandoori Pizza [8.5 inches],0,0,,325.0
+Pizza,Al Baik Special Pizza [8.5 inches],0,0,,389.0
+Burgers and Sandwiches,Ginger Burger,0,0,,179.0
+Burgers and Sandwiches,Grilled Burger,0,0,,215.0
+Burgers and Sandwiches,Super Burger,0,0,,225.0
+Burgers and Sandwiches,Hot and Spicy Burger,0,0,,230.0
+Burgers and Sandwiches,Big Daddy Burger,0,0,,255.0
+Burgers and Sandwiches,Fish Burger,0,0,,200.0
+Burgers and Sandwiches,Veg Grilled Sandwich [Single],1,0,,125.0
+Burgers and Sandwiches,Veg Grilled Sandwich [Double],1,0,,230.0
+Burgers and Sandwiches,Veg Peri Peri Grilled Sandwich,1,0,,140.0
+Burgers and Sandwiches,Veg Peri Peri Grilled Sandwich [Double],1,0,,260.0
+Burgers and Sandwiches,Veg Burger,1,0,,170.0
+Snacks,Crispy Chicken Twister,0,0,,199.0
+Snacks,Chicken Nuggets [8 Pieces],0,0,,225.0
+Snacks,Popcorn Chicken,0,0,,200.0
+Snacks,Chilli Lime Chicken,0,0,,225.0
+Snacks,Crispy Broasted Fried Chicken,0,0,,130.0
+Snacks,Fish Popcorn,0,0,,230.0
+Snacks,Fish Nuggets [8 Pieces],0,0,,260.0
+Snacks,Veg Twister,1,0,,185.0
+Starters,Crispy Chicken Wings [4 Pieces],0,0,,185.0
+Starters,Crispy Chicken Wings [8 Pieces],0,0,,340.0
+Starters,Crispy Chicken Lollipop [4 Pieces],0,0,,225.0
+Starters,Crispy Chicken Lollipop [8 Pieces],0,0,,419.0
+Starters,Crispy Chicken Boneless Strips [4 Pieces],0,0,,249.0
+Starters,Crispy Chicken Boneless Strips [8 Pieces],0,0,,465.0
+French Fries,Salted Fries,1,0,,130.0
+French Fries,Peri Peri Fries,1,0,,150.0
+French Fries,Cheesy Fries,1,0,,169.0
+Crispy Tangdi,Crispy Tangdi [2 Pieces],0,0,,260.0
+Crispy Tangdi,Crispy Tangdi [4 Pieces],0,0,,510.0
+Crispy Tangdi,Crispy Tangdi [8 Pieces],0,0,,990.0

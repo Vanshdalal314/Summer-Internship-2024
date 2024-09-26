@@ -1,0 +1,111 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Big Save Combos,Cheese N Corn Pizza(Small) +Fries+Coke,1,0,,229.0
+Big Save Combos,Farmhouse (Small) +Fries+Coke,1,0,,259.0
+Big Save Combos,Margherita Pizza(Small) +Fries+Coke,1,0,,189.0
+Big Save Combos,Paneer Tikka Pizza (Small) +Fries+Coke,1,0,,389.0
+Big Save Combos,Aloo Tikki Burger + Fries + Coke,1,0,,159.0
+Big Save Combos,Crunchy Paneer Burger +Fries+Coke,1,0,,219.0
+Big Save Combos,Veg Burger + Fries + Coke,1,0,,179.0
+Pizza,Cheese N Onion Pizza,1,0,,149.0
+Pizza,Cheese N Tomato Pizza,1,0,,149.0
+Pizza,Margherita Pizza,1,0,,129.0
+Pizza,Cheese N Corn Pizza,1,0,(Onion N Corn),179.0
+Pizza,Cheese N Mushroom,1,0,(Onion N Mushroom),179.0
+Pizza,Corn N Capsicum Pizza,1,0,(Corn N Capsicum),189.0
+Pizza,Corn N Peprica Pizza,1,0,(Corn N Red Peprica),189.0
+Pizza,Fresh Veggie Pizza,1,0,(Onion N Capsicum),199.0
+Pizza,Veggie Buddy,1,0,(Tomato N Capsicum),199.0
+Pizza,Achari Do Pyaz Pizza,1,0,(Onion With Achaari Flavour),279.0
+Pizza,Blazing Onion & Peprica Pizza,1,0,"(Onion,Red Peprica With Peri Peri Sauce)",279.0
+Pizza,Delux Veggie Pizza,1,0,(Onion N Tomato N Capsicum),259.0
+Pizza,Exotic King Pizza,1,0,"(Onion,Capsicum,Jalapeno,Corn,Carrot,)",299.0
+Pizza,Farmhouse Pizza,1,0,"(Onion,Tomato ,Capsicum,Mushroom)",269.0
+Pizza,Mexican Lover Pizza,1,0,"(Blavk Olive,Jalapeno,Corn,Red Peprica)",299.0
+Pizza,Mushroom Corn Delight Pizza,1,0,"(Onion,Corn,Mushroom,Red Peprica)",279.0
+Pizza,Spicy Veggie Paradise Pizza,1,0,"(Onion,Tomato ,Capsicum,Green Chilli , Red Peprica)",269.0
+Pizza,Triple Veg Pizza,1,0,"(Corn,Red Peprica,Jalapeno)",269.0
+Pizza,Veg Extravaganza Pizza,1,0,"(Onion,Tomato ,Capsicum,Mushroom,Corn,Black Olives,Jalapeno)",299.0
+Pizza,Veggie Feista Pizza,1,0,"(Corn,Red Peprica,Capsicum)",269.0
+Pizza,Veggie Paradise Pizza,1,0,"(Capsicum,Corn,Red Peprica,Black Olive)",269.0
+Pizza,Achari Paneer Pizza,1,0,"(Onion, Paneer With Achaari Flavour)",309.0
+Pizza,Paneer Makhani Pizza,1,0,"(Onion,Capsicum,Green Chilli, Red Peprica Paneer With Makahani Flavour )",309.0
+Pizza,Paneer Mint Twist Pizza,1,0,"(Onion,Capsicum,Green Chilli Paneer With Mint Flavour )",309.0
+Pizza,Paneer Tikka Pizza,1,0,"(Onion,Tomato ,Capsicum,Paneer With Tikka Flavour)",309.0
+Pizza,Peppy Paneer Pizza,1,0,"(Onion,Paneer,Red Peprica)",309.0
+Pizza,Teekha Paneer Pizza,1,0,"(Onion,Tomato ,Capsicum,Green Chilli With Spicy Paneer)",309.0
+Pizza,3 In 1 Veg Pizza,1,0,"(Each 2 Slice With Different Topping Corn,Mushroom,Paneer Tikka)",449.0
+Pizza,Hawaiin Veg Pizza,1,0,"(Capsicum,Corn,Jalapeno,Pinnaple)",449.0
+Pizza,Paneer Heaven Pizza,1,0,"(Each 2 Slice With Different Topping Teekha Paneer,Tikka Masala, Paneer Makhani)",449.0
+Pizza,Pasta Pizza,1,0,"(Onion,Tomato,Capsicum With Tangy Pasta)",449.0
+Pasta,Creamy Corn Pasta,1,0,"(Onion,Corn With Creamy Sauce)",189.0
+Pasta,Creamy Mushroom Pasta,1,0,(Onion N Button Mushroom With Creamy Sauce),189.0
+Pasta,Mexican Green Waves Pasta,1,0,"(Capsicum,Corn,Black Olive,Jalapeno With Creamy Sauce)",219.0
+Pasta,Mediterranean Cream Pasta,1,0,"(Onion,Capsicum,Carrot With Creamy Sauce)",219.0
+Pasta,Onion Pasta,1,0,(Onion With Creamy Sauce),179.0
+Pasta,Corn Lover Pasta,1,0,"(Onion,Corn With Tangy Sauce)",199.0
+Pasta,Onion Red Sauce Pasta,1,0,(Onion With Tangy Sauce),189.0
+Pasta,Veg Arabiata Pasta,1,0,"(Onion,Capsicum,Carrot,Corn With Tangy Sauce)",199.0
+Pasta,Aglio Olio Pasta Egarlic Lover],1,0,"(Capsicum,Carrot With Garlic Flavour)",219.0
+Pasta,Mushroom Olio Pasta Egarlic Loveri,1,0,"(Onion,Capsicum,Carrot,Mushroom With Garlic Flavour)",219.0
+Pasta,Paneer Tikka Pasta,1,0,"(Onion,Capsicum,Paneer With Tikka Flavour)",219.0
+Pasta,Pink Sauce Pasta,1,0,"(Onion,Capsicum,Carrot With Pink Sauce)",219.0
+Burger,Aloo Tikki Burger,1,0,,99.0
+Burger,Aloo Tikki Cheese Burger,1,0,,129.0
+Burger,Cheese Slice Veg Burger,1,0,,139.0
+Burger,Chilli Lava Burger,1,0,,149.0
+Burger,Corn N Veg Burger,1,0,,149.0
+Burger,Creamy Veg Burger,1,0,,169.0
+Burger,Crispy Paneer Burger,1,0,,179.0
+Burger,Crunchy Chips Veg Burger,1,0,,169.0
+Burger,Crunchy Paneer Spicy Burger,1,0,,179.0
+Burger,Green Wayes Burger,1,0,,179.0
+Burger,Mushroom N Veg Burger,1,0,,149.0
+Burger,Veg Burger,1,0,,129.0
+Burger,Cheesey Maha Vege Burger,1,0,,199.0
+Burger,Paneer Double Decker Burger,1,0,,199.0
+Burger,Veg Double Decker Burger,1,0,,199.0
+Sandwich,Cheese N Corn Sandwich,1,0,"(Onion,Corn N Baked Cheese)",149.0
+Sandwich,Cheese Slice With Mix Veggie Sandwich,1,0,(Chopped Vegetable N Mix Sauces With Cheese Slice),189.0
+Sandwich,Italian Veg Sandwich,1,0,"(Tomato,Capsicum,Corn,Black Olives)",199.0
+Sandwich,Mix Veg Lover Sandwich,1,0,"(Chopped Onion,Tomato,Capsicum N Mix Sauces)",179.0
+Sandwich,Mushroom N Onion Sandwich,1,0,(Chopped Onion N Roasted Mushroom),189.0
+Sandwich,Paneer N Loaded Veggie Sandwich,1,0,"(Onion,Tomato,Capsicum,Corn,Carrot N Paneer )",219.0
+Sandwich,Paneer Tikka N Loaded Veggie Sandwich,1,0,"(Onion,Tomato,Capsicum, Paneer Tikka Flavour )",219.0
+Sandwich,Tasty Italian Paneer Sandwich,1,0,"(Capsicum,Tomato,Corn,Black Olive N Paneer)",219.0
+Quick Bites,Cheesy Fries,1,0,,139.0
+Quick Bites,Cheesy Masala Fries,1,0,,169.0
+Quick Bites,French Fries,1,0,,109.0
+Quick Bites,Masala Fries,1,0,,149.0
+Quick Bites,Paneer Popcorns (8 Pieces),1,0,,199.0
+Quick Bites,Peri Peri Cheese Fries,1,0,,149.0
+Quick Bites,Peri Peri Fries,1,0,,139.0
+Quick Bites,Tandoori Masala Fries,1,0,,179.0
+Garlic Bread,Cheese N Corn Garlic Bread,1,0,"(Onion,Corn N Cheese)",199.0
+Garlic Bread,Cheese N Onion Garlic Bread,1,0,(Onion N Cheese),179.0
+Garlic Bread,Garlic Bread With Cheese,1,0,,169.0
+Garlic Bread,Garlic Bread With Cheese & Green Chilli,1,0,,169.0
+Garlic Bread,Garlic Bread With Mix Vegetables,1,0,"(Onion,Tomato,Capsicum N Cheese)",219.0
+Garlic Bread,Garlic Bread With Paneer Tikka,1,0,"(Onion,Tomato,Capsicum,Paneer Tikka)",229.0
+Garlic Bread,Mushroom N Onion Garlic Bread,1,0,"(Mushroom,Onion N Cheese)",189.0
+Garlic Bread,Spicy Veggie Paradise Garlic Bread,1,0,"(Onion , Tomato,Capsicum,Green Chilli,Red Peprica)",219.0
+Garlic Bread,Veggie Paradise Garlic Bread,1,0,"(Capsicum,Corn,Black Olive, Red Peperica N Cheese)",209.0
+Wrap & Roll,Achari Paneer Wrap,1,0,"(Onion,Capsicum,Paneer With Achari Flavour)",199.0
+Wrap & Roll,Aloo Tikki Wrap,1,0,"(Onion,Cucumber N Aallo Patty With Mayo)",169.0
+Wrap & Roll,Creamy Veg Wrap,1,0,"(Onion,Tomato,Capsicum,Carrot,Corn,Cucumber N Veg Patty)",179.0
+Wrap & Roll,Crunchy Paneer Spicy Lover Wrap,1,0,"(Onion,Cucumber,Red Peprica N Crunchy Paneer With Spicy Flavour)",189.0
+Wrap & Roll,Crunchy Paneer Wrap,1,0,(Onion N Cunchy Paneer),189.0
+Wrap & Roll,Makhani Paneer Wrap,1,0,"(Onion,Capsicum,Paneer N Makhani Flavour)",199.0
+Wrap & Roll,Mexican Crunchy Paneer Wrap,1,0,"(Onion,Corn,Black Olive,Red Peprica,Jalapeno N Crunchy Paneer)",199.0
+Wrap & Roll,Mint Twist Wrap,1,0,"(Onion,Capsicum,Paneer N Mint Flavour)",199.0
+Wrap & Roll,Spicy Grilled Paneer Wrap,1,0,"(Onion,Cucumber,Tomato,Jalapeno,Grilled Paneer)",199.0
+Mocktails,Blue Ocean [300 ML],1,0,,149.0
+Mocktails,Iced Lemon Tea [300 ML],1,0,,149.0
+Mocktails,Virgin Appletini [300 ML],1,0,[Non Alcoholic],149.0
+Mocktails,Virgin Mojito [300 ML],1,0,[Non Alcoholic],149.0
+Shakes,Butterscotch Shake [300 ML],1,0,,159.0
+Shakes,Chocolate Shake [300 ML],1,0,,159.0
+Shakes,Cold Coffee Shake [300 ML],1,0,,159.0
+Shakes,Kitkat Shake [300 ML],1,0,,179.0
+Shakes,Oreo Shake [300 ML],1,0,,179.0
+Shakes,Strawberry Shake [300 ML],1,0,,159.0
+Shakes,Vanilla Shake [300 ML],1,0,,159.0

@@ -1,0 +1,167 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fresh Juice,Anjeer Juice,1,0,,250.0
+Fresh Juice,Apple Juice,1,0,,210.0
+Fresh Juice,Black Grapes Juice,1,0,,160.0
+Fresh Juice,Cocktail Juice,1,0,,160.0
+Fresh Juice,Mix Fruit Platter,1,0,,230.0
+Fresh Juice,Ganga Jamuna Juice,1,0,,130.0
+Fresh Juice,Ganga Jamuna Saraswati Juice,1,0,,160.0
+Fresh Juice,Kiwi & Strawberry (Seasonal) Juice,1,0,,250.0
+Fresh Juice,Kiwi Juice,1,0,,210.0
+Fresh Juice,Mango (Seasonal) Juice,1,0,,250.0
+Fresh Juice,Mara Mari Juice,1,0,,160.0
+Fresh Juice,Mosambi Juice,1,0,,120.0
+Fresh Juice,Orange Juice,1,0,,130.0
+Fresh Juice,Papaya Juice,1,0,,120.0
+Fresh Juice,Pineapple Juice,1,0,,150.0
+Fresh Juice,Pomegranate Juice,1,0,,200.0
+Fresh Juice,Strawberry (Seasonal) Juice,1,0,,250.0
+Fresh Juice,Water Melon Juice,1,0,,110.0
+Fresh Fruit Milk Shake,Apple Shake,1,0,,160.0
+Fresh Fruit Milk Shake,Banana Shake,1,0,,110.0
+Fresh Fruit Milk Shake,Black Grapes Shake,1,0,,160.0
+Fresh Fruit Milk Shake,Chickoo Shake,1,0,,120.0
+Fresh Fruit Milk Shake,Fresh Anjeer (Seasonal) Shake,1,0,,180.0
+Fresh Fruit Milk Shake,Kiwi Shake,1,0,,210.0
+Fresh Fruit Milk Shake,Litchi (Seasonal) Shake,1,0,,210.0
+Fresh Fruit Milk Shake,Mango Shake,1,0,,210.0
+Fresh Fruit Milk Shake,Papaya Shake,1,0,,110.0
+Fresh Fruit Milk Shake,Sitafal Shake,1,0,,210.0
+Fresh Fruit Milk Shake,Strawberry Shake,1,0,,210.0
+Falooda,Chocolate Falooda,1,0,,250.0
+Falooda,Dry Fruit Falooda,1,0,,270.0
+Falooda,Rose Falooda,1,0,,220.0
+Falooda,Shahi Gulab Falooda,1,0,,240.0
+Special Shake,Belgium Chocolate Shake,1,0,[Veg preparation],290.0
+Special Shake,Chic Choc Shake,1,0,[Veg preparation],230.0
+Special Shake,Classic Chocolate Shake,1,0,,220.0
+Special Shake,Cold Coffee Shake,1,0,,210.0
+Special Shake,Kaju Anjeer Shake,1,0,[Veg preparation],250.0
+Special Shake,Oreo Shake,1,0,,220.0
+Special Shake,Shahi Gulab Shake,1,0,,210.0
+Special Shake,Vanilla Shake,1,0,,210.0
+Fresh Fruit Cream,Apple Cream,1,0,,210.0
+Fresh Fruit Cream,Banana Cream,1,0,,170.0
+Fresh Fruit Cream,Hic Choc Cream,1,0,,170.0
+Fresh Fruit Cream,Chickoo Cream,1,0,,170.0
+Fresh Fruit Cream,Jamun Cream,1,0,,230.0
+Fresh Fruit Cream,Kiwi Cream,1,0,,190.0
+Fresh Fruit Cream,Litchi Cream,1,0,,230.0
+Fresh Fruit Cream,Mango Cream,1,0,,220.0
+Fresh Fruit Cream,Mix Fruit Cream,1,0,,210.0
+Fresh Fruit Cream,Orange Cream,1,0,,170.0
+Fresh Fruit Cream,Papaya Cream,1,0,,170.0
+Fresh Fruit Cream,Sitafal Cream,1,0,,220.0
+Fresh Fruit Cream,Strawberry Cream,1,0,,240.0
+Kulfi,Malai Kulfi,1,0,,120.0
+Kulfi,Rajbhog Kulfi,1,0,,140.0
+Fresh Fruit Cream With Ice Cream,Apple Cream With Ice Cream,1,0,,250.0
+Fresh Fruit Cream With Ice Cream,Banana Cream With Ice Cream,1,0,,220.0
+Fresh Fruit Cream With Ice Cream,Chic Choc Cream With Ice Cream,1,0,,270.0
+Fresh Fruit Cream With Ice Cream,Chickoo Cream With Ice Cream,1,0,,220.0
+Fresh Fruit Cream With Ice Cream,Jamun Cream With Ice Cream,1,0,,280.0
+Fresh Fruit Cream With Ice Cream,Kiwi Cream With Ice Cream,1,0,,250.0
+Fresh Fruit Cream With Ice Cream,Mango Cream With Ice Cream,1,0,,270.0
+Fresh Fruit Cream With Ice Cream,Mix Fruit Cream With Ice Cream,1,0,,250.0
+Fresh Fruit Cream With Ice Cream,Orange Cream With Ice Cream,1,0,,220.0
+Fresh Fruit Cream With Ice Cream,Papaya Cream With Ice Cream,1,0,,220.0
+Fresh Fruit Cream With Ice Cream,Sitafal Cream With Ice Cream,1,0,,270.0
+Fresh Fruit Cream With Ice Cream,Strawberry Cream With Ice Cream,1,0,,280.0
+Cold Drink,Coke,1,0,,100.0
+Cold Drink,Diet Coke,1,0,,100.0
+Cold Drink,Thums Up,1,0,,100.0
+Cold Drink,Water Bottle,1,0,,60.0
+Chaat,Basket Chaat,1,0,,210.0
+Chaat,Bhel Puri,1,0,,180.0
+Chaat,Dahi Bhalla,1,0,,260.0
+Chaat,Dahi Puri,1,0,,180.0
+Chaat,Pani Puri,1,0,,130.0
+Chaat,Papdi Chaat,1,0,,190.0
+Chaat,Sev Puri,1,0,,140.0
+Pav Bhaji,Butter Pav Bhaji,1,0,,220.0
+Pav Bhaji,Extra Pav 2pc,1,0,,50.0
+Pav Bhaji,Grill Cheese Toast,1,0,,210.0
+Pav Bhaji,Khada Pav Bhaji,1,0,,220.0
+Pav Bhaji,Masala Pav,1,0,,200.0
+Pav Bhaji,Pav Pattice,1,0,,160.0
+Pav Bhaji,Raita,1,0,,50.0
+Pav Bhaji,Tawa Pulao,1,0,,200.0
+Tandoor,Kc Special Tikka,1,0,[Veg preparation],390.0
+Tandoor,Lasani Tikka,1,0,,350.0
+Tandoor,Paneer Tikka,1,0,,320.0
+Tandoor,Peri Peri Tikka,1,0,,330.0
+Drinks (Beverages),Masala Chaas,1,0,,60.0
+Chinese,Chilly Garlic Noodles,1,0,,220.0
+Chinese,Chinese Bhel,1,0,,240.0
+Chinese,Dry Manchurian,1,0,,210.0
+Chinese,Fried Rice,1,0,,200.0
+Chinese,Gravy Manchurian,1,0,,220.0
+Chinese,Hakka Noodles,1,0,,220.0
+Chinese,Hot & Sour Soup,1,0,,170.0
+Chinese,Manchow Soup,1,0,[Veg preparation],170.0
+Chinese,Paneer Chilly,1,0,,320.0
+Chinese,Sabudana Ni Khichdi,1,0,[Chef's Special],290.0
+Chinese,Sabudana Vada,1,0,[Chef's Special],220.0
+Chinese,Tomato Soup,1,0,,170.0
+South Indian,Butter Idli,1,0,,150.0
+South Indian,Cheese Palak Dosa,1,0,,230.0
+South Indian,Cheese Sada Dosa,1,0,,180.0
+South Indian,Idli Sambhar,1,0,,130.0
+South Indian,Masala Dosa,1,0,,170.0
+South Indian,Masala Idli,1,0,,140.0
+South Indian,Mysore Masala Dosa,1,0,,190.0
+South Indian,Sada Dosa,1,0,,130.0
+South Indian,Uttapam,1,0,,150.0
+Punjabi,Chana Masala,1,0,,210.0
+Punjabi,Cheese Angoori,1,0,,360.0
+Punjabi,Dal Fry,1,0,,230.0
+Punjabi,Dal Makhani,1,0,,290.0
+Punjabi,Dal Tadka,1,0,,260.0
+Punjabi,Dhansak,1,0,[Chef's Special],340.0
+Punjabi,Jeera Rice,1,0,,210.0
+Punjabi,Paneer Cheese Gotala,1,0,,360.0
+Punjabi,Paneer Kadai,1,0,,310.0
+Punjabi,Paneer Rogan Josh,0,0,Veg Preparation,340.0
+Punjabi,Paneer Takatak,1,0,,390.0
+Punjabi,Paneer Tikka Masala,1,0,,360.0
+Punjabi,Punjabi Thali,1,0,,340.0
+Punjabi,Shaam Savera Kofta,1,0,,360.0
+Punjabi,Steam Rice,1,0,,180.0
+Punjabi,Veg Biryani,1,0,,320.0
+Punjabi,Veg Kadai,1,0,,300.0
+Kc Special,Bhakhri 4 Pc,1,0,,120.0
+Kc Special,Dal Bati,1,0,[Chef's Special],380.0
+Kc Special,Ghee Wali Bhakri Ane Chatni Wali Dal,1,0,,300.0
+Kc Special,Gujarati Thali,1,0,,300.0
+Kc Special,Masala Khichdi & Kadhi,1,0,,290.0
+Kc Special,Phulka Roti,1,0,,50.0
+Kc Special,Rasawala Bataka,1,0,,220.0
+Kc Special,Ringan Nu Bhartu & Jowar / Bajri Rotlo,1,0,,310.0
+Kc Special,Rotlo,1,0,,90.0
+Kc Special,Vatana Ni Puri & Rasawala Bataka,1,0,,340.0
+Kc Special,Vatana Ni Puri 2 Pc,1,0,,220.0
+Roti,Aloo Paratha,1,0,,150.0
+Roti,Butter Naan,1,0,,130.0
+Roti,Butter Roti,1,0,,50.0
+Roti,Cheese Garlic Naan,1,0,,170.0
+Roti,Garlic Naan,1,0,,150.0
+Roti,Lachha Paratha,1,0,,110.0
+Roti,Sada Kulcha,1,0,,110.0
+Roti,Sada Naan,1,0,,90.0
+Roti,Sada Roti,1,0,,40.0
+Roti,Stuffed Kulcha,1,0,,150.0
+Mithai,Akhrot Halwa,1,0,,290.0
+Mithai,Mohanthal,1,0,,240.0
+Mithai,Moong Dal Halwa,1,0,,240.0
+Papad,Cheese Masala Papad,1,0,,145.0
+Papad,Fryed Papad,1,0,,50.0
+Papad,Masala Papad,1,0,,100.0
+Papad,Roasted Papad,1,0,,40.0
+Gujarati Farsan,Bateka Lasan Na Chilla,1,0,,220.0
+Gujarati Farsan,Cheese Garlic Chilla,1,0,,210.0
+Gujarati Farsan,Leela Kapuria,1,0,[Chef's Special],300.0
+Gujarati Farsan,Leela Mug Na Dhokla,1,0,[Chef's Special],210.0
+Gujarati Farsan,Makai Na Dhokla,1,0,[Chef's Special],210.0
+Gujarati Farsan,Mix Millet Fada Khichdi & Vagharelu Dahi,1,0,,390.0
+Gujarati Farsan,Mix Veg Patlo Kadak Handvo,1,0,,290.0
+Gujarati Farsan,Tomato Bhajiya Chilla,1,0,,210.0

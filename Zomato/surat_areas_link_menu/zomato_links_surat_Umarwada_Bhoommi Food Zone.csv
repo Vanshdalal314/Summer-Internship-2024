@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Samosa,Samosa,1,0,"Delicious, crispy pastries filled with flavorful goodness, includes, tangy, spicy chutney and dahi.",29.0
+Samosa,Jain Samosa,1,0,"Delicious, crispy pastries filled with flavourful goodness.",34.0
+Samosa,Chole Ragada Samosa [1 Piece],1,0,Delicious samosa topped with hot chole ragda served with 2 chutney and dahi.,79.0
+Samosa,Jain Chole Ragda Samosa [1 Piece],1,0,Delicious Jain samosa topped with hot chole ragda served with 2 chutney and ... read more,89.0
+Kachori,Kachori,1,0,"A lip smacking pastry stuffed with deliciousness, deep fried until golden and crispy ... read more",29.0
+Kachori,Jain Kachori,1,0,"A lip smacking pastry stuffed with deliciousness without onion, deep fried until golden ... read more",34.0
+Kachori,Pyaz Kachori,1,0,A lip smacking pastry stuffed with delicious filling of onion and deep fried ... read more,29.0
+Kachori,Chole Ragda Kachori [2 Pieces],1,0,Delicious kachori topped with hot chole ragda served with 2 chutney and dahi.,79.0
+Kachori,Jain Chole Ragda Kachori [2 Pieces],1,0,Delicious jain kachori topped with hot chole ragda served with 2 chutney and ... read more,89.0
+Kachori,Chole Ragda Pyaz Kachori [2 Pieces],1,0,Delicious pyaaz kachori topped with hot chole ragda served with 2 chutney and ... read more,99.0
+Snacks,Bread Pakoda [2 Pieces],1,0,,65.0
+Snacks,Jain Bread Pakoda [2 Pieces],1,0,,65.0
+Snacks,Mirchi Wada [2 Pieces],1,0,,65.0
+Snacks,Jain Mirchi Vada [2 Vada],1,0,,65.0
+Snacks,Poha,1,0,,50.0
+Snacks,Fafda [100 grams],1,0,,65.0
+Snacks,Kadhi Kachori [2 Pieces],1,0,,80.0
+Snacks,Jain Kadhi Kachori [2 Pieces],1,0,,80.0
+Snacks,Kadi Pyaz Kachori [2 Pieces],1,0,,100.0
+Combos,Samosa [1 Piece] and Kachori [1 Piece],1,0,,50.0

@@ -1,0 +1,29 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sada Paan,Calcutta Minaxi Chutney Paan,1,0,,30.0
+Sada Paan,Calcutta Navratna Chutney Paan,1,0,Navratna chatni sekeli katri supari,35.0
+Sada Paan,Banarasi Minaxi Chutney Paan,1,0,Sekeli supari (can instruct for other supari),30.0
+Sada Paan,Banarasi Navratna Chutney Paan,1,0,Sekeli supari (can instruct for other supari),35.0
+Sada Paan,Maghai Jodi Paan,1,0,,40.0
+Sada Paan,Super Sada Navratna Chutney,1,0,,40.0
+Tambul Special Paan,Super Sada Paan,1,0,,50.0
+Tambul Special Paan,Banarasi Jodi with Sadi Patti,1,0,,30.0
+Tambul Special Paan,Tambul Patti Cutting Paan,1,0,Tobacco paan.,50.0
+Tobacco paan,120 Paan,1,0,Tobacco,40.0
+Navratna Kimam Paan,Navratan Kimam Minaxi Chutney,1,0,,62.0
+Navratna Kimam Paan,Navratna Kimam Navratna Chutney,1,0,,65.0
+Navratna Kimam Paan,Navratna Kimam 120 Jarda,1,0,,70.0
+Navratna Kimam Paan,Navratna Kimam 160 Jarda,1,0,,80.0
+Mitha Paan,Regular Meetha Paan,1,0,,30.0
+Mitha Paan,Tambul Sweet Paan,1,0,Sweet paan,50.0
+Mitha Paan,Maghai Meetha Paan,1,0,,40.0
+Mitha Paan,Maghai Shahi Paan,1,0,,45.0
+Mitha Paan,Chocolate paan,1,0,T,45.0
+Mitha Paan,Maghai Chocolate Paan,1,0,,50.0
+Mitha Paan,Nutella Paan,1,0,,70.0
+Mitha Paan,Rajbhog Chocolate Paan,1,0,,65.0
+Mitha Paan,Bombay Velvet,1,0,,50.0
+Mitha Paan,Bounty Chocolate,1,0,,50.0
+Mitha Paan,Paan Laddu,1,0,,30.0
+Mitha Paan,Gundi Paan,1,0,,25.0
+Mitha Paan,1 Tutti Frutti with 1 Cherry and 1 Jelly,1,0,,45.0
+Drinks (Beverages),Masala Soda,1,0,,35.0

@@ -1,0 +1,64 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza and Pasta,Margherita Pizza [6 inches],1,0,,190.0
+Pizza and Pasta,Onion Pizza [6 inches],1,0,,190.0
+Pizza and Pasta,Tomato Pizza [6 inches],1,0,,190.0
+Pizza and Pasta,Matka Pizza [6 inches],1,0,,210.0
+Pizza and Pasta,Makhani Pizza [6 inches],1,0,,220.0
+Pizza and Pasta,Mexican Pizza [6 inches],1,0,,220.0
+Pizza and Pasta,Deluxe Pizza [6 inches],1,0,,220.0
+Pizza and Pasta,Paprika Pizza [6 inches],1,0,,230.0
+Pizza and Pasta,Peppy Paneer Pizza [6 inches],1,0,,230.0
+Pizza and Pasta,Corn Cheese Pizza [6 inches],1,0,,230.0
+Pizza and Pasta,Pasta Pizza [6 inches],1,0,,260.0
+Pizza and Pasta,Tasteanation Special Pizza [6 inches],1,0,[Chef's Special],310.0
+Pizza and Pasta,Special Pasta,1,0,,220.0
+Pizza and Pasta,Penne,1,0,,250.0
+Pizza and Pasta,White Sauce Pasta,1,0,,250.0
+Burgers and Sandwiches,Schezwan Burger,1,0,,130.0
+Burgers and Sandwiches,American Burger,1,0,,140.0
+Burgers and Sandwiches,Supreme Burger,1,0,,160.0
+Burgers and Sandwiches,Mexican Burger,1,0,,160.0
+Burgers and Sandwiches,American Boss Burger,1,0,,190.0
+Burgers and Sandwiches,Cheese Pizza Burger,1,0,,190.0
+Burgers and Sandwiches,Chutney Sandwich,1,0,,100.0
+Burgers and Sandwiches,Creamy Choco Sandwich,1,0,,100.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,110.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,140.0
+Burgers and Sandwiches,Veg Mayo Sandwich,1,0,,140.0
+Burgers and Sandwiches,Veg Cheese Corn Sandwich,1,0,,140.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,,140.0
+Burgers and Sandwiches,Nutella Sandwich,1,0,,140.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,170.0
+Burgers and Sandwiches,Grilled Mayo Sandwich,1,0,,170.0
+Burgers and Sandwiches,Royal Sandwich,1,0,,220.0
+Burgers and Sandwiches,Paneer Schezwan Sandwich,1,0,,230.0
+Burgers and Sandwiches,Mayo Cheese Sandwich,1,0,,230.0
+Burgers and Sandwiches,Maharaja Sandwich,1,0,,280.0
+Burgers and Sandwiches,Paneer Tikka Sandwich,1,0,,290.0
+Burgers and Sandwiches,Jumbo Sandwich,1,0,,320.0
+Snacks,French Fries,1,0,,180.0
+Snacks,Peri Peri Fries,1,0,,220.0
+Snacks,Saucy French Fries,1,0,,260.0
+Snacks,Veg Cheesy Cheese Fries,1,0,,310.0
+Snacks,Momos [8 Pieces],1,0,,180.0
+Snacks,Cheese Momos [8 Pieces],1,0,,220.0
+Snacks,Bread Butter,1,0,,80.0
+Snacks,Bread Butter Jam,1,0,,100.0
+Snacks,Bread Butter Toast,1,0,,110.0
+Snacks,Chilli Cheese Toast,1,0,,170.0
+Snacks,Cheese Garlic Bread [4 Pieces],1,0,,190.0
+Snacks,Chilli Cheese Garlic Bread [4 Pieces],1,0,,200.0
+Snacks,Cheese Corn Garlic Bread [4 Pieces],1,0,,200.0
+Snacks,Cheese Burst Garlic Bread [4 Pieces],1,0,,230.0
+Snacks,Paneer Cheese Garlic Bread [4 Pieces],1,0,,260.0
+Snacks,Veg Cheese Garlic Bread [4 Pieces],1,0,,290.0
+Snacks,Cheese Paneer Tikka Garlic Bread [4 Pieces],1,0,,310.0
+Maggi,Classic Maggi,1,0,,100.0
+Maggi,Butter Maggi,1,0,,130.0
+Maggi,Double Maggi,1,0,,130.0
+Maggi,Cheese Maggi,1,0,,130.0
+Maggi,Peri Peri Maggi,1,0,,130.0
+Maggi,Schezwan Maggi,1,0,,150.0
+Maggi,Nachos Maggi,1,0,,150.0
+Maggi,Corn Cheese Maggi,1,0,,180.0
+Maggi,Tasteanation Special Maggi,1,0,[Chef's Special],210.0

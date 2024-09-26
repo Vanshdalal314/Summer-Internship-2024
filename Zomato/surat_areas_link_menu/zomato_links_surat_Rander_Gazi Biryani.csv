@@ -1,0 +1,13 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Chicken Dum Biryani [750 ml],0,0,A classic dish of the Mughal Nizams is an eye-catching aromatic rice loved ... read more,93.6
+Biryani,Chicken Tikka Biryani [750 ml],0,0,,117.0
+Chicken Shawarma,Chicken Shawarma,0,0,,46.8
+Chicken Shawarma,Special Chicken Shawarma,0,0,,54.6
+Chicken Shawarma,Double Chicken Shawarma,0,0,,54.6
+Chicken Shawarma,Chicken Cheese Shawarma,0,0,,62.4
+Starters,Chicken Tangdi [2 Pieces],0,0,,96.0
+Starters,Chicken Leg Piece Deep Fried,0,0,,96.0
+Starters,Chicken Dana [250 grams],0,0,,101.4
+Starters,Chicken Lollipop [250 gram],0,0,,132.0
+Starters,Boneless Chicken 65 [250 grams],0,0,,132.0
+Drinks (Beverages),Buttermilk,1,0,,15.0

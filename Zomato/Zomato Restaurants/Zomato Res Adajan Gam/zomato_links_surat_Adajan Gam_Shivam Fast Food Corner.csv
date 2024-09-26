@@ -1,0 +1,27 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Garlic Bread,Cheese Garlic Bread,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",110.0
+Pizza,Veg Cheese Pizza [6 inches],1,0,,156.0
+Pizza,Italian Cheese Pizza [6 inches],1,0,,169.0
+Pizza,Veg Mushroom Pizza [6 inches],1,0,,182.0
+Pizza,Veg Paneer Cheese Pizza [6 inches],1,0,,208.0
+Burgers and Sandwiches,Veg Burger,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",78.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",104.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,39.0
+Burgers and Sandwiches,Bread Butter Toast Sandwich,1,0,,52.0
+Burgers and Sandwiches,Bread Butter Jam Sandwich,1,0,,52.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,55.0
+Burgers and Sandwiches,Aloo Mutter Toast Sandwich,1,0,,65.0
+Burgers and Sandwiches,Veg Toast Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",65.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich,1,0,,91.0
+Burgers and Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,104.0
+Burgers and Sandwiches,Bread Butter Cheese Jam Sandwich,1,0,,90.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",104.0
+Burgers and Sandwiches,Aloo Mutter Cheese Toast Sandwich,1,0,,104.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,95.0
+Burgers and Sandwiches,Kachumber Cheese Toast Sandwich,1,0,,104.0
+Burgers and Sandwiches,Special Club Sandwich [3 Layers],1,0,,135.0
+Burgers and Sandwiches,Cheese Chilli Toast,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",110.0
+Burgers and Sandwiches,Open Cheese Toast,1,0,,110.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,135.0
+Grilled Vada Pav,Cheese Grilled Vada Pav,1,0,,65.0
+Grilled Vada Pav,Grilled Vada Pav,1,0,,32.5

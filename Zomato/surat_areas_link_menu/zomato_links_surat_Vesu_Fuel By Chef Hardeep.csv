@@ -1,0 +1,87 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Veg Salad,Paneer Tikka Salad,1,0,"(Marinated tandoori paneer with iceberg lettuce, red and yellow bellpeper, capcicum, onion and ... read more",325.0
+Non Veg Salad,Chicken Tikka Salad,0,0,"(Roasted chicken accompaniment with iceberg lettuce, red and yellow bellpeper, capsicum, onion and ... read more",325.0
+Non Veg Salad,Egg Salad,0,0,"(Boiled eggs accompaniment with iceberg lettuce, red and yellow bellpeper, capsicum, onion and ... read more",259.0
+Veg Starters,Achari Chaap,1,0,(Soya chaap marinated with yogurt and home-made achaar),325.0
+Veg Starters,Garlic Chaap,1,0,"(Marinated chaap with garlic, turmeric and yogurt)",325.0
+Veg Starters,Hara Bhara Kebab,1,0,"(Kebab made with spinach, potatoes, peas, spices and herbs)",325.0
+Veg Starters,Kesari Paneer Tikka,1,0,"(Marinated paneer and veggies with yogurt, turmeric and Indian spices)",325.0
+Veg Starters,Malai Chaap,1,0,"(Marinated with yogurt, cream, cheese and cardamom powder)",325.0
+Veg Starters,Malai Paneer Tikka,1,0,"(Marinated paneer and veggies with yogurt, cream, cardamom powder and black pepper)",325.0
+Veg Starters,Paneer Kaju Kebeb,1,0,"(Paneer, kaju, chilly and coriander mixed with spices)",365.0
+Veg Starters,Paneer Tikka,1,0,(Cubes of paneer & veggies marinated with yogurt and spices),325.0
+Veg Starters,Tandoori Chaap,1,0,(Soya chaap marinated with yogurt and spices),325.0
+Veg Starters,Tandoori Mushroom,1,0,"(Mushroom stuffed with palak, cheese and paneer)",369.0
+Veg Starters,Veg Seekh Kebab,1,0,"(Chopped vegetables, potatoes, paneer mixed with home-spices)",325.0
+Non Veg Starters,Afgani Chicken,0,0,(Cream mixed with rich cashews along with pepper and cardamom infused in chicken),455.0
+Non Veg Starters,Amritsari Fish,0,0,"(Coated with gram flour, ajwain and spices.)",475.0
+Non Veg Starters,Chicken 65,0,0,(Chicken coated in spicy masala marination then deep fried till cooked and crispy),399.0
+Non Veg Starters,Chicken Pahadi Tikka,0,0,(Boneless chicken cubes marinated in curd then infused with coriander and Indian masala),399.0
+Non Veg Starters,Chicken Seekh Kebab,0,0,(Skewered meat sausages cooked over a charcoal fire),399.0
+Non Veg Starters,Chicken Tikka,0,0,(Boneless chicken baked over charcoal after marinating in Indian spices and yogurt),399.0
+Non Veg Starters,Fish Tikka,0,0,(Boneless fish pieces coated with tandoori marination and grilled in tandoor),475.0
+Non Veg Starters,Garlic Chicken Tikka,0,0,"(Chicken chunks are marinated in curd, then infused with garlic and green chilies)",399.0
+Non Veg Starters,Kesari Fish Tikka,0,0,"(Fish mixed with the flavours of garlic, herbs and spices)",475.0
+Non Veg Starters,Murg Malai Tikka,0,0,"(Grilled supreme of chicken with ginger, garlic, green chilly, cream-cheese, coriander-stem and cardamom)",399.0
+Non Veg Starters,Peri Peri Chicken Tikka,0,0,(Chicken cubes marinated in yogurt and infused with peri peri masala),409.0
+Non Veg Starters,Tandoori Chicken,0,0,(Roasted chicken marinated in yogurt and generously spiced),390.0
+Veg Rolls,Paneer Tikka Roll,1,0,"(Bellpepers, capcisum, onions, lettuce and paneer tikka mixed with home-made tandoori sauce)",269.0
+Veg Rolls,Vegetable Roll,1,0,"(Vegetable Pattie with Julienne bellpepers, onion, capsicum and lettuce seasoned with home-made tandoori ... read more",235.0
+Non-veg Rolls,Chicken Malai Tikka Roll,0,0,"(Shredded malai tikka, capsicum, onion, lettuce and bellpepers mixed with homemade malai sauce)",269.0
+Non-veg Rolls,Chicken Tikka Roll,0,0,"(Shredded chicken tikka, bellpepers, capsicum, onion and lettuce mixed with homemade tandoori sauce)",269.0
+Non-veg Rolls,Egg Roll,0,0,"(Boiled eggs, onions, bellpepers, capsicum and lettuce mixed with creamy sauce)",235.0
+Non-veg Rolls,Garlic Chicken Roll,0,0,"(Shredded garlic chicken tikka, onions, bellpepers, capsicum and lettuce tossed with home-made garlic ... read more",269.0
+Non-veg Rolls,Mint Chicken Roll,0,0,"(Shredded mint chicken tikka, bellpepers, capsicum, onion and lettuce mixed with home-made mint ... read more",269.0
+Veg Main Course,Chaap Butter Masala,1,0,"(Chaap mixed with butter, cream and makhani gravy)",399.0
+Veg Main Course,Kadai Paneer,1,0,"(An Indian vegetarian dish made with cottage cheese cooked with tomatoes, onions, capsicum ... read more",399.0
+Veg Main Course,Masala Chaap,1,0,(Soya Chaap Masala is a gravy dish made from soya chaap chopped and ... read more,389.0
+Veg Main Course,Masala Garlic Chaap,1,0,"(Chaap mixed with garlic, butter and creamy gravy)",399.0
+Veg Main Course,Mix Veg Jalfrezi,1,0,(Mixture of vegetables together in a traditional Indian onion-tomato gravy),389.0
+Veg Main Course,Palak Paneer,1,0,"(Indian cheese in a smooth, creamy and delicious spinach gravy)",379.0
+Veg Main Course,Paneer Bhurji,1,0,"(A perfectly savory, tangy, spiced mixture made of onions, tomatoes, ginger-garlic paste and ... read more",399.0
+Veg Main Course,Paneer Butter Masala,1,0,"(A slightly sweet Indian dish of paneer, in which the gravy is prepared ... read more",389.0
+Veg Main Course,Paneer Lababdar,1,0,"(Creamy paneer gravy that's also surprisingly light. The flavors are warm, buttery and ... read more",399.0
+Veg Main Course,Paneer Tikka Masala,1,0,"(Indian curry where cubes of paneer, onions and peppers are marinated with yogurt ... read more",389.0
+Non Veg Main Course,Anda Masala,0,0,"(Made with boiled eggs, onions, tomatoes, whole spices and spice powders)",369.0
+Non Veg Main Course,Butter Chicken,0,0,"(Chicken cooked with butter, cream and makhani gravy)",425.0
+Non Veg Main Course,Chicken Curry,0,0,(Chicken mixed with spices and rasedar curry),399.0
+Non Veg Main Course,Chicken Lababdar,0,0,(Chicken cooked in rich creamy gravy),449.0
+Non Veg Main Course,Dahi Chicken,0,0,"(Simple chicken curry, which has yogurt added in. The tangy taste will make ... read more",449.0
+Non Veg Main Course,Dese Ghee Chicken,0,0,(Chicken cooked in ghee with onion and tomato gravy),449.0
+Non Veg Main Course,Egg Butter Masala,0,0,(Boiled egg comes with makhani gravy),369.0
+Non Veg Main Course,Egg Ghotala,0,0,(Chunks of eggs mixed in bhaji and finished off with a fried egg),369.0
+Non Veg Main Course,Egg Paplet,0,0,(Made with stuffed omelette and gravy),369.0
+Non Veg Main Course,Fish Butter Gravy,0,0,(Tandoori fish tikka mixed with butter makhani gravy),479.0
+Non Veg Main Course,Fish Masala,0,0,(Fish cooked in onion tomato masala),479.0
+Non Veg Main Course,Garlic Fish Gravy,0,0,(Garlic fish tikka cooked with lababdar gravy),479.0
+Non Veg Main Course,Kadai Chicken,0,0,(Chicken is cooked in a spicy freshly ground spice mix),449.0
+Non Veg Main Course,Lemon Chicken,0,0,"(Pieces of chicken coated with a thick, sweet lemon-flavored gravy.)",449.0
+Non Veg Main Course,Mutton Rogan Josh,0,0,"(Pieces of lamb braised with a gravy flavoured with garlic, ginger and aromatic ... read more",549.0
+Veg Thali,Dal Fry And Jerra Rice Thali,1,0,"(Dal fry, Jerra Rice, Papad, Pickle and Salad)",195.0
+Veg Thali,Dal Makhani And Stuff Pratha Thali,1,0,"(Dal Makhani, Stuff Pratha, Papad, Pickle and Salad)",259.0
+Veg Thali,Masala Chaap Thali,1,0,"(Masala Chaap, Tandoori Roti, Papad Pickle and Salad)",310.0
+Veg Thali,Paneer Butter Masala Thali,1,0,"(Paneer Butter Masala, Tandoori Roti, Papad, Pickle and Salad)",310.0
+Veg Thali,Veg Thali,1,0,"(Paneer Makhani, Dal Makhani, Jerra Rice, 2 Tandoori Roti, Raita, Salad, Papad and ... read more",285.0
+Non Veg Thali,Butter Chicken Thali,0,0,"(Butter Chicken with Tandoori Roti, Papad, Pickle and Salad)",310.0
+Non Veg Thali,Chicken Curry And Rice Thali,0,0,"(Chicken Curry, Rice, Papad, Pickle and Salad)",285.0
+Non Veg Thali,Egg Curry And Rice Thali,0,0,"(Egg Curry, Rice, Papad, Pickle and Salad)",260.0
+Non Veg Thali,Mutton Rogan Josh Thali,0,0,"(Mutton Rogan Josh with Tandoori Roti, Papad, Pickle and Salad)",390.0
+Non Veg Thali,Non Veg Thali,0,0,"(Chicken Gravy, Egg Curry, Jerra Rice, 2 Tandoori Roti, Raita, Salad, Papad, Pickle)",325.0
+Dal,Dal Fry,1,0,"(Made with lentils (toor dal), onions, tomatoes, spices and herbs)",239.0
+Dal,Dal Makhani,1,0,"(It is made with urad dal (black beans) and other pulses, and includes ... read more",279.0
+Dal,Dal Tadka,1,0,"(Lentil finished with a tempering, at the end)",249.0
+Veg Biryani,Jerra Rice,1,0,(Simply rice cooked with cumin seeds),195.0
+Veg Biryani,Steamed Rice,1,0,(Rice that has been cooked by steaming),190.0
+Veg Biryani,Veg Biryani,1,0,"(Spiced mix of vegetables and rice, traditionally cooked over an open fire in ... read more",329.0
+Veg Biryani,Veg Pulao,1,0,(One pot dish of rice and vegetables),235.0
+Non Veg Biryani,Chicken Biryani With Raita,0,0,"(Chicken and rice dish that includes layers of chicken, rice, and aromatics that ... read more",399.0
+Non Veg Biryani,Mutton Biryani With Raita,0,0,"(Spiced mix of meat and rice, cooked over an open fire in a ... read more",549.0
+Tandoorai Bread,Butter Laccha Paratha,1,0,,60.0
+Tandoorai Bread,Butter Naan,1,0,,50.0
+Tandoorai Bread,Butter Roti,1,0,,35.0
+Tandoorai Bread,Cheese Garlic Naan,1,0,,110.0
+Tandoorai Bread,Garlic Naan,1,0,,80.0
+Tandoorai Bread,Laccha Paratha,1,0,,50.0
+Tandoorai Bread,Naan,1,0,,40.0
+Tandoorai Bread,Roti,1,0,,30.0
+Tandoorai Bread,Stuff Paratha With Curd,1,0,,119.0

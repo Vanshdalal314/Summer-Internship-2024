@@ -1,0 +1,34 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fafda Jalebi,Special Fafda,1,0,[Veg preparation],110.0
+Punjabi Special,Special Punjabi Samosa [1 Piece],1,0,,20.0
+Punjabi Special,Special Punjabi Kachori,1,0,,20.0
+Punjabi Special,Special Rasawali Kachori [1 Piece],1,0,,40.0
+Punjabi Special,Special Rasawala Samosa [1 Piece],1,0,,40.0
+Punjabi Special,Onion Kachori [2 Pieces],1,0,,119.0
+Punjabi Special,Bread Roll [1 Piece],1,0,,30.0
+Punjabi Special,Special Chinese Puff,1,0,,75.0
+Punjabi Special,Special Chinese Roll,1,0,,75.0
+Punjabi Special,Special Jain Chinese Roll,1,0,,75.0
+Surati Khaman and Farshan,Surti Vagharela Khaman,1,0,,50.0
+Surati Khaman and Farshan,Oil Masala Locho,1,0,,40.0
+Surati Khaman and Farshan,Butter Masala Locho,1,0,,110.5
+Surati Khaman and Farshan,Vagharela Idada,1,0,,50.0
+Surati Khaman and Farshan,Vaghareli Pataudi,1,0,,50.0
+Surati Khaman and Farshan,Vagharela Patra,1,0,,50.0
+Surati Khaman and Farshan,Nylon Khaman,1,0,,40.0
+Surati Khaman and Farshan,Surti Sev Khamani,1,0,,50.0
+Surati Khaman and Farshan,Rasawala Khaman,1,0,,40.0
+Surati Khaman and Farshan,Sada Khaman,1,0,,30.0
+Surati Khaman and Farshan,Special Surti Fried Patties,1,0,[Veg preparation],79.0
+Surati Khaman and Farshan,Sada Iddra,1,0,,30.0
+Surati Khaman and Farshan,Sada Patra,1,0,,35.0
+Surati Khaman and Farshan,Sadi Pataudi,1,0,,35.0
+Surti Bhajiya,Methi Na Gota,1,0,,75.0
+Surti Bhajiya,Naylon Papdi,1,0,,102.0
+Combos,Sada Khaman with Special Punjabi Kachori,1,0,,50.0
+Combos,Special Punjabi Samosa [1 Piece] + Special Punjabi Kachori [1 Piece],1,0,,40.0
+Combos,Oil Masala Locho [250 grams] + Special Punjabi Samosa [1 Piece],1,0,,80.0
+Combos,Bread Roll [1 Piece] + Special Punjabi Samosa [1 Piece],1,0,,50.0
+Surti Dry Farshan(200 gms),Jalaram Special Dry Kachori,1,0,,75.0
+Surti Dry Farshan(200 gms),Fry Patra,1,0,,75.0
+Drinks (Beverages),Plain Lassi,1,0,,55.0

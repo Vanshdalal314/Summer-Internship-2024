@@ -1,0 +1,126 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Amritsari De Kulche,Aloo Cheese Kulcha,1,0,Served with amritsari chole and chutney.,250.0
+Amritsari De Kulche,Aloo Kulcha,1,0,Served with amritsari chole and chutney.,240.0
+Amritsari De Kulche,Aloo Pyaz Kulcha,1,0,Served with amritsari chole and chutney.,240.0
+Amritsari De Kulche,Cheese Chinese Kulcha,1,0,Served with amritsari chole and chutney.,270.0
+Amritsari De Kulche,Cheese Garlic Kulcha,1,0,Served with amritsari chole and chutney.,270.0
+Amritsari De Kulche,Chur Chur Naan,1,0,Served with amritsari chole and chutney.,270.0
+Amritsari De Kulche,Mix Veg Kulcha,1,0,Served with amritsari chole and chutney.,250.0
+Amritsari De Kulche,Matar Panner Kulcha,1,0,Served with amritsari chole and chutney.,260.0
+Amritsari De Kulche,Onion Kulcha,1,0,Served with amritsari chole and chutney.,240.0
+Amritsari De Kulche,Palak Cheese Kulcha,1,0,Served with amritsari chole and chutney.,270.0
+Amritsari De Kulche,Paneer Kulcha,1,0,Served with amritsari chole and chutney.,260.0
+Amritsari De Kulche,Special Amritsari Kulcha,1,0,Served with amritsari chole and chutney.,270.0
+Thalis,Chur Chur Naan Thali,1,0,Dal Makhani+Punjabi Chole+Special Chutney+1 Kulcha,290.0
+Thalis,Punjabi Thali,1,0,Paneer Sabji+Chaap Sabji+Dal Fry+Jeera Rice+3 Butter Tandoori Roti+Buttermilk+Gulab Jamun [1 Piece]+Salad+Pickle [Salad-Subject to ... read more,290.0
+Thalis,Dilliwali Thali,1,0,Dal Makhani+Shahi Paneer+1 Butter Naan+1 Laccha Paratha+Salad+Raita [Salad-Subject to Availability],270.0
+Mini Meals,Dal Fry With Jeera Rice,1,0,Dal Fry+Jeera Rice+Salad+Mukhwas [Salad-Subject to Availability],240.0
+Mini Meals,Dal Khichdi,1,0,Made With Rice And Yellow Mung Lentils,250.0
+Mini Meals,Dal Makhani With Jeera Rice,1,0,Dal Makhani+Jeera Rice+Salad+Mukhwas [Salad-Subject to Availability],250.0
+Mini Meals,Mix Veg Dal Khichdi,1,0,Mix Combination Of Yellow Mung Lentils & Veggies With Rice,280.0
+Mini Meals,Paneer Lababdar Rice Meal,1,0,,270.0
+Mini Meals,Special Dal Khichdi,1,0,Mix Combination Of Dal Fry & Dal Makhani With Rice,270.0
+Soup,Hot And Sour Soup,1,0,,190.0
+Soup,Manchow Soup,1,0,A comforting Chinese-style thick soup filled with exotic and hot vegetables.,180.0
+Main Course Me Kya Hai ?,Kadhai Paneer,1,0,,290.0
+Main Course Me Kya Hai ?,Matar Paneer,1,0,,250.0
+Main Course Me Kya Hai ?,Mini Punjab Special Paneer,1,0,,280.0
+Main Course Me Kya Hai ?,Palak Paneer,1,0,,280.0
+Main Course Me Kya Hai ?,Paneer Angara,1,0,,290.0
+Main Course Me Kya Hai ?,Paneer Bhurji,1,0,,310.0
+Main Course Me Kya Hai ?,Paneer Butter Masala,1,0,,250.0
+Main Course Me Kya Hai ?,Paneer Do Pyaza,1,0,,280.0
+Main Course Me Kya Hai ?,Paneer Handi,1,0,,280.0
+Main Course Me Kya Hai ?,Paneer Lababdar,1,0,,290.0
+Main Course Me Kya Hai ?,Paneer Pasanda,1,0,,280.0
+Main Course Me Kya Hai ?,Paneer Patiyala,1,0,,290.0
+Main Course Me Kya Hai ?,Paneer Tawa Masala,1,0,,290.0
+Main Course Me Kya Hai ?,Paneer Tikka Masala,1,0,,290.0
+Main Course Me Kya Hai ?,Shahi Paneer,1,0,,260.0
+Main Course Me Kya Hai ?,Veg Chatpata,1,0,,270.0
+Main Course Me Kya Hai ?,Veg Diwani Handi,1,0,,270.0
+Main Course Me Kya Hai ?,Veg Kolhapuri,1,0,,270.0
+Main Course Me Kya Hai ?,Veg Makhanwala,1,0,,270.0
+Main Course Me Kya Hai ?,Veg Mili Juli,1,0,,260.0
+Main Course Me Kya Hai ?,Veg Toofani,1,0,,270.0
+Main Course Me Kya Hai ?,Kadhai Mushroom,1,0,,290.0
+Main Course Me Kya Hai ?,Matar Mushroom,1,0,,270.0
+Main Course Me Kya Hai ?,Mushroom Butter Masala,1,0,,280.0
+Main Course Me Kya Hai ?,Mushroom Do Pyaza,1,0,,290.0
+Main Course Me Kya Hai ?,Mushroom Tikka Masala,1,0,,280.0
+Main Course Me Kya Hai ?,Chaap Butter Masala,1,0,[Veg Preparation],290.0
+Main Course Me Kya Hai ?,Chaap Handi,1,0,[Veg Preparation],290.0
+Main Course Me Kya Hai ?,Ginger Lemon Chaap,1,0,[Veg Preparation],290.0
+Main Course Me Kya Hai ?,Kadhai Chaap,1,0,[Veg Preparation],290.0
+Main Course Me Kya Hai ?,Kali Mirch Lemon Chaap,1,0,[Veg Preparation],290.0
+Main Course Me Kya Hai ?,Shahi Chaap,1,0,[Veg Preparation],290.0
+Main Course Me Kya Hai ?,Special Tawa Chaap,1,0,[Veg Preparation],290.0
+Main Course Me Kya Hai ?,Cheese Anguri,1,0,,320.0
+Main Course Me Kya Hai ?,Cheese Butter Masala,1,0,,320.0
+Main Course Me Kya Hai ?,Cheese Chaap Lababdar,1,0,[Veg Preparation],320.0
+Main Course Me Kya Hai ?,Cheese Paneer Lababdar,1,0,,320.0
+Main Course Me Kya Hai ?,Afghani Khoya Kaju,1,0,,320.0
+Main Course Me Kya Hai ?,Cheese Kaju Curry,1,0,,320.0
+Main Course Me Kya Hai ?,Kaju Curry Masala,1,0,,330.0
+Main Course Me Kya Hai ?,Lajawab Kofta,1,0,,310.0
+Main Course Me Kya Hai ?,Malai Kofta,1,0,,310.0
+Main Course Me Kya Hai ?,Palak Kofta,1,0,,270.0
+Main Course Me Kya Hai ?,Veg Kofta,1,0,,270.0
+Main Course Me Kya Hai ?,Amritsari Dal [500ml],1,0,,290.0
+Main Course Me Kya Hai ?,Dal Dhabewale [500ml],1,0,,290.0
+Main Course Me Kya Hai ?,Dal Double Tadka [500ml],1,0,,290.0
+Main Course Me Kya Hai ?,Dal Fry [500ml],1,0,Yellow lentil with ground spices & other ingredients.,270.0
+Main Course Me Kya Hai ?,Dal Makhani [500ml],1,0,Dal Makhani Is One Of The Most Popular Lentil Recipes From The North ... read more,290.0
+Main Course Me Kya Hai ?,Dal Tadka [500ml],1,0,Dal tadka is a popular indian dish where cooked spiced lentils are finished ... read more,280.0
+Main Course Me Kya Hai ?,Punjabi Chole [500ml],1,0,,290.0
+Chinese,Bombay Bhel,1,0,A delectable wholesome combo of delightful vada pav; served along with mouthwatering Bombay ... read more,250.0
+Chinese,Chinese Bhel,1,0,Fried crunchy noodles with asian veggies and tossed in Chinese sauces.,270.0
+Chinese,Honey Chilli Potato,1,0,A sweet and tangy potato dish that is sure to tantalize your taste ... read more,290.0
+Chinese,Manchurian Dry,1,0,"Indo Chinese dish, deep fried vegetable balls tossed in Chinese sauces.",250.0
+Chinese,Manchurian Fried Rice,1,0,"Indo Chinese dish, deep fried vegetable balls tossed in Chinese sauces and finished ... read more",260.0
+Chinese,Manchurian Gravy,1,0,Manchurian gravy is the Indo Chinese starter dish where fried vegetable balls are ... read more,270.0
+Chinese,Manchurian Noodles,1,0,An Indo Chinese dish of stir fried noodles mixed with Manchurian and sauces.,260.0
+Chinese,Paneer Chilli Dry,1,0,A delightfully flavorful dish prepared with soft paneer and cooked with flavorful chili ... read more,300.0
+Chinese,Paneer Chilli Gravy,1,0,"Paneer based Chinese dish, cooked in spices of garlic and ginger with chilly. ... read more",310.0
+Chinese,Paneer Fried Rice,1,0,Fresh veggies and minces pieces of paneer tossed in a pan with steamed ... read more,260.0
+Chinese,Singapuri Fried Rice,1,0,,260.0
+Chinese,Singapuri Noodles,1,0,"A Sumptuous noodles dish with a zesty Flavour, perfectly cooked noodles and a ... read more",260.0
+Chinese,Schezwan Triple Rice With Greavy,1,0,,330.0
+Chinese,Veg Crispy,1,0,The mix vegetables is fried in such a way that the skin is ... read more,280.0
+Chinese,Veg Fried Rice,1,0,A deliciously aromatic and flavorful dish made from stir fried mixed vegetables and ... read more,250.0
+Chinese,Veg Hakka Noodles,1,0,"Delectable stands of soft noodles tossed with assorted chopped veggies and hakka sauces, ... read more",250.0
+Breads,Butter Lachha Paratha,1,0,,70.0
+Breads,Butter Naan,1,0,North Indian bread with a generous serving of butter that tastes brilliant when ... read more,85.0
+Breads,Butter Roti,1,0,Soft and fluffy rotis topped with a generous serving of butter.,45.0
+Breads,Cheeese Naan,1,0,,130.0
+Breads,Cheese Chilli Naan,1,0,,130.0
+Breads,Cheese Garlic Naan,1,0,Soft Indian flat bread made from all purpose flour with a hint of ... read more,140.0
+Breads,Garlic Naan,1,0,Soft Indian flat bread made from all purpose flour with a hint of ... read more,110.0
+Breads,Lal Mirch Paratha,1,0,,70.0
+Breads,Plain Naan,1,0,Soft and fluffy naan tastes amazing when paired with an Indian gravy.,75.0
+Breads,Plain Roti,1,0,"A variety of Indian flat bread, made from wheat flour on tawa.",40.0
+Breads,Pudina Paratha,1,0,,70.0
+Breads,Tawa Butter Roti,1,0,,35.0
+Rice And Biryani,Jeera Rice,1,0,Frangrant rice dish tempered with lots of aromatic cumin seeds.,200.0
+Rice And Biryani,Matar Pulao With Masala Curd,1,0,"Peas pulao is a quick, filling, flavour rice dish that is nutritious as ... read more",240.0
+Rice And Biryani,Paneer Pulao With Masala Curd,1,0,"Simple, aromatic, and healthy meal of paneer stir fried with rice.",260.0
+Rice And Biryani,Steamed Rice,1,0,Aromatic and flavorful steamed rice goes well dal tadka or dal fry.,180.0
+Rice And Biryani,Veg Pulao With Masala Curd,1,0,A wholesome dish prepared by cooking chopped vegetables and rice in a flavorful ... read more,250.0
+Rice And Biryani,Chef Special Biryani With Raita,1,0,,360.0
+Rice And Biryani,Hyderabadi Biryani With Raita,1,0,,320.0
+Rice And Biryani,Mushroom Tikka Biryani With Raita,1,0,,290.0
+Rice And Biryani,Paneer Tikka Biryani With Raita,1,0,Paneer marinated in a house blend of Indian spices and layered between aromatic ... read more,340.0
+Rice And Biryani,Soya Chaap Biryani With Raita,1,0,[Veg Preparation],340.0
+Rice And Biryani,Veg Biryani With Raita,1,0,,280.0
+Accompaniments,Boondi Raita,1,0,,130.0
+Accompaniments,Masala Curd,1,0,,100.0
+Accompaniments,Masala Papad,1,0,Fried papad with veggies on top,60.0
+Accompaniments,Plain Curd,1,0,A dairy product obtained by coagulating milk.,80.0
+Accompaniments,Roasted Papad,1,0,,40.0
+Accompaniments,Veg Raita,1,0,"Thick and creamy yoghurt prepared with onion, tomatoes and cucumber",130.0
+Drinks (Beverages),Blackcurrent Lassi (300 Ml),1,0,,160.0
+Drinks (Beverages),Butter Milk (300 Ml),1,0,A delightful buttermilk made from yogurt mixed with salt to enhance its flavor- ... read more,70.0
+Drinks (Beverages),Mango Lassi (300 Ml),1,0,"Lassi prepared with mango flavour, very tempting and delightful to drink.",160.0
+Drinks (Beverages),Patiyala Lassi (300 Ml),1,0,,140.0
+Drinks (Beverages),Rose Lassi (300 Ml),1,0,"Lassi prepared with rose flavour, very tempting and delightful to drink.",160.0
+Desserts,Hot Gulab Jamun [4 Pieces],1,0,,99.0

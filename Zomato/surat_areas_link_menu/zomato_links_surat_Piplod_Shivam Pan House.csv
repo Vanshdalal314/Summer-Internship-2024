@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Paan,Banarasi 160 Paan,1,0,,35.0
+Paan,Calcutta 120 Paan,1,0,,35.0
+Paan,Calcutta 160 Paan,1,0,,35.0
+Paan,Mawa 135 Paan,1,0,,20.0
+Paan,Mawa 120 Paan,1,0,,35.0
+Paan,Mawa 300 Paan,1,0,,35.0
+Paan,Mawa 160 Paan,1,0,,45.0
+Paan,Banarasi 120 Paan,1,0,,25.0
+Paan,Navratan Qiwam 120 Paan,1,0,,80.0
+Paan,Navratan Qiwam 160 Paan,1,0,,80.0
+Paan,Calcutta Sada Paan,1,0,,30.0
+Paan,Special Sada Paan,1,0,,30.0
+Paan,Navratan Chutney Sada Paan,1,0,,35.0
+Paan,Meetha Paan,1,0,,35.0
+Paan,Shahi Paan,1,0,,40.0
+Paan,Chocolate Paan,1,0,,45.0
+Paan,Chocolate Dry Fruit Paan,1,0,,45.0
+Paan,Tulsi 00 Jarda Paan,1,0,,35.0
+Paan,160 Jarda Paan,1,0,,35.0
+Paan,Navratan Chutney Paan,1,0,,40.0

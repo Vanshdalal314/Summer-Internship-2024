@@ -1,0 +1,210 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Veg Soup,1,0,,126.0
+Soups,Veg Mushroom Soup,1,0,,126.0
+Soups,Pepper Garlic Soup,1,0,,126.0
+Soups,Veg Clear Soup,1,0,,126.0
+Soups,Veg Hot and Sour Soup,1,0,,126.0
+Soups,Chicken Soup,1,0,,140.0
+Soups,Chicken Clear Soup,1,0,,140.0
+Soups,Chicken Pepper Soup,1,0,,140.0
+Soups,Chicken Hot and Sour Soup,1,0,,154.0
+Soups,Chicken Chettinad Soup,1,0,,154.0
+Soups,Mutton Soup,1,0,,168.0
+Starters,Gobi 65,1,0,,196.0
+Starters,Mushroom Manchurian,1,0,,238.0
+Starters,Chilli Paneer,1,0,,238.0
+Starters,Paneer 65,1,0,,238.0
+Starters,Paneer Hot Pepper,1,0,,252.0
+Starters,Paneer Pepper Fry,1,0,,238.0
+Starters,Gobi Manchurian,1,0,,238.0
+Starters,Paneer Manchurian,1,0,,238.0
+Starters,Paneer Fry,1,0,,176.0
+Starters,Gobi Chilli,1,0,,196.0
+Starters,Gobi Pepper Fry,1,0,,196.0
+Starters,Mushroom 65,1,0,,224.0
+Starters,Mushroom Pepper Fry,1,0,,224.0
+Starters,Dragon Paneer,1,0,,252.0
+Starters,Chinese Chilli Paneer,1,0,,280.0
+Starters,Chicken Lollipop [4 Pieces],1,0,,224.0
+Starters,Boneless Chilli Chicken,1,0,,294.0
+Starters,Chicken Fry,1,0,,238.0
+Starters,Chicken 65,1,0,,294.0
+Starters,Chicken Pepper Fry,1,0,,206.0
+Starters,Chicken Manchurian,1,0,,336.0
+Starters,Chicken Hyderabad,1,0,,364.0
+Starters,Boneless Pepper Chicken,1,0,,336.0
+Starters,Kerala Chicken Fry,1,0,,364.0
+Starters,Hot Pepper Chicken,1,0,,364.0
+Starters,Dragon Chicken,1,0,,364.0
+Starters,Chicken Pallipalayam,1,0,,364.0
+Starters,Lemon Chicken,1,0,,364.0
+Starters,Chicken Dynamite,1,0,Serves 1.,392.0
+Starters,Chicken Wings Pepper Fry,1,0,Chicken wings pepper fry,165.0
+Starters,Chicken Leg,1,0,,168.0
+Starters,Chicken Wings [6 Pieces],1,0,,224.0
+Starters,Chicken Chilli,1,0,,266.0
+Starters,Cheese Chilli Chicken,1,0,,336.0
+Starters,Honey Chicken,1,0,,392.0
+Starters,Kaadai Fry,1,0,,252.0
+Starters,Kaadai Hot Pepper Fry,1,0,,252.0
+Starters,Mutton Brain Egg Pepper Fry,1,0,,224.0
+Starters,Paneer Tikka,1,0,,308.0
+Starters,Mushroom Tikka,1,0,,308.0
+Starters,Gobi Tikka,1,0,,308.0
+Starters,Tandoori Chicken,1,0,,308.0
+Starters,Chicken Tikka,1,0,,378.0
+Starters,Methi Murgh Tikka,1,0,,420.0
+Starters,Afghani Chicken Kebab,1,0,,420.0
+Starters,Fish Tikka,1,0,,448.0
+Starters,Jaipur Mushroom Kebab,1,0,,336.0
+Starters,Jaipur Paneer Kebab,1,0,,336.0
+Starters,Achari Mushroom Kebab,1,0,,336.0
+Starters,Barbeque Paneer,1,0,,336.0
+Starters,Achari Paneer Kebab,1,0,,336.0
+Starters,Peshawari Chicken Kebab,1,0,,350.0
+Starters,Schezwan Chicken Kebab,1,0,,350.0
+Starters,Schezwan Prawns Kebab,1,0,,448.0
+Starters,Lemon Butter Fish [8 Pieces],1,0,,448.0
+Starters,Peshawari Fish Kebab,1,0,,350.0
+Starters,Peshawari Prawns Kebab,1,0,,448.0
+Starters,Nethili Fry,1,0,,252.0
+Starters,Chilli Fish,1,0,,266.0
+Starters,Chettinad Fish Fry,1,0,,322.0
+Starters,Vanjaram Fish Fry,1,0,,350.0
+Starters,Basa Tawa Fry,1,0,,406.0
+Starters,Fish Fingers,1,0,,190.0
+Starters,Crab Lollipop,1,0,,336.0
+Starters,Cheese Chilli Prawns,1,0,,322.0
+Starters,Chilli Prawns,1,0,,248.0
+Starters,Prawns 65,1,0,,322.0
+Starters,Prawns Chettinad,1,0,,308.0
+Starters,Prawns Manchurian,1,0,,294.0
+Starters,Golden Prawns Fry,1,0,,364.0
+Main Course,Mix Veg,1,0,,266.0
+Main Course,Veg Kadhai Masala,1,0,,280.0
+Main Course,Paneer Butter Masala,1,0,Serves 1.,294.0
+Main Course,Mushroom Masala,1,0,,308.0
+Main Course,Mushroom Kadhai Masala,1,0,,336.0
+Main Course,Kadhai Paneer Masala,1,0,,220.0
+Main Course,Aloo Gobi Masala,1,0,,252.0
+Main Course,Gobi Masala,1,0,,308.0
+Main Course,Paneer Kadhai Masala,1,0,,294.0
+Main Course,Paneer Tikka Masala,1,0,,336.0
+Main Course,Egg Burji,1,0,,70.0
+Main Course,Egg Pepper Fry [2 Eggs],1,0,,98.0
+Main Course,Egg Masala [2 Eggs],1,0,,126.0
+Main Course,Chicken Masala,1,0,Serves 1.,220.0
+Main Course,Chicken Kadhai Masala,1,0,,336.0
+Main Course,Chicken Chettinad Masala,1,0,,336.0
+Main Course,Garlic Chicken Masala,1,0,,336.0
+Main Course,Pepper Chicken Masala,1,0,,336.0
+Main Course,Chicken Hyderabad Masala,1,0,,336.0
+Main Course,Butter Chicken Masala,1,0,,343.0
+Main Course,Ginger Chicken Masala,1,0,,336.0
+Main Course,Chicken Tikka Masala,1,0,,343.0
+Main Course,Mutton Masala,1,0,,280.0
+Main Course,Kaadai Masala,1,0,,252.0
+Main Course,Mutton Sukka,1,0,,308.0
+Main Course,Special Mutton Thala Curry,1,0,,224.0
+Main Course,Kerala Fish Curry,1,0,,322.0
+Main Course,Chettinad Fish Gravy,1,0,,261.0
+Main Course,Vanjaram Fish Curry,1,0,,378.0
+Main Course,Fish Chatti Curry,1,0,,392.0
+Main Course,Prawns Masala,1,0,,322.0
+Breads,Chapati,1,0,,31.0
+Breads,Butter Chapati,1,0,,42.0
+Breads,Plain Roti,1,0,,42.0
+Breads,Butter Roti,1,0,,56.0
+Breads,Plain Naan,1,0,,56.0
+Breads,Butter Naan,1,0,,70.0
+Breads,Garlic Naan,1,0,,77.0
+Breads,Plain Phulka,1,0,,35.0
+Breads,Butter Phulka,1,0,,49.0
+Breads,Butter Kulcha,1,0,,91.0
+Breads,Plain Kulcha,1,0,,77.0
+Breads,Rumali Roti,1,0,Rumali roti,77.0
+Breads,Kashmiri Naan,1,0,,91.0
+Breads,Butter Garlic Naan,1,0,,91.0
+Breads,Paratha,1,0,[Veg preparation],35.0
+Breads,Bun Paratha,1,0,[Veg preparation],63.0
+Breads,Veechu Paratha,1,0,,42.0
+Breads,5 Coin Paratha,1,0,,84.0
+Breads,Tandoori Paratha,1,0,,42.0
+Breads,Egg Veechu Paratha,1,0,,56.0
+Rice and Biryani,Curd Rice,1,0,,91.0
+Rice and Biryani,Special Curd Rice,1,0,,119.0
+Rice and Biryani,Jeera Rice,1,0,,154.0
+Rice and Biryani,Ghee Rice,1,0,,154.0
+Rice and Biryani,Veg Biryani,1,0,,140.0
+Rice and Biryani,Mushroom Biryani,1,0,,210.0
+Rice and Biryani,Paneer Biryani,1,0,,280.0
+Rice and Biryani,Plain Biryani,1,0,,182.0
+Rice and Biryani,Chicken Biryani,1,0,,238.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,175.0
+Fried Rice and Noodles,Gobi Fried Rice,1,0,,182.0
+Fried Rice and Noodles,Schezwan Veg Fried Rice,1,0,,217.0
+Fried Rice and Noodles,Garlic Fried Rice,1,0,,238.0
+Fried Rice and Noodles,Shanghai Veg Fried Rice,1,0,,266.0
+Fried Rice and Noodles,Mixed Veg Fried Rice,1,0,,294.0
+Fried Rice and Noodles,Egg Fried Rice,1,0,Serves 1.,217.0
+Fried Rice and Noodles,Chicken Fried Rice,1,0,,231.0
+Fried Rice and Noodles,Schezwan Chicken Fried Rice,1,0,,266.0
+Fried Rice and Noodles,Shangai Chicken Fried Rice,1,0,,294.0
+Fried Rice and Noodles,Mutton Fried Rice,1,0,,378.0
+Fried Rice and Noodles,Prawns Fried Rice,1,0,,343.0
+Fried Rice and Noodles,Veg Noodles,1,0,,196.0
+Fried Rice and Noodles,Mushroom Noodles,1,0,,210.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,280.0
+Fried Rice and Noodles,Schezwan Veg Noodles,1,0,,224.0
+Fried Rice and Noodles,Gobi Noodles,1,0,,266.0
+Fried Rice and Noodles,Egg Noodles,1,0,,210.0
+Fried Rice and Noodles,Schezwan Egg Noodles,1,0,,238.0
+Fried Rice and Noodles,Chicken Noodles,1,0,,224.0
+Fried Rice and Noodles,Schezwan Chicken Noodles,1,0,,280.0
+Fried Rice and Noodles,Prawns Noodles,1,0,,343.0
+Desserts,Vanilla Ice Cream,1,0,,70.0
+Desserts,Pineapple Ice Cream,1,0,,98.0
+Desserts,Pista Ice Cream,1,0,,98.0
+Desserts,Mango Ice Cream,1,0,,98.0
+Desserts,Badam Ice Cream,1,0,,105.0
+Desserts,Strawberry Ice Cream,1,0,,112.0
+Desserts,Fruit Salad Ice Cream,1,0,,196.0
+Drinks (Beverages),Tea,1,0,,28.0
+Drinks (Beverages),Black Tea,1,0,,28.0
+Drinks (Beverages),Lemon Tea,1,0,,28.0
+Drinks (Beverages),Milk,1,0,,28.0
+Drinks (Beverages),Coffee,1,0,,35.0
+Drinks (Beverages),Horlicks,1,0,,35.0
+Drinks (Beverages),Boost,1,0,,35.0
+Drinks (Beverages),Naatusarkarai Coffee,1,0,,37.8
+Drinks (Beverages),Sweet Lassi,1,0,,98.0
+Drinks (Beverages),Lime Soda,1,0,,70.0
+Drinks (Beverages),Rose Milk,1,0,,140.0
+Drinks (Beverages),Watermelon Milkhake,1,0,,140.0
+Drinks (Beverages),Pineapple Milkshake,1,0,,140.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,140.0
+Drinks (Beverages),Sharjah Milkshake,1,0,,140.0
+Drinks (Beverages),Snickers Choco Milkshake,1,0,,154.0
+Drinks (Beverages),Tropicana Mix Fruit Milkshake,1,0,,154.0
+Drinks (Beverages),Lime Juice,1,0,,56.0
+Drinks (Beverages),Lime Mint Juice,1,0,,63.0
+Drinks (Beverages),Watermelon Juice,1,0,,70.0
+Drinks (Beverages),Muskmelon Juice,1,0,,70.0
+Drinks (Beverages),Papaya Juice,1,0,,98.0
+Drinks (Beverages),Orange Juice,1,0,,98.0
+Drinks (Beverages),Mosambi Juice,1,0,,98.0
+Drinks (Beverages),Pomegranate Juice,1,0,,126.0
+Drinks (Beverages),Strawberry Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Spicy Mango Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Pomogranate Mojito,1,0,,168.0
+Drinks (Beverages),Paan Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Chilli Guava Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Blueberry Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Lime Mint Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Butterscotch Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Blackcurrent Mojito,1,0,,168.0
+Drinks (Beverages),Bleed Blue Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Red Rose Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Waterlemon Mojito,1,0,[Non Alcoholic],168.0
+Drinks (Beverages),Ice Tea Mojito,1,0,[Non Alcoholic],168.0

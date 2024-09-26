@@ -1,0 +1,231 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Pizza,1,0,Margherita pizza.,60.0
+Pizza,Veg Pizza,1,0,White mushroom pizza.,110.0
+Pizza,Golden Corn Pizza,1,0,Golden corn pizza.,75.0
+Pizza,Barbeque Paneer Pizza,1,0,Small (7 Inches) Medium (9 Inches) Large (12 I,85.0
+Pizza,Peri Peri Paneer Pizza,1,0,Small (7 Inches) Medium (9 Inches) Large (12 Inches),140.0
+Pizza,Spicy Chicken Pizza,1,0,Small (7 Inches) Medium (9 Inches) Large (12 Inches),90.0
+Pizza,Barbeque Chicken Pizza,1,0,Small (7 Inches) Medium (9 Inches) Large (12 Inches),100.0
+Pizza,Sweet Corn Chicken Pizza,1,0,Small (7 Inches) Medium (9 Inches) Large (12 Inches),170.0
+Pizza,Peri Peri Chicken Pizza,1,0,Small (7 Inches) Medium (9 Inches) Large (12 Inches),170.0
+Fresh Juices,Lemon Juice,1,0,,30.0
+Fresh Juices,Apple Juice,1,0,,70.0
+Fresh Juices,Pomegranate Juice,1,0,,80.0
+Fresh Juices,Orange Juice,1,0,,70.0
+Fresh Juices,Mosambi Juice,1,0,,70.0
+Fresh Juices,Watermelon Juice,1,0,,60.0
+Fresh Juices,Musk Melon Juice,1,0,,60.0
+Fresh Juices,Grapes Juice,1,0,,60.0
+Fresh Juices,Pineapple Juice,1,0,,60.0
+Fresh Juices,Mango Juice,1,0,,70.0
+Burgers and Sandwiches,Sandwich Toast,1,0,,50.0
+Burgers and Sandwiches,Bread and Jam,1,0,,60.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,70.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,80.0
+Burgers and Sandwiches,Paneer Sandwich,1,0,,90.0
+Burgers and Sandwiches,Corn Sandwich,1,0,,90.0
+Burgers and Sandwiches,Veg Nuggets Sandwich,1,0,,110.0
+Burgers and Sandwiches,Fruit Sandwich,1,0,,80.0
+Burgers and Sandwiches,Chocolate Sandwich,1,0,,90.0
+Burgers and Sandwiches,Chocolate Banana Sandwich,1,0,,110.0
+Burgers and Sandwiches,Nutella Sandwich,1,0,,110.0
+Burgers and Sandwiches,Peanut Butter Sandwich,1,0,,120.0
+Burgers and Sandwiches,Chocolate Nut Sandwich,1,0,,130.0
+Burgers and Sandwiches,Kings Special Sandwich,1,0,,140.0
+Burgers and Sandwiches,Egg Sandwich,1,0,,80.0
+Burgers and Sandwiches,Chicken Sandwich,1,0,,100.0
+Burgers and Sandwiches,Chicken Nugget Sandwich,1,0,,120.0
+Burgers and Sandwiches,Veg Burger,1,0,,70.0
+Burgers and Sandwiches,Cheese Burger,1,0,,90.0
+Burgers and Sandwiches,Paneer Burger,1,0,,100.0
+Burgers and Sandwiches,Aloo Tikka Burger,1,0,,90.0
+Burgers and Sandwiches,Mix Burger,1,0,,140.0
+Burgers and Sandwiches,Chicken Burger,1,0,,110.0
+Snacks,Smiles [6 Pieces],1,0,,80.0
+Snacks,Veg Finger Chips [5 Pieces],1,0,,70.0
+Snacks,Veg Nuggets,1,0,,70.0
+Snacks,Cheese Corn Nuggets,1,0,,80.0
+Snacks,Bread Omelette,1,0,,60.0
+Snacks,Chicken Bread Omelette,1,0,,90.0
+Snacks,Chicken Nuggets,1,0,,90.0
+Snacks,Chicken Fingers,1,0,,80.0
+Snacks,Chicken Popcorn,1,0,,80.0
+Maggi,Maggi,1,0,,60.0
+Maggi,Veg Maggi,1,0,,70.0
+Maggi,Paneer Maggi,1,0,,80.0
+Maggi,Corn Maggi,1,0,,80.0
+Maggi,Cheese Maggi,1,0,,90.0
+Maggi,Cheese Corn Maggi,1,0,,100.0
+Maggi,Egg Maggi,1,0,,90.0
+Maggi,Chicken Maggi,1,0,,110.0
+Momos,Veg Momos [5 Pieces],1,0,,70.0
+Momos,Paneer Momos [5 Pieces],1,0,,80.0
+Momos,Chicken Momos [5 Pieces],1,0,,90.0
+Accompaniments,Mayonnaise,1,0,,10.0
+Accompaniments,Cheese,1,0,,20.0
+Desserts,Falooda,1,0,,120.0
+Desserts,Special Falooda,1,0,,140.0
+Desserts,Rainbow Falooda,1,0,,110.0
+Desserts,Arabian Falooda,1,0,,120.0
+Desserts,Wine Salad,1,0,,120.0
+Desserts,Kulki Sarbath,1,0,,80.0
+Desserts,Green Mango Kulki,1,0,,90.0
+Desserts,Orange Kulki,1,0,,90.0
+Desserts,Mosambi Kulki,1,0,,90.0
+Desserts,Pineapple Kulki,1,0,,90.0
+Desserts,Watermelon Kulki,1,0,,90.0
+Desserts,Kings Special,1,0,,100.0
+Desserts,Rose Falooda,1,0,,140.0
+Desserts,Royal Falooda,1,0,,140.0
+Desserts,KitKat Falooda,1,0,,170.0
+Desserts,Taj Falooda,1,0,,150.0
+Desserts,Dry Fruits Falooda,1,0,,200.0
+Desserts,Choco Blast,1,0,,170.0
+Desserts,3 D Mixed Falooda,1,0,,170.0
+Desserts,Bombay Falooda,1,0,,120.0
+Desserts,Kids Salad,1,0,,70.0
+Desserts,Fruit Salad,1,0,,70.0
+Desserts,Fruit Salad with Ice Cream,1,0,,90.0
+Desserts,Dry Fruit Salad,1,0,,110.0
+Desserts,Mango Malba,1,0,,150.0
+Desserts,Apple Malba,1,0,,130.0
+Desserts,Pineapple Malba,1,0,,120.0
+Desserts,Tender Malba,1,0,,140.0
+Desserts,Pomegranate Malba,1,0,,140.0
+Desserts,Strawberry Malba,1,0,,140.0
+Desserts,Papaya Malba,1,0,,120.0
+Desserts,Wine with Ice Cream,1,0,,100.0
+Desserts,Wine Falooda,1,0,,130.0
+Desserts,Brownie with Ice Cream,1,0,,110.0
+Desserts,Sizzling Brownie,1,0,,160.0
+Desserts,Brownie,1,0,,80.0
+Desserts,Lava,1,0,,80.0
+Desserts,Lava with Ice Cream,1,0,,110.0
+Drinks (Beverages),Apple Shake,1,0,,90.0
+Drinks (Beverages),Pomegranate Shake,1,0,,100.0
+Drinks (Beverages),Grape Shake,1,0,,80.0
+Drinks (Beverages),Musk Melon Shake,1,0,,70.0
+Drinks (Beverages),Pineapple Shake,1,0,,70.0
+Drinks (Beverages),Mango Shake,1,0,,70.0
+Drinks (Beverages),Galaxy Milkshake,1,0,,90.0
+Drinks (Beverages),Munch Milkshake,1,0,,90.0
+Drinks (Beverages),Milkybar Milkshake,1,0,,90.0
+Drinks (Beverages),Snickers Milkshake,1,0,,90.0
+Drinks (Beverages),Dairymilk Milkshake,1,0,,90.0
+Drinks (Beverages),Five Star Milkshake,1,0,,90.0
+Drinks (Beverages),Vanilla Shake with Ice Cream,1,0,,70.0
+Drinks (Beverages),Mango Shake with Ice Cream,1,0,,70.0
+Drinks (Beverages),Blackcurrant Shake with Ice Cream,1,0,,70.0
+Drinks (Beverages),Strawberry Shake with Ice Cream,1,0,,70.0
+Drinks (Beverages),Chocolate Shake with Ice Cream,1,0,,80.0
+Drinks (Beverages),Butterscotch Shake with Ice Cream,1,0,,70.0
+Drinks (Beverages),Pista Shake with Ice Cream,1,0,,80.0
+Drinks (Beverages),Pineapple Shake with Ice Cream,1,0,,70.0
+Drinks (Beverages),Blueberry Shake with Ice Cream,1,0,,80.0
+Drinks (Beverages),Butterscotch Oreo Shake,1,0,,70.0
+Drinks (Beverages),Chocolate Oreo Shake,1,0,,70.0
+Drinks (Beverages),Vanilla Oreo Shake,1,0,,70.0
+Drinks (Beverages),Pista Oreo Shake,1,0,,70.0
+Drinks (Beverages),Pineapple Oreo Shake,1,0,,70.0
+Drinks (Beverages),Banana Oreo Shake,1,0,,70.0
+Drinks (Beverages),Mango Oreo Shake,1,0,,70.0
+Drinks (Beverages),Strawberry Oreo Shake,1,0,,80.0
+Drinks (Beverages),Black Currant Oreo Shake,1,0,,80.0
+Drinks (Beverages),KitKat Oreo Shake,1,0,,100.0
+Drinks (Beverages),Kings Special Oreo Shake,1,0,,100.0
+Drinks (Beverages),KitKat Shake,1,0,,80.0
+Drinks (Beverages),KitKat Vanilla Shake,1,0,,80.0
+Drinks (Beverages),KitKat Pista Shake,1,0,,90.0
+Drinks (Beverages),KitKat Strawberry Shake,1,0,,90.0
+Drinks (Beverages),KitKat Butterscotch Shake,1,0,,90.0
+Drinks (Beverages),Kings Special KitKat Shake,1,0,,100.0
+Drinks (Beverages),Lime and Pineapple Shake,1,0,,80.0
+Drinks (Beverages),Mosambi and Grape Shake,1,0,,80.0
+Drinks (Beverages),Watermelon and Pineapple Shake,1,0,,80.0
+Drinks (Beverages),Pineapple and Grape Shake,1,0,,80.0
+Drinks (Beverages),Lime and Mint Shake,1,0,,60.0
+Drinks (Beverages),Scotch Banana Shake,1,0,,80.0
+Drinks (Beverages),Scotch Mango Shake,1,0,,80.0
+Drinks (Beverages),Scotch Oreo Shake,1,0,,80.0
+Drinks (Beverages),Scotch Dry Fruits Shake,1,0,,100.0
+Drinks (Beverages),Peanut Shake,1,0,,70.0
+Drinks (Beverages),Scotch Peanut Shake,1,0,,70.0
+Drinks (Beverages),Strawberry Peanut Shake,1,0,,70.0
+Drinks (Beverages),Black Currant Peanut Shake,1,0,,70.0
+Drinks (Beverages),Pista Peanut Shake,1,0,,70.0
+Drinks (Beverages),Choco Peanut Shake,1,0,,80.0
+Drinks (Beverages),Mango Smoothie Shake,1,0,,80.0
+Drinks (Beverages),Sharjah Shake,1,0,,80.0
+Drinks (Beverages),Dry Fig Shake,1,0,,80.0
+Drinks (Beverages),Dates Shake,1,0,,70.0
+Drinks (Beverages),Dark Fantasy Shake,1,0,,80.0
+Drinks (Beverages),Guava Shake,1,0,,70.0
+Drinks (Beverages),Banana Shake,1,0,,70.0
+Drinks (Beverages),Banana and Dates Shake,1,0,,80.0
+Drinks (Beverages),Blackcurrant and Grapes Shake,1,0,,70.0
+Drinks (Beverages),Apple and Scotch Shake,1,0,,70.0
+Drinks (Beverages),Apple and Banana Shake,1,0,,70.0
+Drinks (Beverages),Grape and Vanilla Shake,1,0,,70.0
+Drinks (Beverages),Custard Apple and Scotch Shake,1,0,,70.0
+Drinks (Beverages),Pineapple and Vanilla Shake,1,0,,70.0
+Drinks (Beverages),Apple and Pomegranate and Banana Shake,1,0,,90.0
+Drinks (Beverages),Rasamalai Shake,1,0,,100.0
+Drinks (Beverages),Pineapple Coconut Shake,1,0,,100.0
+Drinks (Beverages),Kings Special Shake,1,0,Grape and pineapple and wine,120.0
+Drinks (Beverages),Brownie Shake,1,0,,120.0
+Drinks (Beverages),Dark Chocolate Shake,1,0,,120.0
+Drinks (Beverages),White Chocolate Shake,1,0,,120.0
+Drinks (Beverages),Nutella Shake,1,0,,120.0
+Drinks (Beverages),Badam Shake,1,0,,100.0
+Drinks (Beverages),Pista Shake,1,0,,100.0
+Drinks (Beverages),Cashew Shake,1,0,,120.0
+Drinks (Beverages),Fig Shake,1,0,,120.0
+Drinks (Beverages),Almond Cashew Shake,1,0,,150.0
+Drinks (Beverages),Mixes Dry Fruit Shake,1,0,,170.0
+Drinks (Beverages),Badam Milk,1,0,,50.0
+Drinks (Beverages),Rose Milk,1,0,,50.0
+Drinks (Beverages),Lime Soda,1,0,,60.0
+Drinks (Beverages),Masala Soda,1,0,,60.0
+Drinks (Beverages),Chilli Soda,1,0,,70.0
+Drinks (Beverages),Mint Lime Soda,1,0,,70.0
+Drinks (Beverages),Pineapple Soda,1,0,,80.0
+Drinks (Beverages),Orange Soda,1,0,,80.0
+Drinks (Beverages),Green Mango Soda,1,0,,80.0
+Drinks (Beverages),Blue Lime Soda,1,0,,80.0
+Drinks (Beverages),Green Apple Soda,1,0,,80.0
+Drinks (Beverages),Kiwi Soda,1,0,,80.0
+Drinks (Beverages),Litchi Soda,1,0,,80.0
+Drinks (Beverages),Virgin Mojito,1,0,[Non Alcoholic],80.0
+Drinks (Beverages),Blue Lagoon,1,0,[Non Alcoholic],90.0
+Drinks (Beverages),Mint Mojito,1,0,[Non Alcoholic],90.0
+Drinks (Beverages),Ginger Lime Mojito,1,0,[Non Alcoholic],90.0
+Drinks (Beverages),Pineapple Mojito,1,0,[Non Alcoholic],90.0
+Drinks (Beverages),Mango Mojito,1,0,[Non Alcoholic],90.0
+Drinks (Beverages),Orange Mojito,1,0,[Non Alcoholic],90.0
+Drinks (Beverages),Watermelon Mojito,1,0,[Non Alcoholic],100.0
+Drinks (Beverages),Grapes Mojito,1,0,[Non Alcoholic],90.0
+Drinks (Beverages),Strawberry Mojito,1,0,[Non Alcoholic],100.0
+Drinks (Beverages),Blackcurrant Mojito,1,0,[Non Alcoholic],100.0
+Drinks (Beverages),Blueberry Mojito,1,0,[Non Alcoholic],110.0
+Drinks (Beverages),Kiwi Mojito,1,0,[Non Alcoholic],100.0
+Drinks (Beverages),Litchi Mojito,1,0,[Non Alcoholic],100.0
+Drinks (Beverages),Kala Katta Mojito,1,0,[Non Alcoholic],100.0
+Drinks (Beverages),Cotton Candy Mojito,1,0,[Non Alcoholic],110.0
+Drinks (Beverages),Passion Fruit Mojito,1,0,[Non Alcoholic],110.0
+Drinks (Beverages),Kings Special Mojito,1,0,[Non Alcoholic],120.0
+Drinks (Beverages),Cold Coffee,1,0,,60.0
+Drinks (Beverages),Cold Horlicks,1,0,,60.0
+Drinks (Beverages),Cold Boost,1,0,,60.0
+Drinks (Beverages),Cold Bournvita,1,0,,60.0
+Drinks (Beverages),Iced Tea,1,0,,50.0
+Wraps,Veg Wrap,1,0,,80.0
+Wraps,Paneer Wrap,1,0,,90.0
+Wraps,Chicken Wrap,1,0,,100.0
+Wraps,Fried Chicken Wrap,1,0,,130.0
+Fries,French Fries,1,0,,70.0
+Fries,Masala Fries,1,0,,90.0
+Fries,Peri Peri Fries,1,0,,90.0
+Fries,Mexican Fries,1,0,,90.0
+Fries,Topped French Fries,1,0,,100.0
+Fries,Cheese Fries [Large],1,0,,120.0
+Fries,Peri Peri Cheese Fries [Large],1,0,,120.0

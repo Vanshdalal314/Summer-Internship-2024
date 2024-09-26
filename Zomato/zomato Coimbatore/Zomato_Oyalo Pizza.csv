@@ -1,0 +1,46 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meal Combo,2 Regular Veg + 1 Beverage,1,0,,279.0
+Meal Combo,2 Regular Non-Veg + 1 Beverage,1,0,,279.0
+Meal Combo,1 Regular Veg + 1 Regular Non Veg + 1 Beverage,1,0,,279.0
+Meal Combo,2 Korean Veg + 1 Beverage,1,0,,399.0
+Meal Combo,2 Korean Non Veg + 1 Beverage,1,0,,399.0
+Meal Combo,1 Korean Veg + 1 Korean Non Veg + 1 Beverage,1,0,,399.0
+Match Day Combo,Whistle Podu Combo,1,0,Any 4 Regular Pizza,499.0
+Match Day Combo,Yellove fom Oyalove - B1G1 - Any Medium Pizza,1,0,Any 2 Medium Pizza,699.0
+Match Day Combo,Quick Single Combo,1,0,,279.0
+Match Day Combo,IPL BOGO OFFER - B1G1 - Any Korean Pizza,1,0,,399.0
+Buy Snacks @ 50% Off,Veg snacks @ Rs.61,1,0,,61.0
+Newly Launched - Medium Pizza,Hariyali Chicken Pizza-Fully Loaded (Serves 2),1,0,,589.0
+Newly Launched - Medium Pizza,Premium Pesto Chicken-Fully Loaded (Serves 2),1,0,,675.0
+Newly Launched - Medium Pizza,Cheese O Cheese-Fully Loaded (Serves 2),1,0,,615.0
+Veg Pizza,Mexicana Mix veg-Fully Loaded (Serves 2),1,0,A delightful fusion of Mexican and Italian flavors on a vegetable-packed pizza.,495.0
+Veg Pizza,Farm Fresh Heaven-Fully Loaded (Serves 2),1,0,"For veggie lovers! A mouthwatering medley of farm fresh mushrooms, onion, green capsicum, ... read more",495.0
+Veg Pizza,Paneer Tikka Pizza-Fully Loaded (Serves 2),1,0,A scrumptious fusion of Indian spices and creamy paneer on a regular pizza ... read more,529.0
+Veg Pizza,Cheesy Chilli Paneer-Fully Loaded (Serves 2),1,0,"A fusion of creamy cheese and fiery chilli, with soft paneer cubes that ... read more",529.0
+Veg Pizza,Piri Piri Corn Regular Pizza,1,0,Here's a classic pizaa with an amazing twist! - Regular pizza base topped ... read more,149.0
+Veg Pizza,Pizza Margherita-Fully Loaded (Serves 2),1,0,"A classic Neapolitan pizza made with tomato sauce, mozzarella cheese, and fresh basil ... read more",449.0
+Veg Pizza,Hawaiian Feast-Korean Pizza,1,0,,199.0
+Veg Pizza,Thai mix veg-Korean Pizza,1,0,,199.0
+Veg Pizza,Corn & Mushroom Blast - Korean Pizza,1,0,,199.0
+Non Veg Pizza,BBQ Chicken-Fully Loaded (Serves 2),1,0,"A savory symphony of tender grilled chicken, rich barbecue sauce, and melted cheese ... read more",589.0
+Non Veg Pizza,Pichi Potta Kozhi-Fully Loaded (Serves 2),1,0,Classic non-veg pizza with a traditional twist - Peppery pizza topped with delicious ... read more,569.0
+Non Veg Pizza,Chicken Tikka-Fully Loaded (Serves 2),1,0,"Tasty Tandoori Pizza topped with gooey cheese, makhani sauce, tender chicken leg and ... read more",569.0
+Non Veg Pizza,Chicken Supreme-Fully Loaded (Serves 2),1,0,"A pizza that packs a punch! Regular pizza base topped with creamy cheese, ... read more",589.0
+Non Veg Pizza,Fiery Chicken Regular Pizza,1,0,"This pizza is the embodiment of bold and spicy excellence, combining succulent pieces ... read more",189.0
+Non Veg Pizza,Pepper Chicken Regular Pizza,1,0,"This delectable creation combines the fiery flavours of pepper chicken, a beloved South ... read more",189.0
+Non Veg Pizza,Schezwan Chicken -Korean Pizza,1,0,,239.0
+Non Veg Pizza,Chicken Garlic Sausage- Korean Pizza,1,0,,239.0
+Personalised Pizza,Cheesy Garlic Bread,1,0,"Gar-licking good! - A fully loaded bread is baked with regular tomato sauce, ... read more",169.0
+Pasta,Penne Pasta with Red Sauce,1,0,Penne Pasta tossed in a flavourful Red Sauce,249.0
+Pasta,Italian Cheezy Pasta,1,0,Classic Italian Macaroni Pasta topped with Creamy Cheese and Veggies,239.0
+Snacks,Chicken wing-BBQ Sauce,1,0,"Delicious chicken wings smothered in tangy BBQ sauce, perfect for finger-licking indulgence.",199.0
+Snacks,Chicken wings - Momo sauce,1,0,"Succulent chicken wings coated in a savory and spicy Momo sauce, a fusion ... read more",199.0
+Snacks,Chicken kieves,1,0,,199.0
+Snacks,Potato V Crisp-Large,1,0,,139.0
+Snacks,Crispy French Fries-150 gm,1,0,,115.0
+Desserts,Redvelvet Lava Cake,1,0,Sinful Red Velvet Lava Cake.,99.0
+Desserts,Chocolate Lava Cake,1,0,A burst of flavour in your mouth! Moist Lava Cake with a deliciously ... read more,99.0
+Desserts,Banana Lava Cake,1,0,"Dense Banana Cake, Filled with Rich Chocolate to satisfy your sweet tooth.",99.0
+Desserts,Espresso Lava Cake,1,0,Love Coffee? This is for you! Fluffy Lava Cake with a Rich Espresso ... read more,99.0
+Nv-Pocket Pizza,Spicy Chicken Pizza Pockets,1,0,,79.0
+V-Pocket Pizza,Spicy Cheesy Pizza Pockets,1,0,"Non-vegetarian,Chef Recommended,Restaurant Recommended",99.0

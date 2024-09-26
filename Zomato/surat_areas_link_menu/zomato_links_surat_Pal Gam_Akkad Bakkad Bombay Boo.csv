@@ -1,0 +1,52 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Grilled Sandwiches,Veg Cheese Grill Sandwich,1,0,"Traditional Cheese Grill Includes Slice Vegetables Capsicum, Potato & Onion With A Dash ... read more",219.0
+Grilled Sandwiches,Veg Paneer Tadka Sandwich,1,0,"Stir Fry Cottage Paneer With Spices Tadka, Potato, Tomato, Onion, Capsicum & Coriander.",219.0
+Grilled Sandwiches,Double Trouble Sandwich,1,0,"Assorted Vegetable, Green Chutney, Red Garlic Chutney With Cheese Capsicum, Onion, Tomato & ... read more",219.0
+Grilled Sandwiches,Shahi Corn Paneer Sandwich,1,0,"Deep Butter Cottage Cheese With Corn, Garlic, Coriander & Assorted Vegetables",219.0
+Grilled Sandwiches,Co Bo Chi Sandwich,1,0,Exotic vegetable with cheese and green chutney.,219.0
+Grilled Sandwiches,Cheese Chilli Sandwich,1,0,"Capsicum, Onion, Tomato, Green Chutney, Mayonnaise & Cheese.",219.0
+Grilled Sandwiches,Aloo Masala Cheese Grill Sandwich,1,0,"Smashed Potato With Indian Spices & Slice Vegetables Capsicum, Onion, Tomato & Cheese.",215.0
+Grilled Sandwiches,Aloo Masala Grill Sandwich,1,0,"Smashed Potato With Indian Spices, Capsicum, Onion & Tomato.",196.0
+Grilled Sandwiches,Veg Grill Sandwich,1,0,"Traditional Vegetable Grill With Capsicum, Potato, Tomato & Onion",209.0
+Melted Cheese Sandwiches,Veg Cheese Blast Sandwich,1,0,"Triple Layer Melted Cheese With Mayonnaise, Garlic & Chilly Chutney, Onion, Capsicum, Coriander.",319.0
+Melted Cheese Sandwiches,Bom Stick Sandwich,1,0,Stuffed bread cheesy puff with selected sauces.,479.0
+Melted Cheese Sandwiches,Red Chilli Tart,1,0,"Spicy Melted Cheese Sandwich With Red Garlic Pasta, Veggies & Selected Indian Spices.",479.0
+Melted Cheese Sandwiches,Corn Chilli Tart,1,0,"A giant melted cheese sandwich with corn, basil, oregano, onion, capsicum, butter, cream, ... read more",479.0
+Melted Cheese Sandwiches,Las Las Grilled Sandwich,1,0,"Triple Layer Melted Cheese With Mayonnaise And Typical Chutney, Onion, Capsicum And Coriander.",319.0
+Melted Cheese Sandwiches,Chit Chat Sandwich,1,0,"Open Platter Melted Cheese, Sandwich With Assorted Vegetable & Exotic Spices, Sauce.",319.0
+Melted Cheese Sandwiches,Lobby Sandwich,1,0,Two Layer Vegetable Melted Cheese Sandwich With Ginger Garlic Sauce.,319.0
+AB3 Special Grill,Pahadi Garam,1,0,"Mountain grilled sandwiches with cheese, red and green chutney, capsicum, cucumber, potato, onion, ... read more",349.0
+AB3 Special Grill,Tiranga,1,0,"Red Garlic Sauce, Green Chutney And White Cheese With Vegetable.",319.0
+AB3 Special Grill,Veg Cream Paneer,1,0,"Warm Butter Garlic Stir Fry Cottage Paneer With Vegetables, Cream And Cheese.",319.0
+Toast Sandwiches,Toast Double Trouble,1,0,"Assorted Vegetable, Green Chutney, Red Garlic Chutney With Cheese Capsicum, Onion, Tomato & ... read more",158.0
+Toast Sandwiches,Toast Veg Paneer Tadka,1,0,"Stir Fry Cottage Paneer With Spices Tadka, Potato, Tomato, Onion, Capsicum & Coriander.",158.0
+Toast Sandwiches,Toast Shahi Corn Paneer,1,0,"Deep Butter Cottage Cheese With Corn, Garlic, Coriander & Assorted Vegetables",158.0
+Toast Sandwiches,Toast Cheese Chilli,1,0,"Capsicum, Onion, Tomato, Green Chutney, Mango & Cheese.",158.0
+Toast Sandwiches,Toast Co Bo Chi Sandwich,1,0,Exotic vegetable with cheese and green chutney.,158.0
+Toast Sandwiches,Veg Cheese Toast,1,0,,158.0
+Bread Roll Cassata,Chilly Cassata,1,0,,219.0
+Bread Roll Cassata,Paneer Cassata,1,0,,239.0
+Bread Roll Cassata,Veg Cassata,1,0,,229.0
+Special Chocolate Sandwiches,Chocolate Clumsy,1,0,"Hot Grilled Bread With Chocolate Sauce, Cream & Grated Dark Chocolate.",195.0
+Special Chocolate Sandwiches,Hot Chocolate Toast,1,0,"Hot Toasted Bread With Chocolate Sauce, Cream & Grated Dark Chocolate.",158.0
+Bruschettas [3 Pieces],Veg Cheese Bruschetta,1,0,"Capsicum, Onion & Coriander.",209.0
+Bruschettas [3 Pieces],Corn Paneer Bruschetta,1,0,"Corn, Paneer, Coriander, Onion & Capsicum",199.0
+Bruschettas [3 Pieces],Italian Bruschetta,1,0,"Baby Corn, Tomato, Bell Pepper & Basil.",199.0
+Bruschettas [3 Pieces],Paneer Bruschetta,1,0,"Paneer, Capsicum & Onion.",199.0
+Garlic Breads [4 Pieces],Cheese Garlic Bread,1,0,,199.0
+Garlic Breads [4 Pieces],Chilly Garlic Bread,1,0,,199.0
+Garlic Breads [4 Pieces],Corn Garlic Bread,1,0,,199.0
+Garlic Breads [4 Pieces],Paneer Garlic Bread,1,0,,209.0
+Pizza (6 Inches),Corn Cheese Paneer Pizza,1,0,"Sweet Corn, Paneer, Onion, Capsicum, Butter, Garlic, Coriander.",279.0
+Pizza (6 Inches),Exotic Pizza,1,0,"Bell Pepper, Salty Corn, Onion, Broccoli, Jalapeno",279.0
+Pizza (6 Inches),Farmer Special Pizza,1,0,"Chopped Garlic, Green Chilly, Sweet Corn, Tomato ,Onion, Ginger, Green Olives, Black Olives, ... read more",279.0
+Pizza (6 Inches),Italiano Pizza,1,0,"Tomato, Black Bell Pepper, Green Olives, Jalapeno, Cream.",279.0
+Pizza (6 Inches),Margherita Pizza,1,0,Only Cheese.,209.0
+Pizza (6 Inches),Spicy Paneer Pizza,1,0,"Capsicum, Onion, Olives, Paneer, Tomato & Green Chilli.",279.0
+Pizza (6 Inches),Veg Cheese Pizza,1,0,Capsicum Onion.,249.0
+French Fries,Salted French Fries,1,0,,79.0
+Milkshakes,Chocolate Milk Shake,1,0,,158.0
+Milkshakes,Coconut Milkshake,1,0,,158.0
+Milkshakes,Mango Milkshake,1,0,,158.0
+Milkshakes,Passion Fruit Milkshake,1,0,,158.0
+Milkshakes,Strawberry Milkshake,1,0,,158.0

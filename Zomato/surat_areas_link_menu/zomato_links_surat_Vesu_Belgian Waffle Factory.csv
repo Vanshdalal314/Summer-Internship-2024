@@ -1,0 +1,71 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bubble Wraps,5.0 Bubble,1,0,"Golden bubble waffle, gems, oreo,strawberry pulp, melted dark chocolate,whipped cream or ice cream",260.0
+Bubble Wraps,Almond Cruchy Bubble,1,0,Original bubble with milk chocolate and almond flakes,250.0
+Bubble Wraps,Around The Berry Bubble,1,0,"Golden bubble waffle, whipped cream or ice-cream, blueberry pulp, strawberry pulp, melted dark ... read more",250.0
+Bubble Wraps,Bubble Kit Kat,1,0,"Chocolate base, milk chocolate nutella,whipped cream or ice cream, choco chips,kitkat",260.0
+Bubble Wraps,Bubble Overload,1,0,"Chocolate base, dark chocolate, stick rolls,choco balls, whipped cream or ice cream",260.0
+Bubble Wraps,Bubble Special,1,0,"Golden bubble waffle, whipped cream,melted milk chocolate, strawberry pulp",250.0
+Bubble Wraps,Chocolate Fantasy Bubble Waffle,1,0,"Chocolate base, melted milk chocolate, melted dark chocolate, whipped creamor ice cream, choco ... read more",260.0
+Bubble Wraps,Fudging Good Bubble,1,0,"Golden bubble waffle, banana peanut butter, whipped cream or ice-cream",250.0
+Bubble Wraps,Mojo Bubble,1,0,"Golden bubble waffle, melted nutella,whipped cream or ice cream, banana, strawberry pulp",250.0
+Bubble Wraps,Mr. Oreo Bubble,1,0,"Chocolate bubble waffle, dark chocolate,whipped cream/ice cream, or oreo",250.0
+Bubble Wraps,Queen Berry Bubble,1,0,"Golden bubble waffle, nutella, strawberry pulp, raspberry pulp, blueberry pulp, whipped cream or ... read more",270.0
+Bubble Wraps,Stoned Bubble Waffle,1,0,Chocolate bubble with dark and milk chocolate combo with stone chocolates,250.0
+Bubble Wraps,The Red Wonder Bubble,1,0,"Crispy red velvet bubble base,strawberry pulp, melted dark chocolate,cream cheese/ white chocolate,whipcream or ... read more",280.0
+Mini Pancakes,Almond Crunch Mini Pancakes,1,0,"Original mini pancakes with nutella, milk chocolate and almond crunch",140.0
+Mini Pancakes,Banoffee Mini Pancakes,1,0,"Original mini pancakes with homemade cream Cheese, banana, and coffee",120.0
+Mini Pancakes,Belgian Dark Mini Pancakes,1,0,Chocolate mini pancakes with hot melteddark chocolate,115.0
+Mini Pancakes,Belgian Milk Mini Pancakes,1,0,Chocolate mini pancakes with hot melted milkchocolate,110.0
+Mini Pancakes,Blueberry Creamcheese Pancake,1,0,Golden mini pancakes with blueberry pulp and Homemade cream cheese,130.0
+Mini Pancakes,Blueberry Mini Pancakes,1,0,"Original mini pancakes with homemade cream Cheese, banana, and blueberry filling",125.0
+Mini Pancakes,Chocolate Overload Pancakes,1,0,"Chocolate mini pancakes with hot melted dark chocolate, nutella, and crunchy choco chip",125.0
+Mini Pancakes,Cofee Break Mini Pancake,1,0,"Chocolate mini pancakes with hot melted milk chocolate, coffee powder and crunchy biscuits",125.0
+Mini Pancakes,Honey Pancakes,1,0,Golden mini pancakes with melted honey. It's a classic,110.0
+Mini Pancakes,Kitkat Mini Pancake,1,0,Chocolate mini pancakes with hot melted milkchocolate and crunchy kitkat,120.0
+Mini Pancakes,Maple Pancakes,1,0,Golden mini pancakes with pure maple joy,120.0
+Mini Pancakes,Monkeytella Mini Pancakes,1,0,Golden mini pancakes with melted milk chocolate And banana,120.0
+Mini Pancakes,Peanut Butter Mini Pancakes,1,0,"Original mini pancakes with peanut butter, milk chocolate and peanut crunch",130.0
+Mini Pancakes,Quadruple Mini Pancakes,1,0,"Chocolate mini pancakes with hot melted milk chocolate, hot melted dark chocolate, white ... read more",120.0
+Mini Pancakes,Raspberry Banana Mini Panckes,1,0,"Original mini pancakes with homemade cream Cheese, banana, and raspberry filling",115.0
+Mini Pancakes,Raspberry Cream Cheese Pancakes,1,0,Golden mini pancakes with Raspberry pulp and homemade cream cheese,120.0
+Mini Pancakes,Red Velvet Almond Crunch Mini Pancakes,1,0,"Red velvet mini pancakes with homemade cream cheese, almond crunch, and milk chocolate",120.0
+Mini Pancakes,Red Velvet Creamcheese Mini Pancakes,1,0,Red velvet mini pancakes with homemade cream cheese,120.0
+Mini Pancakes,Red Velvet Dark Chocolate,1,0,Red velvet mini pancakes with melted dark chocolate,120.0
+Mini Pancakes,Red Velvet Milk Chocolate,1,0,Red velvet mini pancakes with melted dark chocolate,115.0
+Mini Pancakes,The Sin Nutella Pancakes,1,0,"Chocolate mini pancakes with hot melted milkchocolate, nutella, and crunchy choco chips",130.0
+Mini Pancakes,Strawberry Banana Mini Pancakes,1,0,"Original mini pancakes with homemade cream Cheese, banana, and strawberry filling",110.0
+Mini Pancakes,Strawberry Creamcheese Mini Pancake,1,0,Golden mini pancakes with strawberry pulp and homemade cream cheese,125.0
+Munchies,Crispy French Fries,1,0,,129.0
+Munchies,Jalapeno Cheese Pops,1,0,,129.0
+Milk Shake,The Banoffee Shake,1,0,,180.0
+Milk Shake,The Berryblast Shake,1,0,,180.0
+Milk Shake,Cold Coffee Shake,1,0,,175.0
+Milk Shake,Ferro Rocher Shake,1,0,,220.0
+Milk Shake,Kit Kat Nutella Shake,1,0,,210.0
+Milk Shake,The Monkeytella Shake,1,0,,180.0
+Milk Shake,Oreo Choco Shake,1,0,,180.0
+Milk Shake,The Sin Nutella Shake,1,0,,210.0
+Waffles,Almond Crunch Waffle,1,0,"Crispy golden waffle, milk almond Chocolate, almond crunch",160.0
+Waffles,Banoffie Waffle,1,0,"Crispy golden waffle, pure coffee, Banana, melted nutella, whip cream",170.0
+Waffles,Belgian Milk Waffle,1,0,"Crispy golden waffle, belgian milk chocolate",135.0
+Waffles,Belgian Dark Waffle,1,0,Crispy dark chocolate waffle and belgian Dark chocolate,140.0
+Waffles,Berry Blast Waffle,1,0,"Crispy golden waffle, blueberry pulp, Strawberry pulp, whipped cream, freshly Made cream cheese",180.0
+Waffles,Butterscotch Crunchy Waffle,1,0,"Crispy golden waffle, pure butterscotch, White chocolate",150.0
+Waffles,Chocolate Overload Waffle,1,0,"Crispy dark chocolate waffle, melted Dark chocolate, milk chocolate, Choco chips",160.0
+Waffles,Coffee Break Waffle,1,0,"Crispy coffee waffle, whipped cream, Cinnamon, caramel, crushed marie biscuit",165.0
+Waffles,Coffee Mocha Waffle,1,0,"Crispy golden waffle, melted dark Chocolate, mocha coffee chocolate with Added coffee flakes",165.0
+Waffles,Cotton Candy Waffle,1,0,"Crispy chocolate waffle, cotton candy Cream, melted gems",160.0
+Waffles,Cream And Cookies Waffle,1,0,"Crispy chocolate waffle, cookies and Cream, melted nutella",165.0
+Waffles,Day & Night Waffle,1,0,"Crispy chocolate waffle, melted dark Chocolate, pure white chocolate",160.0
+Waffles,Fudge Lover Waffle,1,0,"Crispy chocolate waffle, whipped cream, Blueberry pulp, strawberry pulp, melted Dark chocolate",180.0
+Waffles,Fudging Good Waffle,1,0,"Crispy golden waffle, banana, peanut Butter, whipped cream, melted belgian Chocolate",180.0
+Waffles,Kitkat Nutella Waffle,1,0,"Crispy chocolate waffle, melted nutella, Hot melted milk chocolate with kit kat",180.0
+Waffles,Maple Waffle,1,0,"Crispy golden waffle, pure maple",150.0
+Waffles,Midnight Beauty Waffle,1,0,"Crispy chocolate waffle, melted dark Chocolate, strawberry pulp yummilicious",170.0
+Waffles,Monkeytella Waffle,1,0,"Crispy golden waffle, banana, melted nut",160.0
+Waffles,Mr. Oreo Waffle,1,0,"Crispy chocolate waffle, melted dark Chocolate, whipped cream, oreo",170.0
+Waffles,Stoned Waffle,1,0,"Chocolate waffle, dark chocolate, Chocolate stones",165.0
+Waffles,Stress Berry Waffle,1,0,"Crispy golden waffle, blueberry pulp,icing Sugar let",160.0
+Waffles,The Red Wonder Waffle,1,0,"Crispy red velvet waffle, cream cheese",180.0
+Waffles,The Sin Waffle,1,0,"Crunchy chocolate waffle, milk chocolate, Choco chips and nutella",160.0
+Waffles,Triple Chocolate Seduction Waffle,1,0,"Crispy two layer- chocolate waffle,Melted milk chocolate, melteddarkChocolate, white chocolate",199.0

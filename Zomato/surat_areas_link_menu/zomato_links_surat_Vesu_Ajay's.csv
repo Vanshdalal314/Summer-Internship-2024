@@ -1,0 +1,11 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burgers,Peri-Peri Cheesy Delight,1,0,,75.0
+Burgers,Peri-Peri Burger,1,0,,60.0
+Burgers,Schezwan Cheesy Delight,1,0,"Spicy, sharp and savory.",75.0
+Burgers,Schezwan Burger,1,0,Schezwan burger.,60.0
+Burgers,Tandoori Cheesy Delight,1,0,Juicy burger with a tandoori vegetable patty with layer of cheese,75.0
+Burgers,Tandoori Burger,1,0,Tandoori burger.,60.0
+Burgers,Apna Cheesy Delight,1,0,Simplest offering is a crispy golden brown patty nicely sandwiched between the burger ... read more,65.0
+Burgers,Apna Burger,1,0,Apna burger.,50.0
+Burgers,BBQ Cheesy Delight,1,0,Smoky flavored burger with liquid cheese.,75.0
+Burgers,BBQ Burger,1,0,[Veg preparation],60.0

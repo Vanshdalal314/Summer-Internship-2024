@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Kadhi Bati,1,0,5 Bati+Marwadi Kadhi+Papad+Lahsun Chutney+Salad+Achar,183.2
+Combos,2 Bajari Rotla + Kadhi + Papad,1,0,2 Bajari Rotla+Kadhi+Papad+Salad+Lahsun Chutney+Achar,196.0
+Combos,Dal Bati + Rice + Churma,1,0,5 Bati+Dal+Rice +Churma+Papad+Salad+Chutney+Achar,223.2
+Combos,Marwadi Limited Thali+Dal Bati,1,0,Sabji [2] [Subject to availability]+3 Fulka Roti Ghee+Dal [2]+Kadhi+Rice+Kadhi+Papad [2]+Bati [5]+Lahsun Chutney+Salad+Achar,356.0
+Combos,"2 Dal Bati with , 1 Rice and 1 Churma , 2 Papad , 2 Butter Milk",1,0,10 Bati+2 Dal+1 Rice+1 Churma+2 Papad+2 Butter Milk+Salad+Lahsun Chutney+Achar,479.2
+Dal Bati,Dal Bati,1,0,"Bati [5 pieces], dal, papad, salad, lahsun chutney and achar.",183.2
+Dal Bati,Dal Bati [ 8 Pieces ],1,0,"8 Bati, dal, papad, salad, lahsun chutney and achar.",208.0
+Dal Bati,Dal Bati with Ghee,1,0,5 Bati Crush with Ghee+Dal+Papad+Salad+Lahsun Chutney+Achar [Subject to Availability],196.0
+Dal Bati,Dal Bati with Ghee [8 Pieces],1,0,,223.2
+Dal Bati,Dal + Bati 5 Pcs Dipped In Ghee,1,0,"5 Bati dipped in ghee , dal , papad , salad lahsun , ... read more",196.0
+Dal Bati,Dal Bati + Rice,1,0,Dal Bati [5 Pieces]+ Rice+Papad+Salad+Lahsun Chutney+Achar,223.2
+Dal Bati,Dal Bati + Rice + Buttermilk,1,0,5 Bati + Dal + Rice + Papad + Butter Milk+ Salad ... read more,239.2
+Dal Bati,Dal Bati with Ghee + Rice,1,0,5 Bati Crush Whith Ghee + Dal + Rice + Papad + Salad ... read more,239.2
+Dal Bati,Dal Bati with Ghee + Rice + Buttermilk,1,0,5 Bati Crush+Dal+Rice+Papad+Buttermilk+Salad+Lahsun Chutney+Achar,255.2
+Dal Bati,Dal Bati with Ghee Churma,1,0,Ghee Bati Crush [5 Pieces]+Dal+Bati Churma+Papad+Salad+Lasun Chutney+Achar [Dal and Salad-Subject to Availability],239.2
+Dal Bati,Dal Bati + Chruma + Buttermilk,1,0,5 Bati+Dal+Churma+Papad+Buttermilk+Salad+Lahsun Chutney+Achar,239.2
+Dal Bati,Dal Bati with Ghee + Churma + Buttermilk,1,0,5 Bati Crush whith Ghee+Dal+Churma+Papad+Buttermilk+Salad+Lahsun Chutney+Achar,255.2
+Dal Bati,Dal Bati [6 Pieces] + Churma,1,0,Dal Bati [6 Pieces]+Churma+Papad+Lahsun Chutney+Salad+Achar,239.2
+Dal Bati,Dal Bati [6 Pieces] + Rice,1,0,Dal Bati [6 Pieces]+Rice+Papad+Lahsun Chutney+Salad+Achar,239.2
+Dal Bati,Jumbo Dal Bati,1,0,10 Bati+Dal+2 Papad+Lahsun Chutney+Salad+Achar,319.2
+Dal Bati,Meetha Dal Bati [ Sweet ],1,0,8 Bati+Dal+Papad+Lahsun Chutney+Salad+Achar,183.2
+Dal Bati,Bati Churma [Full],1,0,Bati [5 Pieces]+Churma,128.0
+Dal Bati,Bati Churma [Half],1,0,Bati [3 Pieces]+Churma,80.0
+Dal Bati,Dry Fruit Bati Churma,1,0,,159.2
+Dal Bati,Bajra Churma Sweet,1,0,,128.0
+Dal Bati,Bati,1,0,,16.0
+Dal Bati,Bati Crush with Ghee,1,0,,24.0
+Dal Bati,Dal,1,0,Dal [subject to availability],128.0
+Dal Bati,Ghee Dal,1,0,Ghee dal [subject to availability],144.0
+Dal Bati,Gol,1,0,,12.0
+Dal Bati,Butter Milk,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",28.0
+Dal Bati,Lahsun Chutney,1,0,,40.0
+Jain Dal Bati,Jain Dal Bati [Serves 1],1,0,"Bati [5 Pieces]+Dal+Papad+Salad+Achar  [Salad-Subject to Availability][Images used are for representation purposes only, and ... read more",183.2
+Jain Dal Bati,Jain Dal Bati [8 Pieces],1,0,Bati [8 Pieces]+Dal+Papad+Salad+Achar [Dal and Salad-Subject to Availability],208.0
+Jain Dal Bati,Jain Dal Bati with Ghee,1,0,Bati [5 Pieces] Crush with Ghee+Dal+Papad+Salad+Achar [Dal and Salad-Subject to Availability],212.0
+Jain Dal Bati,Jain Dal Bati with Ghee [8 Pieces],1,0,Bati [8 Pieces] Crush with Ghee+Dal+Papad+Salad+Achar [Dal and Salad-Subject to Availability],223.2
+Jain Dal Bati,Jain Dal Bati with Rice,1,0,Bati [5 Pieces]+Dal+Rice+Papad+Salad+Achar [Dal and Salad-Subject to Availability],223.2
+Jain Dal Bati,Jain Bati Dipped in Ghee [5 Pieces],1,0,Bati [5 Pieces] Dipped in Ghee+Dal+Papad+Salad+Achar [Dal and Salad-Aubject to Availability],196.0
+Jain Dal Bati,Jain Dal Bati with Churma,1,0,Bati [5 Pieces]+Dal+Churma+Papad+Salad+Achar [Dal and Salad-Subject to Availability],223.2
+Main Course,Besan Gatta,1,0,,159.2
+Main Course,Dahi Fry,1,0,,159.2
+Main Course,Kadhi,1,0,Spicy.,128.0
+Roti,Phulka Roti,1,0,,16.0
+Roti,Ghee Phulka Roti,1,0,,20.0
+Roti,Ghee Bajari Rotla,1,0,,36.0
+Roti,Khoba Roti Ghee,1,0,,48.0
+Roti,Tukkad Roti,1,0,,48.0
+Rice,Plain Rice,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",72.0
+Rice,Kadhi Khichdi,1,0,,159.2
+Rice,Teekha Dal Rice,1,0,,128.0
+Rice,Meetha Dal Rice,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",128.0
+Accompaniments,1 Rosted Papad,1,0,,20.0
+Accompaniments,Papad Fry,1,0,,32.0
+Accompaniments,Khichiya Papad Fry,1,0,,40.0
+Accompaniments,Khichiya Masala Papad,1,0,,48.0
+Accompaniments,Dahi,1,0,,48.0
+Dessert,Gulab Jamun [2 Pieces],1,0,,36.0
+Thali,Marwadi Limited Thali,1,0,Aloo+Kathol Sabzi+3 Ghee Phulka Roti+Dal [Subject to Availability]+Kadhi+Rice+Papad+Salad+Lahsun Chutney+Achar,183.2
+Thali,Special Marwadi Thali+Butter Milk,1,0,2 Sabji [Subject to availability]+3 Ghee Fulka Roti+Dal Rice+Kadhi+Papad+Buttermilk+Salad+Lahsun Chutney+Achar [Subject to Availability],212.0

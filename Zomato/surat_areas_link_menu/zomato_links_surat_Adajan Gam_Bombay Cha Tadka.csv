@@ -1,0 +1,112 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Non Veg Starters,Chicken Soup,0,0,"Chicken soup prepared from pure chicken stew tossed with green chilli, garlic, ginger, ... read more",190.0
+Non Veg Starters,Chicken Pepper Soup,0,0,"Chicken soup prepared from pure chicken stew tossed with green chilli, garlic, ginger, ... read more",190.0
+Non Veg Starters,Chicken Gavthi Sukka,0,0,Chicken coated with some authentic & traditional Maharashtrian spices tossed in kadhai with ... read more,249.0
+Non Veg Starters,Chicken Bhuna Dry,0,0,Bhuna is the most loved preparation from us. This chicken bhuna is so ... read more,249.0
+Non Veg Starters,Chicken Konkani Sukka,0,0,"Konkan is a region of Maharashtra famous for its non veg food, this ... read more",249.0
+Non Veg Starters,Aagri-Koli Chicken Sukha,0,0,"Aagri koli, the first citizens of currently known as Mumbai city. This chicken ... read more",249.0
+Non Veg Starters,Chicken Kadhai Sukka,0,0,Juicy soft & fresh chicken tossed with chef's special spice mixed in kadhai. ... read more,249.0
+Non Veg Starters,Chicken Malvani Sukka,0,0,Malvani sukka is a masaledar chicken with a dense paste and bursting with ... read more,249.0
+Non Veg Starters,Chicken Daman Style Dry,0,0,Juicy chicken cooked with spices and herbs in a traditional daman and diu ... read more,249.0
+Non Veg Starters,Bombay Tawa Fry Sukka,0,0,,249.0
+Non Veg Starters,Jhinga Fry,0,0,Fresh prawns marinated with authentic hand picked spices from Konkan region of Maharashtra ... read more,340.0
+Non Veg Starters,Prawns Tawa Fry,0,0,Fresh prawns marinated with authentic hand picked spices from Konkan region of Maharashtra ... read more,340.0
+Non Veg Starters,Jhinga Bhuna Kadai Fry,0,0,Bhuna is the most loved preparation from us. This jhinga bhuna fry is ... read more,390.0
+Non Veg Starters,Fish Tawa Fry,0,0,Fresh sea water fish marinated with special Konkan region spices mixed which is ... read more,320.0
+Non Veg Starters,Mutton Gavthi Sukha,0,0,The heart of this dish is the exotic Maharashtrian spices tossed with the ... read more,250.0
+Non Veg Starters,Mutton Bhuna Dry,0,0,Bhuna is the most loved preparation from us. This mutton bhuna is so ... read more,250.0
+Non Veg Starters,Mutton Kharda Sukka,0,0,Kharda or thecha chutney is a famous Maharashtrian preparation which is the heart ... read more,250.0
+Non Veg Starters,Mutton Kadhai Sukka,0,0,Juicy soft & fresh mutton tossed with chef's special spice mixed in kadhai. ... read more,250.0
+Non Veg Starters,Gavthi Egg Fry [3 Eggs],0,0,"A delicious combination of eggs and vegetables, perfect for a hearty breakfast or ... read more",122.0
+Non Veg Starters,Egg Bhuna Fry [3 Eggs],0,0,"A delicious egg dish, prepared in a rich, flavorful, aromatic bhuna gravy with ... read more",122.0
+Non Veg Starters,Egg Kadhai Fry [3 Eggs],0,0,"A rich and creamy egg curry with a hint of spice, this dish ... read more",122.0
+Non Veg Starters,Egg Konkani Fry [3 Eggs],0,0,,122.0
+Non Veg Starters,Egg Malwani Fry [3 Eggs],0,0,"A flavourful dish that is made with the delicious combination of eggs, spices ... read more",122.0
+Non Veg Main Course,Gavthi Egg Handi,0,0,Half - 1 Egg Grated + 2 Eggs Cut Piece. Full - 1 ... read more,220.0
+Non Veg Main Course,Egg kolhapuri,0,0,Half - 1 Egg Grated + 2 Eggs Cut Piece. Full - 1 ... read more,240.0
+Non Veg Main Course,Egg Bhuna Masala,0,0,"A spicy and flavorful egg dish, perfect for a hearty meal. Savory, aromatic, ... read more",167.0
+Non Veg Main Course,Konkani Egg Masala,0,0,Half - 1 Egg Grated + 2 Eggs Cut Piece. Full - 1 ... read more,220.0
+Non Veg Main Course,Egg Kadhai Masala,0,0,Half - 1 Egg Grated + 2 Eggs Cut Piece. Full - 1 ... read more,220.0
+Non Veg Main Course,Konkani Egg Handi,0,0,Half - 1 Egg Grated + 2 Eggs Cut Piece. Full - 1 ... read more,220.0
+Non Veg Main Course,Malvani Egg Handi,0,0,,220.0
+Non Veg Main Course,Agri Egg Masala,0,0,Half - 1 Egg Grated + 2 Eggs Cut Piece. Full - 1 ... read more,245.0
+Non Veg Main Course,Malvani Egg Masala,0,0,Half - 1 Egg Grated + 2 Eggs Cut Piece. Full - 1 ... read more,220.0
+Non Veg Main Course,Maharashtrian Chicken Gavthi Handi,0,0,Cooked slowly in an authentic marathi way with traditional spices which gives your ... read more,245.0
+Non Veg Main Course,Chicken Kolhapuri Masala,0,0,It is prepared with hand picked special regional spice blend from Kolhapur region ... read more,245.0
+Non Veg Main Course,Konkani Chicken Handi,0,0,Konkani curry is cooked with with hand picked konkani spices the identity of ... read more,245.0
+Non Veg Main Course,Konkani Chicken Masala,0,0,Konkan is a region of Maharashtra famous for its non veg food. This ... read more,245.0
+Non Veg Main Course,Chicken Bhuna Masala,0,0,Bhuna is the most loved preparation from us. This chicken bhuna is so ... read more,245.0
+Non Veg Main Course,Chicken Malvani Masala,0,0,This is a masaledar chicken with thick gravy bursting with coconut flavor. Malvani ... read more,245.0
+Non Veg Main Course,Kadhai Chicken Masala,0,0,Chicken gravy made out of chefs special kadhai masala mix spice blend along ... read more,245.0
+Non Veg Main Course,Chicken Agri Masala,0,0,"Aagri koli, the first citizens of currently known as Mumbai city. This chicken ... read more",245.0
+Non Veg Main Course,Konkan Fish Curry,0,0,,295.0
+Non Veg Main Course,Surmai Malvani Curry,0,0,,395.0
+Non Veg Main Course,Prawns Masala,0,0,Prawns cooked in a traditional konkani coconut masala. The gravy has the right ... read more,375.0
+Non Veg Main Course,Jhinga Masala,0,0,Prawns cooked in a traditional konkani coconut masala. The gravy has the right ... read more,375.0
+Non Veg Main Course,Gavthi Mutton Handi,0,0,Cooked slowly in an authentic marathi way with traditional spices which gives your ... read more,290.0
+Non Veg Main Course,Mutton Kolhapuri Masala,0,0,"Its a thick gravy mutton dish from BCT, which is loved by most ... read more",300.0
+Non Veg Main Course,Mutton Bhuna Masala,0,0,Bhuna is the most loved preparation from us. This mutton bhuna is so ... read more,250.0
+Non Veg Main Course,Konkani Mutton Masala,0,0,Mutton Konkani masala cooked with juicy mutton [goat meat] & Konkan region spices ... read more,300.0
+Non Veg Main Course,Konkani Mutton Handi,0,0,Mutton Konkani curry cooked with juicy mutton [goat meat] & Konkan region spices ... read more,290.0
+Chapati-Roti And Rotla-Bhakri,Plain Chapati,1,0,Plain chapati or chapati is a flat bread made from wheat flour [atta].,13.37
+Chapati-Roti And Rotla-Bhakri,Butter Chapati,1,0,"Plain chapati or chapati is a flat bread made from wheat flour [atta], ... read more",18.83
+Rice And Biryani,Plain Rice,1,0,Plain rice is a traditional Indian dish made with royal basmati long grain ... read more,110.0
+Rice And Biryani,Jeera Rice,1,0,Cumin flavoured rice also known as jeera rice. It is usually made using ... read more,140.0
+Rice And Biryani,Chicken Bhuna Biryani,0,0,Long grain steamed royal basmati rice tossed in pan with chef’s special bhuna ... read more,295.0
+Rice And Biryani,Bombay Chicken Biryani,0,0,"An aromatic and flavorful biryani made with tender chicken, basmati rice, and aromatic ... read more",295.0
+Rice And Biryani,Jhinga Biryani,0,0,Prawn biryani is popular as jhinga biryani in India. Spicy shrimp masala full of ... read more,210.0
+Rice And Biryani,Fish Tikka Biryani,0,0,Fish tikka biryani is a wholesome combination of boiled rice and tawa fried ... read more,330.0
+Rice And Biryani,Egg Biryani,0,0,Egg biryani is among one of the most special preparation from BCT. Fresh ... read more,250.0
+Rice And Biryani,Egg Bhuna Rice,0,0,Specially for egg lovers Long Grain steamed Royal Basmati Rice tossed in pan ... read more,250.0
+Maharashtrian Chicken Thali,Maharashtrian Chicken Thali [Regular],0,0,Chicken Gavthi Handi [Patla Tambda Gavran Rassa]+3 Chapati+Rice [1 Bowl]+Onion Lemon Salad,240.0
+Maharashtrian Chicken Thali,Special Maharashtrian Chicken Thali,0,0,Chicken Gavthi Handi [Patla Tambda Gavran Rassa]+Chicken Kolhapuri Sukka Dry+3 Chapati+Rice [1 Bowl]+Onion Lemon ... read more,290.0
+Maharashtrian Chicken Thali,Express Maharashtrian Chicken Thali,0,0,Chicken Gavthi Handi [Patla Tambda Gavran Rassa]+Chicken Kolhapuri Sukka Dry+Aalni Chicken Soup+3 Chapati+Rice [1 ... read more,330.0
+Maharashtrian Chicken Thali,Junction Maharashtrian Chicken Thali,0,0,Chicken Gavthi Handi [Patla Tambda Gavran Rassa]+Chicken Kolhapuri Sukka Dry+Chicken Bhuna Sukka Dry+Aalni ... read more,440.0
+Maharashtrian Mutton Thali,Maharashtrian Mutton Thali [Regular],0,0,Mutton Gavthi Handi [2 Pieces] [Patla Tambda Gavran Rassa]+3 Chapati+Rice [1 Bowl]+Onion Lemon Salad,310.0
+Maharashtrian Mutton Thali,Special Maharashtrian Mutton Thali,0,0,Mutton Gavthi Handi [2 Pieces] [Patla Tambda Gavran Rassa]+Mutton Kolhapuri Sukha [2 Pieces]+3 Chapati+Rice ... read more,450.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan [Regular] Fish Thali [Small],0,0,Fish Gravy 1 Pc+ 3 Chapati+ Rice [1 Bowl]+ Salad,190.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan Special Fish Thali [Small],0,0,Fish Gravy [1 Pc]+Fish Tawa Fry [1 Pc]+3 Chapati+ Rice +Salad,280.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan Seafood Thali Number 1 [Small],0,0,[1 Pc Fish Gravy + 1 Pc Fish Tawa Fry + 5 Pc ... read more,420.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan Seafood Thali Number 2 [Small],0,0,Prawns Gravy [5 Pc]+ Fish Tawa Fry [1 Pc]+ Prawns Tawa Fry [5 ... read more,440.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan Prawns Thali [Small],0,0,Prawns Gravy [5 Pc]+ Prawns Tawa Fry [5 Pc]+ 3 Chapati+ Rice +Salad,420.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan [Regular] Fish Thali [Large],0,0,Fish Gravy [2 Pc]+ 3 Chapati+ Rice +Salad,300.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan Special Fish Thali [Large],0,0,Fish Gravy [1 Pc]+Fish Tawa Fry [2 Pc]+3 Chapati+ Rice +Salad,380.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan Seafood Thali [Large],0,0,Fish Gravy [1 Pc]+Fish Tawa Fry [2 Pc]+Prawns Tawa Fry [5 Pieces]+3 Chapati+ Rice +Salad,490.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan Seafood Thali Number 2 [Large],0,0,Prawns Gravy [5 Pc]+Fish Tawa Fry [2 Pc]+Prawns Tawa Fry [5 Pc]+3 Chapati+ Rice +Salad,520.0
+Maharashtrian Konkan Sea Food Thalis,Maharashtrian Konkan Prawns Thali [Large],0,0,Prawns Gravy [5 Pc]+Prawns Tawa Fry [10 Pc]+3 Chapati+ Rice +Salad,520.0
+Maharashtrian Konkan Seafood,Jhinga Fry,0,0,Fresh prawns marinated with authentic hand picked spices from Konkan region of Maharashtra ... read more,340.0
+Maharashtrian Konkan Seafood,Prawns Tawa Fry,0,0,Fresh prawns marinated with authentic hand picked spices from Konkan region of Maharashtra ... read more,340.0
+Maharashtrian Konkan Seafood,Jhinga Bhuna Kadai Fry,0,0,Bhuna is the most loved preparation from us. This jhinga bhuna fry is ... read more,390.0
+Maharashtrian Konkan Seafood,Fish Tawa Fry,0,0,Fresh sea water fish marinated with special Konkan region spices mixed which is ... read more,320.0
+Maharashtrian Konkan Seafood,Konkan Fish Curry,0,0,,295.0
+Maharashtrian Konkan Seafood,Surmai Malvani Curry,0,0,,395.0
+Maharashtrian Konkan Seafood,Prawns Masala,0,0,Prawns cooked in a traditional konkani coconut masala. The gravy has the right ... read more,375.0
+Maharashtrian Konkan Seafood,Jhinga Masala,0,0,Prawns cooked in a traditional konkani coconut masala. The gravy has the right ... read more,375.0
+Maharashtrian Mutton Special,Mutton Bhuna Dry,0,0,Bhuna is the most loved preparation from us. This mutton bhuna is so ... read more,250.0
+Maharashtrian Mutton Special,Mutton Kharda Sukka,0,0,Kharda or thecha chutney is a famous Maharashtrian preparation which is the heart ... read more,250.0
+Maharashtrian Mutton Special,Mutton Gavthi Sukha,0,0,The heart of this dish is the exotic Maharashtrian spices tossed with the ... read more,250.0
+Maharashtrian Mutton Special,Mutton Kadhai Sukka,0,0,Juicy soft & fresh mutton tossed with chef's special spice mixed in kadhai. ... read more,250.0
+Maharashtrian Mutton Special,Daman Style Mutton,0,0,,240.0
+Maharashtrian Mutton Special,Gavthi Mutton Handi,0,0,Cooked slowly in an authentic marathi way with traditional spices which gives your ... read more,290.0
+Maharashtrian Mutton Special,Konkani Mutton Handi,0,0,Mutton Konkani curry cooked with juicy mutton [goat meat] & Konkan region spices ... read more,290.0
+Maharashtrian Mutton Special,Konkani Mutton Masala,0,0,Mutton Konkani masala cooked with juicy mutton [goat meat] & Konkan region spices ... read more,300.0
+Maharashtrian Mutton Special,Mutton Kolhapuri Masala,0,0,"Its a thick gravy mutton dish from BCT, which is loved by most ... read more",300.0
+Maharashtrian Mutton Special,Mutton Bhuna Masala,0,0,Bhuna is the most loved preparation from us. This mutton bhuna is so ... read more,250.0
+Maharashtrian Chicken Special,Bombay Tawa Fry Sukka,0,0,,249.0
+Maharashtrian Chicken Special,Chicken Gavthi Sukka,0,0,Chicken coated with some authentic & traditional Maharashtrian spices tossed in kadhai with ... read more,249.0
+Maharashtrian Chicken Special,Chicken Konkani Sukka,0,0,"Konkan is a region of Maharashtra famous for its non veg food, this ... read more",249.0
+Maharashtrian Chicken Special,Chicken Malvani Sukka,0,0,Malvani sukka is a masaledar chicken with a dense paste and bursting with ... read more,249.0
+Maharashtrian Chicken Special,Chicken Soup,0,0,"Chicken soup prepared from pure chicken stew tossed with green chilli, garlic, ginger, ... read more",190.0
+Maharashtrian Chicken Special,Aagri-Koli Chicken Sukha,0,0,"Aagri koli, the first citizens of currently known as Mumbai city. This chicken ... read more",249.0
+Maharashtrian Chicken Special,Chicken Kadhai Sukka,0,0,Juicy soft & fresh chicken tossed with chef's special spice mixed in kadhai. ... read more,249.0
+Maharashtrian Chicken Special,Chicken Bhuna Dry,0,0,Bhuna is the most loved preparation from us. This chicken bhuna is so ... read more,249.0
+Maharashtrian Chicken Special,Chicken Daman Style Dry,0,0,Juicy chicken cooked with spices and herbs in a traditional daman and diu ... read more,249.0
+Maharashtrian Chicken Special,Chicken Pepper Soup,0,0,"Chicken soup prepared from pure chicken stew tossed with green chilli, garlic, ginger, ... read more",190.0
+Maharashtrian Chicken Special,Kadhai Chicken Masala,0,0,Chicken gravy made out of chefs special kadhai masala mix spice blend along ... read more,245.0
+Maharashtrian Chicken Special,Maharashtrian Chicken Gavthi Handi,0,0,Cooked slowly in an authentic marathi way with traditional spices which gives your ... read more,245.0
+Maharashtrian Chicken Special,Chicken Malvani Masala,0,0,This is a masaledar chicken with thick gravy bursting with coconut flavor. Malvani ... read more,245.0
+Maharashtrian Chicken Special,Chicken Kolhapuri Masala,0,0,It is prepared with hand picked special regional spice blend from Kolhapur region ... read more,245.0
+Maharashtrian Chicken Special,Konkani Chicken Masala,0,0,Konkan is a region of Maharashtra famous for its non veg food. This ... read more,245.0
+Maharashtrian Chicken Special,Chicken Agri Masala,0,0,"Aagri koli, the first citizens of currently known as Mumbai city. This chicken ... read more",245.0
+Maharashtrian Chicken Special,Chicken Bhuna Masala,0,0,Bhuna is the most loved preparation from us. This chicken bhuna is so ... read more,245.0
+Maharashtrian Chicken Special,Konkani Chicken Handi,0,0,Konkani curry is cooked with with hand picked konkani spices the identity of ... read more,245.0

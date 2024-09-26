@@ -1,0 +1,19 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Sev Usal with 4 Pav,1,0,,96.0
+Combos,Sev Usal with 6 Pav,1,0,,106.0
+Special Combos,Sev Usal Buttermilk Combo,1,0,Sev Usal+Buttermilk+2 Pav,121.0
+Special Combos,Sev Usal 2 Pav with sosyo combo,1,0,,121.0
+Special Combos,Sev Usal 2 Pav with Thumsup combo,1,0,,121.0
+Special Combos,"Sev Usal, 2 Pav Maza Combo",1,0,,121.0
+Sev Usal,Sev Usal with Rasa and 2 Pav,1,0,,121.0
+Sev Usal,Sev Usal With Pav [2 Pav],1,0,,76.0
+Sev Usal,Sev Tari with Pav [2 Pav],1,0,,76.0
+Sev Usal,Cheese Sev Usal with Pav [2 Pav],1,0,,106.0
+Sev Usal,Cheese Butter Sev Usal with Pav [2 Pav],1,0,,130.0
+Sev Usal,2 Pav,1,0,,16.0
+Extras,Spicy Tari [100 ml],1,0,,28.0
+Extras,Sev Ghathiya [50 grams],1,0,,40.0
+Extras,Lehsun Chutney,1,0,,28.0
+Extras,Masala Chass,1,0,,22.0
+Extras,Onion & Lemon Salad,1,0,,30.0
+Extras,Rasa,1,0,,55.0

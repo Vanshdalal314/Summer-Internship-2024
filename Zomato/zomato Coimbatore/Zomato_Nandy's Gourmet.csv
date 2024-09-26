@@ -1,0 +1,79 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Chicken Panini Sandwich Combo,0,0,,420.0
+Combos,Chicken Wings Combo,0,0,Heineken 0.0+French Fries+Chicken Wings,300.0
+Combos,Choco Lava Combo,0,0,Chicken Panini Sandwich+Choco Lava,220.0
+Combos,Chocolate Truffle Pastry Combo,0,0,Chocolate Truffle Pastry+Cheese Balls+Mojito,340.0
+Combos,Paneer Panini Sandwich Combo,0,0,Paneer Panini Sandwich+Choco Lava,200.0
+Combos,Peri Peri Fries Combo,0,0,,520.0
+Pasta,Chicken Penne Arabiata Pasta,0,0,,190.0
+Pasta,Chicken Pink Sauce Pasta,0,0,,190.0
+Pasta,Chicken Red Sauce Pasta,0,0,,175.0
+Pasta,Chicken White Sauce Pasta,0,0,,190.0
+Pasta,Penne Arabiata Pasta,0,0,,160.0
+Pasta,Pink Sauce Pasta,0,0,,160.0
+Pasta,Red Sauce Pasta,0,0,,140.0
+Pasta,White Sauce Pasta,0,0,,150.0
+Burger & Sandwiches,Crispy Chicken Burger,0,0,,130.0
+Burger & Sandwiches,Extra Hot Paneer Burger,0,0,,120.0
+Burger & Sandwiches,Veg Burger,0,0,,75.0
+Burger & Sandwiches,Cheesy Chicken Panini Sandwich,0,0,,180.0
+Burger & Sandwiches,Grilled Cheese Panini Sandwich,0,0,,165.0
+Burger & Sandwiches,Peri Peri Chicken Panini Sandwich,0,0,,175.0
+Burger & Sandwiches,Peri Peri Paneer Panini Sandwich,0,0,,165.0
+Munchies,Bread Omelette,0,0,,70.0
+Munchies,Bunny Chow Chettinad Chicken,0,0,,150.0
+Munchies,Cheese Balls,0,0,,170.0
+Munchies,Cheesy French Fries,0,0,,145.0
+Munchies,Chicken Nuggets,0,0,,140.0
+Munchies,Dairy Milk Silk Big 170,0,0,,170.0
+Munchies,French Fries,0,0,,130.0
+Munchies,Hot Dog,0,0,,170.0
+Munchies,Peri Peri Fries,0,0,,140.0
+Munchies,Potato Wedges,0,0,,130.0
+Munchies,Smileys,0,0,,140.0
+Cakes,24 Carrat Cup Cake,0,0,,75.0
+Cakes,Blueberry Cup Cake,0,0,,90.0
+Cakes,Chocolate Truffle Cup Cake,0,0,,100.0
+Cakes,Dark Chocolate Cup Cake,0,0,,75.0
+Cakes,Red Velvet Cheese Cream Cup Cake,0,0,,90.0
+Cakes,Blackforest,0,0,,470.0
+Cakes,Black Currant,0,0,,560.0
+Cakes,Butterscotch,0,0,,500.0
+Cakes,Dutch Truffle Cake,0,0,,690.0
+Cakes,Mango,0,0,,560.0
+Cakes,Pineapple,0,0,,500.0
+Cakes,Strawberry,0,0,,500.0
+Cakes,Swiss Chocolate,0,0,,560.0
+Cakes,Whiteforest,0,0,,560.0
+Cakes,Roasted Almond,0,0,,850.0
+Cakes,Rocher,0,0,,850.0
+Cakes,Tiramisu,0,0,,750.0
+Cakes,White Truffle,0,0,,850.0
+Cakes,Belgium Chocolate,0,0,,650.0
+Cakes,Blueberry,0,0,,600.0
+Cakes,Chocolate Overload,0,0,,750.0
+Cakes,Chocolate Strawberry Cake,0,0,,620.0
+Cakes,Chocolate Truffle Cake,0,0,,750.0
+Cakes,Coffe Cake,0,0,,620.0
+Cakes,Kit Kat Cake,0,0,,650.0
+Cakes,Litchi Cake,0,0,,650.0
+Cakes,Oreo,0,0,,620.0
+Cakes,Raspberry,0,0,,750.0
+Cakes,Vanilla Ice Cream,0,0,,90.0
+Desserts,Butterscotch Ice Cream,0,0,,90.0
+Desserts,Chocolate Ice Cream,0,0,,90.0
+Desserts,Creme Brule,0,0,,130.0
+Desserts,Pot D Creme,0,0,,140.0
+Pastries,Black Forest Pastry,0,0,,100.0
+Pastries,Blueberry Pastry,0,0,,112.0
+Pastries,Chocolate Truffle Pastry,0,0,,140.0
+Pastries,Red Velvet Pastry,0,0,,150.0
+FrappeDrinks Menu,Chocolate Frappe,0,0,,150.0
+FrappeDrinks Menu,Kitkat Frappe,0,0,,165.0
+FrappeDrinks Menu,Oreo Frappe,0,0,,165.0
+Drinks (Beverages),Blueberry Milkshake,0,0,,190.0
+Drinks (Beverages),Blueberry Mojito,0,0,,130.0
+Drinks (Beverages),Brownie Milkshake,0,0,,175.0
+Nandys Special,Red Velvet Choco Raspberry,0,0,,850.0
+Nandys Special,Red Velvet Chocolate,0,0,,850.0
+Nandys Special,Red Velvet Cream Cheese,0,0,,850.0

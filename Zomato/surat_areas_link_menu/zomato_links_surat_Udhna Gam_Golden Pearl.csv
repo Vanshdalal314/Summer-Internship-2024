@@ -1,0 +1,77 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,3 Veg Burger Combo,1,0,,150.0
+Combos,3 Veg Cheese Burger Combo,1,0,,180.0
+Pizza,Cheese Corn Pizza [8 inches],1,0,,180.0
+Pizza,Margherita Pizza [8 inches],1,0,,210.0
+Pizza,Corny Spicy Pizza [8 inches],1,0,,210.0
+Pizza,Vegetable Pizza [8 inches],1,0,,200.0
+Pizza,Hot and Spicy Pizza [8 inches],1,0,,210.0
+Pizza,Three Cheese Pizza [8 inches],1,0,,230.0
+Pizza,Paneer Peri Peri Pizza [8 inches],1,0,,230.0
+Pizza,Chilli Chataka Pizza [8 inches],1,0,,230.0
+Pizza,Mushroom Paprika Pizza [8 inches],1,0,,230.0
+Pizza,Chilli Paneer Corn Pizza [8 inches],1,0,,230.0
+Pizza,Paneer Tikka Pizza [8 inches],1,0,,230.0
+Pizza,Mexican Pizza [8 Inches],1,0,,230.0
+Pizza,Double Topping Pizza [8 inches],1,0,8 Inch Pizza,150.0
+Pizza,Processed Cheese Pizza [8 inches],1,0,,130.0
+Burgers and Sandwiches,Veg Cheese Hot Dog Sandwich,1,0,,140.0
+Burgers and Sandwiches,Spicy Cheese Long Bread Sandwich,1,0,,160.0
+Burgers and Sandwiches,Fiery Paneer Cheese Long Bread Sandwich,1,0,,170.0
+Burgers and Sandwiches,Veg Firangi Bread Sandwich,1,0,,170.0
+Burgers and Sandwiches,Veg Burger,1,0,,60.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,70.0
+Burgers and Sandwiches,Veg Double Tikki Cheese Burger,1,0,,90.0
+Burgers and Sandwiches,Veg Peri Peri Cheese Burger,1,0,,100.0
+Burgers and Sandwiches,Veg Tandoori Cheese Burger,1,0,,100.0
+Burgers and Sandwiches,Paneer Cheese Chataka Burger,1,0,,110.0
+Burgers and Sandwiches,Paneer Lazeez Cheese Burger,1,0,,100.0
+Burgers and Sandwiches,Bread Butter Chutney Sandwich,1,0,,40.0
+Burgers and Sandwiches,Bread Butter Chutney Cheese Sandwich,1,0,,60.0
+Burgers and Sandwiches,Jam Sandwich,1,0,,50.0
+Burgers and Sandwiches,Jam Cheese Sandwich,1,0,,70.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,60.0
+Burgers and Sandwiches,Double Decker Cheese Sandwich,1,0,,90.0
+Burgers and Sandwiches,Mini Grilled Sandwich,1,0,,100.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,80.0
+Burgers and Sandwiches,Veg Toast Sandwich,1,0,,80.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,100.0
+Burgers and Sandwiches,Masala Cheese Grilled Sandwich,1,0,,170.0
+Burgers and Sandwiches,Chocolate Grilled Sandwich,1,0,,150.0
+Burgers and Sandwiches,Barbeque Delight Grilled Sandwich,1,0,A yummy combination of vegetables with smokey flavoured sauce topped with loads of ... read more,210.0
+Burgers and Sandwiches,Yummy Corny Grilled Sandwich,1,0,,210.0
+Burgers and Sandwiches,Cheese Chilli Grilled Sandwich,1,0,,210.0
+Burgers and Sandwiches,Tongue Twister Grilled Sandwich,1,0,,210.0
+Burgers and Sandwiches,Mayo Masala Cheese Grilled Sandwich,1,0,,220.0
+Burgers and Sandwiches,Paneer Tikka Grilled Sandwich,1,0,,220.0
+Burgers and Sandwiches,Paneer Tikka Cheese Grilled Sandwich,1,0,,260.0
+Burgers and Sandwiches,Garlic Mushroom Cheese Grilled Sandwich,1,0,,210.0
+Burgers and Sandwiches,Veg Mexican Grilled Sandwich,1,0,,210.0
+Burgers and Sandwiches,Veg Exotica Grilled Sandwich,1,0,,210.0
+Burgers and Sandwiches,Paneer Mexican Grilled Sandwich,1,0,,220.0
+Burgers and Sandwiches,Paneer Mexican Cheese Grilled Sandwich,1,0,,260.0
+Burgers and Sandwiches,Cheese Corn Capsicum Sandwich,1,0,,170.0
+Burgers and Sandwiches,Mayo Masala Cheese Sandwich,1,0,,220.0
+Frankies,Veg Schezwan Frankie,1,0,,50.0
+Frankies,Veg Mayo Frankie,1,0,,80.0
+Frankies,Veg Mayo Cheese Frankie,1,0,,100.0
+Frankies,Veg Cheese Schezwan Frankie,1,0,,80.0
+Frankies,Veg Supreme Cheese Frankie,1,0,,110.0
+Frankies,Veg Paneer Frankie,1,0,,80.0
+Frankies,Veg Paneer Cheese Frankie,1,0,,100.0
+Garlic Breads,Cheese Garlic Bread [4 Pieces],1,0,,140.0
+Garlic Breads,Peri Peri Cheese Garlic Bread [4 Pieces],1,0,,130.0
+Garlic Breads,Corny Garlic Bread [4 Pieces],1,0,,160.0
+Garlic Breads,Mexican Garlic Bread [4 Pieces],1,0,,160.0
+Garlic Breads,Paneer Tikka Garlic Bread [4 Pieces],1,0,,180.0
+Mayo Pav & French Fries,Crunchy Mayo Pav,1,0,,40.0
+Mayo Pav & French Fries,Schezwan Mayo Pav,1,0,,45.0
+Mayo Pav & French Fries,Cheese Cream Onion Mayo Pav,1,0,,50.0
+Mayo Pav & French Fries,Tandoori Mayo Pav,1,0,,50.0
+Mayo Pav & French Fries,1000 Cheese Mayo Pav,1,0,,50.0
+Mayo Pav & French Fries,Peri Peri Cheese Mayo Pav,1,0,,50.0
+Mayo Pav & French Fries,Spicy Cheese Mayo Pav,1,0,,50.0
+Mayo Pav & French Fries,Lasooni Cheese Mayo Pav,1,0,,50.0
+Mayo Pav & French Fries,Crispy French Fries,1,0,,80.0
+Mayo Pav & French Fries,Masala French Fries,1,0,,80.0
+Mayo Pav & French Fries,Cheese French Fries,1,0,,140.0

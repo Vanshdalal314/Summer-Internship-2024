@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burgers,Mexican Fried Chicken Burger,0,0,"A grilled chicken patty with juicy tomato, cucumber, onion and plenty of deliciously ... read more",149.0
+Burgers,Crumbed Veg Jumbo Burger,0,0,Try our inhouse chipotle mayo smothered onto a perfectly grilled veg patty along ... read more,149.0
+Burgers,Deluxe Chicken Burger,0,0,The ultimate premium burger with flavours that compliment each other so well! A ... read more,149.0
+Burgers,Egg and Cheese Burger,0,0,The combination of egg and cheese inside a warm bun with slices of ... read more,149.0
+Burgers,Crunchy Paneer Burger,0,0,Delicious cottage cheese patty is topped with a perfect portion of equally delicious ... read more,149.0
+Burgers,Spiced Royal Chicken Burger,0,0,A crispy chicken patty inside a soft fresh bun with veggies and a ... read more,149.0
+Burgers,Hotty Veg Jumbo Burger,0,0,Moist & juicy veg patty and fresh veggies are topped with spicy schezwan ... read more,149.0
+Burgers,Chef's Special Chicken Jumbo Burger,0,0,"Fresh warm bun, juicy tomato, fresh cucumber, crisp lettuce and our smooth signature ... read more",149.0
+Burgers,Veggie Jumbo Burger,0,0,A delightful burger packed with veggies in the form of a succulent vegetable ... read more,149.0
+Burgers,Veggie Burger,0,0,A delicious veg patty seared on the outside but juicy on the inside ... read more,149.0
+Burgers,Spiced Royal Lamb Burger,0,0,"A supremely delicious lamb patty is stacked with tomato, cucumber, lettuce, onion and ... read more",149.0
+Fries & Sides,Veg Fingers,0,0,Long pieces of crumb coated veg fingers that are a great accompaniment to ... read more,99.0
+Fries & Sides,Peri Peri French Fries,0,0,Humble fries that are fried to a crisp and spiced with the zingy ... read more,99.0
+Fries & Sides,Lemon Pepper French Fries,0,0,A unique seasoning of lemony tang with freshly ground pepper dusted on top ... read more,99.0
+Fries & Sides,Chilli Garlic French Fries,0,0,French fries sprinkled generously with our in-house punchy seasoning of Chilli Garlic. Warning ... read more,99.0
+Fries & Sides,Crispy Fries,0,0,All time favourite snacks for all. Crispy french fries for you. (440 Calories ... read more,99.0
+Fries & Sides,Jalepeno Poppers,0,0,Golden fried cheese balls stuffed with spicy jalapeno bits. (470 Calories each),99.0
+Fries & Sides,Spiced Chicken Fingers,0,0,"A crunchy, mouth-watering appetizer of spicy, batter-fried chicken fingers. (340 Calories each)",99.0
+Fries & Sides,Chicken Popcorn,0,0,"Crispy, golden fried chicken bits perfect as anytime snacks. (470 Calories each)",99.0
+Shakes & Beverages,Rose Milkshake,0,0,We bring you the vintage rose milkshake which will bring back all the ... read more,119.0
+Shakes & Beverages,Butterscotch Milkshake,0,0,"For all those butterscotch lovers, what else can quench your cravings better than ... read more",119.0
+Shakes & Beverages,Chocolate Milkshake,0,0,Who doesn't love a great coffee! The humble coffee gets cooler with a ... read more,119.0
+Shakes & Beverages,Brownie Thickshake,0,0,A blend of chocolate brownie with milk and smooth vanilla ice cream. Just ... read more,119.0
+Shakes & Beverages,Chocolate Truffle Thickshake,0,0,A dessert so creamy & delicious. The perfect blend of chocolate truffle pastry ... read more,119.0
+Shakes & Beverages,Red Velvet Thickshake,0,0,An indulgent shake that looks just as pretty as it tastes. A blend ... read more,119.0
+Shakes & Beverages,Pepsi,0,0,(220 Calories each),60.0
+Desserts,Chocolate Truffle Jar Cake,0,0,A luxious chocolate sponge mixed with our chocolate ganache and filled to the ... read more,99.0
+Desserts,Red Velvet Jar Cake,0,0,A new way to enjoy our Red Velvet Cake! This jar has Red ... read more,99.0
+Desserts,Death By Chocolate Jar Cake,0,0,Insanely delicious jar for those who love indulging in chocolate! A fudge-like cake ... read more,99.0
+Desserts,Black Forest Jar Cake,0,0,"A classic chocolate sponge cake, freshly whipped cream topped with cherries and chocolate ... read more",99.0
+Desserts,Walnut Brownie,0,0,"A dense & moist pastry that combines a rich, chocolatey flavor with the ... read more",99.0
+Bun & Omelette,Bun Omelette,0,0,Fresh and fluffy omelette perfectly cooked with chili sauce and mayonnaise stuffed in ... read more,99.0
+Bun & Omelette,Cheesy Masala Bun Omelette,0,0,"A warm toasted bun loaded with cheese, eggs & spices! Comfort food done ... read more",99.0
+Bun & Omelette,Schezwan Masala Bun Omelette,0,0,Golden fried omelette inside a well toasted bun with a chinese twist of ... read more,99.0
+Wings,Classic Wings 4 Pc,0,0,"4 Wings in this portion.Bread-crumbed chicken wings are a succulent delight, featuring plump ... read more",149.0
+Wings,Korean Fried Wings 4 Pc,0,0,Crispy and succulent Korean fried chicken wings boast a golden-brown exterior glazed with ... read more,149.0
+Wings,Sweet Chilli Wings 4 Pc,0,0,Sweet Chili chicken wings are a tantalizing fusion of crispy perfection and sticky-sweet ... read more,149.0
+Wings,Teriyaki Wings 4 Pc,0,0,Teriyaki chicken wings offer a delectable marriage of savory and sweet. Glistening with ... read more,149.0
+Wings,Peri Peri Wings 4 Pc,0,0,"Peri Peri chicken wings ignite the palate with fiery flavor. These wings, fried ... read more",149.0
+Wings,Chilli Garlic Wings 4 Pc,0,0,Chili Garlic chicken wings are a tantalizing blend of bold and savory. Each ... read more,149.0
+Wings,Lemon Pepper Wings 4 Pc,0,0,Lemon Pepper chicken wings bring a burst of zesty freshness to the table. ... read more,149.0
+Fried Chicken,Classic Fried Chicken 2 PC,0,0,"Deep-fried to perfection, our fried chicken boasts a tantalizingly crunchy exterior that gives ... read more",149.0
+Fried Chicken,Peri Peri Fried Chicken 2 PC,0,0,"Fried chicken chunks, seasoned with fiery peri peri spices, transform a classic dish ... read more",149.0

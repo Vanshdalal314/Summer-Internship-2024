@@ -1,0 +1,62 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Creams,Vanilla Ice Cream [1 Scoop],1,0,Premium full fat diary ice cream Net 100 ml,89.0
+Ice Creams,Strawberry Ice Cream [1 Scoop],1,0,Premium full fat diary ice cream Net 100 ml,89.0
+Ice Creams,Chocolate Ice Cream [1 Scoop],1,0,Premium full fat diary ice cream Net 100 ml,99.0
+Ice Creams,Butterscotch Ice Cream [1 Scoop],1,0,Premium full fat diary ice cream Net 100 ml,89.0
+Ice Creams,Blackcurrant Ice Cream [1 Scoop],1,0,Premium full fat diary ice cream Net 100 ml,89.0
+Ice Creams,Fig and Honey Ice Cream [1 Scoop],1,0,Premium full fat diary ice cream Net 100 ml,99.0
+Ice Creams,Cookie N Cream Ice Cream [1 Scoop],1,0,,99.0
+Ice Creams,Pista Ice Cream [1 Scoop],1,0,Premium full fat diary ice cream Net 100 ml,89.0
+Ice Creams,Caramel Nuts Ice Cream [1 Scoop],1,0,,99.0
+Ice Cream Rolls,Vanilla Ice Cream Roll,1,0,,150.0
+Ice Cream Rolls,Banana Ice Cream Roll,1,0,,150.0
+Ice Cream Rolls,Watermelon Ice Cream Roll,1,0,,150.0
+Ice Cream Rolls,Strawberry Ice Cream Roll,1,0,,160.0
+Ice Cream Rolls,Pineapple Ice Cream Roll,1,0,,175.0
+Ice Cream Rolls,Litchi Ice Cream Roll,1,0,,180.0
+Ice Cream Rolls,Mango Ice Cream Roll,1,0,,180.0
+Ice Cream Rolls,Brownie Ice Cream Roll,1,0,,180.0
+Ice Cream Rolls,Oreo Ice Cream Roll,1,0,,180.0
+Ice Cream Rolls,Chocolate Ice Cream Roll,1,0,,160.0
+Ice Cream Rolls,Butterscotch Ice Cream Roll,1,0,,160.0
+Ice Cream Rolls,Nutella Ice cream Roll,1,0,,220.0
+Ice Cream Rolls,KitKat Ice Cream Roll,1,0,,220.0
+Ice Cream Rolls,Black Forest Ice Cream Roll,1,0,,200.0
+Waffles,Waffle,1,0,,199.0
+Waffles,Waffle with Ice Cream,1,0,,250.0
+Sundaes,Butterscotch Sundae [250 ml],1,0,,199.0
+Sundaes,Choco Banana Sundae [250 ml],1,0,,199.0
+Sundaes,Dry Fruits Sundae [250 ml],1,0,,215.0
+Sundaes,Get Smart Sundae [250 ml],1,0,,199.0
+Sundaes,Fruit Salad Sundae [250 ml],1,0,,199.0
+Sundaes,Cookie and Cream Nutella Sundae [250 ml],1,0,,199.0
+Sundaes,Hot Fudge Nut Sundae [250 ml],1,0,,199.0
+Sundaes,Choco Butter Chips Sundae [250 ml],1,0,,199.0
+Sundaes,Strawberry Banana Sundae [250 ml],1,0,,199.0
+Sundaes,Love Litchi Bon Sundae [250 ml],1,0,,199.0
+Sundaes,Choco Cherry Sundae [250 ml],1,0,,199.0
+Sundaes,Blackcurrant Bon Sundae [250 ml],1,0,,199.0
+Sundaes,Chocolate Bon Sundae [250 ml],1,0,,199.0
+Sundaes,Litchi Choco Strawberry Bon Sundae [250 ml],1,0,,199.0
+Sundaes,Brownie Sundae [250 ml],1,0,,225.0
+Sundaes,Death By Chocolate Sundae [250 ml],1,0,,269.0
+Falooda,Royal Dry Fruit Falooda,1,0,,180.0
+Falooda,Mango Falooda,1,0,"Base of jelly with mango, dry fruits, soaked sabja seeds, vermicelli and generous ... read more",180.0
+Falooda,Rose Falooda,1,0,"Base of jelly topped with fresh fruits, roasted nuts, soaked sabja seeds, vermicelli ... read more",180.0
+Falooda,Chocolate Falooda,1,0,,180.0
+Falooda,Blackcurrant Falooda,1,0,,180.0
+Falooda,Strawberry Falooda,1,0,,180.0
+Falooda,Butterscotch Falooda,1,0,,180.0
+Falooda,Pista Falooda,1,0,,180.0
+Shakes,Vanilla Shake,1,0,Classic vanilla shake.,180.0
+Shakes,Butterscotch Shake,1,0,Classic butterscotch shake. Net quantity 300ml,180.0
+Shakes,Chocolate Shake,1,0,Classic chocolate shake.,175.0
+Shakes,Cold Coffee Shake,1,0,The best cold coffee you can get in the town.,180.0
+Shakes,Badam Shake,1,0,Classic badam shake with real almonds. Net quantity 300ml,199.0
+Shakes,Litchi Shake,1,0,,199.0
+Shakes,Blackcurrant Shake,1,0,Classic blackcurrant shake.,180.0
+Shakes,Oreo Shake,1,0,Best oreo shake in town.,199.0
+Shakes,Nutella Shake,1,0,The best nutella shake made with nutella.,225.0
+Shakes,Brownie Shake,1,0,Enjoy brownie in shake form. Net quantity 300ml.,210.0
+Shakes,KitKat Shake,1,0,,225.0
+Shakes,Mango Shake,1,0,,199.0

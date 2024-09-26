@@ -1,0 +1,19 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pav Bhaji,Pav Bhaji,1,0,,40.0
+Pav Bhaji,Butter Pav Bhaji,1,0,,60.0
+Pav Bhaji,Special Butter Tadka Pav Bhaji,1,0,,90.0
+Pav Bhaji,Punjabi Khara Bhaji,1,0,,70.0
+Pav Bhaji,Green Garlic Pav Bhaji,1,0,,60.0
+Pav Bhaji,Green Garlic Butter Pav Bhaji,1,0,,90.0
+Pav Bhaji,Special Tadka Double Fry Bhaji,1,0,,40.0
+Pav Bhaji,Special Tadka Lasaniya Bhaji,1,0,,70.0
+Pav Bhaji,Special Tadka Butter Lasaniya Bhaji,1,0,,90.0
+Pav Bhaji,Tapela Pav Bhaji,1,0,,60.0
+Pav Bhaji,Paneer Bhurji Bhaji,1,0,,120.0
+Pav Bhaji,Lasaniya Bataka Fry,1,0,,70.0
+Pav Bhaji,Swaminarayan Pav Bhaji,1,0,,40.0
+Pav Bhaji,Butter Paneer Cheese Lachka Bhaji,1,0,,200.0
+Pav Bhaji,Jain Pav Bhaji,1,0,,50.0
+Rice,Tel Pulao,1,0,,40.0
+Rice,Butter Pulao,1,0,,70.0
+Rice,Tapela Pulao,1,0,,70.0

@@ -1,0 +1,18 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sweets,Kaju Katri,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",325.0
+Sweets,Badam Pista Ghari,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",310.0
+Sweets,Dry Fruit Halwa,1,0,It is a traditional Indian recipe made with lots of dry fruits and ... read more,300.0
+Sweets,Akhrot Halwa,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",300.0
+Sweets,Kaju Anjeer Halwa,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",300.0
+Sweets,Ice Cream Barfi,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",260.0
+Sweets,Butterscotch Barfi,1,0,"A creamy, buttery barfi with a melt in your mouth texture. A perfect ... read more",250.0
+Sweets,Mava Mango Barfi,1,0,"A luscious, creamy and decadent barfi made with soft and luscious mangoes and ... read more",260.0
+Sweets,Tiranga Barfi,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",260.0
+Sweets,Vanilla Barfi,1,0,A delicious Indian dessert with a creamy texture and rich flavor of vanilla.,260.0
+Sweets,Kopra Paak,1,0,"A rich, creamy and aromatic dish with the flavors of coconut and spices.",260.0
+Sweets,Khajur Pak,1,0,"A creamy, rich, sweet and succulent pudding made with luscious dates, served with ... read more",400.0
+Sweets,Motichur Laddu,1,0,Motichoor Laddu is a sweet treat made from sugar and milk. It has ... read more,275.0
+Sweets,Pink Mava Gulab,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",200.0
+Sweets,Gulab Jamun,1,0,Gulab Jamuns are the perfect dessert to enjoy with your loved ones.,200.0
+Sweets,Milk Cake,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",325.0
+Sweets,Mix Baklava [400 grams],1,0,"A decadent, sweet pastry with layers of flaky phyllo dough, filled with a ... read more",850.0

@@ -1,0 +1,10 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combo,Boiled and Grilled Chicken Combo,0,0,Grilled chicken [100 grams] and boiled chicken [100 grams] on a bed of crispy ... read more,225.0
+Chicken Salads,Boiled Chicken Salad,0,0,The classic plain boiled chicken salad with veges and sauce.,165.0
+Chicken Salads,Grilled Chicken Salad,0,0,Delicious pan grilled chicken with your choice of vegetables sauces and seasoning.,190.0
+Only Chicken,Boiled Chicken [100 grams],0,0,The no frills classic boiled chicken served on a bed of green cabbage ... read more,110.0
+Only Chicken,Grilled Chicken [100 grams],0,0,Grilled chicken on a bed of green cabbage seasoned with salt pepper and ... read more,130.0
+Oats,Masala Oats [Regular],1,0,,75.0
+Oats,Vegetable Oats,1,0,A hearty and healthy veg meal made with a blend of oats and ... read more,125.0
+Oats,Chicken and Oats,0,0,"A hearty and delicious bowl of chicken and oats, perfect for a healthy ... read more",160.0
+Oats,Chicken and Veggie Oats,0,0,A hearty and wholesome dish with tender chicken pieces and vegetables cooked in ... read more,180.0

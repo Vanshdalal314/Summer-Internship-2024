@@ -1,0 +1,113 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special New Items,Mint Chutney,1,0,,20.0
+Soups,Aloo Pyaz Da Shorba,1,0,"A Delicious Shorba Made From Indian Spices,Onion And Potato Puree",160.0
+Soups,Cream Of Tomato Soup,1,0,A Rich Tangy And Cream Tomato Soup Served With Golden Fried Croutonv.,140.0
+Soups,French Onion Soup,1,0,,170.0
+Soups,Hot And Sour Soup,1,0,Spicy] Chinese Vegetable Broth Soup With Delicious Flavours Of Chinese Sauces.,140.0
+Soups,Lemon Coriander Soup,1,0,,170.0
+Soups,Maxican Chilly Bean,1,0,,170.0
+Soups,Minestrone Soup,1,0,Italian Vegetable Soup Made With Tomato Broth And Pasta And Topped With Cheese.,170.0
+Soups,Mushroom Soup,1,0,A Mushroom Broth Seasoned With Herbs And Some Sauce,160.0
+Soups,Palak Corn Shorba,1,0,Indian Style Broth Made From Fresh Spinach And Corn Puree And Seasoned With ... read more,170.0
+Soups,Rajma & Pasta Soup,1,0,A Chunky Soup Made From Rajma And Pasta Along With Veggies And Garnished ... read more,170.0
+Soups,Veg Manchow Soup,1,0,"| Serves 1 || A delicious hot and spicy, thick soup made from ... read more",140.0
+Salads,Boondi Raita,1,0,,75.0
+Salads,Green Salad,1,0,,65.0
+Salads,Indian Masala Salad,1,0,,85.0
+Salads,Mix Fruit Raita,1,0,,105.0
+Salads,Pineapple Raita,1,0,,85.0
+Salads,Veg Raita,1,0,,75.0
+Starters,Finger Chips,1,0,Potato Figures Deep Fried Seasoned With Chaat Masala And Served With Tomato Ketchup,115.0
+Starters,Veg Hara Bhara Kabab,1,0,| Medium spicy ||Hara bhara kabab are pan-fried spiced patties made with a ... read more,195.0
+Starters,Paneer 65,1,0,A Chunky Soup Made From Rajma And Pasta Along With Veggies And Garnished ... read more,245.0
+Starters,Paneer Achari Tikka,1,0,,285.0
+Starters,Paneer Chilly Dry,1,0,"|Paneer chunks sauteed well with spices, chillies, onion, capsicum and soy sauce. Serves ... read more",245.0
+Starters,Paneer Pudina Tikka,1,0,Cubes Of Paneer Coated And Maintained In A Unique Minty Spice Mixed And ... read more,285.0
+Starters,Paneer Schezwan Dry,1,0,,255.0
+Starters,Paneer Tikka Dry,1,0,Cubes Of Paneer Marinated In Aromatic Spices And Grilled In Tandoori To Give ... read more,285.0
+Starters,Spring Roll,1,0,"| Serves 1 | Medium Spicy | A Deep Fried Roll, Stuffed With ... read more",195.0
+Starters,Veg 65,1,0,|Succulent veg chunks dipped in a seasoned batter and fried to golden perfection ... read more,185.0
+Starters,Veg Lollypop,1,0,"Crispy Fried Lollipops Made Of Vegetable, Spices And Chinese Sauces.Served Along With Hot ... read more",219.0
+Starters,Veg Manchurian Dry,1,0,|Veg Manchurian dry is a crispy starter snack of fried veg balls tossed ... read more,195.0
+Main Course,Chana Masala,1,0,"| Serves 1-2 | Medium Spicy | A Traditional Dish, Based On Onion ... read more",180.0
+Main Course,Cheese Butter Masala,1,0,| It is a rich & creamy curry made with paneer and cheese ... read more,310.0
+Main Course,Mushroom [Mutter] Masala,1,0,Button Mushroom Cooked In Mild Spicy Tomato Onion Gravy Seasoned With Roasted Spice ... read more,210.0
+Main Course,Mushroom Masala,1,0,,215.0
+Main Course,Special Veg Glorious,1,0,This Is Our Special Sabji.,230.0
+Main Course,Veg Chetinad Masala,1,0,"A South Indian Style Curry Preparation Made From Coconut, Fried Onion And Roasted ... read more",235.0
+Main Course,Veg Garlic Masala,1,0,[Spicy] A Dominant Garlic Flavor In A Creamy Red Gravy Seasoned With Indian ... read more,230.0
+Main Course,Veg Kadai,1,0,Mix Vegetables Tossed In Aromatic Gravy And Seasoned With Kadai Masala And Other ... read more,235.0
+Main Course,Veg Kolhapuri,1,0,"| Veg kolhapuri is a spicy, aromatic curry made with variety of vegetables ... read more",230.0
+Main Course,Veg Makhanwala,1,0,A Rich Creamy Tomato Gravy Seasoned With Roasted Indian Spices And Mixed With ... read more,230.0
+Main Course,Veg Toofani,1,0,| Served Gravy |,230.0
+Main Course,Veg. Handi,1,0,,235.0
+Main Course,Veg Hyderabadi,1,0,[Spicy] A Spicy Rich Gravy Mixed With Vegetables And Cream.,230.0
+Main Course,Dal Fry,1,0,|Gravy|| A comforting and delicious preparation made with mixed daal cooked and tempered ... read more,140.0
+Main Course,Dal Tadka,1,0,| Serves 2 ||A comforting and delicious preparation made with mixed daal cooked ... read more,165.0
+Main Course,Cheesy Garlic Paneer Masala,1,0,| A classical north Indian curry recipe made with paneer cubes in a ... read more,265.0
+Main Course,Chetinad Paneer,1,0,A Spicy And Flavorful Paneer Preparation Made With Unique South Indian Blend And ... read more,250.0
+Main Course,Kashmiri Paneer Masala,1,0,"| Serves 1-2 | Medium Spicy | Kashmiri Style Paneer Cooked In Yogurt, ... read more",265.0
+Main Course,Palak Paneer,1,0,| Palak paneer is a popular Indian dish of Indian paneer cubes in ... read more,235.0
+Main Course,Paneer Afghani,1,0,,245.0
+Main Course,Paneer Angara,1,0,,255.0
+Main Course,Paneer Bhurji,1,0,,245.0
+Main Course,Paneer Butter Masala,1,0,"| It is a rich & creamy curry made with paneer, spices, onions, ... read more",245.0
+Main Course,Paneer Do Pyaza,1,0,,255.0
+Main Course,Paneer Garlic Tawa,1,0,A Dominant Garlic Flavor In A Creamy Gravy Seasoned With Indian Spices 6 ... read more,265.0
+Main Course,Paneer Handi,1,0,,245.0
+Main Course,Paneer Hyderabadi,1,0,A Rich Nawabi Preparation Of Cottage Cheese In A Typical Style Hyderabadi Gravy ... read more,265.0
+Main Course,Paneer Kadai,1,0,,245.0
+Main Course,Paneer Kali Mirch Masala,1,0,A Dominant Flavor Of Black Pepper Infused In Rich Gravy Cooked Along With ... read more,270.0
+Main Course,Paneer Khada Masala,1,0,A Mild Spice Dish Cooked Along With Gravy And Cottage Cheese. Goes Well ... read more,265.0
+Main Course,Paneer Kurchain,1,0,,265.0
+Main Course,Paneer Lababdar,1,0,Paneer lababdar gravy is made of a spicy cashew tomato paste that is ... read more,255.0
+Main Course,Paneer Lasaniya,1,0,,255.0
+Main Course,Paneer Lazagar,1,0,"Rich Tomato Gravy Seasoned With Roasted Aromatic Masala, Mixed With Cottage Cheese And ... read more",265.0
+Main Course,Paneer Laziz,1,0,"Spicy Paneer Preparation Made With Gravy And A Perfect Blend Of Spices, Roasted ... read more",255.0
+Main Course,Paneer Maharaja,1,0,"A Shahi Style Paneer Preparation Made In Rich Creamy Gravy, Roasted Masala And ... read more",265.0
+Main Course,Paneer Methi Malai,1,0,"A Paneer Preparation Made From Methi, Gravy And Lots Of Cream And Butter.",265.0
+Main Course,Paneer Multani,1,0,"A Sufiyani Style Paneer Preparation From Multan, Made In Rich Gravy, Kasoori Methi ... read more",265.0
+Main Course,Paneer Mumtaj,1,0,,265.0
+Main Course,Paneer Mushroom Masala,1,0,,255.0
+Main Course,Paneer Silsila,1,0,,245.0
+Main Course,Paneer Tikka Masala,1,0,"|Gravy || Paneer tikka masala is a delicious, creamy & flavorful Indian dish ... read more",255.0
+Main Course,Paneer Toofani,1,0,|Gravy|| Pieces of paneer prepared in a smooth and spicy tomato and onion ... read more,255.0
+Main Course,Shahi Paneer,1,0,,265.0
+Main Course,Special Paneer Glorious,1,0,| House special main course dish made with assorted veggies and paneer tossed ... read more,265.0
+Main Course,Cheesy Lucknowi Curry,1,0,Yogurt Curry Poured On Cheese Dumplings Mixed With Roasted Spices And Cream To ... read more,320.0
+Main Course,Cheese Kofta,1,0,,235.0
+Main Course,Paneer Kofta,1,0,,205.0
+Breads,Aloo Paratha,1,0,| Medium Spicy |,90.0
+Breads,Butter Kulcha,1,0,,55.0
+Breads,Butter Naan,1,0,| 1 Pc || North Indian bread with a generous serving of butter ... read more,55.0
+Breads,Butter Tawa Roti,1,0,,28.0
+Breads,Gobi Paratha,1,0,| Medium Spicy |,90.0
+Breads,Tandoori Butter Paratha,1,0,,43.0
+Breads,Tandoori Butter Roti,1,0,| 1 Pc ||Soft and fluffy rotis topped with a generous serving of ... read more,33.0
+Breads,Tandoori Roti,1,0,| 1 Pc || Soft and fluffy rotis topped with a generous serving ... read more,28.0
+Breads,Tawa Roti,1,0,| 1 Pc |,23.0
+Rice And Biryani,Jeera Rice,1,0,|Aromatic rice cooked in a tempering of cumin and whole spices|,140.0
+Rice And Biryani,Paneer Pulao,1,0,,195.0
+Rice And Biryani,Peas Pulao,1,0,,155.0
+Rice And Biryani,Veg Hydrabadi Biryani,1,0,"| Nutritious biriyani, layered with select spices and packed with vegetables|",215.0
+Rice And Biryani,Veg Pulao,1,0,,155.0
+Rice And Biryani,Veg. Biryani,1,0,,215.0
+Fried Rice And Noodles,Chilly Garlic Noodles,1,0,"Spicy Noodles Tossed In Hot Garlic Infused Oil, Minced Garlic And Chilles Along ... read more",195.0
+Fried Rice And Noodles,Chinese Bhel,1,0,|Fried crunchy noodles with asian veggies and tossed in chinese sauces|,195.0
+Fried Rice And Noodles,Mushroom Fried Rice,1,0,Rice Tossed Along With Sautted Mushroom Along With Sauces And Spices.,195.0
+Fried Rice And Noodles,Schezwan Fried Rice,1,0,[Spicy] Boiled Rice Tossed In Spicy Schezwan Sauce And Tossed Along With Veggies ... read more,195.0
+Fried Rice And Noodles,Schezwan Noodles,1,0,[Spicy] A Spicy Chilly Tangy Sauce Made From Schezwan Chilly And Noddles Tossed ... read more,195.0
+Fried Rice And Noodles,Singapuri Fried Rice,1,0,,195.0
+Fried Rice And Noodles,Singapuri Noodles,1,0,,195.0
+Fried Rice And Noodles,Veg Fried Rice,1,0,|Fresh veggies tossed in a pan with steamed rice and flavorful spices - ... read more,185.0
+Fried Rice And Noodles,Veg Hakka Noodles,1,0,Simple Sauteed Veggie And Boiled Noodles Tossed In Indo Chinese Sauces,195.0
+Pizza,Desi Pizza,1,0,Home Style Pizza Made With Onion Tomato And Cheese.,220.0
+Pizza,Margarita Pizza,1,0,,210.0
+Pizza,Tandoori Paneer Pizzza,1,0,"Roasted Paneer Tikka Masala, Capsicum, Onion And Cheese Pizza.",285.0
+Pizza,The OTC Pizza,1,0,"Onion, Tomato, Capsicum And Cheese Pizza",220.0
+Continental Dishes,Arabiata Pasta,1,0,"Penne Pasta Cooked In Veggies, Tossed In Red Tomato Sauce Along With Herbs ... read more",300.0
+Continental Dishes,Mix Sauce Penne Pasta,1,0,Pasta Tossed In Spicy Tangy Creamy Cheesy Sauce Along With Veggies And Herbs. ... read more,310.0
+Continental Dishes,White Sauce Penne Pasta,1,0,Pasta Tossed In Smooth White Silky Aromatic Sauce Along With Veggies And With ... read more,310.0
+International Dishes,Paneer Chilly With Garlic Rice,1,0,[Spicy] Coated Paneer Deep Fried And Tossed In Sweet And Spicy Tangy Indo ... read more,280.0
+International Dishes,Veg Manchurian Gravy With Fried Rice,1,0,| Serves 1-2 | Medium Spicy | Fried Dumplings Made From Vegetables Tossed ... read more,260.0
+Desserts And Beverages,Butter Milk,1,0,,40.0

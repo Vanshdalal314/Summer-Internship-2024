@@ -1,0 +1,69 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meal For 2,Pasta With Cheese Garlic Bread Combo,1,0,Cheese Garlic Bread + Choice Of Pasta : Arrabiata or Alfredo+ Cheese Dip,189.0
+Meal For 2,Pasta With Stuffed Garlic Bread Combo,1,0,Stuffed Garlic Bread + Choice Of Pasta : Arrabiata or Alfredo + Cheese ... read more,207.0
+Pizza,8 Cheese,1,0,"Mozzarella,cheddar,gauda,montary jack,orange cream,colby,orange cheddar",177.0
+Pizza,Basil Pesto Delight,1,0,"Capsicum,jalapeno,paneer,pesto basil sauce",177.0
+Pizza,Cheesy Capsicum,1,0,Cheese & capsicum,105.0
+Pizza,Cheesy Corn,1,0,Golden Corn & Cheese,105.0
+Pizza,Cheesy English,1,0,"Jalapeno,onion,sweet corn,cheesy jalapeno sauce",177.0
+Pizza,Cheesy Onion,1,0,Cheese & Onion,105.0
+Pizza,Cheesy Tomato,1,0,Cheese & tomato,105.0
+Pizza,Country Feast,1,0,"Onion, Capsicum, Tomato & Mushroom",165.0
+Pizza,Double Cheese Margherita,1,0,Mozzarella cheese & cheddar cheese,119.4
+Pizza,English Feast,1,0,"Capsicum,paneer,sweet corn,mushroom,onion,chilly cheese,cream cheese",192.0
+Pizza,Garlic Delight,1,0,"Onion,capsicum,paneer,red pepper,jalapeno,garlic sauce",192.0
+Pizza,Hawaiian Special,1,0,"Pineapple,paneer,corn",165.0
+Pizza,Makhani Masala,1,0,"Onion,capsicum,red pepper,makhani sauce",177.0
+Pizza,Makhani Paneer,1,0,"Capsicum,onion,paneer,makhani sauce",177.0
+Pizza,Margherita,1,0,Cheesy Classic,81.0
+Pizza,Maxican Salsa,1,0,"Capsicum,corn,jalapeno,onion,mushroom,salsa sauce",192.0
+Pizza,Paneer Blossom,1,0,"Paneer,onion,capsicum",165.0
+Pizza,Paneer Lovers,1,0,"Paneer, Capsicum & Red Paprika",165.0
+Pizza,Pepper Paneer,1,0,Paneer & Capsicum,119.4
+Pizza,Peri Peri Bite,1,0,"Capsicum,red pepper,jalapeno,peri-peri sauce",177.0
+Pizza,Peri Peri Paneer,1,0,"Onion,capsicum,paneer,olives,mushroom,peri peri sauce",192.0
+Pizza,Pesto Special,1,0,"Onion,capsicum,mushroom,corn,jalapeno,basil pesto sauce",192.0
+Pizza,Red Passion,1,0,"Jalapeno,mushroom,red pepper,tomato,cheese jalapeno sauce",192.0
+Pizza,Salsa Special,1,0,"Onion,red pepper,sweet corn,black olives,salsa sauce",177.0
+Pizza,Schezwan Retreat,1,0,"Onion,capsicum,red pepper,paneer,tomato,schezwan sauce",192.0
+Pizza,Smokey Pepper,1,0,"Jalapeno, Capsicum & Red Peprika",165.0
+Pizza,Spicy Garlic,1,0,"Jalapeno,mushroom,olives,capsicum,garlic sauce",177.0
+Pizza,Spicy Schezwan,1,0,"Capsicum,paneer,corn,schezwan sauce",177.0
+Pizza,Tandoori Lover,1,0,"Capsicum,corn,red pepper,double paneer,makhani sauce",192.0
+Pizza,Tangy Onion,1,0,"Tomato,onion,jalapeno",119.4
+Pizza,Veggie Delight,1,0,"Black Olives, Golden Corn, Red Paprika & Capsicum",165.0
+Pizza,Veggie Feast,1,0,Onion & Capsicum,119.4
+Pizza,Mexican Veggie,1,0,"Onion, Capsicum, Tomato, Jalapeno & Sprinkled with Exotic herbs",165.0
+Pizza,Veggie Supreme,1,0,"Onion, Capsicum, Mushroom, Golden Corn & Paneer",192.0
+Pizza,Vaganza Veggie,1,0,"Black Olives, Onion, Capsicum, Mushroom, Tomato, Golden Corn, Jalapeno",192.0
+Sides,Cheese Garlic Bread,1,0,Cheesy Classic (4PCS),78.0
+Sides,Double Crunch Pizza,1,0,Sweetcorn & jalapeño with creamy cheese,113.4
+Sides,Garlic Sticks & Cheesy Dip,1,0,,81.0
+Sides,Onion Chilly Garlic Bread,1,0,Onion & Red Paprika (4PCS),84.0
+Sides,Paneer Calzones,1,0,"Paneer,capsicum,red paprika,onion,jalapeno,makhhani sauce,gauda cheese,signature spices sprinkle",107.4
+Sides,Stuffed Fusion Masala Bread,1,0,,114.0
+Sides,Stuffed Garlic Bread,1,0,"Jalapeno, Golden Corn & Cheese",105.0
+Sides,Sweetcorn Chilly Garlic Bread,1,0,Golden Corn & Red Paprika (4PCS),84.0
+Pocket Buddies,Capsicum,1,0,,66.0
+Pocket Buddies,Cheesy,1,0,,87.0
+Pocket Buddies,Cheesy Mushroom,1,0,,66.0
+Pocket Buddies,Golden Corn,1,0,,66.0
+Pocket Buddies,Onion,1,0,,54.0
+Pocket Buddies,Paneer,1,0,,75.0
+Pocket Buddies,Paneer Onion,1,0,,84.0
+Pocket Buddies,Tomato,1,0,,54.0
+Pocket Buddies,Veg Treat,1,0,,95.4
+Choice Of Dips,Cheese Dip,1,0,,18.0
+Choice Of Dips,Cheesy Jalapeno Dip,1,0,,18.0
+Choice Of Dips,Chilly Garlic Dip,1,0,,18.0
+Choice Of Dips,Ketchup,1,0,,1.2
+Choice Of Dips,Schezwan Dip,1,0,,18.0
+Desserts,Chocolate Volcano,1,0,,81.0
+Meals,4 Pizza Combo,1,0,Select any 4 pizza,345.0
+Meals,Calzones Meal,1,0,Paneer Calzone + Chocolate Volcano + Pepsi [250 Ml],209.4
+Meals,Meal For Two,1,0,1 medium pizza+Garlic bread+ 2 cold drinks(250ml),419.4
+Meals,Meal For 1,1,0,Paneer Lover + paneer calzones + pepsi,239.4
+Meals,Pasta Meal Of Your Choice,1,0,1 Pasta [Alfredo/Arrabiata] + Cheese Garlic Bread [4 Pieces] + Pepsi [250 Ml],209.4
+Meals,Pasta Treat For 2,1,0,Alfredo Pasta + Arrabiata Pasta + 1 Garlic bread Sticks with Cheesy ... read more,269.4
+Pasta,Alfredo Pasta In White Sause,1,0,,102.0
+Pasta,Arrbiata Pasta In Red Sause,1,0,,102.0

@@ -1,0 +1,139 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Gujarat Ni Shaan,Bataka Bhaji,1,0,400 Ml. ( Non Jain ),165.0
+Gujarat Ni Shaan,Bengan Bharta ( Non Jain ),1,0,400 Ml. ( Non Jain ),195.0
+Gujarat Ni Shaan,Bengan Bhurji,1,0,400 Ml. ( Non Jain ),195.0
+Gujarat Ni Shaan,Bhindi Masala,1,0,400 Ml,195.0
+Gujarat Ni Shaan,Cabbage Mutter,1,0,400 Ml,170.0
+Gujarat Ni Shaan,Dahi Tikhari,1,0,400 Ml,150.0
+Gujarat Ni Shaan,Gathiya Shabji,1,0,400 Ml,170.0
+Gujarat Ni Shaan,Jeera Aloo,1,0,400 Ml. ( Non Jain ),170.0
+Gujarat Ni Shaan,Kaju Gathia,1,0,400 Ml,195.0
+Gujarat Ni Shaan,Kanda Bataka,1,0,400 Ml,170.0
+Gujarat Ni Shaan,Kanda Papad,1,0,400 Ml,170.0
+Gujarat Ni Shaan,Lasaniya Bataka,1,0,400 Ml. ( Non Jain ),180.0
+Gujarat Ni Shaan,Makkai Masala,1,0,400 Ml,170.0
+Gujarat Ni Shaan,Methi Aloo,1,0,400 Ml. ( Non Jain ),180.0
+Gujarat Ni Shaan,Mix Shaak,1,0,400 Ml,190.0
+Gujarat Ni Shaan,Mutter Masala,1,0,400 Ml,170.0
+Gujarat Ni Shaan,Rasawala Bataka,1,0,400 Ml. ( Non Jain ),170.0
+Gujarat Ni Shaan,Sev Masala,1,0,400 Ml,170.0
+Gujarat Ni Shaan,Sev Tomato,1,0,400 Ml,170.0
+Gujarat Ni Shaan,Tawa Sabji,1,0,400 Ml,255.0
+Gujarat Ni Shaan,Tomato Bataka,1,0,400 Ml,170.0
+Gujarat Ni Shaan,Vagharelo Rotlo,1,0,400 Ml,190.0
+Punjab Ki Khushboo,Aloo Gobi,1,0,400 Ml. ( Non Jain ),205.0
+Punjab Ki Khushboo,Aloo Mutter,1,0,400 Ml.,205.0
+Punjab Ki Khushboo,Aloo Palak,1,0,400 Ml.,205.0
+Punjab Ki Khushboo,Chana Masala,1,0,400 Ml.,205.0
+Punjab Ki Khushboo,Corn Capsicum,1,0,400 Ml.,205.0
+Punjab Ki Khushboo,Corn Palak,1,0,400 Ml.,200.0
+Punjab Ki Khushboo,Dal Fry,1,0,400 Ml.,165.0
+Punjab Ki Khushboo,Dal Fry ( Butter ),1,0,400 Ml.,175.0
+Punjab Ki Khushboo,Dal Palak,1,0,400 Ml.,195.0
+Punjab Ki Khushboo,Dal Tadka,1,0,400 Ml.,185.0
+Punjab Ki Khushboo,Dal Tadka ( Butter ),1,0,400 Ml.,195.0
+Punjab Ki Khushboo,Dum Aloo (Punjabi),1,0,400 Ml. ( Non Jain ),270.0
+Punjab Ki Khushboo,Green Palak,1,0,400 Ml.,230.0
+Punjab Ki Khushboo,Jalaram Special Veg.,1,0,400 Ml.,355.0
+Punjab Ki Khushboo,Lasuni Palak,1,0,400 Ml.,245.0
+Punjab Ki Khushboo,Methi Malai Mutter,1,0,400 Ml.,230.0
+Punjab Ki Khushboo,Mix Veg,1,0,400 Ml.,230.0
+Punjab Ki Khushboo,Mutter Palak,1,0,400 Ml.,250.0
+Punjab Ki Khushboo,Tawa Veg.,1,0,400 Ml. ( Non Jain ),235.0
+Punjab Ki Khushboo,Veg Garden,1,0,400 Ml.,250.0
+Punjab Ki Khushboo,Veg Handi,1,0,400 Ml.,260.0
+Punjab Ki Khushboo,Veg Harabhara,1,0,400 Ml.,255.0
+Punjab Ki Khushboo,Veg Hungama,1,0,400 Ml.,255.0
+Punjab Ki Khushboo,Veg Hyderabadi,1,0,400 Ml.,250.0
+Punjab Ki Khushboo,Veg Jaipuri,1,0,400 Ml. ( Non Jain ),250.0
+Punjab Ki Khushboo,Veg Kadai,1,0,400 Ml. ( Non Jain ),250.0
+Punjab Ki Khushboo,Veg Kolhapuri,1,0,400 Ml.,250.0
+Punjab Ki Khushboo,Veg Lasaniya,1,0,400 Ml. ( Non Jain ),255.0
+Punjab Ki Khushboo,Veg Maharaja,1,0,400 Ml. ( Non Jain ),255.0
+Punjab Ki Khushboo,Veg Makkhanwala,1,0,400 Ml.,255.0
+Punjab Ki Khushboo,Veg Patiyala,1,0,400 Ml. ( Non Jain ),270.0
+Punjab Ki Khushboo,Veg Toofani,1,0,400 Ml.,260.0
+Paneer Ki Karamat,Paneer Afghani,1,0,400 Ml. ( Non Jain ),290.0
+Paneer Ki Karamat,Paneer Angara,1,0,400 Ml.,290.0
+Paneer Ki Karamat,Paneer Balti,1,0,400 Ml.,290.0
+Paneer Ki Karamat,Paneer Bhurji,1,0,400 Ml.,345.0
+Paneer Ki Karamat,Paneer Butter Masala,1,0,400 Ml.,285.0
+Paneer Ki Karamat,Paneer Chana Masala,1,0,400 Ml.,275.0
+Paneer Ki Karamat,Paneer Chatpata,1,0,400 Ml.,285.0
+Paneer Ki Karamat,Paneer Handi,1,0,400 Ml.,285.0
+Paneer Ki Karamat,Paneer Kadai,1,0,400 Ml.,285.0
+Paneer Ki Karamat,Paneer Kali Mirch,1,0,400 Ml. ( Non Jain ),310.0
+Paneer Ki Karamat,Paneer Lahori,1,0,400 Ml. ( Non Jain ),340.0
+Paneer Ki Karamat,Paneer Lawabdar,1,0,400 Ml. ( Non Jain ),345.0
+Paneer Ki Karamat,Paneer Lazeez,1,0,400 Ml.,285.0
+Paneer Ki Karamat,Paneer Makhmali,1,0,400 Ml.,285.0
+Paneer Ki Karamat,Paneer Makkhanwala,1,0,400 Ml.,285.0
+Paneer Ki Karamat,Paneer Mutter,1,0,400 Ml.,275.0
+Paneer Ki Karamat,Paneer Palak,1,0,400 Ml.,285.0
+Paneer Ki Karamat,Paneer Pasanda,1,0,400 Ml. ( Non Jain ),370.0
+Paneer Ki Karamat,Paneer Patiyala,1,0,400 Ml. ( Non Jain ),370.0
+Paneer Ki Karamat,Paneer Shahi,1,0,400 Ml.,310.0
+Paneer Ki Karamat,Paneer Tawa,1,0,400 Ml.,320.0
+Paneer Ki Karamat,Paneer Tikka Masala,1,0,400 Ml.,320.0
+Paneer Ki Karamat,Paneer Toofani,1,0,400 Ml.,320.0
+Aap Ki Pasand,Cheese Begum Bahar,1,0,400 Ml. ( Non Jain ),380.0
+Aap Ki Pasand,Cheese Butter Masala,1,0,400 Ml.,380.0
+Aap Ki Pasand,Cheese Paneer Maslala,1,0,400 Ml.,380.0
+Aap Ki Pasand,Kaju Curry,1,0,400 Ml. ( Non Jain ),380.0
+Aap Ki Pasand,Kaju Masala,1,0,400 Ml.,380.0
+Aap Ki Pasand,Kaju Paneer Masala,1,0,400 Ml.,380.0
+Aap Ki Pasand,Malai Kofta,1,0,400 Ml. ( Non Jain ),300.0
+Aap Ki Pasand,Mushroom Cheese,1,0,400 Ml.,380.0
+Aap Ki Pasand,Mushroom Corn,1,0,400 Ml. ( Non Jain ),380.0
+Aap Ki Pasand,Mushroom Kaju,1,0,400 Ml.,380.0
+Aap Ki Pasand,Mushroom Masala,1,0,400 Ml.,380.0
+Aap Ki Pasand,Mushroom Paneer,1,0,400 Ml.,380.0
+Aap Ki Pasand,Nargis Kofta,1,0,400 Ml. ( Non Jain ),300.0
+Aap Ki Pasand,Paneer Kofta,1,0,400 Ml. ( Non Jain ),300.0
+Aap Ki Pasand,Veg Kofta,1,0,400 Ml. ( Non Jain ),300.0
+Roti,Bajari Rotla,1,0,,36.0
+Roti,Bhakhari,1,0,,35.0
+Roti,Churma ( Sweet ),1,0,,95.0
+Roti,Fulka Roti,1,0,Serves 1 | Soft and fluffy rotis topped with a generous serving of ... read more,24.0
+Roti,Juvar Rotla,1,0,,36.0
+Roti,Lasaniya Rotla,1,0,,95.0
+Roti,Methi Thepla,1,0,,32.0
+Roti,Parotha,1,0,,38.0
+Roti,Vedmi ( Puranpoli),1,0,,85.0
+Khichdi & Rice,Achari Khichdi,1,0,400 Ml.,235.0
+Khichdi & Rice,Dal Khichdi,1,0,400 Ml.,235.0
+Khichdi & Rice,Dal Tadka Khichdi,1,0,400 Ml. ( Non Jain ),250.0
+Khichdi & Rice,Farali Khichdi,1,0,400 Ml.,155.0
+Khichdi & Rice,Green Peas Pulav & Kadhi,1,0,400 Ml.,210.0
+Khichdi & Rice,Handi Biryani & Raita,1,0,400 Ml.,255.0
+Khichdi & Rice,Hyderabadi Biryani & Raita,1,0,400 Ml.,255.0
+Khichdi & Rice,Jeera Rice,1,0,400 Ml.,160.0
+Khichdi & Rice,Palak Khichdi,1,0,400 Ml.,235.0
+Khichdi & Rice,Rajwadi Khichdi,1,0,400 Ml. ( Non Jain ),220.0
+Khichdi & Rice,Saadi Khichdi,1,0,400 Ml.,155.0
+Khichdi & Rice,Steam Rice,1,0,400 Ml.,120.0
+Khichdi & Rice,Tawa Pulav & Kadhi,1,0,400 Ml.,255.0
+Khichdi & Rice,Veg Biryani & Raita,1,0,400 Ml.,255.0
+Khichdi & Rice,Veg Pulav & Kadhi,1,0,400 Ml.,215.0
+Khichdi & Rice,Xyz,1,0,,200.0
+Iske Bina Adhura,Bundi Raita,1,0,400 Ml.,150.0
+Iske Bina Adhura,Butter Milk,1,0,200 Ml.,60.0
+Iske Bina Adhura,Butter Milk ( Plain ),1,0,,45.0
+Iske Bina Adhura,Cheese Masala Papad,1,0,,110.0
+Iske Bina Adhura,Cucumber Salad,1,0,,90.0
+Iske Bina Adhura,Curd,1,0,200 Ml.,85.0
+Iske Bina Adhura,Dahi Bundi (Sweet),1,0,400 Ml.,150.0
+Iske Bina Adhura,Fry Papad,1,0,,42.0
+Iske Bina Adhura,Garlic Chutney,1,0,50 Gm.,85.0
+Iske Bina Adhura,Ghee,1,0,,110.0
+Iske Bina Adhura,Gol,1,0,,50.0
+Iske Bina Adhura,Gol Ghee,1,0,,120.0
+Iske Bina Adhura,Green Salad,1,0,,155.0
+Iske Bina Adhura,Kachumber Salad,1,0,,120.0
+Iske Bina Adhura,Kadhi (Gujarati),1,0,400 Ml.,95.0
+Iske Bina Adhura,Masala Papad,1,0,,75.0
+Iske Bina Adhura,Onion Salad,1,0,,90.0
+Iske Bina Adhura,Roasted Papad,1,0,"| Serve 1 , 1 Pc | | Medium spicy |",32.0
+Iske Bina Adhura,Sweet Lassi,1,0,300 Ml.,110.0
+Iske Bina Adhura,Tomato Salad,1,0,,90.0
+Iske Bina Adhura,Veg Raita,1,0,400 Ml.,150.0

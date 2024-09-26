@@ -1,0 +1,178 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Pulao with Dahi Kadhi,1,0,Pulao with Dahi Kadhi,200.0
+Combos,Khichdi with Dahi Kadhi,1,0,Khichdi with Dahi Kadhi,200.0
+Thali,Thali,1,0,2 sabji+2 Paratha + 1 farsan + dal + rice +1 sweet.+salad[Subject to ... read more,180.0
+Thali,Gujarati Tiffin,1,0,4 Sabji+15 roti/20 puri+2 farsan+rice+dal/curry+sweet+salad+papad[Subject to Availability],400.0
+Soups and Salads,Tomato Soup,1,0,,120.0
+Soups and Salads,Veg Clear Soup,1,0,,120.0
+Soups and Salads,Minestrone Soup,1,0,,120.0
+Soups and Salads,Cream Of Mushroom Soup,1,0,,120.0
+Soups and Salads,Cream Of Spinach Soup,1,0,,120.0
+Soups and Salads,Cream Of Veg Soup,1,0,,120.0
+Soups and Salads,French Onion Soup,1,0,,120.0
+Soups and Salads,Plain Sweet Corn Soup,1,0,,120.0
+Soups and Salads,Veg Sweet Corn Soup,1,0,,120.0
+Soups and Salads,Hot n Sour Soup,1,0,,120.0
+Soups and Salads,Veg Manchow Soup,1,0,,120.0
+Soups and Salads,Veg Noodles Soup,1,0,,120.0
+Soups and Salads,Coriander Baby Corn Soup,1,0,,120.0
+Soups and Salads,Lemon Coriander Soup,1,0,,120.0
+Soups and Salads,Italian Salad,1,0,,120.0
+Soups and Salads,Paneer Corn Salad,1,0,,120.0
+Soups and Salads,Russian Salad,1,0,,120.0
+Soups and Salads,Corn Salad,1,0,,120.0
+Soups and Salads,Toast Salad,1,0,,115.0
+Soups and Salads,Green Salad,1,0,A healthy mixture of freshly cut garden vegetables and sprouts.,115.0
+Soups and Salads,Tomato Salad,1,0,,115.0
+Starters,Chana Bhatura,1,0,,210.0
+Starters,Paneer Pakora,1,0,,160.0
+Starters,Cheese Pakora,1,0,,160.0
+Starters,Hara Bhara Kabab,1,0,,180.0
+Starters,Mixed Pakora,1,0,,150.0
+Starters,Mixed Farsan,1,0,,150.0
+Starters,Corn Bhel,1,0,,130.0
+Starters,Indian Bhel,1,0,,130.0
+Starters,Aloo Chaat,1,0,,130.0
+Starters,Chana Chaat,1,0,,130.0
+Starters,Veg Cutlet,1,0,,130.0
+Main Course,Yuvraj Special Veg,1,0,[Spicy],250.0
+Main Course,Kaju Paneer Masala,1,0,[Spicy],240.0
+Main Course,Kaju Masala,1,0,[Spicy],230.0
+Main Course,Kaju Curry,1,0,,230.0
+Main Course,Paneer Tikka Masala,1,0,[Extra Spicy],230.0
+Main Course,Paneer Rogan,0,0,[Extra Spicy],230.0
+Main Course,Paneer Pasanda,1,0,,230.0
+Main Course,Paneer Toofani,1,0,[Extra Spicy],230.0
+Main Course,Paneer Lazeez,1,0,[Spicy],230.0
+Main Course,Paneer Angara,1,0,[Extra Spicy],230.0
+Main Course,Paneer Handi,1,0,[Spicy],230.0
+Main Course,Paneer Balti,1,0,[Spicy],230.0
+Main Course,Paneer Lababdar,1,0,[Spicy],230.0
+Main Course,Paneer Makamali,1,0,[Spicy],230.0
+Main Course,Frons Paneer,1,0,[Extra Spicy],230.0
+Main Course,Hara Bhara Masala,1,0,[Extra Spicy],230.0
+Main Course,Paneer Butter Masala,1,0,[Spicy],230.0
+Main Course,Paneer Palak,1,0,[Spicy],230.0
+Main Course,Paneer Mirch Masala,1,0,[Extra Spicy],230.0
+Main Course,Paneer Bhurji,1,0,[Spicy],230.0
+Main Course,Cheese Kofta,1,0,,230.0
+Main Course,Nargis Kofta,1,0,,215.0
+Main Course,Malai Kofta,1,0,[Spicy],210.0
+Main Course,Veg Handi,1,0,,210.0
+Main Course,Veg Makhanwala,1,0,[Extra Spicy],210.0
+Main Course,Veg Kolhapuri,1,0,,210.0
+Main Course,Veg Haryali Tadaka,1,0,[Extra Spicy],210.0
+Main Course,Kadai Vegetable,1,0,[Spicy],210.0
+Main Course,Tawa Mushroom,1,0,[Spicy],220.0
+Main Course,Dum Aloo Kashmiri,1,0,,200.0
+Main Course,Dum Aloo Punjabi,1,0,,200.0
+Main Course,Methi Malai Mutter,1,0,,210.0
+Main Course,Chana Masala,1,0,[Spicy],210.0
+Main Course,Aloo Gobhi,1,0,,200.0
+Main Course,Bhindi Masala,1,0,,190.0
+Main Course,Veg Hungama,1,0,[Extra Spicy],210.0
+Main Course,Veg Deewani Handi,1,0,[Spicy],210.0
+Main Course,Makhmali Kofta,1,0,[Spicy],210.0
+Main Course,Gujrati Veg,1,0,,160.0
+Main Course,Dal Makhani,1,0,,200.0
+Main Course,Butter Dal Fry,1,0,,200.0
+Main Course,Dal Punjabi Fry,1,0,,180.0
+Main Course,Surati Dal,1,0,,160.0
+Main Course,Gujrati Kadhi,1,0,,160.0
+Breads,Pudina Parantha,1,0,,80.0
+Breads,Butter Parantha,1,0,,70.0
+Breads,Stuffed Parantha,1,0,,70.0
+Breads,Tawa Parantha,1,0,,60.0
+Breads,Butter Fulka,1,0,,35.0
+Breads,Plain Fulka,1,0,,30.0
+Rice and Biryani,Jeera Rice,1,0,"Rice preparation, scented with a complex blend aromatic herbs and spices",150.0
+Rice and Biryani,Veg Pulao,1,0,,150.0
+Rice and Biryani,Ghee Rice,1,0,,140.0
+Rice and Biryani,Plain Rice,1,0,,130.0
+Rice and Biryani,Hyderabadi Biryani,1,0,,200.0
+Rice and Biryani,Dum Biryani,1,0,,200.0
+Rice and Biryani,Handi Biryani,1,0,,190.0
+Rice and Biryani,Mushroom Biryani,1,0,,190.0
+Rice and Biryani,Veg Biryani,1,0,,170.0
+Chinese Dishes,Paneer Chilli,1,0,,180.0
+Chinese Dishes,Paneer Chilli Dry,1,0,,180.0
+Chinese Dishes,Paneer Schezwan,1,0,,180.0
+Chinese Dishes,Paneer Schezwan Dry,1,0,,180.0
+Chinese Dishes,Baby Corn Chilli,1,0,,180.0
+Chinese Dishes,Baby Corn Chilli Dry,1,0,,180.0
+Chinese Dishes,Mushroom Chilli,1,0,,180.0
+Chinese Dishes,Veg Manchurian,1,0,,170.0
+Chinese Dishes,Veg Balls in Schezwan Sauce,1,0,,170.0
+Chinese Dishes,Mix Veg in Manchurian Sauce,1,0,,170.0
+Chinese Dishes,American Chopsey,1,0,,170.0
+Chinese Dishes,Gobhi Manchurian,1,0,,170.0
+Chinese Dishes,Paneer Manchurian,1,0,,180.0
+Chinese Dishes,Paneer Spring Roll,1,0,,180.0
+Chinese Dishes,Crispy Vegetables,1,0,,160.0
+Chinese Dishes,Veg Mushroom Dry,1,0,,170.0
+Chinese Dishes,Veg Spring Roll,1,0,Crispy Shanghai style rolls served with tasty hot garlic sauce.,160.0
+Chinese Dishes,Dragon Spring Roll,1,0,,160.0
+Chinese Dishes,Gobhi Manchurian Dry,1,0,,170.0
+Chinese Dishes,Veg Schezwan Rice,1,0,,180.0
+Chinese Dishes,Veg Mushroom Bhel,1,0,,180.0
+Chinese Dishes,Mushroom Fried Noodles,1,0,,180.0
+Chinese Dishes,Veg Fried Noodles,1,0,,170.0
+Chinese Dishes,Veg Singapuri Noodles,1,0,,170.0
+Chinese Dishes,Veg Hakka Noodles,1,0,,170.0
+Chinese Dishes,Veg Fried Rice,1,0,,170.0
+Chinese Dishes,Mushroom Hakka Noodles,1,0,,170.0
+Chinese Dishes,Veg Noodles with Rice,1,0,,170.0
+Pizza and Sandwiches,Yuvraj Pizza,1,0,,200.0
+Pizza and Sandwiches,Mushroom Pizza,1,0,,180.0
+Pizza and Sandwiches,Italian Pizza,1,0,,180.0
+Pizza and Sandwiches,"Capsicum, Onion and Cheese Pizza",1,0,,180.0
+Pizza and Sandwiches,Veg Pizza,1,0,,180.0
+Pizza and Sandwiches,Grilled Sandwich,1,0,,160.0
+Pizza and Sandwiches,Chilli Cheese Toast Sandwich,1,0,,150.0
+Pizza and Sandwiches,Corn Toast Sandwich,1,0,,140.0
+Pizza and Sandwiches,Garlic Toast Sandwich,1,0,,140.0
+Pizza and Sandwiches,Cheese Sandwich,1,0,,140.0
+Pizza and Sandwiches,Tomato Cheese Sandwich,1,0,,140.0
+Pizza and Sandwiches,Veg Plain Sandwich,1,0,,130.0
+Pizza and Sandwiches,Veg Toast Sandwich,1,0,,130.0
+Quick Bites,Finger Chips,1,0,,110.0
+Quick Bites,Toast Butter,1,0,,100.0
+Quick Bites,Bread Butter,1,0,,90.0
+Quick Bites,Butter,1,0,,90.0
+Accompaniments,Veg Raita,1,0,,120.0
+Accompaniments,Boondi Raita,1,0,,120.0
+Accompaniments,Pineapple Raita,1,0,,120.0
+Accompaniments,Plain Raita,1,0,,100.0
+Accompaniments,Fried Papad,1,0,,50.0
+Accompaniments,Masala Papad,1,0,,60.0
+Accompaniments,Roasted Papad,1,0,,40.0
+Lockdown Menu,Gujarati Tiffin,1,0,Veg Sabji - 3 + Sweet + Farsan - 2 + Rice + ... read more,400.0
+Lockdown Menu,Gujarati Parcel Tray,1,0,Veg Sabji - 2 + Sweet + Farsan + Rice + Dal + ... read more,180.0
+Lockdown Menu,Paneer Butter Masala,1,0,[Spicy],230.0
+Lockdown Menu,Paneer Mirch Masala,1,0,[Extra Spicy],230.0
+Lockdown Menu,Kaju Paneer Masala,1,0,[Spicy],250.0
+Lockdown Menu,Tawa Mushroom,1,0,[Spicy],230.0
+Lockdown Menu,Kaju Curry,1,0,,230.0
+Lockdown Menu,Green Peas Masala,1,0,,210.0
+Lockdown Menu,Mix Veg,1,0,,210.0
+Lockdown Menu,Aloo Gobi,1,0,,210.0
+Lockdown Menu,Aloo Jeera,1,0,,200.0
+Lockdown Menu,Dal Fry,1,0,,200.0
+Lockdown Menu,Dal Tadka,1,0,,220.0
+Lockdown Menu,Butter Dal Fry,1,0,,210.0
+Lockdown Menu,Gobi Manchurian,1,0,,180.0
+Lockdown Menu,Veg Manchurian,1,0,,180.0
+Lockdown Menu,Mushroom Chilli,1,0,,180.0
+Lockdown Menu,Veg Fried Rice,1,0,,170.0
+Lockdown Menu,Veg Schezwan Rice,1,0,,180.0
+Lockdown Menu,Plain Rice,1,0,,130.0
+Lockdown Menu,Jeera Rice,1,0,"Rice preparation, scented with a complex blend aromatic herbs and spices",150.0
+Lockdown Menu,Veg Biryani,1,0,,180.0
+Lockdown Menu,Handi Biryani,1,0,,190.0
+Lockdown Menu,Fulka Roti Plain,1,0,,30.0
+Lockdown Menu,Fulka Roti Butter,1,0,,35.0
+Lockdown Menu,Tawa Paratha,1,0,,60.0
+Lockdown Menu,Butter Paratha,1,0,,90.0
+Lockdown Menu,Grilled Sandwich,1,0,,160.0
+Lockdown Menu,Toast Butter Sandwich,1,0,,160.0
+Lockdown Menu,Bread Butter,1,0,,100.0

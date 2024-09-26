@@ -1,0 +1,82 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special,Chicken Omlet (2 Eggs),0,0,,120.0
+Special,Chicken Fried Rice,0,0,,135.0
+Special,Chicken Schezwan Rice,0,0,,135.0
+Special,Singapuri Rice,0,0,[Chicken],135.0
+Special,Chicken Egg Bhurji,0,0,,180.0
+Special,Chicken Omlet Dhosa,0,0,Egg omlette with boneless chicken fillings,199.0
+Special,Ultra Mega Pro Combo,0,0,Chicken Paratha + Chicken leg + Chicken 65 + Egg Biryani + Egg ... read more,650.0
+Saving Combos,Egg Pulao + Egg Sandwich,0,0,,145.0
+Saving Combos,Masala Omlet + Egg Mixed Kheema + 6 Pav,0,0,,145.0
+Saving Combos,Garlic Omlet + Egg Pulao,0,0,,145.0
+Saving Combos,Nimbu Mari Omlet + Egg Australian Fry + 6 Pav,0,0,,180.0
+Saving Combos,Australian Fry + Pav [6 Pieces] + Egg Sandwich,0,0,,180.0
+Saving Combos,Red Gotalo + Egg Sandwich + Pav [6 Pieces],0,0,,180.0
+Saving Combos,Green Gotala + Garlic Omlet + 6 Paav,0,0,,180.0
+Saving Combos,Chicken 65 and Egg Sandwich,0,0,,199.0
+Saving Combos,Chicken 65 + Schezwan Fried Rice,0,0,,229.0
+Saving Combos,Egg Australian Fry + Chicken Leg + 4 Paav,0,0,,259.0
+Saving Combos,Chicken Kadhai + 4 Roti + Salad,0,0,,275.0
+Special Combos,Boiled Egg Fry Combo,0,0,1 Boiled Egg Fry+1 Egg Bhurji+1 Egg Sandwich+8 Pav,199.0
+Special Combos,Egg Gotalo [2 Egg] + Tomato Fry [1 Egg] + 8 Pav,0,0,,199.0
+Special Combos,Boiled Egg Masala [2 Eggs] with Egg Ghotala,0,0,Boiled Egg Masala [2 Eggs]+Egg Ghotala+Rasavali Omelette+8 Pav,299.0
+Special Combos,Chicken Fried Rice+Green Chicken Gravy+4 Roti,0,0,,359.0
+Special Combos,Chicken Tikka Biryani with Egg Sandwich,0,0,,200.0
+All New Thali,Silver Egg Thali,0,0,Green Egg Keema+Red Egg Curry+Egg Pulao+4 Roti/Pav [8 Pav]+Salad,235.0
+All New Thali,Golden Egg Thali,0,0,Green Keema+Cream Egg Red Curry+Egg Biryani+4 Roti/Pav [8 Pav]+Salad,235.0
+Tandoori Chicken,Roasted Tandoori Chicken Leg,0,0,Tandoori chicken is a chicken dish prepared by roasting chicken marinated in yogurt ... read more,188.0
+Tandoori Chicken,Roasted Tandoori Chicken Chest,0,0,"Warm spices like ginger, turmeric, cinnamon and cumin mixed with yogurt make the ... read more",188.0
+Tandoori Chicken,Fry Tandoori Chicken Leg,0,0,Fried chicken is a chicken dish prepared by roasting chicken marinated in yogurt ... read more,188.0
+Tandoori Chicken,Fry Tandoori Chicken Chest,0,0,,188.0
+Tandoori Chicken,Crispy Chicken 65,0,0,Crispy fried chicken nuggets,188.0
+Tandoori Chicken,Boneless Chicken 65,0,0,,240.0
+Tandoori Chicken,Chicken Golden Tikka,0,0,,240.0
+Tandoori Chicken,Chicken Red Tikka + Chicken 65 + Chicken leg + Chicken Fried Rice,0,0,,399.0
+Tandoori Chicken,Full Roasted Tandoori Chicken,0,0,"Include 2 leg 2 seena piece, whole roasted chicken",650.0
+Tandoori Chicken,Chicken Cheese Leg,0,0,,195.0
+Tandoori Chicken,Chicken Winter Leg,0,0,,195.0
+Tandoori Chicken,Special Rumali Chicken,0,0,,200.0
+Tandoori Chicken,Chicken Tikka Gravy,0,0,,255.0
+Main Course,Egg Lasan Kachu,0,0,,75.0
+Main Course,Egg Mixed Keema,0,0,,75.0
+Main Course,Green Lasan Fry,0,0,,75.0
+Main Course,Egg Tomato Fry,0,0,,75.0
+Main Course,Egg Bhurji,0,0,,75.0
+Main Course,Egg Masala Lachko,0,0,,120.0
+Main Course,Chinese Fry,0,0,,130.0
+Main Course,Egg Australian Fry,0,0,,130.0
+Main Course,Green Gotalo,0,0,,130.0
+Main Course,Red Gotalo,0,0,,130.0
+Main Course,Goti Gotalo,0,0,,130.0
+Main Course,Egg Ravaiya,0,0,,130.0
+Main Course,Chicken Kaleji Fry,0,0,Kaleji masala or chicken liver masala is a semi-dry preparation and is a ... read more,165.0
+Main Course,Special Anda Paplet,0,0,|Chef'S Special|,180.0
+Main Course,Special Tawa Chicken,0,0,,255.0
+Main Course,Chicken Machhi Masala,0,0,,255.0
+Main Course,Chicken Masala,0,0,,255.0
+Main Course,Chicken Angara,0,0,,255.0
+Main Course,Chicken Kadhai,0,0,,255.0
+Main Course,Chicken Handi,0,0,,255.0
+Main Course,Chicken Kolhapuri,0,0,,255.0
+Main Course,Green Chicken Gravy,0,0,,255.0
+Rice Varieties,Jeera Rice,1,0,Plain basmati rice in fresh jeera cooked,79.0
+Rice Varieties,Veg Pulao,1,0,,120.0
+Rice Varieties,Egg Pulao,0,0,"imple, aromatic and healthy meal of boiled eggs stir fried with rice |Chef'S ... read more",135.0
+Rice Varieties,Chicken Kashmiri Pulao,0,0,,140.0
+Rice Varieties,Kaleji Pulao,0,0,[Chicken],195.0
+Rice Varieties,Tandoori Chicken Biryani,0,0,,189.0
+Rice Varieties,Chicken Tikka Biryani,0,0,,189.0
+Bread,Roti,1,0,,16.0
+Egg Special,Boiled Egg,0,0,,33.0
+Egg Special,Egg Sandwich,0,0,|Chef'S Special|,50.0
+Egg Special,Omelette,0,0,,50.0
+Egg Special,Garlic Omelette,0,0,,50.0
+Egg Special,Limbu Mari Omelette,0,0,,50.0
+Egg Special,Egg Salt Mari Fry,0,0,,55.0
+Egg Special,Masala Omelette,0,0,,55.0
+Egg Special,Egg Boil Fry,0,0,,75.0
+Egg Special,Goti Fry,0,0,,120.0
+Egg Special,Anda Dhosa,0,0,,130.0
+Snacks,Extra Pav [2 Pav],1,0,,12.0
+Snacks,Extra Pav [4 Pav],1,0,,24.0
+Accompaniment,Schezwan Chutney,1,0,,20.0

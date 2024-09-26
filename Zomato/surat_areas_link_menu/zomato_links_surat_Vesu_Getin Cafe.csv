@@ -1,0 +1,129 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwich,Cheesy Round Paneer Sandwich,1,0,,250.0
+Sandwich,Mumbai Veg Cheese Sandwich,1,0,,170.0
+Sandwich,Paneer Makhani Sandwich,1,0,,240.0
+Sandwich,Schezwan Veg Cheese Grilled Sandwich,1,0,,210.0
+Sandwich,Sev Tandoori Paneer Sandwich,1,0,,250.0
+Sandwich,Veg Cheese Grilled Sandwich,1,0,,190.0
+Burger,Get In Special Burger,1,0,,220.0
+Burger,Schezwan Veg Burger,1,0,,210.0
+Burger,Tandoori Paneer Cheese Burger,1,0,,200.0
+Burger,Veg Burger,1,0,,160.0
+Pasta,Alfredo Pasta,1,0,,320.0
+Pasta,Arrabbiata Pasta,1,0,,300.0
+Pasta,Desi Style Pasta,1,0,,280.0
+Pasta,Mix Sauce Pasta,1,0,,350.0
+Rice,Brunt Chilly Garlic Rice,1,0,,300.0
+Rice,Chef Special Pot Cheese Rice,1,0,,349.0
+Rice,Fried Rice,1,0,,240.0
+Rice,Manchurian Rice,1,0,,290.0
+Rice,Paneer Rice,1,0,,280.0
+Rice,Schezwan Rice,1,0,,250.0
+Rice,Tripple Rice,1,0,,280.0
+Garlic Bread,Cheese Garlic Bread,1,0,,220.0
+Garlic Bread,Chilly Garlic Bread,1,0,,230.0
+Garlic Bread,Corn Chilly Garlic Bread,1,0,,240.0
+Garlic Bread,Masala Chilly Garlic Bread,1,0,,230.0
+Garlic Bread,Paneer Tikka Chilly Garlic Bread,1,0,,250.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,,240.0
+Pav Bhaji,Extra Pav,1,0,,25.0
+Pav Bhaji,Masala Pav Bhaji,1,0,,200.0
+Pav Bhaji,Regular Pav Bhaji,1,0,,180.0
+Bhel,Bombay Bhel,1,0,,230.0
+Bhel,Chinese Bhel,1,0,,250.0
+Bhel,Singapuri Bhel,1,0,,260.0
+Fries,Cheese Fries,1,0,,200.0
+Fries,Peri Peri,1,0,,170.0
+Fries,Regular Fries,1,0,,160.0
+Fries,Triple Fries,1,0,,250.0
+Fries,Zig Zag Fries,1,0,,180.0
+Noodles,Chilly Garlic Noodles,1,0,,230.0
+Noodles,Hakka Noodles,1,0,,200.0
+Noodles,Hong Kong Noodles,1,0,,250.0
+Noodles,Manchurian Noodles,1,0,,240.0
+Noodles,Schezwan Noodles,1,0,,220.0
+Noodles,Singapuri Noodles,1,0,,240.0
+Pizza,BBQ Paneer Pizza [8 Inch],1,0,,300.0
+Pizza,Exotic Pizza [8 Inch],1,0,,280.0
+Pizza,Extra Cheese,1,0,,60.0
+Pizza,Farm House Pizza [8 Inch],1,0,,320.0
+Pizza,Get In Special Pizza [8 Inch],1,0,,350.0
+Pizza,Italian Pizza [8 Inch],1,0,,300.0
+Pizza,Margherita Pizza [8 Inch],1,0,,270.0
+Pizza,Mumbai Paneer Pizza [8 Inch],1,0,,300.0
+Pizza,Schezwan Cheese Pizza [8 Inch],1,0,,290.0
+Drink,Coke [Serves 1],1,0,,60.0
+Drink,Lemon Ice Tea [Serves 1],1,0,,150.0
+Drink,Mazza [Serves 1],1,0,,80.0
+Drink,Pitch Ice Tea [Serves 1],1,0,,160.0
+Drink,Red Bull [Serves 1],1,0,,200.0
+Drink,Sprite [Serves 1],1,0,,60.0
+Drink,Thums-up [Serves 1],1,0,,60.0
+Drink,Water [Serves 1],1,0,,20.0
+Combo,Dry Manchurian + Fries + Pizza + Cold Drink,1,0,,549.0
+Combo,Fries + Burger + Cold Coffee,1,0,,399.0
+Combo,Paneer Chilly + Pizza + Pasta + Fries + Cold Drink,1,0,,649.0
+Mocktails,Blue Sky,1,0,,180.0
+Mocktails,Chilly Guava,1,0,,200.0
+Mocktails,Get In Special,1,0,,200.0
+Mocktails,Green Apple,1,0,,180.0
+Mocktails,Kachha Aam,1,0,,200.0
+Mocktails,Kala Khatta,1,0,,200.0
+Mocktails,Mint Mojito,1,0,,180.0
+Mocktails,Orange Lime,1,0,,180.0
+Mocktails,Pink Grapes,1,0,,200.0
+Mocktails,Royal Hummer,1,0,,200.0
+Mocktails,Virgin Mojito,1,0,,200.0
+Mocktails,Water Melon,1,0,,180.0
+Coffee,Carmel Coffee [Serves 1],1,0,,230.0
+Coffee,Cold Coffee [Serves 1],1,0,,180.0
+Coffee,Hazel Nut Coffee [Serves 1],1,0,,220.0
+Coffee,Irish Coffee [Serves 1],1,0,,230.0
+Coffee,Kit Kat Coffee [Serves 1],1,0,,220.0
+Coffee,Oreo Coffee [Serves 1],1,0,,200.0
+Chinese Starter,Baby Corn Chilly Dry,1,0,,250.0
+Chinese Starter,Dry Manchurian,1,0,,230.0
+Chinese Starter,Honey Chilly Potato,1,0,,240.0
+Chinese Starter,Italian Paneer Chilly,1,0,,300.0
+Chinese Starter,Paneer 65,1,0,,280.0
+Chinese Starter,Paneer Chilly Dry,1,0,,270.0
+Chinese Starter,Paneer Hong Kong Dry,1,0,,280.0
+Chinese Starter,Soya Chaap,1,0,,250.0
+Chinese Starter,Veg 65,1,0,,260.0
+Chinese Starter,Veg Crispy,1,0,,250.0
+Chinese Starter,Veg Lollipop,1,0,,270.0
+Chinese Roll,Veg Cheese Roll,1,0,,300.0
+Chinese Roll,Veg Noodles Roll,1,0,,250.0
+Chinese Roll,Veg Spring Roll,1,0,,280.0
+Sizzler,Chinese Sizzler,1,0,,400.0
+Sizzler,Get In Special Sizzler,1,0,,450.0
+Sizzler,Pasta Sizzler,1,0,,450.0
+Milk Shake,Blueberry Shake (Fast),1,0,,270.0
+Milk Shake,Brownie Shake,1,0,,250.0
+Milk Shake,Chocolate Shake,1,0,,200.0
+Milk Shake,Creame Caramel Shake,1,0,,290.0
+Milk Shake,Get In Special Shake,1,0,,250.0
+Milk Shake,Hazal Nut Shake,1,0,,260.0
+Milk Shake,Kitkat Shake,1,0,,250.0
+Milk Shake,Lotus Biscoff Shake,1,0,,290.0
+Milk Shake,Oreo Shake,1,0,,250.0
+Milk Shake,Pina Colada,1,0,,220.0
+Milk Shake,Red Velvet Shake,1,0,,220.0
+Milk Shake,Strawberry Shake (Fast),1,0,,220.0
+Soup,Hot N Sour Soup,1,0,,160.0
+Soup,Lemon Coriander Soup,1,0,,170.0
+Soup,Manchow Soup,1,0,,150.0
+Cheese Crunch,Cheese Corn Ball,1,0,,250.0
+Cheese Crunch,Cheese Shot,1,0,,220.0
+Cheese Crunch,Potato Waves,1,0,,200.0
+Nachos,Nachos With Beens,1,0,,230.0
+Nachos,Nachos With Cheese,1,0,,250.0
+Momos,Cheese Paneer Momos [6 Pcs],1,0,,250.0
+Momos,Peri Peri Momos [6 Pcs],1,0,,230.0
+Momos,Regular Momos [6 Pcs],1,0,,200.0
+Momos,Schezwan Momos [6 Pcs],1,0,,220.0
+Dessert,American Nuts,1,0,,200.0
+Dessert,Cheese Cake,1,0,,280.0
+Dessert,Choco Lava,1,0,,200.0
+Dessert,Double Sunday,1,0,,180.0
+Dessert,Sizzling Brow,1,0,,250.0

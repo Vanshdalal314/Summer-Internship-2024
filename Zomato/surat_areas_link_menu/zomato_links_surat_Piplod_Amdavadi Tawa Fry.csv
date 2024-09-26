@@ -1,0 +1,105 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Afghani Chicken Leg Gravy [1 Piece] with 4 Butter Roti and Papad,0,0,,231.0
+Combos,Chicken Tandoori Leg with Chicken Bhuna [500 ml] and 4 Butter Roti,0,0,,294.0
+Combos,Chicken Malai Tikka [3 Pieces] Combo,0,0,Chicken Malai Tikka [3 Pieces]+Rose Garden [500 ml]+4 Butter Roti,301.0
+Combos,Nawabi Chicken [750 ml] Combo,0,0,Nawabi Chicken [750 ml]+4 Butter Roti+Jeera Rice [500 ml]+Papad,349.3
+Combos,Chicken Tandoori Tikka [3 Pieces] Combo,0,0,Chicken Tandoori Tikka [3 Pieces]+Boneless Chicken Kadai [500 ml]+4 Roti,314.3
+Combos,Chicken Soup [500 ml] Combo,0,0,Chicken Soup [500 ml]+Chicken Kolhapuri [500 ml]+4 Butter Roti,398.3
+Combos,Chicken 65 [250 grams] with Chicken Angara [500 ml],0,0,Chicken 65 [250 grams]+Chicken Angara [500 ml]+4 Butter Roti+Papad,398.3
+Combos,Chicken Lollipop [4 Pieces] Combo,0,0,Chicken Lollipop [4 Pieces]+Chicken Tikka Masala [500 ml]+4 Butter Roti+Papad,398.3
+Combos,Butter Chicken [750 ml] with 4 Butter Roti and Jeera Rice,0,0,Butter Chicken [750 ml]+4 Butter Roti+Jeera Rice+Papad,335.3
+Combos,Chicken 65 [250 grams] Combo,0,0,Chicken 65 [250 grams]+Chicken Masala [750 ml]+4 Butter Roti,489.3
+Combos,Boneless Chicken Biryani with Chicken Leg Tandoori,0,0,Traditional chicken biryani is made by layering marinated chicken and then layered with ... read more,398.3
+Soup,Chicken Soup,0,0,A delectable soup prepared by simmering chicken slivers in a tasty stock- perfect ... read more,134.4
+Starters,Chicken Leg Tandoori,0,0,"Chicken tandoori, a blend of chicken marinated in yogurt, citrus, and spices, then ... read more",134.4
+Starters,Pathani Chicken Leg,0,0,,134.4
+Starters,Chicken 65 [250 grams],0,0,A classic poultry dish with South Indian origins. It consists of deep-fried chicken ... read more,156.8
+Starters,Chicken Chest Tandoori,0,0,A perfect Chest Tandoor,156.8
+Starters,Cheese Leg,0,0,,179.2
+Starters,Chicken Lollipop [6 Pieces],0,0,A crispy and juicy Indian chicken dish coated with a luscious batter with ... read more,201.6
+Starters,Special Leg,0,0,A tandoor packed chicken leg piece topped with cheese.,201.6
+Starters,Pathani Tandoori,0,0,,257.6
+Starters,Tangdi Kabab [4 Pieces],0,0,,291.2
+Starters,Special Zafrani Tikka,0,0,,313.6
+Main Course,Tawa Fry,0,0,"Chicken breast, spices, garlic ginger paste and yogurt.",168.0
+Main Course,Chicken Kaleji Fry,0,0,Juicy chicken liver fried on tawa with some ground spices.,168.0
+Main Course,Chicken Kaleji Masala,0,0,,190.4
+Main Course,Tikka Masala,0,0,A chicken tikka mixed in a semi gravy of select Indian masala.,201.6
+Main Course,Chicken Bhuna,0,0,"Boneless chicken pieces smeared in tomato based gravy, along with ginger and garlic.",201.6
+Main Course,Special Tawa Fry,0,0,,212.8
+Main Course,Amdavadi Tawa Fry,0,0,"Chicken breast, spices, garlic ginger paste & yogurt.",212.8
+Main Course,Chicken Machi Masala,0,0,A special machi style fry masala made with chicken chunks.,212.8
+Main Course,Chicken Farida,0,0,,224.0
+Main Course,Rose Garden,0,0,,224.0
+Main Course,Chicken Chatpata,0,0,,235.2
+Main Course,Chicken Toofani,0,0,,235.2
+Main Course,Lollypop Masala,0,0,,235.2
+Main Course,Chicken Afghani,0,0,,235.2
+Main Course,Ginger Boneless,0,0,,246.4
+Main Course,Paplet Chicken,0,0,,246.4
+Main Course,Chicken Khushnuma,0,0,,246.4
+Main Course,Chicken Bombay Tawa Fry,0,0,"Amdavadi special chicken tawa fry marinated with garlic sauce, soft chicken breast, yogurt ... read more",268.8
+Main Course,Chicken Patiala,0,0,,280.0
+Main Course,Chicken Dilkhush Gravy,0,0,,358.4
+Main Course,Chicken Golden Gravy,0,0,,358.4
+Main Course,Chicken Reshmi Gravy,0,0,,358.4
+Main Course,Chicken Rogan Josh,0,0,,246.4
+Main Course,Garlic Chicken [Quarter],0,0,,291.2
+Main Course,Chicken Lasaniya Gravy,0,0,[Chef's Special],291.2
+Main Course,Muskan Chicken,0,0,,324.8
+Main Course,Chicken Angoori,0,0,,324.8
+Main Course,Special Zulubar,0,0,,324.8
+Main Course,Chicken Shabnam [Quarter],0,0,,347.2
+Main Course,Lazeez Chicken,0,0,,380.8
+Main Course,Special Amdavadi Chicken Boneless,0,0,[Chef's Special],392.0
+Main Course,Chicken 20,0,0,,425.6
+Main Course,Chicken Masala,0,0,A wholesome combination with succulent chicken cooked in a flavor-packed masala.,212.8
+Main Course,Achari Chicken,0,0,,224.0
+Main Course,Chicken Kashmiri,0,0,,235.2
+Main Course,Lemon Chicken,0,0,A gravy item made with marinated chicken pices with lemon and some select ... read more,235.2
+Main Course,Lemon Dhania,0,0,,235.2
+Main Course,Chicken Handi,0,0,,235.2
+Main Course,Chicken Kadai,0,0,,235.2
+Main Course,Arabic Chicken,0,0,,235.2
+Main Course,Butter Chicken,0,0,,246.4
+Main Course,Chicken Angara,0,0,A semi chicken mild spicy gravy made up with chicken chunks and angara ... read more,246.4
+Main Course,Chicken Kolhapuri,0,0,,246.4
+Main Course,Green Chicken,0,0,,246.4
+Main Course,Kasturi Chicken,0,0,,246.4
+Main Course,Nawabi Chicken,0,0,,246.4
+Main Course,Lajawab Chicken,0,0,,246.4
+Main Course,Hyderabadi Chicken,0,0,,246.4
+Main Course,Cheese Chicken,0,0,,257.6
+Main Course,Boneless Chicken Masala,0,0,,235.2
+Main Course,Boneless Chicken Kashmiri,0,0,,257.6
+Main Course,Boneless Lemon Chicken,0,0,,257.6
+Main Course,Boneless Chicken Lemon Dhania,0,0,,257.6
+Main Course,Boneless Chicken Kadai,0,0,,257.6
+Main Course,Boneless Chicken Handi,0,0,,257.6
+Main Course,Boneless Arabic Chicken,0,0,,257.6
+Main Course,Boneless Achari Chicken,0,0,,257.6
+Main Course,Boneless Butter Chicken,0,0,Chunks of grilled chicken (tandoori chicken) cooked in a smooth buttery & creamy ... read more,268.8
+Main Course,Boneless Chicken Angara,0,0,,268.8
+Main Course,Boneless Chicken Kolhapuri,0,0,,268.8
+Main Course,Boneless Green Chicken,0,0,,268.8
+Main Course,Bonless Kasturi Chicken,0,0,,268.8
+Main Course,Boneless Nawabi Chicken,0,0,,268.8
+Main Course,Boneless Lajawab Chicken,0,0,,268.8
+Main Course,Boneless Hyderabadi Chicken,0,0,,268.8
+Main Course,Boneless Cheese Chicken,0,0,,280.0
+Breads,Chapati,1,0,A flat bread made with wheat flour.,11.2
+Breads,Butter Chapati,1,0,,16.8
+Rice and Biryani,Plain Rice,1,0,This steamed white rice goes well with curries and dals.,89.6
+Rice and Biryani,Jeera Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices.,112.0
+Rice and Biryani,Egg Fried Rice,0,0,,145.6
+Rice and Biryani,Schezwan Fried Rice,0,0,"Schezwan sauce, basmati rice, boneless chicken, french beans, chilli paste, bell pepper, ginger ... read more",168.0
+Rice and Biryani,Chicken Fried Rice,0,0,"Bell peppers, hot sauce, cooked rice, spring onion and garlic.",179.2
+Rice and Biryani,Chicken Tikka Fried Rice,0,0,Broiled in clay oven and then simmered in creamy tomato curry sauce. Served ... read more,190.4
+Rice and Biryani,Singapore Chicken Fried Rice,0,0,,201.6
+Rice and Biryani,Boneless Chicken Biryani,0,0,Traditional chicken biryani is made by layering marinated chicken and then layered with ... read more,201.6
+Rice and Biryani,Special Chicken Leg Biryani,0,0,"A delightful chicken biryani infused with aromatic spices, prepared with our fresh and ... read more",224.0
+Rice and Biryani,Special Dilruba Chicken Fried Rice,0,0,,268.8
+Rice and Biryani,Chicken Triple Rice,0,0,,291.2
+Rice and Biryani,Chicken Pizza Rice,0,0,,324.8
+Accompaniments,Roasted Papad,1,0,Simple roasted papad.,22.4
+Accompaniments,Fried Papad,1,0,"Papad is a thin Indian wafer, sometimes described as a cracker and flatbread. ... read more",22.4

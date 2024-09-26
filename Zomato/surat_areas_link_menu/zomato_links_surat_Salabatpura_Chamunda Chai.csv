@@ -1,0 +1,46 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tea and Snacks Combos,2 Full Rajwadi Chai [Tea] + Samosa [2 Pieces],1,0,2 full Chai with Kachori and chutney.,103.5
+Tea and Snacks Combos,2 Full Rajwadi Chai [Tea] + Kachori [2 Pieces],1,0,2 full Chai with Kachori and chutney.,103.5
+Tea and Snacks Combos,2 Full Rajwadi Chai [Tea] + Thepla [3 Pieces],1,0,"2 full Chai with Thepla, Chilli and Lasooni chutney.",93.6
+Tea and Snacks Combos,2 Full Rajwadi Chai [Tea] + Khaja Puri [250 Grams],1,0,2 full Chai with Khaja Puri/ Jeera Puri.,143.1
+Tea and Snacks Combos,2 Full Rajwadi Chai [Tea] + Papdi [250 Grams],1,0,"2 full Chai with Papdi, Kadi and Chilli.",150.3
+Tea and Snacks Combos,2 Full Rajwadi Chai [Tea] + Fafda [250 Grams],1,0,"2 full Chai with Papdi, Kadi and Chilli.",178.2
+Tea and Snacks Combos,Rajwadi Chai [Tea] + Samosa [2 Pieces],1,0,4 full Chai with Kachori and chutney.,161.99
+Tea and Snacks Combos,Rajwadi Chai [Tea] + Kachori [2 Pieces],1,0,4 full Chai with Kachori and chutney.,161.99
+Tea and Snacks Combos,Rajwadi Chai [Tea] + Thepla [3 Pieces],1,0,"4 full Chai with Thepla, Chilli and Lasooni chutney.",161.1
+Tea and Snacks Combos,Rajwadi Chai [Tea] + Papdi [250 Grams],1,0,"4 full Chai with Papdi, Kadi and Chilli.",211.5
+Tea and Snacks Combos,Rajwadi Chai [Tea] + Fafda [250 Grams],1,0,"4 full Chai with Fafda, Kadi and Chilli.",238.98
+Tea and Snacks Combos,Rajwadi Chai [Tea] + Khaja Puri [250 Grams],1,0,4 full Chai with Khaja Puri/ Jeera Puri.,204.62
+Sweet and Snacks Combos,Jalebi [250 Gram] + Fafda [250 Gram],1,0,Jalebi [250 grams]+Fafda [250 grams],198.0
+Sweet and Snacks Combos,Milk Mawa [250 Gram] + Samosa [2 Pieces] with Chutney,1,0,Milk Mawa [250 Gram] + Kachori [2 Pieces] with Chutney,158.4
+Sweet and Snacks Combos,Milk Mawa [250 Gram] + Kachori [2 Pieces] with Chutney,1,0,Milk Mawa [250 grams]+Kachori [2 Pieces]+Chutney,159.25
+Sweet and Snacks Combos,Milk Mawa [250 Gram] + Papdi with Kadi and Chilli [100 Gram],1,0,Milk Mawa [250 grams]+Papdi+Kadi+Chilli [100 grams],154.75
+Sweet and Snacks Combos,Milk Mawa [250 Gram] + Thepla [3 pieces],1,0,Milk Mawa [250 grams]+3 Thepla,151.2
+Sweet and Snacks Combos,Milk Mawa [250 Gram] + Khaja Puri [100 Gram],1,0,Milk Mawa [250 grams]+Khaja Puri [100 grams],151.2
+Sweet and Snacks Combos,Milk Mawa,1,0,,117.9
+Sweet and Snacks Combos,Jalebi,1,0,,85.5
+Hot Beverages,Rajwadi Chai [Tea] [Delivered in Chai Flask],1,0,Select from 4 to 8 full cups of Chai [Delivered hot in a ... read more,121.5
+Hot Beverages,Rajwadi Coffee [Delivered in Coffee Flask],1,0,Select from 4 to 8 full cups of Coffee [Delivered hot in a ... read more,135.0
+Hot Beverages,Special Black Chai [Black Tea] [Delivered in Chai Flask],1,0,Select from 4 to 8 full cups of Chai [Delivered hot in a ... read more,135.0
+Hot Beverages,Special Black Coffee [Delivered in Coffee Flask],1,0,Select from 4 to 8 full cups of Coffee [Delivered hot in a ... read more,114.28
+Snacks,Samosa [2 Pieces] with Chutney,1,0,,40.5
+Snacks,Kachori [2 Pieces] with Chutney,1,0,,40.5
+Snacks,Papdi with Kadi and Chilli,1,0,,36.0
+Snacks,Fafda with Kadi and Chilli,1,0,,45.0
+Snacks,Thepla [3 pieces],1,0,Handmade theplas with Chilli and Lasooni chutney.,40.5
+Snacks,Khaja Puri,1,0,Jeera puri.,32.4
+Snacks,Shakkar Para,1,0,,36.0
+Snacks,Surti Bhusu,1,0,,90.0
+Snacks,Sev Bundi,1,0,,90.0
+Snacks,Maska Khari,1,0,,22.5
+Snacks,Plain Toast,1,0,,22.5
+Snacks,Vanilla Cream Roll,1,0,,22.5
+Snacks,Chocolate Cream Roll,1,0,,22.5
+Bhajiya,Bataka Puri,1,0,,85.5
+Bhajiya,Onion Bhajiya,1,0,,90.0
+Bhajiya,Methi Gota,1,0,,90.0
+Meals For One,2 Full Rajwadi Chai [Tea] + Papdi [250 grams],1,0,"2 full Chai with Papdi, Kadi and Chilli.",148.5
+Meals For One,2 Full Rajwadi Chai [Tea] + Fafda [250 grams],1,0,"2 full Chai with Papdi, Kadi and Chilli.",171.0
+Meals For One,Milk Mawa [250 grams] + Samosa [2 Pieces] With Chutney,1,0,,157.5
+Meals For One,Kachori [2 Pieces] with Samosa [2 Pieces],1,0,Kachori [2 Pieces]+Chutney+Samosa [2 Pieces],72.9
+Cold Coffee,"Cold Coffee [500 ml, 1 Flask] with 3 Kulhad",1,0,,180.0

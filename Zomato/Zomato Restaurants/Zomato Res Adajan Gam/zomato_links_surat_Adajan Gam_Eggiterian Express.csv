@@ -1,0 +1,48 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Main Course,Paneer Bhurji,1,0,,170.0
+Main Course,Egg Diet Keema,0,0,,130.0
+Main Course,Exotic Egg Bhurji,0,0,,130.0
+Main Course,Diet Egg Curry,0,0,,160.0
+Main Course,Egg Bhurji,0,0,,120.0
+Main Course,Egg Keema,0,0,,120.0
+Main Course,Egg Kachu,0,0,,130.0
+Main Course,Egg Lackka,0,0,,140.0
+Main Course,Egg Boil Fry,0,0,,160.0
+Main Course,Egg Gotado,0,0,,160.0
+Main Course,Egg Paplet,0,0,,280.0
+Main Course,Egg Curry,0,0,,180.0
+Main Course,Egg Royal Curry,0,0,,230.0
+Main Course,Egg Boil Fry Masala,0,0,,140.0
+Main Course,Egg Ultimate Keema,0,0,,170.0
+Main Course,Dal Tadka,0,0,Tadka to badhka taste me.,260.0
+Main Course,Go Greeny,0,0,"A special green gravy, seasoned with fresh garlic & served hot.",210.0
+Main Course,Lachko Tadka,0,0,Kuccha pucca & with tadka served very hot.,170.0
+Rice and Biryani,Veg Pulao,1,0,,200.0
+Rice and Biryani,Veg Schezwan Pulao,1,0,,200.0
+Rice and Biryani,Egg Biryani,0,0,An amazing rice dish made with special gravy.,210.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,200.0
+Fried Rice and Noodles,Egg Schezwan Fried Rice,0,0,,200.0
+Fried Rice and Noodles,Egg Chowmein,0,0,,180.0
+Sandwich,Egglet Sandwich,0,0,A sandwich which has an egg to let up your taste track.,119.0
+Bowl,Egg Green Rice Bowl,0,0,,200.0
+Starters,Chilli Paneer,1,0,"An egg wrapped & papped by spices & sauces, just grab it.",130.0
+Starters,Paneer Sukka,1,0,"An egg wrapped & papped by spices & sauces, just grab it.",130.0
+Starters,Paneer Garlic,1,0,"An egg wrapped & papped by spices & sauces, just grab it.",130.0
+Starters,Royal Paneer,1,0,"An egg wrapped & papped by spices & sauces, just grab it.",130.0
+Starters,Egg Half Fry,0,0,,70.0
+Starters,Egg Masala Fry,0,0,,150.0
+Starters,Egg Chinese Fry,0,0,,200.0
+Starters,Egg Fantasy,0,0,,210.0
+Starters,Egg Garlic Fry,0,0,,160.0
+Starters,Egg Fry Tadka,0,0,,200.0
+Snacks,Butter Pav Bhaji,1,0,Yummy cheesy stuff & fresh coriander on it.,130.0
+Snacks,Cheese Bonda,1,0,Yummy cheesy stuff & fresh coriander on it.,220.0
+Snacks,Mexican Cheese Omelette,0,0,,160.0
+Snacks,Lime Omelette,0,0,,110.0
+Snacks,Masala Omelette,0,0,,90.0
+Snacks,Lemon Pepper Omelette,0,0,,90.0
+Snacks,Cheese Omelette,0,0,,120.0
+Snacks,Tandoori Omelette,0,0,Sauteed veggies with Mexican herbs & graded cheese on it.,170.0
+Snacks,Egg Patra,0,0,Spicy roll with tangy & desi tadka on it.,170.0
+Snacks,Bombay Omelette,0,0,,90.0
+Snacks,Mexican Omelette,0,0,Sauteed veggies with Mexican herbs & graded cheese on it.,180.0

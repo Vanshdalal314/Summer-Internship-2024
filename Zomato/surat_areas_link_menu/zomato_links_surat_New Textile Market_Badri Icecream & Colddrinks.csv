@@ -1,0 +1,48 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Faloodas,Icecream Falooda,1,0,,95.24
+Special Faloodas,Kulfi Falooda,1,0,Kulfi Falooda,123.81
+Special Faloodas,Royal Chocolate Falooda,1,0,,133.33
+Special Faloodas,Royal Dryfruit,1,0,,133.33
+Special Faloodas,Royal Mango,1,0,,133.33
+Special Faloodas,Malai Rose Falooda,1,0,,114.29
+Special Faloodas,Sp Falsa Malai,1,0,,123.81
+Special Faloodas,Royal Rose,1,0,,123.81
+Special Faloodas,Royal Kesar,1,0,,133.33
+Premium Ice Creams,All Fruit,1,0,,47.62
+Premium Ice Creams,Badam Pista Ice-cream,1,0,,57.14
+Premium Ice Creams,Blueberry Ice-cream,1,0,,57.14
+Premium Ice Creams,Malai Icecream,1,0,,123.81
+Premium Ice Creams,American Dry Fruit,1,0,,57.14
+Premium Ice Creams,Kaju Anjeer Ice Cream,1,0,,57.14
+Premium Ice Creams,Chocolate Chips,1,0,,57.14
+Premium Ice Creams,French Vanilla,1,0,,38.1
+Premium Ice Creams,Fresh Mango,1,0,,57.14
+Premium Ice Creams,Fresh Strawberry,1,0,,57.14
+Premium Ice Creams,Kesar Pista Ice Cream,1,0,,57.14
+Premium Ice Creams,Fresh Ice Cream 500 ML,1,0,,428.57
+Cold Coco,Cold Cocoa,1,0,,76.19
+Cold Coco,Cold Cocoa (kaju),1,0,,104.76
+Cold Coco,Cold Cocoa (malai),1,0,,104.76
+Cold Coco,Cold Cocoa Icecream,1,0,,114.29
+Cold Coco,Cold Cocoa Kaju + Malai,1,0,,123.81
+Milk Shakes,Badam Pista Shake,1,0,,114.29
+Milk Shakes,Blue Berry Milkshake,1,0,,114.29
+Milk Shakes,Falsa Milkshake,1,0,,95.24
+Milk Shakes,Kaju Anjeer Shake,1,0,,114.29
+Milk Shakes,Kitakat Shake,1,0,,114.29
+Milk Shakes,Nutella Milkshake,1,0,,114.29
+Milk Shakes,Strawberry Milkshake,1,0,,114.29
+Milk Shakes,Pineapple Milkshake,1,0,,95.24
+Milk Shakes,Mango Kaju Milk Shake,1,0,,114.29
+Milk Shakes,Rose Milk Shake,1,0,,95.24
+Milk Shakes,Oreo Milkshake,1,0,,114.29
+Cream Shakes,Cold Coffee,1,0,,114.29
+Kulfi,Anjeer,1,0,,95.24
+Kulfi,Badam Pista,1,0,,95.24
+Kulfi,Chocolate,1,0,,95.24
+Kulfi,Kesar Pista,1,0,,95.24
+Kulfi,Mango,1,0,,95.24
+Sharbat,Falsa Sherbet,1,0,,28.57
+Sharbat,Mango Sherbet,1,0,,28.57
+Sharbat,Pineapple Sherbet,1,0,,28.57
+Sharbat,Rose Sherbet,1,0,,28.57

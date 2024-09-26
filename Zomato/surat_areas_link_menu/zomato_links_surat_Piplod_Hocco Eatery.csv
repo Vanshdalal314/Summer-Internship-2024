@@ -1,0 +1,148 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Hocco Combos,Aloo Tikki Burger + Regular Fries+ Coke 250 Ml,1,0,Enjoy the flavorful Aloo Tikki Burger paired with crispy Regular Fries and a ... read more,123.81
+Hocco Combos,Chana Puri +1 Hocco Kulfi Scoop(80gm),1,0,,304.76
+Hocco Combos,Chana Puri +Butter Pulao+2 Chaas 800 Gm,1,0,"Chana Puri, Butter Pulao, and 2 Chaas, perfect for sharing a flavorful meal ... read more",538.1
+Hocco Combos,Hocco Aloo Paratha +1 Kaju Draksh Scoop(80gm),1,0,,238.1
+Hocco Combos,Hocco Special Pizza 10+ Jumbo Grilled Sandwich + 2 Coke 250 Ml 950gm,1,0,"Dive into a 25cm Hocco Special Pizza, relish a Jumbo Grilled Sandwich, and ... read more",600.0
+Hocco Combos,Hyderabadi Dumpukht Veg.biryani+ 1 Chocolate Scoop(80gm),1,0,,328.57
+Hocco Combos,Lucknawi Paneer Biryani+ 1 Chocolate Chips Scoop(80gm),1,0,,328.57
+Hocco Combos,Pav Bhaji + Butter Pulao+ 2 Chaas 900gm,1,0,"A meal to share: Enjoy Pav Bhaji and Butter Pulao, accompanied by 2 ... read more",538.1
+Hocco Specialities,Butter Bhaji Pav 300 Gm,1,0,"Rich and savory butter-laden bhaji served with soft pav bread, a comforting Mumbai ... read more",252.38
+Hocco Specialities,Chana Kulcha 300gm,1,0,"Recipe unchanged since 1944; Spiced chickpeas paired with soft, fluffy kulchas, a North ... read more",252.38
+Hocco Specialities,Chana Puri 300gm,1,0,"A Legacy continued since 1944 delicious combination of spicy chickpeas served alongside crispy, ... read more",252.38
+Hocco Specialities,Extra Bhaji,1,0,A flavorful and savory Indian street food delight that will leave your taste ... read more,176.19
+Hocco Specialities,Extra Chana,1,0,Everyone's favorite: The classic hocco chana recipe unchanged since 1944,176.19
+Hocco Specialities,Extra Kulcha,1,0,"Soft, fluffy accompaniment to our lip smaking chana.",33.33
+Hocco Specialities,Extra Pav,1,0,Baked in-house to fluffy perfection.,66.67
+Hocco Specialities,Punjabi Samosa [2 Pcs],1,0,Triangular pockets of crispy pastry stuffed with spiced potatoes and peas. Happiness personified.,90.48
+Hocco Specialities,Vegetables Cutlets [2 Pcs],1,0,"Savory vegetable cutlets, a flavorful blend of mixed veggies, potatoes, and spices, crisped ... read more",114.29
+Hocco Specialities,Chatpata Tikha Masala Sandwich [300gm],1,0,"Tandoori Paneer Tikka Open Sandwith Veggies, Cheese & Special Tandoori Mayo.",200.0
+Hocco Specialities,Cheese Pineapple Sandwich [160gm],1,0,"Sandwich With Pineapple Titbit, Pineapple Sauce & Cheese, Adelight You Can't Refuse.",157.14
+Hocco Specialities,Grilled Cheese Corn Capsicum Sandwich,1,0,"Grilled sandwich with cheese, sweet corn, and flavorful capsicum, a tasty treat for ... read more",200.0
+Hocco Specialities,Grilled Double Decker Mumbai Masala Sandwich,1,0,Triple layered sandwich made with aloo matar tikki and loaded with veggies - ... read more,252.38
+Hocco Specialities,Grilled Paneer Taka Tak Sandwich,1,0,"Sandwich stuffed with tandoori paneer, veggies, capsicum and onion.",200.0
+Hocco Specialities,Grilled Vegetable Coleslaw Sandwich,1,0,"Classic sandwich with veggies, cucumber, toamto and coleslow",123.81
+Hocco Specialities,Indi Italiana Sandiwch [260gm],1,0,"A Classic Italian Sandwich Stacked With Veggies, Olives, Jalapeno, Corn & Cheese Sauce, ... read more",157.14
+Hocco Specialities,Jumbo Grilled Sandwich 300gm,1,0,"An all time favourite! A triple decker sandwich loaded with veggies tomato, capsicum, ... read more",252.38
+Hocco Specialities,Melting Dairy Milk Sandwich [200gm],1,0,"Take Some Bread In A Pan And Add Dairy Milk Chocolate, Now Add ... read more",200.0
+Hocco Specialities,Mexican Tickle Sandwich [350gm],1,0,"A Tangy Mexican Refried Bean Stuffed With Corn, Jalapeno & Olive Top With ... read more",252.38
+Hocco Specialities,Mogambo Khush Hua Sandwich [470gm],1,0,"Jumbo Sandwich Made With Delicious Aloo Tikki And Loaded With Veggies, Cheese, Bbq ... read more",252.38
+Hocco Specialities,Nutella Paradise Sandwich [180gm],1,0,"Kids Special Sundae Sandwich Made With Loads Od Nutella, Button Chocolate, Coulourful Vermicelliand ... read more",200.0
+Hocco Specialities,Peri Peri Falafel Sandwich [350gm],1,0,"Fusion Labenese Falafel Sandwich With Thousand Iceland Sauce, Veggies & Peri Peri.",200.0
+Pizza,Cheesy Mexicana [25 Cm],1,0,"Mexican chipotle spiced sauce base with paneer tikks, jalapeno, chillies, olives, onions topped ... read more",438.1
+Pizza,Double Cheese Margherita [25 Cm],1,0,The Popular Margherita loaded with extra cheese!,390.48
+Pizza,Four Cheese [25 Cm],1,0,"Authentic four-cheese pizza, loaded with our handcrafted cheese sauce",495.24
+Pizza,Hocco Special Italian Farmhouse [25 Cm],1,0,Check out this mouthwatering overload of veggies over tomato-based sauce topped with chipotle ... read more,390.48
+Pizza,Margherita Pizza [25 Cm],1,0,Savor the timeless Margherita with our signature touch: an in-house marinara base complemented ... read more,252.38
+Pizza,Oh So Cheesy ! [25 Cm],1,0,"Cheese paradise withloads of veggies, corn, jalapeno, olives and onions, topped with cheese ... read more",438.1
+Pizza,Paneer Exotica [25 Cm],1,0,"Pizza with marinated paneer cubes, exotic veggies, black olives, bell peppers, sundried tomatoes ... read more",438.1
+Pizza,Rock Corn Veggie! [25 Cm],1,0,"Marinara sauce base, American corn along with black olives, chopped onion, tomato, jalapeno ... read more",438.1
+Pizza,Smoked Paneer Pizza Ten Inch [25 Cm],1,0,"Introducing a sizzling twist: a spicy, smoky BBQ sauce base harmonizing with the ... read more",438.1
+Pizza,Ahmedabadi Style Pizza (Thin Curst Only) (25 Cm),1,0,"Experience the street-style flair: a delightful medley of grated cheese, fresh tomatoes, zesty ... read more",309.52
+Pizza,Cheese Corn Pizza[15 CM] Thick,1,0,"A heavenly combination of creamy cheese and sweet corn, creating a harmonious blend ... read more",76.19
+Pizza,Margherita Pizza [15 Cm] Thick,1,0,Savor the timeless Margherita with our signature touch: an in-house marinara base complemented ... read more,76.19
+Hocco Burger,Cheesy Aloo Tikki Burger,1,0,"A mouthwatering twist: cheesy aloo tikki nestled between buns (baked in-house) with cheese, ... read more",61.9
+Hocco Burger,Classic Aloo Tikki Burger 125gm,1,0,A fusion favorite: aloo tikki sandwiched between buns (baked in-house) with fresh veggies ... read more,61.9
+Hocco Burger,Paneer Taka Tak Burger 125gm,1,0,A spicy paneer takatak patty nestled in buns with veggies and tangy sauces,133.33
+Hocco Burger,Peri Peri Aloo Tikki,1,0,"Spicy peri peri seasoned potato patty served between the bun, packed with flavor ... read more",61.9
+Hocco Burger,Veggie Burger[100 Gm],1,0,"A patty made with assorted vegetables and beans, served in a bun with ... read more",123.81
+Parathas,Amritsari Paratha,1,0,"A symphony of flavors, where chole and onion steal the show, harmonizing with ... read more",200.0
+Parathas,Cheese Corn Jelapeno Paratha,1,0,"A fusion favorite: a flavorful paratha packed with cheese, sweet corn, and spicy ... read more",200.0
+Parathas,Hocco Aloo Paratha,1,0,"Hearty and flavorful, Hocco's aloo paratha is a spiced potato-stuffed Indian flatbread delight! ... read more",166.67
+Biryani & Pulao,Butter Pulao (350gm),1,0,"Fragrant basmati rice cooked with butter, herbs, and spices, a rich and flavorful ... read more",256.19
+Biryani & Pulao,Cheese And Herb Rice 350gm,1,0,"Aromatic rice infused with savory cheese and fragrant herbs, a delightful and flavorful ... read more",256.19
+Biryani & Pulao,Hyderabadi Veg Dumpukht Biryani (350gm),1,0,"A layered rice dish cooked with fragrant spices, vegetables, and saffron, cooked to ... read more",309.52
+Biryani & Pulao,Lucknawi Paneer Biryani (350gm),1,0,"A regal dish combining fragrant basmati rice flavoured with rose, apricots, marinated paneer ... read more",309.52
+Biryani & Pulao,Mexican Rice 350gm,1,0,"Long-grain rice simmered in a tomato-infused broth, seasoned with onions, garlic, cumin, and ... read more",309.52
+Jain Special,Jain Bhaji (200 Gm),1,0,A flavorful and savory Indian street food delight that will leave your taste ... read more,200.0
+Jain Special,Jain Butter Bhaji Pav (300 Gm),1,0,"Rich and savory butter-laden bhaji served with soft pav bread, a comforting Mumbai ... read more",252.38
+Jain Special,Jain Chana (200 Gm),1,0,Everyone's favorite: The classic hocco chana recipe unchanged since 1944,200.0
+Jain Special,Jain Chana Kulcha (300 Gm),1,0,"Recipe unchanged since 1944; Spiced chickpeas paired with soft, fluffy kulchas, a North ... read more",252.38
+Jain Special,Jain Chana Puri (300 Gm),1,0,"A Legacy continued since 1944 delicious combination of spicy chickpeas served alongside crispy, ... read more",252.38
+Jain Special,Jain Ahmedabadi Style Pizza (Thin Curst Only) (25 Cm),1,0,"A Street Style Prep With Grated Cheese, Tomatoes, Onions And Capsicum",309.52
+Jain Special,Jain Hocco Special Italian Farmhouse?(25 Cm),1,0,Check out this mouthwatering overload of veggies over tomato-based sauce topped with chipotle ... read more,390.48
+Jain Special,Jain Oh So Cheesy Pizza (25 Cm),1,0,"Cheese paradise withloads of veggies, corn, jalapeno, olives and onions, topped with cheese ... read more",438.1
+Jain Special,Jain Butter Pulao (350 Gm),1,0,"Fragrant basmati rice cooked with butter, herbs, and spices, a rich and flavorful ... read more",256.19
+Jain Special,Jain Cheese And Herb Rice (350 Gm),1,0,"Aromatic rice infused with savory cheese and fragrant herbs, a delightful and flavorful ... read more",256.19
+Jain Special,Jain Grilled Cheese Corn Capsicum Sandwich,1,0,"Grilled sandwich with cheese, sweet corn, and flavorful capsicum, a tasty treat for ... read more",200.0
+Jain Special,Jain Grilled Cheese Sandwich,1,0,"Melted cheese with a dash of mint sauce embraced between toasted bread slices, ... read more",157.14
+Jain Special,Jain Grilled Double Decker Mumbai Masala Sandwich,1,0,Triple layered sandwich made with aloo matar tikki and loaded with veggies - ... read more,252.38
+Jain Special,Jain Grilled Vegetable Coleslaw Sandwich,1,0,"Classic sandwich with veggies, cucumber, toamto and coleslow",123.81
+Jain Special,Jain Indi Italiana Sandiwch (260 Gm),1,0,"A Classic Italian Sandwich Stacked With Veggies, Olives, Jalapeno, Corn & Cheese Sauce, ... read more",157.14
+Jain Special,Jain Jumbo Grilled Sandwich,1,0,"An all time favourite! A triple decker sandwich loaded with veggies tomato, capsicum, ... read more",252.38
+Jain Special,Jain Cheese Corn Jelapeno Paratha,1,0,"A fusion favorite: a flavorful paratha packed with cheese, sweet corn, and spicy ... read more",200.0
+Hocco Ice Cream Shake,Berry Blast Ice Cream Shake,1,0,"Bursting with vibrant berries, this shake is a fruity explosion, offering a refreshing ... read more",194.92
+Hocco Ice Cream Shake,Charcoal Lychee Ice CreamShake,1,0,"Uniquely captivating, this shake combines exotic lychee with detoxifying charcoal for a bold ... read more",194.92
+Hocco Ice Cream Shake,Chocolate Ice Cream Shake 300ml,1,0,"Pure chocolate bliss in a shake form, rich, creamy, and satisfyingly sweet for ... read more",148.31
+Hocco Ice Cream Shake,Cold Coffee Shake 300ml,1,0,"A timeless blend of chilled coffee, milk, and sweetness, delivering a refreshing and ... read more",148.31
+Hocco Ice Cream Shake,Dry Fruit Ice Cream Shake 300ml,1,0,"A wholesome blend of assorted dry fruits, delivering a nutritious and flavorful twist ... read more",177.97
+Hocco Ice Cream Shake,Kesar Pista Ice Cream Shake 300ml,1,0,"Savor the royal flavors of saffron and pistachio in this regal shake, offering ... read more",148.31
+Hocco Ice Cream Shake,Nutty Belgian Ice Cream Shake 300ml,1,0,"A heavenly blend of Belgian chocolate and nutty goodness, creating a decadent and ... read more",194.92
+Hocco Ice Cream Shake,Oreo Blast Ice Cream Shake 300ml,1,0,"Indulge in the classic combination of Oreo cookies and creamy goodness, resulting in ... read more",177.97
+Hocco Ice Cream Shake,Strawberry Ice Cream Shake 300ml,1,0,"Fresh and fruity, this shake captures the essence of ripe strawberries, providing a ... read more",97.46
+Hocco Ice Cream Shake,Vanilla Ice Cream Shake 300ml,1,0,"A classic and comforting shake, featuring the timeless flavor of vanilla for a ... read more",97.46
+Hocco Ice Cream Scoops,Almond Caramel Scoop,1,0,"Creamy, dreamy ice cream combined with roasted almonds and luscious caramel sauce",80.51
+Hocco Ice Cream Scoops,American Nuts Scoop,1,0,Indulge in the American Nuts ice cream. A rich and creamy blend of ... read more,80.51
+Hocco Ice Cream Scoops,Biscotti Scoop,1,0,Elevate your dessert experience with our Biscotti Ice Cream enriched with lotus biscoff ... read more,88.98
+Hocco Ice Cream Scoops,Black Currant Scoop,1,0,"Sweet and slightly tart black currants, expertly blended into our creamy ice cream, ... read more",80.51
+Hocco Ice Cream Scoops,Bluberry Cheese Cake Scoop,1,0,Dive into a symphony of flavors as smooth and creamy cheesecake ice cream ... read more,88.98
+Hocco Ice Cream Scoops,Charcoal Lychee Scoop,1,0,This unique treat features the subtle sweetness of lychee infused with the intriguing ... read more,88.98
+Hocco Ice Cream Scoops,Choco Chips Scoop,1,0,"Generously studded with an abundance of crispy and delightful chocolate chips, provides the ... read more",72.03
+Hocco Ice Cream Scoops,Chocolate Scoop,1,0,A timeless and pure decadence of our Chocolate ice cream. Made with the ... read more,72.03
+Hocco Ice Cream Scoops,Cookie & Cream Scoop,1,0,Elegantly mixed with chunks of delicious chocolate cookies and ice cream.,80.51
+Hocco Ice Cream Scoops,Filter Coffee Scoop,1,0,"Crafted to perfection, this dessert is an ode to the beloved South Indian ... read more",72.03
+Hocco Ice Cream Scoops,Golden Chocolate Scoop,1,0,This exquisite dessert combines the smooth richness of carameliezed milk chocolate with the ... read more,88.98
+Hocco Ice Cream Scoops,Hazelnut Mudslide Scoop,1,0,"Hazelnuts with a delightful mudslide twist, creating a creamy and nutty dessert that's ... read more",88.98
+Hocco Ice Cream Scoops,Hocco Kulfi Scoop,1,0,"Infused with the richness of pistachios, cashews, almonds, and the creamy essence of ... read more",88.98
+Hocco Ice Cream Scoops,Kaju Anjir Scoop,1,0,,80.51
+Hocco Ice Cream Scoops,Kaju Draksh Scoop,1,0,This unique dessert combines the buttery richness of cashew nuts (kaju) with the ... read more,72.03
+Hocco Ice Cream Scoops,Kesar Kali Scoop,1,0,"Featuring the luxurious essence of saffron, the nutty crunch of cashews and almonds, ... read more",88.98
+Hocco Ice Cream Scoops,Kesar Pista Scoop,1,0,Kesar Pista ice cream infused with the aromatic essence of saffron (kesar) and ... read more,80.51
+Hocco Ice Cream Scoops,Lonavla Chikki Scoop,1,0,Experience the rustic charm of Lonavala Chikki in every bite. It's a sweet ... read more,80.51
+Hocco Ice Cream Scoops,Nutty Belgian Dark Chocolate Scoop,1,0,Rich and velvety dark chocolate ice cream is generously studded with a variety ... read more,88.98
+Hocco Ice Cream Scoops,Pista Malai Scoop,1,0,"Treat yourself to the subtle creaminess of Pista Malai, a perfect blend of ... read more",80.51
+Hocco Ice Cream Scoops,Raj Bhog Scoop,1,0,This regal dessert combines the rich and creamy essence of Rajbhog with the ... read more,88.98
+Hocco Ice Cream Scoops,Shahi Begum Scoop,1,0,Elevate the grandeur of our Taj Mahal Ice Cream with the addition of ... read more,88.98
+Hocco Ice Cream Scoops,Strawberry Scoop,1,0,"Made from strawberry pulp, this delightful scoop is bursting with the natural essence ... read more",46.61
+Hocco Ice Cream Scoops,Swiss Cake Scoop,1,0,Creamy vanilla cake ice cream is generously swirled with luscious strawberry jam and ... read more,72.03
+Hocco Ice Cream Scoops,Vanilla Scoop,1,0,"This creamy delight is a pure indulgence of smooth, rich vanilla flavor that ... read more",46.61
+Ice Cream Family Tubs,Almond Caramel Family Tub 500ml,1,0,"Creamy, dreamy ice cream combined with roasted almonds and luscious caramel sauce",194.92
+Ice Cream Family Tubs,American Nuts Family Tub 500ml,1,0,Indulge in the American Nuts ice cream. A rich and creamy blend of ... read more,194.92
+Ice Cream Family Tubs,Biscotti Family Tub 500ml,1,0,Elevate your dessert experience with our Biscotti Ice Cream enriched with lotus biscoff ... read more,262.71
+Ice Cream Family Tubs,Black Currant Family Tub 500ml,1,0,"Sweet and slightly tart black currnts, expertly blended into our creamy ice cream, ... read more",194.92
+Ice Cream Family Tubs,Bluberry Cheese Cake Family Tub 500ml,1,0,Dive into a symphony of flavors as smooth and creamy cheesecake ice cream ... read more,262.71
+Ice Cream Family Tubs,Charcoal Lychee Family Tub 500ml,1,0,This unique treat features the subtle sweetness of lychee infused with the intriguing ... read more,262.71
+Ice Cream Family Tubs,Choco Chips Family Tub 500ml,1,0,"Generously studded with an abundance of crispy and delightful chocolate chips, provides the ... read more",177.97
+Ice Cream Family Tubs,Chocolate Family Tub 500ml,1,0,A timeless and pure decadence of our Chocolate ice cream. Made with the ... read more,177.97
+Ice Cream Family Tubs,Cookie & Cream Family Tub 500ml,1,0,Elegantly mixed with chunks of delicious chocolate cookies and ice cream.,194.92
+Ice Cream Family Tubs,Filter Coffee Family Tub 500ml,1,0,"Crafted to perfection, this dessert is an ode to the beloved South Indian ... read more",177.97
+Ice Cream Family Tubs,Golden Chocolate Family Tub 500ml,1,0,This exquisite dessert combines the smooth richness of carameliezed milk chocolate with the ... read more,262.71
+Ice Cream Family Tubs,Hazelnut Mudslide Family Tub 500ml,1,0,"Hazelnuts with a delightful mudslide twist, creating a creamy and nutty dessert that's ... read more",262.71
+Ice Cream Family Tubs,Hocco Kulfi Family Tub 500ml,1,0,"Infused with the richness of pistachios, cashews, almonds, and the creamy essence of ... read more",262.71
+Ice Cream Family Tubs,Kaju Anjir Family Tub 500ml,1,0,,194.92
+Ice Cream Family Tubs,Kaju Draksh Family Tub 500ml,1,0,This unique dessert combines the buttery richness of cashew nuts (kaju) with the ... read more,177.97
+Ice Cream Family Tubs,Kesar Kali Family Tub 500ml,1,0,"Featuring the luxurious essence of saffron, the nutty crunch of cashews and almonds, ... read more",262.71
+Ice Cream Family Tubs,Kesar Pista Family Tub 500ml,1,0,Kesar Pista ice cream infused with the aromatic essence of saffron (kesar) and ... read more,194.92
+Ice Cream Family Tubs,Lonavla Chikki Family Tub 500ml,1,0,Experience the rustic charm of Lonavala Chikki in every bite. It's a sweet ... read more,194.92
+Ice Cream Family Tubs,Nutty Belgian Dark ChocolateFamily Tub 500ml,1,0,Rich and velvety dark chocolate ice cream is generously studded with a variety ... read more,262.71
+Ice Cream Family Tubs,Pista Malai Family Tub 500ml,1,0,"Treat yourself to the subtle creaminess of Pista Malai, a perfect blend of ... read more",194.92
+Ice Cream Family Tubs,Raj Bhog Family Tub 500ml,1,0,This regal dessert combines the rich and creamy essence of Rajbhog with the ... read more,262.71
+Ice Cream Family Tubs,Shahi Begum Family Tub 500ml,1,0,Elevate the grandeur of our Taj Mahal Ice Cream with the addition of ... read more,262.71
+Ice Cream Family Tubs,Strawberry Family Tub 500ml,1,0,"Made from strawberry pulp, this delightful scoop is bursting with the natural essence ... read more",127.12
+Ice Cream Family Tubs,Swiss Cake Family Tub 500ml,1,0,Creamy vanilla cake ice cream is generously swirled with luscious strawberry jam and ... read more,177.97
+Ice Cream Family Tubs,Vanilla Family Tub 500ml,1,0,"This creamy delight is a pure indulgence of smooth, rich vanilla flavor that ... read more",127.12
+Beverages & Dessert,Gulab Jamun [2 Pieces] 60gm,1,0,"Spongy, Sweet, Cardamom-Infused Delight!",61.9
+Beverages & Dessert,Masala Chaas 250 Ml,1,0,"A zesty, spiced buttermilk bursting with flavors of cumin, coriander, and mint. A ... read more",52.38
+Hocco Ice Cream,ChocoChoco Crunch (120gm) Crunch (120gm),1,0,"Chocolate lover cant miss this creation with choco chips ice cream, huber crunch, ... read more",148.31
+Hocco Ice Cream,Current Affair (120gm),1,0,Special combo with Black current and american nuts ice cream's gathering with ... read more,101.69
+Hocco Ice Cream,Death By Chocolate (250gm),1,0,"Sweet death by Delicious Choco chips ice cream, nutty belgian ice cream with ... read more",245.76
+Hocco Ice Cream,Dreamy Chocolate (180gm),1,0,All-time favorite combination of Vanilla & Chocolate Ice cream mixed with Chocolate sauce ... read more,194.92
+Hocco Ice Cream,Hocco Celebration (300gm),1,0,"Its just Huge Celebration of ice cream_ vanilla, chocolate, strawberry, black currant, american ... read more",292.37
+Hocco Ice Cream,King Kulfi (110gm),1,0,Royal combination of Taj mahal ice cream & kulfi ice cream mix of ... read more,194.92
+Hocco Ice Cream,Oreo G (130gm),1,0,Unique combination with choco chips ice cream & cookie cream ice cream mix ... read more,148.31
+Hocco Ice Cream,Talk Of The Town (220gm),1,0,"Super Colorful combination of ice creams_vanilla, Strawberry, Kaju draksh, butter scotch with strawbery ... read more",148.31
+Hocco Ice Cream,Tropical Treat (150gm),1,0,"Assorment of classic ice creams - strawberry, vanilla & chocolate chips with cocktail ... read more",245.76
+Hocco Ice Cream,Two Much Fun (220gm),1,0,"Vanilla, chocolate ice cream on a base of chocolate walnut brownie, drizzled with ... read more",245.76
+Extra,Extra Cheese Greated,1,0,,38.1
+Extra,Extra Cheese Slice,1,0,,38.1
+Extra,Extra Puri,1,0,"Known for its crispy yet airy texture, the biggest one of all!",66.67

@@ -1,0 +1,69 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Party Combos,2 Plain Paratha with Chana Masala,1,0,"Flaky paratha served with spicy chickpea curry, offering a hearty and satisfying meal.",199.0
+Party Combos,6 Phulka Roti with Rajma Gravy,1,0,"Light and soft roti paired with flavorful kidney bean curry, providing a wholesome ... read more",199.0
+Party Combos,2 Aloo Paratha with Chana Masala,1,0,"Stuffed paratha filled with spiced potato, served with a savory chickpea curry, creating a ... read more",199.0
+Party Combos,6 Phulka Roti with Dal Makhani,1,0,"Feather light roti served with rich and creamy black lentil curry, delivering a ... read more",199.0
+Party Combos,Jeera Rice with Aloo Fry and Dal Fry,1,0,"Fragrant cumin infused rice served with crispy fried potatoes and lentil curry, offering ... read more",199.0
+Party Combos,1 Aloo Paratha with 1 Gobi Paratha and 1 Chana Masala,1,0,"A combo featuring stuffed potato and cauliflower paratha served with chickpea curry, offering ... read more",199.0
+Party Combos,Jeera Rice with Dal Butter Fry and Aloo Fry,1,0,"Cumin flavored rice served with butter fried lentils and crispy potato fry, providing ... read more",199.0
+Party Combos,2 Aloo Paratha with Chana Masala and Lassi [200 ml],1,0,"Stuffed potato parathas paired with spiced chickpea curry, accompanied by a refreshing and ... read more",210.0
+Party Combos,1 Aloo Paratha with 1 Gobi Paratha and Chana Masala,1,0,"A combination of stuffed potato and cauliflower parathas served with flavorful chickpea curry, ... read more",210.0
+Party Combos,Dal Rice with Aloo Fry and Roasted Papad,1,0,"Fragrant rice served with spiced lentils, crispy potato fry and roasted papad, delivering ... read more",210.0
+Party Combos,2 Plain Paratha with Chana Masala and Sweet Lassi [200 ml],1,0,"Savor the delectable combo of 2 freshly made, golden brown plain parathas, each ... read more",210.0
+Starters,Aloo Fry,1,0,"Crispy fried potatoes seasoned with spices, offering a savory and satisfying snack or ... read more",85.0
+Starters,Aloo Gobi,1,0,"A classic Indian dish featuring spiced potatoes and cauliflower, providing a comforting and ... read more",85.0
+Starters,Soya Fry,1,0,"Spiced and sauteed soya bean chunks, delivering a protein rich and satisfying dish.",85.0
+Starters,Onion Fry,1,0,"Onions sauteed and spiced to perfection, offering a crunchy and flavorful side dish ... read more",85.0
+Indian Breads,1 Phulka,1,0,"Light and soft whole wheat roti, perfect for pairing with a variety of ... read more",22.0
+Indian Breads,1 Plain Paratha,1,0,"A classic Indian flatbread, soft and flaky, perfect for pairing with curries and ... read more",45.0
+Indian Breads,1 Aloo Paratha,1,0,"A stuffed paratha filled with spiced potato, offering a flavorful and satisfying bread ... read more",75.0
+Indian Breads,Gobi Paratha,1,0,"A paratha stuffed with spiced cauliflower, providing a hearty and savory bread choice.",75.0
+Indian Breads,Aloo Gobi Paratha,1,0,"A stuffed paratha featuring both spiced potatoes and cauliflower, delivering a filling and ... read more",75.0
+Indian Breads,Aloo Pyaz Paratha,1,0,"A paratha filled with spiced potatoes and onion, offering a savory and satisfying ... read more",75.0
+Indian Breads,Mooli Paratha,1,0,"A stuffed paratha filled with spiced radish, offering a crunchy and flavorful bread ... read more",75.0
+Indian Breads,Onion Paratha,1,0,"A paratha filled with sauteed onion, delivering a fragrant and savory bread variation.",85.0
+Indian Breads,Paneer Paratha,1,0,"A stuffed paratha filled with spiced cottage cheese, providing a creamy and satisfying ... read more",100.0
+Main Course,Dal Fry,1,0,"A flavorful and spiced lentil curry, perfect for enjoying with rice or bread.",60.0
+Main Course,Dal Butter Fry,1,0,"Creamy and buttery lentil curry, offering a rich and indulgent dish.",65.0
+Main Course,Chana Masala,1,0,"A spiced chickpea curry, providing a protein-rich and savory option.",80.0
+Main Course,Gobi Masala,1,0,"A hearty and spiced cauliflower curry, delivering a satisfying and flavorful meal.",80.0
+Main Course,Aloo Tomato,1,0,"Spiced potatoes cooked in a tangy tomato-based gravy, offering a savory and zesty ... read more",80.0
+Main Course,Gobi Shimla,1,0,"A delightful combination of cauliflower and bell peppers in a flavorful gravy, providing ... read more",80.0
+Main Course,Rajma,1,0,"A popular kidney bean curry, offering a hearty and protein rich choice.",80.0
+Main Course,Papad Sabji,1,0,"A unique and crunchy dish featuring roasted papad in a flavorful gravy, delivering ... read more",80.0
+Main Course,Dal Makhani,1,0,"A creamy and aromatic black lentil curry, perfect for those seeking a rich ... read more",85.0
+Main Course,Bhindi Masala,1,0,"Okra [ladyfinger] cooked in a spiced and savory gravy, offering a crunchy and ... read more",85.0
+Main Course,Tomato Fry,1,0,"Spiced tomatoes sauted to perfection, providing a tangy and satisfying side dish or ... read more",85.0
+Main Course,Matar Masala,1,0,"A spiced green pea curry, offering a fresh and flavorful option.",85.0
+Main Course,Soya Masala,1,0,"Spiced and sauteed soya bean chunks in a savory gravy, providing a protein ... read more",85.0
+Main Course,Gobi Matar,1,0,"A combination of cauliflower and green peas in a spiced curry, offering a ... read more",99.0
+Main Course,Aloo Palak,1,0,A classic dish featuring spiced potatoes and spinach in a flavorful and nutritious ... read more,105.0
+Main Course,Veg Kolhapuri,1,0,"A spicy and rich mixed vegetable curry, perfect for those seeking a bold ... read more",110.0
+Main Course,Matar Palak,1,0,"A combination of green peas and spinach in a spiced curry, providing a ... read more",115.0
+Main Course,Veg Kofta,1,0,"A delightful dish featuring vegetable dumplings in a rich and flavorful gravy, delivering ... read more",120.0
+Main Course,Malai Kofta,1,0,"Creamy and aromatic cottage cheese dumplings served in a rich and flavorful gravy, ... read more",120.0
+Main Course,Mushroom Masala,1,0,"A spiced mushroom curry, perfect for those seeking a savory and hearty dish.",125.0
+Main Course,Palak Paneer,1,0,A classic dish featuring spiced cottage cheese and spinach in a creamy and ... read more,135.0
+Main Course,Paneer Masala,1,0,"A flavorful and spiced cottage cheese curry, offering a creamy and satisfying choice.",145.0
+Main Course,Matar Paneer,1,0,A delightful combination of green peas and cottage cheese in a savory and ... read more,150.0
+Main Course,Shahi Paneer,1,0,A royal and indulgent dish featuring cottage cheese in a rich and creamy ... read more,155.0
+Main Course,Paneer Tikka Masala,1,0,"Spiced and grilled cottage cheese served in a flavorful tomato based gravy, delivering ... read more",155.0
+Main Course,Kadai Paneer,1,0,"A spiced and aromatic cottage cheese curry, cooked with bell peppers and a ... read more",160.0
+Main Course,Tawa Paneer,1,0,"Cottage cheese cooked on a griddle with a blend of spices, providing a ... read more",210.0
+Main Course,Kaju Masala,1,0,"A luxurious dish featuring cashews in a rich and flavorful gravy, perfect for ... read more",255.0
+Main Course,Handi Paneer,1,0,"Cottage cheese cooked in a handi claypot with a blend of spices, delivering ... read more",255.0
+Rice,Plain Rice,1,0,"Steamed white rice, a versatile and classic accompaniment to various curries and gravies.",65.0
+Rice,Jeera Rice,1,0,"Fragrant cumin infused rice, offering an aromatic and flavorful variation.",90.0
+Rice,Punjabi Rice,1,0,"A flavorful and spiced rice dish, perfect for those seeking a rich and ... read more",90.0
+Rice,Curd Rice,1,0,"A soothing and creamy dish made with yogurt and seasoned with spices, providing ... read more",90.0
+Rice,Dal Rice,1,0,"Steamed rice served with spiced lentils, offering a wholesome and nourishing meal.",90.0
+Rice,Veg Fried Rice,1,0,"Fragrant and spiced rice stir fried with a variety of vegetables, delivering a ... read more",90.0
+Rice,Masala Rice,1,0,"A spiced and aromatic rice dish, perfect for those seeking a rich and ... read more",90.0
+Accompaniments,Curd,1,0,"Fresh and creamy yogurt, ideal for pairing with various rice and bread dishes.",40.0
+Accompaniments,Roasted Papad,1,0,"Crunchy and roasted papad, a popular side dish or snack option.",40.0
+Accompaniments,Masala Papad,1,0,"Papad topped with a flavorful spice mixture, providing a zesty and textured accompaniment.",65.0
+Accompaniments,Papad Churi,1,0,"Crushed papad mixed with spices, offering a crunchy and spiced topping for rice ... read more",85.0
+Accompaniments,Onion Tomato Raita,1,0,"Creamy yogurt mixed with onions and tomatoes, providing a refreshing and tangy side ... read more",65.0
+Accompaniments,Curd Fry,1,0,"A South Indian specialty featuring yogurt seasoned with spices and fried to perfection, ... read more",85.0
+Drinks (Beverages),Lassi,1,0,"A traditional and chilled yogurt based beverage, perfect for quenching your thirst and ... read more",50.0
+Drinks (Beverages),Buttermilk,1,0,"A refreshing and probiotic bever, offering a cooling and tangy option.",40.0

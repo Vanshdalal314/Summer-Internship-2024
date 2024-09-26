@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,"Idli Sambhar [3 Pieces, 100 g]",1,0,,40.0
+Sandwiches,Veg Sandwich,1,0,,50.0
+Sandwiches,Veg Cheese Sandwich,1,0,,70.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,120.0
+Snacks,Cheese Butter Edadda [130 g],1,0,[Jain Preparation],50.0
+Snacks,Special Garlic Edadda [130 g],1,0,,90.0
+Snacks,Sev Khaman [130 g],1,0,[Jain Preparation],30.0
+Snacks,Live Dhokla [130 g],1,0,[Jain Preparation],30.0
+Snacks,Cheese Butter Live Dhokla [130 g],1,0,,50.0
+Snacks,Cheese Khaman [130 g],1,0,,50.0
+Snacks,Patudi [130 g],1,0,,30.0
+Snacks,Cheese Patudi [130 g],1,0,,50.0
+Snacks,Nylon Khaman [130 g],1,0,,30.0
+Snacks,Cheese Nylon Khamon [130 g],1,0,,50.0
+Snacks,French Fries,1,0,,60.0
+Snacks,"Daal Samosa [5 Pieces, 100 g]",1,0,,40.0
+Snacks,"Cheese Samosa [5 Pieces, 100 g]",1,0,,60.0
+Snacks,"Mexican Samosa [5 Pieces, 100 g]",1,0,,60.0
+Snacks,Plain Khaman [1 kg],1,0,,100.0
+Snacks,Special Rajwadi Green Khichdi,1,0,,80.0
+Snacks,Plain Edadda [1 kg],1,0,,120.0
+Snacks,Plain Dhokla [1 kg],1,0,,140.0
+Snacks,Oil Locho [150 g],1,0,[Jain Preparation],40.0
+Snacks,Butter Locho [150 g],1,0,[Jain Preparation],60.0
+Snacks,Diet Herbal Locho [150 g],1,0,,60.0
+Snacks,Lemon Spice Locho [150 g],1,0,[Jain Preparation],60.0
+Snacks,Peri Peri Locho [150 g],1,0,,80.0
+Snacks,Cheese Butter Locho [150 g],1,0,[Jain Preparation],70.0
+Snacks,Black Pepper Salt Locho [150 g],1,0,,70.0
+Snacks,Red and Black Spicy Locho [150 g],1,0,,70.0
+Snacks,Green Garlic Locho [150 g],1,0,,80.0
+Snacks,Lasaniya Locho [150 g],1,0,,80.0
+Snacks,Italian Locho [150 g],1,0,,100.0
+Snacks,Chinese Locho [150 g],1,0,,100.0
+Snacks,Cheese Velvet Locho [150 g],1,0,,90.0
+Snacks,Cream and Onion Locho [150 g],1,0,,100.0
+Snacks,Cheese Tandoori Locho [150 g],1,0,[Jain Preparation],100.0
+Snacks,Special Cassatta Locho [150 g],1,0,[Jain Preparation],100.0
+Snacks,Oil Edadda,1,0,,30.0
+Drinks (Beverages),Tea,1,0,,20.0
+Drinks (Beverages),Hot Coffee,1,0,,30.0
+Drinks (Beverages),Cold Coffee,1,0,,50.0
+Drinks (Beverages),Buttermilk,1,0,,20.0

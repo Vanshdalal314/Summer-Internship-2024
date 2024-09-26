@@ -1,0 +1,65 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dhosa,Cheese Garlic,1,0,,150.0
+Dhosa,Cheese Masala Dhosa,1,0,,160.0
+Dhosa,Cheese Musore Dhosa,1,0,,180.0
+Dhosa,Cheese Paneer Masala Dhosa,1,0,,190.0
+Dhosa,Cheese Paneer Mysore Dhosa,1,0,,220.0
+Dhosa,Cheese Paneer Sada Dhosa,1,0,,160.0
+Dhosa,Cheese Paneer Shurma,1,0,,240.0
+Dhosa,Cheese Rawa Masala Dhosa,1,0,,180.0
+Dhosa,Cheese Rawa Sada Dhosa,1,0,,160.0
+Dhosa,Cheese Sada Dhosa,1,0,,140.0
+Dhosa,Chinese Dhosa,1,0,,200.0
+Dhosa,Gotalo Dhosa,1,0,Prepared with butter,280.0
+Dhosa,Jinni Roll Dhosa,1,0,,200.0
+Dhosa,Masala Dosa,1,0,,110.0
+Dhosa,Mexican Pizza Cheese Dhosa,1,0,,230.0
+Dhosa,Mysore Masala Dosa,1,0,,140.0
+Dhosa,Mysore Sada Dhosa,1,0,,100.0
+Dhosa,Nylon Sada Dhosa,1,0,,130.0
+Dhosa,Onion Cheese Paneer Sada Dhosa,1,0,Prepared with butter.,170.0
+Dhosa,Onion Cheese Sada Dosa(Butter),1,0,,150.0
+Dhosa,Onion Cheese Sada Dosa(Oil),1,0,,130.0
+Dhosa,Onion Rawa Masala Dhosa,1,0,,130.0
+Dhosa,Onion Rawa Sada Dhosa,1,0,,120.0
+Dhosa,Onion Sada Dhosa,1,0,,100.0
+Dhosa,Palak Cheese Dhosa,1,0,,200.0
+Dhosa,Palak Cheese Paneer Dhosa,1,0,,220.0
+Dhosa,Palak Dhosa,1,0,,130.0
+Dhosa,Palak Paneer Dhosa,1,0,,200.0
+Dhosa,Paneer Masala Dhosa,1,0,,170.0
+Dhosa,Paneer Mysore Dhosa,1,0,,180.0
+Dhosa,Paneer Sada Dhosa,1,0,,140.0
+Dhosa,Paneer Shurma,1,0,,220.0
+Dhosa,Paneer Thukkada Mysore,1,0,,220.0
+Dhosa,Rava Masala Dosa,1,0,,120.0
+Dhosa,Rava Sada Dosa,1,0,,100.0
+Dhosa,Sada Dosa,1,0,,80.0
+Paper Dhosa,Cheese Extra,1,0,,60.0
+Paper Dhosa,Panoor Mysore Dhosa,1,0,,350.0
+Paper Dhosa,Paper Masala Dhosa,1,0,,310.0
+Paper Dhosa,Paper Sada Dhosa,1,0,,300.0
+Uttapam,Masala Cheese Uttapam,1,0,,210.0
+Uttapam,Masala Uttapam,1,0,,160.0
+Uttapam,Onion Cheese Uttapam,1,0,Prepared with butter,200.0
+Uttapam,Onion Tomato Cheese Uttapam,1,0,,220.0
+Uttapam,Onion Tomato Uttapam,1,0,,150.0
+Uttapam,Onion Uttapam,1,0,,150.0
+Uttapam,Sada Uttapam,1,0,,100.0
+Uttapam,Tomato Uttapam,1,0,,150.0
+Idli-Vada,Cheese Masala Idli,1,0,,120.0
+Idli-Vada,Dahi Boondi,1,0,,120.0
+Idli-Vada,Dahi Idli,1,0,Prepared with butter.,120.0
+Idli-Vada,Dahi Vada,1,0,Prepared with butter.,120.0
+Idli-Vada,Filter Coffee,1,0,,40.0
+Idli-Vada,Idli Chutney,1,0,Prepared with butter.,80.0
+Idli-Vada,Oil Idli Sambar,1,0,Prepared with butter.,70.0
+Idli-Vada,Masala Idli,1,0,,90.0
+Idli-Vada,Samosa,1,0,,70.0
+Idli-Vada,Butter Thatte Idli,1,0,Prepared with butter.,80.0
+Idli-Vada,Vada Chutney,1,0,Prepared with butter.,80.0
+Idli-Vada,Oil Vada Sambar,1,0,Prepared with butter.,70.0
+Combos,Gotalo Dhosa + Masala Dosa,1,0,1 Gotala Dosa + 1 Masala Dosa,355.0
+Combos,Gotalo Dhosa + Oil Idli Sambar,1,0,1 Gotala Dhosa + Oil Idli Sambar,345.0
+Combos,Masala Dosa + Oil Idli Sambar,1,0,1 Masala Dosa + Oil  Idli Sambar,175.0
+Combos,Masala Dosa + Oil Vada Sambar,1,0,1 Masala Dosa + 1 Oil Vada Sambar,175.0

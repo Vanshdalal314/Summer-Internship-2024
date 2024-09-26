@@ -1,0 +1,134 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Creams,Strawberry Ice Cream,1,0,,30.0
+Ice Creams,Chocolate Ice Cream,1,0,,45.0
+Ice Creams,Kaju Draksh Ice Cream,1,0,,45.0
+Ice Creams,Chocolate Chips Ice Cream,1,0,,45.0
+Ice Creams,Butter Scotch Ice Cream,1,0,,45.0
+Ice Creams,Swiss Cake Ice Cream,1,0,,45.0
+Ice Creams,Kaju Anjeer Ice Cream,1,0,,45.0
+Ice Creams,American Nuts Ice Cream,1,0,,45.0
+Ice Creams,Cookies Ice Cream,1,0,,50.0
+Ice Creams,Kesar Pista Ice Cream,1,0,,50.0
+Ice Creams,Almond Carnival Ice Cream,1,0,,50.0
+Ice Creams,Raj Bhog Ice Cream,1,0,,60.0
+Ice Creams,Dark Chocolate Nutty Ice Cream,1,0,,60.0
+Ice Creams,Mocha Brownie Fudge Ice Cream,1,0,,60.0
+Pizza and Pasta,Red Pasta,1,0,,200.0
+Pizza and Pasta,White Pasta,1,0,,250.0
+Pizza and Pasta,Khakhra Pizza [7 inches],1,0,,120.0
+Pizza and Pasta,Veg Pizza [7 inches],1,0,,129.0
+Pizza and Pasta,Veg Cheese Pizza [7 inches],1,0,,170.0
+Pizza and Pasta,Margherita Pizza [7 inches],1,0,,190.0
+Pizza and Pasta,Hot and Spicy Pizza [7 inches],1,0,,190.0
+Pizza and Pasta,Paneer Pizza [7 inches],1,0,,190.0
+Pizza and Pasta,Veg Tandoorl Pizza [7 inches],1,0,,210.0
+Pizza and Pasta,Mushroom Pizza [7 inches],1,0,,210.0
+Pizza and Pasta,Italian Pizza [7 inches],1,0,,210.0
+Pizza and Pasta,Jalaram Special Pizza [7 inches],1,0,,230.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,80.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,110.0
+Burgers and Sandwiches,Veg Toast Sandwich,1,0,,110.0
+Burgers and Sandwiches,Veg Toast Cheese Sandwich,1,0,,150.0
+Burgers and Sandwiches,Open Toast Sandwich,1,0,,150.0
+Burgers and Sandwiches,Veg Club Sandwich,1,0,,180.0
+Burgers and Sandwiches,Veg Club Cheese Sandwich,1,0,,210.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,,130.0
+Burgers and Sandwiches,Veg Grilled Jain Sandwich,1,0,,140.0
+Burgers and Sandwiches,Veg Grilled Cheese Sandwich,1,0,,150.0
+Burgers and Sandwiches,Veg Grilled Cheese Jain Sandwich,1,0,,170.0
+Burgers and Sandwiches,Veg Grilled Paneer Sandwich,1,0,,190.0
+Burgers and Sandwiches,Veg Grilled Cheese Paneer Sandwich,1,0,,210.0
+Burgers and Sandwiches,Bread Butter,1,0,,50.0
+Burgers and Sandwiches,Bread Butter Jam,1,0,,80.0
+Burgers and Sandwiches,Aloo Tikki Burger,1,0,,50.0
+Burgers and Sandwiches,Veg Burger,1,0,,80.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,100.0
+Burgers and Sandwiches,Veg Paneer Burger,1,0,,120.0
+Frankies,Veg Frankie,1,0,,80.0
+Frankies,Veg Cheese Frankie,1,0,,90.0
+Frankies,Veg Schezwan Cheese Frankie,1,0,,100.0
+Frankies,Paneer Cheese Frankie,1,0,,120.0
+Maggi,Masala Maggi,1,0,,80.0
+Maggi,Veg Maggi,1,0,,100.0
+Maggi,Cheese Maggi Masala,1,0,,110.0
+Maggi,Mayonnaise Maggi Masala,1,0,,130.0
+Snacks,Finger Chips,1,0,,80.0
+Snacks,French Fries,1,0,,90.0
+Snacks,French Fries Cheese,1,0,,120.0
+Snacks,Peri Peri French Fries,1,0,,150.0
+Snacks,Garlic Bread,1,0,,100.0
+Snacks,Garlic Bread Chilli Cheese Toast,1,0,,120.0
+Accompaniments,Roasted Papad,1,0,,20.0
+Accompaniments,Masala Papad,1,0,,55.0
+Accompaniments,Fry Papad,1,0,,25.0
+Desserts,Ice Cream Sundae,1,0,,140.0
+Desserts,Coconutty,1,0,,179.0
+Desserts,Triple Sundae,1,0,,239.0
+Desserts,Couple Sundae,1,0,,260.0
+Desserts,Choco Dance,1,0,,239.0
+Desserts,Hot Chocolate Brownie,1,0,,199.0
+Desserts,Fruit Salad,1,0,,80.0
+Desserts,Kaju Fruit Salad,1,0,,100.0
+Desserts,Fruit Salad with Ice Cream,1,0,,110.0
+Desserts,Rajwadl Fruit Salad,1,0,,130.0
+Desserts,Rose Faluda,1,0,,99.0
+Desserts,Kesar Faluda,1,0,,110.0
+Desserts,Chocolate Faluda,1,0,,110.0
+Desserts,Kulfi Faluda,1,0,,110.0
+Desserts,Rajwadl Faluda,1,0,,129.0
+Drinks (Beverages),Mosambi Juice,1,0,,90.0
+Drinks (Beverages),Pineapple Juice,1,0,,100.0
+Drinks (Beverages),Apple Juice,1,0,,130.0
+Drinks (Beverages),Cocktail Juice,1,0,,130.0
+Drinks (Beverages),Cold Coffee,1,0,,99.0
+Drinks (Beverages),Lassi,1,0,,50.0
+Drinks (Beverages),Mango Lassi,1,0,,60.0
+Drinks (Beverages),Strawberry Lassi,1,0,,60.0
+Drinks (Beverages),Rose Lassi,1,0,,60.0
+Drinks (Beverages),Kaju Lassi,1,0,,70.0
+Drinks (Beverages),Kaju Mango Lassi,1,0,,80.0
+Drinks (Beverages),Hot Tea,1,0,,40.0
+Drinks (Beverages),Hot Coffee,1,0,,40.0
+Drinks (Beverages),Vanilla Milkshake,1,0,,90.0
+Drinks (Beverages),Rose Milkshake,1,0,,90.0
+Drinks (Beverages),Pineapple Milkshake,1,0,,90.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,90.0
+Drinks (Beverages),Black Current Milkshake,1,0,,99.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,99.0
+Drinks (Beverages),Chikoo Milkshake,1,0,,99.0
+Drinks (Beverages),Apple Milkshake,1,0,,110.0
+Drinks (Beverages),Oreo Milkshake,1,0,,110.0
+Drinks (Beverages),Banana Milkshake,1,0,,110.0
+Drinks (Beverages),Mango Milkshake,1,0,,110.0
+Drinks (Beverages),Chikoo Chocolate Milkshake,1,0,,120.0
+Drinks (Beverages),Thandal Milkshake,1,0,,129.0
+Drinks (Beverages),Kaju Chikoo Milkshake,1,0,,129.0
+Drinks (Beverages),Kaju Chocolate Milkshake,1,0,,129.0
+Drinks (Beverages),Kaju Mango Milkshake,1,0,,129.0
+Drinks (Beverages),Kaju Anjeer Milkshake,1,0,,129.0
+Drinks (Beverages),Badam Anjeer Milkshake,1,0,,129.0
+Drinks (Beverages),Kaju Chikoo Chocolate Milkshake,1,0,,139.0
+Drinks (Beverages),Kaju Badam Milkshake,1,0,,129.0
+Drinks (Beverages),Kaju Spacial Milkshake,1,0,,139.0
+Drinks (Beverages),Dry Fruit Milkshake,1,0,,179.0
+Drinks (Beverages),Vanilla Thick Shake,1,0,,80.0
+Drinks (Beverages),Mango Thick Shake,1,0,,80.0
+Drinks (Beverages),Strawberry Thick Shake,1,0,,80.0
+Drinks (Beverages),Black Current Thick Shake,1,0,,80.0
+Drinks (Beverages),Rose Thick Shake,1,0,,80.0
+Drinks (Beverages),Chocolate Thick Shake,1,0,,90.0
+Drinks (Beverages),Kaju Anjeer Thick Shake,1,0,,99.0
+Drinks (Beverages),Kaju Gulkand Thick Shake,1,0,,99.0
+Drinks (Beverages),Kaju Mango Thick Shake,1,0,,99.0
+Drinks (Beverages),Kaju Chocolate Thick Shake,1,0,,99.0
+Drinks (Beverages),Chocolate Chips Thick Shake,1,0,,99.0
+Drinks (Beverages),Cookies and Cream Thick Shake,1,0,,99.0
+Drinks (Beverages),Oreo Thick Shake,1,0,,99.0
+Drinks (Beverages),Chikoo Thick Shake,1,0,,99.0
+Drinks (Beverages),Kaju Badam Thick Shake,1,0,,110.0
+Drinks (Beverages),Kitkat Thick Shake,1,0,,110.0
+Drinks (Beverages),Gems Thick Shake,1,0,,110.0
+Drinks (Beverages),American Nuts Thick Shake,1,0,,120.0
+Drinks (Beverages),Brownie Thick Shake,1,0,,129.0
+Drinks (Beverages),Plain Butter Milk,1,0,,15.0
+Drinks (Beverages),Masala Butter Milk,1,0,,20.0

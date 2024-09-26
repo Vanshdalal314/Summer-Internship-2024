@@ -1,0 +1,87 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Double Cheese Margherita Pizza,1,0,Enjoy double portions of delicious mozzarella cheese.,179.0
+Pizza,Single Cheese Margherita Pizza,1,0,Delicious mozzarella cheese in every bite.,149.0
+Pizza,Triple Cheese Margherita Pizza,1,0,Enjoy three type cheese in every bite.,199.0
+Pizza,2 In One Pizza( Margarita + Veggy Mix),1,0,"Delicious veggies like tomato, onion, capsicum, Olives deep in Cheese",229.0
+Pizza,American Heat(small),1,0,"Onion, Green capsicum, baby corn, Jelopinos",229.0
+Pizza,Balle Balle Pizza,1,0,"Onion, Green Chilli, Paneer, Corinder",229.0
+Pizza,Capsicum Pizza,1,0,Enjoy capsicum in every bite.(7 inch),149.0
+Pizza,Chatpata Paneer Piizza,1,0,"Sweet corn, Chatpata Paneer, Tomato",229.0
+Pizza,Fresh Veggi Special,1,0,"Onion, Green capsicum, sweet corn",229.0
+Pizza,Green Chilli Cheese Pizza,1,0,Specially for green chilli lovers(7 inch),149.0
+Pizza,Gujarati Treat,1,0,"Onion, Green Chiili, Green Capsicum, Tonato, Garlic, Sweet corn",229.0
+Pizza,Jalopinas Sweet Corn & Paneer(small),1,0,"Comination of juicy paneer , sweet corn and Jalopinos",159.0
+Pizza,Jalopinos & Olives(small),1,0,Remarkable blend of jelopinos and black olives,159.0
+Pizza,Jelopino Pizza,1,0,Enjoy Jelopino cheese in every bite.(7 inch),149.0
+Pizza,Maxican Delight,1,0,"Sweet corn, Tomato, Green chilli, Olives",229.0
+Pizza,Olives,1,0,Enjoy Olive cheesein every bite.(7 inch),149.0
+Pizza,Onion Pizza,1,0,Not just onion (7 inch),149.0
+Pizza,Tomato Pizza,1,0,Enjoy tomato flavourin every bite.(7 inch),149.0
+Pizza,Yam Dam Pizza(small),1,0,"Onion, Green chilli, Garlic, Spnich, Paneer",229.0
+Pizza,Chef's Special Pizza,1,0,"Red, yellow pepper, sweet corn, baby corn, red paprika and paneer tikka.",229.0
+Pizza,Country Special Pizza,1,0,"Green capsicum, red, yellow pepper, baby born, sweet corn and black olives.",229.0
+Pizza,Creamy Cheese Pizza,1,0,"Liquid cheese ,red -yellow-green capsicum,jalapenos.",229.0
+Pizza,Farmhouse Pizza,1,0,"Green capsicum, red, yellow pepper, jalapenos, onion and black olives.",229.0
+Pizza,Laziz Classic Pizza,1,0,"Green capsicum,tomato, babycorn, sweet corn, red peprica.",229.0
+Pizza,Laziz Mac Veg Pizza,1,0,"Paneer, onion, olives and baby corn.",229.0
+Pizza,Paneer Special Pizza,1,0,"Crispy paneer,onion,green capsicum",229.0
+Pizza,Schezwan Corn & Capsicum Pizza,1,0,Corn - Capsi. lover.(7 inch),145.0
+Pizza,Veg Paprika Pizza,1,0,"Paneer paprica,green capsicum,sweet corn, red peprica.",229.0
+Pizza,Mexican Veg Pizza,1,0,"Red, yellow pepper, green capsicum, red paprika, chilli flakes and mayo dip.",229.0
+Pizza,Laziz Khas Pizza,1,0,"Green sauce, red, yellow, green capsicum and green onion.",199.0
+Pizza,Paneer Tikka Pizza,1,0,"Tikka powder, paneer tikka, green capsicum and onion.",229.0
+Pizza,Passion Delight Pizza,1,0,"Sweet corn, black olive and jalapenos.",229.0
+Pizza,Veg Schezwan Pizza,1,0,"Onion, baby corn, green capsicum, pepper and green onion.",229.0
+Pizza,Veggie Lovers Pizza,1,0,"Red paprika, tomato, onion and green capsicum.",229.0
+Pizza,5 Paneer Pizza,1,0,"Paneer, tikka paneer, paprika paneer, tandoori paneer and spice paneer.",229.0
+Pizza,Chilli Paneer Pizza,1,0,Paneer tossed in chilli & soya sauce.,229.0
+Pizza,Hot N Spice Pizza,1,0,"[Extra Spicy] Hot n spice sauce, paneer, jalapenos, green chilli, red paprika and ... read more",229.0
+Pizza,Paneer Makhani Pizza,1,0,"Makhani sauce, makhani paneer, green capsicum, red paprika and onion.",225.0
+Pizza,Paneer Paprika Pizza,1,0,"[Extra Spicy] Green capsicum, red, yellow pepper, paneer tikka mix, red paprika, chilli ... read more",229.0
+Pizza,Peri Peri Pizza,1,0,"Peri peri sauce, paneer, onion, capsicum and tomato.",229.0
+Pizza,Tandoori Paneer Pizza,1,0,"Tandoori sauce, tandoori paneer, onion, capsicum and tomato.",229.0
+Pizza,Veg Carnival Pizza,1,0,"Green capsicum, red, yellow pepper, sweet corn, baby corn, red paprika and paneer ... read more",229.0
+Pizza,Veg Loaded Pizza,1,0,"Loaded with extra cheese, green capsicum, red, yellow bell pepper, sweet corn, jalapenos, ... read more",229.0
+Pizza,Veg Spice Fusion Pizza,1,0,"[Extra Spicy] Green, red sauce, jalapenos, black olive, sweet corn, red paprika, capsicum ... read more",229.0
+Pizza,Baby Exotica Pizza,1,0,"Baby corn, jalapenos, olive and green capsicum.",229.0
+Pizza,Cheesy Lazizo Pizza,1,0,"Every bite cheese n cheese, red, yellow bell pepper, onion, jalapenos and cheese ... read more",229.0
+Pizza,Jamaican Veg Pizza,1,0,"Green capsicum, onion, sweet corn, chilli flakes, black olive, jalapenos and garnish mustard.",229.0
+Pizza,Laziz Taj Pizza,1,0,"Green, red sauce, green capsicum, red, yellow bell pepper, red paprika, sweet corn, ... read more",199.0
+Burgers And Sandwiches,Double Cheese Burger,1,0,,120.0
+Burgers And Sandwiches,Mexican Burger,1,0,,120.0
+Burgers And Sandwiches,Schezwan Burger,1,0,,105.0
+Burgers And Sandwiches,Veg Burger,1,0,,75.0
+Burgers And Sandwiches,Veg Cheese Burger,1,0,,105.0
+Burgers And Sandwiches,Bread Butter Sandwich,1,0,,40.0
+Burgers And Sandwiches,Jam Butter Sandwich,1,0,,50.0
+Burgers And Sandwiches,Jam Cheese Sandwich,1,0,,80.0
+Burgers And Sandwiches,Veg Cheese Sandwich,1,0,,110.0
+Burgers And Sandwiches,Veg Sandwich,1,0,,90.0
+Burgers And Sandwiches,Laziz Spicy Grilled Sandwich,1,0,,150.0
+Burgers And Sandwiches,Laziz Veg Grilled Sandwich,1,0,,145.0
+Burgers And Sandwiches,Paneer Tikka Grilled Sandwich,1,0,,170.0
+Burgers And Sandwiches,Pizza Grilled Sandwich,1,0,,170.0
+Burgers And Sandwiches,Sweet Corn Grilled Sandwich,1,0,,145.0
+Fries,Cheesy French Fries,1,0,,149.0
+Fries,French Fries,1,0,,99.0
+Fries,Italian French Fries,1,0,,169.0
+Fries,Masala French Fries,1,0,,119.0
+Fries,Mayo French Fries,1,0,,139.0
+Fries,Peri Peri French Fries,1,0,,125.0
+Garlic Bread,Four Flavour Garlic Bread,1,0,,139.0
+Garlic Bread,Cheese Garlic Bread,1,0,,119.0
+Garlic Bread,Garlic Stick,1,0,,159.0
+Garlic Bread,Paneer Tikka Garlic Bread,1,0,Cheesy garlic bread topped with juicy paneer & red peprika,149.0
+Garlic Bread,Paneer Tikka Stuffed Garlic Bread,1,0,Paneer and veggies dip in tikka power and cheese,159.0
+Garlic Bread,Spicy Garlic Bread,1,0,,129.0
+Garlic Bread,Stuffed Garlic Bread,1,0,,169.0
+Garlic Bread,Supreme Garlic Bread,1,0,,129.0
+Garlic Bread,Sweetcorn Stuffed Garlic Bread,1,0,"Sweet corn , jelopinos with cheese",149.0
+Combo,4 Small Pizza ( Margherita - Simply & Classic Bite ),1,0,,499.0
+"Capsicum, Sweet Corn, Onion, Jelopino","Cap.&paneer, Cap.&Onion, Sweetcorn &Olives, GreenChili & Tomato",1,0,,449.0
+"Capsicum, Sweet Corn, Onion, Jelopino","Capsicum, Sweet Corn, Onion, Jelopino",1,0,,399.0
+Combo Offers,1 Person Only ( Specially For Momos Lover),1,0,(country special(small) + veg Momos + Masala french fries) Price falls from 452/- ... read more,399.0
+Combo Offers,1 Person Only,1,0,Veg maxican (small) + Cheese garlic bread + Veg Burger) Price falls from ... read more,350.0
+Combo Offers,2 Person Only,1,0,[Paneer tikka pizza(small) + Frmhouse pizza(Medium) + Peri peri french fries].Price falls from ... read more,530.0
+Combo Offers,4 Person Only,1,0,[Paneer tikka(medium) + Chef's special(medium) + Double cheese margarita(small) + Supreme garlic bread ... read more,1099.0
+Combo Offers,Family Specil Combo (just 1199/-),1,0,[Double cheese margarita(small) + Country special pizza(small) + Mexican veg pizza(medium) + farmhouse ... read more,1199.0

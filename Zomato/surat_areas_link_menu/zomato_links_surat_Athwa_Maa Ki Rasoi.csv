@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Main Course,Paneer Angara,1,0,Spicy Smoked Cottage Gravy,200.0
+Main Course,Paneer Bhurji,1,0,,200.0
+Main Course,Shahi Paneer,1,0,Mild Sweet,180.0
+Main Course,Matar Paneer,1,0,Gravy,150.0
+Main Course,Dal Makhani,1,0,,150.0
+Main Course,Mix Veg,1,0,Dry,220.0
+Main Course,Aloo Gobi,1,0,,140.0
+Main Course,Baingan ka Bharta,1,0,,140.0
+Main Course,Aloo Matar Paneer,1,0,Gravy,140.0
+Main Course,Aloo Capsicum,1,0,,180.0
+Main Course,Kadhi Pakoda,1,0,,110.0
+Main Course,Besan ke Gatte,1,0,,160.0
+Main Course,Dal Tadka,1,0,,160.0
+Main Course,Rajma,1,0,,110.0
+Main Course,Chana Masala,1,0,,110.0
+Main Course,Aloo Matar,1,0,,110.0
+Main Course,Ghiya ke Kofte,1,0,,160.0
+Main Course,Jeera Aloo,1,0,,160.0
+Rice and Biryani,Veg Biryani With Raita,1,0,Served with raita.,220.0
+Rice and Biryani,Jeera Rice [1 Bowl],1,0,,140.0
+Rice and Biryani,Plain Rice [1 Bowl],1,0,,120.0
+Stuffed Paratha,Paneer Cheese Onion Paratha,1,0,,150.0
+Stuffed Paratha,Paneer Onion Garlic Paratha,1,0,,120.0
+Stuffed Paratha,Palak Paneer Paratha,1,0,,120.0
+Stuffed Paratha,Paneer Capsicum Paratha,1,0,,120.0
+Stuffed Paratha,Paneer Onion Paratha,1,0,,120.0
+Stuffed Paratha,Gobi Paratha,1,0,,110.0
+Stuffed Paratha,Palak Paratha,1,0,,110.0
+Stuffed Paratha,Aloo Paratha,1,0,,100.0
+Stuffed Paratha,Onion Paratha,1,0,,100.0
+Stuffed Paratha,Capsicum Onion Paratha,1,0,,100.0
+Breads,Butter Garlic Cheese Paratha,1,0,,120.0
+Breads,Butter Garlic Paratha,1,0,,80.0
+Breads,Butter Paratha,1,0,,45.0
+Breads,Paratha,1,0,,35.0
+Breads,Butter Chappati,1,0,,26.0
+Breads,Chappati,1,0,,18.0
+Salad,Salad,1,0,"Comes with fresh chopped onion, tomato, cucumber, beetroot and carrot.",100.0
+Drinks (Beverages),Lassi,1,0,,60.0
+Drinks (Beverages),Buttermilk,1,0,,50.0
+Accompaniments,Onion And Tomato Raita,1,0,,100.0
+Accompaniments,Boondi Raita,1,0,,100.0
+Accompaniments,Roasted Papad,1,0,,20.0

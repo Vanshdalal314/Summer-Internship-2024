@@ -1,0 +1,40 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Veg Grilled Sandwich,1,0,,141.0
+Sandwiches,Jain Grilled Sandwich,1,0,[Jain Preparation],141.0
+Sandwiches,Capsicum Tomato Grilled Sandwich,1,0,,170.0
+Sandwiches,Mayonnaise Masala Grilled Sandwich,1,0,,160.0
+Sandwiches,Club Masala Grilled Sandwich,1,0,,170.0
+Sandwiches,Mini Grilled Sandwich,1,0,,95.0
+Sandwiches,Bombay Grilled Sandwich,1,0,,171.0
+Sandwiches,Special Grilled Sandwich,1,0,,190.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,70.0
+Sandwiches,Bread Butter Aloo Sandwich,1,0,,50.0
+Sandwiches,Bread Butter Aloo Cheese Sandwich,1,0,,80.0
+Sandwiches,Bread Butter Toast Sandwich,1,0,,50.0
+Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,70.0
+Sandwiches,Jam Bread Butter Sandwich,1,0,,40.0
+Sandwiches,Jam Butter Cheese Sandwich,1,0,,70.0
+Sandwiches,Veg Sandwich,1,0,Veg sandwich.,47.0
+Sandwiches,Veg Cheese Sandwich,1,0,,66.0
+Sandwiches,Veg Toast Sandwich,1,0,,43.0
+Sandwiches,Veg Toast Cheese Sandwich,1,0,,66.0
+Sandwiches,Aloo Matar Toast Sandwich,1,0,,38.0
+Sandwiches,Aloo Matar Toast Cheese Sandwich,1,0,,70.0
+Sandwiches,Pizza Masala Sandwich,1,0,,76.0
+Sandwiches,Open Sandwich,1,0,,76.0
+Sandwiches,Sangam Sandwich,1,0,,76.0
+Sandwiches,BBCT Sandwich,1,0,,76.0
+Sandwiches,Club Sandwich,1,0,[Veg preparation],76.0
+Sandwiches,Kachumber Cheese Sandwich,1,0,,57.0
+Sandwiches,Schezwan Cheese Sandwich,1,0,,76.0
+Sandwiches,Paneer Cheese Sandwich,1,0,,120.0
+Pizza,Veg Cheese Pizza [6 inches],1,0,,100.0
+Pizza,Onion Capsicum Pizza [6 inches],1,0,,143.0
+Pizza,Veg Stuffed Pizza [6 inches],1,0,,150.0
+Pizza,Italian Pizza [6 inches],1,0,,150.0
+Pizza,Jain Pizza [6 inches],1,0,,100.0
+Burgers,Veg Cheese Burger,1,0,,73.0
+Burgers,Veg Mayonnaise Burger,1,0,,76.0
+Burgers,Schezwan Burger,1,0,,76.0
+Hot Dog,Veg Cheese Hot Dog,1,0,,66.0
+Hot Dog,Veg Schezwan Cheese Hot Dog,1,0,,76.0

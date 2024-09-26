@@ -1,0 +1,72 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Family Combos,"Veg Pizza [Mini, 4 inches] with Cheese Burger",1,0,"Veg Pizza [Mini, 4 inches]+Cheese Burger",149.0
+Family Combos,Special Burger with French Fries,1,0,Special Burger+French Fries,149.0
+Pizza,Mini Margherita Pizza [4 inches],1,0,Cheese.,69.0
+Pizza,Mini Veg Pizza [4 inches],1,0,"Capsicum, onion, tomato, cheese.",75.0
+Pizza,Margherita Pizza (8 Inches),1,0,Cheese,119.0
+Pizza,Vegetable Pizza [8 inches],1,0,"Capsicum, onion, tomato, cheese.",135.0
+Pizza,Tomoto Margherita Pizza [8 inches],1,0,"Tomato, cheese.",132.0
+Pizza,Corn Marghertia Pizza [8 inches],1,0,Corn and cheese.,149.0
+Pizza,Paneer Marghertia Pizza [8 inches],1,0,Paneer and cheese.,155.0
+Pizza,Classic Mushroom Pizza [8 inches],1,0,"Mushroom, olives and cheese.",169.0
+Pizza,Classic Marghertia Pizza [8 inches],1,0,"Tomato, olives and cheese.",149.0
+Pizza,Green Chilli and Onion Pizza [8 inches],1,0,"Onion, green chilli and cheese.",139.0
+Pizza,Veg Double Cheese Pizza [8 inches],1,0,"Capsicum, onion, tomato, cheese.",140.0
+Pizza,Paneer Pizza [8 inches],1,0,"Paneer, capsicum, onion, tomato, cheese.",159.0
+Pizza,Corn and Veg Pizza [8 inches],1,0,"Corn, capsicum, onion, tomato, cheese.",159.0
+Pizza,Jalapeno and Pepper Pizza [8 inches],1,0,"Jalapeno, capsicum, cheese.",159.0
+Pizza,Pineapple and Veg Pizza [8 inches],1,0,"Pineapple, capsicum, onion, tomato, cheese.",159.0
+Pizza,Mexican Pizza [8 inches],1,0,"Kidney beans, capsicum, onion, tomato, cheese.",169.0
+Pizza,Apple and Raisin Pizza [8 inches],1,0,"Chopped apple, dry raisin, cheese, white sauce.",179.0
+Pizza,Mushroom Pizza [8 inches],1,0,"Slice mushroom, capsicum, onion, tomato, cheese.",179.0
+Pizza,Baby Corn and Mushroom Pizza [8 inches],1,0,"Slice baby corn, slice mushroom, capsicum, onion, tomato, cheese.",179.0
+Pizza,Green House Pizza [8 inches],1,0,"Boiled broccoli, onion, cheese.",179.0
+Pizza,Deluxe Pizza [8 inches],1,0,"North Indian style. Paneer, black olives, capsicum, onion, tomato, cheese, white sauce.",179.0
+Pizza,Black and Green Olives Pizza [8 inches],1,0,"Black olives, green olives, cheese.",179.0
+Pizza,Paradize Special Pizza [8 inches],1,0,"Com, paneer, black olives, capsicum, onion, tomato, cheese.",169.0
+Salads,American Corn Salad,1,0,,99.0
+Salads,Greek Salad,1,0,,99.0
+Salads,Paneer Salad,1,0,,109.0
+Burgers and Sandwiches,Vegetable Burger,1,0,,75.0
+Burgers and Sandwiches,Vegetable Cheese Burger,1,0,,85.0
+Burgers and Sandwiches,Special Burger,1,0,,89.0
+Burgers and Sandwiches,Vegetable Sandwich,1,0,,59.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,69.0
+Burgers and Sandwiches,Paneer Sandwich,1,0,,69.0
+Burgers and Sandwiches,Corn and Veg Sandwich,1,0,,69.0
+Burgers and Sandwiches,Tomato and Cheese Sandwich,1,0,,69.0
+Burgers and Sandwiches,Aloo Tikki and Onion Sandwich,1,0,,69.0
+Burgers and Sandwiches,Veg Club Sandwich,1,0,,85.0
+Burgers and Sandwiches,Chilli Cheese Onion Toast,1,0,,99.0
+Submarine,Veg Submarine,1,0,,65.0
+Submarine,Veg Cheese Submarine,1,0,,79.0
+Submarine,Veg and Patty Submarine,1,0,,79.0
+Tacos,Mexican Tacos,1,0,,115.0
+Wraps,Veg and Paneer Wrap,1,0,,65.0
+Wraps,Veg and Corn Wrap,1,0,,69.0
+Wraps,Aloo Tikki and Cheese Wrap,1,0,,75.0
+Snacks,French Fries [Half],1,0,,45.0
+Snacks,French Fries [Full],1,0,,75.0
+Snacks,Potato Smileys,1,0,,65.0
+Snacks,Chilli Potato,1,0,,65.0
+Snacks,Veg Nuggets,1,0,,65.0
+Snacks,Veg Fingers,1,0,,65.0
+Snacks,White Sauce,1,0,,25.0
+Mojito,Virgin Mojito,1,0,,75.0
+Mojito,Green Apple Mojito,1,0,,85.0
+Mojito,Strawberry Mojito,1,0,[Non Alcoholic],85.0
+Mojito,Blackcurrant Mojito,1,0,[Non Alcoholic],89.0
+Mojito,Mango Mojito,1,0,[Non Alcoholic],85.0
+Mojito,Pineapple Mojito,1,0,[Non Alcoholic],89.0
+Mojito,Bluecuraco Mojito,1,0,,89.0
+Milkshakes,Vanilla Milkshake,1,0,,89.0
+Milkshakes,Strawberry Milkshake,1,0,,89.0
+Milkshakes,Pineapple Milkshake,1,0,,89.0
+Milkshakes,Butterscotch Milkshake,1,0,,97.0
+Milkshakes,Chocolate Milkshake,1,0,,99.0
+Milkshakes,Blackcurrant Milkshake,1,0,,99.0
+Milkshakes,Oreo Milkshake,1,0,,99.0
+Milkshakes,Blue Island Milkshake,1,0,,95.0
+Cold Coffee,Virgin Cold Coffee,1,0,,79.0
+Cold Coffee,Chocolate Cold Coffee,1,0,,99.0
+Accompaniments,Ketchup,1,0,,10.0

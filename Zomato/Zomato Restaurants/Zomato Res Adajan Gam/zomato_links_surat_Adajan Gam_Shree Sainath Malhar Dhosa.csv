@@ -1,0 +1,61 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,Masala Dosa,1,0,Crispy dosa with a potato filling served with sambar and chutney. || Images ... read more,140.0
+South Indian,Cheese Masala Dosa,1,0,,160.0
+South Indian,Schezwan Masala Dosa,1,0,,160.0
+South Indian,Cheese Schezwan Masala,1,0,,190.0
+South Indian,Paneer Dosa,1,0,,190.0
+South Indian,Cheese Paneer Dosa,1,0,,230.0
+South Indian,Aloo Paneer Dosa,1,0,,190.0
+South Indian,Palak Dosa,1,0,,160.0
+South Indian,Aloo Palak Dosa,1,0,,160.0
+South Indian,Cheese Aloo Palak Dosa,1,0,,180.0
+South Indian,Palak Paneer Dosa,1,0,,210.0
+South Indian,Cheese Palak Dosa,1,0,,230.0
+South Indian,Cheese Palak Paneer Dosa,1,0,Palak dosa / palak paneer dosa ( dosa stuffed with spinach and cottage ... read more,250.0
+South Indian,Cheese Sweet Corn Dosa,1,0,,230.0
+South Indian,Cheese Schezwan Sweet Corn,1,0,,240.0
+South Indian,Chinese Dosa,1,0,,210.0
+South Indian,Cheese Schezwan Chinese,1,0,,240.0
+South Indian,Mixed Dosa,1,0,,240.0
+South Indian,Jini Roll Dosa,1,0,,240.0
+South Indian,Cheese Chocolate Roll Dosa,1,0,,210.0
+South Indian,Schezwan Roll Dosa,1,0,,250.0
+South Indian,Sada Dosa,1,0,,70.0
+South Indian,Baby Sada Dosa,1,0,,70.0
+South Indian,Schezwan Sada Dosa,1,0,,90.0
+South Indian,Garlic Sada Dosa,1,0,,100.0
+South Indian,Cheese Garlic Sada Dosa,1,0,,130.0
+South Indian,Nylon Dosa,1,0,,100.0
+South Indian,Baby Nylon Dosa,1,0,,90.0
+South Indian,Garlic Nylon Dosa,1,0,,110.0
+South Indian,Jeera Nylon Dosa,1,0,,100.0
+South Indian,Cheese Baby Dosa,1,0,,130.0
+South Indian,Cheese Sada Dosa,1,0,,130.0
+South Indian,Cheese Schezwan Sada Dosa,1,0,,140.0
+South Indian,Cheese Nylon Dosa,1,0,,160.0
+South Indian,Oregano Nylon Dosa,1,0,,130.0
+South Indian,Cheese Baby Nylon Dosa,1,0,,140.0
+South Indian,Cheese Garlic Nylon Dosa,1,0,,160.0
+South Indian,Cheese Schezwan Garlic Nylon Dosa,1,0,,160.0
+South Indian,Cheese Garlic Olive Nylon Dosa,1,0,,170.0
+South Indian,Cheese Garlic Oregano Nylon Dosa,1,0,,170.0
+South Indian,Cheese Garlic Oregano Baby Corn Nylon,1,0,,190.0
+South Indian,Mysore Masala Dosa,1,0,,140.0
+South Indian,Cheese Mysore Masala Dosa,1,0,,160.0
+South Indian,Paneer Surma Dosa,1,0,,210.0
+South Indian,Cheese Paneer Surma Dosa,1,0,,240.0
+South Indian,Paneer Tukda Dosa,1,0,,210.0
+South Indian,Cheese Paneer Tukda Dosa,1,0,,250.0
+South Indian,Malhar Special Dosa,1,0,,260.0
+South Indian,Cheese Surma,1,0,Yellow ghotala.,270.0
+South Indian,Green Ghotala Tadka,1,0,,240.0
+South Indian,Tikhari Yellow Ghotala with Tadka,1,0,,250.0
+South Indian,Cheese Chilli Garlic Dosa,1,0,,140.0
+South Indian,Sweet Corn Dosa,1,0,,200.0
+South Indian,Schezwan Sweet Corn Dosa,1,0,,210.0
+Pav Bhaji,Butter Pav Bhaji [2 Pav],1,0,"Butter Bhaji  [Regular, 250 ml]+2 Pav+1 Roasted Papad+Salad [100 ml]",140.0
+Pav Bhaji,Jain Butter Pav Bhaji [2 Pav],1,0,Jain Butter Pav Bhaji [250 ml]+2 Pav+1 Roasted Papad+Salad [100 ml],140.0
+Pav Bhaji,1 Roasted Papad,1,0,,15.0
+Pav Bhaji,Onion Tomato Salad [250 ml],1,0,,40.0
+Pav Bhaji,Jain Tomatoes Salad [250 ml],1,0,,40.0
+Drinks (Beverages),Masala Buttermilk,1,0,,20.0

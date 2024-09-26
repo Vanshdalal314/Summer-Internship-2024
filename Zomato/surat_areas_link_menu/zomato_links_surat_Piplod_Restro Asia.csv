@@ -1,0 +1,93 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Exotic Bowls,Veg Ramen Bowl,1,0,"Finely chop cilantro, sliced jalapeno, carrots, edamame, baby bokchoy. pan fried paneer and ... read more",485.0
+Exotic Bowls,Hoisin Kai Yang Bowl,1,0,"Hoisin veggies, cottage cheese, fried rice and butter cabbage salad",485.0
+Exotic Bowls,Pesto Paneer Bowl,1,0,"Pesto Cottage Cheese, Stir Fried Garlic Rice and butter cabbage. Served with salad ... read more",495.0
+Exotic Bowls,Cheesy Mornay Quinoa,1,0,"Sauteed Diced cut Veggies & Jalapeno Stir on pan with quinoa rice, cripy ... read more",495.0
+Exotic Bowls,Capri Paneer Bowl,1,0,"Butter pepper rice and marinated cottage cheese with yogurt, tossed on wok in ... read more",500.0
+Exotic Bowls,Pad Thai Bowl,1,0,Flat Noodles tossed on wok with brocolli salad and sesame cottage chees,515.0
+Exotic Bowls,Spicy Bangkok Curry Bowl,1,0,"Butter Rice, Bangkok Curry, Roasted peanut and sprout salad",540.0
+Exotic Bowls,Exotic Rambo Bowl,1,0,"Stir fried Rambo rice, exotic veggies, bell pepper and garlic sauce with kimchi ... read more",550.0
+Exotic Bowls,Spicy Miso Ramen Bow,1,0,"Boiled ramen noodles, shiitake mushroom, corn, soya sauce, stock broth, chop shallots chilly ... read more",530.0
+Exotic Bowls,Shoyu Ramen Bowl,1,0,Boiled reman noodles mushroom bamboo shoot finger spring onion pokchoi chop Chinese cabbage ... read more,515.0
+Exotic Bowls,Kurume Coconut Ramen Bowl,1,0,Boiled reman noodles coconut milk mushroom cottage cheese and veggies a close relative ... read more,515.0
+Exotic Bowls,Shio Ramen Bowl,1,0,"Slice dip fried of paneer, boiled reman noodles, corn cube spring onion celery ... read more",500.0
+Fried Rice and Noodles,Veg Manchurian Fried Rice,1,0,Cut of manchurian & chop veggies boiled rice toss on chilli sauce.,235.0
+Fried Rice and Noodles,Veg Singapuri Fried Rice,1,0,Chop cut of veggies cashew nut Kolhapuri chilli toss on wok in Singapuri ... read more,260.0
+Fried Rice and Noodles,Ginger Paneer Fried Rice,1,0,Chop cut of veggies boiled rice toss on wok in ginger & paneer.,270.0
+Fried Rice and Noodles,Taiwan Bhel,1,0,Chop of exotic veggies boiled rice toss on wok in kung pao sauce.,280.0
+Fried Rice and Noodles,Veg Singapuri Bhel,1,0,Chop cut of exotic veggies sticks noodles wow noodles boiled rice toss on ... read more,280.0
+Fried Rice and Noodles,Veg Shanghai Fried Rice,1,0,Chop cut of exotic veggies boiled rice toss on wok in spicy Shanghai ... read more,290.0
+Fried Rice and Noodles,Veg Hunan Fried Rice,1,0,Chop cut of exotic veggies toss on wok in hunan sauce.,295.0
+Fried Rice and Noodles,Veg Triple Fried Rice,1,0,"Chop cut of veggies three layered rice, served with hot garlic sauce.",315.0
+Fried Rice and Noodles,Street Style Chinese Bhel,1,0,"Combination of Manchurian, noodles, rice and Savory sauce",300.0
+Fried Rice and Noodles,Cilantro Rice,1,0,Coriander flavour rice served with peri peri sauce and potato chips,320.0
+Fried Rice and Noodles,Vegetable Fried Rice,1,0,"Cooked Sella rice & chunked veggies, served with salad & yummy hot garlic ... read more",310.0
+Fried Rice and Noodles,Paneer Schezwan Fried Rice,1,0,"Spicy schezwan sauce, chunks of cottage cheese, served with extra schezwan sauce and ... read more",350.0
+Fried Rice and Noodles,Garlic Onion Chili Fried Rice,1,0,"Finely chop green garlic spring onion & chili, served with salad & chilli ... read more",350.0
+Fried Rice and Noodles,Burnt Garlic Fried Rice,1,0,"Deep fried burnt garlic, tossed on wok with veggies & chef special sauce ... read more",360.0
+Fried Rice and Noodles,Stir Fried Rice with Pesto Paneer,1,0,Chunk fried cottage cheese tossed on wok in pesto sauce & served with ... read more,380.0
+Fried Rice and Noodles,Mushroom Paneer Fried Rice,1,0,Cube cut of paneer and mushroom rice toss on wok in simple oriental ... read more,290.0
+Fried Rice and Noodles,Chilly Garlic Fried Rice,1,0,Chop cut of veggies and chilli fakes rice toss on wok in chilli ... read more,240.0
+Fried Rice and Noodles,Vegetable Chowmein,1,0,Boiled turmeric noodles veggies toss on wok in chilli sauce.,225.0
+Fried Rice and Noodles,Vegetable Singapuri Noodles,1,0,Julian cut of veggies cashew nut Kolhapuri chilli toss on wok in Singapuri ... read more,245.0
+Fried Rice and Noodles,Ginger Garlic Noodles,1,0,Thinly cut ginger julienne veggies garlic toss on wok in garlic sauce.,245.0
+Fried Rice and Noodles,Veg Hunan Noodles,1,0,Boiled noodles exotic veggies cottage cheese toss on wok in hunan sauce.,245.0
+Fried Rice and Noodles,Chilli Garlic Noodles,1,0,Boiled noodles veggies chilli flakes toss on wok in chilli garlic sauce.,250.0
+Fried Rice and Noodles,Vegetable Hong Kong Noodles,1,0,Boiled noodles exotic veggies toss on wok in Hong Kong style sauce sauce.,250.0
+Fried Rice and Noodles,Veg Manchurian Noodles,1,0,Boiled noodles exotic veggies manchurian toss on wok in spicy chilli soya sauce.,250.0
+Fried Rice and Noodles,Exotic Veg Noodles,1,0,Boiled noodles exotic veggies toss on wok.,250.0
+Fried Rice and Noodles,Thai Paneer Noodles,1,0,Boiled noodles exotic veggies cottage cheese toss on wok in spicy Thai sauce.,260.0
+Fried Rice and Noodles,Exotic Veg Shezwan Noodles,1,0,All time famous spicy sauce and some exotic veggies,260.0
+Fried Rice and Noodles,American Chopsuey,1,0,Julien cut of veggies pineapple sticks noodles sweet & sour.,290.0
+Fried Rice and Noodles,Hakka Noodles,1,0,Steamed noodle and Julian cut veggies tossed on wok with Soya & Chilli ... read more,320.0
+Fried Rice and Noodles,Kimchi Hakka Noodles,1,0,Triangle cut exotic veggies and cottage cheese tossed on wok in special kimchi ... read more,350.0
+Fried Rice and Noodles,Shiitake Mushroom Noodles,1,0,Steamed soft noodles with shitake mushroom tossed in wok with chef special sauce,375.0
+Fried Rice and Noodles,Pad Thai Noodles,1,0,Flat steamed noodles tossed on wok in peanut and chili sauce,370.0
+Fried Rice and Noodles,Ramen Noodles,1,0,"Smoothly soft noodles with ramen sauce, Bokchoy, napa cabbage, peanut, mushroom and scallions",460.0
+Chinese Starters,Veg Manchurian Dry,1,0,All time favorite manchurian with chili and soya sauce.,240.0
+Chinese Starters,Veg Spring Roll,1,0,"Sauteed Veggies, rolled on tortilla served with hot garlic sauce",240.0
+Chinese Starters,Crispy Vegetables,1,0,Crispy fried veggies tossed in spicy chilli sauce,250.0
+Chinese Starters,Crispy Corn & Baby Corn,1,0,"Blanched baby corn and Corn kernel, tossed on wok in spicy schezwan sauce",270.0
+Chinese Starters,Crispy Lotus Stem,1,0,"Crispy fried lotus, tossed in chilli plum sauce",320.0
+Chinese Starters,Hoisin Pepper Veggies,1,0,"Crispy fried Bell pepper, broccoli, mushroom, carrot and zucchini tossed on wok in ... read more",330.0
+Chinese Starters,Black Pepper Stir Fry,1,0,"Bell pepper, broccoli, French beans, carrot, mushroom, bockchoy and napa cabbages toss on ... read more",330.0
+Chinese Starters,Shanghai Water Chestnut,1,0,[Veg Preparation] Crispy fried water chest nut tossed on wok in spicy shanghai ... read more,330.0
+Chinese Starters,Paneer Chilly Dry,1,0,"Dimond Cut paneer, dice chilli, tringle bell pepper toss on wok in soya ... read more",270.0
+Chinese Starters,Schezwan Paneer Chilly,1,0,Cottage Cheese tossed on wok in all-time favourite schezwan sauce,270.0
+Chinese Starters,Hunan Paneer,1,0,Cube cut of soft paneer tossed on wok in Hunan yummy sauce,300.0
+Chinese Starters,Malaysian Douchi Paneer,1,0,"Cube Cut of paneer prepared in Malaysian style ,tossed on wok in douche ... read more",300.0
+Chinese Starters,Chili Basil Paneer with Spring Onion,1,0,"Triangle cut cottage cheese, deep fried in starch powder tossed with soya chilli ... read more",300.0
+Chinese Starters,Mongolian Paneer Dry,1,0,"Deep fried Cottage cheese with Mongolian sauce, kimchi salad and deep sauce top ... read more",300.0
+Chinese Starters,Honey Chilli Potato,1,0,Thin Slice potato tossed on wok in honey chili sauce,225.0
+Chinese Starters,Schezwan Potato,1,0,Finger cut of potato tossed on wok in schezwan sauce,220.0
+Chinese Starters,Kung Pao Potato,1,0,Crispy Fried Cube Potato tossed on wok in kung pao sauce,240.0
+Chinese Starters,Crispy Chilli Slice Potato,1,0,This unique style potato tosses on wok in peri peri sauce,250.0
+Chinese Starters,Cantonese Mushroom Chili,1,0,Crispy fried mushroom tossed on wok in chili sauce,290.0
+Chinese Starters,Garlic Chilli Mushroom Stir Fry,1,0,Slice mushroom bell pepper and garlic Butter Chilli,290.0
+Chinese Starters,Mushroom & Crunchy Bamboo Pickle,1,0,"Button mushroom and bamboo, stir on pan in dark sweet soya sauce",300.0
+Chinese Starters,Ching Mai Mushroom & Paneer,1,0,"Crispy fried cube cottage cheese and buttom mushroom, stir on wok in Chiang ... read more",300.0
+Chinese Starters,Sweet Chili White Fungi Mushroom,1,0,"Soaked mushroom with hot water, tossed on wok in sweet chilli sauce",500.0
+Chinese Starters,Hot Garlic Black Fungi Mushroom,1,0,Soaked mushroom with hot water tossed in wok in black pepper sauce.,500.0
+Soups,Curry Dumpling Noodles Soup,1,0,Sesame & Tomato Mix Curry and Stuffed Dumpling,220.0
+Soups,Desi Lemon Coriander Soup,1,0,"Freshly Chopped Coriander, Lemon Juice, Chunked Veggies",215.0
+Soups,Classic Tom Yum,1,0,Originally Thai-based soup with steamed noodles and stir veggies,230.0
+Soups,Vegetable Manchow Soup,1,0,Chopped Mix Of Vegetable With Crispy Noodles,240.0
+Soups,Hot & Sour Soup,1,0,"Julian veggies, sour & spicy",215.0
+Soups,Laksa Soup,1,0,Cooked veggies like broccoli zucchini cottage cheese shallot vermicelli noodles coconut milk lime ... read more,250.0
+Soups,Tom Kha Soup,1,0,"[Veg Preparation] Chunk of exotic veggies, Thai bird chilli with coconut base (Prepared ... read more",250.0
+Soups,Exotic Veg Asian Green Soup,1,0,Melted coconut milk served with some secret condiments.,230.0
+Soups,Exotic Veg Burmese Soup,1,0,Chunk Cut Of All Exotic Veggies & Coconut Flavoured. Specially from Burma Cuisine,235.0
+Main Course,Manchurian Gravy,1,0,"Chopped Garlic & Onion, Ginger, Chilli and Soya Sauce",280.0
+Main Course,Red Pepper Sauce,1,0,Exotic Veggies with Red Chilli Paste,370.0
+Main Course,Veg Hot Garlic Sauce,1,0,Exotic Veggies & Spicy Hot Garlic Sauce,390.0
+Main Course,Paneer Chilli Gravy,1,0,"Diced Paneer & Garlic Chilli, Bell Pepper and soya and Chilli sauce",400.0
+Main Course,Sichuan Chili Paneer Gravy,1,0,"Diced Paneer, Garlic Chilli, Bell Pepper and Spicy Schezwan",400.0
+Main Course,Mushroom Garlic Gravy,1,0,Coting fried Button mushroom with garlic gravy.,400.0
+Main Course,Exotic Veg And Paneer Mongolian Sauce,1,0,Cube Paneer & Exotic Veggies and Red Chilli Sauc,410.0
+Main Course,Thai Curries,1,0,Exotic Veggies and Thai Paste and Coconut Flavour (Choose Between Green/Red/Yellow) Served With ... read more,500.0
+Chinese Thali [Serves 1],Fried Rice Manchurian Gravy Thali,1,0,Chinese Fried Rice + Veg Gravy Manchurian + Kimchi Salad + Cold Drink ... read more,350.0
+Dip Sauce,Hot Garlic Sauce,1,0,,40.0
+Dip Sauce,Schezwan Sauce,1,0,,40.0
+Dip Sauce,Garlic Siracha Sauce,1,0,,40.0
+Dip Sauce,Plum Sauce,1,0,,40.0
+Dip Sauce,Cold Garlic Dip Sauce,1,0,,40.0

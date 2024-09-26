@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burger,Standard Burger,1,0,Without cheese,70.0
+Burger,Crispy Crunch Burger,1,0,Cheesy burger,80.0
+Burger,Farm House Burger,1,0,Cheesy burger with extra vegetables,90.0
+Burger,Red hot spicy burger,1,0,Spicy and cheesy burger,90.0
+Burger,Paneer tikka burger,1,0,Cheesy & paneer stuff burger,99.0
+Burger,Double tikki burger,1,0,Cheesy & heavy burger,109.0
+Momos,Veggie steam momos,1,0,5 Pcs,80.0
+Momos,Paneer steam momos,1,0,5,90.0
+Momos,Cheese steam momos,1,0,,110.0
+Momos,Veggie fry momos,1,0,,100.0
+Momos,Paneer fry momos,1,0,,110.0
+Momos,Cheese fry momos,1,0,,130.0
+Snacks,Cream and Onion Mayo Pav,1,0,,45.0
+Snacks,Solid Masti Mayo Pav,1,0,,45.0
+Snacks,Farm House Mayo Pav,1,0,,50.0
+Snacks,Red Hot Spicy Mayo Pav,1,0,,50.0
+Snacks,Tandoori Paneer Mayo Pav,1,0,,55.0
+Chaat,Sev puri,1,0,,55.0
+Chaat,Sev puri cheese,1,0,,75.0
+Chaat,Basket chaat,1,0,,65.0
+Chaat,Basket chaat cheese,1,0,,85.0
+Garlic bread,Regular garlic bread,1,0,Cheese garlic bread (Jain available),110.0
+Garlic bread,Cheese corn toast,1,0,Corn topping garlic bread (Jain available),120.0
+Garlic bread,Salty masala Toast,1,0,Masala garlic bread,120.0
+Garlic bread,Green chilly Toast,1,0,Spicy garlic bread,120.0
+Garlic bread,Schezwan Toast,1,0,Schezwan flavour,130.0
+Garlic bread,Roasted onion pepper Toast,1,0,Onion capcicum,130.0
+Garlic bread,Flavour toast,1,0,5 Flavour Garlic Bread,140.0
+Maggi,Masala Maggie,1,0,,70.0
+Maggi,Veggie Maggie,1,0,,80.0
+Maggi,Cheesy sauce Maggie,1,0,,100.0
+Maggi,Schezwan cheese Maggie,1,0,,110.0
+French fries,Salted French fries,1,0,,99.0
+French fries,Peri-peri french fries,1,0,Spicy fries,110.0
+French fries,Cheesy french fries,1,0,Loaded cheese,130.0
+French fries,Peri-peri cheesy french fries,1,0,Loaded cheese with saucses,140.0
+Pasta,Marinara pasta (red sauce),1,0,,140.0
+Pasta,Parma Rosa pasta (pink sauce),1,0,,160.0
+Pasta,Bechamel pasta (white sauce),1,0,,180.0
+Sandwiches,Veg cheese sandwich,1,0,3 layer Raw sandwich,90.0
+Sandwiches,Open cheese toast,1,0,,120.0
+Sandwiches,Garlic cheese toast,1,0,,120.0
+Sandwiches,Corn cheese toast,1,0,,120.0
+Sandwiches,Spicy cheesy toast,1,0,,120.0
+Sandwiches,Grill sandwich cheese,1,0,,150.0
+Sandwiches,Matka Mayo cheese,1,0,,170.0
+Sandwiches,Matka paneer sandwich,1,0,,190.0
+Sandwiches,Couple sandwich,1,0,,210.0
+Sandwiches,Hot cups special sandwich,1,0,,230.0

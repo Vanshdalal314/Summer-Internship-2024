@@ -1,0 +1,63 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Mixed Bhajiya [1 plate ],1,0,A plate of all our classic traditional fritters [bhajiya].,70.0
+Snacks,Potato Puri [1 plate ],1,0,"Thin potato slices dipped in a besan [gram flour] batter, deep fried to ... read more",70.0
+Snacks,Tomato Puri,1,0,"Slices of tomato coated with a traditional green chutney, dipped in besan [gram ... read more",100.0
+Snacks,Ratalu Puri,1,0,"Slices of purple yam coated with our secret masala, dipped in besan [gram ... read more",100.0
+Snacks,Gota,1,0,"Bite sized fritters made from spiced gram flour batter, deep fried to a ... read more",70.0
+Snacks,Kela Methi Bhajiya,1,0,Crispy fritters crafted from a combination of ripe bananas [kela] and fenugreek leaves ... read more,70.0
+Snacks,Idada,1,0,"Light and fluffy steamed cakes made from fermented rice and urad dal batter, ... read more",30.0
+Snacks,Sada Khaman,1,0,Soft and fluffy steamed cakes made from fermented gram flour batter.,30.0
+Snacks,Vagharela Khaman,1,0,"Soft and fluffy steamed cakes made from fermented gram flour batter, seasoned with ... read more",50.0
+Snacks,Nylon Khaman,1,0,,50.0
+Snacks,Kanda Bhajiya [1 plate ],1,0,,70.0
+Snacks,Dal Kanda Samosa,1,0,,70.0
+Snacks,Cheese Paneer Samosa [1 plate ],1,0,,100.0
+Namkeens,Banana Waffers,1,0,Thin slices of ripe bananas expertly fried to a crisp perfection.,145.0
+Namkeens,Bhatha Kani,1,0,Crunchy sticks of gram flour with taste of cumin.,145.0
+Namkeens,Butter Chakri,1,0,"Crispy spirals crafted from a combination of finely ground chickpea flour, wheat flour ... read more",145.0
+Namkeens,Chana Dal,1,0,Split gram with added spicy flavour.,145.0
+Namkeens,Chatpata Chana,1,0,Spicy and tangy Bengal gram flakes.,145.0
+Namkeens,Dahi Boondi,1,0,"Salty spicy mixture of fried gram flour thin noodles, brown lentils, melon seeds ... read more",145.0
+Namkeens,Dry Fruit Kachori,1,0,A delectable snack with a crispy outer shell filled with a blend of ... read more,170.0
+Namkeens,Fafda,1,0,Crispy fried Gujarati snack made from gram flour and spices.,185.0
+Namkeens,Farali Chivda,1,0,"Savory mix of nuts, seeds and spices, specially crafted for fasting rituals, providing ... read more",145.0
+Namkeens,Fulwadi,1,0,"Crispy, deep fried and cylinder shaped savoury snack made of flour and spices.",145.0
+Namkeens,Indori Farali Chivda,1,0,"A zesty blend of nuts, seeds and spices, specially crafted for fasting rituals.",145.0
+Namkeens,Jada Gathiya,1,0,A popular Gujarati snack made of rolled gram flour and spices.,145.0
+Namkeens,Jadi Sev,1,0,Delicate and crisp gram flour vermicelli seasoned with spices.,145.0
+Namkeens,Jeera Puri,1,0,Bite sized crackers infused with the distinct flavor of cumin [jeera].,130.0
+Namkeens,Jeera Sakkarpara,1,0,"Crispy, bite sized delights made with cumin [jeera].",145.0
+Namkeens,Bhavnagri Gathiya,1,0,Fried gram flour stick with cardamom seeds added.,145.0
+Namkeens,Khatta Meetha,1,0,"A delightful mixed of crunchy peanuts, sev and dried fruits, seasoned with sweet ... read more",145.0
+Namkeens,Makhaniya Gathiya,1,0,Crispy gram flour sticks enriched with the aromatic flavor of carom seeds.,145.0
+Namkeens,Makai Chivda,1,0,"Unique flavourable crispy mixture of corn flakes. Nuts, dry coconut and spices.",155.0
+Namkeens,Methi Puri,1,0,"Crispy, bite sized puris infused with the distinct flavor of fenugreek [methi].",130.0
+Namkeens,Methi Sakkarpara,1,0,"Crispy, layered with all purpose flour and spiced to perfection, these savory snacks ... read more",145.0
+Namkeens,Meethi Boondi,1,0,"Tiny, round gram flour pearls delicately sweetened to perfection, known as ""mithi kani"".",145.0
+Namkeens,Moong Dal,1,0,"Crunchy and seasoned yellow lentil snacks, providing a protein rich and flavorful snacking ... read more",145.0
+Namkeens,Nylon Sev,1,0,"Thin and crispy gram flour noodles, intricately formed to perfection.",155.0
+Namkeens,Papad Poha,1,0,A crunchy blend of flattened rice [poha] and seasoned papad pieces.,145.0
+Namkeens,Papdi Gathiya,1,0,"A traditional Gujarati crispy snack, made of besan flour and lightly seasoned with ... read more",145.0
+Namkeens,Plain Sev,1,0,Super fined and gently extruded fried noodles of gram flour.,145.0
+Namkeens,Poha Chivda,1,0,"Thin slices of crispy, golden fried potatoes, seasoned to perfection for a classic ... read more",145.0
+Namkeens,Potato Wafer,1,0,"A savory medley of crispy gram flour noodles [sev], fried peas and various ... read more",145.0
+Namkeens,Sada Sev Mamra,1,0,"A crunchy blend of thin gram flour noodles [sev] and puffed rice [mamra], ... read more",145.0
+Namkeens,Sakkarpara,1,0,"Crispy, diamond shaped delights made from flour and sugar, offering a sweet snacking ... read more",145.0
+Namkeens,Sing Bhujiya,1,0,Crispy and spicy peanut balls with mouth watering indian spices.,145.0
+Namkeens,Spicy Farali Chivda,1,0,"Our exclusive and irresistible snack, featuring Gujarati potato wafers coated with a secret ... read more",145.0
+Namkeens,Spicy Surati Bhusu,1,0,A spicy version of our classic surati bhusu.,145.0
+Namkeens,Surati Bhusu,1,0,"Tangy crunchy mixture of chickpeas strings. Pressed rice flakes, split chickpeas, puffed rice, ... read more",145.0
+Namkeens,Tikha Gathiya,1,0,Spicy and crunchy flavoured fried gram flour with carom seeds and red chilli ... read more,145.0
+Namkeens,Tikha Mixed,1,0,"Spicy and sweet mixture of rice flakes, green peas, peanuts, Bengal gram, lentil ... read more",145.0
+Namkeens,Tikhi Papdi,1,0,A traditional Gujarati crispy snack made of besan flour with a spicy taste.,145.0
+Bakery,Jeera Khari,1,0,,93.0
+Bakery,Khaja Khari,1,0,,93.0
+Bakery,Furmas,1,0,Makhaniya.,93.0
+Bakery,Nankhatai,1,0,,93.0
+Bakery,Surati Sada,1,0,,93.0
+Dry Dosa,Sada Dry Dosa,1,0,,200.0
+Dry Dosa,Masala Dry Dosa,1,0,,200.0
+Dry Dosa,Cheese Dry Dosa,1,0,,200.0
+Dry Dosa,Pani Puri Dry Dosa,1,0,,200.0
+Dry Dosa,Manchurian Dry Dosa,1,0,,200.0
+Dry Dosa,Peri Peri Dry Dosa,1,0,,200.0

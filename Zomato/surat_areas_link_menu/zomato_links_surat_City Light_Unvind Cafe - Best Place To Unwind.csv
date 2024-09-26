@@ -1,0 +1,100 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Hot Classics,Americano,1,0,(Without Milk),200.0
+Hot Classics,Bombon,1,0,(With Milk),210.0
+Hot Classics,Cappuccino,1,0,(With Milk),220.0
+Hot Classics,Cortado,1,0,(With Milk),230.0
+Hot Classics,Espresso,1,0,(Without Milk),170.0
+Hot Classics,Flat White,1,0,(With Milk),250.0
+Hot Classics,Latte,1,0,(With Milk),250.0
+Hot Classics,Long Black (with A Thin Slice Of Lemon),1,0,(Without Milk),180.0
+Hot Classics,Mocha,1,0,(With Milk),260.0
+Hot Classics,Mocha Delight,1,0,(With Milk),310.0
+Hot Classics,Piccolo Latte,1,0,(With Milk),190.0
+Hot Classics,Spanish Latte,1,0,(With Milk),240.0
+Iced Coffees,Blue Pea Latte,1,0,(With Milk),240.0
+Iced Coffees,Cold Brew,1,0,(Without Milk),220.0
+Iced Coffees,Cold Brew Ginger Ale,1,0,(Without Milk),240.0
+Iced Coffees,Cold Brew Tonic,1,0,(Without Milk),240.0
+Iced Coffees,Espresso Ginger Ale,1,0,(Without Milk),240.0
+Iced Coffees,Espresso Tonic,1,0,(Without Milk),240.0
+Iced Coffees,Iced Bombon,1,0,(With Milk),220.0
+Iced Coffees,Iced Espresso,1,0,(Without Milk),180.0
+Iced Coffees,Iced Latte,1,0,(With Milk),230.0
+Iced Coffees,Iced Long Black,1,0,(Without Milk),190.0
+Iced Coffees,Iced Mocha,1,0,(With Milk),230.0
+Iced Coffees,Iced Spanish Latte,1,0,(With Milk),240.0
+Iced Coffees,Vietnamese,1,0,(With Milk),230.0
+Shakes,Biscoff Crackle,1,0,,340.0
+Shakes,Cold Chocolate,1,0,,280.0
+Shakes,Double Choco Chip,1,0,,340.0
+Shakes,Iced Matcha,1,0,,385.0
+Shakes,Oreo Cookie,1,0,,290.0
+Shakes,Tropical Berries,1,0,,340.0
+Unvind Specials,Cold Brew Mojito,1,0,[Non Alcoholic],280.0
+Unvind Specials,Grape Fruit Cold Brew,1,0,,260.0
+Unvind Specials,Hibiscus Tea Tonic Espresso,1,0,,280.0
+Unvind Specials,Irish Cream Coffee,1,0,,280.0
+Unvind Specials,Lime Cold Brew Tonic,1,0,,260.0
+Unvind Specials,Mazagran,1,0,,260.0
+Unvind Specials,Olong Ice Tea,1,0,,290.0
+Unvind Specials,Wild Berries Espresso Tonic,1,0,,280.0
+Hot Chocolate,Hot Chocolate,1,0,,420.0
+Refreshing Mocktails,Guava Chilli,1,0,,280.0
+Refreshing Mocktails,Litchi Coconut,1,0,,320.0
+Refreshing Mocktails,Mixberries Smash,1,0,,350.0
+Refreshing Mocktails,Passion Fruit Tonic,1,0,,260.0
+Refreshing Mocktails,Pina Colada,1,0,,320.0
+Refreshing Mocktails,Salty Citrus Orange,1,0,,290.0
+Refreshing Mocktails,Watermelon Bliss,1,0,,280.0
+Manual Brew (Hot/Ced),French Press,1,0,,230.0
+Manual Brew (Hot/Ced),Hot Pour Over,1,0,,230.0
+Manual Brew (Hot/Ced),Iced Pour Over,1,0,,230.0
+Frappe,Classic Cold Coffee,1,0,,310.0
+Frappe,Dark Chocolate,1,0,,310.0
+Frappe,Hazelnut,1,0,,280.0
+Frappe,Nutella,1,0,,290.0
+Frappe,Nutella Biscoff,1,0,,490.0
+Frappe,Sea Salt Caramel,1,0,,280.0
+Mains,Chipotle Bowl,1,0,"Lemon Rice, Baked Beans, Spicy Paneer, Nachos, Chipotle Sauce, Mushrooms",540.0
+Mains,Creamy Paneer Korma With Paratha,1,0,,550.0
+Mains,Garlic Rice With Cheese Sauce,1,0,Garlic Rice With Creamy Cheese Sauce,540.0
+Mains,Keema Pav,1,0,"Soya Keema, Green Peas, Soft Pav",480.0
+Desserts,Biscoff Cheese Cake,1,0,,340.0
+Desserts,Chocolate Devil,1,0,,390.0
+Desserts,Cloud 9,1,0,,420.0
+Desserts,Newyork Cheese Cake,1,0,,290.0
+Desserts,Nutella Cheese Cake,1,0,,340.0
+Desserts,Strawberry Love,1,0,,390.0
+Small Plates,Classic Fries,1,0,,260.0
+Small Plates,Herb Fries,1,0,,290.0
+Small Plates,Not Your Regular Fries,1,0,Tossed In Signature Hot Sauce,420.0
+Small Plates,Peri Peri Fries,1,0,,290.0
+Sandwiches /Open Toasts,All Things Bagel,1,0,,360.0
+Sandwiches /Open Toasts,All Things Bagel - Jain,1,0,,340.0
+Sandwiches /Open Toasts,Avacado Open Toast -jain,1,0,,550.0
+Sandwiches /Open Toasts,Avocado Open Toast,1,0,,550.0
+Sandwiches /Open Toasts,Bombay Grill Sandwich -(jain No Fries),1,0,,370.0
+Sandwiches /Open Toasts,Bombay Grilled Sandwich,1,0,"Needs No Description, 4 Pieces",440.0
+Sandwiches /Open Toasts,Creamy Mushroom Open Toast,1,0,"Sourdough, Creamy Garlic Mushroom, Tru#e Oil, 2 Pieces",440.0
+Sandwiches /Open Toasts,Firestorm Sourdough Sandwich,1,0,,320.0
+Sandwiches /Open Toasts,Groot Sourdough Sandwich,1,0,,320.0
+Sandwiches /Open Toasts,Groot Sourdough Sanwich - Jain,1,0,,320.0
+Sandwiches /Open Toasts,Lettuce Tomato Bagel,1,0,"Lettuce, Tomato, Cream Cheese",290.0
+Sandwiches /Open Toasts,Pizza Pocket(panuozzo),1,0,,420.0
+Sandwiches /Open Toasts,Popeye's Favourite Sandwich,1,0,,450.0
+Sandwiches /Open Toasts,The Og Garlic Bread,1,0,,350.0
+Salads,Caesar Salad,1,0,,370.0
+Salads,Ceasar Salad- Jain,1,0,,370.0
+Salads,Watermelon And Feta Salad,1,0,"(Watermelon, Feta, Balsamic Glaze)",370.0
+Salads,Watermelon And Feta Salad- Jain,1,0,,370.0
+Pasta,Aglio E Olio,1,0,"Dish From Naples, Olive Oil, Chilli Flakes, Garlic, Parmesan Cheese, Spaghetti Pasta",460.0
+Pasta,Penne Alfredo,1,0,"White Creamy Sauce, Fresh Herbs",460.0
+Pasta,Penne Alla Rosa,1,0,"Pink Creamy Sauce, Indo-Italian Delight",460.0
+Pasta,Spaghetti Bolognese,1,0,"Marzano Tomato, Garlic, Basil",570.0
+Pasta,Spaghetti Pesto,1,0,"Garlic, Basil Leaves, Persian Olive Oil",480.0
+Pizzas,All About Mushroom Pizza [12 Inches],1,0,"Mushroom Sauce, Cheese, Onions, Enoki Mushrooms, Tru#e Oil",760.0
+Pizzas,Farm Fresh Pizza [12 Inches],1,0,"Bell Peppers, Onions, Cherry Tomatoes, Arugula, Jalape?os, Olives, Pomodoro Sauce, Cheese",710.0
+Pizzas,Obviously Margherita Pizza [12 Inches],1,0,"Pomodoro Sauce, Cheese, Basil",620.0
+Pizzas,Pesto Pizza [12 Inches],1,0,"Pesto Sauce, Vegetables, Onions, Cherry Tomatoes, Olives, Chipotle Mayo",720.0
+Burgers,Aamchi Mumbai Burger,1,0,,440.0
+Burgers,Jalapeno Corn Cheese Burger,1,0,,420.0

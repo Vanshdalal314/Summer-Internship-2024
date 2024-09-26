@@ -1,0 +1,22 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cone Chaat,Cheese Cone Chaat,1,0,A special cheesy cone chaat served in crispy cone.,78.0
+Cone Chaat,Paneer And Cheese Cone Chaat,1,0,"Combination of paneer, veggies and flavored spicy cheese chutney loaded with cheese, served ... read more",89.0
+Cone Chaat,Paneer Cone Chaat,1,0,Combination of paneer and veggies with flavored spicy cheese chutney served in crispy ... read more,78.0
+Cone Chaat,Regular Cone Chaat,1,0,A unique chaat with two layer served in crispy cone with veggies and ... read more,48.0
+Cone Chaat,Schezwan Cheese Cone Chaat,1,0,A unique chaat with two layer served in crispy cone with veggies and ... read more,89.0
+Cone Chaat,Schezwan Cone Chaat,1,0,A unique chaat with two layer served in crispy cone with veggies and ... read more,69.0
+Kulhad Pizza,Paneer N Corn Kulhad Pizza,1,0,"Delightful combination of paneer, sweet corn and tomato with loaded cheeses. New Indian ... read more",128.0
+Drinks (Beverages),Blueberry 300 ML,1,0,,29.0
+Bowl Chaat,Cheese Mania,1,0,,138.0
+Bowl Chaat,Classic Papdi,1,0,,99.0
+Bowl Chaat,Paneer Cheese Delite,1,0,,158.0
+Bowl Chaat,Paneer Delite,1,0,,138.0
+Bowl Chaat,Schezwan Cheese Delite,1,0,,148.0
+Jumbo Frankie,Cheese Crispy Frankie,1,0,,79.0
+Jumbo Frankie,Masala Crispy Frankie,1,0,,59.0
+Jumbo Frankie,Tandoori Cheese Frankie,1,0,,89.0
+Jumbo Frankie,Tandoori Crispy Frankie,1,0,,69.0
+Nachos,Nachos & Cheese Dip,1,0,,94.0
+Burger,Classic Burger,1,0,,59.0
+Burger,Schezwan Burger,1,0,,69.0
+Burger,Tandoori Burger,1,0,,69.0

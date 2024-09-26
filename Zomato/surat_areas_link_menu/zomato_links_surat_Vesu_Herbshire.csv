@@ -1,0 +1,37 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Salads,Turkish Chickpea,1,0,"Spiced chickpeas, crisp cucumbers, ripe tomatoes, and vibrant bell peppers, all delicately garnished ... read more",259.0
+Salads,Watermelon Feta,1,0,"Diced watermelon, arugula and lettuce dressed with tangy and sweet dressing topped with ... read more",249.0
+Salads,Garden Chickpea,1,0,"Hydroponic Self Grown Lettuce, Chickpea, Bell Pepper, Cherry Tomato, Corn, Olives, Cucumber, Mint ... read more",229.0
+Salads,Caesar Salad,1,0,"Hydroponic self grown lettuce, black olives, multigrain bread, cherry tomatoes. Dressing: Classic caesar",259.0
+Salads,Chana Chat Salad,1,0,A protein-rich sprout salad inspired by indian street food comfort and satisfying,229.0
+Salads,Japanese Soba Noodles,1,0,"Japanese soba noodles tossed in a thai peanut dressing, topped with fresh vegetables, ... read more",289.0
+Salads,Fruits And Greens,1,0,,299.0
+Salads,Falafel Salad,1,0,"Hydroponic self grown lettuce, 3 falafel, corn, bell peppers, capsicum, cherry tomatoes. Dressing: ... read more",249.0
+Salads,Spaghetti Salad,1,0,"Hydroponic self grown lettuce, whole wheat spaghetti, zucchini, basil, baby corn, black olives. ... read more",259.0
+Salads,Greek Salad,1,0,"Hydroponic self grown lettuce, paneer, black olives, cucumber, bell peppers, corn, cherry tomatoes. ... read more",229.0
+Salads,Pesto Spaghetti Salad,1,0,"Hydroponic self grown lettuce, whole wheat pasta, bell peppers, cherry tomatoes, black olives. ... read more",269.0
+Salads,Mexican Salad,1,0,"Hydroponic self grown lettuce, kidney beans, corn, bell peppers, cucumber, parsley, spring onions, ... read more",229.0
+Smoothies,Berry Blast,1,0,"Refreshing and addictive, this blend combines mixed berries, banana, unsweetened coconut milk, and ... read more",269.0
+Smoothies,Chocolate Protein,1,0,"Protein boosted delightful blend of chocolate protein powder, creamy peanut butter, banana, coconut ... read more",269.0
+Smoothies,Green Goddess,1,0,"Healthful blend of Fresh Hydroponic Kale, Spinach, Banana, Green Apple, Pineapple Enriched ... read more",249.0
+Smoothies,Peanut Butter Power,1,0,"This protein-boosting blend combines peanut butter, oats, banana, almond milk, and dates with ... read more",249.0
+Smoothie Bowl,Berry Blast Smoothie Bowl,1,0,"Refreshing and addictive, this blend combines mixed berries, banana, unsweetened coconut milk, and ... read more",339.0
+Smoothie Bowl,Chocolate Protein Bowl,1,0,"Protein boosted delightful blend of chocolate protein powder powder, creamy peanut butter, ... read more",339.0
+Smoothie Bowl,Green Goddess Bowl,1,0,"Healthful blend of fresh hydroponic kale, spinach, banana, green apple, pineapple enriched ... read more",339.0
+Smoothie Bowl,Peanut Butter Power Smoothie Bowl,1,0,"This protein-boosting blend combines peanut butter, oats, banana, almond milk, and dates with ... read more",319.0
+Fresh Juices,Abc,1,0,"Red Apple, Beet, Carrot, Kale, Lettuce",189.0
+Fresh Juices,Watermelon Mint,1,0,,159.0
+Fresh Juices,Cucumber Basil Cooler,1,0,"Cucumber, Basil, Pineapple, Carrot",149.0
+Fresh Juices,Beetroot Lemongrass,1,0,,159.0
+Fresh Juices,Lemon Basil,1,0,,159.0
+Scooped Subs,Caprese Sub,1,0,"Fresh pesto and juicy tomatoes slices, complemented by spicy jalapeno, fried garlic, crispy ... read more",219.0
+Scooped Subs,Protein Power Sub,1,0,6-Inch whole wheat scooped bread loaded with the goodness of our hydroponically grown ... read more,219.0
+Scooped Subs,Creamy Mexicano Sub,1,0,6-Inch whole wheat scooped bread packed with the goodness of our hydroponically grown ... read more,189.0
+Scooped Subs,Falafel Mediterranean Sub,1,0,6-Inch whole wheat scooped bread loaded with the goodness of our hydroponically grown ... read more,219.0
+Iced Coffee,Espresso Tonic,1,0,,259.0
+Iced Coffee,Iced Americano,1,0,,239.0
+Iced Coffee,Iced Latte,1,0,,249.0
+Iced Coffee,Iced Vietnames,1,0,,259.0
+Iced Coffee,Summer Rush,1,0,,269.0
+Healthy Combos,Chickpea Quinoa Protein Bowl,1,0,,389.0
+Healthy Combos,Spicy Mexican Quinoa Bowl,1,0,,399.0

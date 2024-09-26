@@ -1,0 +1,25 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Frankies,Veg Frankie,1,0,,40.0
+Frankies,Veg Butter Cheese Frankie,1,0,,70.0
+Frankies,Veg Cheese Frankie,1,0,,60.0
+Frankies,Schezwan Frankie,1,0,,50.0
+Frankies,Schezwan Cheese Frankie,1,0,,70.0
+Frankies,Schezwan Mayonnaise Cheese Frankie,1,0,,70.0
+Frankies,Paneer Cheese Mayonnaise Frankie,1,0,,80.0
+Frankies,Paneer Cheese Schezwan Frankie,1,0,,80.0
+Frankies,Paneer Tandoori Cheese Frankie,1,0,,80.0
+Frankies,Paneer BBQ Cheese Frankie,1,0,,80.0
+Frankies,Butter Paneer Cheese Frankie,1,0,,80.0
+Frankies,Corn Mayonnaise Frankie,1,0,,50.0
+Frankies,Corn Mayonnaise Cheese Frankie,1,0,,70.0
+Frankies,Corn Schezwan Cheese Frankie,1,0,,60.0
+Frankies,Corn Paneer Cheese Mayonnaise Frankie,1,0,,70.0
+Frankies,Manchurian Cheese Frankie,1,0,,70.0
+Frankies,Manchurian Corn Cheese Frankie,1,0,,70.0
+Frankies,Manchurian Paneer Cheese Frankie,1,0,,80.0
+Frankies,Noodle Cheese Frankie,1,0,,70.0
+Frankies,Noodle Manchurian Cheese Frankie,1,0,,70.0
+Frankies,Noodle Paneer Cheese Frankie,1,0,,70.0
+Frankies,Little Bite Special Frankie,1,0,,100.0
+Frankies,Cocktail Frankie,1,0,,70.0
+Frankies,Veg Patty Cheese Frankie,1,0,,80.0

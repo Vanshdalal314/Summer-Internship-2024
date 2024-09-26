@@ -1,0 +1,97 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meals,Meal No. 1,1,0,Veg. Cheese Burger + Fries + Coke,216.0
+Meals,Meal No. 2,1,0,Veg. Cheese Grill Sandwich + Coke,225.0
+Meals,Meal No. 3,1,0,Medium Pizza + Veg Cheese Burger + Coke,420.0
+Meals,Meal No. 4,1,0,Sianature Pizza + French Fries + Coke,660.0
+Pizza And Pasta,Cheese Tomato Pizza,1,0,,162.0
+Pizza And Pasta,Corn Cheese Pizza,1,0,,156.0
+Pizza And Pasta,Jalepino & Red Paprika Pizza,1,0,,180.0
+Pizza And Pasta,Margherita Pizza,1,0,,118.8
+Pizza And Pasta,Onion Capsicum Pizza,1,0,,168.0
+Pizza And Pasta,Paneer & Onion Pizza,1,0,,192.0
+Pizza And Pasta,Onion & Paprika Pizza,1,0,,186.0
+Pizza And Pasta,Cheese Burst Pizza,1,0,"Onion, Tomato, Capsicum, Corn, Olives, Jalapeno",324.0
+Pizza And Pasta,Classic Veg Pizza,1,0,"Onion, Tomato, Capsicum, Black Olive, Jalapeno, Baby Corn",252.0
+Pizza And Pasta,Double Cheese Margherita Pizza,1,0,Loaded With Extra Cheese & Bubbles,216.0
+Pizza And Pasta,Mexican Pizza,1,0,"Chipotle Sauce, Onion, Red Yellow Bellpepper, Corn, Olives, Red Paprika",258.0
+Pizza And Pasta,Paneer Makhni Pizza,1,0,"Corn, Capsicum, Red Paprika, Paneer Marinated In Makhani Sauce",276.0
+Pizza And Pasta,Special Veggie House Pizza,1,0,Mixture Of Total Toppings With Cheese Burst,336.0
+Pizza And Pasta,Tandoori Paneer Pizza,1,0,"Onion, Capsicum, Red Paprika, Tandoori Sauce Paneer",264.0
+Pizza And Pasta,Tripple Veg Delight Pizza,1,0,"Corn, Capsicum, Olives, Jalapeno",228.0
+Pizza And Pasta,Veggie Fiesta Pizza,1,0,"Corn, Red Peprikas, Capsicum",240.0
+Pizza And Pasta,Veg Extra Vaganza,1,0,,288.0
+Pizza And Pasta,Special Farm House,1,0,,330.0
+Pizza And Pasta,Maggie Pasta Fussion [white],1,0,,240.0
+Pizza And Pasta,Pink Sauce Pasta,1,0,,264.0
+Pizza And Pasta,Red Sauce Pasta,1,0,,180.0
+Pizza And Pasta,White Sauce Pasta,1,0,,228.0
+Burgers And Sandwiches,Aloo Tikki Burger,1,0,,48.0
+Burgers And Sandwiches,American Cheese Burger,1,0,,120.0
+Burgers And Sandwiches,Cheese Lock Burger,1,0,,132.0
+Burgers And Sandwiches,Double Cheese Burger,1,0,,108.0
+Burgers And Sandwiches,Jumbo Burger,1,0,,144.0
+Burgers And Sandwiches,Spicy Burger,1,0,,108.0
+Burgers And Sandwiches,Veg Burger,1,0,,72.0
+Burgers And Sandwiches,Veg Cheese Burger,1,0,,96.0
+Burgers And Sandwiches,Bombay Grill Sandwich,1,0,,204.0
+Burgers And Sandwiches,Cheese Mayo Grill Sandwich,1,0,,192.0
+Burgers And Sandwiches,Corn Cheese Grill Sandwich,1,0,,216.0
+Burgers And Sandwiches,Paneer Tikka Grill Sandwich,1,0,,216.0
+Burgers And Sandwiches,Veg Cheese Grill Sandwich,1,0,,195.0
+Burgers And Sandwiches,Veg Grill Sandwich,1,0,,144.0
+Burgers And Sandwiches,Open Cheese Grill Sandwich,1,0,,204.0
+Snacks,Cheese Chilly Garlic Bread,1,0,,192.0
+Snacks,Cheese Garlic Bread,1,0,,156.0
+Snacks,Paneer Garlic Bread,1,0,,216.0
+Snacks,Supreme Garlic Bread,1,0,,204.0
+Snacks,Cheese French Fries,1,0,,156.0
+Snacks,Masala French Fries,1,0,,108.0
+Snacks,Peri Peri Cheese French Fries,1,0,,192.0
+Snacks,Peri Peri French Fries,1,0,,132.0
+Snacks,Salted French Fries,1,0,,96.0
+Snacks,Zig Zag French Fries,1,0,,120.0
+Momos,Cheese Momos [6 Pcs],1,0,,192.0
+Momos,Fried Momos [6 Pcs],1,0,,144.0
+Momos,Tandoori Momo [6 Pcs],1,0,,228.0
+Maggie,Baked Maggie,1,0,,204.0
+Maggie,Butter Cheese Maggie,1,0,,108.0
+Maggie,Cheese Corn Maggie,1,0,,108.0
+Maggie,Double Cheese Maggie,1,0,,120.0
+Maggie,Paneer Tikka Maggie,1,0,,168.0
+Maggie,Plain Maggie,1,0,,84.0
+Maggie,Schezwan Cheese Maggie,1,0,,144.0
+Maggie,Veg Cheese Maggie,1,0,,96.0
+Brownie,Brownie,1,0,,120.0
+Brownie,Brownie With Ice Cream,1,0,,180.0
+Brownie,Sizzling Brownie,1,0,,228.0
+Drinks (Beverages),Caramel Cold Coffee,1,0,,96.0
+Drinks (Beverages),Cold Coffee,1,0,,72.0
+Drinks (Beverages),Cold Coffee With Ice Cream,1,0,,84.0
+Drinks (Beverages),Hazelnut Coffee,1,0,,115.0
+Drinks (Beverages),Irish Coffee,1,0,,110.0
+Drinks (Beverages),Caramel Thick Shake,1,0,,144.0
+Drinks (Beverages),Choco Brownie Thick Shake,1,0,,156.0
+Drinks (Beverages),Chocolate Thick Shake,1,0,,108.0
+Drinks (Beverages),Kaju Anjeer Thick Shake,1,0,,168.0
+Drinks (Beverages),Kit Kat Thick Shake,1,0,,156.0
+Drinks (Beverages),Oreo Cookie Thick Shake,1,0,,144.0
+Drinks (Beverages),Strawberry Thick Shake,1,0,,120.0
+Drinks (Beverages),Mango Thick Shake,1,0,,132.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,84.0
+Drinks (Beverages),Chocolate Oreo Milkshake,1,0,,96.0
+Drinks (Beverages),Mango Milkshake,1,0,,108.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,108.0
+Drinks (Beverages),Coke [300ml],1,0,,48.0
+Drinks (Beverages),Redbull,1,0,,156.0
+Drinks (Beverages),Sprite [300ml],1,0,,48.0
+Drinks (Beverages),Thumsup [300ml],1,0,,48.0
+Drinks (Beverages),Water Bottle [500 Ml],1,0,,25.0
+Drinks (Beverages),Water Bottle [250 Ml],1,0,,12.0
+Extra,Cheese Dip,1,0,,36.0
+Extra,Cheese Slice,1,0,,24.0
+Extra,Extra Cheese,1,0,,36.0
+Extra,Schezwan Dip,1,0,,24.0
+Extra,Mayo Dip,1,0,,24.0
+Mocktails,Blue Coracco,1,0,,150.0
+Mocktails,Grenidine,1,0,,115.0
+Mocktails,Lemon Ice Tea,1,0,,99.0

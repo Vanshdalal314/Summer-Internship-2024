@@ -1,0 +1,84 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Strawberry Cake,1,0,,240.0
+Cakes,Pineapple Cake,1,0,,240.0
+Cakes,Chocolate Chips Cake,1,0,"A delicate chocolate cake studded with chocolate, covered in a creamy frosting and ... read more",270.0
+Cakes,Fresh Fruit Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,420.0
+Cakes,KitKat Chocolate Cake,1,0,,400.0
+Cakes,Heart Shape Blueberry Cake,1,0,,425.0
+Cakes,Heart Shape Chocolate Pineapple Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,495.0
+Cakes,Heart Shape Chocolate Strawberry Cake,1,0,A delightfully delectable chocolate strawberry heart shape cake baked for the perfect ocassion ... read more,495.0
+Cakes,Christmas Special Cake,1,0,,500.0
+Cakes,Chocolate Heart Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,500.0
+Cakes,Heart Shape Chocolate Vanilla Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,530.0
+Cakes,Heart Shape Fresh Fruit Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,550.0
+Cakes,Heart Shape KitKat Chocolate Cake,1,0,,545.0
+Cakes,Rasmalai Cake,1,0,,575.0
+Cakes,Chocolate Fancy Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,630.0
+Cakes,Fererro Rocher Cake,1,0,,630.0
+Cakes,Full Chocolate KitKat Cake,1,0,,680.0
+Cakes,Anniversary Chocolate Heart Shape Cake,1,0,Chocolate heart shape sponge layered with chocolate and syrup which makes it a ... read more,730.0
+Cakes,Chocolate Pinata Cake,1,0,Dark chocolate cake with hammer.,800.0
+Cakes,Full KitKat Full Gems Cake,1,0,Its a chocolate layer cake built for breaks with plenty of KitKat bars ... read more,850.0
+Cakes,Heart Shape Full Chocolate KitKat Cake,1,0,,850.0
+Cakes,Premium KitKat Chocolate Cake,1,0,"It's a chocolate layer cake surrounded by KitKat candy bars, topped with Cadbury ... read more",880.0
+Cakes,Love Chocolate Pinata Hammer Cake,1,0,,950.0
+Cakes,Heart Shape Chocolate Mud Cake,1,0,Delicioulsy moist and rich chocolate cake with a desirable mud like consistency in ... read more,520.0
+Cakes,Heart Shape Midnight Chocolate Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,485.0
+Cakes,Orange Cake,1,0,Knife with 2 candles are complimentary. Enjoy our 100% eggless cake.,240.0
+Cakes,Cassata Cake,1,0,Cassata cake consists of sponge cake moistened with fruit juices layered with America ... read more,245.0
+Cakes,Blueberry Cake,1,0,,310.0
+Cakes,Butterscotch Cake,1,0,A refreshing cake infused with butterscotch and topped with sweet cream.,310.0
+Cakes,Black Forest Cake,1,0,Deliciously moist black forest cake is a cut above the rest with homemade ... read more,260.0
+Cakes,Oreo Chocolate Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,340.0
+Cakes,Chocolate Zebra Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,265.0
+Cakes,Chocolate Vanilla Cake,1,0,This cake is made with layers of chocolate ganache mixed with vanilla cream ... read more,340.0
+Cakes,Chocolate Pineapple Cake,1,0,"Whipped cream smothered between soft layers of sponge cake, soaked in pineapple syrup.",350.0
+Cakes,Midnight Chocolate Cake,1,0,Chocolate sponge layered with dark chocolate and syrup which makes it a pure ... read more,265.0
+Cakes,Chocolate Strawberry Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,350.0
+Cakes,Swiss Chocolate Cake,1,0,This swiss cake combines rich chocolate cake layers and a simple whipped cream ... read more,350.0
+Cakes,Chocolate Truffle Cake,1,0,"A chocolate layer cake recipe with dense, moist chocolate cake, silky chocolate truffle ... read more",400.0
+Cakes,Heart Shape Cassata Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,395.0
+Cakes,Heart Shape Orange Cake,1,0,,395.0
+Cakes,Heart Shape Strawberry Cake,1,0,A delightfully delectable strawberry heart shape cake baked for the perfect ocassion for ... read more,405.0
+Cakes,Heart Shape Butterscotch Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,425.0
+Cakes,Heart Shape Pineapple Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,425.0
+Cakes,Heart Shape Chocolate Chips Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,470.0
+Cakes,Heart Shape Black Forest Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,425.0
+Cakes,Heart Shape Oreo Chocolate Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,445.0
+Cakes,Dutch Truffle Chocolate Cake,1,0,,490.0
+Cakes,Heart Shape Chocolate Truffle Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,540.0
+Cakes,Heart Shape Chocolate Couple Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,555.0
+Cakes,Heart Shape Swiss Chocolate Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,445.0
+Cakes,Heart Shape Dutch Truffle Cake,1,0,Enjoy our 100% eggless cake. Knife with 2 candles are complimentary.,625.0
+Cakes,Heart Shape Ferrero Rocher Cake,1,0,,800.0
+Cakes,Chocolate Nikos Cake,1,0,,1000.0
+Cakes,Chocolate Loaded Cake,1,0,,800.0
+Cakes,Rakhi Special Cake,1,0,,600.0
+Cakes,Walnut Dutch Truffle Cake,1,0,,650.0
+Cakes,Dark Truffle Chocolate Cake,1,0,,380.0
+Cakes,Chocolate Mud Cake,1,0,,275.0
+Cakes,Full Ferrero Rocher Full KitKat Cake,1,0,,1750.0
+Cakes,Suprise Bomb Chocolate Cake [500 g],1,0,,2000.0
+Cakes,Mango Cake,1,0,,450.0
+Cakes,Chocolate Muffin Cake,1,0,[Veg preparation],420.0
+Cakes,Choco Choco Cake,1,0,,440.0
+Pastries,Chocolate Truffle Pastry [2 Pieces],1,0,,170.0
+Pastries,Chocolate KitKat Pastry [2 Pieces],1,0,,190.0
+Pastries,Chocolate Oreo Pastry [2 Pieces],1,0,,150.0
+Pastries,Chocolate Mud Pastry [2 Pieces],1,0,,150.0
+Pastries,Chocolate Black Forest Pastry [2 Pieces],1,0,,140.0
+Pastries,Chocolate Chips Pastry [2 Pieces],1,0,,140.0
+Pastries,Pineapple Pastry [2 Pieces],1,0,,140.0
+Pastries,Strawberry Pastry [2 Pieces],1,0,,140.0
+Pastries,Cassata Pastry [2 Pieces],1,0,,140.0
+Doughnuts & Muffins,KitKat Muffin,1,0,,100.0
+Doughnuts & Muffins,Chocolate Chip Muffin,0,0,,90.0
+Doughnuts & Muffins,James Muffin,1,0,,90.0
+Special Themes Cake,Baby Boss Chocolate Cake [1 kg],1,0,,1100.0
+Special Themes Cake,Bon Voyage Chocolate Cake [1 kg],1,0,,1100.0
+Special Themes Cake,Jungle Theme Chocolate Cake [1 kg],1,0,,1100.0
+Fathers Day Celebration Cakes,Eggless Chocolate Pinata Cake,1,0,Dark chocolate cake with hammer.,850.0
+Fathers Day Celebration Cakes,Eggless Heart Shape Full Chocolate KitKat Cake,1,0,,850.0
+Fathers Day Celebration Cakes,Fathers Day Special Cake,1,0,Chocolate flavour cak,600.0
+Raksha Bandhan Special,Raksha Bandhan Special Chocolate Cake [500 grams],1,0,,550.0
+New year special cake,Welcome 2024 chocolate cake,1,0,,550.0

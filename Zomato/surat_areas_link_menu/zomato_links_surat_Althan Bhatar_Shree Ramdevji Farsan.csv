@@ -1,0 +1,23 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Namkeens,Mamra,1,0,,180.0
+Khaman and Idada,Sada Khaman,1,0,,30.0
+Khaman and Idada,Fried Khaman,1,0,,55.0
+Khaman and Idada,Vagharela Idada,1,0,,50.0
+Khaman and Idada,Sada Idada,1,0,,40.0
+Khaman and Idada,Corn Idada,1,0,,55.0
+Vada Pav and Pakora,Pakora,1,0,,17.0
+Vada Pav and Pakora,Normal Vada Pav,1,0,,20.0
+Vada Pav and Pakora,Cheese Vada Pav,1,0,,35.0
+Vada Pav and Pakora,Mayonnaise Grilled Vada Pav,1,0,,35.0
+Bhajiya,Dal Vada,1,0,,65.0
+Bhajiya,Batata Puri,1,0,,65.0
+Bhajiya,Methi Ka Gota,1,0,,65.0
+Bhajiya,Methi Na Bhajiya,1,0,,65.0
+"Patra, Patties and Samosa",Vagharela Patra,1,0,,65.0
+"Patra, Patties and Samosa",Khandvi Pataudi,1,0,,65.0
+"Patra, Patties and Samosa",Sada Patra,1,0,Patra no roll.,55.0
+"Patra, Patties and Samosa",Patties,1,0,,65.0
+"Patra, Patties and Samosa",Dal Samosa,1,0,,80.0
+"Patra, Patties and Samosa",Patties Half Fry,1,0,,60.0
+"Patra, Patties and Samosa",Samosa Fry [Half],1,0,"A crisp and flaky samosa filled with a medley of vegetables and spices, ... read more",60.0
+Jalebi and Fafda,Fafda,1,0,,120.0

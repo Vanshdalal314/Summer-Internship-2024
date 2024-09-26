@@ -1,0 +1,53 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Omelette,Omelette,0,0,,50.0
+Omelette,Cheese Omelette,0,0,,80.0
+Omelette,Locha Omelette,0,0,,50.0
+Omelette,Boiled Omelette,0,0,,60.0
+Omelette,Italian Cheese Omelette,0,0,,150.0
+Omelette,Cheese Mysore omelette,0,0,Prepared with Amul butter.,150.0
+Omelette,Cheese Mysore Gravy Omelette,0,0,Prepared with Amul butter.,300.0
+Omelette,Pizza Omelette,0,0,Prepared with Amul butter.,300.0
+Omelette,Sandwich Omelette,0,0,,50.0
+Omelette,Punjabi Omelette [4 Eggs],0,0,,220.0
+Omelette,Rasavali Omelette [2 Eggs],0,0,,120.0
+Starters,Egg Cheese Boiled Kofta Dry,0,0,,150.0
+Starters,Egg 65 [4 Eggs],0,0,,250.0
+Main Course,Egg Green Garvy Fry,0,0,,60.0
+Main Course,Egg Simple Keema,0,0,,60.0
+Main Course,Egg Keema Kachu,0,0,,80.0
+Main Course,Egg Sabji [4 Eggs],0,0,,80.0
+Main Course,Egg Curry [4 Eggs],0,0,,80.0
+Main Course,Egg Goti Gotalo,0,0,,100.0
+Main Course,Single Egg Gotalo,0,0,,120.0
+Main Course,Real Egg Gotalo,0,0,,120.0
+Main Course,Egg Lachko,0,0,,60.0
+Main Course,Egg Kachu,0,0,,60.0
+Main Course,Egg Bhurji,0,0,,60.0
+Main Course,Egg Chinese Cheese Keema [2 Eggs],0,0,,130.0
+Main Course,Rasawalu Kachu [3 Eggs],0,0,,180.0
+Main Course,Egg Paplet,0,0,,350.0
+Main Course,Egg Mamna,0,0,,350.0
+Main Course,Egg Cheese Masala Fry,0,0,,90.0
+Main Course,Egg Dal Fry [2 Eggs],0,0,,120.0
+Main Course,Bolied Egg Fry [4 Eggs],0,0,,60.0
+Main Course,Egg Lehsuni Fry,0,0,,60.0
+Main Course,Egg Green Goti Fry,0,0,,70.0
+Main Course,Egg Tomato Fry,0,0,,70.0
+Main Course,Egg Tomato Cheese Fry,0,0,,90.0
+Main Course,Egg Chinese Green Fry,0,0,,350.0
+Main Course,Egg Australian Fry,0,0,,350.0
+Main Course,Egg Cheese Green Fry,0,0,,350.0
+Main Course,Bolied Egg Cheese Kofta Gravy,0,0,,180.0
+Main Course,Egg Ravaiya [4 Eggs],0,0,,250.0
+Main Course,Egg Patudi [4 Eggs],0,0,,220.0
+Main Course,Egg Patra [4 Eggs],0,0,,250.0
+Main Course,Egg Mughlai [6 Eggs],0,0,,350.0
+Main Course,Egg Lahori [4 Eggs],0,0,,250.0
+Main Course,Egg Red Kofta Gravy [4 Eggs],0,0,,250.0
+Main Course,Egg Tikhari [4 Eggs],0,0,,250.0
+Main Course,Egg Samosa Gravy [4 Eggs],0,0,,230.0
+Main Course,Egg Bheja Fry [4 Eggs],0,0,,230.0
+Main Course,Egg Laziz [4 Eggs],0,0,,250.0
+Main Course,Egg Pushpa Raj [ 4 Eggs],0,0,,250.0
+South Indian,Egg Dosa,0,0,,350.0
+Frankie,Egg Frankie [4 Eggs],0,0,,250.0

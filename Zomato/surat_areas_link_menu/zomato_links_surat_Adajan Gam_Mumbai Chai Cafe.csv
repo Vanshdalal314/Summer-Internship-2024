@@ -1,0 +1,81 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chai,Mumbai Amruttullya Chai,1,0,,20.0
+Chai,Mumbil Masala Chai,1,0,,30.0
+Chai,Ashwagandha Chai,1,0,,30.0
+Chai,Dum Chai,1,0,,30.0
+Chai,Gudwali Chal Plain Chai,1,0,,30.0
+Chai,Gudwali Chai Masala Chai,1,0,,30.0
+Chai,South Indian Coffee Chai,1,0,,30.0
+Chai,Lemon Black Tea,1,0,,25.0
+Chai,Green Tea,1,0,,30.0
+Chai,Pink Tea,1,0,,45.0
+Chai,Kashmiri Kahwa,1,0,,45.0
+Burgers and Sandwiches,Aloo Tikki Burger,1,0,,60.0
+Burgers and Sandwiches,Veggei Burger,1,0,,75.0
+Burgers and Sandwiches,Maharaja Burger,1,0,,90.0
+Burgers and Sandwiches,Potato Sandwich,1,0,,60.0
+Burgers and Sandwiches,Chutney Cheese Sandwich,1,0,,70.0
+Burgers and Sandwiches,Cheese Chilli Sandwich,1,0,,115.0
+Burgers and Sandwiches,Mumbai Masala Sandwich,1,0,,80.0
+Burgers and Sandwiches,Mumbai Grilled Sandwich,1,0,,85.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,,100.0
+Burgers and Sandwiches,Corn Sandwich,1,0,,110.0
+Burgers and Sandwiches,Paneer Sandwich,1,0,,120.0
+Snacks,Maska Bun,1,0,,40.0
+Snacks,Jam Bun,1,0,,40.0
+Snacks,Bun Bhujia,1,0,,45.0
+Snacks,Onion Bhajiya,1,0,,65.0
+Snacks,Punjabi Samosa [2 Pieces],1,0,,55.0
+Snacks,Poha,1,0,,45.0
+Snacks,Upma,1,0,,45.0
+Snacks,Sheera,1,0,,60.0
+Snacks,Mumbai Vada Pav,1,0,,40.0
+Snacks,Crispy Vada Pav,1,0,,45.0
+Snacks,Cheese Vada Pav,1,0,,65.0
+Snacks,Ulta Vada Pav,1,0,,65.0
+Snacks,Junglee Vada Pav,1,0,,75.0
+Snacks,Mint Vada Pav,1,0,,55.0
+Snacks,Mexican Vada Pav,1,0,,55.0
+Snacks,Mayonnaise Vada Pav,1,0,,55.0
+Snacks,Barbeque Vada Pav,1,0,,55.0
+Snacks,Schezwan Vadapay,1,0,,55.0
+Snacks,Tandoori Vada Pav,1,0,,55.0
+Snacks,Garlic Mayo Vadapay,1,0,,55.0
+Snacks,Peri Peri Vada Pav,1,0,,55.0
+Snacks,Mumbai Samosa Pav,1,0,,45.0
+Snacks,Cheese Samosa Pav,1,0,,70.0
+Snacks,Junglee Samosa Pav,1,0,,80.0
+Snacks,Mint Samosa Pav,1,0,,60.0
+Snacks,Mexican Samosa Pay,1,0,,60.0
+Snacks,Mayonaisee Samosa Pav,1,0,,60.0
+Snacks,Barbeque Samosa Pav,1,0,,60.0
+Snacks,Schezwan Samosa Pav,1,0,,60.0
+Snacks,Garlic Mayo Samosa Pav,1,0,,60.0
+Snacks,Tandoori Samosa Pav,1,0,,60.0
+Snacks,Periperi Samosa Pav,1,0,,60.0
+Snacks,Mango Mumbai ka Bhel,1,0,,75.0
+Snacks,Pudina Mumbai ka Bhel,1,0,,75.0
+Snacks,Schzewan Mumbai ka Bhel,1,0,,75.0
+Snacks,Pav Bhaaji,1,0,,170.0
+Snacks,Butter Pav Bhaaji,1,0,,185.0
+Snacks,Cheese Pav Bhaaji,1,0,,195.0
+Snacks,Misal Pav,1,0,,95.0
+Snacks,Dahl Misal Pav,1,0,,130.0
+Snacks,Samosa Misal Pay,1,0,,150.0
+Snacks,Vada Misal Pav,1,0,,130.0
+Snacks,Cheese Misal Pav,1,0,,150.0
+Snacks,Samosa Chaat,1,0,,110.0
+Snacks,Aloo Tikki Chaat,1,0,,75.0
+Snacks,Classic Fries,1,0,,75.0
+Snacks,Peri Peri Fries,1,0,,85.0
+Snacks,Tandoori Fries,1,0,,85.0
+Snacks,Cheesy Fries,1,0,,100.0
+Maggi,Classic Maggi,1,0,,60.0
+Maggi,Veggie Maggi,1,0,,80.0
+Maggi,Cheese Chilli Maggi,1,0,,95.0
+Maggi,Hot and Spicy Maggi,1,0,,100.0
+Drinks (Beverages),Masala Chaas,1,0,,25.0
+Drinks (Beverages),Lemon Peach Iced Tea,1,0,,45.0
+Drinks (Beverages),Lemon Mint Iced Tea,1,0,,45.0
+Drinks (Beverages),Sweet Lassi,1,0,,55.0
+Drinks (Beverages),Mango Lassi,1,0,,60.0

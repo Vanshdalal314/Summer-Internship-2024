@@ -1,0 +1,63 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Double Bonanza,Double Patties Crispy Chicken Burger,0,0,"Bun, Garlic Mayo, Lettuce, Tomatoes, 2 Breaded Fried Chicken Patties, Peri Peri Mayo, ... read more",299.0
+Double Bonanza,Double Patties Crispy Veg Burger,1,0,"Bun, Garlic Mayo, Lettuce, Tomatoes, 2 Super Veg Patties, Mexican Mayo, 2 Cheese ... read more",213.0
+Double Bonanza,Double Patties Fiery Paneer Burger,1,0,"Bun, Plain Mayo, Lettuce, Tomatoes, 2 Breaded Spicy Paneer Patty, Peri Peri Mayo, ... read more",299.0
+Extra Dips,Atomic Mayo,1,0,,41.0
+Extra Dips,Bbq Sauce,1,0,,41.0
+Extra Dips,Cheesy Mayo,1,0,,41.0
+Extra Dips,Chilli Garlic Mayo,1,0,,41.0
+Extra Dips,Chipotle Mayo,1,0,,41.0
+Extra Dips,Garlic Mayo,1,0,,41.0
+Extra Dips,Mango Jalapeno Dip,1,0,,41.0
+Extra Dips,Mexican Mayo,1,0,,41.0
+Extra Dips,Peri Peri Mayo,1,0,,41.0
+Extra Dips,Red Devil Sauce,1,0,,41.0
+Extra Dips,Salsa Suace,1,0,,41.0
+Extra Dips,Spicy Jalapeno Mayo,1,0,,41.0
+Extra Dips,Plain Creamy Mayo,1,0,,41.0
+Fish Burger,Crunchy Fish Fillet Burger,0,0,A Basa Fish Filet Breaded And Fried To Perfection Served With Your Choice ... read more,266.0
+Fish Sides,Crunchy Fish Shots W/ Dip,0,0,,320.0
+Fish Sides,Crunchy Prawns W / Dip,0,0,,274.0
+Green Appetisers,Cheese Coin,1,0,,138.0
+Green Appetisers,Herbs N Cheese Finger With Dip,1,0,,149.0
+Hot & Happening,Atomic Spicy Chicken Burger,0,0,"Bun, Atomic Spicy Mayo, Lettuce, Crunchy Fried Chicken Fillet And Cheese Slice",224.0
+Hot & Happening,Atomic Spicy Paneer Burger,1,0,"[veg preparation] Bun, Atomic Spicy Mayo, Lettuce, Breaded Spicy Paneer Patty And Cheese ... read more",213.0
+Hot & Happening,Favourite Peri Peri Chicken Burger,0,0,"Bun, Peri Peri Mayo, Lettuce, Onions, Jalapenos, Crunchy Fried Chicken Fillet, Cheese Slice",224.0
+Hot & Happening,Favourite Peri Peri Veg Burger,1,0,"[veg preparation] Bun, Peri Peri Mayo, Lettuce, Onions, Jalapenos, Veggie Patty And Cheese ... read more",170.0
+Hot & Happening,Hot Garlic Chicken Burger,0,0,"Bun, Garlic Mayo, Lettuce, Spiced Chicken Thigh Patty, Cheese Slice",213.0
+Hot & Happening,Hot Garlic Paneer Burger,1,0,"[veg preparation] Bun, Garlic Mayo, Lettuce, Breaded Spicy Paneer Patty, Cheese Slice",202.0
+Hot & Happening,Hot N Spicy Chicken Burger,0,0,"Bun, Peri Peri Mayo, Lettuce, Spiced Chicken Thigh Patty, Cheese Slice",213.0
+Hot & Happening,Hot N Spicy Paneer Burger,1,0,"[veg preparation] Bun, Peri Peri Mayo, Lettuce, Breaded Spicy Paneer Patty, Cheese Slice",202.0
+Hot & Happening,Pepper Chicken Burger,0,0,"Bun, Pepper Mayo, Green Bell Peppers, Onions, Jalapenos, Crunchy Fried Chicken Fillet, Cheese ... read more",224.0
+Hot & Happening,Pepper Paneer Burger,1,0,"[veg preparation] Bun, Pepper Mayo, Green Bell Peppers, Onions, Jalapenos, Breaded Spicy Paneer ... read more",213.0
+Hot & Happening,Pepper Veg Burger,1,0,"[veg preparation] Bun, Pepper Mayo, Green Bell Peppers, Onions, Jalapenos, Veggie Patty, Cheese ... read more",170.0
+Lets Wrap Up,Atomic Chicken Wrap,0,0,"Whole wheat Tortila, Spicy Mayo, Crunchy Fried Chicken, Lettuce",224.0
+Lets Wrap Up,Chicken Salad Wrap,0,0,"Whole wheat Tortila, Plain Mayo, Chicken Fries, Lettuce, Onions, Tomatoes, Black Olives, Jalapenos",213.0
+Lets Wrap Up,Crunchy Chicken Wrap,0,0,"Whole wheat Tortila, Mexicana Mayo, Crunchy Fried Chicken Fillet, Lettuce, Onions, Black Olives",213.0
+Lets Wrap Up,Hot N Spicy Chicken Wrap,0,0,"Whole wheat Tortila, Peri Peri Mayo, Spiced Chicken Thigh Patty, Lettuce, Onions",213.0
+Lets Wrap Up,Hot N Spicy Paneer Wrap,1,0,"Whole wheat Tortila, Peri Peri Mayo, Breaded Spicy Paneer Patty, Lettuce, ... read more",213.0
+Lets Wrap Up,Veg Salad Wrap,1,0,"Whole wheat Tortila, Plain Mayo, Veg Fingers, Lettuce, Onions, Tomatoes, Black Olives, Jalapenos",192.0
+No Bone Appetisers,Chicken Fries With Dip,0,0,,181.0
+No Bone Appetisers,Crunchy Chicken Popcorns With Dip,0,0,,299.0
+No Bone Appetisers,Crunchy Chicken Strips With Dip,0,0,,170.0
+No Bone Appetisers,Crunchy Fusion Chicken Strips,0,0,,223.0
+No Bone Appetisers,Fusion Chicken Popcorn,0,0,Crunchy Chicken Popcorn Dressed With Mexican Mayo And Garlic Mayo And Garnished With ... read more,320.0
+On Bone Appetisers,Crunchy Chatapata Chicken Wings,0,0,,192.0
+Simple Yet Classy,Classic Mayo Chicken Burger,0,0,"Bun, Plain Creamy Mayo, Lettuce, Breaded Fried Chicken Patty, Cheese Slice",192.0
+Simple Yet Classy,Classic Mayo Veg Burger,1,0,"Bun, Plain Creamy Mayo, Lettuce, Veggie Patty, Cheese Slice",138.0
+Simple Yet Classy,Simply Mayo Chicken Burger,0,0,"Bun, Plain Creamy Mayo, Breaded Fried Chicken Patty, Cheese Slice",170.0
+Simple Yet Classy,Simply Mayo Veg Burger,1,0,"Bun, Plain Creamy Mayo, Herb Chilly Aloo Patty And Cheese Slice",127.0
+Raise A Roast,Double Patties Ultimate Mutton Burger,0,0,"Bun, Plain Mayo, Lettuce, Onions, Pickles, 2 Grilled Mutton Patties, Chipotle Mayo, 2 ... read more",352.0
+Raise A Roast,Simply Mayo Mutton Burger,0,0,"Bun, Plain Creamy Mayo, Grilled Mutton Patty, Cheese Slice",192.0
+Raise A Roast,Ultimate Mutton Burger,0,0,"Bun, Plain Mayo, Lettuce, Onions, Grilled Mutton Patty, Chipotle Mayo and Cheese Slice",234.0
+Gourmet Delights,Garlicky Chicken Burger,0,0,"Bun, Creamy Garlic Mayo, Lettuce, Onions, Crunchy Fried Chicken Fillet, Cheese Slice",224.0
+Gourmet Delights,Garlicky Paneer Burger,1,0,"[veg preparation] Bun, Creamy Garlic Mayo, Lettuce, Onions, Breaded Spicy Paneer Patty, Cheese ... read more",213.0
+Gourmet Delights,Mexicana Chicken Burger,0,0,"Bun, Mexicana Mayo, Lettuce, Jalapenos, Sweet Corns, Tomatoes, Onions, Crunchy Fried Chicken Fillet, ... read more",224.0
+Gourmet Delights,Mexicana Paneer Burger,1,0,"[veg preparation] Bun, Mexicana Mayo, Lettuce, Jalapenos, Sweet Corns, Tomatoes, Onions, Breaded Spicy ... read more",213.0
+Gourmet Delights,Mexicana Veg Burger,1,0,"[veg preparation] Bun, Mexicana Mayo, Lettuce, Jalapenos, Sweet Corns, Tomatoes, Onions, Veggie Patty, ... read more",170.0
+Gourmet Delights,Veg Cheesy Delight Burger,1,0,"Bun, Spicy Jalapeno Mayo, Cheese Delight Patty, Jalapeno , Onion, Lettuce, Cheese Slice",213.0
+Gourmet Delights,Wonder Mayo Chicken Burger,0,0,"Bun, Plain Creamy Mayo, Lettuce, Sweet Corns, Black Olives, Crunchy Fried Chicken Fillet, ... read more",224.0
+Gourmet Delights,Wonder Mayo Paneer Burger,1,0,"[veg preparation] Bun, Plain Creamy Mayo, Lettuce, Sweet Corns, Black Olives, Breaded Spicy ... read more",213.0
+Gourmet Delights,Wonder Mayo Veg Burger,1,0,"[veg preparation] Bun, Plain Creamy Mayo, Lettuce, Sweet Corns, Black Olives, Veggie Patty ... read more",170.0
+Gourmet Delights,Yummy Cheese Chicken Burger,0,0,"Bun, Cheesy Mayo, Lettuce, Tomatoes, Crunchy Fried Chicken Fillet And Cheese Slice",224.0
+Gourmet Delights,Yummy Cheese Veg Burger,1,0,"[veg preparation] Bun, Cheesy Mayo, Lettuce, Tomatoes, Veggie Patty And Cheese Slice",170.0

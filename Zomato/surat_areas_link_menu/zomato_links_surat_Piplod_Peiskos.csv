@@ -1,0 +1,75 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Hot Beverages,Americano,1,0,,200.0
+Hot Beverages,Cappuccino,1,0,,240.0
+Hot Beverages,Cortado,1,0,,240.0
+Hot Beverages,Espresso,1,0,,170.0
+Hot Beverages,Flatwhite,1,0,,240.0
+Hot Beverages,Latte,1,0,,240.0
+Hot Beverages,Macchiato,1,0,,220.0
+Hot Beverages,Mocha,1,0,,240.0
+Hot Beverages,Piccolo,1,0,,220.0
+Hot Beverages,Bulletproof (Keto Diet Coffee),1,0,Serve 1,260.0
+Hot Beverages,Peanut Butter Brew,1,0,,280.0
+Hot Beverages,Tiramisu Latte,1,0,,290.0
+Iced Beverages,Frappe,1,0,Serve 1,260.0
+Iced Beverages,Freddo Cappuccino,1,0,Serve 1,260.0
+Iced Beverages,Iced Americano,1,0,Serve 1,240.0
+Iced Beverages,Iced Espresso,1,0,Serve 1,200.0
+Iced Beverages,Iced Latte,1,0,Serve 1,260.0
+Iced Beverages,Iced Mocha,1,0,Serve 1,280.0
+Iced Beverages,Vietnamese Coffee,1,0,Serve 1,260.0
+Iced Beverages,Coconut Coffee Shakerato,1,0,Serve 1,280.0
+Iced Beverages,Coffee Punch,1,0,Serve 1,280.0
+Iced Beverages,Cranberry Melon Espresso Tonic,1,0,Serve 1,320.0
+Iced Beverages,Espresso Redbull,1,0,Serve 1,300.0
+Iced Beverages,Espresso Tonic,1,0,Serve 1,280.0
+Iced Beverages,Mango Chilli Espresso Tonic,1,0,Serve 1,340.0
+Iced Beverages,Passion Fruit Coffee Cooler,1,0,Serve 1,300.0
+Iced Beverages,Caribean Cold Brew (tender Coconut),1,0,,280.0
+Iced Beverages,Classic Cold Brew,1,0,,260.0
+Iced Beverages,Classic Cold Brew With Tonic,1,0,,320.0
+Iced Beverages,Zesty Orange Cold Brew,1,0,,320.0
+Iced Beverages,Aeropress Hot & Iced,1,0,,280.0
+Iced Beverages,French Press,1,0,,290.0
+Iced Beverages,Pour Over Hot & Ice,1,0,,280.0
+Iced Beverages,Blueberry Fizz,1,0,,300.0
+Iced Beverages,Mango Mint Iced Tea,1,0,Serve 1,280.0
+Iced Beverages,Orange Crush Bubble,1,0,,280.0
+Iced Beverages,Passion Fruit Iced Tea,1,0,Serve 1,280.0
+Iced Beverages,Yuzu Ice Tea,1,0,Serve 1,280.0
+Milk Shake,Biscoff Cheesecake Milkshake,1,0,,440.0
+Milk Shake,Blueberry Cheesecake Milkshake,1,0,,440.0
+Milk Shake,Browne Caramal Milkshake,1,0,,420.0
+Milk Shake,Ferrero Rocher Milkshake,1,0,,480.0
+Milk Shake,Nutella Milkshake,1,0,,380.0
+Milk Shake,Oreo Shake,1,0,,380.0
+Sides,Avocado Open Toast,1,0,Guacamole on lebanese spread toast topped with feta cheese and cherry tomatoes,420.0
+Sides,Cajun Spiced Fries,1,0,,260.0
+Sides,Churros,1,0,(Deep fried sugar dusted sticks),250.0
+Sides,Garlic Bread With Cheese,1,0,All time saviour,280.0
+Sides,Olive Mushroom Open Toast,1,0,Toast with olive tapenade spread topped with pan tossed mushrooms,350.0
+Sides,Peri Peri Fries,1,0,,260.0
+Sides,Salted Fries,1,0,,240.0
+Pizza,All In,1,0,"Large (Marinara sauce with bell pepper, corn, mushroom, broccoli and mozzarella)",820.0
+Pizza,Cold Garlic,1,0,Regular (Garlic baked pizza with burrata topped with cold salad and kale),860.0
+Pizza,Ebony,1,0,"Large (Olive sauce topped with seasoned aubergine, onion and mozzarella )",820.0
+Pizza,Fung Ly,0,0,"Large (Pesto sauce topped with button, oyster, enoki mushroon, olives and mozzarella)",850.0
+Pizza,Margherita Pizza,1,0,Large (Marinara sauce and mozzarella cheese. Simple and delicious),720.0
+Pizza,Pan India Pizza,1,0,"Large (Marinara sauce topped with olives, jalapeno, sliced tomatoes, mozzarella & drizzled with ... read more",820.0
+Pizza,Thats What She Said,1,0,"Large (Marinara sauce with bell peppers, sun dried tomatoes, mozzarella & garnish with ... read more",920.0
+Pasta,Aglio Olio,1,0,Traditional olive and garlic spaghetti,380.0
+Pasta,Chilli Garlic Spaghetti,1,0,Combination of chilli and garlic tossed in spaghetti,380.0
+Pasta,Combination Pasta,1,0,(Choice of pasta blend with pink sauce),420.0
+Pasta,Creamy Pesto Pasta,1,0,(In house creamy basil pesto blend with choice of pasta),480.0
+Pasta,Pesto Pasta,1,0,(In house basil pesto blend with choice of pasta),420.0
+Pasta,Pomodoro,1,0,(Traditional pomodoro with choice of pasta),380.0
+Mains,Burrata Bowl,1,0,[Jain Veg Preparation] Pesto tossed cherry tomato served with burrata and breads on ... read more,520.0
+Mains,Healthy Bowl,1,0,"Herb rice topped with guacamole, in house salad with a drizzle of balsamic ... read more",520.0
+Mains,Mexican Rice Bowl,1,0,"[Jain Veg Preparation] Mexican spiced rice served with baked beans, sour cream and ... read more",460.0
+Mains,Mushroom Stroganoff,1,0,(Mushroom stroganoff with herbed rice),420.0
+Mains,Peiskos Hummus Bowl,1,0,"Very special in house hummus with pita, falafel and rosemary bread",460.0
+Mains,Saute Veggies,1,0,Pan tossed mix veggies,420.0
+Sandwich,Butter Croissant,1,0,[Jain Veg Preparation] Very special plain croissant that pair your cup of coffee,240.0
+Sandwich,Grilled Cheese,1,0,[Jain Veg Preparation] 4 types of cheese grilled with traditional in house sauce,380.0
+Sandwich,Mushroom Sandwich,1,0,Spicy pesto mushroom grilled sandwich,400.0
+Sandwich,Parmigiana Sandwich,1,0,Panko fried aubergine baked with mozzarella,420.0

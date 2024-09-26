@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pure Desi Ghee Sweets,Gulab Jamun,1,0,,15.0
+Pure Desi Ghee Sweets,Kesar Pista Gulab Jamun,1,0,,20.0
+Pure Desi Ghee Sweets,Kala Jamun [1 Piece],1,0,,22.0
+Pure Desi Ghee Sweets,Special Motichoor Ladoo,1,0,,120.0
+Pure Desi Ghee Sweets,Dil Kushal Dry Fruit Chikki,1,0,,155.0
+Pure Desi Ghee Sweets,Besan Chikki,1,0,,150.0
+Pure Desi Ghee Sweets,Desi Ghee Boondi,1,0,,100.0
+Pure Desi Ghee Sweets,Moti Pak Dry Fruit,1,0,,155.0
+Pure Desi Ghee Sweets,Special Milk Cake,1,0,,150.0
+Pure Desi Ghee Sweets,Special Kalakand,1,0,,150.0
+Pure Desi Ghee Sweets,Pandhari Laddu,1,0,,150.0
+Dry Fruits Sweets,Kaju Katali,1,0,,480.0
+Dry Fruits Sweets,Kaju Katu with Verk,1,0,,480.0
+Dry Fruits Sweets,Kaju Anjeer Cassata,1,0,,220.0
+Dry Fruits Sweets,Kaju Cassata,1,0,,220.0
+Dry Fruits Sweets,Kaju Kesar Roll,1,0,,240.0
+Dry Fruits Sweets,Kaju Anjeer Roll,1,0,,240.0
+Dry Fruits Sweets,Shahi Paan,1,0,,250.0
+Dry Fruits Sweets,Anjeer Bahar,1,0,,240.0
+Dry Fruits Sweets,Anjeer Dry Fruit Roll,1,0,,240.0
+Dry Fruits Sweets,Kaju Pista Dry Fruit Roll,1,0,,240.0
+Dry Fruits Sweets,Kamal Bhog,1,0,,250.0
+Chena Bengali Sweets,Angoor Rabdi,1,0,,140.0
+Chena Bengali Sweets,Rasmalai Jambo [1 Piece],1,0,,35.0
+Chena Bengali Sweets,Bengali Cham Cham [1 piece],1,0,,28.0
+Chena Bengali Sweets,Bengali Pakija [1 Piece],1,0,,28.0
+Chena Bengali Sweets,Bengali Malai Chaap [1 Piece],1,0,,28.0
+Chena Bengali Sweets,Bengali Gol Sandwich [1 Piece],1,0,,27.0
+Chena Bengali Sweets,Kitti Cham Cham Jambo,1,0,,24.0
+Chena Bengali Sweets,White Rasmadhuri,1,0,,22.0
+Chena Bengali Sweets,Kesar Rasmadhuri,1,0,,22.0
+Chena Bengali Sweets,Rasgoola (Small),1,0,,16.0
+Chena Bengali Sweets,Rasgulla Jambo [1 Piece],1,0,,23.0
+Bikaneri Snacks,Dal Kachori [1 Piece],1,0,,22.0
+Bikaneri Snacks,Samosa [1 Piece],1,0,,21.0
+Bikaneri Snacks,Pyaz Kachori [1 Piece],1,0,,27.0
+Bikaneri Snacks,"Maida Tikona Matri [250 grams, 1 Box]",1,0,,60.0
+Bikaneri Snacks,"Namkeen Mathri [250 grams, 1 Box]",1,0,,70.0
+Bikaneri Snacks,"Namkeen Matar [250 grams, 1 Box]",1,0,,60.0
+Bikaneri Snacks,Thandai Powder Instant Mix [200 gram],1,0,,110.0
+Modak,Special 56 Bhog Sweets,1,0,A special combined sweet box which includes Mawa and Mawa Dry Fruit Sweet ... read more,1099.0
+Match Day Combos,Kaju Katli [250 grams] with Mawa Barfi [250 grams],1,0,,330.0
+Match Day Combos,Kaju katli [250 grm] + Motichur ladoo [250 grm],1,0,,350.0
+Match Day Combos,Kaju katli [250 grm] + Mawa barfi [250 grm] + Bangali Sweet [250 grm],1,0,,430.0
+Match Day Combos,Kaju katli [1 kg] + Mawa Barfi [250 grams],1,0,,999.0
+Frankie and Mayo Pav,Tandoori Cheese Franky,1,0,,100.0
+Frankie and Mayo Pav,Veg Mayo Pav,1,0,,35.0
+Frankie and Mayo Pav,Solid Masti Mayo Pav,1,0,,50.0
+Frankie and Mayo Pav,Cream Onion Mayo Pav,1,0,,50.0

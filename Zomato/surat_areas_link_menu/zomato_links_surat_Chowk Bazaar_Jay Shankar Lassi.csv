@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fruit Salads,Special Plain Fruit Salad,1,0,,60.0
+Fruit Salads,Special Kaju Fruit Salad,1,0,,60.0
+Fruit Salads,Special Ice Cream Kaju Fruit Salad,1,0,,70.0
+Falooda,Special Ice Cream Kaju Falooda,1,0,,60.0
+Falooda,Special Ice Cream Gulab Kaju Falooda,1,0,,60.0
+Falooda,Special Ice Cream Orange Kaju Falooda,1,0,,60.0
+Falooda,Special Ice Cream Pineapple Kaju Falooda,1,0,,60.0
+Falooda,Special Ice Cream Strawberry Kaju Falooda,1,0,,60.0
+Falooda,Special Ice Cream Chocolate Chips Kaju Falooda,1,0,,60.0
+Special Cold Coco,Special Plain Cold Coco,1,0,,60.0
+Special Cold Coco,Special Kaju Cold Coco,1,0,,60.0
+Special Cold Coco,Special Chocolate Chips Coco,1,0,,60.0
+Special Cold Coco,Special Ice Cream Kaju Coco,1,0,,60.0
+Special Cold Coco,Special Ice Cream Chocolate Chips Coco,1,0,,60.0
+Special Cold Coco,Special Ice Cream Kaju Chocolate Coco,1,0,,60.0
+Lassi,Special Ice Cream Kaju Rose Lassi,1,0,,60.0
+Lassi,Special Ice Cream Kaju Mango Lassi,1,0,,60.0
+Lassi,Special Ice Cream Kaju Strawberry Lassi,1,0,,60.0
+Lassi,Special Ice Cream Kaju Pista Lassi,1,0,,60.0
+Lassi,Special Ice Cream Kaju Elaichi Lassi,1,0,,60.0
+Lassi,Special Ice Cream Chocolate Chips Lassi,1,0,,60.0
+Lassi,Special Lassi [Jumbo],1,0,,120.0
+Lassi,Plain Lassi,1,0,,60.0
+Lassi,Special Rose Lassi,1,0,,60.0
+Lassi,Special Mango Lassi,1,0,,60.0
+Lassi,Special Strawberry Lassi,1,0,,60.0
+Lassi,Special Pista Lassi,1,0,,60.0
+Lassi,Special Elaichi Lassi,1,0,,60.0
+Lassi,Special Chocolate Lassi,1,0,,60.0
+Lassi,Special Kaju Rose Lassi,1,0,,60.0
+Lassi,Special Kaju Mango Lassi,1,0,,60.0
+Lassi,Special Kaju Strawberry Lassi,1,0,,60.0
+Lassi,Special Kaju Pista Lassi,1,0,,60.0
+Lassi,Special Kaju Elachi Lassi,1,0,,60.0
+Lassi,Special Chocolate Chips Lassi,1,0,,60.0
+Lassi,Special Malai Kaju Plain Lassi,1,0,,80.0
+Lassi,Special Malai Kaju Gulab Lassi,1,0,,80.0
+Lassi,Special Malai Kaju Mango Lassi,1,0,,80.0
+Lassi,Special Malai Kaju Strawberry Lassi,1,0,,80.0
+Lassi,Special Malai Kaju Pineapple Lassi,1,0,,80.0
+Lassi,Special Malai Kaju Pista Lassi,1,0,,80.0
+Lassi,Special Malai Kaju Chocolate Lassi,1,0,,80.0
+Shakes,Special Plain Badam Shake,1,0,Special Plain Badam Shake,60.0
+Shakes,Special Kaju Badam Shake,1,0,Special Kaju Badam Shake,60.0
+Shakes,Special Ice Cream Kaju Badam Shake,1,0,,60.0
+Shakes,Special Plain Mango Shake,1,0,,60.0
+Shakes,Special Kaju Mango Shake,1,0,,60.0
+Shakes,Special Ice Cream Kaju Mango Shake,1,0,,60.0
+Shakes,Special Plain Anjeer Shake,1,0,,60.0

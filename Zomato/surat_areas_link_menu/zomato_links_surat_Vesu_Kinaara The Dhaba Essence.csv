@@ -1,0 +1,35 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Gourmet Collection,Mushroom Focaccia Sandwich,1,0,"Soft focaccia filled with fresh mushroom, caramelized onion and a burst of flavour ... read more",432.0
+Gourmet Collection,Paneer Focaccia Sandwich,1,0,"Soft focaccia embraced with paneer, veggies -an explosion of taste in every bite",456.0
+Gourmet Collection,Mushroom Sub Sandwich,1,0,"Fresh mushrooms, whole wheat bread, and a burst of flavors in each mouthwatering ... read more",384.0
+Gourmet Collection,Paneer Sub Sandwich,1,0,"Succulent paneer, veggies, whole wheat bread?an explosion of taste in every bite.",408.0
+Gourmet Collection,Badam Halwa Croissant,1,0,,312.0
+Gourmet Collection,Butter Croissant,1,0,,216.0
+Gourmet Collection,Nutella Croissant,1,0,,264.0
+Gourmet Collection,Tandoori Makhani Croissant,1,0,,264.0
+Gourmet Collection,Tomato Basil Cream Cheese Croissant,1,0,,300.0
+Barista Counter,Cafe Mocha,1,0,,216.0
+Barista Counter,Cappuccino,1,0,"Rich, creamy, and indulgent, this velvety beverage is the perfect combination of espresso ... read more",192.0
+Barista Counter,Hot Chocolate,1,0,A rich and creamy beverage to warm up your soul.,216.0
+Barista Counter,Biscoff Brownie Shake,1,0,,312.0
+Barista Counter,Biscoff Shake,1,0,,288.0
+Barista Counter,Brownie Milk Shake,1,0,,264.0
+Barista Counter,Nutella Shake,1,0,,288.0
+Barista Counter,Cold Brew,1,0,,216.0
+Barista Counter,Cold Brew Tonic,1,0,,264.0
+Barista Counter,Espresso Tonic,1,0,,216.0
+Barista Counter,Classic Cold Coffee,1,0,,216.0
+Barista Counter,Mocha Frappe,1,0,,240.0
+Barista Counter,Kinaara Chai,1,0,,72.0
+Barista Counter,Classic Mojito Mint,1,0,,216.0
+Barista Counter,Lemon Ice Tea,1,0,,192.0
+Barista Counter,Mosambi,1,0,,168.0
+Barista Counter,Pomegranate,1,0,,192.0
+Barista Counter,Watermelon Juice,1,0,A quick and delicious drink that goes well on any day made up ... read more,144.0
+Barista Counter,Brownie,1,0,,144.0
+Barista Counter,Chocolate Truffle Pastry,1,0,A dense moist chocolate cake with silky chocolate ganache frosting with chocolate shavings ... read more,300.0
+Continental Menu,Creamy Ravioli,1,0,"Delicate pasta pockets filled with savory ingredients, served in white sauce (include mushroom)",408.0
+Continental Menu,Mama Rosa ( Pink Sauce),1,0,Penne cooked with smooth pink sauce ( arrabiata + mornay) and garnished with ... read more,360.0
+Continental Menu,Paneer Saute,1,0,"Broccoli, carrots, beans, bellpeper, zucchini and baby corn and cottage cheese sauted in ... read more",384.0
+Continental Menu,Spicy Paneer Wrap,1,0,"Paneer Marinated With Hell Raised Chillies Served And Rolled With Bell Peppers, Lettuce, ... read more",336.0
+Quick Bites,Biscuit Pie,1,0,Biscuits(Khari) with Pizza Toppings,144.0

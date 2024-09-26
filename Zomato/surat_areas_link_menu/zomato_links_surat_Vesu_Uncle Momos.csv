@@ -1,0 +1,45 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Momos,Veg Fried Momos [6 Pieces],1,0,,150.0
+Momos,Paneer Steamed Momos [6 Pieces],1,0,,180.0
+Momos,Paneer Fried Momos [6 Pieces],1,0,,180.0
+Momos,Cheese Steamed Momos [6 Pieces],1,0,,180.0
+Momos,Cheese Fried Momos [6 Pieces],1,0,,180.0
+Momos,Cheese Gravy Momos [6 Pieces],1,0,,290.0
+Momos,Paneer Cheese Gravy Momos [6 Pieces],1,0,,290.0
+Momos,Veg Lokhra Momos [6 Pieces],1,0,Cheesey flavour momos.,280.0
+Momos,Cheese Lokhra Momos [6 Pieces],1,0,Chesse flavour momos with extra cheese.,300.0
+Momos,Paneer Lokhra Momos [6 Pieces],1,0,Chesse flavour with panner.,300.0
+Momos,Veg Shangrila Momos [6 Pieces],1,0,,280.0
+Momos,Cheese Shangrila Momos [6 Pieces],1,0,,300.0
+Momos,Paneer Shangrila Momos [6 Pieces],1,0,,300.0
+Momos,Veg Russian Momos [6 Pieces],1,0,,280.0
+Momos,Paneer Cheese Russian Momos [6 Pieces],1,0,,300.0
+Momos,Paneer Cheese Shangrilla Momos [6 Pieces],1,0,,320.0
+Momos,Green Garlic Tandoori Momos [6 Pieces],1,0,Garlic flavour,280.0
+Momos,Bansa Tandoori Momos [6 Pieces],1,0,Capsicum flavour,280.0
+Momos,Angara Spicy Tandoori Momos [6 Pieces],1,0,Spicy flavour,280.0
+Momos,Mint Nawabi Tandoori Momos [6 Pieces],1,0,Mint flavour,280.0
+Momos,Paneer Tandoori Momos [6 Pieces],1,0,,300.0
+Momos,Cheese Tandoori Momos [6 Pieces],1,0,Chesse flavour tandoor,300.0
+Momos,Veg Steamed Momos [6 Pieces],1,0,,150.0
+Momos,Paneer Cheese Tikka Momos [6 Pieces],1,0,Momos,320.0
+Momos,Cheese Corn Steamed Momos [6 Pieces],1,0,,180.0
+Momos,Cheese Corn Fried Momos [6 Pieces],1,0,,180.0
+Momos,Tandoori Momos [3 Pieces] with Cheese Gravy Momos [4 Pieces],1,0,,270.0
+Momos,Shangrila Momos [3 Pieces] with Lokhra Momos [3 Pieces],1,0,,280.0
+Momos,Tandoori Momos [3 Pieces] with Lokhra Momos [3 Pieces],1,0,,280.0
+Momos,Cheese Fried Momos [4 Pieces] with Paneer Fried Momos [4 Pieces],1,0,Cheese Fried Momos [4 Pieces]+Paneer Fried Momos [4 Pieces]+Veg Fried Momos [4 Pieces]+Cheese ... read more,320.0
+Momos,Paneer Steamed Momos Combo,1,0,Paneer Steamed Momos [4 Pieces]+Veg Steamed Momos [4 Pieces]+Cheese Gravy Momos [3 Pieces],320.0
+Momos,Paneer Shangrilla Momos [4 Pieces] with Cheese Lokhra Momos [3 Pieces],1,0,,300.0
+Momos,Paneer Tandoori Momos [4 Pieces] with Cheese Tandoori Momos [4 Pieces],1,0,,300.0
+Momos,Paneer Lokhra Momos [4 Pieces] with Cheese Gravy Momos [4 Pieces],1,0,,300.0
+Momos,Veg Steamed Momos with Paneer Steamed Momos [36 Pieces],1,0,,900.0
+Momos,Paneer Tandoori Momos with Cheese Lokhra Momos [36 Pieces],1,0,,950.0
+Momos,Cheese Momos Combo,1,0,Cheese Momos [6 Pieces]+Cheese Gravy Momos [6 Pieces]+Lokra Momos [8 Pieces],700.0
+Momos,Paneer Steamed Momos Combo [36 Pieces],1,0,,700.0
+Momos,Veg Steamed Momos [4 Pieces] with Veg Fried Momos [4 Pieces],1,0,,170.0
+Momos,Paneer Tandoori Momos [4 Pieces] with Veg Steamed Momos [4 Pieces],1,0,,270.0
+Momos,Veg Steamed Momos [4 Pieces] with Cheese Gravy Momos [4 Pieces],1,0,,250.0
+Momos,Veg Fried Momos [4 Pieces] with Cheese Tandoori Momos [4 Pieces],1,0,,270.0
+Momos,Special Fried Momos Combo,1,0,Veg Fried Momos [4 Pieces]+Cheese Fried Momos [4 Pieces]+Paneer Fried Momos [4 Pieces],320.0
+Momos,Special Steamed Momos Combo,1,0,Veg Steamed Momos [4 Pieces]+Cheese Steamed Momos [4 Pieces]+Paneer Steamed Momos [4 Pieces],320.0

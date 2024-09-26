@@ -1,0 +1,82 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Omelettes,Omelette,0,0,,50.0
+Omelettes,Nimboo Mari Omelette,0,0,,90.0
+Omelettes,Cheese Omelette,0,0,,70.0
+Omelettes,Pizza Omelette,0,0,,280.0
+Omelettes,Punjabi Omelette Green,0,0,,280.0
+Special Dishes,Body Guard,0,0,,270.0
+Special Dishes,Japanese Fry,0,0,,270.0
+Special Dishes,3 Idiot,0,0,,270.0
+Special Dishes,Vishal Dhamaka,0,0,,270.0
+Special Dishes,Red Tadka,0,0,,340.0
+Special Dishes,Garib Rath,0,0,,340.0
+Special Dishes,Double Decker,0,0,,340.0
+Special Dishes,Tikhari,0,0,,340.0
+Special Dishes,Bhool Bhulaiya,0,0,,400.0
+Special Dishes,Bahubali 2,0,0,,600.0
+Special Dishes,Lutchka Green,0,0,,300.0
+Special Dishes,Mamna,0,0,,300.0
+Special Dishes,Green Roll Gravy,0,0,,300.0
+Special Dishes,Kofta,0,0,,280.0
+Special Dishes,Mughlai,0,0,,280.0
+Special Dishes,Hum Tum,0,0,,280.0
+Special Dishes,Rajwadi,0,0,,300.0
+Special Dishes,Italian Fry,0,0,,340.0
+Special Dishes,Dubai Lachka,0,0,,340.0
+Special Dishes,Race,0,0,,340.0
+Special Dishes,Dabbang 2,0,0,,340.0
+Special Dishes,Indian Fry,0,0,,340.0
+Special Dishes,Singam,0,0,,340.0
+Special Dishes,Russian Fry,0,0,,160.0
+Special Dishes,Lazeez,0,0,,160.0
+Special Dishes,Royal,0,0,,160.0
+Special Dishes,Chinese Fry,0,0,,160.0
+Special Dishes,Green Egg Paplet,0,0,,300.0
+Special Dishes,Egg Paplet,0,0,,280.0
+Special Dishes,Akori,0,0,,170.0
+Special Dishes,Double Sunday,0,0,,170.0
+Special Dishes,Ragada Special,0,0,,170.0
+Special Dishes,Green Cut,0,0,,170.0
+Starters,Lasan Fry,0,0,,80.0
+Starters,Sada Fry,0,0,,50.0
+Starters,Egg Bhurji,0,0,,70.0
+Starters,Dry Hot Boiled,0,0,,30.0
+Starters,Boiled Fry,0,0,,50.0
+Starters,Egg Locha,0,0,,80.0
+Main Course,Cutlet Curry,0,0,,170.0
+Main Course,Lal Mirchi,0,0,,170.0
+Main Course,Hyderabadi,0,0,,190.0
+Main Course,Green Keema,1,0,,80.0
+Main Course,Australian Keema,0,0,,100.0
+Main Course,Gotala,0,0,[Veg preparation],130.0
+Main Course,Egg Curry Fry,0,0,,70.0
+Main Course,Goti Keema,0,0,,70.0
+Main Course,Keema,0,0,,70.0
+Main Course,Machhi Curry,0,0,,240.0
+Main Course,Lahori,0,0,,160.0
+Main Course,Lutchka,0,0,,340.0
+Main Course,Lucknowi,0,0,,280.0
+Main Course,Mexican Fry,0,0,,280.0
+Main Course,Australian Fry Green,0,0,[Veg preparation],300.0
+Main Course,Australian Fry,0,0,[Veg preparation],280.0
+Main Course,One 2 Ka 4,0,0,[Veg preparation],270.0
+Main Course,Kasata,0,0,[Veg preparation],270.0
+Main Course,Jaipuri,0,0,[Veg preparation],270.0
+Main Course,Kutchi Lahori,0,0,[Veg preparation],270.0
+Main Course,Triple Dhamaka,0,0,[Veg preparation],270.0
+Main Course,Ravaiya,0,0,[Veg preparation],270.0
+Main Course,Surti Dhamal,0,0,[Veg preparation],270.0
+Main Course,Green Goti Fry,0,0,,140.0
+Main Course,Green Ghotala,0,0,,160.0
+Rice and Biryani,Egg Biryani,0,0,,180.0
+Rice and Biryani,Egg Pulao,0,0,,90.0
+South Indian,Masala Dosa,0,0,[Veg preparation],160.0
+Fried Rice,Hyderabadi Fried Rice,0,0,,200.0
+Fried Rice,Singapore Fried Rice,0,0,[Veg preparation],140.0
+Fried Rice,Egg Fried Rice,0,0,,90.0
+Sandwiche,Egg Sandwich,0,0,,60.0
+Snacks,Katchu Paku,0,0,,80.0
+Snacks,Boiled Tikka,0,0,,160.0
+Snacks,Egg Cutlet,0,0,,60.0
+Snacks,Boiled Chips,0,0,,80.0
+Accompaniments,Tomato Chutney,1,0,,60.0

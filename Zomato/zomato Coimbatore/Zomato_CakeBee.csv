@@ -1,0 +1,23 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Eggless Cakes,Eggless Black Forest Cake,1,0,,620.0
+Eggless Cakes,Eggless Butterscotch Cake,1,0,,542.0
+Eggless Cakes,Eggless Caramel Delight Cake,1,0,,814.0
+Eggless Cakes,Eggless Chocolate Truffle Cake,1,0,,670.0
+Snacks & Savouries,Chicken Puff,1,0,,54.0
+Snacks & Savouries,Mushroom Puff,1,0,,54.0
+Celebration Cakes,Black Currant Cake,1,0,,610.0
+Celebration Cakes,Black Forest Cake,1,0,Delectable classic black forest cake melt in your mouth with a cherry on ... read more,620.0
+Celebration Cakes,Butterscotch Cake,1,0,,542.0
+Celebration Cakes,Caramel Delight Cake,1,0,,814.0
+Celebration Cakes,Chocolate Truffle Cake,1,0,"An irresistibly flavorsome chocolate truffle prepared with rich chocolate, perfect to satisfy your ... read more",670.0
+Pastries & Sweet Treats,Black Currant Pastry,1,0,,108.0
+Pastries & Sweet Treats,Black Forest Pastry(1Pc),1,0,,118.0
+Pastries & Sweet Treats,Blueberry Cheese Cake,1,0,,203.0
+Pastries & Sweet Treats,Butterscotch Pastry,1,0,Spongy cake layered with buterscotch-soaked cream and crunchy nuts.,108.0
+Pastries & Sweet Treats,Cake Pop,1,0,,41.0
+Pastries & Sweet Treats,Choco Lava,1,0,,80.0
+Pastries & Sweet Treats,Honey Cake,1,0,,95.0
+Pastries & Sweet Treats,Jamun Cheese Cake,1,0,,203.0
+Pastries & Sweet Treats,Nutella Choco Bar,1,0,,163.0
+Pastries & Sweet Treats,White Forest Pastry,1,0,,118.0
+Mousse & Puddings,Choco Lava ( 1 Pc ),1,0,,80.0

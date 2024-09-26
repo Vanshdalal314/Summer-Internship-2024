@@ -1,0 +1,313 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Main Course,Butter Chicken Bolless,0,0,,252.0
+Main Course,Butter Chicken [Boneless],0,0,,264.0
+Main Course,Butter Chicken [Bone],0,0,,252.0
+Main Course,Cheese Angoori,1,0,,228.0
+Main Course,Cheese Butter Masala,1,0,,222.0
+Main Course,Chicken Angara,0,0,,252.0
+Main Course,Chicken Gauty,0,0,,252.0
+Main Course,Chicken Hariyali Masala,0,0,,252.0
+Main Course,Chicken Hydrabadi,0,0,,252.0
+Main Course,Chicken Kadhai Masala,0,0,,252.0
+Main Course,Chicken Keema,0,0,,252.0
+Main Course,Chicken Kolhapuri,0,0,,252.0
+Main Course,Chicken Rogan Josh,0,0,,252.0
+Main Course,Chicken Tawa Masala,0,0,,252.0
+Main Course,Chicken Tikka Masala,0,0,,240.0
+Main Course,Dal Fry,1,0,A comforting and delicious preparation made with mixed dal cooked and tempered with ... read more,120.0
+Main Course,Dal Palak,1,0,,138.0
+Main Course,Dal Tadka,1,0,Delicious lentil curry enriched with a tempering of spices and cumin seeds.,138.0
+Main Course,Hot Sizzling Chicken Masala,0,0,,270.0
+Main Course,Jeera Aloo,1,0,,144.0
+Main Course,Lemon Chicken Masala,0,0,,252.0
+Main Course,Mix Veg,1,0,Mix veg curry is made by cooking a mixture of vegetables together in ... read more,150.0
+Main Course,Mushroom Keema,1,0,,228.0
+Main Course,Mushroom Masala,1,0,"Mushroom prepared in creamy, mildly tangy gravy of tomato, onion and spices.",210.0
+Main Course,Palak Paneer,1,0,An earthy spinach based gravy recipe that uses mild spices mixed together with ... read more,180.0
+Main Course,Paneer Angara,1,0,Indian cottage cheese simmered in a spicy onion and tomato gravy.,216.0
+Main Course,Paneer Bhurji,1,0,"Hand crushed cottage cheese tempered with onions, tomatos and green chillies with spices.",210.0
+Main Course,Paneer Butter Masala,1,0,A wholesome food served along with a creamy paneer butter masala perfect to ... read more,192.0
+Main Course,Paneer Kadhai Masala,1,0,,192.0
+Main Course,Paneer Lawabdar,1,0,,210.0
+Main Course,Paneer Pasanda,1,0,,216.0
+Main Course,Paneer Tikka Masala,1,0,A creamy dish with soft paneer chunks cooked in a rich tomato gravy ... read more,198.0
+Main Course,Paneer Toofani,1,0,Indian cottage cheese simmered in a spicy onion and tomato gravy.,198.0
+Main Course,Veg Diwan-E-Handi,1,0,,156.0
+Main Course,Veg Kadai,1,0,A flavorful preparation with paneer cooked in onion tomato gravy. It must have ... read more,150.0
+Main Course,Veg Keema Masala,1,0,,156.0
+Main Course,Veg Kheema Masala,1,0,,138.0
+Main Course,Veg Kolhapuri,1,0,Veg kolhapuri is Indian curry consisting of mixed vegetables in thick spiced gravy.,156.0
+Main Course,Veg Lajwab,1,0,,168.0
+Main Course,Veg Lasooni Palak,1,0,,150.0
+Indian Rice,Chicken Tikka Biryani,0,0,,216.0
+Indian Rice,Egg Biryani,0,0,Flavoured basmati rice cooked with spiced gravy in dum style with boiled eggs.,156.0
+Indian Rice,Jeera Rice,1,0,Frangrant rice dish tempered with lots of aromatic cumin seeds.,120.0
+Indian Rice,Steam Rice,1,0,Aromatic steamed rice cooked in a tempering of cumin and whole spices.,108.0
+Indian Rice,Veg Biryani,1,0,Aromatic and flavourful rice cooked with vegetables and exotic spices.,162.0
+Noodles,Chicken Hakka Noodles,0,0,,180.0
+Noodles,Chicken Schezwan Noodles,0,0,,186.0
+Noodles,Chicken Singapuri Noodles,0,0,,192.0
+Noodles,Egg Hakka Noodles,0,0,,162.0
+Noodles,Egg Schezwan Noodles,0,0,,168.0
+Noodles,Egg Singapuri Noodles,0,0,,168.0
+Noodles,Veg Hakka Noodles,1,0,"Delectable stands of soft noodles tossed with assorted chopped veggies and hakka sauces, ... read more",150.0
+Noodles,Veg Schezwan Noodles,1,0,The spicy schezwan sauce and hakka noodles is made with soy sauce along ... read more,150.0
+Noodles,Veg Singapuri Noodles,1,0,,150.0
+Chinese Rice,Chicken Fried Rice,0,0,,180.0
+Chinese Rice,Chicken Schezwan Fried Rice,0,0,,192.0
+Chinese Rice,Chicken Singapuri Rice,0,0,,192.0
+Chinese Rice,Chicken Special Rice,0,0,,228.0
+Chinese Rice,Egg Fried Rice,0,0,A slightly spicy dish made by tossing eggs and rice in a flavorful ... read more,150.0
+Chinese Rice,Egg Pepper Schezwan Rice,0,0,,168.0
+Chinese Rice,Egg Schezwan Fried Rice,0,0,,162.0
+Chinese Rice,Egg Singapuri Rice,0,0,,162.0
+Chinese Rice,Veg Fried Rice,1,0,A deliciously aromatic and flavorful dish made from stir fried mixed vegetables and ... read more,150.0
+Chinese Rice,Veg Schezwan Fried Rice,1,0,A flavor packed dish with aromatic rice tossed along with veggies and schezwan ... read more,156.0
+Chinese Rice,Veg Singapuri Rice,1,0,,156.0
+Chinese Rice,Veg Triple Schezwan Rice,1,0,,180.0
+Chinese Rice,Veg Urban Special Rice,1,0,,192.0
+Rotis,Butter Chapati Roti,1,0,,24.0
+Rotis,Plain Chapati Roti,1,0,,18.0
+Drinks,Apple Delight Mocktail,1,0,,117.0
+Drinks,Biscoff Shake,1,0,,162.0
+Drinks,Cranberry Mojito,1,0,,138.0
+Drinks,Ferrero Rocher Shake,1,0,"A unique taste experience of contrasting layers, a whole crunchy hazelnut in the ... read more",186.0
+Drinks,Fresh Fruit Punch Mocktail,1,0,,108.0
+Drinks,Green Apple Mojito,1,0,,138.0
+Drinks,Kitkat Shake,1,0,A crunchy and creamy milkshake made by blending wholesome milk with delectable kitkat ... read more,156.0
+Drinks,Kiwi Fresh Punch Mocktail,1,0,,108.0
+Drinks,Kiwi Lemonade,1,0,,102.0
+Drinks,Mint Mojito,1,0,"A refreshing burst of mint and lime, perfect for a light and flavorful ... read more",138.0
+Drinks,Nutella Shake,1,0,Everyone all time favourite a classic blend of nutella and milk.,162.0
+Drinks,Oreo Shake,1,0,"A refreshing milkshake prepared with chocolate, oreo crumbs and wholesome milk - perfect ... read more",138.0
+Drinks,Salty Classic Lemonade,1,0,,78.0
+Drinks,Snickers Shake,1,0,,186.0
+Drinks,Strawberry Desire Mocktail,1,0,,117.0
+Drinks,Strawberry Lemonade,1,0,,102.0
+Drinks,Sweet Classic Lemonade,1,0,,78.0
+Drinks,Watermelon Mojito,1,0,A refreshing and fruity beverage perfect for any summer occasion.,138.0
+Extras,Extra Cheese,1,0,,30.0
+Extras,Fry Papad,1,0,,36.0
+Extras,Masala Papad,1,0,"A crispy, flavorful vegetarian bite with a tantalizing mix of spices.",48.0
+Extras,Roasted Papad,1,0,Crispy and flavorful Indian appetizer with a smokey roasted taste.,30.0
+Soups,Egg Broccoli Soup,0,0,,150.0
+Soups,Egg Hot & Soure,0,0,,120.0
+Soups,Egg Khow Suey Soup,0,0,,210.0
+Soups,Egg Lemon Coriender,0,0,,120.0
+Soups,Egg Manchow Soup,0,0,,120.0
+Soups,Lemon Coriander Soup,1,0,A refreshing soup bursting with zesty lemon and fragrant coriander flavors.,102.0
+Soups,Mexican Chilli Beans Soup,1,0,,120.0
+Soups,Tomato Basil Soup,1,0,,102.0
+Soups,Veg Broccoli Almond Soup,1,0,,150.0
+Soups,Veg Hot & Soure,1,0,,102.0
+Soups,Veg Khow Suey Soup,1,0,,192.0
+Soups,Veg Manchow Soup,1,0,A comforting Chinese style thick soup filled with boiled vegetables.,102.0
+Starters,Baby Corn Chilli Dry,1,0,,180.0
+Starters,Egg Classic Tikka,0,0,,180.0
+Starters,Egg Peri Peri Tikka,0,0,,177.0
+Starters,Egg Pesto Tikka,0,0,,192.0
+Starters,Mushroom Chilli Dry,1,0,Mushrrom chilly dry is a popular Indo-Chinese starter made by seasoning fried mushroom ... read more,180.0
+Starters,Mushroom Tikka,1,0,Delicious Indian dish with tender mushrooms roasted to perfection with fragrant spices.,204.0
+Starters,Paneer Chilly Dry,1,0,A delightfully flavorful dish prepared with soft paneer and slow cooked with flavorful ... read more,210.0
+Starters,Paneer Classic Tikka,1,0,,210.0
+Starters,Paneer Hariyali,1,0,,216.0
+Starters,Paneer Peri Peri Tikka,1,0,,222.0
+Starters,Paneer Pesto Tikka,1,0,,216.0
+Starters,Paneer Tikka,1,0,"Paneer marinated in lemon juice, dahi, Kashmiri lal mirch, salt, garam masala and ... read more",210.0
+Starters,Sizwzn Manchurian Dry/gravy,1,0,,174.0
+Starters,Schezwan Manchurian Gravy,1,0,,174.0
+Starters,Sizwan Paneer Dry,1,0,,216.0
+Starters,Sizwan Potato,1,0,,168.0
+Starters,Stufed Mushroom,1,0,,192.0
+Starters,Veg Crispy,1,0,The mix vegetables is fried in such a way that the skin is ... read more,168.0
+Starters,Veg Manchuriyan Dry/gravy,1,0,,162.0
+Starters,Veg Manchurian Gravy,1,0,Veg Manchurian gravy recipe has a sauce or gravy in which the fried ... read more,162.0
+Rice & Noodles Chinese,Egg Burnt Rice,0,0,,201.0
+Rice & Noodles Chinese,Egg Fried Rice,0,0,A slightly spicy dish made by tossing eggs and rice in a flavorful ... read more,180.0
+Rice & Noodles Chinese,Egg Hakka Noodle,0,0,,180.0
+Rice & Noodles Chinese,Egg Mushroom Rice,0,0,,192.0
+Rice & Noodles Chinese,Egg Pepper Schezwan Rice,0,0,,192.0
+Rice & Noodles Chinese,Egg Singapore Noodles,0,0,,192.0
+Rice & Noodles Chinese,Egg Sinrapore Rice,0,0,,192.0
+Rice & Noodles Chinese,Egg Sizwan Fried Rice,0,0,,192.0
+Rice & Noodles Chinese,Egg Sizwan Noodle,0,0,,192.0
+Rice & Noodles Chinese,Egg Spinach Rice,0,0,,192.0
+Rice & Noodles Chinese,Egg Tripal Sizwan Rice,0,0,,228.0
+Rice & Noodles Chinese,Egg Urban Sp Rice,0,0,,228.0
+Rice & Noodles Chinese,Mexican Rice,1,0,"Mexican rice is a one pot dish, lightly spiced and has corn, tomato, ... read more",210.0
+Rice & Noodles Chinese,Paneer Burnt Garlic Rice,1,0,,225.0
+Rice & Noodles Chinese,Paneer Mushroom Rice,1,0,,216.0
+Rice & Noodles Chinese,Paneer Spinach Rice,1,0,,216.0
+Rice & Noodles Chinese,Sauteed Veggie Rice,1,0,,180.0
+Rice & Noodles Chinese,Singapuri Rice,1,0,Aromatic and flavorful rice dish with a hint of exotic Singaporean spices.,174.0
+Rice & Noodles Chinese,Sizwan Fried Rice,1,0,,174.0
+Rice & Noodles Chinese,Tripal Sizwan Rice,1,0,,210.0
+Rice & Noodles Chinese,Urban Sp Rice,1,0,,210.0
+Rice & Noodles Chinese,Veg Fried Rice,1,0,A deliciously aromatic and flavorful dish made from stir fried mixed vegetables and ... read more,162.0
+Rice & Noodles Chinese,Veg Hakka Noodale,1,0,,162.0
+Rice & Noodles Chinese,Veg Singapore Noodle,1,0,,174.0
+Rice & Noodles Chinese,Veg Sizwan Noodle,1,0,,174.0
+Boiled Eggs,Salt & Pepper Boiled Eggs (4 Pcs),0,0,,72.0
+Indian Bread,Butter Kulcha,1,0,,78.0
+Indian Bread,Butter Naan,1,0,,72.0
+Indian Bread,Butter Paratha,1,0,,72.0
+Indian Bread,Cheese Garlic Naan,1,0,,96.0
+Indian Bread,Cheese Naan,1,0,,90.0
+Indian Bread,Garlic Naan,1,0,,72.0
+Indian Bread,Laccha Paratha,1,0,,66.0
+Indian Bread,Plain Kulcha,1,0,,72.0
+Indian Bread,Plain Naan,1,0,,60.0
+Indian Bread,Plain Paratha,1,0,,60.0
+Indian Bread,Roti Butter,1,0,,42.0
+Indian Bread,Roti Plain,1,0,,30.0
+Indian Bread,Stuffed Naan,1,0,,84.0
+Indian Bread,Stuffed Paratha,1,0,,78.0
+Breads,Cheesy Garlic Bread,1,0,"Crusty garlic baguette baked with cheese, everyones favorite a must try.",168.0
+Breads,Egg Cheese Chilli Toast,0,0,,168.0
+Breads,Egg Club Grill Sandwich,0,0,,198.0
+Breads,Egg Grild Sandwich,0,0,,180.0
+Breads,Egg Spinach Cheese Grill Sandwich,0,0,,198.0
+Breads,Paneer Spinach Cheese Grill Sandwich,1,0,,210.0
+Breads,Veg Cheese Chilli Toast,1,0,,156.0
+Breads,Veg Club Grill Sandwich,1,0,,168.0
+Breads,Veg Club Sandwich,1,0,"Fresh bread stuffed with crunchy vegetables ,butter and chutney.",120.0
+Extra,Butter Roti,1,0,Soft and fluffy rotis topped with a generous serving of butter.,18.0
+Extra,Cheese Egg Masala Papad,0,0,,90.0
+Extra,Egg Masala Papad,0,0,,78.0
+Extra,Extra Cheese,1,0,,30.0
+Extra,Fry Papad,1,0,,36.0
+Extra,Masala Papad,1,0,"A crispy, flavorful vegetarian bite with a tantalizing mix of spices.",48.0
+Extra,Pav (2 Pcs),1,0,2 Extra peices of pav to go along with your pav bhaji order.,12.0
+Extra,Plain Roti,1,0,"A variety of Indian flat bread, made from wheat flour on tawa.",12.0
+Extra,Roasted Papad,1,0,Crispy and flavorful Indian appetizer with a smokey roasted taste.,30.0
+Keema Surti,Anda Bhurji (2 Eggs)(4pav),0,0,,138.0
+Keema Surti,Curry Green Ghotala (3 Eggs)(4pav),0,0,,180.0
+Keema Surti,Egg Curry (2 Eggs)(4pav),0,0,,114.0
+Keema Surti,Goti Green Ghotala (3 Eggs)(4pav),0,0,,180.0
+Keema Surti,Green Half Fry (2 Eggs)(4pav),0,0,,108.0
+Keema Surti,Green Keema (3 Eggs)(4pav),0,0,,162.0
+Keema Surti,Green Khima(4 PAV),0,0,,162.0
+Keema Surti,Kachu Paku (2 Eggs)(4pav),0,0,,138.0
+Keema Surti,Katki Keema (2 Eggs)(4pav),0,0,,132.0
+Keema Surti,Lachka Urban Special (3 Eggs)(4pav),0,0,,198.0
+Keema Surti,Lahori Urban Special (3 Eggs)(4pav),0,0,,198.0
+Keema Surti,Red Half Fry (2 Eggs)(4pav),0,0,,84.0
+Keema Surti,Red Keema (3 Eggs)(4pav),0,0,,156.0
+Keema Surti,Sada Half Fry (2 Eggs)(4pav),0,0,,105.0
+Keema Surti,Sada Green Ghotala (3 Eggs)(4pav),0,0,,156.0
+Keema Surti,Urban Special Egg Kofta (3 Eggs)(4pav),0,0,,183.0
+Omelette,Spinach Cottage Cheese Omelette (2 Eggs),0,0,,183.0
+Omelette,Veg Stuffed Omelette (2 Eggs),0,0,,159.0
+Omelette Surti,Baby Omelette (2 Eggs),0,0,,102.0
+Omelette Surti,Boil Egg Fry (3 Eggs),0,0,,96.0
+Omelette Surti,Boil Omelette (2 Eggs),0,0,,129.0
+Omelette Surti,Boiled Egg Salad (4 Eggs),0,0,,90.0
+Omelette Surti,Cheese Boil Egg Starter (3 Eggs),0,0,,150.0
+Omelette Surti,Cheese Masala Boil (3 Eggs),0,0,,144.0
+Omelette Surti,Cheese Masala Omelette (2 Eggs),0,0,,144.0
+Omelette Surti,Egg Cutlets (2 Eggs),0,0,,129.0
+Omelette Surti,Egg Sandwich (2 Eggs),0,0,,120.0
+Omelette Surti,Egg Spring Roll (3 Eggs),0,0,,150.0
+Omelette Surti,Nimbu Mari Omelette (3 Eggs),0,0,,120.0
+Omelette Surti,Pepper Omelette (3 Eggs),0,0,,129.0
+Omelette Surti,Punjabi Omelette (3 Eggs),0,0,,144.0
+Omelette Surti,Sada Half Fry (2 Eggs),0,0,,102.0
+Pasta,Egg Alfredo Pasta,0,0,,225.0
+Pasta,Egg Arraibata Pasta,0,0,,210.0
+Pasta,Egg Pesto Pasta,0,0,,210.0
+Pasta,Egg Pink Sauce Pasta,0,0,,246.0
+Pasta,Veg Alfredo Pasta,1,0,,201.0
+Pasta,Veg Arraibata Pasta,1,0,,186.0
+Pasta,Veg Pesto Pasta,1,0,,186.0
+Pasta,Veg Pink Sauce Pasta,1,0,,225.0
+Pizza,Egg Exotic Pizza,0,0,9 Inches,276.0
+Pizza,Farm Fresh Veggie Pizza,1,0,9 Inches,144.0
+Pizza,Italian Supreme Pizza,1,0,9 Inches,228.0
+Pizza,Margherita Pizza,1,0,All time favourite margherita pizza is typical neopolitan pizza full of cheese and ... read more,183.0
+Rice Surti,Egg Bhurji Rice (2 Eggs),0,0,,156.0
+Rice Surti,Egg Biryani (4 Eggs),0,0,,156.0
+Rice Surti,Egg Biryani(4 Egg) With Gravy(2 Egg),0,0,,210.0
+Rice Surti,Egg Pahadi Rice (6 Eggs),0,0,,183.0
+Rice Surti,Egg Pulav (3 Eggs),0,0,,156.0
+Rice Surti,Egg Rabdi Rice (4 Eggs),0,0,,186.0
+Rice Surti,Egg Russian Rice (5 Eggs),0,0,,210.0
+Rice Surti,Egg Singapuri Rice (4 Eggs),0,0,,162.0
+Biryani,Veg Biryani,1,0,,150.0
+Salads,Egg Balck Pepper Mushroom Salad,0,0,,186.0
+Salads,Egg Grilled Salad,0,0,,186.0
+Salads,Exotic Sauteed Veggie Salad,1,0,,165.0
+Salads,Paneer Black Pepper Mushroom Salad,1,0,,210.0
+Salads,Paneer Grilled Salad,1,0,,216.0
+Salads,Spinach Cottage Cheese Salad,1,0,,210.0
+Sides,Corn Cheese Balls,1,0,,156.0
+Sides,French Fries,1,0,Potato fingers deep fried until golden brown and crisp. Topped with salt and ... read more,96.0
+Sides,Potato Veggies,1,0,,108.0
+Urban Egg Special Surti,American Fry Egg (5 Eggs)(6pav),0,0,,228.0
+Urban Egg Special Surti,Australian Fry (4 Eggs)(6pav),0,0,,210.0
+Urban Egg Special Surti,Boiled Egg Tikka Masala (3 Eggs)(4pav),0,0,,180.0
+Urban Egg Special Surti,Curried Egg Dosa (5 Eggs)(6pav),0,0,,222.0
+Urban Egg Special Surti,Dhamaka Egg (5 Eggs)(6pav),0,0,,228.0
+Urban Egg Special Surti,Egg 555 (4 Eggs)(6pav),0,0,,204.0
+Urban Egg Special Surti,Egg Bahubali Green (4 Eggs)(6pav),0,0,,210.0
+Urban Egg Special Surti,Egg Bhool Bhulaiya (4 Eggs)(6pav),0,0,,204.0
+Urban Egg Special Surti,Egg Cutlet Green Curry (5 Eggs)(6pav),0,0,,228.0
+Urban Egg Special Surti,Egg Cutlet Red Curry (5 Eggs)(6pav),0,0,,216.0
+Urban Egg Special Surti,Egg Dosa (4 Eggs)(4pav),0,0,,204.0
+Urban Egg Special Surti,Egg Hum Tum (4 Eggs)(6pav),0,0,,210.0
+Urban Egg Special Surti,Egg Kabab (6 Eggs)(6pav),0,0,,282.0
+Urban Egg Special Surti,Egg Lajawab (7 Eggs)(6pav),0,0,,312.0
+Urban Egg Special Surti,Egg Laziz (4 Eggs)(6pav),0,0,,198.0
+Urban Egg Special Surti,Egg Rabdi (5 Eggs)(6pav),0,0,,216.0
+Urban Egg Special Surti,Egg Rajwada (8 Eggs)(8pav),0,0,,288.0
+Urban Egg Special Surti,Egg Rajwadi Green (5 Eggs)(6pav),0,0,,210.0
+Urban Egg Special Surti,Egg Rajwadi Red (5 Eggs)(6pav),0,0,,228.0
+Urban Egg Special Surti,Egg Ravaiya Green (4 Eggs)(6pav),0,0,,198.0
+Urban Egg Special Surti,Egg Rrr (12 Eggs)(12pav),0,0,,372.0
+Urban Egg Special Surti,Egg Special Lahori (6 Eggs)(6pav),0,0,,252.0
+Urban Egg Special Surti,Egg Special Tadka (8 Eggs)(8pav),0,0,,312.0
+Urban Egg Special Surti,Egg Tikhari (6 Eggs)(6pav),0,0,,270.0
+Urban Egg Special Surti,Egg Tiranga Fry (6 Eggs)(6pav),0,0,,252.0
+Urban Egg Special Surti,One Two Ka Four (8 Eggs)(8pav),0,0,,270.0
+Urban Egg Special Surti,Punjabi Egg Oneton Green (5 Eggs)(6pav),0,0,,282.0
+Urban Egg Special Surti,Punjabi Egg Oneton Red (5 Eggs)(6pav),0,0,,282.0
+Urban Egg Special Surti,Red Egg Pamphlet (5 Eggs)(6pav),0,0,,228.0
+Urban Egg Special Surti,Royal Fry Egg (5 Eggs)(6pav),0,0,,228.0
+Urban Egg Special Surti,Russian Egg (5 Eggs)(6pav),0,0,,222.0
+Wraps,Egg Mushroom Basil Wrap,0,0,,198.0
+Wraps,Egg Peri Peri Wrap,0,0,,186.0
+Wraps,Egg Wrap,0,0,,180.0
+Wraps,Mexican Wrap,1,0,,180.0
+Wraps,Paneer Mushroom Basil Wrap,1,0,,201.0
+Wraps,Paneer Peri Peri Wrap,1,0,,186.0
+Wraps,Spinach Cottage Cheese Wrap,1,0,,180.0
+Wraps,Veg Veggie Wrap,1,0,,168.0
+Iced Coffee,Classic Frappe,1,0,,180.0
+Iced Coffee,Hazlenut Frappe,1,0,,180.0
+Iced Coffee,Irish Frappe,1,0,,180.0
+Iced Coffee,Nutella Frappe,1,0,,180.0
+Iced Coffee,Urban Special Coffee,1,0,,192.0
+Lemonade,Kiwi Lemonade,1,0,,102.0
+Lemonade,Salty Classic Lemonade,1,0,,78.0
+Lemonade,Strawberry Lemonade,1,0,,102.0
+Lemonade,Sweet Classic Lemonade,1,0,,78.0
+Shakes,Biscoff Shake,1,0,,180.0
+Shakes,Ferrero Rocher Shake,1,0,"A unique taste experience of contrasting layers, a whole crunchy hazelnut in the ... read more",186.0
+Shakes,Kitkat Shake,1,0,A crunchy and creamy milkshake made by blending wholesome milk with delectable kitkat ... read more,168.0
+Shakes,Nutella Shake,1,0,Everyone all time favourite a classic blend of nutella and milk.,180.0
+Shakes,Oreo Shake,1,0,"A refreshing milkshake prepared with chocolate, oreo crumbs and wholesome milk - perfect ... read more",150.0
+Shakes,Snickers Shake,1,0,,186.0
+Smoothie,Blueberry Smoothie,1,0,,192.0
+Smoothie,Cranberry Smoothie,1,0,,192.0
+Smoothie,Mango Smoothie,1,0,"Smoothie made with fresh mango and added flavors, very soothing in summers.",180.0
+Smoothie,Mulberry Smoothie,1,0,,192.0
+Smoothie,Raspberry Smoothie,1,0,A refreshing blend of fruity goodness to brighten your day.,192.0
+Smoothie,Strawberry Smoothie,1,0,,180.0
+Mocktails,Apple Delight,1,0,,117.0
+Mocktails,Cranberry Mojito,1,0,,168.0
+Mocktails,Fruit Fresh Punch,1,0,,138.0
+Mocktails,Green Apple Mojito,1,0,,168.0
+Mocktails,Kiwi Fresh Punch,1,0,,138.0
+Mocktails,Mint Mojito,1,0,"A refreshing burst of mint and lime, perfect for a light and flavorful ... read more",150.0
+Mocktails,Strawberry Desire,1,0,,117.0
+Mocktails,Thunder Storm,1,0,,156.0
+Mocktails,Watermelon Mojito,1,0,A refreshing and fruity beverage perfect for any summer occasion.,168.0

@@ -1,0 +1,56 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Chicken Biryani [750 ml],0,0,,250.0
+Starters,Chicken Leg Tandoori [1 Piece],0,0,Juicy chicken leg seasoned with freshly ground spices and grilled to perfection.,187.0
+Starters,Chicken Butter Leg [1 Piece],0,0,,218.0
+Starters,Chicken Cheese Leg [1 Piece],0,0,,230.0
+Starters,Chicken Chest Tandoori,0,0,Chicken chest tandoori.,189.0
+Starters,Chicken Lollipop,0,0,A hot and spicy appetizer made with drummettes or whole chicken wings.,231.0
+Starters,Chicken 65,0,0,A deep fried spicy chicken appetizer.,235.0
+Starters,Boneless Chicken 65,0,0,Succulent boneless chicken chunks dipped in a seasoned batter and fried to golden ... read more,254.0
+Starters,Chicken Hara Bhara,0,0,,254.0
+Starters,Chicken Tandoori,0,0,Half.,325.0
+Starters,Chicken Pathani,0,0,,331.0
+Starters,Chicken Cream Tikka,0,0,"A chicken chunks marinated in a yogurt cream and masala, served with sliced ... read more",335.0
+Starters,Chicken Shalimar Special Malai Cheese Tikka [6-7 Pieces],0,0,,394.0
+Starters,Chicken Rajawadi Cheese Tikka [6-7Pieces],0,0,,395.0
+Starters,Special Chicken Cheese Lollipop [6 Pieces],0,0,,400.0
+Main Course,Chicken Tawa Fry,0,0,Chicken tawa fry.,225.0
+Main Course,Amdavadi Chicken Tawa Fry,0,0,Semi gravy.,269.0
+Main Course,Chicken Machhi Masala,0,0,Semi gravy.,269.0
+Main Course,Chicken Korma Meal,0,0,Chicken Korma (500 ml) with 4 chapati roti,275.0
+Main Course,Nawabi Chicken Gravy [750 ml],0,0,,315.0
+Main Course,Hyderabadi Chicken Gravy [750 ml],0,0,,315.0
+Main Course,Angara Chicken Gravy [750 ml],0,0,,318.0
+Main Course,Chicken Kolhapuri Gravy [750 ml],0,0,,320.0
+Main Course,Kashmiri Chicken Gravy [750 ml],0,0,,320.0
+Main Course,Butter Chicken Gravy [750 ml],0,0,"The dish comprises of special spiced, marinated chicken cooked in classic butter flavours ... read more",328.0
+Main Course,Arbi Chicken Gravy [750 ml],0,0,,330.0
+Main Course,Chicken Masala [750 ml],0,0,,331.0
+Main Course,Boneless Chicken Kadhai Gravy [750 ml],0,0,,327.0
+Main Course,Boneless Angara Chicken Gravy [750 ml],0,0,,331.0
+Main Course,Boneless Kashmiri Chicken Gravy [750 ml],0,0,,337.0
+Main Course,Boneless Hyderabadi Chicken Gravy [750 ml],0,0,,340.0
+Main Course,Boneless Nawabi Chicken Gravy [750 ml],0,0,,341.0
+Main Course,Boneless Chicken Kolhapuri Gravy [750 ml],0,0,,342.0
+Main Course,Boneless Chicken Masala [750 ml],0,0,,345.0
+Main Course,Boneless Butter Chicken Gravy [750 ml],0,0,Chunks of boneless tandoori chicken cooked in a smooth buttery and creamy tomato ... read more,345.0
+Main Course,Boneless Arbi Chicken Gravy [750 ml],0,0,,350.0
+Main Course,Boneless Chicken Tikka Masala [750 ml],0,0,"Chicken tikka masala is made with yogurt marinated chicken, skewered and char grilled ... read more",363.0
+Main Course,Boneless Chicken Paplet Masala [750 ml],0,0,,363.0
+Main Course,Boneless Chicken Golden Gravy [750 ml],0,0,,365.0
+Main Course,Summer Chicken Gravy [750 ml],0,0,Summer chicken gravy.,363.0
+Main Course,Chicken Rangooni Gravy [750 ml],0,0,,355.0
+Shawarma,Chicken Shawarma Roll,0,0,"Classic shawarma roll with grilled with vegetables, mayonnaise and spicy sauces.",110.0
+Shawarma,Chicken Cheese Shawarma Roll,0,0,,143.0
+Shawarma,Chicken Tandoori Shawarma Roll,0,0,,145.0
+Rice,Plain Rice,1,0,,95.0
+Rice,Jeera Rice,1,0,Select grains of cooked basmati rice flavoured with cumin seeds and garnished with ... read more,120.0
+Rice,Anda Pulao [600 ml],0,0,Select grains of cooked basmati rice flavored with cumin seeds and garnished with ... read more,175.0
+Rice,Chicken Tikka Rice [600 ml],0,0,A hot and fiery rice bowl with flavorful chicken tikka served with rice.,259.0
+Rice,Chicken Darbari Rice [600 ml],0,0,,264.0
+Rice,Chicken Fried Rice [600 ml],0,0,,265.0
+Rice,Chicken Schezwan Fried Rice [600 ml],0,0,,270.0
+Roti,Chapati Roti,1,0,,17.0
+Roti,Chapati Butter Roti,1,0,,21.0
+Papad and Chaas,Roasted Papad,1,0,Roasted papad.,22.0
+Papad and Chaas,Fried Papad,1,0,Fried papad.,28.0

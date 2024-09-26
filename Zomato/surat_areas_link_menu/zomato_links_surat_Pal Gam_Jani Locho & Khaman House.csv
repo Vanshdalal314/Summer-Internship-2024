@@ -1,0 +1,43 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Dal Kanda Samosa,1,0,Serves 1 | A steamed surti snack prepared in oil served with green ... read more,60.0
+Snacks,Cheese Paneer Samosa (jain),1,0,Serves 1 | A steamed surti snack prepared in oil served with green ... read more,95.0
+Snacks,Patra,1,0,Serves 1 | A steamed surti snack prepared in oil served with green ... read more,60.0
+Snacks,Petis,1,0,Serves 1 | A steamed surti snack prepared in oil served with green ... read more,60.0
+Khamani,Jain Khamani,1,0,Serves 1 | A steamed surti snack prepared in oil served with green ... read more,70.0
+Khamani,Lasan Khamani,1,0,Serves 1 | A steamed surti snack prepared in oil served with green ... read more,70.0
+Jani Special Combos,Cheese Locho [1 Plate] + Vagharela Iddra [1 Plate} + Sev,1,0,,150.0
+Jani Special Combos,Italian Roll Combo,1,0,,202.0
+Jani Special Combos,Khamni [1 Plate] + Oil Locho [1 Plate] + Sev,1,0,,125.0
+Jani Special Combos,Oil Locho [1 Plate] + Butter Locho [1 Plate] + Sev,1,0,,135.0
+Jani Special Combos,Vagharela Khaman [1 Plate] + Butter Locho [1 Plate] + Sev,1,0,,135.0
+Jani Special Combos,Vagharela Khaman [1 Plate] + Oil Locho [1 Plate] + Sev,1,0,,130.0
+Jani Special Combos,Dal Kanda Samosa [250 Grams] With Cheese Locho And Masala Chaas,1,0,,180.0
+Jani Special Combos,Italian Locho Combo,1,0,,150.0
+Jani Special Combos,Italian Roll Locho [1 Plate] With Sev,1,0,,165.0
+Jani Special Combos,Oil Locho [2 Plate] + Butter Locho [2 Plate] + Sev [50] Grams],1,0,,235.0
+Jani Special Combos,Roll Locho [1 Plate] With Sev,1,0,,145.0
+Jani Special Combos,Sada Locho [500 Gram] + Vagharela Khaman [1 Plate] + Sev [50 Grams],1,0,,195.0
+Jani Special Combos,Vagharela Khaman [2 Plate] + Butter Locho [2 Plate] + Sev [50 Grams],1,0,,235.0
+Idada,Butter Idada,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,85.0
+Idada,Cheese Idada,1,0,Serves 1 | A steamed surti snack prepared in oil or butter served ... read more,100.0
+Idada,Vagharela Idada,1,0,Serves 1 | A steamed surti snack prepared in oil served chutney.,80.0
+Khaman,Sada Khaman,1,0,A steamed surti snack prepared in oil served with chutney.,55.0
+Khaman,Vagharela Khaman,1,0,Serves 1 | A steamed surti snack prepared in oil served chutney.,65.0
+Locho,Butter Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,100.0
+Locho,Cheese Locho,1,0,Serves 1 | A steamed surti snack prepared in oil And Butter served ... read more,110.0
+Locho,Italian Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,95.0
+Locho,Lasan Butter Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,90.0
+Locho,Lasan Cheese Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,120.0
+Locho,Lasan Oil Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,90.0
+Locho,Oil Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,65.0
+Locho,Peri Peri Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,95.0
+Locho,Plain Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,55.0
+Locho,Schezwan Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,95.0
+Locho,Tandoor Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,95.0
+Rolls,Roll Cheese Chilli,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,159.0
+Rolls,Roll Italian Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,159.0
+Rolls,Roll Lasan Locho,1,0,"A steamed surti snack prepared in oil served with green chilli, and chutney.",159.0
+Rolls,Roll Locho Regular,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,159.0
+Rolls,Roll Szechwan Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,159.0
+Rolls,Roll Tandoor Locho,1,0,Serves 1 | A steamed surti snack prepared in oil Or Butter served ... read more,159.0
+Drinks (Beverages),Alkaline Water 500ml,1,0,,25.0

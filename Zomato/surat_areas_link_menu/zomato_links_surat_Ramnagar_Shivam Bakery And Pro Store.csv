@@ -1,0 +1,2 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Chocolate Chips Cake [1 kg],1,0,,500.0

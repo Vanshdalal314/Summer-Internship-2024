@@ -1,0 +1,76 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Momos,DMW Combo (6 Pieces),1,0,Veg Momos (2 Pieces) + 5 Spice Dimsum (2 Pieces) + Veg Wontons ... read more,179.0
+Momos,Veg Momos [6 Pieces],1,0,"Spinach infused refined flour, stuffed with sauted minced vegetable seasoned with ground and ... read more",182.0
+Momos,Paneer Momos [6 Pieces],1,0,"Turmeric infused refined flour, stuffed with marinated malai panner and topped with ... read more",266.0
+Momos,Cheese Momos [6 Pieces],1,0,"Made from refined flour, loaded with cheese chilly stuffing and topped with grated ... read more",287.0
+Dimsum,5 Spice Dimsum [6 Pieces],1,0,"Fresh Red Chilly infused refined flour, stuffed with sauted Asian flavoured 5 spiced ... read more",195.0
+Dimsum,Thai Dimsum [6 Pieces],1,0,"Beetroot infused refined flour, stuffed with vegetables sauted in thai spices flavoured with ... read more",190.0
+Dimsum,Corn Cheese Dimsum [6 Pieces],1,0,"Made from refined flour, loaded with corn cheese chilly stuffing and topped with ... read more",287.0
+Wontons,Chocolate Wontons (6 Pieces),1,0,"Crispy fried savoury dumplings, stuffed with pure chocolate and Served with vanilla Ice ... read more",325.0
+Wontons,Sichuan Wontons (6 Pieces),1,0,"Crispy fried savoury dumplings, stuffed with sauted minced vegetable in Sichuan sauce, ... read more",216.0
+Wontons,Veg Wontons [6 Pieces],1,0,"Crispy fried savoury dumplings, stuffed with sauted minced vegetable seasoned with ground ... read more",202.0
+Wontons,Cheese Wontons [6 Pieces],1,0,"Crispy fried savoury dumplings, loaded with cheese chilly stuffing and topped with grated ... read more",230.0
+Korean Hot Chilly Momos / Dimsum,Korean Hot Chilly 5 Spice Dimsum,1,0,5 Spice Dimsum Wok tossed in spicy Korean Hot Chilly Sauce,314.0
+Korean Hot Chilly Momos / Dimsum,Korean Hot Chilly Cheese Momos,1,0,Cheese Momos Wok tossed in spicy Korean Hot Chilly Sauce,404.0
+Korean Hot Chilly Momos / Dimsum,Korean Hot Chilly Corn Cheese Dimsum,1,0,Corn Cheese Dimsum Wok tossed in spicy Korean Hot Chilly Sauce,404.0
+Korean Hot Chilly Momos / Dimsum,Korean Hot Chilly Paneer Momos,1,0,Paneer Momos Wok tossed in spicy Korean Hot Chilly Sauce,383.0
+Korean Hot Chilly Momos / Dimsum,Korean Hot Chilly Thai Dimsum,1,0,Thai Dimsum Wok tossed in spicy Korean Hot Chilly Sauce,307.0
+Korean Hot Chilly Momos / Dimsum,Korean Hot Chilly Veg Momos,1,0,Veg Momos Wok tossed in spicy Korean Hot Chilly Sauce,302.0
+Asian Hot Chilly Momos / Dimsum,Asian Hot Chilly 5 Spice Dimsum,1,0,5 Spice Dimsum Wok tossed in perfectly balanced whole spice flavoured Asian Hot ... read more,289.0
+Asian Hot Chilly Momos / Dimsum,Asian Hot Chilly Cheese Momos,1,0,Cheese Momos Wok tossed in perfectly balanced whole spice flavoured Asian Hot Chilly ... read more,380.0
+Asian Hot Chilly Momos / Dimsum,Asian Hot Chilly Corn Cheese Dimsum,1,0,Corn Cheese Dimsum Wok tossed in perfectly balanced whole spice flavoured Asian Hot ... read more,380.0
+Asian Hot Chilly Momos / Dimsum,Asian Hot Chilly Paneer Momos,1,0,Paneer Momos Wok tossed in perfectly balanced whole spice flavoured Asian Hot Chilly ... read more,359.0
+Asian Hot Chilly Momos / Dimsum,Asian Hot Chilly Thai Dimsum,1,0,Thai Dimsum Wok tossed in perfectly balanced whole spice flavoured Asian Hot Chilly ... read more,283.0
+Asian Hot Chilly Momos / Dimsum,Asian Hot Chilly Veg Momos,1,0,Veg Momos Wok tossed in perfectly balanced whole spice flavoured Asian Hot Chilly ... read more,278.0
+Soy Basil Chilly Momos / Dimsum,Soy Basil Chilly Thai Dimsum (6 Pieces),1,0,Thai Dimsum sauted in Pan Asian Style Soy Basil Chilly Sauce.,286.0
+Soy Basil Chilly Momos / Dimsum,Soy Basil Chilly Veg Momos (6 Pieces),1,0,Veg Momos sauted in Pan Asian Style Soy Basil Chilly Sauce.,281.0
+Soy Basil Chilly Momos / Dimsum,Soy Basil Chilly Corn Cheese Dimsum (6 Pieces),1,0,Corn Cheese Dimsum sauted in Pan Asian Style Soy Basil Chilly Sauce.,383.0
+Soy Basil Chilly Momos / Dimsum,Soy Basil Chilly Paneer Momos (6 Pieces),1,0,Paneer Momos sauted in Pan Asian Style Soy Basil Chilly Sauce.,362.0
+Soy Basil Chilly Momos / Dimsum,Soy Basil Chilly Cheese Momos [6 Pieces],1,0,Cheese Momos sauted in Pan Asian Style Soy Basil Chilly Sauce.,383.0
+Soy Basil Chilly Momos / Dimsum,Soy Basil Chilly 5 Spice Dimsum (6 Pieces),1,0,5 Spice Dimsum sauted in Pan Asian Style Soy Basil Chilly Sauce.,291.0
+Roasted Chilli Garlic Oil Momos/Dimsum,Roasted Chilli Garlic 5 Spice Dimsum [6 Pieces],1,0,5 Spice Dimsum served with Roasted Chilly Garlic Oil.,263.0
+Roasted Chilli Garlic Oil Momos/Dimsum,Roasted Chilli Garlic Cheese Momos [6 Pieces],1,0,Cheese Momos served with Roasted Chilly Garlic Oil.,355.0
+Roasted Chilli Garlic Oil Momos/Dimsum,Roasted Chilli Garlic Corn Cheese Dimsum [6 Pieces],1,0,Corn Cheese Dimsum served with Roasted Chilly Garlic Oil.,355.0
+Roasted Chilli Garlic Oil Momos/Dimsum,Roasted Chilli Garlic Veg Momos [6 Pieces],1,0,Veg Momos served with Roasted Chilly Garlic Oil.,253.0
+Roasted Chilli Garlic Oil Momos/Dimsum,Roasted Chilli Garlic Paneer Momos [6 Pieces],1,0,Paneer Momos served with Roasted Chilly Garlic Oil.,334.0
+Roasted Chilli Garlic Oil Momos/Dimsum,Roasted Chilli Garlic Thai Dimsum [6 Pieces],1,0,Thai Dimsum served with Roasted Chilly Garlic Oil.,258.0
+Indo Chinese,Hot & Sour Soup,1,0,,253.0
+Indo Chinese,Veg Manchow Soup,1,0,,243.0
+Crispy Momos,Crispy Cheese Momos (6 Pieces),1,0,Crunchy Momos with a hint of spice. Crispy Momos is a perfect blend ... read more,307.0
+Crispy Momos,Crispy Paneer Momos (6 Pieces),1,0,Crunchy Momos with a hint of spice. Crispy Momos is a perfect blend ... read more,293.0
+Crispy Momos,Crispy Veg Momo (6 Pieces),1,0,Crunchy Momos with a hint of spice. Crispy Momos is a perfect blend ... read more,239.0
+Peri Peri Shakers,Peri Peri Veg Momos [6 Pieces],1,0,Fried veg momos served in Peri-Peri Shaker Bags. Just shake it and enjoy ... read more,222.0
+Peri Peri Shakers,Peri Peri Paneer Momos [6 Pieces],1,0,Fried Paneer momos served in Peri-Peri Shaker Bags. Just shake it and enjoy ... read more,276.0
+Peri Peri Shakers,Peri Peri Cheese Momos [6 Pieces],1,0,Fried Cheese momos served in Peri-Peri Shaker Bags. Just shake it and enjoy ... read more,290.0
+Nepali Style Jhol Momos,Jhol Veg Momos [6 Pieces],1,0,Steamed veg momos served in Nepali style Jhol gravy,233.0
+Nepali Style Jhol Momos,Jhol Paneer Momos [6 Pieces],1,0,Steamed veg momos served in Nepali style Jhol gravy,314.0
+Nepali Style Jhol Momos,Jhol Cheese Momos [6 Pieces],1,0,Steamed veg momos served in Nepali style Jhol gravy,335.0
+Soup,Hot Pot Soup,1,0,"Spicy thick soup with exotic vegetabels and paneer cubes, flavoured with fragrant hot ... read more",243.0
+Soup,Jhol Soup,1,0,"Spicy , Tangy, Mixed vegetable Clear soup.",123.0
+Soup,Korean Ramen,1,0,Spicy Korean Soupy noodles cooked with exotic vegetables and cottage cheese,407.0
+Soup,Nepali Thukpa,1,0,"Spicy Nepali clear soup served with thin noodles, exotic vegetables, cottage cheese, finished ... read more",196.0
+Soup,Tomkha,1,0,Creamy Thai soup with exuburant flavours of Thai herbs and spices,236.0
+Starters,Asian Hot Chilli Cottage Cheese,1,0,Tempura fried Cottage Cheese tossed in Oriental flavourful Asian Hot Chilly Sauce.,468.0
+Starters,Cantonese Style Chilly Potato,1,0,Crispy fried potatoes sauteed in Cantonese style sweet and spicy Sauce.,272.0
+Starters,Chilli Garlic Corn,1,0,Fried Corn kernel tossed in Chilli garlic sauce.,271.0
+Starters,Chilli Garlic Cottage Cheese,1,0,Tempura Fried Cottage cheese tossed in Chilli garlic sauce,418.0
+Starters,Corn Chilli Pepper With Kaffir Lime,1,0,Crunchy corn kernel spiked with chilli peppers and dusted with kaffir lime.,395.0
+Starters,Korean Hot Chilli Cottage Cheese,1,0,Cottage Cheese tossed in Korean Hot chilli sauce with a crunch of roasted ... read more,543.0
+Starters,Korean Hot Chilli Stir Fry,1,0,Stir Fry Assorted Exotic Vegetables tossed in Korean Hot chilli sauce,346.0
+Starters,Soy Chilly Basil Cottage Cheese,1,0,Tempura fried Cottage Cheese tossed in Soy chilli sauce infused with the rich ... read more,480.0
+Starters,Thai Red Curry,1,0,Traditional Thai red curry with exotic vegetables served with Lemongrass infused blend of ... read more,664.0
+Noodles,Asian Hot Chilli Noodles,1,0,Steamed noodles tossed in aromatic chilli sauce.,329.0
+Noodles,Butter Garlic Noodles,1,0,"Fine steamed noodles, vegetables tossed in clarified butter and roasted burnt garlic.",310.0
+Noodles,Korean Pot Noodles,1,0,Steamed fine noodles tossed in exotic vegetables and roasted Korean hot chilli sauce,339.0
+Noodles,Mi Goreng Noodles,1,0,Traditional Indosnesian Noodles tossed in Mi Goreng sauce,305.0
+Noodles,Oriental Stir Noodles,1,0,"Thin noodles, Exotic vegetables tossed in oriental seasoning and a hint of light ... read more",217.0
+Fried Rice,Asian Hot Chilli Rice,1,0,"Basmati & Jasmine Rice, stir fried exotic vegetables tossed in flavourful Asian ... read more",384.0
+Fried Rice,Combination Rice,1,0,"A combination of Fried Rice, Noodles and veggies. A perfect blend.",400.0
+Fried Rice,Korean Fried Rice,1,0,"Stir Fried Premium Basmati rice, sauteed vegetables tossed in aromatic Chinese spice flavoured ... read more",356.0
+Fried Rice,Oriental Burnt Garlic Rice,1,0,"Stir Fried Premium Basmati rice, sauteed vegetables, burnt garlic tossed in aromatic garlic ... read more",376.0
+Fried Rice,Pan Asian Traditional Fried Rice,1,0,"Stir Fried Premium Basmati rice, sauteed vegetables tossed in aromatic Chinese spice flavoured ... read more",279.0
+Fried Rice,Roasted Chilli Garlic Fried Rice,1,0,Rice sauteed with exotic vegetables and DMW special Roasted Chilli Garlic Sauce.,312.0
+Fried Rice,Steamed Rice,1,0,,172.0
+Gravy,Asian Hot Chilli Gravy,1,0,,251.0
+Gravy,Korean Hot Chilli Gravy,1,0,,281.0
+Gravy,Soy Basil Chilli Gravy,1,0,,254.0

@@ -1,0 +1,72 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Party Combo,Combo 1 (serves 1 ),1,0,"One 7'' Italian Treat Pan Crust ,One Chocolate Volcano",269.0
+Party Combo,Combo 2 (Serves 2),1,0,"One 9'' Pan Crust Fire Lover Pizza, 1 Cheesy Garlic Bread, 2 Coke ... read more",599.0
+Party Combo,Combo 3 (Serves 2-3),1,0,"One 9'' Pan Crust Veggie Delight Pizza, 1 French Fries, 1 Cheesy Puffy ... read more",629.0
+Party Combo,Combo 4 (Serves 3-4),1,0,"One 9'' Pan Crust Veggie Delight Pizza, One 7'' Pan Crust Fire Lover ... read more",799.0
+Party Combo,Combo 5 (Serves 4),1,0,"One 9'' Peri Peri Paneer Pizza, One 9'' Fire Lover Pizza, 1 Cheesy ... read more",1099.0
+Party Combo,Combo 6 (Serves 5-6),1,0,"One 12'' Peri-peri Paneer Pan Crust, One 9'' Veggie Delight Pan Crust , ... read more",1399.0
+Breads,Cheese Corn Bread,1,0,"Cheese, Garlic, Corn & Herb",179.0
+Breads,Cheese Corn Puffy Bread,1,0,"Cheese, Garlic, Corn & Herb",179.0
+Breads,Cheesy Garlic Bread,1,0,"Cheese, Garlic & Herb",179.0
+Breads,Cheesy Puffy Garlic Bread,1,0,"Cheese, Garlic & Herb",179.0
+Breads,Five Cheese Bread,1,0,"Mozzarella, White Cheddar, Orange Cheddar, Colby, Montry Jack & Garlic",199.0
+Breads,Five Cheese Puffy Bread,1,0,"Mozzarella, White Cheddar, Orange Cheddar, Colby, Montry Jack & Garlic",199.0
+Cheese Master Pizza,Cheese Master Pizza,1,0,Truly Heaven For Cheese Lovers,349.0
+Cheese Master Pizza,Double Cheese Master Pizza,1,0,Truly Heaven For Cheese Lovers,379.0
+Pizzas,American Touch Pizza.,1,0,"Pizza Sauce, Cheese, Corn, Capsicum, Fresh Mushroom, Olives & Oregano",264.0
+Pizzas,Cheese And Corn Pizza,1,0,"Pizza Sauce, Cheese & Corn",234.0
+Pizzas,Cheese And Onion Pizza,1,0,"Pizza Sauce, Cheese & Onion",234.0
+Pizzas,Cheese And Pineapple Pizza,1,0,"Pizza Sauce, Cheese & Pineapple",234.0
+Pizzas,Chilli Garlic Veg Pizza (Non Jain),1,0,"Chilli Garlic sauce, cheese, onion, Capsicum, BabyCorn, Mushroom, Chilli Flakes & Oregano",284.0
+Pizzas,Double Cheese Margherita Pizza,1,0,"Pizza Sauce, Mozzarella & White Cheddar",264.0
+Pizzas,Farm Fresh Pizza,1,0,"Pizza Sauce, Cheese, Onion, Tomato, Capsicum, Fresh Mushroom, Baby Corn & Oregano",284.0
+Pizzas,Fire Lovers Pizza,1,0,"Pizza Sauce, Cheese, Tomato, Onion, Capsicum, Jalapeno & Chili Flakes",264.0
+Pizzas,Five Cheese Pizza,1,0,"Pizza Sauce, Mozzarella, White Cheddar, Orange Cheddar, Colby & Montry Jack",319.0
+Pizzas,Italian Treat Pizza,1,0,"Pizza Sauce, Cheese, Onion, Capsicum & Oregano",234.0
+Pizzas,Mexican Heat Wave Pizza,1,0,"Pizza Sauce, Cheese, Green Chilli, Corn, Capsicum, Jalapeno, Red Paprika",284.0
+Pizzas,Paneer Butter Masala (Non Jain),1,0,"Makhani Sauce, Cheese, Onion & Marinated Paneer",284.0
+Pizzas,Paneer Supreme Pizza,1,0,"Pizza sauce, Cheese, Onion, capsicum, Paneer, Corn, Jalapeno, Mushroom, Chilli Flakes & Oregano",284.0
+Pizzas,Paneer Tikka Masala Pizza (Non Jain),1,0,"Tandoori sauce, Cheese , Onion, capsicum, Marinated tandoori Paneer & Chilli Flakes",284.0
+Pizzas,Peri Peri Paneer (Non Jain),1,0,"Spicy Harissa Sauce, Cheese, Basil, Tomato, Peri Peri Paneer & Black Pepper",284.0
+Pizzas,Seven Cheese Pizza,1,0,"Pizza Sauce, Mozzarella, White Cheddar, Orange Cheddar, Colby, Montry Jack, Cream Cheese ... read more",319.0
+Pizzas,Single Cheese Margherita,1,0,Pizza Sauce & Cheese,234.0
+Pizzas,Sizzling Paneer Pizza (Non Jain),1,0,"Chilli Garlic sauce, Cheese, Onion, Capsicum, Paneer, BabyCorn, Oregano, Chilli flakes",284.0
+Pizzas,Spicy Paneer Pizza,1,0,"Tandoori Sauce, Cheese, Capsicum, Jalapeno & Marinated Paneer",284.0
+Pizzas,Super Supreme Pizza,1,0,"Pizza Sauce, Cheese, Tomato, Capsicum, Fresh Mushroom, Corn, Pinapple, Olives, Oregano & Chili ... read more",284.0
+Pizzas,The Angry Pizza (Non Jain),1,0,"Tandoori Sauce, Cheese, Green Chilli, Onion, Jalapeno, Red Paprika & Chilli Flakes",284.0
+Pizzas,The Lot Pizza,1,0,"Pizza Sauce, Cheese, Onion, Tomato, Capsicum, Fresh Mushroom, Pineapple, Jalapeno, Oregano & Chilli ... read more",284.0
+Pizzas,Three Cheese Pizza,1,0,"Pizza Sauce, Mozzarella, White Cheddar & Liquid Orange Cheddar",284.0
+Pizzas,Veggie Delight Pizza,1,0,"Pizza Sauce, Cheese, Onion, Tomato, Capsicum, Baby Corn & Oregano",264.0
+Pizzas,White Sauce Pizza,1,0,"Cheese Sauce, Cheese, Onion, Mushroom, Olives, Corn, oregano & Garlic Seasoning",264.0
+Garlic Bread Sticks,Corn & Jalapeno Stuffed Garlic Bread,1,0,Serve With Dip,189.0
+Garlic Bread Sticks,Garlic Bread Sticks,1,0,Serve With Dip,169.0
+Garlic Bread Sticks,Paneer Tikka Stuffed Garlic Bread,1,0,Serve With Dip,199.0
+Great Value Pizzas,Great Value Combo 4 Pizzas (Non Jain),1,0,"Pizza Italiano, Veg Makhani, Spicy Veg , Tandoori Paneer & Capsicum",498.0
+Great Value Pizzas,Pizza Italiano,1,0,"Pizza Sauce, Onion, Tomato, Cheese",159.0
+Great Value Pizzas,Spicy Veg,1,0,"Chilli Garlic sauce, Cheese, Onion, Corn & Tomatoes",169.0
+Great Value Pizzas,Tandoori Paneer & Capsicum (Non Jain),1,0,"Tandoori Sauce, Capsicum, Paneer & Cheese",169.0
+Great Value Pizzas,Veg Makhani (Non Jain),1,0,"Makhani Sauce, Capsicum, Corn, Cheese",159.0
+Puff Pastry,Chilli Garlic Paneer (Non Jain),1,0,"Chilli Garlic sauce, Cheese, Onion, Marinated Paneer & Herbs",209.0
+Puff Pastry,Paneer Makhani (Non Jain),1,0,"Makhani Sauce, Cheese, Onion, Marinated Paneer & Herbs",199.0
+Puff Pastry,Pizza Wizza,1,0,"Pizza Sauce, Cheese, Basil, Tomato, Olives & Herbs",199.0
+Puff Pastry,Spicy Harissa (Non Jain),1,0,"Spicy Harissa Sauce, Cheese, Tomato, Jalapeno, Fresh Mushroom & Herbs",199.0
+Puff Pastry,Tandoori Paneer Tikka (Non Jain),1,0,"Tandoori Sauce, Cheese, Onion, Capsicum, Marinated Paneer & Herbs",199.0
+From The Fryer,Chilli Garlic Potato Bites (20 PC),1,0,Deep fried crispy potato blended with chilli garlic bites,159.0
+From The Fryer,French Fries (125 GM),1,0,Thinly sliced potatoes are deep-fried till they're crisp on all sides and then ... read more,179.0
+From The Fryer,French Fries With Dip (125 GM),1,0,Thinly sliced potatoes are deep-fried till they're crisp on all sides and then ... read more,189.0
+Pasta With Puff Bowl,Cheesy Red Sauce Pasta (350 Gm),1,0,"Authentic Pasta Sauce, Cheese, Sauce, Cheese,Onion, Olives, Corn & Chilli Flakes (With Eatable ... read more",269.0
+Pasta With Puff Bowl,Cheesy Sauce Pasta (350 GM ),1,0,"Rich Cheese Sauce, Cheese, Tomato, Onion, Fresh Mushroom, Black Pepper & Oregano (With ... read more",269.0
+Pasta With Puff Bowl,Mexican Treat Pasta (350 Gm),1,0,"Tangy Pasta Sauce, Cheese, Onion, Capsicum, Olives & Chilli Flakes (With Eatable Puff ... read more",269.0
+Pasta With Puff Bowl,Tandoori Pasta (350 Gm),1,0,"Tandoori Sauce, Cheese Sauce, Cheese, Capsicum & Paneer",269.0
+Calzone,Paneer Calzone,1,0,"Makhani Sauce, Cheese, Onion, Paneer & Corn",199.0
+Calzone,Veg Calzone,1,0,"Pizza Sauce, Cheese,Onion, Olives & Corn",199.0
+Quesadilla,Corn & Jalapeno Quesadilla,1,0,"Gouda Cheese, Corn, Jalapeno, Mozzarella & Cheddar",209.0
+Quesadilla,Four Cheese Quesadilla,1,0,"Melted Cheddar, orange Cheddar, Montery Jack & Colby",209.0
+Quesadilla,Hot Garlic Quesadilla,1,0,"Chilli Garlic Sauce, Cheese, Onion, Capsicum & Red Peprika",209.0
+Quesadilla,Paneer Makhani Quesadilla,1,0,"Makhani Sauce, Cheese, Onion, Capsicum, Paneer & Jalapeno",209.0
+Shake 250 Ml,Chocolate (250 Ml),1,0,"A refreshing milkshake prepared with chocolate ice cream, chocolate sauce and wholesome milk ... read more",249.0
+Shake 250 Ml,Cold Coffee (250 Ml),1,0,A creamy and energizing milkshake made from milk flavored with strong coffee.,249.0
+Shake 250 Ml,Strawberry (250 Ml),1,0,A thick shake made from plush strawberries.,249.0
+Shake 250 Ml,Strawberry Oreo (250 Ml),1,0,"A refreshing milkshake prepared with chocolate ice cream, strawberries, oreo and wholesome milk ... read more",249.0
+Dips,Cheese Dip (20 Gm),1,0,,40.0
+Desserts,Chocolate Volcano (75 Gm),1,0,It is typically prepared from ice cream and cocoa powder which is then ... read more,109.0

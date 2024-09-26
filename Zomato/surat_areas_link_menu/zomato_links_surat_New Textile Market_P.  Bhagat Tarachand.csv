@@ -1,0 +1,357 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Hot And Sour Soup,1,0,"Julienne cut vegetables with Chinese sauce, very tasty and delightful.",164.0
+Soups,Lemon Coriander Soup,1,0,A refreshing soup bursting with zesty lemon and fragrant coriander flavors.,171.0
+Soups,Manchaw Soup Jain,1,0,,164.0
+Soups,Manchow Soup,1,0,A comforting Chinese-style thick soup filled with exotic and hot vegetables.,164.0
+Soups,Mushroom Soup,1,0,,190.0
+Soups,Noodles Soup,1,0,A hearty and comforting soup packed with flavorful noodles and vegetables.,164.0
+Soups,Sweet Corn Soup,1,0,"Comforting soup brimming with sweet, wholesome corn.",164.0
+Soups,Sweet Corn Soup Jain,1,0,,164.0
+Soups,Tomato Soup,1,0,A indulging soup that is packed with the tanginess and goodness of tomatoes.,164.0
+Soups,Tomato Soup Jain,1,0,,164.0
+Soups,Veg Clear Soup,1,0,,164.0
+Soups,Veg Clear Soup Jain,1,0,,164.0
+Chinese Starters Dry&Gravy,Baby Corn 65 Dry,1,0,,280.0
+Chinese Starters Dry&Gravy,Baby Corn 65 Gravy,1,0,,280.0
+Chinese Starters Dry&Gravy,Baby Corn Chilli Dry,1,0,,290.0
+Chinese Starters Dry&Gravy,Baby Corn Chilli Gravy,1,0,,266.0
+Chinese Starters Dry&Gravy,Baby Corn Chilly Jain,1,0,,290.0
+Chinese Starters Dry&Gravy,Baby Corn Crispy Dry,1,0,,290.0
+Chinese Starters Dry&Gravy,Babycorn Crispy Jain,1,0,,290.0
+Chinese Starters Dry&Gravy,Chana Chilli Dry,1,0,,275.0
+Chinese Starters Dry&Gravy,Chana Chilli Gravy,1,0,,275.0
+Chinese Starters Dry&Gravy,Chana Chilli Jain,1,0,,275.0
+Chinese Starters Dry&Gravy,Chinese Bhel Dry Cold ( Bombay Style ),1,0,,275.0
+Chinese Starters Dry&Gravy,Corn Chilli Dry,1,0,,305.0
+Chinese Starters Dry&Gravy,Corn Chilli Gravy,1,0,,305.0
+Chinese Starters Dry&Gravy,Corn Chilly Jain,1,0,,305.0
+Chinese Starters Dry&Gravy,Gobi Chilli Dry,1,0,,275.0
+Chinese Starters Dry&Gravy,Gobi Chilli Gravy,1,0,,275.0
+Chinese Starters Dry&Gravy,Gobi Manchurian Dry,1,0,"A delightfully tasty dish with gobi coated in Manchurian sauces, assorted spices and ... read more",275.0
+Chinese Starters Dry&Gravy,Gobi Manchurian Gravy,1,0,Gobi Manchurian is a popular Indo-Chinese dish where crispy cauliflower florets are tossed ... read more,275.0
+Chinese Starters Dry&Gravy,Honey Potato Chilli Dry,1,0,,275.0
+Chinese Starters Dry&Gravy,Honey Potato Chilli Gravy,1,0,,275.0
+Chinese Starters Dry&Gravy,Mushroom 65 Dry,1,0,,310.0
+Chinese Starters Dry&Gravy,Mushroom 65 Gravy,1,0,,310.0
+Chinese Starters Dry&Gravy,Mushroom Chilli Dry,1,0,Mushrrom chilly dry is a popular Indo-Chinese starter made by seasoning fried mushroom ... read more,310.0
+Chinese Starters Dry&Gravy,Mushroom Chilli Gravy,1,0,,310.0
+Chinese Starters Dry&Gravy,Mushroom Manchurian Dry,1,0,,325.0
+Chinese Starters Dry&Gravy,Mushroom Manchurian Gravy,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer 65 Dry,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer 65 Gravy,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer 65 Jain,1,0,,325.0
+Chinese Starters Dry&Gravy,Paneer Chilli Dry,1,0,A delightfully flavorful dish prepared with soft paneer and cooked with flavorful chili ... read more,330.0
+Chinese Starters Dry&Gravy,Paneer Chilli Gravy,1,0,"Paneer based Chinese dish, cooked in spices of garlic and ginger with chilly. ... read more",330.0
+Chinese Starters Dry&Gravy,Paneer Chilly Jain,1,0,,325.0
+Chinese Starters Dry&Gravy,Paneer Finger Dry,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer Finger Gravy,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer Finger Jain,1,0,,325.0
+Chinese Starters Dry&Gravy,Paneer Garlic Dry,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer Garlic Gravy,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer Hong Kong Dry,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer Hong Kong Gravy,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer Hong Kong Jain,1,0,,325.0
+Chinese Starters Dry&Gravy,Paneer Manchurian Dry,1,0,"Crispy, savory and full of flavor, this Chinese-inspired dish is made with tender ... read more",330.0
+Chinese Starters Dry&Gravy,Paneer Manchurian Gravy,1,0,A savory Chinese main course featuring chunks of paneer in a flavorful and ... read more,330.0
+Chinese Starters Dry&Gravy,Paneer Manchurian Jain,1,0,,325.0
+Chinese Starters Dry&Gravy,Paneer Mushroom Chilli Dry,1,0,,335.0
+Chinese Starters Dry&Gravy,Paneer Mushroom Chilli Gravy,1,0,,316.0
+Chinese Starters Dry&Gravy,Paneer Satay Dry,1,0,,330.0
+Chinese Starters Dry&Gravy,Paneer Satay Gravy,1,0,,330.0
+Chinese Starters Dry&Gravy,Potato Chilli Dry,1,0,,275.0
+Chinese Starters Dry&Gravy,Potato Chilli Gravy,1,0,,253.0
+Chinese Starters Dry&Gravy,Veg 65 Dry,1,0,,275.0
+Chinese Starters Dry&Gravy,Veg 65 Gravy,1,0,,275.0
+Chinese Starters Dry&Gravy,Veg 65 Jain,1,0,,275.0
+Chinese Starters Dry&Gravy,Veg Chilli Dry,1,0,,275.0
+Chinese Starters Dry&Gravy,Veg Chilli Gravy,1,0,,275.0
+Chinese Starters Dry&Gravy,Veg Chilly Jain,1,0,,275.0
+Chinese Starters Dry&Gravy,Veg Crispy Dry,1,0,Seasoned vegetables coated in batter and deep fried then tossed in flavourful sauces.,275.0
+Chinese Starters Dry&Gravy,Veg Crispy Jain,1,0,,275.0
+Chinese Starters Dry&Gravy,Veg Lollipop Dry,1,0,,270.0
+Chinese Starters Dry&Gravy,Veg Lollipop Gravy,1,0,,270.0
+Chinese Starters Dry&Gravy,Veg Lolypop Jain,1,0,,270.0
+Chinese Starters Dry&Gravy,Veg Manchurian Dry,1,0,Veg Manchurian dry is a crispy starter snack of fried veg balls tossed ... read more,275.0
+Chinese Starters Dry&Gravy,Veg Manchurian Gravy,1,0,Veg Manchurian dry is a crispy starter snack of fried veg balls tossed ... read more,275.0
+Chinese Starters Dry&Gravy,Veg Manchurian Jain,1,0,,275.0
+Noodles,American Chopsuey,1,0,A delicious blend of crispy noodles and fresh veggies tossed in a savory ... read more,275.0
+Noodles,Hakka Noodles,1,0,Wok tossed noodles with veggies and stir fried with Chinese sauces and spices.,300.0
+Noodles,Hong Kong Noodles,1,0,"Long, savory noodles with a burst of flavors and textures that transport you ... read more",310.0
+Noodles,Mushroom Hakka Noodles,1,0,,310.0
+Noodles,Mushroom Schezwan Noodles,1,0,,320.0
+Noodles,Paneer Hakka Noodles,1,0,,320.0
+Noodles,Paneer Schezwan Noodles,1,0,,330.0
+Noodles,Schezwan Noodles,1,0,Vegetables and soft noodles that is tossed with vegetables in a flavorful schezwan ... read more,310.0
+Noodles,Singapore Noodles,1,0,A delightful noodle dish loaded with aromatic flavors.,310.0
+Chinese Rice,Combination Rice,1,0,,340.0
+Chinese Rice,Hong Kong Fried Rice,1,0,This Chinese stir-fried rice dish bursts with bold and savory flavors and is ... read more,330.0
+Chinese Rice,Mushroom Fried Rice,1,0,"Rice tossed in a wok with mix veggies, mushrooms and spices in chinese ... read more",340.0
+Chinese Rice,Paneer Fried Rice,1,0,Fresh veggies and minces pieces of paneer tossed in a pan with steamed ... read more,345.0
+Chinese Rice,Schezwan Fried Rice,1,0,A flavor packed dish with aromatic rice tossed along with veggies and schezwan ... read more,330.0
+Chinese Rice,Schezwan Mushroom Fried Rice,1,0,,345.0
+Chinese Rice,Schezwan Paneer Fried Rice,1,0,,350.0
+Chinese Rice,Singapore Fried Rice,1,0,A savory and flavorful rice dish that's perfect as a main course.,330.0
+Chinese Rice,Triple Schezwan Fried Rice,1,0,"A combination of crispy noodles, fried rice and a spicy vegetable gravy in ... read more",355.0
+Chinese Rice,Veg Fried Rice,1,0,A deliciously aromatic and flavorful dish made from stir fried mixed vegetables and ... read more,310.0
+Paneer Starters,Mushroom Tikka (10 Pcs ),1,0,,310.0
+Paneer Starters,Paneer Lasuni Tikka ( 6Pcs),1,0,,310.0
+Paneer Starters,Paneer Tikka Dry ( 6Pcs ),1,0,Paneer tikka is popular Indian appetizer made with cubes of paneer & veggies ... read more,310.0
+"Curd,Raita & Salad",Boondi Raita,1,0,,146.0
+"Curd,Raita & Salad",Curd Fry,1,0,,164.0
+"Curd,Raita & Salad",Curd Plain,1,0,,95.0
+"Curd,Raita & Salad",Curd With Sugar,1,0,,108.0
+"Curd,Raita & Salad",Green Salad,1,0,,108.0
+"Curd,Raita & Salad",Kachumbar Salad,1,0,,114.0
+"Curd,Raita & Salad",Kachumber Raita,1,0,,152.0
+"Curd,Raita & Salad",Onion Salad,1,0,,95.0
+"Curd,Raita & Salad",Pineapple Raita,1,0,,164.0
+Subziyon Ki Bahar,Baby Corn Masala,1,0,,310.0
+Subziyon Ki Bahar,Baingan Bharta,1,0,A smokey roasted eggplant mash with Indian spices and herbs.,305.0
+Subziyon Ki Bahar,Baingan Masala,1,0,,295.0
+Subziyon Ki Bahar,Bhindi Masala,1,0,"Bhindi is traditional masala curry made with Indian spices, herbs and okra.",295.0
+Subziyon Ki Bahar,Bhindi Masala Jain,1,0,,295.0
+Subziyon Ki Bahar,Bhindi Pyaaz,1,0,,300.0
+Subziyon Ki Bahar,Bhindi Tomato,1,0,,295.0
+Subziyon Ki Bahar,Chana Masala,1,0,Black peas boiled and cooked with semi thick tomato and onion gravy with ... read more,295.0
+Subziyon Ki Bahar,Chana Masala Jain,1,0,,295.0
+Subziyon Ki Bahar,Chana Palak Fry,1,0,,305.0
+Subziyon Ki Bahar,Gobi Masala,1,0,,295.0
+Subziyon Ki Bahar,Gobi Methi Mutter,1,0,,295.0
+Subziyon Ki Bahar,Gobi Mutter,1,0,,295.0
+Subziyon Ki Bahar,Green Peas Masala,1,0,,295.0
+Subziyon Ki Bahar,Green Peas Masala Jain,1,0,,295.0
+Subziyon Ki Bahar,Karela Masala,1,0,,290.0
+Subziyon Ki Bahar,Karela Masala Jain,1,0,,290.0
+Subziyon Ki Bahar,Karela Pyaz,1,0,,295.0
+Subziyon Ki Bahar,Malai Kofta (spicy),1,0,,305.0
+Subziyon Ki Bahar,Malai Kofta (sweet),1,0,Jain Variant Available,315.0
+Subziyon Ki Bahar,Malai Kofta Jain (Red),1,0,,305.0
+Subziyon Ki Bahar,Malai Kofta Jain (Sweet),1,0,,315.0
+Subziyon Ki Bahar,Methi Malai Mutter (Spicy),1,0,,305.0
+Subziyon Ki Bahar,Methi Malai Mutter (Sweet),1,0,,315.0
+Subziyon Ki Bahar,Methi Malai Mutter Jain (Spicy),1,0,,305.0
+Subziyon Ki Bahar,Methi Malai Mutter Jain (Sweet),1,0,,315.0
+Subziyon Ki Bahar,Methi Palak Bhurji,1,0,,315.0
+Subziyon Ki Bahar,Mixed Veg,1,0,Mix veg curry is made by cooking a mixture of vegetables together in ... read more,300.0
+Subziyon Ki Bahar,Mixed Veg Jain,1,0,,300.0
+Subziyon Ki Bahar,Navratan Korma (Sweet),1,0,A rich and flavorful sweet vegetable curry with a variety of colorful vegetables.,320.0
+Subziyon Ki Bahar,Navratan Korma Jain,1,0,,320.0
+Subziyon Ki Bahar,Nilgiri Korma,1,0,,310.0
+Subziyon Ki Bahar,Palak Bhurji,1,0,,315.0
+Subziyon Ki Bahar,Palak Lasuni,1,0,,310.0
+Subziyon Ki Bahar,Palak Masala,1,0,,300.0
+Subziyon Ki Bahar,Palak Mutter Fry,1,0,,305.0
+Subziyon Ki Bahar,Sev Tomato,1,0,Jain Variant Available,275.0
+Subziyon Ki Bahar,Tawa Sabji,1,0,This signature Gujarati dish will tantalize your taste buds with its aromatic blend ... read more,300.0
+Subziyon Ki Bahar,Tomato Bhurji,1,0,,295.0
+Subziyon Ki Bahar,Tomato Mutter,1,0,,295.0
+Subziyon Ki Bahar,Tomato Mutter Jain,1,0,,295.0
+Subziyon Ki Bahar,Veg Diwani Handi,1,0,"Veg diwani handi, the gravy or base is made from cashew paste, onion-tomatoes ... read more",310.0
+Subziyon Ki Bahar,Veg Handi,1,0,Mix vegetables cooked in special grounded handi masala with delicious gravy.,311.0
+Subziyon Ki Bahar,Veg Handi Jain,1,0,,310.0
+Subziyon Ki Bahar,Veg Hunan Masala,1,0,,310.0
+Subziyon Ki Bahar,Veg Hunan Masala Jain,1,0,,310.0
+Subziyon Ki Bahar,Veg Hyderabadi,1,0,,310.0
+Subziyon Ki Bahar,Veg Jaipuri,1,0,"Veg jaipuri is a delicious mixed vegetable curry made with vegetable, paneer cubes ... read more",305.0
+Subziyon Ki Bahar,Veg Jalfrezi,1,0,A wholesome roll stuffed generously with spicy paneer chilli chunks served with sauce.,305.0
+Subziyon Ki Bahar,Veg Kadai,1,0,A flavorful preparation with paneer cooked in onion tomato gravy. It must have ... read more,310.0
+Subziyon Ki Bahar,Veg Kadai Jain,1,0,,310.0
+Subziyon Ki Bahar,Veg Kofta,1,0,"A mix of vegetables like carrots, cauliflower mix with creamy cravy serves in ... read more",310.0
+Subziyon Ki Bahar,Veg Kolhapuri,1,0,Veg kolhapuri is Indian curry consisting of mixed vegetables in thick spiced gravy.,300.0
+Subziyon Ki Bahar,Veg Korma,1,0,,300.0
+Subziyon Ki Bahar,Veg Korma Jain,1,0,,300.0
+Subziyon Ki Bahar,Veg Makhanwala,1,0,Mix garden veggies cooked in tomato based gravy with lots of butter.,310.0
+Subziyon Ki Bahar,Veg Makhanwala Jain,1,0,,310.0
+Subziyon Ki Bahar,Veg Nargis Kofta,1,0,,310.0
+Subziyon Ki Bahar,Veg Shabnam,1,0,,310.0
+Subziyon Ki Bahar,Veg Tawa,1,0,A popular mumbai street food of rice and vegetables cooked in butter and ... read more,310.0
+Subziyon Ki Bahar,Veg Tawa Jain,1,0,,310.0
+Paneer Ki Apni Pasand,Cheese Butter Masala,1,0,Chunks of cheese simmered in a delicious tomato gravy finished with loads of ... read more,345.0
+Paneer Ki Apni Pasand,Cheese Masala,1,0,"Rich and creamy curry made with cottage cheese cubes, paneer ,spices and onion-tomato ... read more",340.0
+Paneer Ki Apni Pasand,Cheese Masala Jain,1,0,,340.0
+Paneer Ki Apni Pasand,Cheese Paneer Masala,1,0,A rich and creamy Indian dish made with soft paneer and gooey cheese ... read more,340.0
+Paneer Ki Apni Pasand,Palak Paneer,1,0,An earthy spinach based gravy recipe that uses mild spices mixed together with ... read more,330.0
+Paneer Ki Apni Pasand,Paneer Achari,1,0,Paneer achari is a creamy as well as robust flavored cottage cheese curry ... read more,330.0
+Paneer Ki Apni Pasand,Paneer Amritsari,1,0,An amritsari styled wholesome combo of incredibly soft cottage cheese in sinfully creamy ... read more,330.0
+Paneer Ki Apni Pasand,Paneer Amritsari Jain,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Bhurji,1,0,"Hand crushed cottage cheese tempered with onions, tomatos and green chillies with spices.",340.0
+Paneer Ki Apni Pasand,Paneer Bhurji Jain,1,0,,345.0
+Paneer Ki Apni Pasand,Paneer Butter Masala,1,0,A wholesome food served along with a creamy paneer butter masala perfect to ... read more,335.0
+Paneer Ki Apni Pasand,Paneer Butter Masala Jain,1,0,"Chunks of cottage cheese cooked in dense butter rich gravy of onion, tomatoes ... read more",330.0
+Paneer Ki Apni Pasand,Paneer Chana Fry,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Chatpata,1,0,"A perfectly seasoned dish with paneer cooked with onions, tomatoes, green chillies and ... read more",330.0
+Paneer Ki Apni Pasand,Paneer Chilli Masala,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Dhaniya Adraki,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Handi,1,0,Cubes of cottage cheese cooked to a perfection in a flavourful handi gravy.,330.0
+Paneer Ki Apni Pasand,Paneer Handi Jain,1,0,,340.0
+Paneer Ki Apni Pasand,Paneer Hyderabadi,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Kadai,1,0,A spicy tomato based gravy recipe that uses a lot of spices mixed ... read more,335.0
+Paneer Ki Apni Pasand,Paneer Kadai Jain,1,0,,340.0
+Paneer Ki Apni Pasand,Paneer Kofta,1,0,"A savory vegetarian delight, these soft kofta balls are made with a rich ... read more",330.0
+Paneer Ki Apni Pasand,Paneer Kolhapuri,1,0,"It is a tarty-tangy paneer prepared with ground spices, coconut and some red ... read more",330.0
+Paneer Ki Apni Pasand,Paneer Korma,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Korma Jain,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Lasuni,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Makhanwala,1,0,"Paneer marinated in lemon juice, dahi, Kashmiri lal mirch, salt, garam masala and ... read more",330.0
+Paneer Ki Apni Pasand,Paneer Makhanwala Jain,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Malai Mutter,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Malai Mutter Jain,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Masala,1,0,"Paneer masala is a north Indian recipe made using paneer, tomatoes,onions and variety ... read more",330.0
+Paneer Ki Apni Pasand,Paneer Masala Jain,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Methi Bhurji,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Methi Chaman,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Mushroom,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Mutter,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Mutter Jain,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Pyaz,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Shahi,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Shahi Jain,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Shimla,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Shimla Jain,1,0,,330.0
+Paneer Ki Apni Pasand,Paneer Tikka Masala,1,0,A creamy dish with soft paneer chunks cooked in a rich tomato gravy ... read more,330.0
+Paneer Ki Apni Pasand,Paneer Tikka Masala Jain,1,0,,340.0
+Paneer Ki Apni Pasand,Tawa Paneer,1,0,Freshly cut paneer cooked in spices on tawa and eaten with chutney.,330.0
+Aloo Ki Apni Pasand,Aloo Baingun Masala,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Bhindi Masala,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Gobi Masala,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Jeera,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Karela Masala,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Masala,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Matar,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Methi,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Palak,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Punjabi,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Pyaz,1,0,,260.0
+Aloo Ki Apni Pasand,Aloo Shimla,1,0,,260.0
+Aloo Ki Apni Pasand,French Fries,1,0,Potato fingers deep fried until golden brown and crisp. Topped with salt and ... read more,170.0
+Veg. Dry And Fry,Aloo Bhindi Fry,1,0,,230.0
+Veg. Dry And Fry,Aloo Fry,1,0,"Crispy and golden brown fried potatoes with Indian spices, perfect for a vegetarian ... read more",230.0
+Veg. Dry And Fry,Aloo Gobi Fry,1,0,,230.0
+Veg. Dry And Fry,Baingun Fry,1,0,,230.0
+Veg. Dry And Fry,Bhindi Fry,1,0,,250.0
+Veg. Dry And Fry,Gobi Fry,1,0,,230.0
+Veg. Dry And Fry,Karela Fry,1,0,,230.0
+Veg. Dry And Fry,Mixed Fry,1,0,,230.0
+Kaju Ki Karamat,Kaju Curry,1,0,Cooked in thick kaju flavourd curry with a sweet taste.,355.0
+Kaju Ki Karamat,Kaju Curry Jain,1,0,,355.0
+Kaju Ki Karamat,Kaju Masala,1,0,Cooked in thick kaju flavours curry with a sweet taste.,350.0
+Kaju Ki Karamat,Kaju Masala Jain,1,0,,350.0
+Kaju Ki Karamat,Kaju Mushroom,1,0,,355.0
+Kaju Ki Karamat,Kaju Mutter,1,0,,340.0
+Kaju Ki Karamat,Kaju Mutter Jain,1,0,,355.0
+Kaju Ki Karamat,Kaju Paneer,1,0,Dices of paneer and cashew tossed in aromatic kadhai gravy made of onion- ... read more,350.0
+Kaju Ki Karamat,Kaju Paneer Jain,1,0,,355.0
+Kaju Ki Karamat,Kaju Paneer Mutter,1,0,,355.0
+Kaju Ki Karamat,Kaju Paneer Mutter Jain,1,0,,355.0
+Mazedar Mushroom,Mushroom Masala,1,0,"Mushroom prepared in creamy, mildly tangy gravy of tomato, onion and spices.",320.0
+Mazedar Mushroom,Mushroom Mutter,1,0,,320.0
+Mazedar Mushroom,Mushroom Palak,1,0,,310.0
+Mazedar Mushroom,Mushroom Paneer,1,0,,330.0
+Tawa Chapati & Tawa Paratha,Chapati Butter,1,0,Flaky Indian bread slathered with butter for a savory indulgence.,47.0
+Tawa Chapati & Tawa Paratha,Chapati Desi Ghee,1,0,,53.0
+Tawa Chapati & Tawa Paratha,Chapati Plain,1,0,"A soft, cooked flatbread perfect for soaking up rich sauces or savoring on ... read more",35.0
+Tawa Chapati & Tawa Paratha,Chapati Special,1,0,,40.0
+Tawa Chapati & Tawa Paratha,Tawa Masala Paratha Butter,1,0,,116.0
+Tawa Chapati & Tawa Paratha,Tawa Masala Paratha Desi Ghee,1,0,,129.0
+Tawa Chapati & Tawa Paratha,Tawa Masala Paratha Plain,1,0,,98.0
+Tawa Chapati & Tawa Paratha,Tawa Masala Paratha Special,1,0,,104.0
+Tawa Chapati & Tawa Paratha,Tawa Paratha Butter,1,0,,98.0
+Tawa Chapati & Tawa Paratha,Tawa Paratha Desi Ghee,1,0,,116.0
+Tawa Chapati & Tawa Paratha,Tawa Paratha Plain,1,0,,85.0
+Tawa Chapati & Tawa Paratha,Tawa Paratha Special,1,0,,91.0
+Stuffed Paratha & Kulcha,Aloo Paratha Butter,1,0,A deliciously soft aloo paratha with generous stuffing served with butter.,140.0
+Stuffed Paratha & Kulcha,Aloo Paratha Desi Ghee,1,0,,150.0
+Stuffed Paratha & Kulcha,Aloo Paratha Plain,1,0,,130.0
+Stuffed Paratha & Kulcha,Gobi Paratha Butter,1,0,,150.0
+Stuffed Paratha & Kulcha,Gobi Paratha Plain,1,0,,140.0
+Stuffed Paratha & Kulcha,Kulcha Masala Butter,1,0,,135.0
+Stuffed Paratha & Kulcha,Kulcha Masala Desi Ghee,1,0,,145.0
+Stuffed Paratha & Kulcha,Kulcha Masala Plain,1,0,,125.0
+Stuffed Paratha & Kulcha,Methi Paratha Butter,1,0,,150.0
+Stuffed Paratha & Kulcha,Methi Paratha Plain,1,0,,140.0
+Stuffed Paratha & Kulcha,Paneer Paratha Butter,1,0,,180.0
+Stuffed Paratha & Kulcha,Paneer Paratha Plain,1,0,,170.0
+Stuffed Paratha & Kulcha,Stuff Paratha Desi Ghee,1,0,,140.0
+Stuffed Paratha & Kulcha,Stuffed Kulcha Butter,1,0,,140.0
+Stuffed Paratha & Kulcha,Stuffed Kulcha Plain,1,0,,130.0
+Stuffed Paratha & Kulcha,Stuffed Paratha Butter,1,0,,150.0
+Stuffed Paratha & Kulcha,Stuffed Paratha Plain,1,0,,140.0
+Tandoori Roti & Naan,Bajra Roti Butter,1,0,,76.0
+Tandoori Roti & Naan,Bajra Roti Desi Ghee,1,0,,83.0
+Tandoori Roti & Naan,Bajra Roti Plain,1,0,,70.0
+Tandoori Roti & Naan,Butter Naan,1,0,North Indian bread with a generous serving of butter that tastes brilliant when ... read more,83.0
+Tandoori Roti & Naan,Cheese Butter Naan,1,0,,127.0
+Tandoori Roti & Naan,Cheese Garlic Butter Naan,1,0,"North Indian bread with a generous serving of butter,cheese and garlic that tastes ... read more",133.0
+Tandoori Roti & Naan,Garlic Kulcha Butter,1,0,,114.0
+Tandoori Roti & Naan,Garlic Kulcha Plain,1,0,,108.0
+Tandoori Roti & Naan,Garlic Naan Butter,1,0,,121.0
+Tandoori Roti & Naan,Garlic Naan Plain,1,0,,108.0
+Tandoori Roti & Naan,Jwari Roti Butter,1,0,,83.0
+Tandoori Roti & Naan,Jwari Roti Desi Ghee,1,0,,89.0
+Tandoori Roti & Naan,Jwari Roti Plain,1,0,,76.0
+Tandoori Roti & Naan,Kulcha Butter,1,0,,89.0
+Tandoori Roti & Naan,Kulcha Desi Ghee,1,0,,90.0
+Tandoori Roti & Naan,Kulcha Plain,1,0,,83.0
+Tandoori Roti & Naan,Laccha Paratha Butter,1,0,,89.0
+Tandoori Roti & Naan,Laccha Paratha Desi Ghee,1,0,,95.0
+Tandoori Roti & Naan,Laccha Paratha Plain,1,0,,83.0
+Tandoori Roti & Naan,Makai Roti Butter,1,0,,76.0
+Tandoori Roti & Naan,Makai Roti Desi Ghee,1,0,,83.0
+Tandoori Roti & Naan,Makai Roti Plain,1,0,,70.0
+Tandoori Roti & Naan,Missi Roti Butter,1,0,,89.0
+Tandoori Roti & Naan,Missi Roti Desi Ghee,1,0,,95.0
+Tandoori Roti & Naan,Missi Roti Plain,1,0,,83.0
+Tandoori Roti & Naan,Naan Desi Ghee,1,0,,90.0
+Tandoori Roti & Naan,Naan Plain,1,0,,70.0
+Tandoori Roti & Naan,Tandoori Roti Butter,1,0,A soft wheat flatbread prepared in a clay oven tandoor.,47.0
+Tandoori Roti & Naan,Tandoori Roti Desi Ghee,1,0,,53.0
+Tandoori Roti & Naan,Tandoori Roti Plain,1,0,"A variety of Indian flat bread, made from wheat flour in tandoor.",35.0
+Papad & Khicha Varieties,Fried Papad,1,0,,45.0
+Papad & Khicha Varieties,Khicha Butter,1,0,,95.0
+Papad & Khicha Varieties,Khicha Butter Masala,1,0,,140.0
+Papad & Khicha Varieties,Khicha Churri,1,0,,180.0
+Papad & Khicha Varieties,Khicha Masala,1,0,,130.0
+Papad & Khicha Varieties,Khicha Papad Mixed Churri,1,0,,190.0
+Papad & Khicha Varieties,Khicha Plain,1,0,,85.0
+Papad & Khicha Varieties,Masala Papad,1,0,"A crispy, flavorful vegetarian bite with a tantalizing mix of spices.",115.0
+Papad & Khicha Varieties,Masala Papad Fried,1,0,,120.0
+Papad & Khicha Varieties,Papad Churri,1,0,,185.0
+Papad & Khicha Varieties,Roasted Papad,1,0,Crispy and flavorful Indian appetizer with a smokey roasted taste.,40.0
+Dal Specialities,Dal Double Fry,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,245.0
+Dal Specialities,Dal Fry,1,0,A comforting and delicious preparation made with mixed dal cooked and tempered with ... read more,230.0
+Dal Specialities,Dal Fry Desi Ghee,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,260.0
+Dal Specialities,Dal Fry Desi Ghee Jain,1,0,,240.0
+Dal Specialities,Dal Fry Gudgudiya,1,0,,230.0
+Dal Specialities,Dal Fry Jain,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,230.0
+Dal Specialities,Dal Kolhapuri,1,0,Veg kolhapuri is a mixed vegetable curry with thick and spicy coconut based ... read more,230.0
+Dal Specialities,Dal Lasuni,1,0,,255.0
+Dal Specialities,Dal Plain,1,0,,155.0
+Dal Specialities,Plain Dal Jain,1,0,,155.0
+Rice,Curd Rice,1,0,"Simplicity at its best, home style freshly made curd and rice finished with ... read more",240.0
+Rice,Dal Khichdi Desi Ghee,1,0,"A delicious and comforting meal, made from rice and moong lentils.",265.0
+Rice,Dal Khichdi With Tadka,1,0,"A delicious and comforting meal, made from rice and moong lentils.",300.0
+Rice,Green Peas Pulao,1,0,,240.0
+Rice,Jeera Rice,1,0,Frangrant rice dish tempered with lots of aromatic cumin seeds.,180.0
+Rice,Kashmiri Pulao,1,0,An incredibly indulgent preparation made with aromatic rice and assorted veggies simmered in ... read more,240.0
+Rice,Masala Rice,1,0,,240.0
+Rice,Methi Pulao,1,0,,230.0
+Rice,Mushroom Biryani,1,0,"Royal biryani made with proper veg mushroom, veggies, lentils, rich spices to lure ... read more",310.0
+Rice,Onion Jeera Rice,1,0,,220.0
+Rice,Palak Khichdi Desi Ghee,1,0,,265.0
+Rice,Paneer Biryani,1,0,Soft paneer cubes and flavored rice slow cooked in a delicious mix of ... read more,310.0
+Rice,Paneer Pulao,1,0,"Simple ,aromatic and healthy meal of paneer stir fried with rice.",240.0
+Rice,Plain Rice,1,0,A simple but aromatic dish of plain steamed basmati rice.,160.0
+Rice,Tomato Rice,1,0,It’s simply rice cooked with lots of tomatoes and lots of spices.,240.0
+Rice,Veg Biryani,1,0,Aromatic and flavourful rice cooked with vegetables and exotic spices.,270.0
+Rice,Veg Hyderabadi Biryani,1,0,"Indian veggies and basmati rice cooked in layers with spices and herbs, a ... read more",295.0
+Rice,Veg Pulao,1,0,A dish containing ghee roasted veggies and flavourful rice with an undertone of ... read more,240.0
+Special Thali,Special Thali,1,0,"A delectable, all-vegetarian thali that guarantees a truly satisfying meal!",330.0
+Special Thali,Special Thali Jain,1,0,1 Paneer Sabji + 1 Veg Sabji + Chapati (3 Pcs) + 1 ... read more,345.0
+Buttermilk & Lassi,Buttermilk (Bottle),1,0,,165.0
+Buttermilk & Lassi,Buttermilk (Glass),1,0,,55.0
+Buttermilk & Lassi,Salted Lassi,1,0,,85.0
+Buttermilk & Lassi,Sweet Lassi,1,0,A creamy and rich lassi made from yogurt mixed with sugar to enhance ... read more,90.0
+Sweet,Gulab Jamun (2 Pcs),1,0,"Soft, spongy and delicious Indian dessert served with a generous helping of sugar ... read more",95.0
+Sweet,Gulab Jamun With Rabdi (2 Pcs),1,0,,240.0
+Sweet,Malai Rabdi,1,0,A thickened sweetened milk having layers of malai or cream in it.,185.0
+Sweet,Moong Dal Halwa,1,0,Moong dal halwa is an Indian dessert recipe which is very famous north-Indian ... read more,185.0

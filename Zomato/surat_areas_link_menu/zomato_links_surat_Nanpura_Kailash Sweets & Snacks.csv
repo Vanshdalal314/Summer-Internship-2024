@@ -1,0 +1,132 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Samosa and Kachori,Samosa [2 Pieces],1,0,,42.85
+Samosa and Kachori,Kachori [2 Pieces],1,0,,41.14
+Samosa and Kachori,Aloo Tikki [2 Pieces],1,0,,68.57
+Samosa and Kachori,Cutlet [2 Pieces],1,0,,68.57
+Samosa and Kachori,Chole Tikki,1,0,Jain preparation not available.,74.29
+Samosa and Kachori,Ragda Patties,1,0,Jain preparation not available.,68.57
+Samosa and Kachori,Ragda Kachori,1,0,Jain preparation not available.,68.57
+Samosa and Kachori,Ragda Samosa,1,0,Jain preparation not available.,68.57
+Samosa and Kachori,Potli Samosa [2 Pieces],1,0,[Max 5 Plate] Please confirm the availability of this item by calling the ... read more,68.57
+Snack Special Items,Chole Kulcha [2 Kulcha],1,0,Jain Preparation Not Available,107.0
+Snack Special Items,Chole Bhature [1 Bhature],1,0,,107.0
+Snack Special Items,Dahi Vada [2 Vada],1,0,,74.0
+Snack Special Items,Dahi Kachori,1,0,,74.0
+Bengali Sweets,Angoor Rabdi,1,0,,137.14
+Bengali Sweets,Rasmalai [2 Pieces],1,0,,114.29
+Bengali Sweets,Lachha Rabdi,1,0,,137.14
+Bengali Sweets,Rasgulla [5 Pieces],1,0,,95.23
+Bengali Sweets,Rasgulla [10 Pieces],1,0,,190.48
+Bengali Sweets,Rajbhog [2 Pieces],1,0,,68.57
+Holi Specials,Thandai,1,0,,95.23
+Zomato Exclusive Items,Baklava [12 Pieces],1,0,,517.0
+Zomato Exclusive Items,Baklava [24 Pieces],1,0,,977.0
+Zomato Exclusive Items,Fancy Sweet [1 Box],1,0,,356.0
+Zomato Exclusive Items,Walnut Basket,1,0,,575.0
+Zomato Exclusive Items,Jordan Dates,1,0,,862.0
+Zomato Exclusive Items,Apricot Balls,1,0,,356.0
+Packed Sweets,"Mix Delight Round [18 Pieces, 450 grams]",1,0,,628.57
+Packed Sweets,Motichoor Ladoo [500gm],1,0,,321.5
+Packed Sweets,Soan Papdi [250gm],1,0,,154.76
+Packed Sweets,Soan Papdi [500gm],1,0,,309.52
+Mava Sweets,Kalakand,1,0,,178.57
+Mava Sweets,Milk Cake,1,0,,178.57
+Mava Sweets,Plain Peda,1,0,,172.0
+Mava Sweets,Kesar Peda,1,0,,154.29
+Mava Sweets,Surti Peda,1,0,,172.0
+Mava Sweets,Bounty Peda,1,0,,171.43
+Mava Sweets,Amrut Peda,1,0,,171.43
+Mava Sweets,Kopraa Paak,1,0,,142.86
+Mava Sweets,Dudhi Halwa,1,0,,172.0
+Mava Sweets,Chocolate Burfi,1,0,,172.0
+Mava Sweets,Chocolate Roll,1,0,,142.86
+Mava Sweets,Strawberry Roll,1,0,,154.29
+Mava Sweets,Caramel Roll,1,0,,154.29
+Mava Sweets,Mawa Tosh,1,0,,171.43
+Mava Sweets,Anjeer Mawa Cassatta,1,0,,171.43
+Mava Sweets,Kheer Kadam,1,0,,171.43
+Mava Sweets,Akhrot Plaza,1,0,,200.0
+Mava Sweets,Anjeer Burfi,1,0,,171.43
+Mava Sweets,Kesar Tikki,1,0,,171.43
+Mava Sweets,Chocolate Coconut Cake,1,0,,157.14
+Mava Sweets,Strawberry Fruit Cake,1,0,,157.14
+Ghee Sweets,Gulab Jamun [5 Pieces],1,0,,85.71
+Ghee Sweets,Gulab Jamun [10 Pieces],1,0,,171.43
+Ghee Sweets,Special Dryfruit Jamun [2 Pieces],1,0,,41.14
+Ghee Sweets,Kala Jamun [2 Piece],1,0,,41.14
+Ghee Sweets,Akhrot Halwa,1,0,,240.0
+Ghee Sweets,Motichur Laddu,1,0,,161.0
+Ghee Sweets,Besan Laddu,1,0,,172.0
+Ghee Sweets,Pista Ghari,1,0,,237.25
+Ghee Sweets,Kesar Badam Ghari,1,0,,250.0
+Ghee Sweets,Paaye Laddu,1,0,,200.0
+Ghee Sweets,Soan Papdi,1,0,,309.52
+Ghee Sweets,Soan Halwa,1,0,,208.33
+Ghee Sweets,Karachi Halwa,1,0,,357.14
+Ghee Sweets,Malpuda [2 piece],1,0,,68.57
+Ghee Sweets,Balushahi,1,0,,166.66
+Ghee Sweets,Imarti,1,0,,166.66
+Ghee Sweets,Sweet Bundi,1,0,,114.29
+Ghee Sweets,Bundi Laddu,1,0,,161.0
+Mixed Sweet,Mixed Dryfruit Sweets Box,1,0,,285.71
+Mixed Sweet,Mixed Mawa Sweets Box,1,0,,171.43
+Frankies,Mayo Frankie,1,0,Jain Preparation Not Available,52.38
+Frankies,Schezwan Frankie,1,0,Jain Preparation Not Available,42.86
+Frankies,Schezwan Cheese Frankie,1,0,Jain Preparation Not Available,52.38
+Frankies,Mayo Schezwan Cheese Frankie,1,0,Jain Preparation Not Available,71.43
+Frankies,Veg Frankie,1,0,Jain preparation not available.,38.1
+Frankies,Veg Cheese Frankie,1,0,Jain preparation not available.,47.62
+Drinks (Beverages),Coco [200 ml],1,0,,45.71
+Drinks (Beverages),Kaju Coco [200 ml],1,0,,80.0
+Drinks (Beverages),Dryfruit Coco [200 ml],1,0,,80.0
+Drinks (Beverages),Lassi [200 ml],1,0,,48.0
+Drinks (Beverages),Rose Lassi [200 ml],1,0,,57.14
+Drinks (Beverages),Dryfruit Lassi [200 ml],1,0,,80.0
+Drinks (Beverages),Milk Masala [200 ml],1,0,,80.0
+New Sweets,Jordan Dates,1,0,,892.86
+New Sweets,Walnut Delight,1,0,,595.24
+New Sweets,Walnut Basket,1,0,,595.24
+New Sweets,Anjeer Tart,1,0,,476.19
+New Sweets,Badam Floral,1,0,,476.19
+New Sweets,Choco Delight,1,0,,476.19
+New Sweets,Anjeer Kali,1,0,,476.19
+New Sweets,Butterscotch Roll,1,0,,476.19
+New Sweets,Anjeer Supreme,1,0,,476.19
+New Sweets,Tacos Delight,1,0,,476.19
+New Sweets,Oreo Crunch,1,0,,357.14
+New Sweets,Roasted Badam Sweet,1,0,,357.14
+New Sweets,Mathura Peda,1,0,,178.57
+New Sweets,Orange Karachi Halwa,1,0,,208.33
+New Sweets,Gulab Barfi,1,0,,178.57
+New Sweets,Ice Halwa,1,0,,119.05
+Dry Fruit Sweets,Kaju Katli,1,0,,275.0
+Dry Fruit Sweets,Kesar Katli,1,0,,285.71
+Dry Fruit Sweets,Badam Katli,1,0,,300.0
+Dry Fruit Sweets,Strawberry Katli,1,0,,285.71
+Dry Fruit Sweets,Anjeer Roll,1,0,,339.25
+Dry Fruit Sweets,Pista Roll,1,0,,339.25
+Dry Fruit Sweets,Pista Cone,1,0,,339.25
+Dry Fruit Sweets,Anjeer Patra,1,0,,339.25
+Dry Fruit Sweets,Kamal Bhog,1,0,,339.25
+Dry Fruit Sweets,Dryfruit Cutlet,1,0,,339.25
+Dry Fruit Sweets,Royal Cassatta,1,0,,339.25
+Dry Fruit Sweets,Dryfruit Tacos,1,0,,369.0
+Dry Fruit Sweets,American Dryfruit,1,0,,428.57
+Dry Fruit Sweets,Dubai Burfi,1,0,,369.0
+Dry Fruit Sweets,Khajur Paak,1,0,,369.0
+Dry Fruit Sweets,Anjeer Paak,1,0,,369.0
+Dry Fruit Sweets,Apricot Laddu,1,0,,369.0
+Dry Fruit Sweets,Cranberry Laddu,1,0,,369.0
+Dry Fruit Sweets,Vanilla Chocochips Laddu,1,0,,369.0
+Dry Fruit Sweets,Rose Almond Laddu,1,0,,314.29
+Dry Fruit Sweets,Swiss Burfi,1,0,,369.0
+Dry Fruit Sweets,Australian Truffle,1,0,,369.0
+Dry Fruit Sweets,Shahi Badam,1,0,,339.25
+Dry Fruit Sweets,Anjeer Litchi,1,0,,327.38
+Dry Fruit Sweets,Khajur Brown Laddu,1,0,,369.0
+Dry Fruit Sweets,Mango Delight,1,0,,369.0
+Dry Fruit Sweets,Strawberry Sandwich,1,0,,339.25
+Dry Fruit Sweets,Pineapple Vati,1,0,,339.25
+Dry Fruit Sweets,Kaju Gulkand Katori,1,0,,339.25
+Dry Fruit Sweets,Dark Chocolate Almond,1,0,,369.0
+Dry Fruit Sweets,White Chocolate Almond,1,0,,369.0

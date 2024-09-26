@@ -1,0 +1,22 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Akhani,0,0,two small size bowl Quantity for One Or Two Persons.,77.0
+Starters,Green Chicken,0,0,Green chicken is a delicious Indian dish made by simmering chicken in green ... read more,151.0
+Starters,Chicken Kaleji,0,0,Kaleji masala or chicken liver masala is a semi-dry preparation and is a ... read more,151.0
+Starters,Cheese Chicken,0,0,,184.0
+Starters,Mutton Fry,0,0,Mutton fry is a crispy and spicy fusion of perfectly cooked meat with ... read more,173.0
+Starters,Mutton Mamna Fry,0,0,Mutton mamna fry is a crispy and spicy fusion of perfectly cooked meat ... read more,173.0
+Starters,Roasted Chicken [4 Pieces],0,0,,170.0
+Starters,"Prawns Fry [12 Pieces, Serves 1]",0,0,Marinated with chutney.,172.0
+Main Course,Chicken Masala,0,0,"Chicken masala is a simple Indian dish made with chicken, spices, herbs, onions ... read more",151.0
+Main Course,Chicken Kaleji,0,0,Kaleji masala or chicken liver masala is a semi-dry preparation and is a ... read more,151.0
+Main Course,Mutton Masala,0,0,"Delicious, soft tender chunks of lamb meat in Indian style spiced onion tomato ... read more",173.0
+Main Course,Mutton Bheja Gravy,0,0,,253.0
+Main Course,Butter Chicken,0,0,Bonless chicken pieces with pujabi style gravy having mixed butter,249.0
+Main Course,Mutton Keema Gravy [Serves 1],0,0,Crushed gravy mutton.,173.0
+Rice,Plain Rice,1,0,Quantity for one person,75.0
+Rice,Jeera Rice,1,0,Quantity for one person,95.5
+Rice,Chicken Rice,0,0,Quantity for one person,237.0
+Rice,Mutton Keema Rice,0,0,Quantity for one person,247.0
+Breads And Roti,Long Bread (1 pieces),1,0,,6.0
+Breads And Roti,Roti,1,0,Ghau roti (chapati),14.0
+Drinks (Beverages),Water(200ml),1,0,,13.0

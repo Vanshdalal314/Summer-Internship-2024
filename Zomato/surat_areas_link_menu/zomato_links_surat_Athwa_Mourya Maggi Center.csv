@@ -1,0 +1,51 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Maggi,Cocktail Maggi,1,0,,110.0
+Maggi,Cocktail Vegetable Maggi,1,0,,130.0
+Maggi,Garlic Maggi,1,0,,90.0
+Maggi,Garlic Chees Maggi,1,0,,110.0
+Maggi,Vegetable Panner Maggi,1,0,,130.0
+Maggi,Cheese Special Maggi,1,0,,100.0
+Maggi,Special Maggi,1,0,,80.0
+Maggi,Peri Peri Maggi,1,0,,70.0
+Maggi,Peri Peri Cheese Maggi,1,0,,90.0
+Maggi,Masala Maggi,1,0,,70.0
+Maggi,Butter Cheese Maggi,1,0,,100.0
+Maggi,Jain Maggi,1,0,,70.0
+Maggi,Jain Cheese Maggi,1,0,,90.0
+Maggi,Jain Vegetable Maggi,1,0,,90.0
+Maggi,Jain Vegetable Cheese Maggi,1,0,,110.0
+Maggi,Double Cheese Maggi,1,0,,110.0
+Maggi,Cheese Maggi,1,0,,90.0
+Maggi,Atta Maggi,1,0,,90.0
+Maggi,Cheese Atta Maggi,1,0,,110.0
+Maggi,Tandoori Maggi,1,0,,80.0
+Maggi,Tandoori Cheese Maggi,1,0,,110.0
+Maggi,Butter Maggi,1,0,,80.0
+Maggi,Schezwan Maggi,1,0,,80.0
+Maggi,Schezwan Cheese Maggi,1,0,,100.0
+Maggi,Mayonnaise Maggi,1,0,,80.0
+Maggi,Mayonnaise Cheese Maggi,1,0,,100.0
+Maggi,Schezwan Mayonnaise Cheese Maggi,1,0,,110.0
+Maggi,Double Masala Schezwan Cheese Maggi,1,0,,110.0
+Maggi,Double Masala Double Cheese Maggi,1,0,,120.0
+Maggi,Vegetable Maggi,1,0,,100.0
+Maggi,Vegetable Double Masala Cheese,1,0,,120.0
+Maggi,Double Masala Cheese Maggi,1,0,,100.0
+Maggi,Vegetable Cheese Maggi,1,0,,110.0
+Maggi,Double Masala Maggi,1,0,,80.0
+Maggi,Korean Maggi,1,0,,140.0
+Maggi,Korean Cheese Maggi,1,0,,160.0
+Pasta,Cheese Macaroni,1,0,,120.0
+Pasta,Masala Penne,1,0,,120.0
+Pasta,Tomato Cheesy,1,0,,120.0
+Snacks,Sadi Aloo Puri,1,0,,50.0
+Snacks,Cheese Aloo Puri,1,0,,70.0
+Snacks,Mayonnaise Aloo Puri,1,0,,60.0
+Snacks,Mayonnaise Cheese Aloo Puri,1,0,,80.0
+Snacks,Schezwan Aloo Puri,1,0,,60.0
+Snacks,Schezwan Cheese Aloo Puri,1,0,,80.0
+Snacks,Mayonnaise Schezwan Cheese Aloo Puri,1,0,,80.0
+Snacks,Double Cheese Aloo Puri,1,0,,90.0
+Snacks,Wafer Aloo Puri,1,0,,60.0
+Snacks,Wafer Cheese Aloo Puri,1,0,,60.0
+Snacks,Cocktail Aloo Puri,1,0,,110.0

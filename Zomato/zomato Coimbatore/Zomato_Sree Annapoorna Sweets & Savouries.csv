@@ -1,0 +1,122 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bakery,Bun Coconut (Small),1,0,Category Item,38.11
+Bakery,Cookies Cashewnut Pack (200 Grms),1,0,Cookies Cashewnut 200 Grms Pack,94.65
+Bakery,Bun Cream,1,0,Category Item,19.06
+Bakery,Puff Curry Paneer,1,0,Curry Paneer Puff,35.72
+Bakery,Cookies Horlicks Pack (200 Grms),1,0,Cookies Horlicks 200 Grms Pack,71.44
+Bakery,Puff Mushroom Masala,1,0,Mushroom Masal Puff,35.72
+Bakery,Puff Vegetable,1,0,Category Item,19.65
+Bakery,Puff Babycorn Masala,1,0,Babycorn Masala Puff,35.72
+Bakery,Bun Special,1,0,Category Item,14.3
+Bakery,Donut Caramel,1,0,Category Item,38.15
+Bakery,Bread Wheat,1,0,Category Item,52.39
+Bakery,Donut White Chocolate,1,0,Donut White Chocolat,38.15
+Bakery,Bread Milk,1,0,Category Item,42.87
+Bakery,Cookies Blueberry Pack (200 Grms),1,0,Cookies Blueberry 200 Grms Pack,93.76
+Bakery,Cookies Oat Meal & Rainsins Pack (200 Grms),1,0,Cookies Oat Meal & Rainsins 200 Grms Pack,93.76
+Bakery,Cookies Salt Pack (200 Grms),1,0,Cookies Salt 200 Grms Pack,71.44
+Bakery,Cashewnut Cake Spong Pcs,1,0,Category Item,27.13
+Bakery,Pastry Butter Scotch Swiss Roll,1,0,Pastry Butter Scotch,59.33
+Bakery,Pastry Eggless Balck Forest,1,0,Pastry Eggless Balck,59.33
+Bakery,Pastry Eggless Chocolate Truffle,1,0,Pastry Eggless Choco,67.8
+Bakery,Cake Honey Carrot,1,0,Category Item,127.13
+Bakery,Cake Dates Banana,1,0,Category Item,122.89
+Bakery,Pastry Black Forest,1,0,Category Item,50.85
+Bakery,Pastry Redvelvet,1,0,Pastry Redvelvet,67.8
+Bakery,Pastry Blueberry,1,0,Category Item,59.33
+Bakery,Pastry Pineapple,1,0,Category Item,50.85
+Bakery,Pastry Chocolate Truffle,1,0,Pastry Chocolate Tru,59.33
+Bakery,Pastry White Forest,1,0,White Forest Pastry,50.85
+Bakery,Bread Multigrain,1,0,Bread Multigrain,57.15
+Bakery,Biscotti Almond Chocochip(200 Grams),1,0,Category Item,102.68
+Bakery,Biscotti Pistachio (200 Grams),1,0,Category Item,102.68
+Bakery,Biscuits Coconut (200 Grams),1,0,Category Item,102.68
+Bakery,Browine Walnut Pcs,1,0,Category Item,55.0
+Bakery,Brownie Eggless Chocolate Pcs,1,0,,55.0
+Bakery,Donut Chocolate,1,0,Category Item,38.15
+Bakery,Donut Filled Redvelvet Cheese Cream,1,0,Category Item,46.62
+Bakery,Donut Pineapple,1,0,Category Item,46.62
+Bakery,Donut Pista,1,0,Category Item,55.09
+Bakery,Donut Strawberry,1,0,Category Item,46.62
+Bakery,Swissroll Blueberry Truffle,1,0,Category Item,59.33
+Bakery,Swissroll Redvelvet Berries,1,0,Category Item,67.8
+Savouries,Masalakadalai Pack,1,0,Category Item,111.7
+Savouries,Murukku Butter,1,0,Category Item,513.4
+Savouries,Ompodi Pack,1,0,Category Item,71.43
+Savouries,Kara Boonthi 250 Grms,1,0,Category Item,120.54
+Savouries,Mixture Dhilkush 250 Grms,1,0,Category Item,120.54
+Savouries,Karasevu 250 Grms,1,0,Category Item,120.54
+Savouries,Mixture Bombay 250 Grms,1,0,Category Item,120.54
+Savouries,Mixture Cornflakes 250 Grms,1,0,Category Item,120.54
+Savouries,Mixture Pothina 250 Grms,1,0,Category Item,120.54
+Savouries,Murukku Ribbon 250 Grms,1,0,Category Item,128.35
+Savouries,Mixture Dhall 250 Grms,1,0,Category Item,120.54
+Savouries,Mixture Special 250 Grms,1,0,Category Item,120.54
+Savouries,Pakoda Cashewnut 250 Grms,1,0,Category Item,200.9
+Savouries,Cashewnut Fried 250 Grms,1,0,Category Item,428.58
+Savouries,Finger Chips 250 Grms,1,0,Finger Chips,120.53
+Savouries,Banana Chips,1,0,Category Item,107.15
+Savouries,Chips Masala Bittergourd 200grms,1,0,Category Item,116.08
+Savouries,Fried Cahewnut Box,1,0,Category Item,218.75
+Savouries,Mixture Rainbow,1,0,Category Item,482.15
+Sweet,Gulab Jamoon Pcs,1,0,Category Item,38.1
+Sweet,Sounpapdi 250grm,1,0,Category Item,194.05
+Sweet,Badusha Mini 250 Grms,1,0,Category Item,194.05
+Sweet,Barfi Pure Chocolate 250 Grms,1,0,Category Item,194.05
+Sweet,Fruit Roll 250 Grms,1,0,Fruit Roll,194.05
+Sweet,Halwa Dry Fruit 250 Grms,1,0,Category Item,194.05
+Sweet,Halwa Fig 250 Grms,1,0,Category Item,257.15
+Sweet,Halwa Wheat 250 Grms,1,0,Category Item,194.05
+Sweet,Jilebi Mini 250 Grms,1,0,Category Item,194.05
+Sweet,Kalajamoon 250 Grms,1,0,Category Item,194.05
+Sweet,Mysoorpa Tamilnadu 250 Grms,1,0,Category Item,194.05
+Sweet,Anjeer Cake 250 Grms,1,0,Category Item,342.86
+Sweet,Badusha 250 Grms,1,0,Category Item,194.05
+Sweet,Jilebi 250 Grms,1,0,Category Item,194.05
+Sweet,Laddu Arabian 250 Grm,1,0,Category Item,194.05
+Sweet,Rasagulla Dry Mini 250 Grms,1,0,Category Item,194.05
+Sweet,White Apple 250 Grms,1,0,Category Item,194.05
+Sweet,Chocolate Cake 250 Grms,1,0,Category Item,342.86
+Sweet,Chocolate Roll 250 Grms,1,0,Category Item,342.86
+Sweet,Halwa Milk 250 Grms,1,0,Category Item,194.05
+Sweet,Laddu Special Amutham 250 Grms,1,0,Category Item,194.05
+Sweet,Peda Chocolate 250 Grms,1,0,Category Item,194.05
+Sweet,Chandrakala 250 Grms,1,0,Category Item,194.05
+Sweet,Halwa Sponge 250 Grms,1,0,Category Item,194.05
+Sweet,Kaju Roll 250 Grms,1,0,Category Item,342.86
+Sweet,Mysoorpa Horlicks 250 Grms,1,0,Category Item,194.05
+Sweet,Rajkamal 250 Grms,1,0,Category Item,342.86
+Sweet,Kalakanth 250 Grms,1,0,Category Item,194.05
+Sweet,Kesar Malai 250 Grms,1,0,Category Item,194.05
+Sweet,Peda Kasturi 250 Grms,1,0,Category Item,194.05
+Sweet,Rasagulla Dry 250 Grms,1,0,Category Item,194.05
+Sweet,Barfi Kaju 250 Grms,1,0,Barfi Kaju,314.29
+Sweet,Lemon Apple 250 Grms,1,0,Category Item,194.05
+Sweet,Makken Peda 250 Grms,1,0,Category Item,194.05
+Sweet,Mysoorpa Carrot 250 Grms,1,0,Category Item,194.05
+Sweet,Rajphog 250 Grms,1,0,Category Item,194.05
+Sweet,Sooriyakala 250 Grms,1,0,Category Item,194.05
+Sweet,Barfi Pure Mango 250 Grms,1,0,Category Item,194.05
+Sweet,Sandwich 250 Grms,1,0,Category Item,194.05
+Sweet,Halwa Carrot 250 Grms,1,0,Category Item,194.05
+Sweet,Mini Jamoon 250 Grms,1,0,Category Item,194.05
+Sweet,Special Milk Cake 250 Grms,1,0,Category Item,194.05
+Sweet,Anarpista 250 Grms,1,0,Category Item,194.05
+Sweet,Barfi Malai Pineapple 250 Grms,1,0,Category Item,194.05
+Sweet,Barfi Malai White 250 Grms,1,0,Category Item,194.05
+Sweet,Halwa Badam 250 Grms,1,0,Category Item,285.72
+Sweet,Anjeer Roll 250 Grms,1,0,Category Item,342.86
+Sweet,Cham Cham 250 Grms,1,0,Category Item,194.05
+Sweet,Red Apple 250 Grms,1,0,Category Item,194.05
+Sweet,Cream Chops 250 Grms,1,0,Category Item,194.05
+Sweet,Katli Kaju 250 Grms,1,0,Category Item,314.29
+Sweet,Mysoorpa Real 250 Grms,1,0,Category Item,194.05
+Sweet,Modipag 250 Grms,1,0,Modipag,194.05
+Sweet,Barfi Coconut Karuppatti 250 Grms,1,0,,194.05
+Desserts,Rasamalai Special,1,0,Category Item,57.15
+Newly Lauched Sweets,Almond Chocolate Laddu 250 Grms,1,0,Laddu Almond Chocolate,314.29
+Newly Lauched Sweets,Laddu Badam Rose 250 Grms,1,0,Laddu Badam Rose,314.29
+Newly Lauched Sweets,Laddu Pure Cashewnut 250 Grms,1,0,Laddu Pure Cashewnut,314.29
+Newly Lauched Sweets,Laddu Pure Pista 250 Grms,1,0,Laddu Pure Pista,485.72
+Newly Lauched Sweets,Mysoorpa Kaju 250 Grms,1,0,Mysoorpa Kaju,285.72
+Newly Lauched Sweets,Mysoorpa Redvelvet 250 Grms,1,0,Mysoorpa Redvelvet,211.91

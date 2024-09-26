@@ -1,0 +1,159 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups And Salads,Cream Of Broccoli,1,0,With smoked cashewnuts,242.0
+Soups And Salads,Cream Of Mushroom,1,0,With garlic croutons,242.0
+Soups And Salads,Cream Of Pumpkin,1,0,Spiced pureed pumpkin soup with cream and pickled apple,242.0
+Soups And Salads,Cream Of Sweetcorn,1,0,"With chicken, green chili, lime and coriander",265.0
+Soups And Salads,Manchou Chicken Soup,1,0,,250.0
+Soups And Salads,Prawn Melon Soup,1,0,Fried prawns and chunks of watermelon in a cream soup,322.0
+Soups And Salads,Chilly Chicken Salad,1,0,"Chilly chicken on a bed of greens, crispy noodles and fried egg",368.0
+Soups And Salads,Fruit And Vegetable Salad,1,0,"Mixed green salad with melon and apple dressing of honey, mint, lime, yoghurt",322.0
+Soups And Salads,Warm Chicken Salad,1,0,Grilled chicken strips with cajun spice served warm on a bed of chinese ... read more,368.0
+Make Your Own Cone,Cinnamon Sugar Cone,1,0,,120.0
+Make Your Own Cone,Coconut Flakes Cone,1,0,,130.0
+Make Your Own Cone,Oreo Cone,1,0,,130.0
+Make Your Own Cone,Red Velvet Cone,1,0,,120.0
+Make Your Own Cone,Sugar Cone,1,0,,95.0
+Starters,Andhra Chilli Chicken,1,0,,345.0
+Starters,BBQ Chicken Wings,1,0,Chicken Wings in BBQ Sauce With Star Anise,288.0
+Starters,Chicken Chilly Momos,1,0,,220.0
+Starters,Chicken In Sticks,1,0,"Diced chicken and spring onion with soya and sesame grilled in sticks, served ... read more",483.0
+Starters,Chicken Momos,1,0,,220.0
+Starters,Chicken Wings In Spiced Curry Leaf Masala,1,0,Chicken Wings in Spiced Curry Leaf Masala,265.0
+Starters,Curry Leaves Chicken,1,0,,345.0
+Starters,Curry Leaves Prawns,1,0,,506.0
+Starters,Dragon Chicken,1,0,Chicken fried till crispy and tossed in spicy sauce with dry red chillies ... read more,345.0
+Starters,Fish Fingers,1,0,Crumb fried fish fingers with tartare sauce,506.0
+Starters,French Fries,1,0,Served with chicken in Indian spices and cheese,265.0
+Starters,Fried Chicken,1,0,"Spicy Batter fried chicken with sriracha,sweet chilly mayo",414.0
+Starters,Fried Chicken Momos,1,0,,220.0
+Starters,Prawn Tempura,1,0,"Tempura batter fried prawns served with a soya,ginger wine, green chilli dip",495.0
+Starters,Stir Fried Prawns,1,0,"Prawns stir-fried with olive oil, garlic and lemonjuice, chilli flakes and olives",506.0
+Starters,Burnt Garlic & Cheese French Fries,1,0,,230.0
+Starters,Cajun Spice French Fries With Sour Cream & Salsa,1,0,,230.0
+Starters,Corn Cheese Balls,1,0,,345.0
+Starters,Crispy Honey Chilly Potato,1,0,Crispy fried potato tossed with our chef made chilli oil and honey,340.0
+Starters,Fried Veg Momos,1,0,,200.0
+Starters,Hot Chilli Paneer,1,0,,368.0
+Starters,Hummus & Pita,1,0,"Puree of chickpea with sesame paste, garlic, lime, olive oil and paprika served ... read more",345.0
+Starters,Stuffed Crumb Fried Mushrooms,1,0,"Mushroom caps stuffed with mushroom and spinach, crumb fried and served with an ... read more",345.0
+Starters,Veg Chilly Momos,1,0,,200.0
+Starters,Veg Momos,1,0,,180.0
+Starters,Bharwan Aloo,1,0,,368.0
+Starters,Malai Brocolli And Cauliflower,1,0,,368.0
+Starters,Mushroom Tikka,1,0,,340.0
+Starters,Paneer Tikka,1,0,,368.0
+Starters,Chicken Malai Tikka,1,0,,368.0
+Starters,Chicken Tikka,1,0,,368.0
+Starters,Fish Tikka,1,0,,483.0
+Starters,Tandoor Jhinga,1,0,,483.0
+Starters,Tandoori Chicken,1,0,,290.0
+Savoury Chimneys,BBQ Chicken,1,0,,240.0
+Savoury Chimneys,Butter Chicken,1,0,,240.0
+Savoury Chimneys,Cajun Potato,1,0,,220.0
+Savoury Chimneys,Carne Mexicana,1,0,,230.0
+Savoury Chimneys,English Slaw,1,0,,210.0
+Savoury Chimneys,Hot Cottage,1,0,,220.0
+Savoury Chimneys,Makhanwala Panner,1,0,,220.0
+Savoury Chimneys,Mama'S Mayo Chicken,1,0,,230.0
+Savoury Chimneys,Ole Mexicana,1,0,,200.0
+Savoury Chimneys,Spicy Italian,1,0,,240.0
+Savoury Chimney Cakes,Cheddar & Jalapend Cake,1,0,,110.0
+Savoury Chimney Cakes,Exotic Masala Cake,1,0,,120.0
+Savoury Chimney Cakes,Garden Fresh Cake,1,0,,100.0
+Savoury Chimney Cakes,Garlic & Cheese Cake,1,0,,100.0
+Savoury Chimney Cakes,Peri Peri Paneer Cake,1,0,,130.0
+Main Course,Baked Fricasse Of Vegetables,1,0,"Baked mixed vegetables with celery, leeks, chilly flakes, garlic and oregano",420.0
+Main Course,Baked Seafood,1,0,"Stir fried fish and prawns with celery ,leeks peppers, chilli flakes, oregano , ... read more",500.0
+Main Course,Blackened Cottage Cheese Steak,1,0,Grilled spiced cottage cheese steak stuffed withspinach and cheese served on a bed ... read more,450.0
+Main Course,Chicken Enchailadas,1,0,"Corn tortillas stuffed with chicken, refried beans, peppers, onion, cheese and ancho chilly ... read more",470.0
+Main Course,Chicken Imperiale,1,0,"Spiced strips of chicken with fresh coriander, soy, honey & chilli, grilled and ... read more",460.0
+Main Course,"Chicken Quesadillas With Sour Cream, Salsa & Rice",1,0,"Flour tortillas folded with chicken refried beans, pepper, onions, cheese and ancho chilly ... read more",483.0
+Main Course,Fish N Chips,1,0,"Grain mustard crumbed fish fillet fried and served with sauted vegetables fries , ... read more",480.0
+Main Course,Grilled Chicken Breast Steak,1,0,"Chicken breast grilled with spices, and served",480.0
+Main Course,Lemon Chicken,1,0,"Diced grilled chickenwith lemon,fresh chiilly,lemon grass,basil,lime,coriander and coconut cream",460.0
+Main Course,Thai Chicken Curry,1,0,,449.0
+Main Course,Thai Veg Curry..,1,0,,449.0
+Main Course,Veg Enchailadas,1,0,"Corn tortillas stuffed with vegetables, refried beans, peppers, onion, cheese and ancho chilly ... read more",420.0
+Main Course,"Veg Quesadillas With Sour Cream, Salsa & Rice",1,0,"Flour tortillas folded with vegetables refried beans, pepper, onions,cheese and ancho chilly sauce, ... read more",449.0
+Main Course,Dal Makhani,1,0,,300.0
+Main Course,Kadai Paneer,1,0,,403.0
+Main Course,Malai Kofta Curry,1,0,,340.0
+Main Course,Paneer Makhanwala,1,0,,380.0
+Main Course,Tadke Wali Dal,1,0,,288.0
+Main Course,Veg Kofta Curry,1,0,,368.0
+Main Course,Homemade Chicken Curry,1,0,,400.0
+Main Course,Kadai Chicken,1,0,,420.0
+Main Course,Kadai Prawn Curry,1,0,,520.0
+Main Course,Murgh Makhanwala,1,0,,414.0
+Main Course,Prawns Makhanwala,1,0,,500.0
+Breads,Aloo Paratha,1,0,,115.0
+Breads,Butter Naan,1,0,,69.0
+Breads,Butter Roti,1,0,,58.0
+Breads,Chicken Paratha,1,0,,161.0
+Breads,Chur Chur Naan,1,0,,69.0
+Breads,Laacha Paratha,1,0,,69.0
+Breads,Naan,1,0,,58.0
+Breads,Paneer Paratha,1,0,,138.0
+Breads,Roti,1,0,,46.0
+Rice,Black Pepper Chilly Noodles,1,0,,220.0
+Rice,Burnt Garlic Rice Egg,1,0,,230.0
+Rice,Burnt Garlic Rice,1,0,,212.0
+Rice,Burnt Garlic Rice Chicken,1,0,,250.0
+Rice,Burnt Garlic Rice Prawns,1,0,,235.0
+Rice,Chicken Biryani,1,0,,403.0
+Rice,Chicken Schezwan Noodles,1,0,,265.0
+Rice,Chilli Garlic Noodles Prawns,1,0,,280.0
+Rice,Egg Schezwan Noodles,1,0,,250.0
+Rice,Mutton Biryani,1,0,,449.0
+Rice,Schezwan Chicken Fried Rice,1,0,,250.0
+Rice,Schezwan Egg Fried Rice,1,0,,160.0
+Rice,Schezwan Fried Rice,1,0,,220.0
+Rice,Schezwan Prawn Fried Rice,1,0,,200.0
+Rice,Schezwan Prawns Noodles,1,0,,260.0
+Rice,Schezwan Veg Noodles,1,0,,230.0
+Rice,Steamed Rice,1,0,,161.0
+Rice,Veg Biryani,1,0,,380.0
+Pizza And Pasta,BBQ Chicken Pizza,1,0,"BBQ Chicken, mushroom, onion & cheese",490.0
+Pizza And Pasta,Chicken Tikka & Sausage Pizza,1,0,"Spicy chicken sausage, chicken tikka, onion , peppers, & Cheese",490.0
+Pizza And Pasta,Grilled Veg Pizza,1,0,"Grilled vegetables, olives, basil & cheese",470.0
+Pizza And Pasta,Paneer Tikka Corn Pizza,1,0,,470.0
+Pizza And Pasta,Roasted Garlic Spinach Mushroom Pizza,1,0,"Roasted garlic, spinach, mushroom , pesto and parmesan",470.0
+Pizza And Pasta,Sriracha Chicken Pizza,1,0,"Sriracha chicken, peppers, onion & cheese",490.0
+Pizza And Pasta,Chicken Lasagne,1,0,"Layered baked pasta with minced chicken, tomato and oregano",437.0
+Pizza And Pasta,Vegetable Lasagne,1,0,"Layered baked pasta with spinach, cottage cheese and mushroom",414.0
+Pizza And Pasta,Chicken Pasta,1,0,"Chicken, red chilli flakes, cream, tomato, cheese, coriander",420.0
+Pizza And Pasta,Chicken Strips Pasta,1,0,"Spiced chicken strips, chicken 65, onion, pepper, cream cheese",420.0
+Pizza And Pasta,Paneer Corn Pasta,1,0,"Paneer, corn, chilli flakes, cream , tomato & cheese",400.0
+Pizza And Pasta,Spinach Mushroom Pasta,1,0,"Spinach, mushroom, crushed pepper, cream & cheese",400.0
+Burgers And Sandwiches,Chicken Burger,1,0,"Minced chicken pattywith jalapenos and pepper, grilled , served with greens, cheese,mashed potato ... read more",368.0
+Burgers And Sandwiches,Fried Veg Burger,1,0,"Crumb fried mix vgetable burger, topped with onion bajji",345.0
+Burgers And Sandwiches,Paneer Corn Burger,1,0,"Fried paneer, corn pattywith greens,cheese and cocktail sauce",345.0
+Burgers And Sandwiches,Spiced Chicken Strips Burger,1,0,"Julienne of chicken with spices, grilled, served with greens, salsa, sour cream,gherkins and ... read more",368.0
+Burgers And Sandwiches,Chicken 65 Sandwich,1,0,"Chicken 65 in plain bread, deep fried with batter and sprinkled with chaat",368.0
+Burgers And Sandwiches,Chicken Salad Sandwich,1,0,"Grilled chicken juliennes, greens, peppers, mayonnaise and pineapple.",368.0
+Burgers And Sandwiches,Egg & Cheese Sandwich,1,0,,310.0
+Burgers And Sandwiches,Grilled Vegetable Sandwich,1,0,"Grilled peppers, zucchini, onion, with crushed pepper, herbs and cheese",299.0
+Burgers And Sandwiches,Paneer Corn Sandwich,1,0,,299.0
+Wraps,Country Chicken Curry,1,0,"Country style Chicken curry with onion, tomato and chilli with egg",345.0
+Wraps,Paneer Wrap,1,0,"Paneer, greens, onions, spiced gravy coriander and mint yoghurt.",299.0
+Desserts,Tender Coconut Mousse,1,0,Eggless tender coconut mousse with palm sugar,403.0
+Desserts,Tres Leches,1,0,Eggless vanilla sponge soaked in three types of milk topped with cream and ... read more,334.0
+Shakes,Apple Cinnamon Shake,1,0,,180.0
+Shakes,Brownie Decadence Shake,1,0,,180.0
+Shakes,Cocoa Peanut Shake,1,0,,180.0
+Shakes,Cold Coffee Shake,1,0,,180.0
+Shakes,Mango Shake,1,0,,180.0
+Shakes,Nutella Shake,1,0,,180.0
+Shakes,Oreo Shake,1,0,,180.0
+Shakes,Red Velvet Shake,1,0,,180.0
+Shakes,Strawberry Shake,1,0,,180.0
+Drinks (Beverages),"Coconut Water, Lychee Juice And Cucumber",1,0,,184.0
+Drinks (Beverages),Fresh Lime Soda,1,0,,81.0
+Drinks (Beverages),Fresh Lime Water,1,0,,81.0
+Drinks (Beverages),Homemade Lemonade,1,0,Lime stewed with cinnamon and clove served with soda and honey,184.0
+Drinks (Beverages),Hot Chocolate [Serves 1],1,0,,219.0
+Drinks (Beverages),Iced Mint Tea [Serves 1],1,0,With mint apple and lemon grass,196.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,150.0
+Drinks (Beverages),Mint Mojito,1,0,,150.0
+Drinks (Beverages),Peach Iced Tea,1,0,,150.0
+Drinks (Beverages),Strawberry Crush,1,0,"Green chili, fresh coriander, tabasco, yoghurt and cream",184.0

@@ -1,0 +1,68 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Pav Bhaji with Tawa Pulao,1,0,,199.0
+Combos,Noodles with Manchurian Gravy and Fried Rice,1,0,,490.0
+Combos,Pav Bhaji with Manchurian Dry,1,0,,199.0
+Combos,Mysore Dosa with Masala Dosa and Fried Rice,1,0,,290.0
+Combos,Manchurian Gravy with Veg Fried Rice,1,0,,330.0
+Idli Vada,Idli Sambar [2 Pieces],1,0,,60.0
+Idli Vada,Masala Idli,1,0,,110.0
+Dosa,Paper Dosa,1,0,,60.0
+Dosa,Cheese Paper Dosa,1,0,,140.0
+Dosa,Nylon Paper Dosa,1,0,,70.0
+Dosa,Garlic Paper Dosa,1,0,,80.0
+Dosa,Masala Dosa,1,0,,120.0
+Dosa,Rava Sada Dosa,1,0,,100.0
+Dosa,Green Masala Dosa,1,0,,140.0
+Dosa,Cheese Masala Dosa,1,0,,150.0
+Dosa,Paneer Masala Dosa,1,0,,150.0
+Dosa,Rava Masala Dosa,1,0,,130.0
+Dosa,Mysore Dosa,1,0,,150.0
+Dosa,Cheese Mysore Dosa,1,0,,180.0
+Dosa,Paneer Tukda Mysore Dosa,1,0,,180.0
+Dosa,Hara Bhara Dosa,1,0,,190.0
+Dosa,Gotala Mysore Dosa,1,0,,190.0
+Dosa,Surma Mysore Dosa,1,0,,190.0
+Dosa,Mummy Special Matka Handi Amul Butter Dosa,1,0,,390.0
+Dosa,Jini Cheese Roll Dosa,1,0,,180.0
+Dosa,Palak Paneer Roll Dosa,1,0,,180.0
+Dosa,Pizza Dosa,1,0,,200.0
+Dosa,Patiala Dosa,1,0,,220.0
+Uttapam,Sada Uttapam,1,0,,150.0
+Uttapam,Onion Uttapam,1,0,,200.0
+Uttapam,Tomato Uttapam,1,0,,200.0
+Uttapam,Onion Tomato Uttapam,1,0,,210.0
+Uttapam,Masala Uttapam,1,0,,220.0
+Uttapam,Mix Veg Uttapam,1,0,,250.0
+Pav Bhaji,Pav Bhaji,1,0,,150.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,,170.0
+Pav Bhaji,Green Pav Bhaji,1,0,,160.0
+Pav Bhaji,Butter Goatala Pav Bhaji,1,0,Prepared with Amul butter.,200.0
+Pav Bhaji,Butter Kaju Masala Pav Bhaji,1,0,Prepared with Amul butter.,180.0
+Pav Bhaji,Paneer Tukda Pav Bhaji,1,0,,170.0
+Chinese,Manchurian,1,0,,180.0
+Chinese,Green Manchurian,1,0,,200.0
+Chinese,Garlic Manchurian,1,0,,190.0
+Chinese,Schezwan Manchurian,1,0,,140.0
+Chinese,Paneer Manchurian Dry,1,0,,160.0
+Chinese,Cheese Manchurian Dry,1,0,,160.0
+Chinese,Bombay Bhel,1,0,,140.0
+Chinese,Chinese Bhel,1,0,,180.0
+Chinese,Singapore Bhel,1,0,,140.0
+Chinese,Schezwan Bhel,1,0,,140.0
+Tawa pulao,Tawa Pulao,1,0,,180.0
+Tawa pulao,Paneer Pulao,1,0,,200.0
+Tawa pulao,Hyderabadi Pulao,1,0,,200.0
+Tawa pulao,Cheese Hyderabadi Pulao,1,0,,230.0
+Tawa pulao,Masala Pulao,1,0,,190.0
+Tawa pulao,Mummy Special Amul Butter Pulao,1,0,,250.0
+Fried Rice,Paneer Fried Rice,1,0,,150.0
+Fried Rice,Manchurian Fried Rice,1,0,,180.0
+Fried Rice,Triple Fried Rice,1,0,,180.0
+Fried Rice,Veg Fried Rice,1,0,,180.0
+Fried Rice,Singapore Fried Rice,1,0,,200.0
+Fried Rice,Schezwan Fried Rice,1,0,,210.0
+Fried Rice,Noodles,1,0,Chowmein.,180.0
+Fried Rice,Manchurian Noodles,1,0,,180.0
+Fried Rice,Singapore Noodles,1,0,,200.0
+Fried Rice,Schezwan Noodles,1,0,,210.0
+Soup,Manchow Soup,1,0,,110.0

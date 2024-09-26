@@ -1,0 +1,43 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Pizza,1,0,A classic fusion with lots of cheese.,380.0
+Pizza,Farmers Pride Pizza,1,0,"Capsicum, tomato, onion, green onion with a blend of cheese.",490.0
+Pizza,Paneer ka Zayka Pizza,1,0,"Onion, paneer, jalapenos, red paprika, green onion, coriander loaded with extra cheese.",490.0
+Pizza,Veggie Delight Pizza,1,0,"Capsicum, red pepper, yellow pepper, paprika, jalapenos topped with Italian cheese.",480.0
+Pizza,Peri Peri Paneer Pizza,1,0,"Onion, capsicum, corn, olives with peri peri paneer.",450.0
+Pizza,Veg Chilli Chile Pizza,1,0,"Jalapeno dallops, green onion, olives, sun dried tomatoes and baby corn.",480.0
+Pizza,Artichoke Pizza,1,0,"Artichoke hearts, spinach, cream sauce and mozzarella.",500.0
+Pizza,Lombardia Pizza,1,0,"Walnut pesto, green olives and roasted peppers.",490.0
+Pizza,Red Hot Cheesy Pizza,1,0,"Red bell peppers, jalapenos, roasted garlic, onion and cheese.",480.0
+Pizza,Paneer Tikka Pizza,1,0,"Tikka masala sauce, paneer, onion, capsicum with coriander, mozzarella cheese with sesame seeds crust.",500.0
+Pizza,Pesto Paneer Pizza,1,0,"Pesto paneer cubes, corn, onion, capsicum, paprika & cheese.",490.0
+Pizza,Four Season Veggie Pizza,1,0,"Mushrooms, tomatoes, capsicum, red peppers, onion, black olives & cheese.",495.0
+Pizza,Three Pepperoni Pizza,1,0,Classic combination of YRG bell peppers along with olives and cheese.,490.0
+Pizza,Super Greens Pizza,1,0,"Ps special green spicy sauce with capsicum, broccoli, green garlic and cheese.",500.0
+Pizza,Mirch Mushroom Pizza,1,0,"Mozzarella cheese, spicing it up with bell peppers, mushroom and a dash of ... read more",500.0
+Pizza,4 Cheese Pesto Pizza,1,0,"Pesto sauce, mozzarella cheese, Cheddar, riccota and Parmesan.",510.0
+Pizza,Cheesy Garlic Pie Pizza,1,0,"Cheesy pizza sauce, with lots of mozzarella cheese and topped with green garlic.",500.0
+Pizza,The Classic Pizza,1,0,"Herb marinated black olives, green capsicum and onion.",590.0
+Pizza,Cheese Please Pizza,1,0,"Cheese, cheese and only cheese.",590.0
+Pizza,Vegetariana Pizza,1,0,"Onion, green peppers, mushrooms, black olives and jalapenos.",600.0
+Pizza,The Lone Star Pizza,1,0,"Red paprika, green jalapenos, corn, broccoli, capsicum and pesto sauce on top.",610.0
+Pizza,The French Onion Pizza,1,0,"Caramelized onion, mushrooms, and sliced garlic.",610.0
+Pizza,Mac and Cheese Pizza,1,0,Macaroni and cheese.,700.0
+Pizza,Indian Style Makhani Sauce Pizza,1,0,"Onion, capsicum, jalapenos, paprika, green onion and spiced paneer along with lots and ... read more",590.0
+Pizza,Paneer Tikka Deep Pizza,1,0,"Paneer, onion, capsicum, topped with tikka masala sauce with a sesame crust.",590.0
+Pasta,Aglio Olio Pasta,1,0,"Spaghetti with garlic, olive oil, chilli flakes, oregano, broccoli, cherry tomatoes and mushroom.",280.0
+Pasta,Alfredo Pasta,1,0,"Pasta tossed in butter, cream sauce and Parmesan, we recommend fettuccine.",300.0
+Pasta,Arrabiata Pasta,1,0,Spaghetti in red sauce garnished with fresh basil.,315.0
+Pasta,Three Cheese Spaghetti,1,0,"Spaghetti tossed in a creamy sauce with English Cheddar, fresh mozzarella and Parmesan.",300.0
+Pasta,Verdure Pasta,1,0,Pesto and cream sauce tossed pasta with garden fresh vegetables.,330.0
+Pasta,Mac N 4 Cheese Pasta,1,0,"Elbow macaroni baked with Cheddar, mozzarella, cream cheese and Parmesan.",300.0
+Pasta,Spinach and Feta Cannelloni Pasta,1,0,"Filled with garlic tossed spinach, topped with cheese sauce and pine nuts.",350.0
+Pasta,Artichoke Pasta,1,0,Fusilli pasta tossed with artichoke hearts with bell pepper and broccoli.,330.0
+Snacks,Classic Italian Hand Stretched Garlic Bread Sticks,1,0,Classic garlic breadsticks with cheese on top.,170.0
+Snacks,Classic Italian Supreme Garlic Bread Sticks,1,0,,230.0
+Snacks,Salted Fries,1,0,,160.0
+Snacks,Peri Peri Fries,1,0,,180.0
+Snacks,Cheesy Fries,1,0,,210.0
+Snacks,Spiced Nachos,1,0,"Crispy tortilla cheese spicing it up with bell peppers, jalapenos, paprika with melted ... read more",280.0
+Snacks,Beans Nachos,1,0,"Corn tortilla chips full of beans, fresh lettuce, cherry tomatoes, jalapeno, olives, garnished with ... read more",300.0
+Snacks,Garlic Parmesan Bread Bites,1,0,,300.0
+Snacks,Garlic Fried Dough Cheesy Balls,1,0,,310.0

@@ -1,0 +1,34 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chips,Plain Jadi Potato Chips [100 grams],1,0,,60.0
+Chips,Soya Stick [200 grams],1,0,,100.0
+Chips,Yellow Kela Chips [200 grams],1,0,,140.0
+Chips,Masala Kela Chips [200 grams],1,0,,130.0
+Chips,Special Mari Kela Chips [200 grams],1,0,,90.0
+Chips,Salted Potato Chips [200Grams],1,0,,105.0
+Chips,Chat Puri [200 Grams],1,0,,85.0
+Chips,Kaju Biscuit [200Grams],1,0,,100.0
+Chips,Masala Puri [200 grams],1,0,,100.0
+Chips,Bingo [150 grams],1,0,,90.0
+Chakli,Special Butter Chakli [200 grams],1,0,,100.0
+Chakli,Salted Butter Chakli [100 Grams],1,0,,110.0
+Chakli,Masala Butter Chakli [100Grams],1,0,,100.0
+Chakli,Bardoli Na Patra [200 grams],1,0,,130.0
+Chakli,Lasan Bhakharwadi [200 grams],1,0,,110.0
+Sing and chana,Chana,1,0,,100.0
+Sing and chana,Bharuchi Sing Salted,1,0,,100.0
+Makrum,Special Makrum [200 grams],1,0,,150.0
+Khari Toast and Nan Khatai,Jayfal Khatai,1,0,,130.0
+Khari Toast and Nan Khatai,Special Wheat Flour Nan Khatai,1,0,,150.0
+Khari Toast and Nan Khatai,Special Farmas,1,0,,150.0
+Khari Toast and Nan Khatai,Special Maska Khari,1,0,Palwali.,150.0
+Khari Toast and Nan Khatai,Tutifruti Toast,1,0,Palwali.,110.0
+Khari Toast and Nan Khatai,Plain Toast,1,0,Palwali.,100.0
+Khari Toast and Nan Khatai,Sada Butter Biscuit,1,0,Palwali.,200.0
+Khari Toast and Nan Khatai,Kaju Nan Khatai,1,0,Palwali.,160.0
+Khari Toast and Nan Khatai,Magajtari Nan Khatai,1,0,Palwali.,140.0
+Sweets,Malai Penda,1,0,,220.0
+Sweets,Chocolate Mava Penda,1,0,,220.0
+Sweets,Malai Burfi,1,0,,240.0
+Sweets,Milk Cake,1,0,,260.0
+Sweets,Badami Pista Ghari,1,0,,380.0
+Sweets,Kaju Katri,1,0,,399.0

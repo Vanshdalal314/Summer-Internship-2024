@@ -1,0 +1,27 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Mutton ka Khajana [Buff],Mutton Seekh,0,0,,30.0
+Mutton ka Khajana [Buff],Mutton Tikka [6 Pieces],0,0,,30.0
+Mutton ka Khajana [Buff],Khiri Tikka [6 Pieces],0,0,,30.0
+Mutton ka Khajana [Buff],Kaleji Tikka [6 Pieces],0,0,,30.0
+Mutton ka Khajana [Buff],Gurda Tikka [6 Pieces],0,0,,30.0
+Mutton ka Khajana [Buff],Rumali Roll [Single],0,0,,45.0
+Mutton ka Khajana [Buff],Rumali Roll [Double],0,0,,75.0
+Mutton ka Khajana [Buff],Mutton Korma,0,0,,75.0
+Mutton ka Khajana [Buff],Muton Seekh,0,0,,80.0
+Mutton ka Khajana [Buff],Mutton Kabab with 2 Roti,0,0,,175.0
+Chicken ka Khajana,Chicken Seekh,0,0,,55.0
+Chicken ka Khajana,Chicken Rumali Roll [Single],0,0,,75.0
+Chicken ka Khajana,Chicken Korma,0,0,,90.0
+Chicken ka Khajana,Malai Tikka [6 Pieces],0,0,,110.0
+Chicken ka Khajana,Golden Tikka [6 Pieces],0,0,,110.0
+Chicken ka Khajana,Jafrani Tikka [6 Pieces],0,0,,110.0
+Chicken ka Khajana,Tandoori Tikka [6 Pieces],0,0,,110.0
+Chicken ka Khajana,Leg Peice,0,0,,110.0
+Chicken ka Khajana,Breast Piece,0,0,,110.0
+Chicken ka Khajana,Tangdi [3 Pieces],0,0,,165.0
+Chicken ka Khajana,Boneless Chicken 65,0,0,,180.0
+Chicken ka Khajana,Chicken Malai Korma,0,0,,90.0
+Biryani,Chicken Biryani,0,0,,70.0
+Breads,Roti Paratha,1,0,,20.0
+Breads,Rumali Roti,1,0,,20.0
+Breads,Tandoori Roti,1,0,,20.0

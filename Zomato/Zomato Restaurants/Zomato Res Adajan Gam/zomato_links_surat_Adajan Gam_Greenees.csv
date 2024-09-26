@@ -1,0 +1,96 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Greenees Special Grilled Sandwich Combo [Serves 2],1,0,Save ₹60 on this combo Greenees Special Grilled Sandwich+Greenees Special Open Toast Sandwich,325.0
+Combos,Cheese Ulta Pizza and Tandoori Paneer Pizza [6 inches] [Serves 2],1,0,Save 11% on this combo Cheese Ulta Pizza+Tandoori Paneer Pizza [6 Inches],369.0
+Combos,Tandoori Paneer Grilled Sandwich Combo [Serves 2],1,0,Save ₹60 on this combo Tandoori Paneer Grilled Sandwich+Cheese Garlic Bread [4 Pieces],399.0
+Steamed Idli,Steamed Idli,1,0,,68.0
+Steamed Idli,Butter Steamed Idli,1,0,,88.0
+Steamed Idli,Cheese Butter Steamed Idli,1,0,,122.0
+Steamed Idli,Masala Customized Idli,1,0,,108.0
+Steamed Idli,Cheese Masala Idli,1,0,,128.0
+Steamed Idli,Peri Peri Steamed Idli,1,0,,95.0
+Steamed Idli,Cheese Peri Peri Steamed Idli,1,0,,128.0
+Steamed Idli,Chocolate Idli,1,0,,95.0
+Steamed Idli,Cheese Chocolate Idli,1,0,,128.0
+Steamed Idli,Schezwan Steamed Idli,1,0,,95.0
+Steamed Idli,Cheese Schezwan Steamed Idli,1,0,,128.0
+Pizza,Veg Cheese Pizza [6 inches],1,0,,162.0
+Pizza,Only Cheese Margherita Pizza [6 inches],1,0,,162.0
+Pizza,Tandoori Paneer Pizza [6 inches],1,0,,203.0
+Pizza,Italiano Pizza [6 inches],1,0,,203.0
+Pizza,Veg Schezwan Pizza [6 inches],1,0,,203.0
+Pizza,Maggi Pizza [6 inches],1,0,,203.0
+Pizza,Veg Cheese Paneer Pizza [6 inches],1,0,,189.0
+Pizza,Paneer Makhani Pizza [6 inches],1,0,,203.0
+Pizza,Veg Cheese Ulta Pizza [6 inches],1,0,,176.0
+Pizza,Cocktail Ulta Pizza [6 inches],1,0,,203.0
+Pizza,Italiano Ulta Pizza [6 inches],1,0,,203.0
+Pizza,Tandoori Paneer Ulta Pizza [6 inches],1,0,,215.0
+Sandwiches,Cheese Grilled Sandwich,1,0,,189.0
+Sandwiches,Greenees Special Grilled Sandwich,1,0,,216.0
+Sandwiches,Chocolate Grilled Sandwich,1,0,,203.0
+Sandwiches,Mayonnaise Veg Cheese Grilled Sandwich,1,0,,203.0
+Sandwiches,Corn Capsicum Cheese Grilled Sandwich,1,0,,180.0
+Sandwiches,Peri Peri Mayo Grilled Sandwich,1,0,,203.0
+Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,,230.0
+Sandwiches,Maharaja Grilled Sandwich,1,0,,270.0
+Sandwiches,Open Toast Sandwich,1,0,,108.0
+Sandwiches,Schezwan Open Toast Sandwich,1,0,,122.0
+Sandwiches,Maggi Open Toast Sandwich,1,0,,122.0
+Sandwiches,Greenees Special Open Toast Sandwich,1,0,,122.0
+Sandwiches,Tandoori Paneer Open Toast Sandwich,1,0,,135.0
+Sandwiches,Cheese Chilli Open Toast Sandwich,1,0,,122.0
+Sandwiches,Bread Butter Toast Sandwich,1,0,,54.0
+Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,81.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,108.0
+Sandwiches,Aloo Masala Toast Sandwich,1,0,,108.0
+Sandwiches,Cheese Chocolate Toast Sandwich,1,0,,122.0
+Sandwiches,Pizza Toast Sandwich,1,0,,108.0
+Sandwiches,Maggi Toast Sandwich,1,0,,108.0
+Sandwiches,Cheese Chilli Toast Sandwich,1,0,Well toasted bread layered with chillies and cheese.,108.0
+Sandwiches,Cheese Paneer Toast Sandwich,1,0,,128.0
+Sandwiches,Veg Toast Sandwich,1,0,Well toasted bread stuffed with wholesome veggies.,81.0
+Sandwiches,Bread Butter Sandwich,1,0,,34.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,68.0
+Sandwiches,Bread Butter Chutney Sandwich,1,0,,47.0
+Sandwiches,Veg Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",68.0
+Sandwiches,Veg Cheese Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",95.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,47.0
+Sandwiches,Cheese Chocolate Sandwich,1,0,,108.0
+Sandwiches,Mayonnaise Veg Sandwich,1,0,,81.0
+Sandwiches,Mayonnaise Veg Cheese Sandwich,1,0,,108.0
+Frankies,Veg Frankie,1,0,Soft rumali rotis stuffed with a delicious veg masala.,54.0
+Frankies,Veg Cheese Frankie,1,0,Soft rumali rotis layered with cheese and stuffed with a delicious veg masala.,68.0
+Frankies,Schezwan Frankie,1,0,,80.0
+Frankies,Mayo Frankie,1,0,,81.0
+Frankies,Mayo Schezwan Frankie,1,0,,88.0
+Maggi,Masala Maggi,1,0,,68.0
+Maggi,Vegetable Maggi,1,0,,68.0
+Maggi,Schezwan Maggi,1,0,,81.0
+Maggi,Peri Peri Maggi,1,0,,81.0
+Maggi,Cheese Maggi,1,0,,95.0
+Maggi,Vegetable Cheese Maggi,1,0,,95.0
+Maggi,Paneer Cheese Maggi,1,0,,108.0
+Maggi,Paneer Maggi,1,0,,81.0
+Maggi,Tandoori Maggi,1,0,,81.0
+Snacks Greenees Special,Crunchy Bites [6 Pieces],1,0,,128.0
+Snacks Greenees Special,Stuffed Kulcha,1,0,,162.0
+Snacks Greenees Special,Cheese Garlic Bread [4 Pieces],1,0,,155.0
+Snacks Greenees Special,Cheese Chilli Garlic Bread [4 Pieces],1,0,,175.0
+Snacks Greenees Special,Cheese Schezwan Garlic Bread [4 Pieces],1,0,,203.0
+Snacks Greenees Special,Cheese Schezwan Garlic Bread,1,0,,175.0
+Drinks (Beverages),Hot Chocolate,1,0,,34.0
+Drinks (Beverages),Adrak Masala Tea,1,0,,27.0
+Drinks (Beverages),Green Leaf Pudina Tea,1,0,,27.0
+Drinks (Beverages),Espresso Coffee,1,0,,25.0
+Drinks (Beverages),Lemon Hot Tea,1,0,,41.0
+Drinks (Beverages),Lemon Iced Tea,1,0,Water.,68.0
+Drinks (Beverages),Sprite Lemon Iced Tea,1,0,,80.0
+Drinks (Beverages),Cold Coffee,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",95.0
+Maska Bun,Maska Bun,1,0,,45.0
+Maska Bun,Maska Bun Jam,1,0,,55.0
+Burgers,Veg Burger,1,0,,70.0
+Burgers,Veg Cheese Burger,1,0,,95.0
+Burgers,Tandoori Cheese Burger,1,0,,110.0
+French Fries,Salted French Fries,1,0,,110.0
+French Fries,Masala French Fries,1,0,,125.0
+French Fries,Peri Peri French Fries,1,0,,125.0

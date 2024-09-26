@@ -1,0 +1,94 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Add Ons,Banana,1,0,,30.0
+Add Ons,Chocolate Crispies,1,0,,30.0
+Add Ons,Colorful Sprinkles,1,0,,30.0
+Add Ons,Dark Chocolate Chips,1,0,,30.0
+Add Ons,Oreo Crumble,1,0,,30.0
+Add Ons,White Chocolate Chips,1,0,,30.0
+Add Ons,Almond Flakes,1,0,,50.0
+Add Ons,Blueberry Compote,1,0,,50.0
+Add Ons,Butterscotch Syrup,1,0,,50.0
+Add Ons,Caramel Sauce,1,0,,50.0
+Add Ons,Chocolate Coated Butterscotch,1,0,,50.0
+Add Ons,KitKat Crunchies,1,0,,50.0
+Add Ons,Maple Syrup,1,0,,50.0
+Add Ons,Whipped Cream,1,0,,50.0
+Add Ons,Brownie Crumble,1,0,,70.0
+Add Ons,Chocolate Ice Cream,1,0,,70.0
+Add Ons,Cream Cheese,1,0,,70.0
+Add Ons,Dark Chocolate Sauce,1,0,,70.0
+Add Ons,Lotus Biscoff,1,0,,70.0
+Add Ons,Milk Chocolate Sauce,1,0,,70.0
+Add Ons,Nutella,1,0,,70.0
+Add Ons,Vanilla Ice Cream,1,0,,70.0
+Add Ons,White Chocolate Sauce,1,0,,70.0
+Create Your Own Story,Create Your Own Waffle,1,0,Choice of add on to be topped with waffles,130.0
+Create Your Own Story,Create Your Own Pancake,1,0,Choice of add on to be topped with pancakes,140.0
+Pancakes,American Dream Pancake,1,0,,130.0
+Pancakes,Caramel Castle Pancake,1,0,,140.0
+Pancakes,Dark White Affair Pancake,1,0,,160.0
+Pancakes,Crunchy Kitkat Pancake,1,0,,170.0
+Pancakes,Oreo Obsession Pancake,1,0,,170.0
+Pancakes,Chocolate Overloaded Pancake,1,0,,180.0
+Pancakes,Nasty Nutella Pancake,1,0,,180.0
+Pancakes,Red Velvet Rush Pancake,1,0,,180.0
+Pancakes,Speckled Berries Pancake,1,0,,180.0
+Pancakes,Chocolate Therapy Pancake,1,0,,190.0
+Pancakes,Chocolate Volcano Pancake,1,0,,190.0
+Pancakes,Lotus Biscoff Pancake,1,0,,190.0
+Pancakes,Strawberrytella Pancake,1,0,,190.0
+Pancakes,Wicked Winter Pancake,1,0,,190.0
+Pancakes,Signature Kinder Schoko Bons Pancake,1,0,,320.0
+Pancakes,Signature Nutties Pancake,1,0,,320.0
+Pancakes,Signature Twix Pancake,1,0,,320.0
+Waffles,Dark Waffle,1,0,,130.0
+Waffles,Milk Waffle,1,0,,150.0
+Waffles,White Waffle,1,0,,150.0
+Waffles,American Dream Waffle,1,0,,160.0
+Waffles,Caramel Castle Waffle,1,0,,160.0
+Waffles,Red Velvet Rush Waffle,1,0,,170.0
+Waffles,Oreo Obsession Waffle,1,0,,180.0
+Waffles,Chocolate Volcano Waffle,1,0,,190.0
+Waffles,Crunchy KitKat Waffle,1,0,,190.0
+Waffles,Dark White Affair Waffle,1,0,,190.0
+Waffles,Nasty Nutella Waffle,1,0,,190.0
+Waffles,Chocolate Overloaded Waffle,1,0,,200.0
+Waffles,Speckled Berries Waffle,1,0,,200.0
+Waffles,Chocolate Therapy Waffle,1,0,,220.0
+Waffles,Lotus Biscoff Waffle,1,0,,240.0
+Waffles,Strawberrytella Waffle,1,0,,240.0
+Waffles,Wicked Winter Waffle,1,0,,250.0
+Waffles,Signature Kinder Schoko Bons Waffle,1,0,,280.0
+Waffles,Signature Nutties Waffle,1,0,,280.0
+Waffles,Signature Twix Waffle,1,0,,280.0
+Cold Beverage,Lemon Iced Tea,1,0,,160.0
+Cold Beverage,Passion Fruit Iced Tea,1,0,,160.0
+Cold Beverage,Very Berry Iced Tea,1,0,,160.0
+Cold Coffee - Frappe,Caramel Frappe,1,0,,170.0
+Cold Coffee - Frappe,Cold Frappe,1,0,,170.0
+Cold Coffee - Frappe,French Vanilla Frappe,1,0,,170.0
+Cold Coffee - Frappe,Hazelnut Frappe,1,0,,170.0
+Cold Coffee - Frappe,Irish Frappe,1,0,,170.0
+Cold Coffee - Frappe,Tiramisu Frappe,1,0,,170.0
+Cold Coffee - Frappe,Brownie Frappe,1,0,,180.0
+Cold Coffee - Frappe,Butterscotch Frappe,1,0,,180.0
+Cold Coffee - Frappe,Cookie Crumble Frappe,1,0,,180.0
+Cold Coffee - Frappe,Java Chip Frappe,1,0,,180.0
+Cold Coffee - Frappe,Mocha Frappe,1,0,,180.0
+Cold Coffee - Frappe,Pepper Mint Frappe,1,0,,180.0
+Cold Coffee - Frappe,Popcorn Frappe,1,0,,180.0
+Cold Coffee - Frappe,Salted Caramel,1,0,,180.0
+Cold Coffee - Frappe,White Chocolate Mocha,1,0,,190.0
+Cold Coffee - Frappe,Biscoff Frappe,1,0,,200.0
+Cold Coffee - Frappe,Nutella Frappe,1,0,,200.0
+Classic Shake,Bubble Gum Shake,1,0,,210.0
+Classic Shake,Popcorn Shake,1,0,,210.0
+Classic Shake,Salted Caramel Shake,1,0,Salted caramel flavoured milk shake,210.0
+Signature Shakes,Choco Oreo Shake,1,0,Chocolate ice cream blended with oreo,220.0
+Signature Shakes,Kitkat Milkshake,1,0,Vanila ice cream blended with kitkat crunches,240.0
+Signature Shakes,Nutella Shake,1,0,Vanila ice cream blended with nutella,250.0
+Signature Shakes,Lotus Biscoff Shake,1,0,Flavoured milk shake,260.0
+Signature Shakes,Strawberry Shake,1,0,,260.0
+Dessert Special,Red Velvet Pancake With Heart Shape Sprinkle(12pcs),1,0,Redvelvet pancake with red mini heart shape sprinkle,230.0
+Waffle Combo,Waffle Box (Any 3),1,0,,450.0
+Pancake Combo,Pancake 12pc Box (Any 3),1,0,,550.0

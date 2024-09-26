@@ -1,0 +1,70 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Specials,Kk Bhandari Special,1,0,[Chef's Special],450.0
+Specials,Surti Dhamaka [6 Eggs] with Pav [12 Pieces],0,0,Served with salad.,450.0
+Combos,Boiled Egg Combo,0,0,Boiled Egg [2 Eggs]+Keema [1 Egg]+Lehsun Egg Fry/Tomato Egg Fry [1 Egg]+4 Pav,120.0
+Combos,Combo 1,0,0,Egg Curry [1 Egg]+Egg Rice [1 Egg]+Pav [4 Pieces],120.0
+Combos,Combo 2,0,0,Boiled Egg Fry [2 Eggs]+Keema [2 Eggs]+Pav [4 Pieces],140.0
+Combos,Boiled Australian Fry Combo,0,0,Boiled Egg [2 Eggs]+Australian Egg Fry/Egg Ravaiya [2 Eggs]+Egg Rice [1 Egg]+4 Pav,190.0
+Combos,Green Gotalo Combo,0,0,Green Egg Gotalo [2 Eggs]+Cheese Egg Ravaiya [2 Eggs]+6 Pav,190.0
+Combos,Green Keema Combo,0,0,Green Egg Keema [1 Egg]+Egg Lehsun Fry [1 Egg]+Cheese Omelette [3 Eggs]+8 Pav,220.0
+Meals,Egg Curry Rice,0,0,,120.0
+Rice,Regular Rice,1,0,,110.0
+Rice,Green Rice,1,0,,120.0
+Rice,Gravy Rice,1,0,,120.0
+Rice,Reshmi Rice,1,0,,170.0
+Sandwich,Egg Sandwich [2 Eggs],0,0,,85.0
+Snacks,Boiled Egg [2 Eggs],0,0,,30.0
+Snacks,Sadi Boiled Egg Fry [2 Eggs],0,0,,40.0
+Snacks,Masala Boiled Egg Fry [2 Eggs],0,0,,85.0
+Snacks,Boiled Egg Bhel [2 Eggs],0,0,,40.0
+Snacks,Boiled Cheese Egg Bhel [2 Eggs],0,0,,85.0
+Snacks,Egg Cutlet [2 Eggs],0,0,,120.0
+Snacks,Egg Cheese Cutlet [2 Eggs],0,0,,140.0
+Snacks,Egg Locho [2 Eggs],0,0,,150.0
+Snacks,Plain Omelette [1 Egg] with Pav [2 Pieces],0,0,Served with salad.,40.0
+Snacks,Cheese Omelette [1 Egg] with Pav [2 Pieces],0,0,Served with salad.,60.0
+Snacks,Paper Omelette [2 Eggs],0,0,,80.0
+Snacks,Paper Cheese Omelette [2 Eggs],0,0,,95.0
+Snacks,Limbumari Omelette [2 Eggs],0,0,,80.0
+Snacks,Schezwan Omelette [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,80.0
+Snacks,Rajwadi Omelette [4 Eggs] with Pav [8 Pieces],0,0,Served with salad.,240.0
+Snacks,Corn Omelette [5 Eggs] with Pav [10 Pieces],0,0,Served with salad.,240.0
+Snacks,Egg Bhurji [1 Egg] with Pav [2 Pieces],0,0,Served with salad.,50.0
+Snacks,Green Egg Keema [1 Egg] with Pav [2 Pieces],0,0,Served with salad.,60.0
+Snacks,Red Egg Keema [1 Egg] with Pav [2 Pieces],0,0,Served with salad.,60.0
+Snacks,Churma Egg Keema [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,140.0
+Snacks,Red Egg Curry [1 Egg] with Pav [2 Pieces],0,0,Served with salad.,75.0
+Snacks,Green Egg Curry [1 Egg] with Pav [2 Pieces],0,0,Served with salad.,75.0
+Snacks,Lasan Egg Fry [1 Egg] with Pav [2 Pieces],0,0,Served with salad.,60.0
+Snacks,Tomato Egg Fry [1 Egg] with Pav [2 Pieces],0,0,Served with salad.,60.0
+Snacks,Australian Egg Fry [3 Eggs] with Pav [6 Pieces],0,0,Served with salad.,220.0
+Snacks,Russian Egg Fry [4 Eggs] with Pav [8 Pieces],0,0,Served with salad.,240.0
+Snacks,Chinese Egg Fry [3 Eggs] with Pav [6 Pieces],0,0,Served with salad.,240.0
+Snacks,Machhi Egg Fry [4 Eggs] with Pav [8 Pieces],0,0,Served with salad.,270.0
+Snacks,Red Egg Gotalo [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,130.0
+Snacks,Green Egg Gotalo [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,130.0
+Snacks,Red Goti Egg Gotalo [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,140.0
+Snacks,Green Goti Egg Gotalo [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,140.0
+Snacks,Sada Egg Ravaiya [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,170.0
+Snacks,Bharela Egg Ravaiya [3 Eggs] with Pav [6 Pieces],0,0,Served with salad.,220.0
+Snacks,Mamna Egg Dry [3 Eggs],0,0,,150.0
+Snacks,Mamna Gravy [5 Eggs] with Pav [10 Pieces],0,0,Served with salad.,320.0
+Snacks,Rabdi Egg [3 Eggs] with Pav [6 Pieces],0,0,Served with salad.,220.0
+Snacks,Angoor Rabdi Egg [5 Eggs] with Pav [10 Pieces],0,0,Served with salad.,260.0
+Snacks,Patra Egg Cheese Dry [2 Eggs],0,0,,120.0
+Snacks,Patra Egg Gravy [4 Eggs] with Pav [8 Pieces],0,0,Served with salad.,270.0
+Snacks,Kachu Paku Egg [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,120.0
+Snacks,Lachko Egg [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,120.0
+Snacks,Kofta Egg [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,160.0
+Snacks,Lahori Egg [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,160.0
+Snacks,Golden Egg Tikka [2 Eggs] with Pav [4 Pieces],0,0,Served with salad.,180.0
+Snacks,Egg Cham Cham [4 Eggs] with Pav [8 Pieces],0,0,Served with salad.,220.0
+Snacks,Tikhari Egg [3 Eggs] with Pav [6 Pieces],0,0,Served with salad.,240.0
+Snacks,Bhuli Bhulaiya [4 Eggs] with Pav [8 Pieces],0,0,Served with salad.,240.0
+Snacks,Egg Tiranga [4 Eggs] with Pav [8 Pieces],0,0,Served with salad.,270.0
+Snacks,Egg Paplet [5 Eggs] with Pav [10 Pieces],0,0,Served with salad.,320.0
+Snacks,Egg Ghari [5 Eggs] with Pav [10 Pieces],0,0,Served with salad.,320.0
+Snacks,Egg Patudi Gravy [5 Eggs] with Pav [10 Pieces],0,0,Served with salad.,320.0
+Snacks,Egg Rajwadi [5 Eggs] with Pav [10 Pieces],0,0,Served with salad.,320.0
+Snacks,Egg Pass Pass [5 Eggs] with Pav [10 Pieces],0,0,Served with salad.,320.0
+Snacks,Egg Bhagam Bhag [5 Eggs] with Pav [10 Pieces],0,0,Served with salad.,320.0

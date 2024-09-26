@@ -1,0 +1,53 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Salads,Paneer Tikka Salad,1,0,"small 50grms,big 100grms paneer.Served with goodness of garden fresh chopped lettuce, tomatoes, onion, ... read more",210.0
+Salads,Potato Shots Salad,1,0,"Served with goodness of garden fresh chopped lettuce, tomatoes, onion, cucumber and more.",190.0
+Salads,Aloo Tikki Salad,1,0,"Served with goodness of garden fresh chopped lettuce, tomatoes, onion, cucumber and more.",180.0
+Salads,Plain Veg Salad,1,0,"Served with goodness of garden fresh chopped lettuce, tomatoes, onion, cucumber and more.",160.0
+Salads,Nacho Salad,1,0,"Served with goodness of garden fresh vegetables, tomatoes, onion, cucumber and more.",160.0
+Salads,American Corn Salad,1,0,"Served with goodness of garden fresh vegetables, tomatoes, onion, cucumber and more.",150.0
+Salads,Kurkure Salad,1,0,"Served with goodness of garden fresh vegetables, tomatoes, onion, cucumber and more.",140.0
+Salads,Roasted Chicken Salad,0,0,"small 100Grms,big 150grms chicken. roasted chicken salad is perfect for your protein requirement.",290.0
+Salads,Chicken Tikka Salad,0,0,"small 50grms,big 100grms chicken. Served with goodness of garden fresh vegetables and chicken ... read more",219.0
+Salads,Grilled Chicken Salad,0,0,"small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken ... read more",219.0
+Salads,Chicken Achari Kebab Salad,0,0,"small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken ... read more",210.0
+Salads,Chicken Seekh Kebab Salad,0,0,"small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken ... read more",200.0
+Salads,chicken Salami Salad,0,0,"small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and chopped chicken ... read more",200.0
+Salads,Smoked Chicken Sausage Salad,0,0,"small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken ... read more",200.0
+Salads,Plain Chicken Sausage Salad,0,0,"small 50grms,big 100grms chicken.Served with goodness of garden fresh vegetables and sliced chicken ... read more",190.0
+Salads,"Chicken Seekh Kebab Salad [Jumbo, 1.1 kg, Serves 6]",0,0,"Best for BBQ gathering, salad including chicken of [150 grams].",670.0
+Salads,Pan Seared Chicken Salad,0,0,Approx.180 to 200 gm of salad including 50gms of chicken with thousand island ... read more,180.0
+Salads,Plain Boiled Chicken Salad,0,0,Approx.180 to 200 gm of salad including 50gms of chicken with thousand island ... read more,170.0
+Chicken Corn Salad,Pan Seared Chicken Corn Salad,0,0,"50 Grams chicken with corn salad something new to try, stay healthy with ... read more",190.0
+Chicken Corn Salad,Boiled Chicken Corn Salad,0,0,"50 Grams chicken with corn salad something new to try, stay healthy with ... read more",180.0
+Starters,Chicken Nuggets [6 Pieces],0,0,Cheesy crispy chicken nuggets wrap,140.0
+Starters,Chicken Seekh Kebab [1 Piece],0,0,"Delicious roasted seek, served with chipotle dip.",80.0
+Starters,Chicken Achari Kebab [1 Piece],0,0,Achari flavored roasted seek served with chipotle dip.,80.0
+Sandwiches,Roasted Chicken Submarine Sandwich,0,0,,290.0
+Sandwiches,Chicken Achari Kebab Submarine Sandwich,0,0,Chicken kabab lightly seasoned and served with a choice of crisp veggies on ... read more,220.0
+Sandwiches,Chicken Tikka Submarine Sandwich,0,0,Chicken tikka roasted and served with a choice of crisp veggies on freshly ... read more,230.0
+Sandwiches,Grilled Chicken Submarine Sandwich,0,0,Whole wheat bread with cheese slice and choice of your veggies with grilled ... read more,220.0
+Sandwiches,Chicken Seekh Kebab Submarine Sandwich,0,0,Chicken sausage lightly seasoned and served with a choice of crisp veggies on ... read more,200.0
+Sandwiches,chicken Salami submarine Sandwich,0,0,Chicken salami lightly seasoned and served with a choice of crisp veggies on ... read more,210.0
+Sandwiches,Smoked Chicken Sausage Submarine Sandwich,0,0,Chicken sausage lightly seasoned and served with a choice of crisp veggies on ... read more,190.0
+Sandwiches,Plain Chicken Sausage Submarine Sandwich,0,0,Chicken sausage lightly seasoned and served with a choice of crisp veggies on ... read more,170.0
+Sandwiches,Italian Egg Submarine Sandwich,0,0,,185.0
+Sandwiches,Paneer Tikka Submarine Sandwich,1,0,Whole wheat bread with cheese slice and grilled paneer,220.0
+Sandwiches,Potato Shots Submarine Sandwich,1,0,Baked aloo tikki served with a choice of crisp veggies on freshly baked ... read more,195.0
+Sandwiches,Aloo Tikki Submarine Sandwich,1,0,Baked aloo tikki served with a choice of crisp veggies on freshly baked ... read more,185.0
+Sandwiches,Plain Veg Submarine Sandwich,1,0,"Crisp veggies on freshly baked whole wheat bread, toasted bread with cheese slice.",185.0
+Veg Wraps,Double Cheese Paneer Loaded Wrap,1,0,,290.0
+Veg Wraps,Paneer Tikka Wrap,1,0,Crisp lettuce with mixed vegetables and roasted paneer topped with mayo and chipotle ... read more,190.0
+Veg Wraps,Aloo Tikki Wrap,1,0,Crispy lettuce with mixed vegetables and aloo tikki topped with mayo and chipotle ... read more,160.0
+Veg Wraps,Veggie Delight Wrap,1,0,Crispy lettuce and mixed vegetables topped with chipotle dressing.,140.0
+Non Veg Wraps,Double Cheese Chicken Loaded Wrap,0,0,Give your tounge a twister with this cheesy full of chicken loaded wrap (Multigrain ... read more,260.0
+Non Veg Wraps,Roasted chicken wrap,0,0,Roasted chicken with more chicken than usual.you gonna love this,230.0
+Non Veg Wraps,Chicken Nuggets Wrap,0,0,,210.0
+Non Veg Wraps,Chicken Tikka Wrap,0,0,Tender and juicy roasted chicken with crispy lettuce and mixed vegetables topped with ... read more,190.0
+Non Veg Wraps,Grilled Chicken Wrap,0,0,Tender and juicy pan grilled chicken with crispy lettuce and mixed vegetables.,180.0
+Non Veg Wraps,Chicken Achaari Kebab Wrap,0,0,Kebab with a flavor of achaar you will get.,180.0
+Non Veg Wraps,Chicken Seekh Kebab Wrap,0,0,"Grab a light bite with crisp lettuce, mixed vegetables and topped with chipotle ... read more",170.0
+Drinks (Beverages),Hifizz Blueberry [300 ml],1,0,,30.0
+Drinks (Beverages),Hifizz Jeera Masala [300 ml],1,0,,30.0
+Drinks (Beverages),Hifizz Green Apple [300 ml],1,0,,30.0
+Drinks (Beverages),Hifizz Lemon Ginger [300 ml],1,0,,30.0
+Non Veg Sandwich,Chicken Mayo Vegetable Sandwich,0,0,"Brown bread chicken mayo sandwich, filled with cabbage, carrot, capsicum vegetables.",120.0

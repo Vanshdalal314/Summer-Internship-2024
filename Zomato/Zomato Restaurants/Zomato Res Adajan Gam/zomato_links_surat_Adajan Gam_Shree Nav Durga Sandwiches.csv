@@ -1,0 +1,140 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Mexican Grilled Sandwich,1,0,,179.1
+Sandwiches,Schezwan Grilled Sandwich,1,0,,179.1
+Sandwiches,Paneer Schezwan Grilled Sandwich,1,0,,197.1
+Sandwiches,Australian Grilled Sandwich,1,0,,179.1
+Sandwiches,Russian Grilled Sandwich,1,0,,179.1
+Sandwiches,Special Ahemdabadi Grilled Sandwich,1,0,,197.1
+Sandwiches,Bombay Grilled Sandwich,1,0,,179.1
+Sandwiches,Napoleon Grilled Sandwich,1,0,,197.1
+Sandwiches,Italian Grilled Sandwich,1,0,,179.1
+Sandwiches,Cheese Masala Grilled Sandwich,1,0,,179.1
+Sandwiches,Special Cheese Chutney Grilled Sandwich,1,0,,179.1
+Sandwiches,Mexican Beans Grilled Sandwich,1,0,,197.1
+Sandwiches,Mushroom Grilled Sandwich,1,0,,197.1
+Sandwiches,Paneer Tandoori Grilled Sandwich,1,0,,197.1
+Sandwiches,Palak Paneer Grilled Sandwich,1,0,,197.1
+Sandwiches,Cheese Garlic Grilled Sandwich,1,0,,179.1
+Sandwiches,Hot Garlic Grilled Sandwich,1,0,,179.1
+Sandwiches,Hyderabadi Grilled Sandwich,1,0,,179.1
+Sandwiches,Mayo Garlic Grilled Sandwich,1,0,,179.1
+Sandwiches,Punjabi Grilled Sandwich,1,0,,179.1
+Sandwiches,Paneer Punjabi Grilled Sandwich,1,0,,197.1
+Sandwiches,Paneer Lover Grilled Sandwich,1,0,,197.1
+Sandwiches,Diet Corn Grilled Sandwich,1,0,,197.1
+Sandwiches,Chilli Garlic Grilled Sandwich,1,0,,197.1
+Sandwiches,Tiranga Grilled Sandwich,1,0,,197.1
+Sandwiches,Bread Butter Grilled Sandwich,1,0,,72.0
+Sandwiches,Veg Bread Grilled Sandwich,1,0,,90.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,153.0
+Sandwiches,Club Grilled Sandwich,1,0,,162.0
+Sandwiches,Cheese Chutney Grilled Sandwich,1,0,,144.0
+Sandwiches,Aloo Masala Grilled Sandwich,1,0,,90.0
+Sandwiches,Veg Aloo Masala Grilled Sandwich,1,0,,108.0
+Sandwiches,Cheese Aloo Masala Grilled Sandwich,1,0,,144.0
+Sandwiches,Cheese Chocolate Grilled Sandwich,1,0,,135.0
+Sandwiches,Cheese Jam Grilled Sandwich,1,0,,135.0
+Sandwiches,Cheese Chilli Garlic Grilled Sandwich,1,0,,179.1
+Sandwiches,Bread Butter Sandwich,1,0,,54.0
+Sandwiches,Veg Sandwich,1,0,,63.0
+Sandwiches,Only Cheese Sandwich,1,0,,99.0
+Sandwiches,Veg Cheese Sandwich,1,0,,99.0
+Sandwiches,Jam Sandwich,1,0,,54.0
+Sandwiches,Cheese Jam Sandwich,1,0,,99.0
+Sandwiches,Chutney Sandwich,1,0,,54.0
+Sandwiches,Cheese Chutney Sandwich,1,0,,99.0
+Sandwiches,Aloo Masala Sandwich,1,0,,63.0
+Sandwiches,Veg Aloo Masala Sandwich,1,0,,72.0
+Sandwiches,Cheese Aloo Masala Sandwich,1,0,,99.0
+Sandwiches,Chocolate Sandwich,1,0,,72.0
+Sandwiches,Cheese Chocolate Sandwich,1,0,,117.0
+Sandwiches,3 in 1 Sandwich,1,0,,117.0
+Sandwiches,Italian Sandwich,1,0,Non grilled.,135.0
+Sandwiches,Russian Sandwich,1,0,Non grilled.,135.0
+Sandwiches,Schezwan Sandwich,1,0,Non grilled.,135.0
+Sandwiches,Special Chocolate Sandwich,1,0,,180.0
+Combo,Manchurian Dry with Paneer,1,0,,224.1
+Soup,Manchow Soup,1,0,Without fried noodles.,117.0
+Starters,Manchurian Dry,1,0,,135.0
+Starters,Paneer Chilli Dry,1,0,,269.1
+Main Course,Manchurian Gravy,1,0,,144.0
+Rice,Oil Tawa Pulao,1,0,,135.0
+Rice,Butter Tawa Pulao,1,0,,153.0
+Rice,Cheese Tawa Pulao,1,0,,162.0
+Rice,Paneer Tawa Pulao,1,0,,180.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,162.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,171.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,206.1
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,197.1
+Fried Rice and Noodles,Hakka Noodles,1,0,,162.0
+Fried Rice and Noodles,Schezwan Hakka Noodles,1,0,,171.0
+Pizza and Pasta,Italian Pizza [7 inches],1,0,,153.0
+Pizza and Pasta,Italian Cheese Baked Pizza [7 inches],1,0,,180.0
+Pizza and Pasta,Chilli Garlic Pizza [7 inches],1,0,,180.0
+Pizza and Pasta,Mexican Pizza [7 inches],1,0,,180.0
+Pizza and Pasta,Double Cheese Pizza [7 inches],1,0,,198.0
+Pizza and Pasta,Paneer Cheese Baked Pizza [7 inches],1,0,,198.0
+Pizza and Pasta,Margherita Pizza [7 inches],1,0,,153.0
+Pizza and Pasta,Special Nav Durga Pizza [7 inches],1,0,[Veg preparation],207.0
+Pizza and Pasta,Hot and Spicy Pizza [7 inches],1,0,,180.0
+Pizza and Pasta,Red Pasta,1,0,,180.0
+Pizza and Pasta,White Pasta,1,0,,180.0
+Pizza and Pasta,Special Pasta,1,0,,207.0
+Burgers,Veg Burger,1,0,,63.0
+Burgers,Veg Cheese Burger,1,0,,90.0
+Burgers,Paneer Cheese Burger,1,0,,108.0
+Snacks and Chaat,Oil Vada Pav,1,0,,36.0
+Snacks and Chaat,Butter Vada Pav,1,0,,49.5
+Snacks and Chaat,Cheese Vada Pav,1,0,,63.0
+Snacks and Chaat,Oil Dabeli,1,0,,36.0
+Snacks and Chaat,Butter Dabeli,1,0,,49.5
+Snacks and Chaat,Cheese Dabeli,1,0,,63.0
+Snacks and Chaat,Bhel,1,0,,72.0
+Snacks and Chaat,Cheese Bhel,1,0,,99.0
+Snacks and Chaat,Sev Puri,1,0,,72.0
+Snacks and Chaat,Cheese Sev Puri,1,0,,99.0
+Snacks and Chaat,Garlic Bread,1,0,,117.0
+Snacks and Chaat,Garlic Toast,1,0,,126.0
+Snacks and Chaat,Cheese Bread,1,0,,117.0
+Snacks and Chaat,Cheese Chilli Toast,1,0,,126.0
+Snacks and Chaat,Surat Special Toast,1,0,,180.0
+Snacks and Chaat,Veg Hot Dog,1,0,,108.0
+Snacks and Chaat,Veg Cheese Hot Dog,1,0,,135.0
+Snacks and Chaat,Paneer Cheese Hot Dog,1,0,,144.0
+Snacks and Chaat,Chinese Bhel,1,0,,162.0
+Snacks and Chaat,Salted and Masala French Fries,1,0,,108.0
+Snacks and Chaat,Cheese French Fries,1,0,,135.0
+Snacks and Chaat,Peri Peri French Fries,1,0,,126.0
+Snacks and Chaat,Peri Peri Cheese French Fries,1,0,,144.0
+Snacks and Chaat,Oil Pav Bhaji,1,0,,126.0
+Snacks and Chaat,Butter Pav Bhaji,1,0,,153.0
+Snacks and Chaat,Cheese Pav Bhaji,1,0,,171.0
+Rolls,Cheese Roll,1,0,,135.0
+Rolls,Veg Cheese Roll,1,0,,153.0
+Rolls,Mexican Beans Roll,1,0,,180.0
+Rolls,Garlic Cheese Baked Roll,1,0,,180.0
+Rolls,Paneer Tikka Roll,1,0,,225.0
+Rolls,Hot Chilli Roll,1,0,,225.0
+Frankies,Veg Frankie,1,0,,49.5
+Frankies,Veg Cheese Frankie,1,0,,58.5
+Frankies,Schezwan Frankie,1,0,,49.5
+Frankies,Cheese Schezwan Frankie,1,0,,58.5
+Maggi,Plain Maggi,1,0,,63.0
+Maggi,Veg Maggi,1,0,,72.0
+Maggi,Veg Butter Maggi,1,0,,81.0
+Maggi,Veg Cheese Maggi,1,0,,99.0
+Accompaniments,Plain Papad,1,0,,22.5
+Accompaniments,Masala Papad,1,0,,45.0
+Toast Sandwiches,Paneer Tandoori Toast Sandwich,1,0,,117.0
+Toast Sandwiches,Aloo Masala Toast Sandwich,1,0,,90.0
+Toast Sandwiches,Cheese Veg Toast Sandwich,1,0,,108.0
+Toast Sandwiches,Cheese Chilli Garlic Toast Sandwich,1,0,,108.0
+Toast Sandwiches,Mushroom Toast Sandwich,1,0,,117.0
+Toast Sandwiches,Diet Corn Toast Sandwich,1,0,,117.0
+Mania Pizza [7 inches],Capsicum Pizza [7 inches],1,0,,126.0
+Mania Pizza [7 inches],Onion Pizza [7 inches],1,0,,126.0
+Mania Pizza [7 inches],Corn Pizza [7 inches],1,0,,126.0
+Mania Pizza [7 inches],Paneer Pizza [7 inches],1,0,,144.0
+Mania Pizza [7 inches],Mix Veg Pizza [7 inches],1,0,,126.0
+Mania Pizza [7 inches],Tomato Pizza [7 inches],1,0,,126.0
+Mania Pizza [7 inches],Onion Capsicum Pizza [7 inches],1,0,,126.0

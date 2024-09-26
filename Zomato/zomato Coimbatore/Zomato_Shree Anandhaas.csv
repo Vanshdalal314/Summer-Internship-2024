@@ -1,0 +1,73 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,Fruit Kesari Of The Day,1,0,,38.0
+South Indian,Pongal,1,0,| Serves 1 |,80.0
+South Indian,Poori Set,1,0,,95.0
+Meals,Anandhaas Meals,1,0,| Serves 1 |,155.0
+Meals,Chappathi Set,1,0,| Serves 1 |,75.0
+Meals,Executive Lunch,1,0,| Serves 1 |,144.0
+Biryani & Pulao,Mushroom Biriyani,1,0,| Serves 1 |,125.0
+Biryani & Pulao,Vegetable Biriyani,1,0,|Serves1|,106.0
+Rice,Anandhaas Sambar Rice,1,0,|Serves1|,83.0
+Rice,Curd Rice,1,0,|Serves1|,80.0
+Rice,Rasam Rice,1,0,,69.0
+Rice,Tomato Rice,1,0,,69.0
+Roast Varieties,Butter Masal Roast,1,0,,144.0
+Roast Varieties,Butter Onion Rava Roast,1,0,,138.0
+Roast Varieties,Butter Onion Roast,1,0,,131.0
+Roast Varieties,Butter Podi Roast,1,0,,131.0
+Roast Varieties,Butter Rava Roast,1,0,,131.0
+Roast Varieties,Butter Roast,1,0,,125.0
+Roast Varieties,Cashewnut Rava Roast,1,0,,150.0
+Roast Varieties,Ghee Cashew Rava,1,0,,156.0
+Roast Varieties,Ghee Masal Roast,1,0,| Serves 1 |,144.0
+Roast Varieties,Ghee Onion Podi Roast,1,0,,144.0
+Roast Varieties,Ghee Onion Rava Masal Roast,1,0,,156.0
+Roast Varieties,Ghee Onion Rava Roast,1,0,,144.0
+Roast Varieties,Ghee Onion Roast,1,0,| Serves 1 |,138.0
+Roast Varieties,Ghee Podi Masal Roast,1,0,,150.0
+Roast Varieties,Ghee Podi Roast,1,0,| Serves 1 |,138.0
+Roast Varieties,Ghee Rava Masal Roast,1,0,,150.0
+Roast Varieties,Ghee Rava Roast,1,0,,131.0
+Roast Varieties,Ghee Roast,1,0,| Serves 1 |,125.0
+Roast Varieties,Masal Roast,1,0,| Serves 1 |,119.0
+Roast Varieties,Mushroom Masal Roast,1,0,,150.0
+Roast Varieties,Onion Podi Roast,1,0,,125.0
+Roast Varieties,Onion Rava Masal Roast,1,0,,138.0
+Roast Varieties,Onion Rava Roast,1,0,| Serves 1 |,125.0
+Roast Varieties,Onion Roast,1,0,,119.0
+Roast Varieties,Paneer Masal Roast,1,0,| Serves 1 |,163.0
+Roast Varieties,Podi Masal Roast,1,0,,125.0
+Roast Varieties,Podi Roast,1,0,,119.0
+Roast Varieties,Rava Masal Roast,1,0,,138.0
+Roast Varieties,Rava Podi Roast,1,0,,125.0
+Roast Varieties,Rava Roast,1,0,| Serves 1 |,113.0
+Roast Varieties,Roast,1,0,|Serves1|,98.0
+Roast Varieties,Special Rava Roast,1,0,,138.0
+Dosa & Uthappam,Butter Onion Uthappam,1,0,,131.0
+Dosa & Uthappam,Butter Podi Onion Uthappam,1,0,,138.0
+Dosa & Uthappam,Butter Podi Uthappam,1,0,,131.0
+Dosa & Uthappam,Butter Uthappam,1,0,,125.0
+Dosa & Uthappam,Carrot Uthappam,1,0,,119.0
+Dosa & Uthappam,Ghee Onion Podi Uthappam,1,0,,144.0
+Dosa & Uthappam,Ghee Onion Uthappam,1,0,| Serves 1 |,138.0
+Dosa & Uthappam,Ghee Podi Uthappam,1,0,,138.0
+Dosa & Uthappam,Ghee Uthappam,1,0,,125.0
+Dosa & Uthappam,Onion Podi Uthappam,1,0,,125.0
+Dosa & Uthappam,Onion Tomato Uthappam,1,0,,125.0
+Dosa & Uthappam,Onion Uthappam,1,0,| Serves 1 |,119.0
+Dosa & Uthappam,Plain Uthappam,1,0,|Serves1|,98.0
+Dosa & Uthappam,Podi Uthappam,1,0,,119.0
+Dosa & Uthappam,Tomato Uthappam,1,0,,119.0
+Drinks (Beverages),Apple Juice Pure,1,0,,88.0
+Drinks (Beverages),Apple Juice,1,0,,88.0
+Drinks (Beverages),Badam Milk Shake,1,0,,125.0
+Drinks (Beverages),Buttersctoch Milk Shake,1,0,,125.0
+Drinks (Beverages),Chocolate Milk Shake,1,0,,125.0
+Drinks (Beverages),Madhulai Juice Pure,1,0,,150.0
+Drinks (Beverages),Madhulai Juice,1,0,,100.0
+Drinks (Beverages),Mulambalam Juice,1,0,,75.0
+Drinks (Beverages),Pine Apple Juice Pure,1,0,,75.0
+Drinks (Beverages),Pine Apple Juice,1,0,,75.0
+Drinks (Beverages),Vannila Milk Shake,1,0,,113.0
+Drinks (Beverages),Water Melon Juice Pure,1,0,| Serves 1 |,69.0
+Drinks (Beverages),Water Melon Juice,1,0,,69.0

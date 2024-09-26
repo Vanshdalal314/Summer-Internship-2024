@@ -1,0 +1,48 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Milkshakes,Chickoo Milkshake,1,0,,110.0
+Milkshakes,Chikoo Chocolate Milkshake,1,0,,120.0
+Milkshakes,Chikoo Kaju Milkshake,1,0,,150.0
+Milkshakes,Rose Juice Milkshake,1,0,,90.0
+Milkshakes,Pineapple Milkshake,1,0,,90.0
+Milkshakes,Cold Coco Milkshake,1,0,,90.0
+Milkshakes,Kaju Coco Milkshake,1,0,,150.0
+Milkshakes,Kaju Anjeer Milkshake,1,0,,180.0
+Milkshakes,Kaju Milkshake [200 ml],1,0,,300.0
+Milkshakes,Kaju Anjeer Tukda Milkshake,1,0,,300.0
+Milkshakes,Kaju Badam Milkshake,1,0,,370.0
+Milkshakes,Kaju Gulkand Milkshake,1,0,,330.0
+Milkshakes,Gulkand Milkshake,1,0,,210.0
+Milkshakes,Anjeer Milkshake,1,0,,300.0
+Milkshakes,Kaju Chocolate Milkshake,1,0,,330.0
+Milkshakes,Kaju Milkshake,1,0,,330.0
+Milkshakes,Apple Milkshake,1,0,,120.0
+Milkshakes,Chocolate Milkshake,1,0,,180.0
+Milkshakes,Badam Anjeer Gulkand Milkshake,1,0,,360.0
+Milkshakes,Anjeer Badam Milkshake,1,0,,330.0
+Milkshakes,Mango Fresh Milkshake,1,0,,220.0
+Milkshakes,Kaju Mango Fresh Milkshake [Small],1,0,,340.0
+Milkshakes,Kaju Tukda Milkshake,1,0,,370.0
+Milkshakes,Mango Tin Milkshake,1,0,,150.0
+Milkshakes,Kaju Mango Tin Milkshake,1,0,,220.0
+Milkshakes,Mixed Fruit Milkshake,1,0,,450.0
+Milkshakes,Half Kaju Anjeer Milkshake,1,0,,180.0
+Juices,Mosambi Juice,1,0,,110.0
+Juices,Orange Juice,1,0,,120.0
+Juices,Ganga Jamna Juice,1,0,,120.0
+Juices,Pineapple Juice,1,0,,120.0
+Juices,Grapes Juice,1,0,,140.0
+Juices,Mixed Fruit Juice,1,0,,120.0
+Juices,Pomegranate Juice,1,0,,200.0
+Juices,Water Melon Juice,1,0,,90.0
+Juices,Green Anjeer,1,0,,220.0
+Juices,Kiwi Juice,1,0,,240.0
+Juices,Mara Mari Juice,1,0,,120.0
+Juices,Apple Juice,1,0,,200.0
+Juices,Musk Melon Juice,1,0,,110.0
+Juices,Papaya Juice,1,0,,80.0
+Juices,Kaju Mango Fresh [Small],1,0,,340.0
+Juices,Kaju Mango Fresh Big,1,0,,370.0
+Juices,Mango Fresh Big Glass,1,0,,300.0
+Juices,Mango Fresh [ Small ],1,0,,220.0
+Juices,Litchi Juice,1,0,,270.0
+Juices,Jambu,1,0,,150.0

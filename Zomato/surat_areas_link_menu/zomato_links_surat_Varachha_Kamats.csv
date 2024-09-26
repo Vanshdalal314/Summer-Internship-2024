@@ -1,0 +1,92 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Kamats Special,Vithal Batata Vada,1,0,,175.0
+Kamats Special,Misal Pav,1,0,,175.0
+Kamats Special,Masala Pav,1,0,,175.0
+Kamats Special,Idli Chilli,1,0,,175.0
+Kamats Special,Idli 65,1,0,,175.0
+Kamats Special,Dahi Vada,1,0,,175.0
+Kamats Special,Idli,1,0,Served with sambhar and chutney.,155.0
+Kamats Special,Vada,1,0,Served with sambar and chutney.,155.0
+Kamats Special,Poha,1,0,Rice flakes served with all Indori accompaniments.,125.0
+Thali and Platter,Mini Thali,1,0,Paneer Gravy+Dal Fry+2 Roti+Jeera Rice+Pickle+Salad [Subject to Availability],275.0
+Thali and Platter,Premium Thali,1,0,Paneer Gravy+Mix Vegetable+Dal Fry+2 Roti+Jeera Rice+Pickle+Salad+Papad+Sweets [Subject to Availability],399.0
+Thali and Platter,Kamats Platter,1,0,Paneer/seekh kabab/mushroom/potato marinated with Indian spices and roasted in tandoor.,450.0
+Salads,Healthy Salad,1,0,Chef secret.,175.0
+Starters,Vegetable Salt N Pepper,1,0,"Wok tossed vegetables, very popular Chinese dish to try.",255.0
+Starters,Paneer Tikka,1,0,Most loved appetizer marinated with tandoori masala & yogurt and cooked in tandoor.,275.0
+Starters,Paneer Achari Tikka,1,0,Paneer cube marinated with tandoori masala & pickle masala and cooked in tandoor.,275.0
+Starters,Paneer Pahadi Tikka,1,0,"Enticing flavor and marinated in green chilli, mint & coriander cooked in tandoor.",275.0
+Starters,Paneer Malai Tikka,1,0,Soft paneer marinated with cream & curd with ginger garlic cooked in tandoor.,275.0
+Starters,Hara Bhara Kebab,1,0,"Minced vegetable marinated with Indian spices, patties shaped and deep fry.",255.0
+Starters,Dahi ka Kebab,1,0,"Combination of yogurt and paneer seasoned with Indian spices, patties shaped and deep ... read more",255.0
+Starters,Palak Methi Motia Seekh,1,0,"Minced spinach and vegetables spiked with green herbs, skewered and roasted in tandoor.",255.0
+Starters,Vegetable Manchurian,1,0,"Most loved from Chinese cuisine, vegetable ball tossed in soya sauce.",255.0
+Starters,Tandoori Stuffed Aloo,1,0,Scooped potato barrels stuffed with spicy paneer mix and roasted in tandoor.,255.0
+Starters,Chilli Paneer and Pepper,1,0,Cottage cheese and bell pepper tossed in a chilli soya spicy sauce.,275.0
+Main Course,Methi Aloo,1,0,Potatos cooked with a choice of tampered jeera or methi,275.0
+Main Course,Aloo Gobi,1,0,,275.0
+Main Course,Aloo Hare Pyaz ki Sabji,1,0,Potato cooked with green onion and Indian spices.,275.0
+Main Course,Bhindi Masala,1,0,Lady finger cooked to perfection in Indian masala.,275.0
+Main Course,Corn Capsicum Masala,1,0,American corn & capsicum dices cooked in part with chefs hand picked spices.,275.0
+Main Course,Vegetable Kofta Curry,1,0,Minced vegetable marinated with Indian spices and ball shaped cooked in brown gravy.,300.0
+Main Course,Nazakati Kofta,1,0,A great combination paneer & palak cooked in mixed gravy flavored with Indian ... read more,355.0
+Main Course,Malai Kofta,1,0,Paneer & potato kofta cooked with creamy & mild gravy.,355.0
+Main Course,Navratan Korma,1,0,"Combination of 9 ingredients, plenty of nuts and assorted vegetable cooked with Indian ... read more",355.0
+Main Course,Methi Matar Malai,1,0,Green Pease and sauteed fenugreek cooked in white gravy along with milk & ... read more,300.0
+Main Course,Vegetable Keema Masala,1,0,Delicious preparation of minced vegetable cooked with Indian spices.,275.0
+Main Course,Sabji Diwani Handi,1,0,Mix vegetable cooked with cashew paste and tomato onion gravy little cream spinach ... read more,275.0
+Main Course,Sabji Kolhapuri,1,0,"Mix vegetable cooked with Kolhapuri spices, little extra spicy preparation.",275.0
+Main Course,Corn Palak,1,0,"A great combination of corn & spinach, flavored with Indian spices.",275.0
+Main Course,Paneer Dhaniya Adraki,1,0,Cottage cheese with ginger & lots Of coriander in brown gravy.,355.0
+Main Course,Paneer Khurchan,1,0,"Batons of paneer, capsicum and onion in a spicy tomato gravy, stewed in ... read more",355.0
+Main Course,Paneer Tikka Masala,1,0,Tandoori paneer tikka served on a bed of spicy tomato masala.,355.0
+Main Course,Kadhai Paneer,1,0,Most famous paneer preparation with onion & capsicum with Indian spices flavored with ... read more,355.0
+Main Course,Paneer Lababdar,1,0,"Paneer preparation with spicy tomato and cashew gravy, flavoured with Indian herbs.",355.0
+Main Course,Kaju Butter Masala,1,0,"Paneer preparation with spicy tomato and cashew gravy, flavoured with Indian herbs.",355.0
+Main Course,Cheese Butter Masala,1,0,"Processed cheese simmered in rich, smooth and creamy tomato gravy.",355.0
+Main Course,Dal E Dum,1,0,,355.0
+Main Course,Kamats Special Dal Makhani,1,0,,355.0
+Main Course,Tadkewali Dal,1,0,Tuvar dal tempered in a typical Punjabi style.,255.0
+Main Course,Dal Palak,1,0,Lentil simmered with shredded spinach and tempered in home style.,255.0
+Main Course,Dal Fry,1,0,Tuvar dal tempered in a typical Indian style.,255.0
+Breads,Tandoori Roti,1,0,,40.0
+Breads,Phulka,1,0,,40.0
+Breads,Naan,1,0,,55.0
+Breads,Kulcha,1,0,,55.0
+Breads,Lachha Paratha,1,0,,55.0
+Breads,Pudina Paratha,1,0,,55.0
+Breads,Methi Paratha,1,0,,55.0
+Breads,Missi Roti,1,0,,55.0
+Breads,Cheese Naan,1,0,,75.0
+Breads,Garlic Naan,1,0,,75.0
+Breads,Cheese Garlic Naan,1,0,,75.0
+Breads,Kerala Paratha,1,0,,75.0
+Rice and Biryani,Shahi Pulao,1,0,,299.0
+Rice and Biryani,Jeera Pulao,1,0,,199.0
+Rice and Biryani,Curd Rice,1,0,South Indian preparation of rice.,255.0
+Rice and Biryani,Palak Khichdi,1,0,"Unique combination of vegetables, rice, lentils with shredded spinach.",275.0
+Rice and Biryani,Dal Khichdi,1,0,"Unique combination of vegetables, rice and lentils.",275.0
+Rice and Biryani,Sofiyani Charminar Biryani,1,0,Long grained rice tossed with spiced soya chunks and vegetable.,275.0
+Rice and Biryani,Hyderabadi Biryani,1,0,Most famous Hyderabadi biryani flavoured with spinach & mint.,299.0
+Rice and Biryani,Veg Biryani,1,0,,299.0
+Fried Rice and Noodles,Wok Fried Rice,1,0,With seasonal vegetables.,255.0
+Fried Rice and Noodles,Triple Schezwan,1,0,Spicy combo of rice and noodles with fresh vegetables thrown in.,280.0
+Fried Rice and Noodles,Chilli Garlic Noodles,1,0,Soft noodles tossed with garlic and hot green chilli.,275.0
+Fried Rice and Noodles,Hakka Noodles,1,0,"Indo Chinese recipe, boiled noodles tossed with veggies, soya sauce, salt & pepper.",275.0
+Fried Rice and Noodles,Chowmein,1,0,"Stir fried noodles with soya sauce, vegetable and spices.",275.0
+Snacks and Chaat,Jalapeno and Cheese Bullets,1,0,"Spiced cheese stuffed with jalapeno, crumb fried and served with mustard mayo dip.",275.0
+Snacks and Chaat,Spring Roll,1,0,Most famous roll from Chinese cuisine.,235.0
+Snacks and Chaat,Paneer Tikka,1,0,Most loved appetizer marinated with tandoori masala & yogurt and cooked in tandoor.,325.0
+Accompaniments,Boondi Raita,1,0,,125.0
+Accompaniments,Mix Vegetable Raita,1,0,,125.0
+Accompaniments,Pineapple Raita,1,0,,125.0
+Desserts,Moong Dal Halwa,1,0,,155.0
+Desserts,Pineapple Sheera,1,0,,155.0
+Drinks (Beverages),Loaded Devil Milkshake,1,0,Fully padded extra choco.,225.0
+Drinks (Beverages),Brownie Blast Milkshake,1,0,[Veg preparation] With nutty brownie and fudge.,225.0
+Drinks (Beverages),Special Oreo Milkshake,1,0,With Oreo cookies and fudge.,225.0
+Drinks (Beverages),KitKat Hazelnut Milkshake,1,0,With KitKat bar and hazelnut.,225.0
+Drinks (Beverages),Vanillla Milkshake with Ice Cream,1,0,,225.0
+Drinks (Beverages),Vanilla Milkshake,1,0,Without ice cream.,225.0
+Drinks (Beverages),Strawberry Milkshake,1,0,Without ice cream.,225.0
+Drinks (Beverages),Chocolate Milkshake,1,0,Without ice cream.,225.0

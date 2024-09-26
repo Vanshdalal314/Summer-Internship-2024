@@ -1,0 +1,25 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dabeli,Groundnut Oil Dabeli,1,0,,40.0
+Dabeli,Amul Butter Dabeli,1,0,,50.0
+Dabeli,Amul Butter Cheese Dabeli,1,0,,70.0
+Dabeli,Mayonnaise Butter Dabeli,1,0,,70.0
+Dabeli,Amul Butter Cheese Mayonnaise Dabeli,1,0,,85.0
+Dabeli,Amul Butter Schezwan Dabeli,1,0,,70.0
+Dabeli,Gotalo dabeli,1,0,,130.0
+Snacks,Amul Butter Pav,1,0,,35.0
+Snacks,Amul Butter Mayonnaise Pav,1,0,,50.0
+Snacks,Amul Butter Garlic Pav,1,0,,40.0
+Snacks,Amul Butter Cheese Garlic Pav,1,0,,55.0
+Snacks,Amul Butter Cheese Mayonnaise Garlic Pav,1,0,,65.0
+Snacks,Collegian Bhel,1,0,,50.0
+Snacks,Kachhi Collegian Bhel,1,0,,60.0
+Snacks,Masala Sing [1 Packet],1,0,,30.0
+Snacks,Groundnut Oil Masala Pav,1,0,,40.0
+Snacks,Amul Butter Masala Pav,1,0,,50.0
+Snacks,Amul Butter Cheese Masala Pav,1,0,,65.0
+Snacks,Amul Butter Mayonnaise Masala Pav,1,0,,65.0
+Snacks,Amul Butter Schezwan Masala Pav,1,0,,65.0
+Snacks,Amul Butter Cheese Mayonnaise Masala Pav,1,0,,80.0
+Snacks,Amul Butter Cheese Mayonnaise Schezwan Masala Pav,1,0,,100.0
+Snacks,Gotalo,1,0,"Garlic, pav, cheese, mayonnaise and schezwan.",90.0
+Garlic Bread,Desi Garlic Bread,1,0,,70.0

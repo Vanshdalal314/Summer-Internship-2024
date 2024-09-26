@@ -1,0 +1,4 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Chicken Biryani,0,0,"Served with Onion/ Raita, Pathani Salad (If Available) and Spoon.",220.0
+Biryani,Chicken Special Biryani,0,0,"Served with Onion/ Raita, Pathani Salad (If Available) and Spoon.",225.0
+Biryani,Boneless Chicken Tikka Biryani,0,0,"Served with Onion/ Raita, Pathani Salad (If Available) and Spoon.",230.0

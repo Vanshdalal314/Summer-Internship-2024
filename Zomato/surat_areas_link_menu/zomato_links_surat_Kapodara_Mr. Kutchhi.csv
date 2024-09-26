@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dabeli,Kutchi Dabeli [Without Fry],1,0,"Aloo dabeli masala, sweet and spicy garlic chutney, masala sing.",40.5
+Dabeli,Kutchi Dabeli [Oil Fry],1,0,"Dabeli masala, sweet and spicy chutney, masala sing.",40.5
+Dabeli,Fruit Jam Dabeli,1,0,,45.0
+Dabeli,Butter Dabeli [Amul],1,0,,49.5
+Dabeli,Butter Garlic Dabeli [Amul],1,0,,63.0
+Dabeli,Butter Cheese Dabeli [Amul],1,0,,85.5
+Dabeli,Cheese Garlic Dabelli [Amul],1,0,,94.5
+Dabeli,Mr.kachchi Special Dabeli,1,0,"Kutchhi dabeli fried with butter, along with dry fruits toppings and cheese.",126.0
+Kadak Kutchi Bowls,Regular Kadak,1,0,"Crunchy toast pieces, mixed with masala, sing, sev.",63.0
+Kadak Kutchi Bowls,Cheese Kadak,1,0,,94.5
+Vadapav,Bombay Vadapav,1,0,,40.5
+Vadapav,Oil Fry Vadapav,1,0,,40.5
+Vadapav,Butter Vadapav [Amul],1,0,,63.0
+Vadapav,Butter Garlic Vadapav [Amul],1,0,,76.5
+Vadapav,Butter Cheese Vadapav [Amul],1,0,,99.0
+Vadapav,Butter Garlic Cheese Vadapav [Amul],1,0,,103.5

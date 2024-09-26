@@ -1,0 +1,20 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,Roast,1,0,,90.0
+South Indian,Ghee Roast,1,0,,110.0
+South Indian,Masala Roast,1,0,,110.0
+South Indian,Sambar Vadai,1,0,,37.0
+South Indian,Rava Roast,1,0,,110.0
+South Indian,Onion Roast,1,0,,110.0
+South Indian,Podi Roast,1,0,,110.0
+South Indian,Uttapam,1,0,,85.0
+South Indian,Onion Uttapam,1,0,,100.0
+South Indian,Chapati [1 Set] with Curry,1,0,,90.0
+All Day Dining,Roast,1,0,,90.0
+All Day Dining,Masala Roast,1,0,,110.0
+All Day Dining,Ghee Roast,1,0,,110.0
+All Day Dining,Onion Roast,1,0,,110.0
+All Day Dining,Rava Roast,1,0,,110.0
+All Day Dining,Podi Roast,1,0,,110.0
+All Day Dining,Uttapam,1,0,,85.0
+All Day Dining,Onion Uttapam,1,0,,100.0
+Meals,Veg Meal,1,0,Rice+Sambar+Kootu+Poriyal+Special Kulambu+Rasam+Butter Milk+Appalam,169.0

@@ -1,0 +1,23 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dabeli,Special Dabeli,1,0,,38.0
+Dabeli,Special Butter Dabeli,1,0,,38.0
+Dabeli,Special Masala Dabeli,1,0,,45.0
+Dabeli,Special Mayo Dabeli,1,0,,55.0
+Dabeli,Special Butter Cheese Dabeli,1,0,,65.0
+Dabeli,Special Cheese Dabeli,1,0,,60.0
+Snacks,Special Cheese Masala Pav,1,0,,60.0
+Snacks,Special Masala Pav,1,0,,30.0
+Snacks,Special Butter Pav,1,0,,30.0
+Snacks,Special Cheese Butter Pav,1,0,,60.0
+Snacks,Special Timepass,1,0,,75.0
+Snacks,Special Cheese Mayo Pav,1,0,,65.0
+Snacks,Special Mayo Pav,1,0,,45.0
+Snacks,Special Mayo Wafer Pav,1,0,,55.0
+Snacks,Special Butter Vada Pav,1,0,,38.0
+Snacks,Special Cheese Vada Pav,1,0,,60.0
+Snacks,Special Cheese Mayo Vada Pav,1,0,,65.0
+Snacks,Special Mayo Vada Pav,1,0,,45.0
+Snacks,Chana Dal Samosa [5 Pieces],1,0,,30.0
+Snacks,Special Butter Masala Samosa [4 Pieces],1,0,,60.0
+Snacks,Special Cheese Masala Samosa [6 Pieces],1,0,,90.0
+Snacks,Special Mayo Masala Samosa [5 Pieces],1,0,,75.0

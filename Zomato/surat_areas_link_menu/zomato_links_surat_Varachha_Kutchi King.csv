@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Veg Pizza,1,0,,130.0
+Pizza,Italian Pizza,1,0,,145.0
+Pizza,Jain Pizza,1,0,,145.0
+Pizza,Chocolate Pizza,1,0,,130.0
+Pizza,Stuffed Pizza,1,0,,145.0
+Pizza,Magherita Pizza,1,0,,145.0
+Pizza,Onion Capsicum Pizza,1,0,,145.0
+Pizza,Onion Tomato Pizza,1,0,,145.0
+Pizza,Chill Hot and Spicy Pizza,1,0,,145.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,60.0
+Burgers and Sandwiches,Cheese Veg Sandwich,1,0,"A sandwich with veggies like potato, tomato, onion and cheese and sprinkled chaat ... read more",80.0
+Burgers and Sandwiches,Chocolate Sandwich,1,0,,40.0
+Burgers and Sandwiches,Aloo Veg Mix Sandwich,1,0,,80.0
+Burgers and Sandwiches,Mexican Sandwich,1,0,,80.0
+Burgers and Sandwiches,Cheese Mexican Sandwich,1,0,,95.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,A wholesome sandwich with assorted veggies tossed in a simple dressing and grilled ... read more,145.0
+Burgers and Sandwiches,Italian Grilled Sandwich,1,0,,170.0
+Burgers and Sandwiches,Mexican Grilled Sandwich,1,0,,170.0
+Burgers and Sandwiches,Club Grilled Sandwich,1,0,A delicious sandwich made by grilling the bread which is stuffed with masala.,195.0
+Burgers and Sandwiches,Mataka Grilled Sandwich,1,0,,170.0
+Burgers and Sandwiches,Kashmiri Toast Cheese Sandwich,1,0,,200.0
+Burgers and Sandwiches,Cheese Blast Toast Sandwich,1,0,,250.0
+Burgers and Sandwiches,Paneer Cheese Grilled Sandwich,1,0,,170.0
+Burgers and Sandwiches,Cheese Veg Burger,1,0,,85.0
+Burgers and Sandwiches,Veg Burger,1,0,A Decadent Veg Burger Made With Lots Of Veggies And Tasty Sauces.,60.0
+Burgers and Sandwiches,Veg Schezwan Cheese Burger,1,0,,95.0
+Burgers and Sandwiches,Veg Mayonnaise Cheese Burger,1,0,,95.0
+Quick Bites,Bread Butter,1,0,,45.0
+Quick Bites,Cheese Bread Butter,1,0,,50.0
+Quick Bites,Bread Butter Aloo,1,0,,50.0
+Quick Bites,Cheese Bread Butter Aloo,1,0,,60.0
+Quick Bites,Bread Butter Jam,1,0,,50.0
+Quick Bites,Cheese Bread Butter Jam,1,0,,70.0
+Quick Bites,Cheese Garlic Bread,1,0,Garlic bread topped with an overload of cheese and baked to perfection.,85.0
+Quick Bites,Supremo Garlic Bread,1,0,,95.0
+Quick Bites,Cheese Chilli Garlic Bread,1,0,,95.0
+Snacks,Oil Fry Dabeli,1,0,,29.0
+Snacks,Butter Fry Dabeli,1,0,,43.0
+Snacks,Cheese Butter Fry Dabeli,1,0,,53.0
+Snacks,Bhel,1,0,"Wholesome puffed rice mixed with onions, tomatoes, green chutney, spices and topped with ... read more",55.0
+Snacks,Jain Bhel,1,0,,70.0
+Snacks,Farali Bhel,1,0,,65.0
+Snacks,Cheese Bhel,1,0,"Wholesome puffed rice mixed with onions, tomatoes, chutneys and chaat masala topped with ... read more",80.0

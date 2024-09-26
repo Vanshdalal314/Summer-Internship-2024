@@ -1,0 +1,106 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sadi Sandwiches,Bread Butter Sandwich,1,0,,60.0
+Sadi Sandwiches,Bread Butter Jam Sandwich,1,0,,70.0
+Sadi Sandwiches,Veg Sadi Sandwich,1,0,,80.0
+Sadi Sandwiches,Aloo Bread Butter Sandwich,1,0,,60.0
+Sadi Sandwiches,Only Cheese Sandwich,1,0,,120.0
+Sadi Sandwiches,Veg Sadi Cheese Sandwich,1,0,,120.0
+Sadi Sandwiches,Veg Shadi Cheese Mayo Sandwich,1,0,,140.0
+Sadi Sandwiches,Bread Butter Jam Cheese Sandwich,1,0,,140.0
+Toast Sandwiches,Bread Butter Toast Sandwich,1,0,,60.0
+Toast Sandwiches,Jam Bread Butter Toast Sandwich,1,0,,80.0
+Toast Sandwiches,Veg Toast Sanadwich,1,0,,100.0
+Toast Sandwiches,Masala Toast Sandwich,1,0,,120.0
+Toast Sandwiches,Veg Cheese Toast Sandwich,1,0,,140.0
+Toast Sandwiches,Only Cheese Toast Sandwich,1,0,,140.0
+Toast Sandwiches,Chilli Cheese Toast Sandwich,1,0,,140.0
+Toast Sandwiches,Mexican Toast Sandwich,1,0,,140.0
+Toast Sandwiches,Jam Bread Butter Cheese Toast Sandwich,1,0,,140.0
+Toast Sandwiches,Chocolate Sandwich Sadi Sandwich,1,0,,140.0
+Toast Sandwiches,Masala Cheese Toast Sanadwich,1,0,,180.0
+Toast Sandwiches,Open Cheese Toast Sandwich,1,0,,180.0
+Toast Sandwiches,Mini Chocolate Sandwich Grilled Sandwich,1,0,,180.0
+Toast Sandwiches,Mexican Cheese Toast Sandwich,1,0,,200.0
+Toast Sandwiches,Mini Chocolate Grilled Sandwich,1,0,,220.0
+Toast Sandwiches,Jumbo Chocolate Grilled Sandwich,1,0,,260.0
+Toast Sandwiches,Jumbo Chocolate Cheese Grilled Sandwich,1,0,,300.0
+Rim Jim Sandwiches,Rim Jim Sandwich,1,0,,340.0
+Rim Jim Sandwiches,Paneer Rim Jim Sandwich,1,0,,360.0
+Rim Jim Sandwiches,Paneer Tikka Rim Jim Sandwich,1,0,,400.0
+Combos,Combo Pack 1,1,0,Chilli Cheese Garlic Bread+250 ml Cold Drinks,199.0
+Combos,Combo Pack 2,1,0,Fries Burger+250 ml Cold Drinks,240.0
+Combos,Combo Pack 3,1,0,Fries Burger+250 ml Cold Drinks,240.0
+Combos,Combo Pack 4,1,0,Veg Pizza [ S ] Fries+750 ml Cold Drinks,420.0
+Combos,Combo Pack 5,1,0,Cheese Grilled+Veg Cheese Pizza [ S ] 750 ml Cold Drinks,520.0
+Combos,Combo Pack 6,1,0,Cheese Grilled+Veg Cheese Pizza [ S ] 750 ml Cold Drinks,520.0
+Sandwiches,Jumbo Veg Grilled,1,0,,200.0
+Sandwiches,Jain Grilled,1,0,,200.0
+Sandwiches,Mini Grilled,1,0,,200.0
+Sandwiches,Jumbo Cheese Grilled,1,0,,220.0
+Sandwiches,Jumbo Masala Grilled,1,0,,220.0
+Sandwiches,Jumbo Mayo Grilled,1,0,,220.0
+Sandwiches,Mini Masala Grilled,1,0,,220.0
+Sandwiches,Mayo Grilled,1,0,,220.0
+Sandwiches,Mini Cheese Grilled,1,0,,220.0
+Sandwiches,Jumbo Chilli Cheese Grilled,1,0,,240.0
+Sandwiches,Jumbo Maxican Grilled,1,0,,240.0
+Sandwiches,Jumbo Jain Cheese Grilled,1,0,,240.0
+Sandwiches,Paneer Chilli Grilled,1,0,,240.0
+Sandwiches,Mexican Grilled,1,0,,240.0
+Sandwiches,Jain Cheese Grilled,1,0,,240.0
+Sandwiches,Jumbo Mayo Cheese Grilled,1,0,,240.0
+Sandwiches,Jumbo Chili Cheese Corn Grilled,1,0,,240.0
+Sandwiches,Paneer Chilli Cheese Grilled,1,0,,240.0
+Sandwiches,Chilli Cheese Corn Grilled,1,0,,240.0
+Sandwiches,Maxican Cheese Grilled,1,0,,240.0
+Sandwiches,Jumbo Masala Cheese Grilled,1,0,,260.0
+Sandwiches,Jumbo Paneer Grilled,1,0,,260.0
+Sandwiches,Jumbo Maxican Cheese Grilled,1,0,,260.0
+Sandwiches,Mini Masala Cheese Grilled,1,0,,260.0
+Sandwiches,Veg Mayo Cheese Grilled,1,0,,260.0
+Sandwiches,Chilli Cheese Grilled,1,0,,260.0
+Sandwiches,Jumbo Paneer Cheese Grilled,1,0,,280.0
+Sandwiches,Spiced Grilled,1,0,,400.0
+Sandwiches,Special Grilled,1,0,,400.0
+Pizza,Margrita Pizza,1,0,,200.0
+Pizza,Veg Tandoori Paneer Pizza,1,0,,170.0
+Pizza,Cheese Pizza,1,0,,240.0
+Pizza,Tomato Pizza,1,0,,260.0
+Pizza,Loaded Pizza,1,0,,280.0
+Pizza,Onion Pizza,1,0,,260.0
+Pizza,Veg Cheese Pizza,1,0,,300.0
+Pizza,Corn Cheese Pizza,1,0,,300.0
+Pizza,Only Paneer Pizza,1,0,,300.0
+Pizza,Veggy Corn Cheese Pizza,1,0,,320.0
+Pizza,Farm House Pizza,1,0,,340.0
+Pizza,Paneer Yum Dum Pizza,1,0,,360.0
+Pizza,Corn Capsicum Pizza,1,0,,320.0
+Pizza,Speical Pizza,1,0,,400.0
+Pizza,Veg Paneer Cheese Pizza,1,0,,320.0
+Snacks,Butter Puff,1,0,,40.0
+Snacks,Veg Puff,1,0,,60.0
+Snacks,Chilli Puff,1,0,,70.0
+Snacks,Schezwan Puff,1,0,,70.0
+Snacks,Veg Cheese Puff,1,0,,80.0
+Snacks,Chilli Cheese Puff,1,0,,90.0
+Snacks,Schezwan Cheese Puff,1,0,,100.0
+Snacks,Salted Fries,1,0,,140.0
+Snacks,Masala Fries,1,0,,160.0
+Snacks,Cheese Garlic Bread,1,0,,160.0
+Snacks,Mayo Fries,1,0,,180.0
+Snacks,Chilli Cheese Garlic Bread,1,0,,180.0
+Snacks,Veg Garlic Cheese Bread,1,0,,200.0
+Snacks,Cheese Fries,1,0,,200.0
+Snacks,Mayo Cheese Fries,1,0,,200.0
+Snacks,Peri Peri Fries,1,0,,200.0
+Snacks,Supreme Garlic Bread,1,0,,240.0
+Snacks,Cheese Fries [Double],1,0,,240.0
+Snacks,Peri Peri Cheese Fries,1,0,,300.0
+Accompaniments,Butter,1,0,,20.0
+Accompaniments,Mayonnaise,1,0,,30.0
+Accompaniments,Wafers,1,0,,30.0
+Burgers,Aloo Tikki Burger,1,0,,100.0
+Burgers,Veg Burger,1,0,,120.0
+Burgers,Veg Cheese Burger,1,0,,140.0
+Burgers,Paneer Burger,1,0,,180.0
+Burgers,Double Cheese Burger,1,0,,200.0

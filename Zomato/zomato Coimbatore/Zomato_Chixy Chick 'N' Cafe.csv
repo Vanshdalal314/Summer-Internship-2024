@@ -1,0 +1,305 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Veg Soups,Cream Of Mushroom,1,0,,100.0
+Veg Soups,Cream Of Tomato,1,0,,100.0
+Veg Soups,French Onion Soup,1,0,,65.0
+Veg Soups,Hot & Sour Soup,1,0,,65.0
+Veg Soups,Lemon Coriander Soup,1,0,,65.0
+Veg Soups,Manchow Soup,1,0,,65.0
+Veg Soups,Veg Clear Soup,1,0,,60.0
+Non-Veg Soup,Chicken Chettinad Soup,1,0,,100.0
+Non-Veg Soup,Crab Hot Pepper Soup,1,0,,120.0
+Non-Veg Soup,Lemon Coriander Chicken,1,0,,100.0
+Non-Veg Soup,Mutton Soup,1,0,,150.0
+Non-Veg Soup,Sweet Corn Chicken Soup,1,0,,110.0
+Non-Veg Starter,Chicken Cheese Nuggets,1,0,,135.0
+Non-Veg Starter,Chicken Fingers (6Pcs),1,0,,145.0
+Non-Veg Starter,Chicken Nuggets,1,0,,110.0
+Non-Veg Starter,Chicken Popcorn Hotbox,1,0,,155.0
+Non-Veg Starter,Chicken Popcorn,1,0,,145.0
+Non-Veg Starter,Chicken Strips Hotbox,1,0,,179.0
+Non-Veg Starter,Chicken Strips,1,0,,159.0
+Chinese Veg Starter,Dragon 65,1,0,,199.0
+Chinese Veg Starter,Gobi 65,1,0,,179.0
+Chinese Veg Starter,Gobi Chilli 65,1,0,,179.0
+Chinese Veg Starter,Gobi Manchurian 65,1,0,,179.0
+Chinese Veg Starter,Golden Baby Corn,1,0,,159.0
+Chinese Veg Starter,Honey Chilli Potato,1,0,,159.0
+Chinese Veg Starter,Maharani 65,1,0,,179.0
+Chinese Veg Starter,Manchurian 65,1,0,,179.0
+Chinese Veg Starter,Monica 65,1,0,,179.0
+Chinese Veg Starter,Mushroom 65,1,0,,179.0
+Chinese Veg Starter,Paneer Dynamite,1,0,,199.0
+Chinese Veg Starter,Paneer Japnese,1,0,,239.0
+Chinese Veg Starter,Paneer Maharani 65,1,0,,199.0
+Chinese Veg Starter,Paneer Manchurian 65,1,0,,199.0
+Chinese Veg Starter,Panner 65,1,0,,199.0
+Chinese Veg Starter,Veg Ball Manchurian,1,0,,179.0
+Chinese Non-Veg Starter,Appolo Fish,1,0,,239.0
+Chinese Non-Veg Starter,Chicken 007 (Boneless),1,0,,199.0
+Chinese Non-Veg Starter,Chicken Dry Fry (With Bone),1,0,,179.0
+Chinese Non-Veg Starter,Chicken Hot Pepper (Boneless),1,0,,349.0
+Chinese Non-Veg Starter,Chicken Majestic (Boneless),1,0,,219.0
+Chinese Non-Veg Starter,Dragon Chicken (Boneless),1,0,,199.0
+Chinese Non-Veg Starter,Fish Chilli,1,0,,239.0
+Chinese Non-Veg Starter,Fish Hot Pepper,1,0,,239.0
+Chinese Non-Veg Starter,Fish Maharani,1,0,,239.0
+Chinese Non-Veg Starter,Fish Manchurian,1,0,,239.0
+Chinese Non-Veg Starter,Honey Chicken (Boneless),1,0,,199.0
+Chinese Non-Veg Starter,Hong-Kong Chicken(Boneless),1,0,,219.0
+Chinese Non-Veg Starter,Lemon Chicken (Boneless),1,0,,199.0
+Chinese Non-Veg Starter,Pineapple Chicken (Boneless),1,0,,339.0
+Wraps Continental,Mushroom Wrap,1,0,,125.0
+Wraps Continental,Paneer Wrap,1,0,,135.0
+Wraps Continental,Royal Wrap Meal,1,0,(Wrap+French Fries+Small +Lemon Juice),140.0
+Wraps Continental,Royal Wrap,1,0,,170.0
+Wraps Continental,Veg Coaktail,1,0,,120.0
+Wraps Continental,Wrap Meal,1,0,(Wrap+French Fries+Small +Lemon Juice,190.0
+Rolls Indian Style,Chicken Roll,1,0,,169.0
+Rolls Indian Style,Fish Roll,1,0,,159.0
+Rolls Indian Style,Mutton Roll,1,0,,189.0
+Rolls Indian Style,Paneer Roll,1,0,,139.0
+Rolls Indian Style,Roll Meal,1,0,(Rolls +French Fries+lemon juice),229.0
+Rolls Indian Style,Royal Roll Meal,1,0,(Rolls +French Fries+lemon juice),189.0
+Sandwiches,Bbq Paneer Sandwich,1,0,,169.0
+Sandwiches,Cheese Sandwich,1,0,,129.0
+Sandwiches,Choco Cheese,1,0,,129.0
+Sandwiches,Corn & Garlic Sandwich,1,0,,159.0
+Sandwiches,Mexican Spicy Sandwich,1,0,,149.0
+Sandwiches,Mushroom Mania,1,0,,159.0
+Sandwiches,Veg Club Sandwich,1,0,,169.0
+Sandwiches,Veg- Sandwich,1,0,,129.0
+Sandwiches,Zinker Special Sandwich,1,0,,240.0
+Non-Veg Sandwich,Bbq Chicken Sandwich,1,0,,199.0
+Non-Veg Sandwich,Chicken & Corn Sandwich,1,0,,179.0
+Non-Veg Sandwich,Chicken Mayo Sandwich,1,0,,169.0
+Non-Veg Sandwich,Chicken Sausage Sandwich,1,0,,179.0
+Non-Veg Sandwich,Chicken Tikka Sandwich,1,0,,199.0
+Non-Veg Sandwich,Garlic Chicken Sandwich,1,0,,179.0
+Non-Veg Sandwich,Salami Chicken Sandwich,1,0,,179.0
+Crispy Fried Chicken,Crispy Fried Chicken (1 Piece),1,0,,109.0
+Crispy Fried Chicken,Crispy Fried Chicken (??????),1,0,,119.0
+Crispy Fried Chicken,Crispy Fried Chicken (Boneless Hotbox),1,0,,159.0
+Crispy Fried Chicken,Crispy Fried Chicken (Boneless),1,0,,139.0
+Crispy Fried Chicken,Crispy Fried Wings,1,0,,179.0
+Veg Burgers,Veg Double Decker With Cheese,1,0,,179.0
+Veg Burgers,Veg Double Decker,1,0,,149.0
+Veg Burgers,Veg Regular Burger,1,0,,109.0
+Veg Burgers,Veg Regular With Cheese,1,0,,119.0
+Herbal Burgers,Herbal Chilli Potato Burger,1,0,,179.0
+Herbal Burgers,Herbal Chilli Potato With Cheese,1,0,,199.0
+Paneer Burgers,Paneer Double Decker Burger,1,0,,199.0
+Paneer Burgers,Paneer Double Decker With Cheese,1,0,,229.0
+Paneer Burgers,Paneer Regular Burger,1,0,| Serve 1 |,169.0
+Paneer Burgers,Paneer Regular With Cheese Burger,1,0,,189.0
+Non Veg-Burgers,Chicken Cheese Burger,1,0,,159.0
+Non Veg-Burgers,Chicken Double Decker With Cheese,1,0,,189.0
+Non Veg-Burgers,Chicken Double Decker,1,0,,169.0
+Non Veg-Burgers,Chicken Regular Burger,1,0,| Serve 1 | | Served with Hot Sauce |,129.0
+Non Veg-Burgers,Chicken Tikka Burger,1,0,,199.0
+Non Veg-Burgers,Chixy King Burger With Cheese,1,0,Fried Chicken + Chicken Patty),259.0
+Non Veg-Burgers,Chixy King Burger,1,0,Fried Chicken + Chicken Patty),240.0
+Non Veg-Burgers,Fried Chicken Zinger Burger With Cheese,1,0,,249.0
+Non Veg-Burgers,Fried Chicken Zinger Burger,1,0,,199.0
+Veg-Pizza,Cornucopia Pizza,1,0,(Sweet Corn+Garlic+Green Olives,319.0
+Veg-Pizza,Farm Fresh Pizza,1,0,Onion+ Capsicum+ Tomato+ Green Olives,299.0
+Veg-Pizza,Golden Corn Pizza,1,0,(Sweet Corn +Chees),299.0
+Veg-Pizza,Margherita Pizza,1,0,(Cheese + Green Olives),299.0
+Veg-Pizza,Spicy Tripple Tango,1,0,(Mushroom+Corn+Black Olives+Capsicum+Jalapeno + Tomato+ Onion+ Pepper),419.0
+Veg-Pizza,Veg Fantasy Pizza,1,0,(Mushroom+Garlic+ Capsicum+ ??????),299.0
+Veg-Pizza,Veg Supreme Pizza,1,0,(Paneer+Capsicum+Onion+Tomato + Green Olives,359.0
+Non Veg-Pizza,Bbq Chicken Pizza,1,0,Tomato+Black Olives+ Bbq+Chicken),359.0
+Non Veg-Pizza,Caprese Sausage,1,0,(Chicken+Sausage+Capsicum+Green+Olives+Tomato + Onion),359.0
+Non Veg-Pizza,Chicken Carnival,1,0,(Salami Chicken+ Sausage+ Spicychicken+ Capsicum+ Tomato + Onion+Green Olives),419.0
+Non Veg-Pizza,Chicken Tikka Pizza,1,0,(Chicken+Tikka+ Capsicum+ Tomato + Green+Olives+ Onion),419.0
+Non Veg-Pizza,Fried Chicken Fiesta,1,0,Crispy Fried+Chicken+Capsicum+ Tomato+ Onion++Balck Olives+ Jalapeno),479.0
+Non Veg-Pizza,Pizza Chicken Supreme,1,0,(Chicken+Tikka+Capsicum+Tomato +Green+Olives + Onion),329.0
+Non Veg-Pizza,Salami Surprize,1,0,(Salami Chicken+Sausage+Spicy+Chicken+Capsicum+Tomato+Onion + Green Olives),329.0
+Non Veg-Flavours,Chicken Tikka,1,0,,229.0
+Non Veg-Flavours,Tandoori Chicken,1,0,,299.0
+Veg-Gravies,Aloo Gobi Masala,1,0,,179.0
+Veg-Gravies,Green Peas Masala,1,0,,189.0
+Veg-Gravies,Mathi Chaman,1,0,,289.0
+Veg-Gravies,Mix Veg Curry,1,0,,219.0
+Veg-Gravies,Mushroom Masala,1,0,,199.0
+Veg-Gravies,Mutter Paneer,1,0,,229.0
+Veg-Gravies,Paneer Butter Masala,1,0,,229.0
+Veg-Gravies,Paneer Manchurian,1,0,,229.0
+Veg-Gravies,Veg Kadai,1,0,,179.0
+Non Veg-Gravies,Beef Pepper Fry,1,0,,219.0
+Non Veg-Gravies,Beef Pepper Korma,1,0,,219.0
+Non Veg-Gravies,Butter Chicken Masala,1,0,,239.0
+Non Veg-Gravies,Chicken Do Pyaza,1,0,,239.0
+Non Veg-Gravies,Chicken Tikka Masala,1,0,,239.0
+Non Veg-Gravies,Fish Masala,1,0,,239.0
+Non Veg-Gravies,Garlic Chicken Masala,1,0,,209.0
+Non Veg-Gravies,Hyderabad Chicken Masala,1,0,,239.0
+Non Veg-Gravies,Kasturi Murg Masala,1,0,,209.0
+Non Veg-Gravies,Mutton Pepper Masala,1,0,,319.0
+Non Veg-Gravies,Mutton Rogan Josh,1,0,,319.0
+Non Veg-Gravies,Navabi Chicken Masala,1,0,,239.0
+Non Veg-Gravies,Nilgiris Chicken Masala,1,0,,239.0
+Veg-Rice,Cashew Pulav,1,0,,229.0
+Veg-Rice,Egg Fried Rice,1,0,,159.0
+Veg-Rice,Egg Fried Schezwan Rice,1,0,,169.0
+Veg-Rice,Ghee Rice,1,0,,169.0
+Veg-Rice,Jeera Rice,1,0,,169.0
+Veg-Rice,Mix Veg Fried Rice,1,0,,179.0
+Veg-Rice,Mix Veg Schezwan Rice,1,0,,189.0
+Veg-Rice,Mushroom Fried Rice,1,0,,159.0
+Veg-Rice,Mushroom Schezwan,1,0,,169.0
+Veg-Rice,Paneer Fried Rice,1,0,,169.0
+Veg-Rice,Paneer Schezwan Rice,1,0,,179.0
+Veg-Rice,Veg Fried Rice,1,0,,159.0
+Veg-Rice,Veg Pula,1,0,,169.0
+Veg-Rice,Veg Schezwan Rice,1,0,,169.0
+Non Veg-Rice,Beef Briyani,1,0,(Malabari Style),179.0
+Non Veg-Rice,Chicken Fried Rice,1,0,,179.0
+Non Veg-Rice,Dum Chicken Briyan,1,0,,169.0
+Non Veg-Rice,Dum Egg Briyani,1,0,,149.0
+Non Veg-Rice,Malabari Egg Briyani,1,0,,149.0
+Non Veg-Rice,Mix Non-Veg Fried Rice,1,0,,239.0
+Non Veg-Rice,Mix Non-Veg Schezwan Rice,1,0,,249.0
+Non Veg-Rice,Mutton Fried Rice,1,0,,229.0
+Non Veg-Rice,Mutton Schezwan Rice,1,0,,239.0
+Non Veg-Rice,Prawn Fried Rice,1,0,,229.0
+Non Veg-Rice,Prawn Schezwan Rice,1,0,,239.0
+Non Veg-Rice,Schezwan Chicken Fried Rice,1,0,,189.0
+Veg -Noodles,Hakka Noodles,1,0,,169.0
+Veg -Noodles,Mix Veg Noodles,1,0,,189.0
+Veg -Noodles,Mushroom Noodles,1,0,,159.0
+Veg -Noodles,Paneer Noodles,1,0,,169.0
+Veg -Noodles,Regular Veg Noodles,1,0,,159.0
+Veg -Noodles,Schezwan Mix Veg Noodles,1,0,,199.0
+Veg -Noodles,Schezwan Mushroom Noodles,1,0,,169.0
+Veg -Noodles,Schezwan Paneer Noodles,1,0,,179.0
+Veg -Noodles,Veg Schezwan Noodle,1,0,,169.0
+Non Veg-Noodles,Chicken Noodles,1,0,,179.0
+Non Veg-Noodles,Hong-Kong Noodles,1,0,,189.0
+Non Veg-Noodles,Mix Non Veg Noodles,1,0,,239.0
+Non Veg-Noodles,Mutton Noodles,1,0,,229.0
+Non Veg-Noodles,Prawn Noodles,1,0,,229.0
+Non Veg-Noodles,Schezwan Chicken Noodles,1,0,,189.0
+Non Veg-Noodles,Schezwan Mix Non Veg Noodles,1,0,,249.0
+Non Veg-Noodles,Schezwan Mutton Noodles,1,0,,239.0
+Non Veg-Noodles,Schezwan Prawn Noodles,1,0,,239.0
+Fried Chicken Combo,Hotbox Baby Chick Combo,1,0,(Crispy Chicken 1Pcs+Fresh+Bun+French Fries+Chef Special+Mayonnaise+ Ketchup),159.0
+Fried Chicken Combo,Hotbox Crispy Bucket,1,0,Crispy Chicken 10Pcs+ Chef Special Mayonnaise+ Ketchup),1060.0
+Fried Chicken Combo,Hotbox Dinner Chick Combo,1,0,Crispy Chicken 4Pcs+ Fresh+Bun+French Fries+ Chef+Special Mayonnaise+ Ketchup),410.0
+Fried Chicken Combo,Hotbox Jumbo Chick Combo,1,0,(Crispy Chicken 18Pcs+Fresh+Bun+ French Fries+ Chef+Special Mayonnaise+ Ketchup),1899.0
+Fried Chicken Combo,Hotbox Party Chick Combo,1,0,(Crispy Chicken 8Pcs+Fresh+Bun+ French Fries+ Chef+Special Mayonnaise+Ketchup),790.0
+Fried Chicken Combo,Hotbox Royal Chicken Combo,1,0,(Crispy Chicken 2 Pos+ Fresh Bun+French Fries+Chef Special+Mayonnaise Ketchup,240.0
+Fried Chicken Combo,Hotbox Tender Chick Combo,1,0,(Crispy Chicken 6Pos+Fresh Bun+French Fries+ Chef Special+Mayonnaise+ Ketchup,600.0
+Fried Chicken Combo,Regular Baby Chick Combo,1,0,(Crispy Chicken 1Pcs+Fresh+Bun+French Fries+Chef Special+Mayonnaise+ Ketchup),139.0
+Fried Chicken Combo,Regular Crispy Bucket,1,0,Crispy Chicken 10Pcs+ Chef Special Mayonnaise+ Ketchup),830.0
+Fried Chicken Combo,Regular Dinner Chick Combo,1,0,Crispy Chicken 4Pcs+ Fresh+Bun+French Fries+ Chef+Special Mayonnaise+ Ketchup),360.0
+Fried Chicken Combo,Regular Jumbo Chick Combo,1,0,(Crispy Chicken 18Pcs+Fresh+Bun+ French Fries+ Chef+Special Mayonnaise+ Ketchup),1799.0
+Fried Chicken Combo,Regular Party Chick Combo,1,0,(Crispy Chicken 8Pcs+Fresh+Bun+ French Fries+ Chef+Special Mayonnaise+Ketchup),690.0
+Fried Chicken Combo,Regular Royal Chicken Combo,1,0,(Crispy Chicken 2 Pos+ Fresh Bun+French Fries+Chef Special+Mayonnaise Ketchup,200.0
+Fried Chicken Combo,Regular Tender Chick Combo,1,0,(Crispy Chicken 6Pos+Fresh Bun+French Fries+ Chef Special+Mayonnaise+ Ketchup,530.0
+Rice Combos,Bucket Briyani Dum Style Combo,1,0,,580.0
+Rice Combos,Bucket Briyani Malabar Style Combo,1,0,,1060.0
+Rice Combos,Dum Plain Briyani + Tandoori Chicken (Quarter),1,0,,299.0
+Rice Combos,Ghee Rice With Beef Dry Fry,1,0,,239.0
+Rice Combos,Ghee Rice With Chilly Chicken,1,0,,239.0
+Rice Combos,Ghee Rice With Pepper Chicken Dry,1,0,,239.0
+Rice Combos,Malabari Plain Briyani + Tandoori Chicken,1,0,,299.0
+Burger Combos,Chicken Burger Combo,1,0,(Chicken Regular Burger +French Fries+ Lemon Organic),189.0
+Burger Combos,Chicken Tikka Burger Combo,1,0,(Regular Chicken Tikka+Burger + French Fries +Lemon Organic),199.0
+Burger Combos,Veg Burger Combo,1,0,(Veg Regular Burger +French Fries + Lemonorganic,169.0
+Burger Combo Meal,Chicken Combo Meal,1,0,Regular Chicken Burger +Crispy Chicken 1Pcs + French Fries + Lemon Juice),259.0
+Burger Combo Meal,Chicken Tikka Combo Meal,1,0,(Regular Tikka Burger + Crispy Chicken Ipcs + French Fries + Lemon Juice),259.0
+Burger Combo Meal,Veg Combo Meal,1,0,Regular Veg Burger + Vegnuggets 4 Pcs + Frenchfries + Lemon Juice),239.0
+Burger Combo Bag,Chicken Combo Bag,1,0,(Regular Chicken Burger+Chicken Sandwich+ French,359.0
+Burger Combo Bag,Chicken Tikka Combo Bag,1,0,Chicken Tikka Burger+ Chicken Tikka Sandwich+ French Fries+ Cool Blue Mojito),339.0
+Burger Combo Bag,Veg Combo Bag,1,0,(Veg Regular Burger + Veg Sandwich + French Fries + Cool Blue Mojito),309.0
+Lassi,Badam Lassi,1,0,,70.0
+Lassi,Butterscotch Lassi,1,0,,70.0
+Lassi,Chocolate Lassi,1,0,,70.0
+Lassi,Mango Lassi,1,0,,70.0
+Lassi,Pista Lassi,1,0,,70.0
+Lassi,Salt Lassi,1,0,,60.0
+Lassi,Strawberry Lassi,1,0,,70.0
+Lassi,Sweet Lassi,1,0,,60.0
+Smoothies,Guva Smoothie,1,0,,99.0
+Smoothies,Kiwi Smoothies,1,0,,99.0
+Smoothies,Lichi Smoothies,1,0,,99.0
+Smoothies,Mango Smoothies,1,0,,99.0
+Smoothies,Orange Smoothies,1,0,,99.0
+Smoothies,Pineapple Smoothie,1,0,,99.0
+Smoothies,Pista Smoothie,1,0,,99.0
+Smoothies,Strawberry Smoothies,1,0,,99.0
+Smoothies,Tender Coconut Smoothi,1,0,,99.0
+Organic,Ginger Organic,1,0,,49.0
+Organic,Lemon Organic,1,0,,40.0
+Organic,Mint Organic,1,0,,49.0
+Mojito,Blue Berry,1,0,,99.0
+Mojito,Cool Blue,1,0,,99.0
+Mojito,Green Apple,1,0,,99.0
+Mojito,Kacha Mango Mojito,1,0,,99.0
+Mojito,Kiwi Mojito,1,0,,99.0
+Mojito,Lemon Grass,1,0,,99.0
+Mojito,Lichi Mojito,1,0,,99.0
+Mojito,Mentho Mint,1,0,,99.0
+Mojito,Orange Mojito,1,0,,99.0
+Mojito,Passion Fruit Mojito,1,0,,99.0
+Mojito,Pineapple Mojito,1,0,,99.0
+Mojito,Strawberry Mojito,1,0,,99.0
+Mojito,Watermelon,1,0,,99.0
+Chillouts (Sodas),Blue Berry Soda,1,0,,59.0
+Chillouts (Sodas),Ginger Lime Soda,1,0,,59.0
+Chillouts (Sodas),Green Apple Soda,1,0,,59.0
+Chillouts (Sodas),Green Chilly Soda,1,0,,59.0
+Chillouts (Sodas),Jeera Soda,1,0,,59.0
+Chillouts (Sodas),Salt Lime Soda,1,0,,45.0
+Chillouts (Sodas),Strawberry Soda,1,0,,59.0
+Chillouts (Sodas),Sweet Lime Soda,1,0,,45.0
+Granitas,Blue Berry Granitas,1,0,,99.0
+Granitas,Blue Curacao,1,0,,99.0
+Granitas,Guva Granitas,1,0,,99.0
+Granitas,Kacha Mango Granitas,1,0,,99.0
+Granitas,Kiwi Granitas,1,0,,99.0
+Granitas,Lemon Crush,1,0,,99.0
+Granitas,Lichi Granitas,1,0,,99.0
+Granitas,Mango Granitas,1,0,,99.0
+Granitas,Pineapple Granitas,1,0,,99.0
+Granitas,Strawberry Granitas,1,0,,99.0
+Granitas,Watermelon Granitas,1,0,,99.0
+Cold Coffee,Ice Cream Cold Coffee,1,0,,160.0
+Cold Coffee,Kitkat Cold Coffee,1,0,,160.0
+Cold Coffee,Mint Cold Coffee,1,0,,150.0
+Cold Coffee,Oreo Cold Coffee,1,0,,160.0
+Cold Coffee,Regular Cold Coffee,1,0,,150.0
+Cold Coffee,Snickers Cold Coffee,1,0,,160.0
+Extras,Cheese,1,0,,35.0
+Extras,Mayonnaise Sauce Dip,1,0,,35.0
+Shakes ( Ice Cream),Balck Currant,1,0,,99.0
+Shakes ( Ice Cream),Butterscotch,1,0,,99.0
+Shakes ( Ice Cream),Chocolate,1,0,,99.0
+Shakes ( Ice Cream),Green Pista,1,0,,99.0
+Shakes ( Ice Cream),Mango Shake,1,0,,99.0
+Shakes ( Ice Cream),Orange Shake,1,0,,99.0
+Shakes ( Ice Cream),Pineapple Shake,1,0,,99.0
+Shakes ( Ice Cream),Strawberry,1,0,,99.0
+Shakes ( Ice Cream),Vanilla,1,0,,99.0
+Chixy Shakes,Boreborn Shakes,1,0,,140.0
+Chixy Shakes,Brownie,1,0,,140.0
+Chixy Shakes,Coffee Shakes,1,0,,140.0
+Chixy Shakes,Dates Shakes,1,0,,140.0
+Chixy Shakes,Dry Fruit Shake,1,0,,140.0
+Chixy Shakes,Kitkat Shakes,1,0,,140.0
+Chixy Shakes,Nutella Shake,1,0,,140.0
+Chixy Shakes,Oreo Shake,1,0,,140.0
+Chixy Shakes,Pina Colada Boost,1,0,,140.0
+Chixy Shakes,Snickers Shakes,1,0,,140.0
+Ice Cream (2Scoop),Black Currant,1,0,,110.0
+Ice Cream (2Scoop),Butterscotch Icecream,1,0,,90.0
+Ice Cream (2Scoop),Choco6,1,0,,100.0
+Ice Cream (2Scoop),Coffee Icecream,1,0,,100.0
+Ice Cream (2Scoop),Mango Icecream,1,0,,75.0
+Ice Cream (2Scoop),Pineapple Icecream,1,0,,75.0
+Ice Cream (2Scoop),Pista Icecream,1,0,,100.0
+Ice Cream (2Scoop),Strawberry Icecream,1,0,,75.0
+Ice Cream (2Scoop),Tender Coconut Icecream,1,0,,110.0
+Ice Cream (2Scoop),Vanilla Icecream,1,0,,75.0
+Desserts,Brownie With Chocolate Sauce,1,0,,100.0
+Desserts,Brownie With Vanilla Ice Cream,1,0,,120.0

@@ -1,0 +1,38 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Drinks (Beverages),Filter Coffee,1,0,,160.0
+Drinks (Beverages),Black Coffee,1,0,,160.0
+Drinks (Beverages),Tea,1,0,,160.0
+Drinks (Beverages),Black Tea,1,0,,160.0
+Drinks (Beverages),Masala Tea,1,0,,160.0
+Drinks (Beverages),Ginger Tea,1,0,,160.0
+Drinks (Beverages),Ginger Lemon Tea,1,0,,160.0
+Drinks (Beverages),Lemon Tea,1,0,,160.0
+Drinks (Beverages),Green Tea,1,0,,160.0
+Drinks (Beverages),Sulaimani Tea,1,0,,160.0
+Drinks (Beverages),Milk,1,0,,160.0
+Drinks (Beverages),Cold Coffee,1,0,,85.0
+Drinks (Beverages),Nannari Sarbath,1,0,,55.0
+Drinks (Beverages),Badam Milk,1,0,,85.0
+Drinks (Beverages),Rose Milk,1,0,,70.0
+Sandwiches,Veg Sandwich,1,0,,70.0
+Sandwiches,Cheese Sandwich,1,0,,85.0
+Sandwiches,Chilli Cheese Sandwich,1,0,,100.0
+Snacks,Cookies [3 Pieces],1,0,,20.0
+Snacks,Osmania Cookies [3 Pieces],1,0,,25.0
+Snacks,Sundal,1,0,,45.0
+Snacks,Verkadalai,1,0,,45.0
+Snacks,Sweet Corn,1,0,,50.0
+Snacks,Aloo Samosa,1,0,,40.0
+Snacks,Veg Puff,1,0,,35.0
+Snacks,Special Paneer Puff,1,0,,50.0
+Snacks,Onion Samosa [2 Pieces],1,0,,40.0
+Snacks,Chilli Bajji [2 Pieces],1,0,,45.0
+Snacks,Vazhaka Bajji [2 Pieces],1,0,,45.0
+Snacks,Masala Fries,1,0,,100.0
+Snacks,French Fries,1,0,,70.0
+Snacks,Nendram Bajji [2 Pieces],1,0,,45.0
+Maggi,Classic Maggi,1,0,,60.0
+Maggi,Veg Masala Maggi,1,0,,70.0
+Maggi,Chilli Cheese Maggi,1,0,,70.0
+Desserts,Tea Cake,1,0,,50.0
+Desserts,Cupcake [1 Piece],1,0,"Carrot ,banana,choco",35.0

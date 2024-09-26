@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Khaman,Sada Khaman,1,0,Sada khaman is a popular Guajarati snack that's known for its soft and ... read more,25.0
+Khaman,Sada Khaman [without Chutney],1,0,Sada khaman is a popular Guajarati snack that's known for its soft and ... read more,21.25
+Khaman,Vagharela Sev Khaman,1,0,"Vagharela khaman is a delightful and savory snack with a balance of sweet, ... read more",50.0
+Khaman,Vaghrela Khaman,1,0,"Vagharela khaman is a delightful and savory snack with a balance of sweet, ... read more",45.0
+Locho,Butter Locho,1,0,Butter locho is a variation of the popular Surat street food known as ... read more,75.0
+Locho,Oil Locho,1,0,Oil locho is a delicious blend of textures and flavors with the softness ... read more,42.5
+Locho,Plain Locho,1,0,"Plain locho is a simple and mildly flavored dish, perfect for those who ... read more",25.0
+Locho,Plain Locho [Without Chutney],1,0,"Plain locho is a simple and mildly flavored dish, perfect for those who ... read more",21.25
+Idada,Oil Idada,1,0,Oil idra is a popular snack in the Guajarati cuisine of India. It's ... read more,42.5
+Idada,Vaghrela Idada,1,0,Vaghrela idra is a delicious Gujarati snack made from fermented rice and urad ... read more,45.0
+Idada,Sada Idada,1,0,Sada idra is a popular Gujarati snack that is similar to khaman dhokla ... read more,25.0
+Idada,Sada Idada [Without Chutney],1,0,Sada idra is a popular Gujarati snack that is similar to khaman dhokla ... read more,21.25
+Khiru,Locha nu Khiru,1,0,,90.0
+Khiru,Locha nu Khiru [Without Chutney],1,0,,75.0
+Khiru,Idada nu Khiru [Without Chutney],1,0,,71.0
+Sev,Sev,1,0,,10.0

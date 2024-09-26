@@ -1,0 +1,14 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Breads,1 Parotta,1,0,,35.0
+Breads,Wheat Parotta,1,0,,40.0
+Breads,Veechu Parotta,1,0,,35.0
+Breads,Chilli Parotta,1,0,,140.0
+Breads,Ceylon Paratha,1,0,,90.0
+Breads,Ceylon Chicken Paratha,1,0,,195.0
+Breads,Chapati,1,0,,35.0
+Breads,Egg Chapati,1,0,,50.0
+Breads,Bun Parotta,1,0,,50.0
+Breads,Nool Parotta,1,0,,50.0
+Egg,Omelette,1,0,,30.0
+Egg,Full Boiled Egg,1,0,,20.0
+Egg,Egg Poriyal,1,0,,50.0

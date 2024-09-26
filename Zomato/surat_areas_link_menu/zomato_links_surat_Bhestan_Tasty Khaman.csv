@@ -1,0 +1,30 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Khaman and Dhokla,Sada Khaman,1,0,A popular Gujarati dish made with steamed dumplings of soft and spongy texture.,40.0
+Khaman and Dhokla,Rasawala Khaman [1 Plate],1,0,Soft and fluffy steamed khameeri khaman with rich and flavorful spices. A great ... read more,50.0
+Khaman and Dhokla,Sev Khaman,1,0,A crispy and savoury snack made with chickpea flour that is both delicious ... read more,35.0
+Khaman and Dhokla,Nylon Khaman,1,0,"A fluffy, light and spongy sweet dish made with nylon cloth. A traditional ... read more",80.0
+Khaman and Dhokla,Sev Khamani,1,0,A crunchy and flavourful snack made with a variety of vegetables and spices.,80.0
+Khaman and Dhokla,Sweet Corn Dhokla,1,0,Served with garlic chutney.,35.0
+Khaman and Dhokla,Fafda,1,0,"Served with chutney, mirchi and onion.",60.0
+Khaman and Dhokla,Sev,1,0,,15.0
+Khaman and Dhokla,Green Chutney [100 grams],1,0,,10.0
+Locho,Oil Locho,1,0,A delicious and savory dish made with flavorful oil that adds a unique ... read more,35.0
+Locho,Butter Locho,1,0,,100.0
+Locho,Cheese Butter Locho,1,0,,150.0
+"Idada, Patra and Patudi",Sada Idada,1,0,"A classic South Indian breakfast dish with a soft, pillowy texture and a ... read more",35.0
+"Idada, Patra and Patudi",Vagharela Idada,1,0,"A spicy and tangy dish made with green chillies, mustard seeds, and curry ... read more",35.0
+"Idada, Patra and Patudi",Sada Patra,1,0,Sada Patras are a popular Maharashtrian snack made with crisp and soft patra ... read more,50.0
+"Idada, Patra and Patudi",Vagharela Patra [250 grams],1,0,A crispy and spicy fried dish with a hint of sweetness from the ... read more,80.0
+"Idada, Patra and Patudi",Patudi,1,0,"Patudi, a popular Bengali dish, made with a mix of spices and ingredients.",40.0
+"Samosa, Kachori and Pattice",Kachori [1 Piece],1,0,A savory Indian pastry filled with spicy potatoes and served with a chutney ... read more,20.0
+"Samosa, Kachori and Pattice",Punjabi Samosa [1 Piece],1,0,1 Piece,20.0
+"Samosa, Kachori and Pattice",Dal Kanda Samosa,1,0,"Dal Kanda Samosa deepfried pastry filled with spicy dal and potato, garnished with ... read more",50.0
+"Samosa, Kachori and Pattice",Chinese Samosa,1,0,A crispy pastry filled with a savory blend of vegetables and spices. Perfect ... read more,50.0
+"Samosa, Kachori and Pattice",Lila Nariyal Pattice,0,0,"Crisp and delicious patties made with coconut and prawns, served with a side ... read more",100.0
+"Samosa, Kachori and Pattice",Dahi Kachori [1 Plate],1,0,,60.0
+"Samosa, Kachori and Pattice",Cheese Pocket [1 Piece],1,0,,40.0
+"Vada Pav, Bhajiya and Dabeli",Vada Pav,1,0,,30.0
+"Vada Pav, Bhajiya and Dabeli",Bread Pakoda [1 Piece],1,0,"A crispy, crunchy, and delicious snack made with bread batter, deepfried to perfection.",30.0
+"Vada Pav, Bhajiya and Dabeli",Mixed Bhajiya,1,0,"A delicious assortment of four deepfried Indian snacks including Samosa, Pakoda, Bhel Puri, ... read more",100.0
+"Vada Pav, Bhajiya and Dabeli",Misal Pav,1,0,Misal pav is a traditional dish from Maharashtra made with a spicy curry ... read more,70.0
+Dessert,Jalebi,1,0,"A sweet dish with a crispy exterior and soft, chewy, and sweet interior.",30.0

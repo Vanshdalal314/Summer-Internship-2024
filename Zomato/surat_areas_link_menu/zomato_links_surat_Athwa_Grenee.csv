@@ -1,0 +1,59 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Maska Bun,Maska Bun,1,0,Tastes best with tea.,55.0
+Maska Bun,Bun Maska Jam,1,0,,75.0
+Maska Bun,Chocolate Maska Bun,1,0,,75.0
+Pizza,Veg Cheese Ulta Pizza [7 inches],1,0,"Tomato,onion,capsicum",185.0
+Pizza,Cheese Ulta Pizza [7 inches],1,0,,195.0
+Pizza,Italiano Ulto Pizza [7 inches],1,0,"Black olives, green olives, red and green capsicum, tomato and mozzarella cheese.",205.0
+Pizza,Veg Cheese Pizza [7 inches],1,0,,175.0
+Pizza,Veg Schezwan Pizza [7 inches],1,0,"Jain not available Tomato,onion,capsicum",185.0
+Pizza,Cheese Pizza [7 inches],1,0,,185.0
+Pizza,Cheese Mozzarella Pizza [7 inches],1,0,,195.0
+Pizza,Tandoori Paneer Pizza [7 inches],1,0,,195.0
+Pizza,Italiano Pizza [7 inches],1,0,"Black Olives,green olives,capsicum,onion and mozzarella cheese.",195.0
+Sandwiches,Veg Sandwich,1,0,Hearty sandwich stuffed generously with assorted seasoned vegetables served with sauce,60.0
+Sandwiches,Veg Cheese Sandwich,1,0,Raw Vegetable Sandwich with Cheese,85.0
+Sandwiches,Chutney Sandwich,1,0,,50.0
+Sandwiches,Bread Butter Sandwich,1,0,,40.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,60.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,60.0
+Sandwiches,Chocolate Sandwich,1,0,,95.0
+Sandwiches,Peri Peri Veg. Sandwich,1,0,Jain not available,75.0
+Toast Sandwiches,Bread Butter Toast Sandwich,1,0,,55.0
+Toast Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,65.0
+Toast Sandwiches,Veg Toast Sandwich,1,0,,70.0
+Toast Sandwiches,Veg Cheese Toast Sandwich,1,0,"Hearty sandwich stuffed generously with assorted seasoned vegetables, cheese and toasted to perfection.",90.0
+Toast Sandwiches,Aloo Masala Toast Sandwich,1,0,,95.0
+Toast Sandwiches,Chocolate Brownie Toast Sandwich,1,0,,95.0
+Toast Sandwiches,Pizza Toast Sandwich,1,0,,95.0
+Toast Sandwiches,Cheese Chilli Toast Sandwich,1,0,,95.0
+Mayonnaise Sandwiches,Mayonnaise Cheese Bread Sandwich,1,0,,80.0
+Mayonnaise Sandwiches,Mayonnaise Veg Sandwich,1,0,,85.0
+Mayonnaise Sandwiches,Mayonnaise Veg Cheese Grilled Sandwich,1,0,,190.0
+Mayonnaise Sandwiches,Peri Peri Mayonnaise Grilled Sandwich,1,0,,200.0
+Grilled Sandwiches,Cheese Grilled Sandwich,1,0,,180.0
+Grilled Sandwiches,Chocolate Grilled Sandwich,1,0,,190.0
+Grilled Sandwiches,Grenee Special Grilled Sandwich,1,0,,200.0
+Grilled Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,,200.0
+Garlic Bread,Cheese Garlic Bread [4 Pieces],1,0,,160.0
+Garlic Bread,Cheese Schezwan Garlic Bread [4 Pieces],1,0,Jain not available,170.0
+Garlic Bread,Cheese Chilli Garlic Bread,1,0,,170.0
+Open Toast,Open Toast,1,0,,85.0
+Open Toast,Open Toast Schezwan,1,0,Jain not available,95.0
+Open Toast,Open Mozzarella Toast,1,0,,100.0
+Biscuit Pie,Crunchy Bite,1,0,,100.0
+Biscuit Pie,Tandoori Crunchy Bite,1,0,,110.0
+Burgers,Veg Supreme Burger,1,0,Jain not available,75.0
+Burgers,Veg. Supreme Cheese Burger,1,0,Jain not available,95.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Adrak Masala Tea [400ml],1,0,,100.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Lemon Grass Pudina Tea [400 ml],1,0,,100.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Hot Lemon Tea [400 ml],1,0,,110.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Honey Lemon Tea [400 ml],1,0,,120.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Iced Tea,1,0,,75.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Cold Coffee,1,0,,85.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Hot Coffee [400 ml],1,0,,125.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Black Coffee [400 ml],1,0,,140.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Cold Chocolate,1,0,,100.0
+"Tea, Coffee Hot Chocolate Ice Tea Cold Coffee Cold Chocolate",Hot Chocolate [400 ml],1,0,,135.0
+Khakhra Pizza,Khakhra Veg. Pizza,1,0,,160.0
+Khakhra Pizza,Khakhra Tandoori Pizza,1,0,,170.0

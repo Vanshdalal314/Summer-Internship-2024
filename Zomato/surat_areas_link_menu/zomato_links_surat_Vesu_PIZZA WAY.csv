@@ -1,0 +1,30 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Capsicum Pizza [7 Inches],1,0,,99.0
+Pizza,Corn Pizza [7 Inches],1,0,,99.0
+Pizza,Onion Pizza [7 Inches],1,0,,99.0
+Pizza,Tomato Pizza [7 Inches],1,0,,99.0
+Pizza,Capsicum Corn Pizza [7 Inches],1,0,,129.0
+Pizza,Onion Capsicum Pizza [7 Inches],1,0,,129.0
+Pizza,Onion Paneer Pizza [7 Inches],1,0,,159.0
+Pizza,Tomato Golden Corn Pizza [7 Inches],1,0,,129.0
+Pizza,Country Special Pizza,1,0,"Onion, capsicum, tomato.",199.0
+Pizza,Deluxe Veggie Pizza,1,0,"Onion, capsicum, corn, paneer, mushroom.",225.0
+Pizza,Farm House Pizza,1,0,"Onion, capsicum, tomato, mushroom.",199.0
+Pizza,Fresh Veggie Pizza,1,0,"Onion, capsicum.",187.0
+Pizza,Gourmet Pizza,1,0,"Black olive, jalapeno, corn.",199.0
+Pizza,Margherita Single Cheese Pizza,1,0,,159.0
+Pizza,Mexican Green Wave Pizza,1,0,"Onion, capsicum, tomato, jalapeno.",210.0
+Pizza,Paneer Spicy Pizza,1,0,"Capsicum, green chilli, paneer.",199.0
+Pizza,Peppy Paneer Pizza,1,0,"Capsicum, red pepper, paneer.",199.0
+Pizza,Veg Extravaganza Pizza,1,0,"Onion, capsicum, tomato, mushroom, golden corn, jalapeno, black olives.",239.0
+Pizza,Veg Supreme Pizza,1,0,"Paneer, corn, mushroom.",210.0
+Pasta,Red Sauce Pasta,1,0,,129.0
+Pasta,White Sauce Pasta,1,0,,159.0
+Burger,Aloo Tikki Burger,1,0,,79.0
+Burger,Cheese Burger,1,0,,105.0
+Burger,Paneer Cheese Burger,1,0,,129.0
+Snacks,Choco Lava Cake,1,0,,79.0
+Snacks,Cold Coffee,1,0,,70.0
+Snacks,Normal Garlic Bread,1,0,,120.0
+Snacks,Stuffed Garlic Bread,1,0,"Onion, capsicum, tomato, jalapeno.",199.0
+Snacks,Supreme Garlic Bread,1,0,"Onion, capsicum, tomato, mushroom.",210.0

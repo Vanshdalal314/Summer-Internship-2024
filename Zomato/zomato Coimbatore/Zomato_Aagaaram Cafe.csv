@@ -1,0 +1,35 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Gobi 65,1,0,,110.0
+Starters,Gobi Manchurian,1,0,,150.0
+Starters,Chilli Baby Corn,1,0,,120.0
+Starters,Baby Corn Manchurian,1,0,,150.0
+Starters,Chilli Mushroom,1,0,,150.0
+Starters,Mushroom Manchurian,1,0,,150.0
+Starters,Chilli Paneer,1,0,,120.0
+Starters,Paneer Manchurian,1,0,,150.0
+Starters,Paneer Pepper Fry,1,0,,130.0
+Breads,2 Parotta,1,0,,39.0
+Breads,2 Chapati,1,0,,35.0
+Rice and Biryani,Curd Rice,1,0,,60.0
+Rice and Biryani,Lemon Rice,1,0,,60.0
+Rice and Biryani,Puliyodharai Rice,1,0,,65.0
+Rice and Biryani,Sambar Rice [Serves 1],1,0,,60.0
+Rice and Biryani,Veg Biryani,1,0,,90.0
+Rice and Biryani,Mushroom Biryani,1,0,,125.0
+Rice and Biryani,Sweet Corn Biryani,1,0,,125.0
+Rice and Biryani,Green Peas Biryani,1,0,,125.0
+Drinks (Beverages),Parcel Tea,1,0,,25.0
+Drinks (Beverages),Black Tea,1,0,,25.0
+Drinks (Beverages),Lemon Tea,1,0,,25.0
+Drinks (Beverages),Ginger Tea,1,0,,30.0
+Drinks (Beverages),Horlicks,1,0,,30.0
+Drinks (Beverages),Boost,1,0,,30.0
+Drinks (Beverages),Badam Milk Hot,1,0,,40.0
+Drinks (Beverages),Filter Coffee,1,0,,30.0
+Fried Rice & Noodles,Veg Fried Rice,1,0,,120.0
+Fried Rice & Noodles,Paneer Fried Rice,1,0,,140.0
+Fried Rice & Noodles,Mushroom Fried Rice,1,0,,140.0
+Fried Rice & Noodles,Schezwan Fried Rice,1,0,,125.0
+Fried Rice & Noodles,Veg Noodles,1,0,,120.0
+Fried Rice & Noodles,Paneer Noodles,1,0,,140.0
+Fried Rice & Noodles,Mushroom Noodles,1,0,,140.0

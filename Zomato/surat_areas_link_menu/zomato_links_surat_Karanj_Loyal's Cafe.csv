@@ -1,0 +1,78 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chai / Tea,Bournvita Cold,1,0,Serves 1,30.0
+Chai / Tea,Bournvita Hot,1,0,Serves 1,30.0
+Chai / Tea,Chocolate Chai,1,0,Serves 1,25.0
+Chai / Tea,Elaichi Chai,1,0,Serves 1,25.0
+Chai / Tea,Ginger Chai,1,0,Serves 1,25.0
+Chai / Tea,Paan Chai,1,0,Serves 1,25.0
+Chai / Tea,Pudina Chai,1,0,Serves 1,25.0
+Chai / Tea,Special Chai,1,0,Serves 1,15.0
+Chai / Tea,Tulsi Chai,1,0,Serves 1,25.0
+Coffee,Black Coffee,1,0,,40.0
+Coffee,Caramel Cold Coffee,1,0,,99.0
+Coffee,Caramel Hot Coffee,1,0,,99.0
+Coffee,Cold Coffee,1,0,,90.0
+Coffee,Cold Coffee With Ice Cream,1,0,,99.0
+Coffee,Hazelnut Cold Coffee,1,0,,99.0
+Coffee,Hazelnut Hot Coffee,1,0,,99.0
+Coffee,Hot Chocolate,1,0,,90.0
+Coffee,Hot Coffee,1,0,,49.0
+Coffee,Iced Coffee,1,0,,99.0
+French Fries,Peri Peri Fries,1,0,,75.0
+French Fries,Simply Salted Fries,1,0,,65.0
+Potato Wedges,Delight Potato Wedges,1,0,,59.0
+Potato Wedges,Pizza Sauce And Mayo Wedges,1,0,,95.0
+Potato Wedges,Schezwan Salsa Wedges,1,0,,75.0
+Cold Drinks,Cold Drinks,1,0,,30.0
+Ice Tea,Lemon Ice Tea,1,0,,50.0
+Ice Tea,Peach Ice Tea,1,0,,50.0
+Shakes,Bournvita Milk Shake,1,0,,70.0
+Shakes,Brownie Milk Shake,1,0,,120.0
+Shakes,Chocolate Milk Shake,1,0,,90.0
+Shakes,Kitkat Shake,1,0,,100.0
+Shakes,Oreo Milk Shake,1,0,,100.0
+Shakes,Strawberry Milk Shake,1,0,,90.0
+Shakes,Vanila Milk Shake,1,0,,90.0
+Mocktails,Blue Lagoon Mojito,1,0,,95.0
+Mocktails,Lemon Ice Tea Mocktail,1,0,,95.0
+Mocktails,Lemon Mint Mojito,1,0,,95.0
+Mocktails,Lemon Sarbat Soda,1,0,,30.0
+Mocktails,Lemon Soda,1,0,,30.0
+Garlic Bread,Cheese Garlic Bread,1,0,,99.0
+Garlic Bread,Supreme Garlic Bread,1,0,,119.0
+Pasta,Alfredo Pasta,1,0,[Penne],129.0
+Pasta,Mix Sauce Pasta,1,0,[Penne],110.0
+Pasta,Red Sauce Pasta,1,0,[Penne],99.0
+Maggi,Cheese Maggi,1,0,,89.0
+Maggi,Classic Maggi,1,0,,49.0
+Maggi,Loyay Cafe Special Maggi,1,0,,99.0
+Maggi,Veggie Maggi,1,0,,69.0
+Potato Shots,Cheese Potato Shots,1,0,,99.0
+Potato Shots,Chilly Garlic Potato Shots,1,0,,79.0
+Potato Shots,Veggie Fingers,1,0,,69.0
+Burger,Cheese Burger,1,0,,89.0
+Burger,Cheese Lava Burger,1,0,,119.0
+Burger,Paneer Burger,1,0,,110.0
+Burger,Veg Delight Burger,1,0,,69.0
+Pizza,Double Cheese Margherita Pizza,1,0,[7 Inch],169.0
+Pizza,Margherita Pizza,1,0,[7 Inch],139.0
+Pizza,Paneer Pizza,1,0,[7 Inch],199.0
+Pizza,Veg Delight Pizza,1,0,[7 Inch],159.0
+Sandwich,Cheese Grilled Sandwich,1,0,,129.0
+Sandwich,Paneer Grilled Sandwich,1,0,,159.0
+Sandwich,Veg Cheese Sandwich,1,0,,110.0
+Sandwich,Veg Club Sandwich,1,0,,179.0
+Sandwich,Veg Grelled Sandwich,1,0,,110.0
+Sandwich,Veg Sandwich,1,0,,89.0
+Momos,Cheese Corn Fried Momos,1,0,[5 Pieces],119.0
+Momos,Cheese Corn Steamed Momo,1,0,[5 Pieces],99.0
+Momos,Paneer Fried Momos,1,0,[5 Pieces],119.0
+Momos,Paneer Steamed Momos,1,0,[5 Pieces],99.0
+Momos,Veg Fried Momos,1,0,[5 Pieces],110.0
+Momos,Veg Steamed Momos,1,0,[5 Pieces],89.0
+Waffles,Belgian Chocolate Waffle,1,0,,110.0
+Waffles,Coffee Chocolate Waffle,1,0,,130.0
+Waffles,Milk Chocolate Waffle,1,0,,110.0
+Waffles,Nutella Chocolate Waffle,1,0,,120.0
+Waffles,Red Velvet White Chocolate,1,0,,110.0
+Waffles,White Chocolate Waffle,1,0,,110.0

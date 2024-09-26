@@ -1,0 +1,5 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Egg to Order,Full Boiled Egg,0,0,,22.0
+Egg to Order,Omlette,0,0,,35.0
+Egg to Order,Egg Kalakki,0,0,,35.0
+Egg to Order,Egg Poriyal,0,0,,45.0

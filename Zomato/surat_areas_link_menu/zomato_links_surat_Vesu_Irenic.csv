@@ -1,0 +1,51 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Hot Coffees,Americano [Serves 1],1,0,Double shot espresso diluted with water,149.0
+Hot Coffees,Cappuccino [Serves 1],1,0,Single shot espresso served with 120ml of milk topped with 2cm of micro ... read more,199.0
+Hot Coffees,Latte [Serves 1],1,0,Double shot espresso served with 200ml of thin layered foamed milk,199.0
+Hot Coffees,Mocha [Serves 1],1,0,Single shot espresso mixed with chocolate and served with foamed milk,199.0
+Iced Coffees,Classic Frappa [Serves 1],1,0,Iced blended coffee beverage topped with whipped cream,199.0
+Iced Coffees,Cold Brew [Serves 1],1,0,A coffee that's brewed with room temperature or cold water over a 12 ... read more,199.0
+Iced Coffees,Cold Brew Tonic [Serves 1],1,0,Tonic water mixed with 120ml of cold brew,229.0
+Iced Coffees,Espresso Tonic [Serves 1],1,0,Tonic water topped with espresso shot,229.0
+Iced Coffees,Iced Bombon [Serves 1],1,0,Double shot espresso mixed with 30gm of condensed milk with ice,199.0
+Iced Coffees,Iced Latte [Serves 1],1,0,Double shot espresso served with textured milk and ice,199.0
+Iced Coffees,Vietnamese [Serves 1],1,0,A strong filter coffee served with condensed milk and ice,199.0
+Irenic Specials,Aerocano Tonic [Serves 1],1,0,A bubbly twist on the classic aerocano,249.0
+Irenic Specials,Apple Citric [Serves 1],1,0,Cold brew and apple juice topped with mixer,249.0
+Irenic Specials,Coffee Beermosa [Serves 1],1,0,A drink inspired from cocktail beermosa,249.0
+Irenic Specials,Coffee Old Fashion [Serves 1],1,0,A drink inspired by whiskey old fashioned,249.0
+Irenic Specials,Cold Brew Berries [Serves 1],1,0,Cold brew shaken along with cranberry juice to give velvety texture,249.0
+Irenic Specials,Smokey Cinnamon [Serves 1],1,0,Smoked cinnamon infused drink,249.0
+Frappes And Blends,Biscoff,1,0,,279.0
+Frappes And Blends,Caramel,1,0,,279.0
+Frappes And Blends,Chocolate,1,0,,279.0
+Frappes And Blends,Hazelnut,1,0,,279.0
+Frappes And Blends,Nutella,1,0,,279.0
+Cheesecakes,Biscoff Cheesecake,1,0,,279.0
+Cheesecakes,Blueberry Cheesecake,1,0,[Veg preparation],279.0
+Cheesecakes,Newyork Cheesecake,1,0,[Veg preparation],249.0
+Cheesecakes,Nutella Cheesecake,1,0,[Veg preparation],279.0
+Cheesecakes,Strawberry Cheesecake,1,0,,279.0
+Croissants,Avocado Croissant Sandwich,1,0,Veggies and Avocado goodness,319.0
+Croissants,Pesto Croissant,1,0,"Served with fresh basil pesto sauce, cheese slice, pickled onions, red cabbage""",279.0
+Croissants,Butter Croissant,1,0,,199.0
+Croissants,Chocolate Croissant,1,0,,249.0
+Croissants,Cream Cheese Croissant,1,0,,249.0
+Croissants,Honey Mustard Croissant,1,0,Mustard cheese and veggies loaded,279.0
+Bagel,Avocado Bagel,1,0,Veggies and Avocado goodness,319.0
+Bagel,Cream Cheese Bagel,1,0,,249.0
+Bagel,Honey Mustard Bagel,1,0,Mustard cheese and veggies loaded,279.0
+Bagel,Pesto Bagel,1,0,"Served with fresh basil pesto sauce, cheese slice, pickled onions, red cabbage",279.0
+Toasts,Avocado Toast,1,0,"Sliced avocado topped with pickled onions, cherry tomatoes, parmesan",279.0
+Toasts,Mushroom Parmesan Toast,1,0,"Grilled mushrooms topped with Parmesan cheese, Parsley, Salt, Pepper",219.0
+Toasts,Pesto Toast,1,0,Fresh basil pesto and cream cheese paste topped with cherry tomatoes,219.0
+Sandwich,Avocado Sandwich,1,0,"Sliced avocado, crunchy red cabbage, cherry tomatoes, cheese slice pressed in a baguette",319.0
+Sandwich,Honey Mustard Sandwich,1,0,"Cottage cheese, lettuce, cherry tomatoes, cheese slice, mustardy sauce",249.0
+Sandwich,Peri Peri Mushroom,1,0,"Spicy grilled mushrooms, pickled onions, red cabbage, peri peri sauce",249.0
+Sandwich,Peri Peri Paneer Sandwich,1,0,"Grilled paneer with peri peri sauce, cheese slice, lettuce, pickled onions, irenic peri ... read more",249.0
+Sandwich,Pesto Mushrooms Sandwich,1,0,"Grilled mushrooms served with fresh basil pesto sauce, cheese slice, pickled onions, red ... read more",249.0
+Sandwich,Pesto Paneer Sandwich,1,0,"Grilled paneer served with fresh basil pesto sauce, cheese slice, pickled onions, red ... read more",249.0
+Sugar Rush,Biscoff Brownie,1,0,,199.0
+Sugar Rush,Brownie,1,0,[Veg preparation],149.0
+Sugar Rush,Nutella Brownie,1,0,,199.0
+Hot Chocolate,Irenic Special Hot Chocolate [Serves 1],1,0,,199.0

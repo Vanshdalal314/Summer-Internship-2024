@@ -1,0 +1,98 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali And Combos,Delux Thali [NON VEG.],0,0,Non Veg Sabji + Egg Curry+jeera rice +4 Chapati/2Butter Roti+Salad),439.0
+Thali And Combos,Special Thali [NON VEG.],0,0,Non-Veg Sabji+Dal fry +Jeera Rice +4 Chapati/2Butter Roti+Salad,379.0
+Thali And Combos,Super Deluxe[NON VEG.],0,0,Non-Veg Starter [Boneless] + Non Veg Sabji+Dal Fry+Jeera Rice+4 Chapati/2 Butter Roti+Salad),529.0
+Thali And Combos,Butter Chicken Boneless + 2 Butter Roti + Salad + Mint Chutney + Chaas,0,0,,369.0
+Thali And Combos,Chicken Sikh Gravy + 2 Butter Roti + Chaas + Mint Chutney,0,0,,339.0
+Thali And Combos,Keema Paratha Combo (Chicken),0,0,Chicken keema gravy searved with stuffed chiken keema paratha,339.0
+Thali And Combos,Tawa Chicken Boneless + 2 Butter Roti + Salad + Mint Chutney + Chaas,0,0,,359.0
+Thali And Combos,Chicken Salad,0,0,,339.0
+Thali And Combos,Fried Platter,0,0,"2 Chiken Nuggets, 2 Chiken Cheese Nuggets, 2 Onion Kebab and 4 Chiken ... read more",299.0
+Thali And Combos,Steam Diet Platter,0,0,"1 Seekh Kebab, 2 Sausages, 4 salami",289.0
+Starters,Afghani Chicken Tandoori,0,0,Afghani Chicken Tandoori is a chicken dish prepared by roasting chicken marinated in ... read more,549.0
+Starters,Barra Chicken Tandoori,0,0,Barra Chicken Tandoori is a chicken dish prepared by roasting chicken marinated in ... read more,549.0
+Starters,Chicken Seekh Kebab (2Pcs),0,0,,319.0
+Starters,Chicken Tikka (10Pcs),0,0,Chicken Tikka is a chicken dish prepared by roasting chicken marinated in ... read more,549.0
+Starters,Fried Chicken Wings,0,0,Chicken wings are coated with special spices and done in deep fried,299.0
+Starters,Murg Mali Tikka (10Pcs),0,0,Murg Mali Tikka dish prepared by roasting chicken marinated in special spices ... read more,599.0
+Starters,Peri Peri Tikka (10Pcs),0,0,Peri Peri Tikka dish prepared by roasting chicken marinated in our ... read more,599.0
+Starters,Tandoori Chest,0,0,Tandoori chest is a chicken dish prepared by roasting chicken marinated in yogurt ... read more,329.0
+Starters,Tandoori Chicken,0,0,Tandoori chicken is a chicken dish prepared by roasting chicken marinated in yogurt ... read more,520.0
+Starters,Tandoori Leg,0,0,Tandoori Leg is a chicken dish prepared by roasting chicken marinated in ... read more,329.0
+Starters,Afghani Chaap,1,0,Guaranteed Maida Free Chaap Soya Chaap is baked on skewers in a tandoor ... read more,349.0
+Starters,Angara Chaap,1,0,Guaranteed Maida Free Chaap Spiciest chaap cooked in tandoor to add smoky and ... read more,319.0
+Starters,Crispy Fried Paneer [12 Pieces],1,0,,339.0
+Starters,Diet Paneer Tikka,1,0,Paneer is baked on skewers in a tandoor with secret spices & ... read more,339.0
+Starters,Kfc Chaap,1,0,Guaranteed Maida Free Chaap Super crispy soya chaap,339.0
+Starters,Masala Chaap,1,0,Gauranted Maida Free Chaap Chaap is baked on skewers in a tandoor with ... read more,319.0
+Starters,Paneer Tikka,1,0,Paneer is baked on skewers in a tandoor with secret spices & Marinated ... read more,349.0
+Main Course,Butter Chicken Gravy,0,0,"A curry of chicken in a spiced tomato, butter and cream sauce",439.0
+Main Course,Chicken Rara Gravy,0,0,,439.0
+Main Course,Chicken Seekh Gravy,0,0,Chunks of chicken seekh cooked in special masala with delicious onion and ... read more,369.0
+Main Course,Chicken Tikka Masala(Boneless),0,0,A Hearty Dish With Tender Chicken Pcs Simmered In A Rich And Indulgent ... read more,399.0
+Main Course,Kadai Chicken Gravy,0,0,Chunks of chicken cooked in special grounded kadai masala with delicious onion and ... read more,419.0
+Main Course,Lemon Chicken,0,0,Crispy and juicy tender chicken cooked in tangy lemon flavor,349.0
+Main Course,Lemon Kali Mirch,0,0,Crispy and juicy tender chicken cooked in tangy lemon and kali mirch flavor,349.0
+Main Course,Matki Chicken,0,0,,1199.0
+Main Course,Patiyala Chicken,0,0,,1199.0
+Main Course,Tawa Chicken Gravy,0,0,,419.0
+Main Course,Chaap Butter Masala,1,0,,329.0
+Main Course,Kadhai Paneer,1,0,"Succulent Paneer Cubes Slow Cooked in a Rich, Creamy and Spicy tomato Gravy.",339.0
+Main Course,Paneer Butter Masala,1,0,"Soft pieces of paneer in rich, creamy, and aromatic gravy made of butter, ... read more",319.0
+Main Course,Paneer Tikka Masala,1,0,"Barbequed Cubes of Paneer Cooked in a Combination of Onion and Tomato Gravy, ... read more",299.0
+Main Course,Shahi Paneer,1,0,Shahi Paneer is a Mughlai dish where paneer is cooked in a creamy ... read more,339.0
+Main Course,Tawa Chaap,1,0,Soya chaap is a gravy based vegetarian curry made using soya chaap. It ... read more,319.0
+Main Course,Dal Fry,1,0,,249.0
+Main Course,Dal Makhani,1,0,,329.0
+Main Course,Dal Tadka,1,0,,249.0
+Breads,Butter Naan,1,0,"North Indian buttery flatbread made up of all-purpose flour,It is crisp from out ... read more",129.0
+Breads,Cheese Naan,1,0,Cheese mixed well in Mom's Homemade Spices Stuffed in Refined Flour which is ... read more,189.0
+Breads,Garlic Naan,1,0,Chopped Garlic mixed well in Mom's Homemade Spices Coated over the top of ... read more,149.0
+Breads,Garlic Paratha,1,0,Chopped Garlic mixed well in Mom's Homemade Spices Coated over the top of ... read more,149.0
+Breads,Laccha Paratha,1,0,Lachha Paratha (Lachedar Paratha) is a popular North Indian bread made using 100% ... read more,129.0
+Breads,Plane Naan,1,0,"North Indian flatbread made up of all-purpose flour,It is crisp from out outside ... read more",119.0
+Breads,Tandoori Butter Roti,1,0,Tandoori roti are unleavened whole wheat flat breads. Which are made in a ... read more,59.0
+Breads,Tandoori Plain Roti,1,0,Tandoori roti are unleavened whole wheat flat breads. Which are made in a ... read more,49.0
+Rice And Biryani,Chicken Biryani (Boneless),0,0,500ml (Deliciously decadent flavored dum rice layered with fried chicken and indian whole ... read more,399.0
+Rice And Biryani,Chicken Biryani (Withbone),0,0,600ml (Deliciously decadent flavored dum rice layered with fried chicken and indian whole ... read more,399.0
+Rice And Biryani,Chicken Tawa Rice(Boneless),0,0,,379.0
+Rice And Biryani,Jeera Rice,1,0,,229.0
+Rice And Biryani,Plain (Steam) Rice,1,0,,199.0
+Chinese,Chicken Chilli Dry [ 12pcs],0,0,,429.0
+Chinese,Chicken Chilli Gravy [ 8pcs],0,0,,399.0
+Chinese,Chicken Chilli Semi Gravy [ 12pcs],0,0,,429.0
+Chinese,Chicken Lollipop (6 Pieces),0,0,,449.0
+Chinese,Drums Of Heaven (6 Pieces),0,0,,469.0
+Chinese,Dry Manchurian,1,0,"Fried veggie balls cooked in a spicy sauce batter, vinegar and soya sauce",249.0
+Chinese,Paneer Chilli,1,0,Cottage cheese with bell pepper ginger tossed in mild soy and garlic sauce,399.0
+Chinese,Schezwan Paneer Chilli,1,0,Cottage cheese with bell pepper ginger tossed in mild soy and garlic Schezwan ... read more,399.0
+Fried Rice,Chicken Fride Rice,0,0,A slightly spicy dish made by tossing juicy chicken and rice in a ... read more,329.0
+Fried Rice,Chicken Noodles,0,0,A flavor-packed preparation with juicy chicken chunks and vegetables in a delicious dressing.,329.0
+Fried Rice,Schezwan Fride Rice,0,0,Hot preparation of rice from the province of schezwan.,339.0
+Fried Rice,Veg Burnt Garlic Fried Rice,1,0,"Rice tossed with burnt garlic, vegetables and spring onions.",299.0
+Fried Rice,Veg Delhi 6 Chowmein,1,0,Simple Pan Fried noodles with veggies,299.0
+Fried Rice,Veg Fried Rice,1,0,Long grain rice with seasonal vegetables in Chinese style,299.0
+Fried Rice,Veg Sechzwan Fride Rice,1,0,Wok tossed fried rice with schezwan sauce and spring onions,299.0
+Rolls,Paneer Tikka Roll,0,0,"Kebab, onions, n tandoori sauce with juicy chicken wrapped in soft bread served",229.0
+Rolls,Bhuna Chicken Roll,0,0,,249.0
+Rolls,Butter Chicken Roll,0,0,Wrap stuffed with delicious butter paneer,249.0
+Rolls,Chaap Tikka Roll,0,0,Non veg preparation,249.0
+Rolls,Chicken Chilli Roll,0,0,,299.0
+Rolls,Chicken Sausages Cheese Roll,0,0,,249.0
+Rolls,Chicken Seekh Roll,0,0,,249.0
+Rolls,Chicken Tikka Roll,0,0,"Stuffed with chicken tikka tandoori sauce, onion capsicum and green chutney",249.0
+Rolls,Peri Peri Chicken Tikka Roll,0,0,,249.0
+Momos,Veg Chilli Gravy Momos,1,0,Spicy Gravy Momos with Diced Vegetablesof and Paneer Fried Momos (6pcs),339.0
+Momos,Paneer Kurkure Momos,1,0,Crispy Fried Momos Stuffed with Paneer (6pcs),319.0
+Momos,Paneer Steam Momos,1,0,Stuffed with Paneer and Vegetables,239.0
+Momos,Paneer Tandoori Momos,1,0,Marinated in Spiciest Spices Stuffed with Paneer Roasted in Tandoor to add ... read more,319.0
+Momos,Veg Kurkure Momos,1,0,Crispy Fried Momos Stuffed with Veggies(6pcs),319.0
+Momos,Veg Steam Momos,1,0,"Stuffed with the Vegetables like Onion, Cabbage, Carrots Etc.",219.0
+Momos,Veg Tandoori Momos,1,0,Marinated in Spiciest Spices Stuffed with Vegetables Roasted in Tandoor to add Smokey ... read more,319.0
+Momos,Butter Chicken Momos,0,0,Sweet and spicy gravy of butter chicken with deeped Chicken momos ... read more,349.0
+Momos,Chicken Cheese Kurkure Momos,0,0,Crispy Fried Momos Stuffed with chicken and cheese (6pcs),349.0
+Momos,Chicken Cheese Momos,0,0,"Stuffed with the chicken ,Vegetables, cheese and special spices Etc.",249.0
+Momos,Chicken Kurkure Momos,0,0,Crispy Fried Momos Stuffed with chicken (6pcs),329.0
+Momos,Chicken Steam Momos,0,0,"Stuffed with the chicken ,Vegetables and special spices Etc.",239.0
+Momos,Chicken Tandoori Momos,0,0,Marinated in Spiciest Spices Stuffed with Chicken Roasted in Tandoor to add Smokey ... read more,329.0
+Momos,Tandoori Chicken Cheese Momos,0,0,Marinated in Spiciest Spices Stuffed with Chicken and cheese Roasted in Tandoor to ... read more,329.0

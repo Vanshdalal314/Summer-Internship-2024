@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Papaya Smoothie + Pineapple Juice + Watermelon Salad,1,0,,160.0
+Combos,Mixed Fruit Salad + Pineapple Milkshake + Red Banana Smoothie,1,0,,190.0
+Combos,Apple Juice + Madhulai Pomegranate Juice + Muskmelon Juice,1,0,,160.0
+Combos,Watermelon Juice + Grape Juice + Orange Juice,1,0,,160.0
+Combos,Pineapple Juice + Mixed Fruit Salad,1,0,,110.0
+Combos,Goa Smoothie + Apple Juice,1,0,,110.0
+Combos,Lemon with Mint Juice + Watermelon Salad,1,0,,110.0
+Combos,Sapota Smoothie + Mixed Fruit Juice,1,0,,110.0
+Combos,Watermelon Juice + Muskmelon Juice,1,0,,110.0
+Salads,Mixed Fruit Salad,1,0,,50.0
+Salads,Papaya Salad,1,0,,50.0
+Salads,Watermelon Salad,1,0,,50.0
+Salads,Shimla Apple Fruit Salad,1,0,Contains only apple.,60.0
+Salads,Pineapple Fruit Salad,1,0,Contains only pineapple.,60.0
+Salads,Guava Fruit Salad,1,0,Contains only country guava.,60.0
+Salads,Guava with Red Banana Fruit Salad,1,0,,60.0
+Drinks (Beverages),Apple Juice,1,0,A vibrant and refreshing blend of luscious apples - hydrating drink to quench ... read more,50.0
+Drinks (Beverages),Madhulai Pomegranate Juice,1,0,,50.0
+Drinks (Beverages),Muskmelon Juice,1,0,,50.0
+Drinks (Beverages),Lemon with Mint Juice,1,0,,50.0
+Drinks (Beverages),Orange Juice,1,0,,50.0
+Drinks (Beverages),Grape Juice,1,0,,50.0
+Drinks (Beverages),Watermelon Juice,1,0,A hydrating juicy made with fresh watermelon perfect way to keep summer at ... read more,50.0
+Drinks (Beverages),Pineapple Juice,1,0,,50.0
+Drinks (Beverages),Apple with Dates Juice,1,0,,50.0
+Drinks (Beverages),Apple with Red Banana Juice,1,0,,50.0
+Drinks (Beverages),Apple with Athi Pazham Juice,1,0,,50.0
+Drinks (Beverages),Lemon Juice,1,0,,50.0
+Drinks (Beverages),Lemon with Ginger Juice,1,0,,50.0
+Drinks (Beverages),Mixed Fruit Juice,1,0,,50.0
+Drinks (Beverages),Amla Juice,1,0,,50.0
+Drinks (Beverages),Amla with Ginger Juice,1,0,,50.0
+Drinks (Beverages),Red Banana Smoothie,1,0,,50.0
+Drinks (Beverages),Sapota Smoothie,1,0,,60.0
+Drinks (Beverages),Mango Alphonza Smoothie,1,0,,60.0
+Drinks (Beverages),Papaya Smoothie,1,0,,50.0
+Drinks (Beverages),Goa Smoothie,1,0,,50.0
+Drinks (Beverages),Goa with Red Banana Smoothie,1,0,,50.0
+Special Milkshakes,Grapes Milkshake,1,0,,100.0
+Special Milkshakes,Grapes Honey Milkshake,1,0,,100.0
+Special Milkshakes,Carrot Milkshake,1,0,,100.0
+Special Milkshakes,Beetroot Milkshake,1,0,,100.0
+Special Milkshakes,Nendram Banana Milkshake,1,0,,80.0

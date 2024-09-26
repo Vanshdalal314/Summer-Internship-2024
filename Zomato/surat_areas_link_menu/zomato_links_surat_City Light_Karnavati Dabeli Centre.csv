@@ -1,0 +1,53 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dabeli,Oil Fry Dabeli,1,0,,40.0
+Dabeli,Butter Fry Dabeli,1,0,,50.0
+Dabeli,Butter Fry with Cheese Dabeli,1,0,,60.0
+Dabeli,Jain Dabeli,1,0,"A sweet, tangy and spicy street food or snack in Gujarat. It is ... read more",50.0
+Dabeli,Jain Butter Dabeli,1,0,"Raw banana stuffing with pomogrante and sweet chutney, tossed in butter.",60.0
+Dabeli,Jain Cheese Butter Dabeli,1,0,"A sweet, tangy, cheesy and spicy street food or snack in Gujarat. It ... read more",70.0
+Dabeli,Swaminarayan Oil Fry Dabeli,1,0,,40.0
+Dabeli,Swaminarayan Butter Dabeli,1,0,,50.0
+Dabeli,Swaminarayan Cheese Butter Dabeli,1,0,,60.0
+Vada Pav,Oil Fry Vada Pav,1,0,,40.0
+Vada Pav,Butter Fry Vada Pav,1,0,,50.0
+Vada Pav,Butter Fry with Cheese Vada Pav,1,0,Vada pav basically has Batata vada which is sandwiched between two slices of ... read more,60.0
+Vada Pav,Grill Vada Pav,1,0,The dish consists of a deep fried potato dumpling grilled placed inside a ... read more,50.0
+Vada Pav,Cheese Grill Vada Pav,1,0,,70.0
+Vada Pav,Only Vada,1,0,,35.0
+Karnavati Special Dishes,Sahi Pauva,1,0,,40.0
+Karnavati Special Dishes,Katchi Bowl,1,0,,60.0
+Karnavati Special Dishes,Cheese Katchi Bowl,1,0,,80.0
+Bhel,Special Bhel,1,0,,60.0
+Pizza,Veg Cheese Pizza,1,0,,170.0
+Pizza,Onion Capsicum Pizza,1,0,,199.0
+Sandwiches,Karnavati Special Grill Sandwich Toast,1,0,,199.0
+Sandwiches,Veg Sandwich,1,0,,70.0
+Sandwiches,Veg Cheese Sandwich,1,0,Raw Vegetable Sandwich with Cheese,90.0
+Sandwiches,Veg Cheese Mayonnaise Sandwich,1,0,,90.0
+Sandwiches,Mini Grill Sandwich Toast,1,0,,120.0
+Sandwiches,Veg Cheese Grill Sandwich Toast,1,0,,170.0
+Sandwiches,Only Cheese Grill Sandwich Toast,1,0,,199.0
+Sandwiches,Bread Butter,1,0,A wheat bread enriched by added quantities of butter,60.0
+Sandwiches,Bread Butter Cheese,1,0,,80.0
+Sandwiches,Bread Butter Jam,1,0,,70.0
+Sandwiches,Bread Butter Cheese Jam,1,0,,90.0
+Maska Ban,Maska Bun,1,0,,50.0
+Maska Ban,Cheese Maska Bun,1,0,,70.0
+Maska Ban,Jam Maska Bun,1,0,,60.0
+Maska Ban,Bread Pakoda,1,0,,40.0
+Maggi,Maggi,1,0,Maggi 2-Minutes Noodles have been a classic Indian snack for a good few ... read more,60.0
+Maggi,Vegetable Maggi,1,0,A Mumbai Street Style recipe made in the stovetop or instant pot pressure ... read more,75.0
+Maggi,Cheese Maggi,1,0,A delicious twist to your ultimate comfort food Masala Maggi where cheese & ... read more,99.0
+Tea - Chai,Sher e Vagad Tea,1,0,,40.0
+Tea - Chai,Ginger Tea,1,0,A herbal beverage that is made from ginger root.,49.0
+Tea - Chai,Mint Tea,1,0,,49.0
+Tea - Chai,Elaichi Tea,1,0,,49.0
+Tea - Chai,Black Tea,1,0,,49.0
+Tea - Chai,Hot Lemon Tea,1,0,,49.0
+Hot Milk,Bournvita,1,0,,65.0
+Hot Milk,Hot Chocolate,1,0,,70.0
+Hot Milk,Kesari Milk,1,0,,65.0
+Hot Milk,Sweet Milk,1,0,,60.0
+Holi Special Combos,Holi Special,1,0,Karnavati Special Grilled Sandwich [1 Piece]+Sher e Vagad Tea [1 Cup]+Sher e Vagad ... read more,299.0
+Holi Special Combos,Dabeli [1 Pieces] with Vada Pav [2 Pieces] and Bread Pakoda [2 Pieces],1,0,Dabeli [1 Pieces] with Vada Pav [2 Pieces] and Bread Pakoda [2 Pieces],239.0
+Holi Special Combos,Cheese Dabeli [2 Pieces] with Cheese Vada Pav [2 Pieces],1,0,Cheese Dabeli [2 Pieces] with Cheese Vada Pav [2 Pieces],239.0

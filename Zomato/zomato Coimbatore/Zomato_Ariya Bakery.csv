@@ -1,0 +1,61 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Puffs,Veg Puff,1,0,,23.21
+Puffs,Paneer Puffs,1,0,,29.46
+Puffs,Mushroom Puffs,1,0,,29.46
+Puffs,Mini Mush Puffs,1,0,,38.98
+Puffs,Egg Puff,1,0,,26.79
+Puffs,Banana Puffs,1,0,,23.21
+Puffs,Choco Puffs,1,0,,35.71
+Puffs,Cutlet,1,0,,23.21
+Puffs,Egg Roll,1,0,,31.43
+Puffs,Kari,1,0,,35.71
+Puffs,Mushroom Roll,1,0,,31.43
+Puffs,Paneer Roll,1,0,,31.43
+Puffs,Sweet Puffs,1,0,,19.05
+Puffs,Veg Roll,1,0,,24.76
+Bread & Bun,Filled Donut,1,0,,25.42
+Bread & Bun,Butter Jam Bun,1,0,,24.76
+Bread & Bun,Coconut Bun,1,0,,19.05
+Bread & Bun,Cream Bun,1,0,,22.86
+Bread & Bun,Cream Cheese Bun,1,0,,110.17
+Bread & Bun,Donut,1,0,,27.97
+Bread & Bun,Jam Bun,1,0,,22.86
+Bread & Bun,Milk Bread,1,0,,50.0
+Bread & Bun,Milk Bun,1,0,,28.57
+Bread & Bun,Plain Bun,1,0,,24.0
+Bread & Bun,Sandwich Bread,1,0,,80.0
+Bread & Bun,Veg Mayo Bun,1,0,,76.19
+Bread & Bun,Veg Mayo Sandwich,1,0,,23.81
+Bread & Bun,Whole Wheat Bread,1,0,,60.0
+Cookies,Choco Chip Cookie,1,0,,56.78
+Cookies,Choco Cookies,1,0,,84.75
+Cookies,Coconut Cookies,1,0,,84.75
+Cookies,Kesar Badham Cookies,1,0,,84.75
+Cookies,Masala Cookies,1,0,,7.63
+Cookies,Pineapple Drops,1,0,,67.8
+Cookies,Ragi Cookies,1,0,,89.83
+Cookies,Red Velvet Cookies,1,0,,89.83
+Cookies,Salt Biscuit,1,0,,6.78
+Cookies,Wheat Cookies,1,0,,89.83
+Butter Cream Pastry,Apple Cake,1,0,,16.95
+Butter Cream Pastry,Butterscotch Pastry,1,0,,25.42
+Butter Cream Pastry,Choco Vanilla Roll,1,0,,27.97
+Butter Cream Pastry,Chocolate Pastry,1,0,,24.58
+Butter Cream Pastry,Chocolate Roll,1,0,,24.58
+Butter Cream Pastry,Jam Roll,1,0,,21.19
+Butter Cream Pastry,Strawberry Pastry,1,0,,22.88
+Butter Cream Pastry,Vanilla Pastry,1,0,,22.88
+Butter Cream Pastry,Vanilla Roll,1,0,,24.58
+Fresh Cream Pastry,Black Forest,1,0,,67.8
+Fresh Cream Pastry,Blueberry F,1,0,,72.03
+Fresh Cream Pastry,Butterscotch F,1,0,,72.88
+Fresh Cream Pastry,Choco Milk Cake,1,0,,101.69
+Fresh Cream Pastry,Choco Truffle,1,0,,83.05
+Fresh Cream Pastry,Irish Coffee,1,0,,67.8
+Fresh Cream Pastry,Mango Tub,1,0,,76.27
+Fresh Cream Pastry,Red Velvet,1,0,,79.66
+Fresh Cream Pastry,Rose Milk Cake,1,0,,101.69
+Cold Beverages,Badam Milk,1,0,,80.95
+Cold Beverages,Cold Coffee,1,0,,74.29
+Cold Beverages,Fresh Lime Mint,1,0,,27.62
+Cold Beverages,Rose Milk,1,0,,71.43

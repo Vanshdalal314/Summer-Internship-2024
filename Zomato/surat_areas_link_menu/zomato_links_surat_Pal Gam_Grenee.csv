@@ -1,0 +1,91 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Steamed Idli,Steamed Idli,1,0,"Idli or idly are a type of savoury rice cake, originating from the ... read more",80.0
+Steamed Idli,Butter Steamed Idli,1,0,"Idli or idly are a type of savoury rice cake, originating from the ... read more",90.0
+Steamed Idli,Peri Peri Steamed Idli,1,0,Jain not available,90.0
+Steamed Idli,Masala Idli,1,0,"Idli or idly are a type of savoury rice cake, originating from the ... read more",100.0
+Steamed Idli,Schezwan Idli [2 Pieces],1,0,,100.0
+Steamed Idli,Chocolate Idli,1,0,,90.0
+Steamed Idli,Cheese Chocolate Idli,1,0,,120.0
+Steamed Idli,Peri Peri Cheese Steamed Idli,1,0,Jain not available,130.0
+Steamed Idli,Cheese Butter Steamed Idli,1,0,"Idli or idly are a type of savoury rice cake, originating from the ... read more",110.0
+Steamed Idli,Cheese Masala Idli,1,0,"Idli or idly are a type of savoury rice cake, originating from the ... read more",120.0
+Steamed Idli,Cheese Schezwan Idli [2 Pieces],1,0,,130.0
+Pizza,Cheese Pizza [7 inches],1,0,,190.0
+Pizza,Veg Cheese Pizza [7 inches],1,0,,200.0
+Pizza,Cheese Mozzarella Pizza [7 inches],1,0,,220.0
+Pizza,Italiano Pizza [7 inches],1,0,"Black Olives,green olives,capsicum,onion and mozzarella cheese.",220.0
+Pizza,Makhani Paneer Pizza [7 inches],1,0,,220.0
+Pizza,Veg Schezwan Cheese Pizza [7 inches],1,0,,220.0
+Pizza,Tandoori Paneer Pizza [7 inches],1,0,,240.0
+Pizza,Veg Cheese Ulta Pizza [7 inches],1,0,"Tomato,onion,capsicum",200.0
+Pizza,Cheese Ulta Pizza [7 inches],1,0,,210.0
+Pizza,Italiano Ulto Pizza [7 inches],1,0,"Black olives, green olives, red and green capsicum, tomato and mozzarella cheese.",220.0
+Pizza,Cheese Mozzarella Ulta Pizza [7 inches],1,0,,220.0
+Sandwiches,Bread Butter Sandwich,1,0,,40.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,70.0
+Sandwiches,Chutney Sandwich,1,0,,60.0
+Sandwiches,Veg Sandwich,1,0,Hearty sandwich stuffed generously with assorted seasoned vegetables served with sauce,90.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,80.0
+Sandwiches,Peri Peri Veg. Sandwich,1,0,Jain not available,90.0
+Sandwiches,Cheese Chutney Sandwich,1,0,,80.0
+Sandwiches,Aloo Cheese Chutney Sandwich,1,0,,90.0
+Sandwiches,Chocolate Sandwich,1,0,,100.0
+Sandwiches,Veg Cheese Sandwich,1,0,Raw Vegetable Sandwich with Cheese,120.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,220.0
+Sandwiches,Mayonnaise Veg Cheese Grilled Sandwich,1,0,,210.0
+Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,,240.0
+Sandwiches,Peri Peri Mayonnaise Grilled Sandwich,1,0,Jain not available.,220.0
+Sandwiches,Chocolate Grilled Sandwich,1,0,,220.0
+Sandwiches,Grenee Special Grilled Sandwich,1,0,,240.0
+Sandwiches,Makhani Paneer Grilled Sandwich,1,0,,230.0
+Sandwiches,Tangy Cheese Grilled Sandwich,1,0,,250.0
+Sandwiches,Bread Butter Toast Sandwich,1,0,,55.0
+Sandwiches,Veg Toast Sandwich,1,0,,90.0
+Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,85.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,"Hearty sandwich stuffed generously with assorted seasoned vegetables, cheese and toasted to perfection.",115.0
+Sandwiches,Aloo Masala Toast Sandwich,1,0,Jain not available.,120.0
+Sandwiches,Chocolate Brownie Toast Sandwich,1,0,,120.0
+Sandwiches,Pizza Toast Sandwich,1,0,,120.0
+Sandwiches,Cheese Chilli Toast Sandwich,1,0,,120.0
+Sandwiches,Mayonnaise Cheese Bread Sandwich,1,0,,90.0
+Sandwiches,Mayonnaise Veg Sandwich,1,0,,90.0
+Open Toast,Open Toast,1,0,,100.0
+Open Toast,Open Schezwan Toast,1,0,,100.0
+Open Toast,Open Mozzarella Toast,1,0,,110.0
+Open Toast,Grenee Special Toast,1,0,,110.0
+Open Toast,Cheese Chilli Open Toast,1,0,Bread [2 pieces].,150.0
+Garlic Bread,Veg Supreme Garlic Bread,1,0,,160.0
+Garlic Bread,Cheese Chilli Garlic Bread,1,0,,180.0
+Garlic Bread,Schezwan Cheese Garlic Bread,1,0,,190.0
+Garlic Bread,Cheese Garlic Bread [4 Pieces],1,0,,200.0
+Maska Bun,Maska Bun,1,0,Tastes best with tea.,50.0
+Maska Bun,Maska Bun Jam,1,0,,70.0
+Maska Bun,Maska Chocolate Bun,1,0,,70.0
+Maska Bun,Maska Cheese Bun,1,0,,90.0
+Burgers,Veg Supreme Burger,1,0,Jain not available,100.0
+Burgers,Veg. Supreme Cheese Burger,1,0,Jain not available,120.0
+Burgers,Veg Supreme Double Cheese Burger,1,0,,130.0
+Biscuit Pie,Biscuits Pie [5 Pieces],1,0,,120.0
+Biscuit Pie,Tandoori Biscuit Pie [5 Pieces],1,0,,140.0
+Maggi,Masala Maggi,1,0,,90.0
+Maggi,Peri Peri Maggi,1,0,,100.0
+Maggi,Schezwan Maggi,1,0,,100.0
+French Fries,Sallted French Fries,1,0,,100.0
+French Fries,Peri Peri French Fries,1,0,,120.0
+French Fries,Masala French Fries,1,0,,120.0
+Khakhra Pizza,Khakhra Veg Pizza [7 inches],1,0,,170.0
+Khakhra Pizza,Khakhra Tandoori Pizza [7 inches],1,0,,180.0
+Khakhra Pizza,Khakhra Makhani Pizza [7 inches],1,0,,200.0
+Drinks (Beverages),Hot Coffee [400 ml],1,0,,140.0
+Drinks (Beverages),Black Coffee [400 ml],1,0,,140.0
+Drinks (Beverages),Espresso Coffee,1,0,,140.0
+Drinks (Beverages),Hot Chocolate [400 ml],1,0,,150.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,80.0
+Drinks (Beverages),Iced Tea,1,0,,100.0
+Drinks (Beverages),Peach Iced Tea,1,0,,100.0
+Drinks (Beverages),Cold Chocolate,1,0,,110.0
+Drinks (Beverages),Cold Coffee Frappe,1,0,,110.0
+Drinks (Beverages),Adrak Masala Tea [400ml],1,0,,125.0
+Drinks (Beverages),Lemon Grass Pudina Tea [400 ml],1,0,,125.0
+Drinks (Beverages),Hot Lemon Tea [400 ml],1,0,,125.0
+Drinks (Beverages),Honey Lemon Tea [400 ml],1,0,,140.0

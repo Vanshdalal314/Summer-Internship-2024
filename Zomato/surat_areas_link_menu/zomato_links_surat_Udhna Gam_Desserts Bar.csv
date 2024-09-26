@@ -1,0 +1,72 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thick Shakes,Chocolate Thickshake - 250ml,1,0,,169.0
+Thick Shakes,Rich Nutella Thickshake -250ml,1,0,,169.0
+Thick Shakes,Pineapple Thickshake-250ml,1,0,,169.0
+Thick Shakes,Royal Rose Thickshake -250ml,1,0,,169.0
+Thick Shakes,Blackcurrant Thickshake -250ml,1,0,,169.0
+Thick Shakes,Strawberry Thickshake -250ml,1,0,,169.0
+Thick Shakes,Kit-Kat Thickshake -250ml,1,0,,169.0
+Thick Shakes,Kaju Anjir Thickshake -250ml,1,0,,169.0
+Thick Shakes,Kaju Gulkand Thickshake -250ml,1,0,,169.0
+Thick Shakes,Kaju Badam Pista Thickshake -250ml,1,0,,169.0
+Thick Shakes,Cold Coffee Thickshake -250ml,1,0,,169.0
+Thick Shakes,Kaju Draksh Thickshake -250ml,1,0,Thickshake,169.0
+Thick Shakes,Kesar Pista Thickshake -250ml,1,0,Kesar Pista,169.0
+Thick Shakes,Thandai Thickshake -250ml,1,0,Thandai With Dryfruits,199.0
+Combo Specials,Veg Pizza + Garlic Bread Sticks,1,0,,299.0
+Combo Specials,Onion Paneer Pizza + Garlic Bread Sticks,1,0,,299.0
+Trifle Pudding,Chocolate Trifle Pudding,1,0,"Delicious Chocolate Trifle Pudding which consists of layers of tender chocolate cake, brownie ... read more",99.0
+Trifle Pudding,Strawberry Trifle Pudding,1,0,"Artfully layered, sliced ripe strawberries, cubed angel food cake, custard and creamy whipped ... read more",99.0
+Crepe,Belgian Chocolate CREPE,1,0,,199.0
+Crepe,Nutella Forever CREPE,1,0,,199.0
+Crepe,Rainbow French CREPE,1,0,,199.0
+Crepe,Red Velvet Cheese Oreo CREPE,1,0,,199.0
+Crepe,Indulge In Chocolate Dryfruits CREPE,1,0,,229.0
+Crepe,Milk Chocolate CREPE,1,0,,199.0
+Crepe,Hazelnut Chocolate CREPE,1,0,,199.0
+Thandai,Badam Kesar Thandai 250ml,1,0,,169.0
+Thandai,Kulhad Kesar Pista Thandai 250ml,1,0,,169.0
+Thandai,Classic Kulhad Thandai 250ml,1,0,,149.0
+Thandai,Kulhad Dryfruit Thandai 250ml,1,0,,159.0
+Thandai,Kulhad Rose Almond Thandai 250ml,1,0,,159.0
+Thandai,Kulhad Kesar Dryfruit Thandai 250ml,1,0,,159.0
+Chocolate Waffle,Chocolate Waffle Sandwich (Blue Cookie Cream),1,0,,149.0
+Veg Maggi,Masala Vegetable Maggi - 500g,1,0,,169.0
+Veg Maggi,Cheese Maggi - 500g,1,0,,179.0
+Veg Maggi,Paneer Maggi - 500g,1,0,,159.0
+Veg Maggi,Schezwan Maggi - 500g,1,0,,149.0
+Veg Maggi,Cheese Corn Maggi - 500g,1,0,,189.0
+Veg Maggi,Plain Maggi - 500g,1,0,,139.0
+Lava Cakes,Choco Lava Cake,1,0,"Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake.",119.0
+Lava Cakes,Red Velvet Lava Cake,1,0,A truly indulgent experience with sweet and rich red velvet cake on a ... read more,139.0
+Lava Cakes,Kolkata Paan Lava Cake,1,0,Enjoy Molten Lava made of Kolkata Paan,129.0
+Hot Chocolate,Rich Hot Chocolate - 250ml,1,0,"Perfect hot beverage for chocolate lovers. It's thick, luscious and indulgent.",129.0
+Hot Chocolate,Hot Chocolate with Brownie Bits - 250ml,1,0,"Perfect hot beverage for chocolate lovers. It's thick, luscious, with brownie bits and ... read more",169.0
+Hot Chocolate,Rich Hot Chocolate - 250ml + French Fries,1,0,Perfect hot beverage & french fries for chocolate lovers.,199.0
+French Fries,French Fries Peri Peri,1,0,,149.0
+French Fries,Salted French Fries,1,0,,149.0
+French Fries,Mayonnaise French Fries,1,0,,149.0
+Special Lassi,Sweet Lassi,1,0,"The naturally irresistible sweetness of vanilla blended with thick, fresh curd",119.0
+Special Lassi,Mango Lassi,1,0,"The naturally irresistible sweetness of alphonso mangoes blended with thick, fresh curd",139.0
+Special Lassi,Rose Lassi,1,0,"The naturally irresistible sweetness of roses blended with thick, fresh curd",139.0
+Special Lassi,Chocolate Lassi,1,0,"The naturally irresistible sweetness of chocolates blended with thick, fresh curd",139.0
+Special Lassi,Paan Lassi,1,0,"The naturally irresistible sweetness of banarasi paan blended with thick, fresh curd",139.0
+Special Lassi,Dryfruit Lassi,1,0,"The naturally irresistible sweetness of dryfruits blended with thick, fresh curd",139.0
+Garlic Bread (3pcs),Cheese Paneer Garlic Bread,1,0,Soft Garlic Breads with lots of Cheese and Soft Paneer,239.0
+Garlic Bread (3pcs),Cheese Onion Garlic Bread,1,0,Soft Garlic Breads with lots of Cheese and Onions,199.0
+Garlic Bread (3pcs),Cheese Corn Garlic Bread,1,0,Soft Garlic Breads with lots of Cheese and Corn,199.0
+Garlic Bread (3pcs),Cheese Chilli Garlic Bread,1,0,Soft Garlic Breads with lots of Cheese and hint of Chilli Flakes,189.0
+Garlic Bread (3pcs),Sweet Corn Stuffed Garlic Bread Sticks,1,0,,199.0
+Garlic Bread (3pcs),Cheesilicious Garlic Bread Sticks,1,0,,149.0
+Garlic Bread (3pcs),Paneer Tikka Stuffed Garlic Bread Sticks,1,0,,199.0
+Garlic Bread (3pcs),Biscuit Pie (6pcs),1,0,,199.0
+Assorted Indian Sweets,Gulabjamun-8pcs,1,0,,250.0
+Assorted Indian Sweets,Rasgulla-10pcs,1,0,,199.0
+Assorted Indian Sweets,Rajbhog-12pcs,1,0,,299.0
+Assorted Indian Sweets,Kesar Bati-16pcs,1,0,,279.0
+Belgian Waffles,Red Velvet White Chocolate Waffle Sandwich,1,0,,169.0
+Belgian Waffles,Double Chocolate Waffle Sandwich,1,0,,169.0
+Belgian Waffles,Chocolate Volcano Waffle Sandwich,1,0,,169.0
+Belgian Waffles,Nutella Waffle Sandwich,1,0,,179.0
+Belgian Waffles,Crunchy KitKat Waffle Sandwich,1,0,,169.0
+Matka Natural Icecream,Matka Jamun Sorbet Icecream,1,0,,99.0

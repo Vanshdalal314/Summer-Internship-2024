@@ -1,0 +1,26 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Desserts And Beverages,Brownie Pc[gc],1,0,,300.0
+Desserts And Beverages,Brownie With Ice Cream[gc],1,0,,400.0
+Punjabi Thali,Executive Punjabi Thali (One),1,0,2 Pc Corn N Cheese Tikki + Paneer Sabzi + Mix veg Sabzi ... read more,660.0
+Punjabi Thali,Deluxe Thali,1,0,Paneer Sabzi + Mix veg Sabzi + Dal fry + Jeera rice ... read more,500.0
+Punjabi Thali,Corporate Thali,1,0,Paneer Sabzi + Mix veg Sabzi + Dal fry + Jeera rice ... read more,600.0
+Punjabi Thali,Paneer Sabji & Roti Thali,1,0,Paneer sabzi + 3 Chapati + Salad + Pickle (Jain Not Available),450.0
+Punjabi Thali,Dal Takda + Chapati Thali,1,0,Dal Takda + 3 Chapati + Salad + Pickle (Jain Not Available),400.0
+Punjabi Thali,Dal Tadka + Jeera Rice Thali,1,0,Dal Tadka + Jeera Rice + Salad + Pickle(Jain Not Available),400.0
+Punjabi Thali,Mix Veg Sabzi + Chapati Thali,1,0,Mix Veg Sabzi + 3 Chapati + Salad + Pickle (Jain Not Available),450.0
+Punjabi Thali,Chinese & Punjabi Thali,1,0,Spring Roll + Manchurian Dry + Paneer Sabji + 2 Chapati + Salad ... read more,630.0
+Punjabi Sabzi,Paneer Butter Masala,1,0,A wholesome food served along with a creamy paneer butter masala perfect to ... read more,650.0
+Punjabi Sabzi,Paneer Lababdar,1,0,Soft cubes of paneer cooked in flavourful chef special gravy.,750.0
+Punjabi Sabzi,Paneer Tikka Masala,1,0,A creamy dish with soft paneer chunks cooked in a rich tomato gravy ... read more,750.0
+Punjabi Sabzi,Mix Vegetable,1,0,"A wholesome dish made by cooking different vegetables in a flavorful gravy, seasoned ... read more",500.0
+Punjabi Sabzi,Chaap Butter Masala,1,0,,600.0
+Rice & Biryani,Jeera Rice,1,0,Frangrant rice dish tempered with lots of aromatic cumin seeds.,300.0
+Rice & Biryani,Paneer Biryani,1,0,Soft paneer cubes and flavored rice slow cooked in a delicious mix of ... read more,650.0
+Rice & Biryani,Steam Rice,1,0,Aromatic steamed rice cooked in a tempering of cumin and whole spices.,250.0
+Rice & Biryani,Veg Biryani,1,0,Aromatic and flavourful rice cooked with vegetables and exotic spices.,550.0
+Dal,Dal Fry,1,0,A comforting and delicious preparation made with mixed dal cooked and tempered with ... read more,400.0
+Dal,Dal Tadka,1,0,Delicious lentil curry enriched with a tempering of spices and cumin seeds.,440.0
+Side Orders,Roasted Papad,1,0,Crispy and flavorful Indian appetizer with a smokey roasted taste.,70.0
+Side Orders,Fried Papad,1,0,,70.0
+Side Orders,Butter Milk,1,0,A delightful buttermilk made from yogurt mixed with salt to enhance its flavor- ... read more,80.0
+Side Orders,Masala Papad 2Pcs,1,0,,200.0

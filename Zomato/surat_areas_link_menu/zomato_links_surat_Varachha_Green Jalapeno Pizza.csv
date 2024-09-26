@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Potatoes,French Fries,1,0,,110.0
+Potatoes,Mayo Fries,1,0,,150.0
+Potatoes,Spicy Fries,1,0,,120.0
+Mexican,Cheese Beans Nachos,1,0,(Crispy nacho chopped veg and our home made beans masala with hot cheese ... read more,270.0
+Mexican,Cheese Nachos,1,0,(Crispy nacho with hot cheese sauce server with salsa),250.0
+Mexican,Super Nachos,1,0,(Crispy nacho chopped veg with hot cheese sauce server with salsa),270.0
+Salad,Fungi Trifolati,1,0,(Satay mushroom in garlic and hubs),320.0
+Salad,Mongolian Salad,1,0,,320.0
+Salad,Salted Olives,1,0,(Satay black olives green olives in garlic and hubs),320.0
+Salad,Super Salad,1,0,(Exotic vegetables black olives green olives in mayo sauce),260.0
+Salad,Vegetable Fungi,1,0,(Satay vegetables with mushroom in garlic and hubs),340.0
+Bread,Biscuit Pie,1,0,,225.0
+Bread,Garlic Bread Plain,1,0,,99.0
+Bread,Garlic Bread Supreme,1,0,,255.0
+Bread,Garlic Bread With Cheese,1,0,,185.0
+Bread,Garlic Bread With Chilli And Cheese,1,0,,195.0
+Bread,Garlic Bread With Corn And Cheese,1,0,,195.0
+Pasta,Garlic Pasta,1,0,,340.0
+Pasta,Mix Souce Pasta,1,0,,340.0
+Pasta,Pesto Pasta,1,0,,360.0
+Pasta,Red Souce Pasta,1,0,,340.0
+Pasta,White Souce Pasta,1,0,,340.0
+Pizza,Americana Pizza,1,0,"(Jalapeno black olive, green olive, rep pepper, sweet corn and fresh mozzarella, homemade ... read more",590.0
+Pizza,Blast Of Spice Pizza,1,0,"Pizza puree, fresh mozzarella, capsicum, onion, black olives, chilli, red paprika and jalapeno.",590.0
+Pizza,Brinjal Pizza,1,0,"(Onion, capsicum, fry brinjal, mozzarella, homemade sauce)",490.0
+Pizza,Delight Pizza,1,0,"Pizza puree, fresh mozzarella, onion, capsicum and tomato.",490.0
+Pizza,European Margherita Pizza,1,0,,375.0
+Pizza,Fungi Pizza,1,0,,490.0
+Pizza,G.J Exotica Pizza,1,0,"(All peppers, broccoli, zucchini, basil, black olive, English cheddar cheese & fresh mozzarella ... read more",690.0
+Pizza,Garlic Focaccia Pizza,1,0,,449.0
+Pizza,Green Jalapeno Special Pizza,1,0,"(All vegetables, extra tipping & extra sauce & process cheese & mozzarella, sprinkled ... read more",690.0
+Pizza,Indian Style Pizza,1,0,"Pizza puree, capsicum, onion, jalapeno, sweet corn, process cheese & raw cheese after ... read more",590.0
+Pizza,Margherita Pizza,1,0,Pizza puree and fresh mozzarella.,375.0
+Pizza,Multi Cheese Pizza,1,0,"(Multi type of cheese, homemade sauce)",449.0
+Pizza,Paneer Makhni Pizza,1,0,,590.0
+Pizza,Paneer Peprika,1,0,,490.0
+Pizza,Paneer Pizza,1,0,"(Sauted, paneer onion capsicum, mozzarella, home sauce)",490.0
+Pizza,Queen Margherita Pizza,1,0,Pizza puree and double mozzarella cheese.,425.0
+Pizza,Spanish Greeny Pizza,1,0,"Pesto sauce, fresh mozzarella, broccoli, zucchini, jalapeno and green olives.",590.0
+Pizza,Spezia Pizza,1,0,"Pizza puree, fresh mozzarella, jalapeno, black olives, capsicum, green olive, red paprika and ... read more",590.0
+Pizza,Spicy Delight Pizza,1,0,"Pizza puree, fresh mozzarella, onion, capsicum, chilli and green olives.",490.0
+Pizza,Veg Lover Pizza,1,0,"(Finely chopped vegetables all bell peppers olives, jalapeno, mozzarella, homemade sauce)",490.0
+Pizza,Vegetariana Pizza,1,0,"(Jalapeno black olive, green olive, all bell pepper, onion, sweet corn, fresh mozzarella, ... read more",590.0

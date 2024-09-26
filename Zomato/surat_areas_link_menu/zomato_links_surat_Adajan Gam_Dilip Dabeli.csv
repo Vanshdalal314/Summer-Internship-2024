@@ -1,0 +1,74 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Samosa [Chana Dal],Butter Dabeli + Cheese Green Pav + Samosa + Cold Drink,1,0,,120.0
+Samosa [Chana Dal],Butter Masala Samosa,1,0,Non Jain,65.0
+Samosa [Chana Dal],Butter Green Fry Samosa,1,0,,65.0
+Samosa [Chana Dal],Chana Dal Samosa Chaat without Peanuts,1,0,,50.0
+Samosa [Chana Dal],Butter Masala Cheese Samosa,1,0,,70.0
+Samosa [Chana Dal],Chana Dal Samosa [6 Pieces],1,0,,50.0
+Samosa [Chana Dal],Chana daal samosa chaat with peanuts,1,0,,60.0
+Samosa [Chana Dal],Butter Schezwan Fry Samosa,1,0,,65.0
+Dabeli,Jain Dabeli [Serves 1],1,0,"Pav stuffed with banana masala, sweet chutney, delicious masala and peanuts.",35.0
+Dabeli,Jain Masala Dabeli [Serves 1],1,0,"Pav stuffed with banana masala, sweet chutney, delicious masala and peanuts, tossed with ... read more",40.0
+Dabeli,Jain Cheese Dabeli [Serves 1],1,0,"Pav stuffed with banana masala, sweet chutney, delicious masala and peanuts.",55.0
+Dabeli,Jain Green Fried Dabeli [Serves 1],1,0,"Pav stuffed with banana masala, sweet chutney, delicious masala and peanuts, tossed with ... read more",45.0
+Dabeli,Jain Grilled Dabeli [Serves 1],1,0,"Pav stuffed with banana masala, sweet chutney, delicious masala and peanuts.",45.0
+Dabeli,Potato Stuffing Butter Dabeli [Serves 1],1,0,"Pav stuffed with tangy potato masala, sweet chutney, red chilli garlic, delicious masala, ... read more",38.0
+Dabeli,Masala Dabeli [Serves 1],1,0,"Pav stuffed with tangy potato masala, sweet chutney, red chilli garlic, delicious masala, ... read more",45.0
+Dabeli,Green Fry Dabeli [Serves 1],1,0,"Pav stuffed with tangy potato masala, sweet chutney, red chilli garlic, delicious masala, ... read more",45.0
+Dabeli,Schezwan Dabeli [Serves 1],1,0,"Pav stuffed with tangy potato masala, sweet chutney, red chilli garlic, delicious masala, ... read more",50.0
+Dabeli,Mayonnaise Dabeli [Serves 1],1,0,"Pav stuffed with tangy potato masala, sweet chutney, red chilli garlic, delicious masala, ... read more",45.0
+Dabeli,Grilled Dabeli [Serves 1],1,0,"Pav stuffed with tangy potato masala, sweet chutney, red chilli garlic, delicious masala, ... read more",50.0
+Dabeli,Dilip Special Dabeli,1,0,Cheese and mayo inside tossed with delicious masala and topped with lots of ... read more,65.0
+Dabeli,Cheese Dabeli [Serves 1],1,0,"Pav stuffed with tangy potato masala, sweet chutney, red chilli garlic, delicious masala, ... read more",50.0
+Special Combos,Butter Dabeli + Masala Samosa,1,0,,99.0
+Special Combos,Masala Vada Pav + Butter Dabeli + Cheese Masala Pav,1,0,,99.0
+Special Combos,Masala Solid Masti + Masala Pav,1,0,,100.0
+Special Combos,Butter Dabeli+ Masala Vada Pav + Chana Dal Samosa [4 Pieces],1,0,,88.0
+Extra,Khatta Meetha Imli Chutney,1,0,,5.0
+Extra,Tikha Lasan (Garlic) chutney,1,0,,5.0
+Extra,Green chutney,1,0,,5.0
+Extra,Sev,1,0,,5.0
+Extra,Extra Cheese,1,0,,20.0
+Extra,Pouch (2),1,0,,5.0
+Masala Pav,Jain Masala Pav,1,0,Peanuts and Sev,30.0
+Masala Pav,Jain Green Cheese Pav,1,0,,40.0
+Masala Pav,Jain Cheese Masala Pav,1,0,Butter pavs accompanied by a delicious and healthy masala with peanuts and sev ... read more,40.0
+Masala Pav,Jain Green Fry Masala Pav,1,0,,30.0
+Masala Pav,Jain Cheese Butter Pav,1,0,,40.0
+Masala Pav,Jain Butter Pav,1,0,,30.0
+Masala Pav,Cheese Masala Pav,1,0,Cheese masala pav made in buttered and toasted pav is filled with a ... read more,45.0
+Masala Pav,Butter Pav,1,0,,20.0
+Masala Pav,Butter Cheese Pav,1,0,,30.0
+Masala Pav,Cheese Garlic Pav,1,0,"Images used are for representation purposes only and do not indicate size, portion, ... read more",45.0
+Masala Pav,Masala Cheese Garlic Pav,1,0,,50.0
+Masala Pav,Cheese Green Pav,1,0,,45.0
+Vada Pav,Grilled Vada Pav,1,0,,40.0
+Vada Pav,Cheese Grilled Vada Pav,1,0,,50.0
+Vada Pav,Schezwan Grilled Vada Pav,1,0,,45.0
+Vada Pav,Mayo Grilled Vada Pav,1,0,,45.0
+Vada Pav,Butter Masala Vada,1,0,,65.0
+Vada Pav,Mayo Masala Vada Pav,1,0,,30.0
+Vada Pav,Green Fry Vada Pav,1,0,,36.0
+Vada Pav,Cheese Vada Pav,1,0,,40.0
+Vada Pav,Schezwan Vada Pav,1,0,,37.0
+Vada Pav,Butter Tawa Masala Vada Pav,1,0,,32.0
+Sandwiches,Cheese Chilly Toast Sandwich,1,0,,90.0
+Sandwiches,Veg Sandwich,1,0,,60.0
+Sandwiches,Veg Cheese Sandwich,1,0,,70.0
+Sandwiches,Veg Grilled Sandwich,1,0,,80.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,95.0
+Sandwiches,Bread Butter,1,0,"Pav stuffed with dabeli masala, pomogranate and sweet chatni tossed in butter.",30.0
+Sandwiches,Bread Butter with Cheese,1,0,,43.0
+Sandwiches,Bread Butter Jam,1,0,,35.0
+Sandwiches,Bread Butter Jam with Cheese,1,0,,48.0
+Masala Peanuts,Masala Peanuts,1,0,,25.0
+Mayo Pav,Cream and Onion Mayo Pav,1,0,"Pav filled with mayonnaise and wafers, inside with our lip smacking secret masala.",45.0
+Mayo Pav,Solid Masti Mayo Pav,1,0,"Pav filled with mayonnaise and wafers, inside with our lip smacking secret masala.",45.0
+Mayo Pav,Chaat Chaska Mayo Pav,1,0,"Pav filled with mayonnaise and wafers, inside with our lip smacking secret masala.",45.0
+Mayo Pav,Simply Salted Mayo Pav,1,0,"Pav filled with mayonnaise and wafers, inside with our lip smacking secret masala.",45.0
+Mayo Pav,Peri Peri Mayo Pav,1,0,"Pav filled with mayonnaise and wafers, inside with our lip smacking secret masala.",45.0
+Mayo Pav,Pizzy Masala Mayo Pav,1,0,"Pav filled with mayonnaise and wafers, inside with our lip smacking secret masala.",45.0
+Mayo Pav,Flamin Hot Nachos Mayo Pav,1,0,"Pav filled with mayonnaise and nachos, inside with our lip smacking secret masala.",45.0
+Cheesy Masala Masti,Cream and Onion Masala Masti Gravy,1,0,Served in cheesy gravy with cream and onion wafers.,95.0
+Cheesy Masala Masti,Flamin' Hot (Nachos) Masala masti,1,0,"Cheese gravy, served with nachos.",95.0
+Cheesy Masala Masti,Masala Solid Masti in Gravy,1,0,Served in cheesy gravy with kurkure solid masti crunchy pasta.,95.0

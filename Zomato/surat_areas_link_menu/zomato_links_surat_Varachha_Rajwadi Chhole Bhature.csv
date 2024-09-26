@@ -1,0 +1,6 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chole Bhature,Chole Bhature [2 Bhatura],1,0,"Rajwadi Special Chole with Soft & Crispy Bhature, Delivered with Achar, Onion & ... read more",115.0
+Chole Bhature,Chole Bhature with Buttermilk,1,0,"Rajwadi special chole with soft and crispy bhature, delivered with achar, onion, chutney ... read more",125.0
+Extra,Chole,1,0,"(Serves 1) || Images used are for representation purposes only, and do not ... read more",70.0
+Extra,Bhature [1 Piece],1,0,,50.0
+Drinks (Beverages),Buttermilk,1,0,,15.0

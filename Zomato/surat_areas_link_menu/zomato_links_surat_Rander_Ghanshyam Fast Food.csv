@@ -1,0 +1,20 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dabeli,Oil Dabeli,1,0,,30.0
+Dabeli,Butter Dabeli,1,0,,35.0
+Dabeli,Cheese Butter Dabeli,1,0,,45.0
+Vada Pav,Bread Butter,1,0,,30.0
+Vada Pav,Cheese Bread Butter,1,0,,45.0
+Vada Pav,Mayonnaise Cheese Bread Butter,1,0,,45.0
+Vada Pav,Bombay Vada Pav,1,0,,30.0
+Vada Pav,Butter Vadapav,1,0,,35.0
+Vada Pav,Cheese Butter Vadapav,1,0,,45.0
+Vada Pav,Mayonis Butter Vadapav,1,0,,45.0
+Vada Pav,Cheese Mayonnaise Butter Vada Pav,1,0,,45.0
+Frankie,Veg Cheese Frankie,1,0,,70.0
+Frankie,Cheese Schezwan Frankie,1,0,,80.0
+Frankie,Cheese Mayonnaises Frankie,1,0,,80.0
+Frankie,Cheese Tandoori Frankie,1,0,,80.0
+Frankie,Cheese Schezwan Mayonnaises Frankie,1,0,,90.0
+Frankie,Cheese Paneer Frankie,1,0,,100.0
+Frankie,Cocktail Frankie,1,0,,100.0
+Frankie,Ghanshyam Special Frankie,1,0,,120.0

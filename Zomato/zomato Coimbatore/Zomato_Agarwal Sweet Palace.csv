@@ -1,0 +1,119 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sweets,Ajmeri Roll,1,0,,205.0
+Sweets,Punjabi Burfi (1Kg),1,0,,750.0
+Sweets,Rasagulla,1,0,,50.0
+Sweets,Sada Namak Para (1Kg),1,0,,428.57
+Sweets,Small Rasagulla,1,0,,200.0
+Sweets,Special Gulkand,1,0,,140.0
+Sweets,Special Soanpapdi,1,0,,230.0
+Sweets,Spl Coconut Laddu,1,0,,275.0
+Dry Fruit Sweet,Badam Halwa,1,0,,300.0
+Dry Fruit Sweet,Dates Dry Fruit Burfi (1Kg),1,0,,1523.81
+Dry Fruit Sweet,Dry Fruit Roll,1,0,,425.0
+Dry Fruit Sweet,Flavoured Bites,1,0,,400.0
+Dry Fruit Sweet,Ghee Kaju Dalmote (1Kg),1,0,,895.24
+Dry Fruit Sweet,Kaju Basket,1,0,,400.0
+Dry Fruit Sweet,Kaju Flower,1,0,,375.0
+Dry Fruit Sweet,Kaju Katli W/O Silver Leaf,1,0,,325.0
+Dry Fruit Sweet,Kaju Katli,1,0,,325.0
+Dry Fruit Sweet,Kaju Mango Sandwich,1,0,,400.0
+Dry Fruit Sweet,Kaju Pan,1,0,,375.0
+Dry Fruit Sweet,Kaju Son Roll,1,0,,1800.0
+Dry Fruit Sweet,Orange Kaju Son Roll (1Kg),1,0,,1714.29
+Dry Fruit Sweet,Pista Roll,1,0,,475.0
+Dry Fruit Sweet,Sugar Free Dry Fruit Burfi,1,0,,500.0
+Milk Sweets,Choco Badam Roll,1,0,,210.0
+Milk Sweets,Choco Chips Burfi,1,0,,205.0
+Milk Sweets,Choco Delicious,1,0,,225.0
+Milk Sweets,Diamond Burfi,1,0,,210.0
+Milk Sweets,Kesar Peda,1,0,,215.0
+Milk Sweets,Kheer Kadam,1,0,,215.0
+Milk Sweets,Milk Burfi,1,0,,190.0
+Milk Sweets,Milk Cake,1,0,,210.0
+Milk Sweets,Milk Peda,1,0,,210.0
+Milk Sweets,Moti Pak,1,0,,210.0
+Milk Sweets,Rajasthani Peda,1,0,,210.0
+Bengali Sweets,Chum Chum,1,0,,200.0
+Bengali Sweets,Gulab Jamun,1,0,,55.0
+Bengali Sweets,Kala Zam,1,0,,210.0
+Bengali Sweets,Makhan Peda,1,0,,210.0
+Bengali Sweets,Malai Puri,1,0,,40.0
+Bengali Sweets,Malai Raj Bhog,1,0,,215.0
+Bengali Sweets,Malai Sandwich,1,0,,215.0
+Bengali Sweets,Petha Pan (1Kg),1,0,,800.0
+Bengali Sweets,Rasmalai,1,0,,60.0
+Bengali Sweets,Small Jamun,1,0,,205.0
+Assorted Sweets,Assorted Sweets,1,0,"An array of modern and classic assorted ghee sweets, all in one handy ... read more",215.0
+Assorted Sweets,Dry Fruit Assorted Sweets (1Kg),1,0,,1523.81
+Assorted Sweets,Special Assorted Sweets Sweets (1Kg),1,0,,1238.1
+Ghee Sweets,Agarwal Laddu,1,0,,215.0
+Ghee Sweets,Balaji Laddu,1,0,,210.0
+Ghee Sweets,Balushahi,1,0,,210.0
+Ghee Sweets,Besan Laddu,1,0,,215.0
+Ghee Sweets,Bombay Halwa,1,0,,205.0
+Ghee Sweets,Bombay Jilebi,1,0,,195.0
+Ghee Sweets,Boondi Laddu,1,0,,215.0
+Ghee Sweets,Carrot Halwa,1,0,,215.0
+Ghee Sweets,Carrot Mysore Pak,1,0,,215.0
+Ghee Sweets,Chandra Kala,1,0,,220.0
+Ghee Sweets,Doda Burfi,1,0,,215.0
+Ghee Sweets,Gond Laddu,1,0,,275.0
+Ghee Sweets,Horlicks Burfi,1,0,,230.0
+Ghee Sweets,Milk Halwa,1,0,,225.0
+Ghee Sweets,Mini Jangiri,1,0,,190.0
+Ghee Sweets,Mundhiri Cake,1,0,,300.0
+Ghee Sweets,Mysore Pak,1,0,,215.0
+Ghee Sweets,Shakkarpara,1,0,,165.0
+Ghee Sweets,Soan Halwa,1,0,,180.0
+Ghee Sweets,Son Lachha (150 Grams Box),1,0,,105.0
+Ghee Sweets,Surya Kala,1,0,,220.0
+Ghee Sweets,Sweet Boondi,1,0,,200.0
+Accompaniments,Green Chutney,1,0,,90.0
+Accompaniments,Paneer,1,0,,205.0
+Accompaniments,Pheny,1,0,,125.0
+Accompaniments,Sweet Chutney,1,0,,90.0
+Accompaniments,Sweet Less Kova,1,0,,160.0
+Savouries,Bhakharvadi,1,0,,125.0
+Savouries,Chat Papdi Packet (Only Puri),1,0,,125.0
+Savouries,Corn Flex Mixture,1,0,,150.0
+Savouries,Gathiya,1,0,,135.0
+Savouries,Kaju Pakoda,1,0,,225.0
+Savouries,Masala Chips,1,0,,80.0
+Savouries,Mathri,1,0,,115.0
+Savouries,Palak Pakoda,1,0,,517.86
+Savouries,Pani Puri Packet (Only Puri),1,0,50 Pieces,100.0
+Savouries,Potao Chips,1,0,,80.0
+Savouries,Ribbon Pakoda,1,0,,125.0
+Savouries,Ring Murukku,1,0,,92.0
+Savouries,Small Kachodi (1Kg),1,0,,428.57
+Savouries,Spl Corn Flakes,1,0,,100.0
+Snacks,Bhujiya,1,0,,135.0
+Snacks,Diet Foxnut Makhana,1,0,,104.76
+Snacks,Kachodi,1,0,,30.0
+Snacks,Khakhra (1 Pkt),1,0,,71.43
+Snacks,Khara Boondi,1,0,,125.0
+Snacks,Masala Mathri,1,0,,150.0
+Snacks,Masala Namak Para,1,0,,120.0
+Snacks,Methi Mathri,1,0,,125.0
+Snacks,Onion Kachodi,1,0,,40.0
+Snacks,Onion Pakoda,1,0,,150.0
+Snacks,Peri Peri Foxnuts (70 Gms),1,0,,119.05
+Snacks,Samosa,1,0,,30.0
+Snacks,Small Samosa,1,0,,120.0
+Others,Kaju Fry,1,0,,450.0
+Others,Moong Dal,1,0,,125.0
+Others,Omapodi,1,0,,135.0
+Mixture Varieties,Aval Mixture,1,0,,140.0
+Mixture Varieties,Bombay Mixture,1,0,,150.0
+Mixture Varieties,Dry Fruit Mixture,1,0,,240.0
+Mixture Varieties,Garlic Mixture,1,0,,145.0
+Mixture Varieties,Pori Mixture,1,0,,88.0
+Mixture Varieties,Rajasthani Mixture,1,0,,140.0
+Mixture Varieties,Spl Agarwal Mixture,1,0,,150.0
+Murukku Varieties,Butter Murukku,1,0,,120.0
+Murukku Varieties,Khara Sev,1,0,,140.0
+Murukku Varieties,Murukku,1,0,,80.0
+Murukku Varieties,Ottu Pakoda,1,0,,135.0
+Murukku Varieties,Thatta Murukku,1,0,,115.0
+Drinks (Beverages),Badam Milk,1,0,,110.0
+Drinks (Beverages),Rose Milk,1,0,,90.0

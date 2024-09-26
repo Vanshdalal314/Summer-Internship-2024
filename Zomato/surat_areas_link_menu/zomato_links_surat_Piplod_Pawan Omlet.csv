@@ -1,0 +1,111 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pavan Omelette Special,Egg Cassata [5 Eggs],0,0,,400.0
+Pavan Omelette Special,Egg Paplet with Cheese [4 Eggs],0,0,,320.0
+Pavan Omelette Special,Egg Toofani Tadka [6 Eggs],0,0,,450.0
+Pavan Omelette Special,Egg 007 [5 Eggs],0,0,,400.0
+Pavan Omelette Special,Red Goti Gotala,0,0,,170.0
+Pavan Omelette Special,Green Goti Gotala,0,0,,170.0
+Special,Plain Lasan Fry,0,0,[2 Eggs] Sunny Side Up Topped with Special Gravy Made out of ... read more,150.0
+Special,Tomato Fry,0,0,[2 Eggs] [Serves with 5 Pav],150.0
+Special,Lasan Fry Gravy,0,0,[2 Eggs] Sunny side up topped with special gravy made out of ... read more,150.0
+Special,Australian Fry,0,0,[4 Egg] [chefs Special] This is half fry prepared with yolk based cheesy ... read more,290.0
+Special,Afgani Fry Cheese,0,0,[4 Eggs] with 6 Butter Pav,290.0
+Special,Lasan Kachu Paku,0,0,[2 Eggs] with 5 Pav,150.0
+Special,Chinese Fry,0,0,[2 Eggs] [Serves with 5 Pav],150.0
+Special,Cheese Tomato Fry,0,0,[2 Eggs] with 2 Pav,170.0
+Combo Offer,Breakfast Special Combo,0,0,Bombay Omelette [2 Eggs]+Egg Sandwich [2 Pieces]+Ketchup+Pav [4 Pav]+Buttermilk [200 ml],259.0
+Combo Offer,Egg Breakfast Combo,0,0,Regular Omelette [2 Eggs]+Egg Cutlet [2 Pieces]+Tomato Ketchup+Pav [4 Pav],230.0
+Combo Offer,Egg Biryani Combo,0,0,Egg Biryani+Green Chutney+Buttermilk [200 ml],229.0
+Combo Offer,Egg Laziz Combo,0,0,Egg Laziz [2 Eggs]+Green Ghotala [2 Eggs]+Egg Omelette [2 Eggs]+Butter Pav [10 Pav]+Buttermilk ... read more,369.0
+Combos,Egg Lahori Combo,0,0,Egg Lahori [2 Eggs]+Lasan Fry [2 Eggs]+Egg Pulao+Butter Pav [8 Pav]+Buttermilk [200 ml] ... read more,399.0
+Combos,Egg Chinese Fry Combo,0,0,Egg Chinese Fry [2 Eggs]+Lasan Kachu Paku [2 Eggs]+Butter Pav [8 Pav]+Buttermilk [200 ... read more,300.0
+Combos,Egg Australian Fry Combo,0,0,Egg Australian Fry [4 Eggs]+Egg Biryani+Butter Pav [7 Pav]+Buttermilk [200 ml] Prepared in ... read more,400.0
+Combos,Egg Hyderabadi Combo,0,0,Egg Hyderabadi [3 Eggs]+Cream and Onion [2 Eggs]+Butter Pav [10 Pav]+Buttermilk [200 ml] ... read more,450.0
+Combos,Egg Thikhari Combo,0,0,Egg Thikari [3 Eggs]+Egg Rawaiya [2 Eggs]+Cheese and Cream Boil Fry [2 Eggs]+Butter ... read more,550.0
+Combos,Egg Maharaja Combo,0,0,Egg Maharaja [5 Eggs]+Egg Biryani+Butter Pav [8 Pav]+Buttermilk [200 ml] Prepared in butter.,499.0
+Thali,Silver Egg Thali,0,0,Green Kheema+Red Egg Curry [1 Egg]+1 Boiled Egg+Egg Biryani+4 Roti+Salad+Butter Milk [200 ml] ... read more,295.0
+Thali,Golden Egg Thali,0,0,Green Kheema+Red Egg Curry [1 Egg]+1 Boiled Egg+Egg Biryani+5 Pav+Salad+Butter Milk [200 ml] ... read more,295.0
+Starters,Boiled Egg [2 Eggs],0,0,Soft boiled egg perfect for dipping.,40.0
+Starters,Gym Special Boiled Egg [5 Eggs],0,0,Deliciously boiled and protein packed eggs.,100.0
+Starters,Green Kheema,0,0,"A savory and satisfying start to any meal, this flavorful dish features tender ... read more",170.0
+Starters,Green Katki Gotala,0,0,A delicious egg based starter served with  fluffy pav [5 pav] buns.,170.0
+Starters,Egg Lachko [2 Eggs],0,0,Fluffy egg sandwiched in a soft pav.,170.0
+Starters,Egg Bhurji [2 Eggs] with 5 Pav,0,0,"An egg based starter with fluffy bhurji and soft pav buns, perfect for ... read more",170.0
+Starters,Red Gotala,0,0,,170.0
+Starters,Red Katki Gotala,0,0,,170.0
+Starters,Lasan Bhurji [2 Eggs],0,0,With 5 pav.,170.0
+Starters,Cheese Bhurji [2 Eggs],0,0,With 5 pav.,170.0
+Starters,Egg Curry [2 Eggs],0,0,With 5 pav.,170.0
+Starters,Cheese Egg Curry [2 Eggs],0,0,With 5 pav.,200.0
+Starters,Lasan Kachu Paku [2 Eggs],0,0,With 5 pav.,170.0
+Starters,Green Katki Kheema,0,0,,170.0
+Special Fry,Plain Lasan Fry [2 Eggs],0,0,Sunny side up topped with special gravy made out of green garlic and ... read more,160.0
+Special Fry,Lasan Fry Gravy [2 Eggs],0,0,Sunny side up topped with special gravy made out of green garlic and ... read more,170.0
+Special Fry,Australian Fry [4 Eggs],0,0,[Chefs Special] This is half fry prepared with yolk based cheese gravy along ... read more,290.0
+Special Fry,Chinese Fry,0,0,[2 Eggs] Served with 5 pav.,170.0
+Special Fry,Green Goti Fry [2 Eggs],0,0,Sunny side stirred up with the lip smacking green masala mix. Served with ... read more,190.0
+Special Fry,Afghani Fry Cheese,0,0,,290.0
+Special Fry,Mexican Fry Cheese [3 Eggs],0,0,with 6 Butter Pav,270.0
+Special Fry,Cheese Tomato Fry,0,0,[2 Eggs] with 2 pav.,190.0
+Special Fry,Chinese Sabji,0,0,,200.0
+Special Fry,Red Chinese Tikka Cheese,0,0,,200.0
+Special Fry,Egg Kofta [3 Eggs],0,0,,290.0
+Special Fry,Egg Royal with Cheese [3 Eggs],0,0,,290.0
+Special Fry,Cocktail with Cheese,0,0,,200.0
+Special Fry,Egg Pizza Gravy [3 Eggs],0,0,,290.0
+Special Fry,Egg Tikhari,0,0,,290.0
+Special Fry,New Punjabi Tadka,0,0,,290.0
+Special Fry,Egg Lazeez Tadka [2 Eggs],0,0,,200.0
+Special Fry,Green Goti Fry,0,0,[2 Eggs] Sunny Side Stirred up with the Lip Smacking Green Masala Mix ... read more,180.0
+Special Fry,Mexican Fry Cheese,0,0,[3 Eggs] with 6 Butter Pav,250.0
+Desi Course,Kheema,0,0,,170.0
+Desi Course,Cheese Kheema,0,0,Mouthwatering egg curry served with soft buns.,200.0
+Desi Course,Bombay Omelette,0,0,"A savory Desi course featuring soft, flavorful kheema with melted cheese and tender ... read more",110.0
+Desi Course,American Cheese Omelette,0,0,A classic desi favorite served with 5 generously soft pav buns is a ... read more,180.0
+Desi Course,Cheese Omelette,0,0,,160.0
+Desi Course,Cheese Baby Paper Omelette,0,0,,160.0
+Desi Course,Royal Cheese Omelette,0,0,,180.0
+Desi Course,Omelette Sandwich,0,0,,130.0
+Desi Course,Omelette Cutlet,0,0,,130.0
+Desi Course,Omelette Cheese Cutlet,0,0,,160.0
+Special Course,Egg Ravaiya,0,0,,200.0
+Special Course,Egg Lahori Cheese,0,0,,200.0
+Special Course,Egg Boiled Tikka,0,0,A savory and filling special course of eggs and cheese served with soft ... read more,200.0
+Special Course,Egg Patra [5 Eggs],0,0,With 8 pav.,400.0
+Special Course,Cream & Onion,0,0,A flavorful featuring eggs and pav cooked in butter that is sure to ... read more,200.0
+Special Course,Royal Tadka Cheese [2 Eggs],0,0,,200.0
+Special Course,Cutlet Cheese Curry,0,0,,200.0
+Special Course,Egg Cheese Manchurian Dry,0,0,,190.0
+Special Course,Jaipuri Golden,0,0,,290.0
+Special Course,Angur Rabdi [3 Eggs],0,0,,290.0
+Special Course,Egg Dhamaka [5 Eggs],0,0,,290.0
+Special Course,Egg Italian Fry Cheese [5 Eggs],0,0,,400.0
+Special Course,Egg Triple Fry [6 Eggs],0,0,,450.0
+Special Course,Egg Machhi Masala [5 Eggs],0,0,,400.0
+Special Course,Egg Dosa [5 Eggs],0,0,,400.0
+Special Course,Egg Samosa with Gravy [5 Eggs],0,0,,400.0
+Special Course,Egg Rajwadi [5 Eggs],0,0,,400.0
+Special Course,Egg Mongolian Fry [5 Eggs],0,0,,400.0
+Special Course,Egg Double Dhamaka [5 Eggs],0,0,,400.0
+Special Course,Egg Double Decker [5 Eggs],0,0,,400.0
+Special Course,Egg Hum Tum [5 Eggs],0,0,,400.0
+Special Course,Hydrabadi with Cheese [3 Eggs],0,0,,290.0
+Breads,Butter Roti,1,0,"A flaky, buttery bread that melts in your mouth.",15.0
+Breads,5 Oil Pav,1,0,,25.0
+Breads,5 Butter Pav,1,0,,35.0
+Special Rice,Egg Pulao,0,0,,160.0
+Special Rice,Egg Gravy Pulao,0,0,A creamy rice delicacy thats enriched with succulent aromatic gravy and tender scrambled ... read more,200.0
+Special Rice,Egg Biryani,0,0,Healthy yet wholesome boiled eggs covered in flavor packed masala and slow cooked ... read more,160.0
+Special Rice,Egg Fried Rice,0,0,A flavorful rice featuring scrambled egg mixed with the rice for a satisfying ... read more,160.0
+Special Rice,Mix Pulao,0,0,,160.0
+Omelette,Limbu Mari Omelette,0,0,,120.0
+Omelette,Cheese Limbu Mari Omelette [2 Eggs],0,0,,140.0
+Special Omelette,Regular Omelette,0,0,,110.0
+Special Omelette,Egg Mamna Dry [2 Eggs],0,0,Fluffy omelette paired with soft pav buns makes for a perfect breakfast/brunch option.,160.0
+Special Omelette,Egg Cutlet [2 Eggs],0,0,"A savory and satisfying omelette with a crispy exterior, paired perfectly with tangy ... read more",130.0
+Accompaniments,Salad,1,0,,30.0
+Accompaniments,Roasted Papad,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",15.0
+Accompaniments,Green Chutney,1,0,,50.0
+Accompaniments,Red Chutney,1,0,,50.0
+Accompaniments,Ghoti Chutney,1,0,,90.0
+Drinks (Beverages),Buttermilk [200 ml],1,0,Butter milk.,30.0

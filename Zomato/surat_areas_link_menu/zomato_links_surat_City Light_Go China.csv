@@ -1,0 +1,65 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Burmese Soup,1,0,Cut Zucchini tossed in Coconut Milk with Burnt Garlic on it. Pure Heaven.,580.0
+Soups,Hot And Sour Soup,1,0,"Thin cut veggies - bell peppers, cabbage, mushroom tossed with ginger & garlic. ... read more",320.0
+Soups,Lemon Corriander Soup,1,0,"Carrouts, beans & lemon juice tossed with overnight veggi stock water. Taste Sour.",320.0
+Soups,Lemon Pepper Soup,1,0,"Carrouts, beans, Cauliflower & lemon juice tossed with overnight veggi stock water with ... read more",320.0
+Soups,Manchow Soup,1,0,"Chopped carrots & cabbage, Ginger, Garlic & green chillies tossed with overnight veggie ... read more",350.0
+Soups,Tom Yum Soup,1,0,"Cut veggies like Broccoli, carrots, cauliflower, beans tossed with ginger & garlic with ... read more",350.0
+Starters,Malaysian Paneer,1,0,"Sliced Paneer cooked in home made malaysian sauce, tossed in coconut milk. Taste ... read more",560.0
+Starters,Manchurian Dry,1,0,"Veg balls deep fried, tossed in onion, garlic, chillies & soya",295.0
+Starters,Manchurian Paneer Chilly,1,0,"Combination of manchurian balls & deep fried panner, tossed with red-yellow bell peppers ... read more",520.0
+Starters,Paneer Chilli Dry,1,0,Diced paneer deep fried & tossed with red-yellow bell peppers & green chillies. ... read more,360.0
+Starters,Paneer Schezwan,1,0,"Diced Paneer, tossed in House made schezwan sauce & bell peppers- Taste spicy",360.0
+Starters,Paneer Shangai,1,0,"Sliced Panner, in red sauce, tossed with slight peanut on it- Taste Sweet ... read more",360.0
+Starters,Red Pepper Mushroom Chilli,1,0,"Fresh mushroom deep fried, tossed in garlic, red-yellow bell peppers. Taste spicy",495.0
+Starters,Schezwan Manchurian Dry,1,0,"Veg balls, deep fried & tossed in schezwan sauce & red-yellow bell peppers",340.0
+Starters,Spring Rolls,1,0,"Rolls stuffed with mix vegetables, deep fried, cut into pieces & served with ... read more",290.0
+Starters,Cottage Cheese Chilly Sticks,1,0,Finger cut paneer deep fried & tossed in garlic & Schezwan sauce. Taste ... read more,550.0
+Starters,Corn And Cheese Fillets [6 Pieces],1,0,"Crispy patty, made with Cheese, Paneer & Corn & coated with corn flakes ... read more",350.0
+Rice,Burnt Garlic Rice,1,0,Burnt Garlic & Fried paneer cubes tossed in fresh Rice,350.0
+Rice,Chinese Bhel,1,0,"Mixture of Fresh Rice, Steam Noodles, Fried Noodles, Cut Manchurian balls tossed with ... read more",380.0
+Rice,Manchurian Fried Rice,1,0,Fried manchurian balls tossed with Veg Fried Rice,360.0
+Rice,Manchurian Schezwan Rice,1,0,Fried manchurian balls tossed with Schezwan Fried Rice,390.0
+Rice,Mexican Rice,1,0,"Mexican rice is a one pot dish, lightly spiced and has corn, tomato, ... read more",550.0
+Rice,Schezwan Rice,1,0,"Beans, Carrot, Cauliflower, Babby corn & Rice tossed in home made schezwan sauce.",350.0
+Rice,Singapore Rice,1,0,"Beans, Carrot, Cauliflower, Babby corn & Rice tossed with little turmeric & Chilly ... read more",350.0
+Rice,Taiwan Bhel,1,0,,580.0
+Rice,Veg Fried Rice,1,0,"Beans, Carrot, Cauliflower, Babby corn & Rice tossed in little oil & served.",300.0
+Rice,Combination Rices,1,0,Veg fried Rice topped with Fried Noodles served with Red gravy (Packed in ... read more,600.0
+Noodles,Chilli Garlic Noodles,1,0,"Red -Yellow - Green Bell peppers, cabbage, carrots, Green Chillies, Ginger & Garlic ... read more",360.0
+Noodles,Hakka Noodles,1,0,"Red -Yellow - Green Bell peppers, cabbage, carrots, Ginger & Garlic tossed with ... read more",310.0
+Noodles,Manchurian Hakka Noodles,1,0,Fried manchurian balls tossed in Hakka Noodles,380.0
+Noodles,Manchurian Schezwan Noodles,1,0,Fried manchurian balls tossed in Schezwan Noodles,385.0
+Noodles,Schezwan Noodles,1,0,"Red -Yellow - Green Bell peppers, cabbage, carrots, Ginger & Garlic tossed home ... read more",360.0
+Noodles,Singapore Noodles,1,0,"Red -Yellow - Green Bell peppers, cabbage, carrots, Ginger & Garlic tossed littel ... read more",360.0
+Combos,Chinese Thali Two,1,0,Paneer Chilly & Hakka Noodles,450.0
+Combos,Chinese Thali Four,1,0,Schezwan Noodles & Manchurian Gravy,400.0
+Combos,Chinese Thali Seven,1,0,Veg Fried Rice + Paneer Chilly Gravy +Corn N Cheese Fillets 2 ... read more,450.0
+Combos,Chinese Thali Three,1,0,Schezwan Rice+Manchurian Gravy,400.0
+Combos,Chinese Thali Five,1,0,Garlic Burnt Rice+Thai Red Curry,520.0
+Combos,Chinese Thali One,1,0,Corn N Cheese Fillets & Chilly Garlic Noodles,400.0
+Main Course,Manchurian Gravy,1,0,Manchurian gravy is the Indo Chinese starter dish where fried vegetable balls are ... read more,295.0
+Main Course,Paneer Chilli Gravy,1,0,"Paneer based Chinese dish, cooked in spices of garlic and ginger with chilly. ... read more",360.0
+Main Course,Schezwan Manchurian Gravy,1,0,,340.0
+Main Course,Green Thai Curry,1,0,"Broccoli, Carrots, Beans, Flower, Zucchini, Pok chow, tossed with Ginger Garlic, made in ... read more",650.0
+Main Course,Red Thai Curry,1,0,"Broccoli, Carrots, Beans, Flower, Zucchini, Pok chow, tossed with Ginger Garlic, made in ... read more",650.0
+Rice Bowl,Chilly Garlic Rice With Curry,1,0,,700.0
+Rice Bowl,Corn Rice With Red Curry,1,0,,700.0
+Chopsuey,American Chopsuey,1,0,A delicious blend of crispy noodles and fresh veggies tossed in a savory ... read more,500.0
+Chopsuey,Chinese Chopsuey,1,0,,500.0
+Rolls,Mushroom Chilly Rolls,1,0,,400.0
+Rolls,Paneer Chilly Rolls,1,0,,400.0
+Rolls,Paneer Schezwan Rolls,1,0,,400.0
+Pizza And Pasta,Combination Pasta,1,0,Penne,600.0
+Pizza And Pasta,Italiano White Pasta,1,0,Penne,600.0
+Pizza And Pasta,Tangy Tomato Pasta,1,0,Penne,600.0
+Snacks,Garlic Bread,1,0,,320.0
+Snacks,Cheese Garlic Bread,1,0,,370.0
+Snacks,Bruschetta,1,0,"Chopped Onion, Tomato, Green Pepper + Oregano + Olives & topped with Cheese",400.0
+Pizzas,Exotic Veg Pizza,1,0,"Broccoli, Red Peprica, Baby Corn,Olives",450.0
+Pizzas,Margherita Pizza,1,0,Only Cheese Pizza,450.0
+Pizzas,Mexican Delight Pizza,1,0,"Green Chilli,Green Pepper,Jalapeno,Tomato,Mexican Seasoning",450.0
+Pizzas,Mushroom Magic Pizza,1,0,"Mushroom,Green Chilli,Onion,Olives",450.0
+Pizzas,Tandoori Paneer Pizza,1,0,"Onion,Tomato,Red Peprica,Tandoori Paneer,Green Pepper",450.0
+Pizzas,Veg Bite Pizza,1,0,"Onion,Tomato,Green Pepper",450.0
+Pizzas,Veggie Over Loaded Pizza,1,0,"Onion, Green Pepper, Mushroom, Sweet Corn, Tomato, Black Olives",450.0

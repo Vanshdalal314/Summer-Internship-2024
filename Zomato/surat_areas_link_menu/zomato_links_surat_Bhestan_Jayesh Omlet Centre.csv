@@ -1,0 +1,66 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Omelette,Limbu Mari Omelette [2 Eggs],0,0,,70.0
+Omelette,Omelette [2 Eggs],0,0,Served with 4 pav.,80.0
+Omelette,Cheese Omelette [2 Eggs],0,0,Served with 4 pav.,120.0
+Omelette,Lasooniya Omelette [2 Eggs],0,0,Served with 4 pav.,90.0
+Omelette,Punjabi Omelette [2 Eggs],0,0,Served with 4 pav.,180.0
+Main Course,Boiled Fry Gravy [2 Eggs],0,0,Served with 4 pav.,100.0
+Main Course,Ghotala [2 Eggs],0,0,Served with 4 pav.,120.0
+Main Course,Goti Ghotala [2 Eggs],0,0,Served with 4 pav.,120.0
+Main Course,Half Goti [2 Eggs],0,0,Served with 4 pav.,160.0
+Main Course,Keema [2 Eggs],0,0,Served with 4 pav.,140.0
+Main Course,Cheese Keema [2 Eggs],0,0,Served with 4 pav.,180.0
+Main Course,Green Keema [2 Eggs],0,0,Served with 4 pav.,150.0
+Main Course,Cheese Green Keema [2 Eggs],0,0,Served with 4 pav.,200.0
+Main Course,Bhurji [2 Eggs],0,0,Served with 4 pav.,140.0
+Main Course,Cheese Bhurji [2 Eggs],0,0,Served with 4 pav.,170.0
+Main Course,Egg Kadhi [2 Eggs],0,0,Served with 4 pav.,140.0
+Main Course,Goti Keema [2 Eggs],0,0,Served with 4 pav.,140.0
+Main Course,Green Goti Ghotala [2 Eggs],0,0,Served with 4 pav.,150.0
+Main Course,Green Goti Keema [2 Eggs],0,0,Served with 4 pav.,150.0
+Main Course,Green Egg Kadhi [2 Eggs],0,0,Served with 4 pav.,150.0
+Main Course,Kachu [2 Eggs],0,0,Served with 4 pav.,150.0
+Main Course,Cheese Kachu [2 Eggs],0,0,Served with 4 pav.,190.0
+Main Course,Rajvadi Kachu [2 Eggs],0,0,Served with 4 pav.,190.0
+Main Course,Rabdi Keema [2 Eggs],0,0,Served with 4 pav.,190.0
+Main Course,Boiled Tikka [2 Eggs],0,0,Served with 4 pav.,180.0
+Main Course,Lahori [2 Eggs],0,0,Served with 4 pav.,190.0
+Main Course,Red Nurani [2 Eggs],0,0,Served with 4 pav.,180.0
+Main Course,Cheese Kofta [2 Eggs],0,0,Served with 4 pav.,220.0
+Main Course,Green Cheese Kadhi [2 Eggs],0,0,Served with 4 pav.,200.0
+Main Course,Green Cheese Kofta [2 Eggs],0,0,Served with 4 pav.,230.0
+Main Course,Red Royal [4 Eggs],0,0,Served with 6 pav.,280.0
+Main Course,Garib Rath [4 Eggs],0,0,Served with 6 pav.,290.0
+Main Course,Green Royal [4 Eggs],0,0,Served with 6 pav.,290.0
+Main Course,Green Egg Rabdi [4 Eggs],0,0,Served with 6 pav.,310.0
+Main Course,Red Egg Rabdi [4 Eggs],0,0,Served with 6 pav.,330.0
+Main Course,Red Egg Paplet [6 Eggs],0,0,Served with 8 pav.,360.0
+Main Course,Red Mughlai [6 Eggs],0,0,Served with 8 pav.,360.0
+Main Course,Green Mughlai [6 Eggs],0,0,Served with 8 pav.,380.0
+Main Course,Green Egg Paplet [6 Eggs],0,0,Served with 8 pav.,380.0
+Main Course,Red Tadka [2 Eggs],0,0,Served with 4 pav.,190.0
+Main Course,Green Tadka [2 Eggs],0,0,Served with 4 pav.,200.0
+Main Course,Tikhari Tadka [4 Eggs],0,0,Served with 4 pav.,310.0
+Main Course,Hyderabadi Tadka [4 Eggs],0,0,Served with 6 pav.,320.0
+Main Course,Goti Tadka [3 Eggs],0,0,Served with 6 pav.,200.0
+Main Course,Cocktail Tadka [3 Eggs],0,0,Served with 6 pav.,250.0
+Main Course,Omelette Tadka [4 Eggs],0,0,Served with 6 pav.,320.0
+Bread,1 Rotli,1,0,,15.0
+South Indian,Red Masala Dosa [3 Eggs],0,0,Served with 6 pav.,180.0
+South Indian,Green Masala Dosa [3 Eggs],0,0,Served with 6 pav.,200.0
+Fried Rice,Egg Fried Rice [2 Eggs],0,0,,100.0
+Fried Rice,Egg Schezwan Fried Rice [2 Eggs],0,0,,120.0
+Fried Rice,Jayesh Omelette Centre Special Fried Rice [3 Eggs],0,0,,160.0
+Rolls,Egg Cheese Roll [2 Eggs],0,0,,90.0
+Rolls,Red Cheese Roll [2 Eggs],0,0,Served with 4 pav.,180.0
+Rolls,Green Cheese Roll [2 Eggs],0,0,Served with 4 pav.,200.0
+Snacks,Boiled Fry Dry [2 Eggs],0,0,,100.0
+Snacks,Plain Fry [2 Eggs],0,0,Served with 4 pav.,80.0
+Snacks,Masala Fry [2 Eggs],0,0,Served with 4 pav.,100.0
+Snacks,Tomato Half Fry [2 Eggs],0,0,Served with 4 pav.,140.0
+Snacks,Lasoon Fry [2 Eggs],0,0,Served with 4 pav.,150.0
+Snacks,Chinese Fry [2 Eggs],0,0,Served with 4 pav.,170.0
+Snacks,Cheese Half Fry [2 Eggs],0,0,Served with 4 pav.,180.0
+Snacks,Australian Fry [4 Eggs],0,0,Served with 6 pav.,210.0
+Snacks,Green Cheese Fry [2 Eggs],0,0,Served with 4 pav.,200.0
+Snacks,Russian Fry [4 Eggs],0,0,Served with 6 pav.,280.0

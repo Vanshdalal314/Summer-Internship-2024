@@ -1,0 +1,76 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Toast,Cheese Chilli Toast,1,0,,120.0
+Toast,Cheese Toast,1,0,,100.0
+Toast,Exotic Veggie Toast,1,0,,160.0
+Coffee,Hot Chocolate,1,0,[Serves 1],120.0
+Coffee,Hot Chocolate Coffee,1,0,[Serves 1],135.0
+Coffee,Hot Coffee,1,0,[Serves 1],90.0
+Sandwich,Ahmedabadi Sandwich Grilled,1,0,,180.0
+Sandwich,Ahmedabadi Sandwich Non Grilled,1,0,,150.0
+Sandwich,Bombay Sandwich Grilled,1,0,,180.0
+Sandwich,Bombay Sandwich Non Grilled,1,0,,150.0
+Sandwich,Cheese Jam Sandwich Grilled,1,0,,135.0
+Sandwich,Cheese Jam Sandwich Non Grilled,1,0,,105.0
+Sandwich,Veg. Cheese Sandwich Grilled,1,0,,150.0
+Sandwich,Veg. Cheese Sandwich Non Grilled,1,0,,120.0
+Sandwich,Veg. Delight Sandwich Grilled,1,0,,180.0
+Sandwich,Veg. Delight Sandwich Non Grilled,1,0,,150.0
+French Fry,Italian Pudding French Fries,1,0,,210.0
+French Fry,Loaded With Cheese Fries,1,0,,180.0
+French Fry,Masala French Fries,1,0,,150.0
+French Fry,Peri Peri Fries,1,0,,120.0
+French Fry,Salted Fries,1,0,,90.0
+Maggie,Creamy Cheese Maggi,1,0,,240.0
+Maggie,Mix Veg Maggie,1,0,,120.0
+Maggie,Peri Peri Paneer Maggie,1,0,,150.0
+Maggie,Plain Cheese Maggie,1,0,,90.0
+Maggie,Schezwan Paneer Maggi,1,0,,280.0
+Chat,Chips Chat,1,0,,90.0
+Chat,Monaco Topping,1,0,,90.0
+Chat,Sweet Corn Chat,1,0,,90.0
+Chhole Kulche,Butter Chhole Kulche,1,0,,150.0
+Chhole Kulche,Cheese Chhole Kulche,1,0,,180.0
+Chhole Kulche,Extra Kulcha (butter),1,0,,20.0
+Chhole Kulche,Extra Kulcha (oil),1,0,,15.0
+Chhole Kulche,Paneer Chhole Kulche,1,0,,195.0
+Chhole Kulche,Plain Chhole Kulche,1,0,,120.0
+Pav Bhaji,Pav Bhaji Butter,1,0,,150.0
+Pav Bhaji,Pav Bhaji Oil,1,0,,120.0
+"Pizza (9"")",Italian Pizza,1,0,,240.0
+"Pizza (9"")",Margherita Pizza,1,0,(9' ),150.0
+"Pizza (9"")",Mexican Delight Pizza,1,0,,210.0
+"Pizza (9"")",Pav Bhaji Pizza,1,0,,195.0
+"Pizza (9"")",Peppy Paneer Pizza,1,0,,225.0
+"Pizza (9"")",Veg King Kovy Pizza,1,0,,180.0
+Garlic Bread,Cheese Garlic Bread,1,0,,120.0
+Garlic Bread,Regular Garlic Bread,1,0,,90.0
+Shake,Butterscotch Shake,1,0,,135.0
+Shake,Chocolate Shake,1,0,,120.0
+Shake,Cold Coffee,1,0,Serves 1,150.0
+Shake,Kitkat Shake,1,0,,135.0
+Shake,Oreo Shake,1,0,,135.0
+Pasta,Pink Sauce Pasta,1,0,,360.0
+Pasta,Red Sauce Pasta,1,0,,240.0
+Pasta,Tandoori Pasta,1,0,,240.0
+Pasta,White Sauce Pasta,1,0,,270.0
+Warps,Barbeque Paneer Wrap,1,0,,225.0
+Warps,Mexican Paneer Wrap,1,0,,180.0
+Warps,Paneer Makhani Wrap,1,0,,240.0
+Warps,Peri Peri Paneer Wrap,1,0,,210.0
+Warps,Veg Delight Wrap,1,0,,180.0
+Mocktail,Blue Lagoon,1,0,,90.0
+Mocktail,Lemon Mojito,1,0,[Non Alcoholic],90.0
+Mocktail,Mint Mojito,1,0,[Non Alcoholic],90.0
+Mocktail,Pina Colada,1,0,,90.0
+Bruschetta,Exotic Veggie Bruschetta,1,0,,150.0
+Bruschetta,Olive Corn Capsicum Brushetta,1,0,,135.0
+Bruschetta,Onion Mushroom Bruschetta,1,0,,135.0
+Bruschetta,Tomato Olive Bruschetta,1,0,,120.0
+Nachos,Creamy Cheese Nachos,1,0,,210.0
+Nachos,Jalapeno Olive Nachos,1,0,,180.0
+Nachos,Loaded With Cheese Nachos,1,0,,210.0
+Nachos,Spicy Crunch With Salsa Nachos,1,0,,180.0
+Burger,Aala Veggie Burger,1,0,,120.0
+Burger,Aloo Tikki Burger,1,0,,75.0
+Burger,Corn Cheese Burger,1,0,,150.0
+Burger,Mexican Burger,1,0,,180.0

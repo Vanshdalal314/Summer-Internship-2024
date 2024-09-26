@@ -1,0 +1,53 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Paneer Meal,Paneer Aangara With Luchha Paratha,1,0,Paneer Angara+Laccha Paratha,210.0
+Paneer Meal,Paneer Lababdar With Luchha Paratha,1,0,Paneer Lababdar+Laccha Paratha,210.0
+Paneer Meal,Paneer Makhani With Luchha Paratha,1,0,Paneer Makhani+Laccha Paratha,210.0
+Paneer Meal,Paneer Tikka Masala With Luchha Paratha,1,0,Paneer Tikka Masala+Laccha Paratha,210.0
+Paneer Meal,Paneer Tufani With Luchha Paratha,1,0,Paneer Toofani+Laccha Paratha,210.0
+Chinese,Dry Manchurian,1,0,,160.0
+Chinese,Hakka Noodles,1,0,,160.0
+Chinese,Manchurian Fried Rice,1,0,,160.0
+Chinese,Paneer Chili Dry,1,0,,240.0
+Chinese,Potato Finger,1,0,,160.0
+Chinese,Schezwan Noodles,1,0,,160.0
+Chinese,Schezwan Rice,1,0,,160.0
+Chinese,Veg Fried Rice,1,0,,160.0
+Sandwich,Bombay Masala Sandwich,1,0,,160.0
+Sandwich,Cheese Chili Toast,1,0,,160.0
+Sandwich,Maxican Mayo Sandwich,1,0,,180.0
+Sandwich,Paneer Schezwan Sandwich,1,0,,180.0
+Sandwich,Paneer Tandoori Sandwich,1,0,,180.0
+Sandwich,Rusian Sandwich,1,0,,160.0
+Sandwich,Veg Cheese Grill Sandwich,1,0,,160.0
+Pizza,Desi Tadka Pizza [10 Inch],1,0,,220.0
+Pizza,Margherita Pizza [10 Inch],1,0,,170.0
+Pizza,Mexican Pizza [10 Inch],1,0,,200.0
+Pizza,Peri Peri Veg Paneer Pizza [10 Inch],1,0,,220.0
+Pizza,Tandoori Paneer Pizza [10 Inch],1,0,,220.0
+Pizza,Veg. Pizza [10 Inch],1,0,,200.0
+Pasta,Alfredo Pasta [White],1,0,,220.0
+Pasta,Arrabita Pasta [Red],1,0,,220.0
+Pasta,Penne Pink Sauce Pasta,1,0,,220.0
+Our Special,Veg. Dum Biryani,1,0,,220.0
+Our Special,Veg. Heydrabadi Biryani,1,0,,220.0
+Bites,Cheese Garlic Bread,1,0,,180.0
+Bites,Corn Cheess Ball,1,0,,185.0
+Bites,Corn Jalopino Garlic Bread,1,0,,180.0
+Bites,Crispy Veg. Tikki,1,0,,180.0
+Bites,Garlic Bread,1,0,,140.0
+Bites,Jalopino Cheess Finger,1,0,,210.0
+Bites,Loded Nachos,1,0,,190.0
+Bites,Masala Fries,1,0,,120.0
+Bites,Peri Peri Fries,1,0,,130.0
+Bites,Salted Fries,1,0,,110.0
+Bites,Spicy Paneer Cheess Ball,1,0,,210.0
+Milk Shake,Brownie Buzz Milkshake,1,0,,180.0
+Milk Shake,Choco Natella Milkshake,1,0,,180.0
+Milk Shake,Chocolate Milkshake,1,0,,150.0
+Milk Shake,Kitket Milkshake,1,0,,150.0
+Milk Shake,Mango Milkshake,1,0,,150.0
+Milk Shake,Oreo Milkshake,1,0,,150.0
+Milk Shake,Strawberry Milkshake,1,0,,150.0
+Cold Coffee & Tea,Choco Caramel Coffee,1,0,,180.0
+Cold Coffee & Tea,Choco Vanila Cold Coffee,1,0,,160.0
+Cold Coffee & Tea,Clasic Cold Coffee,1,0,,140.0

@@ -1,0 +1,282 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biriyani,Chicken 65 Biriyani,0,0,,397.0
+Biriyani,Chicken Biriyani (Half Plate),0,0,,338.0
+Biriyani,Chicken Mughlai Biryani [Half],0,0,Rich and aromatic preparation with juicy chicken cooked in a rich yogurt based ... read more,377.0
+Biriyani,Egg Biriyani,0,0,"Made with fragranced rice and aromatic masala, this egg biryani is an all ... read more",280.0
+Biriyani,Fish Biriyani,0,0,A scrumptious of flavor packed Fish biryani served with raita.,462.0
+Biriyani,Khuska (Half Plate),0,0,,260.0
+Biriyani,Mutton Biriyani (Half Plate),0,0,,429.0
+Biriyani,Mutton Mughal Biriyani (Half Plate),0,0,Rich and aromatic preparation with juicy mutton cooked in a rich yogurt based ... read more,462.0
+Biriyani,Prawns Biryani (Half Plate),0,0,A scrumptious of flavor packed prawn biryani.,481.0
+Bucket Biriyani,Chicken Biriyani (1 Kg),0,0,,3120.0
+Bucket Biriyani,Chicken Biriyani (Half Kg),0,0,,1690.0
+Bucket Biriyani,Mutton Biriyani (1 Kg),0,0,,3640.0
+Bucket Biriyani,Mutton Biriyani (Half Kg),0,0,,2080.0
+Soup,Hot & Sour Veg Soup,0,0,,105.0
+Soup,Mushroom Pepper Soup,0,0,,105.0
+Soup,Sweet Corn Veg Soup,0,0,"A light and easy soup to prepared at home, carrot soup is packed ... read more",105.0
+Soup,Chicken Pepper Soup,0,0,,155.0
+Soup,Hot & Sour Chicken Soup,0,0,"A light and easy soup to prepared at home, carrot soup is packed ... read more",155.0
+Soup,Kozhi Rasam,0,0,,183.0
+Soup,Mutton Pepper Soup,0,0,A creamy soup made from juicy mutton leg.,183.0
+Soup,Sweet Corn Chicken Soup,0,0,,155.0
+Chinese Starters,Baby Corn Manchairan,0,0,,286.0
+Chinese Starters,Baby Corn 65,0,0,A scrumptious crispy Baby corn 65.,286.0
+Chinese Starters,Chilli Babycorn,0,0,,286.0
+Chinese Starters,Chilli Gobi,0,0,,286.0
+Chinese Starters,Chilli Mushroom Dry,0,0,,286.0
+Chinese Starters,Crispy Babycorn,0,0,,286.0
+Chinese Starters,Dragon Baby Corn,0,0,,286.0
+Chinese Starters,Dragon Gobi,0,0,,286.0
+Chinese Starters,Dragon Mushroom,0,0,,286.0
+Chinese Starters,Gobi 65,0,0,"A delightfully flavorful dish prepared with crunchy fried Gobi, tossed in a wok ... read more",286.0
+Chinese Starters,Gobi Babycorn,0,0,,286.0
+Chinese Starters,Gobi Manchurian Dry,0,0,,286.0
+Chinese Starters,Gobi Mushroom,0,0,,286.0
+Chinese Starters,Mushroom 65,0,0,,286.0
+Chinese Starters,Mushroom Manchurian,0,0,,286.0
+Chinese Starters,Aasife Chicken 65 [Half],0,0,Succulent chicken chunks dipped in a seasoned batter and fried to golden perfection.,338.0
+Chinese Starters,Chicken 555,0,0,,371.0
+Chinese Starters,Chicken 777,0,0,,371.0
+Chinese Starters,Chicken Finger,0,0,,325.0
+Chinese Starters,Chicken Manchurian,0,0,A wholesome and delicious mouthwatering Chicken Manchurian.,358.0
+Chinese Starters,Chilli Chicken Dry,0,0,A mouthwatering preparation of succulent boneless chicken pan fried and tossed with assorted ... read more,358.0
+Chinese Starters,Chilli Chicken (Semi Gravy),0,0,A mouthwatering preparation of succulent boneless chicken pan fried and tossed with assorted ... read more,358.0
+Chinese Starters,Dragon Chicken,0,0,Delicious Crispy chicken strips and bell peppers are tossed in a spicy sauce ... read more,358.0
+Chinese Starters,Garlic Chicken,0,0,A deliciously tasty garlic chicken pieces.,325.0
+Chinese Starters,Ginger Chicken Dry,0,0,A delightfully flavorful mouth watering ginger chicken assorted on gravy.,358.0
+Chinese Starters,Ginger Chicken (Semi Gravy),0,0,,358.0
+Chinese Starters,Hydrabadi Chicken 65,0,0,,358.0
+Chinese Starters,Japnese Chicken,0,0,,358.0
+Chinese Starters,Lemon Pepper Chicken,0,0,,371.0
+Chinese Starters,Majestic Chicken,0,0,,358.0
+Chinese Starters,Schezwan Dragon Chicken,0,0,,358.0
+Chinese Starters,Star Chicken,0,0,,325.0
+Chinese Starters,Chilli Mutton (Dry),0,0,,462.0
+Chinese Starters,Dragon Mutton,0,0,,462.0
+Chinese Starters,Mutton 555,0,0,,462.0
+Chinese Starters,Mutton 777,0,0,,462.0
+Chinese Starters,Mutton Manchurian,0,0,,462.0
+Chinese Starters,Schezwan Mutton,0,0,,462.0
+Chinese Starters,Chilli Prawn,0,0,,423.0
+Chinese Starters,Crab Lollipop,0,0,A delightfully flavorful combo with crab lollipop served along with onion.,403.0
+Chinese Starters,Crispy Prawn,0,0,,423.0
+Chinese Starters,Dragon Prawn,0,0,,423.0
+Chinese Starters,Fish Finger,0,0,A delightfully tasty combo with mouthwatering fish fingers served with onions.,442.0
+Chinese Starters,Garlilc Chicken (Semy Gravy ),0,0,,358.0
+Chinese Starters,Prawns 65,0,0,Succulent prawn chunks dipped in a seasoned batter and fried to golden perfection ... read more,423.0
+Chinese Starters,Prawn Manchurian,0,0,,423.0
+Tandoori & BBQ & Kebab,Mint Chutney,0,0,,39.0
+Tandoori & BBQ & Kebab,Aasife Mixed Kebab,0,0,,637.0
+Tandoori & BBQ & Kebab,Aasife Spl Bbq Chicken (Full),0,0,,754.0
+Tandoori & BBQ & Kebab,Aasife Special Bbq (Half),0,0,,377.0
+Tandoori & BBQ & Kebab,Afgani Chicken (Half),0,0,,429.0
+Tandoori & BBQ & Kebab,Chicken Seekh Kebab,0,0,,390.0
+Tandoori & BBQ & Kebab,Chicken Tikka,0,0,,390.0
+Tandoori & BBQ & Kebab,Hariyali Chicken Tikka,0,0,,403.0
+Tandoori & BBQ & Kebab,Honey Kebab,0,0,,377.0
+Tandoori & BBQ & Kebab,Kalimirchi Chicken Kebab,0,0,,390.0
+Tandoori & BBQ & Kebab,Lasooni Chicken Kebab,0,0,,384.0
+Tandoori & BBQ & Kebab,Malai Chicken Tikka,0,0,,390.0
+Tandoori & BBQ & Kebab,Pepper Bbq (Half),0,0,,377.0
+Tandoori & BBQ & Kebab,Tandoori Chicken Full,0,0,,754.0
+Tandoori & BBQ & Kebab,Tandoori Chicken(Half),0,0,|A delightfully wholesome combo of mouthwatering tandoori chicken served along with soft chutney|,377.0
+Tandoori & BBQ & Kebab,Tangri Kebab (2 Leg Pcs),0,0,,377.0
+Indian Veg Starters,Baby Corn Masalaa,0,0,,286.0
+Indian Veg Starters,Chilli Mushroom Semi Gravy.,0,0,,286.0
+Indian Veg Starters,Kadai Veg,0,0,,241.0
+Indian Veg Starters,Mushroom Masalaa,0,0,,286.0
+Indian Starters,Aasife Chicken Ghee Roast,0,0,,358.0
+Indian Starters,Aasife Chicken Roast,0,0,,338.0
+Indian Starters,Chicken Chukka,0,0,,325.0
+Indian Starters,Chicken Pepper Fry,0,0,Deliciously spicy whole stuffed with juicy fried chicken and pepper.,338.0
+Indian Starters,Grill Chicken (Half),0,0,A delightfully wholesome combo of mouthwatering grilled chicken half served along with soft ... read more,410.0
+Indian Starters,Guntur Chicken,0,0,,358.0
+Indian Starters,Hyderbadi Chicken Ghee Roast,0,0,,358.0
+Indian Starters,Punjabi Chicken Roast,0,0,,338.0
+Indian Starters,Tangdi Kebab,0,0,A flavor packed combo of 2 incredibly juicy tangdi kebab.,410.0
+Indian Starters,Madurai Mutton Varuval,0,0,"A must try, hot and spicy mutton semi dry in a flavorful concoction",462.0
+Indian Starters,Mutton Chettinad Varuval,0,0,,429.0
+Indian Starters,Mutton Chukka,0,0,A delightfully succulent Mutton chukka.,475.0
+Indian Starters,Mutton Ghee Roast,0,0,,475.0
+Indian Starters,Mutton Pepper Fry,0,0,Deliciously spicy whole stuffed with juicy boneless mutton and pepper.,462.0
+Indian Starters,Chilli Paratto,0,0,,190.0
+Indian Starters,Nethili Fry,0,0,,403.0
+Indian Starters,Prawn Finger,0,0,,338.0
+Indian Starters,Prawns Pepper Fry,0,0,,462.0
+Indian Starters,Prawns Varuval,0,0,,462.0
+Gravy (Veg/Non-Veg),Baby Corn Masala,0,0,A mouthwatering combo of flavor-packed chicken masala served,286.0
+Gravy (Veg/Non-Veg),Chilli Mushroom Semi Gravy,0,0,,346.0
+Gravy (Veg/Non-Veg),Curd,0,0,,46.0
+Gravy (Veg/Non-Veg),Gobi Manchurian [Dry],0,0,,286.0
+Gravy (Veg/Non-Veg),Gobi Manchurian Semi Gravy,0,0,,286.0
+Gravy (Veg/Non-Veg),Gobi Masala,0,0,,286.0
+Gravy (Veg/Non-Veg),Mix Veg Curry,0,0,,286.0
+Gravy (Veg/Non-Veg),Mushroom Do Pyaza,0,0,,286.0
+Gravy (Veg/Non-Veg),Mushroom Masala,0,0,A flavorsome sinfully delicious mushroom masala aromatic with Indian spices.,286.0
+Gravy (Veg/Non-Veg),Panner Tikka Masala,0,0,,312.0
+Gravy (Veg/Non-Veg),Plain Gravy,0,0,,161.0
+Gravy (Veg/Non-Veg),Aasife Chicken,0,0,,299.0
+Gravy (Veg/Non-Veg),Butter Chicken Masala,0,0,A flavorsome combo of irresistibly creamy butter gravy with chicken pieces.,371.0
+Gravy (Veg/Non-Veg),Chicken Chettinad,0,0,| Chicken curry prepared in a Chettinad traditional way | Served Semi-Gravy |,299.0
+Gravy (Veg/Non-Veg),Chicken Do Pyaza,0,0,,371.0
+Gravy (Veg/Non-Veg),Chicken Masala,0,0,Seasoned chicken spiced with Indian masala.,299.0
+Gravy (Veg/Non-Veg),Chicken Pepper Masala,0,0,,286.0
+Gravy (Veg/Non-Veg),Chicken Tandoori Masala,0,0,,455.0
+Gravy (Veg/Non-Veg),Chicken Tikka Masala,0,0,,377.0
+Gravy (Veg/Non-Veg),Chilli Chicken Semi Gravy,0,0,A mouthwatering preparation of succulent boneless chicken pan fried and tossed with assorted ... read more,434.0
+Gravy (Veg/Non-Veg),Ginger Chicken Semi Gravy,0,0,,391.0
+Gravy (Veg/Non-Veg),Hyderabadi Chicken,0,0,Chicken curry prepared in a Hyderabadi traditional way.,299.0
+Gravy (Veg/Non-Veg),Kadai Chicken,0,0,Juicy chicken marinated in authentic tandoori masala and cooked to perfection.,299.0
+Gravy (Veg/Non-Veg),Punjabi Chicken,0,0,Spicy thick gravy,371.0
+Gravy (Veg/Non-Veg),Prawns Masala,0,0,Semi dry prawn curry. Relished with steamed rice.,462.0
+Gravy (Veg/Non-Veg),Prawns Pepper Masala,0,0,Serves 1,462.0
+Gravy (Veg/Non-Veg),Prawn Thokku,0,0,,462.0
+Gravy (Veg/Non-Veg),Mutton Chettinad,0,0,,462.0
+Gravy (Veg/Non-Veg),Mutton Do Pyaza,0,0,,462.0
+Gravy (Veg/Non-Veg),Mutton Hyderabadi,0,0,Mutton curry prepared in a Hyderabadi traditional way.,462.0
+Gravy (Veg/Non-Veg),Mutton Kheema Masala,0,0,,462.0
+Gravy (Veg/Non-Veg),Mutton Masala,0,0,,429.0
+Gravy (Veg/Non-Veg),Mutton Pepper Masala,0,0,A mouthwatering combo of flavor-packed Mutton masala served,462.0
+Gravy (Veg/Non-Veg),Mutton Rogan Josh,0,0,,462.0
+Egg Dishes,Boiled Egg,0,0,,26.0
+Egg Dishes,Egg Masala,0,0,A flavorsome combo of irresistibly gravy with chicken pieces.,247.0
+Egg Dishes,Egg Podimas,0,0,,124.0
+Egg Dishes,Masala Omelette,0,0,A mouthwatering combo of flavor-packed chicken masala served,104.0
+Egg Dishes,Mayanoise,0,0,,33.0
+Egg Dishes,Plain Omelette( 1 Pc),0,0,Serves 1,91.0
+Tandoori Breads,Butter Kulcha,0,0,,91.0
+Tandoori Breads,Butter Naan,0,0,,77.0
+Tandoori Breads,Butter Roti,0,0,,77.0
+Tandoori Breads,Butter Tandoori Paratha,0,0,,126.0
+Tandoori Breads,Garlic Kulcha,0,0,,99.0
+Tandoori Breads,Garlic Naan,0,0,,85.0
+Tandoori Breads,Garlic Roti,0,0,,85.0
+Tandoori Breads,Garlic Tandoori Paratha,0,0,,134.0
+Tandoori Breads,Paneer Kulcha,0,0,,105.0
+Tandoori Breads,Plain Kulcha,0,0,,85.0
+Tandoori Breads,Plain Naan,0,0,,62.0
+Tandoori Breads,Plain Roti,0,0,,62.0
+Tandoori Breads,Pulka,0,0,,77.0
+Parotta,Chapati (1 Set),0,0,No accomplishment will be provided. Need to be order gravy separately.,77.0
+Parotta,Chilli Parotta,0,0,,190.0
+Parotta,Egg Veechu Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,118.0
+Parotta,Kerala Parotta [1 Set],0,0,No accomplishment will be provided. Need to be order gravy separately.,77.0
+Parotta,Khuboos,0,0,,65.0
+Parotta,Single Peace Kerala Parata,0,0,No accomplishment will be provided. Need to be order gravy separately.,39.0
+Parotta,Single Peace Wheate Parotta,0,0,,39.0
+Parotta,Single Piece Chappathi,0,0,No accomplishment will be provided. Need to be order gravy separately.,38.0
+Parotta,Veechu Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,77.0
+Parotta,Veg Kotthu Parotta (1 Set),0,0,No accomplishment will be provided. Need to be order gravy separately.,228.0
+Parotta,Wheat Parotta [1 Set],0,0,No accomplishment will be provided. Need to be order gravy separately.,77.0
+Parotta,Wheat Veg Kothu Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,228.0
+Parotta,Ceylon Chicken Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,286.0
+Parotta,Ceylon Egg Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,208.0
+Parotta,Ceylon Mutton Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,442.0
+Parotta,Chicken Kothu Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,280.0
+Parotta,Egg Kothu Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,208.0
+Parotta,Mutton Kotthu Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,442.0
+Parotta,Single Peace Pulka,0,0,No accomplishment will be provided. Need to be order gravy separately.,38.0
+Parotta,Wheat Chicken Kothu Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,280.0
+Parotta,Wheat Egg Kothu Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,234.0
+Parotta,Wheat Mutton Kothu Parotta,0,0,No accomplishment will be provided. Need to be order gravy separately.,416.0
+Indian Veg Rice,Ghee Rice,0,0,,286.0
+Indian Veg Rice,Jeera Rice,0,0,,286.0
+Indian Veg Rice,Kashmiri Pulao,0,0,,286.0
+Indian Veg Rice,Mushroom Biriyani,0,0,,286.0
+Indian Veg Rice,Steamed Rice,0,0,,195.0
+Indian Veg Rice,Veg Biriyani,0,0,,286.0
+Indian Veg Rice,Veg Pulao,0,0,,286.0
+Rice & Noodles,Mix Veg Fried Noodles,0,0,,325.0
+Rice & Noodles,Mix Veg Fried Rice,0,0,,325.0
+Rice & Noodles,Mixed Veg Noodles,0,0,,325.0
+Rice & Noodles,Mushroom Fried Rice,0,0,,286.0
+Rice & Noodles,Mushroom Fried Noodles,0,0,,286.0
+Rice & Noodles,Mushroom Schezwan Fried Rice,0,0,,338.0
+Rice & Noodles,Mushroom Schezwan Noodles,0,0,,338.0
+Rice & Noodles,Schzwan Veg Noodles,0,0,,299.0
+Rice & Noodles,Veg Fried Rice,0,0,"Nutritious biryani, cooked with select spices and packed with vegetables served with gravy ... read more",286.0
+Rice & Noodles,Veg Noodles,0,0,,286.0
+Rice & Noodles,Veg Schezwan Fried Rice,0,0,,338.0
+Rice & Noodles,Veg Schezwan Noodles,0,0,,338.0
+Rice & Noodles,Chicken Fried Rice,0,0,A delightful meal if chicken fried rice served with sauce,306.0
+Rice & Noodles,Chicken Noodles,0,0,A delightfully indulgent combo of flavorful chicken noodles.,306.0
+Rice & Noodles,Chicken Schezwan Fried Rice,0,0,,358.0
+Rice & Noodles,Chicken Schezwan Noodles,0,0,,358.0
+Rice & Noodles,Egg Fried Rice,0,0,A delightful meal if egg fried rice.,293.0
+Rice & Noodles,Egg Fried Noodles,0,0,,293.0
+Rice & Noodles,Egg Schezwan Fried Rice,0,0,,338.0
+Rice & Noodles,Egg Schezwan Noodles,0,0,,338.0
+Rice & Noodles,Mixed Non - Veg Fried Rice,0,0,,429.0
+Rice & Noodles,Mixed Non-Veg Noodles,0,0,,429.0
+Rice & Noodles,Mutton Fried Rice,0,0,,371.0
+Rice & Noodles,Mutton Noodles,0,0,,371.0
+Rice & Noodles,Mutton Schezwan Fried Rice,0,0,,423.0
+Rice & Noodles,Mutton Schezwan Noodles,0,0,,423.0
+Rice & Noodles,Prawn Fried Rice,0,0,,423.0
+Rice & Noodles,Prawn Noodles,0,0,,423.0
+Rice & Noodles,Prawn Schezwan Fried Rice,0,0,,423.0
+Rice & Noodles,Prawn Schezwan Noodles,0,0,,468.0
+Rice & Noodles,Schewan Mixed Non - Veg Fried Rice,0,0,,455.0
+Suma Sema Combos,Chicken Fried Rice + Chicken Manchurian,0,0,A wholesome combo of scrumptious chicken rice served with irresistibly crispy chicken Manchurian.,690.0
+Suma Sema Combos,Phulka (3Pcs) + Chicken Chettinadu,0,0,"A simple, yet tasteful combo of 3 fluffy phulkas served with flavor packed ... read more",452.0
+Suma Sema Combos,Phulka (3Pcs) + Fish Masala,0,0,,670.0
+Suma Sema Combos,Phulka (3Pcs) + Grill Chicken (Half),0,0,"A simple, yet tasteful combo of 3 fluffy phulkas served with flavor packed ... read more",563.0
+Suma Sema Combos,Phulka (3Pcs) + Kadai Veg,0,0,,394.0
+Suma Sema Combos,Phulka (3Pcs) + Prawn Pepper Masala,0,0,,670.0
+Suma Sema Combos,Veg Fried Rice + Gobi Manchurian,0,0,,590.0
+Grill & Shawarma,Grill Chicken Full,0,0,,761.0
+Grill & Shawarma,Grill Chicken(Half),0,0,A delightfully wholesome combo of mouthwatering grilled chicken half served along with soft ... read more,377.0
+Grill & Shawarma,Kaboos,0,0,,47.0
+Ice Creams,Aasife Special Falooda,0,0,,231.0
+Ice Creams,Bread Halwa,0,0,,99.0
+Ice Creams,Bread Halwa With Ice Cream,0,0,,186.0
+Ice Creams,Brownie,0,0,,155.0
+Ice Creams,Brownie With Ice Cream,0,0,,247.0
+Ice Creams,Brownie With Vanilla Ice Cream,0,0,,316.0
+Ice Creams,Elaneer Payasan,0,0,,112.0
+Ice Creams,Fruit Salad,0,0,,124.0
+Ice Creams,Fruit Salad With Ice Cream,0,0,,196.0
+Ice Creams,Valentines Day Spl Falooda,0,0,,243.0
+Ice Creams,Black Curent Milkshake With Icecream,0,0,,228.0
+Ice Creams,Black Current Milkshake With Icecream,0,0,,221.0
+Ice Creams,Butterscotch Ice Cream,0,0,,194.0
+Ice Creams,Butterscotch Milkshake With Icecream,0,0,,183.0
+Ice Creams,Chocolate Ice Cream,0,0,,170.0
+Ice Creams,Chocolate Milkshake With Icecream,0,0,,183.0
+Ice Creams,Mango Ice Cream,0,0,,170.0
+Ice Creams,Mango Milkshake With Icecream,0,0,,183.0
+Ice Creams,Pista Ice Cream,0,0,,204.0
+Ice Creams,Strawberry Ice Cream,0,0,,189.0
+Ice Creams,Strawberry Milkshake With Icecream,0,0,,183.0
+Ice Creams,Vanilla Ice Cream,0,0,,170.0
+Ice Creams,Vanilla Milkshake With Icecream,0,0,,183.0
+Shakes & Juices,Butterscotch Milkshake,0,0,,198.0
+Shakes & Juices,Chocolate Milkshake,0,0,,198.0
+Shakes & Juices,Mango Milkshake,0,0,,198.0
+Shakes & Juices,Pista Milkshake,0,0,,183.0
+Shakes & Juices,Pista Milkshake With Ice Cream,0,0,,204.0
+Shakes & Juices,Strawberry Milkshake,0,0,,198.0
+Shakes & Juices,Vanilla Milkshake,0,0,,198.0
+Shakes & Juices,Aasife Spl Mojito Mint,0,0,,155.0
+Shakes & Juices,Aasife Special Mojito,0,0,,155.0
+Shakes & Juices,Apple Juice,0,0,,134.0
+Shakes & Juices,Green Apple Soda,0,0,,100.0
+Shakes & Juices,Lassi.,0,0,,137.0
+Shakes & Juices,Lemon Juice,0,0,,72.0
+Shakes & Juices,Lemon Juice Salt,0,0,,72.0
+Shakes & Juices,Lemon Juice Sweet,0,0,,72.0
+Shakes & Juices,Lemon Juice Sweet & Salt,0,0,,72.0
+Shakes & Juices,Lemon Soda,0,0,Refreshment drink.,100.0
+Shakes & Juices,Lemon Soda Sweet,0,0,,100.0
+Shakes & Juices,Lemon Soda Sweet & Salt,0,0,,100.0
+Shakes & Juices,Lime Mint Juice,0,0,,100.0
+Shakes & Juices,Mixed Fruit Juice,0,0,,202.0
+Shakes & Juices,Mosambi [Sweet Lime],0,0,,120.0
+Shakes & Juices,Musk Melon Juice,0,0,,111.0
+Shakes & Juices,Orange Fruit Mocktail,0,0,,155.0
+Shakes & Juices,Orange Juice,0,0,,140.0
+Shakes & Juices,Pepsi,0,0,,52.0
+Shakes & Juices,Pineapple Juice,0,0,,134.0
+Shakes & Juices,Pomegranate (Maadulai) Juice,0,0,,196.0
+Shakes & Juices,Watermelon Juice,0,0,Refreshing watermelon juice.,120.0

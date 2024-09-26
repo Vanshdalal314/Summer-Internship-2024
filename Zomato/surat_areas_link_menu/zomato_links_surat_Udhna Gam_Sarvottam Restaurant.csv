@@ -1,0 +1,181 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Veg Crispy,1,0,,260.0
+Starters,Veg Hara Bhara Kabab,1,0,(8 Pcs),250.0
+Starters,Veg Lollipop,1,0,,260.0
+Starters,Veg Spring Roll,1,0,(8 Pcs),240.0
+Starters,Mushroom Chilli Dry,1,0,(8 Pcs),270.0
+Starters,Paneer Tikka Dry,1,0,(8 Pcs),290.0
+Soups,Veg Clear Soup,1,0,,125.0
+Soups,Cream Of Tomato Soup,1,0,,135.0
+Soups,Veg Noodles Soup,1,0,,135.0
+Soups,Hot & Sour Soup,1,0,,145.0
+Soups,Manchow Soup,1,0,,149.0
+Soups,Ministrone Soup,1,0,,145.0
+Soups,Mushroom Soup,1,0,,145.0
+Soups,Sweet Corn Veg Soup,1,0,,145.0
+Main Course,Mutter Paneer,1,0,,245.0
+Main Course,Paneer Chilly Dry,1,0,,270.0
+Main Course,Paneer Chilly Gravy,1,0,,270.0
+Main Course,Paneer Tikka Dry,1,0,(8 Pcs),290.0
+Main Course,Palak Paneer,1,0,,245.0
+Main Course,Paneer Butter Masala,1,0,,255.0
+Main Course,Paneer Hara Masala,1,0,,250.0
+Main Course,Paneer Korma,1,0,,250.0
+Main Course,Paneer Adraki,1,0,,250.0
+Main Course,Paneer Handi,1,0,,255.0
+Main Course,Paneer Kadai,1,0,,255.0
+Main Course,Paneer Patiyala,1,0,,255.0
+Main Course,Paneer Rajwadi,1,0,,255.0
+Main Course,Paneer Shahi,1,0,,250.0
+Main Course,Paneer Tikka Masala,1,0,,265.0
+Main Course,Paneer Toofani,1,0,,255.0
+Main Course,Paneer Balti,1,0,,255.0
+Main Course,Paneer Maharani,1,0,,255.0
+Main Course,Paneer Tawa,1,0,,255.0
+Main Course,Paneer Bhurjee,1,0,,270.0
+Main Course,Paneer Kaju,1,0,,285.0
+Main Course,Sp Paneer Sarvottam,1,0,[Chef's Special] (300 Ml),290.0
+Main Course,Dal Fry,1,0,,145.0
+Main Course,Dal Fry Butter,1,0,,155.0
+Main Course,Dal Tadka,1,0,,170.0
+Main Course,Aloo Mutter,1,0,,185.0
+Main Course,Jeera Aloo,1,0,,190.0
+Main Course,Aloo Palak,1,0,,185.0
+Main Course,Chana Masala,1,0,,195.0
+Main Course,Corn Palak,1,0,,195.0
+Main Course,Mix Vegetable,1,0,,195.0
+Main Course,Green Peas Masala,1,0,,205.0
+Main Course,Methi Mutter Malai,1,0,,205.0
+Main Course,Veg Chatpata,1,0,,225.0
+Main Course,Veg Hangama,1,0,,225.0
+Main Course,Veg Hara Masala,1,0,,215.0
+Main Course,Veg Jaipuri,1,0,,225.0
+Main Course,Veg Khada Masala,1,0,,235.0
+Main Course,Kashmiri Dum Aloo,1,0,Sweet (300 Ml),230.0
+Main Course,Punjabi Dum Aloo,1,0,,230.0
+Main Course,Sp Veg Handi,1,0,,220.0
+Main Course,Sp Veg Kadai,1,0,,220.0
+Main Course,Sp Veg Kolhapuri,1,0,,220.0
+Main Course,Sp Veg Patiyala,1,0,,220.0
+Main Course,Sp Veg Toofani,1,0,,220.0
+Main Course,Veg Makhanwala,1,0,,230.0
+Main Course,Veg Tava Masala,1,0,,225.0
+Main Course,Mushroom Mutter Masala,1,0,,240.0
+Main Course,Navratan Korma,1,0,Sweet (300 Ml),240.0
+Main Course,Baby Corn Butter Masala,1,0,,230.0
+Main Course,Cheese Butter Masala,1,0,,240.0
+Main Course,Diwani Handi,1,0,,245.0
+Main Course,Mushroom Butter Masala,1,0,,235.0
+Main Course,Sp. Veg Sarvottam,1,0,,260.0
+Main Course,Kaju Curry,1,0,,285.0
+Main Course,Kaju Khoya,1,0,,260.0
+Main Course,Kaju Masala,1,0,,295.0
+Main Course,Veg Kofta,1,0,,230.0
+Main Course,Hydrabadi Kadai Kofta,1,0,,235.0
+Main Course,Kadai Kofta,1,0,,235.0
+Main Course,Kashmiri Kofta,1,0,Sweet (300 Ml),240.0
+Main Course,Malai Kofta,1,0,Sweet (300 Ml),240.0
+Main Course,Nargisi Kofta,1,0,,240.0
+Main Course,Paneer Kofta,1,0,,245.0
+Main Course,Cheese Kofta,1,0,,245.0
+Main Course,Kaju Kofta,1,0,,260.0
+Chinese Dishes,Schezwan Fried Noodles,1,0,,215.0
+Chinese Dishes,Schezwan Fried Rice,1,0,,215.0
+Chinese Dishes,Singapuri Fried Rice,1,0,,215.0
+Chinese Dishes,Veg Fried Rice,1,0,,205.0
+Chinese Dishes,Veg Chilli Gravy,1,0,,210.0
+Chinese Dishes,Veg Chilly Dry,1,0,,210.0
+Chinese Dishes,Vegetable 65,1,0,,220.0
+Chinese Dishes,Vegetable Manchurian Dry,1,0,,220.0
+Chinese Dishes,Vegetable Manchurian Gravy,1,0,,220.0
+Chinese Dishes,Chinese Bhel,1,0,,215.0
+Chinese Dishes,Chinese Fried Rice,1,0,,215.0
+Chinese Dishes,Mushroom Fried Rice,1,0,,210.0
+Chinese Dishes,Singapuri Fried Noodles,1,0,,220.0
+Chinese Dishes,Veg American Choupsuey,1,0,,230.0
+Chinese Dishes,Veg Hakka Noodles,1,0,,205.0
+Chinese Dishes,Baby Corn Chilli Gravy,1,0,,240.0
+Chinese Dishes,Baby Corn Chilly,1,0,,240.0
+Chinese Dishes,Mushroom Manchurian,1,0,,270.0
+Chinese Dishes,Paneer Chilli Gravy,1,0,,270.0
+Chinese Dishes,Paneer Manchurian Gravy,1,0,,270.0
+Chinese Dishes,Paneer Chilly Dry,1,0,,270.0
+Chinese Dishes,Paneer Manchurian Dry,1,0,,270.0
+Tandoor Roti,Cheese Garlic Naan,1,0,Per Pc,155.0
+Tandoor Roti,Cheese Naan,1,0,Per Pc,120.0
+Tandoor Roti,Garlic Naan,1,0,Per Pc,115.0
+Tandoor Roti,Plain Roti,1,0,Per Pc,32.0
+Tandoor Roti,Stuffed Kulcha,1,0,Per Pc,105.0
+Tandoor Roti,Stuffed Naan,1,0,Per Pc,105.0
+Tandoor Roti,Stuffed Paratha,1,0,Per Pc,105.0
+Tandoor Roti,Butter Roti,1,0,Per Pc,34.0
+Tandoor Roti,Plain Naan,1,0,Per Pc,48.0
+Tandoor Roti,Plain Paratha,1,0,Per Pc,48.0
+Tandoor Roti,Kulcha,1,0,Per Pc,57.0
+Tandoor Roti,Butter Naan,1,0,Per Pc,48.0
+Tandoor Roti,Butter Paratha,1,0,Per Pc,47.0
+Tandoor Roti,Butter Kulcha,1,0,Per Pc,60.0
+Rice And Biryani,Plain Rice,1,0,,99.0
+Rice And Biryani,Steam Rice,1,0,,125.0
+Rice And Biryani,Jeera Rice,1,0,| Serves 1 |,135.0
+Rice And Biryani,Peas Pulao,1,0,,170.0
+Rice And Biryani,Veg Pulao,1,0,,170.0
+Rice And Biryani,Kashmiri Pulao,1,0,Sweet.,190.0
+Rice And Biryani,Kaju Pulao,1,0,,199.0
+Rice And Biryani,Veg Biryani,1,0,,195.0
+Rice And Biryani,Veg Hyderabadi Biryani,1,0,,205.0
+Salad And Raita,Roasted Papad,1,0,,35.0
+Salad And Raita,Fried Papad,1,0,,40.0
+Salad And Raita,Butter Milk (Bottle),1,0,,42.0
+Salad And Raita,Masala Papad,1,0,,65.0
+Salad And Raita,Curd,1,0,,85.0
+Salad And Raita,Cheese Masala Papad,1,0,,85.0
+Salad And Raita,Tomato Salad,1,0,Per Plate,105.0
+Salad And Raita,Boondi Raita,1,0,,105.0
+Salad And Raita,Dahi Boondi,1,0,Sweet (100 Ml),99.0
+Salad And Raita,Green Salad,1,0,Per Plate,99.0
+Salad And Raita,Veg Raita,1,0,,105.0
+Salad And Raita,Pineapple Raita,1,0,,110.0
+Pizza,Jain Pizza,1,0,Per Plate,199.0
+Pizza,Kids Pizza,1,0,Per Plate,160.0
+Pizza,Veg Pizza,1,0,Per Plate,195.0
+Pizza,Cheese Pizza,1,0,Per Plate,195.0
+Pizza,Italian Pizza,1,0,Per Plate,199.0
+Pizza,Mushroom Pizza,1,0,Per Plate,199.0
+Sandwiches,Bread Butter,1,0,Per Plate,75.0
+Sandwiches,Jam Sandwich,1,0,Per Plate,90.0
+Sandwiches,Vegetable Sandwich,1,0,Per Plate,105.0
+Sandwiches,Cheese Sandwich,1,0,Per Plate,120.0
+Sandwiches,Veg Cheese Sandwich,1,0,Per Plate,125.0
+Sandwiches,Veg Toast Sandwich,1,0,Per Plate,150.0
+Sandwiches,Masala Sandwich,1,0,Per Plate,145.0
+Sandwiches,Veg Club Sandwich,1,0,Per Plate,155.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,Per Plate,155.0
+Dessert And Beverages,Fresh Pineapple Juice,1,0,(200 Ml),125.0
+Dessert And Beverages,Cold Coffee,1,0,(200 Ml),135.0
+Dessert And Beverages,Chocolate Milkshake,1,0,(200 Ml),135.0
+Dessert And Beverages,Kesar Pista Milkshake,1,0,(200 Ml),130.0
+Dessert And Beverages,Mango Milkshake,1,0,(200 Ml),135.0
+Dessert And Beverages,Strawberry Milkshake,1,0,(200 Ml),130.0
+Dessert And Beverages,Cold Coffee With Ice Cream,1,0,(200 Ml),155.0
+Dessert And Beverages,Kaju Anjeer Milkshake,1,0,(200 Ml),165.0
+Dessert And Beverages,Kaju Badam Milkshake,1,0,(200 Ml),150.0
+Dessert And Beverages,Kaju Draksh Milkshake,1,0,(200 Ml),135.0
+Dessert And Beverages,Kaju Gulkand Milkshake,1,0,(200 Ml),155.0
+Dessert And Beverages,Strawberry Ice Cream,1,0,(100 Ml),85.0
+Dessert And Beverages,Vanilla Ice Cream,1,0,(100 Ml),90.0
+Dessert And Beverages,Butter Scotch Ice Cream,1,0,(100 Ml),95.0
+Dessert And Beverages,Kaju Draksh Ice Cream,1,0,(100 Ml),95.0
+Dessert And Beverages,Chocolate Ice Cream,1,0,(100 Ml),110.0
+Dessert And Beverages,Kesar Pista Ice Cream,1,0,(100 Ml),110.0
+Dessert And Beverages,Real Mango Ice Cream,1,0,(100 Ml),110.0
+Dessert And Beverages,American Nuts Ice Cream,1,0,(100 Ml),120.0
+Dessert And Beverages,Rajbhog Ice Cream,1,0,(100 Ml),125.0
+Dessert And Beverages,Salted Lassi,1,0,(200 Ml),90.0
+Dessert And Beverages,Sp. Sarvottam Lassi,1,0,(200 Ml),125.0
+Dessert And Beverages,Sweet Lassi,1,0,(200 Ml),90.0
+Dessert And Beverages,Soda,1,0,,25.0
+Dessert And Beverages,Fresh Lemon Water,1,0,(200 Ml),40.0
+Dessert And Beverages,Jaljeera Water,1,0,(200 Ml),40.0
+Dessert And Beverages,Fresh Lemon Soda,1,0,(200 Ml),48.0
+Dessert And Beverages,Jaljeera Soda,1,0,(200 Ml),55.0

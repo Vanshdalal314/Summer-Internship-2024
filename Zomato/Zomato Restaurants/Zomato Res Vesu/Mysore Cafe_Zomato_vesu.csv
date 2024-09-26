@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,Idli [2 Pieces],1,0,"Served with Sambhar, Coconut Chutney [Jain Not Available]",85.0
+South Indian,Vada [2 Pieces],1,0,Served with sambhar and coconut chutney. Jain not available.,95.0
+South Indian,Idli [1 Piece] with Vada [1 Piece],1,0,Served with sambhar and coconut chutney. Jain not available.,95.0
+South Indian,Dahi Idli,1,0,Idli and dahi are served separately in packaging.,125.0
+Dosa,Sada Dosa,1,0,Served with sambhar and coconut chutney.,95.0
+Dosa,Ghee Podi Sada Dosa,1,0,Served with sambhar and coconut chutney.,145.0
+Dosa,Masala Dosa,1,0,"Served with Sambhar, Coconut Chutney (Masala served inside Dosa) [Jain Not Available]",105.0
+Dosa,Ghee Podi Masala Dosa,1,0,Served with sambhar and coconut chutney. [Masala served inside dosa]. [Jain not available].,155.0
+Dosa,Rawa Sada Dosa,1,0,Served with sambhar and coconut chutney.,105.0
+Dosa,Rawa Masala Dosa,1,0,"Served with Sambhar, Coconut Chutney (Masala served inside Dosa) [Jain Not Available]",115.0
+Dosa,Onion Rawa Sada Dosa,1,0,"Served with Sambhar, Coconut Chutney [Jain Not Available]",115.0
+Dosa,Onion Rawa Masala Dosa,1,0,"Served with Sambhar, Coconut Chutney (Masala served inside Dosa) [Jain Not Available]",133.0
+Dosa,Mysore Sada Dosa with Green Chutney,1,0,"Served with Sambhar, Coconut Chutney [Jain Not Available]",105.0
+Dosa,Mysore Masala Dosa with Green Chutney,1,0,"Served with Sambhar, Coconut Chutney (Masala served inside Dosa) [Jain Not Available]",115.0
+Uttapam,Uttapam,1,0,Served with sambhar and coconut chutney.,95.0
+Uttapam,Cheese Uttapam,1,0,Served with sambhar and coconut chutney.,135.0
+Uttapam,Onion Uttapam,1,0,"Served with Sambhar, Coconut Chutney [Jain Not Available]",115.0
+Uttapam,Cheese Onion Uttapam,1,0,Served with sambhar and coconut chutney. [Jain not available].,155.0
+Uttapam,Tomato Uttapam,1,0,Served with sambhar and coconut chutney.,125.0
+Uttapam,Cheese Tomato Uttapam,1,0,Served with sambhar and coconut chutney.,165.0
+Uttapam,Onion Tomato Uttapam,1,0,"Served with Sambhar, Coconut Chutney [Jain Not Available]",130.0
+Uttapam,Cheese Onion Tomato Uttapam,1,0,Served with sambhar and coconut chutney. [Jain not available].,170.0
+Sandwiches,Bread Butter,1,0,,75.0
+Sandwiches,Chutney Sandwich,1,0,[Jain Not Available],85.0
+Sandwiches,Veg Sandwich,1,0,Jain not available.,85.0
+Sandwiches,Cheese Sandwich,1,0,Jain not available.,95.0
+Sandwiches,Veg Cheese Sandwich,1,0,Jain not available.,105.0
+Samosa,Samosa [2 Pieces],1,0,Served with Coconut Chutney [Jain Not Available],80.0
+Samosa,Samosa [1 Piece] with Cutlet [1 Piece],1,0,Served with Coconut Chutney [Jain Not Available],80.0
+Snacks,Cutlet [2 Pieces],1,0,Served with Coconut Chutney [Jain Not Available],80.0
+Snacks,Dahi Vada,1,0,,110.0
+Snacks,Dahi Bundi,1,0,,110.0
+Dessert,Kesari Bath,1,0,"Special sheera made with pure ghee, cashew, raisin and saffron.",105.0
+North Indian Meals,Pulao Curry,1,0,Pulao served with Curry [Jain Not Available],135.0
+North Indian Meals,Chana Masala With 1 Big Poori,1,0,,135.0

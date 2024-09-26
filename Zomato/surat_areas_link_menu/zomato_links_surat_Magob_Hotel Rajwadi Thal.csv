@@ -1,0 +1,4 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Mini Rajwadi Thali,1,0,1 Paneer Kathol Sabji + 1 Veg Sabji + 4 Butter Chapati + ... read more,111.3
+Thali,Special Punjabi Thali,1,0,1 Paneer Kathol Sabji + 1 Veg Sabji + 4 Butter Chapati + ... read more,132.3
+Thali,Special Rajwadi Thali,1,0,1 Paneer Kathol Sabji + 1 Veg Sabji + 4 Butter Chapati + ... read more,132.3

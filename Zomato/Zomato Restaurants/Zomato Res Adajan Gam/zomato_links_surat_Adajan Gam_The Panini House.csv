@@ -1,0 +1,37 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Our Combos,Mini Panini Combo,1,0,"Any Panini [Mini, 4.5 inches]+French Fries [120 grams]+Cold Coffee [185 ml]",150.0
+Our Combos,Burger Combo,1,0,Any Burger+French Fries [120 grams]+Cold Coffee [185 ml],150.0
+Panini,Cheese Tomato Panini,1,0,,75.0
+Panini,Cheese Tomato Panini Jain,1,0,,75.0
+Panini,Veg Supreme Panini,1,0,,99.0
+Panini,Jain Veg Supreme Panini,1,0,,99.0
+Panini,Paneer Makhani Panini,1,0,,129.0
+Panini,Cheese and Jalapeno Panini,1,0,,129.0
+Panini,Paneer Tandoori Panini,1,0,,129.0
+Panini,Jain Veg Supreme Paneer Panini,1,0,,129.0
+Panini,Paneer Veg Supreme Panini,1,0,,129.0
+Pizza,Margherita Pizza [6 inches],1,0,,75.0
+Pizza,Margherita Pizza Jain [6 inches],1,0,,75.0
+Pizza,Veg Supreme Pizza [6 inches],1,0,,99.0
+Pizza,Veg Supreme Pizza Jain [6 inches],1,0,,99.0
+Pizza,Paneer Makhani Pizza [6 inches],1,0,,129.0
+Pizza,Schezwan Pizza [6 inches],1,0,,129.0
+Pizza,Paneer Tandoori Pizza [6 inches],1,0,,129.0
+Pizza,Veg Supreme Paneer Pizza Jain [6 inches],1,0,,129.0
+Pizza,Paneer Veg Supreme Pizza [6 inches],1,0,,129.0
+Burgers,Makhani Cheese Burger,1,0,,65.0
+Burgers,Schezwan Cheese Burger,1,0,,65.0
+Burgers,Tandoori Cheese Burger,1,0,,65.0
+Burgers,Peri Peri Cheese Burger,1,0,,65.0
+Burgers,Veg Cheese Burger,1,0,,65.0
+Burgers,Veg Cheese Burger Jain,1,0,,65.0
+Mini Panini,"Paneer Makhani Panini [Mini, 4.5 inches]",1,0,,65.0
+Mini Panini,"Cheese Jalapeno Panini [Mini, 4.5 inches]",1,0,,65.0
+Mini Panini,"Paneer Tandoori Panini [Mini, 4.5 inches]",1,0,,65.0
+Mini Panini,"Paneer Veg Supreme Panini [Mini, 4.5 inches]",1,0,,65.0
+Mini Panini,"Jain Paneer Veg Supreme Panini [Mini, 4.5 inches]",1,0,[Jain Preparation],65.0
+Garlic Breads and French Fries,Garlic Bread [4 Pieces],1,0,,65.0
+Garlic Breads and French Fries,French Fries with Dip,1,0,"Makhani, schezwan, tandoori, peri peri, cheese, jalapeno and tom mayonnaise dip.",75.0
+Garlic Breads and French Fries,Cheese Garlic Bread [4 Pieces],1,0,,99.0
+Garlic Breads and French Fries,Supreme Garlic Bread [4 Pieces],1,0,,129.0
+Cold Coffee,Cold Coffee,1,0,,40.0

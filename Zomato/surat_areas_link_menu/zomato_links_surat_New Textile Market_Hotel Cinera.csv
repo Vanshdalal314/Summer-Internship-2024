@@ -1,0 +1,72 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Main Course,Mix Vegetable,1,0,,130.0
+Main Course,Chana Masala,1,0,A flavorful combination of chana cooked in a fragrant and flavorful masala seasoned ... read more,130.0
+Main Course,Aloo Palak,1,0,Healthy and homely taste of potatoes in a rich and medium spiced spinach ... read more,130.0
+Main Course,Aloo Matar,1,0,A simple yet famous Punjabi made from potatoes and peas in a spiced ... read more,130.0
+Main Course,Veg Makhanwala,1,0,Diced mix veggie cooked in rich makhani tomato based medium spicy gravy.,160.0
+Main Course,Palak Paneer,1,0,Chunks of fresh paneer cooked with spinach and spices in creamy and flavourful ... read more,190.0
+Main Course,Matar Paneer,1,0,,190.0
+Main Course,Paneer Masala,1,0,,190.0
+Main Course,Cinera Special Paneer Curry,1,0,,190.0
+Main Course,Paneer Tikka Masala,1,0,Barbeque cottage cheese marinated and cooked in spicy red gravy.,190.0
+Main Course,Dal Fry,1,0,"An Indian delicious made with lentils, spices and herbs.",130.0
+Main Course,Dal Tadka,1,0,Mixed yellow lentil slowly simmered with delicious Indian spices.,150.0
+Main Course,Egg Keema Curry [2 Eggs],0,0,,160.0
+Main Course,Egg Bhurji,0,0,A wholesome prepared with delectable eggs scrambled and flavored with masala and assorted ... read more,160.0
+Main Course,Egg Curry [2 Eggs],0,0,,160.0
+Main Course,Egg Masala [2 Eggs],0,0,,160.0
+Main Course,Reshmi Chicken Curry,0,0,,280.0
+Main Course,Mumtaz Chicken Leg Curry,0,0,,170.0
+Main Course,Zafrani Chicken [1 Piece],0,0,,175.0
+Main Course,Chicken Lazeez,0,0,,280.0
+Main Course,Chicken Handi,0,0,,280.0
+Main Course,Angara Chicken,0,0,,280.0
+Main Course,Malai Chicken,0,0,,280.0
+Main Course,Green Chicken,0,0,A mildly spicy gravy with protein-rich chicken and Asian flavors and green sauce.,280.0
+Main Course,Afghani Chicken,0,0,,280.0
+Main Course,Mari Chicken,0,0,,280.0
+Main Course,Chicken Tikka Masala,0,0,,280.0
+Main Course,Chicken Lollipop Gravy,0,0,,290.0
+Main Course,Chicken Masala,0,0,Succulent pieces of chicken cooked in aromatic and flavourful spiced desi style gravy ... read more,230.0
+Main Course,Boneless Butter Chicken,0,0,"The all time favorite creamy butter chicken with boneless chicken pieces, perfect to ... read more",280.0
+Main Course,Tapela Chicken,0,0,,280.0
+Main Course,Achari Chicken,0,0,Chicken prepared in a tangy and zesty tomato based sauce with ground spices.,280.0
+Main Course,Chicken Mughlai,0,0,An all time loved combo with finger licking chicken mughlai served along with ... read more,280.0
+Main Course,White Chicken,0,0,,280.0
+Main Course,Chicken Sauce,0,0,,290.0
+Main Course,Kadai Chicken,0,0,,280.0
+Main Course,Dal Mutton Gosht Curry,0,0,,300.0
+Main Course,Kadai Mutton,0,0,,300.0
+Main Course,Mari Mutton,0,0,,300.0
+Main Course,Mutton Korma,0,0,,300.0
+Main Course,Mutton Mughlai,0,0,,300.0
+Main Course,Tapela Mutton,0,0,,300.0
+Main Course,Mutton Special Cinera Curry,0,0,,300.0
+Main Course,Palak Mutton,0,0,,300.0
+Main Course,Mutton Dabba Gosht,0,0,,300.0
+Main Course,Mutton Malai Gosht,0,0,,300.0
+Main Course,Achari Mutton,0,0,,300.0
+Main Course,Green Mutton,0,0,,300.0
+Main Course,Mutton Lazeez,0,0,,290.0
+Main Course,Prawns Masala,0,0,Mildly spiced prawns curry flavoured with traditional spices.,270.0
+Breads,Chapati,1,0,,30.0
+Breads,Special Chapati,1,0,,40.0
+Breads,Butter Chapati,1,0,Wheat flour Indian bread with butter.,35.0
+Breads,Special Butter Chapati,1,0,,42.0
+Breads,Paratha,1,0,"The paratha is typically dough that is kneaded into a rope, then coiled ... read more",50.0
+Breads,Butter Paratha,1,0,One of the most popular unleavened flat breads from Indian cuisine served with ... read more,52.0
+Rice and Biryani,Plain Rice,1,0,This steamed white rice goes well with curries and dal.,100.0
+Rice and Biryani,Veg Pulao,1,0,A wholesome prepared by cooking chopped vegetables and rice in a flavorful Indian ... read more,150.0
+Rice and Biryani,Jeera Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices.,130.0
+Rice and Biryani,Biryani Rice,1,0,,115.0
+Rice and Biryani,Egg Pulao,0,0,Egg and flavored rice slow cooked in a delicious mix of homemade masala ... read more,160.0
+Rice and Biryani,Prawns Pulao,0,0,,250.0
+Rice and Biryani,Egg Biryani [2 Eggs],0,0,Richly flavored aromatic rice layered with eggs in a delicate blend of whole ... read more,160.0
+Rice and Biryani,Chicken Biryani,0,0,Richly flavored rice layered with marinated chicken pieces in a delicate blend of ... read more,190.0
+Rice and Biryani,Chicken Tikka Biryani,0,0,Deliciously decadent flavored dum rice layered with spicy chicken tikka and Indian whole ... read more,220.0
+Rice and Biryani,Mutton Biryani,0,0,Aromatic rice preparation layered with marinated mutton pieces and spices slow cooked to ... read more,200.0
+Rice and Biryani,Prawns Biryani,0,0,Richly flavored aromatic rice layered with succulent prawns in a delicate blend of ... read more,250.0
+Snacks,Double Omelette,0,0,,120.0
+Snacks,Chicken Bhel,0,0,,190.0
+Accompaniments,Fried Papad,1,0,"Papad is a thin Indian wafer, sometimes described as a cracker or flatbread. ... read more",40.0
+Accompaniments,Roasted Papad,1,0,Traditional papad roasted in Indian style.,40.0

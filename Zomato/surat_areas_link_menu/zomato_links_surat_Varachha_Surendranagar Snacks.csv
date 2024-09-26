@@ -1,0 +1,26 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Dry Fruit Samosa,1,0,,110.0
+Snacks,Chinese Samosa,1,0,,110.0
+Snacks,Special Aloo Samosa,1,0,Bhavnagarwala.,130.0
+Snacks,Aloo Cutlet,1,0,,110.0
+Snacks,Patudi,1,0,,80.0
+Snacks,Sandwich Idada,1,0,,100.0
+Snacks,White Vagharela Idada,1,0,,90.0
+Snacks,Vagharela Khaman,1,0,,90.0
+Snacks,Khamani,1,0,,90.0
+Snacks,Vagharela Patra,1,0,,100.0
+Snacks,Fry Patra,1,0,,100.0
+Snacks,Bhakharwadi,1,0,,120.0
+Snacks,"Bread Pakoda [2 Pieces, 1 Plate]",1,0,,70.0
+Snacks,Special Pizza Samosa,1,0,,220.0
+Snacks,Paneer Lifafa,1,0,,200.0
+Snacks,Lilva Petis,1,0,,140.0
+Snacks,Dal Kanda Samosa,1,0,,130.0
+Fancy Specials,Special Cheese Paneer Sweet Corn,1,0,,200.0
+Fancy Specials,Special Coconut Pinuts Roll,1,0,,170.0
+Fancy Specials,Chinese Cigar,1,0,,170.0
+Fancy Specials,Lilva Pocket,1,0,,170.0
+Fancy Specials,Maggi Marble,1,0,,170.0
+Fancy Specials,Paneer Lifafa,1,0,,200.0
+Farali Specials,Farali Kachori,1,0,,130.0
+Rolls,Special Coconut Peanut Roll,1,0,,170.0

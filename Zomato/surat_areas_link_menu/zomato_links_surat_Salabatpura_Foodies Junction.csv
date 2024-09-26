@@ -1,0 +1,139 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Veg Manchurian,1,0,,149.0
+Starters,Veg Schezwan Manchurian,1,0,,155.0
+Starters,Paneer Manchurian [Full],1,0,,149.0
+Starters,Paneer Chilli [Full],1,0,,149.0
+Starters,Regular Seekh,0,0,,35.0
+Starters,Chicken Manchurian,0,0,"Delicious fried chicken in slightly sweet, hot & sour manchurian sauce. Chicken manchurian ... read more",149.0
+Starters,Dragon Chicken,0,0,Dragon chicken made restaurant style in which chicken is fried till crispy and ... read more,199.0
+Starters,Chicken Kurkure [Full],0,0,,199.0
+Starters,Chicken Tandoori Tikka,0,0,,199.0
+Starters,Honey Chilli Chicken [Full],0,0,,229.0
+Starters,Chicken Popcorn [Large] with Dip,0,0,,249.0
+Starters,Chicken Malai Kurkure [Full],0,0,,249.0
+Starters,Chicken Malai Tikka,0,0,,249.0
+Starters,Chicken Chilli,0,0,,199.0
+Starters,Chicken Strips [6 Pieces],0,0,,299.0
+Starters,Fusion Popcorn,0,0,,299.0
+Starters,Chicken Lollipop [Full],0,0,,299.0
+Starters,Chicken Drums Of Heaven [Full],0,0,"A slight twist to your ordinary chicken lollipop, this chicken wings fried and ... read more",349.0
+Starters,Chicken Seekh Kebab [1 Piece],0,0,,49.0
+Starters,Chicken Mamna [1 Piece],0,0,,79.0
+Starters,Tandoori Leg,0,0,,149.0
+Starters,Pathani Leg,0,0,,179.0
+Starters,Cheese Leg,0,0,,199.0
+Starters,Chicken Tandoori Tikka [8 Pieces],0,0,,199.0
+Starters,Special Malai Leg,0,0,,249.0
+Starters,Chicken Pathani Tikka [8 Pieces],0,0,,249.0
+Starters,Chicken Zaffrani Tikka [8 Pieces],0,0,,249.0
+Starters,Chicken Afghani Tikka [8 Pieces],0,0,,249.0
+Starters,Chicken Malai Tikka [8 Pieces],0,0,,299.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,129.0
+Fried Rice and Noodles,Veg Schezwan Rice,1,0,,89.0
+Fried Rice and Noodles,Veg Singapuri Rice,1,0,,89.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,149.0
+Fried Rice and Noodles,Veg Manchurian Rice,1,0,,89.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,189.0
+Fried Rice and Noodles,Chicken Schezwan Rice,0,0,,199.0
+Fried Rice and Noodles,Chicken Singapuri Rice,0,0,"Singapore fried rice is a Chinese fried rice variation made with rice, vegetables, ... read more",179.0
+Fried Rice and Noodles,Chicken Triple Rice With Gravy,0,0,,249.0
+Fried Rice and Noodles,Chicken Singapuri Triple Rice With Gravy,0,0,Chicken Singapuri triple fried rice is a favourite Mumbai's street stalls sought after ... read more,270.0
+Fried Rice and Noodles,Chicken Combination Rice With Gravy[Full],0,0,,299.0
+Fried Rice and Noodles,Chicken Pizza Rice With Gravy[Full],0,0,,299.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,129.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,129.0
+Fried Rice and Noodles,Veg Chowmin Noodles,1,0,,129.0
+Fried Rice and Noodles,Veg Singapuri Noodles,1,0,,129.0
+Fried Rice and Noodles,Veg Manchurian Noodles,1,0,,149.0
+Fried Rice and Noodles,Chicken Hakka Noodles,0,0,Chicken hakka noodles is a Chinese dish of cooked noodles tossed with boiled ... read more,149.0
+Fried Rice and Noodles,Chicken Chowmein Noodles,0,0,,149.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,,179.0
+Fried Rice and Noodles,Chicken Singapuri Noodles,0,0,,199.0
+Shawarma,Charcoal Chicken Shawarma,0,0,,99.0
+Shawarma,Lebanese Chicken Shawarma,0,0,,99.0
+Shawarma,Peri Peri Chicken Shawarma,0,0,,111.0
+Shawarma,Schezwan Chicken Shawarma,0,0,,111.0
+Shawarma,Hot & Spicy Chicken Shawarma,0,0,,111.0
+Shawarma,Tandoori Chicken Shawarma,0,0,,111.0
+Shawarma,Chilli Chataka Chicken Shawarma,0,0,,111.0
+Shawarma,Barbeque Chicken Shawarma,0,0,,111.0
+Shawarma,Foodies Junction Special Chicken Shawarma,0,0,[Chef's Special],125.0
+Shawarma,Cheese Blast Chicken Shawarma,0,0,,125.0
+Shawarma,Double Chicken Shawarma,0,0,,139.0
+Shawarma,Crispy Chicken Shawarma,0,0,,139.0
+Naan Chaap,Regular Naan Chaap,0,0,,149.0
+Naan Chaap,Special Egg Naan Chaap,0,0,,170.0
+Naan Chaap,Special Nalli Naan Chaap,0,0,,170.0
+Naan Chaap,Foodies Junction Special Naan Chaap,0,0,The mutton naan chaap which is the naan sandwich which is made over ... read more,199.0
+Mughlai Gravies,Chicken Tawa Fry Leg,0,0,,199.0
+Mughlai Gravies,Chicken Macchi Masala Leg,0,0,,229.0
+Mughlai Gravies,Chicken Masala,0,0,,249.0
+Mughlai Gravies,Chicken Angara,0,0,,290.0
+Mughlai Gravies,Boneless Butter Chicken,0,0,,290.0
+Mughlai Gravies,Boneless Chicken Kolhapur,0,0,,299.0
+Mughlai Gravies,Chicken Patiala,0,0,,329.0
+Mughlai Gravies,Boneless Chicken Special Bhuna,0,0,,379.0
+Mughlai Gravies,Boneless Special Aslam Butter Chicken,0,0,,599.0
+Snacks,French Fries,1,0,,129.0
+Snacks,Peri Peri Fries,1,0,,149.0
+Snacks,Veg Chinese Bhel,1,0,,150.0
+Snacks,Cheesy French Fries,1,0,,199.0
+Snacks,Chicken Singapuri Bhel,0,0,,199.0
+Snacks,Chicken Chinese Bhel,0,0,,199.0
+Snacks,Fusion French Fries,1,0,,249.0
+Snacks,Chicken Bombay Bhel [Full],0,0,Bombay bhel is a classic Bombay street side snack. It is made with ... read more,249.0
+Kathi Rolls,Double Egg Roll,0,0,,99.0
+Kathi Rolls,Egg Chicken Roll,0,0,,149.0
+Kathi Rolls,Double Egg Double Chicken Roll,0,0,,199.0
+Kathi Rolls,Special Tandoori Tikka Roll,0,0,,199.0
+Kathi Rolls,Special Malai Tikka Roll,0,0,,249.0
+Kathi Rolls,Foodies Junction Special Roll,0,0,,279.0
+Kathi Rolls,Kolkata Kaathi Rolls,0,0,,139.0
+Wraps,Veg Wrap,1,0,,129.0
+Wraps,Veg Schezwan Wrap,1,0,,149.0
+Wraps,Veg Cheesy Wrap,1,0,,149.0
+Wraps,Veg Paneer Tikka Wrap,1,0,,149.0
+Wraps,Chicken Wrap,0,0,,179.0
+Wraps,Chicken Schezwan Wrap,0,0,,179.0
+Wraps,Chicken Cheesy Wrap,0,0,,179.0
+Wraps,Chicken Tandoori Tikka Wrap,0,0,,199.0
+Wraps,Chicken Special Barbeque Wrap,0,0,,199.0
+Pizza,Veg Special Pizza,1,0,,149.0
+Pizza,Margherita Pizza,1,0,,179.0
+Pizza,Chicken Classic Pizza,0,0,,199.0
+Pizza,Chicken Tandoori Pizza,0,0,,230.0
+Pizza,Chicken Arabian Pizza,0,0,,249.0
+Pizza,Chicken Barbeque Pizza,0,0,,250.0
+Pizza,OMG Pizza,0,0,,299.0
+Burgers and Sandwiches,Veg Burger,1,0,,99.0
+Burgers and Sandwiches,Veg Peri Peri Burger,1,0,,129.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,149.0
+Burgers and Sandwiches,Chicken Burger,0,0,,149.0
+Burgers and Sandwiches,Chicken Tandoori Burger,0,0,,179.0
+Burgers and Sandwiches,Chicken Arabic Burger,0,0,,179.0
+Burgers and Sandwiches,Chicken Peri Peri Burger,0,0,,179.0
+Burgers and Sandwiches,Chicken Cheese Burger,0,0,,199.0
+Burgers and Sandwiches,Chicken Foodies Junction Special Burger,0,0,[Chef's Special],220.0
+Burgers and Sandwiches,Chicken Crispy Burger,0,0,,249.0
+Burgers and Sandwiches,Chicken Crispy Barbeque Burger,0,0,,199.0
+Burgers and Sandwiches,Double Chicken Crispy Burger,0,0,,249.0
+Burgers and Sandwiches,Oh My God Burger,0,0,,290.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,149.0
+Burgers and Sandwiches,Veg Mix Grilled Sandwich,1,0,,149.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,179.0
+Burgers and Sandwiches,Non Veg Sandwich,0,0,,199.0
+Burgers and Sandwiches,Non Veg Cheese Sandwich,0,0,,220.0
+Burgers and Sandwiches,Non Veg Tandoori Grilled Sandwich,0,0,,219.0
+Burgers and Sandwiches,Non Veg Arabian Grilled Sandwich,0,0,,229.0
+Burgers and Sandwiches,Non Veg Mix Grilled Sandwich,0,0,,199.0
+Soups,Veg Hot And Sour Soup,1,0,,79.0
+Soups,Veg Manchow Soup,1,0,,79.0
+Soups,Veg Sweet Corn Soup,1,0,,99.0
+Soups,Non Veg Hot And Sour Soup,0,0,,99.0
+Soups,Non Veg Manchow Soup,0,0,"Chicken manchow is a dark brown Chinese soup. Chicken, carrots and other veggies ... read more",99.0
+Breads,Tandoori Roti,1,0,,30.0
+Breads,Butter Tandoori Roti,1,0,,40.0
+Breads,Naan,1,0,,49.0
+Breads,Butter Naan,1,0,,60.0
+Breads,Laccha Paratha,1,0,,60.0
+Breads,Special Garlic Naan,1,0,,70.0

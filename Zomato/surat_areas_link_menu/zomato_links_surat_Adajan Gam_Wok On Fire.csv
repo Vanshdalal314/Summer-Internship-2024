@@ -1,0 +1,134 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Full Hot 'N' Sour Soup,1,0,Sour & Spicy - A Thick Spicy & Sour Soup Made From Juliennes ... read more,255.0
+Soup,Full Burnt Garlic Soup,1,0,Medium Spicy - A Thick Soup Made From Diced Exotic Vegetables & Mushroom ... read more,255.0
+Soup,Full Manchow Soup,1,0,"Medium Spicy - A Thick Soup Made From Finely Cut Vegetables, Tomatoes & ... read more",255.0
+Soup,Full Sweet Corn Soup,1,0,Sweet - A Thick Soup Made From Cream Of Corn & Served With ... read more,255.0
+Soup,Full Crispy Wonton Soup,1,0,"Medium Spicy - A Soup Made From Diced Exotic Vegetables, Mushroom & Tofu ... read more",255.0
+Soup,Full Burmy Soup,1,0,"Medium Spicy - A Coconut Milk Based Thick Soup Made With Vermicelli Noodles, ... read more",255.0
+Soup,Full Wok On Fire Soup,1,0,"Medium Spicy - A Flavor Some Soup Made Of Julienne Vegetables, Tofu And ... read more",255.0
+Soup,Full Lemon Pepper Coriander Soup,1,0,"Sour & Medium Spicy - Soup Made From Minced Coriander,Black Pepper, Ginger And ... read more",255.0
+Soup,Full Tom Yum Soup,1,0,Sour & Spicy - A Spicy Clear Soup With Tom Yum Paste And ... read more,255.0
+Roll,Cheese Cigar Roll,1,0,"Non Spicy - Deep Fried Rolls Stuffed With Cottage Cheese,Processed Cheese & Bell ... read more",410.0
+Roll,Spring Roll - Classic,1,0,Non Spicy - Deep Fried Rolls Stuffed With Mix Vegetables & Seasoning Served ... read more,370.0
+Roll,Corn Chilli Cheese Roll,1,0,"Spicy - Deep Fried Rolls Stuffed American Corn, Processed Cheese & Spring Onion ... read more",410.0
+Roll,Wok On Fire Roll,1,0,Non Spicy - Mix Veg Crispy Roll With Signature Seasoning Served With Hot ... read more,410.0
+Roll,Spicy Mango Spring Roll,1,0,Crisp Fried Rolls With Spicy Raw Mango Stuffing Served With Chilli Mayo Dip,340.0
+Open Bao - 2 Pcs,Schezwan Open Bao,1,0,Spicy - Schezwan Paneer & Iceberg Lettuce With Wasabi Mayo.,370.0
+Open Bao - 2 Pcs,Paneer Chilli Open Bao,1,0,"Medium Spicy - Paneer Chilli, Ice-Burg Lettuce And Pickled Vegetables.",370.0
+Open Bao - 2 Pcs,Tempura Open Bao,1,0,Non Spicy - Deep Fried Crispy Veg In Steamed Bao Drizzle With Sriracha ... read more,370.0
+Lollipop - 6 Pcs,Retro Lollipop,1,0,Medium Spicy - Combination Of Mash Potato & Cheese With Schezwan Flavour & ... read more,485.0
+Lollipop - 6 Pcs,Paneer Lollipop,1,0,Spicy - Cripsy paneer Lollipop In Schezwan Sauce Coating.,485.0
+Lollipop - 6 Pcs,Wok On Fire Lollipop,1,0,Non Spicy - Mix Veg. Cheese & Soy Base With Chinese Marination Dipped ... read more,485.0
+Salad,Crispy Salad,1,0,"Crispy Wonton, Bell Pepper Marinated With Chilli Dressing",360.0
+Salad,Thai Paneer & Leafy Salad,1,0,Paneer & Mix Lettuce In Thai Style Spicy Tnagy Dressing.,405.0
+Salad,Gado Gado Salad,1,0,Classic Mix Veg Indonesian Salad In Peanut Base Dressing.,360.0
+Salad,Som Tam Salad,1,0,Spicy - Classic Thai Raw Papaya Salad In Sweet Spicy Tangy Dressing.,360.0
+Salad,Tangy Mango Salad,1,0,"Fresh Riped Mango With Tomatoes , Lettuce Served With Hot & Sour Dressing",270.0
+Dim Sum / Momo - 3 Pcs,Mix Vegetables With Cheese Steam Momo - 3 Pcs,1,0,Momos Stuffed With Veg & Panner.,220.0
+Dim Sum / Momo - 3 Pcs,Exotic Vegetables Wok On Fire Steam Momo - 3 Pcs,1,0,Momos Stuffed In Mix Veg Seasoned With Signature Sauce.,220.0
+Dim Sum / Momo - 3 Pcs,Paneer Spinach Steam Momo - 3 Pcs,1,0,"Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & ... read more",220.0
+Dim Sum / Momo - 3 Pcs,Corn Chilli With Cheese Steam Momo - 3 Pcs,1,0,"Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",220.0
+Dim Sum / Momo - 3 Pcs,Corn Chilli With Cheese Fried Momo - 3 Pcs,1,0,"Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",235.0
+Dim Sum / Momo - 3 Pcs,Mix Vegetables With Cheese Fried Momo - 3 Pcs,1,0,Momos Stuffed With Veg & Panner.,235.0
+Dim Sum / Momo - 3 Pcs,Exotic Vegetables Wok On Fire Fried Momo - 3 Pcs,1,0,Momos Stuffed In Mix Veg Seasoned With Signature Sauce.,235.0
+Dim Sum / Momo - 3 Pcs,Paneer Spinach Fried Momo - 3 Pcs,1,0,"Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & ... read more",235.0
+Dim Sum / Momo - 3 Pcs,Mix Vegetables With Cheese Tossed Momo - 3 Pcs,1,0,Momos Stuffed With Veg & Panner.,250.0
+Dim Sum / Momo - 3 Pcs,Corn Chilli With Cheese Tossed Momo - 3 Pcs,1,0,"Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",250.0
+Dim Sum / Momo - 3 Pcs,Paneer Spinach Tossed Momo - 3 Pcs,1,0,"Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & ... read more",250.0
+Dim Sum / Momo - 3 Pcs,Exotic Vegetables Wok On Fire Tossed Momo - 3 Pcs,1,0,Momos Stuffed In Mix Veg Seasoned With Signature Sauce.,250.0
+Dim Sum / Momo - 6 Pcs,Paneer Spinach Steam Momo - 6 Pcs,1,0,"Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & ... read more",400.0
+Dim Sum / Momo - 6 Pcs,Mix Vegetables With Cheese Steam Momo - 6 Pcs,1,0,Momos Stuffed With Veg & Panner.,400.0
+Dim Sum / Momo - 6 Pcs,Corn Chilli With Cheese Steam Momo - 6 Pcs,1,0,"Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",400.0
+Dim Sum / Momo - 6 Pcs,Exotic Vegetables Wok On Fire Steam Momo - 6 Pcs,1,0,Momos Stuffed In Mix Veg Seasoned With Signature Sauce.,400.0
+Dim Sum / Momo - 6 Pcs,Mix Vegetables With Cheese Fried Momo - 6 Pcs,1,0,Momos Stuffed With Veg & Panner.,425.0
+Dim Sum / Momo - 6 Pcs,Corn Chilli With Cheese Fried Momo - 6 Pcs,1,0,"Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",425.0
+Dim Sum / Momo - 6 Pcs,Paneer Spinach Fried Momo - 6 Pcs,1,0,"Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & ... read more",425.0
+Dim Sum / Momo - 6 Pcs,Exotic Vegetables Wok On Fire Fried Momo - 6 Pcs,1,0,Momos Stuffed In Mix Veg Seasoned With Signature Sauce.,425.0
+Dim Sum / Momo - 6 Pcs,Paneer Spinach Tossed Momo - 6 Pcs,1,0,"Dumplings Stuffed With Cottage Cheese & Spinach Seasoned With Garlic, Ginger, Coriander & ... read more",450.0
+Dim Sum / Momo - 6 Pcs,Mix Vegetables With Cheese Tossed Momo - 6 Pcs,1,0,Momos Stuffed With Veg & Panner.,450.0
+Dim Sum / Momo - 6 Pcs,Corn Chilli With Cheese Tossed Momo - 6 Pcs,1,0,"Dumpling Stuffed With American Corn, Processed Cheese , Ginger, Garlic & Sesame Oil.",450.0
+Dim Sum / Momo - 6 Pcs,Exotic Vegetables Wok On Fire Tossed Momo - 6 Pcs,1,0,Momos Stuffed In Mix Veg Seasoned With Signature Sauce.,450.0
+Platters,Fried Starter Assembly,1,0,"Deep Fried Assorted Starter Of Four Variety - Veg & Cheese Lollipop, Spring ... read more",899.0
+Platters,Steamed Momo Medley,1,0,"12 Pcs With Four Flavours - Mix Veg & Cheese, Paneer & Spinach, ... read more",649.0
+Starter,Manchurian Dry With New Flavours,1,0,Manchurian Balls Tossed In Choice Of Flavours.,340.0
+Starter,Classic Manchurian Dry,1,0,"Spicy - Mix Veg Balls Tossed In Ginger, Garlic, Chilli & Soya.",340.0
+Starter,Crispy Thread Paneer Dry,1,0,Non Spicy - Cottage Cheese batons dipped with spicy sauce and covered with ... read more,425.0
+Starter,Wonton Dry - All Time Favorite,1,0,Non Spicy - Fried Wonton With Stuffed Mix Vegetables Served With Hot Garlic ... read more,360.0
+Starter,Chow Chow Potatoes Dry,1,0,"Medium Spicy - Crispy Fried Potatoes Tossed With Green Chilli, Scallion And Black ... read more",440.0
+Starter,Crispy Corn Shanghai Dry,1,0,Sweet & Spicy - Crispy Fried American Corn Tossed In Sweet & Spicy ... read more,440.0
+Starter,Dragon Pom Pom Dry,1,0,Spicy - Spicy Bite Size Fried Potato With Green Coriander & Garnished With ... read more,440.0
+Starter,Five Spice Vegetable Dry,1,0,Crispy fried exotic vegetables tossed with special five spices. (Sweet & Spicy),440.0
+Starter,Chilli Pepper Paneer Dry,1,0,"Spicy - Stir Fried Cottage Cheese Tossed With Black Pepper, Garlic & Chilli ... read more",470.0
+Starter,Paneer Chilli Dry,1,0,"Spicy - Cubes Of Cottage Cheese, Bell Pepper Tossed With Chilli Garlic & ... read more",470.0
+Starter,Butter Chilli Garlic Potato Dry,1,0,Spicy - Potato Fingers Tossed With Buttery Chilli Garlic.,440.0
+Starter,Mushroom Chilli Dry,1,0,"Spicy - Stir Fried Mushroom Tossed With Chilli, Garlic, Diced Capsicum & Soya",470.0
+Starter,Kung Pao Paneer Dry,1,0,Spicy - Paneer Tossed In Kung pao Sauce,470.0
+Starter,Wok On Fire Paneer Dry,1,0,Medium Spicy - Cottage cheese tossed in our secret sauce which is a ... read more,470.0
+Starter,Japanese Korokke Dry,1,0,Flavored Mash Potato & Cottage Cheese Fried Rolls With Sweet Chilli & Mayo ... read more,470.0
+Starter,Schezwan Paneer Dry,1,0,Spicy - Stir Fried Cottage Cheese Tossed In Schezwan Sauce,470.0
+Starter,Crispy Lotus Stem In Chilli Plum Sauce Dry,1,0,Crispy Fried Lotus Stem Tossed In Sweet Spicy Plum Sauce.,440.0
+Starter,Green Mix Stir Fry Dry,1,0,Seasonal Greens Wok Tossed In Garlic & Signature Seasonings,340.0
+Starter,Soya Chilli Chaap Dry,1,0,Veg Soya Chaap Tossed In Our Traditional Chilli Sauce,440.0
+Starter,Brocolli Stir Fry Dry,1,0,Butter Sauteed Cottage Cheese And Brocolli In Signature Seasonings,475.0
+Curry,Thai Red Curry,1,0,Spicy - Coconut Milk Based Spicy Gravy Cooked With Exotic Vegetables With Thai ... read more,505.0
+Curry,Thai Green Curry,1,0,Medium Spicy - Coconut Milk Based Spicy Gravy Cooked With Exotic Vegetables With ... read more,505.0
+Gravy,Classic Manchurian Gravy,1,0,"Spicy - Mix Veg Balls Prepared In Ginger, Garlic, Chilli & Soya Gravy",340.0
+Gravy,Paneer Chilli Gravy,1,0,"Spicy - Cottage Cheese, Bell Pepper Prepared With Chilli Garlic & Soya Sauce",485.0
+Gravy,Wok On Fire Paneer Gravy,1,0,Medium Spicy - Chef's Special,485.0
+Gravy,Dragon Chilli Paneer Gravy,1,0,Spicy - Chilli Flakes | Red Chilli Paste | Tomato Ketchup | Bell ... read more,485.0
+Gravy,Exotic Veg & Paneer With Choice Of Sauces Gravy,1,0,"Exotic vegetables, mushrooms and Paneer are prepared in your choice of sauce (Soya, ... read more",485.0
+Gravy,Exotic Vegetables With Choice Of Sauces Gravy,1,0,Mix Exotic Veg Tossed In A Choice Of Sauce.,485.0
+Gravy,Paneer With Choice Of Sauces Gravy,1,0,Fried Paneer Cubes Tossed In Choice Of Sauce.,485.0
+Rice,Fried Rice - Everyone's Favorite,1,0,Non Spicy - Rice Tossed With Finely Diced Vegetables.,385.0
+Rice,Schezwan Rice,1,0,Spicy - Rice Tossed With Finely Diced Vegetables & Schezwan Sauce.,420.0
+Rice,Burnt Garlic & Spinach Rice,1,0,Non Spicy - Rice Tossed With Burnt Garlic & Spinach,420.0
+Rice,Indo Chinese Paneer Rice,1,0,Non Spicy - Rice Tossed With Bell Pepper And Cottage Cheese.,420.0
+Rice,Thai Chilli Rice,1,0,"Spicy - Rice Tossed With Bell Pepper, Red Cabbage & Brocolli Prepared In ... read more",420.0
+Rice,Loaded Veggie Rice,1,0,Medium Spicy - Fried Rice Loaded With Exotic Vegetables,420.0
+Rice,Chilli Garlic Rice,1,0,"Spicy - Rice Tossed With Finely Diced Vegetables, Fresh Chilly & Garlic.",420.0
+Rice,Korean Rice,1,0,"Spicy - Aromatic Rice Tossed With Star Anise, Cottage Cheese & Chilli Flakes.",420.0
+Rice,Butter Garlic Rice,1,0,Non Spicy - Wok Tossed Fried Rice In Butter & Burnt Garlic,430.0
+Rice,Singapore Rice,1,0,Spicy - Rice Tossed In Spicy Singapore Sauce.,420.0
+Rice,Shanghai Rice,1,0,Fried Rice Wok Tossed In Shanghai Sauce.,445.0
+Rice,Wok On Fire Rice,1,0,"Medium Spicy - Rice Tossed With Exotic Vegetables,American Corn in Aromatic Flavour.",470.0
+Rice,Mingle,1,0,Sweet & Spicy - A Medley Of Rice And Noodles Tossed With Mix ... read more,470.0
+Rice,Pot Rice With Paneer,1,0,"Non Spicy - Fragrant Rice Sauted & Topped With Exotic Vegetables, Mushroom And ... read more",595.0
+Noodle,Hakka Noodle - Non Spicy,1,0,"Noodles tossed in Julienne of vegetables, spring onions (Non Spicy)",440.0
+Noodle,Twisted Hakka Noodle - Spicy,1,0,Mix Veg Hakka Noodles Wok Tossed In Hot Sauce,440.0
+Noodle,Chilli Garlic Noodle,1,0,"Spicy - Noodles Tossed With Chilly Flakes, Garlic and Vegetables.",440.0
+Noodle,Schezwan Noodle,1,0,Spicy - Noodles Tossed With Finely Diced Vegetables & Schezwan Sauce.,440.0
+Noodle,Shanghai Noodle,1,0,Mix Veg Noodle Tossed In Shanghai Sauce,440.0
+Noodle,Singapore Noodle,1,0,Spicy - Noodles Tossed In Spicy Singapore Sauce.,440.0
+Noodle,Chow Mein Noodle,1,0,Spicy - Noodles Tossed With Indian Vegetables & Asian Spices.,460.0
+Noodle,Malaysian Noodle,1,0,Spicy - Flat Noodle Tossed In Spicy Sauce With Exotic veg & Mushroom,470.0
+Noodle,Pad Thai Noodle,1,0,Spicy - Classic Rice Flat Noodles Tossed In Home Made Signature Sauce,470.0
+Noodle,Wok On Fire Noodle,1,0,Hakka Style Mix Veg Noodle Tossed In Home Made Signature Sauce.,470.0
+Noodle,Korean Noodle,1,0,Spicy - Noodles With Paneer Tossed In Korean Seasoning & Star Anise Flavours,470.0
+Noodle,Pan Fried Noodles With Hunan Sauce,1,0,"Medium Spicy - Pan Fried Noodles Topped With Exotic Vegetables, Mushroom In Hunan ... read more",545.0
+Noodle,Pan Fried Noodles With Mongolian Sauce,1,0,"Medium Spicy - Pan Fried Noodles Topped With Exotic Vegetables, Mushroom In Mongolian ... read more",545.0
+Noodle,American Chopsuey Noodle,1,0,Sweet & Sour - Sweet & Sour Gravy Poured Over Crispy Noodles,470.0
+Rice Bowl - Serves One,Red Lishi Rice Bowl,1,0,Chilli Garlic Rice With Schezwan Sauce & Garnished With Fried Paneer.,470.0
+Rice Bowl - Serves One,Thai Rice Bowl,1,0,Thai Chilli Rice Topped With Exotic veg In Basil Chilli Sauce,470.0
+Rice Bowl - Serves One,Wok On Fire Rice Bowl,1,0,Rice & Gravy With Signature Seasoning Garnished With Fried Paneer.,470.0
+Rice Bowl - Serves One,Mongolian Hot Pot Rice Bowl,1,0,Sweet & Spicy - Riced Topped With Mongolian Vegetables & Sauce,470.0
+Noodle Bowl - Serves One,Stir Fried Noodle Bowl,1,0,Noodles Tossed With Stir Fried Vegetable,470.0
+Noodle Bowl - Serves One,Kung Pao Noodle Bowl,1,0,Veg Hakka Noodle Topped With Kung Pao Paneer.,470.0
+Noodle Bowl - Serves One,Classic Noodle Bowl,1,0,Spicy Noodles Tossed With Cantonese Sauce & Spring Rolls.,470.0
+Noodle Bowl - Serves One,Hot Garlic Noodle Bowl,1,0,Butter Garlic Noodle Topped With Mic Veg In Hot Garlic Sauce.,470.0
+Healthy Bowl - Serves One,Thukpa Healthy Bowl,1,0,Spicy - Tibetian Broth With Noodle & Mix veg.,470.0
+Healthy Bowl - Serves One,Ready To Eat - Khowsuey Healthy Bowl,1,0,"Burmese Yellow Coconut Based Curry With Exotic Veg, Brown Onion, Peanuts, Fresh Coriander ... read more",470.0
+Healthy Bowl - Serves One,Japanese Ramen Style Healthy Bowl,1,0,Glass Noodles In Healthy Broth With Greens.,470.0
+Dessert,Choco Lava Roll,1,0,Dark Chocoalte Sticks In The Puff Roll Sheets,330.0
+Dessert,NY Style Cheese Cake,1,0,Vegterian Eggless Cheese Cake,405.0
+Chinese Combo - Serves 1.,Fried Rice + Manchurian Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Rice - Tossed With Finely ... read more,299.0
+Chinese Combo - Serves 1.,Chilli Garlic Rice + Paneer Chilli Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Rice - Rice Tossed ... read more,329.0
+Chinese Combo - Serves 1.,Chilli Garlic Rice + Manchurian Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Rice - Rice Tossed ... read more,329.0
+Chinese Combo - Serves 1.,Schezwan Rice + Paneer Chilli Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Rice - Spicy Rice Tossed ... read more,329.0
+Chinese Combo - Serves 1.,Fried Rice + Paneer Chilli Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Rice - Tossed With Finely ... read more,329.0
+Chinese Combo - Serves 1.,Schezwan Rice + Manchurian Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Rice - Spicy Rice ... read more,329.0
+Chinese Combo - Serves 1.,Hakka Noodle + Manchurian Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Noodle - Noodles tossed in ... read more,299.0
+Chinese Combo - Serves 1.,Hakka Noodle + Paneer Chilli Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Noodle - Noodles tossed ... read more,329.0
+Chinese Combo - Serves 1.,Chilli Garlic Noodle + Panner Chilli Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Noodle - Tossed With Chilly ... read more,329.0
+Chinese Combo - Serves 1.,Chilli Garlic Noodle + Manchurian Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Noodle - Tossed With ... read more,329.0
+Chinese Combo - Serves 1.,Schezwan Noodle + Manchurian Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Noodle - Noodles Tossed ... read more,329.0
+Chinese Combo - Serves 1.,Schezwan Noodle + Panner Chilli Gravy,1,0,The Provided Combo Image Is For Reference Purposes Only. Noodle - Noodles Tossed With ... read more,329.0

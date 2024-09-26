@@ -1,0 +1,23 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Veg Sandwich,1,0,,65.0
+Sandwiches,Bread Butter Sandwich,1,0,,52.0
+Sandwiches,Bread Butter Chutney Sandwich,1,0,,52.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,52.0
+Sandwiches,Bread Butter Aloo Sandwich,1,0,,52.0
+Sandwiches,Veg Cheese Sandwich,1,0,,105.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,105.0
+Sandwiches,Bread Butter Chutney Cheese Sandwich,1,0,,105.0
+Sandwiches,Bread Butter Jam Cheese Sandwich,1,0,,105.0
+Sandwiches,Bread Butter Aloo Cheese Sandwich,1,0,,105.0
+Sandwiches,Bread Butter Chocolate Sandwich,1,0,,105.0
+Sandwiches,Bombay Grilled Sandwich,1,0,,225.0
+Sandwiches,Mini Grilled Sandwich,1,0,,170.0
+Sandwiches,Pizaa Cheese Toast Sandwich,1,0,,105.0
+Sandwiches,Vegetable Cheese Toast Sandwich,1,0,,118.0
+Sandwiches,Aloo Cheese Toast Sandwich,1,0,,118.0
+Sandwiches,Aloo Masala Toast Sandwich,1,0,,118.0
+Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,118.0
+Sandwiches,Bread Butter Chutney Cheese Toast Sandwich,1,0,,118.0
+Sandwiches,Open Toast Sandwich,1,0,,145.0
+Salads,Aloo Chaat Salad,1,0,,105.0
+Salads,Kakdi Tomato Chaat Salad,1,0,,105.0

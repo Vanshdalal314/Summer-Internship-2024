@@ -1,0 +1,15 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Sada Khaman,1,0,,45.0
+Snacks,Vagharela Khaman,1,0,,75.0
+Snacks,Khamani,1,0,,75.0
+Snacks,Nylon Khaman,1,0,,75.0
+Snacks,Khandvi,1,0,,75.0
+Snacks,Idra,1,0,,60.0
+Snacks,Dhokla,1,0,,60.0
+Snacks,Sandwich Idra,1,0,,70.0
+Snacks,Sada Patra,1,0,,60.0
+Snacks,Vagharela Patra,1,0,,75.0
+Snacks,Tadela Patra,1,0,,90.0
+Snacks,Patties,1,0,,90.0
+Snacks,Paneer Lifafa,1,0,,110.0
+Snacks,Papdi,1,0,,90.0

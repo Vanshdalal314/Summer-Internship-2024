@@ -1,0 +1,54 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Punjabi Deluxe Thali,1,0,1 Paneer Sabji (paneer masala)+1 Seasonal Veg+1 Dal Tadka+4 Butter Roti+1 Jeera Rice+Papad ... read more,269.0
+Thali,Jain Deluxe Thali,1,0,[Jain Preparation] 1 Paneer Sabji(paneer bhurji)+1 Seasonal Veg+1 Dal Tadka+4 Butter Roti+1 Jeera ... read more,279.0
+Thali,Gujarati Thali,1,0,1 Paneer Sabji(paneer butter masala)+1 Seasonal Veg+1 Dal Tadka+4 Butter Roti+1 Jeera Rice+Papad ... read more,279.0
+Thali,Maharaja Thali,1,0,1 Paneer Sabji(paneer tikka)+1 Seasonal Veg+1 Dal Tadka+3 Paratha+1 Pulao+Raita+Papad [1 Piece]+Sweet [1 ... read more,299.0
+Starters,Sabji Dry Fry,1,0,,179.0
+Starters,Bhindi Dry Fry,1,0,,179.0
+Main Course,Dal Fry,1,0,,169.0
+Main Course,Dal Palak,1,0,,189.0
+Main Course,Dal Tadka,1,0,,189.0
+Main Course,Butter Dal Fry,1,0,,189.0
+Main Course,Chana Masala,1,0,,179.0
+Main Course,Sev Tomato,1,0,,179.0
+Main Course,Moong Masala,1,0,,179.0
+Main Course,Matar Masala,1,0,,179.0
+Main Course,Mix Veg,1,0,,179.0
+Main Course,Aloo Matar Gravy,1,0,,179.0
+Main Course,Bhindi Masala Gravy,1,0,,179.0
+Main Course,Veg Kolhapuri,1,0,,179.0
+Main Course,Veg Handi,1,0,,179.0
+Main Course,Aloo Palak,1,0,,179.0
+Main Course,Aloo Gobi,1,0,,179.0
+Main Course,Baingan Bharta,1,0,,179.0
+Main Course,Dum Aloo Panjabi,1,0,,179.0
+Main Course,Matar Paneer,1,0,,249.0
+Main Course,Palak Paneer,1,0,,249.0
+Main Course,Chana Paneer,1,0,,249.0
+Main Course,Paneer Masala,1,0,,249.0
+Main Course,Kaju Curry,1,0,,249.0
+Main Course,Kaju Paneer Masala,1,0,,279.0
+Main Course,Paneer Handi,1,0,,279.0
+Main Course,Paneer Tikka Masala,1,0,,279.0
+Main Course,Paneer Butter Masala,1,0,,279.0
+Main Course,Shahi Paneer Masala,1,0,,279.0
+Main Course,Paneer Bhurji,1,0,,279.0
+Main Course,Jeera Aloo Dry,1,0,,179.0
+Main Course,Aloo Matar Dry,1,0,,179.0
+Breads,Plain Roti,1,0,,20.0
+Breads,Butter Roti,1,0,,25.0
+Breads,Oil Tawa Paratha,1,0,,50.0
+Breads,Butter Tawa Paratha,1,0,,60.0
+Rice,Rice,1,0,,110.0
+Rice,Jeera Rice,1,0,,149.0
+Rice,Veg Pulao,1,0,,189.0
+Rice,Paneer Pulao,1,0,,219.0
+Rice,Kaju Pulao,1,0,,219.0
+Rice,Kaju Paneer Pulao,1,0,,249.0
+Accompaniments,Roasted Papad,1,0,,35.0
+Accompaniments,Fried Papad,1,0,,40.0
+Accompaniments,Masala Papad,1,0,,60.0
+Accompaniments,Veg Raita,1,0,,90.0
+Accompaniments,Dahi,1,0,,80.0
+Accompaniments,Tomato Salad,1,0,,40.0
+Drinks (Beverages),Buttermilk,1,0,,30.0

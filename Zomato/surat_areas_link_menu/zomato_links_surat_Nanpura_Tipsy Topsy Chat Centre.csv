@@ -1,0 +1,71 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combo Meals,Executive Thali,1,0,1 Pc gulab jamun + tawa paratha (3 pcs) + paneer sabji + ... read more,320.0
+Combo Meals,Maharaja Thali,1,0,Sweet + dhokla + reshmi tawa paratha (3 pcs) + paneer sabji + ... read more,400.0
+Combo Meals,Mini Thali,1,0,2 Sabji + tawa paratha (3 pcs) + dal + rice + salad ... read more,250.0
+Mini Combos,Aloo Mutter (Mini Combo),1,0,With 3 Resmi Tawa Paratha & Chaas Bottle,245.0
+Mini Combos,Dal Fry Paratha,1,0,With 3 Resmi Tawa Paratha & Chaas Bottle.,245.0
+Mini Combos,Dal Fry Jeera Rice & Chaas,1,0,With Chaas Bottle,245.0
+Mini Combos,Paneer Tikka Masala (Mini Combo),1,0,With 3 Resmi Tawa Paratha & Chaas Bottle.,275.0
+Mini Combos,Veg Kolhapuri (Mini Combo),1,0,"With 3 Resmi Tawa Paratha & Chaas Bottle,",255.0
+Fast Food Combo,Fast Food Combo,1,0,Bhaji + Pav (3 Pcs) + Tawa Pulao + Roasted Papad + Garlic ... read more,365.0
+Paneer Veg (500 Ml),Mutter Paneer,1,0,,310.0
+Paneer Veg (500 Ml),Paneer Bhurji,1,0,,340.0
+Paneer Veg (500 Ml),Paneer Butter Masala,1,0,,310.0
+Paneer Veg (500 Ml),Paneer Tikka Masala,1,0,,310.0
+Paneer Veg (500 Ml),Paneer Toofani,1,0,,310.0
+Mix Veg (500 Ml),Aloo Mutter,1,0,,245.0
+Mix Veg (500 Ml),Dry Aloo,1,0,,245.0
+Mix Veg (500 Ml),Jeera Aloo,1,0,,245.0
+Mix Veg (500 Ml),Only Pavbhajis Bhaji,1,0,,260.0
+Mix Veg (500 Ml),Rasila Aloo,1,0,,245.0
+Mix Veg (500 Ml),Sev Tomato,1,0,Sev Tomato 500 Ml,260.0
+Mix Veg (500 Ml),Veg Handi,1,0,,270.0
+Mix Veg (500 Ml),Veg Kadhai,1,0,,270.0
+Mix Veg (500 Ml),Veg Kolhapuri,1,0,,270.0
+Mix Veg (500 Ml),Veg Toofani,1,0,,270.0
+Variety Of Dal,Dal Fry,1,0,,215.0
+Variety Of Dal,Dal Tadka,1,0,,245.0
+Variety Of Rice (500 Ml),Curd Rice With Pickle,1,0,,245.0
+Variety Of Rice (500 Ml),Dal Khichdi,1,0,Served With Papad & Pickle,245.0
+Variety Of Rice (500 Ml),Jeera Rice,1,0,,215.0
+Variety Of Rice (500 Ml),Steam Rice,1,0,,200.0
+Variety Of Rice (500 Ml),Tawa Pulav,1,0,Tawa pulao (prepared in amul butter),260.0
+Variety Of Rice (500 Ml),Veg Biryani With Raita & Papad,1,0,,285.0
+Parathas,Butter Reshmi Tawa Paratha,1,0,,40.0
+Parathas,Ghee Resmi Tawa Paratha,1,0,,40.0
+Parathas,Tawa Paratha - 1 Pc.,1,0,Resmi,30.0
+"Sweet, Farsan & Add-Ons",Bundi Raita 100 ML,1,0,,55.0
+"Sweet, Farsan & Add-Ons",Bundi Raita 300 Ml,1,0,,140.0
+"Sweet, Farsan & Add-Ons",Curd (100 Ml),1,0,,40.0
+"Sweet, Farsan & Add-Ons",Green Salad,1,0,"Sliced onions, tomatoes, carrot, cucumber with lime, chillies and salt.",110.0
+"Sweet, Farsan & Add-Ons",Gulab Jamun,1,0,(1 Pc),40.0
+"Sweet, Farsan & Add-Ons",Khaman Dhokla,1,0,,160.0
+"Sweet, Farsan & Add-Ons",Ras Kadam (1 Pc ),1,0,,40.0
+"Sweet, Farsan & Add-Ons",Roasted Papad,1,0,,25.0
+"Sweet, Farsan & Add-Ons",Veg Raita 100 ML,1,0,,55.0
+"Sweet, Farsan & Add-Ons",Veg Raita 300 ML,1,0,,140.0
+"Sweet, Farsan & Add-Ons",White Dhokla,1,0,,160.0
+Pav Bhaji,Cheese Pav Bhaji With 3 Pav & Kachumber,1,0,,275.0
+Pav Bhaji,Extra Butter Pav,1,0,,15.0
+Pav Bhaji,Pav Bhaji With 3 Pav & Kachumber,1,0,,240.0
+Chaat Item,Bhel Puri,1,0,,90.0
+Chaat Item,Churma,1,0,Mixture Of Puff Rice ( Mamra ) + Sev + Puri Chura + ... read more,75.0
+Chaat Item,Delhi Chart,1,0,,100.0
+Chaat Item,Papdi Chhat,1,0,,100.0
+Chaat Item,Sev Puri,1,0,,90.0
+Chaat Item,Sukha Masala Puri,1,0,,75.0
+Frankies,Cocktail Frankie,1,0,Cheese Frankie With Mixed Sauces and Wafers.,150.0
+Frankies,Peri Peri Cheese Frankie,1,0,Cheese Frankie In Peri Peri Sauce,150.0
+Frankies,Schezwan Paneer Frankie,1,0,Frankie In Schezwan Sauce With Paneer Cubes,170.0
+Frankies,Tandoori Cheese Frankie,1,0,Cheese Frankie In Tandoori Sauce,150.0
+Frankies,Veg Cheese Frankie,1,0,,120.0
+Frankies,Veg Cheese Schezwan Frankie,1,0,,150.0
+Frankies,Veg Mayo Cheese Frankie,1,0,,140.0
+Sandwich,Bread Butter With Wafers,1,0,Bread butter with waffers and ketchup,95.0
+Sandwich,Cheese Chutney Sandwich With Wafer,1,0,,140.0
+Sandwich,Only Cheese Sandwich,1,0,Cheese Sandwich With Wafers.,125.0
+Sandwich,Veg Cheese Grill Sandwich,1,0,Veg cheese grill sandwich with wafers & tomato ketchup,320.0
+Sandwich,Veg Cheese Sandwich With Wafers,1,0,Veg Cheese sandwich with wafers & tomato ketchup,150.0
+Sandwich,Veg Sandwich With Wafers,1,0,Veg sandwich with wafers & tomato ketchup.,125.0
+Drinks (Beverages),Butter Milk - 200 Ml,1,0,,40.0
+Drinks (Beverages),Cold Coco,1,0,200 Ml Bottle Surats Special Chocolate Drink,130.0

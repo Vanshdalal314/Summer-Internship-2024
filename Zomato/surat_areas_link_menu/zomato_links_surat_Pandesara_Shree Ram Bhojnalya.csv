@@ -1,0 +1,2 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Veg Thali,1,0,2 Sabji+4 Paratha+Dal+Chawal [Subject to Availability],98.0

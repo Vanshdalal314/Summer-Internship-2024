@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chinese,Crispy Fried Veg,1,0,,124.5
+Chinese,Dry Manchurian,1,0,,99.5
+Chinese,Fried Rice,1,0,,94.5
+Chinese,Hakka Noodles,1,0,,99.5
+Chinese,Mushroom Chilly Garlic,1,0,,99.5
+Chinese,Mushroom Manchurian,1,0,,149.5
+Chinese,Paneer Chilly,1,0,,124.5
+Chinese,Paneer Manchurian,1,0,,124.5
+Chinese,Schezwan Paneer Chilly,1,0,,134.5
+Pizza & Garlic Bread,Classic Margherita Pizza,1,0,"Cheesy with Tamato, fresh basil leaves, Tomato Sprinkled with olive oil.",99.5
+Pizza & Garlic Bread,Fresh Veggie Feast,1,0,,114.5
+Pizza & Garlic Bread,Fungi Mushroom And Chilli Pizza,1,0,,124.5
+Pizza & Garlic Bread,Hawaiian Mood Pizza,1,0,"Pineapple, mushroom, barbeque paneer and jalapeno.",124.5
+Pizza & Garlic Bread,Hot And Spicy American Pizza,1,0,"Jalapeno, baby corn, green capsicum and onion.",124.5
+Pizza & Garlic Bread,Italian Red Pizza,1,0,"Red pasta, olives, capsicum, tomato, onion.",114.5
+Pizza & Garlic Bread,Italian White Pizza,1,0,"White pasta, olives, capsicum and tomato.",114.5
+Pizza & Garlic Bread,Mexican Bean Delight Pizza,1,0,"Cheesy with tomato, fresh basil leaves and tomato sprinkled with olive oil.",124.5
+Pizza & Garlic Bread,New Mexicano Pizza,1,0,"Sweet corn capsicum, onion, tomato, jalapeno, mexican herbs.",124.5
+Pizza & Garlic Bread,Peppery Party Pizza,1,0,Red yellow green bell pepper tomato with crushed black pepper.,124.5
+Pizza & Garlic Bread,Simply Spicy Pizza,1,0,"Tomato, sweet corn and green chilli.",124.5
+Pizza & Garlic Bread,Urban Choice Pizza,1,0,"Baby corn, olives and red paprika.",124.5
+Pizza & Garlic Bread,Veggie Crunch Pizza,1,0,,114.5
+Pizza & Garlic Bread,Balle Beat Pizza,1,0,"Special punjabi makhani gravy, tandoori paneer, onion baby corn, green peas and coriander.",134.5
+Pizza & Garlic Bread,Chaina Man Pizza,1,0,,134.5
+Pizza & Garlic Bread,Chennai Express Pizza [South Special],1,0,,134.5
+Pizza & Garlic Bread,China Man Pizza,1,0,"Chinese style paneer chilly, garnished with spring onion.",134.5
+Pizza & Garlic Bread,Fiery Paneer Pizza,1,0,"Spicy paneer green capsicum, olives, jalapeno & cruushed red chilli.",134.5
+Pizza & Garlic Bread,Hariyali Paneer Pizza,1,0,"Hariyali paneer, onion, tomato, capsicum, green chilli.",134.5
+Pizza & Garlic Bread,Pataka Paneer Pizza,1,0,"Chatpata paneer, sweet corn, red paprika, green capsicum and coriander..",134.5
+Pizza & Garlic Bread,Rangilo Gujju Pizza,1,0,"Gujarati style flavourful green peas masala, tomato, garlic, ginger, onion, green chilli, coriander ... read more",134.5
+Pizza & Garlic Bread,Schezwan Paneer Chilly Pizza,1,0,,134.5
+Pizza & Garlic Bread,Tandoori Zayka Pizza,1,0,"Tandoori paneer, onion, tomato & green capsicum with tandoori masala.",134.5
+Pizza & Garlic Bread,Yummy Pizza,1,0,"Spicy paneer, green chilli, garlic, spinach and fresh mint garnished with spring onion.",134.5
+Pizza & Garlic Bread,Cheesy Treat Pizza,1,0,,249.5
+Pizza & Garlic Bread,New York Style Pizza (Large),1,0,,249.5
+Pizza & Garlic Bread,Old Bombay Chowpati Style Pizza,1,0,"Chopped veg mixed with green chilli, chatpata bombay masala on thin crust pizza ... read more",149.5
+Pizza & Garlic Bread,Cheese Garlic Bread,1,0,(4 Pcs),94.5
+Pizza & Garlic Bread,Cheese Jain Bread,1,0,(4 Pcs),94.5
+Pizza & Garlic Bread,Classic Garlic Bread,1,0,(4 Pcs),64.5
+Pizza & Garlic Bread,Classic Jain Bread,1,0,(4 Pcs),64.5
+Pizza & Garlic Bread,Supreme Spicy Garlic Bread,1,0,(4 Pcs),99.5
+Pizza & Garlic Bread,Supreme Spicy Jain Bread,1,0,(4 Pcs),99.5
+Pasta,Alfredo Pasta,1,0,,124.5
+Pasta,Arabiata Pasta,1,0,,124.5
+Pasta,Mix Sauce Pasta,1,0,,124.5
+Fries,Cheesy French Fries,1,0,,124.5
+Fries,Classic French Fries,1,0,,99.5
+Fries,Schezwan French Fries,1,0,,124.5
+Desserts,Hot Brownie,1,0,(1 Pcs),64.5

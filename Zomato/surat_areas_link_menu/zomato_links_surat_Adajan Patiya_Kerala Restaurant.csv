@@ -1,0 +1,49 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken Fry,0,0,,180.0
+Starters,Fish Fry,0,0,A delightfully delectable dish prepared with tender fish coated in special spices and ... read more,190.0
+Starters,Prawns Roast [100 grams],0,0,Slow cooked prawns in Kerala spices.,290.0
+Main Course,Chana Masala,1,0,A classic vegetarian main course bursting with bold flavor.,60.0
+Main Course,Veg Curry,1,0,,60.0
+Main Course,Egg Curry [2 Eggs],0,0,Cooked with hard boiled egg and spices along with assorted veggies.,95.0
+Main Course,Egg Bhurji,0,0,,95.0
+Main Course,Chicken Curry,0,0,Spicy Kerala style chicken curry.,150.0
+Main Course,Fish Coconut Curry,0,0,,175.0
+Main Course,Fish Masala,0,0,A succulent Seafood dish with robust flavours and aromatic spices.,195.0
+Main Course,Chicken Sukka with Coconut,0,0,"Slow cooked chicken masala with onion, tomato, Kerala spices and roasted coconut.",195.0
+Main Course,Chicken Fry with Gravy,0,0,,210.0
+South Indian,Vada Sambhar,1,0,"Vadas dunked in slurpy sambhar, perfect to satiate your cravings.",75.0
+South Indian,3 Neyyappam,1,0,Sweet rice based deep fried fritters.,75.0
+South Indian,Paper Dosa,1,0,"Deliciously crispy dosa with a generous spread of fresh butter, served with sambhar ... read more",95.0
+South Indian,Onion Uttapam,1,0,"Made with dosa batter, topped with onion and served with chutney, a must ... read more",90.0
+South Indian,Tomato Uttapam,1,0,,90.0
+South Indian,Mixed Uttapam,1,0,,95.0
+South Indian,Egg Dosa,0,0,"A perfect blend of egg with dosa, accompanied by tangy sambhar and coconut ... read more",125.0
+South Indian,Paper Egg Dosa,0,0,,150.0
+Combos,Paratha with Tomato Curry,1,0,,135.0
+Combos,Paratha with Veg Curry,1,0,,135.0
+Combos,Appam with Veg Kurma,1,0,Kerala style rice-based appam with vegetable stew.,150.0
+Combos,Appam with Chana Masala,1,0,,150.0
+Combos,Idiyappam with Veg Curry,1,0,,150.0
+Combos,Idiyappam with Chana Masala,1,0,,150.0
+Combos,Appam with Egg Curry [2 Eggs],0,0,,190.0
+Combos,Idiyappam with Egg Curry [2 Eggs],0,0,,185.0
+Combos,Paratha with Chicken Curry,0,0,,245.0
+Combos,Paratha with Fish Masala,0,0,,255.0
+Combos,Paratha with Fish Curry,0,0,,255.0
+Combos,Idiyappam with Fish Masala,0,0,,285.0
+Combos,Appam with Chicken Curry,0,0,,235.0
+Combos,Idiyappam with Chicken Curry,0,0,,235.0
+Combos,Idiyappam with Fish Curry,0,0,,245.0
+Combos,Appam with Fish Curry,0,0,,250.0
+Combos,Appam with Fish Masala,0,0,,250.0
+Combos,Paratha with Chicken Sukka,0,0,,250.0
+Combos,Appam with Chicken Sukka,0,0,,265.0
+Combos,Idiyappam with Chicken Sukka,0,0,,260.0
+Bread,1 Kerala Paratha,1,0,,29.0
+Rice,Plain Rice,1,0,,40.0
+Snacks,Boiled Egg [2 Eggs],0,0,,40.0
+Snacks,Omelette,0,0,,55.0
+Snacks,Egg Kothu Paratha,0,0,,170.0
+Snacks,Chicken Kothu Paratha,0,0,,210.0
+Accompaniment,Kerala Papadam,1,0,,20.0
+Accompaniment,Buttermilk,1,0,"Creamy, tangy, and perfectly complimentary to any savory dish.",25.0

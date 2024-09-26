@@ -1,0 +1,40 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,1 Butter Paneer Paratha with Chole Bhature [1 Plate],1,0,1 Butter Paneer Paratha+Delhi Style Chole Bhature [2 Bhature],349.0
+Combos,1 Butter Paneer Paratha with Chole Kulcha [1 Plate],1,0,Paneer Paratha + Dal + Curd + Chatni with Chole + 2 Kulche ... read more,339.0
+Combos,1 Butter Paneer Paratha with 1 Mixed Butter Paratha,1,0,Paneer Paratha + Dal + Curd + Chatni with Mixed Paratha + Dal ... read more,369.0
+Combos,1 Butter Paneer Paratha with 1 Aloo Pyaaz Butter Paratha and 1 Chaas,1,0,Paneer Paratha + Dal + Curd + Chatni with Aloo Pyaaz Paratha + ... read more,399.0
+Combos,"Chole Bhature [1 Plate, 2 Bhature] with 1 Butter Mixed Paratha",1,0,Chol + 2 Bhature + Salad with Mixed Paratha + Dal + Dahi ... read more,319.0
+Combos,"Chole Bhature [1 Plate, 2 Bhature] with 1 Butter Aloo Pyaaz Paratha",1,0,,309.0
+Paratha,Plain Paratha,1,0,"Served with dal, dahi and chutney.",130.0
+Paratha,Aloo Paratha,1,0,"Served with dal, dahi and chutney.",149.0
+Paratha,Pyaz Paratha,1,0,"Served with dal, dahi and chutney.",149.0
+Paratha,Gobi Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Lachha Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Papad Pyaz Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Aloo Pyaz Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Aloo Gobi Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Palak Gobi Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Gobi Pyaz Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Aloo Methi Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Aloo Garlic Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Aloo Palak Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Gobi Garlic Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Palak Garlic Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Papad Palak Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Aloo Gobi Pyaz Paratha,1,0,"Served with dal, dahi and chutney.",158.0
+Paratha,Mixed Paratha,1,0,"Served with dal, dahi and chutney.",189.0
+Paratha,Palak Paneer Paratha,1,0,"Served with dal, dahi and chutney.",189.0
+Paratha,Paneer Paratha,1,0,"Served with dal, dahi and chutney.",209.0
+Paratha,Double Cheese Mix Paratha,1,0,,269.0
+Snacks,Chole Bhature,1,0,Chole+2 Bhature+Salad [Subject to Availability,178.0
+Snacks,Chole Kulcha,1,0,Chole+2 Kulcha+Salad [Subject to Availbility],169.0
+Snacks,Jain Chole Bhature,1,0,Chole+2 Bhature+Salad [Subject to Availability],178.0
+Snacks,Jain Chole Kulche,1,0,Chole+2 Kulcha+Salad [Subject to Availability],169.0
+Accompaniments,Roasted Papad,1,0,"Crispy ,Tasty and not fried",35.0
+Accompaniments,Fried Papad,1,0,Crispy and Best add on for your Meal,40.0
+Accompaniments,Masala Papad,1,0,Crispy Papad with Fresh cut Veggis,50.0
+Accompaniments,Curd,1,0,,70.0
+Accompaniments,Chana Masala [400 grams],1,0,,169.0
+Accompaniments,Dal Tadka [400 grams],1,0,,169.0
+Drinks (Beverages),Punjabi Sweet Lassi,1,0,Punjabi style lassi.,80.0
+Drinks (Beverages),Buttermilk,1,0,Tasty and fresh Masala Buttermilk,40.0

@@ -1,0 +1,75 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Classic Momos (6pcs),Cheese Chilli Corn Momos,1,0,"Made from refined Flour Dough Stuffed with Minced Vegetables and Loaded with Cheese, ... read more",190.0
+Classic Momos (6pcs),Cheese Momos,1,0,Made from refined Flour Dough Stuffed with Minced Vegetables and Loaded with ... read more,190.0
+Classic Momos (6pcs),Jain Mix Veg. Momos,1,0,"Made from refined Flour Dough Stuffed with Minced Vegetables, Sprinkled with Seasoning (Jain)",170.0
+Classic Momos (6pcs),Jain Paneer Cheese Mix Momos,1,0,"Made from refined Flour Dough Stuffed with Minced Vegetables and Loaded with Paneer, ... read more",200.0
+Classic Momos (6pcs),Mix Veg. Momos,1,0,"Made from refined Flour Dough Stuffed with Minced Vegetables, Sprinkled with Seasoning",150.0
+Classic Momos (6pcs),Paneer Cheese Mix Momos,1,0,"Made from refined Flour Dough Stuffed with Minced Vegetables and Loaded with Paneer, ... read more",190.0
+Classic Momos (6pcs),Paneer Momos,1,0,"Made from refined Flour Dough Stuffed with Minced Vegetables and Loaded with Paneer, ... read more",170.0
+Signature Momos (6pcs),Kurkure Mix Veg. Momos,1,0,"KFC style Fried Momos made from refined Flour Dough Stuffed with Minced Vegetables, ... read more",200.0
+Signature Momos (6pcs),Kurkure Paneer Cheese Mix Momos,1,0,KFC style Fried Momos made from refined Flour Dough Stuffed with Minced Vegetables ... read more,230.0
+Signature Momos (6pcs),Kurkure Peri Peri Mix Veg. Momos,1,0,"KFC style Fried Momos made from refined Flour Dough Stuffed with Minced Vegetables, ... read more",220.0
+Signature Momos (6pcs),Maggi Momos,1,0,"Made from refined Flour Dough Stuffed with Maggi Noodles, Sprinkled with Seasoning",150.0
+Signature Momos (6pcs),Palak Paneer Momos,1,0,"Made from refined Flour Dough Stuffed with Minced Palak and Paneer, Sprinkled with ... read more",170.0
+Signature Momos (6pcs),Pizza Momos,1,0,"Veg Fried Momos combined with Pizza Sauce and loaded with onions, capsicum, olives ... read more",250.0
+Chef Special Momos( 6pcs),Cheesey Afgani Momos,1,0,Veg Fried Momos stirred in creamy white sauce with stir fried onions and ... read more,270.0
+Chef Special Momos( 6pcs),Schezwan Gravy Momos,1,0,Veg Fried Momos stirred in spicy Schezwan sauce with stir fried onions and ... read more,250.0
+Chef Special Momos( 6pcs),Tandoori Sauce Momos,1,0,Veg Fried Momos stirred in rich tandoori sauce with stir fried onions and ... read more,270.0
+Chef Special Momos( 6pcs),Tangy Red Gravy Momos,1,0,Veg Fried Momos stirred in special sauce with stir fried onions and capsicum,250.0
+Momos Platter,Cheese Momos Platter,1,0,Paneer Cheese Mix Momos(4pcs)+Cheese Corn Momos(4pcs)+Maggi Momos(4pcs)+Cold Drink (200ml),450.0
+Momos Platter,Kurkure Momos Platter (Fried),1,0,(Fried) Kurkure Mix Veg. Momos(4pcs)+Kurkure Paneer Cheese Momos(4pcs)+Maggi Momos(4pcs)+Cold Drink(200ml),500.0
+Momos Platter,Special Momos Party Platter (Steam And Fried Mix),1,0,"Veg Momos (2pcs Steam,2pcs Fried)+Paneer Cheese Momos(2+pcs Steam,2pcs Fried)+Cheese Corn Momos(2pcs Steam,2pcs Fried)+Maggi ... read more",800.0
+Momos Platter,Veg. Momos Platter,1,0,Veg Momos(4pcs)+Cheese Corn Momos(4pcs)+Maggi Momos(4pcs)+Cold Drink (200ml),420.0
+Party Combo,Cheeese Garlic Bread(3Pcs) Combo,1,0,Cheeese Garlic Bread(3pcs) + Cheese Nachos Platter With Salsa Dip + Cold Drink(200ml),300.0
+Party Combo,Cheese Garlic Bread(3Pcs)+ Masala French Fries + Cold Drink(200Ml),1,0,Cheese Garlic Bread(3pcs)+ Masala French Fries + Cold Drink(200ml),300.0
+Party Combo,Cheese Masala Maggi + Spring Roll(3Rolls)+ Cold Drink(200Ml),1,0,Cheese Masala Maggi + Spring Roll(3Rolls)+ Cold Drink(200ml),320.0
+Party Combo,Fresh Farmhouse Pizza(7Inch) Combo,1,0,Fresh Farmhouse Pizza(7inch) + Cheese Garlic Bread(3pcs) + Cold Drink(200ml),450.0
+Party Combo,Margherita Pizza(7Inch) + Cheese Garlic Bread(3Pcs) Combo,1,0,Margherita Pizza(7inch) + Cheese Garlic Bread(3pcs) + Cold Drink(200ml),350.0
+Party Combo,Mexicana Pizza(7Inch) + Salted French Fries + Cold Drink(200Ml),1,0,Mexicana Pizza(7inch) + Salted French Fries + Cold Drink(200ml),410.0
+Party Combo,Paneer Cheese Steam Momos [6Pcs] Combo,1,0,Paneer Cheese Steam Momos [6pcs] + Peri Peri French Fries + Cold Drink(200ml),350.0
+Party Combo,Veg Fried Momos(6Pcs) + Mini Aloo Samosa(4Pcs) + Cold Drink(200Ml),1,0,Veg Fried Momos(6pcs) + Mini Aloo Samosa(4pcs) + Cold Drink(200ml),310.0
+Party Combo,Veg Steam Momos(6Pcs) + Masala Maggi + Cold Drink(200Ml),1,0,Veg Steam Momos(6pcs) + Masala Maggi + Cold Drink(200ml),270.0
+Pizza (7Inch - Jain Not Available),Fresh Farm House Pizza,1,0,"Pizza bread with fresh inhouse pizza sauce topped with Baby Corn,Onion,Capcium, Olives and ... read more",300.0
+Pizza (7Inch - Jain Not Available),Italian Pizza,1,0,"Pizza bread with fresh inhouse pizza sauce topped with Onion,Capcium, Olives and 5 ... read more",250.0
+Pizza (7Inch - Jain Not Available),Margherita Pizza (5 Types Of Cheese),1,0,Pizza Bread with Fresh Inhouse Pizza Sauce and 5 Types Of Cheese (Jain ... read more,200.0
+Pizza (7Inch - Jain Not Available),Mexican Delight Pizza,1,0,"Pizza bread with fresh inhouse pizza sauce topped with Sweet Corn,Onion,Capcium, Olives and ... read more",250.0
+Pizza (7Inch - Jain Not Available),Tandoori Paneer Pizza,1,0,"Pizza bread with fresh inhouse pizza sauce topped with Onion,Capcium,Tandoori Paneer, Olives and ... read more",280.0
+Garlic Bread (3Pcs),Cheese Chilli Garlic Bread,1,0,"Buttery rich bread infused with garlic, baked with cheese and topped with chilly",130.0
+Garlic Bread (3Pcs),Cheese Corn Garlic Bread,1,0,"Buttery rich bread infused with garlic, baked with cheese and topped with corn",150.0
+Garlic Bread (3Pcs),Cheese Onion Garlic Bread,1,0,"Buttery rich bread infused with garlic, baked with cheese and topped with onion",150.0
+Garlic Bread (3Pcs),Cheese Spicy Paneer Garlic Bread,1,0,"Buttery rich bread infused with garlic, baked with cheese and topped with marinated ... read more",170.0
+Maggi,Cheese Masala Maggi,1,0,,150.0
+Maggi,Double Masala Maggi,1,0,,120.0
+Maggi,Masala Maggi,1,0,,100.0
+Maggi,Schezwan Cheese Maggi,1,0,,180.0
+Maggi,Schezwan Maggi,1,0,,130.0
+French Fries,Cheese French Fries,1,0,,190.0
+French Fries,Masala French Fries,1,0,,150.0
+French Fries,Peri Peri French Fries,1,0,,160.0
+French Fries,Pizza French Fries,1,0,,200.0
+French Fries,Salted French Fries,1,0,,140.0
+Premium IceTea,Lemon Iced Tea,1,0,Refreshing drink with lemony zest,100.0
+Premium IceTea,Peach Iced Tea,1,0,Get the subtle hint of fuitiness with this drink,100.0
+Mocktails,Blueberry Mocktail,1,0,"The blueberry is our version of a tangy,sweetish flavoured soda. The flavour balances ... read more",100.0
+Mocktails,Green Apple Mocktail,1,0,This flavour is as good as biting into a crisp juicy apple. The ... read more,100.0
+Mocktails,Mint Mojito Mocktail,1,0,"The Latest from the momos house is our minty, fizzy and sparkling ""Mojito"". ... read more",100.0
+Mocktails,Pinacolada Mocktail,1,0,"Adelectable combination of pineapple and a hint of coconut, with the perfect fizz. ... read more",100.0
+Premium Cold Coffee,Cold Chocolate Coffee,1,0,"Milk blended with coffee, chocolate spread, vanilla icecream and ice.",170.0
+Premium Cold Coffee,Cold Coffee,1,0,"Milk blended with coffee, vanilla icecream and ice. A classic favourite.",150.0
+Premium Cold Coffee,Cold Hazelnut Coffee,1,0,"Milk blended with coffee, nutella spread, vanilla icecream and ice",190.0
+Quick Bites,Cheese Nachos With Salsa Dip,1,0,,150.0
+Quick Bites,Cheese Paneer Samosa (6 Pcs),1,0,,200.0
+Quick Bites,Chinese Samosa (6Pcs),1,0,,180.0
+Quick Bites,Mini Aloo Samosa (6Pcs),1,0,,180.0
+Quick Bites,Spring Roll (3 Rolls),1,0,,150.0
+Premium Cold Coco,Almond Cold Coco,1,0,,100.0
+Premium Cold Coco,Brownie Cold Coco,1,0,,120.0
+Premium Cold Coco,Classic Cold Coco,1,0,,80.0
+Premium Cold Coco,Cold Coco With Chocolate Chips,1,0,,100.0
+Premium Cold Coco,Cold Coco With Ice Cream,1,0,,120.0
+Premium Cold Coco,Kaju Cold Coco,1,0,,120.0
+Pasta,Penne Pink Sauce Pasta,1,0,,170.0
+Pasta,Penne Red Sauce Pasta,1,0,,170.0
+Pasta,Penne White Sauce Pasta,1,0,,170.0
+Biryani,Paneer Hydrabadi Dum Biryani,1,0,,200.0
+Biryani,Veg. Hydrabadi Dum Biryani,1,0,,180.0

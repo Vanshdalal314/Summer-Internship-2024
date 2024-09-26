@@ -1,0 +1,53 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Main Course,Sev Tamatar,1,0,A tangy and spicy dish made with fresh green tomatoes and spices. This ... read more,89.0
+Main Course,Rasawala Bataka,1,0,A crunchy and flavorful dish of deep-fried whole Potato with a blend of ... read more,89.0
+Main Course,Kathol Sabzi,1,0,A quintessential North Indian that is rich in flavor and texture. The perfect ... read more,89.0
+Main Course,Gathiya Subji,1,0,"A delectable dish made with a variety of vegetables and spices, Gathiy Subji ... read more",89.0
+Main Course,Lasaniya Batata,1,0,"A delicious blend of potato and green peas, garnished with coriander leaves and ... read more",109.0
+Main Course,Chole Chana,1,0,A traditional yet flavourful preparation of chickpeas in a spicy and tangy tomato-based ... read more,109.0
+Main Course,Bharela Ringan Batata,1,0,A spicy and tangy potato dish with a crunchy outer shell. A perfect ... read more,109.0
+Main Course,Aloo Sukhi Bhaji,1,0,Crispy potato cubes with a hint of spices and herbs for a perfect ... read more,109.0
+Main Course,Dahi Tikhari,1,0,A spicy and creamy yogurt-based stew with a rich blend of aromatic spices. ... read more,109.0
+Main Course,Ringan Ditiya,1,0,A wholesome and flavorful dish with fresh vegetables and a spicy kick from ... read more,119.0
+Main Course,Aakhi Dungali,1,0,Little onion with gravy.,119.0
+Main Course,Bharela Ringan,1,0,A tangy and spicy bharela ringan that is perfect for a quick snack ... read more,119.0
+Main Course,Aloo Matar,1,0,"A wholesome vegetarian dish made with potatoes and green peas, cooked in a ... read more",119.0
+Main Course,Dahi Bhindi,1,0,A classic North Indian dish made with tender okra sautéed in a creamy ... read more,135.0
+Main Course,Bhindi Batata,1,0,Crisp and spicy mixed vegetables cooked with tender baby potatoes. A perfect side ... read more,129.0
+Main Course,Bhindi Masala,1,0,"Crisp, tender okra cooked in a flavorful gravy with tomatoes, onions, and spices. ... read more",139.0
+Main Course,Dum Aloo,1,0,"A mouth-watering blend of potatoes, peas, spices and herbs that will leave you ... read more",175.0
+Main Course,Chole Paneer,1,0,,189.0
+Main Course,Makai Paneer,1,0,,189.0
+Main Course,Matar Paneer,1,0,,189.0
+Main Course,Paneer Bhurji,1,0,,229.0
+Main Course,Paneer Tikka,1,0,,229.0
+Main Course,Paneer Toofani,1,0,,239.0
+Main Course,Butter Paneer,1,0,,239.0
+Main Course,Paneer Handi,1,0,,279.0
+Main Course,Paneer Kadai,1,0,,279.0
+Main Course,Paneer Balti,1,0,,279.0
+Main Course,Kaju Gathiya,1,0,,239.0
+Main Course,Kaju Paneer,1,0,,239.0
+Main Course,Kaju Lasan,1,0,,239.0
+Main Course,Kaju Curry,1,0,,249.0
+Main Course,Kaju Masala,1,0,,249.0
+Main Course,Kaju Balti,1,0,,289.0
+Main Course,Kaju Butter Masala,1,0,,319.0
+Main Course,Cheese Paneer Masala,1,0,,299.0
+Main Course,Cheese Paneer Butter Masala,1,0,,319.0
+Breads,Phulka Butter Roti,1,0,,11.0
+Rice,Rice,1,0,,40.0
+Rice,Gujarati Dal,1,0,,40.0
+Rice,Dal Rice,1,0,,80.0
+Rice,Jeera Rice,1,0,,99.0
+Rice,Dal Fry,1,0,"A comforting bowl of dal fry, made with a blend of lentils and ... read more",109.0
+Rice,Dal Fry Butter,1,0,,139.0
+Rice,Dal Fry Tadka,1,0,"A comforting and flavorful dish with aromatic spices, this dish is perfect for ... read more",149.0
+Rice,Jeera Rice and Dal Fry,1,0,,199.0
+Rice,Jeera Rice and Dal Fry Tadka,1,0,,239.0
+Desserts and Beverage,Special Buttermilk,1,0,,25.0
+Desserts and Beverage,Kesar Keri No Ras [250 ml],1,0,Kesar keri no ras.,85.0
+Desserts and Beverage,Dry Fruit Shrikhand,1,0,,69.0
+Accompaniments,Papad,1,0,,25.0
+Accompaniments,Garlic Chutney,1,0,,29.0
+Accompaniments,Dahi,1,0,,39.0

@@ -1,0 +1,121 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Veg Biryani,1,0,"Vegetable biryani is an aromatic rice dish made with basmati rice, mixed veggies, herbs ... read more",240.0
+Biryani,Kuska,1,0,,210.0
+Biryani,Egg Biryani [1 Egg],1,0,"Fragrant basmati rice cooked with an aromatic biryani spices, herbs & boiled egg to ... read more",225.0
+Biryani,Chicken Biryani,1,0,A flavorful dish of chicken cooked with aromatic spices and served with a ... read more,280.0
+Biryani,Chicken Mughlai Biryani,1,0,,325.0
+Biryani,Chicken 65 Biryani,1,0,"However, it incorporates the spicy and tangy flavors of chicken 65, a popular ... read more",339.0
+Biryani,Mutton Biryani,1,0,"A flavorful dish of tender pieces of mutton, cooked in a rich aromatic ... read more",365.0
+Biryani,Mutton Mughlai Biryani,1,0,,399.0
+Biryani,Prawns Biryani,1,0,,379.0
+Biryani,Chicken Bucket Biryani,1,0,,1470.0
+Biryani,Mutton Bucket Biryani,1,0,,1850.0
+Soups,Veg Sweet Corn Soup,1,0,,99.0
+Soups,Veg Hot and Sour Soup,1,0,,99.0
+Soups,Veg Manchow Soup,1,0,,99.0
+Soups,Chicken Pepper Soup,1,0,,150.0
+Soups,Chicken Manchow Soup,1,0,,149.0
+Soups,Chicken Hot and Sour Soup,1,0,,150.0
+Soups,Mutton Pepper Soup,1,0,,166.0
+Tandoori & Grill Chicken,Grilled Chicken,1,0,Grilling is a form of cooking that involves heat applied to the surface of ... read more,310.0
+Tandoori & Grill Chicken,Pepper Grilled Chicken,1,0,The four main flavor profiles that most people are familiar with in pepper ... read more,320.0
+Tandoori & Grill Chicken,Tandoori Chicken,1,0,"A chicken marinated in yogurt and generously spiced, giving the meat its trademark ... read more",310.0
+Starters,Chicken Lollipop,1,0,Chicken lollipop is a popular Indo Chinese appetizer where a frenched chicken drumette is marinated and ... read more,280.0
+Starters,Chilli Chicken,1,0,Chilli chicken is a popular Indo Chinese dish that uses chicken and is of ... read more,280.0
+Starters,Boneless Chicken 65,1,0,Dry chicken 65 [mixed of indian herbs on marinated] & deep fried chicken dry.,280.0
+Starters,Chicken 777,1,0,,309.0
+Starters,Lemon Pepper Chicken,1,0,"We coat the chicken in a thick, olive oil based herb paste flavored with ... read more",309.0
+Starters,Roasted Honey Garlic Chicken,1,0,,309.0
+Starters,Chicken Pepper Fry,1,0,"Spices to roast, whole black pepper, fennel seeds and coriander seeds are first roasted ... read more",309.0
+Starters,Chicken Manchurian,1,0,Manchurian is a class of Indian Chinese dish made by roughly chopping and ... read more,295.0
+Starters,Chicken Lollipop Manchurian,1,0,"Mixed chicken with soya sauce, salt, ginger garlic paste, red chilli powder, mixed ... read more",295.0
+Starters,Schezwan Dragon Chicken,1,0,"The Indo Chinese dragon chicken is a combination of schezwan sauce, boneless chicken, ... read more",320.0
+Starters,Honey Lollipop,1,0,,295.0
+Starters,Mutton Pepper Fry,1,0,,399.0
+Starters,Mutton Chukka Fry,1,0,,399.0
+Starters,Mutton Varuval,1,0,,399.0
+Starters,Nethili Fry,1,0,,269.0
+Starters,Vanjaram Varuval,1,0,,315.0
+Starters,Prawns 65,1,0,,350.0
+Starters,Prawn Pepper Fry,1,0,,369.0
+Starters,Crab Lollipop,1,0,,325.0
+Starters,Fish Fingers,1,0,,320.0
+Starters,Gobi 65,1,0,,230.0
+Starters,Mushroom 65,1,0,,230.0
+Starters,Gobi Manchurian,1,0,,239.0
+Starters,Paneer 65,1,0,,230.0
+Starters,Boiled Egg [1 Egg],1,0,,25.0
+Starters,Masala Omelette,1,0,,90.0
+Starters,Egg Podimas,1,0,,115.0
+Starters,Masala Kalaki,1,0,,65.0
+Main Course,Chicken Chettinad,1,0,,280.0
+Main Course,Chicken Pepper Masala,1,0,,269.0
+Main Course,Butter Chicken Masala,1,0,,290.0
+Main Course,Kadai Chicken,1,0,,269.0
+Main Course,Malabar Chicken Curry,1,0,,280.0
+Main Course,Chicken Tikka Masala,1,0,,309.0
+Main Course,Egg Masala [1 Egg],1,0,,169.0
+Main Course,Mutton Pepper Masala,1,0,,379.0
+Main Course,Mutton Chettinad,1,0,,379.0
+Main Course,Paneer Butter Masala,1,0,,250.0
+Main Course,Paneer Tikka Masala,1,0,,280.0
+Main Course,Kadai Paneer,1,0,,255.0
+Main Course,Mushroom Masala,1,0,,250.0
+Main Course,Prawns Pepper Gravy,1,0,,379.0
+Breads,Chapati,1,0,,70.0
+Breads,Kerala Parotta,1,0,,70.0
+Breads,Wheat Parotta,1,0,,77.0
+Breads,Veechu Parotta,1,0,,90.0
+Breads,Aloo Parotta,1,0,,115.0
+Breads,Paneer Parotta,1,0,,135.0
+Breads,Plain Naan,1,0,,70.0
+Breads,Butter Naan,1,0,,77.0
+Breads,Garlic Naan,1,0,,80.0
+Breads,Tandoori Roti,1,0,,77.0
+Breads,Wheat Egg Kothu Parotta,1,0,,190.0
+Breads,Ceylon Egg Parotta,1,0,,219.0
+Breads,Egg Kothu Parotta,1,0,,190.0
+Breads,Chicken Kothu Parotta,1,0,,210.0
+Breads,Ceylon Chicken Parotta,1,0,,239.0
+Breads,Wheat Chicken Kothu Parotta,1,0,,230.0
+Breads,Mutton Kothu Parotta,1,0,,339.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,205.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,240.0
+Fried Rice and Noodles,Mushroom Fried Rice,1,0,,240.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,240.0
+Fried Rice and Noodles,Egg Fried Rice,1,0,,205.0
+Fried Rice and Noodles,Egg Schezwan Fried Rice,1,0,,260.0
+Fried Rice and Noodles,Chicken Fired Rice,1,0,,255.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,1,0,,280.0
+Fried Rice and Noodles,Veg Noodles,1,0,,205.0
+Fried Rice and Noodles,Mushroom Noodles,1,0,,240.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,240.0
+Fried Rice and Noodles,Egg Noodles,1,0,,205.0
+Fried Rice and Noodles,Egg Schezwan Noodles,1,0,,260.0
+Fried Rice and Noodles,Chicken Noodles,1,0,,255.0
+Desserts,Bread Halwa [250 Grams],1,0,,160.0
+Desserts,Bread Halwa with Ice Cream,1,0,,219.0
+Desserts,Aasife Special Falooda,1,0,[Chef's Special],255.0
+Desserts,Chocolate Ice Cream,1,0,,140.0
+Desserts,Pista Ice Cream,1,0,,140.0
+Desserts,Butterscotch Ice Cream,1,0,,140.0
+Desserts,Vanilla Ice Cream,1,0,,130.0
+Desserts,Strawberry Ice Cream,1,0,,140.0
+Desserts,Mango Ice Cream,1,0,,140.0
+Desserts,Fruit Salad with Ice Cream,1,0,,219.0
+Drinks (Beverages),Butterscotch Milkshake,1,0,,166.0
+Drinks (Beverages),Mango Milkshake,1,0,,166.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,166.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,166.0
+Drinks (Beverages),Pista Milkshake,1,0,,166.0
+Drinks (Beverages),Mango Milkshake with Ice Cream,1,0,,110.0
+Drinks (Beverages),Chocolate Milkshake with Ice Cream,1,0,,190.0
+Drinks (Beverages),Lime Soda,1,0,,65.0
+Drinks (Beverages),Aasife Special Mojito,1,0,[Non Alcoholic],129.0
+Drinks (Beverages),Apple Juice,1,0,,115.0
+Drinks (Beverages),Pomegranate Juice,1,0,,115.0
+Drinks (Beverages),Pineapple Juice,1,0,,77.0
+Drinks (Beverages),Orange Juice,1,0,,77.0
+Drinks (Beverages),Mosambi Juice,1,0,,77.0
+Drinks (Beverages),Lemon Juice,1,0,,45.0
+Drinks (Beverages),Mint Lemon Juice,1,0,,50.0

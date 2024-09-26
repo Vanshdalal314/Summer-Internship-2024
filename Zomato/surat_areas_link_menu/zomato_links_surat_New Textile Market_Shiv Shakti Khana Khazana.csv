@@ -1,0 +1,19 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Punjabi Thali,Thali,1,0,Shahi Paneer Sabji+Chole+4 Phulka Butter Roti+Jeera Rice+Dal+Papad Churi+Buttermilk+Achar [Dal-Subject to Availability],210.0
+Punjabi Thali,Special Thali,1,0,Shahi Paneer Sabji+Aloo Sabji+5 Phulka Butter Roti+Jeera Rice+Dal+Papad Churi+Buttermilk+Gulab Jamun [1 Piece]+Achar [Dal-Subject ... read more,240.0
+Combos,Aloo Masala Combo,1,0,Aloo Masala+4 Poori or 3 Roti,100.0
+Combos,Shahi Paneer Sabzi Combo,1,0,Shahi Paneer Sabzi+4 Poori or 3 Roti,100.0
+Combos,Chole Sabji Combo,1,0,Chole Sabji+4 Poori or 3 Roti,100.0
+Combos,Shahi Gatta Sabji Combo,1,0,Shahi Gatta Sabji+4 Poori or 3 Roti,100.0
+Combos,Dal with Jeera Rice,1,0,[Subject to Availability],110.0
+Chole Bhature,Chole Bhature [2 Bhature],1,0,,105.0
+Chole Bhature,1 Bhatura,1,0,,25.0
+Main Course,Shahi Paneer,1,0,,160.0
+Main Course,Aloo Masala,1,0,,160.0
+Main Course,Shahi Gatta,1,0,,160.0
+Main Course,Chole,1,0,,160.0
+Roti and Poori,Puri,1,0,,10.0
+Roti and Poori,Butter Phulka Roti,1,0,,12.0
+Accompaniment,Roasted Papad,1,0,,18.0
+Drinks (Beverages),Matka Lassi,1,0,,55.0
+Drinks (Beverages),Masala Chaas,1,0,,20.0

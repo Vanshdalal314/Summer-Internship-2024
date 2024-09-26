@@ -1,0 +1,145 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Shivratri Special Shudh Farali,Farali Thali,1,0,Sabudana Khichdi + Aloo Suki bhaji + Farali Petis + 2 pcs Paratha ... read more,399.0
+Shivratri Special Shudh Farali,Farali Aloo Paratha,1,0,,180.0
+Shivratri Special Shudh Farali,Farali Paratha,1,0,,80.0
+Shivratri Special Shudh Farali,Sabudana Khichadi,1,0,,220.0
+Shivratri Special Shudh Farali,Farali Aloo Suki Bhaji,1,0,,220.0
+Shivratri Special Shudh Farali,Farali Paratha + Farali Raita (200 ML),1,0,,150.0
+Shivratri Special Shudh Farali,Farali Dahi Wada,1,0,,199.0
+Shivratri Special Shudh Farali,Farali Cream Lassi,1,0,,120.0
+Shivratri Special Shudh Farali,Farali Petis (5 Pcs) + Green Chutney,1,0,,220.0
+Shivratri Special Shudh Farali,Farali Raita [200 ml],1,0,,99.0
+Thali,Maharashtrian Thali,1,0,1 Spicy Mix Usal/ Sev Bhaji+1 Spicy Seasonal Veg./ Pithala+4 Butter Roti+Dal Rice/ ... read more,299.0
+Thali,Gujarati Thali,1,0,2 Sabji+4 Butter Roti/ 2 bajri rotlo + mitha dal frice / mithi ... read more,299.0
+Thali,Rajasthani Thali,1,0,2 Sabji+3 Butter Roti/ 2 bajri rotlo +teekha dal rice / teekhi kadhi ... read more,299.0
+Thali,Punjabi Thali,1,0,1 Paneer Sabji+1 Veg Sabji+3 butter tandoori /4 Chapati Butter Roti+Dal Fry+Jeera Rice+Lasoon ... read more,310.0
+Thali,Punjabi Jain Thali,1,0,Paneer Sabji+Veg Sabji+3 Butter Tandoori /4 Chapati Butter Roti+Dal Fry+Jeera Rice+Buttermilk+Roasted Papad+Veg Raita+Salad+Achar+Sweet ... read more,300.0
+Thali,Delux Thali,1,0,Any one soup + Quickbite+1 Kaju Sabji +1 Paneer sabaji +3 Butter Tandoori ... read more,399.0
+Main Course,Cheese Kaju Curry,1,0,,258.0
+Main Course,Kaju Masala,1,0,,258.0
+Main Course,Kaju Paneer,1,0,,258.0
+Main Course,Paneer Tikka Masala Gravy,1,0,,245.0
+Main Course,Cheese Paneer Butter Masala,1,0,"Rich and creamy curry made with cottage cheese cubes, loads of cheese, spices, ... read more",245.0
+Main Course,Shahi Paneer,1,0,,245.0
+Main Course,Navratan Korma,1,0,,219.0
+Main Course,Paneer Lazeez,1,0,,258.0
+Main Course,Paneer Toofani,1,0,,258.0
+Main Course,Paneer Bhurji,1,0,,258.0
+Main Course,Jumbo Paneer Handi,1,0,,245.0
+Main Course,Tawa Paneer,1,0,,245.0
+Main Course,Matar Paneer,1,0,,227.0
+Main Course,Palak Paneer,1,0,,227.0
+Main Course,Paneer Pasanda,1,0,,245.0
+Main Course,Paneer Chatpata,1,0,,245.0
+Main Course,Malai Kofta,1,0,,199.0
+Main Course,Veg Hyderabadi,1,0,,199.0
+Main Course,Veg Jaipuri,1,0,,199.0
+Main Course,Mix Veg,1,0,,135.0
+Main Course,Paneer Angara,1,0,A flavor-packed preparation with paneer cooked in a perfectly seasoned onion-tomato spicy gravy.,258.0
+Main Course,Shiv Shakti Special Veg,1,0,,258.0
+Main Course,Veg Makhanwala,1,0,,245.0
+Main Course,Green Peas Mattar,1,0,,199.0
+Main Course,Veg Kolhapuri,1,0,,245.0
+Main Course,Aloo Matar,1,0,,165.0
+Main Course,Chana Masala,1,0,,165.0
+Main Course,Aloo Palak,1,0,,165.0
+Main Course,Rajwadi Dhokli,1,0,,165.0
+Main Course,Shahi Undhiyu,1,0,,165.0
+Main Course,Rigan Auro Bhartu,1,0,,165.0
+Main Course,Dahi Fry Tikhari,1,0,,165.0
+Main Course,Methi Vadi,1,0,,165.0
+Main Course,Fry Bhindi,1,0,,165.0
+Main Course,Dal Fry,1,0,Lentils tampered with butter cummin seed & red chilli powder served hot .,149.0
+Main Course,Dal Tadka,1,0,"Boil lentils with onions, tomato, green chillies, garlic and turmeric powder till lentils ... read more",175.0
+Main Course,Dal Makhani,1,0,,219.0
+Main Course,Kathiyawadi Mithi Dal,1,0,,149.0
+Main Course,Mung Masala,1,0,,199.0
+Main Course,Rajma Masala,1,0,,199.0
+Main Course,Udad Dal,1,0,,199.0
+Rajasthani Desi Taste,Besan Gatta,1,0,,165.0
+Rajasthani Desi Taste,Special Hot Lasoon Chutney,1,0,,165.0
+Rajasthani Desi Taste,Kadi Pakoda,1,0,,165.0
+Gujarati Taste,Sev Tomato,1,0,,199.0
+Gujarati Taste,Bhindi Masala,1,0,"A north Indian curry dish made with tender bhindi, onions, tangy tomatoes, bold ... read more",165.0
+Gujarati Taste,Dal Dhokli,1,0,,165.0
+Gujarati Taste,Kaju Gathiya,1,0,,199.0
+Gujarati Taste,Soyabean Vadi,1,0,,165.0
+Breads,Tandoori Plain,1,0,,20.0
+Breads,Tandoori Butter,1,0,,35.0
+Breads,Tandoor Butter Kulcha,1,0,,60.0
+Breads,Tandoor Cheese Naan,1,0,,79.0
+Breads,Tandoor Garlic Naan,1,0,,65.0
+Breads,Tandoor butter naan,1,0,,50.0
+Breads,Tandoor plain naan,1,0,,45.0
+Breads,Tandoor butter paratha,1,0,,50.0
+Breads,Plain Tawa Paratha,1,0,,45.0
+Breads,Butter Tawa Paratha,1,0,,50.0
+Breads,Kadai Fry Paratha,1,0,,55.0
+Breads,Plain Chapati Roti,1,0,,20.0
+Breads,Butter Chapati Roti,1,0,,25.0
+Breads,Swami Butter Roti,1,0,,25.0
+Breads,Phulka Butter Roti,1,0,,25.0
+Breads,Lachha Ring Paratha,1,0,,70.0
+Breads,Aloo Paratha Butter,1,0,A deliciously soft aloo paratha with generous stuffing served with butter.,119.0
+Breads,Methi Thepla,1,0,,35.0
+Breads,8 Puri,1,0,,99.0
+Breads,Bhakhri,1,0,,50.0
+Breads,Bajri Butter Rotlo,1,0,,40.0
+Breads,Missi Roti,1,0,,99.0
+Rice and Biryani,Plain Rice,1,0,,90.0
+Rice and Biryani,Jeera Rice,1,0,"A fflavorful Indian rice dish made by cooking basmati rice with ghee, cumin ... read more",170.0
+Rice and Biryani,Masala Rice,1,0,,199.0
+Rice and Biryani,Gujarati Dal Rice,1,0,,180.0
+Rice and Biryani,Veg Biryani,1,0,,245.0
+Rice and Biryani,Paneer Biryani,1,0,,255.0
+Rice and Biryani,Veg Hydrabad Biryani,1,0,,245.0
+Rice and Biryani,Kadi Khichadi,1,0,,199.0
+Rice and Biryani,Tawa Pulao,1,0,,219.0
+Rice and Biryani,Paneer Pulao,1,0,,245.0
+Rice and Biryani,Kaju Pulao,1,0,,260.0
+Rice and Biryani,Green Pulao,1,0,,220.0
+Rice and Biryani,Kashmiri Pulao,1,0,,245.0
+Accompaniments,Green Salad,1,0,,99.0
+Accompaniments,Tomato Salad,1,0,,60.0
+Accompaniments,Veg Raita,1,0,,160.0
+Accompaniments,Curd,1,0,,60.0
+Accompaniments,Roasted Papad,1,0,,25.0
+Accompaniments,Fried Papad,1,0,,40.0
+Accompaniments,Masala Papad,1,0,,60.0
+Accompaniments,Plain Raita,1,0,,60.0
+Pav Bhaji,Special Rajwadi Pav Bhaji,1,0,Special rajwadi bhaji [300 ml] with Amul butter and 4 butter pav and ... read more,199.0
+Pav Bhaji,Butter Pav Bhaji,1,0,Served with 4 pav and salad.,199.0
+Pav Bhaji,Paneer Pav Bhaji,1,0,Bhaji 4 pav salad,219.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,Bhaji 4 pav salad,219.0
+Pav Bhaji,Green Pav Bhaji,1,0,Bhaji 4 pav salad,219.0
+Pav Bhaji,Special Pav Bhaji,1,0,Bhaji 4 pav salad,180.0
+Pav Bhaji,Extra Pav [Butter],1,0,,10.0
+Chinese,Chole Bhature with Green Chutney,1,0,2 Bhature,245.0
+Chinese,Extra Bhature,1,0,,40.0
+Chinese,Manchow Soup,1,0,,99.0
+Chinese,Manchurian,1,0,,250.0
+Chinese,Fried Rice,1,0,,220.0
+Chinese,Paneer Chilli,1,0,,269.0
+Litti Chokha and Dal Bati,Special Litti Chokha,1,0,"Bihar, up and jharkhand's sumptuous cuisine, sattu's 5 litti with ghee, roasted chokha ... read more",235.0
+Litti Chokha and Dal Bati,Extra Roasted Chokha [300 ml],1,0,,165.0
+Litti Chokha and Dal Bati,Extra Dal [250 ml],1,0,,129.0
+Litti Chokha and Dal Bati,Roasted Chilli [3 Pieces],1,0,,30.0
+Litti Chokha and Dal Bati,Extra Litti,1,0,,15.0
+Litti Chokha and Dal Bati,Special Dal Bati with ghee gol,1,0,Taste of Marwar Dal+5 Bati+Desi+Butter Milk+Salad+Lasun Chutney/Green Mint Chutney,260.0
+Litti Chokha and Dal Bati,Bati,1,0,,20.0
+Litti Chokha and Dal Bati,Bati Churma[Sweet],1,0,,145.0
+Litti Chokha and Dal Bati,Dal 300ML,1,0,,149.0
+Litti Chokha and Dal Bati,Dry Fruit Bati Churma[ Sweet],1,0,,169.0
+Desserts and Beverages,Shirkand,1,0,,120.0
+Desserts and Beverages,Gulab Jamun [5 Pieces],1,0,,120.0
+Desserts and Beverages,Churma Ladoo [1 Piece],1,0,,40.0
+Desserts and Beverages,Punjabi Kheer,1,0,,130.0
+Desserts and Beverages,Suddh Ghee Gol,1,0,,60.0
+Desserts and Beverages,Buttermilk,1,0,,30.0
+Desserts and Beverages,Plain Lassi,1,0,,99.0
+Desserts and Beverages,Bournvita Lassi,1,0,,120.0
+Desserts and Beverages,Pineapple Lassi,1,0,,120.0
+Desserts and Beverages,Mango Lassi,1,0,,120.0
+Desserts and Beverages,Jeera Soda,1,0,,25.0
+Desserts and Beverages,Lemonade,1,0,,25.0
+Desserts and Beverages,Limbu Soda,1,0,Fresh Limbu Masala Soda,30.0

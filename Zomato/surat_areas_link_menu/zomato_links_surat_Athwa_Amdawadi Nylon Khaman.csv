@@ -1,0 +1,6 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Khaman & Khamni,Amdawadi Nylon Khaman,1,0,,80.0
+Fafda | Idra | Jalebi,Fafda,1,0,,70.0
+Fafda | Idra | Jalebi,Sev ( Bhujiya),1,0,,105.0
+Samosa,Dryfruit Samosa,1,0,,105.0
+Samosa,Cheese Paneer Samosa,1,0,,200.0

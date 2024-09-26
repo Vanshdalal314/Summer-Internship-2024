@@ -1,0 +1,15 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Breakfast,Tea,1,0,,80.0
+Breads,Sada Paratha,1,0,,70.0
+Breads,Methi Paratha,1,0,,80.0
+Breads,Laccha Paratha,1,0,,80.0
+Breads,Methi Laccha Paratha,1,0,,90.0
+Breads,Cheese Paratha,1,0,,90.0
+Breads,Paneer Paratha,1,0,,90.0
+Breads,Aloo Paratha,1,0,,120.0
+Breads,Aloo Cheese Paratha,1,0,,150.0
+Maggi,Masala Maggi,1,0,,70.0
+Maggi,Veg Maggi,1,0,,80.0
+Maggi,Cheese Maggi,1,0,,100.0
+Maggi,Veg Cheese Maggi,1,0,,120.0
+Drinks (Beverages),Cold Coffee,1,0,,80.0

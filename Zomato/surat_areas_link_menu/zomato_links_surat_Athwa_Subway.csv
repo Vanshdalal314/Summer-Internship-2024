@@ -1,0 +1,73 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Create Your Own Sandwiches,Cheese Omelette Sandwich,0,0,A classic for a reason. Our egg and cheese is simply delicious. Enjoy ... read more,192.0
+Create Your Own Sandwiches,Chicken Slice Egg & Cheese Sandwich,0,0,"Start your day the fresh way with high protein fluffy eggs, chicken slices, ... read more",212.0
+Create Your Own Sandwiches,Aloo Patty Sandwich,1,0,"Aloo patty seasoned with special herbs and spices, paired with your choice of ... read more",221.0
+Create Your Own Sandwiches,Veg Seekh Sandwich,1,0,"Delicious kebabs made with Bengal gram, vegetables and spices served along with wholesome ... read more",408.0
+Create Your Own Sandwiches,Veggie Delite Sandwich,1,0,"Delicious combination of fresh lettuce, tomatoes, green peppers, cucumbers, onions, olives and pickles ... read more",202.0
+Create Your Own Sandwiches,Veg Shammi Sandwich,1,0,Experience authentic flavours with kebab made of lentils and enriched with mouth-watering hints ... read more,240.0
+Create Your Own Sandwiches,Paneer Tikka Sandwich,1,0,A tangy twist to your favourite cottage cheese cubes marinated in tandoori sauce ... read more,240.0
+Create Your Own Sandwiches,Corn & Peas Sandwich,1,0,"A delicious assortment of green peas, golden corn and diced carrots, dressed with ... read more",221.0
+Create Your Own Sandwiches,Mexican Patty Sandwich,1,0,A refreshing filling of red and black kidney beans patty topped with aromatic ... read more,240.0
+Create Your Own Sandwiches,Chilli Bean Patty Sandwich,1,0,A refreshing filling of red and black kidney beans patty topped with aromatic ... read more,240.0
+Create Your Own Sandwiches,Roasted Chicken Strip Sandwich,0,0,Classic preparation of succulent strips of smoked chicken served with veggies and sauces ... read more,254.0
+Create Your Own Sandwiches,Tandoori Chicken Tikka Sandwich,0,0,"Hearty chicken marinated with flavorful ingredients like yogurt, garlic and ginger, oven cooked ... read more",254.0
+Create Your Own Sandwiches,Chicken Teriyaki Sandwich,0,0,"Chicken strips glazed with teriyaki sauce, combined with your favourite veggies and topped ... read more",278.0
+Create Your Own Sandwiches,Peri Peri Chicken Sandwich old,0,0,Let your tastebuds travel the world with African peri-peri flavoured chicken served with ... read more,254.0
+Create Your Own Sandwiches,Chicken Slice Sandwich,0,0,"Sliced smoked chicken with your choice of nutritious vegetables, served on a freshly ... read more",254.0
+Create Your Own Sandwiches,Italian Bmt Sandwich,0,0,"Protein-enriched classic Italian B.M.T. sub with a mix of tasty pepperoni, smoked chicken ... read more",278.0
+Create Your Own Sandwiches,B.M.T Sandwich,0,0,"Protein-enriched classic Italian B.M.T. sub with a mix of tasty chicken pepperoni, smoked ... read more",278.0
+Create Your Own Sandwiches,Peri Peri Chicken Sandwich,0,0,Let your tastebuds travel the world with African peri-peri flavoured chicken served with ... read more,254.0
+Create Your Own Sandwiches,Spicy Chicken Keema Sandwich,0,0,Spicy & juicy chicken keema served along with wholesome veggies and packed in ... read more,349.0
+Salads,Aloo Patty Salad,1,0,"Everything but the bread! A combination of perfectly blended aloo patty, tasty veggies ... read more",298.0
+Salads,Veggie Delite Salad,1,0,"Enjoy the simpler things, the veggie delite salad is simply delish. A pile ... read more",298.0
+Salads,Hara Bhara Kabab Salad,1,0,"Want to go green, then go for the hara bhara kebab salad. A ... read more",298.0
+Salads,Paneer Tikka Salad,1,0,Want a familiar taste taken up a notch? Try the Paneer Salad. Perfectly ... read more,298.0
+Salads,Veg Shammi Salad,1,0,Experience authentic Indian flavours with the veg shammi kebab salad. A delicious kebab ... read more,298.0
+Salads,Chilli Bean Patty Salad,1,0,"Want to try something with a kick, then go for the chili bean ... read more",298.0
+Salads,Chicken Slice Salad,0,0,Simple. Delicious. Smoked chicken slices topped on wholesome and nutritious veggies with your ... read more,308.0
+Salads,Chicken Teriyaki Salad,0,0,"Enjoy our teriyaki flavours in a salad. Chicken strips glazed with teriyaki sauce, ... read more",308.0
+Salads,Smoked Chicken Strips Salad,0,0,"Classic preparation of succulent smoked chicken strips, along with your favourite veggies and ... read more",308.0
+Salads,Peri Peri Chicken Salad old,0,0,Let your tastebuds travel the world with African peri-peri flavoured chicken served with ... read more,308.0
+Salads,Tandoori Chicken Tikka Salad,0,0,Hearty chicken marinated with Indian spices and cooked to perfection. This hearty taste ... read more,308.0
+Salads,Italian Bmt Salad old,0,0,Who said salads have to be boring! Turn your favourite sub into a ... read more,308.0
+Salads,B.M.T. Salad,0,0,Who said salads have to be boring! Turn your favourite sub into a ... read more,308.0
+Salads,Peri Peri Chicken Salad,0,0,Let your tastebuds travel the world with African peri-peri flavoured chicken served with ... read more,308.0
+Salads,Spicy Chicken Keema Salad,0,0,Spicy & juicy chicken keema served along with wholesome veggies. Serving size -425 ... read more,308.0
+Signature Wraps,Corn & Peas Signature Wrap,1,0,"Not just colourful, but with double the filling. Double portion of nutritious green ... read more",290.0
+Signature Wraps,Aloo Patty Signature Wrap,1,0,Unique flavours that are truly one of a kind. Double portion of crispy ... read more,290.0
+Signature Wraps,Veggie Delite Signature Wrap,1,0,"A wholesome wrap that gives you double portion of nutritious veggies you love, ... read more",260.0
+Signature Wraps,Veg Shammi Kebab Signature Wrap,1,0,"Double your dose of daily goodness. Enjoy mouth-watering kebab made of lentils, paired ... read more",290.0
+Signature Wraps,Paneer Tikka Signature Wrap,1,0,"Double the yum with double portion of spicy, Paneer marinated in tandoori sauce, ... read more",290.0
+Signature Wraps,Spinach'n Cheese Patty Wrap,1,0,Enjoy a wrap that is filled with double portion of nutritious and ... read more,260.0
+Signature Wraps,Chilli Bean Signature Wrap,1,0,"Enjoy this serving filled with double portion of chili bean patty you love, ... read more",260.0
+Signature Wraps,Chicken Meatball Sig. Wrap,0,0,Enjoy twice the amount of filling with this wrap. Double portion of authentic ... read more,318.0
+Signature Wraps,Chicken Slice Signature Wrap,0,0,Get an explosion of yumminess! Double portion of sliced chicken combined with selected ... read more,318.0
+Signature Wraps,Smoked Chicken Strips Signature Wrap,0,0,A classic that packs the goodness of double the filling. Double portion of ... read more,318.0
+Signature Wraps,Chicken Teriyaki Signature Wrap,0,0,Get double the goodness. Double portion of teriyaki glazed chicken strips along with ... read more,318.0
+Signature Wraps,Tandoori Chicken Tikka Signature Wrap,0,0,Enjoy double the filling in this hearty wrap. Double portion of chicken paired ... read more,318.0
+Signature Wraps,Peri Peri Chicken Sig. Wrap old,0,0,"Double portion of African peri-peri flavoured chicken, along with high protein nutritious veggies ... read more",318.0
+Signature Wraps,Italian Bmt Signature Wrap old,0,0,"A protein overload that's balanced to perfection. Get double portion of chicken pepperoni, ... read more",290.0
+Signature Wraps,B.M.T. Signature Wrap,0,0,"A protein overload that's balanced to perfection. Get double portion of chicken pepperoni, ... read more",290.0
+Signature Wraps,Peri Peri Chicken Signature Wrap,0,0,"Double portion of African peri-peri flavoured chicken, along with high protein nutritious veggies ... read more",318.0
+Signature Wraps,Spicy Chicken Keema Signature Wrap,0,0,Spicy & juicy chicken keema served along with wholesome veggies and packed in ... read more,269.0
+Sides - Try New Crispers,Veg Kebab-5Pcs,1,0,Experience authentic flavours with a kebab made of lentils and enriched with mouth-watering ... read more,129.0
+Sides - Try New Crispers,Veg Kebab + Dip,1,0,,159.0
+Sides - Try New Crispers,Chicken Slice Toastie,0,0,Sliced smoked chicken served with mozzarella cheese and seasoned perfectly. The ultimate snack. ... read more,125.0
+Sides - Try New Crispers,Cheese & Herbs Cornitos,1,0,,28.57
+Sides - Try New Crispers,Peri Peri Chicken Loaded Nachos,0,0,,230.0
+Sides - Try New Crispers,Sizzling Jalapeno Cornitos,1,0,,28.57
+Sides - Try New Crispers,Peri Peri Cornitos,1,0,,28.57
+Sides - Try New Crispers,New Peri Peri Chicken Loaded Nachos,0,0,,230.0
+Desserts,Oatmeal Raisin Cookie (eggless),1,0,Like something extra and sweet add some sweetness with your favourite oatmeal raisin ... read more,90.0
+Desserts,Double Dark Chunk Chocolate Cookie (eggless),1,0,Tasty & chocolatey. Now enjoy your favourite double dark chocolate chunk cookie. Serving ... read more,90.0
+Desserts,Dark Chunk Chocolate Cookie (eggless),1,0,"Craving for chocolate, now enjoy your favourite dark chunk chocolate cookie. Serving size ... read more",90.0
+Desserts,3 Cookies,1,0,,200.0
+Desserts,2 Cookies,0,0,,99.0
+07 Add Ons,2 Pc Dark Chunk Choc Cookies (SAVE upto Rs51),1,0,,99.0
+07 Add Ons,2 Pc Double Dark Choc Cookies (SAVE upto Rs51),1,0,,99.0
+07 Add Ons,2 Pc Oatmeal Raisin Cookies (SAVE upto Rs51),1,0,,99.0
+07 Add Ons,Veg Kebab - 5 Pc (SAVE upto Rs30).,1,0,,99.0
+07 Add Ons,Chicken Meatball - 5 Pc (SAVE upto Rs40).,0,0,,99.0
+07 Add Ons,Veg Kebab(5 Pieces) with Creamy Italian Dip,1,0,,129.0
+07 Add Ons,Chicken Meatballs(5 Pieces) with Creamy Italian Dip,0,0,,129.0
+07 Add Ons,Veg Kebab (3 Pieces),1,0,,99.0

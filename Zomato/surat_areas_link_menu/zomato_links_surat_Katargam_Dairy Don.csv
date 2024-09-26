@@ -1,0 +1,87 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Creams,Vanilla Ice Cream,1,0,,50.0
+Ice Creams,Rich Strawberry Ice Cream,1,0,,50.0
+Ice Creams,Butterscotch Ice Cream,1,0,,65.0
+Ice Creams,Swiss Cake Ice Cream,1,0,,65.0
+Ice Creams,American Nuts Ice Cream,1,0,,65.0
+Ice Creams,Black Currant Ice Cream,1,0,,65.0
+Ice Creams,Chocolate Chips Ice Cream,1,0,,65.0
+Ice Creams,Kaju Draksh Ice Cream,1,0,,65.0
+Ice Creams,Kaju Anjeer Ice Cream,1,0,,75.0
+Ice Creams,Kulfi Nuts Ice Cream,1,0,,75.0
+Ice Creams,Rosa Rose Ice Cream,1,0,,75.0
+Ice Creams,Roasted Almond Anjeer Ice Cream,1,0,,75.0
+Ice Creams,Roasted Almond Chocolate Ice Cream,1,0,,75.0
+Ice Creams,Royal Kesar Pista Ice Cream,1,0,,75.0
+Ice Creams,Tender Coconut Ice Cream,1,0,,75.0
+Ice Creams,Kesar Rajbhog Ice Cream,1,0,,75.0
+Ice Creams,Cream and Cookies Ice Cream,1,0,,85.0
+Sugar Free Ice Creams,Sugarfree Kaju Khajur Slice,1,0,Sugar free kaju khajur ice cream.,75.0
+Sugar Free Ice Creams,Sugarfree Roasted Almond Slice,1,0,Sugar free roasted almond ice cream.,75.0
+Sugar Free Ice Creams,Sugarfree Anjeer Ice Cream,1,0,,75.0
+Master Blaster Icecream,Maharaja Pan [1 Piece],1,0,,70.0
+Master Blaster Icecream,Dry Fruit Cassata [1 Piece],1,0,,85.0
+Falooda,Falooda Rose,1,0,,130.0
+Falooda,Falooda Kesar,1,0,,130.0
+Falooda,Falooda Pineapple,1,0,,130.0
+Falooda,Falooda Chocolate,1,0,,130.0
+Rich Coco,Cold Coco [250 ml],1,0,,80.0
+Rich Coco,Coco Crunch [250 ml],1,0,Coco with Chocolate Chips,110.0
+Rich Coco,Coco Kaju [250 ml],1,0,Coco with Cashew Nuts,130.0
+Rich Coco,Coco With Ice Cream,1,0,Coco with Ice Cream,130.0
+Rich Coco,Don's Special Cold Coco,1,0,"Coco with Ice Cream, chocolate chips and cashew nuts",160.0
+Rich Coco,Kit Kat Coco {250ml},1,0,,135.0
+Rich Coco,Chocolate Swirl Coco,1,0,"Coco, ice cream, kitkat, choco chips, kaju, waffle stick, oreo etc.",185.0
+Thickshakes,Vanilla Thickshake [250 ml],1,0,,110.0
+Thickshakes,Shahi Gulab Thickshake [250 ml],1,0,,110.0
+Thickshakes,Kesar Elaichi Thickshake [250 ml],1,0,,110.0
+Thickshakes,Chikoo Thickshake [250 ml],1,0,,125.0
+Thickshakes,Chocolate Thickshake [250 ml],1,0,,110.0
+Thickshakes,Pineapple Thickshake [250 ml],1,0,,125.0
+Thickshakes,Real Mango Thickshake [250 ml],1,0,,125.0
+Thickshakes,Anjeer Thickshake [250 ml],1,0,,125.0
+Thickshakes,Blackcurrant Thickshake [250 ml],1,0,,125.0
+Thickshakes,Strawberry Thickshake [250 ml],1,0,,125.0
+Thickshakes,Choco Vanilla Thickshake [250 ml],1,0,,149.0
+Thickshakes,Butterscotch Thickshake [250 ml],1,0,,149.0
+Thickshakes,Choco Chips Thickshake [250 ml],1,0,,149.0
+Thickshakes,Chikoo Chocolate Thickshake [250 ml],1,0,,149.0
+Thickshakes,Strawberry Nuts Thickshake [250 ml],1,0,,149.0
+Thickshakes,Kaju Chocolate Thickshake [250 ml],1,0,,149.0
+Thickshakes,Kaju Mango Thickshake [250 ml],1,0,,149.0
+Thickshakes,Pineapple Kaju Thickshake [250 ml],1,0,,149.0
+Thickshakes,Chikoo Kaju Thickshake [250 ml],1,0,,149.0
+Thickshakes,Kaju Badam Thickshake [250 ml],1,0,,149.0
+Thickshakes,Special Kaju Thickshake [250 ml],1,0,,149.0
+Thickshakes,Kaju Anjeer Thickshake [250 ml],1,0,,149.0
+Thickshakes,Kaju Gulkand Thickshake [250 ml],1,0,,149.0
+Thickshakes,Kaju Draksh Thickshake [250 ml],1,0,,149.0
+Thickshakes,Badam Thickshake [250 ml],1,0,,149.0
+Thickshakes,Oreo Thickshake [250 ml],1,0,,149.0
+Thickshakes,Choco Nuts Thickshake [250 ml],1,0,,149.0
+Thickshakes,Badam Pista Thickshake [250 ml],1,0,,149.0
+Thickshakes,Gulabi Masti Thickshake [250 ml],1,0,,149.0
+Thickshakes,Special Dry Fruit Thickshake [250 ml],1,0,,149.0
+Thickshakes,Royal Kesar Pista Thickshake [250 ml],1,0,,149.0
+Thickshakes,Roasted Almond Thickshake [250 ml],1,0,,149.0
+Thickshakes,Roasted Almond Chocolate Thickshake [250 ml],1,0,,149.0
+Thickshakes,Roasted Almond Anjeer Thickshake [250 ml],1,0,,149.0
+Thickshakes,KitKat Thickshake [250 ml],1,0,,149.0
+Thickshakes,Rich Almond Thickshake [250 ml],1,0,,159.0
+Thickshakes,Choco Heaven Thickshake,1,0,,159.0
+Milkshakes,Chikoo Milkshake,1,0,,125.0
+Milkshakes,Kaju Anjeer Milkshake,1,0,Healthy and nutritious kaju anjeer milkshake.,170.0
+Milkshakes,Kaju Chocolate Milkshake,1,0,A refreshing milkshake prepared with chickoo and wholesome milk - perfect to satisfy ... read more,170.0
+Milkshakes,Kaju Gulkand Milkshake,1,0,Refreshing kaju gulkand milkshake.,170.0
+Milkshakes,Kaju Badam Milkshake,1,0,Healthy and nutritious kaju badam milkshake.,170.0
+Milkshakes,Kaju Milkshake,1,0,,170.0
+Milkshakes,Badam Anjeer Milkshake,1,0,Nutritious milkshake prepared with choicest anjeer and almonds.,170.0
+Milkshakes,Special Dry Fruit Milkshake,1,0,,225.0
+Milkshakes,Don's Special Milkshake,1,0,,230.0
+Fresh Juices,Jamun Juice,1,0,Fresh jamun,160.0
+Ice Cream Cakes,Black Forest Cake [1 litre],1,0,,800.0
+Ice Cream Cakes,Golden Fantasy Cake [1 litre],1,0,,880.0
+Ice Cream Cakes,Chocolate Chips Cake [500 ml],1,0,,500.0
+Ice Cream Cakes,Black Forest Pastry,1,0,Eggless ice cream cake with perfect amalgamation of chocolate sponge layer and creamy ... read more,120.0
+Ice Cream Cakes,Golden Fantasy Pastry,1,0,"Eggless ice cream cake layered with vanilla sponge and creamy vanilla ice cream, ... read more",120.0
+Lassi,Lassi,1,0,,70.0

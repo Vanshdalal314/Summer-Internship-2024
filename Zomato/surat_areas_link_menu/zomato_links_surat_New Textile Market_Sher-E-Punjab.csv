@@ -1,0 +1,122 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken Leg Piece,0,0,Irresistibly juicy and crispy chicken leg piece fried to perfection; served with a ... read more,150.0
+Starters,Chicken Manchurian [1 Plate],0,0,"A Chinese dish that is filled with soft and juicy chicken, dipped in ... read more",250.0
+Starters,Chicken Dana,0,0,Our mouthwatering Chicken Dana is a delectable dish that is sure to satiate ... read more,260.0
+Starters,Boneless Chicken Chilli [1 Plate],0,0,"Tender, juicy boneless chicken cooked in a spicy red chilli sauce. A flavorful ... read more",260.0
+Starters,Chicken Malai Kebab,0,0,A juicy boneless chicken pieces made of some ground spices and loaded with ... read more,260.0
+Starters,Chicken 65,0,0,Succulent chicken chunks dipped in a seasoned batter and fried to golden perfection ... read more,260.0
+Starters,Tandoori Chicken,0,0,Tender pieces of chicken marinated in a mouthwatering blend of spices and cooked ... read more,270.0
+Starters,Chicken Tikka,0,0,Super soft chunks of chicken are coated with a spicy and peppery masala ... read more,270.0
+Starters,Boneless Fish Fry [3 Pieces],0,0,"Crispy and tender fish pieces, coated with a flavorful batter, that is perfect ... read more",270.0
+Starters,Fish Fry [3 Pieces],0,0,Crisp and juicy deep fried fish fillets served with a side of tangy ... read more,270.0
+Starters,Chicken Kurkure,0,0,"Crispy fried chicken strips paired with a savory, crunchy seasoning for an indulgent ... read more",280.0
+Starters,Chicken Kurkure [10 Pieces],0,0,Crispy and savory chicken bites with a spicy kick. Perfect for a quick ... read more,280.0
+Starters,Chicken Banjara Kebab,0,0,"Tender chicken marinated in an aromatic spice blend and grilled to perfection, this ... read more",290.0
+Starters,Chicken Malai Tikka [8 Pieces],0,0,Juicy and flavorful chicken pieces marinated in a creamy and aromatic malai sauce.,290.0
+Starters,Chicken Special Golden Tikka [8 Pieces],0,0,Tender pieces of chicken marinated in a special blend of spices and cooked ... read more,290.0
+Starters,Fish Kurkure [8 Pieces],0,0,"A delectable fish snack, these crispy fried fish strips are a tasty and ... read more",290.0
+Starters,Chicken Lollipop [8 Pieces],0,0,"A sweet, juicy and mouth watering treat, these tender chicken lollipop are bursting ... read more",300.0
+Starters,Prawns Chilli,0,0,A spicy dish made with prawns and chilli that is a perfect addition ... read more,330.0
+Starters,Prawns Kurkure [8 Pieces],0,0,"A crispy prawns snack made with prawns and seasoned with spices, coated in ... read more",300.0
+Starters,Mutton Chilli,0,0,"A spicy, tangy dish made with tender mutton meat cooked with a mixed ... read more",350.0
+Starters,Veg Manchurian,1,0,A spicy and tangy bite sized appetizer made of deep fried cauliflower florets ... read more,180.0
+Starters,Paneer Tikka Dry [8 Pieces],1,0,"Crisp and juicy pieces of paneer served with a generous portion of tomato, ... read more",200.0
+Starters,Paneer Shahi Tikka Dry [8 Pieces],1,0,A delectable and juicy paneer dish with a rich and creamy flavor.,200.0
+Starters,Paneer Chilli,1,0,A spicy Indo Chinese starter made by tossing fried paneer in sweet sour ... read more,260.0
+Main Course,Chicken Masala,0,0,Succulent pieces of bone chicken cooked in aromatic and flavorful spiced desi style ... read more,250.0
+Main Course,Chicken Curry,0,0,"Chicken curry, cooked in a rich, fragrant and aromatic gravy.",250.0
+Main Course,Bhuna Chicken,0,0,"A delectable chicken curry, cooked with aromatic spices and herbs for a flavorful ... read more",250.0
+Main Course,Chicken Bhuna Masala,0,0,"Tender chicken cooked with aromatic spices and fresh tomato gravy, creating a flavorful ... read more",260.0
+Main Course,Chicken Handi,0,0,A delightfully flavor-packed creamy chicken handi.,260.0
+Main Course,Boneless Chicken Kadai,0,0,"Tender boneless chicken pieces cooked in a spicy, flavorful curry with a rich ... read more",280.0
+Main Course,Boneless Chicken Shahenaz,0,0,"Tender boneless chicken marinated in a rich blend of yogurt and spices, cooked ... read more",280.0
+Main Course,Chicken Kadai,0,0,,280.0
+Main Course,Chicken Rogan Josh,0,0,Tender chicken pieces cooked in a rich and aromatic Rogan Josha sauce.,290.0
+Main Course,Chicken Tikka Masala,0,0,A rich and creamy dish with succulent pieces of chicken simmered in a ... read more,290.0
+Main Course,Boneless Chicken Baghdadi,0,0,,300.0
+Main Course,Boneless Fish Masala [2 Pieces],0,0,"Boneless pieces of fish cooked in a creamy, spicy and aromatic sauce. This ... read more",300.0
+Main Course,Boneless Butter Chicken,0,0,Boneless Butter chicken a rich and creamy dish with succulent pieces of boneless ... read more,300.0
+Main Course,Bhuna Chicken Gravy,0,0,Tender pieces of chicken cooked in a traditional Indian gravy made with aromatic ... read more,300.0
+Main Course,Special Chicken Sher E Punjab,0,0,"A unique dish that is bursting with flavor, this dish is prepared with ... read more",300.0
+Main Course,Dhaniya Murgh,0,0,"A creamy and flavorful chicken curry with fresh green coriander leaves and cashews, ... read more",310.0
+Main Course,Chicken Hot Pot,0,0,,310.0
+Main Course,Chicken Romania,0,0,"A delicious chicken dish with a rich, creamy sauce and a hint of ... read more",310.0
+Main Course,Chicken Kalmi Masala,0,0,Tender pieces of chicken cooked in a fragrant spice blend and creamy sauce.,325.0
+Main Course,Dal Gosht,0,0,"A spicy, flavorful and aromatic dish made with tender pieces of meat and ... read more",280.0
+Main Course,Mutton Curry,0,0,"A spicy, rich and flavorful dish made with tender pieces of mutton cooked ... read more",280.0
+Main Course,Mutton Masala,0,0,Tender pieces of meat cooked in a spicy and aromatic curry sauce made ... read more,280.0
+Main Course,Bhuna Mutton,0,0,"Tender and juicy pieces of mutton cooked in a flavorful sauce, perfect for ... read more",290.0
+Main Course,Mutton Kadai,0,0,Tender mutton pieces cooked with aromatic spices and green peppers in a rich ... read more,300.0
+Main Course,Mutton Handi,0,0,"Tender and juicy pieces of mutton cooked in a rich, aromatic gravy. A ... read more",300.0
+Main Course,Sher E Punjab Special Mutton,0,0,A rich and creamy dish prepared with tender pieces of mutton in a ... read more,320.0
+Main Course,Mutton Rogan Josh,0,0,A mutton delight slow cooked with a blend of Indian spices.,320.0
+Main Course,Egg Curry,0,0,A hearty dish with a rich flavor of spicy curry that pairs perfectly ... read more,180.0
+Main Course,Egg Bhurji,0,0,"A savory, protein rich breakfast dish made from a creamy, flavorful blend of ... read more",180.0
+Main Course,Egg Masala,0,0,A rich and creamy egg dish cooked with a spicy blend of Indian ... read more,185.0
+Main Course,Dal Fry,1,0,,110.0
+Main Course,Dal Tadka,1,0,Lentils seasoned with a bouquet of fragrant spices,120.0
+Main Course,Aloo Gobi,1,0,"A delightful blend of potato and cauliflower, cooked with aromatic spices, herbs and ... read more",160.0
+Main Course,Aloo Matar,1,0,A delicious dish made with spiced potatoes and green peas in a creamy ... read more,160.0
+Main Course,Dal Makhani,1,0,"Dal makhani is a rich and creamy dish made from black lentils, tomatoes ... read more",160.0
+Main Course,Chana Masala,1,0,"A spicy and flavorful dish made with chickpeas, tomatoes and a blend of ... read more",170.0
+Main Course,Veg Kolhapuri,1,0,A tangy and spicy dish that is a popular street food in India.,180.0
+Main Course,Veg Handi,1,0,A hearty and rich blend of vegetables cooked in a flavorful sauce and ... read more,200.0
+Main Course,Paneer Butter Masala,1,0,"A creamy, rich and flavorful dish made with homemade paneer in a creamy ... read more",210.0
+Main Course,Paneer Bhurji,1,0,A delectable dish prepared with a blend of soft and succulent paneer cooked ... read more,210.0
+Main Course,Paneer Tikka Masala,1,0,Marinated and spiced paneer cubes with red spiced gravy and medium spicy.,215.0
+Main Course,Palak Paneer,1,0,"A creamy and flavorful dish made with fresh spinach, paneer and spices.",215.0
+Main Course,Veg Toofani,1,0,A delicious combination of succulent paneer and vegetables cooked to perfection in a ... read more,220.0
+Main Course,Paneer Handi,1,0,"A rich and creamy curry made with paneer, onion, tomatoes and aromatic spices. ... read more",220.0
+Main Course,Shahi Paneer,1,0,A rich and creamy paneer dish with a flavorful blend of spices and ... read more,230.0
+Main Course,Sher E Punjab Special Veg,1,0,A hearty meal of mixed vegetables cooked with aromatic spices and herbs.,230.0
+Main Course,Paneer Toofani,1,0,A succulent and aromatic dish of soft and creamy paneer cooked in a ... read more,230.0
+Main Course,Special Veg Sher E Punjab,1,0,A classic Punjabi dish with a rich blend of vegetables cooked in a ... read more,230.0
+Main Course,Kaju Curry,1,0,"A rich and creamy curry with cashew nuts, a perfect dish to enjoy ... read more",250.0
+Main Course,Kaju Masala,1,0,"Rich and creamy, this sweet and savory dish is a perfect dessert to ... read more",260.0
+Main Course,Fish Masala,0,0,"A spicy and flavorful fish dish, perfect for a hearty meal.",300.0
+Main Course,Prawns Masala,0,0,A traditional Indian dish made with prawns cooked in a rich and aromatic ... read more,300.0
+Rice and Biryani,Steamed Rice,1,0,This delicious steamed rice is a perfect side dish for a variety of ... read more,120.0
+Rice and Biryani,Jeera Rice,1,0,A flavourful and aromatic rice dish made with jeera and spices. It is ... read more,130.0
+Rice and Biryani,Lemon Rice,1,0,"Lemony and tangy, this rice dish is a simple yet satisfying meal.",170.0
+Rice and Biryani,Veg Pulao,1,0,A wholesome dish prepared by cooking chopped vegetables and rice in a flavorful ... read more,170.0
+Rice and Biryani,Veg Biryani,1,0,"A rich and flavorful dish made with fragrant rice, vegetables, and spices, this ... read more",200.0
+Rice and Biryani,Dal Khichdi,1,0,"A classic dish from the state of Uttar Pradesh, dal khichdi is a ... read more",200.0
+Rice and Biryani,Egg Biryani,0,0,"A flavorful, aromatic and satisfying rice dish with tender and juicy chicken and ... read more",220.0
+Rice and Biryani,Chicken Biryani,0,0,Slow-cooked aromatic rice layered with marinated chicken pieces in a special blend of ... read more,250.0
+Rice and Biryani,Chicken Handi Biryani,0,0,Tender chicken pieces cooked in a traditional clay pot with aromatic spices and ... read more,280.0
+Rice and Biryani,Mutton Biryani,0,0,Deliciously decadent flavored dum rice layered with mutton and Indian whole spices cooked ... read more,320.0
+Rice and Biryani,Prawns Biryani,0,0,"A spicy and flavorful rice dish made with fresh prawns, aromatic spices and ... read more",300.0
+Fried Rice and Noodles,Jeera Fried Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices - perfect ... read more,130.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,Fried rice is a flavorful and versatile dish that can be customized to ... read more,180.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,"A delicious rice dish prepared by frying eggs with rice and vegetables, and ... read more",200.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,A slightly spicy dish made by tossing juicy chicken and rice in a ... read more,240.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,"A flavorful dish with a spicy twist, our chicken schezwan fried rice is ... read more",250.0
+Fried Rice and Noodles,Chicken Singapore Fried Rice,0,0,"Crisp, flavorful rice topped with tender chicken and a variety of fresh vegetables. ... read more",250.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,"Veg noodles in a savory and spicy sauce, tossed with veggies and noodles.",190.0
+Fried Rice and Noodles,Chicken Hakka Noodles,0,0,A delicious bowl of chicken hakka noodles that is sure to satisfy your ... read more,230.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,"A spicy noodles dish with tender chicken, crunchy vegetables and a spicy, sweet ... read more",240.0
+Breads,Roti,1,0,Wheat flour dough flat bread cooked in clay oven,20.0
+Breads,Butter Roti,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",25.0
+Breads,Butter Paratha,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",40.0
+Breads,Butter Naan,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",40.0
+Breads,Butter Kulcha,1,0,"A traditional flatbread with a buttery, flaky and crispy crust.",40.0
+Breads,Missi Butter Roti,1,0,"Crisp and buttery roti, perfect for a light meal.",40.0
+Breads,Garlic Naan,1,0,"A delicious soft, buttery, garlic infused flatbread that pairs perfectly with any meal.",90.0
+Breads,Cheese Naan,1,0,"Cheese naan are a traditional Indian bread that is filled with a creamy, ... read more",100.0
+Breads,Cheese Garlic Naan,1,0,A crispy and cheesy naan with a subtle garlic flavor. Perfect for those ... read more,140.0
+Soups,Chicken Manchow Soup,0,0,@ebbm g RR z . Gg,150.0
+Soups,Chicken Hot and Sour Soup,0,0,A rich and flavorful soup with tender chicken and a spicy hot and ... read more,150.0
+Soups,Veg Sweet Corn Soup,1,0,"A creamy soup made with sweet corn, vegetables and herbs, it is a ... read more",120.0
+Soups,Hot N Sour Soup,1,0,"A spicy and tangy soup, perfect for a cold day.",120.0
+Soups,Veg Manchow Soup,1,0,A soup that brings together a medley of vegetables with a blend of ... read more,130.0
+Snacks,Boiled Egg,0,0,Boiled egg is a nutritious snack that can be enjoyed anytime.,50.0
+Snacks,Egg Omelette,0,0,,130.0
+Accompaniments,Roasted Papad,1,0,"A crunchy and flavorful snack made with a special blend of spices, this ... read more",20.0
+Accompaniments,Fried Papad,1,0,"Crispy and flavorful, this snack is a classic combination of papad, potatoes and ... read more",25.0
+Accompaniments,Masala Papad,1,0,"Crispy papad, bursting with flavor and spice, paired with a creamy, tangy dip.",50.0
+Accompaniments,Curd,1,0,A rich and creamy sauce made with curd and spices. Its a great ... read more,70.0
+Accompaniments,Veg Raita,1,0,A refreshing and creamy yogurt based dish that pairs well with most Indian ... read more,90.0
+Accompaniments,Boondi Raita,1,0,"A refreshing and light yogurt based beverage with a crunchy twist of boondi, ... read more",100.0
+Drinks (Beverages),Buttermilk,1,0,,35.0
+Drinks (Beverages),Sweet Lassi,1,0,Sweet lassi are the perfect balance of tangy and sweet.,70.0
+Drinks (Beverages),Special Lassi,1,0,"Lassi is a traditional Indian beverage that is a delicious, refreshing beverage that ... read more",110.0

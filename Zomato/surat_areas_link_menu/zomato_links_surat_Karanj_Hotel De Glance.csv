@@ -1,0 +1,140 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combo,Bread Basket Combo,1,0,Tandoori Roti+Kulcha+Naan+Lachha Paratha+Missi Roti,195.0
+Soups and Salads,Cream of Tomato Soup,1,0,,180.0
+Soups and Salads,Minestrone Broth Soup,1,0,,195.0
+Soups and Salads,Cream of Mushroom and Roasted Garlic Soup,1,0,,235.0
+Soups and Salads,Veg Lemon Coriander Soup,1,0,,170.0
+Soups and Salads,Veg Hot and Sour Soup,1,0,,170.0
+Soups and Salads,Veg Manchow Soup,1,0,,170.0
+Soups and Salads,Veg Sweet Corn Soup,1,0,,180.0
+Soups and Salads,Non Veg Lemon Coriander Soup,0,0,,235.0
+Soups and Salads,Non Veg Hot and Sour Soup,0,0,,235.0
+Soups and Salads,Non Veg Manchow Soup,0,0,,235.0
+Soups and Salads,Non Veg Sweet Corn Soup,0,0,,235.0
+Soups and Salads,Mutton Paya Shorba,0,0,,245.0
+Soups and Salads,Mutton Pudina Shorba,0,0,,245.0
+Soups and Salads,Russian Salad,1,0,,185.0
+Soups and Salads,Classic Chicken Salad,0,0,,295.0
+Starters,Chilli Chicken,0,0,,325.0
+Starters,Burnt Garlic Chicken,0,0,,325.0
+Starters,Schezwan Chicken,0,0,,325.0
+Starters,Chicken Malai Tikka,0,0,,340.0
+Starters,Chicken Pepper Dry,0,0,,360.0
+Starters,Pineapple Chicken Tikka,0,0,,375.0
+Starters,Chapli Kebab,0,0,,375.0
+Starters,Peshawari Tangdi,0,0,,425.0
+Starters,Pineapple Cheesy Chicken,0,0,,425.0
+Starters,Galouti Kebab,0,0,[Chef's Special],550.0
+Starters,Gosht Pudina Seekh,0,0,,490.0
+Starters,Mutton Gilafi Seekh Kebab,0,0,,510.0
+Starters,Mutton Chaap,0,0,,455.0
+Starters,Mutton Pepper Dry,0,0,,550.0
+Starters,Butter Garlic Fish,0,0,,455.0
+Starters,Lemon Lasooni Fish Tikka,0,0,,455.0
+Starters,Burn Garlic Fish,0,0,,455.0
+Starters,Fried Basa Fish Tawa,0,0,,455.0
+Starters,BBQ Chilli Garlic Prawns,0,0,,455.0
+Starters,Tadoori Prawns,0,0,,455.0
+Starters,Corn Salt and Pepper,1,0,,195.0
+Starters,Veg Manchurian Dry,1,0,,230.0
+Starters,Chilli Paneer,1,0,,235.0
+Starters,Sesame Honey Chilli Potato,1,0,,250.0
+Starters,Crispy Chilli Mushroom,1,0,,295.0
+Starters,Till Dahi Kebab,1,0,,295.0
+Starters,Cajun Spicy Potato,1,0,,295.0
+Starters,Bharwan Kumbh,1,0,,305.0
+Starters,Lemon Garlic Tikka,1,0,,305.0
+Starters,Tandoori Paneer Tikka,1,0,,305.0
+Starters,Honey Chilli Pineapple,1,0,,325.0
+Starters,Cheese Tandoori Soya Chaap,1,0,,325.0
+Main Course,Veg Kadhai,1,0,,315.0
+Main Course,Sabji Nizami ka Mela,1,0,,325.0
+Main Course,Mushroom Matar,1,0,,325.0
+Main Course,Dingri Masala,1,0,,325.0
+Main Course,Palak Paneer,1,0,,340.0
+Main Course,Paneer Tikka Masala,1,0,,340.0
+Main Course,Paneer Rogani,1,0,,345.0
+Main Course,Paneer Butter Masala,1,0,,360.0
+Main Course,Paneer Methi Malai Matar,1,0,,360.0
+Main Course,Paneer Khurchan,1,0,,365.0
+Main Course,Kaju Masala,1,0,,375.0
+Main Course,Kaju Curry,1,0,,375.0
+Main Course,Cheese Kofta Lababdar,1,0,,375.0
+Main Course,Paneer Angara,1,0,,385.0
+Main Course,Dal Fry,1,0,,170.0
+Main Course,Dal Tadka,1,0,,180.0
+Main Course,Dal Makhani,1,0,,260.0
+Main Course,Butter Chicken Masala,0,0,,350.0
+Main Course,Murgh Khada Masala,0,0,,350.0
+Main Course,Chicken Handi,0,0,,350.0
+Main Course,Chicken Tikka Masala,0,0,,375.0
+Main Course,Murgh Kali Mirch,0,0,,415.0
+Main Course,Chicken Angara,0,0,,415.0
+Main Course,Murgh Makhani,0,0,,415.0
+Main Course,Methi Murgh,0,0,,430.0
+Main Course,Chicken Rezala,0,0,,455.0
+Main Course,Laal Maas,0,0,,510.0
+Main Course,Mutton Rogan Josh,0,0,,510.0
+Main Course,Mutton Angara,0,0,,530.0
+Main Course,Mutton Keema,0,0,,585.0
+Main Course,Mutton Matka Curry,0,0,,635.0
+Main Course,Allure Special Mutton,0,0,,700.0
+Main Course,Goan Fish Curry,0,0,,470.0
+Breads,Plain Tandoori Roti,1,0,,40.0
+Breads,Butter Tandoori Roti,1,0,,45.0
+Breads,Plain Tandoori Naan,1,0,,65.0
+Breads,Butter Tandoori Naan,1,0,,70.0
+Breads,Cheese Garlic Naan,1,0,,105.0
+Breads,Garlic Naan,1,0,,85.0
+Breads,Stuffed Cheese Naan,1,0,,105.0
+Breads,Kulcha,1,0,,45.0
+Breads,Butter Kulcha,1,0,,60.0
+Breads,Cheese Kulcha,1,0,,75.0
+Breads,Lachcha Paratha,1,0,,55.0
+Breads,Missi Roti,1,0,,70.0
+Rice and Biryani,Steamed Rice,1,0,,130.0
+Rice and Biryani,Butter Rice,1,0,,170.0
+Rice and Biryani,Jeera Rice,1,0,,170.0
+Rice and Biryani,Ghee Rice,1,0,,180.0
+Rice and Biryani,Subz Dum Biryani,1,0,,270.0
+Rice and Biryani,Lucknowi Dum Chicken Biryani,0,0,,390.0
+Rice and Biryani,Lucknowi Dum Mutton Biryani,0,0,,470.0
+Rice and Biryani,Fish Biryani,0,0,,490.0
+Rice and Biryani,Prawns Biryani,0,0,,490.0
+Fried Rice and Noodles,Veg Burnt Garlic Rice,1,0,,250.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,250.0
+Fried Rice and Noodles,Veg Schezwan Rice,1,0,,275.0
+Fried Rice and Noodles,Veg Lebanese Rice,1,0,,325.0
+Fried Rice and Noodles,Non Veg Burnt Garlic Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Non Veg Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Schezwan Chicken Rice,0,0,,275.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,250.0
+Fried Rice and Noodles,Veg Garlic Fried Noodles,1,0,,275.0
+Fried Rice and Noodles,Veg Singapuri Noodles,1,0,,325.0
+Fried Rice and Noodles,Non Veg Hakka Noodles,0,0,,250.0
+Fried Rice and Noodles,Non Veg Garlic Fried Noodles,0,0,,275.0
+Fried Rice and Noodles,Non Veg Singapuri Noodles,0,0,,325.0
+Pasta,Alfredo Pasta,1,0,,270.0
+Snacks,Cheese Maggi,1,0,,125.0
+Snacks,French Fries,1,0,,125.0
+Accompaniments,Green Salad,1,0,,80.0
+Desserts,Kesari Phirni,1,0,,90.0
+Desserts,Gulab Jamun with Rabdi,1,0,,180.0
+Desserts,Gulab Jamun,1,0,,65.0
+Desserts,Moong Dal Halwa,1,0,,195.0
+Drinks (Beverages),Sweet Lassi,1,0,,145.0
+Drinks (Beverages),Mango Lassi,1,0,,170.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,170.0
+Drinks (Beverages),Peach Iced Tea,1,0,,170.0
+Drinks (Beverages),Hazzle Dazzle Coffee,1,0,,170.0
+Drinks (Beverages),Irish Coffee,1,0,,170.0
+Drinks (Beverages),Cold Coffee,1,0,,185.0
+Drinks (Beverages),Mango Shake,1,0,,170.0
+Drinks (Beverages),Oreo Shake,1,0,,175.0
+Drinks (Beverages),Strawberry Shake,1,0,,190.0
+Drinks (Beverages),Chocolate Shake,1,0,,190.0
+Drinks (Beverages),Dry Fruit Banana Shake,1,0,,195.0
+Drinks (Beverages),Banana Chocolate Shake,1,0,,195.0
+Drinks (Beverages),KitKat Shake,1,0,,195.0
+Drinks (Beverages),Ferrero Rocher Shake,1,0,,325.0
+Drinks (Beverages),Allure Special Shake,1,0,,360.0

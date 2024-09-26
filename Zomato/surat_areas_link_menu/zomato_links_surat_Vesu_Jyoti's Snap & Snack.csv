@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Momos,Steamed Cheese Momos [6 Pieces],1,0,,120.0
+Momos,Fried Cheese Momos [6 Pieces],1,0,,145.0
+Momos,Fried Momos [6 Pieces],1,0,,95.0
+Momos,Fried Paneer Momos [6 Pieces],1,0,,110.0
+Momos,Steamed Paneer Momos [6 Pieces],1,0,,85.0
+Momos,Steamed Veg Momos [6 Pieces],1,0,,70.0
+Sandwiches,Aloo Cheese Toast Sandwich,1,0,,135.0
+Sandwiches,Aloo Toast Sandwich,1,0,,90.0
+Sandwiches,Bread Jam,1,0,,50.0
+Sandwiches,Bread Jam Sandwich,1,0,,55.0
+Sandwiches,Butter Chutney Slice Sandwich,1,0,,30.0
+Sandwiches,Butter Slice Sandwich,1,0,,20.0
+Sandwiches,Cheese Grilled Sandwich,1,0,,210.0
+Sandwiches,Cheese Toast Sandwich,1,0,,90.0
+Sandwiches,Chocolate Sandwich,1,0,,90.0
+Sandwiches,Chocolate Slice Sandwich,1,0,,30.0
+Sandwiches,Chutney Cheese Slice,1,0,,55.0
+Sandwiches,Singh Sev Slice Sandwich,1,0,,35.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,125.0
+Sandwiches,Veg Cheese Toast,1,0,,90.0
+Sandwiches,Vegetable Cheese Sandwich,1,0,,125.0
+Sandwiches,Vegetable Grilled Sandwich,1,0,,160.0
+Sandwiches,Vegetable Sandwich,1,0,,80.0
+Fries,Cheese Fries,1,0,,160.0
+Fries,Mayo Fries,1,0,,155.0
+Fries,Peri Peri Fries,1,0,,120.0
+Fries,Salted French Fries,1,0,,85.0
+Pizza,Capsicum Pizza,1,0,[Regular],125.0
+Pizza,Corn Pizza,1,0,[Regular],125.0
+Pizza,Margherita Pizza,1,0,[Regular],125.0
+Pizza,Onion Pizza,1,0,[Regular],125.0
+Pizza,Tandoori Paneer Pizza,1,0,[Regular],160.0
+Pizza,Tomato Pizza,1,0,[Regular],125.0
+Chaat,Bhel Puri,1,0,,70.0
+Chaat,Cheese Samosa Chaat [Mini],1,0,,120.0
+Chaat,Chinese Bhel,1,0,,70.0
+Chaat,Chips Chaat,1,0,,85.0
+Chaat,Chips Chaat With Cheese,1,0,,140.0
+Chaat,"Samosa [Mini, 6 Pieces]",1,0,,55.0
+Chaat,Samosa Chaat [Mini],1,0,,85.0
+Chaat,Sev Puri,1,0,,70.0
+Puffs,Indori Puff,1,0,,80.0
+Puffs,Indori Puff With Cheese,1,0,,115.0
+Puffs,Chinese Puff [Mini],1,0,,30.0
+Puffs,Paneer Cheese Puff [Mini],1,0,,35.0
+Puffs,Paneer Manchurian Puff,1,0,,70.0
+Puffs,Schezwan Puff,1,0,,85.0
+Puffs,Schezwan Puff With Cheese,1,0,,120.0
+Puffs,Tandoori Paneer Puff,1,0,,105.0
+Puffs,Tandoori Paneer Puff With Cheese,1,0,,140.0
+Puffs,Veg Puff,1,0,,55.0
+Maggi,Cheese Maggi,1,0,,120.0
+Maggi,Coffee Maggi,1,0,,170.0
+Maggi,Double Masala Maggi,1,0,,85.0
+Maggi,Regular Maggi,1,0,,70.0
+Maggi,Veg Maggi,1,0,,105.0
+Jain,Jain Steamed Cheese Momos [6 Pieces],1,0,,120.0
+Jain,Jain Fried Cheese Momos [6 Pieces],1,0,,145.0
+Jain,Jain Fried Paneer Momos [6 Pieces],1,0,,110.0
+Jain,Jain Fried Veg Momos [6 Pieces],1,0,,95.0
+Jain,Jain Cheese Vada Pav,1,0,[Jain Preparation],70.0
+Jain,Jain Puff Pav,1,0,[Jain Preparation],45.0
+Jain,Jain Spring Roll [2 Pieces],1,0,[Jain Preparation],55.0
+Jain,"Jain Samosa [Mini, 6 Pieces]",1,0,[Jain Preparation],55.0
+Jain,Jain Stem Paneer Momos [6 Pieces],1,0,,85.0
+Jain,Jain Cheese PuffPav,1,0,[Jain Preparation],70.0
+Jain,Jain Vada Pav,1,0,[Jain Preparation],35.0
+Jain,Jain Steamed VegMomos [6 Pieces],1,0,,70.0
+Fast Food,Burger,1,0,,80.0
+Fast Food,Cheese Burger,1,0,,110.0
+Fast Food,Cheese Garlic Bread [4 Pieces],1,0,,145.0
+Fast Food,Paneer Burger,1,0,,150.0
+Fast Food,Cheese Paneer Burger,1,0,,175.0
+Pav Special,Cheese Puff Pav,1,0,,70.0
+Pav Special,Cheese Vada Pav,1,0,,70.0
+Pav Special,Chips Pav,1,0,,70.0
+Pav Special,Non Fried Vada Pav,1,0,,35.0
+Pav Special,Non Fried Vada Pav With Cheese,1,0,,70.0
+Pav Special,Puff Pav,1,0,,45.0
+Pav Special,Vada Pav [Regular],1,0,,35.0
+Pav Special,Spring Roll [2 Pieces],1,0,,55.0
+Pav Special,Timepass Pav,1,0,,55.0

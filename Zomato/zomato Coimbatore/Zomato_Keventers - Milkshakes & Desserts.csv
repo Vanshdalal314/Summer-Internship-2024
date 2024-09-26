@@ -1,0 +1,62 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+All New Summer Menu,Masala Lemonade,1,0,Zesty and Spiced! Elevate your taste buds with refreshing Masala Lemonade. Perfect blend ... read more,189.0
+All New Summer Menu,All Berries Milkshake,1,0,"""Berrylicious Bliss! Indulge in All Berry Shake, bursting with the vibrant flavors of ... read more",269.0
+All New Summer Menu,Caramel Popcorn Milkshake,1,0,"""Indulge in the sweet & savory sensation of Caramel Popcorn Shake. A delightful ... read more",269.0
+All New Summer Menu,Java Choco Chip Cold Coffee,1,0,"""A blissful blend of rich Java coffee and indulgent chocolate chips, delivering a ... read more",249.0
+Milkshakes,Kit-Kat Milkshake,1,0,The shake for when you need a break! Chocolate wafers blended with vanilla ... read more,269.0
+Milkshakes,Chocolate Oreo Milkshake,1,0,We took the Oreo dunk to the next level! The good old cream ... read more,269.0
+Milkshakes,Ferrero Rocher Milkshake,1,0,Indulge in a perfect harmony of ferrero rocher and velvety chocolate syrup . ... read more,269.0
+Milkshakes,Choco Chip Milkshake,1,0,Crunchy chocolate chips blended with vanilla ice cream. The shake for when you ... read more,259.0
+Milkshakes,Chocolate Hazelnut Milkshake,1,0,"The earthy, nutty flavours of hazelnut, combined with rich cocoa flavours of chocolate: ... read more",259.0
+Milkshakes,Nutella Milkshake,1,0,"Sip it, don't spread it! A whole lot of Nutella blended with vanilla ... read more",269.0
+Milkshakes,Choco Brownie Milkshake,1,0,"Score some brownie points! A choco brownie with hazelnut and chocolate dressing, blended ... read more",269.0
+Milkshakes,Salted Caramel Milkshake,1,0,A perfect balance of sweet caramel and a hint of saltiness & tiramisu. ... read more,259.0
+Milkshakes,Keventers Strawberry Special Milkshake,1,0,"When we say strawberry, you say yum! Have a swig to know what ... read more",259.0
+Milkshakes,Lotus Biscoff Milkshake,1,0,"A divine blend of Biscoff spread, chocolate cookies, and silky caramel syrup. Enjoy ... read more",269.0
+Milkshakes,Bubblegum Milkshake,1,0,Our way of doing a throwback Thursday. The flavours of pink bubblegum blended ... read more,249.0
+Milkshakes,Kesar Badam Milkshake,1,0,The classic Indian flavours of saffron and almond blended to prepare a drink ... read more,259.0
+Milkshakes,Mango Milkshake,1,0,"India's favourite summer drink, served Keventers style. Mango pulp blended with vanilla ice ... read more",259.0
+Milkshakes,Rasmalai Milkshake,1,0,"The heady flavour of cardamom and saffron, swirled together in the most delectable ... read more",259.0
+Milkshakes,Pineapple Milkshake,1,0,"Bursting with a refreshing pineapple flavour, this milkshake is a tropical paradise in ... read more",189.0
+Milkshakes,Vanilla Milkshake,1,0,"Smooth, rich, and irresistibly delicious - a true crowd-pleaser. Indulge in the timeless ... read more",199.0
+Milkshakes,Classic Strawberry Milkshake,1,0,"When we say strawberry, you say yum! Have a swig to know what ... read more",219.0
+Milkshakes,Butterscotch Milkshake,1,0,Toffee swirls and caramel bits blended with ice cream. A hit from the ... read more,219.0
+Signature Cold Coffees,Caramel Cold Coffee,1,0,The signature taste of our cold coffee drizzled with caramel to satisfy your ... read more,239.0
+Signature Cold Coffees,Classic Cold Coffee,1,0,"Refreshingly cold, bold, creamy and caffeinated. A favourite ever since you can remember! ... read more",219.0
+Signature Cold Coffees,Hazelnut Cold Coffee,1,0,This is a classic flavor combo made with refreshing cold coffee and hazelnut ... read more,239.0
+Thick Shakes,Chocolate Oreo Thick Shake,1,0,Make the Oreo dunk extra delicious with our new Chocolate Oreo thick shake. ... read more,279.0
+Thick Shakes,Chocolate Hazelnut Thick Shake,1,0,The super-rich blend of Hazelnut and Cocoa just got creamier. Serving size - ... read more,279.0
+Thick Shakes,Nutella Thick Shake,1,0,Nutella? In a shake? That's thicker? Sounds like a treat. Serving size - ... read more,279.0
+Thick Shakes,Chocolate Chip Thick Shake,1,0,Balancing the thick texture with the delightful and gooey crunch of choco-chips in ... read more,279.0
+Thick Shakes,Rasmalai Thick Shake,1,0,"Infused with the aromatic flavour of the classic Indian dessert, this luscious flavour ... read more",269.0
+Thick Shakes,Strawberry Special Thick Shake,1,0,Delectable chunks of exotic strawberries in a milkshake that will make your day ... read more,269.0
+Thick Shakes,Kit Kat Thick Shake,1,0,An extremely-thick shake loaded with the irresistable goodness of Kit Kat. It can't ... read more,279.0
+Thick Shakes,BubbleGum Thick Shake,1,0,"Your favourite mellow bubblegum delight, now thicker. Serving size - 330g for 540 ... read more",269.0
+Thick Shakes,Kesar Badam Thick Shake,1,0,Indulge in the luxurious and thick blend of Kesar and Badam. Serving size ... read more,269.0
+Thick Shakes,Choco Brownie Thick Shake,1,0,A heavenly combination of chocolate and brownie with an oh-so thick consistency for ... read more,279.0
+Thick Shakes,Exotic Mango Thick Shake,1,0,Milkshake with a super thick and creamy blend of yummy mangoes. A delectable ... read more,269.0
+Sparkling Iced Beverages,Lemon Iced Tea,1,0,Get the perfect effervescent citrus rush with the certified classic drink of the ... read more,179.0
+Sparkling Iced Beverages,Peach Iced Tea,1,0,Add a fizzy twist to your summer and cool down with the rejuvenating ... read more,179.0
+Sparkling Iced Beverages,Kala Khatta,1,0,Take a trip down the memory lane with the goodness of Kala Khatta ... read more,189.0
+Sparkling Iced Beverages,Aam Panna,1,0,Your childhood in a bottle! Experience a wave of nostalgia with the sparkling ... read more,189.0
+Sundaes,Nutella Banana Madness Sundae,1,0,"Velvety Chocolate ice cream with a hint of banana - meets Nutella swirls, ... read more",279.0
+Sundaes,Nutella Berry Blast Sundae,1,0,"Vanilla-Chocolate ice cream paired with your favourite Nutella, choco crumbles, and luscious strawberry ... read more",279.0
+Sundaes,Rose Falooda Sundae,1,0,Vanilla ice cream sundae with dried rose petals sprinkled on top with a ... read more,249.0
+Sundaes,Lotus Biscoff Dream Sundae,1,0,"Vanilla ice cream topped with premium lotus biscoff biscuits and spread, caramel spread, ... read more",279.0
+Sundaes,Guilty Pleasure Sundae,1,0,Chocolate ice cream sundae layered with chocolate crumble and doused with coffee syrup ... read more,269.0
+Sundaes,Dark Conspiracy Sundae,1,0,"Vanilla ice cream sundae with crunchy cookies and chocolate wafers, topped with chocolate ... read more",269.0
+Match Day Combos,Double Delight,1,0,Indulgence comes at a better price! Try our exciting new flavors today! Serving size ... read more,402.0
+Match Day Combos,Double Trouble,1,0,"""Choco Oreo meets Butterscotch Bliss! Indulge in a symphony of rich chocolate, crunchy ... read more",421.0
+Match Day Combos,Fusion Trio,1,0,"""Craft your own milkshake symphony! Choose any 3 from our Chocolate, Classics, and ... read more",673.0
+Match Day Combos,Thick Shake Trio,1,0,"""Dive into decadence with our Thick Shakes Combo! Select any 3 from our ... read more",776.0
+Match Day Combos,Supreme Duo,1,0,"""Sip the best of both worlds! Choose any 2 from our Cold & ... read more",390.0
+Match Day Combos,Triple Sundae Treat,1,0,"""Dive into a world of indulgence with our Sundaes Combo! Choose any 3 ... read more",776.0
+Hot Chocolate & Coffee,Hot Chocolate Salted Caramel,1,0,"Creamy, silky, smooth and chocolatey - served piping hot with flavours of rich ... read more",179.0
+Hot Chocolate & Coffee,Hot Chocolate Classic,1,0,A decadent blend of cocoa and milk. Sprinkled with chocolate powder dust. An ... read more,179.0
+Hot Chocolate & Coffee,Hot Chocolate Gingerbread,1,0,An old time classic with a twist - a decadent blend of cocoa ... read more,179.0
+Hot Chocolate & Coffee,Hot Chocolate Tiramisu,1,0,Tiramisu sauce drizzled on hot chocolate. Perfect for dessert lovers. Size (gm/ml) - ... read more,189.0
+Hot Chocolate & Coffee,Hot Chocolate Hazelnut,1,0,"Covered with dark chocolate, and steamed with milk and hazelnut. Slips over your ... read more",189.0
+Food & Munchies,4700BC Himalayan Salt Caramel Popcorn,1,0,Indulge in 4700BC Gourmet Popcorn coated with delicious caramel and sprinkled with exotic ... read more,43.75
+Food & Munchies,"4700BC Crunchy Corn, Himalayan Salt",1,0,"Coated with exotic Himalayan salt, you won’t be able to get enough of ... read more",44.64
+Food & Munchies,4700BC Cheese & Herbs Corn Chips,1,0,Get ready to munch on these delicious Cheese & Herbs corn chips+. Made ... read more,42.37
+Food & Munchies,4700BC French Butter & Pink Salt Popcorn,1,0,Indulge in 4700BC Gourmet Popcorn coated with delicious French butter and sprinkled with ... read more,41.52

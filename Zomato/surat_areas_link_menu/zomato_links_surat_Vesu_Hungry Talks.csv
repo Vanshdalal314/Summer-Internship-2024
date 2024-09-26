@@ -1,0 +1,59 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Hyderabadi Chicken Dum Biryani,0,0,Chicken marinated in aromatic spices and dum cooked.,249.0
+Biryani,Chicken Tikka Biryani,0,0,,279.0
+Biryani,Boneless Butter Chicken Biryani,0,0,,279.0
+Biryani,Veg Paneer Biryani with Raita,1,0,,230.0
+Biryani,Soya Chaap Biryani,1,0,,230.0
+Biryani,Veg Fried Rice,1,0,,230.0
+New Year Combos,Non Veg Pizza [7 inches] with French Fries,0,0,Non Veg Pizza [7 inches]+French Fries+Thums Up [250 ml],350.0
+New Year Combos,Chicken Tikka [3 Pieces] with Hyderabadi Chicken Dum Biryani,0,0,Chicken Tikka [4 Pieces]+Hyderabadi Chicken Dum Biryani [300 ml],279.0
+Non Veg Thali,Butter Chicken Gravy Thali [Mini],0,0,Butter Chicken Gravy+2 Roti+Chicken Biryani+Raita+Papad,299.0
+Non Veg Thali,Chicken Biryani Thali [Mini],0,0,Chicken Biryani+Chicken Tikka [3 Pieces]+Raita+Papad,299.0
+Non Veg Thali,Chicken Fried Rice Thali [Mini],0,0,Chicken Fried Rice+Chicken Tikka [3 Pieces]+Raita+Papad,299.0
+Non Veg Thali,Maharaj Non Veg Thali,0,0,Chicken Biryani+Chicken Tikka [2 Pieces]+Butter Chicken Gravy+2 Roti+Raita,329.0
+Buy 1 Get 1 Pizza,Buy 1 Get 1 Pizza [ Non Veg],0,0,7 Inches,450.0
+Buy 1 Get 1 Pizza,Buy 1 Get 1 Pizza [Veg],1,0,[Veg preparation] 7 Inches,450.0
+Main Course,Butter Chicken Gravy,0,0,Prepared with roasted chicken served in rich creamy makhani gravy.,299.0
+Main Course,Desi Style Chicken Curry,0,0,"Chicken cooked in special spices in desi style, which gives u a spicy ... read more",250.0
+Main Course,Chicken Lababdar,0,0,Chicken tikka cooked in lababdar gravy sauted with fine chopped bell pepper and ... read more,299.0
+Lasagna,Chicken Lasagna,0,0,"A rich and creamy durum wheat pasta sheet dish filled, layer by layer ... read more",290.0
+Lasagna,Veg Lasagna,1,0,A rich and creamy durum pasta sheet dish filled layer by layer with ... read more,260.0
+Starters,Chicken Popcorn,0,0,Popcorn are bite sized tender and crisp chunks of chicken that have been ... read more,189.0
+Starters,Chilli Chicken,0,0,Tender chicken drumsticks roasted in tandoor to perfection.,290.0
+Starters,Prawns Chilly [9 Pieces],0,0,Tender chicken drumsticks roasted in tandoor to perfection.,450.0
+Starters,Chicken Wings,0,0,Deep fried chicken wings tossed in hot spices [5 Pieces],319.0
+Starters,Garlic Basil Prawns [8 Pieces],0,0,Prawns tossed in fresh basil and garlic that gets u to deep sea.,389.0
+Starters,Paneer Tikka,1,0,Paneer marinated in indian spices and roasted in tandoor,269.0
+Starters,Soya Chaap Tikka,1,0,Soya chaap marinated in indian spices,269.0
+Starters,Paneer Chilli Dry,1,0,Freshly cut paneer tossed in age brewed japanese sauce soya sauce and tossed ... read more,290.0
+Wraps,Butter Paneer Wrap,1,0,Wrap stuffed with delicious butter paneer,149.0
+Wraps,Paneer Tikka Wrap,1,0,"Stuffed with paneer tikka, tandoori sauce, onion capsicum and green chutney",230.0
+Wraps,Soya Chaap Tikka Wrap,1,0,"Stuffed with soya chaap tikka tandoori sauce, onion capsicum and green chutney",230.0
+Wraps,Butter Chicken Wrap,0,0,Wrap stuffed with delicious butter chicken,149.0
+Wraps,Chicken Tikka Wrap,0,0,"Stuffed with chicken tikka tandoori sauce, onion capsicum and green chutney",230.0
+Wraps,Chicken Biryani Burrito Wrap,0,0,Stuffed with chicken biryani cucumber onion and raita,260.0
+Wraps,Chicken Shawarma Roll,0,0,,240.0
+Pizza,Margherita Pizza,1,0,"Topped with tomato sauce, mozzarella cheese, fresh basil and Parmesan cheese.",220.0
+Pizza,Veg Exotic Pizza,1,0,"Topped with bell pepper, mushroom, onion, zucchini, aubergine, olive, cheese and truffle seasoning.",250.0
+Pizza,Onion Corn Pizza,1,0,"Topped with siracha sauce, onion, corn and cheese.",250.0
+Pizza,Paneer Tikka Pizza,1,0,"Topped with makhani sauce, paneer tikka, bell pepper, onion and cheese.",250.0
+Pizza,Barbeque Paneer Pizza,1,0,"Topped with spicy barbeque sauce, barbeque paneer, onion, bell pepper and cheese.",250.0
+Pizza,Chicken Tikka Pizza,0,0,"Topped with makhani sauce, chicken tikka, onion and cheese.",250.0
+Pizza,Chicken Barbeque Pizza,0,0,"Topped with spicy barbeque sauce, barbeque chicken, onion, bell pepper and cheese.",250.0
+Pizza,Chicken Pepperoni Pizza,0,0,"Topped with spicy pizza sauce, pepperoni, onion and cheese.",250.0
+Burgers and Sandwiches,Tandoori Paneer Sandwich,1,0,Stuffed with tandoori paneer and grilled,150.0
+Burgers and Sandwiches,Chicken Tandoori Sandwich,0,0,Sandwich stuffed with roasted chicken and grilled.,150.0
+Burgers and Sandwiches,White Chicken Sandwich,0,0,Sandwich stuffed with continental style white chicken with a hint of pepper and ... read more,150.0
+Burgers and Sandwiches,Chicken Club Sandwich,0,0,"Chicken sandwich [2 pieces, 1 layer] of tandoori chicken and another layer of ... read more",299.0
+Burgers and Sandwiches,Chicken Burger,0,0,,150.0
+Burgers and Sandwiches,Chicken Cheese Burger,0,0,,180.0
+Burgers and Sandwiches,Chicken Cheese Jalapeno Burger,0,0,,180.0
+Burgers and Sandwiches,Chicken Double Trouble Burger,0,0,,280.0
+Snacks,French Fries,1,0,Regular salted fries,85.0
+Snacks,Peri Peri French Fries,1,0,French fries tossed in peri peri fries,100.0
+Snacks,Veg Pizza Pie,1,0,,189.0
+Snacks,Corn Cheese Bread,1,0,,129.0
+Snacks,Garlic Cheese Bread,1,0,,129.0
+Snacks,Chicken Pizza Pie,0,0,,189.0
+Snacks,Chicken Meat Balls,0,0,"Chicken meat balls baked in oven drizzled our signature makhani sauce, cheese and ... read more",220.0
+Breads,1 Phulka Roti,1,0,,12.0

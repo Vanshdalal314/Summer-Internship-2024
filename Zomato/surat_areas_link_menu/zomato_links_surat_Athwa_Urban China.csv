@@ -1,0 +1,165 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Main Course,Butter Chicken Bolless,0,0,,252.0
+Main Course,Butter Chicken [Boneless],0,0,,264.0
+Main Course,Butter Chicken [Bone],0,0,,252.0
+Main Course,Cheese Angoori,1,0,,228.0
+Main Course,Cheese Butter Masala,1,0,,222.0
+Main Course,Chicken Angara,0,0,,252.0
+Main Course,Chicken Gauty,0,0,,252.0
+Main Course,Chicken Hariyali Masala,0,0,,252.0
+Main Course,Chicken Hydrabadi,0,0,,252.0
+Main Course,Chicken Kadhai Masala,0,0,,252.0
+Main Course,Chicken Keema,0,0,,252.0
+Main Course,Chicken Kolhapuri,0,0,,252.0
+Main Course,Chicken Rogan Josh,0,0,,252.0
+Main Course,Chicken Tawa Masala,0,0,,252.0
+Main Course,Chicken Tikka Masala,0,0,,240.0
+Main Course,Dal Fry,1,0,A comforting and delicious preparation made with mixed dal cooked and tempered with ... read more,120.0
+Main Course,Dal Palak,1,0,,138.0
+Main Course,Dal Tadka,1,0,Delicious lentil curry enriched with a tempering of spices and cumin seeds.,138.0
+Main Course,Hot Sizzling Chicken Masala,0,0,,270.0
+Main Course,Jeera Aloo,1,0,,144.0
+Main Course,Lemon Chicken Masala,0,0,,252.0
+Main Course,Mix Veg,1,0,Mix veg curry is made by cooking a mixture of vegetables together in ... read more,150.0
+Main Course,Mushroom Keema,1,0,,228.0
+Main Course,Mushroom Masala,1,0,"Mushroom prepared in creamy, mildly tangy gravy of tomato, onion and spices.",210.0
+Main Course,Palak Paneer,1,0,An earthy spinach based gravy recipe that uses mild spices mixed together with ... read more,180.0
+Main Course,Paneer Angara,1,0,Indian cottage cheese simmered in a spicy onion and tomato gravy.,216.0
+Main Course,Paneer Bhurji,1,0,"Hand crushed cottage cheese tempered with onions, tomatos and green chillies with spices.",210.0
+Main Course,Paneer Butter Masala,1,0,A wholesome food served along with a creamy paneer butter masala perfect to ... read more,192.0
+Main Course,Paneer Kadhai Masala,1,0,,192.0
+Main Course,Paneer Lawabdar,1,0,,210.0
+Main Course,Paneer Pasanda,1,0,,216.0
+Main Course,Paneer Tikka Masala,1,0,A creamy dish with soft paneer chunks cooked in a rich tomato gravy ... read more,198.0
+Main Course,Paneer Toofani,1,0,Indian cottage cheese simmered in a spicy onion and tomato gravy.,198.0
+Main Course,Veg Diwan-E-Handi,1,0,,156.0
+Main Course,Veg Kadai,1,0,A flavorful preparation with paneer cooked in onion tomato gravy. It must have ... read more,150.0
+Main Course,Veg Keema Masala,1,0,,156.0
+Main Course,Veg Kheema Masala,1,0,,138.0
+Main Course,Veg Kolhapuri,1,0,Veg kolhapuri is Indian curry consisting of mixed vegetables in thick spiced gravy.,156.0
+Main Course,Veg Lajwab,1,0,,168.0
+Main Course,Veg Lasooni Palak,1,0,,150.0
+Indian Rice,Chicken Biryani,0,0,,150.0
+Indian Rice,Chicken Tikka Biryani,0,0,,216.0
+Indian Rice,Egg Biryani,0,0,Flavoured basmati rice cooked with spiced gravy in dum style with boiled eggs.,156.0
+Indian Rice,Jeera Rice,1,0,Frangrant rice dish tempered with lots of aromatic cumin seeds.,120.0
+Indian Rice,Steam Rice,1,0,Aromatic steamed rice cooked in a tempering of cumin and whole spices.,108.0
+Indian Rice,Veg Biryani,1,0,Aromatic and flavourful rice cooked with vegetables and exotic spices.,162.0
+Noodles,Chicken Hakka Noodles,0,0,,180.0
+Noodles,Chicken Schezwan Noodles,0,0,,186.0
+Noodles,Chicken Singapuri Noodles,0,0,,192.0
+Noodles,Egg Hakka Noodles,0,0,,162.0
+Noodles,Egg Schezwan Noodles,0,0,,168.0
+Noodles,Egg Singapuri Noodles,0,0,,168.0
+Noodles,Veg Hakka Noodles,1,0,"Delectable stands of soft noodles tossed with assorted chopped veggies and hakka sauces, ... read more",150.0
+Noodles,Veg Schezwan Noodles,1,0,The spicy schezwan sauce and hakka noodles is made with soy sauce along ... read more,150.0
+Noodles,Veg Singapuri Noodles,1,0,,150.0
+Starters,Babycorn Chilli,1,0,,162.0
+Starters,Chicken Chilli,0,0,,228.0
+Starters,Chicken Manchurian,0,0,,210.0
+Starters,Chicken Pahadi Tikka,0,0,,252.0
+Starters,Chicken Tikka,0,0,Chicken tikka is a chicken based dish which originated in south asia.,240.0
+Starters,Lasooni Chicken Tikka,0,0,,210.0
+Starters,Malai Chicken Tikka,0,0,,270.0
+Starters,Mushroom Chilli,1,0,Delectable mushrooms cooked in a spicy and tasty chilli sauce - perfect dish ... read more,180.0
+Starters,Mushroom Tikka,1,0,Delicious Indian dish with tender mushrooms roasted to perfection with fragrant spices.,180.0
+Starters,Paneer Chilli Dry,1,0,A delightfully flavorful dish prepared with soft paneer and cooked with flavorful chili ... read more,210.0
+Starters,Paneer Chilli Gravy,1,0,"Paneer based Chinese dish, cooked in spices of garlic and ginger with chilly. ... read more",210.0
+Starters,Paneer Hariyali Tikka,1,0,,192.0
+Starters,Paneer Peri-Peri Tikka,1,0,,210.0
+Starters,Paneer Tikka,1,0,"Paneer marinated in lemon juice, dahi, Kashmiri lal mirch, salt, garam masala and ... read more",210.0
+Starters,Pesto Paneer Tikka,1,0,,222.0
+Starters,Schezwan Paneer,1,0,,210.0
+Starters,Schezwan Potato,1,0,,150.0
+Starters,Stuffed Mushroom Tikka,1,0,,204.0
+Starters,Veg Crispy,1,0,The mix vegetables is fried in such a way that the skin is ... read more,156.0
+Starters,Veg Manchurian Dry,1,0,"Indo Chinese dish, deep fried vegetable balls tossed in Chinese sauces.",150.0
+Starters,Veg Manchurian Gravy,1,0,Veg Manchurian gravy recipe has a sauce or gravy in which the fried ... read more,162.0
+Starters,Veg Schezwan Manchurian,1,0,,156.0
+Chinese Rice,Chicken Fried Rice,0,0,,180.0
+Chinese Rice,Chicken Schezwan Fried Rice,0,0,,192.0
+Chinese Rice,Chicken Singapuri Rice,0,0,,192.0
+Chinese Rice,Chicken Special Rice,0,0,,228.0
+Chinese Rice,Egg Fried Rice,0,0,A slightly spicy dish made by tossing eggs and rice in a flavorful ... read more,150.0
+Chinese Rice,Egg Pepper Schezwan Rice,0,0,,168.0
+Chinese Rice,Egg Schezwan Fried Rice,0,0,,162.0
+Chinese Rice,Egg Singapuri Rice,0,0,,162.0
+Chinese Rice,Veg Fried Rice,1,0,A deliciously aromatic and flavorful dish made from stir fried mixed vegetables and ... read more,150.0
+Chinese Rice,Veg Schezwan Fried Rice,1,0,A flavor packed dish with aromatic rice tossed along with veggies and schezwan ... read more,156.0
+Chinese Rice,Veg Singapuri Rice,1,0,,156.0
+Chinese Rice,Veg Triple Schezwan Rice,1,0,,180.0
+Chinese Rice,Veg Urban Special Rice,1,0,,192.0
+Rotis,Butter Chapati Roti,1,0,,24.0
+Rotis,Butter Garlic Naan,1,0,,78.0
+Rotis,Butter Kulcha,1,0,They are made using maida or a refined white flour whereas naan tends ... read more,66.0
+Rotis,Butter Naan,1,0,North Indian bread with a generous serving of butter that tastes brilliant when ... read more,42.0
+Rotis,Butter Paratha,1,0,,48.0
+Rotis,Cheese Garlic Naan,1,0,Soft Indian flat bread made from all purpose flour with a hint of ... read more,84.0
+Rotis,Cheese Naa,1,0,,84.0
+Rotis,Cheese Naan,1,0,Indian bread made of maida cooked in tandoor topped with cheese.,78.0
+Rotis,Garlic Naan,1,0,Soft Indian flat bread made from all purpose flour with a hint of ... read more,66.0
+Rotis,Laccha Paratha,1,0,Multi layered Indian flat bread with daubs of butter and cooked in tandoor.,54.0
+Rotis,Plain Chapati Roti,1,0,,18.0
+Rotis,Plain Garlic Naan,1,0,,72.0
+Rotis,Plain Kulcha,1,0,"A classic and simple delight, perfect on its own or paired with your ... read more",54.0
+Rotis,Plain Naan,1,0,Soft and fluffy naan tastes amazing when paired with an Indian gravy.,42.0
+Rotis,Plain Paratha,1,0,,48.0
+Rotis,Stuffed Kulcha,1,0,,90.0
+Rotis,Stuffed Naan,1,0,,66.0
+Rotis,Stuffed Paratha,1,0,A savory and hearty filled Paratha perfect for a satisfying main course.,66.0
+Soups,Chicken Hot & Sour Soup,0,0,,150.0
+Soups,Chicken Lemon Coriander Soup,0,0,,156.0
+Soups,Chicken Manchow Soup,0,0,,150.0
+Soups,Egg Hot & Sour Soup,0,0,,120.0
+Soups,Egg Lemon Coriander Soup,0,0,,120.0
+Soups,Egg Manchow Soup,0,0,,120.0
+Soups,Veg Hot & Sour Soup,1,0,,96.0
+Soups,Veg Lemon Coriander Soup,1,0,A refreshing blend of lemon and coriander in a warm and hearty soup.,96.0
+Soups,Veg Manchow Soup,1,0,A comforting Chinese style thick soup filled with boiled vegetables.,96.0
+Drinks,Apple Delight Mocktail,1,0,,117.0
+Drinks,Biscoff Shake,1,0,,162.0
+Drinks,Cranberry Mojito,1,0,,138.0
+Drinks,Ferrero Rocher Shake,1,0,"A unique taste experience of contrasting layers, a whole crunchy hazelnut in the ... read more",186.0
+Drinks,Fresh Fruit Punch Mocktail,1,0,,108.0
+Drinks,Green Apple Mojito,1,0,,138.0
+Drinks,Kitkat Shake,1,0,A crunchy and creamy milkshake made by blending wholesome milk with delectable kitkat ... read more,156.0
+Drinks,Kiwi Fresh Punch Mocktail,1,0,,108.0
+Drinks,Kiwi Lemonade,1,0,,102.0
+Drinks,Mint Mojito,1,0,"A refreshing burst of mint and lime, perfect for a light and flavorful ... read more",138.0
+Drinks,Nutella Shake,1,0,Everyone all time favourite a classic blend of nutella and milk.,162.0
+Drinks,Oreo Shake,1,0,"A refreshing milkshake prepared with chocolate, oreo crumbs and wholesome milk - perfect ... read more",138.0
+Drinks,Salty Classic Lemonade,1,0,,78.0
+Drinks,Snickers Shake,1,0,,186.0
+Drinks,Strawberry Desire Mocktail,1,0,,117.0
+Drinks,Strawberry Lemonade,1,0,,102.0
+Drinks,Sweet Classic Lemonade,1,0,,78.0
+Drinks,Watermelon Mojito,1,0,A refreshing and fruity beverage perfect for any summer occasion.,138.0
+Extras,Extra Cheese,1,0,,30.0
+Extras,Fry Papad,1,0,,36.0
+Extras,Masala Papad,1,0,"A crispy, flavorful vegetarian bite with a tantalizing mix of spices.",48.0
+Extras,Roasted Papad,1,0,Crispy and flavorful Indian appetizer with a smokey roasted taste.,30.0
+Wrap (uc),Cheese Coom Wrap,1,0,,222.0
+Wrap (uc),Chicken Bang Bang Wrap,0,0,,228.0
+Wrap (uc),Chicken Mexican Wrap,0,0,,228.0
+Wrap (uc),Chicken Peri Peri Wrap,0,0,,228.0
+Wrap (uc),Chicken Wrap,0,0,,222.0
+Wrap (uc),Egg Mexican Wrap,0,0,,198.0
+Wrap (uc),Egg Paneer Wrap,0,0,,168.0
+Wrap (uc),Egg Periperi Wrap,0,0,,198.0
+Wrap (uc),Mushroom Cottege Cheese Wrap,1,0,,216.0
+Wrap (uc),Peri Peri Cottege Cheese Wrap,1,0,,210.0
+Wrap (uc),Spinach Cottege Cheese Wrap,1,0,,210.0
+Wrap (uc),Veg Wrap,1,0,,168.0
+Sandwich (uc),Chicken Bang Bang Grill Sandwich,0,0,,228.0
+Sandwich (uc),Chicken Grill Sandwich,0,0,,210.0
+Sandwich (uc),Chicken Mexican Grill Sandwich,0,0,,222.0
+Sandwich (uc),Chicken Peri Peri Sandwich,0,0,,216.0
+Sandwich (uc),Egg Bhurji Sandwich,0,0,,198.0
+Sandwich (uc),Egg Grill Sandwich,0,0,,180.0
+Sandwich (uc),Egg Mexican Grill Sandwich,0,0,,192.0
+Sandwich (uc),Egg Peri Peri Grill Sandwich,0,0,,192.0
+Sandwich (uc),Mexican Grill Sandwich,1,0,,180.0
+Sandwich (uc),Mushroom Paneer Sandwich,1,0,,216.0
+Sandwich (uc),Paneer Sandwich,1,0,,210.0
+Sandwich (uc),Veg Cheese Grill Sandwich,1,0,,150.0
+Sandwich (uc),Veg Cheese Sandwich,1,0,,132.0

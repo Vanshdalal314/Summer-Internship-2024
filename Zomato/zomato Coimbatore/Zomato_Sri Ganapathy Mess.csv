@@ -1,0 +1,127 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+"Meals,",Veg Parcel Meals,1,0,"Complete vegetarian meals packed in parcels, convenient for takeaway or on-the-go dining.",125.0
+"Meals,",Non-veg Parcel Meals,1,0,"Wholesome non-vegetarian meals packed in parcels, offering a variety of meat and accompaniments.",125.0
+"Meals,",Carrot Sadham,1,0,"Rice dish cooked with grated carrots and spices, offering a colorful and nutritious ... read more",65.0
+"Meals,",Egg Sadham,1,0,"Rice dish cooked with scrambled eggs and spices, creating a flavorful and protein-rich ... read more",65.0
+"Meals,",Curd Rice..,1,0,"A comforting South Indian dish made with rice and yogurt, tempered with mustard ... read more",65.0
+Biryani,Hydrabad Kuska,1,0,"Fragrant rice dish cooked with spices, without any meat, popular in the Hyderabad ... read more",111.0
+Biryani,Kuska,1,0,"Flavorful rice dish cooked with spices, often served as an accompaniment to meat ... read more",111.0
+Biryani,Egg Kuska,1,0,"Kuska rice dish cooked with scrambled eggs, offering a hearty and satisfying meal ... read more",137.0
+Biryani,Chicken Biryani,1,0,"Fragrant and flavorful rice dish cooked with marinated chicken and aromatic spices, a ... read more",156.0
+Biryani,Gilma Biryani,1,0,"Biryani rice dish with a spicy and tangy flavor, a specialty from the ... read more",182.0
+Biryani,Hyderapad Biryani,1,0,"Biryani rice dish prepared with the traditional Hyderabadi style, known for its rich ... read more",156.0
+Egg Special,Boiled Egg-2 Egg,1,0,Two boiled eggs served as a standalone dish.,39.0
+Egg Special,Egg Masala -2 Egg,1,0,Boiled eggs cooked in a flavorful masala gravy.,72.0
+Egg Special,Egg Porial-2 Egg,1,0,South Indian style scrambled eggs seasoned with spices and saut?ed with onions and ... read more,52.0
+Egg Special,Full Boil-2 Egg,1,0,"Two eggs boiled to perfection, usually served as part of a breakfast or ... read more",52.0
+Egg Special,Kalakki-2Egg,1,0,"A dish made by scrambling eggs with onions, tomatoes, and spices.",52.0
+Egg Special,Kulambu Kalakki-2 Egg,1,0,Scrambled eggs cooked in a tangy and spicy South Indian curry.,52.0
+Egg Special,Kulumbu Omblet - 2egg,1,0,Omelet cooked in a flavorful curry gravy.,52.0
+Egg Special,Omlet - 2 Egg,1,0,"Classic omelet made with eggs, typically seasoned with salt and pepper and sometimes ... read more",52.0
+Egg Special,Onion Kalakki-2 Egg,1,0,Scrambled eggs cooked with onions and spices.,52.0
+Egg Special,Plain Omblete - 2 Egg,1,0,"Basic omelet made with eggs, without any additional fillings.",52.0
+Egg Special,White Omulet-2Egg,1,0,"A variation of omelet made with only egg whites, typically seasoned with salt ... read more",52.0
+Rice & Noodles,Mushroom Biryani,1,0,"Fragrant rice dish cooked with mushrooms and aromatic spices, offering a vegetarian twist ... read more",111.0
+Rice & Noodles,Veg Rice,1,0,"Flavorful rice dish cooked with mixed vegetables and spices, offering a wholesome and ... read more",124.0
+Rice & Noodles,Schezwan -Veg Rice,1,0,Spicy Indo-Chinese rice dish made with vegetables and flavored with Schezwan sauce.,137.0
+Rice & Noodles,Egg Rice,1,0,"Simple and delicious rice dish cooked with scrambled eggs, offering a quick and ... read more",137.0
+Rice & Noodles,Schezwan - Egg Rice,1,0,Schezwan rice dish with added scrambled eggs for protein.,150.0
+Rice & Noodles,Chicken Rice,1,0,"Flavorful rice dish cooked with tender pieces of chicken and aromatic spices, a ... read more",163.0
+Rice & Noodles,Paneer Rice,1,0,"Fragrant rice dish cooked with paneer (Indian cottage cheese) and aromatic spices, offering ... read more",137.0
+Rice & Noodles,Schezwan-Paneer Rice,1,0,Schezwan rice dish with paneer (Indian cottage cheese) cubes added for a vegetarian ... read more,150.0
+Rice & Noodles,Mushroom Rice,1,0,"Fragrant rice dish cooked with mushrooms and aromatic spices, offering a flavorful and ... read more",137.0
+Rice & Noodles,Schezwan Mushroom Rice,1,0,"Rice dish cooked with mushrooms in spicy Schezwan sauce, offering a fiery and ... read more",150.0
+Rice & Noodles,Veg Noodles,1,0,"Stir-fried noodles cooked with mixed vegetables and aromatic spices, offering a flavorful and ... read more",124.0
+Rice & Noodles,Schezwan Veg Noodels,1,0,"Spicy and flavorful noodles cooked with mixed vegetables in a Schezwan sauce, a ... read more",137.0
+Rice & Noodles,Egg Noodles,1,0,"Stir-fried noodles cooked with scrambled eggs and mixed vegetables, offering a protein-rich and ... read more",137.0
+Rice & Noodles,Schezwan - Egg Noodles,1,0,"Stir-fried noodles cooked with scrambled eggs and Schezwan sauce, creating a protein-rich dish ... read more",150.0
+Rice & Noodles,Chicken Noodles,1,0,"Stir-fried noodles cooked with tender pieces of chicken and mixed vegetables, offering a ... read more",163.0
+Rice & Noodles,Schezwan Ch Noodels,1,0,"Stir-fried noodles cooked with chicken and Schezwan sauce, offering a spicy and savory ... read more",176.0
+Veg Dry & Masal,Chilly Gobi,1,0,"Crispy cauliflower florets tossed in a spicy and tangy sauce, offering a popular ... read more",98.0
+Veg Dry & Masal,Chilly Musroom,1,0,"Stir-fried mushrooms cooked in a spicy and flavorful sauce, offering a delicious and ... read more",98.0
+Veg Dry & Masal,Chilly Paneer,1,0,"Cubes of paneer (Indian cottage cheese) cooked in a spicy and tangy sauce, ... read more",98.0
+Veg Dry & Masal,Gobi Manchurian,1,0,"Crispy cauliflower florets tossed in a flavorful Manchurian sauce, offering a popular Indo-Chinese ... read more",104.0
+Veg Dry & Masal,Musroom Manchurian,1,0,"Tender mushrooms cooked in a tangy and flavorful Manchurian sauce, a delicious Indo-Chinese ... read more",104.0
+Veg Dry & Masal,Paneer Manchurian,1,0,"Cubes of paneer cooked in a spicy and tangy Manchurian sauce, offering a ... read more",104.0
+Veg Dry & Masal,Musroom Chinthamani,1,0,A South Indian dish made with mushrooms cooked in a spicy and tangy ... read more,124.0
+Veg Dry & Masal,Pepper Musroom,1,0,"Mushrooms stir-fried with black pepper and spices, offering a simple yet flavorful dish.",117.0
+Veg Dry & Masal,Gobi Masal,1,0,"Spicy and flavorful cauliflower curry cooked with onions, tomatoes, and aromatic spices, a ... read more",150.0
+Veg Dry & Masal,Musroom Masal,1,0,Mushrooms cooked in a rich and aromatic masala gravy.,150.0
+Veg Dry & Masal,Paneer Butter Masal,1,0,A popular North Indian dish made with paneer (Indian cottage cheese) cooked in ... read more,150.0
+Veg Dry & Masal,Chilly Idly,1,0,"Soft and fluffy idlis (steamed rice cakes) stir-fried with onions, bell peppers, and ... read more",72.0
+Veg Dry & Masal,Pepper Idly,1,0,Idlis tossed in a spicy and aromatic pepper seasoning.,72.0
+Veg Dry & Masal,Chilly Parotta,1,0,"Parotta (layered flatbread) pieces stir-fried with onions, bell peppers, and spicy chili sauce.",98.0
+Chicken Dry & Masal,Chicken Lolly Pop - 1 No,1,0,,39.0
+Chicken Dry & Masal,Chili Leg 1 No,1,0,A chicken leg marinated in spices and chili sauce and grilled or fried ... read more,98.0
+Chicken Dry & Masal,Pepper Leg (1 No),1,0,"Chicken leg seasoned with black pepper and other spices, grilled or fried until ... read more",111.0
+Chicken Dry & Masal,Chili Chicken,1,0,"A popular Indo-Chinese dish made with boneless chicken pieces stir-fried with onions, bell ... read more",137.0
+Chicken Dry & Masal,Chicken - 65,1,0,A spicy and crispy chicken dish marinated with a blend of spices and ... read more,137.0
+Chicken Dry & Masal,Hot Pepper Chicken,1,0,"Chicken cooked with onions, bell peppers, and spicy pepper seasoning, offering a fiery ... read more",137.0
+Chicken Dry & Masal,Kerala Chicken,1,0,A traditional Kerala-style chicken curry cooked with coconut milk and aromatic spices.,150.0
+Chicken Dry & Masal,Chicken-varuval,1,0,"A South Indian dry chicken dish cooked with onions, tomatoes, and a blend ... read more",150.0
+Chicken Dry & Masal,Pepper Chicken,1,0,"Chicken cooked with black pepper and other spices, resulting in a spicy and ... read more",163.0
+Chicken Dry & Masal,Hydrabad Chicken,1,0,"Chicken curry prepared in the traditional Hyderabadi style, known for its rich and ... read more",163.0
+Chicken Dry & Masal,Chicken Monika,1,0,"A chicken dish cooked with onions, tomatoes, and spices, offering a delicious and ... read more",163.0
+Chicken Dry & Masal,Pallipalayam Chicken,1,0,"A South Indian chicken dish made with onions, garlic, and dried red chilies, ... read more",163.0
+Chicken Dry & Masal,Chicken Chindamani,1,0,"Chicken cooked in a spicy and tangy gravy, typically flavored with tamarind and ... read more",137.0
+Chicken Dry & Masal,Chicken Manjuri,1,0,"A chicken dish cooked with onions, tomatoes, and a special blend of spices, ... read more",163.0
+Chicken Dry & Masal,Leg Piece Masal (1 No),1,0,"A chicken leg piece cooked in a flavorful masala gravy, typically served as ... read more",111.0
+Chicken Dry & Masal,Ginger Chicken Masal,1,0,"Chicken cooked with ginger, garlic, and aromatic spices, offering a fragrant and flavorful ... read more",202.0
+Chicken Dry & Masal,Ch Kadaai Masal,1,0,"A spicy and aromatic chicken curry cooked in a traditional Indian kadai (wok), ... read more",202.0
+Chicken Dry & Masal,Garlic Chicken Masal,1,0,"Chicken cooked with garlic and spices, offering a pungent and savory flavor.",202.0
+Chicken Dry & Masal,Pepper Chicken Masal,1,0,"Chicken cooked with black pepper and spices, resulting in a spicy and aromatic ... read more",202.0
+Chicken Dry & Masal,Pallipalayam Masal,1,0,"A South Indian chicken dish made with onions, garlic, and dried red chilies, ... read more",202.0
+Chicken Dry & Masal,Chicken Manjuri Masal,1,0,"A chicken dish cooked with onions, tomatoes, and a special blend of spices, ... read more",202.0
+Chicken Dry & Masal,Ch Kaima Masal,1,0,"A spicy and flavorful minced chicken dish cooked with onions, tomatoes, and aromatic ... read more",202.0
+Chicken Dry & Masal,Butter Chicken,1,0,A classic North Indian dish made with tender chicken pieces cooked in a ... read more,202.0
+Chicken Dry & Masal,Chicken Chettinadu,1,0,"A spicy and aromatic chicken curry made with a blend of Chettinad spices, ... read more",202.0
+Chicken Dry & Masal,1/4 Grill,1,0,"A quarter portion of grilled meat or chicken, typically seasoned and cooked to ... read more",124.0
+Chicken Dry & Masal,Pepper Gril 1/4,1,0,"Grilled meat or chicken seasoned with black pepper and other spices, offering a ... read more",150.0
+Chicken Dry & Masal,Thandoori 1/4,1,0,"Grilled meat or chicken cooked in a tandoor (clay oven), resulting in a ... read more",137.0
+Mutton Dry & Masal,Kudal Varuval,1,0,"A South Indian dish made with saut?ed and spiced goat intestines, known for ... read more",124.0
+Mutton Dry & Masal,Egg Kudal Varuval,1,0,Kudal varuval dish with added eggs for extra protein and flavor.,137.0
+Mutton Dry & Masal,Kudal Masal,1,0,Goat intestines cooked in a spicy and flavorful masala gravy.,163.0
+Mutton Dry & Masal,Thala Kari,1,0,A traditional South Indian mutton curry cooked with aromatic spices and coconut milk.,124.0
+Mutton Dry & Masal,Thala Kari Masal,1,0,"Mutton cooked in a spicy and flavorful masala gravy, offering a rich and ... read more",163.0
+Mutton Dry & Masal,Mutton Varuval,1,0,"A South Indian dry mutton dish cooked with onions, tomatoes, and a blend ... read more",202.0
+Mutton Dry & Masal,Mutton Masal,1,0,Tender mutton pieces cooked in a rich and flavorful masala gravy.,241.0
+Seafood Dry & Masal,Nethili Varuval,1,0,Small anchovy fish marinated with spices and deep-fried until crispy.,111.0
+Seafood Dry & Masal,Nethili Masal,1,0,Anchovy fish cooked in a spicy and aromatic masala gravy.,150.0
+Seafood Dry & Masal,Fish Chilli,1,0,"Boneless fish pieces stir-fried with onions, bell peppers, and spicy chili sauce.",111.0
+Seafood Dry & Masal,Fish Chilli Masal,1,0,"Fish cooked in a spicy and flavorful masala gravy, typically seasoned with chili ... read more",150.0
+Seafood Dry & Masal,Katla Fish,1,0,"A popular freshwater fish in South Asia, often cooked in various styles such ... read more",111.0
+Seafood Dry & Masal,Katla Fish Masala,1,0,Katla fish cooked in a rich and aromatic masala gravy.,150.0
+Seafood Dry & Masal,Nandu Varuval,1,0,Crab meat marinated with spices and deep-fried until crispy.,241.0
+Seafood Dry & Masal,Nandu Masal,1,0,Crab meat cooked in a spicy and flavorful masala gravy.,287.0
+Seafood Dry & Masal,Nandu Varuval Soup,1,0,"A soup made with crab meat and flavored with spices and herbs, offering ... read more",280.0
+Kaadai Dry & Masal,Chilli Kaadai,1,0,"Quail meat stir-fried with onions, bell peppers, and spicy chili sauce.",150.0
+Kaadai Dry & Masal,Kaadai Varuval,1,0,Quail meat marinated with spices and deep-fried until crispy.,176.0
+Kaadai Dry & Masal,Pepper Kaadai,1,0,"Quail meat cooked with black pepper and other spices, offering a spicy and ... read more",176.0
+Kaadai Dry & Masal,Kaadai Masal,1,0,Quail meat cooked in a rich and flavorful masala gravy.,189.0
+Indian Breads,Chappathi - 2No,1,0,"Soft and thin unleavened Indian flatbread made from whole wheat flour, usually served ... read more",52.0
+Indian Breads,"SPL Egg Chapathi.,",1,0,"Chapathi filled generously with scrambled eggs, offering a hearty and flavorful dish.",65.0
+Indian Breads,Egg Chappathi,1,0,"Chapathi with a layer of scrambled eggs, offering a hearty and filling meal.",52.0
+Indian Breads,Parota - 2N0,1,0,"Layered flatbread made from maida (refined wheat flour), usually served in pairs.",52.0
+Indian Breads,Veechu Parotta,1,0,A variation of parotta made by tossing and stretching the dough to create ... read more,39.0
+Indian Breads,Egg Veechu,1,0,"Veechu parotta with added scrambled eggs, offering a protein-rich and flavorful option.",52.0
+Indian Breads,Spl Egg Veechu,1,0,Veechu parotta with an extra layer of scrambled eggs for a hearty and ... read more,72.0
+Indian Breads,Veg Kothu Parotta,1,0,"Parotta pieces shredded and mixed with vegetables, spices, and sometimes eggs, creating a ... read more",72.0
+Indian Breads,Paneer Kothu Parotta,1,0,"Parotta pieces shredded and mixed with paneer (Indian cottage cheese), vegetables, and spices, ... read more",124.0
+Indian Breads,Musroom Kothu Parotta,1,0,"Parotta pieces shredded and mixed with mushrooms, vegetables, and spices, offering a flavorful ... read more",124.0
+Indian Breads,Egg Kothu Parotta,1,0,"Parotta pieces shredded and mixed with scrambled eggs, vegetables, and spices, offering a ... read more",98.0
+Indian Breads,SPL Egg Kothu Parotta,1,0,Kothu parotta with an extra layer of scrambled eggs for added protein and ... read more,111.0
+Indian Breads,Chicken Egg Kothu Parotta,1,0,"Kothu parotta with shredded chicken, scrambled eggs, vegetables, and spices, offering a hearty ... read more",137.0
+Indian Breads,Naan,1,0,"Soft and fluffy leavened Indian bread made from refined wheat flour, typically served ... read more",39.0
+Indian Breads,Butter Naan,1,0,Naan brushed with butter for added flavor and richness.,65.0
+Indian Breads,Rotti,1,0,A thin and crispy unleavened Indian flatbread made from whole wheat flour.,39.0
+Indian Breads,Butter Rotti,1,0,Rotti brushed with butter for a rich and indulgent taste.,65.0
+Indian Breads,Thadoori Wheet Paratha,1,0,"A whole wheat flatbread cooked in a tandoor, offering a smoky flavor and ... read more",39.0
+Indian Breads,Romali,1,0,High quality Romali Rotti,52.0
+Indian Breads,Chapathi Egg Kothu,1,0,"Chapathi pieces shredded and mixed with scrambled eggs, vegetables, and spices, offering a ... read more",128.0
+Cool Drinks,Coke - 600ml,1,0,Carbonated soft drink in a 600ml bottle.,57.78
+Cool Drinks,Fanta -600ml,1,0,Orange-flavored carbonated soft drink in a 600ml bottle.,57.78
+Cool Drinks,Limca - 600ml,1,0,Lemon-lime flavored carbonated soft drink in a 600ml bottle.,57.78
+Cool Drinks,Soda - 750ml,1,0,Carbonated water in a 750ml bottle.,57.78
+Cool Drinks,Sprite - 600ml,1,0,Lemon-lime flavored carbonated soft drink in a 600ml bottle.,57.78
+Cool Drinks,Thumbs Up - 600ml,1,0,Cola-flavored carbonated soft drink in a 600ml bottle.,57.78
+Cool Drinks,Water Bottle - 1Lit,1,0,"Bottled water in a 1-liter bottle, offering refreshment and hydration.",28.89

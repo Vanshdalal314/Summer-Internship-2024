@@ -1,0 +1,175 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Salads,Italian Sprout Salad,1,0,Prepared with Amul Cheese.,200.0
+Salads,Green Salad,1,0,Prepared with Amul Cheese.,230.0
+Salads,American Salad,1,0,Prepared with Amul Cheese.,250.0
+Pizza and Pasta,Mexican Cheese Pizza,1,0,Prepared with Amul Cheese.,360.0
+Pizza and Pasta,Margherita Cheese Pizza,1,0,Prepared with Amul Cheese.,200.0
+Pizza and Pasta,Onion Capsicum Pizza,1,0,Prepared with Amul Cheese.,200.0
+Pizza and Pasta,Veg Cheese Pizza,1,0,Prepared with Amul Cheese.,210.0
+Pizza and Pasta,Corn Cheese Pizza,1,0,Prepared with Amul Cheese.,260.0
+Pizza and Pasta,Paneer Cheese Pizza,1,0,Prepared with Amul Cheese.,270.0
+Pizza and Pasta,Paneer Hot and Spicy Pizza,1,0,Prepared with Amul Cheese.,290.0
+Pizza and Pasta,Mushroom Corn Cheese Pizza,1,0,Prepared with Amul Cheese.,300.0
+Pizza and Pasta,Creamy Cheese Pizza,1,0,Prepared with Amul Cheese.,290.0
+Pizza and Pasta,Paneer Tikka Pizza,1,0,Prepared with Amul Cheese.,300.0
+Pizza and Pasta,Veg Exotic Pizza,1,0,Prepared with Amul Cheese.,310.0
+Pizza and Pasta,Paneer Chop Pizza,1,0,Prepared with Amul Cheese.,350.0
+Pizza and Pasta,Italian Pizza,1,0,Prepared with Amul Cheese.,350.0
+Pizza and Pasta,Barbeque Paneer Cheese Pizza,1,0,Prepared with Amul Cheese.,360.0
+Pizza and Pasta,Paneer Creamy Pizza,1,0,Prepared with Amul Cheese.,360.0
+Pizza and Pasta,Cheese Burst Pizza,1,0,Prepared with Amul Cheese.,400.0
+Pizza and Pasta,Seven Cheese Pizza,1,0,Prepared with Amul Cheese.,410.0
+Pizza and Pasta,Kiran Special Pizza,1,0,[Chef's Special] Prepared with Amul Cheese.,450.0
+Pizza and Pasta,Jain Swaminarayan Italian Pizza,1,0,[Jain Preparation] Prepared with Amul Cheese.,350.0
+Pizza and Pasta,Alfredo Pasta,1,0,Prepared with Amul Cheese.,270.0
+Pizza and Pasta,White Sauce Pasta,1,0,Prepared with Amul Cheese.,280.0
+Pizza and Pasta,Schezwan Pasta,1,0,Prepared with Amul Cheese.,290.0
+Pizza and Pasta,Pesto Pasta,1,0,Prepared with Amul Cheese.,280.0
+Pizza and Pasta,Arrabiata Pasta,1,0,Prepared with Amul Cheese.,300.0
+Pizza and Pasta,Mexican Cheesy Pasta,1,0,Prepared with Amul Cheese.,300.0
+Pizza and Pasta,Pink Sauce Pasta,1,0,Prepared with Amul Cheese.,350.0
+Pizza and Pasta,Maggi Pasta,1,0,Prepared with Amul Cheese.,340.0
+Pizza and Pasta,Mix Sauce Pasta,1,0,Prepared with Amul Cheese.,350.0
+Pizza and Pasta,Kiran Special Pasta,1,0,[Chef's Special] Prepared with Amul Cheese.,380.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,Prepared with Amul Cheese.,120.0
+Burgers and Sandwiches,Italian Burger,1,0,Prepared with Amul Cheese.,150.0
+Burgers and Sandwiches,Mexican Burger,1,0,Prepared with Amul Cheese.,170.0
+Burgers and Sandwiches,Cheese Supreme Burger,1,0,Prepared with Amul Cheese.,180.0
+Burgers and Sandwiches,Cheese Schezwan Burger,1,0,Prepared with Amul Cheese.,160.0
+Burgers and Sandwiches,Cheese Tandoori Burger,1,0,Prepared with Amul Cheese.,180.0
+Burgers and Sandwiches,Wrested Pepper Garlic Burger,1,0,Prepared with Amul Cheese.,180.0
+Burgers and Sandwiches,Mushroom Cheese Burger,1,0,Prepared with Amul Cheese.,190.0
+Burgers and Sandwiches,Nachos Jalepeno Cheese Burger,1,0,Prepared with Amul Cheese.,190.0
+Burgers and Sandwiches,Onion Melt Tower Burger,1,0,Prepared with Amul Cheese.,200.0
+Burgers and Sandwiches,Special Burger Pizza Burger,1,0,Prepared with Amul Cheese.,250.0
+Burgers and Sandwiches,Special Keto Cheese Burger,1,0,Prepared with Amul Cheese.,290.0
+Burgers and Sandwiches,Kiran Special Burger,1,0,[Chef's Special] Prepared with Amul Cheese.,300.0
+Burgers and Sandwiches,Only Chee Grilled Sandwich,1,0,Prepared with Amul Cheese.,130.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,170.0
+Burgers and Sandwiches,Schezwan Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,190.0
+Burgers and Sandwiches,Mayonnaise Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,190.0
+Burgers and Sandwiches,Creamy Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,200.0
+Burgers and Sandwiches,Peri Peri Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,210.0
+Burgers and Sandwiches,Special Juicy Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,230.0
+Burgers and Sandwiches,Veg Paneer Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,250.0
+Burgers and Sandwiches,Paneer Chopped Grilled Sandwich,1,0,Prepared with Amul Cheese.,260.0
+Burgers and Sandwiches,Special Mushroom Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,280.0
+Burgers and Sandwiches,Mexican Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,270.0
+Burgers and Sandwiches,Makhani Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,280.0
+Burgers and Sandwiches,Special Tandoori Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,290.0
+Burgers and Sandwiches,Special Italian Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,280.0
+Burgers and Sandwiches,Cheese Burst Grilled Sandwich,1,0,Prepared with Amul Cheese.,290.0
+Burgers and Sandwiches,Pizza Topping Grilled Sandwich,1,0,Prepared with Amul Cheese.,300.0
+Burgers and Sandwiches,Paneer Kadhai Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,320.0
+Burgers and Sandwiches,Special Malai Grilled Sandwich,1,0,Prepared with Amul Cheese.,350.0
+Burgers and Sandwiches,Crazy Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,360.0
+Burgers and Sandwiches,Mixed Cheese Grilled Sandwich,1,0,Prepared with Amul Cheese.,400.0
+Burgers and Sandwiches,Kiran Special Grilled Sandwich,1,0,Chef's special.,450.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich,1,0,Prepared with Amul Cheese.,70.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich [3 Layer],1,0,Prepared with Amul Cheese.,90.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,Prepared with Amul Cheese.,60.0
+Burgers and Sandwiches,Bread Butter Aloo Sandwich,1,0,Prepared with Amul Cheese.,70.0
+Burgers and Sandwiches,Bread Butter Cheese Jam Sandwich,1,0,Prepared with Amul Cheese.,90.0
+Burgers and Sandwiches,Bombay Kacha Cheese Sandwich,1,0,Prepared with Amul Cheese.,100.0
+Burgers and Sandwiches,Bombay Kacha Sandwich [3 Layer],1,0,Prepared with Amul Cheese.,120.0
+Burgers and Sandwiches,Chocolate Cheese Sandwich,1,0,Prepared with Amul Cheese.,130.0
+Burgers and Sandwiches,Veg Special Cheese Mayonnaise Sandwich,1,0,Prepared with Amul Cheese.,160.0
+Burgers and Sandwiches,Mexican Forest Sandwich,1,0,Prepared with Amul Cheese.,180.0
+Burgers and Sandwiches,Veg Club Sandwich,1,0,Prepared with Amul Cheese.,190.0
+Burgers and Sandwiches,Russian Sandwich,1,0,Prepared with Amul Cheese.,200.0
+Burgers and Sandwiches,Aloo Tikki Sandwich,1,0,Prepared with Amul Cheese.,210.0
+Burgers and Sandwiches,Cheese Corn Sandwich,1,0,Prepared with Amul Cheese.,220.0
+Burgers and Sandwiches,Veg Jain Swaminarayan Cheese Sandwich,1,0,[Jain Preparation] Prepared with Amul Cheese.,140.0
+Burgers and Sandwiches,Jain Swaminarayan Grilled Sandwich,1,0,[Jain Preparation] Prepared with Amul Cheese.,190.0
+Snacks,Veg Cheese Hot Dog,1,0,Prepared with Amul Cheese.,150.0
+Snacks,Veg Cheese Mushroom Hot Dog,1,0,Prepared with Amul Cheese.,180.0
+Snacks,Mexican Cheese Hot Dog,1,0,Prepared with Amul Cheese.,200.0
+Snacks,Paneer Tandoori Hot Dog,1,0,Prepared with Amul Cheese.,210.0
+Snacks,Kiran Special Hot Dog,1,0,[Chef's Special] Prepared with Amul Cheese.,250.0
+Snacks,Cheese Chutney Toast,1,0,Prepared with Amul Cheese.,90.0
+Snacks,Chilli Cheese Toast,1,0,Prepared with Amul Cheese.,100.0
+Snacks,Onion Cheese Toast,1,0,Prepared with Amul Cheese.,100.0
+Snacks,Aloo Cheese Toast,1,0,Prepared with Amul Cheese.,100.0
+Snacks,Kachumbar Cheese Toast,1,0,Prepared with Amul Cheese.,120.0
+Snacks,Masala Cheese Toast,1,0,Prepared with Amul Cheese.,130.0
+Snacks,Veg Cheese Toast,1,0,Prepared with Amul Cheese.,140.0
+Snacks,Chocolate Cheese Toast,1,0,Prepared with Amul Cheese.,150.0
+Snacks,Open Cheese Toast,1,0,Prepared with Amul Cheese.,180.0
+Snacks,Peppy Paneer Cheese Toast,1,0,Prepared with Amul Cheese.,190.0
+Snacks,Barbeque Paneer Toast,1,0,Prepared with Amul Cheese.,190.0
+Snacks,Italian Cheese Toast,1,0,Prepared with Amul Cheese.,210.0
+Snacks,Corn Cheese Toast,1,0,Prepared with Amul Cheese.,200.0
+Snacks,Mexican Cheese Toast,1,0,Prepared with Amul Cheese.,210.0
+Snacks,Mushroom Corn Cheese Toast,1,0,Prepared with Amul Cheese.,250.0
+Snacks,Special Paneer Cheese Toast,1,0,Prepared with Amul Cheese.,250.0
+Snacks,Special Paneer Tikka Malai Toast,1,0,Prepared with Amul Cheese.,380.0
+Snacks,Mini Timepass Toast,1,0,Prepared with Amul Cheese.,140.0
+Snacks,Open and Top Rim Zim,1,0,Prepared with Amul Cheese.,320.0
+Snacks,Italian Rim Zim,1,0,Prepared with Amul Cheese.,360.0
+Snacks,Mexican Rim Zim,1,0,Prepared with Amul Cheese.,380.0
+Snacks,Paneer Tikka Rim Zim,1,0,Prepared with Amul Cheese.,400.0
+Snacks,Kiran Special Rim Zim,1,0,[Chef's Special] Prepared with Amul Cheese.,450.0
+Snacks,Simply Salted Fries,1,0,Prepared with Amul Cheese.,130.0
+Snacks,Chat Masala Fries,1,0,Prepared with Amul Cheese.,140.0
+Snacks,Peri Peri Fries,1,0,Prepared with Amul Cheese.,150.0
+Snacks,Maggi Masala Fries,1,0,Prepared with Amul Cheese.,140.0
+Snacks,Cheesy Cheese Fries,1,0,Prepared with Amul Cheese.,180.0
+Snacks,Barbeque Fries,1,0,Prepared with Amul Cheese.,190.0
+Snacks,Hot and Spicy Schewan Cheese Fries,1,0,Prepared with Amul Cheese.,180.0
+Snacks,Peri Peri Mushroom Cheese Fries,1,0,Prepared with Amul Cheese.,200.0
+Snacks,Peri Peri Paneer Cheese Fries,1,0,Prepared with Amul Cheese.,210.0
+Snacks,Maxican Salsa Cheese Fries,1,0,Prepared with Amul Cheese.,210.0
+Snacks,Pizza Cheesy Olive and Jalapeno Fries,1,0,Prepared with Amul Cheese.,230.0
+Snacks,Nachos with Cheese,1,0,Prepared with Amul Cheese.,140.0
+Snacks,Paneer Cheese Chopper Nachos,1,0,Prepared with Amul Cheese.,170.0
+Snacks,Mexican Salsa Cheese Nachos,1,0,Prepared with Amul Cheese.,190.0
+Snacks,Mushroom Paneer Popper Nachos,1,0,Prepared with Amul Cheese.,230.0
+Snacks,Veg Cheese Stuffed Footlong,1,0,Prepared with Amul Cheese.,250.0
+Snacks,Cheese Juicy Footlong,1,0,Prepared with Amul Cheese.,270.0
+Snacks,Mexican Maxi Begins Footlong,1,0,Prepared with Amul Cheese.,290.0
+Snacks,Veg Cheese Paneer Barbeque Footlong,1,0,Prepared with Amul Cheese.,300.0
+Snacks,Italian Footlong,1,0,Prepared with Amul Cheese.,330.0
+Snacks,American Footlong,1,0,Prepared with Amul Cheese.,330.0
+Snacks,European Footlong,1,0,Prepared with Amul Cheese.,350.0
+Snacks,Kiran Special Footlong,1,0,[Chef's Special] Prepared with Amul Cheese.,380.0
+Snacks,Cocktail Cheese Frankie,1,0,Prepared with Amul Cheese.,130.0
+Snacks,Jain Swaminarayan Timepass,1,0,[Jain Preparation] Prepared with Amul Cheese.,80.0
+Snacks,Veg Jain Swaminarayan Cheese Toast,1,0,[Jain Preparation] Prepared with Amul Cheese.,150.0
+Snacks,Jain Swaminarayan Footlong,1,0,[Jain Preparation] Prepared with Amul Cheese.,400.0
+Snacks,Cheese Garlic Bread,1,0,Prepared with Amul Cheese.,160.0
+Snacks,Veg Cheese Processed Garlic Bread,1,0,Prepared with Amul Cheese.,190.0
+Snacks,Chilli Cheese Garlic Bread,1,0,Prepared with Amul Cheese.,180.0
+Snacks,Veg Cheese Garlic Bread,1,0,Prepared with Amul Cheese.,190.0
+Snacks,Mayonnaise Garlic Bread,1,0,Prepared with Amul Cheese.,190.0
+Snacks,Garlic Magic Garlic Bread,1,0,Prepared with Amul Cheese.,200.0
+Snacks,Stuffed Garlic Bread,1,0,Prepared with Amul Cheese.,210.0
+Snacks,Corn Cheese Garlic Bread,1,0,Prepared with Amul Cheese.,210.0
+Snacks,Peri Peri Cheese Garlic Bread,1,0,Prepared with Amul Cheese.,220.0
+Snacks,Mushroom Chilli Cheese Garlic Bread,1,0,Prepared with Amul Cheese.,250.0
+Snacks,Paneer Peri Peri Cheese Garlic Bread,1,0,Prepared with Amul Cheese.,250.0
+Snacks,Paneer Corn Garlic Bread,1,0,Prepared with Amul Cheese.,260.0
+Snacks,Kiran Special Garlic Bread,1,0,[Chef's Special] Prepared with Amul Cheese.,280.0
+Snacks,Roasted Vada Pav,1,0,Prepared with Amul Cheese.,50.0
+Snacks,Mayonnaise Vada Pav,1,0,Prepared with Amul Cheese.,65.0
+Snacks,Nachos Vada Pav,1,0,Prepared with Amul Cheese.,65.0
+Snacks,Cheese Chatpata Timepass,1,0,Prepared with Amul Cheese.,65.0
+Snacks,Schezwan Cheese Chatpata Timepass,1,0,Prepared with Amul Cheese.,80.0
+Snacks,Solid Masti Cheese Chatpata Timepass,1,0,Prepared with Amul Cheese.,90.0
+Snacks,Mexican Cheese Chatpata Timepass,1,0,Prepared with Amul Cheese.,90.0
+Snacks,Cheese Corn Timepass,1,0,Prepared with Amul Cheese.,100.0
+Snacks,Schezwan Special Timepass,1,0,Prepared with Amul Cheese.,120.0
+Snacks,Amul Special Timepass,1,0,Prepared with Amul Cheese.,130.0
+Snacks,Paneer Kurkure Timepass,1,0,Prepared with Amul Cheese.,150.0
+Snacks,Kaju Masala Timepass,1,0,Prepared with Amul Cheese.,270.0
+Snacks,Kiran Special Timepass,1,0,[Chef's Special] Prepared with Amul Cheese.,300.0
+Snacks,Veg Cheese Roasted Vada Pav,1,0,Prepared with Amul Cheese.,80.0
+Snacks,Mayonnaise Cheese Vada Pav,1,0,Prepared with Amul Cheese.,100.0
+Snacks,Mayonnaise Cheese Schezwan Vada Pav,1,0,Prepared with Amul Cheese.,110.0
+Maggi,Classic Maggi,1,0,Prepared with Amul Cheese.,110.0
+Maggi,Veg Maggi,1,0,Prepared with Amul Cheese.,130.0
+Maggi,Cheese Maggi,1,0,Prepared with Amul Cheese.,150.0
+Maggi,Tandoori Maggi,1,0,Prepared with Amul Cheese.,170.0
+Maggi,Corn Garlic Cheese Maggi,1,0,Prepared with Amul Cheese.,190.0
+Maggi,Paneer Schezwan Maggi,1,0,Prepared with Amul Cheese.,210.0
+Maggi,Mushroom Schezwan Maggi,1,0,Prepared with Amul Cheese.,220.0
+Maggi,Barbeque Maggi,1,0,Prepared with Amul Cheese.,250.0

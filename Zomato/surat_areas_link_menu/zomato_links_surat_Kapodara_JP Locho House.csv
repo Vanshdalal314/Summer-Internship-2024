@@ -1,0 +1,5 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Vada Pav,1,0,,40.0
+Snacks,Samosa [1 Piece],1,0,,40.0
+Snacks,Chinese Puff [1 Piece],1,0,,50.0
+Snacks,Bread Pakoda [1 Piece],1,0,,40.0

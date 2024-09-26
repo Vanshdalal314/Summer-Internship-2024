@@ -1,0 +1,142 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soulful Salads,Thai Peanut Noodles Salad,1,0,"Noodles, veggies, peanut, honey and olive oil jaggery and chilli dressing. Energy: 344 ... read more",350.0
+Soulful Salads,Cottage Cheese Mexican Salad,1,0,"Veggies, paneer, nachos, kidney beans and olive oil mexican dressing. Energy: 667 kcal, ... read more",350.0
+Soulful Salads,Protein Chipotle Salad,1,0,"Chickpeas, paneer, veggies, olive oil chipotle dressing 663 kcal, carbs: 77. 5 gms, ... read more",350.0
+Soulful Salads,Mediterranean Quinoa Bowl,1,0,"Saute onion, feta avocado salad, beansm, corns and tofu",437.5
+Soulful Salads,Roasted Bell Pepper and Cottage Cheese Salad,1,0,"Veggies, paneer, olive oil 447 kcal, carbs 11. 2 gms, protein: 18. 3 ... read more",350.0
+Soulful Salads,Italian Egg White Salad,0,0,"Two egg whites chicken veggies olive oil: 180 kcal, carbs: 10g protein: 6 ... read more",275.0
+Soulful Salads,Roasted Chicken Salad,0,0,"Chicken veggies olive oil: 462 kcal, carbs: 10g, protein: 5. 3 gms, fat: ... read more",350.0
+Soulful Salads,Roasted Bell Pepper and Grilled Chicken Salad,0,0,"[Best seller]. Chicken veggies olive oil: 462 kcal, carbs: 10g, protein: 5. 3 ... read more",375.0
+Soulful Salads,Mediterranean Quinoa and Chicken Bowl,0,0,"[Chef special]. Quinoa chicken, veggies avocado sour cream olive oil: 604 4 kcal, ... read more",437.5
+Gourmet Sandwiches,Mushroom Chicken Sourdough Sandwich,0,0,,400.0
+Gourmet Sandwiches,Loaded Veggie Sourdough Sandwich,0,0,,437.5
+Gourmet Sandwiches,Caprese Chicken Sourdough Sandwich,0,0,,375.0
+Gourmet Sandwiches,Signature Chicken Panini Sandwich,0,0,,437.5
+Wraps,Egg Pesto Wrap.,0,0,"One whole egg one egg white veggies pesto sauce, hummus, multigrain roti: 451 ... read more",312.5
+Wraps,Creamy Pesto Chicken Wrap,0,0,"[Chef special]. Chicken, pesto sauce hummus, veggies multigrain roti: 418 kcal, carbs: 65. ... read more",400.0
+Wraps,Pesto Paneer Tikka Wrap.,1,0,"(Paneer. Veggies. Pesto, Multigrain Roti. Olive Oil) Energy- 747 kcal | Carbs- 54.1g ... read more",468.75
+Multigrain Wraps,Smoky Paneer Tikka Wrap,1,0,"[Best seller]. Paneer, veggies, multigrain roti, olive oil. Energy: 666 kcal, carbs: 57. ... read more",350.0
+Multigrain Wraps,Pesto Paneer Tikka Wrap,1,0,"Paneer, veggies, pesto, multigrain roti, olive oil. Energy: 747 kcal, carbs: 54. 1 ... read more",375.0
+Multigrain Wraps,Signature Arabic Falafel Wrap,1,0,"Multigrain roti, hummus, falafel tikki, hummus dip, olive oil. Energy: 647 kcal, carbs: ... read more",375.0
+Multigrain Wraps,Spicy Paneer Shawarma Wrap,1,0,"Multigrain roti, paneer, hummus, veggies, mint dip, olive oil. Energy: 694 kcal, carbs: ... read more",350.0
+Multigrain Wraps,Mexican Burrito Wrap,1,0,"[multigrain roti, mexican rice, kidney beans, corn, veggies, tofu, soya chunks, salsa, olive ... read more",400.0
+Mains,High Protein Keema.,1,0,"[Best seller]. Paneer, mushrooms, gravy paratha energy: 583 kcal, ch: 3. 2 gms, ... read more",500.0
+Mains,Paneer Tikka Bowl,1,0,"Tender paneer tikka gravy, served with sauteed rice",500.0
+Mains,Mushroom Spinach Rice.,1,0,"Steamed rice, mushrooms, spinach olive oil. Energy: 260 kcal, carbs: 26. 7 gms ... read more",400.0
+Mains,Mushroom Garlic Rice.,1,0,"Steamed rice, mushrooms, garlic, olive oil. Energy: 260 kcal, carbs: 26. 7 gms ... read more",400.0
+Mains,Indian Rice Bowl.,1,0,"Steamed rice, veggies, gravy olive oil. Energy: 369 kcal, carbs: 45. 1 gms, ... read more",437.5
+Mains,Low Calorie Butter Paneer Meal,1,0,"[Chef special]. Paneer, gravy, butter, paratha. Energy: 684 kcal, carbs: 3. 2 gms, ... read more",500.0
+Mains,Vegan Oriental Protein Bowl.,1,0,"Steamed rice, tofu, veggies sauce. Energy: 412 kcal, carbs: 37. 7 gms protein: ... read more",500.0
+Mains,Low Calorie Burrito Bowl.,1,0,"Sauteed tofu, rice, beans, corns, lettuce sauteed veggies drizzled with avocado mint dip",500.0
+Mains,Egg Mushroom Keema�.,0,0,"[Best seller]. Two boiled eggs, mushroom mixed gravy olive oil served with bread ... read more",475.0
+Mains,Classic Butter Chicken,0,0,Butter chicken gravy served with sauteed rice or paratha,475.0
+Mains,(Chicken Tikka Bowl),0,0,Chicken tikka gravy with sauteed rice or paratha,562.5
+Mains,Italian Peri Peri Chicken Bowl.,0,0,"Chicken roasted veggies peri peri gravy steamed rice olive oil: 600 kcal, carbs: ... read more",475.0
+Mains,Chicken Burnt Garlic Rice with Gravy,0,0,"Chicken, mixed gravy rice olive oil: 376 kcal, carbs: 23. 6 gms, protein: ... read more",475.0
+Mains,Lemon Garlic Chicken Keema,0,0,"[Best seller]. Chicken mixed gravy paratha olive oil: 570 kcal, carbs: 4. 2 ... read more",525.0
+Mains,Butter Garlic Chicken Gravy,0,0,"Chicken butter mixed gravy olive oil: 616. 6 gms, carbs: o g, protein: ... read more",475.0
+Mains,Creamy Pesto Chicken Bowl,0,0,"[Chef special]. Chicken, pesto sauce steamed rice veggies olive oil: 511 6 kcal, ... read more",500.0
+Mains,Thai Basil Chicken with Steamed Rice,0,0,"Chicken steamed rice thai curry pesto sauce veggies, olive oil: 634 kcal, carbs: ... read more",500.0
+Mains,Chicken Burrito Bowl,0,0,"Sauteed chicken rice, beans, corns lettuce, sauteed veggies",525.0
+Appetizers,Shanghai chicken,0,0,,437.0
+Appetizers,Basil Pesto And Hummus,1,0,,350.0
+Appetizers,Rosted Bell Pepper Hummus,1,0,,390.0
+Appetizers,Egg Fried Rice,0,0,,299.0
+Appetizers,Omlate,0,0,,260.0
+Appetizers,Lebanese Falafel and Hummus,1,0,"Hummus, falafel bullets. Energy: 662 kcal, carbs: 76 9g, protein: 23. 6 gms, ... read more",312.5
+Appetizers,Roasted Garlic Hummus,1,0,Roasted hummus served with pita bread,350.0
+Appetizers,Avocado Hummus with Garlic Pita Crisps,1,0,"Avocado, hummus, whole wheat pita bread and olive oil energy 442 kcal, carbs: ... read more",437.5
+Appetizers,Vietnamese Avocado Roll,1,0,"Rice paper sheet, avocado, veggies, chili oil and peanut dip",400.0
+Appetizers,Cowboy Caviar,1,0,"Kidney beans, corn, veggies, feta cheese with nachos. Energy: 538 kcal, carbs: 66. ... read more",350.0
+Appetizers,Holy Guacamole,1,0,Avocado guacamole with nachos,375.0
+Appetizers,Soba Chilli Noodles,1,0,"Tossed in veggies and olive oil. Energy: 789 kcal, carbs: 76. 3 gms, ... read more",400.0
+Appetizers,Chicken Tikka Dry,0,0,,375.0
+Appetizers,Kung Pao Chicken,0,0,"Chicken veggies chilly sauce olive oil, schezwan sauce: 592 kcal, carbs: 20g, protein: ... read more",437.5
+Appetizers,Butter Garlic Chicken,0,0,"[Chef special]. Chicken, butter, olive oil: 616 6 kcal, carbs: 0, protein: 40g, ... read more",437.5
+Appetizers,Soba Chilli Chicken Noodles,0,0,"Tossed in chicken veggies and olive oil: 592 kcal, carbs: 20g, protein: 5. ... read more",475.0
+Starters,Paneer Butter Garlic Dry,1,0,,375.0
+Starters,Mushroom Garlic Dry,1,0,,350.0
+Starters,Kung Pao Paneer,1,0,,400.0
+Starters,Paneer Tikka Dry,1,0,,400.0
+Starters,Pesto Paneer Tikka Dry,1,0,,437.5
+Starters,Shanghai Paneer,1,0,,437.5
+Sourdough Toasties,Garlic Hummus and Mushroom Toastie.,1,0,"[Vegan]. Sourdough bread, mushrooms, hummus. Energy: 382 kcal, carbs: 41. 3 gms, protein: ... read more",250.0
+Sourdough Toasties,Mushroom Black Pepper Toastie.,1,0,"Sourdough bread, mushrooms, olive oil. Energy: 311 kcal, carbs: 36. 8 gms protein: ... read more",250.0
+Sourdough Toasties,Peri Peri Paneer Toastie.,1,0,"Sourdough bread, paneer, veggies]. Energy: 569 kcal, carbs: 47. 6 gms, protein: 20. ... read more",250.0
+Sourdough Toasties,Caprese Toastie,1,0,"Tomatoes, mozzarella, basil and olive oil",250.0
+Sourdough Toasties,Guacamole Toastie,1,0,"Sourdough, guacamole cheese spread",375.0
+Sourdough Toasties,Peri Peri Egg Guac Toastie.,0,0,"One egg white, guacamole veggies sourdough bread: 265 kcal, carbs: 23 9g, protein: ... read more",312.5
+Sourdough Toasties,Peri Peri Chicken Toastie,0,0,"[Best seller]. Chicken veggies, peri peri sauce sourdough bread 317 kcal, carbs: 23 ... read more",375.0
+Sourdough Toasties,Sunrise Egg Guac Toastie,0,0,"[Chef special]. Two egg whites, guacamole veggies sourdough bread: 280 kcal, crabs: 23 ... read more",412.5
+Sourdough Toasties,Chicken Black Pepper Toastie.,0,0,"Chicken veggies sourdough bread: 279 kcal, carbs: 23. 1 gms, protein: 19. 8 ... read more",375.0
+Sourdough Toasties,Avocado Chicken Toastie.,0,0,"Chicken steak and guacamole, sourdough bread: 319 kcal, carbs: 3. 3 gms, protein: ... read more",437.5
+Pizza and Pasta,Pesto Chicken Pizza,0,0,"[Chicken veggies pesto sauce pizza sauce multigrain bread: 359 kcal, carbs: 10g, protein: ... read more",500.0
+Pizza and Pasta,Exotic Heaven Chicken Pizza,0,0,"[Best seller]. Chicken pizza sauce veggies multigrain bread: 359 kcal, carbs: 10g, protein: ... read more",525.0
+Pizza and Pasta,Margarita Mozzarella,1,0,"Pizza base, pizza sauce, mozzarella, tomato. Energy: 486 kcal, carbs: 50. 6 gms, ... read more",375.0
+Pizza and Pasta,Soft Shrooms,1,0,"[Chef special]. Pizza base, pizza sauce, mushrooms, light soy. Energy: 306 kcal, carbs: ... read more",437.5
+Pizza and Pasta,Tandoori Paneer,1,0,"Pizza base, pizza sauce, paneer, veggies. Energy: 621 kcal, carbs: 54. 5 gms, ... read more",437.5
+Pizza and Pasta,Exotic Heaven,1,0,"[Chef special]. [Best seller]. Pizza base, pizza sauce, veggies, mozzarella. Energy: 621 kcal, ... read more",475.0
+Pizza and Pasta,Farm Fresh,1,0,"Pizza base, pesto, mozzarella, veggies, parmesan. Energy: 549 kcal, carbs: 55. 4 gms, ... read more",475.0
+Pizza and Pasta,Spaghetti Aglio Olio,1,0,"Spaghetti, veggies, olive oil, toast. Energy: 742 kcal, carbs: 96. 7 gms protein: ... read more",375.0
+Pizza and Pasta,Spaghetti Lemon Butter,1,0,"Spaghetti, butter, veggies, toast. Energy: 515 kcal, carbs: 91 79, protein: 16. 8 ... read more",400.0
+Pizza and Pasta,Avo Pesto Spaghetti,1,0,"Spaghetti, avo, pesto, toast. Energy: 692 kcal, carbs: 1. 5 gms, protein: 9. ... read more",437.5
+Pizza and Pasta,Chicken Tikka Pizza,0,0,"Chicken veggies, pizza sauce multigrain bread: 449 kcal, carbs: 11 3. 7 gms ... read more",500.0
+Platters,Hummus Lebanese Platter.,1,0,"Falafel, whole wheat pita, lavas strips, served with 3 dips",562.5
+Platters,Lemongrass Paneer Steak Platter,1,0,"Lemongrass bell pepper sauce, paneer steak, sauteed rice, veggies",562.5
+Platters,Mushroom Sauce Platter.,1,0,"Lemongrass bell pepper sauce, paneer steak, sauteed rice, veggies and mushroom sauce",562.5
+Signature Platter,Lemongrass Chicken Steak Platter,0,0,"Lemongrass bell pepper sauce, chicken steak, sauteed rice, veggies",562.5
+Signature Platter,Mushroom Sauce Chicken Platter,0,0,"Rice tossed in lemon grass, veggies, chicken steak, mushroom sauce",562.5
+Signature Platter,Chicken Shawarma Platter,0,0,"Hummus, salad, whole wheat pita, saute chicken",562.5
+Espresso,Espresso,1,0,[Serve 1],175.0
+Espresso,Iced Espresso,1,0,,200.0
+Espresso,Cappuccino,1,0,,250.0
+Frappes,Classic Frappe,1,0,,312.5
+Frappes,Nutella Frappe,1,0,,400.0
+Frappes,Biscoff Frappe,1,0,,437.5
+Iced Coffee,Iced Latte,1,0,,250.0
+Iced Coffee,Bombon,1,0,,250.0
+Iced Coffee,Vietnamese,1,0,,275.0
+Iced Coffee,Espresso Tonic,1,0,,312.5
+Iced Coffee,Iced Mocha,1,0,,312.5
+Smoothies,Mango Berry Smoothie,1,0,"Mango, mixed berry, maple syrup, ice cubes",375.0
+Smoothies,Berry Berry Smoothie,1,0,"Mixed berries, maple syrup, ice cubes",357.14
+Smoothies,Strawberry Protein Smoothie,1,0,"Strawberry, banana, maple syrup, protein powder, ice cubes",437.5
+Smoothies,RICH Chocolate Protein Smoothie,1,0,,437.5
+Smoothies,Classic Mango Shake Smoothie,1,0,,361.9
+Smoothies,Dark Chocolate Almond Smoothie Bowl,1,0,,400.0
+Smoothies,Hazelnut Crunch Smoothie Bowl,1,0,,400.0
+Smoothies,Berry Blast Smoothie Bowl,1,0,,380.0
+Smoothies,Mocha Protein Smoothie,1,0,,450.0
+Coffee and Beverages,Bottled Water,1,0,,25.0
+Signature Flat White,Mocha Flat White,1,0,,312.5
+Soups,Lemon Coriander Soup,1,0,[Vegan]. Served with a slice of garlic toastie,275.0
+Soups,Chennai Central Soup,1,0,"[Vegan]. Tomato puree, chopped onions and garlic, curry, leaves and mustard seeds",275.0
+Soups,Vietnamese Peanut Garlic Soup,1,0,"[Vegan]. Peanut butter, chopped onion, garlic and celery, roasted garlic in coconut milk, ... read more",275.0
+Soups,Cheese Broccoli and Walnut Soup,1,0,"Chopped onion, garlic and celery, broccoli paste, fresh cream and slight cheese",275.0
+Soups,Creamy Tomato and Basil Bisque,1,0,Served with a slice of garlic toastie,300.0
+Soups,Burnt Garlic Soup,1,0,Served with a slice of garlic toastie,300.0
+Soups,Egg White Soup,0,0,"Scrumptious with a slice of garlic toasties. One egg white veggies, olive oil: ... read more",250.0
+Soups,Egg Drop Lemon Coriander Soup,0,0,"Scrumptious with a slice of garlic toasties. One egg white veggies, olive oil: ... read more",275.0
+Soups,Chicken Burnt Garlic Soup,0,0,Scrumptious with a slice of garlic toasties. [Best seller]. Chicken veggies olive oil: ... read more,350.0
+Soups,Cheese Broccoli and Walnut Chicken Soup,0,0,"Scrumptious with a slice of garlic toasties. Chicken veggies walnut cheese, olive oil: ... read more",350.0
+Soups,Chicken Egg Drop Soup,0,0,Scrumptious with a slice of garlic toasties. Chicken one egg white veggies olive ... read more,350.0
+Soups,Chicken Lemon Coriander Soup,0,0,"Scrumptious with a slice of garlic toasties. Chicken veggies, olive oil: 209 4 ... read more",350.0
+Extras,Wheat Garlic Paratha,1,0,,100.0
+Work Out (Gainlean),Boiled Egg (One Whole Boiled Egg),0,0,"[Chef special]. 85 kcal, carbs: 0, protein: 6 5, fat: 6 5",25.0
+Work Out (Gainlean),Yogurt and Paprika Chicken Steak with Sauteed Veggies,0,0,"[Chef special]. Chicken steak veggies chilly oil dip sour cream dip, energy: 449 ... read more",437.5
+Work Out (Gainlean),Grilled Chicken Gymbox,0,0,"Chicken steak veggies sour cream dip salsa dip, energy: 359 kcal, carbs: 10g, ... read more",437.5
+Work Out (Gainlean),Chimichurri Chicken Steak with Sauteed Veggies,0,0,"Chicken steak veggies sour cream dip salsa dip, energy: 359 kcal, carbs: 10g, ... read more",475.0
+Work Out (Gainlean),Pesto Chicken Steak,0,0,"[Chicken veggies pesto sauce pizza sauce multigrain bread: 359 kcal, carbs: ... read more",475.0
+Work Out (Gainlean),Leman Pepper Chicken Steak,0,0,{ Chicken breast marinak in house pepper,452.38
+Coffee & Beverages,Hot chocolate,1,0,,150.0
+Toasties,Chimichuri Avocado Toastie,1,0,"{ Tomato slice ;; guacamole,, feta cheese",357.14
+Sandwiches,Multigrain Indian Style Panini,1,0,"Panini bread, paneer, veggies, chipotle, olive oil. [Energy: 478 kcal, Carbs: 29.8 g, ... read more",350.0
+Sandwiches,Multigrain Pesto and Cottage Cheese Multigrain Panini,1,0,"Panini bread, pesto, paneer, veggies, olive oil. [Energy: 497 kcal, Carbs: 27 g, ... read more",375.0
+Sandwiches,Roasted Mushroom and Bell Pepper Multigrain Panini,1,0,,375.0
+Sandwiches,Nature'S Plate Signature Multigrain Panini,1,0,,437.5
+Sandwiches,Sourdough Caprese Cheese Grilled Sandwich,1,0,"Multigrain bread, mozzarella, pesto, avocado, pesto dip]. Energy: 504 kcal, carbs: 29. 7 ... read more",350.0
+Sandwiches,Sourdough Loaded Veggie Sandwich,1,0,"Multigrain bread, veggies, avocado, pesto hummus]. Energy: 522 kcal, carbs: 40. 8 gms ... read more",400.0
+Sandwiches,Sourdough Chipotle Paneer Grilled Sandwich,1,0,"Multigrain bread, veggies, paneer, chipotle sauce]. Energy: 496 kcal, carbs: 44. 2 gms, ... read more",400.0
+Sandwiches,Grinder Chicken Sandwich,0,0,"Sourdogh bread.,.coleslaw salad.,chicken,.,.,avocado}{",440.0
+Sandwiches,Veg Grinder Sandwich,1,0,"Sourdough bread .,coleslow salad ,,tofu ,.,,avocado",395.0
+Toasties All Day,Chicken Guac Toastie,0,0,"Marinak ,.chicken ,breast gaucamole ,,..///.,//.,",395.24

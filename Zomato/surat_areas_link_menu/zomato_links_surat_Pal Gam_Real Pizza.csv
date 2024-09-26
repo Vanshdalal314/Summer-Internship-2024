@@ -1,0 +1,75 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Zomato Express Meals,Margerita Regular Pizza [6 inches] + Cheese Garlic Bread [2 Piece],1,0,,129.0
+Zomato Express Meals,"2 Classic Regular Pizza [6 inches] + Soft Beverages [250 ml, Subject to Availability]",1,0,,249.0
+Zomato Express Meals,"Cheese Garlic Bread [4 Pieces] + 1 soft Beverage [250 ml, Subject to Availability]",1,0,,119.0
+Zomato Express Meals,"Tikka Tandoori Paneer Pizza [6 inches] +Soft Beverages [250 ml, Subject to Availability]",1,0,,199.0
+Combos,Single Mingle Combo,1,0,"Premium Pizza [Regular, 6 Inches]+ Premium Garlic Bread [2 Pieces]+ Cold drinks 250 ... read more",222.0
+Garlic Breads,Cheese Garlic Bread,1,0,,99.0
+Garlic Breads,Premium Garlic Bread,1,0,,119.0
+Garlic Breads,Special Garlic Bread,1,0,,129.0
+Garlic Breads,Red Sauce Italian Hot Pasta,1,0,,120.0
+"Pizza [Regular, 6 inches]","Margherita Pizza [Regular, 6 inches]",1,0,"Pizza sauce, lots of cheese and tomato Ketchup.",129.0
+"Pizza [Regular, 6 inches]","Cheese blast Pizza [Regular, 6 inches]",1,0,"Extra liquid cheese, full of mozzarella cheese and butter.",129.0
+"Pizza [Regular, 6 inches]","Tometino Pizza [Regular, 6 inches]",1,0,"Tomato, capsicum, green chilli and tomato ketchup.",129.0
+"Pizza [Regular, 6 inches]","Corn Capsicum Pizza [Regular, 6 inches]",1,0,"Capsicum, onion, corn and coriander.",129.0
+"Pizza [Regular, 6 inches]","Veg Fantastic Pizza [Regular, 6 inches]",1,0,"Capsicum, onion, carrot and coriander.",129.0
+"Pizza [Regular, 6 inches]","Barbeque Special Pizza [Regular, 6 inches]",1,0,"Roasted onion, paneer, capsicum, mushroom, tomato, barbeque sauce.",249.0
+"Pizza [Regular, 6 inches]","Paneer Makhani Pizza [Regular, 6 inches]",1,0,"Paneer, capsicum, onion and corn.",249.0
+"Pizza [Regular, 6 inches]","Real Special Pizza [Regular, 6 inches]",1,0,"[Spicy, Chef's Special] Our own special toppings and ingredients.",249.0
+"Pizza [Regular, 6 inches]","Mexican Fashion Pizza [Regular, 6 inches]",1,0,"[Spicy] Mexican gravy and beans, tomato, black olives, sweet corn, green chilli and ... read more",189.0
+"Pizza [Regular, 6 inches]","Tikka Tandoori Paneer Pizza [Regular, 6 inches]",1,0,"[Spicy] Tandoori paneer, onion, chilli flakes, red pepper, capsicum and green chilli.",189.0
+"Pizza [Regular, 6 inches]","Country Exotica Pizza [Regular, 6 inches]",1,0,"Jalapeno, black olive, baby corn, capsicum, onion and sweet corn.",189.0
+"Pizza [Regular, 6 inches]","Spicy Delite Pizza [Regular, 6 inches]",1,0,"[Spicy] Jalapeno, chilli flakes, capsicum, onion and green chilli.",189.0
+"Pizza [Regular, 6 inches]","Italian Special Pizza [Regular, 6 inches]",1,0,"Macaroni, black olive, onion, capsicum, black pepper and green chilli.",189.0
+"Pizza [Regular, 6 inches]","China Town Pizza [Regular, 6 inches]",1,0,"Noodles, cabbage, capsicum, onion, carrot and tomato.",189.0
+"Pizza [Regular, 6 inches]","Cheesy Macaroni Pizza [Regular, 6 inches]",1,0,"Macaroni, black olive, onion, capsicum and liquid cheese.",189.0
+"Pizza [Regular, 6 inches]","Red Indian Treat Pizza [Regular, 6 inches]",1,0,"[Spicy] Black olive, chilli flakes, capsicum, onion and red chilli.",189.0
+"Pizza [Regular, 6 inches]","Party Lover Pizza [Regular, 6 inches]",1,0,"Mushroom, black olives, tomato, capsicum, onion, sweet corn.",189.0
+"Pizza [Regular, 6 inches]","Mushroom Riot Pizza [Regular, 6 inches]",1,0,"Mushroom, jalapeno, onion and capsicum.",189.0
+"Pizza [Regular, 6 inches]","Peri Peri Pizza [Regular, 6 inches]",1,0,"Paneer, capsicum and corn.",189.0
+"Pizza [Regular, 6 inches]","Schezwan Garden Pizza [Regular, 6 inches]",1,0,"[Spicy] Fresh vegetables, onion and capsicum.",189.0
+"Pizza [Regular, 6 inches]","Hot and Spice Pizza [Regular, 6 inches]",1,0,"[Spicy] Red Pepper, jalapeno, onion, green chilli and capsicum.",189.0
+"Pizza [Medium, 8 inches]","Paneer Makhani Pizza [Medium, 8 inches]",1,0,"Paneer, capsicum, onion and corn.",299.0
+"Pizza [Medium, 8 inches]","Real Special Pizza [Medium, 8 inches]",1,0,"[Spicy, Chef's Special] Our own special toppings and ingredients.",299.0
+"Pizza [Medium, 8 inches]","Mexican Fashion Pizza [Medium, 8 inches]",1,0,"[Spicy] Mexican gravy and beans, tomato, black olives, sweet corn, green chilli and ... read more",249.0
+"Pizza [Medium, 8 inches]","Tikka Tandoori Paneer Pizza [Medium, 8 inches]",1,0,"[Spicy] Tandoori paneer, onion, chilli flakes, red pepper, capsicum and green chilli.",249.0
+"Pizza [Medium, 8 inches]","Country Exotica Pizza [Medium, 8 inches]",1,0,"Jalapeno, black olive, baby corn, capsicum, onion and sweet corn.",249.0
+"Pizza [Medium, 8 inches]","Spicy Delite Pizza [Medium, 8 inches]",1,0,"[Spicy] Jalapeno, chilli flakes, capsicum, onion and green chilli.",249.0
+"Pizza [Medium, 8 inches]","Italian Special Pizza [Medium, 8 inches]",1,0,"Macaroni, black olive, onion, capsicum, black pepper and green chilli.",249.0
+"Pizza [Medium, 8 inches]","China Town Pizza [Medium, 8 inches]",1,0,"Noodles, cabbage, capsicum, onion, carrot and tomato.",249.0
+"Pizza [Medium, 8 inches]","Cheesy Macaroni Pizza [Medium, 8 inches]",1,0,"Macaroni, black olive, onion, capsicum and liquid cheese.",249.0
+"Pizza [Medium, 8 inches]","Red Indian Treat Pizza [Medium, 8 inches]",1,0,"[Spicy] Black olive, chilli flakes, capsicum, onion and red chilli.",249.0
+"Pizza [Medium, 8 inches]","Party Lover Pizza [Medium, 8 inches]",1,0,"Mushroom, black olives, tomato, capsicum, onion, sweet corn.",249.0
+"Pizza [Medium, 8 inches]","Mushroom Riot Pizza [Medium, 8 inches]",1,0,"Mushroom, jalapeno, onion and capsicum.",249.0
+"Pizza [Medium, 8 inches]","Schezwan Garden Pizza [Medium, 8 inches]",1,0,"[Spicy] Fresh vegetables, onion and capsicum.",249.0
+"Pizza [Medium, 8 inches]","Hot and Spice Pizza [Medium, 8 inches]",1,0,"[Spicy] Red Pepper, jalapeno, onion, green chilli and capsicum.",249.0
+"Pizza [Medium, 8 inches]","Margherita Pizza [Medium, 8 inches]",1,0,"Pizza sauce, lots of cheese and tomato Ketchup.",189.0
+"Pizza [Medium, 8 inches]","Cheese Blast Pizza [Medium, 8 inches]",1,0,"Extra liquid cheese, full of mozzarella cheese and butter.",189.0
+"Pizza [Medium, 8 inches]","Tometino Pizza [Medium, 8 inches]",1,0,"Tomato, capsicum, green chilli and tomato ketchup.",189.0
+"Pizza [Medium, 8 inches]","Corn Capsicum Pizza [Medium, 8 inches]",1,0,"Capsicum, onion, corn and coriander.",189.0
+"Pizza [Medium, 8 inches]","Veg Fantastic Pizza [Medium, 8 inches]",1,0,"Capsicum, onion, carrot and coriander.",189.0
+"Pizza [Large, 10 inches]","Margherita Pizza [Large, 10 inches]",1,0,"Pizza sauce, lots of cheese and tomato Ketchup.",249.0
+"Pizza [Large, 10 inches]","Cheese Blast Pizza [Large, 10 inches]",1,0,"Extra liquid cheese, full of mozzarella cheese and butter.",249.0
+"Pizza [Large, 10 inches]","Tometino Pizza [Large, 10 inches]",1,0,"Tomato, capsicum, green chilli and tomato ketchup.",249.0
+"Pizza [Large, 10 inches]","Corn Capsicum Pizza [Large, 10 inches]",1,0,"Capsicum, onion, corn and coriander.",249.0
+"Pizza [Large, 10 inches]","Veg Fantastic Pizza [Large, 10 inches]",1,0,"Capsicum, onion, carrot and coriander.",249.0
+"Pizza [Large, 10 inches]","Paneer Makhani Pizza [Large, 10 inches]",1,0,"Paneer, capsicum, onion and corn.",349.0
+"Pizza [Large, 10 inches]","Real Special Pizza [Large, 10 inches]",1,0,"[Spicy, Chef's Special] Our own special toppings and ingredients.",349.0
+"Pizza [Large, 10 inches]","Mexican Fashion Pizza [Large, 10 inches]",1,0,"[Spicy] Mexican gravy and beans, tomato, black olives, sweet corn, green chilli and ... read more",319.0
+"Pizza [Large, 10 inches]","Tikka Tandoori Paneer Pizza [Large, 10 inches]",1,0,"[Spicy] Tandoori paneer, onion, chilli flakes, red pepper, capsicum and green chilli.",319.0
+"Pizza [Large, 10 inches]","Country Exotica Pizza [Large, 10 inches]",1,0,"Jalapeno, black olive, baby corn, capsicum, onion and sweet corn.",319.0
+"Pizza [Large, 10 inches]","Spicy Delite Pizza [Large, 10 inches]",1,0,"[Spicy] Jalapeno, chilli flakes, capsicum, onion and green chilli.",319.0
+"Pizza [Large, 10 inches]","Italian Special Pizza [Large, 10 inches]",1,0,"Macaroni, black olive, onion, capsicum, black pepper and green chilli.",319.0
+"Pizza [Large, 10 inches]","China Town Pizza [Large, 10 inches]",1,0,"Noodles, cabbage, capsicum, onion, carrot and tomato.",319.0
+"Pizza [Large, 10 inches]","Cheesy Macaroni Pizza [Large, 10 inches]",1,0,"Macaroni, black olive, onion, capsicum and liquid cheese.",319.0
+"Pizza [Large, 10 inches]","Red Indian Treat Pizza [Large, 10 inches]",1,0,"[Spicy] Black olive, chilli flakes, capsicum, onion and red chilli.",319.0
+"Pizza [Large, 10 inches]","Party Lover Pizza [Large, 10 inches]",1,0,"Mushroom, black olives, tomato, capsicum, onion, sweet corn.",319.0
+"Pizza [Large, 10 inches]","Mushroom Riot Pizza [Large, 10 inches]",1,0,"Mushroom, jalapeno, onion and capsicum.",319.0
+"Pizza [Large, 10 inches]","Schezwan Garden Pizza [Large, 10 inches]",1,0,"[Spicy] Fresh vegetables, onion and capsicum.",319.0
+"Pizza [Large, 10 inches]","Hot and Spice Pizza [Large, 10 inches]",1,0,"[Spicy] Red Pepper, jalapeno, onion, green chilli and capsicum.",319.0
+Manchurian,Manchurian Dry,1,0,Non Jain,120.0
+Rice and Noodles,Fried Rice,1,0,,120.0
+Rice and Noodles,Schezwan Noodle,1,0,,120.0
+Rice and Noodles,Schezwan Fried Rice,1,0,,120.0
+Rice and Noodles,Manchurian Rice,1,0,Non jain,120.0
+Rice and Noodles,Veg Fried Noodle,1,0,,120.0

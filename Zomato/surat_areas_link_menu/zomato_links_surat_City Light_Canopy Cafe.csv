@@ -1,0 +1,56 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pasta,Masala Pasta,1,0,,80.0
+Pasta,Cheese Masala Pasta,1,0,,100.0
+Pasta,White Sauce Pasta,1,0,,80.0
+Pasta,White Cheese Sauce Pasta,1,0,,100.0
+Burgers and Sandwiches,Mayonnaise Tikki Burger,1,0,"Aloo tikki, onion and sauces.",60.0
+Burgers and Sandwiches,Veggie Burger,1,0,"Aloo tikki, onion, tomato, cucumber, capsicum and special sauces.",80.0
+Burgers and Sandwiches,Chipotle Burger,1,0,"Aloo tikki, onion, tomato and special sauces.",79.0
+Burgers and Sandwiches,Chilli Spicy Burger,1,0,"Aloo tikki, onion, cucumber, capsicum and special sauces.",79.0
+Burgers and Sandwiches,Pizza Burger,1,0,"Onion, tomato, capsicum, olives, jalapeno and special sauces.",100.0
+Burgers and Sandwiches,Canopy Special Burger,1,0,"[Chef's Special] 2 aloo tikki, onion, tomato, capsicum, cucumber and special sauces.",130.0
+Burgers and Sandwiches,Margherita Open Sandwich,1,0,,110.0
+Burgers and Sandwiches,Cheesy Belly Open Sandwich,1,0,,110.0
+Burgers and Sandwiches,Virgin Veggie Open Sandwich,1,0,,140.0
+Burgers and Sandwiches,Cron Fiesta Open Sandwich,1,0,,140.0
+Burgers and Sandwiches,La Fredo Open Sandwich,1,0,,160.0
+Burgers and Sandwiches,Pestal Paneer Open Sandwich,1,0,,180.0
+Burgers and Sandwiches,Bell Pepper Open Sandwich,1,0,,200.0
+Burgers and Sandwiches,Spycito Open Sandwich,1,0,,200.0
+Snacks,Regular Garlic Bread,1,0,,80.0
+Snacks,Cheese Garlic Bread,1,0,,90.0
+Snacks,Cheese Chilli Garlic Bread,1,0,,100.0
+Snacks,Cheese Corn Jalapeno Garlic Bread,1,0,,110.0
+Snacks,Exotic Garlic Bread,1,0,,120.0
+Snacks,Salted French Fries,1,0,,80.0
+Snacks,Peri Peri French Fries,1,0,,90.0
+Snacks,Cheese French Fries,1,0,,110.0
+Snacks,Cheese Balls,1,0,,140.0
+Snacks,Maggi Bhel,1,0,,60.0
+Snacks,Maggi Cheese Bhel,1,0,,70.0
+Snacks,Cheese Mayonnaise Bhel,1,0,,80.0
+Maggi,Masala Maggi,1,0,,50.0
+Maggi,Double Masala Maggi,1,0,,60.0
+Maggi,Cheese Maggi,1,0,,70.0
+Maggi,Double Cheese Maggi,1,0,,90.0
+Maggi,Double Masala Cheese Maggi,1,0,,80.0
+Maggi,Butter Maggi,1,0,,60.0
+Maggi,Vegetable Maggi,1,0,,70.0
+Maggi,Vegetable Cheese Maggi,1,0,,90.0
+Maggi,Mayonnaise Maggi,1,0,,60.0
+Maggi,Mayonnaise Cheese Maggi,1,0,,80.0
+Maggi,Schezwan Maggi,1,0,,60.0
+Maggi,Schezwan Cheese Maggi,1,0,,80.0
+Maggi,Schezwan Mayonnaise Cheese Maggi,1,0,,90.0
+Maggi,Garlic Maggi,1,0,,60.0
+Maggi,Garlic Cheese Maggi,1,0,,80.0
+Maggi,Peri Peri Maggi,1,0,,70.0
+Maggi,Peri Peri Cheese Maggi,1,0,,90.0
+Maggi,Cocktail Maggi,1,0,,120.0
+Maggi,Jain Maggi,1,0,[Jain Preparation],60.0
+Maggi,Jain Cheese Maggi,1,0,[Jain Preparation],80.0
+Maggi,Jain Vegetable Maggi,1,0,[Jain Preparation],70.0
+Maggi,Jain Vegetable Cheese Maggi,1,0,[Jain Preparation],90.0
+Drinks (Beverages),Tea,1,0,,7.0
+Drinks (Beverages),Coffee,1,0,,20.0
+Drinks (Beverages),Cold Coffee,1,0,,50.0

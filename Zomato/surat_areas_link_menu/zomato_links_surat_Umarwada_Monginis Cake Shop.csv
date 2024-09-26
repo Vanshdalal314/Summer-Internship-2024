@@ -1,0 +1,7 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,"Dutch Choco Cake [Small, 500 grams]",1,0,,466.0
+Cakes,"Swiss Desire Cake [Small, 500 grams]",1,0,,466.0
+Snacks,Veg Patty,1,0,,40.0
+Snacks,Paneer Patty,1,0,,45.0
+Pastries,Pineapple Pastry,1,0,,64.0
+Pastries,Choco Chips Pastry,1,0,,81.0

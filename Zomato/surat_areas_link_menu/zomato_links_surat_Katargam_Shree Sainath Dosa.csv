@@ -1,0 +1,43 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Idli,Butter Idli [2 Pc],1,0,,100.0
+Idli,Butter Masala Idli [2pc],1,0,,170.0
+Idli,Dahi Idli [2pc],1,0,,105.0
+Idli,Fried Idli [2 Pc],1,0,,115.0
+Idli,Idli Sambhar [2pc],1,0,,90.0
+Idli,Medu Vada [2pc],1,0,,90.0
+Snack,Dahi Bundi,1,0,,110.0
+Snack,Dahi Vada,1,0,,110.0
+Snack,Samosa,1,0,,90.0
+Dosa,Butter Garlic Sada Dosa(Amul Butter),1,0,,105.0
+Dosa,Butter Nylon Sada Dosa (Amul Butter),1,0,,90.0
+Dosa,Cheese Butter Sada Dosa (Amul Butter),1,0,,155.0
+Dosa,Jain Mysore Masala Dosa,1,0,,140.0
+Dosa,Masala Dosa,1,0,,130.0
+Dosa,Mysore Masala Dosa,1,0,,140.0
+Dosa,Sada Dosa,1,0,,65.0
+Gravy Fancy Dosa,Cheese Mysore,1,0,,250.0
+Gravy Fancy Dosa,Cheese Paneer Surma,1,0,,310.0
+Gravy Fancy Dosa,Cheese Paneer Tukda Mysore,1,0,,320.0
+Gravy Fancy Dosa,Cheese Surma,1,0,,280.0
+Gravy Fancy Dosa,Gotala Green Gravy,1,0,,280.0
+Gravy Fancy Dosa,Gotala Red Gravy,1,0,,280.0
+Gravy Fancy Dosa,Paneer Chilli Mysore,1,0,,310.0
+Gravy Fancy Dosa,Rajwadi Mysore,1,0,,265.0
+Gravy Fancy Dosa,Shree Sainath Special Mysore,1,0,,320.0
+Gravy Fancy Dosa,Sweetcorn Cheese Paneer Surma,1,0,,280.0
+Gravy Fancy Dosa,Sweetcorn Mysore,1,0,,265.0
+Fancy Dosa,Cheese Masala Dosa,1,0,,240.0
+Fancy Dosa,Cheese Palak Dosa,1,0,,265.0
+Fancy Dosa,Cheese Paneer Dosa,1,0,,265.0
+Fancy Dosa,Cheese Paneer Palak Dosa,1,0,,265.0
+Fancy Dosa,Jini Roll Dosa,1,0,,260.0
+Fancy Dosa,Paneer Masala Dosa,1,0,,240.0
+Fancy Dosa,Paneer Palak Dosa,1,0,,265.0
+Fancy Dosa,Pizza Dosa,1,0,,320.0
+Fancy Dosa,Shree Sainath Special Dosa,1,0,,320.0
+Fancy Dosa,Sweet Corn Dosa,1,0,,265.0
+Uttappa,Masala Uttappa,1,0,,180.0
+Uttappa,Onion Uttappa,1,0,,155.0
+Uttappa,Plain Uttappa,1,0,,130.0
+Uttappa,Tomato Onion Uttappa,1,0,,150.0
+Uttappa,Tomato Uttappa,1,0,,155.0

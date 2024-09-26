@@ -1,0 +1,126 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Chicken Dum Biryani With Bone,0,0,Chicken Biryani,410.0
+Biryani,Egg Dum Biryani,0,0,Egg Biryani,340.0
+Biryani,Chicken Tikka Dum Biryani (Boneless),0,0,Chicken Tikka Biryani (Boneless),450.0
+Biryani,Soya Chaap Dum Biryani,1,0,BBC Special Soya Chaap Biryani,400.0
+Biryani,Mix Veg. Dum Biryani,1,0,Mix Veg. Biryani,340.0
+Biryani,BBC Special Kofta Dum Biryani,1,0,BBC Special Veg. Kofta Biryani,400.0
+Biryani,Prawns Dum Biryani,0,0,Prawns Biryani,510.0
+Biryani,Mutton Dum Biryani,0,0,Mutton Biryani,530.0
+Biryani,Paneer Tikka Dum Biryani,1,0,Paneer Tikka Biryani,380.0
+Rolls,Chicken Tikka Roll,0,0,Bbc Special Chicken Tikka Roll,250.0
+Rolls,Egg Roll,0,0,Bbc Special Egg Roll,190.0
+Rolls,Mashroom Roll,1,0,Bbc Special Mashroom Roll,250.0
+Rolls,Mutton Bhuna Roll,0,0,Bbc Special Mutton Bhuna Roll,320.0
+Rolls,Paneer Tikka Roll,1,0,Bbc Special Paneer Tikka Roll,230.0
+Nonveg. Soup,Chicken Hot & Sour Soup,0,0,Hot & Sour Soup (Chicken),210.0
+Nonveg. Soup,Chicken Lemon Coriander Soup,0,0,Lemon Coriander Soup (Chicken),210.0
+Nonveg. Soup,Chicken Manchow Soup,0,0,Manchow Soup (Chicken),210.0
+Nonveg. Soup,Chicken Noodle Broth Soup,0,0,Noodle Broth Soup (Chicken),210.0
+Nonveg. Soup,Chicken Tom Yum Soup,0,0,Tom Yum Soup (Chicken),210.0
+Veg. Soup,Veg. Hot & Sour Soup,1,0,Hot & Sour Soup,180.0
+Veg. Soup,Veg. Lemon Coriander Soup,1,0,Lemon Coriander Soup,180.0
+Veg. Soup,Veg. Manchow Soup,1,0,Manchow Soup,180.0
+Veg. Soup,Veg. Noodle Broth Soup,1,0,Noodle Broth Soup,180.0
+Veg. Soup,Veg. Tom Yum Soup,1,0,Tom Yum Soup,180.0
+Chicken Starters,Chicken Peri Peri Tikka,0,0,Bbc Special Chicken Peri Peri Tikka,410.0
+Chicken Starters,BBC Special Chicken Tukdi Roll,0,0,Chicken Tukdi Roll,420.0
+Chicken Starters,Tandoori Grilled Chicken Lollipop,0,0,Bbc Special Tandoori Grilled Chicken Lollipop,410.0
+Chicken Starters,Chicken Banjara Tikka,0,0,Banjara Chicken Tikka,430.0
+Chicken Starters,Chicken Malai Tikka,0,0,Malai Chicken Tikka,440.0
+Chicken Starters,Chicken Kali Mirch Tikka,0,0,Kali Mirch Chicken Tikka,410.0
+Chicken Starters,Chicken Lahsuni Tikka,0,0,Lahsuni Chicken Tikka,410.0
+Chicken Starters,BBC Special Matki Tikka,0,0,Bbc Special Chicken Matki Tikka,450.0
+Chicken Starters,Chicken Iryani Tikka,0,0,BBC Special Iryani Chicken Tikka,410.0
+Chicken Starters,Chicken Achari Tikka,0,0,Achari Chicken Tikka,410.0
+Chicken Starters,BBC Special Chicken Tandoori Leg,0,0,Chicken Tandoori Leg,630.0
+Chicken Starters,Chicken Mughlai Tikka,0,0,Bbc Special Mughlai Tikka,440.0
+Chinese Starter Nonveg.,Chicken 65,0,0,Chicken 65 (Dry),380.0
+Chinese Starter Nonveg.,Chicken Chilly Dry,0,0,Chicken Chilly (Dry),350.0
+Chinese Starter Nonveg.,Chicken Chilly Gravy,0,0,Chicken Chilly (Gravy),380.0
+Chinese Starter Nonveg.,Classic Chilli Chicken,0,0,Classic Chilli Chicken (Dry),360.0
+Chinese Starter Nonveg.,Drums Of Heaven,0,0,Drums of Heaven (Lollipop),390.0
+Chinese Starter Nonveg.,Golden Fry Prawns,0,0,Golden Fry Prawns 12pcs.,450.0
+Chinese Starter Nonveg.,Kung Pao Chicken,0,0,Kung Pao Chicken (Dry),380.0
+Sea Food Starters,Fish Lahsuni Tikka,0,0,Lahsuni Fish Tikka,480.0
+Sea Food Starters,BBC Special Fish Iryani Tikka,0,0,Fish Iryani Tikka,480.0
+Sea Food Starters,Prawns Iryani Tikka,0,0,Iryani Prawns Tikka,480.0
+Sea Food Starters,Prawns Peri Peri Tikka,0,0,Peri Peri Prawns Tikka,480.0
+Sea Food Starters,Fish Peri Peri Tikka,0,0,Peri Peri Fish Tikka,480.0
+Egg Starters,BBC Special Tandoori Eggs With Classic Indian Spices,0,0,Tandoori Eggs With Classic Indian Spices,280.0
+Egg Starters,BBC Special Tandoori Eggs With Green Spices,0,0,Tandoori Eggs With Green Spices,280.0
+Veg Starters,BBC Special Cheese Tukdi Roll,1,0,Paneer Cheese Tukdi Roll,400.0
+Veg Starters,Tandoori Hyderabadi Soya Chaap,1,0,Hyderabadi Soya Chaap,380.0
+Veg Starters,BBC Special Stuffed Tandoori Potato,1,0,Stuffed Tandoori Potato,340.0
+Veg Starters,Dahi Kebab,1,0,BBC Special Dahi Kebab,360.0
+Veg Starters,Tandoori Soya Chaap,1,0,Soya Chaap,380.0
+Veg Starters,Mix Veg Cheese Kebab,1,0,BBC Special Mix Veg Cheese Kebab,360.0
+Veg Starters,Tandoori Lahsuni Soya Chaap,1,0,Lahsuni Soya Chaap,380.0
+Veg Starters,Tandoori Malai Soya Chaap,1,0,Malai Soya Chaap,400.0
+Veg Starters,Paneer Achari Tikka,1,0,Achari Paneer Tikka,340.0
+Veg Starters,Paneer Tikka,1,0,Classic Paneer Tikka,340.0
+Veg Starters,Paneer Malai Tikka,1,0,Malai Paneer Tikka,370.0
+Veg Starters,Paneer Hyderabadi Tikka,1,0,Hyderabadi Paneer Tikka,360.0
+Veg Starters,Multani Mushroom Tikka,1,0,Multani Stuffed Mushroom Tikka,380.0
+Veg Starters,Paneer Peri Peri Tikka,1,0,Peri Peri Paneer Tikka,360.0
+Veg Starters,Tandoori Mushroom Tikka,1,0,Masale Wale Mushroom,360.0
+Chinese Starter Veg.,Cigar Roll,1,0,Cigar Roll (Dry),270.0
+Chinese Starter Veg.,Lotus Stem In Szechuan Sauce,1,0,Lotus Stem in Szechuan Sauce (Dry),330.0
+Chinese Starter Veg.,Paneer Chilli Dry,1,0,Paneer Chilli (Dry),320.0
+Chinese Starter Veg.,Paneer Chilli Gravy,1,0,Paneer Chilli (Gravy),340.0
+Chinese Starter Veg.,Veg. Crispy,1,0,Veg. Crispy (Dry),270.0
+Chinese Starter Veg.,Veg. Manchurian Dry,1,0,Veg. Manchurian (Dry),280.0
+Chinese Starter Veg.,Veg. Manchurian Gravy,1,0,Veg. Manchurian (Gravy),300.0
+Chicken Curry,Lemon Chicken Curry (Boneless),0,0,Lemon Chicken (Boneless),450.0
+Chicken Curry,Butter Chicken Curry (Boneless),0,0,Butter Chicken (Boneless),460.0
+Chicken Curry,Chicken Angara Curry (Boneless),0,0,Chicken Angara (Boneless),450.0
+Chicken Curry,Chicken Green Masala Curry (Boneless),0,0,BBC Special Chicken Green Masala Curry (Boneless),450.0
+Chicken Curry,Chicken Kolhapuri Curry,0,0,Chicken Kolhapuri,430.0
+Chicken Curry,Chicken Tikka Masala Curry (Boneless),0,0,Chicken Tikka Masala (Boneless),440.0
+Chicken Curry,BBC Special Chicken Handi Curry,0,0,Bbc Special Chicken Handi,430.0
+Chicken Curry,Chicken Black Pepper Curry,0,0,Chicken Black Pepper,410.0
+Mutton Curry,Mutton Angara Curry,0,0,Mutton Angara,500.0
+Mutton Curry,Mutton Green Masala Curry,0,0,Bbc Special Mutton Green Masala Curry,530.0
+Mutton Curry,Mutton Kolhapuri Curry,0,0,Mutton Kolhapuri,520.0
+Mutton Curry,BBC Special Mutton Handi Curry,0,0,Mutton Handi,520.0
+Mutton Curry,Mutton Black Pepper Curry,0,0,Mutton Black Pepper,500.0
+Mutton Curry,BBC Special Mutton Rogan Josh,0,0,Mutton Rogan Josh,530.0
+Prawns Curry,Prawns Green Masala Curry,0,0,BBC Special Prawns Green Masala Curry,530.0
+Prawns Curry,Prwans Rogan Josh,0,0,BBC Special Prwans Rogan Josh,530.0
+Egg Curry,Egg Butter Masala Curry,0,0,Egg Butter Masala,290.0
+Egg Curry,Egg Angara Curry,0,0,Egg Angara,290.0
+Egg Curry,Egg Green Masala Curry,0,0,Egg Green Masala,290.0
+Egg Curry,Egg Kolhapuri Curry,0,0,Egg Kolhapuri,290.0
+Egg Curry,Egg Tikka Masala Curry,0,0,Egg Tikka Masala,280.0
+Egg Curry,BBC Special Egg Handi Curry,0,0,Bbc Special Egg Handi,280.0
+Egg Curry,Egg Black Pepper Curry,0,0,Egg Black Pepper,280.0
+Veg Curry,Paneer Butter Masala Curry,1,0,Paneer Butter Masala,400.0
+Veg Curry,Paneer Angara Curry,1,0,Paneer Angara,390.0
+Veg Curry,Mix Veg Green Masala Curry,1,0,Bbc Special Mix Veg Green Masala Curry,390.0
+Veg Curry,Mix Veg. Kolhapuri Curry,1,0,Veg Kolhapuri,370.0
+Veg Curry,Paneer Tikka Masala Curry,1,0,Paneer Tikka Masala,370.0
+Veg Curry,Paneer Black Pepper Curry,1,0,Paneer Black Pepper,370.0
+Veg Curry,Soya Chaap Tawa Style Curry,1,0,Soya Chaap Tawa Style,380.0
+Veg Curry,Mushroom Tawa Style,1,0,Mushroom Tawa,380.0
+Veg Curry,Mix Veg. Jalfarazi,1,0,Veg. Jalfarazi,370.0
+Breads,Cheese Garlic Naan,1,0,Cheese Garlic Naan (Butter),120.0
+Breads,Kulcha,1,0,Kulcha (Butter),80.0
+Breads,Naan Butter,1,0,Naan (Butter),60.0
+Breads,Naan Plain,1,0,Naan (Plain),50.0
+Breads,Garlic Naan,1,0,Garlic Naan (Butter),80.0
+Breads,Tandoori Roti Butter,1,0,Tandoori Roti (Butter),40.0
+Breads,Tandoori Roti Plain,1,0,Tandoori Roti (Plain),30.0
+Breads,Cheese Naan,1,0,Cheese Naan (Butter),100.0
+Breads,Lachchha Paratha Butter,1,0,Lachchha Paratha (Butter),80.0
+Breads,Lachchha Paratha Plain,1,0,Lachchha Paratha (Plain),60.0
+Rice & Noodles Nonveg.,Chicken Chilli Garlic Noodles,0,0,Chilli Garlic Noodles (Chicken),290.0
+Rice & Noodles Nonveg.,Chicken Chowmein,0,0,Chowmein Noodles (Chicken),290.0
+Rice & Noodles Nonveg.,Chicken Fried Rice,0,0,Fried Rice (Chicken),290.0
+Rice & Noodles Nonveg.,Chicken Hakka Noodles,0,0,Hakka Noodles(Chicken),290.0
+Rice & Noodles Nonveg.,Chicken Triple Rice,0,0,Triple Rice (Chicken),370.0
+Rice & Noodles Nonveg.,Egg Fried Rice,0,0,Fried Rice (Eggs),270.0
+Rice & Noodles Veg.,Veg. Chilli Garlic Noodles,1,0,Veg Chilli Garlic Noodles,270.0
+Rice & Noodles Veg.,Veg. Chowmein,1,0,Veg Chowmein,270.0
+Rice & Noodles Veg.,Veg. Fried Rice,1,0,Veg Fried Rice,270.0
+Rice & Noodles Veg.,Veg. Hakka Noodles,1,0,Veg Hakka Noodles,270.0
+Rice & Noodles Veg.,Veg. Rriple Rice,1,0,Veg Triple Rice,320.0

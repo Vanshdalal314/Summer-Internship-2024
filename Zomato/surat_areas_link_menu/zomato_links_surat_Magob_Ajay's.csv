@@ -1,0 +1,11 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burgers,Veg Burger,1,0,,50.0
+Burgers,Veg Cheese Burger,1,0,,65.0
+Burgers,Tandoori Burger,1,0,,60.0
+Burgers,Tandoori Cheesy Delight Burger,1,0,,75.0
+Burgers,Schezwan Cheesy Delight Burger,1,0,,75.0
+Burgers,Schezwan Burger,1,0,,60.0
+Burgers,Peri Peri Cheesy Delight Burger,1,0,Yummy burger.,75.0
+Burgers,Peri-Peri Burger,1,0,,60.0
+Burgers,Bbq Burger,1,0,,60.0
+Burgers,Bbq Cheesy Delight,1,0,,75.0

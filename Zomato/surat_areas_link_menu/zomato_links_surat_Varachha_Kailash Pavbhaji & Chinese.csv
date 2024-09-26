@@ -1,0 +1,31 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pav Bhaji,Pav Bhaji,1,0,"Best of taste. Mixture of fresh vegetables. [Inc. Lemon-Salad, 2 piece Pav]",135.0
+Pav Bhaji,Singdana Pav Bhaji,1,0,Added crushed peanuts [Singdana].,150.0
+Pav Bhaji,Butter Pav Bhaji,1,0,Loaded with pure Amul butter.,165.0
+Pav Bhaji,Green Pav Bhaji,1,0,Served in pure Amul butter and taste and freshness of green vegetables.,165.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,Served in pure amul butter and cheese.,180.0
+Pav Bhaji,Masala Pav,1,0,,99.0
+Pav Bhaji,Rice Masala Pav,1,0,,109.0
+Pav Bhaji,Oil Pav [2 Pieces],1,0,,6.0
+Pav Bhaji,Butter Pav [2 Pieces],1,0,Served in pure amul butter.,15.0
+Chinese,Veg Manchurian,1,0,Well fried cabbage balls cooked with Chinese sauce.,115.0
+Chinese,Chinese Bhel,1,0,[Chef's Special],115.0
+Chinese,Bombay Bhel,1,0,[Chef's Special],125.0
+Chinese,Paneer Chilli,1,0,[Chef's Special],245.0
+Chinese,Cheese Dry Manchurian,1,0,,185.0
+Chinese,Cheese Bhel,1,0,,185.0
+Chinese,Cheese Bombay Bhel,1,0,[Chef's Special],195.0
+Pulao,Veg Pulao,1,0,,155.0
+Pulao,Butter Pulao,1,0,Served in pure Amul butter.,185.0
+Pulao,Cheese Pulao,1,0,,210.0
+Pulao,Kailash Special Pulao,1,0,[Chef's Special],230.0
+Pulao,Kashmiri Pulao,1,0,,195.0
+Pulao,Tawa Pulao,1,0,,155.0
+Soup,Manchow Soup,1,0,Heavily loaded with onion and garlic.,95.0
+Fried Rice and Noodles,Fried Rice,1,0,[Chef's Special],115.0
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,125.0
+Fried Rice and Noodles,Cheese Fried Rice,1,0,,185.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,[Chef's Special],195.0
+Fried Rice and Noodles,Noodles,1,0,[Chef's Special],115.0
+Fried Rice and Noodles,Cheese Noodles,1,0,,185.0
+Buttermilk,Buttermilk,1,0,Masala chaas.,20.0

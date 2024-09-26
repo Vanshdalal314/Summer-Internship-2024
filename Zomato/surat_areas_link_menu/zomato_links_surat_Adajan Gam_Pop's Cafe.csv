@@ -1,0 +1,93 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Pizza [9 inches],1,0,Real mozzarella cheese.,330.0
+Pizza,Onion and Cheese Pizza [9 inches],1,0,Onion and mozzarella cheese.,340.0
+Pizza,Golden Cheese Corn Pizza [9 inches],1,0,Corn and Mozzarella cheese.,340.0
+Pizza,Cheesy Tomato Pizza [9 inches],1,0,Tomato slice and basil.,350.0
+Pizza,Golden Cheese Corn Pizza with Black Olive,1,0,Corn and black olives.,370.0
+Pizza,Party Lover Pizza [9 inches],1,0,"Corn, capsicum and tomato.",380.0
+Pizza,Farm Fresh Veggies Pizza [9 inches],1,0,"Corn, capsicum, tomato and onion.",390.0
+Pizza,Exotic Veg Pizza [9 inches],1,0,"Bell pepper, tomato, onion, olives and jalapenos.",420.0
+Pizza,Peri Peri Paneer Pizza [9 inches],1,0,"Paneer, capsicum, corn, onion and peri peri.",420.0
+Pizza,Tandoori Paneer Pizza [9 inches],1,0,"Marinated paneer, capsicum, corn and onion.",430.0
+Pizza,Mexican Pizza [9 inches],1,0,"Corn, black olives, tomato, capsicum and beans.",410.0
+Pizza,Italian Pizza [9 inches],1,0,"Combination of olive, red paprika and bell pepper.",460.0
+Pizza,Tom Boy Pizza [9 inches],1,0,"Combination of capsicum, mushroom, olives and jalapenos.",480.0
+Pizza,Lovers Choice Pizza [9 inches],1,0,"Fresh paneer, baby corn mushroom and bell pepper.",480.0
+Pizza,Double Cheese Pizza [9 inches],1,0,Loaded real Mozzarella cheese with extra cheese.,550.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,120.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,150.0
+Burgers and Sandwiches,Aloo Cheese Toast Sandwich,1,0,,110.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,210.0
+Burgers and Sandwiches,Open Cheese Toast Sandwich,1,0,,230.0
+Burgers and Sandwiches,Schezwan Cheese Open Toast Sandwich,1,0,,250.0
+Burgers and Sandwiches,Tandoori Paneer Cheese Open Toast Sandwich,1,0,,260.0
+Burgers and Sandwiches,Exotic Cheese Open Toast Sandwich,1,0,,310.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,280.0
+Burgers and Sandwiches,Schezwan Cheese Grilled Sandwich,1,0,,300.0
+Burgers and Sandwiches,Tandoori Paneer Cheese Grilled Sandwich,1,0,,320.0
+Burgers and Sandwiches,Peri Peri Paneer Cheese Grilled Sandwich,1,0,,320.0
+Burgers and Sandwiches,Pahadi Sandwich,1,0,,450.0
+Burgers and Sandwiches,Veg Burger,1,0,,110.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,150.0
+Burgers and Sandwiches,Paneer Cheese Burger,1,0,,190.0
+Burgers and Sandwiches,Supreme Cheese Burger,1,0,,220.0
+Garlic Breads,Cheese Garlic Bread [4 Pieces],1,0,,180.0
+Garlic Breads,Cheese Chilli Garlic Bread [4 Pieces],1,0,,190.0
+Garlic Breads,Corn Chilli Garlic Bread [4 Pieces],1,0,,220.0
+Garlic Breads,Schezwan Cheese Garlic Bread [4 Pieces],1,0,,220.0
+Garlic Breads,Italian Cheese Garlic Bread [4 Pieces],1,0,,230.0
+Garlic Breads,Poha,1,0,,80.0
+Garlic Breads,Vada Pav,1,0,,40.0
+Garlic Breads,Mayo Vada Pav,1,0,,80.0
+Garlic Breads,Cheese Vada Pav,1,0,,80.0
+Garlic Breads,Cheese & Mayo Vada Pav,1,0,,105.0
+Garlic Breads,French Fries,1,0,,150.0
+Garlic Breads,Maggi Masala Fries,1,0,,170.0
+Garlic Breads,Peri Peri Fries,1,0,,170.0
+Garlic Breads,Cheese Fries,1,0,,270.0
+Garlic Breads,Cheese Mexican Fries,1,0,,290.0
+Garlic Breads,Dry Banana Chips Bhel,1,0,,180.0
+Garlic Breads,Dry Potato Chips Bhel,1,0,,180.0
+Garlic Breads,Nachos with Cheese Sauce,1,0,,260.0
+Garlic Breads,Nachos with Beans,1,0,,320.0
+Garlic Breads,Nachos with Fajita,1,0,,400.0
+Garlic Breads,Bean Tacos,1,0,,260.0
+Garlic Breads,Special Tacos,1,0,[Veg preparation],330.0
+Garlic Breads,Bread Butter,1,0,,40.0
+Garlic Breads,Bread Butter Cheese,1,0,,90.0
+Garlic Breads,Bread Butter Jam,1,0,,55.0
+Garlic Breads,Bread Butter Aloo,1,0,,60.0
+Garlic Breads,Bread Butter Aloo Cheese,1,0,,90.0
+Momos,Veg Steamed Momos [6 Pieces],1,0,,180.0
+Momos,Paneer Steamed Momos [6 Pieces],1,0,,190.0
+Momos,Veg Fried Momos [6 Pieces],1,0,,210.0
+Momos,Paneer Fried Momos [6 Pieces],1,0,,200.0
+Momos,Veg Cheese Steamed Momos [6 Pieces],1,0,,180.0
+Momos,Paneer Cheese Steamed Momos [6 Pieces],1,0,,200.0
+Momos,Cheese Corn Steamed Momos [6 Pieces],1,0,,200.0
+Momos,Veg Cheese Fried Momos [6 Pieces],1,0,,200.0
+Momos,Cheese Corn Fried Momos [6 Pieces],1,0,,230.0
+Momos,Paneer Cheese Fried Momos [6 Pieces],1,0,,230.0
+Momos,Chilli Momos [6 Pieces],1,0,,250.0
+Momos,Tandoori Momos [6 Pieces],1,0,,290.0
+Momos,Afghani Momos [6 Pieces],1,0,,280.0
+Momos,Cheese Gravy Momos [6 Pieces],1,0,,290.0
+Momos,Tandoori Paneer Momos [6 Pieces],1,0,,320.0
+Momos,Crunchy Momos [6 Pieces],1,0,,230.0
+Momos,Tandoori Cheese Momos [6 Pieces],1,0,,350.0
+Momos,Pops Special Momos [6 Pieces],1,0,,400.0
+Shawarma,Mexican Shawarma,1,0,[Veg preparation],190.0
+Shawarma,Paneer Shawarma,1,0,,200.0
+Shawarma,Barbecue Paneer Shawarma,1,0,,210.0
+Shawarma,Paneer Grilled Shawarma,1,0,,210.0
+Shawarma,Paneer Schezwan Shawarma,1,0,,240.0
+Maggi,Masala Maggi,1,0,,99.0
+Maggi,Veg Maggi,1,0,,115.0
+Maggi,Masala Cheese Maggi,1,0,,125.0
+Maggi,Veg Cheese Maggi,1,0,,145.0
+Maggi,Double Masala Maggi,1,0,,145.0
+Maggi,Cheese Chilli Maggi,1,0,,145.0
+Maggi,Double Cheese Maggi,1,0,,160.0
+Drinks (Beverages),Cold Coffee,1,0,,110.0
+Drinks (Beverages),Iced Tea,1,0,,110.0
+Drinks (Beverages),Tea,1,0,Masala Pop's special tea.,40.0

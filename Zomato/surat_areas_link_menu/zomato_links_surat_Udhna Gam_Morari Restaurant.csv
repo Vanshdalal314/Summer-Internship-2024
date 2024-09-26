@@ -1,0 +1,65 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Main Course,Palak Paneer,1,0,,220.0
+Main Course,Matar Paneer,1,0,,220.0
+Main Course,Chana Paneer,1,0,,220.0
+Main Course,Paneer Masala,1,0,,220.0
+Main Course,Paneer Butter Masala,1,0,"Chunks of cottage cheese cooked in dense butter rich gravy of onion, tomatoes ... read more",220.0
+Main Course,Paneer Tikka Masala,1,0,A creamy dish with soft paneer chunks cooked in a rich tomato gravy ... read more,220.0
+Main Course,Paneer Handi,1,0,Soft paneer cubes cooked in creamy and delectable gravy inside traditional pot.,220.0
+Main Course,Paneer Tawa,1,0,,220.0
+Main Course,Paneer Bhurji,1,0,"A popular Indian dish consisting of scambled cottage cheese cooked with tomato, onion ... read more",220.0
+Main Course,Paneer Chatpata,1,0,,220.0
+Main Course,Shahi Paneer,1,0,,220.0
+Main Course,Paneer Balti,1,0,,220.0
+Main Course,Mix Veg,1,0,,170.0
+Main Course,Veg Handi,1,0,,135.0
+Main Course,Veg Kolhapuri,1,0,,199.0
+Main Course,Veg Makhanwala,1,0,,199.0
+Main Course,Paneer Kofta,1,0,"Basically a rich, creamy and spicy curry masala recipe served with stuffed paneer ... read more",240.0
+Main Course,Kaju Kofta,1,0,,280.0
+Main Course,Nargisi Kofta,1,0,,199.0
+Main Course,Kaju Paneer,1,0,"Roasted cashew nuts (kaju) cooked with paneer in a tomato, onion, and spices ... read more",280.0
+Main Course,Kaju Curry,1,0,"Roasted cashew nuts (kaju) cooked in a tomato, onion and spices based rich ... read more",280.0
+Main Course,Kaju Gathiya,1,0,,280.0
+Special Kathiyawadi Subji,Sev Tomato,1,0,,135.0
+Special Kathiyawadi Subji,Chana Masala,1,0,Chana masala is a delicious & flavorful Indian curry made by cooking chickpeas ... read more,135.0
+Special Kathiyawadi Subji,Green Matar,1,0,,135.0
+Special Kathiyawadi Subji,Lasan Aloo,1,0,,150.0
+Special Kathiyawadi Subji,Dum Aloo,1,0,,150.0
+Special Kathiyawadi Subji,Dahi Aloo,1,0,,150.0
+Special Kathiyawadi Subji,Sev Matar,1,0,,135.0
+Special Kathiyawadi Subji,Methi Matar,1,0,,135.0
+Special Kathiyawadi Subji,Dahi Tikhari,1,0,,135.0
+Special Kathiyawadi Subji,Sev Bhaji,1,0,,135.0
+Special Kathiyawadi Subji,Rajwadi Dhokli (Gatta),1,0,,150.0
+Special Kathiyawadi Subji,Bharela Ringan,1,0,,150.0
+Special Kathiyawadi Subji,Bharela Karela,1,0,,150.0
+Dal,Dal Fry,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,100.0
+Dal,Dal Fry Tadka,1,0,,120.0
+Dal,Butter Dal Tadka,1,0,,120.0
+Dal,Dal Makhani,1,0,A creamy dish prepared by cooking black dal and rajma beans in a ... read more,180.0
+Rice and Biryani,Sada Rice,1,0,,80.0
+Rice and Biryani,Mitta Dal Rice,1,0,,99.0
+Rice and Biryani,Tikha Dal Rice,1,0,,120.0
+Rice and Biryani,Jeera Rice,1,0,"A fflavorful Indian rice dish made by cooking basmati rice with ghee, cumin ... read more",120.0
+Rice and Biryani,Masala Rice,1,0,,150.0
+Rice and Biryani,Veg Pulao,1,0,Aromatic rice tossed in a pan with fresh veggies and spices. Serves 1.,199.0
+Rice and Biryani,Veg Paneer Pulao,1,0,"Aromatic rice tossed in a pan with chunks of paneer, fresh veggies and ... read more",220.0
+Rice and Biryani,Special Kaju Pulao,1,0,,250.0
+Rice and Biryani,Special Veg Biryani,1,0,"Nutritious biriyani, cooked with select spices and packed with vegetables, served with raita.",230.0
+Rice and Biryani,Special Paneer Biryani,1,0,,220.0
+Breads,Tawa Roti,1,0,,15.0
+Breads,Butter Roti,1,0,,18.0
+Breads,Paratha,1,0,,35.0
+Breads,Butter Paratha,1,0,,45.0
+Breads,Aloo Paratha,1,0,,80.0
+Breads,Tandoori Roti,1,0,,20.0
+Breads,Tandoori Butter Roti,1,0,,22.0
+Breads,Butter Naan,1,0,,50.0
+Breads,Lachha Butter Paratha,1,0,,50.0
+Accompaniments,Roasted Papad,1,0,,25.0
+Accompaniments,Fried Papad,1,0,,30.0
+Accompaniments,Curd,1,0,,50.0
+Accompaniments,Special Lasun Chatni,1,0,,60.0
+Accompaniments,Sp. Lachhi,1,0,,99.0
+Drinks (Beverages),Buttermilk,1,0,,30.0

@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Patudi,1,0,,70.0
+Snacks,Dudhi Methi Muthiya,1,0,,80.0
+Snacks,Fafda,1,0,,130.0
+Snacks,Jalebi,1,0,,80.0
+Snacks,Fafdi,1,0,,115.0
+Snacks,Tikha Gathiya,1,0,,115.0
+Khaman and Idada,Sada Khaman,1,0,,45.0
+Khaman and Idada,Sev Khaman,1,0,,85.0
+Khaman and Idada,Sev Khamni,1,0,,90.0
+Khaman and Idada,Sev,1,0,,120.0
+Khaman and Idada,Idada,1,0,,55.0
+Locho,Sado Locho,1,0,,55.0
+Locho,Oil Locho,1,0,,100.0
+Locho,Butter Locho,1,0,,130.0
+Locho,Cheese Butter Locho,1,0,,182.0
+Patra,Sada Patra,1,0,,65.0
+Patra,Vagharela Patra,1,0,,85.0
+Samosa,Chinese Samosa,1,0,,105.0
+Samosa,Dal Samosa,1,0,,105.0
+Samosa,Cheese Paneer Samosa,1,0,Cheese paneer samosa.,200.0

@@ -1,0 +1,27 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+China ka Zaika,Veg Manchurian,1,0,,242.0
+China ka Zaika,Chinese Bhel,1,0,,220.0
+China ka Zaika,Bombay Bhel,1,0,,198.0
+China ka Zaika,Paneer Chilli Dry,1,0,,394.49
+China ka Zaika,Schezwan Paneer Chilly,1,0,,394.49
+China ka Zaika,Soya Chilly,1,0,,308.0
+China ka Zaika,Mushroom Chilly,1,0,,346.5
+China ka Zaika,Schezwan Manchurian Dry,1,0,,275.0
+China ka Zaika,Veg Fried Rice,1,0,,220.0
+China ka Zaika,Veg Singapore Fried Rice,1,0,,220.0
+China ka Zaika,Veg Schezwan Fried Rice,1,0,,220.0
+China ka Zaika,Veg Triple Schezwan Fried Rice,1,0,,275.0
+China ka Zaika,Veg Hakka Noodles,1,0,,242.0
+China ka Zaika,Veg Schezwan Noodles,1,0,,253.0
+China ka Zaika,Veg Singapore Noodles,1,0,,275.0
+China ka Zaika,Veg Chowmein,1,0,,220.0
+Accompaniments,Roasted Papad,1,0,,27.71
+Accompaniments,Plain Curd,1,0,,138.53
+Accompaniments,Boondi Raita,1,0,,153.65
+Accompaniments,Veg Raita,1,0,Kachumber-tomato.,195.21
+Drinks (Beverages),Amritsari Lassi,1,0,,98.23
+Drinks (Beverages),Butter Milk,1,0,,69.27
+Meals For One,Jeera Rice [200 Grams] + Dal Fry [200 Grams],1,0,,210.0
+Meals For One,Jeera Rice [200 Grams] + Dal Tadka [200 Grams],1,0,,210.0
+Meals For One,Dal Makhani [200 Grams] + 1 Lachha Paratha,1,0,,210.0
+Meals For One,Chole Chana Masala [200 Grams] + Steamed Rice [200 Gram],1,0,,190.0

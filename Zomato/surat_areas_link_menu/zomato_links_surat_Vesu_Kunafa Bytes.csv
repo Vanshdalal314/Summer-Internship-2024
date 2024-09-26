@@ -1,0 +1,34 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+The Classics,Classic Cheese,1,0,,440.0
+The Classics,Classic Cream,1,0,,385.0
+Toppings,Assorted Mini Kunafas,1,0,,420.0
+Toppings,Blueberry With Cream Cheese,1,0,,440.0
+Toppings,Double Chocolate,1,0,,480.0
+Toppings,Half,1,0,,440.0
+Toppings,KitKat,1,0,,480.0
+Toppings,Kunafa Sundae,1,0,Our classic kunafa topped with pistachio or vanilla ice cream and chocolate sauce.,440.0
+Toppings,Lotus Biscoff,1,0,,450.0
+Toppings,Nutella,1,0,,415.0
+Toppings,Oreo,1,0,,480.0
+Toppings,Pistachio,1,0,,440.0
+Toppings,Red Velvet,1,0,,480.0
+Toppings,Seasonal Special,1,0,,440.0
+Toppings,Shahi Kunafa,1,0,"In a true union of turkish and desi mithai, our shahi kunafa brings ... read more",440.0
+Toppings,Snickers,1,0,,480.0
+Pide (turkish Pizza),Feta Cheese With Spinach,1,0,,340.0
+Pide (turkish Pizza),Mediterranean Veggies,1,0,,340.0
+Pide (turkish Pizza),Mushroom And Caramelized,1,0,,340.0
+Pide (turkish Pizza),Zatar Nd Cheese,1,0,,340.0
+Savory Kunafa,Peri Peri Fries,1,0,,140.0
+Savory Kunafa,Butter Paneer Kunafa,1,0,Turkish Kunafa meets desi paneer masala. Stuffed with butter paneer and served with ... read more,440.0
+Savory Kunafa,Corn & Cheese Kunafa,1,0,,440.0
+Specials,Pistachio Ice-cream,1,0,,140.0
+Specials,Slice Baklava,1,0,,280.0
+Specials,Baklava With Ice Cream,1,0,,280.0
+Drinks (Beverages),Blue Curacao Mojito,1,0,,170.0
+Drinks (Beverages),Ginger Lime Mojito,1,0,,170.0
+Drinks (Beverages),Green Mint Mojito,1,0,,170.0
+Drinks (Beverages),Passion Fruit Mojito,1,0,,170.0
+Drinks (Beverages),Turkish Coffee,1,0,,210.0
+Drinks (Beverages),Kesar Milkshake,1,0,,210.0
+Drinks (Beverages),Pista Milkshake,1,0,,250.0

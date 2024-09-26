@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Pizza,1,0,Lots of cheese.,155.0
+Pizza,Corn Pizza,1,0,Cheese & golden corn.,170.0
+Pizza,Jain Corn Pizza,1,0,Cheese & golden corn.,180.0
+Pizza,Garden Fresh Pizza,1,0,"Onion, capsicum & tomato.",190.0
+Pizza,Spicy Yummy Pizza,1,0,"Onion, tomato & green chilli.",190.0
+Pizza,Party Punch Pizza,1,0,"Capsicum, tomato & golden corn.",190.0
+Pizza,Jain Party Punch Pizza,1,0,"Capsicum, tomato & golden corn.",190.0
+Pizza,Crunchy Pizza,1,0,Onion & capsicum.,180.0
+Pizza,Farm House Pizza,1,0,"Onion, capsicum, tomato & mushroom.",240.0
+Pizza,Mexican Passion Pizza,1,0,"Tomato, capsicum, golden corn, olives with harissa sauce.",205.0
+Pizza,Jain Mexican Passion Pizza,1,0,"Tomato, capsicum, golden corn, olives with harissa sauce.",215.0
+Pizza,Hawaiian Fantasy Pizza,1,0,"Capsicum, golden corn, pineapple, jalapeno with harissa sauce.",215.0
+Pizza,Jain Hawaiian Fantasy Pizza,1,0,"Capsicum, golden corn, pineapple, jalapeno with harissa sauce.",215.0
+Pizza,Red Indian Pizza,1,0,"Onion, capsicum, paneer & red paprika.",215.0
+Pizza,Makhani Lovers Pizza,1,0,"Onion, capsicum, diced paneer, jalapeno with makhani sauce.",230.0
+Pizza,American Heat Pizza,1,0,"Onion, capsicum, baby & corn jalapeno.",230.0
+Pizza,Italian Pizza,1,0,"Onion, capsicum, golden corn, olives & red paprika.",230.0
+Pizza,7 Cheese Pizza,1,0,"Cheddar, mozzarella, orange Cheddar, creamy white cheese, cream orange cheese, monterey jack & ... read more",250.0
+Pizza,Jain 7 Cheese Pizza,1,0,"Cheddar, mozzarella, orange Cheddar, creamy white cheese, cream orange cheese, monterey jack & ... read more",265.0
+Pizza,Hot & Spicy Pizza,1,0,"Onion, tandoori paneer, jalapeno, red paprika with chilli garlic dip sauce.",265.0
+Pizza,Paneer Tikka Masala Pizza,1,0,"Onion, capsicum, paneer tikka, red paprika with kadhai gravy.",250.0
+Pizza,Mushroom Lover Pizza,1,0,"Onion, capsicum, tomato, mushroom, baby corn & red paprika.",265.0
+Pizza,Pasta Pizza,1,0,"Onion, capsicum, golden corn, spicy penne pasta & olives.",265.0
+Pizza,Paneer Bhurji Pizza,1,0,"Onion, capsicum, tomato, green chilli, coriander, paneer bhurji with makhani gravy.",275.0
+Pizza,Tornittos Special Pizza,1,0,"Onion, capsicum, baby corn, olives, jalapeno, red paprika with Italian herbs.",275.0
+Salad,Salad Bowl,1,0,Fresh veggies,120.0
+Snacks,Jain Bread With Cheese,1,0,"A delicious, cheesy bread baked to perfection with a crispy crust and soft, ... read more",120.0
+Snacks,French Fries,1,0,Fried potato,90.0
+Snacks,Jain Golden Corn & Chilli Supreme Bread,1,0,A delicious and crispy golden corn and chilli supreme bread that is filled ... read more,150.0
+Snacks,Jain Pineapple & Chilli Supreme Bread,1,0,,150.0
+Snacks,Jain Tandoori Paneer & Chilli Supreme Bread,1,0,,150.0
+Garlic Breads,Garlic Bread With Cheese,1,0,"A crispy, golden brown bread topped with mozzarella cheese and garlic seasoning. A ... read more",120.0
+Garlic Breads,Onion & Chilli Supreme Garlic Bread,1,0,,150.0
+Garlic Breads,Capsicum & Chilli Supreme Garlic Bread,1,0,"For a light and tasty snack, try our Capsicum and Chilli Garlic Bread.",150.0
+Garlic Breads,Tandoori Paneer & Chilli Supreme Garlic Bread,1,0,A scrumptious combination of Tandori Paneers and Chilli Garlic Bread.,150.0

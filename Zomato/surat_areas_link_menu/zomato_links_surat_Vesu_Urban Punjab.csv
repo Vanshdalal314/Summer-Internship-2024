@@ -1,0 +1,204 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Diet Menu,Diet Soya Chaap (15 Piece),1,0,,350.0
+Diet Menu,Diet Paneer Tikka (12 Piece),1,0,,350.0
+Diet Menu,Diet Mushroom Tikka (10 Piece),1,0,,350.0
+Diet Menu,Saute Vegetables (500Ml Container),1,0,,280.0
+Diet Menu,Kala Chana Salad (500Ml Container),1,0,,240.0
+Diet Menu,White Chana Salad (500Ml Container),1,0,,240.0
+Diet Menu,Paneer Bhurji (300Ml Container) (Serves 2),1,0,,390.0
+Thali,Royal Punjabi Thali With Starter,1,0,Chinese Starter + Veg Sabzi + Paneer Sabzi + 1 Butter Naan + ... read more,425.0
+Thali,Punjabi Thali,1,0,Paneer Sabji + Veg Sabzi + Dal Tadka + Jeera Rice + 3 ... read more,350.0
+Thali,Special Chur Chur Naan Thali,1,0,Chur Chur Naan + Dal Makhani + Chole + Raita + Imly Chutney,350.0
+Thali,Special Amritsari Kulcha Thali,1,0,Special Amritsari Kulcha + Dal Makhani + Chole + Raita + Imly Chutney,320.0
+Thali,Naan Thali Dilli Wali,1,0,Dal Makhanii + Paneer Butter Masala + 2 Baby Butter Naan + Salad ... read more,320.0
+Thali,Tawa Chapati Thali,1,0,Dal Makhanii + Jeera Rice + Paneer Butter Masala + 3 Butter Tawa ... read more,320.0
+Thali,Tawa Paratha Thali,1,0,Dal Makhanii + Jeera Rice + Paneer Butter Masala + 2 Tawa Paratha ... read more,320.0
+Thali,Rumali Roti Tawa Chaap Thali,1,0,Special Tawa Chaap + 2 Baby Butter Rumali + Salad,350.0
+Thali,Aloo Kulcha With Amritsari Chole Special Chutney (Non Jain),1,0,,280.0
+Thali,Aloo Pyaz Kulcha With Amritsari Chole Special Chutney (Non Jain),1,0,,280.0
+Thali,Paneer Kulcha With Amritsari Chole Special Chutney,1,0,,320.0
+Thali,Cheese Chinese Kulcha With Amritsari Chole Special Chutney,1,0,,320.0
+Thali,Special Amritsari Masala Kulcha With Amritsari Chole Special Chutney,1,0,,320.0
+Thali,Chur Chur Naan With Amritsari Chole Special Chutney,1,0,,320.0
+Thali,Paneer Cheese Kulcha With Amritsari Chole Special Chutney,1,0,,350.0
+Thali,Aloo Tawa Paratha Large With Dal Makhani & Mint Chutney (Non Jain),1,0,,230.0
+Thali,Pyaz Tawa Paratha Large With Dal Makhani & Mint Chutney (Non Jain),1,0,,230.0
+Thali,Aloo Pyaz Tawa Paratha Large With Dal Makhani&mint Chutney(non Jain),1,0,,230.0
+Thali,Paneer Tawa Paratha Large With Dal Makhani & Mint Chutney,1,0,,280.0
+Thali,Paneer Pyaz Tawa Paratha Large With Dal Makhani&Mint Chutney(Non Jain),1,0,,280.0
+Thali,Cheese Tawa Paratha Large With Dal Makhani & Mint Chutney,1,0,,280.0
+Thali,Paneer Cheese Tawa Paratha Large With Dal Makhani & Mint Chutney,1,0,,280.0
+Thali,Special Dal Khichdi + Masala Curd,1,0,,280.0
+Thali,Dal Fry + Jeera Rice + Salad,1,0,,250.0
+Thali,Dal Makhani + Jeera Rice + Salad,1,0,,250.0
+Thali,Dal Makhani + 2 Baby Laccha Paratha + Salad,1,0,,280.0
+Thali,Dal Makhani + 2 Baby Butter Naan + Salad,1,0,,280.0
+Thali,Paneer Butter Masala + 2 Baby Laccha Paratha + Salad,1,0,,280.0
+Thali,Paneer Butter Masala + 2 Baby Butter Naan + Salad,1,0,,280.0
+Thali,Special Tawa Chaap + 2 Baby Rumali Roti + Salad,1,0,,280.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Afghani Chaap Dry (15 Piece),1,0,,350.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Chatpati Chaap (15 Piece),1,0,,350.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Masala Chaap (15 Piece),1,0,,350.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Achari Chaap (15 Piece),1,0,,390.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Chilli Garlic Chaap (15 Piece) (Non Jain),1,0,,390.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Schezwan Chaap Spicy (15 Piece) (Non Jain),1,0,,390.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Kali Mirch Cream Chaap (15 Piece),1,0,,410.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Hariyali Chaap (15 Piece),1,0,,410.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Aghhani Cream Chaap (15 Piece),1,0,,410.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Malai Chaap (15 Piece),1,0,,410.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Punjabi Afghani Chaap (15 Piece),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Garlic With Cream Chaap (15 Piece) (Non Jain),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Lahori Chaap (15 Piece),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Lemon Cream Chaap (15 Piece),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Cheesy Murakhan Chaap (15 Piece),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Peri Peri Chaap (15 Piece),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Masala Paneer Stuff Chaap,1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Afghani Paneer Stuff Chaap,1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Achari Paneer Stuff Chaap,1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Schezwan Paneer Stuff Chaap Spicy (Non Jain),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Chilli Garlic Paneer Stuff Chaap (Non Jain),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Malai Paneer Stuff Chaap,1,0,,480.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Garlic With Cream Paneer Stuff Chaap (Non Jain),1,0,,480.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Peri Peri Paneer Stuff Chaap,1,0,,480.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Punjabi Afghani Paneer Stuff Chaap,1,0,,480.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Paneer Tikka Dry (12 Piece),1,0,,410.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Achari Paneer Tikka (12 Piece),1,0,,410.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Hariyali Paneer Tikka (12 Piece),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Chatpata Paneer Tikka (12 Piece),1,0,,425.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Schezwan Paneer Tikka Spicy (12 Piece) (Non Jain),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Malai Paneer Tikka (12 Piece),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Kali Mirch Paneer Tikka (12 Piece),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Garlic With Cream Paneer Tikka (12 Piece) (Non Jain),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Punjabi Afghani Paneer Tikka (12 Piece),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Peri Peri Paneer Tikka (12 Piece),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Achari Mushroom Tikka (10 Piece),1,0,,430.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Creamy Stuff Mushroom (10 Piece),1,0,,490.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Garlic With Cream Mushroom Tikka (10 Piece) (Non Jain),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Kali Mirch Cream Mushroom Tikka (10 Piece),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Malai Mushroom Tikka (10 Piece),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Mushroom Tikka Dry (10 Piece),1,0,,430.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Peri Peri Mushroom Tikka (10 Piece),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Schezwan Mushroom Tikka (10 Piece) (Non Jain),1,0,,470.0
+Tandoor Soya Chaap & Paneer Tikka Starters,Stuff Mushroom Dry (10 Piece),1,0,,470.0
+Special Items,Hara Bhara Kabab (6 Piece),1,0,,350.0
+Special Items,Veg Seekh Kabab (6 Piece),1,0,,350.0
+Special Items,Corn Malai Seekh Kabab (6 Piece),1,0,,350.0
+Special Items,Garden Fresh Pizza Kulcha (9 Inch),1,0,,390.0
+Special Items,Tandoori Paneer Pizza Kulcha (9 Inch),1,0,,425.0
+Special Items,Masala Roll,1,0,"A delightfully flavor-packed roll with assorted veggies saut??d and dressed in delectable sauces, ... read more",260.0
+Special Items,Achari Roll,1,0,,260.0
+Special Items,Schezwan Roll Spicy (Non Jain),1,0,,280.0
+Special Items,Malai Roll,1,0,"Indulge in the rich and creamy flavors of this delectable, vegetarian Khoya sweet ... read more",280.0
+Special Items,Cheesy Malai Loaded Roll,1,0,,299.0
+Special Items,Tandoori Rolls Platter,1,0,4 Types Of Assorted Tandoori Rolls,700.0
+Special Items,Chinese Platter,1,0,4 Type Of Assorted Chinese With Kimchi Salad,800.0
+Special Items,Soya Chaap Platter,1,0,4 Type Of Assorted Soya Chaap,900.0
+Special Items,Paneer Tikka Platter,1,0,4 Type Of Assorted Paneer Tikka,1000.0
+Special Items,Mix Tandoori Platter,1,0,6 Type Of Assorted Barbeque Chaap Paneer & Mushroom Non Jain,1200.0
+Main Course,Dal Fry,1,0,A Flavorful And Comforting Dish Made With Lentils And Spices.?,230.0
+Main Course,Dal Double Tadka,1,0,A mouthwatering and comforting protein-packed double dal tadka made with our special ingredients.,260.0
+Main Course,Dal Makhani,1,0,A Creamy And Savory Dish That'S Sure To Satisfy.?,260.0
+Main Course,Dal Dhabewali,1,0,,260.0
+Main Course,Amritsari Chole,1,0,,260.0
+Main Course,Chana Masala Semi Dry,1,0,,260.0
+Main Course,Veg Mili Juli (Yellow),1,0,,280.0
+Main Course,Veg Kolhapuri (Red) Spicy (Non Jain),1,0,,280.0
+Main Course,Veg Diwani Handi (Green),1,0,Serves1,280.0
+Main Course,Veg Makhanwala (White) (Sweet),1,0,,280.0
+Main Course,Veg Toofani (Red) Spicy (Non Jain),1,0,,280.0
+Main Course,Methi Matar Malai (Sweet),1,0,,280.0
+Main Course,Veg Lajawab (Red),1,0,,280.0
+Main Course,Dum Aloo Bharwa (Red) (Non Jain),1,0,,280.0
+Main Course,Chaap Handi (Red) (Spicy) (Non Jain),1,0,,300.0
+Main Course,Chaap Butter Masala (Red),1,0,,300.0
+Main Course,Special Tawa Chaap (Red),1,0,,300.0
+Main Course,Ginger Lemon Chaap (Yellow) (Non Jain),1,0,,300.0
+Main Course,Chaap Lababdar (Yellow),1,0,,300.0
+Main Course,Special Stuff Chaap Curry (Red),1,0,,300.0
+Main Course,Malai Chaap Curry (White) (Sweet),1,0,,300.0
+Main Course,Kali Mirch Lemon Chaap (Yellow),1,0,,300.0
+Main Course,Paneer Butter Masala (Red),1,0,,300.0
+Main Course,Palak Paneer (Green) (Non Jain),1,0,,300.0
+Main Course,Paneer Lababdar (Yellow),1,0,,300.0
+Main Course,Paneer Tawa Masala (Yellow) (Spicy) (Non Jain),1,0,,300.0
+Main Course,Paneer Tikka Masala (Yellow),1,0,,300.0
+Main Course,Urban Special Paneer (Red),1,0,,300.0
+Main Course,Paneer Handi (Red) (Spicy) (Non Jain),1,0,,300.0
+Main Course,Kadhai Paneer (Red) (Spicy) (Non Jain),1,0,,300.0
+Main Course,Paneer Angara (Red) (Spicy) (Non Jain),1,0,,300.0
+Main Course,Paneer Patiyala (Red) (Non Jain),1,0,,300.0
+Main Course,Paneer Khurchan (Yellow),1,0,,300.0
+Main Course,Paneer Pasanda (Yellow),1,0,,300.0
+Main Course,Paneer Dhania Adraki (Brown) (Non Jain),1,0,,300.0
+Main Course,Paneer Lasuniya (Brown) (Non Jain),1,0,,300.0
+Main Course,Kadhai Mushroom (Red) Spicy (Non Jain),1,0,,300.0
+Main Course,Mushroom Butter Masala (Red) (Non Jain),1,0,,300.0
+Main Course,Mushroom Makhanwala (White) (Sweet) (Non Jain),1,0,,300.0
+Main Course,Mushroom Do Pyaza (Yellow) (Non Jain),1,0,,300.0
+Main Course,Mushroom Tikka Masala (Yellow) Spicy (Non Jain),1,0,,300.0
+Main Course,Veg Kofta (Yellow) (Non Jain),1,0,,350.0
+Main Course,Lajawab Kofta (Red),1,0,,350.0
+Main Course,Malai Kofta (White) (Sweet),1,0,,350.0
+Main Course,Cheese Butter Masala (Red),1,0,,350.0
+Main Course,Cheese Anguri (Yellow),1,0,,350.0
+Main Course,Cheese Chaap Lababdar (Yellow),1,0,,350.0
+Main Course,Cheese Paneer Lababdar (Yellow),1,0,,350.0
+Main Course,Kaju Curry Masala (Orange),1,0,,400.0
+Main Course,Cheese Kaju Curry (Yellow),1,0,,400.0
+Breads,Tawa Chapati Big,1,0,,40.0
+Breads,Tawa Paratha Big,1,0,,60.0
+Breads,Plain Tandoori Roti,1,0,A soft wheat flatbread prepared in a clay oven tandoor.,50.0
+Breads,Butter Tandoori Roti,1,0,A Fluffy And Buttery Tandoori Bread Ideal For Any Vegetarian Main Course.?,60.0
+Breads,Pyaz Ki Roti,1,0,,120.0
+Breads,Butter Lachha Paratha,1,0,,120.0
+Breads,Lal Mirch Paratha,1,0,,120.0
+Breads,Plain Naan,1,0,Soft and fluffy naan tastes amazing when paired with an Indian gravy.,100.0
+Breads,Butter Naan,1,0,"A Fluffy, Pillowy, And Golden-Brown Bread That Melts In Your Mouth With Every ... read more",130.0
+Breads,Butter Kulcha,1,0,"A Soft, Buttery And Flavorful Indian Bread.?",130.0
+Breads,Butter Rumali Roti,1,0,Soft thin refined and whole wheat flour rotis that are served folded like ... read more,150.0
+Breads,Garlic Naan,1,0,"Soft, Buttery Bread With A Hint Of Aromatic Garlic.?",180.0
+Breads,Cheese Garlic Naan,1,0,A Savory Bread Infused With Rich Garlic And Melted Cheese.?,200.0
+Breads,Cheese Naan,1,0,North Indian bread with a generous serving of cheese that tastes brilliant when ... read more,200.0
+Rice And Biryani,Steamed Rice,1,0,"Fluffy And Tender Rice, Steamed To Perfection.?",190.0
+Rice And Biryani,Jeera Rice,1,0,Aromatic Basmati Rice Fused With Warm Spices Creating A Mouth-Watering Symphony Of Flavors. ... read more,230.0
+Rice And Biryani,Veg Pulav,1,0,A Fragrant And Flavorful Rice Dish Packed With A Variety Of Colorful Vegetables.?,280.0
+Rice And Biryani,Paneer Pulav,1,0,This Savory Dish Combines Tender Rice And Flavorful Spices With A Rich And ... read more,330.0
+Rice And Biryani,Veg Biryani (Non Jain),1,0,Served With Salan And Raita,330.0
+Rice And Biryani,Hyderabadi Biryani,1,0,Served With Salan And Raita,390.0
+Rice And Biryani,Mushroom Tikka Biryani (Non Jain),1,0,Served With Salan And Raita,390.0
+Rice And Biryani,Paneer Tikka Biryani,1,0,Served With Salan And Raita,390.0
+Rice And Biryani,Soya Chaap Tikka Biryani,1,0,Served With Salan And Raita,390.0
+Rice And Biryani,Chef Special Biryani,1,0,Served With Salan And Raita,400.0
+Accompaniments,Roasted Papad,1,0,Crispy And Flavorful Indian Appetizer With A Smokey Roasted Taste.?,40.0
+Accompaniments,Fry Papad,1,0,Serve 1,60.0
+Accompaniments,Plain Curd (300 Ml Container),1,0,,120.0
+Accompaniments,Masala Curd (300 Ml Container),1,0,,120.0
+Accompaniments,Boondi Raita (300 Ml Container),1,0,,150.0
+Accompaniments,Veg Raita (300 Ml Container),1,0,,150.0
+Accompaniments,Special Green Mint Chutney (150 Ml Container),1,0,,70.0
+Accompaniments,Spicy Onion Salad (300 Ml Container),1,0,,100.0
+Accompaniments,Creamy Onion Salad (300 Ml Container),1,0,,140.0
+Accompaniments,Green Salad (500 Ml Container),1,0,,180.0
+Kulfi And Falooda,Rabdi Kulfi (150 Ml Container),1,0,,140.0
+Kulfi And Falooda,Special Rabdi (150 Ml Container),1,0,,140.0
+Kulfi And Falooda,Rabdi Falooda (300 Ml Glass),1,0,,200.0
+Kulfi And Falooda,Royal Falooda (300 Ml Glass),1,0,,240.0
+Kulfi And Falooda,Rose Falooda (300 Ml Glass),1,0,,260.0
+Kulfi And Falooda,Mango Falooda (250 Ml Glass),1,0,,260.0
+Kulfi And Falooda,Rabdi Family Pack (500 Ml),1,0,,700.0
+Kulfi And Falooda,Hot Gulab Jamun [4 Pieces],1,0,,120.0
+Sugarfree Desserts,Sugarfree Rabdi (150 Ml Container),1,0,,180.0
+Sugarfree Desserts,Sugarfree Falooda (300 Ml Glass),1,0,,240.0
+Sugarfree Desserts,Sugarfree Patiyaala Lassi (300 Ml),1,0,,180.0
+Drinks (Beverages),Butter Milk Jumbo (300 Ml),1,0,,70.0
+Drinks (Beverages),Patiala Lassi Sweet Jumbo (300 Ml),1,0,,140.0
+Drinks (Beverages),Rose Lassi Jumbo (300 Ml),1,0,,160.0
+Drinks (Beverages),Mango Lassi Jumbo (300 Ml),1,0,,160.0
+Drinks (Beverages),Blackcurrent Lassi Jumbo (300 Ml),1,0,,160.0
+Shakes And More,Cold Coffee (300 Ml),1,0,,200.0
+Shakes And More,Vanila Shake (300 Ml),1,0,,200.0
+Shakes And More,Rose Shake (300 Ml),1,0,,250.0
+Shakes And More,Mango Shahe (300 Ml),1,0,,250.0
+Shakes And More,Chocolate Shake (300 Ml),1,0,,250.0
+Shakes And More,Oreo Shake (300 Ml),1,0,,280.0
+Shakes And More,Kitkat Shake (300 Ml),1,0,,280.0

@@ -1,0 +1,96 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Double Cheese Margheritta Pizza,1,0,A classic pizza fully loaded with cheddar and mozzarella cheese.,180.0
+Pizza,Farm House Pizza,1,0,A perfect combo tomato onion and capsicum which brings you the freshness of ... read more,180.0
+Pizza,Florets Pizza,1,0,A beautiful combination of golden corn grilled mushroom crispy green capsicum and healthy ... read more,260.0
+Pizza,Garden Special Pizza,1,0,"An amazing combination of onion, grilled mushroom and golden corn with our very ... read more",180.0
+Pizza,Hot Sweet & Sour Pizza,1,0,A amazing combination of sour jalapenos hot red paprika and juicy pineapple which ... read more,260.0
+Pizza,Mediterranean Pizza,1,0,An exotic combination of golden corn black olives sour jalapenos spicy green chilly ... read more,260.0
+Pizza,Paneer Mania Pizza,1,0,A wonderful trio of juicy grilled paneer crispy green capsicum and onion.,230.0
+Pizza,Pasta In Pizza,1,0,A fully loaded cheesy pizza with penne pasta which brings the authentic italian ... read more,260.0
+Pizza,Pepper Paradise Pizza,1,0,A awesome combination of spicy red paprika green chilly and colored bell peppers.,230.0
+Pizza,Spicy Blast Pizza,1,0,A exotic combination of black olives onion green capsicum green chilly and jalapenos.,230.0
+Pizza,Veggie World Pizza,1,0,A four colorful combination golden corn black olives green capsicum and red paprika.,230.0
+Pizza,Bbq Chicken Pizza,1,0,A combination of sweet and sour chicken and onion served with bbq sauce ... read more,210.0
+Pizza,Big Meats Pizza,1,0,A big meats combination of all variants of chicken( spicy chicken bbq chicken ... read more,330.0
+Pizza,Carribean Pizza,1,0,A authentic caribbean style foursome combination of onion jalapenos golden corn and juicy ... read more,240.0
+Pizza,Chicken Lover Pizza,1,0,A perfect combination of crispy green capsicum jalapenos hot red paprika and green ... read more,330.0
+Pizza,Chicken Supremo Pizza,1,0,A delightful supreme combination of onion golden corn and dual combination of juicy ... read more,270.0
+Pizza,Chicken Topper Pizza,1,0,An authentic combination of onion crispy green capsicum and black olives combined with ... read more,270.0
+Pizza,Chicken Treat Pizza,1,0,A wonderful trio combination of crispy green capsicum tomato and juicy spicy chicken ... read more,240.0
+Pizza,Chicken Twister Pizza,1,0,A flavorful twist in the combination of black olives crispy green capsicum and ... read more,240.0
+Pizza,Chicken Ultima Pizza,1,0,A ultimate combination of chicken sausage bbq chicken crispy green capsicum and hot ... read more,270.0
+Pizza,Fusion Pizza,1,0,A fusion combination of golden corn hot red paprika crispy chicken sausage and ... read more,270.0
+Pizza,Hawaiian Pizza,1,0,A unique combination of pineapple chicken ham with extra loaded cheese.,330.0
+Pizza,Pepperoni Pizza,1,0,Pork Pepperoni With Extra Cheese.,330.0
+Pizza,Spicy Chicken Pizza,1,0,A spicy combination hot spicy grilled chicken and crispy capsicum.,210.0
+Burger,Bbq Chicken Burger,1,0,Chicken patty dipped with BBQ sauce & packed fresh burger buns with burger ... read more,190.0
+Burger,Bbq Veg Burger,1,0,Veg patty with bbq sauce packed within fresh burger buns with fresh veggies.,140.0
+Burger,Crispy Chicken Burger,1,0,Crispy chicken patty packed within fresh burger buns with burger mayo and fresh ... read more,190.0
+Burger,Fried Chicken Burger,1,0,,220.0
+Burger,Paneer Burger,1,0,Crunchy paneer packed within fresh burger buns with burger mayo and fresh veggies.,160.0
+Burger,Veg Burger,1,0,Crispy veg patty packed within fresh burger buns with burger mayo and fresh ... read more,140.0
+Combo,Non Veg Couple Medium Combo,1,0,Medium Pizza (Choose Any) + 1 Pc Chicken Wings + 1 Pc Garlic ... read more,700.0
+Combo,Non Veg Couple Pasta Combo,1,0,Medium Pizza (Choose Any) + 1 Non Veg Pasta+ 1 Dessert,600.0
+Combo,Non Veg Couple Regular Combo,1,0,,550.0
+Combo,Non Veg Family Combo,1,0,,1200.0
+Combo,Veg Couple Medium Combo,1,0,Medium Pizza (Choose Any) + 1 Veg Pasta+ 1 Dessert,700.0
+Combo,Veg Couple Pasta Combo,1,0,2 Medium Pizza (Choose Any) + Regular Potato Wedges + Regular French Fries ... read more,500.0
+Combo,Veg Couple Regular Combo,1,0,,450.0
+Combo,Veg Family Combo,1,0,,1000.0
+Garlic Bread,Bbq Chicken Cheese Garlic Bread,1,0,Fresh Italian bread with rich garlic flavor toasted in garlic butter with bbq ... read more,160.0
+Garlic Bread,Cheese Garlic Bread,1,0,Fresh italian bread with rich garlic flavor toasted in garlic butter loaded with ... read more,140.0
+Garlic Bread,Chicken Cheese Garlic Bread,1,0,Fresh Italian bread with rich garlic flavor toasted in garlic butter loaded with ... read more,160.0
+Garlic Bread,Chili Cheese Garlic Bread,1,0,Fresh Italian bread with rich garlic flavor toasted in garlic butter loaded with ... read more,160.0
+Garlic Bread,Corn Cheese Garlic Bread,1,0,Fresh Italian bread with rich garlic flavor toasted in garlic butter loaded with ... read more,150.0
+Garlic Bread,Jalapenos Cheese Garlic Bread,1,0,Fresh italian bread with rich garlic flavor toasted in garlic butter loaded with ... read more,160.0
+Garlic Bread,Olives Cheese Garlic Bread,1,0,,160.0
+Garlic Bread,Plain Garlic Bread,1,0,Fresh italian bread with rich garlic flavor toasted in garlic butter.,100.0
+Garlic Bread,Pork Pepperoni Cheese Garlic Bread,1,0,Fresh Italian bread with rich garlic flavor toasted in garlic butter loaded with ... read more,210.0
+Garlic Bread,Spicy Chicken Cheese Garlic Bread,1,0,Fresh italian bread with rich garlic flavor toasted in garlic butter loaded with ... read more,160.0
+Maggie,Cheese Maggie,1,0,,110.0
+Maggie,Chicken & Cheese Maggie,1,0,,190.0
+Maggie,Chili Cheese Maggie,1,0,,150.0
+Maggie,Corn Cheese Maggie,1,0,,140.0
+Maggie,Schezwan Maggie,1,0,,170.0
+Pasta,Cheesy Mushroom Pasta(veg),1,0,Pasta sauted in rich flavorful white sauce topped with grilled mushroom and crispy ... read more,230.0
+Pasta,Cream Of Mushroom Pasta(non-veg),1,0,Pasta sauted in rich flavorful white sauce topped with grilled mushroom and crispy ... read more,260.0
+Pasta,Cream And Mushroom Pasta,1,0,Pasta sauted in rich flavorful white sauce topped with grilled mushroom and crispy ... read more,210.0
+Pasta,Tangy Arabitta Pasta(non-veg),1,0,"Zucchini, mushroom & tangy and arrabbiata sauce.",240.0
+Pasta,Tangy Arabitta Pasta(veg),1,0,"Zucchini, mushroom & tangy and arrabbiata sauce.",180.0
+Salad,Chicken Italian Pasta Salad,1,0,"Sprinkled with a combination of Indian flavors, pasta and served in bowl of ... read more",230.0
+Salad,Fresh Veg Salad,1,0,"Sprinkled with a combination of Indian flavors, grilled and served in bowl of ... read more",180.0
+Salad,Mixed Chicken Salad,1,0,"Sprinkled with a combination of Indian flavors, grilled and served in bowl of ... read more",240.0
+Salad,Veg Italian Pasta Salad,1,0,,190.0
+Sides,French Fries,1,0,Your all time favorite munchies.,140.0
+Sides,Paneer Fingers,1,0,,180.0
+Sides,Peri Peri Fries,1,0,There is never a good way to eat crispy fried potatoes with peri ... read more,160.0
+Sides,Potato Wedges,1,0,Heavenly potato goodness in a different shape.,160.0
+Sides,Veg Fingers,1,0,A perfectly fried combination of potato corn and peas.,160.0
+Sides,Chicken Dynamic,1,0,"Our special!!! way of presenting chicken to make your taste buds more exciting, ... read more",250.0
+Sides,Chicken Nuggets,1,0,Fried minced chicken comes as a nugget with dips.,160.0
+Sides,Chicken Popcorn,1,0,"Crunchy, spicy, juicy deep fried chicken coated with crispy layer for your delicious ... read more",170.0
+Sides,Chicken Strips,1,0,"Boneless chicken for your convenience tenderly cooked with juicy, crispy layer.",200.0
+Sides,Crab Lolipop,1,0,"Crunchy, juicy, delicious meat for sea food lovers, with crispy layer making food ... read more",210.0
+Sides,Pan Fried Sausage,1,0,Pan fried chicken sausage topped with black pepper.,210.0
+Drinks (Beverages),Butterscotch Shake,1,0,Butterscotch lovers? try this!!,190.0
+Drinks (Beverages),Choclate Shake,1,0,Vanilla ice cream blended with rich chocolates,190.0
+Drinks (Beverages),Vanilla Shake,1,0,,180.0
+Drinks (Beverages),Blue Lady,1,0,,100.0
+Drinks (Beverages),Mint Magic,1,0,,100.0
+Drinks (Beverages),Queen Berry,1,0,,100.0
+Drinks (Beverages),Vintage,1,0,,100.0
+Drinks (Beverages),Blueberry Shake,1,0,Real blueberry fruit blended with real vanilla ice cream....,190.0
+Drinks (Beverages),Go Huvana Banana Shake,1,0,Frozen banana blended with creame vanilla ice cream,190.0
+Drinks (Beverages),Mast Mango Shake,1,0,Real mangoes blended with pure vanilla ice creams,190.0
+Drinks (Beverages),Mixed Berry Shake,1,0,Mix of strawberry and blueberry fruits in vanilla ice cream,190.0
+Drinks (Beverages),Strawberry Shake,1,0,Real taste of fresh strawberry fruit in iced vanilla cream...,190.0
+Drinks (Beverages),American-brownie Shake,1,0,Rich american brownie blended with icecream.,230.0
+Drinks (Beverages),Chocochip Shake,1,0,Rich choco chip milkshake,200.0
+Drinks (Beverages),Kitkat Shake,1,0,Vanilla ice cream blended with rich kit kat chocolate,200.0
+Drinks (Beverages),Oreo Shake,1,0,Your favourite oreo's blended with rich ice cream...,200.0
+Drinks (Beverages),7Up (200Ml),1,0,,30.0
+Drinks (Beverages),Pepsi (200Ml),1,0,,30.0
+Sauce,Bbq Sauce,1,0,,25.0
+Sauce,Spicy Moroccan Sauce,1,0,,25.0
+Desserts,Brownie,1,0,,100.0
+Desserts,Choco Lava Cake,1,0,,100.0

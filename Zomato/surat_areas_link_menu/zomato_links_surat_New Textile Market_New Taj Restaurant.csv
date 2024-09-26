@@ -1,0 +1,61 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Veg Deluxe Thali,1,0,1 Paneer Butter Masala+3 Butter Chapati/2 Butter Tandoori Roti+Dal Fry+Jeera Rice+Gulab Jamun [1 ... read more,210.0
+Main Course,Dal Fry,1,0,,140.0
+Main Course,Dal Tadka,1,0,,170.0
+Main Course,Paneer Butter Masala,1,0,,200.0
+Main Course,Veg Handi,1,0,,170.0
+Main Course,Paneer Tikka,1,0,,200.0
+Main Course,Veg Kadai,1,0,,170.0
+Main Course,Paneer Toofani,1,0,,200.0
+Main Course,Paneer Kadai,1,0,,200.0
+Main Course,Paneer Lajawab,1,0,,200.0
+Main Course,Paneer Handi,1,0,,200.0
+Main Course,Cheese Masala,1,0,,220.0
+Main Course,Butter Cheese Paneer,1,0,,240.0
+Main Course,Kaju Curry,1,0,,230.0
+Main Course,Kaju Paneer,1,0,,230.0
+Main Course,Paneer Bhurji,1,0,,220.0
+Main Course,Paneer Mushroom,1,0,,220.0
+Main Course,Shahi Paneer,1,0,,220.0
+Main Course,Palak Paneer,1,0,,220.0
+Main Course,Chana Paneer,1,0,,200.0
+Main Course,Paneer Chatpata,1,0,,200.0
+Main Course,Matar Paneer,1,0,,200.0
+Main Course,Bhindi Masala,1,0,,150.0
+Main Course,Bhindi Fry,1,0,,160.0
+Main Course,Aloo Gobi,1,0,,150.0
+Main Course,Sev Tomato,1,0,,150.0
+Main Course,Aloo Matar,1,0,,140.0
+Main Course,Malai Kofta,1,0,,200.0
+Main Course,Veg Kofta,1,0,,180.0
+Main Course,Paneer Kofta,1,0,,250.0
+Main Course,Kaju Kofta,1,0,,230.0
+Main Course,Cheese Kofta,1,0,,230.0
+Rice and Biryani,Veg Pulao,1,0,,180.0
+Rice and Biryani,Jeera Rice,1,0,,130.0
+Rice and Biryani,Veg Biryani,1,0,,210.0
+Rice and Biryani,Veg Hyderabadi Biryani,1,0,,220.0
+Rice and Biryani,Paneer Cheese Biryani,1,0,,220.0
+Rice and Biryani,Dal Khichdi,1,0,,220.0
+Rice and Biryani,Plain Rice,1,0,,80.0
+Rice and Biryani,Paneer Biryani,1,0,,220.0
+Breads,Plain Chapati,1,0,,18.0
+Breads,Tandoori Roti,1,0,,20.0
+Breads,Butter Chapati,1,0,,25.0
+Breads,Tandoori Laccha Paratha,1,0,,40.0
+Breads,Tandoori Butter Naan,1,0,,40.0
+Breads,Tandoori Butter Kulcha,1,0,,40.0
+Breads,Cheese Butter Naan,1,0,,60.0
+Breads,Butter Tandoori Roti,1,0,,25.0
+Breads,Tandoori Methi Roti,1,0,,40.0
+Accompaniment,Fry Papad,1,0,,28.0
+Special Combos,Dal Fry Combo,1,0,Dal fry+jeera rice+salad+butter milk,280.0
+Special Combos,Paneer Butter Masala Combo,1,0,Paneer butter masala+2 butter chapati+salad+butter milk,310.0
+Special Combos,Paneer Tikka Masala Combo,1,0,Paneer tikka masala+2 butter chapati+salad+butter milk,220.0
+Special Combos,Kaju Curry Combo,1,0,Kaju curry+2 butter chapati+salad+butter milk,340.0
+Special Combos,Paneer Lajawab with Dal Tadka and Plain Rice,1,0,Paneer Lajawab+Dal Tadka+Plain Rice+6 Chapati+2 Chaas,850.0
+Special Combos,Paneer Tikka with Dal Tadka and Plain Rice,1,0,Paneer Tikka+Dal Tadka+Plain Rice+6 Chapati+2 Chaas,850.0
+Special Combos,Paneer Toofani with Dal Tadka and Sev Tomato,1,0,Paneer Toofani+Dal Tadka+Sev Tomato+6 Chapati+2 Chaas,850.0
+Special Combos,Paneer Butter Masala with Dal Tadka and Aloo Matar,1,0,Paneer Butter Masala+Dal Tadka+Aloo Matar+6 Chapati+2 Chaas,850.0
+Special Combos,Paneer Handi with Dal Tadka and Jeera Rice,1,0,Paneer Handi+Dal Tadka+Jeera Rice+6 Chapati+2 Chaas,850.0
+Drinks (Beverages),Butter Milk,1,0,,35.0

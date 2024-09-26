@@ -1,0 +1,125 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Suman Papad,Handmade Single Mari Papad [250 grams],1,0,[Ready to Roast/Fry] Lentil crackers with black pepper. Perfect appetizer for any occasion.,90.0
+Suman Papad,Handmade Green Chilli Papad [250 grams],1,0,[Ready to Roast/Fry] Lentil crackers with fresh green chilli.,90.0
+Suman Papad,Handmade Garlic Papad [250 grams],1,0,[Ready to Roast/Fry] Lentil crackers with garlic & green chilli. Green garlic used ... read more,90.0
+Suman Papad,Special Amritsari Papad [250 grams],1,0,A special Amritsar Papad made with a medley of fresh herbs and spices ... read more,95.0
+Suman Papad,Special Chutney Papad [250 grams],1,0,"A delicious and tangy chutney made with green garlic, green chilli, ginger and ... read more",95.0
+Suman Papad,Handmade Double Mari Papad [250 grams],1,0,"A crunchy and flavorful snack, handmade double mari papad is a popular papad ... read more",95.0
+Suman Papad,Handmade Moong Udad Dhamta Papad [250 grams],1,0,"Handcrafted with moong and urad dal, these papads are a delicious accompaniment to ... read more",95.0
+Suman Papad,Handmade Red Chilli Papad [250 grams],1,0,"Handmade Red Chili Papad is a crispy, crunchy, and tangy papad that is ... read more",95.0
+Suman Papad,Handmade White Chilli Papad [250 grams],1,0,Handmade white chilli papad is a crunchy and crispy snack made with white ... read more,95.0
+Suman Papad,Handmade Rajwadi Papad [250 grams],1,0,Handmade Rajawadi papads are a traditional Indian snack made from lentil batter. These ... read more,95.0
+Suman Papad,Handmade Tiranga Papad [250 grams],1,0,"A handmade papad with the Indian tricolor flag pattern, this savory snack is ... read more",95.0
+Suman Papad,Handmade Jeera Mari Papad [250 grams],1,0,A crunchy and flavourful papad made with urad dal flour and jeera [cumin ... read more,95.0
+Suman Papad,Khichya Papdi [500 grams],1,0,Rice papad.,110.0
+Suman Papad,Chola Vadi [200 grams],1,0,,65.0
+Suman Papad,Sabudana Batka Chakli [200 grams],1,0,Kachi.,85.0
+Suman Papad,Single Mari Disco Papad [250 grams],1,0,Coin size papad.,75.0
+Suman Papad,Garlic Disco Papad [250 grams],1,0,Coin size papad. Ready to fry/roast.,75.0
+Suman Papad,Green Chilli Disco Papad [250 grams],1,0,Coin size papad. Ready to fry/roast.,75.0
+Suman Papad,Disco Khichiya Papdi [200 grams],1,0,Coin-size papdi. Ready to fry.,40.0
+Snacks and Savoury,Sindhav Salt Potato Chips,1,0,,80.0
+Snacks and Savoury,Sindhav Salt Banana Chips,1,0,,80.0
+Snacks and Savoury,Yellow Banana Chips [200 grams],1,0,,80.0
+Snacks and Savoury,Udupi Chakli Manchurian [100 grams],1,0,,45.0
+Snacks and Savoury,Udupi Chakli Plain [100 grams],1,0,,45.0
+Snacks and Savoury,Udupi Chakli Masala [100 grams],1,0,,45.0
+Snacks and Savoury,Udupi Chakli Panipuri [100 grams],1,0,,45.0
+Snacks and Savoury,Suman Special Wheat Butter Chakli,1,0,,60.0
+Snacks and Savoury,Soya Stick [200 grams],1,0,,60.0
+Snacks and Savoury,Panipuri Stick [200 grams],1,0,,60.0
+Snacks and Savoury,Manchurian Stick [200 grams],1,0,Contains garlic.,60.0
+Snacks and Savoury,Schezwan Stick [200 grams],1,0,,60.0
+Snacks and Savoury,Tomato Stick [200 grams],1,0,,60.0
+Snacks and Savoury,Maggi Stick [200 grams],1,0,,60.0
+Namkeen and Biscuits,Kurkure [180 grams],1,0,,40.0
+Namkeen and Biscuits,Manchurian Bingo [180 grams],1,0,,40.0
+Namkeen and Biscuits,Cheese Bingo [180 grams],1,0,,40.0
+Namkeen and Biscuits,Schezwan Bingo [180 grams],1,0,,40.0
+Namkeen and Biscuits,Tomato Bingo [180 grams],1,0,,40.0
+Namkeen and Biscuits,Achari Bingo [180 grams],1,0,,40.0
+Namkeen and Biscuits,Sweet Sakkarpara [200 grams],1,0,,50.0
+Namkeen and Biscuits,Bhelpuri [200 grams],1,0,,50.0
+Namkeen and Biscuits,Chana Jor Garam Chapta Chana [200 grams],1,0,,50.0
+Namkeen and Biscuits,Khara Chana [200 grams],1,0,Salted chana.,50.0
+Namkeen and Biscuits,Lasan Baroda Bhakarvadi [200 grams],1,0,,50.0
+Namkeen and Biscuits,Jain Baroda Bhakarvadi [200 grams],1,0,,50.0
+Namkeen and Biscuits,Sandwich Bhakarwadi [200 grams],1,0,,55.0
+Namkeen and Biscuits,Mini Bhakarwadi [200 grams],1,0,,50.0
+Namkeen and Biscuits,Dry Kachori [200 grams],1,0,,55.0
+Namkeen and Biscuits,Baroda Fulwadi [200 grams],1,0,,60.0
+Namkeen and Biscuits,Diet Lite Chevdo,1,0,,60.0
+Namkeen and Biscuits,Diet Lite MIxed Chevdo,1,0,,65.0
+Namkeen and Biscuits,Khari Sing [200 grams],1,0,Salted peanuts.,70.0
+Namkeen and Biscuits,Masala Sing [200 grams],1,0,Peanuts.,65.0
+Namkeen and Biscuits,Mari Sing [200 grams],1,0,Black pepper peanuts.,65.0
+Namkeen and Biscuits,Special Chana Dal [500 grams],1,0,,130.0
+Namkeen and Biscuits,Sweet and Spicy Bhadran Moong [500 grams],1,0,,150.0
+Namkeen and Biscuits,Moong Dal Namkeen [500 grams],1,0,,160.0
+Namkeen and Biscuits,Methi Puri [200 grams],1,0,,60.0
+Namkeen and Biscuits,Masala Puri [200 grams],1,0,,60.0
+Namkeen and Biscuits,Marwadi Mathri [200 g],1,0,,60.0
+Namkeen and Biscuits,Basket Puri [35 Pieces],1,0,,50.0
+Namkeen and Biscuits,Mathiya Puri [200 grams],1,0,,60.0
+Namkeen and Biscuits,Chaat Puri [200 grams],1,0,,50.0
+Namkeen and Biscuits,Orange Waffer Biscuits [150 grams],1,0,,35.0
+Namkeen and Biscuits,Strawberry Waffer Biscuits [150 grams],1,0,,35.0
+Namkeen and Biscuits,Pineapple Waffer Biscuits [150 grams],1,0,,35.0
+Namkeen and Biscuits,Chocolate Waffer Biscuits [150 grams],1,0,,35.0
+Namkeen and Biscuits,Special Kaju Biscuit [200 grams],1,0,,50.0
+Namkeen and Biscuits,Lemon Mamra Bhel [200 grams],1,0,,55.0
+Namkeen and Biscuits,Lasan Mamra Bhel [200 grams],1,0,,55.0
+Namkeen and Biscuits,Masala Mamra Bhel [200 grams],1,0,,55.0
+Namkeen and Biscuits,Suman Special Bardoli Patra [200 grams],1,0,,55.0
+Namkeen and Biscuits,Navapur Diamond Patra [250 grams],1,0,,100.0
+Namkeen and Biscuits,Bardoli Jalaram Patra [250 grams],1,0,,125.0
+Namkeen and Biscuits,Special Vanela Gathiya [500 grams],1,0,[Pre-Packed],160.0
+Namkeen and Biscuits,Mora Champakali Gathiya [500 grams],1,0,,160.0
+Namkeen and Biscuits,Tikha Champakali Gathiya [500 grams] [Spicy],1,0,,160.0
+Namkeen and Biscuits,Papdi Gathiya [500 grams],1,0,,160.0
+Khakhra,Handmade Plain Khakhara [200 grams],1,0,,65.0
+Khakhra,Handmade Methi Khakhara [200 grams],1,0,,65.0
+Khakhra,Handmade Masala Khakhara [200 grams],1,0,,65.0
+Khakhra,Handmade Jeera Mari Khakhara [200 g],1,0,,65.0
+Khakhra,Handmade Garlic Methi Khakhara [200 grams],1,0,,65.0
+Khakhra,Handmade Bajri Dahi Methi Khakhara [200 grams],1,0,,65.0
+Khakhra,Handmade Methi Sambar Khakhara [200 grams],1,0,,70.0
+Khakhra,Handmade Nagli Khakhara [200 grams],1,0,,65.0
+Khakhra,Handmade Mungdi Khakhara [200 grams],1,0,,85.0
+Khakhra,Sada Softy Khakhara [200 grams],1,0,,70.0
+Khakhra,Methi Khakhara [200 grams],1,0,,70.0
+Khakhra,Masala Khakhara [200 grams],1,0,,70.0
+Khakhra,Jeera Khakhara [200 grams],1,0,,70.0
+Khakhra,Methi Thepla Khakhara [200 grams],1,0,,80.0
+Khakhra,Moong Masala Khakhra [200 grams],1,0,,80.0
+Khakhra,Jalapeno Khakhara [200 grams],1,0,,80.0
+Khakhra,Kolhapuri Thecha Khakhara [200 grams],1,0,,80.0
+Khakhra,Onion Pakoda Khakhara [200 grams],1,0,,80.0
+Dry Bhakhri,Kothmir Mirch Bhakri [200 grams],1,0,,70.0
+Dry Bhakhri,Methi Bhakri [200 grams],1,0,,80.0
+Dry Bhakhri,Plain Bhakri [200 grams],1,0,,80.0
+Dry Bhakhri,Masala Bhakri [200 grams],1,0,,80.0
+Dry Bhakhri,Jeera Bhakri [200 grams],1,0,,80.0
+Dry Bhakhri,Jaggery [Gud] Bhakri [200 grams],1,0,,80.0
+Dry Bhakhri,Dhaniya Mirch Bhakri [200 grams],1,0,,70.0
+Instant Ready To Make,Mixed Surti Locho [200 grams],1,0,,58.0
+Instant Ready To Make,Idli and Idda Mix [200 grams],1,0,,58.0
+Instant Ready To Make,Nylon Khaman Mix [200 grams],1,0,,58.0
+Instant Ready To Make,Khichyu Mix [200 grams],1,0,,42.0
+Instant Ready To Make,Handvo Mix [200 grams],1,0,,55.0
+Instant Ready To Make,Gota Mix [200 grams],1,0,,55.0
+Instant Ready To Make,Dhokla Mix [200 grams],1,0,,55.0
+Farali Products,Special Farali Chevdo [500 grams],1,0,,140.0
+Chikki and Laddu,Rajgira Laddu [80 g],1,0,,40.0
+Chikki and Laddu,Khajur Roll Chikki [80 g],1,0,,40.0
+Pickles,Green Chilli Pickle [200 grams],1,0,,55.0
+Pickles,Suman Special Mango Pickle [180 grams],1,0,,60.0
+Winter Special,Rajgira Laddu [80 g],1,0,,40.0
+Winter Special,Khajur Roll Chikki [80 g],1,0,,40.0
+Diwali Specials,Special Mathiya,1,0,"Ready to fry air-tight container for freshness retention, lentil crackers made with moth ... read more",85.0
+Diwali Specials,Special Cholafali,1,0,"Lentil crackers made with gram flour and urad dal, sprinkled with tangy masala ... read more",85.0
+Diwali Specials,Surti Mix [Bhusu] [500 grams],1,0,,150.0
+Diwali Specials,Nadiyadi Chavanu [500 grams],1,0,,150.0
+Diwali Specials,Nylon Pauva Chevdo [500 grams],1,0,,150.0
+Diwali Specials,Papad Pauva Chevdo [500 grams],1,0,,150.0
+Diwali Specials,Rajasthani Mix [500 grams],1,0,,160.0

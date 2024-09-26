@@ -1,0 +1,110 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tapas Bowls,Soba Noodles,1,0,Stir Fry Black Wheat Japnese Thin Noodles With Soy Flavour Some Veggies Topping ... read more,495.0
+Tapas Bowls,Classic Paneer Chilly With Jasmin Fried Rice,1,0,"Soya Base Chilli Paneer In Semi Gravy Bell Pepper Chilli, Combination With Jasmine ... read more",510.0
+Tapas Bowls,Shahi Paneer With Keral Paratha,1,0,"Paneer In A Classic Tomato & Cream Gravy, Served With Flaky Malabar Parotta",540.0
+Tapas Bowls,Black Rice With Edamame Truffle,1,0,Aromatic Black Rice Mixed With Truffle Oil & Edamame,545.0
+Tapas Bowls,Mac And Cheese,1,0,,440.0
+Tapas Bowls,Spicy Tomato Pasta,1,0,"Tubular Shaped Macaroni, Made In A Spicy Tomato & Cream Sauce",465.0
+Tapas Bowls,Dal Makhani With Jasmine Rice,1,0,"A Modern Variation Of Traditional Lentil, It Is Made With Urad Dal (Black ... read more",480.0
+Tapas Bowls,Buddha Peanut Curry Bowl,1,0,"Sauted Mushroom & Tofu, Jasmine Rice In Peanut Sauce, Garnished With Coriander & ... read more",545.0
+Tapas Bowls,Misal Paav,1,0,"A Spicy Curry Made With Lentil Or Moth Beans, Topped With Farsan / ... read more",340.0
+Tapas Bowls,Paneer chilly starter,1,0,Soya Base Chilli Paneer In Semi Gravy Bell Pepper Chilli,510.0
+Tapas Bowls,Corn Sticks 2.O,1,0,Infused With House-blend Spices,300.0
+Tapas Bowls,Dal Makhani With Keral Paratha,1,0,"A Modern Variation Of Traditional Lentil, It Is Made With Urad Dal (Black ... read more",480.0
+Tapas Bowls,French Fries,1,0,,265.0
+Tapas Bowls,Soya Kheema,1,0,Served with house made pav and garnished with chopped onion and sliced lemon,490.0
+Tapas Bowls,Tofu Akuri,1,0,,365.0
+Tapas Bowls,Fresh White Corn Chips,1,0,"With Salsa, Sourcream & Guacamole",465.0
+Tapas Bowls,Breakfast Tacos,1,0,"A soft Tortis filling with spicy soya chunks and slice avocado, topped with ... read more",490.0
+Tapas Bowls,Hummus With Pita,1,0,,510.0
+Tapas Bowls,Mango And Rocket Salad,1,0,,440.0
+Tapas Bowls,Mango Sticky Rice,1,0,Seasonal,440.0
+"Sushi, Ramen Bowls and Burgers",Tempura Asparagus Sushi,1,0,,565.0
+"Sushi, Ramen Bowls and Burgers",Creamy Avocado Sushi,1,0,,565.0
+"Sushi, Ramen Bowls and Burgers",Spicy Ramen Bowl,1,0,,565.0
+"Sushi, Ramen Bowls and Burgers",Korean Ramen Bowl,1,0,,565.0
+"Sushi, Ramen Bowls and Burgers",Hot Mock Burger,1,0,Crispy Mock Meat Patty With Cheddar Cheese Garkin & In Our Hot Souce,400.0
+"Sushi, Ramen Bowls and Burgers",Edamame Cucumber Truffle Sushi,1,0,,565.0
+"Sushi, Ramen Bowls and Burgers",Creamy Coconut Ramen Bowl,1,0,,580.0
+"Sushi, Ramen Bowls and Burgers",Vegan Miso Chilli Ramen Bowl,1,0,,590.0
+"Sushi, Ramen Bowls and Burgers",Spicy Paneer Burger,1,0,"Grilled Cottage Cheese Patty With Onion , Toamato, Romaine Lettuce In Our Hot ... read more",400.0
+"Sushi, Ramen Bowls and Burgers",Enoki Truffle Roll,1,0,,565.0
+"Sourdough, Sandwiches and more",Pesto Sandwich,1,0,"House-made Basil Pesto, Tomato Fresh Buffalo Mozzarella Cheese, Olive Oil",390.0
+"Sourdough, Sandwiches and more",Avacado Toast,1,0,"With Tomato, Avocado, Fresh Mozzarella, Basil Pesto",490.0
+"Sourdough, Sandwiches and more",Grilled Cheese Sandwich,1,0,A Comfort Menu Must-have. Cheese Toasted To Perfection Between Two Toasted Sourdough Slices.,390.0
+"Sourdough, Sandwiches and more",Hummus Sandwich,1,0,"Textured Hummus, With The Goodness Of Pickeledveggies & Toasted Bread",390.0
+"Sourdough, Sandwiches and more",Burrata Cheese And Basil Pesto Bowl,1,0,"Soft And Delicious Ball Of Cheese, House-made Pesto And Sourdough",610.0
+"Sourdough, Sandwiches and more","Truffle Cream Cheese , Lemon Aioli & Olive Oil",1,0,"The Ultimate Trio Of Dips - Cheesy, Zesty & Flavourful.",390.0
+Espresso,Iced Latte (Coconut Milk),1,0,,265.0
+Espresso,Iced Latte,1,0,,265.0
+Espresso,Espresso,1,0,,195.0
+Espresso,Espresso Tonic,1,0,,335.0
+Espresso,Iced Espresso,1,0,,195.0
+Espresso,Iced Latte (Oat Milk),1,0,,265.0
+Espresso,Latte,1,0,,240.0
+Espresso,Iced Americano,1,0,,195.0
+Espresso,Iced Cinnimon Maple Latte,1,0,,265.0
+Espresso,Iced Mocha Latte,1,0,,365.0
+Espresso,Cappuccino,1,0,,240.0
+Espresso,Americano,1,0,,195.0
+Espresso,Macchiato,1,0,,215.0
+Espresso,Mocha,1,0,,240.0
+Espresso,Cortado,1,0,,215.0
+Espresso,Flat White,1,0,,240.0
+"Croissant, Desserts and Fresh Bakes",Banana Bread,1,0,"Ghee, Coconut Sugar, Whole Wheat & 65% Single Origin Cocoa.",239.0
+"Croissant, Desserts and Fresh Bakes",Pain Au Chocolate Croissant,1,0,55% Cocoa & 84% French Butter,279.0
+"Croissant, Desserts and Fresh Bakes",Croissant,1,0,With 84% French Butter,264.0
+"Croissant, Desserts and Fresh Bakes",French Toast(Tiramisu),1,0,Toasted In Unsalted Butter,340.0
+"Croissant, Desserts and Fresh Bakes",French Toast(Mango And Coconut),1,0,Toasted In Unsalted Butter,340.0
+"Croissant, Desserts and Fresh Bakes",Twix And Chocolate Cheesecake,1,0,,400.0
+"Croissant, Desserts and Fresh Bakes",Brownie,1,0,65% Cocoa Single Origin,340.0
+"Croissant, Desserts and Fresh Bakes",Chocolate Smoothie Bowl,1,0,"Granola Homemade, Cocoa Nibs, Caramelised Coconut, Seasonal Fruits, Basil Seeds",440.0
+"Croissant, Desserts and Fresh Bakes",Wheat Pancake,1,0,With Maple & Seasonal Fruit,364.0
+"Croissant, Desserts and Fresh Bakes",Lisbon Cake,1,0,,440.0
+"Croissant, Desserts and Fresh Bakes",Dark Cherry And White Chocolate Cheesecake,1,0,,400.0
+"Croissant, Desserts and Fresh Bakes",Pain Au Pecan Chocolate Croissant,1,0,"Made With 55% Cocoa And 84% French Butter, Stused With Pecan Pralines.",390.0
+"Croissant, Desserts and Fresh Bakes",Sliced Double Baked Croissant,1,0,Served With Dark Chocolate Mousse.,340.0
+"Croissant, Desserts and Fresh Bakes",Cookies,1,0,,165.0
+Take Away,Sourdough Loaf (Rye Flour + All Purpose Flour + Wheat),1,0,,290.0
+Take Away,Sourdough Loaf(Green Olive + Black Olive),1,0,,290.0
+Take Away,Sourdough Loaf (Jalapeno + Cheddar),1,0,,390.0
+Take Away,House Bread Loaf,1,0,,195.0
+Take Away,Milk Loaf,1,0,,390.0
+Your Anytime Classics,Classic Cold Cofee,1,0,,265.0
+Your Anytime Classics,Iced Chocolate,1,0,,340.0
+Your Anytime Classics,Hot Chocolate,1,0,,340.0
+Your Anytime Classics,Vietnamese Iced Coffee,1,0,,265.0
+Your Anytime Classics,Coconut Vietnamese Iced Coffee,1,0,,265.0
+Your Anytime Classics,Ginger Lemon Kombucha,1,0,,275.0
+Your Anytime Classics,G & T,1,0,Fresh Grape Fruit cordial with Tonic,310.0
+Your Anytime Classics,Apple Cinnamon Kombucha,1,0,,275.0
+Teas,Lemon Iced Tea,1,0,,265.0
+Teas,Peach Iced Tea,1,0,,265.0
+Teas,Green Tea,1,0,,215.0
+Teas,Masala Chai,1,0,,190.0
+Manual Brews,Cold Brew With Tonic,1,0,,265.0
+Manual Brews,Cold Brew With Blood Orange & Elder Flower Tonic,1,0,,335.0
+Manual Brews,Cold Brew With Ginger Ale,1,0,,265.0
+Manual Brews,Cold Brew With Grapefruit & Rosemary Tonic,1,0,,335.0
+Manual Brews,Cold Brew with Orange Juice,1,0,,295.0
+Manual Brews,V60 Pour Over Hot,1,0,,265.0
+Manual Brews,V60 Pour Over Iced,1,0,,265.0
+Manual Brews,Barrel Aged Cold Brew,1,0,,265.0
+Manual Brews,Barrel Aged Cold Brew Tonic,1,0,,335.0
+Manual Brews,Cold Brew,1,0,,250.0
+Manual Brews,South Indian Filter Coffee,1,0,,195.0
+The Great Shakes,Strawberry Shake,1,0,,340.0
+The Great Shakes,Avacado Shake,1,0,,340.0
+The Great Shakes,Tiramishu Shake,1,0,,340.0
+The Great Shakes,Peanut Butter Coffee Shake,1,0,,340.0
+Pizza And Pie,Burrata Pie,1,0,"Pomodoro Sauce ,Burrata Cheese, Rocket Leaves, Cherry Tomatoes",380.0
+Pizza And Pie,Pizza Bianca,1,0,"Wild Mushroom, Garlic, Olive Oil, Potato, Ricotta, Pepper & Salt",490.0
+Pizza And Pie,Surti Pie,1,0,"Home-made Cheese, Potato,onion, Green Chilli, Spring Onion",380.0
+Pizza And Pie,Margherita Pie,1,0,Tomato Basil & Mozzarella Cheese,380.0
+Fresh Juice,Water Melons Juice,1,0,,215.0
+Fresh Juice,Orange Juice,1,0,,265.0
+Fresh Juice,Pineapple Juice,1,0,,265.0
+All day Breakfast Combos,Croissant + Choose your Coffee,1,0,,480.0
+All day Breakfast Combos,Pain Au Chocolate Croissant + Choose your Coffee,1,0,,495.0
+All day Breakfast Combos,Banana Bread + Choose your latte,1,0,,480.0
+All day Breakfast Combos,Pancake + Choose your juice,1,0,,580.0

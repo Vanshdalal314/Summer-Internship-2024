@@ -1,0 +1,69 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Eclairs,Biscoffee Eclair,0,0,"Our classic choux pastries in an exciting all-new look, loaded with a rich ... read more",180.0
+Eclairs,Nutella French Biscuit Eclair,0,0,"Our classic choux pastries in an exciting all-new look, loaded with nutella spread ... read more",180.0
+Brownies,Biscoff Brownie,1,0,Classic chocolate brownie layered with biscoff spread and biscuit on top,110.0
+Brownies,Chocolate Chips Brownie,1,0,Gooey chocolate brownie made with callebaut dark chocolate chips,110.0
+Brownies,Cookie Crinkle Brownie,1,0,Our signature fudgy brownie baked with chocolate chip cookie crumble on top.,95.0
+Brownies,Millionaire Brownie,1,0,Classic chocolate brownie layered with home made caramel sauce and dark chocolate ganache,110.0
+Brownies,Mocha Brownie,1,0,Rich chocolate brownie topped with coffee buttercream and coffee ganache,110.0
+Brownies,Nutella Brownie,1,0,Classic chocolate brownie layered with nutella,110.0
+Brownies,Oreo Brownie,1,0,Gooey chocolate brownie baked with crushed oreos,95.0
+Macarons,Biscoff Macarons,0,0,Meringue based french cookies filled with biscoff ganache,95.0
+Macarons,Choco Brownie Macarons,0,0,Meringue based french cookies filled with choco brownie ganache,95.0
+Macarons,Coffee Macaron,0,0,Meringue based french cookies filled with coffee ganache,95.0
+Macarons,Dark Chocolate Macarons,0,0,Meringue based french cookies filled with chocolate ganache,95.0
+Macarons,Eggless Dark Chocolate Macaron,1,0,Eggless macarons with dark chocolate ganache,99.0
+Macarons,Eggless Vanilla Raspberry Macaron,1,0,Eggless macarons with vanilla raspberry filling,99.0
+Macarons,Nutella Macaron,0,0,Meringue based french cookies filled with nutella ganache,95.0
+Macarons,Vanilla Raspberry Macarons,0,0,Meringue based french cookies filled with vanilla ganache and raspberry jam.,95.0
+Cheese Cakes Slice,Eggless Biscoff Cheesecake Slice,1,0,Eggless New York style baked cheesecake with digestive biscuit base and layered with ... read more,290.0
+Cheese Cakes Slice,Eggless Blueberry Cheesecake Slice,1,0,Eggless New York style baked cheesecake with digestive biscuit base and layered with ... read more,260.0
+Cheese Cakes Slice,Eggless Cheesecake Slice,1,0,Eggless New york style baked cheesecake with digestive biscuit base,230.0
+Cheese Cakes Slice,Eggless Nutella Cheesecake Slice,1,0,Eggless New York style baked cheesecake with digestive biscuit base and layered with ... read more,290.0
+Cheese Cakes Slice,Eggless Raspberry Cheesecake Slice,1,0,Eggless New York style baked cheesecake with digestive biscuit base and layered with ... read more,290.0
+Brownie Tub,Biscoff Crunch Brownie Tub,1,0,"Gooey chocolate brownie chunks layered alternately with biscoff mousse, spread & biscuit crunch",625.0
+Brownie Tub,Chocolate Mud Brownie Tub,1,0,"Gooey brownie chunks, couverture ganache, caramel sauce & dark chocolate callets",625.0
+Brownie Tub,Coffee Mocha Brownie Tub,1,0,Gooey chocolate brownie chunks alternately layered with milk chocolate & coffee ganache and ... read more,625.0
+Brownie Tub,Nutella Hazelnut Brownie Tub,1,0,"Gooey brownie chunks layered with milk chocolate ganache, nutella spread, nutella mousse and ... read more",625.0
+Brownie Tub,Oreo Overload Brownie Tub,1,0,Gooey brownie chunks layered alternately with dark and white chocolate ganache and loaded ... read more,625.0
+Cakes,BVP Intense Chocolate Cake (1/2kg),1,0,Our best selling chocolate cake with the classic moist chocolate sponge layered with ... read more,1050.0
+Pastries,Intense Chocolate Pastry,1,0,"Moist chocolate sponge layered alternatively with 54.5% dark couverture chocolate ganache, garnished with ... read more",290.0
+Croissants,Biscoff Croissant,1,0,Classic butter croissant layered with Biscoff spread & topped with biscoff biscuit crunch,350.0
+Croissants,Classic Butter Croissant,1,0,,250.0
+Croissants,Nutella Croissant,1,0,Classic butter croissant layered with Nutella spread & topped with hazelnut crunch,350.0
+Iced Coffee,Cafe Bombon,1,0,"Espresso, Condensed Milk, Ice",190.0
+Iced Coffee,Cold Brew Tonic,1,0,"House Spl Cold Brew, Tonic Water, Ice",260.0
+Iced Coffee,Cold Brew Vietnamese,1,0,"House Spl Cold Brew, Condensed Milk, Ice",260.0
+Iced Coffee,Cranberry Cbt,1,0,"House Spl Cold Brew, Cranberry, Tonic Water",270.0
+Iced Coffee,Espresso Redbull,1,0,"Espresso, Redbull, Ice",330.0
+Iced Coffee,Espresso Tonic,1,0,"Espresso, Tonic Water, Ice",260.0
+Iced Coffee,Iced Americano,1,0,"Espresso, Water, Ice",180.0
+Iced Coffee,Iced Caramel Latte,1,0,"Espresso, Milk, Caramel, Ice",280.0
+Iced Coffee,Iced Hazelnut Latte,1,0,"Espresso, Milk, Hazelnut, Ice",280.0
+Iced Coffee,Iced Latte,1,0,"Espresso, Milk, Ice",220.0
+Iced Coffee,Iced Vanilla Latte,1,0,"Espresso, Milk, Vanilla, Ice",280.0
+Iced Coffee,Mandarin Sunset,1,0,"House Spl Cold Brew, Orange Juice, Tonic Water",270.0
+Iced Coffee,Vietnamese Coffee,1,0,"Espresso, Condensed Milk, Ice",190.0
+Hot Beverages,BV Signature Hot Chocolate,1,0,"54.5% Dark Hot Cocoa, Steamed Milk with no artificial sweetener",270.0
+Hot Beverages,Hot Cafe Mocha,1,0,"Espresso, Chocolate, Steamed Milk",220.0
+Hot Beverages,Cappuccino,1,0,"Espresso, Steamed Milk, Milk Foam",210.0
+Hot Beverages,Hot Cafe Latte,1,0,"Espresso, Steamed Milk",210.0
+Milk Shakes,Biscoff Overload Shake,1,0,"Biscoff Spread, Icecream, Coffee, Biscuit Crunch",350.0
+Milk Shakes,Classic Cold Coffee,1,0,"Espresso Shot, Vanilla, Milk",250.0
+Milk Shakes,Cold Cafe Mocha,1,0,"Espresso Shot, Vanilla, Chocolate Ganache, Milk",280.0
+Milk Shakes,Cold Chocolate,1,0,"Creamy, rich & really chilled chocolate milk prepared using 54.5% Belgium chocolate with ... read more",310.0
+Milk Shakes,Intense Chocolate Shake,1,0,Signature Chocolate Shake prepared using our Intense Chocolate Pastry,310.0
+Milk Shakes,Millionaire Brownie Shake,1,0,"Classic BVP Brownies, Icecream, House Spl Caramel Sauce",290.0
+Milk Shakes,Nutella Hazelnut Shake,1,0,"Nutella, Icecream, Coffee, Toasted Hazelnuts",350.0
+Milk Shakes,Oreo & Espresso Shake,1,0,"Oreo Biscuits, Espresso Shot, Icecream",280.0
+Combo Offerings,All-Star Macarons Box Of 6,0,0,"2 Dark Chocolate, 2 Nutella, 2 Coffee",490.0
+Combo Offerings,Assorted Brownies,1,0,"2 Chocolate, 2 Nutella, 2 Biscoff",550.0
+Combo Offerings,Assorted Macaron Box,0,0,Box of all assorted flavours of macarons,490.0
+Combo Offerings,Eggless All-star Cheesecake Combo,1,0,"1 Eggless Nutella Slice, 1 Eggless Biscoff Slice",540.0
+Combo Offerings,Eggless Berrylicious Cheesecake Combo,1,0,"1 Eggless Raspberry Slice, 1 Eggless Blueberry Slice",530.0
+Combo Offerings,Eggless Macaron Box Of 6,1,0,"Box of 6 eggless macarons with 2 each of dark chocolate, vanilla raspberry ... read more",540.0
+Combo Offerings,Premium Brownie Combo (box Of 4),1,0,"Box of 4 assorted brownies with one each of nutella, biscoff, chocolate chip ... read more",370.0
+Combo Offerings,Premium Brownie Combo (box Of 6),1,0,"Assorted box of 6 premium flavours with 2 each for mocha, cookie crinkle ... read more",540.0
+Combo Offerings,Premium Macaron Combo,0,0,"Assorted box of 6 premium macarons with 2 each of coffee, vanilla raspberry ... read more",500.0
+BVP Gifting,Aphrodite Gift Box (Option 1),1,0,"BVP Gift Box with assortment of 2 flavoured cheesecakes, 2 assorted pastries, box ... read more",1950.0
+BVP Gifting,Aphrodite Gift Box (option 2),0,0,"BVP Gift Box with assortment of 2 flavoured cheesecakes, 3 assorted eclairs, 2 ... read more",1850.0

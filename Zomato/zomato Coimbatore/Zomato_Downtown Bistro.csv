@@ -1,0 +1,66 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burgers,Korean Fried Chicken Burger,0,0,"Crispy fried chicken dipped in authentic Korean sauce, layered with coleslaw, lettuce, chef ... read more",279.0
+Burgers,Fried Chicken Burger,0,0,"Classic crispy fried chicken, lettuce, coleslaw and chipotle dressing served in butter toasted ... read more",229.0
+Burgers,Peri Peri Chicken Burger,0,0,"Grilled peri peri chicken steak, layered with grilled onion, tomato, lettuce and dressed ... read more",219.0
+Burgers,Nashville Fried Chicken Burger,0,0,"Fried chicken burger, tossed in nashville seasoning, layered with cucumber, chef special sauce, ... read more",263.0
+Burgers,Barbecue Chicken Burger,0,0,"Grilled chicken steak, grilled onion, grilled tomato, lettuce and dressed with barbecue sauce.",219.0
+Burgers,Dynamite Heat Wave Burger,0,0,"Crunch into our fried chicken burger, smothered in spicy dynamite sauce and gooey ... read more",259.0
+Burgers,Szechuan Fiery Chicken Burger,0,0,"Spicy schezwan sauce on a crispy chicken patty, served in a toasted bun ... read more",209.0
+Burgers,Paneer Makhani Burger,0,0,"Chef’s special paneer makhni gravy, layered with mozzarella cheese, lettuce, and shredded onion ... read more",206.0
+Burgers,Paneer Patty Burger,0,0,"Regular oil fried paneer patty, tomato slice, onion slice, with ketchup and mayo ... read more",180.0
+Burgers,Dynamite Veg Burger,0,0,Satisfy your craving with our veggie patty burger topped with dynamite sauce. The ... read more,179.0
+Burgers,Veg Patty Burger,0,0,"A regular potato patty, deep fried, layered with lettuce, coleslaw, and chipotle dressing.",149.0
+Burgers,Egg Burger,0,0,"Single fried egg, slice of onion, tomato, ketchup and mayo dressing in butter ... read more",120.0
+Sandwiches,Paneer Tikka Sandwich,0,0,"Paneer tikka tossed in masala, mayonnaise and other good stuff bursting with desi ... read more",188.0
+Sandwiches,Paneer Makhani Sandwich,0,0,Grilled sandwich stuffed with paneer makhani gravy and cheese with veggies.,199.0
+Sandwiches,Garden Veg Sandwich,0,0,"Fresh cucumber, tomatoes, coleslaw and sweet corn in a toasted sandwich bread.",169.0
+Sandwiches,Triple Decker Sandwich,0,0,"The big man’s tummy filler. Comes in three decks of bread slices, stuffed ... read more",208.0
+Sandwiches,Chicken and Cheese Sandwich,0,0,,213.0
+Sandwiches,Butter Chicken Sandwich,0,0,"The legendary butter chicken masala loved by all, presented in a sandwich, bursting ... read more",199.0
+Sandwiches,Peri Peri Chicken Sandwich,0,0,Portuguese style peri peri chicken with smoked paprika seasoning. Must try if you ... read more,188.0
+Sandwiches,Classic Chicken Sandwich,0,0,"Chicken and coleslaw drenched in garlic mayo, with oregano seasoning. Classic continental flavors.",184.0
+Pasta,True Value White Sauce Chicken Pasta,0,0,"Penne pasta in regular white sauce, with diced chicken toppings. Perfect student meal ... read more",209.0
+Pasta,Rich White Sauce Chicken Pasta,0,0,"Our best seller, authentic Parmesan cheese based creamy white sauce, served with slice ... read more",258.0
+Pasta,Red Sauce Chicken Pasta,0,0,"Penne pasta in classic pasta sauce, with diced chicken toppings.",217.0
+Pasta,Pink Sauce Chicken Pasta,0,0,Penne pasta blended in creamy Parmesan white sauce and tangy red sauce served ... read more,250.0
+Pasta,Red Sauce Pasta,0,0,,169.0
+Pasta,Pink Sauce Pasta,0,0,Penne pasta blended in creamy Parmesan white sauce and tangy red sauce served ... read more,206.0
+Pasta,Basic White Sauce Pasta,0,0,"Penne pasta in regular white sauce, with sweet corn kernels, shredded cabbage, carrot,  ... read more",182.0
+Pasta,Special White Sauce Pasta,0,0,"Authentic Parmesan cheese based creamy white sauce, served with slice of toasted garlic ... read more",239.0
+Starters,Veg Nuggets [10 Pieces],0,0,,109.0
+Starters,Chicken Nuggets,0,0,,130.0
+Starters,Cheese Jalapeno Shots,0,0,,143.0
+Starters,Loaded Veg Fries,0,0,Classic salted French fries topped with pieces of veg crisps over a bed ... read more,182.0
+Starters,Loaded Chicken Fries,0,0,Classic salted French fries topped with pieces of chicken crisps over a bed ... read more,209.0
+Starters,Potato Wedges,0,0,,91.0
+Starters,French Fries,0,0,,81.0
+Starters,Barbeque Glazed Chicken Meat Balls,0,0,,155.0
+Starters,Honey Chilli Potato,0,0,,189.0
+Chicken Wings,Peri Peri Wings,0,0,"Batter fried chicken wings tossed in peri peri seasoning. Slightly zesty, highly spicy.",156.0
+Chicken Wings,Chilli Garlic Wings,0,0,,169.0
+Chicken Wings,Lemon Pepper Wings,0,0,"Originated in India, reigning supremacy in Atlanta, lemon pepper seasoning that takes batter ... read more",159.0
+Chicken Wings,Barbecue Wings,0,0,,169.0
+Chicken Wings,Fried Chicken Wings,0,0,Flaky n’ crispy fried chicken wings that are juicy on the inside. Everybody’s ... read more,156.0
+Chicken Wings,Korean Fried Chicken Wings,0,0,Crispy fried chicken coated in our secret sauce. Saves you from taking a ... read more,195.0
+Chicken Wings,Nashville Chicken Wings,0,0,Fried chicken wings tossed in Nashville’s favourite seasoning.,179.0
+Chicken Wings,Dynamite Chicken Wings,0,0,"Satisfy your craving for heat with our dynamite chicken wings. These crispy, golden ... read more",199.0
+Chicken Wings,Honey Mustard Wings,0,0,Indulge in the sweet and tangy flavors of our honey mustard chicken wings. ... read more,199.0
+Milkshakes,Litchi Milkshake,0,0,,155.0
+Milkshakes,Butterscotch Milkshake,0,0,,166.0
+Milkshakes,Chocolate Milkshake,0,0,,166.0
+Milkshakes,Vanilla Milkshake,0,0,,130.0
+Mocktails and Mixers,Virgin Mojito,0,0,[Non Alcoholic],110.0
+Mocktails and Mixers,Blue Lagoon,0,0,,110.0
+Mocktails and Mixers,Lemon Iced Tea,0,0,,79.0
+Mocktails and Mixers,Orange Tang,0,0,,69.0
+Mocktails and Mixers,Lime Soda,0,0,,70.0
+Mocktails and Mixers,Watermelon Mojito,0,0,,110.0
+Pizza,Paneer Makhani Pizza [8 inches],0,0,"Italian meets desi, and falls in a dollop of butter to create a ... read more",299.0
+Pizza,Sweet Corn Pizza [8 inches],0,0,"No frills, daily fresh dough, topped with onion, tomatoes, capsicum, sweet corn kernels ... read more",232.0
+Pizza,Peri Peri Paneer Pizza [8 inches],0,0,Paneer pizza made with peri- peri marinade and sauces. might be hot to ... read more,244.0
+Pizza,Butter Chicken Pizza [8 inches],0,0,A perfect replacement when roti and butter chicken is not available at home! ... read more,306.0
+Pizza,Chicken Tikka Pizza [8 inches],0,0,"Hand tossed pizza topped with onions, tomatoes, capsicum, diced chicken tikka and cheese.",293.0
+Pizza,Mediterranean Pizza [8 inches],0,0,Now this is a masterpiece. its got lemon pepper seasoned chicken with best ... read more,266.0
+Pizza,Margherita Pizza [8 inches],0,0,"Classic hand tossed pizza made with daily fresh dough, tomato sauce and mozzarella ... read more",189.0
+Pizza,Paneer Tikka Pizza [8 inches],0,0,Diced paneer tikka cubes spread across a layer of cheese and pizza sauce.,246.0
+Pizza,Peri Peri Chicken Pizza [8 inches],0,0,Small batch pizza topped with diced chicken marinated in peri peri sauce that ... read more,293.0

@@ -1,0 +1,166 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali and Combio,Non Veg Thali,0,0,Chicken Dum Biryani+Boneless Chicken Gravy+2 Tandoori Roti+Special Raita,300.0
+Soups,Veg Hot and Sour Soup [500 ml],1,0,,210.0
+Soups,Veg Manchow Soup [500 ml],1,0,,210.0
+Soups,Veg Lemon Coriander Soup [500 ml],1,0,,210.0
+Soups,Veg Dragon Soup [500 ml],1,0,,210.0
+Soups,Chicken Clear Soup [500 ml],0,0,,210.0
+Soups,Chicken Manchow Soup [500 ml],0,0,,230.0
+Soups,Chicken Hot and Sour Soup [500 ml],0,0,,230.0
+Soups,Chicken Lemon Coriander Soup [500 ml],0,0,,230.0
+Soups,Chicken Dragon Soup [500 ml],0,0,Sweet.,230.0
+Soups,Nawabs Special Chicken Soup [500 ml],0,0,,240.0
+Tikka and Kebab,Chicken Tikka,0,0,"Morsels of chicken steeped in yogurt and a fiery red masala, marinated and ... read more",330.0
+Tikka and Kebab,Chicken Banjara Tikka,0,0,Spicy,340.0
+Tikka and Kebab,Chicken Reshmi Tikka,0,0,A soft delicious kabab prepared with chicken leg boneless in creamy yoghurt marinate.,340.0
+Tikka and Kebab,Chicken Peri Peri Tikka,0,0,Spicy,340.0
+Tikka and Kebab,Chicken Golden Tikka,0,0,,330.0
+Tikka and Kebab,Chicken Lehsuni Tikka,0,0,A soft delicious kabab prepared with chicken leg boneless in creamy yoghurt marinade ... read more,350.0
+Tikka and Kebab,Chicken Kalimiri Tikka,0,0,Boneless chicken pieces grilled with the flavour of crushed black pepper.,350.0
+Tikka and Kebab,Special Chicken Malai Tikka,0,0,Cubes of chicken marinated in a creamy cashew nut paste & grilled. Images ... read more,370.0
+Tikka and Kebab,Chicken Chandni Tikka,0,0,"Chef special tikka, topped with cheese & barra juicy.",370.0
+Tikka and Kebab,Chicken Cheese Tikka,0,0,Cubes of chicken marinated in a creamy cashew nut paste topped with cheese ... read more,380.0
+Tikka and Kebab,Chicken Zafrani Tikka,0,0,Creamy and juicy.,380.0
+Tikka and Kebab,Chicken Caribbean Tikka,0,0,,370.0
+Tandoori Starters,Chicken Tandoori Leg,0,0,Tandoori chicken is a chicken food prepared by roasting chicken marinated in yogurt ... read more,230.0
+Tandoori Starters,Chicken Pathani Leg [1 Piece],0,0,,240.0
+Tandoori Starters,Chicken Peri Peri Leg [1 Piece],0,0,,240.0
+Tandoori Starters,Chicken Tandoori Chest,0,0,"Seena. Chicken chest piece marinated in yoghurt & a fiery red masala, grilled ... read more",250.0
+Tandoori Starters,Nawabs Special Chicken Barra Leg Piece,0,0,Chicken Barra One Leg Piece,270.0
+Tandoori Starters,Chicken Caribbean Leg Piece,0,0,,270.0
+Tandoori Starters,Chicken Barra Leg [1 Piece],0,0,,270.0
+Tandoori Starters,Chicken Winter Leg [1 Piece],0,0,,280.0
+Tandoori Starters,Chicken Tandoori,0,0,"Leg [2 pieces] and chest [2 pieces]. Indias most famous contribution to world cuisine, ... read more",350.0
+Tandoori Starters,Nawabs Special Chicken Barra,0,0,,380.0
+Main Course,Chicken Chinese Bhel,0,0,,250.0
+Main Course,Chicken Bombay Bhel,0,0,,250.0
+Main Course,Chicken Lollipop Masala,0,0,Semi gravy.,280.0
+Main Course,Chicken Manchurian Gravy [500 ml],0,0,,280.0
+Main Course,Chicken Chilli Gravy [500 ml],0,0,,280.0
+Main Course,Chicken Burnt Chilli Gravy [500 ml],0,0,,290.0
+Main Course,Chicken Schezwan Gravy [500 ml],0,0,,290.0
+Main Course,Chicken Shanghai Gravy [500 ml],0,0,,300.0
+Main Course,Chicken Hunan Gravy [500 ml],0,0,,310.0
+Main Course,Chicken Oyster Gravy [500 ml],0,0,,310.0
+Main Course,Sweet Butter Chicken Boneless [500 ml],0,0,Chunks of grilled chicken [tandoori chicken] cooked in a smooth buttery and creamy ... read more,380.0
+Main Course,Chicken Lahori Boneless [500 ml],0,0,,380.0
+Main Course,Chicken Tikka Masala Boneless [500 ml],0,0,,380.0
+Main Course,Butter Chicken Masala Masala [500 ml],0,0,Non sweet.,380.0
+Main Course,Chicken Peshawari Boneless [500 ml],0,0,,380.0
+Main Course,Chicken Matka Masala Boneless [500 ml],0,0,,380.0
+Main Course,Chicken Green Gravy [500 ml],0,0,,350.0
+Main Course,Chicken Kashmiri [500 ml],0,0,( Spicy ),350.0
+Main Course,Sweet Chicken Lababdar [500 ml],0,0,,370.0
+Main Course,Chicken Special Masala Boneless,0,0,,400.0
+Main Course,Chicken Rogan Josh [500 ml],0,0,,360.0
+Main Course,Chicken Do Pyaaza [500 ml],0,0,,360.0
+Main Course,Chicken Nawabi Handi [500 ml],0,0,,360.0
+Main Course,Chicken Rashida Boneless [500 ml],0,0,,370.0
+Main Course,Chicken Lajawab Boneless [500 ml],0,0,,380.0
+Main Course,Chicken Lazeez Boneless [500 ml],0,0,,380.0
+Main Course,Murgh Musallam Boneless [500 ml],0,0,Pieces of boneless chicken stuffed with chicken mince and tomatoes in a mild ... read more,380.0
+Main Course,Murgh Musallam [500 ml],0,0,Murgh mussalam literally means whole chicken. It is a food that consists of ... read more,380.0
+Main Course,Chicken Angara [500 ml],0,0,,360.0
+Main Course,Chicken Kolhapuri [500 ml],0,0,( Spicy ),360.0
+Main Course,Chicken Handi [500 ml],0,0,,360.0
+Main Course,Chicken Bhuna Boneless [500 ml],0,0,Boneless pieces of chicken prepared Mumbai street tawa style.,370.0
+Main Course,Chicken Masala [500 ml],0,0,Chicken cooked in a dark brown gravy.,350.0
+Main Course,Chicken Korma [500 ml],0,0,Chicken cooked with cream yoghurt in a spicy onion gravy.,350.0
+Main Course,Chicken Kadai [500 ml],0,0,"Chicken cooked with fresh spices, onion and capsicum in a spicy brown gravy.",360.0
+Main Course,Mutton Korma [750 ml],0,0,Pieces of mutton cooked with cream and youghurt in a thick spicy onion ... read more,450.0
+Main Course,Mutton Kadhai [750 ml],0,0,"Piece of mutton cooked with fresh spices,onion & capsicum in a thick spicy ... read more",450.0
+Main Course,Mutton Rogan Josh [750 ml],0,0,"Kashmiri preparation of mutton pieces, served in fine red gravy.",450.0
+Main Course,Mutton Nalli Nihari [750 ml],0,0,"Mutton shank cooked for hours over coal , seasoned with traditional spices.",450.0
+Main Course,Mutton Angara [750 ml],0,0,,450.0
+Main Course,Dal Gosht [750 ml],0,0,,350.0
+Main Course,Dal Fry [500 ml],1,0,Yellow lentil with ground spices & other ingredients.,230.0
+Main Course,Dal Tadka [500 ml],1,0,Delicious lentil curry enriched with a tempering of spices and cumin seeds.,250.0
+Chinese,Veg Manchurian,1,0,,210.0
+Chinese,Chicken 65 [250 g],0,0,,280.0
+Chinese,Pepper Chicken,0,0,Creamy topped with full of mayonnaise.,300.0
+Chinese,Chicken Maska,0,0,Creamy topped with full of mayonnaise.,300.0
+Chinese,Chicken Hunan Chilli,0,0,( Spicy ),280.0
+Chinese,Chicken Peri Peri,0,0,( Spicy ),290.0
+Chinese,Chicken Black Bean,0,0,( Sweet ),280.0
+Chinese,Chicken Salt & Pepper,0,0,,280.0
+Chinese,Chicken Pepper Chilli,0,0,,280.0
+Chinese,Chicken Oyster Chilli,0,0,,280.0
+Chinese,Chicken Dragon,0,0,( Spicy ),270.0
+Chinese,Kurkure Chicken Crispy,0,0,,290.0
+Chinese,Chicken Shanghai,0,0,,280.0
+Chinese,Chicken Hong Kong,0,0,,280.0
+Chinese,Chicken Schezwan,0,0,( Spicy ),280.0
+Chinese,Chicken Manchurian,0,0,,280.0
+Chinese,Chicken Lollipop Oil Fry,0,0,,250.0
+Chinese,Chicken Chilli,0,0,,270.0
+Chinese,Chicken Green Thai,0,0,,290.0
+Seafood,Fish Chilli,0,0,Chinese style.,410.0
+Seafood,Green Thai Fish,0,0,Chinese style.,420.0
+Seafood,Hunan Chilli Fish,0,0,Chinese style.,420.0
+Seafood,Shanghai Fish,0,0,Chinese style.,420.0
+Seafood,Fish Tikka [6 Pieces],0,0,,450.0
+Seafood,Oyster Chilli Fish,0,0,Chinese style.,430.0
+Seafood,Fish Chilli Pepper Oil Fry,0,0,Deep oil fry basha fish piece with spices and herbs.,450.0
+Seafood,Basha Fish Tandoori Tikka [6 Pieces],0,0,,450.0
+Seafood,Tandoori Prawns [10 Pieces],0,0,,420.0
+Seafood,Hunan Chilli Prawns [10 Pieces],0,0,Chinese style.,420.0
+Seafood,Oyster Prawns [10 Pieces],0,0,Chinese style.,430.0
+Seafood,Green Thai Prawns [10 Pieces],0,0,Chinese style.,440.0
+Seafood,Butter Garlic Prawns [10 Pieces],0,0,Chinese style.,450.0
+Breads,1 Plain Tandoori Roti,1,0,,25.0
+Breads,Plain Kulcha,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",55.0
+Breads,1 Butter Tandoori Roti,1,0,,30.0
+Breads,Butter Kulcha,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",60.0
+Breads,Plain Naan,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",65.0
+Breads,1 Butter Naan,1,0,"1Pcs || Images used are for representation purposes only, and do not indicate ... read more",70.0
+Breads,Plain Garlic Naan,1,0,,75.0
+Breads,Butter Garlic Naan,1,0,,80.0
+Breads,Plain Cheese Garlic Naan,1,0,,120.0
+Breads,Butter Cheese Garlic Naan,1,0,,130.0
+Rice and Biryani,Jeera Rice [660 ml],1,0,Basmati rice lightly flavoured with cumin seeds.,200.0
+Rice and Biryani,Plain Steamed Rice [660 ml],1,0,A bowl of sparkling white steaming rice.,190.0
+Rice and Biryani,Chicken Dum Biryani [750 ml],0,0,Richly flavored aromatic rice and marinated chicken cooked in dum-style in a flavored ... read more,220.0
+Fried Rice and Noodles,Veg Chilli Garlic Fried Rice,1,0,,220.0
+Fried Rice and Noodles,Veg Singapuri Fried Rice,1,0,,220.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,220.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",200.0
+Fried Rice and Noodles,Veg Hong Kong Fried Rice,1,0,,220.0
+Fried Rice and Noodles,Veg Butter Garlic Fried Rice,1,0,,240.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Egg Butter Garlic Fried Rice,0,0,,280.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,220.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,( Spicy ),240.0
+Fried Rice and Noodles,Chicken Hong Kong Fried Rice,0,0,,240.0
+Fried Rice and Noodles,Chicken Singapuri Fried Rice,0,0,,240.0
+Fried Rice and Noodles,Chicken Shanghai Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Chicken Butter Garlic Fried Rice,0,0,,260.0
+Fried Rice and Noodles,Chicken Golden Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Chicken Peri Peri Fried Rice,0,0,,260.0
+Fried Rice and Noodles,Chicken Chilli Garlic Fried Rice,0,0,,240.0
+Fried Rice and Noodles,Chicken Black Bean Fried Rice,0,0,,240.0
+Fried Rice and Noodles,Chicken Hunan Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Chicken Green Thai Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Chicken Hunan Special Creamy Fried Rice,0,0,,260.0
+Fried Rice and Noodles,Chicken Barbeque Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Chicken Mexican Fried Rice,0,0,,280.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",220.0
+Fried Rice and Noodles,Veg Hong Kong Noodles,1,0,,220.0
+Fried Rice and Noodles,Veg Singapuri Noodles,1,0,,220.0
+Fried Rice and Noodles,Veg Chilli Garlic Noodles,1,0,,220.0
+Fried Rice and Noodles,Veg Butter Garlic Noodles,1,0,,250.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,200.0
+Fried Rice and Noodles,Chicken Hakka Noodles,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",220.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,,240.0
+Fried Rice and Noodles,Chicken Hong Kong Noodles,0,0,,230.0
+Fried Rice and Noodles,Chicken Singapuri Noodles,0,0,,240.0
+Fried Rice and Noodles,Chicken Burnt Garlic Noodles,0,0,,250.0
+Fried Rice and Noodles,Chicken Chilli Garlic Noodles,0,0,,240.0
+Fried Rice and Noodles,Chicken Butter Garlic Noodles,0,0,,250.0
+Fried Rice and Noodles,Chicken Korean Noodles,0,0,,250.0
+Fried Rice and Noodles,Chicken Green Thai Noodles,0,0,,250.0
+Fried Rice and Noodles,Nawabs Special Chicken Noodles,0,0,,250.0
+Fried Rice and Noodles,Chicken Hunan Noodles,0,0,,250.0
+Fried Rice and Noodles,Chicken Shanghai Noodles,0,0,,250.0
+Fried Rice and Noodles,Chicken Peri Peri Noodles,0,0,,250.0
+Fried Rice and Noodles,Chicken Hunan Special Creamy Noodles,0,0,,250.0
+Fried Rice and Noodles,Chicken Barbeque Noodles,0,0,,250.0

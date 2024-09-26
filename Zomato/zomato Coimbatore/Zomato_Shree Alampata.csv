@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos [Party],Chicken Biryani+Chicken 65 and Coke [250 ml],0,0,Chicken Biryani+Chicken 65+Coke Soft Beverage [250 ml],200.0
+Combos [Party],Chicken Fried Rice+Chicken Manchurian and Coke [250 ml],0,0,Chicken Fried Rice+Chicken Manchurian+Coke Soft Beverage [250 ml],250.0
+Combos [Party],Vaazhai Ilai Parotta+Chicken Pepper Fry and Coke [250 ml],0,0,Vazhai Ilai Parotta+Chicken Pepper Fry+Coke Soft Beverage [250 ml],240.0
+Alampata Special Lunch Combo,Alam Pata Combo [Serves 2],0,0,Egg+Chicken Gravy+Chicken Dry+White Rice+Rasam+Buttermilk+Sweet [Subject to Availability],460.0
+Meals,Chicken Meal,0,0,Rice+Chicken Curry+Chicken Dry+Samabr+Poriyal+Rasam+Buttermilk+Papad+Boiled Egg,222.0
+Starters,Chicken 65,0,0,Succulent chicken chunks dipped in a seasoned batter and fried to golden ... read more,140.0
+Starters,Pepper Chicken,0,0,"Succulent pieces of chicken tossed along with pungent pepper and masalas, and cooked ... read more",170.0
+Starters,Chicken Manchurian,0,0,A delightfully delicious hot and spicy chicken Manchurian gravy. All time favourite dish.,170.0
+Starters,Naatu Kozhi Chukka,0,0,A delightfully delicious combo of all time loved country chicken dipped with spicy ... read more,210.0
+Starters,Chicken Pepper Leg,0,0,,100.0
+Starters,Chicken Liver Fry,0,0,,170.0
+Gravy,Naatu Kozhi Masala,0,0,,220.0
+Gravy,Chicken Curry,0,0,,120.0
+Egg Varieties,Boiled Egg,0,0,,20.0
+Egg Varieties,Omelette,0,0,,25.0
+Egg Varieties,Egg Podimas,0,0,,35.0
+Breads,2 Chapati,0,0,,70.0
+Breads,Egg Masal Chapati,0,0,,90.0
+Breads,Chicken Masal Chapati,0,0,,160.0
+Parotta Varieties,2 Parotta,0,0,,70.0
+Parotta Varieties,Egg Kothu Parotta,0,0,,80.0
+Parotta Varieties,Chicken Kothu Parotta,0,0,A delightfully scrumptious combo of chicken & egg kothu parotta plain non veg ... read more,180.0
+Parotta Varieties,Vazhai Ilai Chicken Parotta,0,0,"Delightfully marinated the chicken with chopped onions, chilli, coriander, south Indian masalas, and ... read more",185.0
+Parotta Varieties,Kalakki Parotta,0,0,,110.0
+Parotta Varieties,Vazhai Ilai Nattu Kozhi Parotta,0,0,,210.0
+Biryani,Egg Biryani,0,0,Healthy yet wholesome eggs covered in flavour packed masala and slow cooked rice.,130.0
+Biryani,Plain Biryani,0,0,Mild flavoured aromatic rice Best accompanied with various onion tomato based gravies.,120.0
+Biryani,Chicken Biryani,0,0,"A delightfully wholesome combo of mouthwatering chicken biryani, served along with flavorful raita.[serves1]",145.0
+Biryani,Chicken 65 Biryani [Serves 1],0,0,"A delightfully wholesome combo of mouthwatering chicken biryani, served along with flavorful raita.",145.0
+Biryani,Nattu Kozhi Fry Biryani,0,0,,170.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,150.0
+Fried Rice and Noodles,Egg Noodles,0,0,,140.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,Wholesome stir-fried rice topped with juicy chicken chunks and grated vegetables.,190.0
+Fried Rice and Noodles,Chicken Noodles,0,0,,185.0
+Accompaniments,Raita,0,0,,10.0

@@ -1,0 +1,89 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Paratha,Special Tikka Paratha,1,0,Full size.,340.0
+Paratha,Special Chicken Paratha,0,0,Full size.,260.0
+Paratha,Special Seekh Paratha,0,0,Paratha.,340.0
+Paratha,Special Chicken Cheese Paratha,0,0,Full size.,340.0
+Paratha,Special Mutton Paratha,0,0,Full size.,320.0
+Paratha,Special Mutton Cheese Paratha,0,0,Full size.,380.0
+Starters,Special Malai Tikka [10 Pieces],1,0,,290.0
+Starters,Special Peri Peri Tikka [10 Pieces],1,0,,300.0
+Starters,Special Golden Tikka [10 Pieces],1,0,,290.0
+Starters,Special Pathani Tikka [10 Pieces],1,0,,290.0
+Starters,Special Green Tikka [10 Pieces],1,0,,270.0
+Starters,Special Afghani Tikka [10 Pieces],1,0,,300.0
+Starters,Special Italian Tikka [10 Pieces],1,0,,300.0
+Starters,Green 65 [250 g],1,0,,170.0
+Starters,Malai 65 [250 g],1,0,,170.0
+Starters,Chicken Tikka [10 Pieces],0,0,,250.0
+Starters,Special Chicken Tikka [10 Pieces],0,0,,280.0
+Starters,Special Cheese Leg Tikka [10 Pieces],0,0,,320.0
+Starters,Chicken Leg Tandoori [1 Piece],0,0,,170.0
+Starters,Chicken Chest Tandoori [1 Piece],0,0,,160.0
+Starters,Pathani Leg Tandoori [1 Piece],0,0,,170.0
+Starters,Malai Leg Tandoori [1 Piece],0,0,,170.0
+Starters,Malai Chest Tandoori [1 Piece],0,0,,190.0
+Starters,Green Leg Tandoori [1 Piece],0,0,,180.0
+Starters,Green Chest Tandoori [1 Piece],0,0,,180.0
+Starters,Tandoori Chicken,0,0,,650.0
+Starters,Pathani Chicken,0,0,,670.0
+Starters,Green Chicken,0,0,,670.0
+Starters,Chicken Mamna [200 g],0,0,,150.0
+Starters,Chicken Pathani Mamna [200 g],0,0,,150.0
+Starters,Chicken Tandoori [200 g],0,0,,150.0
+Starters,Chicken Makhanwali Mari Masala [200 g],0,0,,165.0
+Starters,Chicken Cheese Mamna [200 g],0,0,,170.0
+Starters,Chicken 65 Fried Rice [750 g],0,0,,280.0
+Starters,Chicken 65 [250 g],0,0,,165.0
+Starters,Boneless 65 [250 g],0,0,,210.0
+Starters,Chicken Dana [250 g],0,0,,240.0
+Starters,Chicken Kurkure [300 g],0,0,,270.0
+Main Course,Chicken Masala [750 g],0,0,,240.0
+Main Course,Chicken Rathi [750 g],0,0,,260.0
+Main Course,Kadhai Chicken [750 g],0,0,,240.0
+Main Course,Chicken Angara [750 g],0,0,,250.0
+Main Course,Chicken Kolhapuri [750 g],0,0,,255.0
+Main Course,Green Chicken [750 g],0,0,,250.0
+Main Course,White Chicken [750 g],0,0,,270.0
+Main Course,Methi Chicken [750 g],0,0,,280.0
+Main Course,Sorse Chicken [750 g],0,0,,270.0
+Main Course,Chicken Toofani [750 g],0,0,,260.0
+Main Course,Chicken Kurkure Gravy [750 g],0,0,,280.0
+Main Course,Chicken Popcorn Gravy [750 g],0,0,,270.0
+Main Course,Chicken Masala Gravy [750 g],0,0,,260.0
+Main Course,Chicken Machi Masala Gravy [750 g],0,0,,280.0
+Main Course,Rumali Chicken [750 g],0,0,,280.0
+Main Course,Butter Chicken [750 g],0,0,,300.0
+Main Course,Boneless Butter Chicken [750 g],0,0,,300.0
+Main Course,Chicken Lucknowi Kebab Gravy [750 g],0,0,,300.0
+Main Course,Boneless Chicken Masala [750 g],0,0,,300.0
+Main Course,Chicken Rose Garden [750 g],0,0,,280.0
+Main Course,Special Nanawadi Chicken [750 g],0,0,,280.0
+Main Course,Tangdi Kebab Gravy [750 g],0,0,,280.0
+Main Course,Special Silver Chicken [1 Piece],0,0,Some gravy.,230.0
+Main Course,Special Sorse Leg [1 Piece],0,0,Semi gravy.,220.0
+Main Course,Chicken Papeya,0,0,Chicken breat [1 Piece] and some gravy.,300.0
+Main Course,Special Chest Fry [1 Piece],0,0,Semi gravy.,220.0
+Main Course,Special Leg Fry [1 Piece],0,0,Semi gravy.,220.0
+Main Course,Special Machi Masala [1 Piece],0,0,Some gravy.,220.0
+Rice and Biryani,Jeera Pulao [500 g],1,0,,69.0
+Rice and Biryani,Egg Pulao [500 g],0,0,,135.0
+Rice and Biryani,Chicken Pulao [500 g],0,0,,140.0
+Rice and Biryani,Tikka Biryani [750 g],1,0,,210.0
+Rice and Biryani,Italian Biryani [750 g],1,0,,250.0
+Rice and Biryani,Egg Biryani [500 g],0,0,,150.0
+Rice and Biryani,Chicken Biryani [750 g],0,0,,190.0
+Rice and Biryani,Seekh Biryani [750 g],0,0,,240.0
+Fried Rice,Chicken Fried Rice [750 g],0,0,,210.0
+Fried Rice,Chicken Singapuri Fried Rice [750 g],0,0,,240.0
+Fried Rice,Chicken Pizza Fried Rice [1 kg],0,0,,320.0
+Fried Rice,Chicken Fried Fried Rice [750 g],0,0,,210.0
+Fried Rice,Triple Chicken Fried Rice [1 kg],0,0,,240.0
+Fried Rice,Chicken Tikka Fried Rice [750 g],0,0,,250.0
+Fried Rice,Chicken Schezwan Fried Rice,0,0,,220.0
+Fried Rice,Chicken Italian Fried Rice [1 kg],0,0,,240.0
+Fried Rice,Chicken Golden Fried Rice [750 g],0,0,,230.0
+Fried Rice,Chicken Helmet Fried Rice [1 kg],0,0,,270.0
+Fried Rice,Anam Chicken Special Fried Rice [1 kg],0,0,[Chef's Special],320.0
+Snack,Chicken Popcorn [300 g],0,0,,270.0
+Snack,Chicken Kurkuri,0,0,"Show crispy and crunchy, red spicy sauce.",200.0
+Bread,Soft Roti,1,0,Soft roti.,12.0

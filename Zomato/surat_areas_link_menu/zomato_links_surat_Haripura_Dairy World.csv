@@ -1,0 +1,42 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Matho,American Dry Fruit,1,0,,100.0
+Matho,Butter Scotchh,1,0,,100.0
+Matho,Chocolate,1,0,,100.0
+Matho,Dairy World Special,1,0,,120.0
+Matho,Kaaju Gulkand,1,0,,100.0
+Matho,Kaju Badam,1,0,,100.0
+Matho,Kesar Elaichi,1,0,,100.0
+Matho,Mava Malai,1,0,,100.0
+Matho,Rajbhog,1,0,,100.0
+Matho,Red Valvet,1,0,,100.0
+Matho,Plain Matho,1,0,,90.0
+Fresh Fruit Matho,Blueberry,1,0,,100.0
+Fresh Fruit Matho,Lichi Delux,1,0,,100.0
+Fresh Fruit Matho,Lichi Orange,1,0,,100.0
+Fresh Fruit Matho,Mango Malai,1,0,,100.0
+Fresh Fruit Matho,Orange Fresh,1,0,,100.0
+Fresh Fruit Matho,Pineaaple,1,0,,100.0
+Fresh Fruit Matho,Special Jambu,1,0,,100.0
+Fresh Fruit Matho,Strawberry,1,0,,100.0
+Shrikhand,All Fruit,1,0,,100.0
+Shrikhand,Dry Fruit,1,0,,130.0
+Shrikhand,Plain,1,0,,90.0
+Rabdi,Angur Rabdi,1,0,,120.0
+Rabdi,Kesar Dry Fruit Rabdi,1,0,,120.0
+Rabdi,Kesar Rabdi,1,0,,342.86
+Rabdi,Plan Basundi,1,0,,85.71
+Rabdi,Plan Rabdi,1,0,,85.71
+Rabdi,Resha Dry Fruit Rabdi,1,0,,120.0
+Cream Salad,All Fruit Cream Salad,1,0,,100.0
+Cream Salad,Dry Fruit Cream Salad,1,0,,120.0
+Cream Salad,Litchi Mango Cream Salad,1,0,,100.0
+Cream Salad,Mango Delight Plaza,1,0,,100.0
+Cream Salad,Plain Cream Salad,1,0,,90.0
+Cream Salad,Strawberry Cream Salad,1,0,,100.0
+Cold Coco,Kaju Chocolate Coco,1,0,,70.0
+Cold Coco,Special Coldcoco,1,0,250 Ml,70.0
+Lassi,Dry Fruit Lassi,1,0,250 Ml,80.0
+Lassi,Mango Lassi,1,0,250 Ml,70.0
+Lassi,Special Punjabi Lassi,1,0,250 Ml,50.0
+Dahi,Ghee,1,0,,150.0
+Dahi,Punjabi Dahi,1,0,[1 Kg],35.0

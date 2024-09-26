@@ -1,0 +1,101 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tea-Coffee,Black Coffee,1,0,,60.0
+Tea-Coffee,Cold Black Coffee,1,0,,120.0
+Tea-Coffee,Cold Bournvita,1,0,,130.0
+Tea-Coffee,Cold Chocolate,1,0,,140.0
+Tea-Coffee,Cold Coffee,1,0,,120.0
+Tea-Coffee,Cold Coffee Chocolate,1,0,,140.0
+Tea-Coffee,Hot Bournvita,1,0,,70.0
+Tea-Coffee,Hot Chocolate,1,0,,80.0
+Tea-Coffee,Hot Chocotel (big),1,0,,60.0
+Tea-Coffee,Hot Coffee,1,0,,60.0
+Tea-Coffee,Hot Coffee Chocolate,1,0,,80.0
+Iced Tea,Lemon Iced Tea,1,0,,140.0
+Iced Tea,Peach Iced Tea,1,0,,140.0
+Mocktails,Lemon Water,1,0,,30.0
+Mocktails,Mint Mojito,1,0,,140.0
+Mocktails,Mojito,1,0,,150.0
+Mocktails,Watermelon Mojito,1,0,,140.0
+Mocktails,Yuzu,1,0,,160.0
+Quick Bites,Biscuit Pie,1,0,,160.0
+Quick Bites,Cheesy Fries,1,0,,220.0
+Quick Bites,Cheesy Nachos,1,0,,210.0
+Quick Bites,Cheesy Peri Peri Fries,1,0,,250.0
+Quick Bites,French Fries,1,0,,160.0
+Quick Bites,Masala Cheese Pav,1,0,,190.0
+Quick Bites,Nachos Bhel,1,0,,200.0
+Quick Bites,Peri Peri Fries,1,0,,190.0
+Quick Bites,Supreme Nachos,1,0,,250.0
+Burger,Veg Burger,1,0,,90.0
+Burger,Veg Cheese Burger,1,0,,110.0
+Pizza 8 Inch,Chef Special Pizza,1,0,,350.0
+Pizza 8 Inch,Italian Pizza,1,0,,330.0
+Pizza 8 Inch,Only Cheese Pizza,1,0,,300.0
+Pizza 8 Inch,Paneer Tikka Pizza,1,0,,310.0
+Pizza 8 Inch,Veg Cheese Pizza,1,0,,280.0
+Garlic Bread,Cheese Chilli Garlic Bread,1,0,,170.0
+Garlic Bread,Cheese Garlic Bread,1,0,,160.0
+Garlic Bread,Paneer Kulcha,1,0,,190.0
+Garlic Bread,Superme Garlic Bread [4 Pieces],1,0,,190.0
+Garlic Bread,Supream Garlic Bread,1,0,,210.0
+Sandwich,Bread Butter,1,0,,70.0
+Sandwich,Bread Butter Cheese,1,0,,110.0
+Sandwich,Bread Butter Toast,1,0,,80.0
+Sandwich,Maharaja Grill Sandwich,1,0,,200.0
+Sandwich,Rasta Special Sandwich,1,0,,210.0
+Sandwich,Veg Cheese Grill Sandwich,1,0,,180.0
+Sandwich,Veg Cheese Sandwich,1,0,,140.0
+Sandwich,Veg Cheese Toast,1,0,,130.0
+Sandwich,Veg Sandwich,1,0,,110.0
+Maggi,Butter Maggi,1,0,,90.0
+Maggi,Cheese Maggi,1,0,,100.0
+Maggi,Double Masala Cheese Maggi,1,0,,120.0
+Maggi,Double Masala Maggi,1,0,,80.0
+Maggi,Garlic Cream Cheese Maggi,1,0,,140.0
+Maggi,Masala Maggi,1,0,,70.0
+Maggi,Veg Cheese Maggi,1,0,,120.0
+Maggi,Veg Maggi,1,0,,90.0
+Open Toast,Cheese Chilli Toast,1,0,,120.0
+Open Toast,Corn Chilli Cheese Toast,1,0,,130.0
+Open Toast,Paneer Tikka Toast,1,0,,140.0
+Open Toast,Pizza Toast,1,0,,140.0
+Pasta,Aglio E Olio Pasta,1,0,,290.0
+Pasta,Alfredo Pasta,1,0,,300.0
+Pasta,Arrabiata Pasta,1,0,,270.0
+Pasta,Cannelloni Pasta,1,0,,380.0
+Pasta,Lasagna Pasta,1,0,,360.0
+Pasta,Mac N Cheese Pasta,1,0,,330.0
+Pasta,Pesto Pasta,1,0,,370.0
+Pasta,Pink Pasta,1,0,,350.0
+Rice Bowl,Basil Pesto Rice,1,0,,370.0
+Rice Bowl,Cheesy Garlic Rice,1,0,,340.0
+Rice Bowl,Italian Rice,1,0,,350.0
+Rice Bowl,Lazzez Paneer Rice,1,0,,260.0
+Rice Bowl,Mexican Rice,1,0,,320.0
+Starter,Basil Paneer,1,0,,310.0
+Starter,Cheesy Garlic Paneer,1,0,,310.0
+Starter,Mexican Paneer,1,0,,290.0
+Starter,Paneer Kheema Pav,1,0,,230.0
+Starter,Pepper Paneer,1,0,,270.0
+Starter,Peri Peri Paneer,1,0,,320.0
+Salad,Corn Potato Salad,1,0,,220.0
+Salad,Exotic Salad,1,0,,250.0
+Salad,Green Paneer Salad,1,0,,250.0
+Salad,Mexican Salad,1,0,,270.0
+Salad,Pasta Salad,1,0,,250.0
+Chinese,Burnt Garlic Rice,1,0,,250.0
+Chinese,Chinese Bhel,1,0,,210.0
+Chinese,Crispy Corn,1,0,,210.0
+Chinese,Fried Rice,1,0,,230.0
+Chinese,Green Manchurian Dry,1,0,,320.0
+Chinese,Hakka Noodles,1,0,,210.0
+Chinese,Manchurian Dry,1,0,,190.0
+Chinese,Manchurian Rice,1,0,,250.0
+Chinese,Paneer Chilly,1,0,,260.0
+Chinese,Veg Crispy,1,0,,230.0
+Extra,Extra Cheese,1,0,,30.0
+Extra,Extra Cheese Gravy,1,0,,100.0
+Extra,Extra Dip,1,0,,30.0
+Extra,Extra Pav,1,0,,40.0
+Extra,Extra Vegetable,1,0,,30.0
+Extra,Tomato Gravy,1,0,,80.0

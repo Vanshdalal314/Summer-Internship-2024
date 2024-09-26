@@ -1,0 +1,64 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bowl,Labanese Bowl,1,0,"Falafel bites, farm greens & veggies, hummus, labneh, muhammara & garlic pita bread.",460.0
+Meals,Mini Meal For Two,1,0,"[6 Pieces] falafel bites, 2 pita bread, bowl of greens & fresh veggies, ... read more",800.0
+Meals,Family Meal For Four,1,0,"Falafel bites [12 Pieces], 4 pita bread, bowl of greens & fresh veggies, ... read more",1000.0
+Meals,Extra Salad Meal,1,0,Mixed fresh veggies & greens.,240.0
+Sizzlers,Mexican Sizzler,1,0,"Rice in coriander with veggies, nachos & combination sauce.",550.0
+Sizzlers,Garlic Veg Exotica Sizzler,1,0,Sauted vegetable with creamy garlic sauce & garlic rice with french fries.,550.0
+Sizzlers,American Corn Chilli Sizzler,1,0,"American corn & baby corn tossed with chilli, served with spaghetti & creamy ... read more",520.0
+Sizzlers,Paneer Shashlik,1,0,Grilled paneer served sizzling with herbs rice & buttered veggies.,580.0
+Sizzlers,Sizzling Vegetables Sizzler,1,0,Vegetable & herbs rice sizzling inside garlic sauce.,540.0
+Sizzlers,Lebanese Falafel Sizzler,1,0,[Chef's Special] Falafel lovers special,520.0
+Salads,Falafel Salad,1,0,"Falafel bullets, greens & fresh veggies, hummus & labneh dressing.",320.0
+Salads,Fattoush Salad,1,0,"Toasted pita with greens & farm veggies, lemon olive oil dressing & sumac.",280.0
+Salads,Tabbouleh Salad,1,0,"Bulgur wheat mingled with parsley, tomatoes & pomegranate, onions, lemon dressing.",360.0
+Rice,Garlic Rice,1,0,Steamed rice with garlic pepper & creamy garlic sauce.,370.0
+Rice,Cilantro Rice,1,0,"Steamed rice & coriander, bell pepper with combination sauce.",370.0
+Rice,Mexican Rice,1,0,"Rice mixed in beans, sweet corn, spring onion with sparkling of italian herbs.",350.0
+Rice,Lebanese Rice,1,0,Steamed rice cooked in spinach & pepper sauce.,370.0
+Pizza & Pasta,Alfredo Pasta,1,0,"Cheese & cream sauce, sprinkled with parmesan cheese.",420.0
+Pizza & Pasta,Arrabbiata Pasta,1,0,"Spicy sauce made from garlic, fresh basil, tomato & red chilli pepper.",420.0
+Pizza & Pasta,Mixed Pasta,1,0,Mixed of alfredo & arrabbiata.,440.0
+Pizza & Pasta,Pesto Pasta,1,0,"Creamy pesto, aasil leaves, garlic & pine nuts.",470.0
+Pizza & Pasta,Ravioli Pasta,1,0,Vegetable filling sealed between two layers of pasta.,520.0
+Pizza & Pasta,Mushroom Spaghetti Aglio Olio Pasta,1,0,"Tossed spaghetti, garlic, parsley, garlic olive oil.",500.0
+Pizza & Pasta,Lasagne Pasta,1,0,"Tender cheets of pasta, cheesy spinach & veggie with rich tomato and bechamel ... read more",540.0
+Pizza & Pasta,Margherita Pizza [10 inches],1,0,"Tomato sauce, fresh mozzarella & basil leaves.",450.0
+Pizza & Pasta,Siciliana Pizza [10 inches],1,0,"Mushroom, garlic, sun dried tomato, olives with fresh mozzarella.",540.0
+Pizza & Pasta,Jalapeno Poppers Pizza [10 inches],1,0,"Red & green jalapeno, onion & two types of cheese.",540.0
+Pizza & Pasta,Pepperoni Pizza [10 inches],1,0,"[Veg preparation] Red & yellow bell peppers, black olives & cottage cheese.",540.0
+Pizza & Pasta,Italian Ricotta Pizza [10 inches],1,0,"Spinach, onion, tomato, ricotta cheese topped with kernels.",580.0
+Falafel,Original Falafel,1,0,Fresh veggies and greens dressed in tahini sauce.,270.0
+Falafel,Indian Falafel,1,0,"Fresh veggies, greens & falafel mix In red spicy sauce.",280.0
+Falafel,Turkish Falafel,1,0,"Fresh veggies, greens & falafel in spicy traditional muhammara.",330.0
+Falafel,Arabic Falafel,1,0,"Roasted aubergine, fresh veggies, greens & falafel dressed in spicy yogurt.",270.0
+Falafel,Mexican Falafel,1,0,"Farm veggies, greens & falafel mixed in salsa sauce with nachos.",270.0
+Falafel,Madrid Falafel,1,0,"Farm veggies, greens & falafel with cheese in hummus.",270.0
+Manakish,Cheese Manakish,1,0,Zaatar olive oil with cheese.,380.0
+Manakish,Mushroom Manakish,1,0,Cheese manakish topped with sauteed mushroom.,460.0
+Manakish,Lebanese Manakish,1,0,"Cheese manakish topped with zaatar olive oil, italian herbs & roasted eggplants.",480.0
+Garlic Breads,Cheese Garlic Bread,1,0,,270.0
+Garlic Breads,Supreme Garlic Bread,1,0,,280.0
+Garlic Breads,Exotic Garlic Bread,1,0,,300.0
+Sides,French Fries,1,0,,200.0
+Sides,Bruschetta,1,0,,350.0
+Sides,Nachos Garnde,1,0,,360.0
+Sides,Cheese Nachos,1,0,,290.0
+Sides,Falafel Bites,1,0,"Crispy balls of chickpea, parsley, green onion, garlic & spices.",180.0
+Sides,Falafel Quesadilla,1,0,"Tortilla filled with bell peppers, kidney beans, cheese & falafel.",340.0
+Sides,Garlic Chilli Labneh,1,0,Labneh with spicy garlic chilli oil and crunchy pita chips.,250.0
+Sides,Stuffed Pita,1,0,Baked pita stuffed with sundried tomato dip served with labneh.,250.0
+Sides,Pita Melts,1,0,"Pita bread topped with mushroom, onion, bell pepper, tomato, broccoli, olives & mozzarella ... read more",270.0
+Dips,Labneh,1,0,"Greek yogurt, garlic, sumac.",170.0
+Dips,Red Chilli,1,0,Made from spicy red chilli & olive oil.,150.0
+Dips,Babaganush,1,0,"Smokey eggplant, tahini and olive oil.",200.0
+Dips,Muhammara,1,0,"Roasted red peppers, walnut, parsley & olive oil.",300.0
+Hummus Plates,Classic Garlic Hummus,1,0,,210.0
+Hummus Plates,Roasted Garlic Parmesan Hummus,1,0,Hummus Mixed In Roasted Garlic & Parmesan Cheese,290.0
+Hummus Plates,Beetroot Hummus,1,0,"Hummus Mixed In Beetroot Spread, Olive oil, Parsley",260.0
+Hummus Plates,Creamy Avocado Hummus,1,0,"Hummus Mixed In Avocado. Cilantro, Lemon, Garlic, Olive Oil",320.0
+Hummus Plates,Pesto Hummus,1,0,Hummus Mixed In Basil Paste & olive oil,260.0
+Hummus Plates,Jalapeno Lime Hummus,1,0,Hummus Mixed In Jalapenos & Lemon Juice,280.0
+Hummus Plates,Italian White Beans Hummus,1,0,"White Beans Mixed in Lemon, Tahini, Garlic Topped With Parmesan",300.0
+Hummus Plates,Roasted Red Pepper Hummus,1,0,Hummus Mixed In Roasted Red Pepper Garnished With Sesame Seed & Cilantro,280.0
+Hummus Plates,Loaded Hummus,1,0,"Hummus Topped With Tomato, Onion, Parsley, Olives, Feta Cheese",340.0

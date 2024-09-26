@@ -1,0 +1,30 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Sweet Corn Soup,1,0,"Comforting soup brimming with sweet, wholesome corn.",190.0
+Soup,Veg Noodle Soup,1,0,A slightly spicy and thick soup simmered in hot and spicy and topped ... read more,180.0
+Soup,Manchow Soup,1,0,Satisfy your craving for a hearty and flavorful soup with this veggie-packed bowl.,180.0
+Soup,Hot & Sour Soup,1,0,Serve 1,190.0
+Manchurian,Dry Manchurian,1,0,A savory and crispy Chinese dish with a tangy and flavorful sauce.,230.0
+Manchurian,Gravy Manchurian,1,0,A savory Chinese dish with a rich gravy that complements the blend of ... read more,230.0
+Manchurian,Schezwan Manchurian,1,0,Tasty Chinese veg dish with a bold flavor.,220.0
+Paneer,Paneer Chilly Dry,1,0,A flavorful vegetarian stir-fry with savory and aromatic notes.,290.0
+Paneer,Paneer Chilly Gravy,1,0,"This crispy fried saucy Paneer Chilli, tossed in Chinese sauces is hands down ... read more",240.0
+Paneer,Butter Garlic Paneer,1,0,A mildly spiced deep fried paneer tossed with butter and bell peppers.,280.0
+Mushroom,Mushroom Chilly Dry,1,0,"A tantalizingly crispy and satisfying vegetarian starter with a rich, earthy flavor that ... read more",280.0
+Bhel,Chinese Bhel,1,0,A fusion of crispiness and exotic flavors.,270.0
+Bhel,Bombay Bhel,1,0,A flavorful and crunchy mix of ingredients that will transport your taste buds ... read more,270.0
+Special,Chilly Gobi,1,0,A flavorful and aromatic Chinese favorite featuring cauliflower florets with delightful seasonings.,290.0
+Special,Chilly Potato,1,0,,270.0
+Special,Honey Chilly Potato,1,0,,290.0
+Fried Rice And Noodles,Fried Rice,0,0,An aromatic dish of cooked rice that has been stir fried in a ... read more,250.0
+Fried Rice And Noodles,Schezwan Fried Rice,1,0,A flavor-packed Chinese staple with a twist of international appeal.,250.0
+Fried Rice And Noodles,Mushroom Fried Rice,1,0,"A savory blend of rice and fresh mushrooms, bursting with flavor in every ... read more",270.0
+Fried Rice And Noodles,Burnt Garlic Rice,1,0,A flavorful and aromatic rice dish with a crisp and smoky touch.,250.0
+Fried Rice And Noodles,Paneer Fried Rice,1,0,"Soft, creamy paneer combined with flavorful rice, perfect for a hearty vegetarian meal.",270.0
+Fried Rice And Noodles,Chilly Garlic Rice,1,0,Flavor-packed preparation of fresh rice and assorted vegetables in a spicy and aromatic ... read more,250.0
+Fried Rice And Noodles,Smokey Fried Rice,1,0,,250.0
+Fried Rice And Noodles,Hakka Noodles,1,0,Tantalizingly savory and satisfying Chinese veg noodles.,250.0
+Fried Rice And Noodles,Burnt Garlic Noodles,1,0,"A perfect chinese dish cooked with boiled noodles, veggies and a hint of ... read more",260.0
+Fried Rice And Noodles,Chilly Garlic Noodles,1,0,A delectable combination of savory garlic and tasty noodles that will leave your ... read more,260.0
+Fried Rice And Noodles,Manchurian Noodles,1,0,Savory Chinese-style veggie noodles with a bold and flavorful twist.,260.0
+Fried Rice And Noodles,Schezwan Noodles,1,0,A flavor-packed noodles dish with an explosion of bold and savory tastes.,260.0
+Fried Rice And Noodles,Paneer Noodles,1,0,Serves 1,280.0

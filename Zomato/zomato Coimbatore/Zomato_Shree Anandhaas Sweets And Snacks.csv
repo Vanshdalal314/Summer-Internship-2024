@@ -1,0 +1,162 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Baklava,Brownie Baklava Roll,1,0,3112-Brownie Baklava Roll,285.0
+Baklava,Bulbul kunafa,1,0,3114-Bulbul kunafa,438.0
+Baklava,Cashew Baklava Roll,1,0,475-Cashew Baklava Roll,285.0
+Baklava,Chocolate Baklava,1,0,2034-Chocolate Baklava,285.0
+Baklava,Kunafa Baloria,1,0,2033-Kunafa Baloria,438.0
+Cookies,Butter Choco Chips Cookies,1,0,2037-Butter Choco Chips Cookies,91.0
+Cookies,Butter Coconut Cookies,1,0,2035-Butter Coconut Cookies,91.0
+Cookies,Fresh Coconut Cookies,1,0,2039-Fresh Coconut Cookies,63.0
+Samosa,Samosa ( 1 No),1,0,434-Samosa ( 1 No),12.0
+Mysorepak,Beetroot Mysore pak,1,0,145-Beetroot Mysore pak,229.0
+Mysorepak,Carrot Mysore Pak,1,0,102-Carrot Mysore Pak,212.0
+Mysorepak,Classic Mysore Pak,1,0,104-Classic Mysore Pak,162.0
+Mysorepak,Dates Mysore Pak,1,0,105-Dates Mysore Pak,212.0
+Mysorepak,Ghee Mothipak,1,0,194-Ghee Mothipak,183.0
+Mysorepak,Horlicks Burfi,1,0,103-Horlicks Burfi,212.0
+Mysorepak,Jackfruit Mysore Pak,1,0,106-Jackfruit Mysore Pak,248.0
+Mysorepak,Karupatti Mysore Pak,1,0,109-Karupatti Mysore Pak,257.0
+Mysorepak,Ghee Mysore Pak,1,0,101-Ghee Mysore Pak,195.0
+Halwa,Badam Halwa (kg),1,0,162-Badam Halwa (kg),348.0
+Halwa,Bombay Halwa,1,0,117-Bombay Halwa,165.0
+Halwa,Fruits Halwa,1,0,116-Fruits Halwa,189.0
+Halwa,Karupatti Halwa,1,0,118-Karupatti Halwa,198.0
+Halwa,Theratti Pal Halwa,1,0,174-Thirati Pal Halwa,181.0
+Halwa,Thothal Halwa,1,0,178-Thothal Halwa,183.0
+Halwa,Wheat Halwa,1,0,111-Wheat Halwa,167.0
+Halwa,Elaneer Halwa,1,0,119-Elaneer Halwa,189.0
+Halwa,Milk Halwa,1,0,112-Milk Halwa,205.0
+Jamun,Dry Jamun,1,0,122-Dry Jamun,173.0
+Jamun,Kala Jamun,1,0,123-Kala Jamun,179.0
+Jamun,Kesar Dry Jamun,1,0,226-Kesar Dry Jamun,179.0
+Jamun,Paneer Jamun,1,0,121-Paneer Jamun,173.0
+Jamun,Makkan Peda,1,0,124-Makkan Peda,165.0
+Bengali,Apple Rasgulla,1,0,208-Apple Rasgulla (Buffalo milk),179.0
+Bengali,Champakali,1,0,206-Champakali,177.0
+Bengali,Jamun Malai Sandwich,1,0,230-Jamun Malai Sandwich,185.0
+Bengali,Kesar Sandwich,1,0,210-Kesar Sandwich,189.0
+Bengali,Malai Chum Chum,1,0,201-Malai Chum Chum,177.0
+Bengali,Malai Sandwich,1,0,202-Malai Sandwich,177.0
+Bengali,Rasberry (Cow Milk),1,0,203-Raspberry (Cow Milk),179.0
+Bengali,Raskadam (Pink),1,0,205-Raskadam (Pink),179.0
+Bengali,Strawberry,1,0,204-Strawberry (Buffalo milk),183.0
+Bengali,White Apple (Cow Milk),1,0,207-White Apple (Cow Milk),156.0
+Special Sweets,Bombay Jalebi,1,0,140-Bombay Jelebi,124.0
+Special Sweets,Coconut Burfi,1,0,138-Milk Coconut Burfi,173.0
+Special Sweets,Malai Ghee Appam,1,0,139-Malai Ghee Appam,25.0
+Special Sweets,Mini Badusha,1,0,133-Mini Badusha,160.0
+Special Sweets,Royal Sandwich,1,0,200-Royal Sandwich,183.0
+Special Sweets,Sweet Boondhi,1,0,144-Sweet Boondhi,95.0
+Special Sweets,White Coconut Burfi,1,0,155-White Coconut Burfi,156.0
+Laddu,Balaji Laddu,1,0,128-Balaji Laddu,189.0
+Laddu,Dates Laddu,1,0,129-Dates Laddu,187.0
+Laddu,Ghee Laddu,1,0,127-Ghee Laddu,187.0
+Laddu,Sattur Laddu,1,0,130-Sattur Laddu,79.0
+Soanpapdi,Ghee Soan Papdi,1,0,132-Ghee Soan Papdi,173.0
+Soanpapdi,Banaras Soan Papdi,1,0,131-Banaras Soan Papdi,187.0
+Karupatti,Karupatti Coconut Burfi,1,0,156-Karupatti Coconut Burfi,215.0
+Jangiri,Ring Jangiri,1,0,278-Ring Jangiri,135.0
+Milk,Baby Cake,1,0,622-Baby Milk Cake,203.0
+Milk,Badam Chocolate Burfi,1,0,608-Badam Chocolate Burfi,194.0
+Milk,Bikinare,1,0,604-Bikinare,160.0
+Milk,Butterscotch Kalakand,1,0,633-Butter Scotch Kalakand,200.0
+Milk,Chocolate Peda,1,0,612-Chocolate Peda,202.0
+Milk,Doda Burfi,1,0,603-Doda Burfi,198.0
+Milk,Dooth peda,1,0,624-Doodh Peda,183.0
+Milk,Ice Cream Burfi,1,0,617-Ice Cream Burfi,172.0
+Milk,Kalakand Served,1,0,615-Kalakand,156.0
+Milk,Kesar Anjeer Burfi,1,0,606-Kesar Anjeer Burfi,189.0
+Milk,Kesar Peda,1,0,614-Kesar Peda,202.0
+Milk,Mango Katli,1,0,620-Mango Katli,177.0
+Milk,Mathura Peda,1,0,607-Mathura Peda,191.0
+Milk,Milk Mango Burfi,1,0,601-Milk Mango Burfi,206.0
+Milk,Milk Peda,1,0,613-Milk Peda,182.0
+Milk,Petha Kesar Sandwich,1,0,221-Petha Kesar Sandwich,189.0
+Milk,Rasgulla ( 1 No),1,0,401-Rasgulla ( 1 No),25.0
+Milk,Strawberry Milk Burfi,1,0,636-Strawberry Milk Burfi,188.0
+Milk,Vanilla Kalakand,1,0,623-Vanilla Kalakand,200.0
+Murukku,Achu Murukku,1,0,184-Achu Murukku,110.0
+Murukku,Andhira Murukku,1,0,321-Andhira Murukku,119.0
+Murukku,Butter Kai Suthu Murukku,1,0,371-Butter Kai Sutru Murukku,125.0
+Murukku,Curry Leaf Murukku,1,0,387-Curry Leaf Murukku,125.0
+Murukku,Garlic Murukku,1,0,322-Garlic Murukku,119.0
+Murukku,Kaaram Kai Suthu Murukku,1,0,372-Kaaram Kai Sutru Murukku,125.0
+Murukku,Karaikudi Kaara Murukku,1,0,329-Karaikudi Kaara Murukku,119.0
+Murukku,Karupatti Achu Murukku,1,0,179-Karupatti Achu Murukku,124.0
+Murukku,Manapaarai Murukku,1,0,326-Manapaarai Murukku,119.0
+Murukku,Mini Spicy Murukku,1,0,324-Mini Spicy Murukku,119.0
+Murukku,Muthusaram Murukku,1,0,355-Muthusaram Murukku,125.0
+Murukku,Onion Murukku,1,0,320-Onion Murukku,119.0
+Murukku,Ragi Murukku,1,0,325-Ragi Murukku,107.0
+Murukku,Sattur Murukku,1,0,327-Sattur Murukku,119.0
+Murukku,Sesame Murukku,1,0,319-Ellu Murukku,125.0
+Murukku,Tomato Murukku,1,0,349-Tomato Murukku,125.0
+Murukku,Arumbu Murukku,1,0,391-Arumbu Murukku,125.0
+Ghee,Mall Puva,1,0,180-Mall Puva,37.0
+Savouries,Kaara Boondhi,1,0,333-Kaara Boondhi,120.0
+Savouries,Masala Peanuts,1,0,340-Masala Peanuts,131.0
+Savouries,Navadhaniyam,1,0,335-Navadhaniyam,139.0
+Savouries,Oma Podi,1,0,334-Oma Podi,125.0
+Savouries,Pepper Kaara Boondhi,1,0,332-Pepper Kaara Boondhi,125.0
+Savouries,Seeval,1,0,339-Seeval,112.0
+Petha,Angoori Petha,1,0,214-Angoori Petha,173.0
+Petha,Mango Angoori Petha,1,0,216-Mango Angoori Petha,177.0
+Petha,Orange Balls,1,0,219-Orange Petha Balls,183.0
+Petha,Petha Balls,1,0,209-Petha Balls,173.0
+Petha,Petha Paan,1,0,222-Petha Paan,183.0
+Kaju Sweets,Badam Rose Laddu,1,0,536-Badam Rose Laddu,379.0
+Kaju Sweets,Dry Fruit Wafers Biscuit,1,0,509-Dry Fruit Wafers Biscuit,396.0
+Kaju Sweets,Gulkand Biscuit,1,0,538-Gulkand Biscuit,370.0
+Kaju Sweets,Kaju Anjeer Roll,1,0,507-Kaju Anjeer Roll,361.0
+Kaju Sweets,Kaju Biscuit,1,0,527-Kaju Biscuit,370.0
+Kaju Sweets,Kaju Cake Roll,1,0,520-Kaju Cake Roll,370.0
+Kaju Sweets,Kaju Chocolate Roll,1,0,525-Kaju Chocolate Roll,370.0
+Kaju Sweets,Kaju Dry Fruit Roll,1,0,508-Kaju Dry Fruit Roll,338.0
+Kaju Sweets,Kaju Flower,1,0,511-Kaju Flower,330.0
+Kaju Sweets,Kaju Katli,1,0,502-Kaju Katli,314.0
+Kaju Sweets,Kaju Laddu,1,0,545-Kaju Laddu,370.0
+Kaju Sweets,Kaju Mango Biscuit,1,0,528-Kaju Mango Biscuit,370.0
+Kaju Sweets,Kaju Orange Cake Roll,1,0,519-Kaju Orange Cake Roll,379.0
+Kaju Sweets,Kaju Pakija,1,0,518-Kaju Pakija,370.0
+Kaju Sweets,Kaju Pista Laddu,1,0,500-Kaju Pista Laddu,509.0
+Kaju Sweets,Kaju Rice Laddu,1,0,533-Kaju Rice Laddu,370.0
+Kaju Sweets,Kaju Strawberry Cake Roll,1,0,521-Kaju Strawberry Cake Roll,379.0
+Kaju Sweets,Mundhiri Cake,1,0,501-Mundhiri Cake,295.0
+Kaju Sweets,Premium Kaju Katli,1,0,555-Premium Kaju Katli,330.0
+Kaju Sweets,Sugarless Kesar,1,0,514-Sugarless Kesar,415.0
+Kaju Sweets,Walnut Biscuit,1,0,540-Walnut Biscuit,401.0
+Kaju Sweets,Anjeer Dry Fruit Biscuit,1,0,554-Anjeer Dry Fruit Biscuit,370.0
+Chips,Finger Chips,1,0,304-Finger Chips,154.0
+Chips,Laze Chips,1,0,309-Laze Chips,169.0
+Chips,Plain Nendhiram Chips,1,0,350-Plain Nendhiram Chips,138.0
+Chips,Spicy Potato Chips,1,0,306-Spicy Potato Chips,156.0
+Chips,Pepper Potato Chips,1,0,307-Pepper Potato Chips,167.0
+Chips,Tapioca Chips,1,0,305-Tapioca Chips,122.0
+Mixture,Anandhaas Special Mixture,1,0,315-Anandhaas Special Mixture,140.0
+Mixture,Arcot Mixture,1,0,373-Arcot Mixture,139.0
+Mixture,Aval Mixture,1,0,311-Aval Mixture,125.0
+Mixture,Bombay Mixture,1,0,312-Bombay Mixture,125.0
+Mixture,Boondhi Mixture,1,0,313-Boondhi Mixture,79.0
+Mixture,Chettinad Mixture,1,0,388-Chettinad Mixture,131.0
+Mixture,Corn Mixture,1,0,314-Corn Mixture,119.0
+Mixture,Kashmiri Mixture,1,0,384-Kashmiri Mixture,138.0
+Mixture,Masala Mundhiri,1,0,337-Masala Mundhiri,440.0
+Mixture,Pepper Mundhiri,1,0,336-Pepper Mundhiri,534.0
+Sev,Butter Sev,1,0,331-Butter Sev,125.0
+Sev,Milagu Sev,1,0,318-Milagu Sev,125.0
+Sev,Nellai Sev,1,0,344-Nellai Sev,109.0
+Sev,Sattur Karasev,1,0,330-Sattur Karasev,107.0
+Pakoda,Ootu Pakoda,1,0,341-Ootu Pakoda,119.0
+Pakoda,Ragi Rippon Pakoda,1,0,377-Ragi Rippon Pakoda,120.0
+Pakoda,Mundhiri Pakoda,1,0,338-Mundhiri Pakoda,168.0
+Thattai,Aanjaneyar Vadai,1,0,353-Anjenayar Vadai,139.0
+Thattai,Sesame Thattai,1,0,346-Sesame Thattai,125.0
+Seedai,Butter Seedai,1,0,364-Butter Seedai,119.0
+Seedai,Kaara Seedai,1,0,363-Kaara Seedai,119.0
+Seedai,Vella Seedai,1,0,365-Vella Seedai,119.0
+Chaat,Veg Cutlet,1,0,837-Veg Cutlet,19.0
+Stick,Butter Milk,1,0,1009-Butter Milk,28.6
+Stick,Mango Milk,1,0,1067-Mango Milk,62.5
+Stick,Pista Milk,1,0,1203-Pista Milk,70.54
+Stick,Rose Milk,1,0,1092-Rose Milk,58.04
+Stick,Toffee Caramel,1,0,1192-Toffee Caramel,66.96

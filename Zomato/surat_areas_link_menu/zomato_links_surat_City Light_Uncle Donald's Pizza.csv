@@ -1,0 +1,23 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Pizza,1,0,Lots of cheese.,150.0
+Pizza,Seven Cheese Margherita Pizza,1,0,"Mozzarella cheese, Cheddar cheese, white cheese, chipotle cheese and red paprika, orange Cheddar, ... read more",250.0
+Pizza,Vegetarian Bite Pizza,1,0,"Onion, green pepper, cheese and tomato.",225.0
+Pizza,American Heat Pizza,1,0,"Onion, green pepper, baby corn, cheese and jalapeno.",250.0
+Pizza,Mexican Delight Pizza,1,0,"Sweet corn, green chilli, cheese, black olive and tomato.",250.0
+Pizza,Spice Treat Pizza,1,0,"Green pepper, spicy paneer, cheese, olives and jalapeno.",250.0
+Pizza,Special Uncle Donalds Pizza,1,0,"Onion, green pepper, mushroom, paneer, sweet corn, cheese, tomato and black olives.",280.0
+Pizza,Crown Pizza,1,0,"Grilled cheese, stuffed crust with paneer, green pepper, baby corn, cheese and tomato.",275.0
+Pizza,American Four Cheese Ocean Pizza,1,0,"Mozzarella cheese, Cheddar cheese, white cheese, chipotle cheese and red peprika.",275.0
+Pizza,Cheese Blast Pizza,1,0,"Kind of cheese, onion, green pepper and jalapeno.",300.0
+Pizza,Chatpata Paneer Pizza,1,0,"Sweet corn, chatpata paneer, cheese and tomato.",250.0
+Pizza,Amritsari Tandoori Paneer Pizza,1,0,"Onion, green pepper, tandoori paneer, cheese and tomato.",275.0
+Pizza,Double Layer Pizza,1,0,"Onion, green chilli, capsicum, cheese and tomato.",250.0
+Pizza,Paneer Bhurji Pizza,1,0,"Onion, chilli, paneer chopped, cheese, tomato and coriander.",250.0
+Pizza,Manchurian Pizza,1,0,"Spicy schezwan sauce, masala manchurian, spring onion, capsicum and lots of cheese.",250.0
+Pizza,Creamy Pasta Pizza,1,0,"Creamy sauce, masala pasta, sweet corn, capsicum, olives and lots of cheese.",250.0
+Pizza,Four Cheese Ocean Pizza,1,0,"Mozzarella cheese, Cheddar cheese, white cheese, chipotle cheese and red paprika.",250.0
+Pizza,Marinara Pizza,1,0,"Wgarlic, onion, tomato, red peprika, Mozzarella cheese corn, chatpata paneer, cheese and tomato.",250.0
+Pizza,Romana Pizza,1,0,"Mushroom, yellow capsicum, green capsicum, black olive, and Mozzarella cheese.",250.0
+Pizza,Gujarati Treat Pizza,1,0,"Green chilli, green pepper, garlic, onion, green peas masala, cheese and tomato.",250.0
+Snacks,Garlic Bread with Cheese [4 Pieces],1,0,,125.0
+Snacks,Supreme Garlic Bread with Cheese,1,0,"Onion, chilli, paneer chopped, cheese, tomato and coriander.",150.0

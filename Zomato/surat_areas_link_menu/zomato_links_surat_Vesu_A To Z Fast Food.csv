@@ -1,0 +1,66 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special,Cold Coffee,1,0,,60.0
+Special,Cold Chocolate,1,0,,80.0
+Special,Strawberry Cold Beverage,1,0,,80.0
+Special,KitKat Cold Beverage,1,0,,100.0
+Special,Oreo Cold Beverage,1,0,,100.0
+Burgers and Sandwiches,Veg Burger,1,0,,50.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,75.0
+Burgers and Sandwiches,Tandoori Cheese Burger,1,0,,80.0
+Burgers and Sandwiches,Aloo Matar Cheese Toast Sandwich,1,0,,75.0
+Burgers and Sandwiches,Veg Cheese Open Toast Sandwich,1,0,,80.0
+Burgers and Sandwiches,Tandoori Cheese Open Toast Sandwich,1,0,,80.0
+Burgers and Sandwiches,Green Chilli Open Toast Sandwich,1,0,,80.0
+Burgers and Sandwiches,Tandoori Paneer Open Toast Sandwich,1,0,,100.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,25.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich,1,0,,50.0
+Burgers and Sandwiches,Bread Chutney Sandwich,1,0,,30.0
+Burgers and Sandwiches,Bread Butter Jam Sandwich,1,0,,40.0
+Burgers and Sandwiches,Bread Butter Jam Cheese Sandwich,1,0,,60.0
+Burgers and Sandwiches,Mayonnaise Cheese Bread Sandwich,1,0,,50.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,50.0
+Burgers and Sandwiches,Peri Peri Sandwich,1,0,,50.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,60.0
+Burgers and Sandwiches,Mayonnaise Cheese Sandwich,1,0,,60.0
+Burgers and Sandwiches,Peri Peri Cheese Sandwich,1,0,,60.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,130.0
+Burgers and Sandwiches,Mayonnaise Veg Cheese Grilled Sandwich,1,0,,140.0
+Burgers and Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,,160.0
+Burgers and Sandwiches,Rimzim Melting Grilled Sandwich,1,0,,190.0
+Burgers and Sandwiches,Veg Toast Sandwich,1,0,,60.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,75.0
+Burgers and Sandwiches,Tandoori Paneer Toast Sandwich,1,0,,80.0
+Burgers and Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,35.0
+Snacks,Maska Bun,1,0,,30.0
+Snacks,Maska Jam Bun,1,0,,40.0
+Snacks,Chocolate Maska Bun,1,0,,40.0
+Snacks,Biscuit Pie,1,0,,90.0
+Snacks,Only Biscuit Pie,1,0,,80.0
+Snacks,Tandoori Biscuit Pie,1,0,,100.0
+Snacks,Corn Cheese Garlic Bread,1,0,,160.0
+Snacks,Cheese Masala Fries,1,0,,110.0
+Snacks,Cheese Peri Peri Fries,1,0,,120.0
+Snacks,Veg Garlic Bread,1,0,,150.0
+Snacks,Cheese Garlic Bread,1,0,,130.0
+Snacks,Chilli Garlic Bread,1,0,,140.0
+Snacks,Salted Fries,1,0,,70.0
+Snacks,Masala Fries,1,0,,80.0
+Snacks,Peri Peri Fries,1,0,,80.0
+Maggi,Masala Maggi,1,0,,40.0
+Maggi,Cheese Maggi,1,0,,65.0
+Maggi,Tandoori Maggi,1,0,,55.0
+Maggi,Schezwan Maggi,1,0,,55.0
+Maggi,Peri Peri Maggi,1,0,,55.0
+Frankies,Veg Frankie,1,0,,40.0
+Frankies,Veg Cheese Frankie,1,0,,55.0
+Frankies,Tandoori Frankie,1,0,,65.0
+Frankies,Peri Peri Cheese Frankie,1,0,,75.0
+Drinks (Beverages),Adrak Masala Tea,1,0,,15.0
+Drinks (Beverages),Hot Coffee,1,0,,20.0
+Drinks (Beverages),Hot Chocolate,1,0,,25.0
+Drinks (Beverages),Black Coffee,1,0,,20.0
+Drinks (Beverages),Hot Lemon Tea,1,0,,30.0
+Drinks (Beverages),Green Tea,1,0,,30.0
+Drinks (Beverages),Water Base Iced Tea,1,0,,50.0
+Drinks (Beverages),Sprite Soft Beverage Base Iced Tea,1,0,,70.0
+Drinks (Beverages),Peach Iced Tea,1,0,,70.0

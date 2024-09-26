@@ -1,0 +1,64 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Exclusive Combos,2 Paneer Chole Bhature + 2 Extra Bhature,1,0,2 Plate Chole Bhature+2 Extra Bhature,280.0
+Exclusive Combos,Chole Bhature [2 Plates] with 2 Buttermilk,1,0,Chole Bhature [2 Plates] with 2 Buttermilk.,270.0
+Exclusive Combos,2 Cheese Grill Sandwich + 2 Cheese Frankie + 2 Butter Milk,1,0,Family combo.,470.0
+Exclusive Combos,Cheese Grilled Sandwich with 2 Indori Poha,1,0,Cheese Grilled Sandwich with 2 Indori Poha.,260.0
+Exclusive Combos,Cheese Frankie [2 Pieces] with 2 Buttermilk,1,0,Cheese Frankie [2 Pieces] with 2 Buttermilk.,230.0
+Exclusive Combos,"Chole Bhature [6 Bhature, 3 Plate]",1,0,"Chole Bhature [6 Bhature, 3 Plate].",300.0
+Sandwiches,Veg Sandwich,1,0,,60.0
+Sandwiches,Veg Cheese Sandwich,1,0,,110.0
+Sandwiches,Veg Toast Sandwich,1,0,,80.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,100.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,Large special cheese grill sandwich with different vegetable.,130.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,70.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,120.0
+Sandwiches,Bread Butter Sandwich,1,0,,60.0
+Sandwiches,Open Cheese Sandwich,1,0,,130.0
+Sandwiches,Cheese Grilled Sandwich [Mini],1,0,Special cheese grilled sandwich in small square 3 layer bread.,90.0
+Frankies,Veg Frankie,1,0,,60.0
+Frankies,Veg Cheese Frankie,1,0,,80.0
+Frankies,Paneer Cheese Frankie,1,0,,120.0
+Frankies,Tandoori Cheese Frankie,1,0,,120.0
+Maggi,Vegetable Maggi,1,0,,70.0
+Maggi,Cheese Maggi,1,0,,100.0
+Chole Bhature,Paneer Chole Bhature,1,0,"2 Piece of Paneer Stuffed Bhature served with Chole, Pickle and Onion.",115.0
+Chole Bhature,Chole [1 Plate],1,0,,70.0
+Chole Bhature,Extra Bhatura [1 Piece],1,0,Paneer Stuffed Bhature,30.0
+Chole Bhature,Special Cheese Bhature [2 Bhature] with Chole,1,0,,140.0
+Chole Bhature,Cheese Bhature [1 Bhature],1,0,,40.0
+Chole Bhature,Chole Pav [2 Pav],1,0,Delhi style chole with pav and salad.,100.0
+Chatakedar Snacks,Dahi Papdi,1,0,,70.0
+Chatakedar Snacks,Masala Khichiya,1,0,,60.0
+Chatakedar Snacks,Mayo Vada Pav,1,0,,50.0
+Chatakedar Snacks,Dahi Kachori,1,0,,70.0
+Chatakedar Snacks,Bombay Bhel,1,0,,60.0
+Chatakedar Snacks,Chole Kachori,1,0,,70.0
+Chatakedar Snacks,Indoori Poha,1,0,,45.0
+Chatakedar Snacks,Vada Pav,1,0,,25.0
+Chatakedar Snacks,Cheese Vada Pav,1,0,,50.0
+Chatakedar Snacks,Sabudana Khichdi,1,0,Special upavasa wali sabudana khichdi.,60.0
+Chatakedar Snacks,Sukha Bhel Poori,1,0,Special Bombay style sukha bhel with garlic chutney.,65.0
+Chatakedar Snacks,Geela Bhel,1,0,Special Bombay style geela bhel with different mixed chutney.,65.0
+Chatakedar Snacks,Dahi Bhel Poori,1,0,,70.0
+Chatakedar Snacks,Dahi Samosa,1,0,,70.0
+Chatakedar Snacks,Chole Samosa,1,0,,70.0
+Drinks (Beverages),"Buttermilk [1 Bottle, 200 ml]",1,0,,25.0
+Drinks (Beverages),Kesar Lassi,1,0,,65.0
+Drinks (Beverages),Cold Coco,1,0,,65.0
+Drinks (Beverages),Special Lassi,1,0,,60.0
+Shivratri Special,Upvas Wali Sabudana Khichdi,1,0,,60.0
+Thali,Veg Deluxe Thali,1,0,Paneer Sabji+Mix Sabji+4 Butter Roti+Dal+Chawal+Papad+Chaas+Salad [Subject to Availability],180.0
+Thali,Veg Mini Thali,1,0,1 Paneer ki Sabji+4 Butter Roti+Dal+Chawal+Salad [Subject to Availability],140.0
+Thali,Paneer Bhurji with 4 Butter Paratha,1,0,"Special paneer bhurji sabji with 4 paratha in made in butter, salad and ... read more",140.0
+Thali,Chole Masala with 4 Butter Paratha,1,0,"Special chole masala sabji with 4 paratha made in butter, salad and pickle ... read more",140.0
+Grilled Sandwiches,Veg Grilled Sandwich,1,0,Special vegitable grill sandwich with chatney and sauces.,80.0
+Grilled Sandwiches,Vegetable Grilled Sandwich,1,0,Grill sandwich made with defferent vegetables with chatney and sauces.,100.0
+Grilled Sandwiches,Veg Cheese Grill Sandwich,1,0,,130.0
+Grilled Sandwiches,Veg Schezwan Grilled Sandwich,1,0,Special grill sandwich made with Schezwan sauce ( Jain not available).,130.0
+Grilled Sandwiches,A K 47 Grilled Sandwich,1,0,Shop's special item with full cheese.,150.0
+Grilled Sandwiches,Double Cheese Grilled Sandwich,1,0,Special grill sandwich with double cheese.,180.0
+Grilled Sandwiches,Only Cheese Grilled Sandwich,1,0,Grill sandwich made with only cheese.,180.0
+Sawan special,Farali Sabudana Khichdi,1,0,Special upvas wali sabudana ki khichdi made with upvas wala salt and potato.,60.0
+Sawan special,Dahi Farali Sabudana Khichdi,1,0,Special upvas wali sabudana ki khichdi with dahi.,80.0
+Sawan special,Dahi Farali Chevda,1,0,Upvaswali farali chevda with dahi.,80.0
+Sawan special,Sabudana Khichdi with Lassi,1,0,Special upvas wali sabudana ki khichdi with lassi.,120.0

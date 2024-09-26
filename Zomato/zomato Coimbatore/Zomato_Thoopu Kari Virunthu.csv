@@ -1,0 +1,252 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Chicken Clear Soup,0,0,"Chicken pieces chopped [ginger, garlic, carrot, bay leaves] with chicken stock water.",128.0
+Soups,Nattukozhi Soup,0,0,"Country chicken and ginger garlic paste, onion, tomato, turmeric powder, red chilli powder, ... read more",168.0
+Soups,Mutton Soup,0,0,"Mutton bone, tomato, onion, cumin seeds, pepper, chopped coriander leaves and turmeric powder.",168.0
+Soups,Nandu Rasam,0,0,,168.0
+Soups,Motton Nenju Elumbu Soup,0,0,,178.0
+Soups,Veg Clear Soup,0,0,,98.0
+Soups,Chettinad Vegetable Soup,0,0,,99.0
+Starters,Thoppu Mutton Varuval,0,0,,436.0
+Starters,Boneless Mutton Chukka,0,0,,469.0
+Starters,Mutton Pallipalayam,0,0,,436.0
+Starters,Mutton Kudal Fry,0,0,,229.0
+Starters,Mutton Pepper Fry,0,0,,436.0
+Starters,Gobi 65,0,0,Gobi mixed with our own chefs made masala deep fry in hot pan. ... read more,139.0
+Starters,Gobi Manchurian,0,0,Gobi manchurian cut as small pieces added with ingredient and final touch of ... read more,169.0
+Starters,Gobi Pepper Fry,0,0,Gobi cut as pieces added with ingredient and final touch of salt and ... read more,169.0
+Starters,Gobi Hot Pepper,0,0,,169.0
+Starters,Japan Mushroom,0,0,,239.0
+Starters,Mushroom 65,0,0,Farm fresh mushroom cut as pieces added with ingredient mixed with our own ... read more,169.0
+Starters,Mushroom Manchurian,0,0,"Mushroom cut as small pieces added with chef's special ingredient, final touch of ... read more",189.0
+Starters,Mushroom Pepper Fry,0,0,"Farm fresh mushroom cut as small pieces added with chef's special ingredient, final ... read more",189.0
+Starters,Mushroom Hot Pepper,0,0,,189.0
+Starters,777 Paneer,0,0,,239.0
+Starters,Paneer 65,0,0,"Dairy fresh paneer slice as cube pieces added with chefs special ingredient, final ... read more",219.0
+Starters,Paneer Manchurian,0,0,"Dairy fresh paneer cut as small pieces added with chefs special ingredient, final ... read more",239.0
+Starters,Paneer Pepper Fry,0,0,"Dairy fresh paneer cut as small pieces added with chefs special ingredient, final ... read more",239.0
+Starters,Paneer Hot Pepper,0,0,,239.0
+Starters,Dragon Paneer,0,0,,239.0
+Starters,Baby Corn 65,0,0,Baby corn sliced as small pieces mixed with our own chefs made masala ... read more,189.0
+Starters,Baby Corn Manchurian,0,0,Baby corn manchurian cut as small pieces added with ingredient and final touch ... read more,219.0
+Starters,Baby Corn Pepper Fry,0,0,"Baby corn cut as small pieces added with chefs special ingredient, final touch ... read more",219.0
+Starters,Baby Corn Hot Pepper,0,0,,219.0
+Starters,Kaadai Deep Fry,0,0,,189.0
+Starters,Kaadai Podimas,0,0,,229.0
+Starters,Kaadai Pepper Masala,0,0,,229.0
+Starters,Hariyali Kebab,0,0,,269.0
+Starters,Chicken Tikka,0,0,"Juicy chicken tikka served with salad, green chutney and own mayonnaise [Salad-Subject to ... read more",248.0
+Starters,Tandoori Chicken [Half],0,0,"Served with salad, green chutney and mayonnaise [Subject to Availability]",289.0
+Starters,Fish Tikka,0,0,,296.0
+Starters,Tandoori Chicken [Full],0,0,"Served with salad, green chutney and mayonnaise [Subject to Availability].",589.0
+Starters,Tandoori Chicken Leg 1 Piece [Quarter],0,0,Served with tandoori.,179.0
+Starters,Grilled Chicken [Half],0,0,,289.0
+Starters,Grilled Chicken [Full],0,0,,589.0
+Starters,"Tandoori Chicken Chest [1 Piece, Quarter]",0,0,Served w,179.0
+Starters,Fish 65,0,0,,289.0
+Starters,Fish 777,0,0,,319.0
+Starters,Nethili Fry,0,0,,249.0
+Starters,Nethili Hot Pepper,0,0,,289.0
+Starters,Squid 65,0,0,,319.0
+Starters,Squid Pepper Fry,0,0,,329.0
+Starters,Squid Chettinad Varuval,0,0,,329.0
+Starters,Prawns 65,0,0,,289.0
+Starters,Prawns Pepper Fry,0,0,,319.0
+Starters,Prawns Manchurian,0,0,,319.0
+Starters,Prawns Chettinad Varuval,0,0,,319.0
+Starters,Omelette,0,0,,49.0
+Starters,Special Omelette,0,0,,89.0
+Starters,Kalakki,0,0,,38.0
+Starters,Kulambu Kalakki,0,0,Kalakki is our special dish with plain chicken gravy added salt and pepper.,48.0
+Starters,Egg Poriyal,0,0,,58.0
+Starters,Egg Chilli,0,0,,148.0
+Starters,Egg Hot Pepper,0,0,Egg cut into 2 or 4 pieces mixed with our masala added with ... read more,168.0
+Starters,Pallipalayam Nattukozhi Varuval,0,0,,289.0
+Starters,Nallampatti Nattukozhi Varuval,0,0,,289.0
+Starters,Nattukozhi Pepper Fry,0,0,,289.0
+Starters,Nattu Kozhi Kattu Varuval,0,0,,289.0
+Starters,Nattukozhi Uppukari Varuval,0,0,,289.0
+Starters,Guntur Chicken,0,0,Juicy chicken cut a small piece well cooked after add our chef's base ... read more,279.0
+Starters,Chicken Pallipalayam,0,0,Juicy chicken cuts a small piece well cooked after add our chef's base ... read more,279.0
+Starters,Chicken Kothu Kari Varuval,0,0,Juicy chicken chopped as small pieces well cocked with maraseku oil and added ... read more,279.0
+Starters,Chicken Maharani,0,0,Juicy chicken mixed with our chef's home made masala added with some ingredients ... read more,279.0
+Starters,Chicken Chinthamani,0,0,Boneless chopped chicken mixed with our chef's homemade masala added with some ingredients ... read more,279.0
+Starters,Chicken Uppu Kari,0,0,,279.0
+Starters,Chicken 65,0,0,Tender cut chicken mixed with our chef's homemade masala served with onion and ... read more,209.0
+Starters,Boneless Chicken 65,0,0,Breast piece tender cut chicken mixed with our chef's homemade masala served with ... read more,239.0
+Starters,Pepper Chicken,0,0,"Shallow fried, batter coated juicy chicken chunks tossed in a pepper based tempering ... read more",249.0
+Starters,Hot Pepper Chicken,0,0,"Shallow fried, batter coated juicy chicken chunks tossed in a pepper based tempering ... read more",269.0
+Starters,Chicken Manchurian,0,0,Juicy chicken mixed with our chef's home made masala added with some ingredients ... read more,269.0
+Starters,Chicken Hyderabadi,0,0,,269.0
+Starters,Ginger Chicken,0,0,Juicy chicken mixed with our chef's home made ingredients served as delicious starter.,269.0
+Starters,Honey Chicken,0,0,Juicy chicken cut as small piece well cooked after add our chef's base ... read more,279.0
+Starters,Chicken Golden Fry,0,0,Juicy chicken mixed with our chef's homemade masala added with some sauce make ... read more,279.0
+Starters,Dragon Chicken,0,0,Juicy chicken mixed with our chef's home made masala added with some ingredients ... read more,279.0
+Starters,Lemon Chicken,0,0,"Shallow fried, batter coated juicy chicken chunks tossed in a lemon juicy tempering ... read more",279.0
+Starters,Kerala Chicken,0,0,Juicy chicken cut as small piece well cooked after add our chef's base ... read more,269.0
+Starters,Dynamite Chicken,0,0,,279.0
+Starters,Bullet Chicken,0,0,Juicy chicken cut in cube piece with batter coated added our chef's base ... read more,269.0
+Starters,Japan Chicken,0,0,Juicy chicken cut as small piece well cooked after add our chef's base ... read more,289.0
+Starters,777 Chicken,0,0,"Juicy chicken cut in length piece coated and fry with golden, added our ... read more",289.0
+Starters,Aasari Chicken Varuval,0,0,,279.0
+Starters,Chicken Lollipop [4 Pieces],0,0,Served with onion and lemon.,209.0
+Starters,Crab Lollipop,0,0,,289.0
+Starters,Chicken Lollipop Manchurian [4 Pieces],0,0,Lollipop batter chicken mixed with sauce and served with crisps.,229.0
+Starters,Chicken Balls [2 Pieces],0,0,,89.0
+Starters,Fish Fingers [5 Pieces],0,0,,239.0
+Starters,Chicken Popcorn [15 Pieces],0,0,,209.0
+Starters,Chicken Fingers [5 Pieces],0,0,,229.0
+Starters,Chicken Nuggets [6 Pieces],0,0,,209.0
+Starters,Veg Lollipop,0,0,,189.0
+Starters,Potato Poppers,0,0,,189.0
+Fried Rice,Jeera Rice,0,0,,179.0
+Fried Rice,Ghee Rice,0,0,,179.0
+Fried Rice,Veg Fried Rice,0,0,,179.0
+Fried Rice,Garlic Fried Rice,0,0,,179.0
+Fried Rice,Gobi Fried Rice,0,0,,179.0
+Fried Rice,Mushroom Fried Rice,0,0,,189.0
+Fried Rice,Paneer Fried Rice,0,0,,209.0
+Fried Rice,Veg Schezwan Fried Rice,0,0,,189.0
+Fried Rice,Gobi Schezwan Fried Rice,0,0,,209.0
+Fried Rice,Mushroom Schezwan Fried Rice,0,0,,219.0
+Fried Rice,Paneer Schezwan Fried Rice,0,0,,229.0
+Fried Rice,Mixed Veg Schezwan Fried Rice,0,0,,239.0
+Fried Rice,Mixed Veg Fried Rice,0,0,,219.0
+Fried Rice,Curd Rice,0,0,,129.0
+Fried Rice,Special Curd Rice,0,0,,189.0
+Fried Rice,Veg Butter Double Corn Fried Rice,0,0,,236.0
+Fried Rice,Egg Noodles,0,0,,209.0
+Fried Rice,Chicken Noodles,0,0,,239.0
+Fried Rice,Prawns Noodles,0,0,,269.0
+Fried Rice,Fish Noodles,0,0,,269.0
+Fried Rice,Chicken Schezwan Noodles,0,0,,249.0
+Fried Rice,Chilli Chicken Noodles,0,0,,249.0
+Fried Rice,Mixed Non Veg Noodles,0,0,,289.0
+Fried Rice,Chilli Chicken Schezwan Noodles,0,0,,259.0
+Fried Rice,Gobi Noodles,0,0,,179.0
+Fried Rice,Veg Noodles,0,0,,179.0
+Fried Rice,Mushroom Noodles,0,0,,189.0
+Fried Rice,Paneer Noodles,0,0,,209.0
+Fried Rice,Veg Schezwan Noodles,0,0,,189.0
+Fried Rice,Gobi Schezwan Noodles,0,0,,209.0
+Fried Rice,Mushroom Schezwan Noodles,0,0,,219.0
+Fried Rice,Paneer Schezwan Noodles,0,0,,229.0
+Fried Rice,Mixed Veg Noodles,0,0,,219.0
+Fried Rice,Mixed Veg Schezwan Noodles,0,0,,239.0
+Fried Rice,Chilli Chicken Schezwan Fried Rice,0,0,,239.0
+Fried Rice,Double Egg Fried Rice,0,0,"A heavenly combination of fluffy rice and perfectly cooked eggs, delivering a mouthwatering ... read more",196.0
+Fried Rice,Egg Schezwan Fried Rice,0,0,,219.0
+Fried Rice,Chicken Fried Rice,0,0,,229.0
+Fried Rice,Chilli Chicken Fried Rice,0,0,,229.0
+Fried Rice,Chicken Schezwan Fried Rice,0,0,,239.0
+Fried Rice,Prawns Fried Rice,0,0,,248.0
+Fried Rice,Singapore Chicken Fried Rice,0,0,,248.0
+Fried Rice,Fish Fried Rice,0,0,,248.0
+Fried Rice,Mixed Non Veg Fried Rice,0,0,,269.0
+Fried Rice,Mixed Seafood Fried Rice,0,0,,286.0
+Gravies,Pepper Chicken Masala,0,0,"Chicken is cooked with onion, curry leaves and green chillies till tender, tossed ... read more",239.0
+Gravies,Chettinadu Chicken Masala,0,0,,239.0
+Gravies,Garlic Chicken Masala,0,0,,239.0
+Gravies,Butter Chicken Masala,0,0,,239.0
+Gravies,Ginger Chicken Masala,0,0,,239.0
+Gravies,Kadai Chicken Masala,0,0,,239.0
+Gravies,Niligiri Chicken Masala,0,0,,248.0
+Gravies,Chicken Pallipalayam Masala,0,0,,248.0
+Gravies,Nattu Kozhi Pepper Masala,0,0,,289.0
+Gravies,Nattu Kozhi Pallipalayam Masala,0,0,,289.0
+Gravies,Thoppu Nattu Kozhi Special Masala,0,0,,299.0
+Gravies,Mutton Kudal Masala,0,0,,299.0
+Gravies,Mutton Masala,0,0,,389.0
+Gravies,Mutton Pepper Masala,0,0,,389.0
+Gravies,Mutton Pallipalayam Masala,0,0,,389.0
+Gravies,Thoopu Mutton Special Masala,0,0,,389.0
+Gravies,Fish Gravy(2Pcs),0,0,,248.0
+Gravies,Prawn Masala,0,0,,369.0
+Gravies,Kadai Prawn Masala,0,0,,369.0
+Gravies,Gobi Masala,0,0,,179.0
+Gravies,Gobi Pepper Masala,0,0,,189.0
+Gravies,Gobi Chettinadu Masala,0,0,,189.0
+Gravies,Mushroom Masala,0,0,,219.0
+Gravies,Mushroom Pepper Masala,0,0,,219.0
+Gravies,Mushroom Chettinadu Masala,0,0,,219.0
+Gravies,Paneer Butter Masala,0,0,,229.0
+Gravies,Veg Mix Masala,0,0,,229.0
+Gravies,Green Peas Masala,0,0,,229.0
+Gravies,Kadai Veg,0,0,,229.0
+Gravies,Kadai Paneer Masala,0,0,,229.0
+Gravies,Casino Masala,0,0,,239.0
+Lunch Meals,Naatu Kozhi Meal,0,0,Nattu Kozhi Nallampatti varuval + rice + chicken kulambu + rasam + butter ... read more,186.0
+Lunch Meals,Fish Meal,0,0,White Rice + Fish Fry+Fish kulambu+Rasam+ButterMilk,186.0
+Lunch Meals,Thoppu Biryani Meal,0,0,White Rice (250 grm) + Bir,189.0
+Lunch Meals,Vellattu Kudal Curry Meal,0,0,White Rice + Vellattu Kudal Varuval + Gravy + Rasam + Vellattu Kuda,189.0
+Lunch Meals,Thoppu Great Combo,0,0,Chicken Varuval+Fish Fry+Chicken Kola Urundai [2 Pieces]+Boiled Egg [1 Egg]+Plain Briyani [100 g]+White ... read more,399.0
+Lunch Meals,Chicken Meal,0,0,Milagukari Varuval+White Rice+Chicken Gravy+,169.0
+Lunch Meals,Karuvattu Kulambu Meal,0,0,White Rice+Nethili Fry,189.0
+Lunch Meals,Bread Halwa [100 g],0,0,,89.0
+Lunch Meals,Rasam,0,0,,26.0
+Lunch Meals,Curd (Thalicha Thair),0,0,,58.0
+Lunch Meals,Mutton Meal,0,0,Mutton Pallipalayam Dry+White Rice+Mutton Kulambu+Rasam+ButterMilk,239.0
+Biryani,Chicken Biryani,0,0,,269.0
+Biryani,Chilli Chicken Biryani,0,0,"A delightfully delicious combo of all time loved chicken 65 pieces, biryani served ... read more",248.0
+Biryani,Egg Biryani,0,0,A delightfully delicious combo of all time loved Biryani served along with our ... read more,179.0
+Biryani,Bucket Biryani [Serves 4],0,0,,899.0
+Biryani,Gilma Biryani,0,0,,248.0
+Biryani,Plain Biryani,0,0,A delightfully delicious combo of all time loved biryani served along with our ... read more,169.0
+Biryani,Veg Biryani [500 ml],0,0,Served with raita.,149.0
+Biryani,Mushroom Biryani [500 ml],0,0,Served with raita.,149.0
+Biryani,Mutton Biryani,0,0,,310.0
+Thoopu Kari Virunthu Combos,Butter Naan (2) + Milagukari Chicken Masala (300ml) + Softdrink,0,0,Butter Naan+ Pepper Chicken Masala (300ml) + Golisoda (or) MYCAN,248.0
+Thoopu Kari Virunthu Combos,Butter Rotti (2) +Milagukari Chicken Masala (300ml) + Softdrink,0,0,,248.0
+Thoopu Kari Virunthu Combos,Chappathi (3) + Milagukari Chicken Masala (300ml) + Softdrink,0,0,,248.0
+Thoopu Kari Virunthu Combos,2 Butter Naan with Green Peas Masala [300 ml] and Softdrink,0,0,,199.0
+Thoopu Kari Virunthu Combos,2Pcs Rumali Roti with Green Peas Masala [300 ml] and Softdrink,0,0,,219.0
+Thoopu Kari Virunthu Combos,EGG FRIED RICE (500grm) + Softdrink,0,0,,219.0
+Thoopu Kari Virunthu Combos,VEG FRIED RICE(500grm) + Softdrink,0,0,,199.0
+Thoopu Kari Virunthu Combos,CURD RICE(500grm) + Softdrink,0,0,,199.0
+Thoopu Kari Virunthu Combos,Pepper Chicken Masala with 4 Chapati and Goli Soda,0,0,,349.0
+Thoopu Kari Virunthu Combos,Chettinad Chicken Masala with 3 Wheat Parotta and Goli Soda,0,0,,349.0
+Thoopu Kari Virunthu Combos,Chicken Manchurian Semi Gravy with Chicken Fried Rice and Goli Soda,0,0,,369.0
+Thoopu Kari Virunthu Combos,Chilli Chicken Semi Gravy with Chicken Noodles and Goli Soda,0,0,,369.0
+Thoopu Kari Virunthu Combos,Pallipalayam Chicken Masala with 4 Phulka and Goli Soda,0,0,,349.0
+Thoopu Kari Virunthu Combos,Gobi Manchurian Semi Gravy with Veg Fried Rice and Goli Soda,0,0,,279.0
+Thoopu Kari Virunthu Combos,Mushroom Manchurian Semi Gravy with Veg Noodles and Goli Soda,0,0,,279.0
+Thoopu Kari Virunthu Combos,Paneer Butter Masala with 3 Tandoori Roti and Goli Soda,0,0,Paneer Butter Masala+3 Tandoori Roti+Goli Soda,299.0
+Thoopu Kari Virunthu Combos,Mushroom Chettinad Masala with 4 Phulka and Goli Soda,0,0,Mushroom Chettinad Masala+4 Phulka+Goli Soda,248.0
+Thoopu Kari Virunthu Combos,Kadai Paneer Gravy with 4 Chapati and Goli Soda,0,0,,248.0
+Thoopu Kari Virunthu Combos,Green Peas Masala with 3 Wheat Parotta and Goli Soda,0,0,,248.0
+Parotta,2 Parotta with Veg Gravy,0,0,Parotta (2) + gravy,72.0
+Parotta,2 Parotta with Chicken Gravy,0,0,,78.0
+Parotta,Bun Parotta,0,0,Bun parotta.,49.0
+Parotta,Nool Parotta,0,0,,59.0
+Parotta,Veechu Parotta,0,0,,49.0
+Parotta,Veg Kothu Parotta,0,0,,119.0
+Parotta,Egg Veechu Parotta,0,0,,79.0
+Parotta,Egg Lappa Parotta,0,0,,139.0
+Parotta,Egg Kothu Parotta,0,0,,149.0
+Parotta,Chicken Kothu Parotta,0,0,,269.0
+Parotta,Chicken Lappa Parotta,0,0,,229.0
+Parotta,Vaalai Elai Chicken Parotta,0,0,,269.0
+Breads,Naan,0,0,,49.0
+Breads,Butter Naan,0,0,,69.0
+Breads,Garlic Naan,0,0,,79.0
+Breads,Cheese Naan,0,0,,79.0
+Breads,Roti,0,0,,49.0
+Breads,Butter Roti,0,0,,59.0
+Breads,Kulcha,0,0,,49.0
+Breads,Butter Kulcha,0,0,,69.0
+Breads,Butter Phulka,0,0,Butter phulka.,39.0
+Breads,2 Chapathi with Chicken Gravy,0,0,,82.0
+Breads,Ghee Chapati + Gravy,0,0,,64.0
+Breads,2 Chapati with Veg Gravy,0,0,,82.0
+Breads,Assorted Bread,0,0,"Butter Naan,Tandoori Roti,Kulcha,Rumali Roti",249.0
+Breads,Rumali Roti,0,0,,79.0
+Night Out Combos,White Rice with Rasam and Egg Chilli [250 ml],0,0,,159.0
+Night Out Combos,Curd Rice [300 ml] with Chilli Chicken [250 ml],0,0,Curd Rice [250 ml] with Chilli Chicken [250 ml],199.0
+Night Out Combos,Curd Rice [300 ml] with Egg Pepper Fry [250 ml],0,0,,169.0
+Night Out Combos,Curd Rice [300 ml] with Gobi 65 [250 ml],0,0,,159.0
+Night Out Combos,Curd Rice [300 ml] with Mushroom 65 [250 ml],0,0,,169.0
+Night Out Combos,Curd Rice [300 ml] with Paneer 65 [250 ml],0,0,,189.0
+Night Out Combos,Rasam Rice [500 ml],0,0,,99.0
+Night Out Combos,Rasam Rice [500 ml] with Gobi 65 [250 ml],0,0,,149.0
+Drinks (Beverages),Goli Soda,0,0,,42.0
+Add on,Curd (Thalicha Thair),0,0,,58.0
+Add on,Chicken Kulambu,0,0,Chicken thanni kulambu combination for rice and parotta.,52.0

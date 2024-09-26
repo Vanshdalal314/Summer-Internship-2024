@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Quick Bites,Chicken Nuggets [8 Pieces],0,0,"Crispy bites of tender, flavorful chicken that are perfect for starting off your ... read more",220.0
+Quick Bites,Fish Fingers,0,0,"Crispy and flavorful, this seafood starter will have you hooked with its golden ... read more",260.0
+Quick Bites,Chicken 65,0,0,A delectable chicken starter that is full of flavor and sure to tantalize ... read more,250.0
+Quick Bites,Crab Lollipop,0,0,Delight in a savory and succulent starter that combines the delicate flavors of ... read more,250.0
+Quick Bites,Prawns 65,0,0,"A delectable starter featuring succulent prawns cooked to perfection, bursting with flavor and ... read more",320.0
+Biryani,Plain Biryani,0,0,"Authentic seeraga samba chicken plain biryani. Accompanied with brinjal katta, onion raita & ... read more",210.0
+Biryani,Egg Biryani,0,0,"A delectable biryani loaded with flavorful eggs, a must try for all biryani ... read more",220.0
+Biryani,Chicken Biryani,0,0,"A flavorful and aromatic seeraga samba rice dish with tender chicken, combining fragrant ... read more",260.0
+Biryani,Chicken 65 Biryani,0,0,"A flavorsome blend of tender chicken pieces and aromatic rice, Chicken 65 Biriyani ... read more",280.0
+Biryani,Chicken Chukka Biryani,0,0,"A scrumptious combination of tender chicken pieces and flavorful biryani rice, bursting with ... read more",280.0
+Starters,Pepper Chicken,0,0,A delectable starter with a perfect blend of flavors and a hint of ... read more,260.0
+Starters,Chicken Chukka,0,0,"A savory and succulent chicken dish bursting with rich flavors, perfect for starting ... read more",280.0
+Starters,Prawns Thokku,0,0,"A savory and succulent chicken dish bursting with rich flavors, perfect for starting ... read more",320.0
+Starters,Pepper Chicken Gravy,0,0,A delectable and flavorful chicken dish cooked in a rich and aromatic pepper ... read more,270.0
+Starters,Chettinad Chicken Gravy,0,0,Indulge in a flavorful and aromatic chicken gravy that will tantalize your taste ... read more,270.0
+Starters,Prawns Gravy,0,0,A savory and flavorful gravy featuring succulent prawns that will tantalize your taste ... read more,340.0

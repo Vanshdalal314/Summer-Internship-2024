@@ -1,0 +1,472 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups and Salads,Veg. Spicy Coconut Milk Soup,1,0,,200.0
+Soups and Salads,Badami Shorba Soup,1,0,,200.0
+Soups and Salads,Tomato Corn Soup,1,0,,170.0
+Soups and Salads,Palazzo Clear Soup,1,0,,170.0
+Soups and Salads,Onion Cream Soup,1,0,,170.0
+Soups and Salads,Tomato Soup,1,0,,170.0
+Soups and Salads,Mushroom Cream Soup,1,0,,190.0
+Soups and Salads,Mushroom Clear Soup,1,0,,190.0
+Soups and Salads,Tomato Shorba,1,0,,190.0
+Soups and Salads,Palak Shorba,1,0,,190.0
+Soups and Salads,Veg Manchow Soup,1,0,,190.0
+Soups and Salads,Veg Sweet Corn Soup,1,0,,190.0
+Soups and Salads,Veg Hot and Sour Soup,1,0,,190.0
+Soups and Salads,Veg Lung Fung Soup,1,0,,190.0
+Soups and Salads,Veg Tom Yum Soup,1,0,,190.0
+Soups and Salads,Veg Sour and Pepper Soup,1,0,,190.0
+Soups and Salads,Veg Coriander Soup,1,0,,190.0
+Soups and Salads,Chicken Sweet Corn Soup,0,0,,235.0
+Soups and Salads,Chicken Hot and Sour Soup,0,0,,235.0
+Soups and Salads,Chicken Tom Yum Soup,0,0,,235.0
+Soups and Salads,Chicken Manchow Soup,0,0,,235.0
+Soups and Salads,Chicken Lung Fung Soup,0,0,,235.0
+Soups and Salads,Chicken Coriander Soup,0,0,,235.0
+Soups and Salads,Chicken Spicy Coconut Milk Soup,0,0,,235.0
+Soups and Salads,Chicken Cream of Soup,0,0,,235.0
+Soups and Salads,Chicken Jade Soup,0,0,,235.0
+Soups and Salads,Cream of Chicken Mushroom Soup,0,0,,235.0
+Soups and Salads,Palazzo Chicken Clear Soup,0,0,,235.0
+Soups and Salads,Chicken Shorba,0,0,,235.0
+Soups and Salads,Chicken Palak Shorba,0,0,,235.0
+Soups and Salads,Apple and Walnut Mayonnaise Salad,1,0,,260.0
+Soups and Salads,Green Salad,1,0,,170.0
+Soups and Salads,Palazzo Special Salad,1,0,,170.0
+Soups and Salads,Kachumber Salad,1,0,,170.0
+Soups and Salads,American Corn Salad,1,0,,200.0
+Soups and Salads,Russian Salad,1,0,,250.0
+Soups and Salads,Waldorf Salad,1,0,,260.0
+Soups and Salads,Chicken Mayonnaise Salad,0,0,,400.0
+Soups and Salads,Chicken Salad,0,0,,385.0
+Soups and Salads,Fish Mayonnaise Salad,0,0,,540.0
+Soups and Salads,Fish Salad,0,0,,555.0
+Starters,Paneer Kabuli Kabab,1,0,,305.0
+Starters,Paneer Lucknowi Tikki,1,0,,270.0
+Starters,Paneer Kashmiri Tikki,1,0,,300.0
+Starters,Paneer Shahi Tikki,1,0,,300.0
+Starters,Paneer Cheese Roll,1,0,,310.0
+Starters,Paneer Cecelia,1,0,,350.0
+Starters,Aloo Koliwada,1,0,,220.0
+Starters,Tandoori Stuffed Aloo,1,0,,280.0
+Starters,Pakhtooni Veg Sheekh Kabab,1,0,,280.0
+Starters,Tandoori Aloo,1,0,,245.0
+Starters,Harabhara Kabab,1,0,,235.0
+Starters,Shabnam Kabab,1,0,,235.0
+Starters,Veg Shami Kabab,1,0,,245.0
+Starters,Amritsari Tikki,1,0,,245.0
+Starters,Kaju Pudina Kabab,1,0,,245.0
+Starters,Tandoori Gobi,1,0,,310.0
+Starters,Veg Kurkure Roll,1,0,,310.0
+Starters,Paneer Patiala Tikka,1,0,,340.0
+Starters,Methi Tikki,1,0,,280.0
+Starters,Veg Hyderabadi Tikki,1,0,,280.0
+Starters,Corn Methi Tikki,1,0,,280.0
+Starters,Subzi Mandi,1,0,,360.0
+Starters,Paneer Tikka,1,0,,280.0
+Starters,Paneer Hariyali Tikka,1,0,,280.0
+Starters,Paneer Pahadi Tikka,1,0,,280.0
+Starters,Paneer Limbu Tikka,1,0,,280.0
+Starters,Paneer Malai Tikka,1,0,,280.0
+Starters,Paneer Achari Tikka,1,0,,280.0
+Starters,Paneer Harabhara Kabab,1,0,,360.0
+Starters,Corn Tokri,1,0,,360.0
+Starters,Assorted Tandoori Paneer Platter,1,0,,580.0
+Starters,Slice Creamy Potatoes,1,0,,260.0
+Starters,Veg Creeps in Creamy Tomato Sauce,1,0,,260.0
+Starters,Paneer Shola Kabab,1,0,,345.0
+Starters,Paneer Ki Tokri,1,0,,485.0
+Starters,Beetroot Galouti Kabab,1,0,,400.0
+Starters,Galouti Kabab,1,0,,375.0
+Starters,Mushroom Galouti Kabab,1,0,,400.0
+Starters,Almond Tikki,1,0,,400.0
+Starters,Sonali Mushroom,1,0,,400.0
+Starters,Chicken Rosali Kabab,0,0,,480.0
+Starters,Chicken Parath Kabab,0,0,,455.0
+Starters,Chicken Tabasco Kabab,0,0,,455.0
+Starters,Chicken Karela Kabab,0,0,,455.0
+Starters,Chicken Irani Kabab,0,0,,415.0
+Starters,Chicken Malwani Tikka,0,0,,415.0
+Starters,Chicken Hazari Kabab,0,0,,455.0
+Starters,Chicken Akbari Kabab,0,0,,485.0
+Starters,Chicken Laziz Kabab,0,0,,415.0
+Starters,Chicken Arvi Kabab,0,0,,455.0
+Starters,Chicken Peshawari Tikki,0,0,,380.0
+Starters,Chicken Kashmiri Tikki,0,0,,380.0
+Starters,Chicken Seekh Kabab,0,0,,385.0
+Starters,Chicken Koliwada,0,0,,375.0
+Starters,Chicken Pepper,0,0,,415.0
+Starters,Chicken Makhmali Kabab,0,0,,415.0
+Starters,Chicken Cheese Kabab,0,0,,415.0
+Starters,Chicken Sholay Kabab,0,0,,415.0
+Starters,Chicken Tangdi (2 Pieces),0,0,,415.0
+Starters,Chicken Reshmi Kabab,0,0,,400.0
+Starters,Chicken Lasooni Kabab,0,0,,400.0
+Starters,Chicken Kalmi Kabab (3 Pieces),0,0,,435.0
+Starters,Chicken Chilli Kabab,0,0,,380.0
+Starters,Chicken Shami Kabab,0,0,,380.0
+Starters,Chicken Achari Tikka,0,0,,380.0
+Starters,Chicken Angara Tikka,0,0,,380.0
+Starters,Chicken Tikka,0,0,,380.0
+Starters,Chicken Malai Tikka,0,0,,380.0
+Starters,Chicken Tandoori,0,0,,375.0
+Starters,Chicken Platter,0,0,,1235.0
+Starters,Chicken Cutlets,0,0,,380.0
+Starters,Chicken A La Kieve,0,0,,380.0
+Starters,Roast Chicken,0,0,,415.0
+Starters,Chicken Gold Coin,0,0,,415.0
+Starters,Mutton Seekh Kabab,0,0,,485.0
+Starters,Mutton Peshawari Tikka,0,0,,485.0
+Starters,Mutton Shami Kabab,0,0,,765.0
+Starters,Machhi Tikka,0,0,,585.0
+Starters,Peshawari Machhi Tikka,0,0,,585.0
+Starters,Tandoori Machhi,0,0,,585.0
+Starters,Machhi Koliwada,0,0,,585.0
+Starters,Karachi Machhi,0,0,,585.0
+Starters,Fried Fish,0,0,,585.0
+Starters,Grilled Fish,0,0,,585.0
+Starters,Fish Finger With Chips,0,0,,585.0
+Starters,Fish Fillet With Tomato Sauce,0,0,,585.0
+Starters,Fish Fillet With Tartar Sauce,0,0,,585.0
+Starters,Golden Fried Prawns,0,0,,585.0
+Starters,Prawns Tikka,0,0,,585.0
+Starters,Non-Veg. Platter,0,0,,1700.0
+Starters,Chicken Broccoli Kabab,0,0,,455.0
+Starters,Chicken Rasila Kabab,0,0,,485.0
+Starters,Chicken Barbeque,0,0,,485.0
+Starters,Chicken Galouti Kabab,0,0,,485.0
+Starters,Mutton Galouti Kabab,0,0,,540.0
+Starters,Fish Platter,0,0,,2170.0
+Starters,Chicken Kadhai Kabab,0,0,,385.0
+Main Course,Paneer Angoori,1,0,,360.0
+Main Course,Veg. Angoori,1,0,,310.0
+Main Course,Matka Paneer,1,0,,415.0
+Main Course,Sanjana Aloo,1,0,,260.0
+Main Course,Dum Aloo,1,0,,260.0
+Main Course,Delhi Aloo,1,0,,260.0
+Main Course,Aloo Banarasi,1,0,,260.0
+Main Course,Baby Aloo Green Masala Stuffed Aloo,1,0,,290.0
+Main Course,Veg. Baldi,1,0,,315.0
+Main Course,Veg. Dum Pukht,1,0,,315.0
+Main Course,Aloo Mutter,1,0,,260.0
+Main Course,Aloo Gobi,1,0,,260.0
+Main Course,Nepali Aloo,1,0,,260.0
+Main Course,Jeera Aloo,1,0,,260.0
+Main Course,Veg. Kadai,1,0,,290.0
+Main Course,Veg. Handi,1,0,,290.0
+Main Course,Veg. Tawa Masala,1,0,,290.0
+Main Course,Veg. Maharaja,1,0,,290.0
+Main Course,Veg. Raada,1,0,,290.0
+Main Course,Veg. Baghwan,1,0,,290.0
+Main Course,Veg. Nilgiri,1,0,,290.0
+Main Course,Veg. Toofani,1,0,,290.0
+Main Course,Veg. Diwani Handi,1,0,,315.0
+Main Course,Veg. Trirangi Kofta,1,0,,315.0
+Main Course,Mushroom Masala,1,0,,315.0
+Main Course,Veg. Navratan Korma,1,0,,315.0
+Main Course,Veg. Kashmiri Chaman,1,0,,315.0
+Main Course,Veg. Kolhapuri,1,0,,290.0
+Main Course,Veg. Makhanwala,1,0,,290.0
+Main Course,Veg. Bhuna,1,0,,290.0
+Main Course,Veg. Shajamani,1,0,,290.0
+Main Course,Veg. Lahori,1,0,,290.0
+Main Course,Veg. Jodhpuri,1,0,,290.0
+Main Course,Veg. Hyderabadi,1,0,,315.0
+Main Course,Veg. Makhmali,1,0,,315.0
+Main Course,Veg. Lajawab,1,0,,315.0
+Main Course,Veg. Chily Mily,1,0,,290.0
+Main Course,Veg. Mili Juli,1,0,,290.0
+Main Course,Veg. Jaipuri,1,0,,290.0
+Main Course,Veg. Rajwadi,1,0,,290.0
+Main Course,Miloni Tarkari,1,0,,290.0
+Main Course,Veg. Malai Kofta (White Gravy),1,0,,345.0
+Main Course,Veg. Malai Kofta (Brown Gravy),1,0,,345.0
+Main Course,Veg. Nargisi Kofta,1,0,,345.0
+Main Course,Hari Subzi Lasooni,1,0,,345.0
+Main Course,Channa Masala,1,0,,290.0
+Main Course,Green Peas Masala,1,0,,290.0
+Main Course,Paneer Butter Masala,1,0,,325.0
+Main Course,Paneer Kalimiri Masala,1,0,,325.0
+Main Course,Paneer Tawa Masala,1,0,,325.0
+Main Course,Paneer Dingri Masala,1,0,,325.0
+Main Course,Paneer Tikka Masala,1,0,,345.0
+Main Course,Paneer Angare Masala,1,0,,345.0
+Main Course,Paneer Handi,1,0,,325.0
+Main Course,Paneer Kadai,1,0,,325.0
+Main Course,Paneer Toofani,1,0,,325.0
+Main Course,Paneer Hilltop,1,0,,325.0
+Main Course,Paneer Bhuna,1,0,,325.0
+Main Course,Paneer Amritsari,1,0,,325.0
+Main Course,Paneer Nawabi,1,0,,360.0
+Main Course,Paneer Baldi,1,0,,360.0
+Main Course,Paneer Swarg,1,0,,360.0
+Main Course,Paneer Laziz,1,0,,325.0
+Main Course,Paneer Chatpatta,1,0,,325.0
+Main Course,Paneer Hulchul,1,0,,325.0
+Main Course,Paneer Pasanda,1,0,,325.0
+Main Course,Paneer Chutneywala,1,0,,325.0
+Main Course,Paneer Hariyali,1,0,,325.0
+Main Course,Paneer Mutter,1,0,,325.0
+Main Course,Paneer Corn Capsicum,1,0,,325.0
+Main Course,Paneer Kaju Masala,1,0,,375.0
+Main Course,Paneer Bhurji,1,0,,345.0
+Main Course,Paneer Musalam,1,0,,345.0
+Main Course,Mushroom Baby Corn Masala,1,0,,360.0
+Main Course,Kaju Curry,1,0,,375.0
+Main Course,Khoya Kaju,1,0,,375.0
+Main Course,Kaju Masala,1,0,,375.0
+Main Course,Paneeer Rashida,1,0,,375.0
+Main Course,Amul Cheese Butter Masala,1,0,,540.0
+Main Course,Dal Fry,1,0,"Dal fry is a Indian delicious dish made with lentils, spices and herbs.",260.0
+Main Course,Dal Tadka,1,0,"Dal Is Tempered In Indian Process Cumin Seeds, Mustard Seeds,Garlic,Chillies,Curry Leaves And Grounded ... read more",260.0
+Main Course,Dal Adraki,1,0,,260.0
+Main Course,Dal Khatti,1,0,,260.0
+Main Course,Dal Palak,1,0,,260.0
+Main Course,Dal Kabuli,1,0,,260.0
+Main Course,Dal Bukhara,1,0,,260.0
+Main Course,Black Dal Tadka,1,0,,260.0
+Main Course,Dal Panchvati,1,0,,260.0
+Main Course,Dal Makhani,1,0,,305.0
+Main Course,Paneer Dum Pukht,1,0,,415.0
+Main Course,Paneer Rogan,1,0,[Veg preparation],415.0
+Main Course,Paneer Butter Masala with 2 Butter Naan,1,0,,396.0
+Main Course,Egg Bhurji,0,0,,280.0
+Main Course,Egg Curry,0,0,,280.0
+Main Course,Egg Masala,0,0,,295.0
+Main Course,Chicken Malwani,0,0,,490.0
+Main Course,Chicken Sukha,0,0,,505.0
+Main Course,Chicken Tandoori Chatpata,0,0,,485.0
+Main Course,Murg Mastani,0,0,,505.0
+Main Course,Murg Dahi Handi,0,0,,505.0
+Main Course,Chicken Chakori,0,0,,575.0
+Main Course,Chicken Malwani Tikka Masala,0,0,,505.0
+Main Course,Chicken Anarkali,0,0,,515.0
+Main Course,Chicken Rashida,0,0,,515.0
+Main Course,Chicken Tikka Amritsari,0,0,,435.0
+Main Course,Chicken La-Jawbdar,0,0,,435.0
+Main Course,Chicken Lahori,0,0,,435.0
+Main Course,Chicken Afghani,0,0,,435.0
+Main Course,Chicken Lucknowi Tikka Masala,0,0,,485.0
+Main Course,Chicken Uttranchali,0,0,,465.0
+Main Course,Chicken Peshawari,0,0,,465.0
+Main Course,Chicken Dum Pukht,0,0,,465.0
+Main Course,Chicken Raada,0,0,,465.0
+Main Course,Chicken Rajwadi,0,0,,450.0
+Main Course,Chicken Handi,0,0,,450.0
+Main Course,Chicken Kadai Khade Masala,0,0,,450.0
+Main Course,Chicken Maharaja,0,0,,465.0
+Main Course,Chicken Pasanda,0,0,,465.0
+Main Course,Chicken Tawa Masala,0,0,,445.0
+Main Course,Chicken Mogewala,0,0,,445.0
+Main Course,Chicken Makhani,0,0,,515.0
+Main Course,Chicken Matka,0,0,,515.0
+Main Course,Chicken Pepper Makhani,0,0,,450.0
+Main Course,Chicken Kalimiri Masala,0,0,,450.0
+Main Course,Chicken Angare Masala,0,0,,465.0
+Main Course,Chicken Toofani,0,0,,465.0
+Main Course,Chicken Sagwala,0,0,,450.0
+Main Course,Chicken Dehati Curry,0,0,,450.0
+Main Course,Mutton Vindaloo,0,0,,575.0
+Main Course,Mutton Amritsari,0,0,,575.0
+Main Course,Mutton Tawa Masala,0,0,,575.0
+Main Course,Mutton Malwani,0,0,,575.0
+Main Course,Mutton Kolhapuri,0,0,,575.0
+Main Course,Mutton Raada,0,0,,575.0
+Main Course,Mutton Rogan,0,0,,575.0
+Main Course,Mutton Handi,0,0,,575.0
+Main Course,Mutton Kadai,0,0,,575.0
+Main Course,Mutton Banjara,0,0,,575.0
+Main Course,Mutton Dumpukht,0,0,,575.0
+Main Course,Mutton Kheema Mutter,0,0,,575.0
+Main Course,Goan Machhi Curry,0,0,,575.0
+Main Course,Fish Masala,0,0,,575.0
+Main Course,Goan Prawns Curry,0,0,,575.0
+Main Course,Prawns Masala,0,0,,575.0
+Main Course,Prawns Tikka Masala,0,0,,575.0
+Main Course,Kadai Jhinga Masala,0,0,,575.0
+Main Course,Triple Decker,1,0,,435.0
+Main Course,Veg. Augratin,1,0,,435.0
+Main Course,Chicken Montreal,0,0,,480.0
+Main Course,Poulet A La Cecilia,0,0,,480.0
+Main Course,Pomfret Rac Hal,0,0,,700.0
+Main Course,Shepherd'S Pie,0,0,,555.0
+Breads,Plain Roti,1,0,,40.0
+Breads,Butter Roti,1,0,,50.0
+Breads,Plain Paratha,1,0,,60.0
+Breads,Butter Paratha,1,0,,70.0
+Breads,Plain Naan,1,0,,60.0
+Breads,Butter Naan,1,0,,70.0
+Breads,Plain Kulcha,1,0,,60.0
+Breads,Butter Kulcha,1,0,,70.0
+Breads,Stuffed Paratha,1,0,,150.0
+Breads,Sruffed Naan,1,0,,150.0
+Breads,Stuffed Kulcha,1,0,,150.0
+Breads,Laccha Paratha,1,0,,70.0
+Breads,Methi Roti,1,0,,70.0
+Breads,Khasta Roti,1,0,,70.0
+Breads,Missi Roti,1,0,,70.0
+Breads,Cheese Naan,1,0,,150.0
+Breads,Garlic Naan,1,0,,150.0
+Breads,Assorted Basket,1,0,,525.0
+Rice and Biryani,Veg. Allahabadi Pulav,1,0,,345.0
+Rice and Biryani,Masala Bhat,1,0,,275.0
+Rice and Biryani,Tomato Rice,1,0,,275.0
+Rice and Biryani,Coconut Rice,1,0,,275.0
+Rice and Biryani,Pudina Rice,1,0,,275.0
+Rice and Biryani,Mushroom Rice,1,0,,310.0
+Rice and Biryani,Veg. Mustard Pulao,1,0,,310.0
+Rice and Biryani,Veg Kashmiri Pulao,1,0,,310.0
+Rice and Biryani,Veg Kabuli Pulao,1,0,,310.0
+Rice and Biryani,Veg Rangoli Pulao,1,0,,310.0
+Rice and Biryani,Veg Navratan Pulao,1,0,,340.0
+Rice and Biryani,Veg Zafrani Pulao,1,0,,340.0
+Rice and Biryani,Veg Moti Pulao,1,0,,310.0
+Rice and Biryani,Veg Amritsari Pulao,1,0,,310.0
+Rice and Biryani,Veg Tawa Masala Pulao,1,0,,325.0
+Rice and Biryani,Tadkawala Chawal,1,0,,275.0
+Rice and Biryani,Steam Rice,1,0,,245.0
+Rice and Biryani,Dal Khichdi,1,0,,375.0
+Rice and Biryani,Curd Rice,1,0,,375.0
+Rice and Biryani,Egg Pulao,0,0,,385.0
+Rice and Biryani,Chicken Tawa Pulao,0,0,,515.0
+Rice and Biryani,Mutton Tawa Pulao,0,0,,585.0
+Rice and Biryani,Fish Tawa Pulao,0,0,,585.0
+Rice and Biryani,Prawns Tawa Pulao,0,0,,585.0
+Rice and Biryani,Veg. Stewed Rice,1,0,,415.0
+Rice and Biryani,Veg Hyderabadi Dum Biryani [Brown],1,0,,415.0
+Rice and Biryani,Veg Biryani,1,0,,275.0
+Rice and Biryani,Veg Dum Biryani,1,0,,325.0
+Rice and Biryani,Veg Hyderabadi Biryani,1,0,,340.0
+Rice and Biryani,Veg Handi Biryani,1,0,,340.0
+Rice and Biryani,Veg Chilman Biryani,1,0,,310.0
+Rice and Biryani,Egg Biryani,0,0,,385.0
+Rice and Biryani,Chicken Hyderabadi Dum Biriyani (Brown),0,0,,575.0
+Rice and Biryani,Chicken Hyderabadi Biriyani (Green),0,0,,480.0
+Rice and Biryani,Murg Lahori Biriyani,0,0,,520.0
+Rice and Biryani,Chicken Biryani,0,0,,525.0
+Rice and Biryani,Chicken Lucknowi Biryani,0,0,,540.0
+Rice and Biryani,Chicken Dum Biryani,0,0,,540.0
+Rice and Biryani,Mutton Biryani,0,0,,540.0
+Rice and Biryani,Mutton Lucknowi Biryani,0,0,,575.0
+Rice and Biryani,Mutton Hyderabadi Biryani,0,0,,570.0
+Rice and Biryani,Mutton Dum Biryani,0,0,,575.0
+Rice and Biryani,Fish Biryani,0,0,,585.0
+Rice and Biryani,Fish Hyderabadi Biryani,0,0,,585.0
+Rice and Biryani,Fish Lucknowi Biryani,0,0,,585.0
+Rice and Biryani,Fish Dum Biryani,0,0,,585.0
+Rice and Biryani,Prawns Biryani,0,0,,585.0
+Rice and Biryani,Prawns Lucknowi Biryani,0,0,,585.0
+Rice and Biryani,Prawns Hyderabadi Biryani,0,0,,585.0
+Rice and Biryani,Prawns Dum Biryani,0,0,,585.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,325.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,360.0
+Fried Rice and Noodles,Veg Rice Combination with Noodles,1,0,,385.0
+Fried Rice and Noodles,Triple Schezwan Fried Rice,1,0,,435.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,385.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,435.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,,465.0
+Fried Rice and Noodles,Chicken Rice Combination with Noodles,0,0,,500.0
+Fried Rice and Noodles,Fish Fried Rice,0,0,,585.0
+Fried Rice and Noodles,Fish Schezwan Fried Rice,0,0,,585.0
+Fried Rice and Noodles,Fish Rice Combination with Noodles,0,0,,620.0
+Fried Rice and Noodles,Prawn Fried Rice,0,0,,585.0
+Fried Rice and Noodles,Prawn Schezwan Fried Rice,0,0,,585.0
+Fried Rice and Noodles,Prawn Rice Combination with Noodles,0,0,,620.0
+Fried Rice and Noodles,Non Veg Mixed Fried Rice,0,0,,700.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,295.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,325.0
+Fried Rice and Noodles,Veg Chowmein,1,0,,290.0
+Fried Rice and Noodles,Chicken Hakka Noodles,0,0,,435.0
+Fried Rice and Noodles,Chicken Chowmein,0,0,,400.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,,465.0
+Fried Rice and Noodles,Fish Hakka Noodles,0,0,,585.0
+Fried Rice and Noodles,Fish Chowmein,0,0,,585.0
+Fried Rice and Noodles,Fish Schezwan Noodles,0,0,,585.0
+Fried Rice and Noodles,Prawn Hakka Noodles,0,0,,585.0
+Fried Rice and Noodles,Prawn Chowmein,0,0,,585.0
+Fried Rice and Noodles,Prawn Schezwan Noodles,0,0,,585.0
+Fried Rice and Noodles,Veg Chow Chow,1,0,,290.0
+Fried Rice and Noodles,Chicken Chow Chow,0,0,,400.0
+Fried Rice and Noodles,Fish Chow Chow,0,0,,585.0
+Fried Rice and Noodles,Prawn Chow Chow,0,0,,585.0
+Fried Rice and Noodles,Veg American Chopsuey,1,0,,330.0
+Fried Rice and Noodles,Chicken Chopsuey,0,0,,400.0
+Fried Rice and Noodles,Fish Chopsuey,0,0,,585.0
+Fried Rice and Noodles,Prawn Chopsuey,0,0,,585.0
+Pasta,Macaroni Pasta,1,0,,430.0
+Pasta,Penne Pasta,1,0,,430.0
+Pasta,Fusilli Pasta,1,0,,430.0
+Pasta,Farfalle Pasta,1,0,,430.0
+Pasta,Mixed Pasta,1,0,,430.0
+Pasta,Tomato Basil Pasta Fish and Prawns Pasta,0,0,,585.0
+Pasta,Cream Cheese Pasta Fish and Prawns Pasta,0,0,,585.0
+Sandwiches,Bread Butter,1,0,,60.0
+Sandwiches,Toast Butter,1,0,,70.0
+Sandwiches,Veg Sandwich,1,0,,200.0
+Sandwiches,Cheese Sandwich,1,0,,220.0
+Sandwiches,Veg Cheese Sandwich,1,0,,235.0
+Sandwiches,Toasted Veg Sandwich,1,0,,260.0
+Sandwiches,Cheese Pineapple Sandwich,1,0,,295.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,295.0
+Sandwiches,Veg Club Sandwich,1,0,,295.0
+Sandwiches,Chicken Sandwich,0,0,,280.0
+Sandwiches,Chicken Club Sandwich,0,0,,345.0
+Sandwiches,Non Veg Club Sandwich,0,0,,385.0
+Chinese Dishes,Veg Manchurian,1,0,,295.0
+Chinese Dishes,Veg 65,1,0,,295.0
+Chinese Dishes,Veg Crispy,1,0,,295.0
+Chinese Dishes,Hot Chilly Corn,1,0,,310.0
+Chinese Dishes,Veg Spring Roll,1,0,,295.0
+Chinese Dishes,Veg Lollipop,1,0,,295.0
+Chinese Dishes,Paneer Chilly,1,0,,345.0
+Chinese Dishes,Paneer 65,1,0,,345.0
+Chinese Dishes,Paneer Manchurian,1,0,,345.0
+Chinese Dishes,Paneer Mushroom Salt and Pepper,1,0,,375.0
+Chinese Dishes,Veg Corn Cake,1,0,,295.0
+Chinese Dishes,Veg Chinese Bhel,1,0,,385.0
+Chinese Dishes,Chicken Soya,0,0,,415.0
+Chinese Dishes,Chicken Crispy,0,0,,415.0
+Chinese Dishes,Chicken 65,0,0,,415.0
+Chinese Dishes,Chicken Spring Roll,0,0,,415.0
+Chinese Dishes,Chicken Lollipop,0,0,,480.0
+Chinese Dishes,Chicken Chilly,0,0,,435.0
+Chinese Dishes,Chicken Manchurian,0,0,,435.0
+Chinese Dishes,Mutton Chilly,0,0,,570.0
+Chinese Dishes,Prawn Manchurian,0,0,,585.0
+Chinese Dishes,Prawn Chilly,0,0,,585.0
+Quick Bites,Thai Roll,1,0,,245.0
+Quick Bites,Green Peas Pattice,1,0,,245.0
+Quick Bites,Mushroom Aloo Chaat,1,0,,340.0
+Quick Bites,Spanish Roll,1,0,,340.0
+Quick Bites,Cheese Ball Roll,1,0,,340.0
+Quick Bites,Papad Cheese Roll,1,0,,360.0
+Quick Bites,Cabbage Roll,1,0,,260.0
+Quick Bites,Finger Chips,1,0,,220.0
+Quick Bites,Egg Masala Omlette,0,0,,235.0
+Quick Bites,Boiled Eggs,0,0,,170.0
+Accompaniments,Roasted Papad,1,0,,45.0
+Accompaniments,Plain Curd,1,0,,170.0
+Accompaniments,Mixed Veg Raita,1,0,,190.0
+Accompaniments,Boondi Raita,1,0,,190.0
+Accompaniments,Pineapple Raita,1,0,,210.0
+Accompaniments,Mixed Fruit Raita,1,0,,210.0
+Accompaniments,Irani Raita,1,0,,210.0
+Drinks (Beverages),Mineral Water [1 litre],1,0,,60.0
+Desserts,Gulab Jamun,1,0,,100.0
+Pizza,Neapolitan Pizza,1,0,Classic Neapolitan Pizza of Italy,320.0
+Pizza,Mushroom Pizza,1,0,Tossed & Delicately prepared Mushroom Pizza,320.0
+Pizza,Jain Pizza,1,0,No Onion - No Garlic Pizza for Jains,300.0
+Pizza,Tandoori Paneer Pizza,1,0,Tandoori Paneer Laced into a Pizza,340.0
+Pizza,Spicy Chicken Pizza,0,0,Specially Marinated Spicy Chicken Pizza,360.0
+Pizza,Fried Fish Pizza,0,0,Tender Fried Fish Pizza,360.0
+Veg Combo Menu,Paneer Butter Masala + 2 Butter Nan,1,0,,396.0
+Veg Combo Menu,Palak Paneer + Aloo Gobi (Dry) + 2 Butter Nan,1,0,,496.0
+Veg Combo Menu,Veg. Hyd. Biryani + Mix Veg. Raita,1,0,,396.0
+Veg Combo Menu,Dal Takdta + Jeera Rice,1,0,,396.0
+Non-Veg Combo Menu,Butter Chicken (Half) + 2 Butter Nan,0,0,,496.0
+Non-Veg Combo Menu,Tandoori Chicken (Half) + Hara Bhara Kabab,0,0,,492.0
+Non-Veg Combo Menu,Chicken Hyd Biryani (Green) + Mix Veg. Raita + Papad,0,0,,580.0
+Non-Veg Combo Menu,Fried Fish (with Tartar Sauce) + Finger Chips,0,0,,680.0
+Non-Veg Combo Menu,Chicken Chilly (Liquid) + Egg Fried Rice,0,0,,640.0
+Non-Veg Combo Menu,Chicken Sandwich + Finger Chips,0,0,,440.0
+Non-Veg Combo Menu,Egg Bhurji + 2 Laccha Paratha,0,0,,280.0
+Non-Veg Combo Menu,Egg Biryani + Mix Veg. Raita,0,0,,480.0

@@ -1,0 +1,69 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Veg Cheese Pizza [7 inches],1,0,,160.0
+Pizza,Cheese Margherita Pizza [7 inches],1,0,,170.0
+Pizza,Sweet Corn Cheese Pizza [7 inches],1,0,,170.0
+Pizza,Mozzarella Veg Cheese Pizza [7 inches],1,0,,180.0
+Pizza,Tandoori Paneer Pizza [7 inches],1,0,,200.0
+Burger and Sandwhiches,Veg Cheese Burger,1,0,,100.0
+Burger and Sandwhiches,Veg Sandwich,1,0,,70.0
+Burger and Sandwhiches,Veg Cheese Sandwich,1,0,,110.0
+Burger and Sandwhiches,Double Decker Cheese Sandwich,1,0,,140.0
+Burger and Sandwhiches,3 in 1 Sandwich,1,0,,200.0
+Burger and Sandwhiches,Bread Butter Sandwich,1,0,,45.0
+Burger and Sandwhiches,Bread Butter Jam Sandwich,1,0,,50.0
+Burger and Sandwhiches,Bread Butter Cheese Sandwich,1,0,,90.0
+Burger and Sandwhiches,Bread Butter Jam Cheese Sandwich,1,0,,90.0
+Burger and Sandwhiches,Veg Mataka Sandwich,1,0,Rimzim sandwich.,200.0
+Burger and Sandwhiches,Paneer Mataka Sandwich,1,0,Rimzim sandwich.,220.0
+Burger and Sandwhiches,Bread Butter Toast Sandwich,1,0,,50.0
+Burger and Sandwhiches,Bread Butter Cheese Toast Sandwich,1,0,,100.0
+Burger and Sandwhiches,Vegetable Toast Sandwich,1,0,,80.0
+Burger and Sandwhiches,Vegetable Cheese Toast Sandwich,1,0,,110.0
+Burger and Sandwhiches,Masala Toast Sandwich,1,0,,80.0
+Burger and Sandwhiches,Masala Cheese Toast Sandwich,1,0,,110.0
+Burger and Sandwhiches,Pizza Toast Sandwich,1,0,,80.0
+Burger and Sandwhiches,Pizza Cheese Toast Sandwich,1,0,,110.0
+Burger and Sandwhiches,Cheese Chilli Open Veg Toast Sandwich,1,0,,180.0
+Burger and Sandwhiches,Veg Cheese Grilled Sandwich,1,0,,160.0
+Burger and Sandwhiches,Cutlet Cheese Grilled Sandwich,1,0,,175.0
+Burger and Sandwhiches,Paneer Tandoori Grilled Sandwich,1,0,,190.0
+Burger and Sandwhiches,Makhani Paneer Grilled Sandwich,1,0,,190.0
+Burger and Sandwhiches,Peri Peri Paneer Grilled Sandwich,1,0,,190.0
+Snacks and Chaat,Salted French Fries,1,0,,110.0
+Snacks and Chaat,Peri Peri French Fries,1,0,,130.0
+Snacks and Chaat,Cheese Garlic Bread [4 Pieces],1,0,,140.0
+Snacks and Chaat,Cheese Chilli Garlic Bread [4 Pieces],1,0,,150.0
+Snacks and Chaat,Veg Cheese Hot Dog,1,0,,120.0
+Snacks and Chaat,Paneer Tikka Hot Dog,1,0,,140.0
+Snacks and Chaat,Veg Kulcha,1,0,,170.0
+Snacks and Chaat,Tandoori Paneer Kulcha,1,0,,200.0
+Snacks and Chaat,Makhani Paneer Kulcha,1,0,,200.0
+Snacks and Chaat,American Kulcha,1,0,,200.0
+Snacks and Chaat,Vada Pav [1 Piece],1,0,,35.0
+Snacks and Chaat,Grilled Vada Pav [1 Piece],1,0,,45.0
+Snacks and Chaat,Spread Cheese Vada Pav [1 Piece],1,0,,70.0
+Snacks and Chaat,Chinese Vada Pav [1 Piece],1,0,,35.0
+Snacks and Chaat,Cheese Vada Pav [1 Piece],1,0,,60.0
+Snacks and Chaat,Grilled Cheese Vada Pav [1 Piece],1,0,,70.0
+Snacks and Chaat,Bread Pakoda [1 Piece],1,0,,45.0
+Snacks and Chaat,Cheese Bread Pakoda [1 Piece],1,0,,70.0
+Snacks and Chaat,Vada [2 Pieces],1,0,,40.0
+Snacks and Chaat,Cheese Time Pass Mayo Pav [1 Piece],1,0,,55.0
+Snacks and Chaat,Schezwan Mayo Time Pass Pav [1 Piece],1,0,,65.0
+Snacks and Chaat,Solid Masti Cheese Mayo Pav [1 Piece],1,0,,55.0
+Snacks and Chaat,Paneer Tikka Cheese Mayo Pav [1 Piece],1,0,,65.0
+Snacks and Chaat,Panipuri [15 Pieces],1,0,,100.0
+Snacks and Chaat,Bhel,1,0,,70.0
+Snacks and Chaat,Dahi Bhel,1,0,,100.0
+Snacks and Chaat,Sev Puri,1,0,,60.0
+Snacks and Chaat,Cheese Sev Puri,1,0,,80.0
+Snacks and Chaat,Masala Puri,1,0,,50.0
+Snacks and Chaat,Papdi Chaat,1,0,,80.0
+Snacks and Chaat,Delhi Chaat,1,0,,80.0
+Snacks and Chaat,Tikha Paani [1 liter],1,0,,80.0
+Snacks and Chaat,Meetha Paani [1 liter],1,0,,100.0
+Footlong,Veg Cheese Footlong,1,0,,200.0
+Footlong,Paneer Tandoori Footlong,1,0,,220.0
+Footlong,Peri Peri Paneer Footlong,1,0,,220.0
+Footlong,Makhani Paneer Footlong,1,0,,220.0
+Dessert,Biscuits Pie,1,0,,110.0

@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burgers,Aloo Tikki Burger,1,0,Fresh bun with crispy aloo tikki in vegetable onion cabbage with tandoori and ... read more,65.0
+Burgers,Veggie Burger,1,0,Fresh bun with crispy aloo tikki in vegetable onion cabbage and premium mayonnaise.,75.0
+Burgers,Schezwan Burger,1,0,"Fresh bun with crispy aloo tikki in vegetable cabbage, onion and schezwan sauce.",75.0
+Burgers,Kids Creamy Burger,1,0,"Fresh bun with crispy aloo tikki in vegetable cabbage, onion and kids special ... read more",80.0
+Burgers,American Burger,1,0,"Fresh bun with crispy aloo tikki with American sauce, premium mayonnaise, jalapenos, cabbage, ... read more",90.0
+Burgers,Supreme Burger,1,0,"Fresh bun with crispy aloo tikki in vegetable, jalapenos, cabbage, onion, crispy wafers, ... read more",95.0
+Burgers,Mexican Burger,1,0,"Fresh bun with aloo tikki, salted, cheese, Mexican sauce. onion. tomato .cabbage and ... read more",100.0
+Burgers,Paneer Tikki Burger,1,0,Fresh bun with paneer tikki tandoori sauce with onion and cabbage.,95.0
+Burgers,Boss American Burger,1,0,"Fresh bun with crispy double aloo tikki with chipotle sauce, onion, cabbage, tomato ... read more",110.0
+Burgers,Peri Peri Burger,1,0,Fresh bun with crispy aloo tikki and onion cabbage and spicy peri peri ... read more,75.0
+Burgers,Cheese Pizza Burger,1,0,"Bun make in oven so crunchy, bun mozzarella, cheese Amul chees slice, capsicum, ... read more",110.0
+Burgers,Jain Burger,1,0,"Fresh bun with jain sauce, capsicum, cabbage, sweetcorn, tomato, crispy banana tikki, no ... read more",80.0
+Combos,Liquid Cheese Burger [3 Pieces],1,0,"Fresh bun with two liquid cheese sauce in vegetable, cabbage, onion and crispy ... read more",170.0
+Combos,Veg Cheese Slice Burger [3 Pieces],1,0,"3 Fresh bun with thousand sauce, chipotle sauce with 3 Amul cheese slice, ... read more",199.0
+Pizza,Margherita Pizza [7 inches],1,0,Fresh pizza bread mayonnaise cheese and double mozzarella cheese.,140.0
+Pizza,Jain Pizza [7 inches],1,0,"Pizza bread with Jain sauce in veggies sweet corn, capsicum, tomato and mozzarella ... read more",135.0
+Pizza,Onion Pizza [7 inches],1,0,"Fresh pizza bread pizza sauce, onion, capsicum, sweet corn and mozzarella cheese and ... read more",110.0
+Pizza,Double Chees Pizza [7 inches],1,0,"Pizza bread pizza sauce, capsicum, onion, sweet corn, mozzarella cheese and mayonnaise cheese.",135.0
+Pizza,Mexican Pizza [7 inches],1,0,"Fresh pizza bread Mexican sauce, capsicum, onion, sweet corn, red paprika, black olives ... read more",145.0
+Pizza,Delicious Pizza [7 inches],1,0,"Pizza bread pizza sauce, capsicum, sweet corn, onion, mozzarella cheese, Amul cheese slice ... read more",135.0
+Pizza,Peppy Paneer Pizza [7 inches],1,0,"Pizza bread, makhani sauce, mozzarella cheese, paneer, capsicum, onion, sweet corn and mayonnaise ... read more",170.0
+Pizza,4 Cheese Pizza [7 inches],1,0,"Pizza bread two liquid cheese, capsicum, onion, sweet corn, Amul cheese slice, mozzarella ... read more",200.0
+Pizza,Veg Cheese Pizza [ 7 inches ],1,0,Pizza bread pizza sauce premium mayo mostella cheese and full loaded vegetable.,145.0
+Pizza,Cheese Corn Pizza [7 inches],1,0,Fresh pizza bread mozzarella cheese mayonnaise cheese and golden sweet corn.,140.0
+Frankie,Cheese Italian Frankie,1,0,Fresh roti mayonnaies tanduri makhni sauce with vegitable and cheese.,100.0
+Frankie,Veg Cheese Frankie,1,0,"Frankie roti veg sauce, aloo tikki, onion, cabbage, frankie masala and cheese.",100.0
+Frankie,Paneer Frankie,1,0,Mayonnaies tanduri souce paneer tikkimakhni souce prosses cheese.,110.0
+French Fries,French Fries Large,1,0,,100.0
+French Fries,Mayonies and Cheese Souce Fryes,1,0,,120.0
+French Fries,Medium Fries,1,0,,80.0
+Steam Momoes,Veg Steamed Momos [5 Pieces],1,0,,90.0
+Steam Momoes,Veg Cheese Steamed Momos [5 Pieces],1,0,,120.0
+Deep Fry Momoes,Veg Fried Momoes [5 Pieces],1,0,,100.0
+Deep Fry Momoes,Veg Cheese Fried Momos [5 Pieces],1,0,,125.0
+Cold Coffee,Cold Coffee,1,0,,50.0

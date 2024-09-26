@@ -1,0 +1,99 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza & Patsa,Classic Margherita Pizza,1,0,Bountiful latte di mucca mozzarella cheese and pomodoro Sauce in hand-kneaded pizza base ... read more,399.0
+Pizza & Patsa,Simply Veggie Pizza,1,0,"Prudently crafted pizza for veg lovers. Slices of tomato, onion and bell pepper ... read more",259.0
+Pizza & Patsa,Hot & Spicy Pizza,1,0,"Specially made for the spice lovers. Red Paprika, Diced green chili, added with ... read more",289.0
+Pizza & Patsa,Babycorn Treat Pizza,1,0,"Fragments of Baby corn, slices of Onion, Tomato and Olives in hand-kneaded pizza ... read more",289.0
+Pizza & Patsa,Mushroom Mania Pizza,1,0,"Finely chopped herb coated grilled mushrooms, bountiful latte di mucca mozzarella cheese and ... read more",299.0
+Pizza & Patsa,Veg Supreme Pizza,1,0,"Perfect Pizza to evoke your childhood taste buds. Fragments of pineapples, bell pepper, ... read more",299.0
+Pizza & Patsa,Spicy Paneer Pizza,1,0,Enjoy the magnificent taste of Paneer. latte di mucca mozzarella cheese and pomodoro ... read more,309.0
+Pizza & Patsa,Fully Loaded Veggie Pizza,1,0,"Complete your veggie day with our fresh garden Veggie. Rich spread of Brocoli, ... read more",309.0
+Pizza & Patsa,Chicken Tikka Pizza,1,0,Hand-kneaded pizza topped with Tender chicken chunks marinated in Mughlai chicken tikka masala ... read more,319.0
+Pizza & Patsa,Chicken 65 Pizza,1,0,Hand-kneaded pizza topped with tender chicken chunks marinated in authentic Madras chicken 65 ... read more,319.0
+Pizza & Patsa,Barbeque Chicken Pizza,1,0,Chunks of grilled BBQ chicken coated with our tangy BBQ sauce topped on ... read more,329.0
+Pizza & Patsa,Andhra Spicy Chicken Pizza,1,0,Portion of grilled chicken marinated in true Andra style peri peri masala on ... read more,329.0
+Pizza & Patsa,Spicy Dynamite Pizza,1,0,Ultimate fiery blast in every bite. Grilled chicken chunks marinated in special inhouse ... read more,339.0
+Pizza & Patsa,Chettinadu Chicken Pizza,1,0,Explore the taste of fresh chettinadu masala in every bite. Pizza topped with ... read more,349.0
+Pizza & Patsa,Madurai Mince Chicken Pizza,1,0,Pizza topped with chunks of finely minced chicken cooked in fresh masala in ... read more,349.0
+Pizza & Patsa,Chicken Trio Pizza,1,0,"Triplet blast with chicken BBQ, chicken Peri Peri and chicken Tikka topped in ... read more",359.0
+Pizza & Patsa,Italian Sausage Pizza,1,0,Hand-kneaded pizza topped with Tender chicken chunks marinated in Mughlai chicken tikka masala ... read more,359.0
+Pizza & Patsa,Arrabiata Veg Pasta,1,0,,259.0
+Pizza & Patsa,Creamy Pink Veg Pasta,1,0,,279.0
+Pizza & Patsa,Primavera Veg Pasta,1,0,,279.0
+Pizza & Patsa,Arrabiata Non-Veg Pasta,1,0,,319.0
+Pizza & Patsa,Creamy Pink Non-Veg Pasta,1,0,,329.0
+Pizza & Patsa,Primavera Non-Veg Pasta,1,0,,329.0
+Sandwich & Burger,Aloo Tikka Burger,1,0,,115.0
+Sandwich & Burger,Classic Veg Burger,1,0,,135.0
+Sandwich & Burger,Spicy Veg Burger,1,0,,155.0
+Sandwich & Burger,Chicken Tandoori Burger,1,0,,165.0
+Sandwich & Burger,Classic Chicken Burger,1,0,,175.0
+Sandwich & Burger,Crispy Chicken Burger,1,0,,225.0
+Sandwich & Burger,Chettinadu Cheese Sandwich,1,0,"Chettinad chicken, onion, capsicum and cheese.",215.0
+Sandwich & Burger,Egg Sandwich,1,0,"Egg, onion, capsicum, cheese.",135.0
+Sandwich & Burger,Fried Chicken Sandwich,1,0,"Fried chicken, onion, capsicum, cheese.",215.0
+Sandwich & Burger,Paneer Cheese Sandwich,1,0,"Paneer, onion, capsicum and cheese.",179.0
+Sandwich & Burger,Spicy Chicken Sandwich,1,0,"Peri peri, chilli, onion, capsicum and cheese.",165.0
+Sandwich & Burger,Spicy Corn Sandwich,1,0,"Corn, onion, capsicum and cheese.",139.0
+Sandwich & Burger,Veg Cheese Sandwich,1,0,"Onion, tomato, capsicum and cheese.",145.0
+Sandwich & Burger,Big Byte Chicken Sandwich,1,0,,255.0
+Sandwich & Burger,Chicken Thunder Sandwich,1,0,,245.0
+Sandwich & Burger,Smokey Chicken Breast (1 Pc),1,0,,189.0
+Sandwich & Burger,Smokey Chicken Breast (2Pcs),1,0,Serves 1 | Grilled smoky chicken breast with very own tandoori mayo on ... read more,289.0
+Wraps Veg,Paneer Wrap,1,0,,155.0
+Wraps Veg,Simply Veg Wrap,1,0,,135.0
+Wraps Non-veg,Bbq Chicken Wrap,1,0,,179.0
+Wraps Non-veg,Fried Chicken Wrap,1,0,,229.0
+Wraps Non-veg,Triple Treat Chicken Wrap,1,0,,239.0
+Bread Basket,Chilli Cheese Garlic Bread (4PCS),1,0,Serves 1,159.0
+Bread Basket,Cheese Garlic Bread (4PCS),1,0,Serves 1,159.0
+Bread Basket,Chicken Cheese Garlic Bread (4PCS),1,0,Serves 1,209.0
+Bread Basket,Garlic Bread (4PCS),1,0,Serves 1,119.0
+Starters,Cheese Nuggets,1,0,[Veg preparation] Serves 1,159.0
+Starters,Cheesy Jalapenos,1,0,Serves 1,159.0
+Starters,French Fries,1,0,Serves 1,119.0
+Starters,Masala French Fries,1,0,Serves 1,129.0
+Starters,Potato Wedges,1,0,"Serves 1 | A delightfully flavor-packed dish of mouthwatering potato wedges, served along ... read more",129.0
+Starters,Veg Fingers,1,0,Serves 1,139.0
+Starters,Chicken Cheese Balls,1,0,,159.0
+Starters,Chicken Nuggets,1,0,,159.0
+Starters,Chicken Poppers,1,0,,159.0
+Starters,Chicken Strips [5 Pieces],1,0,,199.0
+Starters,Fish Fingers,1,0,,189.0
+Starters,Fried Wings [4 Pieces],1,0,,175.0
+Momos,Cheese Corn Steamed Momos [5 Pieces],1,0,Served with chutney.,185.0
+Momos,Chicken Cheese Steamed Momos [5 Pieces],1,0,Served with chutney.,185.0
+Momos,Chicken Peri Peri Steamed Momos [5 Pieces],1,0,Served with chutney.,175.0
+Momos,Mushroom Steamed Momos [5 Pieces],1,0,Served with chutney.,155.0
+Momos,Cheese Corn Fried Momos [5 Pieces],1,0,Served with chutney.,195.0
+Momos,Chicken Cheese Fried Momos [5 Pieces],1,0,Served with chutney.,195.0
+Momos,Chicken Peri Peri Fried Momos [5 Pieces],1,0,Served with chutney.,185.0
+Momos,Mushroom Fried Momos [5 Pieces],1,0,Served with chutney.,165.0
+Drinks & Mocktails,Classic Vanilla Falooda,1,0,Serves 1,159.0
+Drinks & Mocktails,Mango Falooda,1,0,Serves 1,179.0
+Drinks & Mocktails,Special Kulfi Falooda,1,0,Serves 1,259.0
+Drinks & Mocktails,Strawberry Falooda,1,0,Serves 1,159.0
+Drinks & Mocktails,Blue Curacco Mojito,1,0,[Non Alcoholic],109.0
+Drinks & Mocktails,Green Apple Mojito,1,0,[Non Alcoholic],109.0
+Drinks & Mocktails,Lemon Mint Mojitos,1,0,[Non Alcoholic],109.0
+Drinks & Mocktails,Black Currant Ice Cream,1,0,Serves 1,80.0
+Drinks & Mocktails,Butterscotch Ice Cream,1,0,Serves 1,80.0
+Drinks & Mocktails,Chocolate Ice Cream,1,0,Serves 1,70.0
+Drinks & Mocktails,Mango Ice Cream,1,0,Serves 1,70.0
+Drinks & Mocktails,Blackcurrant Milkshake,1,0,Serves 1,149.0
+Drinks & Mocktails,Butterscotch Milkshake,1,0,Serves 1,149.0
+Drinks & Mocktails,Chocolate Milkshake,1,0,Serves 1,139.0
+Drinks & Mocktails,Mango Milkshake,1,0,Serves 1,139.0
+Drinks & Mocktails,Strawberry Milkshake,1,0,Serves 1,129.0
+Drinks & Mocktails,Vanilla Milkshake,1,0,Serves 1,129.0
+Drinks & Mocktails,Special Kulfi,1,0,Serves 1,95.0
+Drinks & Mocktails,Strawberry Ice Cream,1,0,Serves 1,60.0
+Drinks & Mocktails,Vanilla Ice Cream,1,0,Serves 1,60.0
+Drinks & Mocktails,Brownie Milkshake,1,0,,169.0
+Drinks & Mocktails,Cold Coffee,1,0,,149.0
+Drinks & Mocktails,Oreo Milkshake,1,0,,159.0
+Drinks & Mocktails,Fresh Lime,1,0,Serves 1,69.0
+Drinks & Mocktails,Fresh Lime Soda,1,0,Serves 1,69.0
+Cake Delights,Brownie With Ice Cream,1,0,Serves 1,211.0
+Cake Delights,Choco Lava With Icecream,1,0,Serves 1,211.0
+Cake Delights,Classic Brownie,1,0,Serves 1,181.0
+Cake Delights,Hot Choco Lava Cake,1,0,Serves 1,181.0

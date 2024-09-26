@@ -1,0 +1,5 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pakoda,Cheese Paneer Pakoda,1,0,[1 Piece],70.0
+Pakoda,Sada Aloo Pakoda,1,0,[1 Piece],40.0
+Snacks,Chinese Roll,1,0,,30.0
+Snacks,Chana Dal Samosa [5 Pieces],1,0,,40.0

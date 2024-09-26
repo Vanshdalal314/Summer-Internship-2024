@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Samosa [2 Pieces],1,0,,42.86
+Snacks,Cheese Roll [2 Pieces],1,0,,61.91
+Snacks,Kachori [2 Pieces],1,0,,42.86
+Snacks,Samosa [1 Piece] with Kachori [1 Piece],1,0,,42.86
+Bengali Sweets,Mother India [4 Pieces],1,0,,152.38
+Bengali Sweets,Malai Sandwich [4 Pieces],1,0,,133.33
+Bengali Sweets,Rasgulla [5 Pieces],1,0,,114.28
+Bengali Sweets,Rasmalai [4 Pieces],1,0,,171.42
+Bengali Sweets,Angoor Rabdi,1,0,,152.38
+Ghee Sweets,Kala Jamun [4 Pieces],1,0,,133.33
+Ghee Sweets,Gulab Jamun [5 Pieces],1,0,,114.28
+Ghee Sweets,Moti Pak,1,0,,161.9
+Ghee Sweets,Motichoor Laddu,1,0,,152.38
+Ghee Sweets,Soan Papdi,1,0,,142.85
+Ghee Sweets,Bundi [250 grams],1,0,,119.04
+Ghee Sweets,Moong Dal Halwa [250 grams],1,0,,161.9
+Mava Sweets,Malai Peda,1,0,,161.9
+Mava Sweets,Kesar Peda,1,0,,180.95
+Mava Sweets,Milk Cake,1,0,,180.95
+Mava Sweets,Kalakand,1,0,,180.95
+Mava Sweets,Bounty Peda,1,0,,209.52
+Dry Fruit Sweets,Kaju Katli,1,0,,266.66
+Dry Fruit Sweets,Kesar Kaju Katli,1,0,,314.28
+Dry Fruit Sweets,Pista Cone,1,0,,333.33
+Dry Fruit Sweets,Anjeer Patra,1,0,,333.33
+Dry Fruit Sweets,Kamal Bhog,1,0,,333.33
+Dry Fruit Sweets,Pista Roll,1,0,,333.33
+Dry Fruit Sweets,Rose Basket,1,0,,333.33
+Dry Fruit Sweets,Badam Katli,1,0,,333.33
+Mix Sweets,Assorted Kaju Mix [1 kg],1,0,,1333.33
+Mix Sweets,Assorted Kaju Mix [800 grams],1,0,,1066.66
+Mix Sweets,Assorted Kaju Mix [600 grams],1,0,,857.14
+Mix Sweets,Assorted Kaju Mix [500 grams],1,0,,723.8
+Namkeens,Shahi Dal Moth [250 grams],1,0,,114.29
+Namkeens,Navratan Mix [250 grams],1,0,,114.29
+Namkeens,Bikaneri Mix [250 grams],1,0,,95.24
+Namkeens,Kaju Corn Flakes [250 grams],1,0,,100.0
+Namkeens,Mathi [250 grams],1,0,,76.2
+Namkeens,Masala Mathi [250 grams],1,0,,76.2
+Namkeens,Masala Pudi [250 grams],1,0,,76.2
+Namkeens,Alsi Pudi [250 grams],1,0,,76.2
+Namkeens,Aam Papad [200 grams],1,0,,132.0
+Namkeens,Masala Chana [150 grams],1,0,,66.67
+Namkeens,Masala Kabuli Chana [150 grams],1,0,,66.67
+Namkeens,Lovely [250 grams],1,0,Masala sakkarpara.,76.2
+Namkeens,Meda Matar [350 grams],1,0,,85.72
+Namkeens,Farali Chivda [200 grams],1,0,,76.2
+Namkeens,Bhakharwadi [250 grams],1,0,,98.21
+Namkeens,Hing Kachori,1,0,,220.0
+Namkeens,Bikaneri Paraat Bhujia [400 grams],1,0,,152.38
+Cookies,Jeera Cookies [300 grams],1,0,,152.54
+Cookies,Dryfruit Cookies [250 grams],1,0,,152.54
+Cookies,Kaju Cookies [250 grams],1,0,,152.54
+Cookies,Badam Pista Cookies [250 grams],1,0,,152.54
+Cookies,Dry Fruit Cookies [400 grams],1,0,,320.0
+Kulfi,Kesar Malai Kulfi,1,0,,38.13
+Kulfi,Rose Kulfi,1,0,,38.13
+Kulfi,Mawa Malai Kulfi,1,0,,38.13
+Kulfi,Mango Kulfi,1,0,,38.13

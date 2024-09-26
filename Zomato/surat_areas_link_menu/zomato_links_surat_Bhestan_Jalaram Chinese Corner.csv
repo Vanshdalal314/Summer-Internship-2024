@@ -1,0 +1,19 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chinese,Veg Cheese Manchurian Dry,1,0,,120.0
+Chinese,Veg Chinese Bhel,1,0,,90.0
+Chinese,Veg Cheese Chinese Bhel,1,0,,120.0
+Chinese,Veg Bombay Bhel,1,0,,100.0
+Chinese,Veg Cheese Bombay Bhel,1,0,,130.0
+Soups,Veg Wonton Soup,1,0,,70.0
+Soups,Veg Tomato Soup,1,0,,70.0
+Fried Rice and Noodles,Veg Jeera Fried Rice,1,0,,80.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,90.0
+Fried Rice and Noodles,Singapore Fried Rice,1,0,,90.0
+Fried Rice and Noodles,Hong Kong Fried Rice,1,0,,110.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,90.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Veg Plain Noodles,1,0,,90.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,90.0
+Fried Rice and Noodles,Fried Noodles,1,0,,90.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,,90.0
+Fried Rice and Noodles,Singapore Noodles,1,0,,90.0

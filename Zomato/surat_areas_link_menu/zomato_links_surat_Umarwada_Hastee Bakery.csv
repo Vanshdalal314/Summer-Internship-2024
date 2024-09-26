@@ -1,0 +1,38 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cookies,Farmas Biscuit,1,0,Farmas biscuit is a crispy and crunchy snack made with a combination of ... read more,60.0
+Cookies,Butter Biscuit [250 grams],1,0,"Our classic butter biscuit with a hint of salt, is a great addition ... read more",60.0
+Cookies,Nankhatai Cookies,1,0,,150.0
+Cookies,Choco Chips Cookies [300 grams],1,0,,115.0
+Snacks,Bhatha Kani Namkeem,1,0,A crispy and flavourful dish made wit. A perfect blend of spices and ... read more,65.0
+Cakes,Eggless Pineapple Cake,1,0,,275.0
+Cakes,Black Forest Cake,1,0,The traditional version consists of multiple layers of chocolate sponge cake with whipped ... read more,275.0
+Cakes,Strawberry delight,1,0,,275.0
+Cakes,Mango Cake,1,0,A homestyle vanilla sponge three layer cake with mango crush & vanilla cream.,275.0
+Cakes,White forest cake,1,0,[Veg preparation],300.0
+Cakes,Butter scotch cake,1,0,[Veg preparation],300.0
+Cakes,Chocolate Mud Cake,1,0,Light chocolate cream cake.,275.0
+Cakes,Blueberry Cake,1,0,[Veg preparation],300.0
+Cakes,Royal Cassata Cake,1,0,,650.0
+Cakes,Double Choco Chips Cake,1,0,,600.0
+Cakes,Oreo Crunch Cake,1,0,,600.0
+Cakes,Coffee Toffee Cake,1,0,,600.0
+Cakes,Red Velvet Cake,1,0,,700.0
+Cakes,Rasmalai Cake,1,0,,700.0
+Cakes,Mava Malai Cake,1,0,,700.0
+Cakes,Royal Chocolate Cake,1,0,,650.0
+Pastries,Chocolate Pastry,1,0,,80.0
+Pastries,Black Forest Pastry,1,0,,80.0
+Pastries,Royal Chocolate Pastry,1,0,,100.0
+Pastries,Rasmalai Pastry,1,0,,100.0
+Pastries,Pineapple Swiss Roll,1,0,,60.0
+Desserts,Muffins,1,0,,30.0
+Desserts,Cream Roll,1,0,,40.0
+Desserts,Cake Donut,1,0,,50.0
+Desserts,Cup Cake,1,0,,40.0
+Desserts,Chocolate Ball,1,0,,35.0
+Desserts,Chocolate Chikki [250 grams],1,0,,200.0
+Desserts,Choco Pie [Mini],1,0,"Soft chocolate sponge mini cake with filling of chocolate cream, side covered with ... read more",150.0
+Desserts,Choco Butter Bite,1,0,,150.0
+Desserts,American Bourbon [150 grams],1,0,Soft delicious cake with flavor of chocolate and bournvita.,150.0
+Desserts,Belgian Chocolate Mousse,1,0,,70.0
+Desserts,Mousse Cup,1,0,,80.0

@@ -1,0 +1,7 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Golden Thali,1,0,2 Sabji+6 Chapati+Dal+Rice+Salad+Achar/Mirchi 1 [Subject to Availability],150.0
+Accompaniments,Papad Churi,1,0,,20.0
+Accompaniments,Papad,1,0,,10.0
+Accompaniments,Dahi,1,0,,20.0
+Accompaniments,Raita,1,0,,30.0
+Accompaniments,Roti,1,0,,8.0

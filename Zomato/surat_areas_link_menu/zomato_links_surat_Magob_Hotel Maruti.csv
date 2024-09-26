@@ -1,0 +1,259 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Todays Special,Today Special Veg,1,0,[600 Grams].,304.0
+Todays Special,Todays Special Paneer,1,0,[600 Grams].,319.2
+Main Course,Chana Masala,1,0,A flavorful combination of chana cooked in a fragrant and flavorful masala seasoned ... read more,136.0
+Main Course,Masoor Masala,1,0,,136.0
+Main Course,Aloo Matar,1,0,,136.0
+Main Course,Aloo Palak,1,0,,136.0
+Main Course,Sev Tomato,1,0,,136.0
+Main Course,Sev Bhaji,1,0,Sev spice curry creamy.,136.0
+Main Course,Mix Veg,1,0,,136.0
+Main Course,Aloo Gobi,1,0,,136.0
+Main Course,Began Bharatha,1,0,,136.0
+Main Course,Began Masala,1,0,,136.0
+Main Course,Mung Masala,1,0,,136.0
+Main Course,Bhindi Masala,1,0,,136.0
+Main Course,Bhindi Fry,1,0,,136.0
+Main Course,Jeera Aloo,1,0,,136.0
+Main Course,Palen Palak,1,0,,136.0
+Main Course,Aloo Pyaz,1,0,,136.0
+Main Course,Lasaniya Aloo,1,0,,136.0
+Main Course,Besan Gatta,1,0,Gatte ki sabzi is a delicious rajasthani curry prepared with gram flour (besan) ... read more,136.0
+Main Course,Chana Fry Dry,1,0,,144.0
+Main Course,Mungh Fry Dry,1,0,,144.0
+Main Course,Sev in Milk,1,0,,159.2
+Main Course,Dahi Fry Tikhari,1,0,,159.2
+Main Course,Lasuni Palak,1,0,,159.2
+Main Course,Green Piece Masala,1,0,,159.2
+Main Course,Veg Jaipuri,1,0,,172.0
+Main Course,Veg Kolhapuri,1,0,,172.0
+Main Course,Veg Kadai,1,0,,172.0
+Main Course,Veg Makhanwala,1,0,,172.0
+Main Course,Veg Toofani,1,0,,172.0
+Main Course,Veg Handi,1,0,,172.0
+Main Course,Veg Hyderabadi,1,0,,172.0
+Main Course,Veg Hariyali,1,0,,172.0
+Main Course,Veg Curry,1,0,,172.0
+Main Course,Methi Matar Malai,1,0,,175.2
+Main Course,Dam Aloo Punjabi,1,0,,184.0
+Main Course,Veg Diwani Handi,1,0,,184.0
+Main Course,Mushroom Masala,1,0,,224.0
+Main Course,Special Veg Maruti,1,0,,239.2
+Main Course,Paneer Palak,1,0,An earthy spinach based gravy recipe that uses mild spices mixed together with ... read more,159.2
+Main Course,Paneer Matar,1,0,,159.2
+Main Course,Chana Paneer,1,0,,159.2
+Main Course,Paneer Butter Masala,1,0,,175.2
+Main Course,Paneer Tikka Masala,1,0,,175.2
+Main Course,Paneer Afghani,1,0,,175.2
+Main Course,Paneer Tawa Masala,1,0,,175.2
+Main Course,Paneer Kadai,1,0,A simple yet amazingly flavorful paneer dish made by cooking paneer and bell ... read more,175.2
+Main Course,Paneer Balti,1,0,,175.2
+Main Course,Paneer Chatpata,1,0,"Luscious combination of paneer and exotic gravy made from tomato puree, chopped onions ... read more",175.2
+Main Course,Paneer Bhurji,1,0,,196.0
+Main Course,Paneer Nawabi,1,0,,196.0
+Main Course,Paneer Mushroom Masala,1,0,,208.0
+Main Course,Paneer Patiyala,1,0,,256.0
+Main Course,Paneer Pasanda,1,0,,256.0
+Main Course,Special Paneer Maruti,1,0,,276.0
+Main Course,Paneer Garlic,1,0,,196.0
+Main Course,Paneer Kofta,1,0,,196.0
+Main Course,Paneer Toofani,1,0,,196.0
+Main Course,Paneer Jalfrezi,1,0,,196.0
+Main Course,Paneer Angara,1,0,,196.0
+Main Course,Paneer Lababdar,1,0,,196.0
+Main Course,Paneer Golden,1,0,,196.0
+Main Course,Paneer Laziz,1,0,,196.0
+Main Course,Paneer Lahsuni,1,0,,196.0
+Main Course,Paneer Achari,1,0,,196.0
+Main Course,Sweet Navratan Korma,1,0,,208.0
+Main Course,Paneer Shahi Korma ( Sweet ),1,0,,208.0
+Main Course,Paneer Dilkhush,1,0,,208.0
+Main Course,Veg Kofta,1,0,,223.2
+Main Course,Sweet Kashmiri Kofta,1,0,,239.2
+Main Course,Malai Kofta,1,0,,255.2
+Main Course,Special Kaju Curry,1,0,"Roasted cashew nuts (kaju) cooked in a tomato, onion and spices based rich ... read more",196.0
+Main Course,Special Kaju Masala,1,0,Kaju masala basically the roasted kajus or cashew nuts served in a spicy ... read more,196.0
+Main Course,Sweet Kaju Khoya,1,0,,196.0
+Main Course,Kaju Kofta,1,0,,196.0
+Main Course,Kaju Paneer,1,0,Dices of paneer and cashew tossed in aromatic kadhai gravy made of onion- ... read more,196.0
+Main Course,Kaju Angara,1,0,,196.0
+Main Course,Kaju Lasooni,1,0,,196.0
+Main Course,Kaju Cheese Masala,1,0,,208.0
+Main Course,Kaju Badam Masala,1,0,,208.0
+Main Course,Cheese Angoori,1,0,Cheese angoori is Indian curry served in a creamy tomato onion gravy having ... read more,208.0
+Main Course,Cheese Butter Masala,1,0,,208.0
+Main Course,Cheese Kofta,1,0,,208.0
+Main Course,Paneer Cheese Masala,1,0,,208.0
+Main Course,Cheese Stuffed Tomato,1,0,,208.0
+Main Course,Cheese Palak,1,0,,208.0
+Main Course,Rajwadi Dhokali,1,0,,159.2
+Main Course,Bharela Ringan,1,0,,159.2
+Main Course,Bharela Karela,1,0,,159.2
+Main Course,Dahi Tikhari,1,0,,159.2
+Main Course,Ringan Bharthu ( Oro ),1,0,,159.2
+Main Course,Dahi Bhindi,1,0,A flavoursome and mouth watering dahi and bhindi dish served with the goodness ... read more,159.2
+Main Course,Dahi Bhindi Capsicum,1,0,,159.2
+Main Course,Lasuniya Potato,1,0,,159.2
+Main Course,Mag Masala,1,0,,159.2
+Main Course,Lasuni Sev Tomato,1,0,,159.2
+Main Course,Vagharelo Rotlo Bajri,1,0,,175.2
+Main Course,Kaju Gathiya,1,0,,255.2
+Main Course,Dal Fry,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,96.0
+Main Course,Mithi Dal,1,0,,96.0
+Main Course,Dal Fry Butter,1,0,,136.0
+Main Course,Dal Fry Tadka,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,136.0
+Main Course,Dal Palak,1,0,,136.0
+Main Course,Dal Makhani,1,0,,175.2
+Indian Breads,Tandoor Roti,1,0,,24.0
+Indian Breads,Tandoor Butter Roti,1,0,,28.0
+Indian Breads,Tandoor Plain Paratha,1,0,,44.0
+Indian Breads,Tandoor Butter Paratha,1,0,,48.0
+Indian Breads,Tandoori Kulcha Butter,1,0,,56.0
+Indian Breads,Missi Roti,1,0,,63.2
+Indian Breads,Plain Tandoori Naan,1,0,,44.0
+Indian Breads,Tandoori Butter Naan,1,0,,52.0
+Indian Breads,Tandoori Garlic Naan,1,0,,56.0
+Indian Breads,Chur Chur Naan,1,0,,63.2
+Indian Breads,Sweet Kashmiri Naan,1,0,,76.0
+Indian Breads,Cheese Naan,1,0,,116.0
+Indian Breads,Swami Roti,1,0,,20.0
+Indian Breads,Plain Chapati Roti,1,0,,16.0
+Indian Breads,Chapati Roti Butter,1,0,,20.0
+Indian Breads,Plain Chapati Paratha,1,0,,44.0
+Indian Breads,Butter Chapati Paratha,1,0,,48.0
+Indian Breads,Fulka Roti,1,0,,16.0
+Indian Breads,Fulka Roti Ghee,1,0,,20.0
+Indian Breads,Lachha Paratha,1,0,,48.0
+Indian Breads,Cheese Paratha,1,0,,116.0
+Indian Breads,Stuffed Paratha,1,0,,128.0
+Indian Breads,Paneer Paratha,1,0,,128.0
+Indian Breads,Aloo Paratha,1,0,,95.2
+Indian Breads,Aloo Paratha With Curd,1,0,,116.0
+Indian Breads,Bajri Rotla,1,0,,32.0
+Indian Breads,Butter Bajri Rotla,1,0,,36.0
+Rice,Plain Rice,1,0,,72.0
+Rice,Steamed Rice,1,0,,136.0
+Rice,Jeera Rice,1,0,"A flavorful Indian rice dish made by cooking basmati rice with ghee, cumin ... read more",136.0
+Rice,Dal Rice,1,0,,144.0
+Rice,Gujarati Dal with Rice,1,0,,144.0
+Rice,Masala Rice,1,0,"Aromatic rice cooked with the goodness of authentic Indian masala and spices, very ... read more",159.2
+Rice,Veg Pulao,1,0,,175.2
+Rice,Paneer Pulao,1,0,,196.0
+Rice,Sweet Veg Kashmiri Pulao,1,0,,196.0
+Rice,Kaju Pulao,1,0,,208.0
+Rice,Kadhi Pulao,1,0,,208.0
+Rice,Cheese Pulao,1,0,,216.0
+Rice,Veg Biryani,1,0,"Nutritious biriyani, cooked with select spices and packed with vegetables, served with raita.",196.0
+Rice,Veg Hyderabadi Biryani,1,0,Rice with veggies cooked in a fragrant and flavorful masala. It is prepared ... read more,196.0
+Rice,Veg Handi Dum Biryani,1,0,,208.0
+Rice,Teekha Kadhi,1,0,,116.0
+Rice,Meetha Kadhi,1,0,,116.0
+Rice,Khichdi Kadhi,1,0,,159.2
+Rice,Masala Khichdi,1,0,,159.2
+Rice,Palak Khichdi,1,0,Palak Khichd + Kadhi,168.0
+Rice,Vegetable Khichdi with Kadhi,1,0,,175.2
+Rice,Dal Khichdi,1,0,,175.2
+Rice,Kabuli Khichdi,1,0,,175.2
+Chinese,Manchow Soup,1,0,,84.0
+Chinese,Veg Clear Soup,1,0,,84.0
+Chinese,Hot and Sour Soup,1,0,,84.0
+Chinese,Cream of Tomato Soup,1,0,,84.0
+Chinese,Veg Manchurian,1,0,Veg manchurian dry is a crispy starter snack of fried veg balls tossed ... read more,184.0
+Chinese,American Chopsuey,1,0,,184.0
+Chinese,Paneer 65,1,0,,212.0
+Chinese,Paneer Manchurian,1,0,,220.8
+Chinese,Paneer Chilly,1,0,,276.0
+Chinese,Hakka Noodles,1,0,A delicious indo chinese recipe with noodles tossed with veggies in chinese sauces ... read more,175.2
+Chinese,Schezwan Noodles,1,0,,184.0
+Chinese,Veg Chowmein,1,0,,184.0
+Chinese,Paneer Noodles,1,0,,220.8
+Chinese,Veg Fried Rice,1,0,A bowl of traditional fried rice loaded with vegetables. [Serves 1].,175.2
+Chinese,Schezwan Fried Rice,1,0,A popular spicy Indo chinese dish of stir fried rice tossed with loads ... read more,184.0
+Chinese,Manchurian Fried Rice,1,0,,184.0
+Chinese,Chinese Bhel,1,0,"A Chinese twist on the classic Indian treat with crispy bhel, onion, coriander ... read more",184.0
+Special Dal Bati,Dal Bati,1,0,Dal+5 Bati+Papad+Salad+Lahsun Chutney+Achar,188.0
+Special Dal Bati,Dal Bati with Ghee,1,0,Dal+ 5 Bati Ghee mix+Papad+Lahsun Chutney +Salad + Achar,199.2
+Special Dal Bati,Dal Bati with Ghee and Rice,1,0,5 Bati with Ghee+Dal+Rice+Papad+Lahsun Chutney+Salad+Achar,223.2
+Special Dal Bati,Dal Bati With Ghee and Churma,1,0,4 Bati With Ghee + Dal + Churma + Papad + Lahsun Chutney ... read more,223.2
+Special Dal Bati,Bati,1,0,,16.0
+Special Dal Bati,Ghee [1 Map],1,0,,32.0
+Special Dal Bati,Sweet Bati Churma,1,0,,116.0
+Special Dal Bati,Sweet Bajra Churmo,1,0,,128.0
+Special Dal Bati,Daal,1,0,,128.0
+Special Dal Bati,Ghee Daal,1,0,,144.0
+Special Dal Bati,Sweet Dry Fruit Bati Churma,1,0,,144.0
+Chole Bhature and Chole Kulche,Chole Bhature,1,0,2 Pic Bhature + Chole,196.0
+Chole Bhature and Chole Kulche,Chole Kulche,1,0,Chole with 2 tandoori kulche and salad.,196.0
+Chole Bhature and Chole Kulche,Paneer Chole Bhature,1,0,2 Bhature + Chole + Salad + Achar,212.0
+Chole Bhature and Chole Kulche,Paneer Chole Kulche,1,0,Chole + 2 Kulche + Salad,212.0
+Chole Bhature and Chole Kulche,Paneer Cheese Chole Bhature,1,0,2 Bhature + Chole + Salad + Achar,228.0
+Accompaniments,Dahi [Curd],1,0,Dahi.,48.0
+Accompaniments,Veg Raita,1,0,,116.0
+Accompaniments,Boondi Raita,1,0,,116.0
+Accompaniments,Pineapple Raita,1,0,,116.0
+Accompaniments,Buttermilk,1,0,,28.0
+Accompaniments,Mineral Water [1 Litre],1,0,,36.0
+Accompaniments,Rose Lassi,1,0,,79.2
+Accompaniments,Mango Lassi,1,0,,79.2
+Accompaniments,Lassi,1,0,,79.2
+Accompaniments,Chocolate Lassi,1,0,,95.2
+Accompaniments,Special Lassi,1,0,Humoungous glass of yogurt preparation drink with a sweet taste to it.,128.0
+Accompaniments,Ghud,1,0,,16.0
+Accompaniments,Fried Mirchi,1,0,,16.0
+Accompaniments,Lahsun Chutney,1,0,,48.0
+Accompaniments,Tomato Salad,1,0,,48.0
+Accompaniments,Green Salad,1,0,,79.2
+Accompaniments,Roasted Papad,1,0,,20.0
+Accompaniments,Fried Papad,1,0,,32.0
+Accompaniments,Khichiya Fried Papad,1,0,,32.0
+Accompaniments,Masala Papad,1,0,,48.0
+Accompaniments,Khicha Masala Papad,1,0,,48.0
+Accompaniments,Cheese Masala Papad,1,0,,64.0
+Accompaniments,Gulab Jamun [2 Pieces],1,0,,36.0
+Pav Bhaji,Pav Bhaji,1,0,"3 Pav, bhaji, salad.",144.0
+Pav Bhaji,Butter Pav Bhaji,1,0,"3 Pav, bhaji, salad.",152.0
+Pav Bhaji,Paneer Pav Bhaji,1,0,"3 Pav, bhaji, salad.",175.2
+Pav Bhaji,Cheese Pav Bhaji,1,0,"3 Pav, bhaji, salad.",196.0
+Pav Bhaji,Special Pav Bhaji,1,0,"3 Pav, bhaji, salad.",212.0
+Pav Bhaji,Pav Bhaji only Bhaji [1 kg],1,0,,319.2
+Pav Bhaji,Tawa Pulao,1,0,,159.2
+Pav Bhaji,Paneer Tawa Pulao,1,0,,152.0
+Pav Bhaji,Special Tawa Pulao,1,0,,175.2
+Fast Food,Bread Butter Sandwich,1,0,,38.4
+Fast Food,Bread Butter Jam Sandwich,1,0,,48.0
+Fast Food,Bread Butter Aloo Sandwich,1,0,,48.0
+Fast Food,Veg Sandwich,1,0,,88.0
+Fast Food,Bread Butter Cheese Sandwich,1,0,,104.0
+Fast Food,Veg Cheese Sandwich,1,0,,116.0
+Fast Food,Veg Cheese Grilled Sandwich,1,0,,231.2
+Fast Food,Bombay Veg Cheese Grilled Sandwich,1,0,,231.2
+Fast Food,Tandoori Paneer Cheese Grilled Sandwich,1,0,,231.2
+Fast Food,Bread Butter Tost Sandwich,1,0,,48.0
+Fast Food,Veg Toast Sandwich,1,0,,72.0
+Fast Food,Veg Cheese Toast Sandwich,1,0,,116.0
+Fast Food,Veg Chheese Pizza [7 inches],1,0,,231.2
+Fast Food,Margherita Pizza [7 inches],1,0,,231.2
+Fast Food,Onion Tomato Pizza [7 inches],1,0,,231.2
+Fast Food,Tandoori Paneer Cheese Pizza [7 inches],1,0,,255.2
+Fast Food,French Fries,1,0,,116.0
+Fast Food,Peri Peri French Fries,1,0,,132.0
+Fast Food,Cheese Masala French Fries,1,0,,144.0
+Thalis And Mini Meals,Gujarati Thali,1,0,2 Sabji+ 3 Fulka Roti Ghee+Teekha Dal Rice+Veg Raita+1 Papad+1 Butter Milk+Salad+Achar+Sweet [Salad-Subject ... read more,216.0
+Thalis And Mini Meals,Rajasthani Thali,1,0,2 Sabji+3 Fulka Roti Ghee+Teekha Dal Rice+Veg Raita+1 Papad+1 Butter Milk+Salad+Achar+2 Gulab Jamun ... read more,216.0
+Thalis And Mini Meals,Punjabi Thali,1,0,Paneer Masala Sabji+Mix Veg Sabji+3 Tandoori Butter Roti/3 Chapati Butter Roti+Dal Fry+Jeera Rice+Gulab ... read more,239.2
+Thalis And Mini Meals,Jain Punjabi Thali,1,0,1 Paneer Sabji+1 Veg Sabji+3 Tandoor Roti Butter/3 Chapati Roti Butter+Dal Fry+Jeera Rice+Sweet+Buttermilk+Papad+Veg ... read more,255.2
+Thalis And Mini Meals,Deluxe Gujarati Thali,1,0,Bajri Churma Sweet+Dessert+2 Sabji+3 Fulka Roti Ghee+Meetha Dal Rice +Fry Marcha+1 Butter Milk+1 ... read more,300.0
+Thalis And Mini Meals,Deluxe Thali,1,0,1 Starter+1 Soup+1 Kaju Sabji+1 Paneer Sabji+3 Tandoor Roti Butter/3 Chapati Roti Butter+Dal ... read more,335.2
+Thalis And Mini Meals,Shahi Lunch Thali,1,0,Shahi Paneer [300 ml]+Dal Makhani [300 ml]+2 Lachha Paratha+Jeera Rice [300 ml]+1 Papad+Butter ... read more,356.0
+Thalis And Mini Meals,Kadhi Chawal,1,0,,159.2
+Thalis And Mini Meals,Gujarati Mini Lunch,1,0,1 Sabji+3 Fulka Roti Ghee+Dal+Rice+Papad+Butter Milk+Salad+Achar [Sabzi Salad-Subject to Availibility].,175.2
+Thalis And Mini Meals,Punjabi Mini Lunch,1,0,Paneer Sabji 1+3 Butter Roti+Jeera Rice+Dal Fry+Papad+Butter Milk+Salad [Salad-Subject to Availibility].,196.0
+Thalis And Mini Meals,Rajma Chawal,1,0,A wholesome dish consisting of a delicious red rajma gravy served with rice. ... read more,196.0
+Thalis And Mini Meals,Chole Chawal,1,0,,196.0
+Thalis And Mini Meals,Dal Makhani Rice Bowl,1,0,,196.0
+Party Combos,Gujarati Sabji Combo,1,0,Gujarati Sabji [250 ml]+3 Phulka Ghee Roti+Buttermilk+Papad+Salad+Achar [Salad-Subject to Availibility].,175.2
+Party Combos,Paneer Sabji Combo,1,0,Paneer Sabji [250 ml] grams]+3 Chapati Roti Butter/3 Tandoori Roti Butter+Buttermilk+Papad+Salad+Achar [Salad-Subject to ... read more,188.0
+Party Combos,Punjabi Veg Sabji Combo,1,0,Veg Punjabi Sabji [250 ml]+3 Chapati Roti Butter/3 Tandoori Roti Butter+Buttermilk+Papad+Salad+Achar [Salad-Subject to ... read more,188.0
+Party Combos,Jeera Rice with Dal Fry,1,0,Jeera Rice+Dal Fry+Buttermilk+Roasted Papad+Salad+Achar [Salad-Subject to Availability].,196.0
+Party Combos,Dal Bati with Rice,1,0,Bati [4 Pieces]+Dal+Rice+Papad+Salad+Achar [Salad-Subject to Availibility].,223.2
+Party Combos,Dal Bati with Churma Combo,1,0,Bati [4 Pieces]+Dal+Bati Churma+Papad+Salad+Lahsun Chatni+Achar [Salad-Subject to Availibility].,223.2

@@ -1,0 +1,26 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Drinks (Beverages),Cold Coffee,1,0,"Popular chilled beverage made with coffee, sugar and milk.",50.0
+Burger,Chatpata Burger,1,0,"Made with fresh burger bun and onion, tomato with chipotle mayonnaise.",65.0
+Burger,Chatpata Cheese Burger,1,0,"Made with fresh burger bun and onion, tomato with chipotle mayonnaise and Amul slice ... read more",80.0
+Burger,Mexican Burger,1,0,"Made with fresh burger bun and onion, tomato with Mexican mayonnaise.",65.0
+Burger,Mexican Cheese Burger,1,0,"Made with fresh burger bun and onion, tomato with Mexican mayonnaise and Amul ... read more",80.0
+Burger,Schezwan Burger,1,0,"Made with fresh burger bun and onion, tomato and veg. Mayonnaise with schezwan.",65.0
+Burger,Schezwan Cheese Burger,1,0,"Made with fresh burger bun and onion, tomato and veg. Mayonnaise with schezwan and ... read more",80.0
+Burger,Tandoori Burger,1,0,"Made with fresh burger bun and onion, tomato with tandoori mayonnaise.",65.0
+Burger,Tandoori Cheese Burger,1,0,"Made with fresh burger bun and onion, tomato with tandoori mayonnaise and Amul ... read more",80.0
+Burger,Veg Burger[2 Pieces],1,0,Made with fresh burger bun and onion with veg mayonnaise.,79.0
+Burger,Veg Cheese Burger,1,0,"Made with fresh burger bun and onion, tomato with veg. mayonnaise and Amul ... read more",80.0
+Burger,Supreme Burger,1,0,"Made with fresh burger bun and onion, tomato with Thousand mayonnaise.",65.0
+Burger,Supreme Cheese Burger,1,0,"Made with fresh burger bun and onion, tomato with Thousand mayonnaise and Amul ... read more",80.0
+French Fries,Peri Peri French Fries,1,0,"Crispy fries, sprinkled with peri peri masala.",99.0
+French Fries,Salted French Fries,1,0,"Crispy fries, sprinkled with salt.",80.0
+French Fries,Cheese French Fries,1,0,"Crispy fries, sprinkled with little bit peri peri masala with liquid cheese dip.",120.0
+Pizza,Corn Paneer Pizza [6 inches],1,0,"Made with fresh pizza bread inside tomato puree, corn, paneer with mozzarella cheese.",130.0
+Pizza,Gita Special Pizza [6 inches],1,0,"Made with fresh pizza bread inside tomato puree with schezwan and corn, paneer, ... read more",150.0
+Pizza,Margherita Pizza [6 inches],1,0,Made with fresh pizza bread inside tomato puree with mozzarella cheese.,90.0
+Pizza,Paneer Tandoori Pizza [6 inches],1,0,Made with fresh pizza bread inside tomato puree and paneer with mozzarella cheese.,130.0
+Pizza,Schezwan Paneer Pizza [6 inches],1,0,Made with fresh pizza bread inside tomato puree with schezwan and fresh vegetable ... read more,130.0
+Pizza,Veg Cheese Mayo Pizza [6 inches],1,0,"Made with fresh pizza bread inside tomato puree and fresh vegetable, White mayonnaise with ... read more",99.0
+Momos,Maggi Fried Momos [5 Pieces],1,0,Veg momos are steamed dumplings stuffed with a lightly spiced maggi filling.,130.0
+Momos,Cheese Paneer Fried Momos [5 Pieces],1,0,"The filling is packed with cabbage, paneer and cheese makes this momos super ... read more",150.0
+Snacks,Spring Roll,1,0,Spring rolls are savoury rolls with cabbage and other vegetable fillings inside a thinly wrapped ... read more,120.0

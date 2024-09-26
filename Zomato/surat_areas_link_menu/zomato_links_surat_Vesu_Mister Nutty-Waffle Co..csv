@@ -1,0 +1,119 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Classic Waffle,Bursting Blueberry Waffle,1,0,Multigrain chocolate waffles topped with blueberry crush.,180.0
+Classic Waffle,Pure Honey Waffle,1,0,Multigrain chocolate waffles topped with pure honey.,160.0
+Classic Waffle,Sparkling Strawberry Waffle,1,0,Multigrain chocolate waffles topped with strawberry crush.,180.0
+Chocolate Waffle,Belgian Dark Chocolate Waffle,1,0,Multigrain chocolate waffles topped with Belgian dark chocolate spread.,200.0
+Chocolate Waffle,Belgian Milk Chocolate Waffle,1,0,Multigrain chocolate waffles topped with Belgian milk chocolate spread.,200.0
+Chocolate Waffle,Coffee Mocha Chocolate Waffle,1,0,Multigrain chocolate waffles topped with coffee chocolate spread.,210.0
+Chocolate Waffle,Naughty Nutella Waffle,1,0,Multigrain chocolate waffles topped with nutella chocolate spread.,220.0
+Chocolate Waffle,Red Velvet White Chocolate Waffle,1,0,Multigrain red velvet waffles topped with swiss white chocolate spread.,220.0
+Chocolate Waffle,Swiss White Chocolate Waffle,1,0,Multigrain chocolate waffles topped with swiss white chocolate spread.,200.0
+Crunchy Waffle,Butterscotch Crunch Waffle,1,0,Multigrain chocolate waffles topped with Belgian milk chocolate spread and butterscotch balls.,250.0
+Crunchy Waffle,Crunchy Biscoff Waffle,1,0,Multigrain chocolate waffles topped with biscoff spread and biscoff biscuit.,270.0
+Crunchy Waffle,Crunchy Cookies Waffle,1,0,Multigrain chocolate waffles topped with crunchy oreo chocolate spread.,250.0
+Crunchy Waffle,Gems Magic Waffle,1,0,Multigrain chocolate waffles topped with Belgian dark chocolate spread and gems.,240.0
+Crunchy Waffle,Kitkat Crunch Waffle,1,0,Multigrain chocolate waffles topped with Belgian milk chocolate spread and kitkat crush.,240.0
+Crunchy Waffle,Oreo Crunch Waffle,1,0,Multigrain chocolate waffles topped with Belgian dark chocolate spread and oreo crush.,240.0
+Multi Chocolate Waffle,Chesse Chocolate Waffle,1,0,Multigrain chocolate waffles topped with swiss white and Belgian dark chocolate spread.,220.0
+Multi Chocolate Waffle,Chocolate Therapy Waffle,1,0,Multigrain chocolate waffles topped with Belgian dark chocolate and choco chips.,250.0
+Multi Chocolate Waffle,Dark N White Fantasy,1,0,Multigrain chocolate waffles topped with swiss white and Belgian dark chocolate spread.,240.0
+Multi Chocolate Waffle,Double Trouble Waffle,1,0,Multigrain chocolate waffles topped with Belgian dark chocolate spread and nutella drizzle.,240.0
+Multi Chocolate Waffle,Triple Chocolate Waffle,1,0,"Multigrain chocolate waffles topped with Belgian dark, swiss white and Belgian milk chocolate ... read more",250.0
+Signature Flavours Waffle,Chocolate Brownie Waffle,1,0,Multigrain chocolate waffles topped with Belgian dark chocolate spread and brownie crumble.,250.0
+Signature Flavours Waffle,Cookies N Cream Waffle [Blue Chocolate],1,0,Multigrain chocolate waffles topped with blue oreo chocolate spread.,250.0
+Signature Flavours Waffle,Death By Chocolate Waffle,1,0,Multigrain chocolate waffles topped with Belgian milk chocolate spread and lots of chocolate ... read more,300.0
+Signature Flavours Waffle,Nutella Brownie Waffle,1,0,Multigrain chocolate waffles topped with nutella chocolate spread and brownie crumble.,270.0
+Classic Pancake,Bursting Blueberry Pancake,1,0,Multigrain chocolate mini pancakes topped with blueberry crush [8 pcs],200.0
+Classic Pancake,Pure Honey Pancake,1,0,Multigrain chocolate mini pancakes topped with pure honey [8 pcs],180.0
+Classic Pancake,Sparkling Strawberry Pancake,1,0,Multigrain chocolate mini pancakes topped with strawberry crush [8 pcs],200.0
+Chocolate Pancake,Belgian Dark Chocolate Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian dark chocolate spread [8 pcs],220.0
+Chocolate Pancake,Belgian Milk Chocolate Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian milk chocolate spread [8 pcs],220.0
+Chocolate Pancake,Coffee Mocha Chocolate Pancake,1,0,Multigrain chocolate mini pancakes topped with coffee chocolate spread [8 pcs],230.0
+Chocolate Pancake,Naughty Nutella Pancake,1,0,Multigrain chocolate mini pancakes topped with nutella chocolate spread [8 pcs],240.0
+Chocolate Pancake,Swiss White Chocolate Pancake,1,0,Multigrain chocolate mini pancakes topped with swiss white chocolate spread [8 pcs],220.0
+Crunchy Pancake,Butterscotch Crunch Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian milk chocolate spread and butterscotch balls ... read more,270.0
+Crunchy Pancake,Crunchy Cookies Pancake,1,0,Multigrain chocolate mini pancakes topped with crunchy oreo chocolate spread [8 pcs],270.0
+Crunchy Pancake,Gems Magic Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian dark chocolate spread and gems [8 ... read more,260.0
+Crunchy Pancake,Kitkat Crunch Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian milk chocolate spread and kitkat crush ... read more,260.0
+Crunchy Pancake,Oreo Crunch Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian dark chocolate spread and oreo crush ... read more,260.0
+Crunchy Pancake,Red Velvet White Chocolate Pancake,1,0,Multigrain red velvet mini pancakes topped with swiss white chocolate spread [8 pcs],240.0
+Multi Chocolate Pancake,Chess Chocolate Pancake,1,0,Multigrain chocolate mini pancakes topped with swiss white and Belgian dark chocolate spread ... read more,240.0
+Multi Chocolate Pancake,Crunchy Biscoff Pancake,1,0,Multigrain chocolate mini pancakes topped with biscoff spread and biscoff biscuit. [8 pcs],290.0
+Multi Chocolate Pancake,Dark N White Fantasy Pancake,1,0,Multigrain chocolate mini pancakes topped with swiss white and Belgian dark chocolate spread ... read more,260.0
+Multi Chocolate Pancake,Double Trouble Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian dark chocolate spread and nutella drizzle ... read more,260.0
+Multi Chocolate Pancake,Triple Chocolate Pancake,1,0,"Multigrain chocolate mini pancakes topped with Belgian dark, swiss white and Belgian milk ... read more",270.0
+Signature Flavours Pancake,Chocolate Brownie Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian dark chocolate spread and brownie crumble ... read more,270.0
+Signature Flavours Pancake,Chocolate Therapy Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian dark chocolate and choco chips [8 ... read more,270.0
+Signature Flavours Pancake,Cookies N Cream Pancake [Blue Chocolate],1,0,Multigrain chocolate mini pancakes topped with blue oreo chocolate spread [8 pcs],270.0
+Signature Flavours Pancake,Death By Chocolate Pancake,1,0,Multigrain chocolate mini pancakes topped with Belgian milk chocolate spread and lots of ... read more,320.0
+Signature Flavours Pancake,Nutella Brownie Pancake,1,0,Multigrain chocolate mini pancakes topped with nutella chocolate spread and brownie crumble [8 ... read more,290.0
+Crunchy Mini Donuts,Butterscotch Crunch Mini Donuts,1,0,Multigrain chocolate mini donuts topped with Belgian milk chocolate spread and butterscotch balls ... read more,270.0
+Crunchy Mini Donuts,Crunchy Biscoff Mini Donuts,1,0,Multigrain chocolate mini donuts topped with biscoff spread and biscoff biscuit. [6 pcs],290.0
+Crunchy Mini Donuts,Crunchy Cookies Mini Donuts,1,0,Multigrain chocolate mini donuts topped with crunchy oreo chocolate spread [6 pcs],270.0
+Crunchy Mini Donuts,Gems Magic Mini Donuts,1,0,Multigrain chocolate mini donuts topped with Belgian dark chocolate spread and gems [6 ... read more,260.0
+Crunchy Mini Donuts,Kitkat Crunch Mini Donuts,1,0,Multigrain chocolate mini donuts topped with Belgian milk chocolate spread and kitkat crush ... read more,260.0
+Crunchy Mini Donuts,Oreo Crunch Mini Donuts,1,0,Multigrain chocolate mini donuts topped with Belgian dark chocolate spread and oreo crush ... read more,260.0
+Multi Chocolate Mini Donuts,Chess Chocolate Mini Donuts,1,0,Multigrain chocolate mini donuts topped with swiss white and Belgian dark chocolate spread ... read more,240.0
+Multi Chocolate Mini Donuts,Dark N White Fantasy Mini Donuts,1,0,Multigrain chocolate mini donuts topped with swiss white and Belgian dark chocolate spread ... read more,260.0
+Multi Chocolate Mini Donuts,Double Trouble Mini Donuts,1,0,Multigrain chocolate mini donuts topped with Belgian dark chocolate spread and nutella drizzle ... read more,260.0
+Multi Chocolate Mini Donuts,Triple Chocolate Mini Donuts,1,0,"Multigrain chocolate mini donuts topped with Belgian dark, swiss white and Belgian milk ... read more",270.0
+Signature Flavours Mini Donuts,Chocolate Brownie Mini Donuts,1,0,Multigrain chocolate mini donuts topped with Belgian dark chocolate spread and brownie crumble ... read more,270.0
+Signature Flavours Mini Donuts,Chocolate Therapy Mini Donuts,1,0,Multigrain chocolate mini donuts topped with Belgian dark chocolate and choco chips [6 ... read more,270.0
+Signature Flavours Mini Donuts,Cookies N Cream Mini Donuts [Blue Chocolate],1,0,Multigrain chocolate mini donuts topped with blue oreo chocolate spread [6 pcs],270.0
+Signature Flavours Mini Donuts,Death By Chocolate Mini Donuts,1,0,Multigrain chocolate mini donuts topped with Belgian milk chocolate spread and lots of ... read more,320.0
+Signature Flavours Mini Donuts,Nutella Brownie Mini Donuts,1,0,Multigrain chocolate mini donuts topped with nutella chocolate spread and brownie crumble [6 ... read more,290.0
+Pizza [7 Inch - Jain Not Available],Fresh Farm House Pizza,1,0,"Pizza bread with fresh inhouse pizza sauce topped with baby corn, onion, capcium, ... read more",300.0
+Pizza [7 Inch - Jain Not Available],Italian Pizza,1,0,"Pizza bread with fresh inhouse pizza sauce topped with onion, capcium, olives and ... read more",250.0
+Pizza [7 Inch - Jain Not Available],Margherita Pizza [5 Types Of Cheese],1,0,Pizza bread with fresh inhouse pizza sauce and 5 types of cheese [Jain ... read more,200.0
+Pizza [7 Inch - Jain Not Available],Mexican Delight Pizza,1,0,"Pizza bread with fresh inhouse pizza sauce topped with sweet corn, onion, capcium, ... read more",250.0
+Pizza [7 Inch - Jain Not Available],Tandoori Paneer Pizza,1,0,"Pizza bread with fresh inhouse pizza sauce topped with onion, capcium, tandoori paneer, ... read more",280.0
+Garlic Bread [3 Pcs],Cheese Chilli Garlic Bread,1,0,"Buttery rich bread infused with garlic, baked with cheese and topped with chilly.",130.0
+Garlic Bread [3 Pcs],Cheese Corn Garlic Bread,1,0,"Buttery rich bread infused with garlic, baked with cheese and topped with corn.",150.0
+Garlic Bread [3 Pcs],Cheese Onion Garlic Bread,1,0,"Buttery rich bread infused with garlic, baked with cheese and topped with onion.",150.0
+Garlic Bread [3 Pcs],Cheese Spicy Paneer Garlic Bread,1,0,"Buttery rich bread infused with garlic, baked with cheese and topped with marinated ... read more",170.0
+Quick Bites,Cheese Nachos With Salsa Dip,1,0,,150.0
+Quick Bites,Cheese Paneer Samosa [6 Pcs],1,0,,200.0
+Quick Bites,Chinese Samosa [6 Pcs],1,0,,180.0
+Quick Bites,Mini Aloo Samosa [6 Pcs],1,0,,180.0
+Quick Bites,Spring Roll [3 Rolls],1,0,,150.0
+French Fries,Cheese French Fries,1,0,,190.0
+French Fries,Masala French Fries,1,0,,150.0
+French Fries,Peri Peri French Fries,1,0,,160.0
+French Fries,Pizza French Fries,1,0,,200.0
+French Fries,Salted French Fries,1,0,,140.0
+Maggi,Cheese Masala Maggi,1,0,,150.0
+Maggi,Double Masala Maggi,1,0,,120.0
+Maggi,Masala Maggi,1,0,,100.0
+Maggi,Schezwan Cheese Maggi,1,0,,180.0
+Maggi,Schezwan Maggi,1,0,,130.0
+Premium Hot Brownie,Hot Almond Brownie,1,0,,150.0
+Premium Hot Brownie,Hot Biscoff Brownie,1,0,,200.0
+Premium Hot Brownie,Hot Choco Chips Brownie,1,0,,150.0
+Premium Hot Brownie,Hot Hazelnut Brownie [Nutella Brownie],1,0,,170.0
+Premium Hot Brownie,Hot Walnut Brownie With Ice Cream,1,0,,170.0
+Premium Hot Brownie,Hot Walnut Brownie,1,0,,120.0
+Premium Ice Cream,American Nuts Ice Cream,1,0,,100.0
+Premium Ice Cream,Belgian Chocolate Ice Cream,1,0,,80.0
+Premium Ice Cream,Rajbhog Ice Cream,1,0,,100.0
+Premium Ice Cream,Strawberry Ice Cream,1,0,,80.0
+Premium Ice Cream,Vanilla Ice Cream,1,0,,80.0
+Premium Ice Tea,Lemon Iced Tea,1,0,Refreshing drink with lemony zest.,100.0
+Premium Ice Tea,Peach Iced Tea,1,0,Get the subtle hint of fuitiness with this drink.,100.0
+Premium Cold Coffee,Cold Chocolate Coffee,1,0,"Milk blended with coffee, chocolate spread, vanilla icecream and ice.",170.0
+Premium Cold Coffee,Cold Coffee,1,0,"Milk blended with coffee, vanilla icecream and ice. A classic favourite.",150.0
+Premium Cold Coffee,Cold Hazelnut Coffee,1,0,"Milk blended with coffee, nutella spread, vanilla icecream and ice.",190.0
+Premium Cold Coco,Almond Cold Coco,1,0,,100.0
+Premium Cold Coco,Brownie Cold Coco,1,0,,120.0
+Premium Cold Coco,Classic Cold Coco,1,0,,80.0
+Premium Cold Coco,Cold Coco With Chocolate Chips,1,0,,100.0
+Premium Cold Coco,Cold Coco With Ice Cream,1,0,,120.0
+Premium Cold Coco,Kaju Cold Coco,1,0,,120.0
+Mocktails,Blue Ocean Mocktail,1,0,"Lemon slices muddled with blue curacao syrup and ice, shaken with lemonade.",100.0
+Mocktails,Kiwi Mocktail,1,0,"Lemon slices muddled with kiwi crush and ice, shaken with lemonade.",100.0
+Mocktails,Mint Mojito Mocktail,1,0,"Lemon slices muddled with vargin mint syrup and ice, shaken with lemonade.",100.0
+Milkshake / Thickshake,Brownie Chocolate Shake,1,0,"Chocolate walnut brownie blended with ice, milk and chocolate icecream.",180.0
+Milkshake / Thickshake,Dry Fruit Shake,1,0,"Dry fruits blended with ice, milk and vanilla icecream.",200.0
+Milkshake / Thickshake,Kitkat Shake,1,0,"Kitkat blended with ice, milk and chocolate icecream.",150.0
+Milkshake / Thickshake,Nutella Shake,1,0,"Nutella spread blended with ice, milk and chocolate icecream.",200.0
+Milkshake / Thickshake,Oreo Shake,1,0,"Oreo blended with ice, milk and chocolate icecream.",150.0
+Milkshake / Thickshake,Strawberry Shake,1,0,"Fresh strawberry blended with ice, milk and vanilla icecream.",150.0

@@ -1,0 +1,66 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Punjabi Thali,1,0,1 Paneer Sabji+1 Veg Sabji+1 Jeera Rice+1 Dal Fry+5 Butter Chapati+1 Sweet+1 Chaas+1 ... read more,230.0
+Main Course,Kadhi,1,0,,125.0
+Main Course,Aloo Pyaaz,1,0,,125.0
+Main Course,Pyaaz,1,0,,125.0
+Main Course,Malai Pyaaz,1,0,,180.0
+Main Course,Bessan Gatta,1,0,,160.0
+Main Course,Raita,1,0,,145.0
+Main Course,Dahi Pyaaz,1,0,,145.0
+Main Course,Dahi Aloo,1,0,,145.0
+Main Course,Papad Sabji,1,0,,125.0
+Main Course,Wadi Sabji,1,0,,145.0
+Main Course,Dal Fry,1,0,,125.0
+Main Course,Dal Tadka,1,0,,145.0
+Main Course,Dal Methi,1,0,,125.0
+Main Course,Bhindi Fry,1,0,,145.0
+Main Course,Bhindi Masala,1,0,,125.0
+Main Course,Sev Tamatar,1,0,,125.0
+Main Course,Chana Masala,1,0,,125.0
+Main Course,Aloo Matar,1,0,,125.0
+Main Course,Aloo Gobi,1,0,,125.0
+Main Course,Aloo Palak,1,0,,125.0
+Main Course,Matar Green Peas,1,0,,145.0
+Main Course,Jeera Aloo,1,0,,110.0
+Main Course,Plain Palak,1,0,,110.0
+Main Course,Mix Veg,1,0,,160.0
+Main Course,Veg Kolhapuri,1,0,,160.0
+Main Course,Veg Jaipur,1,0,,180.0
+Main Course,Dum Aloo,1,0,,180.0
+Main Course,Shahi Paneer,1,0,,235.0
+Main Course,Paneer Kadhai,1,0,,250.0
+Main Course,Kaju Curry,1,0,,250.0
+Main Course,Paneer Handi,1,0,,235.0
+Main Course,Malai Kofta,1,0,,250.0
+Main Course,Kaju Masala,1,0,,270.0
+Main Course,Paneer Tikka,1,0,,235.0
+Main Course,Paneer Lababdar,1,0,,235.0
+Main Course,Paneer Bhurji,1,0,,235.0
+Main Course,Paneer Butter Masala,1,0,,200.0
+Main Course,Paneer Masala,1,0,,160.0
+Main Course,Paneer Chana,1,0,,160.0
+Main Course,Palak Paneer,1,0,,160.0
+Main Course,Paneer Chatpata,1,0,,180.0
+Main Course,Paneer Angara,1,0,,250.0
+Main Course,Paneer Tufani,1,0,,250.0
+Main Course,Paneer Cheese Butter Masala,1,0,,325.0
+Main Course,Cheese Butter Masala,1,0,,380.0
+Breads,Plain Chapati,1,0,,12.0
+Breads,Butter Chapati,1,0,,18.0
+Breads,Bajri Sogra,1,0,,35.0
+Breads,Bajri Sogra with Ghee,1,0,,45.0
+Breads,Tukkad,1,0,,45.0
+Breads,Tukkad with Ghee,1,0,,55.0
+Breads,Khoba Roti,1,0,,55.0
+Breads,Bati [1 Piece],1,0,,25.0
+Breads,Khoba Roti with Ghee,1,0,,65.0
+Rice and Biryani,Dal Rice,1,0,,125.0
+Rice and Biryani,Plain Rice,1,0,,55.0
+Rice and Biryani,Jeera Rice,1,0,,125.0
+Rice and Biryani,Masala Rice,1,0,,145.0
+Rice and Biryani,Veg Pulao,1,0,,160.0
+Rice and Biryani,Matar Pulao,1,0,,145.0
+Rice and Biryani,Paneer Masala Rice,1,0,,200.0
+Rice and Biryani,Matar Paneer Pulao,1,0,,235.0
+Rice and Biryani,Kaju Matar Pulao,1,0,,270.0
+Rice and Biryani,Veg Biryani,1,0,,215.0

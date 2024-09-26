@@ -1,0 +1,47 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Main Course,Green Gravy [2 Eggs],0,0,,100.0
+Main Course,Egg Keema [2 Eggs],0,0,,100.0
+Main Course,Egg Bhurji [2 Eggs],0,0,,100.0
+Main Course,Egg Goti Gravy [2 Eggs],0,0,,100.0
+Main Course,Egg Cheese Mamna Gravy [5 Eggs],0,0,,250.0
+Main Course,Egg Cheese Italian Gravy [4 Eggs],0,0,,220.0
+Main Course,Egg Cheese Rajwadi Boiled Bhurji [4 Eggs],0,0,,220.0
+Main Course,Egg Cheese Bheni Masala [5 Eggs],0,0,,250.0
+Main Course,Egg Ravaiyu [2 Eggs],0,0,,100.0
+Main Course,Egg Curry [2 Eggs],0,0,,100.0
+Pulao,Pulao Rice,1,0,,80.0
+Fried Rice,Fried Rice,1,0,,80.0
+Sandwich,Egg Cheese Pizza Sandwich [3 Eggs],0,0,,150.0
+Snacks,Omelette [2 Eggs],0,0,,60.0
+Snacks,Lemon Mari Omelette [2 Eggs],0,0,,80.0
+Snacks,Cheese Jeera Omelette [2 Eggs],0,0,,100.0
+Snacks,Masala Omelette [2 Eggs],0,0,,100.0
+Snacks,Gravy Omelette [2 Eggs],0,0,,120.0
+Snacks,Bombay Omelette [2 Eggs],0,0,,60.0
+Snacks,Paper Omelette [2 Eggs],0,0,,70.0
+Snacks,Half Fry Lehsun [2 Eggs],0,0,,100.0
+Snacks,Tomato Fry Lehsun [2 Eggs],0,0,,120.0
+Snacks,Cheese Australian Fry [4 Eggs],0,0,,220.0
+Snacks,Boiled Fry [2 Eggs],0,0,,80.0
+Snacks,Cheese Chinese Fry [4 Eggs],0,0,,220.0
+Snacks,Green Fry [2 Eggs],0,0,,100.0
+Snacks,Cheese Mughlai Fry [4 Eggs],0,0,,220.0
+Snacks,Gotado [2 Eggs],0,0,,100.0
+Snacks,Goti Gotado [4 Eggs],0,0,,200.0
+Snacks,Cheese Rajwadi Gotado [4 Eggs],0,0,,220.0
+Snacks,Boiled Egg [2 Eggs],0,0,,20.0
+Snacks,Boiled Egg Fry Simple [2 Eggs],0,0,,30.0
+Snacks,Egg Lehsun Kachu [2 Eggs],0,0,,100.0
+Snacks,Egg Ravaiyu Kachu [2 Eggs],0,0,,100.0
+Snacks,Egg Kataki Kachu [2 Eggs],0,0,,100.0
+Snacks,Egg Cheese Locho [2 Eggs],0,0,,100.0
+Snacks,Egg Cheese Cutlet [2 Eggs],0,0,,100.0
+Snacks,Egg Cutlet [2 Eggs],0,0,,80.0
+Snacks,Egg Tadka Fry [4 Eggs],0,0,,220.0
+Snacks,Egg Cheese Lahori [2 Eggs],0,0,,120.0
+Snacks,Egg Cheese Kachi Lahori [2 Eggs],0,0,,120.0
+Snacks,Egg Cheese Paplet [6 Eggs],0,0,,330.0
+Snacks,Egg Double Tadka Paplet [5 Eggs],0,0,,250.0
+Accompaniments,Fried Papad,1,0,,20.0
+Accompaniments,Roasted Papad,1,0,,15.0
+Drinks (Beverages),Masala Chaas,1,0,,15.0

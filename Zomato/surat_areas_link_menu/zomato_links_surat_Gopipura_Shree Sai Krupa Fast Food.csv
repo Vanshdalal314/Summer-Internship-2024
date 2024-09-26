@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,Idli Sambar,1,0,,70.0
+South Indian,Dahi Idli,1,0,,90.0
+South Indian,Idli Fry,1,0,,85.0
+South Indian,Masala Idli,1,0,,100.0
+South Indian,Vada Sambar,1,0,,70.0
+South Indian,Mysore Masala Dosa,1,0,,100.0
+South Indian,Masala Dosa,1,0,,90.0
+South Indian,Sada Dosa,1,0,,60.0
+South Indian,Paper Sada Dosa,1,0,,175.0
+South Indian,Paper Masala Dosa,1,0,,195.0
+South Indian,Rava Masala Dosa,1,0,,100.0
+South Indian,Rava Sada Dosa,1,0,,85.0
+South Indian,Onion Rava Masala Dosa,1,0,,110.0
+South Indian,Onion Rava Sada Dosa,1,0,,95.0
+South Indian,Onion Uttapam,1,0,,105.0
+South Indian,Tomato Uttapam,1,0,,105.0
+South Indian,Onion Tomato Uttapam,1,0,,110.0
+South Indian,Masala Uttapam,1,0,,115.0
+South Indian,Sada Uttapam,1,0,,80.0
+South Indian,Veg Tomato Omelette,1,0,[Veg preparation],115.0
+Fried Rice and Noodles,Hakka Noodles,1,0,,130.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,,135.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,,130.0
+Fried Rice and Noodles,Fried Rice,1,0,,125.0
+Fried Rice and Noodles,Schezwan Rice,1,0,,130.0
+Fried Rice and Noodles,Triple Rice,1,0,,155.0
+Fried Rice and Noodles,Singapore Rice,1,0,,135.0
+Fried Rice and Noodles,Manchurian Rice,1,0,,135.0
+Fried Rice and Noodles,Combination Rice,1,0,,160.0
+Fried Rice and Noodles,Paneer Rice,1,0,,150.0
+Snacks,Dahi Vada,1,0,,85.0
+Snacks,Samosa,1,0,,70.0
+Accompaniments,Fried Papad,1,0,,25.0
+Accompaniments,Roasted Papad,1,0,,20.0
+Accompaniments,Masala Papad,1,0,,40.0

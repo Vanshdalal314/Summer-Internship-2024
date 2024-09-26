@@ -1,0 +1,77 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burgers,Zinger Chicken Burger,0,0,,210.0
+Burgers,Mega Zinger Chicken Burger,0,0,,252.0
+Burgers,Classic Chicken Burger [Jumbo],0,0,,266.0
+Burgers,XXL Veg Grilled Burger,0,0,,168.0
+Burgers,Mushroom Grilled Burger [Regular],0,0,,140.0
+Burgers,Paneer Grilled Burger [Regular],0,0,,140.0
+Burgers,Grilled Veg Burger [Jumbo],0,0,,140.0
+Burgers,Egg Burger [Regular],0,0,,98.0
+Burgers,XXL Mutton Grilled Burger,0,0,,252.0
+Burgers,Mutton Grilled Burger [Regular],0,0,,196.0
+Burgers,XXL Chicken Grilled Burger,0,0,,210.0
+Burgers,Chicken Grilled Burger [Jumbo],0,0,,182.0
+Burgers,Chicken Grilled Burger [Regular],0,0,,130.0
+Burgers,BBQ XXL Mutton Grilled Burger,0,0,,294.0
+Burgers,BBQ Mutton Grilled Burger [Regular],0,0,,238.0
+Burgers,BBQ XXL Chicken Grilled Burger,0,0,,252.0
+Burgers,BBQ Chicken Grilled Burger [Jumbo],0,0,,210.0
+Burgers,BBQ Chicken Grilled Burger [Regular],0,0,,154.0
+Snacks,Normal French Fries,0,0,,112.0
+Snacks,Spicy French Fries,0,0,,126.0
+Snacks,Peri Peri French Fries,0,0,,154.0
+Snacks,Veg Nuggets,0,0,,168.0
+Snacks,Chicken Nuggets,0,0,,168.0
+Snacks,Chicken Hot Dog,0,0,,168.0
+Sandwiches,Veg Mayo Sandwich,0,0,,70.0
+Sandwiches,Paneer Sandwich,0,0,,140.0
+Sandwiches,Tomato Cheese Sandwich,0,0,,84.0
+Sandwiches,Veg Sandwich,0,0,,112.0
+Sandwiches,Egg Sandwich,0,0,,98.0
+Sandwiches,Chicken Sandwich,0,0,,182.0
+Sandwiches,Chicken Club Sandwich,0,0,,210.0
+Sandwiches,Mexican Chicken Sandwich,0,0,,154.0
+Sandwiches,Zinger Chicken Sandwich,0,0,,210.0
+Sandwiches,Zinger Chilli Chicken Sandwich,0,0,,238.0
+Wraps,Veg Wrap,0,0,,140.0
+Wraps,Egg Wrap,0,0,,112.0
+Wraps,Chicken Wrap,0,0,,154.0
+Drinks (Beverages),Watermelon Juice,0,0,,56.0
+Drinks (Beverages),Pineapple Juice,0,0,,84.0
+Drinks (Beverages),Carrot Juice,0,0,,98.0
+Drinks (Beverages),Anar Juice,0,0,,112.0
+Drinks (Beverages),Sweet Melon Juice,0,0,,98.0
+Drinks (Beverages),Papaya Juice,0,0,,98.0
+Drinks (Beverages),Vanilla Smoothie,0,0,,140.0
+Drinks (Beverages),Butterscotch Smoothie,0,0,,140.0
+Drinks (Beverages),Pista Smoothie,0,0,,182.0
+Drinks (Beverages),Oman Shake,0,0,,90.0
+Drinks (Beverages),Chikoo Shake,0,0,,80.0
+Drinks (Beverages),Banana Shake,0,0,,70.0
+Drinks (Beverages),Badam Shake,0,0,,100.0
+Drinks (Beverages),Vanilla Shake,0,0,,80.0
+Drinks (Beverages),Chocolate Shake,0,0,,80.0
+Drinks (Beverages),Saudi Shake,0,0,,80.0
+Drinks (Beverages),Oreo Shake,0,0,,90.0
+Drinks (Beverages),Butterscotch Shake,0,0,,80.0
+Drinks (Beverages),Sweet Melon Shake,0,0,,90.0
+Drinks (Beverages),Papaya Shake,0,0,,80.0
+Drinks (Beverages),Cold Coffee Shake,0,0,,60.0
+Drinks (Beverages),Lime Juice,0,0,,28.0
+Drinks (Beverages),Mint Lime Juice,0,0,,42.0
+Drinks (Beverages),Blue Lime Juice,0,0,,56.0
+Drinks (Beverages),Chilli Lime Juice,0,0,,42.0
+Drinks (Beverages),Ginger Lime Juice,0,0,,42.0
+Drinks (Beverages),Pineapple Lime Juice,0,0,,42.0
+Drinks (Beverages),Melon Lime Juice,0,0,,42.0
+Drinks (Beverages),Mint Mojito,0,0,[Non Alcoholic],140.0
+Drinks (Beverages),Guava Mojito,0,0,[Non Alcoholic],140.0
+Drinks (Beverages),Passion Fruit Mojito,0,0,[Non Alcoholic],140.0
+Drinks (Beverages),Green Apple Mojito,0,0,[Non Alcoholic],140.0
+Drinks (Beverages),Blue Curacao Mojito,0,0,[Non Alcoholic],140.0
+Drinks (Beverages),Blackberry Mojito,0,0,[Non Alcoholic],140.0
+Drinks (Beverages),Pomegranate Mojito,0,0,[Non Alcoholic],140.0
+Desserts,Rose Milk Falooda,0,0,,154.0
+Desserts,Normal Falooda,0,0,,182.0
+Desserts,King Falooda,0,0,,224.0
+Desserts,Royal Falooda,0,0,,266.0

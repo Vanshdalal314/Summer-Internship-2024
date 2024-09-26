@@ -1,0 +1,33 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Plain Biryani,0,0,"Loaded with veggies, crunchy cashews, warm spices like saffron, herbs like cilantro and ... read more",225.0
+Biryani,Chicken Biryani,0,0,"Delicious savory rice dish loaded with spicy marinated chicken, caramelized onions, and flavorful ... read more",285.0
+Biryani,Mutton Biryani,0,0,This mutton biryani recipe has layers of mutton and rice cooked 'dum' style. ... read more,295.0
+Starters,Mutton Fry [Half],0,0,,240.0
+Starters,Mutton Kothu Kari Fry [Half],0,0,,205.0
+Starters,Mutton Nalli Fry [Half],0,0,,335.0
+Starters,Mutton Thalakari Fry [Half],0,0,,235.0
+Starters,Mutton Liver Fry [Half],0,0,,235.0
+Starters,Mutton Nenju Kari Fry [Half],0,0,,250.0
+Starters,Prawns 65,0,0,,260.0
+Starters,Chilli Fish,0,0,"Shallow-fried, batter coated fish pieces tossed in a slightly sour, sweet and hot ... read more",160.0
+Starters,Chilli Chicken,0,0,,190.0
+Starters,Chicken Boneless,0,0,,230.0
+Starters,Chicken 65,0,0,[Mild Spicy],190.0
+Starters,Chicken 65 Boneless,0,0,,230.0
+Starters,Chicken Lollipop,0,0,A crispy and juicy Indian chicken dish that is most popularly found in ... read more,140.0
+Starters,Chicken 74,0,0,,275.0
+Starters,Majira Chicken,0,0,,420.0
+Starters,Chicken Chops [2 Pieces],0,0,Leg piece.,275.0
+Starters,Chicken Fry,0,0,A deliciously indulgent roll stuffed with juicy chicken fry pieces.,225.0
+Breads,1 Paratha,0,0,,39.0
+Breads,1 Chapati,0,0,,39.0
+Breads,Egg Paratha,0,0,,140.0
+Rice,Ghee Rice,0,0,,117.0
+Fried Rice,Veg Fried Rice,0,0,,117.0
+Fried Rice,Veg Schezwan Fried Rice,0,0,,143.0
+Fried Rice,Egg Fried Rice,0,0,,130.0
+Fried Rice,Egg Schezwan Fried Rice,0,0,,156.0
+Fried Rice,Chicken Fried Rice,0,0,,143.0
+Fried Rice,Chicken Schezwan Fried Rice,0,0,,169.0
+Snacks,Mutton Keema Vada [1 Piece],0,0,,39.0
+Snacks,Mutton Kola Urundai,0,0,,50.0

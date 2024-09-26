@@ -1,0 +1,249 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Gujarati Fix Thali,1,0,Aloo Rasawala + Gujarati Chole + Gujarati Dal / Gujarati Kadhi + Butter ... read more,360.0
+Thali,Mountain Special Thali,1,0,[Chef's Special] Manchow Soup+Veg Crispy+Paneer Angara+Veg Kadhai+Dal Tadka+Roti Naan+Veg Pulao+Roasted Papad+Onion Slice+Buttermilk+Hot Gulab ... read more,630.0
+Thali,Punjabi Fix Thali,1,0,Paneer Butter Masala+Mix Veg+3 Butter Roti+Buttermilk+Jeera Rice+Dal Fry+Hot Gulab Jamun+Roasted Papad+Onion Slice,430.0
+Sizzler,Chinese Sizzler,1,0,,540.0
+Sizzler,CN Special Paneer Swaslic Sizzler,1,0,,540.0
+Sizzler,Italian Sizzler,1,0,,540.0
+Sizzler,Mexican Sizzler,1,0,,540.0
+Sizzler,Mountain Special Tikka Sizzler,1,0,[Chef's Special],630.0
+Sizzler,Paneer Tikka Sizzler,1,0,,580.0
+Soups,Broccoli Almond Soup,1,0,,270.0
+Soups,Cream Of Tomato Soup,1,0,,170.0
+Soups,Fresh Onion Soup,1,0,,220.0
+Soups,Hot N Sour Soup,1,0,,180.0
+Soups,Khause Soup,1,0,,250.0
+Soups,Lemon Coriander Soup,1,0,,260.0
+Soups,Manchow Soup,1,0,,180.0
+Soups,Mexican Totila Vins Soup,1,0,,240.0
+Soups,Mushroom Soup,1,0,,180.0
+Soups,Veg Clear Soup,1,0,,170.0
+Soups,Veg Noodles Soup,1,0,,150.0
+Salad / Raita / Papad,Boondi Raita,1,0,,130.0
+Salad / Raita / Papad,Curd,1,0,,110.0
+Salad / Raita / Papad,French Fry,1,0,,180.0
+Salad / Raita / Papad,Fruit Salad,1,0,,240.0
+Salad / Raita / Papad,Fry Chilly,1,0,,20.0
+Salad / Raita / Papad,Fry Papad,1,0,,40.0
+Salad / Raita / Papad,Green Salad,1,0,,150.0
+Salad / Raita / Papad,Kachumbar Salad,1,0,,110.0
+Salad / Raita / Papad,Masala Papad,1,0,,65.0
+Salad / Raita / Papad,Roasted Papad,1,0,,30.0
+Salad / Raita / Papad,Russian Salad,1,0,,270.0
+Salad / Raita / Papad,Tomato Salad,1,0,,110.0
+Salad / Raita / Papad,Veg Raita,1,0,,110.0
+Starters,Dragon Potato,1,0,,260.0
+Starters,Honey Chilly Potato,1,0,,240.0
+Starters,Mushroom Manchurian Dry,1,0,,360.0
+Starters,Paneer 65,1,0,,360.0
+Starters,Paneer Chilly Dry,1,0,,405.0
+Starters,Paneer Chilly Gravy,1,0,,450.0
+Starters,Paneer Manchurian Dry,1,0,,360.0
+Starters,Paneer Schezwan,1,0,,380.0
+Starters,Sanghai Spring Roll,1,0,,330.0
+Starters,Veg 65,1,0,,330.0
+Starters,Veg 99,1,0,,330.0
+Starters,Veg Crispy,1,0,,270.0
+Starters,Veg Manchurian Dry,1,0,,270.0
+Starters,Veg Manchurian Gravy,1,0,,315.0
+Starters,Veg Schezwan,1,0,,270.0
+Starters,Aloo Najakat,1,0,,250.0
+Starters,Aloo Nawabi,1,0,,270.0
+Starters,Hara Bhara Kabab,1,0,,270.0
+Starters,Malai Tikka,1,0,,380.0
+Starters,Mushroom Dimple,1,0,,330.0
+Starters,Paneer Achari Tikka,1,0,,380.0
+Starters,Paneer Hariyali Tikka,1,0,,380.0
+Starters,Paneer Pahadi Tikka,1,0,,360.0
+Starters,Paneer Punjabi Tikka,1,0,,440.0
+Starters,Paneer Tikka Dry,1,0,,380.0
+Starters,Veg Chatpata Kabab,1,0,,330.0
+Starters,Veg Seekh Kabab,1,0,,440.0
+Starters,Cheese Corn Ball,1,0,,310.0
+Starters,Cheese Sigar Roll,1,0,,380.0
+Starters,Jalapeno Poppers,1,0,,260.0
+Starters,Mexican Burritos,1,0,,240.0
+Starters,Mexican Tikki,1,0,,270.0
+Starters,Nachos With Cheese Sauce Special,1,0,,240.0
+Starters,Sev Roll,1,0,,220.0
+Starters,Tacos,1,0,,270.0
+Main Course,Aloo Gobi,1,0,,260.0
+Main Course,Aloo Mutter,1,0,,245.0
+Main Course,Aloo Palak,1,0,,240.0
+Main Course,Bhindi Fry,1,0,,260.0
+Main Course,Bhindi Masala,1,0,,240.0
+Main Course,Chana Masala,1,0,,350.0
+Main Course,Chana Paneer,1,0,,380.0
+Main Course,Dahi Fry,1,0,,180.0
+Main Course,Dahi Tikhari,1,0,,225.0
+Main Course,Haldi Na Sag,1,0,,450.0
+Main Course,Jeera Aloo,1,0,,240.0
+Main Course,Methi Malai Mutter Masala,1,0,,330.0
+Main Course,Mix Vegetable,1,0,,330.0
+Main Course,Mushroom Butter Masala,1,0,,380.0
+Main Course,Mushroom Mutter Masala,1,0,,380.0
+Main Course,Plain Palak,1,0,,260.0
+Main Course,Punjabi Dum Aloo,1,0,,260.0
+Main Course,Sev Bhaji,1,0,,260.0
+Main Course,Sev Masala,1,0,,240.0
+Main Course,Sev Tomato,1,0,,240.0
+Main Course,Special Veg Chatpata,1,0,,300.0
+Main Course,Special Veg Lasaniya,1,0,,300.0
+Main Course,Special Veg Mountain,1,0,[Chef's Special],380.0
+Main Course,Special Veg Patiyala,1,0,,350.0
+Main Course,Special Veg Today,1,0,,450.0
+Main Course,Veg Angara,1,0,,400.0
+Main Course,Veg Handi,1,0,,280.0
+Main Course,Veg Hara Masala,1,0,,270.0
+Main Course,Veg Hungama,1,0,,290.0
+Main Course,Veg Hyderabadi,1,0,,330.0
+Main Course,Veg Jaipuri,1,0,,310.0
+Main Course,Veg Kadai,1,0,,315.0
+Main Course,Veg Kheema Masala,1,0,,380.0
+Main Course,Veg Kolhapuri,1,0,,270.0
+Main Course,Veg Makanwala,1,0,,380.0
+Main Course,Veg Tawa Masala,1,0,,350.0
+Main Course,Veg Toofani,1,0,,330.0
+Main Course,Cheese Butter Masala,1,0,,440.0
+Main Course,Cheese Paneer Masala,1,0,,440.0
+Main Course,Chef Special Paneer,1,0,,450.0
+Main Course,Paneer Amritsari,1,0,,400.0
+Main Course,Paneer Angara,1,0,,440.0
+Main Course,Paneer Balti,1,0,,390.0
+Main Course,Paneer Bhurji,1,0,,420.0
+Main Course,Paneer Butter Masala,1,0,,390.0
+Main Course,Paneer Chatpata,1,0,,400.0
+Main Course,Paneer Do Pyaza,1,0,,420.0
+Main Course,Paneer Handi,1,0,,390.0
+Main Course,Paneer Hara Masala,1,0,,390.0
+Main Course,Paneer Kadai,1,0,,390.0
+Main Course,Paneer Korma,1,0,,420.0
+Main Course,Paneer Lababdar,1,0,,420.0
+Main Course,Paneer Lasaniya,1,0,,440.0
+Main Course,Paneer Mutter Masala,1,0,,390.0
+Main Course,Paneer Palak,1,0,,400.0
+Main Course,Paneer Patiyala,1,0,,420.0
+Main Course,Paneer Rajwadi,1,0,,400.0
+Main Course,Paneer Saffrony,1,0,,420.0
+Main Course,Paneer Shahi,1,0,,440.0
+Main Course,Paneer Tawa,1,0,,470.0
+Main Course,Paneer Tikka Masala,1,0,,450.0
+Main Course,Paneer Toofani,1,0,,390.0
+Main Course,Special Paneer Jhangiri,1,0,,495.0
+Main Course,Special Paneer Mountain,1,0,[Chef's Special],440.0
+Main Course,Special Paneer Pasanda,1,0,,420.0
+Main Course,Special Paneer Punjabi Masala,1,0,,440.0
+Main Course,Special Paneer Takatak,1,0,,440.0
+Main Course,Special Paneer Today,1,0,,500.0
+Main Course,Kaju Butter Masala,1,0,,520.0
+Main Course,Kaju Curry,1,0,,500.0
+Main Course,Kaju Kadai Kaju,1,0,,500.0
+Main Course,Kaju Masala (Spicy),1,0,,400.0
+Main Course,Khoya Kaju (Sweet),1,0,,520.0
+Main Course,Paneer Kaju Masala,1,0,,520.0
+Main Course,Special Kaju Angara,1,0,,510.0
+Main Course,Special Kaju Cheese Masala,1,0,,520.0
+Main Course,Gujarati Chhole,1,0,,180.0
+Main Course,Gujarati Dal,1,0,,180.0
+Main Course,Gujarati Kadhi,1,0,,180.0
+Main Course,Gujarati Kathor,1,0,,230.0
+Main Course,Gujarati Mix Bhajee,1,0,,330.0
+Main Course,Gujarati Punch Undhiya,1,0,[Non Alcoholic],330.0
+Main Course,Gujarati Rice,1,0,,230.0
+Main Course,Kaju Gathiya,1,0,,330.0
+Main Course,Kathiyawadi Mix Undhiya,1,0,,330.0
+Main Course,Lasniya Bataka,1,0,,270.0
+Main Course,Turiya Patra Nu Sag,1,0,,270.0
+Main Course,Cheese Kofta,1,0,,520.0
+Main Course,Kaju Kofta,1,0,,380.0
+Main Course,Kashmiri Kofta (Sweet),1,0,,400.0
+Main Course,Malai Kofta (Sweet),1,0,,415.0
+Main Course,Nargisi Kofta,1,0,,390.0
+Main Course,Paneer Kofta,1,0,,399.0
+Main Course,Veg Kofta,1,0,,400.0
+Dal,Dal Fry,1,0,,160.0
+Dal,Dal Fry Butter,1,0,,200.0
+Dal,Dal Palak,1,0,,210.0
+Dal,Dal Panchawati,1,0,,240.0
+Dal,Dal Tadka,1,0,,175.0
+Dal,Punjabi Kadhi,1,0,,220.0
+Rice,Dal Khichdi,1,0,,180.0
+Rice,Jeera Rice,1,0,,175.0
+Rice,Kaju Pulao,1,0,,290.0
+Rice,Kashmiri Pulao,1,0,,260.0
+Rice,Masala Khichdi,1,0,,220.0
+Rice,Masala Rice,1,0,,180.0
+Rice,Plain Khichdi,1,0,,170.0
+Rice,Steam Rice,1,0,,160.0
+Rice,Veg Biryani,1,0,,270.0
+Rice,Veg Dum Handi Biryani,1,0,,190.0
+Rice,Veg Hyderabadi Biryani,1,0,,290.0
+Rice,Veg Paneer Pulao,1,0,,330.0
+Rice,Veg Pulao,1,0,,240.0
+Tandoori Roti,Aloo Paratha,1,0,,145.0
+Tandoori Roti,Butter Kulcha,1,0,,80.0
+Tandoori Roti,Butter Naan,1,0,,65.0
+Tandoori Roti,Butter Paratha,1,0,,65.0
+Tandoori Roti,Butter Tandoori Roti,1,0,,40.0
+Tandoori Roti,Butter Tawa Chapati,1,0,,30.0
+Tandoori Roti,Cheese Naan,1,0,,170.0
+Tandoori Roti,Garlic Naan,1,0,,135.0
+Tandoori Roti,Kashmiri Naan (Sweet),1,0,,170.0
+Tandoori Roti,Plain Kulcha,1,0,,70.0
+Tandoori Roti,Plain Naan,1,0,,60.0
+Tandoori Roti,Plain Paratha,1,0,,65.0
+Tandoori Roti,Plain Tandoori Roti,1,0,,35.0
+Tandoori Roti,Plain Tawa Chapati,1,0,,25.0
+Tandoori Roti,Stuff Kulcha,1,0,,150.0
+Tandoori Roti,Stuff Naan,1,0,,170.0
+Tandoori Roti,Stuff Paratha,1,0,,170.0
+Chinese Rice & Noodles,Chinese Bhel,1,0,,340.0
+Chinese Rice & Noodles,Chinese Fried Rice,1,0,,330.0
+Chinese Rice & Noodles,Mushroom Fried Rice,1,0,,360.0
+Chinese Rice & Noodles,Schezwan Fried Rice,1,0,,330.0
+Chinese Rice & Noodles,Schezwan Noodles,1,0,,330.0
+Chinese Rice & Noodles,Singapori Fried Rice,1,0,,330.0
+Chinese Rice & Noodles,Singapori Noodles,1,0,,330.0
+Chinese Rice & Noodles,Veg Fried Rice,1,0,,300.0
+Chinese Rice & Noodles,Veg Hakka Noodles,1,0,,315.0
+Chinese Rice & Noodles,Veg Manchurian Fried Rice,1,0,,350.0
+Chinese Rice & Noodles,Veg Tripple Rice,1,0,,370.0
+Pizza,American Pizza [Regular],1,0,,420.0
+Pizza,Bbq Paneer Pizza [Regular],1,0,,450.0
+Pizza,Exotic Veg Paneer Pizza [Regular],1,0,,410.0
+Pizza,Italian Pizza [Regular],1,0,,360.0
+Pizza,Margherita Pizza [Regular],1,0,,400.0
+Pizza,Peppy Paneer Pizza [Regular],1,0,,470.0
+Pizza,Tandoori Paneer Tikka Pizza [Regular],1,0,,420.0
+Pizza,Veg Deluxe Pizza [Regular],1,0,,360.0
+Burger & Sandwich,Bread Butter Jam,1,0,,90.0
+Burger & Sandwich,Bread Butter Toast,1,0,,110.0
+Burger & Sandwich,Bread Toast,1,0,,75.0
+Burger & Sandwich,Cheese Burger,1,0,,220.0
+Burger & Sandwich,Cheese Garlic Toast,1,0,,150.0
+Burger & Sandwich,Corn Tikki Burger,1,0,,180.0
+Burger & Sandwich,Veg Burger,1,0,,150.0
+Burger & Sandwich,Veg Cheese Grill Sandwich,1,0,,260.0
+Burger & Sandwich,Veg Cheese Sandwich,1,0,,220.0
+Burger & Sandwich,Veg Club Sandwich,1,0,,270.0
+Burger & Sandwich,Veg Grill Sandwich,1,0,,245.0
+Burger & Sandwich,Veg Sandwich,1,0,,180.0
+Desserts,1 Plate Gulab Jamun,1,0,,55.0
+Desserts,American Nuts,1,0,,110.0
+Desserts,Anguri Rabadi,1,0,,180.0
+Desserts,Chocolate Ice Cream,1,0,,55.0
+Desserts,Kaju Draksh,1,0,,100.0
+Desserts,Kesar Pista,1,0,,110.0
+Desserts,Rajbhog,1,0,,160.0
+Desserts,Strawberry Ice Cream,1,0,,85.0
+Desserts,Vanila Ice Cream,1,0,,55.0
+Drinks (Beverages),Butter Milk,1,0,,45.0
+Drinks (Beverages),Coffee,1,0,,54.0
+Drinks (Beverages),Dry Fruit Lassi,1,0,,180.0
+Drinks (Beverages),Fresh Lime Water,1,0,,54.0
+Drinks (Beverages),Hot Milk,1,0,,54.0
+Drinks (Beverages),Salt Lassi,1,0,,110.0
+Drinks (Beverages),Sweet Lassi,1,0,,110.0
+Drinks (Beverages),Mawa Lassi,1,0,,135.0
+Drinks (Beverages),Special Lassi Mountain,1,0,[Chef's Special],180.0
+Drinks (Beverages),Tea,1,0,,36.0

@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Classic Jumbo Burger with French Fries and Any One Mojito,1,0,"Classic jumbo burger contain special herb potato patty, onion with fresh soft buns ... read more",140.0
+Combos,Mix Veg Fried Momos(6 pcs) + French Fries + Any One Mojito,1,0,"Classic veg fried momos served with special dips, french fries and any one ... read more",164.0
+Combos,Exotica Pizza [7 inches] with Cheese Garlic Bread and Any One Mojito,1,0,"Olive, jalapeno, capsicum, red paprika, onion with special sauce & lots of mozzarella ... read more",212.0
+Combos,"Classic Burgers [Jumbo, 3 Pieces]",1,0,Classic jumbo burgers which contains tasty herb potato patty imprisoned with onion and ... read more,116.0
+Combos,Barbeque Burger with Mexican Burger and French Fries,1,0,Barbeque Burger+Mexican Burger+French Fries+Any One Mojito,236.0
+Combos,Pink Sauce Pasta with Cheese Garlic Bread and Any One Mojito,1,0,Penne pasta tossed in cheesy & creamy fusion pink sauce along with sweet ... read more,212.0
+Burgers,Classic Jumbo Burger [1 Piece],1,0,Tasty herb potato patty imprisoned with onion & tasty sauce between fresh soft ... read more,48.0
+Burgers,Peri Peri Burger [1 Piece],1,0,Enjoy the flavor of peri peri with tasty herb potato patty with special ... read more,56.0
+Burgers,Spicy Barbeque King Burger [1 Piece],1,0,Top selling spicy burger topped with super spicy sauce with tasty herb potato ... read more,56.0
+Burgers,Indian Delight Burger [1 Piece],1,0,Top selling spicy burger topped with super spicy sauce with tasty herb potato ... read more,56.0
+Burgers,Punjabi Tadka Burger [1 Piece],1,0,Top selling spicy burger topped with super spicy sauce with tasty herb potato ... read more,56.0
+Burgers,Double Tikki Burger [1 Piece],1,0,Two tasty herb potato patty imprisoned with onion & tasty sauce between fresh ... read more,72.0
+Burgers,Mexican King Burger [1 Piece],1,0,"Perfect crispy tikki delight with delicious mexican tangy taste topped with jalapeno, corn ... read more",80.0
+Burgers,Barbecue King Burger [1 Piece],1,0,Tasty herb potato patty with authentic barbeque flavor imprisoned with onion & tasty ... read more,72.0
+Burgers,7 Saucy King Burger [1 Piece],1,0,"Delicious paneer tikka fried to perfection with makhani sauce, spices, shredded onion, packed ... read more",104.0
+Burgers,Royal Paneer Grilled Burger [1 Piece],1,0,"Delicious paneer tikka fried to perfection with makhani sauce, spices, shredded onion, packed ... read more",104.0
+Pizza,Margherita Pizza,1,0,Neapolitan pizza with special sauce & lots of mozzarella cheese.,80.0
+Pizza,Hindustani Margherita Pizza,1,0,Neapolitan pizza with special sauce & lots of Mozzarella cheese.,80.0
+Pizza,Capsicum and Onion Cheese Pizza,1,0,"Jalapenos, onion with special sauce and lots of mozzarella cheese.",112.0
+Pizza,Corn and Capsicum Cheese Pizza,1,0,Loved American corns with special sauce and lots of mozzarella cheese.,136.0
+Pizza,Jalapeno and Onion Cheese Pizza,1,0,"Jalapenos, onion with special sauce and lots of mozzarella cheese.",112.0
+Pizza,Hot To Hell Cheese Pizza,1,0,[Spicy],144.0
+Pizza,Veg Exotica Pizza,1,0,"Olives, jalapenos, capsicum, red paprika and onion with special sauce & lots of ... read more",152.0
+Pizza,Paneer Peri Peri Pizza,1,0,"Paneer, capsicum, red paprika with special sauce, spices & lots of mozzarella cheese.",160.0
+Pizza,Paneer Makhani Pizza,1,0,"Paneer tossed with  Makhani Gravy, capsicum, onion, corn & lots of mozzarella cheese. ... read more",184.0
+Pizza,Four Cheese Pizza,1,0,"Paneer tossed with makhani gravy, capsicum, onion, corn & lots of Mozzarella cheese.",184.0
+Pizza,Margherita Pizza [10 inches],1,0,,204.0
+Pizza,Jalapeno and Onion Cheese Pizza [10 inches],1,0,,244.0
+Pizza,Cheese Golden Corn Pizza [10 inches],1,0,,268.0
+Pizza,Hot To Hell Cheese Pizza [10 inches],1,0,,284.0
+Pizza,Veg Exotica Pizza [10 inches],1,0,,300.0
+Pizza,Ultimate Paneer Peri Peri Pizza [10 inches],1,0,,308.0
+Pizza,Paneer Makhani Burst Pizza [10 inches],1,0,,340.0
+Pizza,Mac and Cheese Burst Pizza [10 inches],1,0,,380.0
+Pizza,Momo Cheese Bite Pizza [10 inches],1,0,,380.0
+Momos,Classic Mixed Veg Fried Momos [6 Pieces],1,0,Classic Mix Veg Fried momos served with special dips.(Non Jain),88.0
+Momos,Cheese Corn Chilli Momos [6 Pieces],1,0,"Momos stuffed with sweetcorn, chilli and lots of cheese.",128.0
+Momos,Cheese Paneer Momos [6 Pieces],1,0,"Momos stuffed with paneer, lots of cheese and special masala.",128.0
+Momos,Kurkure Momos [6 Pieces],1,0,"Momos stuffed with mix vegetable and special masala, outer layer was so crunchy.",144.0
+Akhri Pasta,Arrabiata Pasta [250 grams],1,0,Penne pasta tossed in spicy fusion red sauce along with golden corn and ... read more,112.0
+Akhri Pasta,Alfredo Pasta [250 grams],1,0,"Penne Pasta tossed in authentic white sauce, cheese and fresh cream along with ... read more",112.0
+Akhri Pasta,Pink Sauce Pasta [250 grams],1,0,Penne Pasta tossed in cheesy & creamy fusion pink sauce along with juicy ... read more,112.0
+Akhri Pasta,Peri Peri Pasta [250 grams],1,0,Penne pasta tossed in cheesy & creamy fusion peri peri sauce along with ... read more,112.0
+Akhri Pasta,Maggie Masala Fusion Pasta [250 grams],1,0,Penne tossed in cheesy & creamy fusion maggi masala along with golden corn ... read more,112.0
+Specials,Zorko Cheesy Nachos [250 grams],1,0,"Crunchy nachos tossed with white cheese sauce, red gravy, special spices, golden corn ... read more",112.0
+Specials,Jain Zorko Cheesy Nachos [250 grams],1,0,"Crunchy jain nachos tossed with white cheese sauce, jain red gravy, sspecial spices, ... read more",120.0
+Specials,Cheese Loaded Kulhad Pizza [250 grams],1,0,"Italian kulhad loaded with mozzarella cheese stuffed with various vegetable, topping soft bread ... read more",112.0
+Specials,Cheese Volcano Kulhad Momos [3 Pieces],1,0,"Indian kulhad loaded with mozzarella cheese stuffed with momos in special gravy, sauces, ... read more",128.0
+Garlic Breads,Cheese Garlic Bread,1,0,Garlic bread loaded with special garlic paste and loads of mozzarella cheese.,80.0
+Garlic Breads,Cheese Chilli Garlic Bread,1,0,"Garlic bread loaded with special chilli paste, garlic paste and loads of mozzarella ... read more",88.0
+Garlic Breads,Supreme Treat Garlic Bread,1,0,"Special stuffing of golden sweet corn, jalapeno, onion loaded with special garlic paste ... read more",112.0
+World Of Fries,Salted French Fries,1,0,Potato fries with salt.,80.0
+World Of Fries,Peri Peri French Fries,1,0,,96.0
+World Of Fries,Cheese Masala French Fries,1,0,,96.0
+World Of Fries,Italian Loaded Fries,1,0,,188.0
+World Of Fries,Rocking Sizzling Fries,1,0,,204.0
+American Sweet Corn,Salted Sweet Corn [Serves 1],1,0,,39.2
+American Sweet Corn,Peri Peri Sweet Corn [Serves 1],1,0,,71.2
+American Sweet Corn,Barbeque Marinated Sweet Corn,1,0,,71.2
+American Sweet Corn,Paneer Makhani Sweet Corn [Serves 1],1,0,,79.2
+Maggie,Double Masala Maggi,1,0,,64.0
+Maggie,Hot Passion Spicy Maggi,1,0,[Chief's Special],72.0
+Maggie,Veg Masala Maggi,1,0,Veggies add on maggi.,80.0
+Maggie,Mexican Corn Maggi,1,0,,80.0
+Cold Coffee,Premium Cold Coffee,1,0,,48.0
+Cold Coffee,Strong Cold Coffee [250 ml],1,0,,56.0
+Cold Coffee,Mocha Cold Coffee,1,0,Mocha cold coffee.,72.0
+Milkshakes,Parle G Milkshake,1,0,,72.0
+Milkshakes,Strawberry Milkshake,1,0,,80.0
+Milkshakes,Rich Chocolate Milkshake,1,0,,80.0
+Milkshakes,Oreo Chocolate Milkshake,1,0,,88.0
+Milkshakes,KitKat Chocolate Milkshake,1,0,,104.0
+Milkshakes,Brownie Milkshake,1,0,,112.0
+Mojito,Mary Litchi Mojito,1,0,[Non Alcoholic] Litchi flavour with lemon slice and fresh mint leaves with sparkling ... read more,52.0
+Mojito,Pineapple Cooler Mojito,1,0,[Non Alcoholic] Pineapple flavour with lemon slice and fresh mint leaves with sparkling water.,52.0
+Mojito,Orange Cindrella Mojito,1,0,[Non Alcoholic] Orange flavour with lemon slice and fresh mint leaves with sparkling water.,52.0
+Mojito,Mint Mojito,1,0,[Non Alcoholic] Mint flavour with lemon slice and fresh mint leaves with sparkling water.,52.0
+Mojito,Surprise Mojito,1,0,[Non Alcoholic] Surprise flavour with lemon slice and fresh mint leaves with sparkling water.,52.0
+Mojito,Tangy Mango Mojito,1,0,[Non Alcoholic] Tangy mango flavour with lemon slice and fresh mint leaves with sparkling ... read more,52.0
+Mojito,Thunder Mojito,1,0,[Non Alcoholic] Jaljeera flavour with lemon slice and fresh mint leaves with sparkling water.,52.0
+Mojito,Strawberry Mojito,1,0,[Non Alcoholic] Strawberry flavour with lemon slice and fresh mint leaves with sparkling water.,52.0
+Mojito,Blue Heaven Mojito,1,0,[Non Alcoholic] Blue carucao flavour with lemon slice and fresh mint leaves with sparkling ... read more,52.0

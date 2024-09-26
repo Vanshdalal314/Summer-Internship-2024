@@ -1,0 +1,107 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sweets,Gulab Jamun [1 Piece],1,0,Soft and spongy and delicious Indian dessert served with a generous helping of ... read more,24.2
+Sweets,Kala Jamun [1 Piece],1,0,,24.2
+Sweets,Malai Cham Cham [30 grams],1,0,,30.8
+Sweets,Motichoor Laddu,1,0,Delicious laddu made up of motichoor which give you a richness sweet taste.,143.0
+Sweets,Besan Laddu,1,0,,143.0
+Sweets,Boondi,1,0,,121.0
+Sweets,Kaju Katli,1,0,"Kaju katli is a traditional Indian cashew fudge candy thats terrifically smooth, thin, ... read more",286.0
+Sweets,Balushahi,1,0,,176.0
+Sweets,Rasgulla [1 Piece],1,0,A melt in the mouth dessert made from cottage cheese balls soaked in ... read more,24.2
+Sweets,Kaju Paan,1,0,,264.0
+Sweets,Gulkand Katori,1,0,,264.0
+Sweets,Kaju Kasata,1,0,,264.0
+Sweets,Malai Peda,1,0,,154.0
+Sweets,Bikaneri Barfi,1,0,,154.0
+Sweets,Mawa Barfi,1,0,,176.0
+Sweets,Moti Pak,1,0,,176.0
+Sweets,Mohan Thal,1,0,,176.0
+Sweets,Milk Cake,1,0,Indian milk cake or alwar ka mawa is a sweet milk fudge made ... read more,176.0
+Sweets,Mawa Kachodi,1,0,,49.5
+Sweets,Mother India,1,0,,35.2
+Sweets,Dry Fruit Laddu,1,0,,800.0
+Laddu Gopal Special,Bikaneri Sev Bhujia,1,0,,85.0
+Special Dishes,Paneer Chole Bhature,1,0,,143.0
+Special Dishes,Bikaneri Jumbo Dahi Vada,1,0,,660.0
+Navratri Special,Navratri Special Veg Cheese Grilled Sandwich,1,0,,154.0
+Navratri Special,Navratri Special Veg Cheese Pizza,1,0,,176.0
+Navratri Special,Navratri Special Pav Bhaji,1,0,,143.0
+Navratri Special,Navratri Special Veg Cheese Burger,1,0,,110.0
+Fafda Jalebi Special,Jalebi [1 kg],1,0,,572.0
+Rakhi Special,Malai Cham Cham,1,0,,30.8
+Rakhi Special,Rajbhog,1,0,,37.4
+Rakhi Special,Kesar Peda,1,0,"A traditional North Indian sweet made from khoya, sugar, saffron and cardamom.",180.0
+Rakhi Special,Salasar Peda,1,0,,180.0
+Rakhi Special,Kalakand,1,0,,200.0
+Combos,Veg Burger Combo,1,0,Veg Burger+Veg Cheese Pizza+Cold Beverage [250 ml] [Subject to Availability],262.9
+Combos,Veg Cheese Grilled Sandwich Combo,1,0,Veg Cheese Grilled Sandwich+Garlic Bread+Cold Beverage [250 ml] [Subject to Availability],251.9
+South Indian,Cheese Masala Dosa,1,0,,154.0
+South Indian,Plain Paper Dosa,1,0,,55.0
+South Indian,Butter Paper Dosa,1,0,,77.0
+South Indian,Paneer Paper Dosa,1,0,,121.0
+South Indian,Cheese Paper Dosa,1,0,,121.0
+South Indian,Tomato Cheese Paper Dosa,1,0,,121.0
+South Indian,Mysore Dosa,1,0,,143.0
+South Indian,Cheese Mysore Dosa,1,0,,154.0
+South Indian,Paneer Mysore Dosa,1,0,,154.0
+South Indian,Cheese Paneer Mysore Dosa,1,0,,176.0
+South Indian,Masala Dosa,1,0,,143.0
+South Indian,Paneer Masala Dosa,1,0,,154.0
+Pizza,Veg Cheese Paneer Pizza [Regular],1,0,,198.0
+Pizza,Veg Cheese Pizza [Regular],1,0,"An irresistible pizza with a balance of roasted vegetables, and topped with stringy ... read more",176.0
+Pizza,Veg Pizza [Regular],1,0,,154.0
+Burgers & Sandwiches,Veg Burger,1,0,,88.0
+Burgers & Sandwiches,Veg Cheese Burger,1,0,,110.0
+Burgers & Sandwiches,Laddu Gopal Special Grilled Sandwich,1,0,,242.0
+Burgers & Sandwiches,Paneer Cheese Grilled Sandwich,1,0,,187.0
+Burgers & Sandwiches,Bombay Type Cheese Grilled Sandwich,1,0,,187.0
+Burgers & Sandwiches,Bombay Type Grilled Sandwich,1,0,,165.0
+Burgers & Sandwiches,Veg Cheese Paneer Grilled Sandwich,1,0,,198.0
+Burgers & Sandwiches,Veg Cheese Grilled Sandwich,1,0,,154.0
+Burgers & Sandwiches,Veg Grilled Sandwich,1,0,,143.0
+Burgers & Sandwiches,Bread Butter Sandwich,1,0,,66.0
+Burgers & Sandwiches,Open Veg Cheese Toast Sandwich,1,0,,99.0
+Burgers & Sandwiches,Pizza Cheese Toast Sandwich,1,0,,99.0
+Burgers & Sandwiches,Pizza Toast Sandwich,1,0,,82.5
+Burgers & Sandwiches,Aloo Masala Cheese Toast Sandwich,1,0,,93.59
+Burgers & Sandwiches,Aloo Masala Toast Sandwich,1,0,,77.0
+Burgers & Sandwiches,Veg Cheese Toast Sandwich,1,0,,82.5
+Burgers & Sandwiches,Veg Toast Sandwich,1,0,,71.5
+Burgers & Sandwiches,Veg Cheese Sandwich,1,0,,60.5
+Burgers & Sandwiches,Bread Butter Cheese Jam Sandwich,1,0,,66.0
+Burgers & Sandwiches,Bread Butter Jam Sandwich,1,0,,55.0
+Burgers & Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,66.0
+Burgers & Sandwiches,Bread Butter Aloo Cheese Toast Sandwich,1,0,,77.0
+Burgers & Sandwiches,Bread Butter Aloo Cheese Sandwich,1,0,,66.0
+Burgers & Sandwiches,Bread Butter Aloo Sandwich,1,0,,55.0
+Burgers & Sandwiches,Veg Mini Grilled Sandwich,1,0,,99.0
+Burgers & Sandwiches,Veg Mini Cheese Grilled Sandwich,1,0,,110.0
+Garlic Bread,Veg Cheese Garlic Bread,1,0,,110.0
+Garlic Bread,Cheese Garlic Bread,1,0,,88.0
+Garlic Bread,Cheese Chilli Garlic Bread,1,0,,140.0
+Snacks and Chaats,Pav Bhaji,1,0,,143.0
+Snacks and Chaats,Jain Pav Bhaji,1,0,,143.0
+Snacks and Chaats,Cheese Pav Bhaji,1,0,,165.0
+Snacks and Chaats,Aloo Tikki Chaat,1,0,,88.0
+Snacks and Chaats,Delhi Papdi Chaat,1,0,,88.0
+Snacks and Chaats,Raj Kachodi Chaat,1,0,,66.0
+Snacks and Chaats,Dahi Puri Chaat,1,0,,66.0
+Snacks and Chaats,Sev Puri Chaat,1,0,,66.0
+Snacks and Chaats,Dahi Bhalla Chaat,1,0,,77.0
+Snacks and Chaats,Bhalla Papdi Chaat,1,0,,77.0
+Snacks and Chaats,Ragda Kachodi Chaat,1,0,,66.0
+Snacks and Chaats,Ragda Samosa Chaat,1,0,,66.0
+Snacks and Chaats,French Fries,1,0,,110.0
+Snacks and Chaats,Dal Kachodi [1 Piece],1,0,,24.29
+Snacks and Chaats,Punjabi Chole Bhature,1,0,,143.0
+Snacks and Chaats,Paneer Kofta [1 Piece],1,0,,29.7
+Snacks and Chaats,Pyaz Kachodi [1 Piece],1,0,,29.7
+Snacks and Chaats,Mirchi Vada [1 Piece],1,0,,24.2
+Snacks and Chaats,Samosa [1 Piece],1,0,A spicy snack made by deep frying dough shaped in the form of ... read more,24.2
+Snacks and Chaats,Plain Puff,1,0,,25.0
+Snacks and Chaats,Masala Puff,1,0,,35.0
+Snacks and Chaats,Cheese Puff,1,0,,45.0
+Snacks and Chaats,Masala Cheese Puff,1,0,,50.0
+Snacks and Chaats,Paneer Puff,1,0,,45.0
+Snacks and Chaats,Masala Cheese Paneer Puff,1,0,,60.0
+Snacks and Chaats,Mayo Cheese Puff,1,0,,50.0

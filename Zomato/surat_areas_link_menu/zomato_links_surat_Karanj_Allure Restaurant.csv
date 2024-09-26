@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Kids Special,Cheese Veg Maggi,1,0,,125.0
+Kids Special,French Fries,1,0,,125.0
+Kids Special,Veg Alfredo Pasta,1,0,,250.0
+Kids Special,Alfredo Chicken Pasta,0,0,,250.0
+Soups and Salads,Cream of Tomato Veg Soup,1,0,,180.0
+Soups and Salads,Minestrone Broth Veg Soup,1,0,,195.0
+Soups and Salads,Cream of Mushroom and Roasted Garlic Veg Soup,1,0,,235.0
+Soups and Salads,Veg Lemon Coriander Soup,1,0,,170.0
+Soups and Salads,Veg Hot N Sour Soup,1,0,,170.0
+Soups and Salads,Veg Manchow Soup,1,0,,170.0
+Soups and Salads,Veg Sweet Corn Soup,1,0,,170.0
+Soups and Salads,Chicken Lemon Coriander Soup,0,0,,235.0
+Soups and Salads,Chicken Hot N Sour Soup,0,0,,235.0
+Soups and Salads,Chicken Manchow Soup,0,0,,235.0
+Soups and Salads,Chicken Sweet Corn Soup,0,0,,235.0
+Soups and Salads,Mutton Paya Shorba,0,0,,245.0
+Soups and Salads,Mutton Pudina Shorba,0,0,,245.0
+Soups and Salads,Veg Russian Salad,1,0,,170.0
+Soups and Salads,Classic Chicken Salad,0,0,,295.0
+Accompaniment,Veg Green Salad,1,0,,80.0

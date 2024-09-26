@@ -1,0 +1,62 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Thin Crust Pizza [7 inches],1,0,A thin crust base with tangy pizza sauce topped with Mozzarella.,150.0
+Pizza,Veggie Thin Crust Pizza [7 inches],1,0,"A thin crust base with tangy sauce, loaded vegetables & Mozzarella on it.",170.0
+Pizza,Tandoori Paneer Thin Crust Pizza [7 inches],1,0,"A thin crust base with tangy & tandoori sauce, loaded vegetables, marinated paneer ... read more",190.0
+Pizza,Cheese Burst Thin Crust Pizza [7 inches],1,0,A thin crust base with tangy sauce loaded with extra cheese also more ... read more,190.0
+Pizza,Veg Italiano Pizza,1,0,"A Thin Crust Base With Tangy Sauce Has Some Vegetables,Olives,Jalapenos & Mozzarella On ... read more",200.0
+Burgers,Burger,1,0,"A fresh bun with aloo patty, layer of sauces, veggies & cheese.",110.0
+Burgers,Premium Burger,1,0,"A burger with our premium patty, onion, tomato and melted cheese. It is ... read more",170.0
+Burgers,Supreme Paneer Burger,1,0,"Yummy veg paneer burger with a soft patty, veggies, cheese and special sauces.",190.0
+Wraps,Aloo Wrap,1,0,"A wrap grilled with aloo patty, veggies, cheese & mixture of our sauces.",140.0
+Wraps,Magic Paneer Wrap,1,0,"A wrap grilled with marinated spicy paneer in it, veggies, cheese & our ... read more",170.0
+Wraps,Spicy Paneer Wrap,1,0,"A wrap grilled with paneer & our special masala, sauces, veggies and cheese.",190.0
+Good Food Good Mood,Plain Fries,1,0,Fries tossed with simply salt in it.,120.0
+Good Food Good Mood,Peri Peri Fries,1,0,Fries tossed in salt & our special peri peri.,130.0
+Good Food Good Mood,Simple Cheese Fries,1,0,Salted fries just with layer of cheese sauce on it.,140.0
+Good Food Good Mood,Jalapeno Fries,1,0,Salted fries with layer of cheese sauce & topped with fresh jalapenos.,140.0
+Good Food Good Mood,Chilli Cheese Fries,1,0,Salted fries with cheese sauce & our spicy sauce.,160.0
+Good Food Good Mood,Schezwan Cheese Fries,1,0,Salted fries with topping of cheese sauce & schezwan sauce on it.,160.0
+Good Food Good Mood,Cheese Chipotle Fries,1,0,Salted fries with the topping of cheese chipotle sauce on it.,160.0
+Good Food Good Mood,Cheese Mayonnaise Fries,1,0,Salted fries topped with cheese & mayonnaise on it.,160.0
+Good Food Good Mood,Mayo Chilli Fries,1,0,Salted fries with the topping of spicy sauce & mayonnaise.,160.0
+Good Food Good Mood,Cheese Burst Fries,1,0,Salted fries with the burst of cheese baked in oven.,170.0
+Good Food Good Mood,Magic Fries,1,0,Salted fries tossed with secret masala mixed with special sauces & topped with ... read more,180.0
+Good Food Good Mood,Hot and Spicy Fries,1,0,,180.0
+Good Food Good Mood,Tangy Tomato Fries,1,0,,180.0
+Good Food Good Mood,Cream and Onion Fries,1,0,,180.0
+Good Food Good Mood,Pizza Fries,1,0,,180.0
+Good Food Good Mood,Cheesy Nachos,1,0,,160.0
+Good Food Good Mood,Peri Peri Cheese Nachos,1,0,,170.0
+Good Food Good Mood,Chipotle Nachos,1,0,,170.0
+Good Food Good Mood,Jalapeno Nachos,1,0,,170.0
+Good Food Good Mood,Pullapart,1,0,,140.0
+Good Food Good Mood,Peri Peri Pullapart,1,0,,150.0
+Good Food Good Mood,Mayonnaise Pullapart,1,0,,150.0
+Good Food Good Mood,Cheesy Pullapart,1,0,,150.0
+Good Food Good Mood,Chipotle Pullapart,1,0,,150.0
+Good Food Good Mood,Tandoori Pullapart,1,0,,150.0
+Drinks (Beverages),Blue Lagoon Mocktail,1,0,[Non Alcoholic] Sweet & sour taste.,100.0
+Drinks (Beverages),Strawberry Mocktail,1,0,[Non Alcoholic] Sweet in taste.,100.0
+Drinks (Beverages),Dubai Sheesha Mocktail,1,0,[Non Alcoholic] Our top selling mocktail it has taste of green apple.,100.0
+Drinks (Beverages),Blueberry Mocktail,1,0,[Non Alcoholic] Sweet in taste.,110.0
+Drinks (Beverages),Pineapple Mocktail,1,0,[Non Alcoholic] It is sweet & sour in taste has pulp of kiwi ... read more,120.0
+Drinks (Beverages),Kiwi Mocktail,1,0,[Non Alcoholic] It is sweet & sour in taste has pulp of kiwi ... read more,120.0
+Drinks (Beverages),Mint Mojito Mocktail,1,0,[Non Alcoholic] Refreshing taste.,110.0
+Drinks (Beverages),Pineapple Mojito,1,0,[Non Alcoholic],110.0
+Drinks (Beverages),Premium Hot Chocolate,1,0,,120.0
+Drinks (Beverages),Cold Coffee,1,0,,100.0
+Drinks (Beverages),Mocha,1,0,,120.0
+Drinks (Beverages),Oreo Milkshake,1,0,,130.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,130.0
+Drinks (Beverages),Biscoff shake,1,0,,190.0
+Drinks (Beverages),Nutella Milkshake,1,0,,170.0
+Drinks (Beverages),Oreo Nutella Shake,1,0,,190.0
+Drinks (Beverages),KitKat Milkshake,1,0,,190.0
+Drinks (Beverages),Browntell Milkshake,1,0,,190.0
+Drinks (Beverages),Irish,1,0,,200.0
+Drinks (Beverages),Cold coffee shake,1,0,,220.0
+Drinks (Beverages),Chocolate Rassberry,1,0,,200.0
+Drinks (Beverages),Vanilla,1,0,,220.0
+Drinks (Beverages),Hazelnut,1,0,,200.0
+Drinks (Beverages),Caramel cream,1,0,,200.0
+Drinks (Beverages),Espresso,1,0,,200.0

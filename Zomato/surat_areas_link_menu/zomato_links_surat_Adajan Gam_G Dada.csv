@@ -1,0 +1,110 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali and Roti Sabji Combos,Mini Punjabi Thali,1,0,1 Sabji+4 Phulka Roti+Dal+Rice+Salad [Subject to Availability],113.4
+Thali and Roti Sabji Combos,Mini Gujarati Thali,1,0,1 Sabji+4 Phulka Roti+Dal+Rice+Salad [Subject to Availability],113.4
+Thali and Roti Sabji Combos,Punjabi Thali,1,0,Paneer Sabji+Chole/Punjabi Mix Veg+5 Phulka Roti+Dal Fry/Kadhi+Jeera Rice/Khichdi+ Salad+Papad [Salad-Subject to Availability].,204.0
+Thali and Roti Sabji Combos,Gujarati Thali,1,0,2 Gujarati Shaak+5 Fulka Roti+Gujarati Dal or Kadhi+Rice or Khichdi+Salad+Papad [Salad-Subject to Availability].,204.0
+Thali and Roti Sabji Combos,Aloo Bhaji with 5 Thepla,1,0,,85.2
+Thali and Roti Sabji Combos,Aloo Bhaji with 5 Roti,1,0,"Crispy, golden poori pairs perfectly with fluffy, flavorful aloo Bhaji for a delicious ... read more",87.0
+Thali and Roti Sabji Combos,Aloo Bhaji with 8 Poori,1,0,,85.2
+Thali and Roti Sabji Combos,Gujarati Sabji with 5 Chapati Roti,1,0,,126.0
+Thali and Roti Sabji Combos,Paneer Sabji with 5 Roti,1,0,,129.0
+Thali and Roti Sabji Combos,Chole with 8 Poori,1,0,,129.0
+Thali and Roti Sabji Combos,Punjabi Dal Fry with Jeera Rice,1,0,,129.0
+Thali and Roti Sabji Combos,Gujarati Khichdi with Kadhi,1,0,,127.8
+Thali and Roti Sabji Combos,Gujarati Dal with Rice,1,0,,129.0
+Thali and Roti Sabji Combos,Surti Undhiyu with 8 Poori,1,0,8 Poori+Rasoi.,153.0
+All Day Breakfast,Indori Poha,1,0,,42.6
+All Day Breakfast,Dudhi Na Muthiya,1,0,,51.0
+All Day Breakfast,Handvo with Dahi,1,0,Satisfy your savory breakfast cravings with this scrumptious surti dish paired with cool ... read more,51.0
+All Day Breakfast,Sev Khamni,1,0,,51.0
+All Day Breakfast,Mariwala Idada,1,0,,51.0
+All Day Breakfast,Patra Roll,1,0,,51.0
+All Day Breakfast,Vagharela Patra,1,0,,51.0
+All Day Breakfast,Vagharela Khaman,1,0,A savory and flavorful breakfast dish that's perfect any time of day.,51.0
+All Day Breakfast,Sada Khaman,1,0,,54.0
+All Day Breakfast,Kothimbir Wadi,1,0,,54.0
+All Day Breakfast,5 Methi Thepla with Dahi,1,0,,57.0
+All Day Breakfast,Aloo Paratha,1,0,A deliciously soft aloo paratha prepared in surti style with generous stuffing.,102.0
+All Day Breakfast,Cheese Paneer Paratha,1,0,,144.0
+Farali Items,Farali Pattice and Sabudana Vada Mix [250 Grams],1,0,"Crisp gold stuffed peanuts, potato and Sabudana flavored with handmade our special spices, ... read more",102.0
+Farali Items,Sing Batata Bhaji and Farali Poori [7 Poori],1,0,A tasty and satisfying Farali meal with potato based bhaji and crispy poori ... read more,120.0
+Farali Items,Sabudana Khichdi with Curd,1,0,,84.0
+Farali Items,Farali Aloo Bhaji and Poori,1,0,,114.0
+Farali Items,Sabudana Khichdi Combo,1,0,,114.0
+Farali Items,Farali Thali,1,0,Sing Batata Bhaji+Sabudana Khichdi+5 Farali Puri+2 Farali Pattice+2 Sabudana Vada+Sing Laddu [1 Piece],240.0
+Farali Items,Farali Aloo Bhaji Meal Combo,1,0,Farali Aloo Bhaji [200 Grams]+7 Farali Puri+1 Farali Petis+1 Sabudana Vada+1 Sing Laddu+Chutney,216.0
+Farali Items,Sabudana Khichdi Meal Combo,1,0,Sabudana Khichdi [300 Grams]+1 Farali Petis+1 Sabudana Vada+1 Sing Laddu+ Dahi.,216.0
+Farali Items,Farali Aloo Bhaji with 7 Poori,1,0,Morayo [300 grams]+Kadhai [150 grams]+1 Petis+1 Sabudana Vada+1 Sing Laddu.,77.4
+Farali Items,Farali Patties,1,0,,85.2
+Farali Items,Sabudana Vada,1,0,"Crispy snack made from a starch base, perfect for fasting days.",85.2
+Farali Items,Sabudana Khichdi,1,0,,85.2
+Farali Items,Sing Bataka Bhaji,1,0,,85.2
+Farali Items,Rajgara Moraya Mixed Farali Puri,1,0,,60.0
+Farali Items,Sing Ladoo,1,0,,85.2
+Farali Items,Farali White Chevdo,1,0,,102.0
+Farali Items,Farali Red Chevdo,1,0,,102.0
+Farali Items,Farali Poori [250 grams],1,0,,59.4
+Farali Items,Desi Kela Wafer [200 grams],1,0,,90.0
+"Ghughra, Kachori and Patties",Veg Cutlet,1,0,,48.0
+"Ghughra, Kachori and Patties",Jain Lili Tuver Na Ghughra,1,0,,54.0
+"Ghughra, Kachori and Patties",Lili Tuver Na Lasaniya Ghughra,1,0,,54.0
+"Ghughra, Kachori and Patties",Lila Nariyal Patties,1,0,Surti patties.,69.0
+"Ghughra, Kachori and Patties",Jamnagri Kachori,1,0,,75.0
+"Ghughra, Kachori and Patties",Lila Nariyal Pattice [150 g],1,0,,69.0
+Bhajiya,Kanda Bhajiya,1,0,,69.0
+Bhajiya,Bataka Vada,1,0,"Crispy potato fritter, a crunchy delicacy from surti cuisine.",69.0
+Bhajiya,Methi Gota,1,0,,69.0
+Bhajiya,Kela Methi Bhajiya,1,0,,69.0
+Bhajiya,Bataka Puri,1,0,A crisp and flavorful surti farsan treat with a delicious filling.,69.0
+Bhajiya,Ratalu Puri,1,0,,85.2
+Samosa,Punjabi Samosa [1 Piece],1,0,"A delectable pastry stuffed with savory, vegetarian filling.",27.0
+Samosa,Amul Cheese Fried Samosa,1,0,,45.0
+Samosa,Samosa [Spicy],1,0,,48.0
+Samosa,Chinese Samosa,1,0,,68.4
+Samosa,Chana Dal Kanda Samosa,1,0,,67.8
+Samosa,Chana Dal Pudina Samosa,1,0,,85.2
+Samosa,Green Peas Samosa,1,0,,68.4
+Samosa,Jain Green Peas Samosa,1,0,,69.0
+Samosa,Amul Cheese Samosa,1,0,"A crispy pastry filled with gooey, melted cheese.",60.0
+Samosa,Amul Cheese Paneer Samosa,1,0,,60.0
+Main Course,Aloo Bhaji,1,0,,60.0
+Main Course,Punjabi Chole Masala [250 grams],1,0,"Boiled tuvar dal cooked with onion, tomatoes tadka added spices.",72.0
+Main Course,Paneer Kadai Masala [250 grams],1,0,"Boiled tuvar dal cooked with onion, tomatoes tadka added spices.",84.0
+Main Course,Paneer Butter Masala,1,0,,78.0
+Main Course,Amritsari Chole,1,0,,102.0
+Main Course,Paneer Lababdar,1,0,,111.0
+Main Course,Gujarati Dal,1,0,,72.0
+Main Course,Dal Fry,1,0,"Boiled tuvar dal cooked with onion, tomatoes tadka added spices.",72.0
+Main Course,Kadhi,1,0,,42.0
+Undhiyu,Surti Undhiyu,1,0,,108.0
+Roti and Thepla,Plain Roti,1,0,,13.2
+Roti and Thepla,Ghee Roti,1,0,,15.0
+Roti and Thepla,Puri,1,0,,42.0
+Roti and Thepla,Methi Thepla,1,0,,60.0
+Rice,Plain Rice,1,0,,60.0
+Rice,Jeera Rice,1,0,,64.8
+Rice,Veg Peas Pulao [250 grams],1,0,,84.0
+Namkeen,Fulvadi,1,0,,72.0
+Namkeen,Surti Khaja [Spicy],1,0,,84.0
+Namkeen,Methi Na Muthiya,1,0,,102.0
+Namkeen,Wheat Butter Chakri,1,0,,102.0
+Namkeen,Suvali Puri [Sweet],1,0,,120.0
+Namkeen,Goba Puri,1,0,,120.0
+Namkeen,Masala Puri,1,0,,120.0
+Namkeen,Lasan Methi Puri,1,0,,120.0
+Namkeen,Methi Muthia [Dry],1,0,,120.0
+Namkeen,Rajasthani Mix Bhel,1,0,,102.0
+Namkeen,Surti Mix Bhusu,1,0,Authentic surti mix namkeen.,102.0
+Namkeen,Plain Sev,1,0,,102.0
+Namkeen,Nylon Sev,1,0,,102.0
+Namkeen,Nylon Papdi,1,0,,102.0
+Namkeen,Bhavnagri Gathiya,1,0,Jina moda gathiya.,102.0
+Namkeen,Jada Gathiya,1,0,Full gathiya.,102.0
+Namkeen,Tikha Gathiya,1,0,,102.0
+Chaas,Chaas,1,0,Buttermilk.,18.0
+Summer Specials,Aam Ras & Patra [150 grams],1,0,,126.0
+Summer Specials,Aam Ras & Idada [150 grams],1,0,,126.0
+Summer Specials,Aam Ras & Puri [8 Pieces],1,0,,126.0
+Summer Specials,Aam Ras & Khaja [2 Pieces],1,0,,126.0
+Summer Specials,Kesar Aam Ras,1,0,,120.0
+Summer Specials,Kesar Mango Ras,1,0,,102.0

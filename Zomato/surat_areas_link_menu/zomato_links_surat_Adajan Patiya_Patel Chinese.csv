@@ -1,0 +1,121 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Manchow Soup,1,0,[Veg preparation],90.0
+Soups,Hot and Sour Soup,1,0,,108.0
+Soups,Garlic Soup,1,0,,108.0
+Soups,Lung Fung Soup,1,0,[Veg preparation],108.0
+Soups,Lemon Coriander Soup,1,0,,117.0
+Soups,Tom Yum Soup,1,0,[Veg preparation],117.0
+Starters,Veg 65,1,0,,135.0
+Starters,Veg Lollipop,1,0,,144.0
+Starters,Veg Crispy,1,0,,153.0
+Rice,Veg Pulao,1,0,,117.0
+Rice,Cheese Pulao,1,0,,135.0
+Rice,Paneer Pulao,1,0,,135.0
+Rice,Cheese Paneer Pulao,1,0,,153.0
+South Indian,Baby Dosa,1,0,,54.0
+South Indian,Cheese Baby Dosa,1,0,,72.0
+South Indian,Sada Dosa,1,0,,54.0
+South Indian,Cheese Sada Dosa,1,0,,72.0
+South Indian,Garlic Sada Dosa,1,0,,63.0
+South Indian,Cheese Garlic Sada Dosa,1,0,,81.0
+South Indian,Baby Nylon Dosa,1,0,,63.0
+South Indian,Cheese Garlic Nylon Dosa,1,0,,81.0
+South Indian,Onion Cheese Sada Dosa,1,0,,81.0
+South Indian,Onion Nylon Dosa,1,0,,72.0
+South Indian,Onion Nylon Garlic Dosa,1,0,,81.0
+South Indian,Jeera Nylon Dosa,1,0,,81.0
+South Indian,Schezwan Cheese Paper Dosa,1,0,,81.0
+South Indian,Schezwan Masala Dosa,1,0,,99.0
+South Indian,Masala Dosa,1,0,,81.0
+South Indian,Cheese Masala Dosa,1,0,,99.0
+South Indian,Paneer Masala Dosa,1,0,,99.0
+South Indian,Palak Dosa,1,0,,81.0
+South Indian,Cheese Palak Dosa,1,0,,99.0
+South Indian,Cheese Palak Paneer Dosa,1,0,,144.0
+South Indian,Aloo Cheese Palak Paneer Dosa,1,0,,153.0
+South Indian,Chinese Dosa,1,0,,117.0
+South Indian,Cheese Chinese Dosa,1,0,,135.0
+South Indian,Spring Roll Dosa,1,0,,117.0
+South Indian,Jini Roll Dosa,1,0,,144.0
+South Indian,American Chopsuey Dosa,1,0,,126.0
+South Indian,Paneer Toofani Dosa,1,0,,144.0
+South Indian,Special Dosa,1,0,,171.0
+South Indian,Green Cheese Chilli Dosa,1,0,,144.0
+South Indian,Paneer Dosa,1,0,,144.0
+South Indian,Schezwan Roll Dosa,1,0,,171.0
+South Indian,Mysore Masala Dosa,1,0,,90.0
+South Indian,Cheese Mysore Dosa,1,0,,117.0
+South Indian,Paneer Mysore Dosa,1,0,,117.0
+South Indian,Cheese Paneer Surma Mysore Dosa,1,0,,144.0
+South Indian,Paneer Surma Mysore Dosa,1,0,,135.0
+South Indian,Cheese Surma Mysore Dosa,1,0,,135.0
+South Indian,Paneer Tukda Mysore Dosa,1,0,,144.0
+South Indian,Gotala Dosa,1,0,,144.0
+Chinese,Manchurian Dry,1,0,,126.0
+Chinese,Manchurian Gravy,1,0,,126.0
+Chinese,Schezwan Manchurian Dry,1,0,,135.0
+Chinese,Schezwan Manchurian Gravy,1,0,,135.0
+Chinese,Garlic Manchurian,1,0,,135.0
+Chinese,Dragon Manchurian,1,0,,135.0
+Chinese,Manchurian 8 to 9,1,0,,135.0
+Chinese,Red Cook Manchurian,1,0,,135.0
+Chinese,Hunan Manchurian,1,0,,135.0
+Chinese,Paneer Chilli Dry,1,0,,171.0
+Chinese,Paneer Chilli Gravy,1,0,,171.0
+Chinese,Paneer Manchurian,1,0,,153.0
+Chinese,Schezwan Paneer,1,0,,180.0
+Chinese,Paneer Red Cook,1,0,,180.0
+Chinese,Hunan Paneer,1,0,,180.0
+Chinese,Paneer Dragon,1,0,,180.0
+Chinese,Paneer Mangolian,1,0,,180.0
+Chinese,Paneer Oyster Chilli,1,0,,198.0
+Chinese,Paneer 8 to 9,1,0,,198.0
+Chinese,Paneer Crispy,1,0,,198.0
+Chinese,Paneer Smoke Coriander,1,0,,198.0
+Chinese,Paneer Basil,1,0,,198.0
+Chinese,Paneer Kung Pao,1,0,,198.0
+Chinese,Paneer Kote Cheese,1,0,,198.0
+Fried Rice and Noodles,Korean Fried Rice,1,0,,162.0
+Fried Rice and Noodles,Paneer 65 Fried Rice,1,0,,171.0
+Fried Rice and Noodles,Fried Rice,1,0,,117.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,135.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,135.0
+Fried Rice and Noodles,Singapore Fried Rice,1,0,,135.0
+Fried Rice and Noodles,Chilli Garlic Fried Rice,1,0,,144.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,162.0
+Fried Rice and Noodles,Tom Yum Chilli Fried Rice,1,0,,144.0
+Fried Rice and Noodles,Hunan Fried Rice,1,0,,144.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,,153.0
+Fried Rice and Noodles,Paneer Triple Fried Rice,1,0,,180.0
+Fried Rice and Noodles,Schezwan Triple Fried Rice,1,0,,162.0
+Fried Rice and Noodles,Combination Fried Rice,1,0,,153.0
+Fried Rice and Noodles,Burnt Garlic Fried Rice,1,0,,144.0
+Fried Rice and Noodles,Pizza Fried Rice,1,0,,216.0
+Fried Rice and Noodles,Special Fried Rice,1,0,[Veg preparation],216.0
+Fried Rice and Noodles,Hakka Noodles,1,0,,126.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,,135.0
+Fried Rice and Noodles,Singapore Noodles,1,0,,135.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,,135.0
+Fried Rice and Noodles,Hunan Noodles,1,0,,135.0
+Fried Rice and Noodles,Chilli Garlic Noodles,1,0,,135.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,153.0
+Fried Rice and Noodles,Singapore Curry Noodles,1,0,,135.0
+Fried Rice and Noodles,Dragon Noodles,1,0,,135.0
+Fried Rice and Noodles,American Chopsuey,1,0,,117.0
+Fried Rice and Noodles,Chinese Chopsuey,1,0,,126.0
+Fried Rice and Noodles,Schezwan Chopsuey,1,0,,144.0
+Fried Rice and Noodles,Paneer Chopsuey,1,0,,162.0
+Fried Rice and Noodles,Hunan Chopsuey,1,0,,144.0
+Snacks,Chinese Bhel,1,0,,126.0
+Snacks,Bombay Bhel,1,0,,144.0
+Snacks,Singapori Bhel,1,0,,144.0
+Snacks,Bombay Singapori Bhel,1,0,,144.0
+Snacks,Paneer Bhel,1,0,,162.0
+Snacks,Taiwan Bhel,1,0,,144.0
+Snacks,French Fries,1,0,,81.0
+Snacks,Butter Pav Bhaji,1,0,,108.0
+Snacks,Butter Fry Pav Bhaji,1,0,,135.0
+Snacks,Butter Cheese Pav Bhaji,1,0,,153.0
+Snacks,Butter Paneer Pav Bhaji,1,0,,153.0
+Snacks,Butter Green Pav Bhaji,1,0,,144.0
+Accompaniment,Papad,1,0,,12.0

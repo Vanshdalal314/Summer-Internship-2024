@@ -1,0 +1,14 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tiffin,Onion Uthappam,1,0,,85.0
+Tiffin,Podi Roast,1,0,,90.0
+Tiffin,Butter Roast,1,0,,90.0
+Tiffin,Kal Dosai,1,0,,35.0
+Tiffin,Ghee Roast,1,0,,90.0
+Tiffin,Onion Roast,1,0,,85.0
+Tiffin,Masal Roast,1,0,,85.0
+Tiffin,Roast,1,0,,65.0
+Tiffin,Pongal,1,0,,65.0
+Hot Drink,Tea,1,0,,30.0
+Hot Drink,Filter Coffee,1,0,,35.0
+Snacks,Ullunthu Vada [1 Vada],1,0,,15.0
+Snacks,Pazha Bajji [1 Piece],1,0,,25.0

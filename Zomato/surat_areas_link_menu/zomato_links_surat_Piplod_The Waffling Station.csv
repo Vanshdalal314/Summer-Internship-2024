@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Mini Waffle Combo Of 8,1,0,"Belgian Chocolate, Mr. Oreo, Black&White, Strawberry, Nutella, Kitkat, Choco devil, Redvelvet",599.05
+Combos,Mini Waffles Combo Tws Special,1,0,Nuttela+ kitkat+ choco devil+ red velvet,322.86
+Mini Pancake,Belgian Milk Chocolate Mini Pancake,1,0,,132.38
+Mini Pancake,Black & White Mini Pancake,1,0,,132.38
+Mini Pancake,Blueberry Blast Mini Pancake,1,0,,132.38
+Mini Pancake,Brownie Mini Pancake,1,0,,132.38
+Mini Pancake,Butterscotch Mini Pancake,1,0,,132.38
+Mini Pancake,Charcoal Mini Pancake,1,0,,132.38
+Mini Pancake,Choco Blast (triple Chocolate) Mini Pancake,1,0,,132.38
+Mini Pancake,Choco Devil Mini Pancake,1,0,,132.38
+Mini Pancake,Choco Strawberry Mini Pancake,1,0,,132.38
+Mini Pancake,Coffee Crunch Mini Pancake,1,0,,132.38
+Mini Pancake,Dark Desire Mini Pancake,1,0,,132.38
+Mini Pancake,Honey Butter Mini Pancake,1,0,,170.48
+Mini Pancake,Kitkat Mini Pancake,1,0,,132.38
+Mini Pancake,Maple Butter Mini Pancake,1,0,,132.38
+Mini Pancake,Mr Oreo Mini Pancake,1,0,,132.38
+Mini Pancake,Naked Nutella Mini Pancake,1,0,,170.48
+Mini Pancake,Nutella Rocher Mini Pancake,1,0,,218.1
+Mini Pancake,Red Velvet Mini Pancake,1,0,,132.38
+Mini Pancake,Red Velvet Oreo Mini Pancake,1,0,,132.38
+Mini Pancake,Strawberry Creamcheese Mini Pancake,1,0,,132.38
+Cold Coffee,Chocolate Brownie,1,0,,141.9
+Cold Coffee,Chocolate,1,0,,141.9
+Cold Coffee,Hazelnut,1,0,,141.9
+Cold Coffee,Kadak (hard),1,0,,141.9
+Cold Coffee,Orignal,1,0,,122.86
+Cold Coffee,Tiramisu,1,0,,141.9
+Cold Coffee,Toffee Caramel,1,0,,141.9
+Milkshakes,Blueberry Cream Cheese Milk Shake,1,0,,141.9
+Milkshakes,Chocolate Milk Shake,1,0,,113.33
+Milkshakes,Ferror Rocher Milk Shake,1,0,,180.0
+Milkshakes,Italian Strawberry Milk Shake,1,0,,141.9
+Milkshakes,Kitkat Brownie Milk Shake,1,0,,170.48
+Milkshakes,Kitkat Milk Shake,1,0,,141.9
+Milkshakes,Nutella Milk Shake,1,0,,170.48
+Milkshakes,Oreo Brownie Milk Shake,1,0,,170.48
+Milkshakes,Oreo Milk Shake,1,0,,141.9
+Thickshakes,Blueberry Cream Cheese Thick Shake,1,0,,170.48
+Thickshakes,Chocolate Thick Shake,1,0,,141.9
+Thickshakes,Ferror Rocher Thick Shake,1,0,,208.57
+Thickshakes,Italian Strawberry Thick Shake,1,0,,170.48
+Thickshakes,Kitkat Brownie Thick Shake,1,0,,199.05
+Thickshakes,Kitkat Thick Shake,1,0,,170.48
+Thickshakes,Nutella Thick Shake,1,0,,208.57
+Thickshakes,Oreo Brownie Thick Shake,1,0,,199.05
+Thickshakes,Oreo Thick Shake,1,0,,170.48
+Stick Waffles,Black&white Stick Waffle,1,0,,170.48
+Stick Waffles,Brownie Stick Waffle,1,0,,180.0
+Stick Waffles,Charcoal Stick Waffle,1,0,,170.48
+Stick Waffles,Chocoblast Stickwaffle,1,0,,170.48
+Stick Waffles,Chocolate Devil Stick Waffle,1,0,,170.48
+Stick Waffles,Darkdesire Stickwaffle,1,0,,170.48
+Stick Waffles,Kitkat Stick Waffle,1,0,,170.48
+Stick Waffles,Milkchocolate Stickwaffle,1,0,,170.48
+Stick Waffles,Nutella Roachar Stick Waffle,1,0,,189.52
+Stick Waffles,Oreo Stick Waffle,1,0,,170.48
+Stick Waffles,Redvelvet Oreo Stickwaffle,1,0,,180.0
+Stick Waffles,Redvelvet Stickwaffle,1,0,,170.48

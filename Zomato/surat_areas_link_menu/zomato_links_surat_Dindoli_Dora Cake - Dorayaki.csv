@@ -1,0 +1,5 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dora Cakes,Crispy Black Chocolate Dora Pastry,1,0,"Chocolate pastry with a crispy, crunchy outer layer, filled with a delicious a ... read more",80.0
+Dora Cakes,White Chocolate Dora Pastry,1,0,"Chocolate pastry with a crispy, crunchy outer layer, filled with a delicious a ... read more",80.0
+Dora Cakes,Dora Chocolate Pastry [2 Pieces] with White Cream,1,0,"[Veg preparation] Chocolate pastry with a crispy, crunchy outer layer, filled with a ... read more",160.0
+Dora Cakes,Dora Chocolate Pastry [2 Pieces] with Black Cream,1,0,"[Veg preparation] Chocolate pastry with a crispy, crunchy outer layer, filled with a ... read more",160.0

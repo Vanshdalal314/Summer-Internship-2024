@@ -1,0 +1,143 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Lemon Coriandar Soup,1,0,,156.0
+Soups,Lemon Coriander Soup,1,0,,156.0
+Soups,Minestrone Soup,1,0,,156.0
+Soups,Mushroom Soup,1,0,,169.0
+Soups,Tomato Soup,1,0,,143.0
+Soups,Veg Hot And Sour Soup,1,0,,156.0
+Soups,Veg Manchow Soup,1,0,,156.0
+Main Course,Aloo Mutter,1,0,,199.0
+Main Course,Aloo Palak,1,0,,199.0
+Main Course,Bhindi Fry,1,0,,208.0
+Main Course,Bhindi Masala,1,0,,199.0
+Main Course,Chana Masala,1,0,,199.0
+Main Course,Dal Fry,1,0,,156.0
+Main Course,Dal Fry Butter,1,0,,169.0
+Main Course,Dal Palak,1,0,,182.0
+Main Course,Dal Tadka,1,0,,169.0
+Main Course,Darshan Special Veg,1,0,[Chef's Special],234.0
+Main Course,Dum Aloo Punjabi,1,0,,208.0
+Main Course,Jeera Aloo,1,0,,199.0
+Main Course,Mix Vegetable,1,0,,199.0
+Main Course,Mushroom Masala,1,0,,260.0
+Main Course,Navratan Korma,1,0,,234.0
+Main Course,Plain Palak,1,0,,199.0
+Main Course,Stuff Tomato,1,0,,208.0
+Main Course,Veg Balti,1,0,,221.0
+Main Course,Veg Deewani Handi,1,0,,221.0
+Main Course,Veg Handi,1,0,,221.0
+Main Course,Veg Hydrabadi,1,0,,221.0
+Main Course,Veg Jaipuri,1,0,,221.0
+Main Course,Veg Kadai,1,0,,221.0
+Main Course,Veg Kolhpuri,1,0,,221.0
+Main Course,Veg Makhkhanwala,1,0,,221.0
+Main Course,Veg Tawa,1,0,,221.0
+Main Course,Veg Tufani,1,0,,221.0
+Main Course,Vegetable Angara,1,0,,221.0
+Main Course,Cheese Kofta,1,0,,234.0
+Main Course,Kaju Kofta,1,0,,247.0
+Main Course,Nargishi Kofta,1,0,,221.0
+Main Course,Paneer Kofta,1,0,,221.0
+Main Course,Sweet Malai Kofta,1,0,,221.0
+Main Course,Chana Paneer,1,0,,234.0
+Main Course,Cheese Butter Masala,1,0,,273.0
+Main Course,Darshan Special Paneer,1,0,[Chef's Special],258.0
+Main Course,Mutter Paneer,1,0,,234.0
+Main Course,Palak Paneer,1,0,,234.0
+Main Course,Paneer Angara,1,0,,247.0
+Main Course,Paneer Balti,1,0,,247.0
+Main Course,Paneer Bhurji,1,0,,258.0
+Main Course,Paneer Butter Masala,1,0,,247.0
+Main Course,Paneer Chatpata,1,0,,247.0
+Main Course,Paneer Cheese Masala,1,0,,258.0
+Main Course,Paneer Handi,1,0,,247.0
+Main Course,Paneer Hydrabadi,1,0,,247.0
+Main Course,Paneer Kadai Masala,1,0,,247.0
+Main Course,Paneer Masala,1,0,,258.0
+Main Course,Paneer Mushroom Masala,1,0,,258.0
+Main Course,Paneer Pasanda,1,0,,258.0
+Main Course,Paneer Shahi Korma,1,0,,247.0
+Main Course,Paneer Tawa,1,0,,247.0
+Main Course,Paneer Tikka Masala,1,0,,247.0
+Main Course,Paneer Tufani,1,0,,247.0
+Main Course,Today Sp Cheese,1,0,,299.0
+Main Course,Kaju Badam Masala,1,0,,325.0
+Main Course,Kaju Butter Masala,1,0,,299.0
+Main Course,Kaju Curry,1,0,,266.0
+Main Course,Kaju Kadai Masala,1,0,,266.0
+Main Course,Kaju Masala,1,0,,286.0
+Main Course,Kaju Paneer Masala,1,0,,260.0
+Main Course,Sweet Khoya Kaju,1,0,,266.0
+Main Course,To.sp.cheese,1,0,,325.0
+Breads,Aloo Paratha,1,0,,91.0
+Breads,Butter Kulcha,1,0,,52.0
+Breads,Butter Naan,1,0,,52.0
+Breads,Butter Paratha,1,0,,52.0
+Breads,Butter Roti,1,0,,32.0
+Breads,Cheese Garlic Naan,1,0,,130.0
+Breads,Cheese Naan,1,0,,123.0
+Breads,Garlic Naan,1,0,,120.0
+Breads,Plain Kulcha,1,0,,52.0
+Breads,Plain Naan,1,0,,52.0
+Breads,Plain Paratha,1,0,,52.0
+Breads,Plain Roti,1,0,,32.0
+Breads,Stuff Kulcha,1,0,,104.0
+Breads,Stuff Naan,1,0,,128.0
+Breads,Stuff Parotha,1,0,,104.0
+Rice And Biryani,P Zulubar,1,0,,221.0
+Rice And Biryani,Hydrabadi Biriyani,1,0,,221.0
+Rice And Biryani,Jeera Rice,1,0,,169.0
+Rice And Biryani,Kashmiri Pulao (sweet),1,0,,234.0
+Rice And Biryani,Plain Rice,1,0,,143.0
+Rice And Biryani,Special Darshan Pulao,1,0,[Chef's Special],221.0
+Rice And Biryani,Special Dum Biryani,1,0,,247.0
+Rice And Biryani,Special Kaju Pulao,1,0,,247.0
+Rice And Biryani,Steam Rice,1,0,,156.0
+Rice And Biryani,Veg Biryani,1,0,,221.0
+Rice And Biryani,Veg Pulao,1,0,,208.0
+Fried Rice And Noodles,Chinese Bhel,1,0,,208.0
+Fried Rice And Noodles,Mushroom Fried Rice,1,0,,221.0
+Fried Rice And Noodles,Paneer 65,1,0,,258.0
+Fried Rice And Noodles,Paneer Chilli Gravy,1,0,,260.0
+Fried Rice And Noodles,Paneer Chilly,1,0,,258.0
+Fried Rice And Noodles,Paneer Manchurian,1,0,,247.0
+Fried Rice And Noodles,Paneer Manchurian Gravy,1,0,,247.0
+Fried Rice And Noodles,Paneer Schezwan,1,0,,258.0
+Fried Rice And Noodles,Paneer Schezwan Gravy,1,0,,258.0
+Fried Rice And Noodles,Paneer Tikka Dry,1,0,,286.0
+Fried Rice And Noodles,Schezwan Fried Rice,1,0,,208.0
+Fried Rice And Noodles,Veg Fried Rice,1,0,,199.0
+Fried Rice And Noodles,Veg Hakka Noodles,1,0,,199.0
+Fried Rice And Noodles,Veg Schezwan Noodles,1,0,,208.0
+Fried Rice And Noodles,Veg Spring Rol,1,0,,221.0
+Fried Rice And Noodles,Veg Spring Roll,1,0,,221.0
+Fried Rice And Noodles,Vegetable 65,1,0,,208.0
+Fried Rice And Noodles,Vegetable Crispy,1,0,,208.0
+Fried Rice And Noodles,Vegetable Lollypop,1,0,,247.0
+Fried Rice And Noodles,Vegetable Manchurian,1,0,,199.0
+Fried Rice And Noodles,Vegetable Manchurian Gravy,1,0,,199.0
+Pizza,Italian Pizza,1,0,,247.0
+Pizza,Mushroom Pizza,1,0,,260.0
+Pizza,Pineapple Pizza,1,0,,260.0
+Pizza,Vegetable Cheese Pizza,1,0,,247.0
+Sandwiches,Bread Butter,1,0,,71.0
+Sandwiches,Cheese Sandwich,1,0,,117.0
+Sandwiches,Potato Chips,1,0,,130.0
+Sandwiches,Vegetable Cheese Sandwich,1,0,,130.0
+Sandwiches,Vegetable Sandwich,1,0,,91.0
+Accompaniments,Boondi Raita,1,0,,86.0
+Accompaniments,Cheese Masala Papad,1,0,,70.0
+Accompaniments,Extra Itam,1,0,,26.0
+Accompaniments,Fried Papad,1,0,,40.0
+Accompaniments,Green Salad,1,0,,66.0
+Accompaniments,Masala Papad,1,0,,50.0
+Accompaniments,Pineapple Rita,1,0,,99.0
+Accompaniments,Plain Curd,1,0,,75.0
+Accompaniments,Roasted Papad,1,0,,26.0
+Accompaniments,Tomato Salad,1,0,,75.0
+Accompaniments,Vegtable Raita,1,0,,80.0
+Khoob Surat Shuruat,Butter Milk,1,0,,32.0
+Khoob Surat Shuruat,Buttr Milk,1,0,,32.0
+Khoob Surat Shuruat,Lassi,1,0,,110.0
+Khoob Surat Shuruat,Mineral Water,1,0,,25.0
+Khoob Surat Shuruat,Special Lassi,1,0,,130.0

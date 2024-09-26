@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Simply Veggie Pizza,1,0,"Onion, tomatoes, capsicum.",153.0
+Pizza,Double Cheese Margherita Pizza,1,0,Topped with two type cheese.,210.0
+Pizza,Seven Cheese Margherita Pizza,1,0,Pizza topped with seven different type of cheese.,230.0
+Pizza,Veg Hawaiian Pizza,1,0,"Topped with paneer, jalapenos, onions and green chilli.",153.0
+Pizza,Loaded Pizza,1,0,"Topped with onions, tomatoes, capsicum, olives, green chilli, sweet corn and mushrooms.",210.0
+Pizza,Gourmet Pizza,1,0,"Topped with olives, jalapenos, sweet corn and lots of cheese.",180.0
+Pizza,Paneer Makhani Pizza,1,0,"Makhani gravy with paneer, onions, capsicum and red paprika.",210.0
+Pizza,Super Veggies Pizza,1,0,"Capsicum, tomatoes, onions, mushrooms, olives, jalapenos, red paprika, sweet corn, baby corn, paneer ... read more",210.0
+Pizza,Paneer Kadhai Pizza,1,0,"Topped with paneer, capsicum, onions, tomato, red peprika in Makhani Gravy",210.0
+Pizza,Tandoori Pizza,1,0,"Topped with paneer, onions, capsicum red peprika with Tandoori gravy",210.0
+Pizza,Margherita Pizza,1,0,Mozzarella cheese.,100.0
+Pizza,Tomatoes Pizza,1,0,Mozzarella cheese with sliced tomatoes,125.0
+Pizza,Veggie Extravaganza Pizza,1,0,"Onions, capsicums, tomatoes and black olives.",163.0
+Pizza,Del Paneer Pizza,1,0,"Capsicum, red paprika and paneer.",190.0
+Pizza,Corn Delight Pizza,1,0,"Sweet corn , baby corn and paneer.",210.0
+Pizza,Herby Herbs Pizza,1,0,"Jalapenos, red paprika, basils and mixed dry herbs.",153.0
+Pizza,Mushroom Farm Pizza,1,0,"Mushrooms, onions and red paprika.",153.0
+Pizza,Italian Pizza,1,0,"Black olives, tomato and jalapeno.",153.0
+Pizza,Mexican Pizza,1,0,"Capsicum, paneer tomato..",153.0
+Pizza,Pickly Pizza,1,0,"Black olives, red paprika and jalepeno.",153.0
+Combos,Margherita Pizza [9 inches] with Thums Up [250 ml],1,0,Margherita Pizza [9 inches] with Thums Up [250 ml],250.0
+Combos,Roll N Crisp Combo,1,0,Stuffed Paneer Delight Calzone [Roll]+Salted French Fries,250.0
+Combos,Sides Combo,1,0,Stuffed Garlic Bread+Salted French Fries+Cheesy Garlic Toasties [2 Pieces],320.0
+Combos,Simply Veggie Combo,1,0,"Simply Veggie Pizza [Small, 7 inches]+Cheesy Garlic Toasties [2 Pieces]+ Thums Up [250 ... read more",360.0
+Combos,Seven Cheese Pizza Combo,1,0,"Triple Cheese Pizza [Small, 7 inches]+Cheesy Garlic Toasties [2 Pieces]+Thums Up [250 ml]",420.0
+Combos,Classic Combo,1,0,"Classic Pizza [Small, 7 inches]+French Fries+Dip",360.0
+Combos,Premium Homealone Combo,1,0,"Classic Pizza [Small, 7 inches]+French Fries+Dip+ Thums Up [250 ml]",250.0
+Combos,2 for 2 Premium Combo,1,0,"Premium Pizza [Medium, 9 inches]+Cheesy Garlic Toasties [2 Pieces]+ Thums Up [250 ml]",360.0
+Combos,Combo,1,0,"any Claasic 9"" Pizza with French Fries",300.0
+Combos,Triple Cheese Party Combo,1,0,"Triple Cheese Pizza [Large, 12 inches]+Stuffed Garlic Bread+Thums Up [250 ml]",650.0
+Combos,Party Premium Combo,1,0,"Premium Pizza [Large, 12 inches]+Thums Up [250 ml]+Stuffed Garlic Bread [2 Pieces]",730.0
+Rolls,Stuffed Paneer Roll,1,0,"Freshly baked breadsticks stuffed with paneer, capsicum, onion and red paprika mixed in ... read more",240.0
+Rolls,Stuffed Veggie Roll,1,0,"Freshly baked breadsticks stuffed with onion, capsicum and sweet corn mixed in special ... read more",165.0
+Rolls,Veggie Mint Roll,1,0,Freshly baked breadsticks stuffed with onion and capsicum with sour and creamy mint ... read more,175.0
+Snacks,Stuffed Garlic Bread,1,0,"Freshly baked breadsticks stuffed with cheese, jalapenos and sweet corn.",145.0
+Snacks,Stuffed Chilli Cheese Bread,1,0,Freshly baked breadsticks stuffed with cheese and green chillies.,175.0
+Snacks,Salted French Fries,1,0,Regular Salted Fries,95.0
+Snacks,Masala French Fries,1,0,Topped with Different Spices,115.0
+Snacks,Peri Peri French Fries,1,0,Topped with Peri Peri Spice,125.0
+Low Cost Combo,2 Margherita,1,0,Two margherita Pizza,250.0
+Low Cost Combo,2 Paneer Delight Combo,1,0,2 Paneer delight pizza,280.0
+Low Cost Combo,2 Mushroom Pizza,1,0,2 Mushroom Pizza,270.0
+Low Cost Combo,2 Paneer Makhani,1,0,2 Paneer makhani pizza,360.0

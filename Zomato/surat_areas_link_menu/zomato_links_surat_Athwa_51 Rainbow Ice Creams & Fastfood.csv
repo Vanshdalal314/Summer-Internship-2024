@@ -1,0 +1,170 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Falooda,Rose Falooda [350 ml],1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",150.0
+Falooda,Mango Falooda [350 ml],1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",180.0
+Falooda,Strawberry Falooda [350 ml],1,0,,180.0
+Falooda,Green Pista Falooda [350 ml],1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",180.0
+Falooda,Chocolate Falooda [350 ml],1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",180.0
+Falooda,Red Rose Falooda [350 ml],1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",195.0
+Falooda,Blackcurrant Falooda [350 ml],1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",195.0
+Falooda,Badam Pista Falooda [350 ml],1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",195.0
+Falooda,Kaju Anjeer Falooda [350 ml],1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",195.0
+Falooda,Kesar Pista Falooda [350 ml],1,0,,195.0
+Falooda,Sitafal Falooda [350 ml],1,0,,210.0
+Falooda,Rajwadi Falooda [350 ml],1,0,"Traditional falooda with full of sevai, sabza, cream, milk and topped with ice ... read more",225.0
+Falooda,Rajbhog Falooda [350 ml],1,0,,225.0
+Milkshakes,Chikoo Milkshake [250 ml],1,0,,90.0
+Milkshakes,Pineapple Milkshake [250 ml],1,0,,90.0
+Milkshakes,Badam Shake [250 ml],1,0,,105.0
+Milkshakes,Mango Milkshake [250 ml],1,0,,120.0
+Milkshakes,Cold Coffee Milkshake with Vanilla Ice Cream [250 ml],1,0,,120.0
+Milkshakes,Kaju Mango Milkshake [250 ml],1,0,,180.0
+Milkshakes,Fresh Fruit Milkshake [250 ml],1,0,,180.0
+Milkshakes,Kaju Anjeer Milkshake [250 ml],1,0,,210.0
+Milkshakes,Kaju Gulkand Milkshake [250 ml],1,0,,210.0
+Milkshakes,Kaju Badam Milkshake [250 ml],1,0,,210.0
+Milkshakes,Dry Fruit Milkshake [250 ml],1,0,,225.0
+Milkshakes,Kesar Pista Milkshake [250 ml],1,0,,240.0
+Milkshakes,Rajwadi Dry Fruit Milkshake [250 ml],1,0,,330.0
+Thickshakes,Strawberry Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,105.0
+Thickshakes,Plain Chocolate Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,120.0
+Thickshakes,Coffee Caramel Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,120.0
+Thickshakes,Mango Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,120.0
+Thickshakes,Chikoo Chocolate Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,135.0
+Thickshakes,Oreo Cookie Cream Thickshake [250 ml],1,0,,135.0
+Thickshakes,Gulkand Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,135.0
+Thickshakes,Butterscotch Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,135.0
+Thickshakes,Vanilla Chips Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,150.0
+Thickshakes,Rose Malai Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,150.0
+Thickshakes,Mango Malai Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,150.0
+Thickshakes,Kaju Draksh Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,150.0
+Thickshakes,Chocolate Chips Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,150.0
+Thickshakes,Blackcurrant Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,150.0
+Thickshakes,Kaju Anjeer Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,165.0
+Thickshakes,Kaju Badam Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,165.0
+Thickshakes,Mawa Malai Thickshake [250 ml],1,0,,165.0
+Thickshakes,Kaju Gulkand Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,180.0
+Thickshakes,Kaju Mango Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,180.0
+Thickshakes,Kesar Pista Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,180.0
+Thickshakes,Almond Caramel Thickshake [250 ml],1,0,,180.0
+Thickshakes,Kaju Khajoor Thickshake [250 ml],1,0,,180.0
+Thickshakes,Black Forest Thickshake [250 ml],1,0,,180.0
+Thickshakes,Walnut Chocolate Thickshake [250 ml],1,0,,180.0
+Thickshakes,Red Velvet Thickshake [250 ml],1,0,,180.0
+Thickshakes,Nutella Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,180.0
+Thickshakes,Dairy Milk Thickshake [300 ml],1,0,,180.0
+Thickshakes,KitKat Thickshake [300 ml],1,0,,180.0
+Thickshakes,Roasted Almond Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,180.0
+Thickshakes,Kaju Katli Thickshake [250 ml],1,0,,210.0
+Thickshakes,Choco Brownie Thickshake [250 ml],1,0,,210.0
+Thickshakes,Maakhan Bhog Thickshake [250 ml],1,0,,210.0
+Thickshakes,Dry Fruit Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,225.0
+Thickshakes,Pista Malai Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,225.0
+Thickshakes,Lotus Biscoff Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,225.0
+Thickshakes,Fresh Fruit Thickshake [250 ml],1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,225.0
+Thickshakes,Rajbhog Thickshake [250 ml],1,0,,225.0
+Thickshakes,American Dry Fruit Thickshake [250 ml],1,0,,225.0
+Thickshakes,Rajwadi Dry Fruit Thickshake [250 ml],1,0,,225.0
+Thickshakes,Ferrero Rocher Thickshake [250 ml],1,0,,225.0
+Cold Coco,Cold Coco [250 ml],1,0,Try Surat's famous cold coco to experience real deliciousness. Cold coco is a ... read more,100.0
+Cold Coco,Ice Cream Coco [250 ml],1,0,,135.0
+Cold Coco,Cadbury Coco [250 ml],1,0,,135.0
+Cold Coco,Kaju Coco [250 ml],1,0,,150.0
+Cold Coco,Malai Coco [250 ml],1,0,,150.0
+Cold Coco,Rajwadi Coco [300 ml],1,0,,225.0
+Cold Coco,Cold Coco [1 litre],1,0,Try Surats famous cold coco to experience real deliciousness. Cold coco is a ... read more,270.0
+Lassi [250 ml],Plain Lassi [250 ml],1,0,,60.0
+Lassi [250 ml],Mango Lassi [250 ml],1,0,,90.0
+Lassi [250 ml],Rose Lassi [250 ml],1,0,,90.0
+Lassi [250 ml],Malai Lassi [250 ml],1,0,,120.0
+Lassi [250 ml],Ice Cream Lassi [250 ml],1,0,,120.0
+Lassi [250 ml],Kaju Lassi [250 ml],1,0,,120.0
+Lassi [250 ml],Rajwadi Lassi [300 ml],1,0,,180.0
+Scoops,"Vanilla Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,60.0
+Scoops,"Strawberry Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,60.0
+Scoops,"Mango Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,60.0
+Scoops,"Mawa Malai Cup Ice Cream [1 Scoop, 120 ml]",1,0,,75.0
+Scoops,"Bubblegum Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,75.0
+Scoops,"Kaju Draksh Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,75.0
+Scoops,"Butterscotch Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,75.0
+Scoops,"Kaju Anjeer Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,90.0
+Scoops,"Chocolate Chips Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,90.0
+Scoops,"Rajbhog Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,90.0
+Scoops,"American Dry Fruit Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,90.0
+Scoops,"Blackcurrant Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,105.0
+Scoops,"Blueberry Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,105.0
+Scoops,"Kesar Pista Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,105.0
+Scoops,"Dark Chocolate Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,120.0
+Scoops,"Nutella Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,120.0
+Scoops,"Walnut Chocolate Fudge Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,120.0
+Scoops,"Choco Rock Brownie Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,135.0
+Scoops,"Lotus Biscoff Cup Ice Cream [1 Scoop, 120 ml]",1,0,Our premium ice cream is made under hygienic facilities with traditional methods using ... read more,135.0
+Scoops,"Ferrero Rocher Cup Ice Cream [1 Scoop, 120 ml]",1,0,,150.0
+Fresh Juices [250ml],Mosambi Juice [250 ml],1,0,,120.0
+Fresh Juices [250ml],Orange Juice [250 ml],1,0,,150.0
+Fresh Juices [250ml],Seasonal Fresh Fruit Juice [250 ml],1,0,,205.0
+Smoothies,Oreo Cookies Smoothie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",180.0
+Smoothies,Mango Milk Smoothie [300 ml],1,0,,210.0
+Smoothies,Blackcurrant Smoothie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",210.0
+Smoothies,Chocolate Chips Smoothie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",210.0
+Smoothies,Fresh Fruit Smoothie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",225.0
+Smoothies,Coffee Mocha Smoothie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",225.0
+Smoothies,Blueberry Smoothie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",225.0
+Smoothies,Nutella Smoothie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",240.0
+Smoothies,Kaju Anjeer Smoothie [300 ml],1,0,,240.0
+Smoothies,KitKat Smoothie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",225.0
+Smoothies,Dairy Milk Smoothie [300 ml],1,0,,240.0
+Smoothies,Choco Brownie Smoothie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",240.0
+Smoothies,Walnut Choco Fudge Smootie [300 ml],1,0,"Premium milkshakes, blends of ingredients like fruits and chocolates. We make it with ... read more",240.0
+Smoothies,Ferrero Rocher Smoothie [300 ml],1,0,,300.0
+Smoothies,Caramel Snickers Smoothie [300 ml],1,0,,300.0
+Sundaes,Fresh Gotala Sundae,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,225.0
+Sundaes,Jelly Malai Pineapple Sundae,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,225.0
+Sundaes,Mawa Masti Gotala Sundae,1,0,,270.0
+Sundaes,Triple Sundae [3 Scoops],1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,270.0
+Sundaes,Choco Dance Sundae [3 Scoops],1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,270.0
+Sundaes,Dry Fruit Gotala Sundae,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,300.0
+Sundaes,Hungama Sundae [5 Scoops],1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,330.0
+Sundaes,Sab Kuch Sundae [6 Scoops],1,0,,405.0
+Fog Ice Cream,Kaju Anjeer Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,195.0
+Fog Ice Cream,Kaju Draksh Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,195.0
+Fog Ice Cream,Kaju Gulkand Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,195.0
+Fog Ice Cream,American Dry Fruit Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,210.0
+Fog Ice Cream,Rajbhog Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,210.0
+Fog Ice Cream,Kaju Katli Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,235.0
+Fog Ice Cream,Kesar Pista Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,225.0
+Fog Ice Cream,Dry Fruit Khazana Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,240.0
+Fog Ice Cream,Chocolate Chips Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,210.0
+Fog Ice Cream,Nutella Chocolate Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,225.0
+Fog Ice Cream,KitKat Chunks Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,225.0
+Fog Ice Cream,Dairy Milk Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,225.0
+Fog Ice Cream,Chocolate Fudge Brownie Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,240.0
+Fog Ice Cream,Chocolate Walnut Ice Cream [200 ml],1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,240.0
+Fog Ice Cream,Ferrero Rocher Ice Cream [200 ml],1,0,,300.0
+Fog Ice Cream,Oreo Cookies Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,195.0
+Fog Ice Cream,Paan Masala Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,225.0
+Fog Ice Cream,Mawa Malai Ice Cream [200 ml],1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,225.0
+Fog Ice Cream,Butterscotch Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,225.0
+Fog Ice Cream,Tender Coconut Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,225.0
+Fog Ice Cream,Lotus Biscoff Ice Cream [200 ml],1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,225.0
+Fog Ice Cream,Strawberry Ice Cream [200 ml],1,0,Our ice cream is made live in front of you. Using fresh ingredients ... read more,210.0
+Fog Ice Cream,Guava Chilli Ice Cream [200 ml],1,0,Our ice cream is made love in front of you. Using fresh ingredients ... read more,240.0
+Fresh Cream,Strawberry Cream with Ice Cream [300 ml],1,0,,270.0
+Fresh Cream,Mango Cream with Ice Cream [300 ml],1,0,,300.0
+Fresh Cream,Sitafal Cream with Ice Cream [300 ml],1,0,,300.0
+Fresh Cream,Dry Fruit Cream with Ice Cream [300 ml],1,0,,300.0
+Fresh Cream,Rajwadi Dry Fruit Cream with Ice Cream [300 ml],1,0,,320.0
+Fresh Cream,Tender Coconut Cream with Ice Cream [300 ml],1,0,,375.0
+Veg Burgers,Veg Burger,1,0,,45.0
+Veg Burgers,Veg Mustard Burger,1,0,,60.0
+Veg Burgers,Veg Schezwan Burger,1,0,,60.0
+Veg Burgers,Veg Garlic Burger,1,0,,60.0
+Veg Burgers,Veg Tandoori Burger,1,0,,60.0
+Veg Burgers,Veg Cheese Burger,1,0,,60.0
+Veg Burgers,Veg Paneer Burger,1,0,,90.0
+Veg Burgers,Veg Cheese Mustard Burger,1,0,,90.0
+Veg Burgers,Veg Cheese Schezwan Burger,1,0,,90.0
+Veg Burgers,Veg Cheese Garlic Burger,1,0,,90.0
+Veg Burgers,Veg Cheese Tandoori Burger,1,0,,90.0
+Veg Burgers,Veg Cheese Paneer Burger,1,0,,120.0
+Party Combos,Rose Falooda [350 ml] with Fresh Fruit Thickshake [250 ml],1,0,,320.0
+Party Combos,Cold Coco [1 litre] with Plain Lassi [250 ml],1,0,,320.0

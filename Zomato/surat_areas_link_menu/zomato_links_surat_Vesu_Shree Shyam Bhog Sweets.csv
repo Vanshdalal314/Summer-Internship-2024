@@ -1,0 +1,12 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sweets,Chirawa Peda,1,0,,310.0
+Sweets,Laddu,1,0,Desi ghee laddu.,270.0
+Sweets,Boondi,1,0,Desi ghee boondi.,250.0
+Sweets,Kaju Katli,1,0,,470.0
+Sweets,Desi Ghee Besan Chakki,1,0,Dil kushar.,300.0
+Sweets,Milk Cake,1,0,,320.0
+Sweets,White Malai Peda,1,0,,300.0
+Sweets,Desi Ghee Balushahi,1,0,,280.0
+Sweets,Desi Ghee Petha,1,0,Shakaar peda.,240.0
+Sweets,Suhali,1,0,,180.0
+Sweets,Kalakand Barfi,1,0,,310.0

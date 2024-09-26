@@ -1,0 +1,199 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Cream,Mango Ice Cream,1,0,,59.0
+Ice Cream,Strawberry Ice Cream,1,0,,59.0
+Ice Cream,Vanilla Ice Cream,1,0,,40.0
+Dry Fruit Flavour,Afghani Dryfruit,1,0,,70.0
+Dry Fruit Flavour,Almond Anjeer,1,0,,70.0
+Dry Fruit Flavour,Almond Cadbury,1,0,,65.0
+Dry Fruit Flavour,American Nuts,1,0,,60.0
+Dry Fruit Flavour,Dates & Walnut,1,0,,70.0
+Dry Fruit Flavour,Kaju Draks,1,0,,59.0
+Dry Fruit Flavour,Kaju Gulab Gulkand,1,0,,62.0
+Dry Fruit Flavour,Rajbhog,1,0,,60.0
+Dry Fruit Flavour,Winter Cream,1,0,,65.0
+Mithai Flavour,Gulab Jamun,1,0,,70.0
+Mithai Flavour,Kaju Katri,1,0,,72.0
+Mithai Flavour,Mawa Malai,1,0,,59.0
+Mithai Flavour,Motichoor,1,0,,70.0
+Mithai Flavour,Rasgulla,1,0,,70.0
+Chocolate Flavour,Biscoff,1,0,,79.0
+Chocolate Flavour,Chocolate Chips,1,0,,59.0
+Chocolate Flavour,Cookies & Cream,1,0,,65.0
+Chocolate Flavour,Dairymilk Cadbury,1,0,,79.0
+Chocolate Flavour,Kit Kat Cadbury,1,0,,79.0
+Chocolate Flavour,Royal Oreo,1,0,,79.0
+Fresh Fruit Flavour,Black Current,1,0,,72.0
+Fresh Fruit Flavour,Bluberry,1,0,,70.0
+Fresh Fruit Flavour,Bubblegum,1,0,,70.0
+Fresh Fruit Flavour,Cranberry,1,0,,70.0
+Fresh Fruit Flavour,Fresh Guava,1,0,,70.0
+Fresh Fruit Flavour,Fresh Jamun (S),1,0,,70.0
+Fresh Fruit Flavour,Fresh Litchi,1,0,,300.0
+Fresh Fruit Flavour,Fresh Mango (S),1,0,,70.0
+Fresh Fruit Flavour,Fresh Muskmelon,1,0,,70.0
+Fresh Fruit Flavour,Fresh Orange (S),1,0,,70.0
+Fresh Fruit Flavour,Fresh Sitafal (S),1,0,,70.0
+Fresh Fruit Flavour,Fresh Strawberry (S),1,0,,70.0
+Fresh Fruit Flavour,Fresh Watermelon (S),1,0,,70.0
+Fresh Fruit Flavour,Paan Masala,1,0,,72.0
+Fresh Fruit Flavour,Pineapple Cadbury,1,0,,70.0
+Fresh Fruit Flavour,Popcorn,1,0,,70.0
+Fresh Fruit Flavour,Tender Coconut,1,0,,70.0
+Kulfi,Afghani Dryfruit Kulfi,1,0,,150.0
+Kulfi,Badam Pista Kulfi,1,0,,130.0
+Kulfi,Chocolate Cadbury Kulfi,1,0,,130.0
+Kulfi,Dariymilk Cadbury Kulfi,1,0,,135.0
+Kulfi,Fresh Guava Kulfi,1,0,[Seasonal],130.0
+Kulfi,Fresh Jamun Kulfi,1,0,[Seasonal],130.0
+Kulfi,Fresh Litchi Kulfi,1,0,[Seasonal],130.0
+Kulfi,Fresh Sitafal Kulfi,1,0,[Seasonal],130.0
+Kulfi,Kaju Anjeer Kulfi,1,0,,130.0
+Kulfi,Kaju Coco Kulfi,1,0,,130.0
+Kulfi,Kaju Katri Kulfi,1,0,,130.0
+Kulfi,Kaju Mango Kulfi,1,0,,130.0
+Kulfi,Kesar Pista Kulfi,1,0,,130.0
+Kulfi,Khajur Akhrot Kulfi,1,0,,130.0
+Kulfi,Kit Kat Cadbury Kulfi,1,0,,130.0
+Kulfi,Mawa Malai Kulfi,1,0,,130.0
+Kulfi,Paan Masala Kulfi,1,0,,130.0
+Kulfi,Rasgulla Kulfi,1,0,,130.0
+Kulfi,Rose Petal Kulfi,1,0,,130.0
+Kulfi,Strawberry Kaju Katri,1,0,,150.0
+Kulfi,Tender Coconut Kulfi,1,0,,130.0
+Kulfi,Badam Pista Roll Kulfi,1,0,,170.0
+Kulfi,Black Forest Roll,1,0,Coted with black forest cake,170.0
+Kulfi,Kaju Roll Kulfi,1,0,,170.0
+Kulfi,Kit Kat Cadburry Roll Kulfi,1,0,,180.0
+Kulfi,Oreo Roll Kulfi,1,0,,170.0
+Kulfi,Pista Roll Kulfi,1,0,,180.0
+Kulfi,Red Velvet Roll,1,0,Coted with red velvet cake,170.0
+Kulfi,Badam Pista Falooda Kulfi,1,0,,230.0
+Kulfi,Kesar Pista Falooda Kulfi,1,0,,230.0
+Kulfi,Afghani Dryfruit Kulfi Desserts,1,0,,230.0
+Kulfi,Fresh Sitafal Kulfi Dessert,1,0,,230.0
+Kulfi,Kaju Anjeer Kulfi Desserts,1,0,,230.0
+Kulfi,Kaju Coco Kulfi Dessert,1,0,,230.0
+Kulfi,Kaju Mango Kulfi Dessert,1,0,,230.0
+Kulfi,Khajur Akhrot Kulfi Dessert,1,0,,230.0
+Kulfi,Kit Kat Cadbury Kulfi Dessert,1,0,,230.0
+Kulfi,Rasgulla Kulfi Dessert,1,0,,230.0
+Kulfi,Royal Oreo Kulfi Dessert,1,0,,250.0
+Kulfi,Tender Coconut Kulfi Dessert,1,0,,230.0
+American Thick Shake,Anjeer Thick Shake,1,0,,130.0
+American Thick Shake,Badam Anjeer Thick Shake,1,0,,150.0
+American Thick Shake,Badam Pista Thick Shake,1,0,,160.0
+American Thick Shake,Biscoff Thick Shake,1,0,,179.0
+American Thick Shake,Black Current Thick Shake,1,0,,160.0
+American Thick Shake,Caramel Chocolate Thick Shake,1,0,,160.0
+American Thick Shake,Chocolate Chips Thick Shake,1,0,,160.0
+American Thick Shake,Chocolate Thick Shake,1,0,,130.0
+American Thick Shake,Coffee Thick Shake,1,0,,120.0
+American Thick Shake,Dairymilk Thick Shake,1,0,,150.0
+American Thick Shake,Ferrero Rocher Thick Shake,1,0,,199.0
+American Thick Shake,Fresh Sitafal Thick Shake,1,0,,159.0
+American Thick Shake,Fresh Strawberry Thick Shake,1,0,,169.0
+American Thick Shake,Gulkand Thick Shake,1,0,,129.0
+American Thick Shake,Kaju Anjeer Thick Shake,1,0,"A refreshing milkshake prepared with kaju, anjeer and wholesome milk - perfect to ... read more",149.0
+American Thick Shake,Kaju Badam Thick Shake,1,0,,169.0
+American Thick Shake,Kaju Chocolate Thick Shake,1,0,,169.0
+American Thick Shake,Kaju Gulkand Thick Shake,1,0,,169.0
+American Thick Shake,Kaju Malai Tukda Thick Shake,1,0,,169.0
+American Thick Shake,Kaju Mango Thick Shake,1,0,,159.0
+American Thick Shake,Kaju Pista Thick Shake,1,0,,169.0
+American Thick Shake,Kit Kat Cadbury Thick Shake,1,0,,159.0
+American Thick Shake,Kiwi Thick Shake,1,0,,129.0
+American Thick Shake,Mango Thick Shake,1,0,,129.0
+American Thick Shake,Mawa Malai Thick Shake,1,0,,159.0
+American Thick Shake,Nutella Thick Shake,1,0,,169.0
+American Thick Shake,Nutty Nutella Thick Shake,1,0,,179.0
+American Thick Shake,Only Kaju Thick Shake,1,0,,149.0
+American Thick Shake,Paan Masala Thick Shake,1,0,,159.0
+American Thick Shake,Pineapple Thick Shake,1,0,,129.0
+American Thick Shake,Rajbhog Thick Shake,1,0,,169.0
+American Thick Shake,Rajwadi Kaju Thick Shake,1,0,,189.0
+American Thick Shake,Rose Thick Shake,1,0,,119.0
+American Thick Shake,Royal Oreo Thick Shake,1,0,,149.0
+American Thick Shake,Strawberry Thick Shake,1,0,,119.0
+American Thick Shake,Vanila Thick Shake,1,0,,119.0
+Cold Coco,Brownie Cold Coco,1,0,,129.0
+Cold Coco,Cold Coco (280Ml),1,0,,80.0
+Cold Coco,Cold Coco 1 Litre,1,0,,250.0
+Cold Coco,Cold Coco With Chocolate Ice Cream,1,0,,109.0
+Cold Coco,Cold Coco With Ice Cream Vanilla,1,0,,99.0
+Cold Coco,Cold Coco With Kaju,1,0,,99.0
+Cold Coco,Kaju Brownie Coco,1,0,,129.0
+Almond Shake,Almond Shake (280 Ml Bottle ),1,0,,80.0
+Almond Shake,Almond Shake 1 Ltr Bottle,1,0,,250.0
+Almond Shake,Almond Shake With Chocolate I-Cream,1,0,,90.0
+Almond Shake,Almond Shake With Malai ( 250 Ml ),1,0,,90.0
+Falooda,Badam Pista Falooda,1,0,,190.0
+Falooda,Black Currant Falooda,1,0,Fresh black current pices and dry fruits,149.0
+Falooda,Chocolate Falooda,1,0,Make with chocolate sauce and syrup,159.0
+Falooda,Dryfruit Falooda,1,0,,190.0
+Falooda,Kesar Falooda,1,0,Kesar pista falooda is a delicious Indian dessert drink prepared by condensing milk ... read more,169.0
+Falooda,Mango Falooda,1,0,Make with pure Alphonso mango pulp,159.0
+Falooda,Mastani Falooda,1,0,Make with 2 flavor mix falooda rose and kesar,99.0
+Falooda,Rajbhog Falooda,1,0,,179.0
+Falooda,Rajwadi Falooda,1,0,,199.0
+Falooda,Rose Falooda,1,0,,149.0
+Falooda,Strawberry Falooda,1,0,,169.0
+Ice Cream Dessert,Afghani Dryfruit Ice Cream Dessert,1,0,,289.0
+Ice Cream Dessert,Fresh Mango Malai Ice Cream Dessert,1,0,,289.0
+Ice Cream Dessert,Fresh Sitafal Ice Cream Dessert,1,0,,289.0
+Ice Cream Dessert,Kit Kat Cadbury Ice Cream Dessert,1,0,,289.0
+Ice Cream Dessert,Rajwadi Ice Cream Dessert,1,0,,289.0
+Ice Cream Dessert,Rasgulla Ice Cream Dessert,1,0,,289.0
+Ice Cream Dessert,Royal Oreo Nuteel Ice Cream Dessert,1,0,,289.0
+Ice Cream Dessert,Tender Coconut Ice Cream Dessert,1,0,,289.0
+Ice Cream Dessert,Winter Cream Ice Cream Dessert,1,0,,289.0
+Sundae Special,Brownie Ice Cream,1,0,Brownie cake with vanilla and chocolate mix ice cream tropped with chocolate souce ... read more,179.0
+Sundae Special,Chocolate Double Sundae,1,0,,180.0
+Sundae Special,Chocolate Single Sundae,1,0,,119.0
+Sundae Special,Dairymilk Cadbury Sundea,1,0,,239.0
+Sundae Special,Ice Cream Gotala,1,0,3 Scoops of vanilla ice cream and trooping with - mango pulp - ... read more,199.0
+Sundae Special,Jelly Malai,1,0,,199.0
+Sundae Special,Jelly Pineapple Malai,1,0,,199.0
+Sundae Special,Kit Kat Cadbury Sundae,1,0,,230.0
+Sundae Special,Kulfi Gotala,1,0,,200.0
+Sundae Special,Kulfi Hungama,1,0,,320.0
+Sundae Special,Mix Flavor Ice Cream With Topping [400 Ml],1,0,4 Scoop ice cream in one pack with troping 1- mawa malai 2 ... read more,239.0
+Sundae Special,Mix Flavor Ice Cream [500 Ml],1,0,,239.0
+Sundae Special,Royal Oreo Sundae,1,0,,220.0
+Sundae Special,Sab Kuch Sundae,1,0,,320.0
+Milk Shake,Afghani Dryfruit Milkshake,1,0,,180.0
+Milk Shake,Cookies Nutella Milkshake,1,0,,180.0
+Milk Shake,Dates & Walnuts Milk Shake,1,0,,180.0
+Milk Shake,Fresh Sitafal Milkshake,1,0,Fresh sitaphal milk shake with fresh petals !!! we packed in glass bottle ... read more,180.0
+Milk Shake,Kaju Anjeer Milkshake,1,0,Fresh kaju and anjeer (fig ) milk shake with fresh petals !!! we ... read more,180.0
+Milk Shake,Kesar Pista Milk Shake,1,0,,99.0
+Milk Shake,Kit Kat Cadbury Milkshake,1,0,,180.0
+Milk Shake,Nutty Nutella Milkshake,1,0,,180.0
+Milk Shake,Rajwadi Dryfruit Milkshake,1,0,Fresh kaju badam and pista dryfruit milk shake with fresh petals !!! we ... read more,180.0
+Milk Shake,Rose Milk Shake,1,0,,99.0
+Milk Shake,Royal Oreo Milkshake,1,0,Fresh rose with kaju milk shake with fresh petals !!! we packed in ... read more,180.0
+Milk Shake,Tender Coconut Milkshake,1,0,Mackling with fresh cream and fresh tender coconut pices !!,180.0
+Milk Shake,Badam Pista Milkshake,1,0,,99.0
+Milk Shake,Fruit Salad,1,0,Fruit salad is a dish consisting of various kinds of fruit cut into ... read more,99.0
+Milk Shake,Musk Melon Milkshake,1,0,,99.0
+Milk Shake,Water Melon Milkshake,1,0,We serve in 1 liter plastic bottle,99.0
+Our Special Variety,Angoor Rabdi,1,0,,75.0
+Our Special Variety,Ice Cream Paan,1,0,,65.0
+Chowpati Kulfi,Badam Pista Chowpati Kulfi,1,0,,52.0
+Chowpati Kulfi,Kaju Anjeer Chowpati Kulfi,1,0,,52.0
+Chowpati Kulfi,Kaju Coco Chowpati Kulfi,1,0,,52.0
+Chowpati Kulfi,Kaju Katri Chowpati Kulfi,1,0,,52.0
+Chowpati Kulfi,Kaju Mango Chowpati Kulfi,1,0,,52.0
+Chowpati Kulfi,Kesar Pista Chowpati Kulfi,1,0,,52.0
+Chowpati Kulfi,Mawa Mali Chowpati Kulfi,1,0,,52.0
+Chowpati Kulfi,Rajbhog Chowpati Kulfi,1,0,,52.0
+Chowpati Kulfi,Rose Petal Chowpati Kulfi,1,0,,52.0
+Popsicle,Fresh Guava Popsicle,1,0,,99.0
+Popsicle,Fresh Jamun Popsicle,1,0,,99.0
+Popsicle,Fresh Kiwi Popsicle,1,0,,99.0
+Popsicle,Fresh Mulberry Popsicle,1,0,,99.0
+Popsicle,Fresh Strawberry Popsicle,1,0,,99.0
+Fresh Fruit Shots,Fresh Guava,1,0,Fresh guava juice 100% natural,80.0
+Fresh Fruit Shots,Fresh Jamun,1,0,,80.0
+Fresh Fruit Shots,Fresh Kiwi,1,0,Fresh kiwi juice 100% natural,80.0
+Fresh Fruit Shots,Fresh Mulberry,1,0,Fresh mulberry juice 100% natural,80.0
+Fresh Fruit Shots,Fresh Strawberry,1,0,Fresh strawberry juice 100% natural,80.0

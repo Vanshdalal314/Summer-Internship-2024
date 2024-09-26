@@ -1,0 +1,49 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Butter Jelly Fusion Combo [300 grams],1,0,Butter Trikon [150 grams]+Rawa Jelly Cookies [150 grams],195.0
+Combos,Salty Choco Fuzz Combo [250 grams],1,0,Choco Fuzz [100 grams]+Jeera Salty Cookies [150 grams],190.0
+Combos,Butter Choco Cookies Combo [300 grams],1,0,Choco Chips [150 grams]+Butter Trikon Cookies [150 grams],195.0
+Combos,Crunchy Choco Chips Combo [300 grams],1,0,Crunch Til [150 grams]+Choco Chips Cookies [150 grams],195.0
+Combos,Classic Combo [250 grams],1,0,Kaju Classic [150 grams]+Jeera Salty Cookies [100 grams],205.0
+Combos,Crunchy Salty Mix Combo [250 grams],1,0,Almond Crunch [150 grams]+Jeera Salty Cookies [100 grams],200.0
+Combos,Choco Almond Fuzz Combo [300 grams],1,0,Choco Fuzz [150 grams]+Almond Crunch Cookies [150 grams],260.0
+Combos,Fusion Cookie Combo [250 grams],1,0,Almond Crunch+Kaju Classic+Choco Fuzz+Butter Tricon+Crunch Til Cookies [250 grams],205.0
+Cookies,Kaju Classic Cookie [200 grams],1,0,,190.0
+Cookies,Almond Crunch Cookie [200 grams],1,0,,180.0
+Cookies,Choco Fuzz Cookie [200 grams],1,0,,180.0
+Cookies,Rava Jelly Cookie [200 grams],1,0,,140.0
+Cookies,Choco Chips Cookie [200 grams],1,0,,140.0
+Cookies,Crunch Till Cookie [200 grams],1,0,,140.0
+Cookies,Hyderabadi Cookie [200 grams],1,0,,140.0
+Cookies,Jeera Salty Cookie [200 grams],1,0,,140.0
+Cookies,Butter Tricon Cookie [200 grams],1,0,,140.0
+Cookies,Cream Roll [1 Piece],1,0,,50.0
+Cakes,Pineapple Cake,1,0,,360.0
+Cakes,Strawberry Cake,1,0,,360.0
+Cakes,Black Forest Cake,1,0,,360.0
+Cakes,White Forest Cake,1,0,,360.0
+Cakes,Mango Cake,1,0,,360.0
+Cakes,Vanilla Cake,1,0,,360.0
+Cakes,Kiwi Cake,1,0,,360.0
+Cakes,Blueberry Cake,1,0,,360.0
+Cakes,Choco Mango Cake,1,0,,360.0
+Cakes,Blackcurrant Cake,1,0,,360.0
+Cakes,Oreo Dream Cake,1,0,,390.0
+Cakes,Pineapple Butterscotch Cake,1,0,,390.0
+Cakes,Choco Vanilla Cake,1,0,,390.0
+Cakes,Choco Pineapple Cake,1,0,,390.0
+Cakes,Choco Strawberry Cake,1,0,,390.0
+Cakes,Butterscotch Cake,1,0,,390.0
+Cakes,Royal Cassata Cake,1,0,,390.0
+Cakes,Black Forest Superfine Cake,1,0,,390.0
+Cakes,Rice Royal Chocolate Cake,1,0,,430.0
+Cakes,Choco Chips Cake,1,0,,430.0
+Cakes,Choco Delight Cake,1,0,,430.0
+Cakes,German Forest Cake,1,0,,430.0
+Cakes,Choco Walnut Cake,1,0,,480.0
+Cakes,Delicious Dried Fruits Cake,1,0,,480.0
+Cakes,Roasted Almond Cake,1,0,,480.0
+Cakes,Rock Said Cake,1,0,,480.0
+Cakes,Choco Coffee Cake,1,0,,480.0
+Cakes,Dutch Truffle Cake,1,0,,530.0
+Cakes,Choco Mud Cake,1,0,,680.0
+Cakes,KitKat with Gems Cake,1,0,,1030.0

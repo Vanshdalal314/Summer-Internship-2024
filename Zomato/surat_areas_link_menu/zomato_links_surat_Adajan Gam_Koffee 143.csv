@@ -1,0 +1,69 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza and Pasta,Delight Veg,1,0,"Onion,tomato,capsicum,pizza pasta sause,c.dip",150.0
+Pizza and Pasta,Type Of Pizza Crust Pizza,1,0,"Paneer,fresh tomato,capsicum,red paprika,p.p.s,bbq dip",165.0
+Pizza and Pasta,Paneer Tandoori Veg,1,0,"Onion,capsicum,double paneer,red paprika,t.dip,c.dip,p.p.s",195.0
+Pizza and Pasta,American Salsa,1,0,"Onion,sweet corn,mushroom,capsicum,salsa dip",195.0
+Pizza and Pasta,Basil & Pesto Lover,1,0,"Onion,capsicum,sweet corn,jalepino,pesto b.s.dip",195.0
+Pizza and Pasta,White Sauce Pasta,1,0,,150.0
+Pizza and Pasta,Pink Sauce Pasta,1,0,,180.0
+Pizza and Pasta,Red Sauce Pasta,1,0,,150.0
+Pizza and Pasta,143 Special Pasta,1,0,,180.0
+Burgers and Sandwiches,Aloo Tikki Burger,1,0,,90.0
+Burgers and Sandwiches,Cheese Burger,1,0,,120.0
+Burgers and Sandwiches,Cheese Burst Burger,1,0,,120.0
+Burgers and Sandwiches,Jain Burger,1,0,[Non Alcoholic],110.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,135.0
+Burgers and Sandwiches,Tandoori Veggie Cheese Grilled Sandwich,1,0,,150.0
+Burgers and Sandwiches,Mexican Cheese Grilled Sandwich,1,0,,150.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,,120.0
+Maggi,Cheese Chilli Maggi,1,0,,105.0
+Maggi,143 Special Maggi,1,0,,150.0
+Maggi,Veg Masala Maggi,1,0,,120.0
+Maggi,Double Masala Maggi,1,0,,75.0
+Snacks,Salted French Fries,1,0,,90.0
+Snacks,Masala French Fries,1,0,,105.0
+Snacks,Peri Peri French Fries,1,0,,105.0
+Snacks,Cheese French Fries,1,0,,135.0
+Snacks,Cheese Chilli French Fries,1,0,,135.0
+Snacks,Cheese Chilli Toast,1,0,,135.0
+Snacks,Smoky BBQ Paneer Cheese Toast,1,0,,135.0
+Snacks,Paneer Tandoori Chilli Toast,1,0,,150.0
+Snacks,Cheese Nachos,1,0,,90.0
+Snacks,Mexican Supreme Nachos,1,0,,105.0
+Snacks,Cheese Garlic Bread,1,0,,120.0
+Snacks,Veggie Cheese Garlic Bread,1,0,,135.0
+Snacks,Chilli Cheese Garlic Bread,1,0,,135.0
+Snacks,Cheesy Jalapeno Poppers [9 Pieces],1,0,,150.0
+Snacks,Tippy Mexican Bean [4 Pieces],1,0,,150.0
+Snacks,Tippy Chilli Corn Bean [4 Pieces],1,0,,150.0
+Desserts and Beverages,Milk Tea,1,0,,75.0
+Desserts and Beverages,Black Tea,1,0,,75.0
+Desserts and Beverages,Ginger Masala Tea,1,0,,75.0
+Desserts and Beverages,Green Tea,1,0,,75.0
+Desserts and Beverages,Strawberry Milkshake,1,0,,135.0
+Desserts and Beverages,KitKat Milkshake,1,0,,165.0
+Desserts and Beverages,Oreo Milkshake,1,0,,135.0
+Desserts and Beverages,Browni Chocolate Milkshate,1,0,,165.0
+Desserts and Beverages,Chocolate Milkshake,1,0,,135.0
+Desserts and Beverages,Lemon Mint Iced Tea,1,0,,120.0
+Desserts and Beverages,Green Apple Iced Tea,1,0,,130.0
+Desserts and Beverages,Peach Iced Tea,1,0,,130.0
+Desserts and Beverages,Strawberry Iced Tea,1,0,,120.0
+Desserts and Beverages,Blue Berry Ice Tea,1,0,,180.0
+Desserts and Beverages,Lychee Ice Tea,1,0,,180.0
+Desserts and Beverages,Lemon Mint Mojito,1,0,,150.0
+Desserts and Beverages,Green Apple Mojito,1,0,,180.0
+Desserts and Beverages,Peach Mojito,1,0,,150.0
+Desserts and Beverages,Strawberry Mojito,1,0,,160.0
+Desserts and Beverages,Blue Berry Mojitos,1,0,,200.0
+Desserts and Beverages,Lychee Mojito,1,0,,200.0
+Desserts and Beverages,Mocha Cawa,1,0,,160.0
+Desserts and Beverages,Mocha Cawa with Ice Cream,1,0,,180.0
+Desserts and Beverages,Frappe,1,0,,160.0
+Desserts and Beverages,Chocolate Cold Coffee,1,0,,170.0
+Desserts and Beverages,Iced Mocha,1,0,,150.0
+Desserts and Beverages,Cappuccino,1,0,,120.0
+Desserts and Beverages,Hot Chocolate Coffee,1,0,,130.0
+Desserts and Beverages,Hot Mocha,1,0,,130.0
+Desserts and Beverages,Caramel Latte,1,0,,130.0
+Desserts and Beverages,Espresso,1,0,,100.0

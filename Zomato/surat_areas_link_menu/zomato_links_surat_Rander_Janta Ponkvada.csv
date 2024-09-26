@@ -1,0 +1,13 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Ponk Vada,1,0,With garlic and onion.,125.0
+Snacks,Lasan Sev,1,0,With garlic.,52.0
+Snacks,Limbu Mari Sev,1,0,Black pepper and lemon juice sev.,52.0
+Snacks,Jain Ponk Vada,1,0,No onion and no garlic.,125.0
+Snacks,Ponk Patties,1,0,With garlic and coconut crush.,130.0
+Snacks,Lal Mirchi Sev,1,0,Red chilli powder.,50.0
+Snacks,Sadi Sev,1,0,Only salt.,48.0
+Snacks,Mix Sev,1,0,All sev including garlic sev.,52.0
+Snacks,Jain Mix Sev,1,0,Without garlic sev.,52.0
+Snacks,Kachi Ponk Petis,1,0,You need to fry before use.,125.0
+Snacks,Kacha Ponkvada,1,0,You need to fry before use.,120.0
+Snacks,Kacha Jain Ponkvada,1,0,You need to fry before use.,120.0

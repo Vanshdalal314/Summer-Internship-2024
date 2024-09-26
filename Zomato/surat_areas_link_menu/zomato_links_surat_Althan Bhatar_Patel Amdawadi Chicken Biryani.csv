@@ -1,0 +1,6 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,"Special Chicken Dum Biryani [Full, 750 ml]",0,0,,160.0
+Biryani,"Special Chicken Dum Biryani [Half, 600 ml]",0,0,,120.0
+Starters,"Chicken 65 Boneless [Regular, 250 grams]",0,0,,140.0
+Starters,"Chicken Dana [Regular, 250 grams]",0,0,,120.0
+Starters,Chicken Lollipop Fry [6 Pieces],0,0,,180.0

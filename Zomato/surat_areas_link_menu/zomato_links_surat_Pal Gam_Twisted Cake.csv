@@ -1,0 +1,64 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fathers Day Special Cakes,Pineapple Cake,1,0,"Whipped cream smothered between soft layers of sponge cake, soaked in pineapple syrup.",320.0
+Fathers Day Special Cakes,Chocolate Chips Cake,1,0,"A delicate chocolate cake studded with chocolate, covered in a creamy frosting and ... read more",350.0
+Fathers Day Special Cakes,Strawberry Cake,1,0,"Deliciously moist and flavorful, this strawberry pound cake is a one bowl treat ... read more",320.0
+Fathers Day Special Cakes,Black Forest Cake,1,0,Deliciously moist black forest cake is a cut above the rest with homemade ... read more,325.0
+Fathers Day Special Cakes,Butterscotch Cake,1,0,,320.0
+Fathers Day Special Cakes,Chocolate Vanilla Cake,1,0,"It is made with melted, unsweetened baking chocolate along with evaporated milk and ... read more",350.0
+Fathers Day Special Cakes,Swiss Chocolate Cake,1,0,"It is made with melted, unsweetened baking chocolate along with evaporated milk and ... read more",350.0
+Fathers Day Special Cakes,Chocolate KitKat Cake,1,0,It is a chocolate layer cake built for breaks with plenty of KitKat ... read more,440.0
+Fathers Day Special Cakes,Chocolate Mud Cake,1,0,Deliciously moist and rich chocolate cake with a desirable mud like consistency. Contains ... read more,390.0
+Fathers Day Special Cakes,Chocolate Pineapple Cake,1,0,"Whipped cream smothered between soft layers of sponge cake, soaked in pineapple syrup.",360.0
+Fathers Day Special Cakes,Chocolate Stick Cake,1,0,,380.0
+Fathers Day Special Cakes,Chocolate Oreo Cake,1,0,Oreo cake is the perfect combo of moist chocolate cake from scratch layered ... read more,350.0
+Fathers Day Special Cakes,Chocolate Truffle Cake,1,0,"A chocolate layer cake recipe with dense, moist chocolate cake. Silky chocolate truffle ... read more",450.0
+Fathers Day Special Cakes,Chocolate Love Cake,1,0,"Our special cake for celebrations, dark chocolate cake with chocolate sponge and chocolate ... read more",450.0
+Fathers Day Special Cakes,Full KitKat Chocolate Cake,1,0,It is a chocolate layer cake built for breaks with plenty of KitKat ... read more,680.0
+Fathers Day Special Cakes,Chocolate Strawberry Cake,1,0,,360.0
+Fathers Day Special Cakes,Midnight Chocolate Cake,1,0,,340.0
+Fathers Day Special Cakes,Chocolate Zebra Cake,1,0,Indulge in a decadent dessert with rich chocolate and distinct zebra stripes.,350.0
+Fathers Day Special Cakes,Cassata Cake,1,0,Cassata cake consists of sponge cake moistened with fruit juices layered with America ... read more,320.0
+Fathers Day Special Cakes,Chocolate Flex Cake,1,0,,325.0
+Fathers Day Special Cakes,Chocolate Marble Cake,1,0,,350.0
+Fathers Day Special Cakes,Chocolate Delight Cake,1,0,It consists of chocolate sponge and melted chocolate and chocolate cream inside and ... read more,420.0
+Fathers Day Special Cakes,Chocolate Butterscotch Cake,1,0,,340.0
+Fathers Day Special Cakes,Blueberry Cake,1,0,"Moist, fluffy and soft. Loaded with fresh blueberries and topped with a delicious ... read more",320.0
+Fathers Day Special Cakes,Ferrero Rocher Cake,1,0,,640.0
+Fathers Day Special Cakes,Death by Chocolate Cake,1,0,,450.0
+Fathers Day Special Cakes,Full KitKat Full Gems Cake,1,0,It is a chocolate layer cake built for breaks with plenty of KitKat ... read more,950.0
+Fathers Day Special Cakes,Chocolate Full KitKat Truffle Cake,1,0,"A chocolate layer cake recipe with dense, moist chocolate cake, silky chocolate truffle ... read more",650.0
+Fathers Day Special Cakes,Pinata Cake,1,0,,800.0
+Fathers Day Special Cakes,Almond Cake,1,0,,450.0
+Fathers Day Special Cakes,Special Oreo Chips Cake [500 grams],1,0,,550.0
+Fathers Day Special Cakes,Chocolate Delight Flex [500 grams],1,0,,360.0
+Fathers Day Special Cakes,Truffle Toffee Cake [500 grams],1,0,,550.0
+Fathers Day Special Cakes,Cookies and Cream Cake,1,0,,450.0
+Pastries,Chocolate Chips Pastry [2 Pieces],1,0,,150.0
+Pastries,Chocolate Mud Pastry [2 Pieces],1,0,,150.0
+Pastries,Cassata Pastry [2 Pieces],1,0,,140.0
+Pastries,Chocolate KitKat Pastry [2 Pieces],1,0,,190.0
+Pastries,Chocolate Truffle Pastry [2 Pieces],1,0,,190.0
+Pastries,Special Family Blow Cake [400 grams],1,0,,300.0
+Pastries,Special Chocolate Taco Pastry,1,0,,150.0
+Cakes,Chocolate Chips Cake [300 grams],1,0,,250.0
+Cakes,Chocolate Stick Cake [300 grams],1,0,,250.0
+Cakes,Chocolate Oreo Cake [300 grams],1,0,,260.0
+Cakes,Chocolate Mud Cake [300 grams],1,0,,260.0
+Cakes,Chocolate Pineapple Cake [300 grams],1,0,,250.0
+Cakes,Pineapple Cake [300 grams],1,0,,250.0
+Cakes,Cassata Cake [300 grams],1,0,,250.0
+Muffins,Chocolate Truffle Muffins [2 Pieces],1,0,,100.0
+Muffins,Chocolate Gems Muffins [2 Pieces],1,0,,100.0
+Muffins,Chocolate KitKat Muffins [2 Pieces],1,0,,100.0
+Muffins,Cookies and Cream Muffins [2 Pieces],1,0,,100.0
+Muffins,Baby Boss Chocolate Cake [1 kg],1,0,,1100.0
+Special Themes Cake,Baby Boss Chocolate Cake . [1 kg],1,0,,1100.0
+Special Themes Cake,Bon Voyage Chocolate Cake [1 kg],1,0,,1100.0
+Special Themes Cake,Unicorn Chocolate Cake [1 kg],1,0,,1100.0
+Special Themes Cake,Spider Man Chocolate Cake [1 kg],1,0,,1100.0
+Special Themes Cake,Cocomelon Chocolate Cake [1 kg],1,0,,1100.0
+Special Themes Cake,Car Chocolate Cake [1 kg],1,0,,1100.0
+Special Themes Cake,Dad Special Chocolate Cake,1,0,,600.0
+Mom Special Chocolate Cake,Mom Special Chocolate Cake,1,0,,410.0
+Mom Special Chocolate Cake,World Best Mom Cake,1,0,,500.0
+Mom Special Chocolate Cake,Heart Shape Mother'S Special Chocolate Cake,1,0,,540.0

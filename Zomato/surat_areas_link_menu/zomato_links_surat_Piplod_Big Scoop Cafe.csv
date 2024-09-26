@@ -1,0 +1,164 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Milk Tea Series,Assam Milk Tea,1,0,,159.0
+Milk Tea Series,Rose Milk Tea,1,0,,199.0
+Milk Tea Series,Strawberry Milk Tea,1,0,,199.0
+Milk Tea Series,Thai Milk Tea,1,0,,199.0
+Milk Tea Series,Watermelon Milk Tea,1,0,,199.0
+Premium Milk Tea Series,Blue Island Milk Tea,1,0,,229.0
+Premium Milk Tea Series,Bubblegum Milk Tea,1,0,,229.0
+Premium Milk Tea Series,Green Melon Milk Tea,1,0,,229.0
+Premium Milk Tea Series,Mango Milk Tea,1,0,,229.0
+Premium Milk Tea Series,Matcha Milk Tea,1,0,,229.0
+Premium Milk Tea Series,Red Velvet Milk Tea,1,0,,229.0
+Premium Milk Tea Series,Taro Milk Tea,1,0,,229.0
+Chocolate Boba Series,Belgian Chocolate Boba,1,0,,249.0
+Chocolate Boba Series,Black Forest Boba,1,0,,249.0
+Chocolate Boba Series,Chocolate Crumble Boba,1,0,,249.0
+Chocolate Boba Series,Simple Chocolate Boba,1,0,,199.0
+Coffee Boba Series,Boba Frappe,1,0,,229.0
+Coffee Boba Series,Boba Mocha Frappe,1,0,,249.0
+Coffee Boba Series,Iced Coffee Boba,1,0,,189.0
+Coffee Boba Series,Iced Mocha Boba,1,0,,199.0
+Cream Shake Series,Biscoff Bliss Shake,1,0,,299.0
+Cream Shake Series,Dark Chocolate Shake,1,0,,269.0
+Cream Shake Series,Mango Matcha Shake,1,0,,299.0
+Cream Shake Series,Nutella Cream Boba Shake,1,0,,299.0
+Cream Shake Series,Oreo Cream Shake,1,0,,269.0
+Cream Shake Series,Taro Cream Shake,1,0,,299.0
+Popping Fizz Series,Berry Burst,1,0,,219.0
+Popping Fizz Series,Blue Blush,1,0,,219.0
+Popping Fizz Series,Electric Yuzu,1,0,,219.0
+Popping Fizz Series,Green Apple,1,0,,219.0
+Popping Fizz Series,Pinacolada,1,0,,219.0
+Popping Fizz Series,Pink Lady,1,0,,219.0
+Popping Fizz Series,Red Grape,1,0,,219.0
+Popping Fizz Series,Strawberry Mint,1,0,,219.0
+Hot Coffee,Cafe Latte [230 Ml],1,0,"Light, hot coffee, with a shot of espresso in steamed milk",169.0
+Hot Coffee,Cafe Mocha [230 Ml],1,0,"Hot coffee made with the right blend of espresso, hot milk and rich ... read more",169.0
+Hot Coffee,Cappuccino [230 Ml],1,0,"Single shots of italian styled espresso, evened out with steamed and foamed milk",169.0
+Hot Coffee,Espresso,1,0,,129.0
+Hot Coffee,Espresso Americano [230 Ml],1,0,An americano is a bit stronger with a rich bold flavor.,169.0
+Hot Coffee,Filter Coffee [100 Ml],1,0,A coffee drink made with boiled milk with the infusion obtained by percolation ... read more,129.0
+Hot Coffee,Irish Coffee [230 Ml],1,0,,169.0
+Hot Coffee,Nutella Mocha [230 Ml],1,0,Get high on caffeine with this nutella chocolate latte.,199.0
+Hot Tea,Detox Tea [230 Ml],1,0,,129.0
+Hot Tea,Ginger Jasmine [230 Ml],1,0,,129.0
+Hot Tea,Ginger Tea,1,0,,129.0
+Hot Tea,Green Tea Matcha [230 Ml],1,0,,129.0
+Hot Tea,Green Tea [230 Ml],1,0,Green tea as a beverage or dietary supplement is promoted for improving mental ... read more,129.0
+Hot Tea,Hibuscus Mint [230 Ml],1,0,,129.0
+Hot Tea,Masala Tea,1,0,,129.0
+Hot Chocolate,Biscoff Hot Chocolate [230 Ml],1,0,,199.0
+Hot Chocolate,Classic Hot Chocolate [230 Ml],1,0,"Our hot chocolate is richer, its creamier and it tastes very much like ... read more",179.0
+Hot Chocolate,Hot Chocolate Nutella [230 Ml],1,0,,199.0
+Scoops,American Nuts [120 Ml],1,0,,99.0
+Scoops,Black Currant [120 Ml],1,0,,79.0
+Scoops,Classic Chocolate [120 Ml],1,0,,69.0
+Scoops,Classic Strawberry [120 Ml],1,0,,59.0
+Scoops,Classic Vanilla [120 Ml],1,0,,59.0
+Scoops,Mocha Brownie Fudge [120 Ml],1,0,,99.0
+Sundae,Brownie Fudge [120 Grams],1,0,,169.0
+Sundae,Choco Passion [250 Grams],1,0,,229.0
+Sundae,Death By Chocolate [250 Grams],1,0,,249.0
+Sundae,Nutty Fruity [250 Grams],1,0,,229.0
+Ice Cream Pastries,Butterscotch Pastry [125 Ml],1,0,,149.0
+Ice Cream Pastries,Chocolate Pastry [125 Ml],1,0,,149.0
+Ice Cream Cake,Butterscotch Cake [500 Ml],1,0,,349.0
+Ice Cream Cake,Chocolate Cake [500 Ml],1,0,,349.0
+Cold Coffee,Brownie Burst,1,0,,319.0
+Cold Coffee,Bsc Frappe,1,0,,199.0
+Cold Coffee,Bsc Mocha Frappe,1,0,,229.0
+Cold Coffee,Cookie Crumble Mocha,1,0,,279.0
+Cold Coffee,Dark Devil,1,0,,319.0
+Cold Coffee,Java Chip Caramel,1,0,,279.0
+Mojito,Mixed Berry Magic Mojito,1,0,,169.0
+Mojito,Strawberry Mojito,1,0,,169.0
+Mojito,Virgin Mojito,1,0,,149.0
+Mojito,Watermelon Mojito,1,0,,169.0
+Iced Tea,Lemon Iced Tea,1,0,,169.0
+Iced Tea,Passion Fruit Iced Tea,1,0,,169.0
+Iced Tea,Peach Iced Tea,1,0,,169.0
+Iced Tea,Watermelon Iced Tea,1,0,,169.0
+Milk Shakes,Black Current Shake,1,0,,179.0
+Milk Shakes,Brownie Choco Shake,1,0,,239.0
+Milk Shakes,Cold Chocolate Shake,1,0,,179.0
+Milk Shakes,French Vanilla Shake,1,0,,169.0
+Milk Shakes,Kit Kat Shake,1,0,,239.0
+Milk Shakes,Mango Shake,1,0,,179.0
+Milk Shakes,Oreo Shake,1,0,,239.0
+Milk Shakes,Strawberry Shake,1,0,,179.0
+Slush,Cool Blue Slush,1,0,,179.0
+Slush,Green Apple Meltdown Slush,1,0,,179.0
+Slush,Strawberry Slurp Slush,1,0,,179.0
+Slush,Yuzu Slush,1,0,,179.0
+On The Rocks,Classic Cold Brew,1,0,,179.0
+On The Rocks,Iced Americano,1,0,,179.0
+On The Rocks,Iced Latte,1,0,,179.0
+On The Rocks,Vietnamese Coffee,1,0,,179.0
+On The Rocks,Vietnamese Cold Brew,1,0,,179.0
+Sweet Eats,Brownie [100 Grams],1,0,,129.0
+Sweet Eats,Chocolava Cake [75 Grams],1,0,,129.0
+Doughnuts,Biscoff Doughnut [120 Grams],1,0,,149.0
+Doughnuts,Choco Caramel Doughnut [100 Grams],1,0,,129.0
+Doughnuts,Chocolate Doghnut [100 Grams],1,0,,89.0
+Doughnuts,Nutella Doughnut [120 Grams],1,0,,149.0
+Crossaints,Biscoff Crossaint [130 Grams],1,0,,239.0
+Crossaints,Butter Crossaint [100 Grams],1,0,,189.0
+Crossaints,Cheese Cream Boba Crossaint [130 Grams],1,0,,249.0
+Crossaints,Nutella Crossaint [130 Grams],1,0,,239.0
+Crossiant Sandwich,Cheesy Veg Crossaint Sandwich [150 Grams],1,0,,249.0
+Crossiant Sandwich,Classic Veg Sandwich [130 Grams],1,0,,239.0
+Crossiant Sandwich,Crossaint Surprise Sandwich [150 Grams],1,0,,319.0
+Muffins & Tea Cake,Choco Muffin [100 Grams],1,0,,99.0
+Muffins & Tea Cake,Honey Bar Cake [100 Grams],1,0,,89.0
+Muffins & Tea Cake,Mava Tea Cake [100 Grams],1,0,,89.0
+Muffins & Tea Cake,Tea Time Cake [100 Grams],1,0,,89.0
+Muffins & Tea Cake,Vanilla Muffin [100 Grams],1,0,,99.0
+Pizza,Corn And Cheese Pizza,1,0,,219.0
+Pizza,Double Cheese Margarita Pizza,1,0,,189.0
+Pizza,Garden Fresh Veg Pizza,1,0,,239.0
+Pizza,Peri Peri Paneer Pizza,1,0,,249.0
+Pizza,Tandoori Paneer Pizza,1,0,,249.0
+Burger,Cheesy Veg Burger [200 Grams],1,0,,189.0
+Burger,Paneer Tikka Burger [220 Grams],1,0,,219.0
+Burger,Veggie Burger [180 Grams],1,0,,129.0
+Sandwich,Corn And Peas Veg Sandwich [250 Grams],1,0,,249.0
+Sandwich,Junglee Veg Delight Sandwich [200 Grams],1,0,,229.0
+Sandwich,Paneer Tikka Sandwich [250 Grams],1,0,,279.0
+Sandwich,Peri Peri Paneer Sandwich [250 Grams],1,0,,279.0
+Quick Bite,Cheese Nachos [100 Grams],1,0,,199.0
+Quick Bite,Cheesy Fries [180 Grams],1,0,,199.0
+Quick Bite,Chilli Cheese Toast [100 Grams],1,0,,129.0
+Quick Bite,Garden Veg Toast [100 Grams],1,0,,159.0
+Quick Bite,Garlic Bread [100 Grams],1,0,,129.0
+Quick Bite,Nachos [80 Grams],1,0,,189.0
+Quick Bite,Paneer Cheese Toast [100 Grams],1,0,,189.0
+Quick Bite,Peri Peri Fries [150 Grams],1,0,Spiced peri peri french fries.,179.0
+Quick Bite,Salted Fries [150 Grams],1,0,Classic salted french fries.,149.0
+Addons,Addon Espresso [30 Ml],1,0,,40.0
+Addons,Boba Pearls [40 Grams],1,0,,40.0
+Addons,Bursting Boba [40 Grams],1,0,,40.0
+Addons,Cheese Cream [50 Ml],1,0,,50.0
+Addons,Cheese Slice [15 Grams],1,0,,30.0
+Addons,Chocolate Syrup [20 Ml],1,0,,40.0
+Addons,Flavours [20 Ml],1,0,,40.0
+Addons,Nana De Coco [40 Grams],1,0,,40.0
+Addons,Sauce Dip (Mayo) [50 Grams],1,0,,40.0
+Addons,Whipped Cream [30 Grams],1,0,,50.0
+Simple Series,Coffee Addiction,1,0,,129.0
+Simple Series,Simple Dark Chocolate,1,0,,129.0
+Simple Series,Smooth Cold Brew,1,0,,129.0
+Simply Awesome Series,Magic Matcha,1,0,,159.0
+Simply Awesome Series,Tasty Taro,1,0,,159.0
+Packaged Beverages,Ginger Ale Cold Brew [350 Ml],1,0,,249.0
+Packaged Beverages,Ginger Ale Espresso [350 Ml],1,0,,249.0
+Packaged Beverages,Red Bull Cold Brew [350 Ml],1,0,,249.0
+Packaged Beverages,Red Bull Espresso [350 Ml],1,0,,249.0
+Packaged Beverages,Red Bull [250 Ml],1,0,,200.0
+Packaged Beverages,Tonic Water Cold Brew [350 Ml],1,0,,249.0
+Packaged Beverages,Tonic Water Espresso [350 Ml],1,0,,249.0
+Daily Special 2.O (non-boba),Ginger Pepper Mint,1,0,The exhilarating fusion of flavors in this ginger pepper mint concoction! It's a ... read more,149.0
+Daily Special 2.O (non-boba),Hawaiin Cocktail,1,0,Transport yourself to the shores of Hawaii with this refreshing summer beverage! Picture ... read more,149.0
+Daily Special 2.O (non-boba),Hibiscus Mint,1,0,The delightful harmony of hibiscus and mint with this refreshing beverage! Picture a ... read more,149.0
+Daily Special 2.O (non-boba),Hongkong Exotic Summer,1,0,Immerse yourself in the vibrant streets of Hong Kong with this exotic summer ... read more,149.0
+Daily Special 2.O (non-boba),Sharjah Shake,1,0,The bustling streets of Sharjah with this decadent and creamy Sharjah Shake! A ... read more,149.0

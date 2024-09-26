@@ -1,0 +1,144 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Party Combos,Veg Manchurian Gravy with Veg Fried Rice and Veg Hakka Noodles,1,0,Veg Manchurian Gravy with Veg Fried Rice and Veg Hakka Noodles,270.0
+Party Combos,Paneer Handi [300 ml] + Roti [6 Piece] + Jeera Rice + Dal Tadka,1,0,[Serve 2],303.0
+Party Combos,Paneer Tikka Masala [300 ml] + Butter Roti [6 Piece] + Jeera Rice + Dal Fry + Sweet Lassi,1,0,[Serve 2],340.0
+Party Combos,Paneer Tikka Dry + Kaju Paneer Masala [300 ml] + Butter Roti [6 Piece] + Special Buttermilk -2,1,0,[Serve 2],380.0
+Party Combos,Mysore Masala Dosa + Sada Dosa + Masala Dosa`,1,0,,190.0
+Party Combos,Paneer Chilli + Chinese Bhel,1,0,,215.0
+Party Combos,Veg Manchurian Dry + Veg Jaipuri + Butter Roti [4 Piece],1,0,,220.0
+Party Combos,Paneer Masala [300 ml] + Butter Roti [6 Piece] + Special Buttermilk-2,1,0,,190.0
+Party Combos,Veg Manchurian Gravy + Veg Fried Rice,1,0,,180.0
+Zomato Express Meals,Special Kathiyawadi Thali,1,0,Baigan bharta shaakh+sev tomato+khichdi kadhi/daalbhaat+2 bajri rotla/3 chapati+chaas+papad+achaar/salad.,163.0
+Zomato Express Meals,Special Punjabi Thali,1,0,Paneer Sabji+Veg Sabji+Dal Fry+Jeera Rice+Chaas+Papad+3 Tandoori Butter Roti/4 Chapati+Chaas+Papad+Achaar/Salad,152.0
+Zomato Express Meals,Special Gujarati Thali,1,0,Kathod sabji+green veg+gujarati dal+chapati [4 pieces]+chaas+papad+achaar/salad.,142.0
+Starters,Paneer Tikka Dry [8 Pieces],1,0,,140.0
+Starters,Paneer Hariyali Tikka Dry [8 Pieces],1,0,,150.0
+Starters,Paneer Lasooni Tikka Dry [8 Pieces],1,0,,160.0
+Starters,Hara Bhara Kebab [10 Pieces],1,0,,110.0
+Starters,Mushroom Tikka [8 Pieces],1,0,,130.0
+Starters,Chilli Potato,1,0,,110.0
+Main Course,Malai Kofta,1,0,,100.0
+Main Course,Nargisi Kofta,1,0,,100.0
+Main Course,Veg Kofta,1,0,,100.0
+Main Course,Paneer Kofta,1,0,,115.0
+Main Course,Dal Fry,1,0,,65.0
+Main Course,Dal Tadka,1,0,,75.0
+Main Course,Aloo Matar,1,0,,85.0
+Main Course,Chana Masala,1,0,,80.0
+Main Course,Mixed Veg,1,0,,90.0
+Main Course,Veg Jaipuri,1,0,,90.0
+Main Course,Veg Kolhapuri,1,0,,90.0
+Main Course,Veg Handi,1,0,,95.0
+Main Course,Veg Diwani Handi,1,0,,95.0
+Main Course,Veg Kadai,1,0,,100.0
+Main Course,Veg Tawa,1,0,,100.0
+Main Course,Veg Toofani,1,0,,110.0
+Main Course,Veg Angara,1,0,,120.0
+Main Course,Kaju Curry,1,0,,140.0
+Main Course,Kaju Masala,1,0,,140.0
+Main Course,Palak Paneer,1,0,,95.0
+Main Course,Paneer Matar,1,0,,110.0
+Main Course,Paneer Masala,1,0,,100.0
+Main Course,Paneer Tikka Masala,1,0,,120.0
+Main Course,Paneer Butter Masala,1,0,,120.0
+Main Course,Mushroom Paneer,1,0,,130.0
+Main Course,Paneer Bhurji,1,0,,120.0
+Main Course,Paneer Pasanda,1,0,,130.0
+Main Course,Paneer Chatpata,1,0,,130.0
+Main Course,Shahi Paneer,1,0,,130.0
+Main Course,Paneer Lahsuniya,1,0,,130.0
+Main Course,Chana Paneer,1,0,,100.0
+Main Course,Paneer Handi,1,0,,120.0
+Main Course,Paneer Kadai,1,0,,120.0
+Main Course,Paneer Angara,1,0,,140.0
+Main Course,Paneer Balti,1,0,,130.0
+Main Course,Paneer Toofani,1,0,,130.0
+Main Course,Cheese Angara,1,0,,140.0
+Main Course,Cheese Butter Masala,1,0,,140.0
+Main Course,Paneer Patiyala,1,0,,135.0
+Main Course,Kaju Paneer Masala,1,0,,150.0
+Main Course,Khoya Kaju,1,0,,140.0
+Main Course,Om Special Veg,1,0,[Chef's Special],160.0
+Main Course,Dahi Gathiya,1,0,,80.0
+Main Course,Sev Tamatar,1,0,,70.0
+Main Course,Bhindi Masala,1,0,,80.0
+Main Course,Baingan Bharta,1,0,,95.0
+Main Course,Mag Masala,1,0,,80.0
+Main Course,Lahsuniya Bataka,1,0,,70.0
+Breads,Roti,1,0,,8.0
+Breads,Butter Roti,1,0,,10.0
+Breads,Missi Roti,1,0,,25.0
+Breads,Paratha,1,0,,20.0
+Breads,Naan,1,0,,25.0
+Breads,Butter Paratha,1,0,,25.0
+Breads,Butter Naan,1,0,,30.0
+Breads,Butter Kulcha,1,0,,25.0
+Breads,Stuffed Paratha,1,0,,40.0
+Breads,Garlic Naan,1,0,,40.0
+Breads,Cheese Naan,1,0,,40.0
+Breads,Aloo Paratha Curd,1,0,,60.0
+Breads,Chapati,1,0,,7.0
+Breads,Butter Chapati,1,0,,9.0
+Breads,Rotla,1,0,,14.0
+Breads,Makai Rotla,1,0,,14.0
+Breads,Butter Rotla,1,0,,17.0
+Breads,Fried Paratha,1,0,,20.0
+Rice and Biryani,Steamed Rice,1,0,,50.0
+Rice and Biryani,Jeera Rice,1,0,,60.0
+Rice and Biryani,Veg Pulao,1,0,,90.0
+Rice and Biryani,Tawa Pulao,1,0,,100.0
+Rice and Biryani,Kashmiri Pulao,1,0,,100.0
+Rice and Biryani,Khichdi Kadhi,1,0,,75.0
+Rice and Biryani,Fried Khichdi,1,0,,85.0
+Rice and Biryani,Dal Bhat,1,0,,70.0
+Rice and Biryani,Veg Biryani,1,0,,100.0
+Rice and Biryani,Hyderabadi Biryani,1,0,,110.0
+Rice and Biryani,Handi Biryani,1,0,,110.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,90.0
+Fried Rice and Noodles,Noodles Fried Rice,1,0,,90.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,100.0
+Fried Rice and Noodles,Mushroom Fried Rice,1,0,,100.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,90.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,,100.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,100.0
+Fried Rice and Noodles,Chinese Bhel,1,0,,95.0
+South Indian Dishes,Mysore Masala Dosa,1,0,,75.0
+South Indian Dishes,Mysore Sada Dosa,1,0,,65.0
+South Indian Dishes,Masala Dosa,1,0,,65.0
+South Indian Dishes,Rava Masala,1,0,,65.0
+South Indian Dishes,Sada Dosa,1,0,,50.0
+South Indian Dishes,Rava Sada,1,0,,50.0
+South Indian Dishes,Onion Uttapam,1,0,,65.0
+South Indian Dishes,Mixed Uttapam,1,0,,70.0
+South Indian Dishes,Masala Uttapam,1,0,,65.0
+South Indian Dishes,Cheese Masala Dosa,1,0,,95.0
+Chinese Dishes,Veg Manchurian Dry,1,0,,90.0
+Chinese Dishes,Veg Manchurian Gravy,1,0,,90.0
+Chinese Dishes,Veg 65,1,0,,100.0
+Chinese Dishes,Paneer Chilli Dry,1,0,,120.0
+Chinese Dishes,Paneer Chilli Gravy,1,0,,120.0
+Chinese Dishes,Veg Crispy,1,0,,100.0
+Snack,Chole Bhature,1,0,,65.0
+Soups,Tomato Soup,1,0,,70.0
+Soups,Veg Hot and Sour Soup,1,0,,80.0
+Soups,Veg Manchow Soup,1,0,,80.0
+Soups,Veg Mushroom Soup,1,0,,90.0
+Accompaniments,Roasted Papad,1,0,,8.0
+Accompaniments,Fried Papad,1,0,,15.0
+Accompaniments,Masala Papad,1,0,,20.0
+Accompaniments,Tomato Salad,1,0,,30.0
+Accompaniments,Green Salad,1,0,,40.0
+Accompaniments,Kachumber Salad,1,0,,40.0
+Accompaniments,Veg Raita,1,0,,40.0
+Accompaniments,Boondi Raita,1,0,,40.0
+Accompaniments,Ghee Gud,1,0,,35.0
+Drinks (Beverages),Buttermilk,1,0,,12.0
+Drinks (Beverages),Special Buttermilk,1,0,,15.0
+Drinks (Beverages),Sweet Lassi,1,0,,35.0
+Drinks (Beverages),Salted Lassi,1,0,,45.0
+Drinks (Beverages),Special Lassi,1,0,,45.0
+Drinks (Beverages),Thumbs Up,1,0,,30.0
+Drinks (Beverages),Nimbu Pani,1,0,,25.0
+Drinks (Beverages),Soda (200 ml),1,0,,30.0
+Drinks (Beverages),Iced Tea,1,0,,30.0

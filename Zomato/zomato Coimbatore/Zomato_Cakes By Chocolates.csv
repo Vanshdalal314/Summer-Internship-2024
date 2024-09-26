@@ -1,0 +1,20 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pastries,Sicilian Pistachio Pastry,0,0,,200.0
+Pastries,American Peanut Butter Pastry,0,0,,200.0
+Pastries,C Mille Pastry,0,0,,200.0
+Pastries,Frederick's Opera Pastry,0,0,,200.0
+Pastries,Captain Jack Pastry,0,0,,200.0
+Pastries,Silky Rose Pastry,0,0,,200.0
+Pastries,Swiss Chocolate Truffle Pastry,0,0,,200.0
+Jars,Dulce De Leche Jar,0,0,,210.0
+Brownies,36% Milk Chocolate Brownie,0,0,,230.0
+Brownies,55% Dark Chocolate Brownie,0,0,,230.0
+Brownies,Peanut Butter Brownie,0,0,,230.0
+Brownies,Hazelnut Brownie,0,0,,250.0
+Cakes,American Peanut Butter Cake,0,0,,1100.0
+Cakes,C Mile Cake,0,0,,1100.0
+Cakes,Pistachio Cake,0,0,,1100.0
+Cakes,Frederick'S Opera Cake,0,0,,1100.0
+Cakes,Silky Rose Cake,0,0,,2250.0
+Cakes,Swiss Choco Truffle Cake,0,0,,1100.0
+Cakes,Jack Fruit Cake,0,0,,1100.0

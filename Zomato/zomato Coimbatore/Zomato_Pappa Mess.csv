@@ -1,0 +1,28 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tiffin,Idli [4 Pieces],1,0,,69.0
+Tiffin,2 Poori,1,0,,69.0
+Tiffin,2 Kal Dosai,1,0,,69.0
+Tiffin,1 Podi Dosa,1,0,,59.0
+Tiffin,1 Egg Dosa,1,0,,49.0
+Tiffin,1 Chicken Kal Dosa,1,0,,119.0
+Tiffin,Onion Dosa,1,0,,59.0
+Tiffin,Ghee Dosa,1,0,,59.0
+Tiffin,Roast Dosa,1,0,,69.0
+Tiffin,Ghee Roast,1,0,,69.0
+Tiffin,2 Egg Kal Dosai,1,0,2 Pcs Egg Used Egg Kal Dosai,59.0
+Tiffin,Chicken Omelette,1,0,,70.0
+Tiffin,Mushroom Manchurian [500 ml],1,0,,129.0
+Tiffin,Gobi Manchurian [500 ml],1,0,,119.0
+Tiffin,Idli [4 Pieces] with Chicken Fry [500 ml],1,0,,180.0
+Starters,Chicken 65 [250 ml],1,0,,130.0
+Starters,Chicken Manchurian,1,0,,129.0
+Starters,Chicken Fry [250 ml],1,0,,109.0
+Starters,Chicken Liver Fry [250 ml],1,0,,89.0
+Starters,Pepper Chicken Dry [250 ml],1,0,,129.0
+Starters,Egg Chicken Liver Fry [250 ml],1,0,,109.0
+Starters,"Egg Masala [250 ml, 2 Eggs]",1,0,,69.0
+Starters,Chilli Chicken Leg [1 Piece],1,0,,59.0
+Starters,Chicken Wings [1 Set],1,0,,59.0
+Main Course,Egg Podimas [4 Eggs],1,0,,70.0
+Snacks,Omelette [1 Egg],1,0,,25.0
+Snacks,Kulambu Kalaki,1,0,,25.0

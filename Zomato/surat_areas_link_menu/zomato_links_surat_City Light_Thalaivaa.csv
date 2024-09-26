@@ -1,0 +1,80 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian Dishes,Steam Idli [3 Pieces],1,0,Soft savoury rice cake served with 3 different type of chutneys and sambhar,100.0
+South Indian Dishes,Thattu Idli [2 Pieces],1,0,2 Large sized idli sprinkled with our house made Podi and topped with ... read more,210.0
+South Indian Dishes,Mini Idli [10 Pieces],1,0,10 Pieces of small cute coin size idlis specially for kids served with ... read more,150.0
+South Indian Dishes,Butter Idli [3 Pieces],1,0,Soft savoury rice cake topped with generous amount of butter served with 3 ... read more,160.0
+South Indian Dishes,Idli Medu Vada [2 Pieces + 1 Piece],1,0,Soft savoury rice cake and crispy Vada served with 3 different type of ... read more,200.0
+South Indian Dishes,Fried Idli [2 Pieces],1,0,Idlis that are deep fried and made crunchy served with 3 different type ... read more,170.0
+South Indian Dishes,Masala Idli,1,0,"Idli sauté with onion, garlic, coriander, tomatoes with a tangy taste served with ... read more",200.0
+South Indian Dishes,Cheese Idli [3 Pieces],1,0,,180.0
+South Indian Dishes,Masala Dosa,1,0,,210.0
+South Indian Dishes,Plain Dosa,1,0,"| Serve 1 , 1 Pc | | Not spicy |",140.0
+South Indian Dishes,Mysore Masala Dosa With Potato Bhaji,1,0,,220.0
+South Indian Dishes,Rava Onion Masala Dosa,1,0,,230.0
+South Indian Dishes,Chetinaad Dosa,1,0,[Spreaded With Chetinaad Chutney],250.0
+South Indian Dishes,Cheese Dosa,1,0,,180.0
+South Indian Dishes,Rava Onion Dosa,1,0,,190.0
+South Indian Dishes,Mini Dosa Platter,1,0,"[Plain, Podi, Chetinaad]",250.0
+South Indian Dishes,Mysore Dosa,1,0,[Spreaded With Pudina Chutney],190.0
+South Indian Dishes,Paneer Roast Dosa,1,0,,280.0
+South Indian Dishes,Rava Dosa,1,0,,180.0
+South Indian Dishes,Podi Dosa,1,0,,200.0
+South Indian Dishes,Rava Masala Dosa,1,0,,220.0
+South Indian Dishes,Neer Dosa,1,0,,180.0
+South Indian Dishes,Onion Dosa,1,0,,170.0
+South Indian Dishes,Onion Masala Dosa,1,0,,210.0
+South Indian Dishes,Raagi Dosa [Millet Dosa],1,0,,190.0
+South Indian Dishes,Set Dosa With Vadai Curry,1,0,,250.0
+South Indian Dishes,Beetroot Dosa,1,0,,210.0
+South Indian Dishes,Coconut Dosa,1,0,,210.0
+South Indian Dishes,Patta Dosa,1,0,,250.0
+South Indian Dishes,Onion Tomato Utthapam,1,0,"| Serve 1 , 1 Pc | | Not spicy |",230.0
+South Indian Dishes,Masala Utthapam,1,0,,250.0
+South Indian Dishes,Onion Utthapam,1,0,,210.0
+South Indian Dishes,Tomato Utthapam,1,0,,210.0
+South Indian Dishes,Mini Utthapam Platter,1,0,"[Plain, Podi, Tomato, Masala]",350.0
+South Indian Dishes,Plain Utthapam,1,0,,180.0
+South Indian Dishes,Coconut Utthapam,1,0,,210.0
+South Indian Dishes,Podi Utthapam,1,0,,210.0
+South Indian Dishes,Medu Vada [2 Pieces],1,0,Crispy from outside and soft from inside Vada served with 3 different type ... read more,150.0
+South Indian Dishes,Daal Vada [6 Pieces],1,0,Crispy fried Vada(fritters) made with lentils and mixed with spices and herbs served ... read more,170.0
+South Indian Dishes,Thairu [Curd] Vada [2 Pieces],1,0,Extremely soft Vada mixed with generous amount of sweet curd topped with pomegranate ... read more,160.0
+South Indian Dishes,Onion Medu Vada [2 Pieces],1,0,Crispy from outside and soft from inside Vada mixed with onion served with ... read more,160.0
+South Indian Dishes,Medu Vada Platter,1,0,"1 pc Medu Vada, 1 pc Onion Medu Vada and 2 pieces of ... read more",230.0
+South Indian Dishes,Veg Upma,1,0,"A popular South Indian breakfast with Suji flour(Rava/Semolina), veggies, spices and herbs.",200.0
+South Indian Dishes,Rava Upma,1,0,A popular South Indian breakfast with Suji flour(Rava/Semolina) spices and herbs.,180.0
+Drinks (Beverages),Lemon Ginger With Water,1,0,,90.0
+Drinks (Beverages),Coconut Sweet Lassi,1,0,,150.0
+Drinks (Beverages),Butter Milk [Neer Mor],1,0,,110.0
+Drinks (Beverages),Sweet Fresh Lime Soda,1,0,,110.0
+Drinks (Beverages),Sweet Lassi,1,0,,130.0
+Drinks (Beverages),Lemon Ginger With Soda,1,0,,110.0
+Drinks (Beverages),Coke,1,0,,60.0
+Drinks (Beverages),Sprite,1,0,,60.0
+Drinks (Beverages),Salty Fresh Lime Soda,1,0,,110.0
+Combos,Mini Plain Dosa + Steam Idli [2 Pieces],1,0,,119.0
+Combos,Steam Idli [2 Pieces] + 250 ML Thums Up,1,0,"| Serves 1 , 2 Pcs | | Not spicy |",99.0
+Combos,Mini Masala Dosa + 200 ML Butter Milk,1,0,| Serves 1 |,139.0
+Combos,Mini Chetinaad Dosa + 200 ML Butter Milk,1,0,,149.0
+Combos,Mini Chetinaad Dosa + 250 ML Thumps Up,1,0,,159.0
+Thalaivaa Special Dishes,Puri Bhaji [4 Puri],1,0,4 pieces of Puri served with South Indian style aloo bhaji,120.0
+Thalaivaa Special Dishes,Kuzhi Paniyaram Rice Balls,1,0,"[Soft Inside, Crispy Outside]",210.0
+Thalaivaa Special Dishes,Aapam With Stew,1,0,Bowl shaped Dosa having a sweet mild coconut flavour served with Stew(made of ... read more,250.0
+Thalaivaa Special Dishes,Potato Bonda With Chutney,1,0,,170.0
+Thalaivaa Special Dishes,Ven Pongal,1,0,"Ven Pongal is a traditional South Indian dish made with ghee, rice and lentils ... read more",240.0
+Thalaivaa Special Dishes,Iddiyapam With Vadai Curry,1,0,,240.0
+Thalaivaa Special Dishes,Aapam With Vadai Curry,1,0,Bowl shaped Dosa having a sweet mild coconut flavour served with Vadai Curry(made ... read more,260.0
+Thalaivaa Special Dishes,Thairu Bundi [Curd],1,0,,170.0
+Thalaivaa Special Dishes,Iddiyapam With Butter Podi,1,0,,220.0
+Extras,Aplam,1,0,,65.0
+Extras,Puri [2 Pieces],1,0,,60.0
+Extras,Rice,1,0,,70.0
+Extras,Podi Powder,1,0,,50.0
+Extras,Rice Roti,1,0,,90.0
+Extras,Aloo Bhaji,1,0,,70.0
+Extras,Thairu [Curd],1,0,,70.0
+Extras,Aapam - Bowl Dosa,1,0,,140.0
+Extras,Raita,1,0,,90.0
+South Indian Dessert,Pineapple Kesari,1,0,,190.0
+South Indian Dessert,Kesari Bhaat,1,0,,190.0
+South Indian Dessert,Coconut Kesari Bhaat,1,0,,190.0

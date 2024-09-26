@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fried Chicken,Chicken Popcorn,0,0,,179.0
+Fried Chicken,Hot Wings,0,0,,199.0
+Fried Chicken,Crispy Chicken Lollipop,0,0,,199.0
+Fried Chicken,Peri Peri Chicken Popcorn,0,0,,199.0
+Fried Chicken,Boneless Chicken Strips,0,0,,219.0
+Fried Chicken,Fusion Chicken Popcorn,0,0,,239.0
+Fried Chicken,Cheesy Chicken Popcorn,0,0,,239.0
+Fried Chicken,Peri Peri Chicken Strips,0,0,Boneless crispy chicken strips seasoned with spicy and yummy peri peri sprinkler and ... read more,239.0
+Fried Chicken,Barbeque Wings,0,0,,239.0
+Fried Chicken,Chicken Wings,0,0,,179.0
+Fried Chicken,Crispy Chicken Drumsticks,0,0,,239.0
+Twister,Classic Chicken Twister,0,0,,179.0
+Twister,Hot and Spicy Chicken Twister,0,0,,189.0
+Twister,Hot Garlic Chicken Twister,0,0,,189.0
+Twister,Schezwan Chicken Twister,0,0,,189.0
+Twister,Peri Peri Chicken Twister,0,0,,199.0
+Twister,Barbeque Chicken Twister,0,0,,199.0
+Twister,Cheese Blast Chicken Twister,0,0,,229.0
+Twister,Bnr Special Chicken Twister,0,0,[Chef's Special],229.0
+Twister,Exotic Chicken Twister,0,0,,269.0
+Combos,Triple Deal Bucket,1,0,Boneless Chicken Strips [3 Pieces]+Chicken Lollipop [3 Pieces]+Hot Wings [3 Pieces]+1 Peri Peri ... read more,399.0
+Combos,Burger Combo,0,0,Classic Chicken Cheese Burger+Chicken Popcorn+Fries [Small]+Pepsi [250 ml]+Dip,439.0
+Combos,Twister Combo,0,0,Classic Chicken Cheese Twister+Chicken Popcorn+Fries [Small]+Pepsi [250 ml]+Dip,439.0
+Combos,Pizza Combo,0,0,BNR Special Chicken Pizza [7 inches]+Chicken Popcorn+Fries [Small]+Pepsi [250 ml]+Dip,499.0
+Combos,Too Mush Crispy Bucket,0,0,Crispy Chicken Drumstick [2 Pieces]+Peri Peri Chicken Strip [4 Pieces]+Chicken Popcorn [12 Pieces]+2 ... read more,599.0
+Combos,Much Saving Bucket,0,0,Crispy Chicken Drumsticks [2 Pieces]+Boneless Chicken Strip [4 Pieces]+Peri Peri Popcorn [12 Pieces]+Hot ... read more,749.0
+Combos,All in One Bucket,0,0,Crispy Chicken Drumsticks [2 Pieces]+Chicken Strips [4 Pieces]+Chicken Popcorn [12 Pieces]+Hot Wings [5 ... read more,899.0
+Combos,Broasted Chicken Combo,0,0,Broasted Chicken+French Fries+Pepsi Soft Beverage [250 ml]/7UP Soft Beverage [250 ml]/Mirinda Soft Beverage [250 ... read more,349.0
+Combos,Chicken Popcorn with Chicken Zinger Burger,0,0,,400.0
+Combos,Peri Peri Chicken Popcorn with Chicken Zinger Burger,0,0,,450.0
+Combos,Chicken Popcorn with Chicken Wings,0,0,,400.0
+Combos,Peri Peri Chicken Popcorn with Chicken Wings,0,0,,400.0
+Pizza,Margherita Pizza,1,0,,189.0
+Pizza,Cheese Corn Pizza,1,0,,219.0
+Pizza,Veg Classic Pizza,1,0,,199.0
+Pizza,Bnr Special Chicken Pizza,0,0,[Chef's Special],249.0
+Pizza,Barbeque Chicken Pizza,0,0,,269.0
+Pizza,Exotic Chicken Pizza,0,0,,289.0
+Burgers and Sandwiches,Veg Aloo Tikki Burger,1,0,,99.0
+Burgers and Sandwiches,Classic Chicken Burger,0,0,,179.0
+Burgers and Sandwiches,Hot and Spicy Chicken Burger,0,0,,189.0
+Burgers and Sandwiches,Hot Garlic Chicken Burger,0,0,,189.0
+Burgers and Sandwiches,Schezwan Chicken Burger,0,0,,189.0
+Burgers and Sandwiches,Peri Peri Chicken Burger,0,0,,199.0
+Burgers and Sandwiches,Barbeque Chicken Burger,0,0,,199.0
+Burgers and Sandwiches,Cheese Blast Chicken Burger,0,0,,229.0
+Burgers and Sandwiches,Double Decker Chicken Burger,0,0,,269.0
+Burgers and Sandwiches,Classic Chicken Grilled Sandwich,0,0,,189.0
+Burgers and Sandwiches,Hot and Spicy Chicken Grilled Sandwich,0,0,,199.0
+Burgers and Sandwiches,Schezwan Chicken Grilled Sandwich,0,0,,199.0
+Burgers and Sandwiches,Peri Peri Chicken Grilled Sandwich,0,0,,199.0
+Burgers and Sandwiches,Double Decker Chicken Grilled Sandwich,0,0,,269.0
+French Fries,Regular French Fries,1,0,,99.0
+French Fries,Peri Peri Fries,1,0,,129.0
+French Fries,Fusion Fries,1,0,,159.0
+French Fries,Cheesy Fries,1,0,,159.0
+French Fries,Loaded Chicken Fries,0,0,,229.0
+Chicken Chizza,Chicken Chizza,0,0,,269.0
+Chicken Chizza,Double Decker Chicken Chizza,0,0,,399.0

@@ -1,0 +1,41 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Gravy Item [Bone],Butter Chicken,0,0,,342.0
+Gravy Item [Bone],Kali Mirch Chicken,0,0,"With Gravy || Images used are for representation purposes only, and do not ... read more",342.0
+Gravy Item [Bone],Lemon Chicken,0,0,"With Gravy Images used are for representation purposes only, and do not ... read more",342.0
+Gravy Item [Bone],Lemon Kali Mich Mix[bone],0,0,,654.0
+Dry Items [Bone],Butter Chicken Dry,0,0,With Bone,342.0
+Dry Items [Bone],Dahi Chicken Dry,0,0,,630.0
+Dry Items [Bone],Kali Mirch Chicken Dry,0,0,"With Bone || Images used are for representation purposes only, and do not ... read more",342.0
+Dry Items [Bone],Lemon Chicken Dry,0,0,"With Bone || Images used are for representation purposes only, and do not ... read more",342.0
+Boneless (Keema),Butter Chicken Boneless Gravy,0,0,,630.0
+Boneless (Keema),Kali Mirch Chicken Boneless Gravy,0,0,"Mages used are for representation purposes only, and do not indicate size, portion, ... read more",630.0
+Boneless (Keema),Lemon Chicken Boneless Gravy,0,0,Lemon chicken recipe yields tender chicken bites with a dominant flavor of lemon ... read more,630.0
+Boneless (Keema),Lemon Kali Mich Mix[Boneless],0,0,,654.0
+Boneless Dry,Butter Chicken Boneless Dry,0,0,,630.0
+Boneless Dry,Cream Chicken,0,0,,660.0
+Boneless Dry,Dahi Chicken Boneless Dry,0,0,"Mages used are for representation purposes only, and do not indicate size, portion, ... read more",630.0
+Boneless Dry,Kali Mirch Chicken Boneless Dry,0,0,,630.0
+Boneless Dry,Lemon Chicken Boneless Dry,0,0,,630.0
+Extra,Curd,1,0,A healthy and tasty side of curd that ca be relished on its ... read more,96.0
+Extra,Dal Fry,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,120.0
+Extra,Extra Gravy,0,0,,228.0
+Extra,Extra Leg Piece,0,0,,654.0
+Extra,Kaleji Dry,0,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",342.0
+Extra,Kaleji With Gravy,0,0,,342.0
+Paratha With Curd And Dal,Aloo Paratha,1,0,"Wholesome parathas with generous seasoned potato stuffing; served with curd, salad and pickle. ... read more",132.0
+Paratha With Curd And Dal,Aloo Paratha Butter,1,0,,144.0
+Paratha With Curd And Dal,Ghobi Paratha,1,0,Soft and fluffy flatbread with a mashed caulifloret stuffing; served with curd and ... read more,168.0
+Paratha With Curd And Dal,Gobhi Paratha Butter,1,0,,180.0
+Paratha With Curd And Dal,Paneer Paratha,1,0,"Hearty parathas with ample stuffing of seasoned paneer chunks; served with curd, salad ... read more",192.0
+Paratha With Curd And Dal,Paneer Paratha Butter,1,0,,204.0
+Paratha With Curd And Dal,Plain Paratha,1,0,Multilayered wheat bread baked in tandoor. Are made from pure wheat flour on ... read more,96.0
+Paratha With Curd And Dal,Plain Paratha With Butter,1,0,,108.0
+Paratha With Curd And Dal,Pyaaz Paratha,1,0,,132.0
+Paratha With Curd And Dal,Pyazz Paratha Butter,1,0,,144.0
+Roti,Butter Roti,1,0,Soft and fluffy rotis topped with a generous serving of butter. || Images ... read more,24.0
+Roti,Cold Drinks,1,0,,24.0
+Roti,Jeera Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices. || Images ... read more,144.0
+Roti,Mineral Water,1,0,,24.0
+Roti,Papad,1,0,"Mages used are for representation purposes only, and do not indicate size, portion, ... read more",18.0
+Roti,Plain Rice,1,0,"Heat ghee in a vessel and fry the sliced onions till golden brown, ... read more",108.0
+Roti,Plain Roti,1,0,Super-soft roti that is usually paired with a gravy-based dish. || Images used ... read more,18.0

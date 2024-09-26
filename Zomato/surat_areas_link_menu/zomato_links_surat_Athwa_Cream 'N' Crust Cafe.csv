@@ -1,0 +1,38 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pastries,Strawberry Pastry,1,0,A vanilla sponge coated with fresh cream mixed with strawberry crush and fresh ... read more,131.9
+Pastries,Chocolate Royale Pastry,1,0,"Chocolate Sponge, with bittersweet Chocolate ganache, decorated with chocolate coating.",131.9
+Pastries,Ferrero Rocher Pastry,1,0,"Chocolate sponge, ferrero rocher filling, hazelnut, dark chocolate.",170.0
+Pastries,Cookies & Cream Pastry,1,0,"White sponge, fresh cream, surprise fruit filling, Dark and white chocolate flakes with ... read more",131.9
+Pastries,Dutch Truffle Pastry,1,0,"Chocolate sponge, double chocolate gooey ganache, silver sprinkle decoration.",170.0
+Pastries,Chocolate Kitkat Pastry,1,0,"Chocolate Sponge, kitkat pieces with kitkat ganache and coating.",170.0
+Pastries,Chocolate Sacher Pastry,1,0,"Chocolate sponge, chocolate truffle, layer of mixed fruit jam and sweet cream coating ... read more",131.9
+Pastries,Chocolate Pyramid Pastry,1,0,"Chocolate sponge, chocolate truffle, sweet chocolate coating with white chocolate decoration.",131.9
+Pastries,Chocolate German Pastry,1,0,"Chocolate sponge with a dark chocolate ganache, decorated with walnut pieces.",170.0
+Pastries,Chocolate Delight Pastry,1,0,"Chocolate sponge, ferrero rocher filling, hazelnut, dark chocolate, Chocolate Delight.",170.0
+Ice Cream,Gems and Cake Ice Cream,1,0,Doesn't the name just remind you of your parties as a kid? Go ... read more,80.0
+Mini Desserts,Cup Cake,1,0,The delicious tangy taste of strawberry paired with the richness of cream and ... read more,61.5
+Mini Desserts,Donut,1,0,"Yeast raised, light and soft, freshly prepared donuts with delicious chocolate ganache in ... read more",95.0
+Mini Desserts,Brownie,1,0,Gooey and cakey brownie squares made with a rich and lasting chocolate taste.,95.0
+Mini Desserts,Mini Red Velvet Cupcake,1,0,One bite cupcake with moist red velvet sponge with a sweet and buttery ... read more,35.0
+Mini Desserts,Mini KitKat Cupcake,1,0,One bite cupcake with chocolate sponge on the bottom and KitKat ganache on ... read more,35.0
+Mini Desserts,Mini Strawberry Razzle Cupcake,1,0,One bite cupcake with vanilla sponge and strawberry sauce center topped with delicious ... read more,35.0
+Mini Desserts,Kitkat Cheesecake,1,0,,195.0
+Mini Desserts,MIni Chocolate Mocha Cupcake,1,0,Combining coffee and chocolate with a super soft and moist chocolate base topped ... read more,35.0
+Cakes,Black Forest Cake,1,0,classic version of the original Black Forest cake with Fresh cream frosting and ... read more,424.0
+Cakes,Pineapple Cake,1,0,"Vanilla sponge, fresh cream and our chef's special fresh pineapple crush. And we ... read more",424.0
+Cakes,White Forest Cake,1,0,White coloured cake loaded with white chocolate and cherry crush on a vanilla ... read more,424.0
+Cakes,Chocolate Royal Cake,1,0,"Chocolate Sponge, with bittersweet Chocolate ganache, decorated with chocolate coating.",500.0
+Hot Counter,Veg Puff,1,0,"Mixed vegetables,our special spices,flaky puff",80.0
+Hot Counter,Paneer Chilly Croissant,1,0,Buttery croissant filled with a generous serving of paneer chilly made in house.,80.0
+Hot Counter,Italian Pizza,1,0,"An age old favourite of our patrons,the Italian pizza is simple and straight ... read more",132.0
+Hot Counter,Paneer Pizza,1,0,Spicy saucy paneer pizza.Should we say more?,132.0
+Hot Counter,Paneer Tandoori Roll,1,0,,80.0
+Hot Counter,Paneer Puff,1,0,,80.0
+Hot Counter,Chinese Puff,1,0,East meets west when strong Indo-Chinese flavours meet the humble puff.,80.0
+Hot Counter,Paneer Roll,1,0,,80.0
+Hot Counter,Masala Roll,1,0,"Fresh veggies,house blend of masalas,all wrapped in fresh bread",80.0
+Hot Counter,Manchurian Croissant,1,0,"A traditional flaky,basic buttery croissant stuffed with home made manchuria.",80.0
+Hot Counter,Paneer Tikka Croissant,1,0,The lip smacking blend of spicy paneer tikka filling with a buttery croissant,80.0
+Hot Counter,Paneer Mayonnaise Roll,1,0,"Paneer,mayonnaise,carrot,cabbage,capsicum and onion seasoned lightly and stuffed in a hot dog style soft ... read more",80.0
+Hot Counter,Schezwan Pizza,1,0,Like a dash of spice in your pizza? this schezwan pizza hits the ... read more,135.0
+Savouries,Fries & Dips,1,0,A tiffin full of classic potato fries and 5 delicious dips.Cheese Sauce+Garlic Yogurt+Peri ... read more,183.33

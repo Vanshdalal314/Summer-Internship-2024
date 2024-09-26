@@ -1,0 +1,199 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Baba Specials,Egg Mini Baba,0,0,,200.0
+Baba Specials,Egg Butter Mini Baba,0,0,,240.0
+Baba Specials,Baba Special Egg,0,0,,270.0
+Baba Specials,Baba Special Butter Egg,0,0,,320.0
+Baba Specials,Egg Angoor Rabdi,0,0,,280.0
+Baba Specials,Egg Butter Angoor Rabdi,0,0,,330.0
+Baba Specials,Egg Paplet Gravy,0,0,,290.0
+Baba Specials,Egg Butter Paplet Gravy,0,0,,340.0
+Baba Specials,Egg Ghari,0,0,,280.0
+Baba Specials,Egg Butter,0,0,,330.0
+Baba Specials,Egg Lapeta,0,0,,280.0
+Baba Specials,Egg Lahori,0,0,,150.0
+Baba Specials,Egg Butter Lahori,0,0,,190.0
+Baba Specials,Egg Ravaiya,0,0,,190.0
+Baba Specials,Egg Butter Ravaiya,0,0,,240.0
+Baba Specials,Egg Machi Fry,0,0,,180.0
+Baba Specials,Egg Butter Machi Fry,0,0,,230.0
+Baba Specials,Egg Kachi Pakki Lahori,0,0,,150.0
+Baba Specials,Egg Butter Kachi Pakki Lahori,0,0,,190.0
+Baba Specials,Egg Dosa,0,0,,180.0
+Baba Specials,Egg Butter Dosa,0,0,,230.0
+Baba Specials,Egg Mamna Gravy,0,0,,300.0
+Baba Specials,Egg 65,0,0,,320.0
+Baba Specials,Egg Tiranga Fry,0,0,,230.0
+Baba Specials,Egg Butter Tiranga Fry,0,0,,280.0
+Baba Specials,Egg Butter 65,0,0,,370.0
+Baba Specials,Egg Butter Mamna Gravy,0,0,,350.0
+Baba Specials,Egg Pizza,0,0,,230.0
+Baba Specials,Egg Butter Pizza,0,0,,280.0
+Baba Specials,Egg Kashmiri Cheese Fry,0,0,,250.0
+Baba Specials,Egg Butter Kashmiri Cheese Fry,0,0,,300.0
+Baba Specials,Egg Hyderabadi Royal Kachu,0,0,,280.0
+Baba Specials,Egg Patra Gravy,0,0,,270.0
+Baba Specials,Egg Butter Patra Gravy,0,0,,330.0
+Baba Specials,Egg Pataudi,0,0,,270.0
+Baba Specials,Egg Butter Pataudi,0,0,,330.0
+Baba Specials,Egg Mughlai,0,0,,280.0
+Baba Specials,Egg Butter Mughlai,0,0,,330.0
+Baba Specials,Egg Hum Tum,0,0,,250.0
+Baba Specials,Egg Chingari,0,0,,270.0
+Baba Specials,Egg Butter Chingari,0,0,,320.0
+Baba Specials,Egg Red and Green,0,0,,300.0
+Baba Specials,Egg Butter Red and Green,0,0,,350.0
+Baba Specials,Egg Tikhari,0,0,,270.0
+Baba Specials,Egg Butter Tikhari,0,0,,320.0
+Baba Specials,Egg Kasata,0,0,,300.0
+Baba Specials,Egg Butter Kasata,0,0,,350.0
+Baba Specials,Egg Family Dish [12 Eggs],0,0,,550.0
+Baba Specials,Egg Butter Family Dish [12 Eggs],0,0,,600.0
+Baba Specials,Egg Butter Boiled Chips,0,0,,170.0
+Baba Specials,Special Egg Paneer,0,0,,330.0
+Baba Specials,Special Egg Butter Paneer,0,0,,380.0
+Baba Specials,Egg Cheese Rabdi,0,0,,140.0
+Baba Specials,Egg Butter Cheese Rabdi,0,0,,170.0
+Baba Specials,Baba Egg Dhamaka [10 Eggs],0,0,,500.0
+Baba Specials,Baba Egg Butter Dhamaka [10 Eggs],0,0,,550.0
+Baba Specials,Egg Rahul Special,0,0,,250.0
+Baba Specials,Egg Butter Rahul Special,0,0,,300.0
+Baba Specials,Special Egg Cream Pataudi,0,0,,270.0
+Baba Specials,Special Egg Butter Cream Pataudi,0,0,,320.0
+Baba Specials,Egg Cheese Kofta,0,0,,130.0
+Baba Specials,Egg Butter Cheese Kofta,0,0,,150.0
+Baba Specials,Egg Cream Cheese Kofta,0,0,,150.0
+Baba Specials,Egg Butter Cream Cheese Kofta,0,0,,170.0
+Baba Specials,Egg Royal Saute,0,0,,200.0
+Baba Specials,Egg Butter Royal Saute,0,0,,250.0
+Baba Specials,Egg Bhurji,0,0,,75.0
+Baba Specials,Egg Butter Bhurji,0,0,,100.0
+Baba Specials,Egg Bharta,0,0,,150.0
+Omelette,Egg Omelette,0,0,,30.0
+Omelette,Egg Limbumari Omelette [1 Egg],0,0,,35.0
+Omelette,Egg Butter Limbumari Omelette,0,0,,55.0
+Omelette,Egg Cheese Gravy Omelette [2 Eggs],0,0,,110.0
+Omelette,Egg Butter Cheese Gravy Omelette [2 Eggs],0,0,,130.0
+Omelette,Egg Cheese Omelette,0,0,,50.0
+Omelette,Egg Salad Omelette,0,0,,75.0
+Omelette,Egg Royal Omelette,0,0,,100.0
+Omelette,Egg Paper Omelette,0,0,,70.0
+Omelette,Egg Butter Paper Omelette,0,0,,90.0
+Kadhi Specials,Egg Kadhi,0,0,,70.0
+Kadhi Specials,Egg Butter Kadhi,0,0,,90.0
+Kadhi Specials,Egg Cream Kadhi,0,0,,80.0
+Kadhi Specials,Egg Butter Cream Kadhi,0,0,,90.0
+Kadhi Specials,Special Egg Cream Kadhi Tadka [3 Eggs],0,0,,170.0
+Kadhi Specials,Special Egg Butter Cream Kadhi Tadka,0,0,,200.0
+Kadhi Specials,Egg Tadka Kadhi,0,0,,90.0
+Kadhi Specials,Egg Butter Tadka Kadhi,0,0,,110.0
+Kadhi Specials,Special Egg Paneer Kadhi,0,0,,100.0
+Kadhi Specials,Special Egg Butter Paneer Kadhi,0,0,,120.0
+Kadhi Specials,Egg Kaju Kadhi [2 Eggs],0,0,,150.0
+Kadhi Specials,Egg Butter Kaju Kadhi,0,0,,175.0
+Meals,Egg Gravy with Pulao,0,0,Egg Gravy with Pulao,90.0
+Meals,Egg Butter Gravy with Pulao,0,0,Egg Butter Gravy with Pulao,110.0
+Salads,Boiled Egg Salad,0,0,,20.0
+Salads,Boiled Egg Cheese Salad,0,0,,50.0
+Breads,Roti,1,0,,10.0
+Breads,Butter Roti,1,0,,15.0
+Breads,Pav,1,0,,4.0
+Breads,Butter Pav,1,0,,6.0
+Rice,Egg Butter Rice,0,0,,120.0
+Rice,Egg Green Pulao [2 Eggs],0,0,,80.0
+Rice,Egg Butter Green Pulao,0,0,,120.0
+Rice,Egg Cheese Pulao,0,0,,100.0
+Fried Rice,Egg Triple Fried Rice [4 Eggs],0,0,,170.0
+Fried Rice,Egg Butter Triple Fried Rice [4 Eggs],0,0,,220.0
+Fried Rice,Egg Singapore Fried Rice,0,0,,110.0
+Fried Rice,Egg Butter Singapore Fried Rice,0,0,,140.0
+Fried Rice,Egg Schezwan Fried Rice,0,0,,100.0
+Fried Rice,Egg Butter Schezwan Fried Rice,0,0,,130.0
+Fried Rice,Egg Fried Rice,0,0,,80.0
+Sandwiches,Egg Sandwich [2 Eggs],0,0,,75.0
+Sandwiches,Egg Butter Sandwich [2 Eggs],0,0,,100.0
+Sandwiches,Egg Butter Sandwich,0,0,,100.0
+Sandwiches,Egg Butter Cheese Sandwich,0,0,,120.0
+Gotalo,Egg Red Gotalo,0,0,,120.0
+Gotalo,Egg Butter Gotalo,0,0,,150.0
+Gotalo,Egg Green Gotalo,0,0,,120.0
+Gotalo,Egg Butter Green Gotalo,0,0,,150.0
+Gotalo,Egg Cheese Red Gotalo,0,0,,140.0
+Gotalo,Egg Butter Red Cheese Gotalo,0,0,,170.0
+Gotalo,Egg Cheese Green Gotalo,0,0,,170.0
+Gotalo,Egg Butter Cheese Green Gotalo,0,0,,170.0
+Gotalo,Egg Green Goti Gotalo,0,0,,130.0
+Gotalo,Egg Cheese Goti Gotalo,0,0,,150.0
+Gotalo,Egg Butter Cheese Goti Gotalo,0,0,,170.0
+Gotalo,Egg Schezwan Gotalo,0,0,,130.0
+Gotalo,Egg Butter Schezwan Gotalo,0,0,,160.0
+Gotalo,Egg Cheese Schezwan Gotalo,0,0,,150.0
+Gotalo,Egg Butter Cheese Schezwan Gotalo,0,0,,170.0
+Khimo,Egg Red Khimo [1 Egg],0,0,,70.0
+Khimo,Egg Butter Red Khimo [1 Egg],0,0,,90.0
+Khimo,Egg Green Khimo [1 Egg],0,0,,70.0
+Khimo,Egg Butter Green Khimo [1 Egg],0,0,,90.0
+Khimo,Special Egg Green Khimo [1 Egg],0,0,,80.0
+Khimo,Special Egg Butter Green Khimo [1 Egg],0,0,,100.0
+Khimo,Egg Butter Cream Khimo,0,0,,100.0
+Khimo,Egg Cream Khimo,0,0,,80.0
+Khimo,Egg Cheese Khimo,0,0,,90.0
+Kachu,Egg Kachu,0,0,,70.0
+Kachu,Egg Butter Kachu,0,0,,90.0
+Kachu,Egg Tadka Kachu,0,0,,80.0
+Kachu,Egg Butter Tadka Kachu,0,0,,100.0
+Kachu,Egg Cheese Tadka Kachu,0,0,,90.0
+Kachu,Egg Cheese Kachu,0,0,,90.0
+Kachu,Egg Butter Cheese Kachu,0,0,,120.0
+Kachu,Egg Butter Cheese Tadka Kachu,0,0,,130.0
+Lachko,Egg Lachko,0,0,,70.0
+Lachko,Egg Butter Lachko,0,0,,90.0
+Lachko,Egg Cheese Lachko,0,0,,90.0
+Lachko,Egg Butter Cheese Lachko,0,0,,110.0
+Snacks,Masala Pav,1,0,,8.0
+Snacks,Butter Masala Pav,1,0,,10.0
+Snacks,Egg Sadi Fry,0,0,,40.0
+Snacks,Egg Butter Sadi Fry,0,0,,60.0
+Snacks,Egg Tomato Fry,0,0,,70.0
+Snacks,Egg Butter Tomato Fry,0,0,,90.0
+Snacks,Egg Cheese Tomato Fry,0,0,,90.0
+Snacks,Egg Butter Cheese Tomato Fry,0,0,,110.0
+Snacks,Egg Green Fry,0,0,,70.0
+Snacks,Egg Cheese Green Fry,0,0,,90.0
+Snacks,Egg Butter Cheese Green Fry,0,0,,110.0
+Snacks,Egg Butter Green Fry,0,0,,90.0
+Snacks,Egg Green Goti Fry,0,0,,120.0
+Snacks,Egg Cheese Green Goti Fry,0,0,,140.0
+Snacks,Egg Butter Cheese Green Goti Fry,0,0,,160.0
+Snacks,Egg Cream Goti Fry,0,0,,130.0
+Snacks,Egg Cheese Cream Goti Fry,0,0,,150.0
+Snacks,Egg Dal Fry,0,0,,70.0
+Snacks,Egg Cheese Dal Fry,0,0,,90.0
+Snacks,Egg Butter Dal Fry,0,0,,90.0
+Snacks,Egg Butter Cheese Dal Fry,0,0,,120.0
+Snacks,Egg Tadka Cheese Dal Fry,0,0,,110.0
+Snacks,Egg Butter Cheese Tadka Dal Fry,0,0,,140.0
+Snacks,Egg Australian Fry,0,0,,140.0
+Snacks,Egg Butter Australian Fry,0,0,,170.0
+Snacks,Egg Italian Fry,0,0,,180.0
+Snacks,Egg Butter Italian Fry,0,0,,220.0
+Snacks,Egg Chinese Fry,0,0,,140.0
+Snacks,Egg Butter Chinese Fry,0,0,,180.0
+Snacks,Egg Schezwan Chinese Fry,0,0,,150.0
+Snacks,Egg Butter Schezwan Chinese Fry,0,0,,200.0
+Snacks,Egg Russian Fry,0,0,,180.0
+Snacks,Egg Butter Russian Fry,0,0,,220.0
+Snacks,Egg Golden Fry,0,0,,250.0
+Snacks,Egg Butter Golden Fry,0,0,,290.0
+Snacks,Egg Jinga Fry,0,0,,150.0
+Snacks,Egg Butter Jinga Fry,0,0,,190.0
+Snacks,Egg Tawa Fry,0,0,,200.0
+Snacks,Egg Butter Tawa Fry,0,0,,240.0
+Snacks,Boiled Egg,0,0,,15.0
+Snacks,Boiled Egg Fry,0,0,,50.0
+Snacks,Egg Cutlet [2 Eggs],0,0,,75.0
+Snacks,Egg Cheese Cutlet [2 Eggs],0,0,,90.0
+Snacks,Egg Cheese and Dry Khofta [2 Eggs],0,0,,100.0
+Snacks,Boiled Butter Egg Fry,0,0,,75.0
+Snacks,Egg Butter Cutlet [2 Eggs],0,0,,100.0
+Snacks,Egg Butter Cheese Cutlet,0,0,,120.0
+Snacks,Egg Butter Cheese and Dry Khofta,0,0,,120.0

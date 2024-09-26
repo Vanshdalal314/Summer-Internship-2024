@@ -1,0 +1,245 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meal For 1,Dal Khichdi + Veg Raita,1,0,Dal Khichdi (300 Ml) Veg Raita (200 Ml),260.0
+Meal For 1,Jeera Rice + Dal Fry,1,0,Jeera Rice (300 Ml) Dal Fry (200 Ml),235.0
+Meal For 1,Paneer Butter Masala + 2 Butter Roti,1,0,Paneer Butter Masala (200 Ml),250.0
+Meal For 1,Paneer Tikka Masala + 2 Butter Roti,1,0,Paneer Tikka Masala (200 Ml),250.0
+Meal For 1,Steam Rice + Dal Makhani,1,0,Steam Rice (300 Ml) Dal Makhani (200 Ml),250.0
+Meal For 1,Veg Pulav + Dal Makhani,1,0,Veg Pulav (300 Ml) Dal Makhani (200 Ml),260.0
+Mocktails,Hawaiian Delight,1,0,"Fresh Pineapple, Pineapple Juice, Coconut Milk, Ice cream",240.0
+Mocktails,Jamaican Snowfall,1,0,"Coffee, Chocolate Ice Cream, Cream",275.0
+Mocktails,Long Island Iced Tea,1,0,Lemon Iced Tea,185.0
+Mocktails,Mai Thai,1,0,"Pineapple Juice, Pineapple Crush and Cranberry Juice",250.0
+Continental Soups,Broccoli Almond,1,0,,190.0
+Continental Soups,Cream Of Garlic,1,0,,165.0
+Continental Soups,Cream Of Mushroom,1,0,,165.0
+Continental Soups,Cream Of Tomato,1,0,,155.0
+Continental Soups,Cream Of Vegetable,1,0,,165.0
+Continental Soups,Mexican Tortilla,1,0,,170.0
+Continental Soups,Minestrone,1,0,,165.0
+Chinese Soups,Burmese Soup,1,0,,175.0
+Chinese Soups,Green Asian Soup,1,0,,175.0
+Chinese Soups,Hawa Hawai Soup,1,0,,175.0
+Chinese Soups,Hot & Sour,1,0,,165.0
+Chinese Soups,Lemon Coriander,1,0,,165.0
+Chinese Soups,Manchow,1,0,,165.0
+Chinese Soups,Shanghai Soup,1,0,,170.0
+Chinese Soups,Sweet Corn,1,0,,165.0
+Chinese Soups,Tum Yum,1,0,,165.0
+Chinese Soups,Vegetable Clear,1,0,,155.0
+Accompaniments,Boondi Raita,1,0,,145.0
+Accompaniments,Fried Papad,1,0,,45.0
+Accompaniments,Green Salad,1,0,,135.0
+Accompaniments,Masala Onion,1,0,,135.0
+Accompaniments,Pineapple Raita,1,0,,175.0
+Accompaniments,Pudina Pyaaz Ka Raita,1,0,,145.0
+Accompaniments,Roasted Papad,1,0,,35.0
+Accompaniments,Russian Salad,1,0,,190.0
+Accompaniments,Tossed Salad,1,0,,165.0
+Accompaniments,Vegetable Raita,1,0,,145.0
+Indian Starters,Hara Bhara Kebab,1,0,,255.0
+Indian Starters,Pepper Corn Tikki,1,0,,255.0
+Indian Starters,Rajwadi Roll,1,0,,255.0
+Indian Starters,Sunheri Tikki,1,0,,275.0
+Indian Starters,Veg Bullets,1,0,,270.0
+Chinese Starters,Babycorn Mushroom Red Chilly Pepper,1,0,,310.0
+Chinese Starters,Basil Chilly Paneer,1,0,,305.0
+Chinese Starters,Belgiun Cottage Cheese,1,0,,325.0
+Chinese Starters,Chilly Paneer,1,0,,305.0
+Chinese Starters,Crispy Vegetables,1,0,,265.0
+Chinese Starters,Honey Chilly Paneer,1,0,,305.0
+Chinese Starters,Humpty Dumpty,1,0,,265.0
+Chinese Starters,Kung Pao Veg,1,0,,280.0
+Chinese Starters,Malaysian Paneer,1,0,,315.0
+Chinese Starters,Mushroom In Chilly Garlic Sauce,1,0,,310.0
+Chinese Starters,Mushroom Spicy Coriander,1,0,,310.0
+Chinese Starters,Paneer Lemon Butter,1,0,,315.0
+Chinese Starters,Peri Peri Balls,1,0,,270.0
+Chinese Starters,Shanghai Paneer,1,0,,305.0
+Chinese Starters,Sizzling Chilly Potato,1,0,,255.0
+Chinese Starters,Tangy Paneer,1,0,,305.0
+Chinese Starters,Thai Chi Paneer,1,0,,305.0
+Chinese Starters,Vegetable Cilantro Chilly,1,0,,265.0
+Chinese Starters,Vegetable Green Balls,1,0,,265.0
+Chinese Starters,Vegetable Lollipop,1,0,,265.0
+Chinese Starters,Vegetable Manchurian Dry,1,0,,265.0
+Tandoori Starters,Angara Paneer Tikka,1,0,,285.0
+Tandoori Starters,Banarasi Subziyon Ki Seekh,1,0,,270.0
+Tandoori Starters,Banjara Paneer Tikka,1,0,,285.0
+Tandoori Starters,Bhuna Paneer Tikka,1,0,,285.0
+Tandoori Starters,Chatpati Broccoli,1,0,,270.0
+Tandoori Starters,Cheesy Paneer Tikka,1,0,,315.0
+Tandoori Starters,Chilli Malai Paneer Tikka,1,0,,295.0
+Tandoori Starters,Dehati Seekh,1,0,,270.0
+Tandoori Starters,Five Spice Paneer Tikka,1,0,,295.0
+Tandoori Starters,Hyderabadi Paneer Tikka,1,0,,285.0
+Tandoori Starters,Hydrabadi Cheesy Tikka,1,0,,315.0
+Tandoori Starters,Kaju Paneer Ki Seekh,1,0,,285.0
+Tandoori Starters,Lassunia Paneer Tikka,1,0,,295.0
+Tandoori Starters,Malai Broccoli,1,0,,270.0
+Tandoori Starters,Multani Mushroom,1,0,,305.0
+Tandoori Starters,Mushroom Tikka,1,0,,305.0
+Tandoori Starters,Tandoori Manchurian,1,0,,285.0
+Tandoori Starters,Tikka Paneer,1,0,,285.0
+Continental Starters,Banana Fries,1,0,,175.0
+Continental Starters,Bruschetta,1,0,"Sliced garlic bread topped with bell peppers, herbs, cheese & baked",255.0
+Continental Starters,Cheese Corn Balls,1,0,"Cheeeesy, balls stuffed with cheese, corn & herbs",315.0
+Continental Starters,Cheese Dip French Fries,1,0,Finger Cut potato with Cheese Dip,205.0
+Continental Starters,French Fries,1,0,Deep fried finger cuts of potatoes,175.0
+Continental Starters,Garlic Butter Pan Fried Mushroom,1,0,"Dice Mushroom, Bell peppers and Onion tossed in Garlic with Butter",315.0
+Continental Starters,Paneer Parmegiano,1,0,"Paneer stuffed with onion, cheese & herbs, coated with Penko, grilled on tawa, ... read more",355.0
+Continental Starters,Paneer Titbit,1,0,"Triangle shaped paneer, deep fried and tossed with tomato concasse.",315.0
+Continental Starters,Quesadilla,1,0,"Soft tortillas with a filling of beans, corn & cheese, grilled and served ... read more",320.0
+Continental Starters,Terrific Nachos,1,0,Crispy corn tortilla chips topped with cheese sauce & refried beans,255.0
+Pasta,Fettuccine Formaggio,1,0,,355.0
+Pasta,Fettuccine Spicy Chimichuri,1,0,,365.0
+Pasta,Fusilli Arrabiata Sauce,1,0,,335.0
+Pasta,Macroni Basil Formaggio,1,0,,365.0
+Pasta,Macroni Del Barone Sauce,1,0,,335.0
+Pasta,Penne Alfredo Sauce,1,0,,335.0
+Pasta,Penne Basil Pesto,1,0,,355.0
+Pasta,Speghetti Aglio Olio,1,0,,335.0
+Baked Dishes,Amazing Lasagna,1,0,Lasagna sheets layered with blanched spinach & corn cooked in b,350.0
+Baked Dishes,Chilly Corn Macroni,1,0,"Macroni, Corn, Chatpata Chilly mixed with Red & white Sauce, Cheese & Baked",350.0
+Baked Dishes,Five Cheese Alforno,1,0,"Spinach, Corn & Paneer Rolled on Pasta Sheet, Topped with Tomota Concasse, Cheese ... read more",350.0
+Baked Dishes,Spicy Italian Rice,1,0,Rice & Vegeyable mixed with spicy italian sauce topped with mozzarella & baked,350.0
+Baked Dishes,Vegetable Au Gratin,1,0,Veggies with b,350.0
+Pizzas,Classic Margarita Pizza,1,0,"Tomato , cheese, basil (10 inches)",310.0
+Pizzas,Mac N Cheese Pizza,1,0,,330.0
+Pizzas,Mexicana Pizza,1,0,"Spicy tomato sauce, capsicum, refried beans, onion, mozzarella (10 inches)",330.0
+Pizzas,Pepper Paneer Pizza,1,0,"Paneer, Bell pepper, Spicy tomato sauce, Pizza Seasoning (10 inches)",330.0
+Pizzas,Pizza Napoli,1,0,"Fresh tomato sauce, mozzarella, onion, capsicum, sun-dried tomato & jalapeno marinated in chilly ... read more",330.0
+Pizzas,Smokey Fusion Pizza,1,0,"Bbq paneer, onion, capsicum, cheese (10 inches)",320.0
+Pizzas,Traffic Jam Pizza,1,0,"Onion, Capsicum, Tomato, Corn, Baby Corn, Bell Pepper, Jalapeno, Olives,Pizza sauce, mozzarella (10 ... read more",365.0
+Pizzas,Vegetable Verdure Pizza,1,0,"Grilled vegetables, mozzarella cheese (10 inches)",320.0
+Indian Main Course,Aloo Chutney Wala,1,0,Aloo cookes in Chatpata Palak Gravy,260.0
+Indian Main Course,Amritsari Paneer Bhurji,1,0,"Traditional Paneer Bhurji, Medium Spicy",300.0
+Indian Main Course,Bhindi Masala,1,0,"Bhindi Cooked in Thick Red Gravy, Semi Dry",260.0
+Indian Main Course,Bhune Paneer Ka Saalan,1,0,"Finger Cut Paneer cooked in Brown Gravy with fried Onion, Spicy",300.0
+Indian Main Course,Chana Masala,1,0,"Kabuli Chana Cooked in Red Gravy, Spicy",265.0
+Indian Main Course,Cheese Kofta,1,0,"Cheese kofta served with Yellow Gravy, Medium Spicy",305.0
+Indian Main Course,Dal Fry,1,0,,200.0
+Indian Main Course,Dal Makhani,1,0,,255.0
+Indian Main Course,Dal Tadkewali,1,0,,210.0
+Indian Main Course,Dhingri Daniya Korma,1,0,Mushroom cooked in Coriander Flavour green Gravy,305.0
+Indian Main Course,Dum Aloo Kashmiri,1,0,Aloo cooked in Spicy Kashmiri Red Gravy,260.0
+Indian Main Course,Jeera Aloo,1,0,Aloo cooked with Jeera & Coriander,260.0
+Indian Main Course,Kadai Chhole,1,0,Kabuli Chana Cooked in Spicy Kadai Masala in Red Gravy,270.0
+Indian Main Course,Kandhari Kofta Curry,1,0,Special Kandhari Kofta Cooked in Spicy Red Gravy,295.0
+Indian Main Course,Lasooni Aloo Bhindi,1,0,"Aloo, Bhindi cooked with Lasooni Thick Brown Gravy, Semi Dry",260.0
+Indian Main Course,Methi Mutter Malai,1,0,"Methi Leaves & Mutter Cooked in Cashew Gravy, mild sweet",285.0
+Indian Main Course,Palak Lasooni,1,0,"Palak Cooked with Garlic, Served with Garlic Tadka",280.0
+Indian Main Course,Palak Paneer,1,0,Paneer cooked in palak Gravy,295.0
+Indian Main Course,Paneer Butter Masala,1,0,"Paneer Cube cooked in yellow gravy with Butter, Mild",300.0
+Indian Main Course,Paneer Desi Handi,1,0,"Paneer Cube, Onion, Tomato & Capsicum Cooked in red Gravy, Medium Spicy",295.0
+Indian Main Course,Paneer Hyderabadi Masala,1,0,Paneer Tikka cooked with Spicy Hydrabadi Brown Gravy,300.0
+Indian Main Course,Paneer Kadai,1,0,Paneer Cube cooked in Spicy red Kadai Gravy,300.0
+Indian Main Course,Paneer Khada Masala,1,0,"Paneer Cube Cooked with Bayleaf, Butter & Garlic in Yellow Gravy, Spicy",305.0
+Indian Main Course,Paneer Khurchan,1,0,"Shredded Paneer cooked in Red Gravy with Curry Patta & Rai Tadka, Medium ... read more",305.0
+Indian Main Course,Paneer Lajjatdar,1,0,"Finger Cut Paneer Cooked in Yellow Gravy with julienne of Capsicum, Mild",295.0
+Indian Main Course,Paneer Lasooni,1,0,"Paneer Cube Cooked in Yellow Gravy with lot of garlic, Medium Spicy",305.0
+Indian Main Course,Paneer Lucknawi Tawa,1,0,"Paneer Cube, Onion & Capsicum cooked in Red Gravy with Lucknawi Masala, Spicy",300.0
+Indian Main Course,Paneer Makhani,1,0,"Paneer Cube cooked in Tomato & Cashew Gravy, Mild Sweet",295.0
+Indian Main Course,Paneer Patiala Shahi,1,0,"Finger Cut Paneer Cooked in Red Patiala Gravy, Medium Spicy",295.0
+Indian Main Course,Paneer Tikka Masala,1,0,"Paneer tikka, Onion, Tomato & Capsicum cooked in Spicy Red Gravy",300.0
+Indian Main Course,Saagwala Cheese Kofta,1,0,Cheese Kofta served with Mild Palak Gravy,305.0
+Indian Main Course,Subzi Amaravati,1,0,"Mix Veg on Red Gravy with Curry Patta & Rai Tadka, Spicy",285.0
+Indian Main Course,Subzi Bemisaal,1,0,Mix Veg in Mild Yellow Gravy,280.0
+Indian Main Course,Subzi Chilly Milly,1,0,Spicy Vegetable Pakoda Served with Spicy Red Gravy,280.0
+Indian Main Course,Subzi Chop Masala,1,0,"Finally Chopped Vegetable cooked in Yellow Gravy, Mild taste",285.0
+Indian Main Course,Subzi Dehati Masala,1,0,"Mix Veg with Chopped Palak & Methi leaves, spicy green Gravy, Semi Dry",285.0
+Indian Main Course,Subzi Desi Tawa,1,0,"Mix Veg cooked in yellow Tawa Gravy, Medium Spicy",280.0
+Indian Main Course,Subzi Diwani Handi,1,0,"Mutter, Corn, Mushroom Cooked in Palak Gravy, medium spicy",285.0
+Indian Main Course,Subzi Hara Dhaniya,1,0,"Mix veg cooked in Hara Dhaniya in Lite Green Gravy, Medium Soicy",280.0
+Indian Main Course,Subzi Hariyali,1,0,"Mix Veg & Cube of Paneer, cooked in Green Gravy, medium spicy",285.0
+Indian Main Course,Subzi Kadai,1,0,Mix Veg cooked in Spicy Kadai red Gravy,285.0
+Indian Main Course,Subzi Kheema Kolhapuri,1,0,Finally Chopped Vegetable cooked in Spicy Red Gravy,285.0
+Indian Main Course,Subzi Lahori Kofta,1,0,Veg Kofta Cooked in Palak Gravy,285.0
+Indian Main Course,Subzi Lucknowi,1,0,"Onion, Capsicum, Baby corn, vegetable cooked in Spicy red Lucknowi Gravy",285.0
+Indian Main Course,Subzi Makhani,1,0,"Mix veg Cooked in Tomato & Cashew Gravy, Mild Sweet",285.0
+Indian Main Course,Subzi Navratna Korma,1,0,"Mix Veg, Fruit & Dry Fruit cooked in Cashew Gravy, Sweet",285.0
+Indian Main Course,Subzi Rogani,1,0,Mix Veg Cooked in Spicy Rogani Gravy,285.0
+Indian Main Course,Subzi Tawa Lajawab,1,0,"Roasted Mix Veg cooked in spicy onion & tomato gravy, Spicy",285.0
+Indian Main Course,Tirangi Mirch Mushroom,1,0,"Mushroom, Capsicum, Bell Pepper cooked in Spicy Red Gravy",305.0
+Our In House Specials,Cheese Labaab,1,0,Cubes of cheese cooked in spiced tomato gravy.,390.0
+Our In House Specials,Kaju Masala,1,0,Fried cashew nuts cooked in a tomato and onion gravy with spice.,390.0
+Our In House Specials,Kebab Masala,1,0,,355.0
+Our In House Specials,Paneer Amritsari,1,0,Cube and grated paneer cooked in tomato and onion gravy.,380.0
+Our In House Specials,Paneer Dum Lababdar,1,0,Grilled Paneer finger cooked in Rich Onion and Cashew Gravy,380.0
+Our In House Specials,Paneer Ke Sholey,1,0,,380.0
+Our In House Specials,Paneer Makhmali,1,0,Small Diamond cut Paneer cooked in Smooth Rich Red Gravy,380.0
+Our In House Specials,Paneer Pahadi Masala,1,0,Roasted Paneer Cooked in Special Pahadi Masala Gravy,370.0
+Our In House Specials,Rajwadi Handi,1,0,"Vegetable, Corn, Cashew cooked in Onion & Tomato Gravy with Rajwadi Masala",355.0
+Our In House Specials,Rajwadi Paneer Tikka Masala,1,0,Diced vegetables roasted before cooking with spicy brown gravy.,380.0
+Our In House Specials,Subzi Begum Bahar,1,0,A combination of two on the same platter.,385.0
+Our In House Specials,Subzi Meloni,1,0,,355.0
+Our In House Specials,Subzi Peshawari,1,0,Diced vegetables cooked in spicy tomato onion gravy.,355.0
+Our In House Specials,Subzion Ka Mela,1,0,"Vegetable, potato, baby corn, cherry tomato cooked in onion gravy with touch of ... read more",355.0
+Breads,Butter Roomali Roti,1,0,,85.0
+Breads,Cheese Garlic Naan,1,0,,135.0
+Breads,Cheese Naan,1,0,,120.0
+Breads,Garlic Naan,1,0,,110.0
+Breads,Garlic Roti,1,0,,65.0
+Breads,Kashmiri Naan,1,0,,110.0
+Breads,Kulcha,1,0,,55.0
+Breads,Masala Kulcha,1,0,,110.0
+Breads,Methi Roti,1,0,,60.0
+Breads,Missi Roti,1,0,,65.0
+Breads,Naan,1,0,,65.0
+Breads,Palak Roti,1,0,,60.0
+Breads,Paratha,1,0,,55.0
+Breads,Pudina Roti,1,0,,60.0
+Breads,Rogani Naan,1,0,,75.0
+Breads,Roti,1,0,,40.0
+Breads,Stuffed Paratha,1,0,,110.0
+Rice,Cheese Masala Pulao,1,0,,265.0
+Rice,Dal Khichdi With Garlic Tadka,1,0,,235.0
+Rice,Dal Khichdi,1,0,,225.0
+Rice,Dum Pukht Biryani,1,0,,355.0
+Rice,Ghee Bhat,1,0,,225.0
+Rice,Hyderabadi Biryani,1,0,,310.0
+Rice,Jeera Rice,1,0,,215.0
+Rice,Palak Khichdi,1,0,,235.0
+Rice,Paneer Tikka Biryani,1,0,,335.0
+Rice,Steam Rice,1,0,,205.0
+Rice,Subzi Masala Khichdi,1,0,,245.0
+Rice,Vegetable Biryani,1,0,,300.0
+Rice,Vegetable Pulao,1,0,,225.0
+Chinese Main Course,Paneer In Hot Garlic Sauce,1,0,,290.0
+Chinese Main Course,Paneer In Hunan Sauce,1,0,,290.0
+Chinese Main Course,Paneer In Red Thai Curry,1,0,,290.0
+Chinese Main Course,Vegetables In Hong Kong Sauce,1,0,,270.0
+Chinese Main Course,Vegetables In Hot Garlic Sauce,1,0,,270.0
+Chinese Main Course,Vegetables In Sichuan Pepper Sauce,1,0,,270.0
+Chinese Main Course,Vegetables In Sweet & Sour Sauce,1,0,,270.0
+Chinese Main Course,Vegetables In Thai Green Curry,1,0,,270.0
+Chinese Rice,Basil Rice,1,0,,270.0
+Chinese Rice,Burnt Garlic Rice,1,0,,265.0
+Chinese Rice,Fortune Fried Rice,1,0,,270.0
+Chinese Rice,Fried Rice,1,0,,250.0
+Chinese Rice,Lemon Ginger Rice,1,0,,270.0
+Chinese Rice,Mushroom Fried Rice,1,0,,280.0
+Chinese Rice,Sichuan Rice,1,0,,270.0
+Chinese Rice,Spicy Thai Rice,1,0,,270.0
+Chinese Rice,Triple Sichuan Fried Rice,1,0,,310.0
+Chinese Rice,Vegetable Fu Chi Rice,1,0,,300.0
+Noodles,American Chopsuey,1,0,,300.0
+Noodles,Chilly Garlic Noodles,1,0,,260.0
+Noodles,Hakka Noodles,1,0,,250.0
+Noodles,Manthai Noodles,1,0,,280.0
+Noodles,Pot Noodles,1,0,,290.0
+Noodles,Sichuan Noodles,1,0,,270.0
+Noodles,Singapore Noodles,1,0,,270.0
+Noodles,Sizzling Noodles,1,0,,290.0
+Noodles,Spicy Basil Noodles,1,0,,270.0
+International Rice,Indonesian Rice,1,0,"Rice tossed with Herbs, Lemon, Onions, Basil, Veggies & Spices, garnished with Crushed ... read more",305.0
+International Rice,Lebanese Biryani,1,0,"Our in House Special, Mouth Watering Saffron Flavour Lebanese Biryani",400.0
+International Rice,Mexican Chilly Bean Rice,1,0,"Rice tossed with Corn, Kidney Beans & Veggies",305.0
+International Rice,Peppered American Rice,1,0,"Rice tossed with Beans, Corn, Bell peppers, Chilly & spices",305.0
+International Rice,Pimento Rice,1,0,"Rice tossed with Bell peppers, Parmesan Cheese & Parsley",305.0
+Cold Beverages,Aerated Drinks,1,0,,50.0
+Cold Beverages,Chaas,1,0,,75.0
+Cold Beverages,Kokam Sherbet,1,0,,90.0
+Cold Beverages,Mineral Water,1,0,,30.0
+Cold Beverages,Sweet Lassi,1,0,,110.0
+Desserts,Gulab Jamun (1 Piece),1,0,,40.0
+Desserts,Gulab Jamun (3 Pcs),1,0,,110.0

@@ -1,0 +1,109 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Creams,Kaju Draksh Ice Cream,1,0,,60.0
+Ice Creams,Rajbhog Ice Cream,1,0,,60.0
+Ice Creams,American Dry Fruit Ice Cream,1,0,,60.0
+Ice Creams,Chocolate Chips Ice Cream,1,0,Tempting chocolate chips ice cream with a distinct hint of cocoa. The mother ... read more,60.0
+Ice Creams,Cookies Cream Ice Cream,1,0,,60.0
+Ice Creams,Kesar Pista Ice Cream,1,0,,60.0
+Ice Creams,Butterscotch Ice Cream,1,0,,60.0
+Ice Creams,Mava Malai Ice Cream,1,0,,60.0
+Ice Creams,Winter Cream Ice Cream,1,0,,60.0
+Ice Creams,Kaju Anjeer Ice Cream,1,0,,60.0
+Ice Creams,Badam Cadbaury Ice Cream,1,0,,60.0
+Ice Creams,Pan Masala Ice Cream,1,0,,60.0
+Ice Creams,Mixed Ice Cream,1,0,,60.0
+Ice Creams,Blackcurrant Ice Cream,1,0,Black currant Ice cream with real black currant and raisins. This flavoured sweet ... read more,60.0
+Ice Creams,Special Janta Super Ice Cream,1,0,,60.0
+Ice Creams,Kaju Gulkand Ice Cream,1,0,,60.0
+Ice Creams,Sitafal Ice Cream,1,0,,60.0
+Ice Creams,Fresh Mango Ice Cream,1,0,,60.0
+Ice Creams,Fresh Strawberry Ice Cream,1,0,,70.0
+Ice Creams,Vanila Ice Cream,1,0,,30.0
+Falooda,Rose Falooda,1,0,"Mixture of mango syrup, vermicelli(sev), sweet basil (sabzi or takmaria) seeds, topped with ... read more",90.0
+Falooda,Kesar Falooda,1,0,,90.0
+Falooda,Cocktail Falooda,1,0,,90.0
+Falooda,Butterscotch Falooda,1,0,,90.0
+Falooda,Chocolate Falooda,1,0,,90.0
+Falooda,Mango Falooda,1,0,,90.0
+Falooda,Rajwadi Falooda,1,0,"An exquisite flavour, crafted for a rich experience of the goodness of traditional ... read more",120.0
+Falooda,Malai Falooda,1,0,,120.0
+Falooda,Sugar Free Falooda,1,0,,109.0
+Falooda,Special Rabdi Falooda,1,0,,159.0
+Falooda,Jumbo Falooda,1,0,,159.0
+Falooda,Jumbo Falooda with Malai,1,0,,190.0
+Falooda,Jumbo Falooda with Dry Fruit,1,0,,190.0
+Sundae,Gotala Sundae,1,0,,150.0
+Sundae,Sundae,1,0,,170.0
+Lassi,Plain Lassi,1,0,"A creamy, frothy yogurt-based drink, blended with water, Ice cubes & sugar/salt",50.0
+Lassi,Rose Lassi,1,0,,60.0
+Lassi,Kesar Lassi,1,0,,60.0
+Lassi,Mango Lassi,1,0,,60.0
+Lassi,Kaju Lassi,1,0,,80.0
+Lassi,Dry Fruit Lassi,1,0,Made using fresh yogurt and simple flavourings with Cashew & Malai.,90.0
+Lassi,Lassi with Vanilla Ice Cream,1,0,,80.0
+Lassi,Malai Lassi,1,0,,90.0
+Coco,Cold Coco,1,0,"Mix which contains sugar, instant cocoa powder coffee-chicory mixture.",50.0
+Coco,Cold Coco with Vanilla Ice Cream,1,0,,70.0
+Coco,Kaju Coco,1,0,,90.0
+Coco,Kaju Coco with Vanilla Ice Cream,1,0,,99.0
+Coco,Cadbury Coco,1,0,,50.0
+Coco,Cadbury Coco with Vanilla Ice Cream,1,0,,70.0
+Coco,Malai Coco,1,0,,100.0
+Coco,Rajawadi Coco,1,0,,109.0
+Coco,Chocolate Chips Coco [1 litre],1,0,,250.0
+Fresh Juices,Mosambi Juice,1,0,Vitamin C rich juice made with fresh mosambis.,60.0
+Fresh Juices,Pineapple Juice,1,0,Vitamin C rich drink made with fresh pineapples.,60.0
+Fresh Juices,Ganga Jamna Juice,1,0,,60.0
+Shakes,Chikoo Milkshake,1,0,Our unique Chikoo Milkshake to put you in the good mood instantly. It ... read more,70.0
+Shakes,Rose Milkshake,1,0,,70.0
+Shakes,Cold Coffee Milkshake,1,0,,80.0
+Shakes,Mango Milkshake,1,0,"Soft, smooth and slurpy milkshake made from wholesome mangoes.",70.0
+Shakes,Strawberry Milkshake,1,0,,70.0
+Shakes,Pineapple Milkshake,1,0,,70.0
+Shakes,Thandai Milkshake,1,0,,80.0
+Shakes,Chikoo Chocolate Milkshake,1,0,,90.0
+Shakes,Gulkand Milkshake,1,0,,80.0
+Shakes,Chocolate Milkshake,1,0,,80.0
+Shakes,Sitafal Milkshake,1,0,,90.0
+Shakes,Oreo Milkshake,1,0,We took the Oreo dunk to the next level! The good old cream ... read more,99.0
+Shakes,Kaju Mango Milkshake,1,0,Our Signature Kaju Mango MilkShake,110.0
+Shakes,Kaju Gulkand Milkshake,1,0,,110.0
+Shakes,Badam Gulkand Milkshake,1,0,,110.0
+Shakes,Kit Kat Milkshake,1,0,,120.0
+Shakes,Kaju Anjeer Milkshake,1,0,"A refreshing milkshake prepared with kaju, anjeer and wholesome milk - perfect to ... read more",130.0
+Shakes,Kaju Badam Milkshake,1,0,"A refreshing milkshake prepared with kaju, badaam and wholesome milk - perfect to ... read more",130.0
+Shakes,Rajwadi Milkshake,1,0,,149.0
+Shakes,Badam Shake,1,0,"The classic sinful Badaam shake, a treat for anytime you need one. Now ... read more",70.0
+Shakes,Badam Shake with Vanilla Ice Cream,1,0,,90.0
+Shakes,Anjeer Shake,1,0,,70.0
+Shakes,Anjeer Shake with Vanilla Ice Cream,1,0,,90.0
+Shakes,Mango Delight,1,0,,60.0
+Shakes,Mango Delight with Vanilla Ice Cream,1,0,,80.0
+Shakes,Kaju Mango Shake,1,0,,80.0
+Shakes,Kaju Mango Shake with Vanilla Ice Cream,1,0,,100.0
+Shakes,Fruit Salad,1,0,"An incredibly hearty fruit salad with fresh watermelon, banana and papaya.",50.0
+Shakes,Fruit Salad with Vanilla Ice Cream,1,0,,70.0
+Shakes,Special Rabdi Badam Shake,1,0,,110.0
+Thick Shakes,Vanilla Thick Shake,1,0,,70.0
+Thick Shakes,Strawberry Thick Shake,1,0,An all time favourite treat bringing together the perfect blend of creamy vanilla ... read more,80.0
+Thick Shakes,Chocolate Thick Shake,1,0,,90.0
+Thick Shakes,Coffee Macho Thick Shake,1,0,,80.0
+Thick Shakes,Pineapple Thick Shake,1,0,,80.0
+Thick Shakes,Blackcurrant Thick Shake,1,0,Rich Creamy Black Currant Thick shake,80.0
+Thick Shakes,Litchi Thick Shake,1,0,,90.0
+Thick Shakes,Mango Thick Shake,1,0,,80.0
+Thick Shakes,Badam Thick Shake,1,0,,80.0
+Thick Shakes,Chocolate Thick Shake with Cadbury,1,0,,90.0
+Thick Shakes,Kesar Pista Thick Shake,1,0,,90.0
+Thick Shakes,Pista Thick Shake,1,0,,90.0
+Thick Shakes,Kaju Gulkand Thick Shake,1,0,,90.0
+Thick Shakes,Kaju Mango Thick Shake,1,0,,90.0
+Thick Shakes,Oreo Thick Shake,1,0,,90.0
+Thick Shakes,Sitafal Thick Shake,1,0,,90.0
+Thick Shakes,Kaju Anjeer Thick Shake,1,0,,90.0
+Thick Shakes,Kaju Badam Thick Shake,1,0,,99.0
+Thick Shakes,Butterscotch Thick Shake,1,0,,90.0
+Thick Shakes,Thandai Thick Shake,1,0,,100.0
+Thick Shakes,Kaju Badam Anjeer Thick Shake,1,0,,120.0
+Kulfi,Mava Malai Kulfi,1,0,,25.0
+Kulfi,Rabdi Kulfi,1,0,,40.0

@@ -1,0 +1,4 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Vada Pav,Butter Vada Pav,1,0,,35.0
+Vada Pav,Butter Pav,1,0,1 Piece,15.0
+Vada Pav,Vada,1,0,Quantity :- 1,20.0

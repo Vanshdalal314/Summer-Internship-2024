@@ -1,0 +1,40 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Jigarthanda,Regular Jigarthanda,1,0,Jigarthanda and 1 scoop ice cream.,97.0
+Jigarthanda,Jumbo Jigarthanda,1,0,Jigarthanda and 2 scoop ice cream.,109.0
+Jigarthanda,Special Jigarthanda,1,0,"Jigarthanda, basundi and 1 scoop ice cream.",117.0
+Jigarthanda,Special Jigarthanda Nuts,1,0,"Jigarthanda, basundi, nuts and 1 scoop ice cream.",143.0
+Jigarthanda,Double Delight Jigarthanda,1,0,"Jigarthanda, basundi and 2 scoop ice cream.",143.0
+Jigarthanda,Double Delight Nuts Jigarthanda,1,0,"Jigarthanda, basundi, 1 scoop ice cream and nuts.",156.0
+Jigarthanda,Dry Fruits Jigarthanda,1,0,"Jigarthanda, basundi, 1 scoop ice cream and dry fruits.",172.0
+Basanthi,Basanthi with Ice Cream,1,0,Basanthi with one scoop jigarthanda Ice cream.,169.0
+Basanthi,Basanthi with Nuts,1,0,Basanthi with one scoop ice cream and nuts.,195.0
+Drinks (Beverages),Rose Milk,1,0,,78.0
+Drinks (Beverages),Rose Milk with Ice Cream,1,0,,91.0
+Drinks (Beverages),Famous Cold Coffee,1,0,,130.0
+Drinks (Beverages),Vanilla Shake,1,0,,117.0
+Drinks (Beverages),Strawberry Shake,1,0,,117.0
+Drinks (Beverages),Butterscotch Shake,1,0,,129.0
+Drinks (Beverages),Blackcurrant Shake,1,0,,129.0
+Drinks (Beverages),Chocolate Shake,1,0,,129.0
+Drinks (Beverages),Pista Shake,1,0,,117.0
+Drinks (Beverages),Mango Shake,1,0,,129.0
+Drinks (Beverages),Famous Oreo Shake,1,0,,129.0
+Snacks,Salted French Fries,1,0,,68.0
+Snacks,Lemon Chilli French Fries,1,0,,79.0
+Snacks,Chilli Garlic French Fries,1,0,,79.0
+Snacks,Peri Peri Fries,1,0,,94.0
+Snacks,Veg Fried Momos [5 Pieces],1,0,,78.0
+Snacks,Corn Momos [5 Pieces],1,0,,91.0
+Snacks,Paneer Tikka Momos [5 Pieces],1,0,,104.0
+Snacks,Veg Steamed Momos [5 Pieces],1,0,,88.0
+Snacks,Steamed Corn Momos [5 Pieces],1,0,,100.0
+Snacks,Steamed Paneer Tikka Momos [5 Pieces],1,0,,114.0
+Snacks,Potato Smiley [5 Pieces],1,0,,69.0
+Snacks,Veggie Stick [5 Pieces],1,0,,84.0
+Snacks,Chilli Garlic Potato Pop [10 Pieces],1,0,,84.0
+Snacks,Cheese Pizza Fingers [5 Pieces],1,0,,84.0
+Snacks,Crispy Veg Bites [6 Pieces],1,0,,84.0
+Snacks,Veggie Pizza Pocket [4 Pieces],1,0,,104.0
+Snacks,Steamed Veggie Pizza Pocket [4 Pieces],1,0,,114.0
+Snacks,Jalapena Cheese Samosa [4 Pieces],1,0,,96.0
+Snacks,Steamed Jalapeno Cheese Samosa [4 Pieces],1,0,,106.0

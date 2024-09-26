@@ -1,0 +1,23 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,White Forest Cake [500 grams],1,0,,499.0
+Cakes,Black Forest Cake [500 grams],1,0,,499.0
+Cakes,Choco Chips Cake [500 grams],1,0,,470.0
+Cakes,Rasmalai Cake [500 grams],1,0,,499.0
+Cakes,Pineapple Cake [500 grams],1,0,,499.0
+Cakes,Cassata Cake [500 grams],1,0,,499.0
+Cakes,Red Velvet Cake [500 grams],1,0,,499.0
+Cakes,Irish Cofee Cake [500 grams],1,0,,499.0
+Cakes,Red Velvet Heart Cake [500 grams],1,0,,499.0
+Cakes,Choco Marble Cake [500 grams],1,0,,499.0
+Cakes,Choco Oreo Cake [500 grams],1,0,,499.0
+Cakes,Mix Fruit Cake [500 grams],1,0,,499.0
+Cakes,Choco Crunchy Cake [500 grams],1,0,,499.0
+Cakes,Blueberry Cake [500 grams],1,0,,499.0
+Cakes,Dutch Choco Cake [500 grams],1,0,,499.0
+Cakes,Hazelnut Cake [500 grams],1,0,,499.0
+Cakes,Strawberry Cake [500 grams],1,0,,499.0
+Cakes,Gulkand Cake [500 grams],1,0,,499.0
+Cakes,Black Forest Cake [1 kg],1,0,,999.0
+Cakes,Choco Marble Cake [1 kg],1,0,,999.0
+Cakes,German Forest Cake [1 kg],1,0,,949.0
+Cakes,Belgium Chocolate [500 grams],1,0,,470.0

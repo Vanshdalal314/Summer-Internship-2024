@@ -1,0 +1,115 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza The Indian Way,Margarita Indi Pizza,1,0,,155.0
+Pizza The Indian Way,Capsicum Onion Tomato Pizza,1,0,,175.0
+Pizza The Indian Way,Corn Cheese,1,0,,175.0
+Pizza The Indian Way,Chatpatta Veg,1,0,,185.0
+Pizza The Indian Way,Spicy Corn Treat Pizza,1,0,,185.0
+Pizza The Indian Way,Cheese Peri Peri Pizza,1,0,,190.0
+Pizza The Indian Way,Cheese Onion,1,0,,190.0
+Pizza The Indian Way,Khet Khaliyan Pizza,1,0,,195.0
+Special Pizza,Lakhnavi Nawabi Pizza,1,0,,245.0
+Special Pizza,Makhni Pizza,1,0,,245.0
+Special Pizza,Cheese & Cheesy Pizza,1,0,,280.0
+Special Pizza,Maharaja Paneer Pizza,1,0,,280.0
+Special Pizza,Tandoori Paneer Pizza,1,0,,290.0
+Special Pizza,Italian Pizza With Mozzarella Cheese,1,0,,290.0
+Special Pizza,Desi Dhamal Pizza,1,0,,290.0
+Special Pizza,Exotic Paradise Pizza,1,0,,290.0
+Assorted Pizza,Chinese Pizza,1,0,,245.0
+Assorted Pizza,Veg. Kebabi Pizza,1,0,"Veg. Kababs, Chopped Mix Veggies. Cheese.",280.0
+Assorted Pizza,Dhaba Rice Pizza,1,0,,290.0
+Assorted Pizza,Spicy Herbs Pizza,1,0,,290.0
+Assorted Pizza,Paneer Makhani Pizza,1,0,,315.0
+Assorted Pizza,Pasta Pizza,1,0,,315.0
+Arrival Pizza,Garden Fresh Pizza,1,0,,290.0
+Arrival Pizza,Mexican Delight Pizza,1,0,,290.0
+Arrival Pizza,Farm Villa Pizza,1,0,,315.0
+Arrival Pizza,Fresh Veggie Special Pizza,1,0,,345.0
+Arrival Pizza,Cheese Blast Pizza,1,0,,385.0
+Garlic Bread,Cheese Garlic Bread,1,0,,145.0
+Garlic Bread,Spicy Supreme,1,0,,155.0
+Garlic Bread,Premium Garlic Bread,1,0,,190.0
+Garlic Bread,Italian Garlic Bread,1,0,,180.0
+Pasta The Indian Way,Lakhnavi Nawabi Pasta,1,0,,190.0
+Pasta The Indian Way,Makhni Pasta,1,0,,190.0
+Pasta The Indian Way,Chinese Pasta,1,0,,190.0
+Pasta The Indian Way,Royal Creamy Penne Pasta,1,0,,195.0
+Pasta The Indian Way,White Penne Pasta,1,0,,225.0
+Pasta The Indian Way,Pink Pasta,1,0,,245.0
+Pasta The Indian Way,Maggi Penne Pasta Fusion,1,0,,225.0
+Pasta The Indian Way,Red Pasta,1,0,,245.0
+Pasta The Indian Way,Alfredo Pasta,1,0,,245.0
+Pasta The Indian Way,Arebita Pasta,1,0,,275.0
+Burger Da Dhaba,Veg. Burger,1,0,,80.0
+Burger Da Dhaba,Veg. Cheese Burger,1,0,,100.0
+Burger Da Dhaba,Tandoori Burger,1,0,,120.0
+Burger Da Dhaba,Chipotle Burger,1,0,,120.0
+Burger Da Dhaba,Makhni Burger,1,0,,120.0
+Burger Da Dhaba,Kebab Burger,1,0,,150.0
+Burger Da Dhaba,Paneer Tikka Burger,1,0,,150.0
+Sandwich,Bombay Kaccha Sandwich,1,0,,95.0
+Sandwich,Bombay Kaccha Cheese Sandwich,1,0,,120.0
+Sandwich,Veggie Toast Sandwich,1,0,,120.0
+Sandwich,Veg Kebab Sandwich,1,0,,175.0
+Sandwich,Maggie Toast Sandwich,1,0,,150.0
+Sandwich,Pasta Toast Sandwich,1,0,,150.0
+Sandwich,Veg Kebabi Sandwich,1,0,,175.0
+Sandwich,Cheese Onion Carnival Sandwich,1,0,,175.0
+Sandwich,Club Schezwan Grill Sandwich,1,0,,235.0
+Sandwich,Club Tandoori Grill Sandwich,1,0,,235.0
+Sandwich,Club Juicy Grill Sandwich,1,0,,235.0
+Sandwich,Club Italian Grill Sandwich,1,0,,260.0
+Sandwich,Club Paneer Tikka Grill Sandwich,1,0,,260.0
+Sandwich,Club Veg Grill Sandwich,1,0,,195.0
+Maggi,Regular Maggi,1,0,,80.0
+Maggi,Mix Veg Maggi,1,0,,100.0
+Maggi,Corn Maggi,1,0,,100.0
+Maggi,Tandoori Spicy Maggi,1,0,,100.0
+Maggi,Cheese Butter Maggi,1,0,,115.0
+Maggi,Schezwan Maggi,1,0,,115.0
+Maggi,Creamy Maggi,1,0,,130.0
+Maggi Fusion,Velvet Fusion,1,0,,140.0
+Maggi Fusion,Golden Fusion,1,0,,140.0
+Maggi Fusion,Chinese Fusion,1,0,,140.0
+Maggi Fusion,Creamy Fusion,1,0,,150.0
+French Fries,Spicy Herbs Zigzag Fries,1,0,,185.0
+French Fries,Zig Zag Fries,1,0,,125.0
+French Fries,Masala Zig Zag Fries,1,0,,145.0
+French Fries,Peri Peri Zig Zag Fries,1,0,,155.0
+French Fries,Cheese Masala Fries,1,0,,190.0
+Appetizer,Maggi Sticks,1,0,,130.0
+Appetizer,Cheese Open Toast,1,0,,165.0
+Appetizer,Chaat Chatkhas,1,0,,130.0
+Appetizer,Hara Bhara Kebab [6 Pcs],1,0,,180.0
+Appetizer,Potato Chilly,1,0,,180.0
+Appetizer,Bruschetta,1,0,,195.0
+Appetizer,Chilly Paneer,1,0,,215.0
+Khichdi,Veg Butter Khichdi,1,0,,195.0
+Khichdi,Tandoori Masala Butter Khichdi,1,0,,210.0
+Khichdi,Cheese Masala Butter Khichdi,1,0,,235.0
+Mocktails,Spicy Gauva Mojito,1,0,,160.0
+Mocktails,Vergin Mojito,1,0,,120.0
+Mocktails,Blueberry Mojito,1,0,,160.0
+Mocktails,Green Apple Mojito,1,0,,140.0
+Mocktails,Red Melon Mojito,1,0,,140.0
+Mocktails,Mango Mint Mojito,1,0,,140.0
+Cold Coffee,Cold Coffee,1,0,,110.0
+Cold Coffee,Chocolate Cold Coffee,1,0,,125.0
+Cold Coffee,Creamy Cold Coffee,1,0,,125.0
+Cold Coffee,Cold Coffee With Oreo,1,0,,140.0
+Cold Coffee,Cold Coffee With Ice Cream,1,0,,140.0
+Cold Coffee,Dark Cold Coffee,1,0,,160.0
+Shakes,Pina Colada Shake,1,0,,150.0
+Shakes,Chocolate Shake,1,0,,130.0
+Shakes,Mango Shake,1,0,,130.0
+Shakes,Strawberry Shake,1,0,,130.0
+Shakes,Oreo Shake,1,0,,150.0
+Shakes,Kit-Kat Shake,1,0,,160.0
+Shakes,Dark Chocolate Shake,1,0,,160.0
+Shakes,Ferrero Rocher Shake,1,0,,195.0
+Shakes,Nutella Shake,1,0,,170.0
+Shakes,Browny Shake,1,0,,170.0
+Wrap,Chipotle Cheese Wrap,1,0,,120.0
+Wrap,Kebab Cheese Wrap,1,0,,140.0
+Wrap,Tand. Pan. Cheese Wrap,1,0,,140.0
+Wrap,Veg Cheese Wrap,1,0,,110.0

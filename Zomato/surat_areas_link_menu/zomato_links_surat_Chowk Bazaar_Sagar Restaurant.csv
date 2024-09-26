@@ -1,0 +1,99 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken Chest Piece,0,0,,130.0
+Starters,Chicken Zafrani Tikka,0,0,,160.0
+Starters,Chicken 65 with Salad,0,0,[Salad-Subject to Availability],220.0
+Starters,Chicken Leg Piece,0,0,,220.0
+Starters,Boneless Chicken 65 [250 grams],0,0,,220.0
+Starters,Chicken Cheese Leg,0,0,,220.0
+Starters,Chicken Golden Leg,0,0,,220.0
+Starters,Indian Mutton Chilli indian (Bone),0,0,,245.0
+Starters,Chicken Hariyali tikka [8 Pieces],0,0,,260.0
+Starters,Special Sagar Leg Chicken,0,0,[Chef's Special],269.0
+Starters,Special Chicken Schezwan Tikka,0,0,,269.0
+Starters,Chicken Tikka [8 Pieces],0,0,,269.0
+Starters,Mutton Tikka Dry,0,0,,260.0
+Starters,Chicken Malai Tikka [8 Pieces],0,0,,265.0
+Starters,Special Chicken Cheese Tikka [8 Pieces],0,0,,280.0
+Starters,Bonless Mutton Tikka fry,0,0,,325.0
+Starters,Chicken Tandoori,0,0,,260.0
+Tawa Special,Chicken Golden,0,0,,195.0
+Tawa Special,Chicken Tikka Fry,0,0,,195.0
+Tawa Special,Chicken Tawa,0,0,,205.0
+Tawa Special,Special Chicken Sagar Tawa,0,0,[Chef's Special],210.0
+Tawa Special,Chicken Machhi masala,0,0,,210.0
+Tawa Special,Chicken Amdavadi,0,0,,225.0
+Tawa Special,Chicken Lasaniya Fry,0,0,,225.0
+Tawa Special,Chicken Bombay Fry,0,0,,230.0
+Tawa Special,Chicken Achari,0,0,,230.0
+Tawa Special,Mutton Achari,0,0,,235.0
+Tawa Special,Spl.Mutton Nargis,0,0,,245.0
+Tawa Special,Mutton Bombay Tawa,0,0,,245.0
+Tawa Special,Special Chicken Nargish bonless,0,0,,255.0
+Tawa Special,Special Chicken Dilkush bonless,0,0,,255.0
+Tawa Special,Mutton Tawa Fry,0,0,,260.0
+Tawa Special,Mutton Golden,0,0,,275.0
+Tawa Special,Special Chicken Rajwadi bone,0,0,,275.0
+Tawa Special,Chicken Tawa Tikka fry,0,0,,290.0
+Tawa Special,Mutton Tawa Tikka Masala,0,0,,280.0
+Tawa Special,Mutton Bhuna(Bone),0,0,,330.0
+Tawa Special,Bonless Mutton Bhuna,0,0,,340.0
+Main Course,Chicken Curry,0,0,,259.0
+Main Course,Chicken Masala,0,0,,260.0
+Main Course,Chicken Afghani,0,0,,260.0
+Main Course,Chicken Chatpata,0,0,,259.0
+Main Course,Chicken Angara,0,0,,260.0
+Main Course,Chicken Kadai,0,0,,259.0
+Main Course,Butter Chicken (Bone),0,0,,250.0
+Main Course,Boneless Boneless Chicken Tikka Masala,0,0,,259.0
+Main Course,Special Chicken Sagar,0,0,[Chef's Special],280.0
+Main Course,Boneless Butter Chicken,0,0,,279.0
+Main Course,Boneless Chicken Hariyali,0,0,,280.0
+Main Course,Boneless Chicken Patiala,0,0,,260.0
+Main Course,Special Chicken Leg Masala,0,0,,270.0
+Main Course,Boneless Chicken Amrin,0,0,,290.0
+Main Course,Chicken Yadgar,0,0,Boneless,300.0
+Main Course,Mutton Rogan Josh,0,0,,185.0
+Main Course,Mutton Dal Gosht,0,0,,200.0
+Main Course,Mutton Mughlai,0,0,,200.0
+Main Course,Mutton Masala,0,0,,205.0
+Main Course,Specail Mutton Kadai,0,0,,220.0
+Main Course,Mutton Tikka Masala (BONE),0,0,,220.0
+Main Course,Mutton Angara,0,0,,220.0
+Main Course,Special Mutton Sagar,0,0,[Chef's Special],230.0
+Main Course,Mutton Handi,0,0,,230.0
+Main Course,Boneless Mutton Dabba Gosht,0,0,,250.0
+Main Course,Special Bonless Mutton Tikka Masala,0,0,,260.0
+Main Course,Dal Fry,1,0,,95.0
+Main Course,Dal Tadka,1,0,,110.0
+Main Course,Dal Fry Butter,1,0,,110.0
+Main Course,Special Paneer Sagar,1,0,[Chef's Special],180.0
+Main Course,Paneer Kadai,1,0,,180.0
+Main Course,Paneer Tikka Masala,1,0,,190.0
+Combos,Boneless Butter Chicken and Chicken 65 and Salad [ Serves 2],0,0,Boneless Butter Chicken+Chicken 65+Salad,329.0
+Combos,Mutton Rogan Josh with Mutton Biryani [ Serves 3],0,0,Mutton Rogan Josh + Mutton Biryani,349.0
+Rice and Biryani,Biryani Rice,1,0,,110.0
+Rice and Biryani,Egg Biryani,0,0,,150.0
+Rice and Biryani,Egg Pulao,0,0,,145.0
+Rice and Biryani,Chicken Biryani,0,0,,169.0
+Rice and Biryani,Chicken Tikka Biryani,0,0,,220.0
+Rice and Biryani,Chicken Angara Pulao,0,0,,185.0
+Rice and Biryani,Chicken Tikka Pulao,0,0,,175.0
+Rice and Biryani,Chicken Tawa Pulao,0,0,,165.0
+Rice and Biryani,Mutton Biryani,0,0,,239.0
+Rice and Biryani,Mutton Keema Biryani,0,0,,279.0
+Rice and Biryani,Mutton Keema Pulao,0,0,,235.0
+Rice and Biryani,Prawns Tawa Pulao,0,0,,255.0
+Rice and Biryani,Prawns Biryani,0,0,,235.0
+Rice and Biryani,Special Sagar Tawa Pulao,0,0,[Chef's Special],220.0
+Seafood Dishes,Special Prawns Sagar,0,0,,270.0
+Seafood Dishes,Prawns Masala,0,0,,270.0
+Seafood Dishes,Prawns Kadai,0,0,,270.0
+Seafood Dishes,Prawns Tikka,0,0,,270.0
+Seafood Dishes,Prawns Tawa Tikka Masala,0,0,,270.0
+Breads,Chapati Roti,1,0,,20.0
+Breads,Chapati Butter Roti,1,0,,25.0
+Rice Variety,Jeera Fried Rice,1,0,,85.0
+Rice Variety,Egg Fried Rice,0,0,,105.0
+Rice Variety,Chicken Fried Rice,0,0,,185.0
+Rice Variety,Mutton Fried Rice,0,0,,220.0
+Drinks (Beverages),Butter Milk,1,0,,30.0

@@ -1,0 +1,253 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Gravies,Paneer Butter Masala,1,0,,120.0
+Gravies,Mushroom Masala,1,0,,120.0
+Gravies,Mushroom Manchurian,1,0,,120.0
+Gravies,Gobi Manchurian,1,0,,120.0
+Gravies,Pepper Chicken Gravy,1,0,,150.0
+Gravies,Butter Chicken Masala,1,0,,150.0
+Gravies,Chettinadu Chicken Gravy,1,0,,150.0
+Gravies,Chicken Chukka,1,0,,150.0
+Gravies,Chicken Manchurian,1,0,,150.0
+Fresh Juices,Pineapple Juice,1,0,A mouth-watering and refreshing fruit drink made from fresh pineapple pulp.,90.0
+Fresh Juices,Mosambi Juice,1,0,A sweet and tangy beverage that is a perfect pick-me-up. This refreshing drink ... read more,60.0
+Fresh Juices,Grape Juice,1,0,"An exotic blend of fresh grapes and apple juices, it’s a fruity and ... read more",90.0
+Fresh Juices,Muskmelon Juice,1,0,,90.0
+Fresh Juices,Pomegranate Juice,1,0,,90.0
+Fresh Juices,Apple Juice,1,0,,90.0
+Fresh Juices,Lemon Soda,1,0,,60.0
+Fresh Juices,Fresh Lime Juice,1,0,,50.0
+Fresh Juices,Mint Lime Juice,1,0,,60.0
+Fresh Juices,Mint Lime Soda,1,0,,70.0
+Fresh Juices,Ginger Lime Juice,1,0,,60.0
+Fresh Juices,Ginger Lime Soda,1,0,,70.0
+Fresh Juices,Watermelon Juice,1,0,,80.0
+Fresh Juices,Avocado Juice,1,0,,150.0
+Fresh Juices,Kiwi Juice,1,0,,100.0
+Fresh Juices,Gooseberry Juice,1,0,,100.0
+Fresh Juices,Mint Cucumber Cooler,1,0,,60.0
+Fresh Juices,Masala Lemon Soda,1,0,,60.0
+Pizza and Pasta,Veg Fresh Farm Pizza,1,0,,170.0
+Pizza and Pasta,Corn Exotica Pizza,1,0,,180.0
+Pizza and Pasta,Paneer Cheese Exotic Pizza,1,0,,170.0
+Pizza and Pasta,Hot Mushroom Cheese Pizza,1,0,,180.0
+Pizza and Pasta,Double Cheese Veg Pizza,1,0,,200.0
+Pizza and Pasta,Corn and Mushroom Pizza,1,0,,200.0
+Pizza and Pasta,Corn Paneer Feast Pizza,1,0,,210.0
+Pizza and Pasta,Chef Special Pizza,1,0,,220.0
+Pizza and Pasta,BBQ Chicken Pizza,1,0,,260.0
+Pizza and Pasta,Peri Peri Chicken Pizza,1,0,,260.0
+Pizza and Pasta,Tandoori Chicken Pizza,1,0,,260.0
+Pizza and Pasta,Schezwan Chicken Pizza,1,0,,270.0
+Pizza and Pasta,Chicken Tikka Pizza,1,0,,249.0
+Pizza and Pasta,Chicken Pepperoni Pizza,1,0,,300.0
+Pizza and Pasta,Pasta Tomato Twist,1,0,,180.0
+Pizza and Pasta,Pasta White Creamy Arrabiata,1,0,,170.0
+Pizza and Pasta,Saucy Pink Pasta,1,0,,190.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,99.0
+Burgers and Sandwiches,Corn Cheese Sandwich,1,0,,120.0
+Burgers and Sandwiches,Paneer Cheese Sandwich,1,0,,120.0
+Burgers and Sandwiches,Mushroom Cheese Sandwich,1,0,,120.0
+Burgers and Sandwiches,Double Veg Cheese Sandwich,1,0,,140.0
+Burgers and Sandwiches,Chilli and Cheese Sandwich,1,0,,120.0
+Burgers and Sandwiches,Pizza Sandwich,1,0,,150.0
+Burgers and Sandwiches,Bread Butter Jam Sandwich,1,0,,100.0
+Burgers and Sandwiches,Nutella Blast Sandwich,1,0,,100.0
+Burgers and Sandwiches,Club Sandwich,1,0,,200.0
+Burgers and Sandwiches,BBQ Chicken Sandwich,1,0,,190.0
+Burgers and Sandwiches,Peri Peri Chicken Sandwich,1,0,,190.0
+Burgers and Sandwiches,Tandoori Chicken Sandwich,1,0,,190.0
+Burgers and Sandwiches,Schezwan Chicken Sandwich,1,0,,190.0
+Burgers and Sandwiches,Chicken Tikka Sandwich,1,0,,190.0
+Burgers and Sandwiches,Chicken & Corn Sandwich,1,0,,170.0
+Burgers and Sandwiches,Chicken Mayonnaise Sandwich,1,0,,170.0
+Burgers and Sandwiches,Veg Patty Burger,1,0,,120.0
+Burgers and Sandwiches,Paneer Crispy Burger,1,0,,140.0
+Burgers and Sandwiches,Double Cheese Veg Burger,1,0,,160.0
+Burgers and Sandwiches,Aloo Tikki Burger,1,0,,130.0
+Burgers and Sandwiches,Double Patty Burger,1,0,,170.0
+Burgers and Sandwiches,Chicken Burger,1,0,,160.0
+Burgers and Sandwiches,Premium Chicken Burger,1,0,,190.0
+Burgers and Sandwiches,Fried Chicken Burger,1,0,,200.0
+Burgers and Sandwiches,Peri Peri Chicken Burger,1,0,,170.0
+Burgers and Sandwiches,Cream Cheese Chicken Burger,1,0,,180.0
+Burgers and Sandwiches,Chicken Double Decker Burger,1,0,,240.0
+Burgers and Sandwiches,Peri Peri Veg Burger,1,0,,140.0
+Burgers and Sandwiches,Cream Cheese Burger,1,0,,140.0
+Burgers and Sandwiches,Corn Spinach Burger,1,0,,140.0
+Burgers and Sandwiches,Herb Chilli Burger,1,0,,140.0
+Burgers and Sandwiches,Chocolate Burger,1,0,,170.0
+Snacks,Plain Sweet Corn,1,0,,50.0
+Snacks,Butter Pepper Corn,1,0,,60.0
+Snacks,Masala Corn,1,0,,60.0
+Snacks,Peri Peri Corn,1,0,,60.0
+Snacks,Cheese Corn,1,0,,60.0
+Snacks,Schezwan Corn,1,0,,60.0
+Snacks,Cream & Cheese Corn,1,0,,70.0
+Snacks,Mayonaisse Corn,1,0,,80.0
+Snacks,French Fries,1,0,,70.0
+Snacks,Masala Fries,1,0,,80.0
+Snacks,Burp Special Fries,1,0,,90.0
+Snacks,Smileys,1,0,,70.0
+Snacks,Veg Fingers,1,0,,70.0
+Snacks,Cheese Shots,1,0,,99.0
+Snacks,Veg Cutlet,1,0,,50.0
+Snacks,Veg Lollipop,1,0,,80.0
+Snacks,Cheese Corn Nuggets,1,0,,80.0
+Snacks,Butterfly Shrimps,1,0,,170.0
+Snacks,Chicken Nuggets [6 Pieces],1,0,,156.0
+Snacks,Chicken Popcorn [150 grams],1,0,,130.0
+Snacks,Fish Fingers [6 Pieces],1,0,,195.0
+Snacks,Fish Nuggets [6 Pieces],1,0,,156.0
+Snacks,Spicy Fish Fingers [6 Pieces],1,0,,220.0
+Snacks,Chicken Strips [5 Pieces],1,0,,190.0
+Snacks,Crispy Chicken Wings [5 Pieces],1,0,,170.0
+Snacks,Crispy Chicken Lollipop [4 Pieces],1,0,,290.0
+Maggi,Plain Maggi,1,0,,50.0
+Maggi,Masala Maggi,1,0,,70.0
+Maggi,Chilli Cheese Maggi,1,0,,70.0
+Maggi,Schezwan Maggi,1,0,,70.0
+Maggi,Tandoori Maggi,1,0,,70.0
+Maggi,Cream Cheese Maggi,1,0,,80.0
+Maggi,Tomato Twist Maggi,1,0,,80.0
+Maggi,Salsa Maggi,1,0,,90.0
+Momos,Corn Spinach Steamed Momos [6 Pieces],1,0,,120.0
+Momos,Corn Spinach Fried Momos [6 Pieces],1,0,,140.0
+Momos,Cheese Steamed Momos [6 Pieces],1,0,,140.0
+Momos,Cheese Fried Momos [6 Pieces],1,0,,160.0
+Momos,Mushroom Steamed Momos [6 Pieces],1,0,,130.0
+Momos,Mushroom Fried Momos [6 Pieces],1,0,,150.0
+Momos,Paneer Steamed Momos [ 6 Pieces],1,0,,130.0
+Momos,Paneer Fried Momos [6 Pieces],1,0,,150.0
+Momos,Paneer Tikka Stemaed Momos [6 Pieces],1,0,,140.0
+Momos,Paneer Tikka Fried Momos [ 6 Pieces],1,0,,160.0
+Momos,Schezwan Steamed Momos [6 Pieces],1,0,,140.0
+Momos,Schezwan Fried Momos [ 6 Pieces],1,0,,160.0
+Momos,Veg Stemed Momos [ 6 Pieces],1,0,,100.0
+Momos,Veg Fried Momos [ 6 Pieces],1,0,,120.0
+Falooda,Classic Falooda,1,0,,120.0
+Falooda,Royal Falooda,1,0,,160.0
+Falooda,Dry Fruits Falooda,1,0,,170.0
+Falooda,Rose Falooda,1,0,,120.0
+Falooda,Mango Falooda,1,0,,120.0
+Hot Beverages,"Classic Assam Hot Chai [Mini, 250 ml, 1 Flask]",1,0,,75.0
+Hot Beverages,"Classic Assam Chai [500 ml, 1 Flask]",1,0,,100.0
+Hot Beverages,"Hot Ginger Chai [Mini, 250 ml, 1 Flask]",1,0,,75.0
+Hot Beverages,Hot Ginger Chai [500 ml],1,0,,120.0
+Hot Beverages,Lemon Chai [250 ml],1,0,,75.0
+Hot Beverages,Lemon Chai [500 ml],1,0,,120.0
+Hot Beverages,Hot Chocolate,1,0,,119.0
+Hot Beverages,Boost,1,0,,150.0
+Hot Beverages,Horlicks,1,0,,150.0
+Hot Beverages,"Classic Assam Black Chai [Mini, 250 ml, 1 Flask]",1,0,,50.0
+Hot Beverages,Filter Coffee,1,0,,80.0
+Healthy Salads,Fruit Salad,1,0,Seasonal fruits with herbal honey and custard.,110.0
+Healthy Salads,Burp Salad,1,0,"Channah, paneer, capsicum, onion with lemon essence & herbal honey.",130.0
+Healthy Salads,Tangy Salad,1,0,"Corn, peanut, mango mixed with spicy dressing.",130.0
+Healthy Salads,Corn Salad,1,0,Sweet corn served with fresh salsa.,110.0
+Healthy Salads,Corn & Pomo Salad,1,0,,110.0
+Healthy Salads,Creamy Corn Salad,1,0,,130.0
+Healthy Salads,Fruits & Nuts Bowl,1,0,,160.0
+Healthy Salads,Creamy Cucumber Salad,1,0,"Cucumber, corn, onion and mayonnaise.",120.0
+Burp Fried Chicken,Boneless Fried Chicken,1,0,,150.0
+Grilled Wraps,Veg Delight Wrap,1,0,,99.0
+Grilled Wraps,Paneer Tikka Wrap,1,0,,129.0
+Grilled Wraps,Chilli Paneer Wrap,1,0,,129.0
+Grilled Wraps,Spicy Mushroom Wrap,1,0,,129.0
+Grilled Wraps,Chicken Wrap,1,0,,129.0
+Grilled Wraps,Peri Peri Chicken Wrap,1,0,,139.0
+Grilled Wraps,BBQ Chicken Wrap,1,0,,139.0
+Grilled Wraps,Schezwan Chicken Wrap,1,0,,149.0
+Grilled Wraps,Cheesy Chicken Wrap,1,0,,149.0
+Grilled Wraps,Fried Chicken Wrap,1,0,,149.0
+Eggs and Breads,Bread Omelette,1,0,,60.0
+Eggs and Breads,Cheese Bread Omelette,1,0,,80.0
+Eggs and Breads,Mushroom Cheese Omelette,1,0,,90.0
+Eggs and Breads,Chicken Omelette,1,0,,100.0
+Eggs and Breads,French Toast,1,0,,120.0
+Thick Shakes,Snickers Shake,1,0,,190.0
+Thick Shakes,Oreo Choco Chips Shake,1,0,,190.0
+Thick Shakes,Ferrero Rocher Shake,1,0,,160.0
+Thick Shakes,KITKAT Shake,1,0,,140.0
+Thick Shakes,Red Velvet Shake,1,0,,140.0
+Thick Shakes,Sharjah Shake,1,0,,140.0
+Thick Shakes,Dry Fruits Shake,1,0,,180.0
+Thick Shakes,Bubble Gum Shake,1,0,,200.0
+Thick Shakes,Dates Shake,1,0,,200.0
+Thick Shakes,Choco Brownie Shake,1,0,,200.0
+Thick Shakes,Belgian Dark Chocolate,1,0,,230.0
+Thick Shakes,Creamy Caramel Swirl,1,0,,230.0
+Thick Shakes,Blue Cotton Candy,1,0,,230.0
+Thick Shakes,Chunky Banana Caramel,1,0,,230.0
+Thick Shakes,Salted Caramel,1,0,,230.0
+Thick Shakes,Nutella Choco Blast,1,0,,230.0
+Thick Shakes,Vanilla Shake,1,0,,140.0
+Thick Shakes,Mango Shake,1,0,,140.0
+Thick Shakes,Chocolate Shake,1,0,,140.0
+Thick Shakes,Butterscotch Shake,1,0,,140.0
+Thick Shakes,Strawberry Shake,1,0,,140.0
+Thick Shakes,Black Currant Shake,1,0,,140.0
+Thick Shakes,Pista Shake,1,0,,150.0
+Thick Shakes,Lychee Shake,1,0,,150.0
+Thick Shakes,Banana Shake,1,0,,150.0
+Thick Shakes,Boost Shake,1,0,,150.0
+Desserts,Chocolate Ice Cream,1,0,,120.0
+Desserts,Vanilla Ice Cream,1,0,,120.0
+Desserts,Mango Ice Cream,1,0,,120.0
+Desserts,Strawberry Ice Cream,1,0,,120.0
+Desserts,Butterscotch Ice Cream,1,0,,120.0
+Desserts,Blackcurrant Ice Cream,1,0,,120.0
+Desserts,Pista Ice Cream,1,0,,130.0
+Desserts,Fruitti Tutti Ice Cream,1,0,,130.0
+Mocktails,Exotic Lavender,1,0,,180.0
+Mocktails,Bubblegum Blast,1,0,,150.0
+Mocktails,Paan Shot,1,0,,180.0
+Mocktails,Blue Lagoon,1,0,,100.0
+Mocktails,Green Lemonade,1,0,,100.0
+Mocktails,Blue Curacao,1,0,,110.0
+Mocktails,Watermelon Mojito,1,0,,110.0
+Mocktails,Blueberry Jones,1,0,,120.0
+Lassi,Sweet Lassi,1,0,,80.0
+Lassi,Salted Lassi,1,0,,100.0
+Lassi,Chocolate Special Lassi,1,0,,100.0
+Lassi,Dry Fruits Lassi,1,0,,120.0
+Lassi,Mango Special Lassi,1,0,,90.0
+Lassi,Pineapple Lassi,1,0,,120.0
+Lassi,Strawberry Lassi,1,0,,90.0
+Lassi,Banana Lassi,1,0,,120.0
+Lassi,Cardamom Lassi,1,0,,120.0
+Lassi,Paan Lassi,1,0,,130.0
+Lassi,Black Currant Lassi,1,0,,130.0
+Chinese,Veg Noodles,1,0,,80.0
+Chinese,Paneer Noodles,1,0,,90.0
+Chinese,Mushroom Noodles,1,0,,100.0
+Chinese,Egg Noodles,1,0,,90.0
+Chinese,Chicken Noodles,1,0,,140.0
+Chinese,Veg Fried Rice,1,0,,80.0
+Chinese,Paneer Fried Rie,1,0,,90.0
+Chinese,Mushroom Fried Rice,1,0,,90.0
+Chinese,Egg Fried Rice,1,0,,90.0
+Chinese,Chicken Fried Rice,1,0,,140.0
+Grill,Alfaham Chicken,1,0,,110.0
+Grill,Grilled Chicken,1,0,,140.0
+Grill,Pepper Grilled Chicken,1,0,,160.0
+Grill,Burp Special Grilled Chicken,1,0,,270.0
+Grill,Chicken BBQ,1,0,,220.0
+Grill,Pepper BBQ,1,0,,240.0
+Grill,Burp Special BBQ,1,0,,270.0
+Biryani,Grill Chicken Biriyani Combo,1,0,Empty Biryani+Griled Chicken [Quarter],250.0
+Biryani,Empty Biryani,1,0,"Flavorful rice dish without its usual protein or toppings, featuring aromatic spices and ... read more",110.0
+Biryani,Chicken Biryani,1,0,,150.0
+Snacks and Chaat,Pani Puri [11 Pieces],1,0,,60.0
+Snacks and Chaat,Bhel Puri,1,0,,60.0
+Snacks and Chaat,Egg Bhel Puri,1,0,,70.0
+Snacks and Chaat,Masala Puri,1,0,,60.0
+Snacks and Chaat,Broken Masala Puri,1,0,,60.0
+Snacks and Chaat,Bengaluru Masala Puri,1,0,,70.0
+Snacks and Chaat,Sev Puri,1,0,,70.0
+Snacks and Chaat,Papdi Chaat,1,0,,80.0
+Snacks and Chaat,Dahi Papdi Chaat,1,0,,90.0
+Snacks and Chaat,Aloo Papdi Chaat,1,0,,80.0
+Snacks and Chaat,Dahi Puri,1,0,,80.0
+Snacks and Chaat,Dahi Masala Puri,1,0,,80.0
+Snacks and Chaat,Aloo Tikki Chaat,1,0,,100.0
+Snacks and Chaat,Wedges Chaat,1,0,,120.0

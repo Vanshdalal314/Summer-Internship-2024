@@ -1,0 +1,89 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bhel and Chaat,Farali Bhel,1,0,A delightfully flavor-pack of mouthwatering bhel served with Farali. (serve-1),60.0
+Bhel and Chaat,Cheese Farali Bhel,1,0,,85.0
+Bhel and Chaat,Farali Dahi Chevdo,1,0,,70.0
+Bhel and Chaat,Basket Chaat,1,0,,70.0
+Bhel and Chaat,Masala Puri [6 Pieces],1,0,,60.0
+Bhel and Chaat,Dahi Puri [6 Pieces],1,0,,70.0
+Bhel and Chaat,Kaju Katori Chaat,1,0,,70.0
+Bhel and Chaat,Cheese Basket Chaat,1,0,,100.0
+Bhel and Chaat,Dahi Vada,1,0,,70.0
+Bhel and Chaat,Dahi Bundi,1,0,,70.0
+Bhel and Chaat,Dahi Kachori,1,0,"Crispy kachori is stuffed with boiled potatoes, yogurt, chutney and more, creating this ... read more",70.0
+Bhel and Chaat,Special Sonal Bhel,1,0,,60.0
+Bhel and Chaat,Ragda Bhel,1,0,A delightfully flavor-pack of mouthwatering bhel served with Ragda.,70.0
+Bhel and Chaat,Jain Bhel,1,0,,60.0
+Bhel and Chaat,Bread Katka,1,0,,70.0
+Bhel and Chaat,Cheese Bhel,1,0,,60.0
+Bhel and Chaat,Bhel Dabeli,1,0,,30.0
+Pizza and Garlic Breads,Simple Garlic Bread,1,0,,115.0
+Pizza and Garlic Breads,Italian Garlic Bread,1,0,,125.0
+Pizza and Garlic Breads,Cheese Chilli Garlic Bread,1,0,,125.0
+Pizza and Garlic Breads,Paneer Garlic Bread,1,0,,140.0
+Pizza and Garlic Breads,American Garlic Bread,1,0,,140.0
+Pizza and Garlic Breads,Special Sonal Garlic Bread,1,0,[Chef's Special],154.0
+Pizza and Garlic Breads,Veg Cheese Pizza [6 inches],1,0,,140.0
+Pizza and Garlic Breads,Onion Capsicum Pizza [6 Inches],1,0,,115.0
+Pizza and Garlic Breads,Tomato Pizza [6 Inches],1,0,,125.0
+Pizza and Garlic Breads,Pineapple Pizza [6 Inches],1,0,,135.0
+Pizza and Garlic Breads,Jain Cheese Pizza [6 Inches],1,0,,125.0
+Pizza and Garlic Breads,Mushroom Pizza [6 inches],1,0,,155.0
+Pizza and Garlic Breads,Stuffed Pizza [6 inches],1,0,,168.0
+Pizza and Garlic Breads,Italian Pizza [6 Inches],1,0,,145.0
+Pizza and Garlic Breads,Only Cheese Pizza [6 Inches],1,0,,155.0
+Pizza and Garlic Breads,Paneer Tandoori Pizza [6 Inches],1,0,,145.0
+Pizza and Garlic Breads,American Pizza [6 Inches],1,0,,175.0
+Pizza and Garlic Breads,Special Sonal Pizza [6 inches],1,0,[Chef's Special],255.0
+Pizza and Garlic Breads,Mozzarella Cheese Pizza [6 inches],1,0,,168.0
+Pizza and Garlic Breads,Italian Mozzarella Pizza [6 inches],1,0,,170.0
+Pizza and Garlic Breads,Mushroom Mozzarella Pizza [6 Inches],1,0,,165.0
+Pizza and Garlic Breads,Paneer Tandoori Mozzarella Pizza [6 inches],1,0,,170.0
+Pizza and Garlic Breads,American Mozzarella Pizza [6 Inches],1,0,,205.0
+Pizza and Garlic Breads,Paneer Chili Cheese Mozzarella Pizza [6 inches],1,0,,190.0
+Burgers,Veg Burger,1,0,,70.0
+Burgers,Veg Cheese Burger,1,0,Freshly baked buns layered with cheese and filled with veg patties.,100.0
+Burgers,Italian Burger,1,0,,100.0
+Burgers,Paneer Tikka Burger,1,0,,115.0
+Burgers,Special Sonal Burger,1,0,[Chef's Special],125.0
+Sandwiches,Veg Toast Sandwich,1,0,,55.0
+Sandwiches,Masala Toast Sandwich,1,0,,70.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,100.0
+Sandwiches,Masala Cheese Toast Sandwich,1,0,,100.0
+Sandwiches,Aloo Cheese Toast Sandwich,1,0,,85.0
+Sandwiches,Cutlet Cheese Toast Sandwich,1,0,,115.0
+Sandwiches,Mushroom Cheese Toast Sandwich,1,0,,100.0
+Sandwiches,Rangili Cheese Toast Sandwich,1,0,,100.0
+Sandwiches,Only Cheese Toast Sandwich,1,0,,130.0
+Sandwiches,Veg Grilled Sandwich,1,0,A wholesome sandwich with assorted veggies tossed in a simple dressing and grilled ... read more,140.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,"Hearty sandwich stuffed generously with assorted seasoned vegetables, cheese and grilled to perfection. ... read more",168.0
+Sandwiches,Only Cheese Grilled Sandwich,1,0,,210.0
+Sandwiches,Italian Grilled Sandwich,1,0,,168.0
+Sandwiches,Jain Cheese Grilled Sandwich,1,0,,185.0
+Sandwiches,Cutlet Cheese Grilled Sandwich,1,0,,185.0
+Sandwiches,Bombay Jambo Grilled Sandwich,1,0,,185.0
+Sandwiches,Paneer Cheese Grilled Sandwich,1,0,,196.0
+Sandwiches,American Cheese Grilled Sandwich,1,0,,210.0
+Sandwiches,Special Sonal Grilled Sandwich,1,0,[Chef's Special],249.0
+Sandwiches,Veg Sandwich,1,0,,56.0
+Sandwiches,Double Decker Sandwich,1,0,,60.0
+Sandwiches,Veg Cheese Sandwich,1,0,A scrumptious sandwich made by stuffing mixed vegetables and cheese in bread,85.0
+Sandwiches,Double Decker Cheese Sandwich,1,0,A delightfully hearty meal with Double layer cheese sandwich prepared with assorted veggies ... read more,85.0
+Sandwiches,Cutlet Cheese Sandwich,1,0,,95.0
+Sandwiches,3 in 1 Sandwich,1,0,,154.0
+Footlong,Veg Cheese Footlong,1,0,"Topped with chopped onion, tomatoes, capsicum and grated mozzarella to give you a ... read more",135.0
+Footlong,Italian Footlong,1,0,,145.0
+Footlong,Paneer Bhurji Footlong,1,0,,150.0
+Footlong,Paneer Chilli Footlong,1,0,,155.0
+Footlong,American Footlong,1,0,,165.0
+Footlong,Paneer Tandoori Footlong,1,0,,175.0
+Footlong,Special Sonal Footlong,1,0,[Chef's Special],205.0
+Hot Dogs,Veg Hot Dog,1,0,,100.0
+Hot Dogs,Veg Cheese Hot Dog,1,0,,115.0
+Hot Dogs,Italian Hot Dog,1,0,,115.0
+Hot Dogs,Garlic Cheese Hot Dog,1,0,,125.0
+Frankie,Veg Frankie,1,0,,56.0
+Frankie,Veg Cheese Frankie,1,0,,70.0
+Frankie,Schezwan Frankie,1,0,Chapati or roti wrapped with aloo stuffing with Schezwan Sauce,85.0
+Frankie,Mayonnaise Frankie,1,0,,85.0
+Chutney,Lal chutney lehson ka,1,0,,50.0
+Chutney,Rajkot ki Lili chutney,1,0,,45.0

@@ -1,0 +1,61 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Drinks (Beverages),Madhuram Gold Buffalo Milk [500 ml],1,0,,47.5
+Drinks (Beverages),Madhuram Gold Cow Milk [500 ml],1,0,,43.75
+Drinks (Beverages),Cow Milk [1 litre],1,0,Lite.,97.5
+Drinks (Beverages),Buffalo Milk [1 litre],1,0,[Veg Preparation],105.0
+Drinks (Beverages),Chhas [500 ml],1,0,,20.0
+Drinks (Beverages),Masala Chaas [200 ml],1,0,,16.0
+Drinks (Beverages),Plain Lassi,1,0,,63.0
+Drinks (Beverages),Punjabi Lassi [220 ml],1,0,,75.0
+Drinks (Beverages),Cold Coco [1 litre],1,0,,240.0
+Drinks (Beverages),Cold Coco [240 ml],1,0,,560.0
+Bengali Sweets,Gulab Jamun,1,0,,23.0
+Bengali Sweets,Kala Jamun [1 Piece],1,0,,25.0
+Bengali Sweets,Malai Chamcham [1 Piece],1,0,,31.0
+Bengali Sweets,Angur,1,0,,50.0
+Bengali Sweets,Angur Rabdi,1,0,,55.0
+Bengali Sweets,Rasmalai,1,0,,50.0
+Bengali Sweets,Bangali Fancy Item,1,0,,44.0
+Peda,Bounty Peda,1,0,,75.0
+Peda,Kesar Peda,1,0,,78.0
+Peda,Malai Peda,1,0,,65.0
+Peda,Surti Peda,1,0,,55.0
+Peda,Thabdi Peda,1,0,,70.0
+Peda,Shihori Peda,1,0,,65.0
+Peda,Gulkand penda,1,0,,75.0
+Mawa Sweets,Mawa Sweets,1,0,,200.0
+Mawa Sweets,Akhrot Halwa,1,0,,68.0
+Mawa Sweets,Dudhi Halwa,1,0,,65.0
+Mawa Sweets,Kalakand,1,0,"A slow-cooked, cardamom flavored Rajasthani sweet made from milk, ghee and sugar.",75.0
+Mawa Sweets,Kopra Pak,1,0,,55.0
+Mawa Sweets,Malai Barfi,1,0,,58.0
+Mawa Sweets,Milk Cake,1,0,,75.0
+Mawa Sweets,Mixed Barfi,1,0,,65.0
+Mawa Sweets,Mava Punch,1,0,,75.0
+Mawa Sweets,Mango Dolly,1,0,,75.0
+Mawa Sweets,Khir Kadam,1,0,,75.0
+Shrikhand,American Dry Fruit,1,0,,50.0
+Shrikhand,Chocolate Vanilla,1,0,,50.0
+Shrikhand,Kaju Mango,1,0,,50.0
+Shrikhand,Kesar Pista,1,0,,55.0
+Shrikhand,Mango Katki Ice Cream Matho,1,0,,75.0
+Shrikhand,Mawa Malai,1,0,,50.0
+Shrikhand,Plain Vanilla Shrikhand,1,0,,40.0
+Shrikhand,Rajbhog Ice Cream Matho,1,0,,55.0
+Shrikhand,Rajbhog Shrikhand,1,0,,55.0
+Ghee Sweets,Magaj,1,0,,65.0
+Ghee Sweets,Mohanthal,1,0,Mohanthal is a traditional Gujarati mithai with the rich flavour and melt in the ... read more,78.0
+Ghee Sweets,Motichur Laddu,1,0,,60.0
+Ghee Sweets,Magaj Laddu,1,0,,50.0
+Kaju Sweets,Kaju Aerostic,1,0,,88.0
+Kaju Sweets,Kaju Fenshi,1,0,,123.0
+Kaju Sweets,Kaju Katri,1,0,,110.0
+Kaju Sweets,Kesar Katri,1,0,,123.0
+Kaju Sweets,Anjeer Roll,1,0,,123.0
+Cream Salads,Mango Cream Salad,1,0,,63.0
+Dairy Products,Malai Paneer,1,0,Fresh creamy soft & fluffy cottage cheese that is cut into a firm ... read more,55.0
+Dairy Products,Mola Mawa,1,0,,66.0
+Dairy Products,Punjabi Dahi,1,0,Punjabi Dahi is obtained from pasteurized skimmed milk by souring with the help ... read more,19.0
+Dairy Products,White Makhan,1,0,,75.0
+Dairy Products,Kesar ras,1,0,,237.0
+Winter Sweets and Modak,Sugar Free Khajur,1,0,,375.0

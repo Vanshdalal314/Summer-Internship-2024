@@ -1,0 +1,119 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chinese,Manchurian Dry,1,0,,275.0
+Chinese,Schezwan Manchurian,1,0,,294.0
+Chinese,Manchurian with Noodles,1,0,Manchurian+Noodles [Half & Half],294.0
+Chinese,Manchurian Gravy,1,0,,320.0
+Chinese,Green Manchurian,1,0,,360.0
+Chinese,Paneer Chilli,1,0,Mix Bell Pepper and Cottage Cheese Mix Bell Pepper and Cottage Cheese,458.0
+Chinese,Hakka Noodles,1,0,,235.0
+Chinese,Singapuri Noodles,1,0,,235.0
+Chinese,Manchurian Noodles,1,0,,260.0
+Chinese,Schzwan Noodles,1,0,,275.0
+Chinese,Chilli Garlic Noodles,1,0,,294.0
+Chinese,Schezwan Fried Rice,1,0,,294.0
+Chinese,Paneer Noodles,1,0,,327.0
+Chinese,Veg Fried Rice,1,0,,260.0
+Chinese,Mumbai Bhel,1,0,,281.0
+Chinese,Celentro Rice,1,0,,288.0
+Chinese,Chinese Rice,1,0,,294.0
+Chinese,Veg Burnt Garlic Rice,1,0,,314.0
+Chinese,Singapuri Rice,1,0,,326.0
+Chinese,Mexican Rice,1,0,,334.0
+Chinese,Mexican Rice With Gray,1,0,,360.0
+Chinese,Pesto Cottage Rice,1,0,,386.0
+Chinese,Maxican Rice Bowl,1,0,"Mexican Rice, Salsa Sauce, Cheese Sauce, Sour Cream, Spring Onion, Nachos",419.0
+Sandwiches,Mood Lift Special Sandwich,1,0,,360.0
+Sandwiches,Mushroom Cheese Sandwich,1,0,"Grilled Sandwich (Combination of Cream and Fresh Mushroom, Garlic, Mayo",295.0
+Sandwiches,Paneer Kathi Sandwich,1,0,"The Streets of Kolkata, Surved as Sandwich (Bell Pepper, Cottage Cheese and Lettuce, ... read more",280.0
+Sandwiches,Spinach Corn & Ricotta Cheese Sandwich,1,0,"The Classic Spinach and Corn Surved Toasted Ciabatta, Ricotta Cheese",320.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,Three Layer Trengar Bread & Roasted Mix-Vegetables with Mashed Potato,260.0
+Sandwiches,Veg Cheese Sandwich,1,0,"Three Layer Bread & Vegetables (Onion, Tomato, Cucumber with Processed Cheese",215.0
+Pasta,Aglio E Olio Pasta,1,0,Aglio E Olio Italian Style and Exotic Veggies Olive Oil with Parmesan Cheese ... read more,517.0
+Pasta,Alfredo Pasta,1,0,"Alfredo Sauce and Pasta is Pair Mode in Heaven, Classic Alfredo Sauce Creamy ... read more",425.0
+Pasta,Arrabiata Pasta,1,0,Italian Classic Arrabita Literally means Angry Pasta in Italian & Exotic. Spicy Tomato ... read more,425.0
+Pasta,Pesto Creamy Pasta,1,0,"Fresh Basil Pasto Sauce, Exotic Veggies and Creamy Sauce & Hurbs, Parmesan Cheese",465.0
+Pasta,Pink Sauce Pasta (Chef Special) Pasta,1,0,"Mix Sauce Combination with Exotic Veggies, Olive Oil, Garlic and Olive, Parmesan Cheese",504.0
+Pasta,Spinach Mushroom Fettuccin Pasta,1,0,Blanch Spinach and Fresh Mushroom with Fettuccine Creamy Sauce & Exotic Veggies with ... read more,556.0
+Garlic Bread,Garlic Bread,1,0,,157.0
+Garlic Bread,Garlic Bread Cheese,1,0,"Bread and Butter, Garlic and Mozzarella Cheese",294.0
+Garlic Bread,Overloaded Cheese Baguette,1,0,Baguette Bread and Cheese Sauce and Butter Garlic,314.0
+Garlic Bread,Exotic Garlic Bread,1,0,"Garlic Bread, Exotic Veggies and Hurbs, Olive Oil and Mozzarella",314.0
+Garlic Bread,Cheese Bruschetta,1,0,"Bell Pepper, Exotic Veggies, Olive Oil, Garlic and Mozzarella Cheese",337.0
+Garlic Bread,Guacamole Avocado Toast,1,0,"Multi Green Bread with Guacamole and Olive Oil, Garlic, Onion, Tomato & Fresh ... read more",347.0
+Garlic Bread,Scrambled Cottage Cheese Toast,1,0,"Bell Pepper, Fresh Cottage Cheese Cooked with Hurbs and Veggies Multi Green Bread",347.0
+Garlic Bread,Stuffed Garlic Bread,1,0,"Fresh Dough, Butter, Garlic and Mozzarella and Cheddar Cheese",347.0
+Garlic Bread,Jalapeno Cottage Cheese Croquettes,1,0,Fresh Jalapeno and Cottage Cheese Hurbs with Dressing Cheese Jalapeno Sauce,373.0
+Garlic Bread,Loaded Nachos,1,0,"Nachos with Melted Cheese Sauce, Sour Cream and Salsa with Guacamole",386.0
+Garlic Bread,Salsa Nachos Cheese,1,0,,386.0
+Garlic Bread,Cheese Corn Balls,1,0,"Sweetcorn, Cheese and Hurbs Crunchy Ball",391.0
+Garlic Bread,Cottage Cheese Basil,1,0,"Cube Cottage CHeese, Basil Pesto Sauce & Dressing Parmesan Cheese",391.0
+Garlic Bread,Ricotta Bruschetta,1,0,Italian Sauce and Ricotta Cheese Mix Seasoning Basil Oil,478.0
+Fries,French Fries,1,0,,165.0
+Fries,Peri Peri Fries,1,0,,208.0
+Fries,Cheesy Fries,1,0,,229.0
+Fries,Spinach Mushroom & Hurb,1,0,,245.0
+Fries,Mexican Style Fries,1,0,,245.0
+Fries,Paneer Bhurji & Garlic Mayo Fries,1,0,,260.0
+Burger,Bbq Spicy Burger,1,0,Vegetables and Potato Pattie/Cutlet with Jalapeno and BBQ Sauce & Spicy Chilli,308.0
+Burger,Crispy Cottage Cheese Burger,1,0,Crunchy Cottage Cheese & Layered with Musturd Mayo,260.0
+Burger,The Cheese Lovers Burger,1,0,Potato Pattie/Cutlet with Hurbs and Cream Cheese Sauce,288.0
+Burger,Veg Burger,1,0,Burger Bread with Potato Pattie/Cutlet with Vegetables,144.0
+Soups,Broccoli Almond & Cheddar,1,0,Fresh Broccoli Almond with Cheddar Cheese,295.0
+Soups,Cheese Carrot Soup,1,0,Carrot Grated and Cheese Creamy Style with Cheese Dressing,308.0
+Soups,Hot And Sour Soup,1,0,"Tangy Style Julience, Vegetables, Garlic & Chilli",260.0
+Soups,Lemon Coriander Soup,1,0,"Fine Chopped Vegetable, Fresh Coriander Lemon Juice",275.0
+Soups,Manchow Soup,1,0,"Fine Chopped Vegetables, Medium Spicy",260.0
+Soups,Mexican Chilli Beans Soup,1,0,"Mexican Backed Beans, Tortilla, Chilli, Basil, Bell Pepper",286.0
+Salads,Fresh To Fresh Caesar Salad,1,0,"Lollo Rose Dressed Ice Burg & Olive Oil Salad & Mayo Garlic Dressing, ... read more",360.0
+Salads,Greek Salad,1,0,"Onion, Tomato, Cucumber, Iceberg & Olive Vinaigretted Balsmik",347.0
+Salads,Mushroom Jerked Salad,1,0,"Fresh Mushrooms & Exotic Vegetales Sautted with Cheddar Cheese, Jamaican Jerk Seasoning",425.0
+Salads,Saute Exotic Veg Salad,1,0,"Exotic Veg Broccali, Babycorn, Mix Bell Papper, Zucchini, Baby Spinach, Salad Oil, Cherry ... read more",390.0
+Salads,Sautted Cottge Cheese Salad,1,0,"Cottage Cheese & Exotic Veg. Sautted with Hurbs & Garlic, Olive Oil, Cajun ... read more",410.0
+Quesadilla,Mexican Chilli Beans Quesadilla,1,0,"Mexican Chilli Bean and Cheese, Hurb Dressing Salsa",310.0
+Quesadilla,Paneer Kathi Quesadilla,1,0,Mashed Kathi Masala Bell Pepper with Cheese & Tortilla Bread,320.0
+Quesadilla,Roasted Bell Pepper Quesadilla,1,0,"Italian Sauce, Roasted Bell Pepper and Cheese Seasoning",330.0
+Quesadilla,Spinach Sun-Dried Tomato & Mushroom Quesadilla,1,0,Fresh Mushroom Blanch Spinach and Sun-Dried Tomato Creamy Hurbs Tortilla Rot,350.0
+Pizza,Butter Garlic Mushroom Pizza [8 Inches],1,0,"Fresh Jalapeno, Green Garlic and Onion, Rocket Leaves and Mozzarella Cheese",491.0
+Pizza,Exotic Vegetables Pizza [8 Inches],1,0,"Fresh Exotic Veggies, (Olives, Bell Pepper, Broccoli and Zucchini, Babycorn)",406.0
+Pizza,Five Cheese Pizza [8 Inches],1,0,"Italian sauce pizza with mozzarella cheese, Cheddar cheese, processed cheese, Parmesan cheese & ... read more",425.0
+Pizza,Margherita Pizza [8 Inches],1,0,Only Cheese Pizza,288.0
+Pizza,Mozzarella Basil & Sun-Dried Tomato [8 Inches],1,0,Fresh Dough and Italiun Sauce & Sun-Dried Tomato,347.0
+Pizza,Otc Pizza [8 Inches],1,0,Onion Tomato Capcicum and Mozzarella Cheese & Cheddar Cheese,320.0
+Pizza,Paneer Makhni & Sun-Dried Tomato Pizza [8 Inches],1,0,"Authentic Makhni Gravy Paneer and Onion, Capcicum and Sun-Dried Tomato, Bell Pepper",465.0
+Pizza,Ricotta A Rocket Pizza [8 Inches],1,0,"Italian Pizza Topped with Hot Tomato Sauce, Marinara Sauce and Mushroom, Baby Spinach, ... read more",406.0
+Pizza,Spicy Paprika Jalapeno Pizza [8 Inches],1,0,"Italian Sauce and Jalapeno, Red Paprika & Olives Chilli",425.0
+Pizza,The Pesto Way Pizza [8 Inches],1,0,"Cream Pesto Slice, Tomato and Olives Fresh Dough",412.0
+Paneer Fried,Veg Crispy,1,0,,327.0
+Paneer Fried,Veg Paneer 65,1,0,,391.0
+Paneer Fried,Crispy Thurd Paneer,1,0,,406.0
+Paneer Fried,Shanghai Paneer,1,0,Cottage Cheese Medium Sweet and Chilli Spicy Sauce,458.0
+Milk Shake With Ice,Begian Chhocolate Shake,1,0,,255.0
+Milk Shake With Ice,Chocolate Shake,1,0,,255.0
+Milk Shake With Ice,5 Star Shake,1,0,,275.0
+Milk Shake With Ice,Oreo Shake,1,0,,275.0
+Milk Shake With Ice,Nutella Shake,1,0,,275.0
+Milk Shake With Ice,Nutella Banana Shake,1,0,,281.0
+Milk Shake With Ice,Farreo Rochar Shake,1,0,,391.0
+Milk Shake With Ice,Dry Fruit Shake,1,0,,307.0
+Milk Shake With Ice,Kit Kat Shake,1,0,,275.0
+Cold Coffee,Classic Cold Coffee,1,0,,216.0
+Cold Coffee,Chocolate Cold Coffee,1,0,,242.0
+Cold Coffee,Caramel Cold Coffee,1,0,,247.0
+Cold Coffee,Irish Cold Coffee,1,0,,247.0
+Cold Coffee,Hazeland Cold Coffee,1,0,,255.0
+Mojito,Apple Martini,1,0,,294.0
+Mojito,Black Current,1,0,,314.0
+Mojito,Blue Berry,1,0,,314.0
+Mojito,Blue Lagoon,1,0,,255.0
+Mojito,Kiwi Jumboo,1,0,,268.0
+Mojito,Kiwi Martini,1,0,,268.0
+Mojito,Litchi Bitc,1,0,,320.0
+Mojito,Mango Martitni,1,0,,268.0
+Mojito,Mint Mojito,1,0,,275.0
+Mojito,Mood Lift Sp With Redbull,1,0,,386.0
+Mojito,Orange Haven,1,0,,281.0
+Mojito,Pina Colada,1,0,,307.0
+Mojito,Second Love,1,0,,294.0
+Mojito,Spicy Mint Mojito,1,0,,255.0
+Iced Tea,Lemon Ice Tea,1,0,,208.0
+Iced Tea,Peach Ice Tea,1,0,,208.0

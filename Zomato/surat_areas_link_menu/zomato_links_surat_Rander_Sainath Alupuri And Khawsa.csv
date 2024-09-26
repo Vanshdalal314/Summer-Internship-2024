@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snack Special,Crunch Aloo Puri [7 Pieces],1,0,,40.0
+Snack Special,Schezwan Aloo [Jumbo],1,0,,50.0
+Snack Special,Cheese Aloo Puri [7 Pieces],1,0,,70.0
+Snack Special,Khwsha with Crunch,1,0,Veg Khwsha+Crunch Aloo Puri+Mayonnaise Aloo Puri,140.0
+Snack Special,Crunch Mayonnaise Aloo Puri [Jumbo],1,0,10 Crunch mayonnaise aloo puri.,50.0
+Snack Special,Crunch Schezwan Aloo Puri [Jumbo],1,0,10 Crunch schezwan aloo poori.,50.0
+Snack Special,Schezwan Aloo Poori [Jumbo],1,0,10 Schezwan aloo poori.,60.0
+Snack Special,Mayonnaise Aloo Poori [Jumbo],1,0,10 Mayonnaise aloo poori.,60.0
+Snack Special,Crunch Aloo Puri [Jumbo],1,0,10 Crunch aloo puri.,50.0
+Snack Special,Crunch Cheese Aloo Puri [Jumbo],1,0,10 Crunch cheese aloo puri.,80.0
+Snack Special,Schezwan Cheese Aloo Puri [Jumbo],1,0,,80.0
+Snack Special,Cheese Aloo Puri [Jumbo],1,0,10 Cheese aloo puri.,90.0
+Snack Special,Crunch Schezwan Cheese Aloo Puri [Jumbo],1,0,,100.0
+Snack Special,Double Cheese Aloo Puri [Jumbo],1,0,10 Double cheese aloo puri.,100.0
+Snack Special,Crunch Double Cheese Aloo Puri [Jumbo],1,0,10 Crunch double cheese aloo puri.,110.0
+Snack Special,Schezwan Double Cheese Aloo Puri [Jumbo],1,0,10 Schezwan double cheese aloo puri.,100.0
+Combos,Khawsa and Cheese Aloo Puri Combo,1,0,Veg Khawsa+Sadi Aloo Puri+Cheese Aloo Puri+Jeera Soda,170.0
+Combos,Sevusal with Khwsha Combo,1,0,Sevusal+Veg Khwsha+Cheese Aloo Puri+Thums Up [750 ml],240.0
+Combos,Aloo Puri Combo,1,0,2 Sadi Aloo Puri+Cheese Aloo Puri+Mayonnaise Aloo Puri+Schezwan Aloo Puri+Thums Up [750 ml],240.0
+Combos,Khawsa with Cheese Aloo Poori,1,0,Khawsa+Cheese Aloo Puri+Schezwan Aloo Poori+Mayonnaise Aloo Poori+Thums Up [750 ml],250.0
+Combos,Sevusal with Cheese Aloo Puri,1,0,Sevusal+Cheese Aloo Puri+Mayonnaise Aloo Puri+Schezwan Aloo Puri+Thums Up [750 ml],250.0
+Aloo Puri,Sadi Aloo Puri [7 Pieces],1,0,,30.0
+Aloo Puri,Schezwan Aloo Puri [7 Pieces],1,0,,40.0
+Aloo Puri,Mayonnaise Aloo Puri [7 Pieces],1,0,,40.0
+Aloo Puri,Crunch Mayonnaise Aloo Puri [7 Pieces],1,0,,50.0
+Aloo Puri,"Sada Aloo Puri [Jumbo, 10 Pieces]",1,0,,40.0
+Aloo Puri,Cheese Aloo Puri [7 Pieces],1,0,,70.0
+Aloo Puri,Crunch Cheese Aloo Puri [7 Pieces],1,0,,80.0
+Aloo Puri,Schezwan Cheese Aloo Puri [7 Pieces],1,0,,80.0
+Aloo Puri,Crunch Schezwan Double Cheese Aloo Puri [7 Pieces],1,0,,90.0
+Aloo Puri,Double Cheese Aloo Puri [7 Pieces],1,0,,90.0
+Aloo Puri,Schezwan Double Cheese Aloo Puri [7 Pieces],1,0,,100.0
+Aloo Puri,Crunch Double Cheese Aloo Puri [7 Pieces],1,0,,100.0
+Khawsa,Veg Khawasa,1,0,,70.0
+Khawsa,Jain Khawsa,1,0,,70.0
+Khawsa,Cheese Khawasa,1,0,,90.0
+Khawsa,Jain Cheese Khawsa,1,0,,90.0
+Khawsa,Extra Papdi,1,0,Crunchy fried besan serves as topping.,20.0
+Usal,Bread - 2 pcs,1,0,,10.0
+Usal,Sev Usal,1,0,"A delightfully flavorful usal, served along with crispy sev or mixture",70.0
+Usal,Butter Usal,1,0,,80.0
+Usal,Cheese Usal,1,0,"A delightfully flavorful usal, served along with crispy sev or mixture with extra ... read more",90.0
+Usal,Cheese Butter Usal,1,0,,100.0

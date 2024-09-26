@@ -1,0 +1,123 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,JD Punjabi Thali [No Jain],1,0,1 Paneer Sabji+1 Veg Sabji+4 Roti+Dal+Rice+Salad+Papad+Gulab Jamun [1 Piece] [Subject to Availability],230.0
+Main Course,Paneer Matar,1,0,,220.0
+Main Course,Palak Paneer,1,0,An earthy spinach based gravy recipe that uses mild spices mixed together with ... read more,250.0
+Main Course,Paneer Jaipuri,1,0,,260.0
+Main Course,Paneer Lasania,1,0,,280.0
+Main Course,Paneer Balti,1,0,,280.0
+Main Course,Paneer Capsicum Bhurji,1,0,,280.0
+Main Course,Paneer Tikka Masala,1,0,"Luscious combination of paneer and exotic gravy made from tomato puree, chopped onions ... read more",305.0
+Main Course,Paneer Handi,1,0,"Grated Paneer stir fried with onions, tomatoes, and seasoned with Indian spices",305.0
+Main Course,Paneer Toofani,1,0,A delicious north indian curry made with paneer and tomato based spicy gravy ... read more,310.0
+Main Course,Paneer Hyderabadi,1,0,,310.0
+Main Course,Paneer Bhurji,1,0,"Paneer is crumbled and then cooked with onion, tomato and spices.",330.0
+Main Course,Paneer Butter Masala,1,0,A delightfully delicious and irresistibly creamy paneer butter masala made with our special ... read more,310.0
+Main Course,Aloo Jeera,1,0,,150.0
+Main Course,Aloo Matar,1,0,,150.0
+Main Course,Plain Palak,1,0,,150.0
+Main Course,Aloo Palak,1,0,,150.0
+Main Course,Chana Masala,1,0,"Chana masala is very delicious recipe, made with chickpeas with onion, tomatoes, ginger, ... read more",180.0
+Main Course,Mix Veg Curry,1,0,,210.0
+Main Course,Veg Kolhapuri,1,0,"Veg kolhapuri is indian curry consisting of mixed vegetables in thick, spiced gravy.",220.0
+Main Course,Veg Jaipuri,1,0,,220.0
+Main Course,Veg Kofta,1,0,,230.0
+Main Course,Veg Handi,1,0,,250.0
+Main Course,Veg Makhanwala,1,0,,250.0
+Main Course,Veg Navratan Korma,1,0,,280.0
+Main Course,Malai Kofta,1,0,,280.0
+Main Course,Cheese Butter Masala,1,0,Chunks of cheese simmered in a delicious tomato gravy finished in loads of ... read more,350.0
+Main Course,Khoya Kaju Sweet,1,0,,300.0
+Main Course,Kaju Kofta,1,0,,310.0
+Main Course,Kaju Curry,1,0,"Roasted Cashew Nuts (Kaju) Cooked In A Tomato, Onion And Spices Based Rich ... read more",310.0
+Main Course,Kaju Paneer,1,0,Dices of paneer and cashew tossed in aromatic kadhai gravy made of onion- ... read more,310.0
+Main Course,Kaju Masala,1,0,"Roasted cashew nuts (kaju) cooked in a tomato, onion, and spices based rich ... read more",320.0
+Main Course,Kaju Angara,1,0,,320.0
+Main Course,Dal Butter Fry,1,0,,170.0
+Main Course,Dal Tadkawali,1,0,A comforting and delicious preparation made with mixed daal cooked and tempered with ... read more,200.0
+South Indian,Sada Dosa,1,0,A plain crispy Dosa served with coconut chutney and sambar,75.0
+South Indian,Idli Sambar,1,0,,85.0
+South Indian,Masala Dosa,1,0,Dosa stuffed with potato masala served with fresh coconut chutney and sambar.,120.0
+South Indian,Baby Cheese Dosa,1,0,,140.0
+South Indian,Mysore Masala Dosa,1,0,"A semi spicy, crispy and delicious dosa, with masala folded into it topped ... read more",145.0
+South Indian,Sweet Corn Dosa,1,0,,170.0
+South Indian,Palak Paneer Dosa,1,0,,180.0
+South Indian,Paneer Soorma Dosa,1,0,,180.0
+South Indian,Jini Roll Dosa,1,0,,180.0
+South Indian,Spring Dosa,1,0,"A combination of crispy dosa, veggies and a bit of Chinese sauce.",180.0
+South Indian,Special J D Dosa,1,0,,180.0
+South Indian,JD Special Dosa,1,0,,200.0
+South Indian,Gotala Mysore Dosa,1,0,,200.0
+South Indian,Cheese Palak Dosa,1,0,,200.0
+South Indian,Paneer Tukda Dosa,1,0,,200.0
+South Indian,Rava Sada Dosa,1,0,,120.0
+South Indian,Onion Uttapam,1,0,A wholesome meal with flavor-packed soft uttapam topped with onions; served along with ... read more,125.0
+South Indian,Tomato Uttapam,1,0,"Traditionally made with toppings such as tomatoes, onion, chillies, capsicum and coriander with ... read more",125.0
+South Indian,Tomato Onion Uttapam,1,0,"Made with dosa batter,topped with onion and tomato and served with chutney, a ... read more",125.0
+South Indian,Masala Uttapam,1,0,"Traditionally made with toppings such as tomatoes, onion, chillies, capsicum and coriander with ... read more",125.0
+South Indian,Rava Onion Masala,1,0,,135.0
+South Indian,Rava Masala Dosa,1,0,,140.0
+Rice and Biryani,Steamed Rice,1,0,,100.0
+Rice and Biryani,Jeera Rice,1,0,Jeera rice or Zeera rice is an Indian dish consisting of rice and ... read more,160.0
+Rice and Biryani,Veg Pulao,1,0,A wholesome indian dish prepared by cooking chopped vegetables and rice in a ... read more,180.0
+Rice and Biryani,Paneer Pulao,1,0,,200.0
+Rice and Biryani,Masala Khichdi,1,0,"A spicy twist to home cooked khichdi, this dish not only fills your ... read more",200.0
+Rice and Biryani,Palak Khichdi,1,0,Palak khichdi is a rice and red lentil based dish with spinach added ... read more,200.0
+Rice and Biryani,Kashmiri Pulao,1,0,,210.0
+Rice and Biryani,Dal Khichdi,1,0,"Mix of rice, lentils and spices cooked together.",210.0
+Rice and Biryani,Veg Biryani,1,0,Rice cooked to perfection and blend with authentic indian herbs and soft mix ... read more,200.0
+Rice and Biryani,Veg Hyderabadi Biryani,1,0,"Wholesome biryani prepared with assorted veggies, aromatic basmati biryani rice and whole spices",200.0
+Chinese,Chinese Bhel,1,0,,180.0
+Chinese,Veg Manchurian Dry,1,0,"Vegetable balls tossed with onion, chillies and fresh bell peppers.",200.0
+Chinese,Chilli Paneer Dry,1,0,,300.0
+Chinese,Veg Fried Rice,1,0,Most popular and a deliciously aromatic dish prepared from rice and stir-fried finely ... read more,150.0
+Chinese,Schezwan Fried Rice,1,0,A slightly spicy dish made by tossing vegetables and rice in a garlic ... read more,180.0
+Chinese,Veg Hakka Noodles,1,0,"Classic Hakka Style Noodles With Onion, Garlic And Capsicum",160.0
+Soups,Cream of Tomato Soup,1,0,,100.0
+Soups,Veg Manchow Soup,1,0,"A delicious hot and spicy, thick soup made from mixed vegetables and topped ... read more",150.0
+Soups,Hot and Sour Soup,1,0,,150.0
+Accompaniments,Roasted Papad,1,0,,40.0
+Accompaniments,Fried Papad,1,0,,50.0
+Accompaniments,Masala Papad,1,0,,60.0
+Accompaniments,Veg Raita,1,0,,80.0
+Accompaniments,Boondi Raita,1,0,,80.0
+Drinks (Beverages),Buttermilk,1,0,,30.0
+Drinks (Beverages),Masala Buttermilk,1,0,,35.0
+Drinks (Beverages),Sweet Lassi,1,0,,70.0
+Drinks (Beverages),Rose Milkshake,1,0,,100.0
+Drinks (Beverages),Cold Coffee Milkshake,1,0,,100.0
+Drinks (Beverages),Kaju Draksh Milkshake,1,0,,170.0
+Drinks (Beverages),Kaju Mango Milkshake,1,0,,200.0
+Drinks (Beverages),Kaju Chocolate Milkshake,1,0,,200.0
+Drinks (Beverages),Kaju Anjeer Milkshake,1,0,,210.0
+IPL Combos,Dal Khichdi with Buttermilk,1,0,,240.0
+IPL Combos,Dal Butter Fry with Jeera Rice,1,0,,330.0
+Pizza and Pasta,La Penne Arrabiata Pasta,1,0,,299.0
+Pizza and Pasta,La Penne Alfredo,1,0,,299.0
+Pizza and Pasta,Mac N Cheese,1,0,,225.0
+Pizza and Pasta,Garlic Bread with Cheese,1,0,,180.0
+Pizza and Pasta,Super Garlic Bread,1,0,,180.0
+Pizza and Pasta,Margherita Pizza [8 inches],1,0,Pizza sauce and cheese.,270.0
+Pizza and Pasta,Soice Delight Pizza [8 inches],1,0,,349.0
+Pizza and Pasta,Tandoori Paneer Pizza [8 inches],1,0,"Marinated paneer, green chilli and coriander.",349.0
+Pizza and Pasta,Deluxe Margherita Pizza [8 inches],1,0,"Onion, mushroom and loaded cheese.",349.0
+Pizza and Pasta,Chaat Paneer Pizza [8 inches],1,0,"Onion, capsicum, jalapeno and marinated paneer.",349.0
+Pizza and Pasta,Supreme Veg Pizza [8 inches],1,0,"Onion, capsicum, tomato, mushroom, olives and baby corn.",349.0
+Pizza and Pasta,J D Special Pizza [8 inches],1,0,,349.0
+Pizza and Pasta,Paneer Chilli Pizza [8 inches],1,0,"Onion, capsicum, green chilli, paneer and Chinese sauce.",349.0
+Pizza and Pasta,Schezwan Veg Pizza [8 inches],1,0,"Spring onion, onion, capsicum, baby corn and schezwan sauce.",349.0
+Pizza and Pasta,California Pizza [8 inches],1,0,"Spring onion, jalapeno and mushroom.",349.0
+Pizza and Pasta,Corn Feast Pizza [8 inches],1,0,"Capsicum, baby corn, pineapple and sweet corn.",349.0
+Pizza and Pasta,French Fries,1,0,,125.0
+Pizza and Pasta,Peri Peri French Fries,1,0,,135.0
+Pizza and Pasta,Cheese French Fries,1,0,,150.0
+Pizza and Pasta,Cheesy Veggie Sandwich,1,0,,225.0
+Pizza and Pasta,Veggie Delight Sandwich,1,0,,225.0
+Pizza and Pasta,Schezwan Delight Sandwich,1,0,,225.0
+Pizza and Pasta,Veg Burger,1,0,,125.0
+Pizza and Pasta,Veg Cheese Burger,1,0,,135.0
+Pizza and Pasta,Cheese Double Decker Sandwich,1,0,,225.0
+Pizza and Pasta,Cheese Grilled Sandwich,1,0,,199.0
+Pizza and Pasta,Veg Grilled Sandwich,1,0,,189.0
+Pizza and Pasta,Veg Sandwich,1,0,,79.0
+Pizza and Pasta,Veg Cheese Sandwich,1,0,,135.0
+Pizza and Pasta,Bread Butter Sandwich,1,0,,60.0

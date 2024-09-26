@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fresh Fruit Popsicles,Berry Bahar Popsicle,1,0,"A symphony of sweet and tangy notes, it's the ultimate berrylicious delight in ... read more",70.34
+Fresh Fruit Popsicles,Minty Maharani Popsicle,1,0,Fusion of zing of lemon with the invigorating burst of mint in a ... read more,70.34
+Fresh Fruit Popsicles,PinaKiwi Masti Popsicle,1,0,Enjoy the perfect blend of zesty kiwi and sweet pineapple in every bite ... read more,70.34
+Match Day Combo,Cheeky Chocolaty Combo,1,0,Craving chocolate?Indulge in our epic duo-Rich Belgian Bite Ice Cream (300ml) and creamy ... read more,415.25
+Match Day Combo,Fruity Fun Combo,1,0,Grab our sunshine duo: a creamy Guava Glory Ice Cream (300ml) & the ... read more,415.25
+Match Day Combo,Shakey Wakey Combo,1,0,Beat the heat with our Summer Chillin' Shakes!Get a decadent Brownie Blast Ice ... read more,334.75
+Seasonal Fruit Ice Creams,Jackfruit Jazz Ice Cream,1,0,"Aromatic, Golden pearls - Jackfruit Jazz. Keep Jazzing! Additional info - Per 100gms ... read more",70.34
+Seasonal Fruit Ice Creams,Luscious Lychee Ice Cream,1,0,The perfume like flavour of fresh lychees will enchant your taste and smell ... read more,70.34
+Seasonal Fruit Ice Creams,Trippy Targola Ice Cream,1,0,"The subtle tasting palm fruit. Ripe, delightfully tender kernels meshed in each bite. ... read more",70.34
+Fruitylicious Fruit Ice Creams,Blueberry Cheese Cake Ice Cream,1,0,Velvety Smooth Cheesecake with a burst of tarty Blueberries. Drive away your blues ... read more,70.34
+Fruitylicious Fruit Ice Creams,Coconut Cravings Ice Cream,1,0,Creamy icecream with natural tender coastal coconuts. Flavour so fresh and refreshing that ... read more,70.34
+Fruitylicious Fruit Ice Creams,Orange Apricot Ice Cream,1,0,Juicy oranges with nuggets of dried apricots. Feast on this delicious combo like ... read more,70.34
+Fruitylicious Fruit Ice Creams,Pinaberry Passion Ice Cream,1,0,Yummy pineapple tidbits with some cranberry chunks. A flavour for all seasons and ... read more,70.34
+Chocolicious Chocolate Ice Creams,Belgian Bite Ice Cream,1,0,"Rich, dark belgian chocolate with chips. Unlike any other chocolate ice cream you ... read more",70.34
+Chocolicious Chocolate Ice Creams,Brownie Blast Ice Cream,1,0,Sinful pieces of chocolate brownie & chocolate chips. This one you've gotta indulge ... read more,70.34
+Chocolicious Chocolate Ice Creams,Cafe Crunch Ice Cream,1,0,Premium Arabica coffee with a sprinkling of crunchy cookies. You'll surely want a ... read more,70.34
+Chocolicious Chocolate Ice Creams,Choco Cherry Ice Cream,1,0,A berry chocolaty blend of sinful cocoa and ripe cherries churned into a ... read more,70.34
+Chocolicious Chocolate Ice Creams,Cookies N Cream Ice Cream,1,0,Chocolate chip cookies baked to perfection and creamed into this crowd puller of ... read more,70.34
+Chocolicious Chocolate Ice Creams,Funky Ferrero Ice Cream,1,0,Hazelnuts dipped in chocolate sauce sprinkled with chocolate chips. A premium ecstasy for ... read more,70.34
+Nuttylicious Dry Fruit Ice Creams,Anjeer Andaaz Ice Cream,1,0,Dried figs poached to a smooth consistency. A quintessential Indian flavour for all ... read more,70.34
+Nuttylicious Dry Fruit Ice Creams,Falooda Funda Ice Cream,1,0,"A delightful combination of rose, basil seeds, cashews and spaghetti. The most enjoyed ... read more",70.34
+Nuttylicious Dry Fruit Ice Creams,Kesar Pistachio Ice Cream,1,0,"Rich almonds and pistas, blended in the enticing aroma of saffron. A royal ... read more",70.34
+Nuttylicious Dry Fruit Ice Creams,Pan Pasand Ice Cream,1,0,Each bite is a mini Calcutta Meetha Pan. Your perfect end to a ... read more,70.34
+Nuttylicious Dry Fruit Ice Creams,Roasted Almonde Ice Cream,1,0,"The iconic flavour from Apsara. Almonds roasted to crispy perfection, with a hint ... read more",70.34
+Sorbelicious Dairy Free Sorbets,Berry Bonanza Sorbet,1,0,A fusion of Raspberry and Strawberry Juice. Churned into a smooth textured ... read more,70.34
+Sorbelicious Dairy Free Sorbets,Pani Puri Patakha Sorbet,1,0,The famous Bombay Pani Puri a blend of 10 different spices- to create ... read more,70.34
+Sorbelicious Dairy Free Sorbets,Tamarind Twist Sorbet,1,0,Ever had imli as a dessert? Every bite is a sharp burst of ... read more,70.34
+Sorbelicious Dairy Free Sorbets,Watermelon Wonder Sorbet,1,0,Fresh watermelons pureed into a refreshing sorbet. The ultimate heat beater and all ... read more,70.34
+Zero Added Sugar,Zero Added Sugar Anjeer Andaaz Ice Cream,1,0,No Added Sugar. Dried figs poached to a smooth consistency. A quintessential flavour ... read more,76.27
+Zero Added Sugar,Zero Added Sugar Belgian Bite Ice Cream,1,0,"No added Sugar in our rich, dark belgian chocolate and chocolate chips. Unlike ... read more",76.27
+Zero Added Sugar,Zero Added Sugar Guava Glory Ice Cream,1,0,No Added Sugar. Tropical pink guavas make for scrumptious shake. Served with a ... read more,76.27
+Zero Added Sugar,Zero Added Sugar Kesar Pistachio Ice Cream,1,0,"No Added Sugar. Rich almonds and pistas, blended in the enticing aroma of ... read more",76.27
+Zero Added Sugar,Zero Added Sugar Orange Chocolate Ice Cream,1,0,No Added Sugar. Juicy oranges with chocolate chips. Feast on this delicious combo ... read more,76.27
+Zero Added Sugar,Zero Added Sugar Pinaberry Passion Ice Cream,1,0,No Added Sugar. Yummy pineapple tidbits with some cranberry chunks. A flavour for ... read more,76.27
+Zero Added Sugar,Zero Added Sugar Roasted Almonde Ice Cream,1,0,"No Added Sugar. The iconic flavour from Apsara. Almonds roasted to perfection, with ... read more",76.27
+Shakelicious (Ice Cream Shakes),Anjeer Andaaz Shake [200 Ml],1,0,Dried figs poached to a smooth consistency. A quintessential Indian flavour for all ... read more,177.12
+Shakelicious (Ice Cream Shakes),Belgian Bite Shake [200 Ml],1,0,"Rich, dark belgian chocolate with chips. Unlike any other chocolate Shake you have ... read more",177.12
+Shakelicious (Ice Cream Shakes),Blueberry Cheese Cake Shake [200 Ml],1,0,Velvety Smooth Cheesecake with a burst of tarty Blueberries. Drive away your blues ... read more,177.12
+Shakelicious (Ice Cream Shakes),Brownie Blast Shake [200 Ml],1,0,Sinful pieces of chocolate brownie & chocolate chips. This one you've gotta indulge ... read more,177.12
+Shakelicious (Ice Cream Shakes),Choco Cherry Shake,1,0,A berry chocolaty blend of sinful cocoa and ripe cherries churned into a ... read more,177.12
+Shakelicious (Ice Cream Shakes),Cookies N Cream Shake [200 Ml],1,0,Chocolate chip cookies baked to perfection and creamed into this crowd puller of ... read more,177.12
+Shakelicious (Ice Cream Shakes),Falooda Funda Shake [200 Ml],1,0,"A delightful combination of rose, basil seeds, cashews and spaghetti. The most enjoyed ... read more",177.12
+Shakelicious (Ice Cream Shakes),Funky Ferrero Shake [200 Ml],1,0,Hazelnuts dipped in chocolate sauce sprinkled with chocolate chips. A premium ecstasy for ... read more,177.12
+Shakelicious (Ice Cream Shakes),Luscious Lychee Shake,1,0,The perfume like flavour of fresh lychees will enchant your taste and smell ... read more,177.12
+Shakelicious (Ice Cream Shakes),Pan Pasand Shake [200 Ml],1,0,Each bite is a mini Calcutta Meetha Pan. Your perfect end to a ... read more,177.12
+Shakelicious (Ice Cream Shakes),Pinaberry Passion Shake [200 Ml],1,0,Yummy pineapple tidbits with some cranberry chunks. A flavour for all seasons and ... read more,177.12
+Shakelicious (Ice Cream Shakes),Roasted Almonde Shake [200 Ml],1,0,"The iconic flavour from Apsara. Almonds roasted to crispy perfection, with a hint ... read more",177.12
+Shakelicious (Ice Cream Shakes),Trippy Targola Shake [200 Ml],1,0,"The subtle tasting palm fruit. Ripe, delightfully tender kernels meshed in each sip. ... read more",177.12
+Shakelicious (Ice Cream Shakes),Zero Added Sugar Anjeer Andaaz Shake [200 Ml],1,0,No Added Sugar. Dried figs poached to a smooth consistency. A quintessential flavour ... read more,186.44
+Shakelicious (Ice Cream Shakes),Zero Added Sugar Belgian Bite Shake [200 Ml],1,0,"No added Sugar in our rich, dark belgian chocolate and chocolate chips. Unlike ... read more",186.44
+Shakelicious (Ice Cream Shakes),Zero Added Sugar Guava Glory Shake [200 Ml],1,0,No Added Sugar. Tropical pink guavas make for scrumptious shake. Served with a ... read more,186.44
+Shakelicious (Ice Cream Shakes),Zero Added Sugar Kesar Pistachio Shake,1,0,"No Added Sugar. Rich almonds and pistas, blended in the enticing aroma of ... read more",186.44
+Shakelicious (Ice Cream Shakes),Zero Added Sugar Orange Chocolate Shake [200 Ml],1,0,No Added Sugar. Juicy oranges with chocolate chips. Feast on this delicious combo ... read more,186.44
+Shakelicious (Ice Cream Shakes),Zero Added Sugar Roasted Almonde Shake [200 Ml],1,0,"No Added Sugar. The iconic flavour from Apsara. Almonds roasted to perfection, with ... read more",186.44
+Kulfilicious Traditional Indian Kulfis,Black Currant Candy,1,0,Velvety Smooth kulfi with a burst of tarty Black Currants in every bite. ... read more,46.61
+Kulfilicious Traditional Indian Kulfis,Gulkand Candy,1,0,The aromatic taste of Gulkand made with sun dried rose petals in every ... read more,46.61
+Kulfilicious Traditional Indian Kulfis,Malai Candy,1,0,Pure Malai (cream and more cream) till the last bite. In candy form. ... read more,46.61
+Kulfilicious Traditional Indian Kulfis,Malai Slice,1,0,Pure Malai (cream and more cream) till the last bite. In Slice form. ... read more,93.22
+Kulfilicious Traditional Indian Kulfis,Rajbhog Candy,1,0,"Made with finest ingredients and fully loaded with almonds, cashews and saffron. The ... read more",46.61

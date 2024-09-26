@@ -1,0 +1,150 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali & Combos,Fried Rice Combo,1,0,Fried Rice+Hakka Noodles+Manchurian Gravy,190.0
+Thali & Combos,Paneer Butter Masala Combo,1,0,2 Ghee Paratha+Paneer Butter Masala+Green Salad,190.0
+Thali & Combos,Paneer Chilli Combo,1,0,Paneer Chilli+Fried Rice+Schezwan Noodles,240.0
+Thali & Combos,Paneer Do Pyaza With 2 Butter Roti,1,0,Paneer Do Pyaza [220 ml]+4 Butter Roti+Jeera Rice+Dal Tadka+Buttermilk+Papad,205.0
+Thali & Combos,Paneer Kadhai With 2 Butter Roti,1,0,Paneer Kadhai+4 Butter Roti+Peas Pulao+Dal Fry+Buttermilk+Papad,205.0
+Thali & Combos,Veg Amritsari With 2 Butter Roti,1,0,Veg Amritsari+2 Butter Roti+Peas Pulao+Dal Fry+Buttermilk+Papad,205.0
+Thali & Combos,Veg Biryani With Boondi Raita,1,0,Veg Biryani+Boondi Raita+Green Salad+Pickle,180.0
+Thali & Combos,Veg Deluxe Thali,1,0,4 Butter Chapati +Jeera Rice + Dal Fry + Butter Paneer + Mix ... read more,210.0
+Thali & Combos,Veg Diwani Handi With 2 Butter Roti,1,0,Veg Diwani Handi+2 Butter Roti+Jeera Rice+Dal Tadka+Buttermilk+Papad,205.0
+Thali & Combos,Veg Thali,1,0,4 Chapati+Steamed Rice+Dal Fry+Mix Veg Sabji+Pickle+Salad [Salad-Subject to Availability],140.0
+Thali & Combos,Butter Chicken & Ghee Paratha Combo,0,0,Butter Chicken+2 Ghee Paratha+Salad+Buttermilk+Papad?[Salad-Subject to Availability],320.0
+Thali & Combos,Chicken Biryani & Raita Combo,0,0,"A flavorful and aromatic biryani with tender pieces of chicken, perfectly cooked to ... read more",280.0
+Thali & Combos,Chicken Fried Rice Or Chicken Hakka Noodles + Chilly Chicken Gravy,0,0,"Crispy rice fried to perfection with a rich and flavorful chicken gravy, this ... read more",280.0
+Thali & Combos,Chicken Kheema Masala & 4 Butter Roti Combo,0,0,Chicken Keema Masala+Egg Bhurji+4 Butter Roti+Salad+Papad?[Salad-Subject to Availability],310.0
+Thali & Combos,Chicken Kolhapuri & 4 Butter Roti Combo,0,0,"A spicy, tangy chicken dish, perfect for a light meal. Pair it with ... read more",290.0
+Thali & Combos,Chicken Thali,0,0,4 Chapati+Steamed Rice+Dal Fry+Chicken Curry+Masala Boiled Egg [1 Egg]+Pickle+Salad [Salad-Subject to Availability],310.0
+Thali & Combos,Egg Fried Noodles Or Egg Fried Rice + Egg Chilly Gravy,0,0,Savory egg fried noodles or egg fried rice with a spicy twist of ... read more,240.0
+Thali & Combos,Egg Thali,0,0,4 Chapati+Steamed Rice+Dal Fry+1 Egg Curry+Veg Sabji+Pickle+Salad [Salad-Subject to Availability],240.0
+Thali & Combos,Fish Thali,0,0,4 Chapati+Steamed Rice+Dal Fry+Fish Curry+Masala Boiled Egg [1 Egg]+Pickle+Salad [Salad-Subject to Availability],280.0
+Thali & Combos,Mutton Thali,0,0,4 Chapati+Steamed Rice+Dal Fry+Mutton Masala+Masala Boiled Egg [1 Egg]+Pickle+Salad [Salad-Subject to Availability],380.0
+Starters,Corn Crispy,1,0,"A crispy, golden brown coating of corn flour, spices and herbs make these ... read more",180.0
+Starters,Hara Bhara Kebab,1,0,"A succulent and flavorful dish made with spinach, mashed potatoes and spices.",230.0
+Starters,Mushroom Chilly,1,0,A rich and flavourful mushroom dish cooked with a blend of red and ... read more,240.0
+Starters,Paneer Chilli,1,0,A delightful vegetarian starter bursting with aromatic flavors and tempting textures.,290.0
+Starters,Paneer Hyderabadi Tikka,1,0,,320.0
+Starters,Paneer Malai Tikka,1,0,A classic Indian dish made with succulent paneer marinated in rich malai sauce ... read more,340.0
+Starters,Paneer Manchurian,1,0,"Crispy fried paneer cubes, tossed in a spicy manchurian sauce and garnished with ... read more",290.0
+Starters,Paneer Tikka,1,0,"A flavorful and tender grilled paneer marinated in a mixture of yogurt, spices ... read more",290.0
+Starters,Chicken 65,0,0,,250.0
+Starters,Chicken Chilli,0,0,Indian Chinese chicken chilli a spicy chicken recipe which is bursting with flavor ... read more,300.0
+Starters,Chicken Crispy,0,0,"Crispy chicken strips in a crispy batter, served with a side of tangy ... read more",290.0
+Starters,Chicken Hyderabadi Tikka,0,0,"A succulent chicken dish with a flavorful Hyderabadi marinade, cooked in a clay ... read more",380.0
+Starters,Chicken Leg Piece [1 Piece],0,0,"A juicy and tender piece of chicken leg, perfect for a hearty meal.",190.0
+Starters,Chicken Lollipop [6 Pieces],0,0,"Tender, juicy and flavorful chicken lollipop, perfect for sharing with friends or family.",280.0
+Starters,Chicken Malai Tikka,0,0,"Tender and juicy chicken marinated in a creamy malai sauce, perfect for sharing ... read more",390.0
+Starters,Chicken Manchurian,0,0,Crispy chunks of chicken in a sweet and tangy sauce with a spicy ... read more,290.0
+Starters,Chicken Seekh Kebab,0,0,"Crispy and succulent chicken kebabs made with minced chicken, spices and our secret ... read more",280.0
+Starters,Chicken Spring Roll,0,0,"Delicately wrapped and bursting with flavorful fillings, this crispy golden appetizer is sure ... read more",260.0
+Starters,Chicken Tikka,0,0,"Delicious marinated chicken bites grilled to perfection, bursting with flavor and a hint ... read more",370.0
+Starters,Chicken Wings [6 Pieces],0,0,"Crispy, tangy and bursting with flavor, our chicken wings are an indulgent treat ... read more",290.0
+Starters,Fish Fry,0,0,,480.0
+Starters,Fish Tawa,0,0,A succulent and flavorful seafood delight that tantalizes your taste buds and kickstarts ... read more,450.0
+Starters,Mutton Seekh Kebab,0,0,"Juicy and succulent kebabs made from tender mutton, bursting with flavors that will ... read more",450.0
+Starters,Omelette,0,0,"A mouthwatering creation of fluffy egg, filled with tantalizing flavors, perfect to start ... read more",100.0
+Main Course,Chana Masala,1,0,"Delight in a flavorful and aromatic Indian specialty, perfect for pairing with Roti ... read more",130.0
+Main Course,Dal Fry,1,0,,100.0
+Main Course,Dal Tadka,1,0,Dal tadka is a delicious and flavourful dish made with split lentils cooked ... read more,120.0
+Main Course,Deeps Veg Special,1,0,[Subject to Availablity],320.0
+Main Course,Kadhai Paneer,1,0,"A tantalizing and flavorsome vegetarian delight bursting with rich and aromatic gravy, perfect ... read more",250.0
+Main Course,Kaju Curry,1,0,A flavorful and indulgent vegetarian curry rich in cashews that will delight your ... read more,270.0
+Main Course,Kaju Masala,1,0,"A rich and aromatic Indian snack made with cashews, spices and a hint ... read more",270.0
+Main Course,Mix Veg,1,0,,180.0
+Main Course,Palak Paneer,1,0,"A rich, creamy and flavorful dish of soft spinach cooked with smooth and ... read more",250.0
+Main Course,Paneer Bhurji,1,0,"A classic North Indian dish, made with creamy paneer and flavorful spices, ideal ... read more",270.0
+Main Course,Paneer Butter Masala,1,0,"A rich and creamy dish with a flavorful blend of paneer and spices, ... read more",270.0
+Main Course,Paneer Do Pyaza,1,0,A traditional dish made with paneer cooked in a rich and aromatic onion ... read more,260.0
+Main Course,Paneer Handi,1,0,A creamy and delicious blend of paneer and traditional spices in a rich ... read more,260.0
+Main Course,Paneer Hyderabadi,1,0,A flavorful and aromatic vegetarian delight that will transport you to the royal ... read more,260.0
+Main Course,Paneer Kolhapuri,1,0,A spicy and flavorful dish made with soft paneer cubes cooked in a ... read more,260.0
+Main Course,Paneer Lababdar,1,0,"Tender cubes of Indian cottage cheese, cooked in a rich, creamy sauce with ... read more",280.0
+Main Course,Paneer Matar Masala,1,0,"A rich and creamy dish made with paneer, green peas and aromatic spices. ... read more",250.0
+Main Course,Paneer Patiala,1,0,A rich and flavorful dish with soft and creamy paneer pieces in a ... read more,280.0
+Main Course,Paneer Tikka Masala,1,0,A rich and creamy dish made with tender paneer cooked in a flavorful ... read more,270.0
+Main Course,Shahi Paneer,1,0,A rich and creamy dish made with paneer cooked in a tomato and ... read more,260.0
+Main Course,Veg Hyderabadi,1,0,A delectable vegetarian main course inspired by the rich flavors of Hyderabad.,240.0
+Main Course,Chicken Afghani Boneless,0,0,"Tender boneless chicken cooked in a flavorful Afghani-style sauce, perfect for a hearty ... read more",350.0
+Main Course,Chicken Afghani,0,0,"Tender chicken cooked with aromatic spices, served with fluffy saffron rice and naan.",320.0
+Main Course,Chicken Butter Boneless,0,0,Tender boneless chicken cooked with a rich and creamy butter sauce that's bursting ... read more,320.0
+Main Course,Chicken Butter Masala,0,0,"A rich and savory Indian specialty featuring tender chicken cooked in a luscious, ... read more",310.0
+Main Course,Chicken Do Pyaza,0,0,Chicken do pyaaza a rich and aromatic dish made with tender chicken pieces ... read more,290.0
+Main Course,Chicken Handi,0,0,A rich and flavorful chicken dish that will satisfy your cravings for a ... read more,280.0
+Main Course,Chicken Kadhai,0,0,"Tender chicken pieces cooked in a rich, creamy sauce made with tomatoes, onion, ... read more",280.0
+Main Course,Chicken Kolhapuri Boneless,0,0,"Tender boneless chicken pieces marinated in a spicy and tangy Kolhapur masala, cooked ... read more",300.0
+Main Course,Chicken Pahadi,0,0,"A spicy, tangy, flavorful chicken dish made with marinated chicken, herbs and spices. ... read more",320.0
+Main Course,Chicken Tandoori Masala,0,0,"Marinated with yoghurt and spices, this succulent chicken dish is cooked to perfection ... read more",340.0
+Main Course,Chicken Tikka Masala,0,0,Chicken tikka masala is a classic dish that features tender pieces of chicken ... read more,280.0
+Main Course,Deeps Non Veg Special,0,0,"Savor the mouthwatering flavors of our Non-Veg Special, a scrumptious main course that ... read more",580.0
+Main Course,Egg Bhurjil,0,0,"A classic dish with soft, fluffy egg cooked in a creamy tomato sauce. ... read more",120.0
+Main Course,Egg Curry,0,0,,120.0
+Main Course,Egg Keema Masala,0,0,,160.0
+Main Course,Egg Maharaja,0,0,A decadent and rich dish of egg cooked with aromatic spices and herbs ... read more,220.0
+Main Course,Egg Masala,0,0,"A spicy and savory dish of soft boiled egg, cooked with aromatic spices ... read more",140.0
+Main Course,Fish Pomfret Curry,0,0,"A flavorful and spicy fish curry made with fresh fish, aromatic spices and ... read more",500.0
+Main Course,Fish Pomfret Masala,0,0,Savor the flavors of tender fish fillets in a fragrant and delectable masala ... read more,500.0
+Main Course,Mutton Masala,0,0,"Mutton masala spicy and flavorful, this dish is perfect for a hearty meal.",400.0
+Main Course,Mutton Rogan Josh,0,0,Tender pieces of mutton cooked in a rich and aromatic rogan josh gravy. ... read more,400.0
+Rice & Biryani,Dal Khichdi,1,0,,160.0
+Rice & Biryani,Green Peas Pulao,1,0,"A fragrant rice dish with green peas, basmati rice and fragrant spices. A ... read more",140.0
+Rice & Biryani,Jeera Rice,1,0,"A classic Indian dish, made with fragrant spices and rice cooked with aromatic ... read more",90.0
+Rice & Biryani,Plain Rice,1,0,"Plain rice, steamed rice or plain white rice, is a staple food in ... read more",70.0
+Rice & Biryani,Veg Birvani,1,0,,290.0
+Rice & Biryani,Veg Pulao,1,0,Veg pulao is a classic Indian rice dish made with aromatic spices and ... read more,170.0
+Rice & Biryani,Chicken Dum Biryani,0,0,"A flavorful and aromatic rice dish layered with tender chicken, bursting with rich ... read more",250.0
+Rice & Biryani,Chicken Special Biryani,0,0,"A mouthwatering chicken dish made with fragrant basmati rice and tender chicken pieces, ... read more",350.0
+Rice & Biryani,Egg Biryani,0,0,Delicious biryani with a rich blend of flavours.,200.0
+Rice & Biryani,Mutton Biryani,0,0,,450.0
+Non Veg Matka Biryani,Chicken Matka Biryani,0,0,Made with freshly cut thigh chicken and basmati rice topping with eggs and ... read more,680.0
+Non Veg Matka Biryani,Mutton Matka Biryani,0,0,Freshly cut tender mutton pieces cooked with premium basmati rice in a clay ... read more,880.0
+Matka Champaran,Chicken Matka Champaran,0,0,Freshly made and served in a clay pot. With all the unique Indian ... read more,700.0
+Matka Champaran,Mutton Matka Champaran,0,0,Tender mutton cooked in the distinctive and flavorful Matka Champaran style.,950.0
+Roti & Naan,Butter Garlic Naan,1,0,"A soft and fluffy bread, cooked with butter and garlic, perfect for a ... read more",90.0
+Roti & Naan,Butter Naan,1,0,"A soft and buttery Indian bread, perfect for savoring the delectable flavors of ... read more",50.0
+Roti & Naan,Butter Tawa Roti,1,0,"Delicious and fluffy roti with a rich buttery taste, perfect for sharing with ... read more",17.0
+Roti & Naan,Cheese Garlic Naan,1,0,A savory flatbread topped with melted cheese and a savory garlic sauce.,140.0
+Roti & Naan,Laccha Paratha,1,0,,70.0
+Roti & Naan,Plain Tawa Roti,1,0,"A simple and versatile flatbread, perfect for any meal, snack or party.",12.0
+Paratha,Aloo Gobi Paratha,1,0,1 Aloo Gobi Paratha,170.0
+Paratha,Aloo Paratha,1,0,1 Aloo Paratha,150.0
+Paratha,Dahi Paratha,1,0,1 Dahi Paratha,120.0
+Paratha,Paneer Paratha,1,0,1 Paneer Paratha,220.0
+Chinese,Bombay Bhel,1,0,,190.0
+Chinese,Butter Garlic Fried Rice,1,0,"A mouthwatering and flavorful dish with the goodness of rice, garlic and butter.",200.0
+Chinese,Chinese Bhel,1,0,,190.0
+Chinese,Classic Noodles,1,0,"A traditional Chinese noodles dish, which is often served as a quick meal.",170.0
+Chinese,Hakka Noodles,1,0,,180.0
+Chinese,Manchurian Dry,1,0,"Crispy and golden fried manchurian dry, served with a side of tangy sauce ... read more",160.0
+Chinese,Manchurian Fried Rice,0,0,"A Chinese inspired rice dish made with vegetables and chicken pieces, flavored with ... read more",200.0
+Chinese,Manchurian Gravy,1,0,A spicy and flavorful gravy with crispy fried manchurian dumplings.,170.0
+Chinese,Manchurian Noodles,1,0,"Crispy noodles with a spicy and tangy flavour, perfect for a satisfying meal.",190.0
+Chinese,Paneer Stroke Fried Rice,1,0,A delectable Chinese delight with tender paneer and flavorful stir-fried rice.,260.0
+Chinese,Paneer Stroke Noodles,1,0,"A delightful fusion of soft paneer and flavorful noodles, crafted in the Chinese ... read more",220.0
+Chinese,Schezwan Fried Rice,1,0,,200.0
+Chinese,Schezwan Noodles,1,0,"A spicy noodles dish with a punch of flavour, schezwan noodles is a ... read more",180.0
+Chinese,Singapore Noodles,1,0,Singapore noodles is a delicious and hearty dish that can be enjoyed as ... read more,180.0
+Chinese,Triple Bejing Fried Rice,1,0,"A tantalizing fusion of flavors and textures, this Chinese veggie delight brings triple ... read more",260.0
+Chinese,Veg Fried Rice,1,0,A healthy and flavorful rice dish made with a medley of vegetables and ... read more,190.0
+Chinese,Veg Spring Roll,1,0,"Crispy roll filled with fresh vegetables, served with a tangy sweet and sour ... read more",170.0
+Chinese,Chicken Butter Garlic Fried Rice,0,0,"Crispy fried rice with succulent chicken, tossed in a garlic and butter sauce.",310.0
+Chinese,Chicken Butter Garlic Noodles,0,0,A delectable Chinese inspired noodles dish with succulent pieces of chicken in a ... read more,290.0
+Chinese,Chicken Classic Noodles,0,0,"Noodles tossed with savory chicken, crisp vegetables and a spicy sauce.",250.0
+Chinese,Chicken Classsic Fried Rice,0,0,A flavorful and savory Chinese fried rice dish made with bite sized pieces ... read more,280.0
+Chinese,Chicken Hakka Noodles,0,0,"A flavourful dish with a blend of Chinese and Asian influences, this dish ... read more",270.0
+Chinese,Chicken Helmet Fried Rice,0,0,"Chinese rice dish with chicken, egg and vegetables in a helmet shaped bowl.",310.0
+Chinese,Chicken Hongkong Fried Rice,0,0,"Crispy fried rice with chicken, vegetables and an aromatic hint of blackened garlic ... read more",290.0
+Chinese,Chicken Hongkong Noodles,0,0,A delicious and flavorful dish that can be served as a main course ... read more,280.0
+Chinese,Chicken Schezwan Fried Rice,0,0,,290.0
+Chinese,Chicken Schezwan Noodles,0,0,"A delectable combination of chicken and vegetables in a fiery schezwan sauce, served ... read more",270.0
+Chinese,Chicken Singapore Fried Rice,0,0,,290.0
+Chinese,Chicken Singapore Noodles,0,0,,270.0
+Chinese,Chicken Triple Bejing Fried Rice,0,0,"A delightful dish prepared with chicken, egg and vegetables in a fried rice ... read more",350.0
+Chinese,Egg Fried Noodles Rice,0,0,,240.0
+Chinese,Egg Fried Noodles,0,0,"Noodles made with egg, vegetables and a savory sauce.",200.0
+Chinese,Prawns Beijing Rice,0,0,,360.0
+Chinese,Prawns Fried Rice,0,0,"A classic Chinese rice dish, made with shrimp and Chinese rice. A popular ... read more",290.0
+Chinese,Prawns Schezwan Fried Rice,0,0,"A flavourful fried rice dish, featuring plump prawns and a spicy schezwan sauce.",380.0
+Accomapniments,Green Salad,1,0,,50.0
+Accomapniments,Masala Chaas,1,0,"A refreshing and flavorful veggie concoction, perfect for savoring with any meal.",35.0
+Accomapniments,Masala Papad,1,0,"Crunchy, flavorful and spicy papad, perfect to share and pair with your favorite ... read more",40.0
+Accomapniments,Papad,1,0,,20.0

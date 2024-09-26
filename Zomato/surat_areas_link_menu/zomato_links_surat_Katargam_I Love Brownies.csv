@@ -1,0 +1,25 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Brownies,Almond Brownie [1 Piece],1,0,,95.0
+Brownies,Biscoff Stuffed Brownie [1 Piece],1,0,,135.0
+Brownies,Chocolate Chips Brownie [1 Piece],1,0,,95.0
+Brownies,Crunchy Cookies Stuffed Brownie [1 Piece],1,0,,135.0
+Brownies,Dark Chocolate Stuffed Brownie [1 Piece],1,0,,135.0
+Brownies,Hazelnut Brownie [1 Piece],1,0,,95.0
+Brownies,Kaju Brownie [1 Piece],1,0,,95.0
+Brownies,Nutella Stuffed Brownie [1 Piece],1,0,,135.0
+Brownies,Walnut Brownie [1 Piece],1,0,,95.0
+Brownies,White Chocolate Stuffed Brownie [1 Piece],1,0,,135.0
+Cold Coffee,Caramel Frappuccino,1,0,"Instant coffee, ice cream and caramel flavour milk blend",130.0
+Cold Coffee,Coffee Freakshake,1,0,Heaven on earth.,220.0
+Cold Coffee,Frappe,1,0,[Greek Iced Coffee Drink Made From Instant Coffee Sugar Ice Cream And Milk ... read more,100.0
+Cold Coffee,French Vanilla Coffee,1,0,,100.0
+Cold Coffee,Hazelnut Chocolate Chips Frappe,1,0,[Instant Coffee Ice Cream Hazelnut Spread Milk Topped With Whipping Cream And Some ... read more,220.0
+Shakes,Biscoff Shake,1,0,Indulge in a creamy and irresistible shake that will satisfy your sweet cravings.,198.0
+Shakes,Blueberry Shake,1,0,"Indulge in the refreshing taste of this fruity and creamy delight, perfect for ... read more",155.0
+Shakes,Brownie Shake,1,0,,220.0
+Shakes,Double Chocolate Shake,1,0,Indulge in the rich and creamy delight of a decadent chocolate shake that ... read more,198.0
+Shakes,Kitkat Chocopie Shake,1,0,"Indulge in a heavenly blend of Kitkat and chocopie, perfectly combined into a ... read more",198.0
+Shakes,Nutella Shake,1,0,Indulge in a creamy and rich shake that will satisfy your sweet cravings ... read more,198.0
+Shakes,Oreo Shake,1,0,,198.0
+Shakes,Strawberry Shake,1,0,"A refreshing milkshake prepared with strawberry sauce, ice cream and wholesome milk - ... read more",155.0
+Shakes,Vanilla Shake,1,0,"Indulge in the creamy and velvety goodness of our delectable Vanilla Shake, a ... read more",155.0

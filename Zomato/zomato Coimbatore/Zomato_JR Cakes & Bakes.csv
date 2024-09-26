@@ -1,0 +1,125 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes & Pastries,Chocolate Cake,0,0,,405.65
+Cakes & Pastries,Pista Cake,0,0,,405.65
+Cakes & Pastries,Black Forest Cake,0,0,,570.04
+Cakes & Pastries,White Forest Cake,0,0,,570.04
+Cakes & Pastries,Choco Truffle Cake,0,0,,671.38
+Cakes & Pastries,Vanilla Pastry [1 Piece],0,0,,38.04
+Cakes & Pastries,Strawberry Pastry [1 Piece],0,0,,38.04
+Cakes & Pastries,Chocolate Pastry [1 Piece],0,0,,38.04
+Cakes & Pastries,Black Forest Pastry [1 Piece],0,0,,88.71
+Cakes & Pastries,White Forest Pastry [1 Piece],0,0,,88.71
+Cakes & Pastries,Choco Truffle Pastry [1 Piece],0,0,,101.35
+"Sandwiches, Chaat & Snacks",Mushroom Kaalan,0,0,,69.69
+"Sandwiches, Chaat & Snacks",Egg Mushroom Kaalan,0,0,,88.71
+"Sandwiches, Chaat & Snacks",Bhel Poori,0,0,,76.08
+"Sandwiches, Chaat & Snacks",Bombay Dry Bhel,0,0,,82.33
+"Sandwiches, Chaat & Snacks",Pani Poori,0,0,,76.08
+"Sandwiches, Chaat & Snacks",Masala Poori,0,0,,82.33
+"Sandwiches, Chaat & Snacks",Chola Poori,0,0,,63.44
+"Sandwiches, Chaat & Snacks",Thahi Poori,0,0,,107.73
+"Sandwiches, Chaat & Snacks",Bread Omelette,0,0,,88.71
+"Sandwiches, Chaat & Snacks",Vada Pav,0,0,,88.71
+"Sandwiches, Chaat & Snacks",Curd Vadai Sweet,0,0,,63.44
+"Sandwiches, Chaat & Snacks",Pav Bhaji,0,0,,107.73
+"Sandwiches, Chaat & Snacks",Cheese Pav Bhaji,0,0,,145.77
+"Sandwiches, Chaat & Snacks",Paneer Pav Bhaji,0,0,,145.77
+"Sandwiches, Chaat & Snacks",Thahi Papadi Chat,0,0,,133.0
+"Sandwiches, Chaat & Snacks",Sev Poori,0,0,,133.0
+"Sandwiches, Chaat & Snacks",Samosa 1 Pc,0,0,,27.69
+"Sandwiches, Chaat & Snacks",Masala Samosa,0,0,,88.71
+"Sandwiches, Chaat & Snacks",Chana Samosa,0,0,,88.71
+"Sandwiches, Chaat & Snacks",Thahi Samosa,0,0,,107.73
+"Sandwiches, Chaat & Snacks",Cutlet 1 Pc,0,0,,27.69
+"Sandwiches, Chaat & Snacks",Chana Cutlet,0,0,,88.71
+"Sandwiches, Chaat & Snacks",Paneer Cutlet,0,0,,88.71
+"Sandwiches, Chaat & Snacks",Kachori 1 Pc,0,0,,25.4
+"Sandwiches, Chaat & Snacks",Chana Kachori,0,0,,88.71
+"Sandwiches, Chaat & Snacks",Masala Kachori,0,0,,88.71
+"Sandwiches, Chaat & Snacks",Thahi Kachori,0,0,,107.73
+"Sandwiches, Chaat & Snacks",French Fries,0,0,,159.6
+"Sandwiches, Chaat & Snacks",Pepper French Fries,0,0,,186.2
+"Sandwiches, Chaat & Snacks",Masala French Fries,0,0,,186.2
+"Sandwiches, Chaat & Snacks",Manchurian French Fries,0,0,,186.2
+"Sandwiches, Chaat & Snacks",Veg Sandwich,0,0,,133.0
+"Sandwiches, Chaat & Snacks",Cheese Sandwich,0,0,,166.25
+"Sandwiches, Chaat & Snacks",Mushroom Sandwich,0,0,,166.25
+"Sandwiches, Chaat & Snacks",Paneer Sandwich,0,0,,166.25
+"Sandwiches, Chaat & Snacks",Corn Sandwich,0,0,,166.25
+"Sandwiches, Chaat & Snacks",Corn Cheese Sandwich,0,0,,186.2
+"Sandwiches, Chaat & Snacks",Chocolate Sandwich,0,0,,199.5
+Oven Fresh Items & Snacks,Cream Bun,0,0,,25.4
+Oven Fresh Items & Snacks,Pudding Cake,0,0,,31.79
+Oven Fresh Items & Snacks,Apple Cake,0,0,,25.4
+Oven Fresh Items & Snacks,Jam Rolls,0,0,,38.04
+Oven Fresh Items & Snacks,Thilpasanth,0,0,,25.4
+Oven Fresh Items & Snacks,Donut Cream,0,0,,38.04
+Oven Fresh Items & Snacks,Chocolate Donut,0,0,,57.06
+Oven Fresh Items & Snacks,Rusk Packet,0,0,,82.46
+Oven Fresh Items & Snacks,Macroon Packet,0,0,,88.71
+Oven Fresh Items & Snacks,Potato Salt Chips [100 grams],0,0,,66.5
+Oven Fresh Items & Snacks,Potato Spicy Chips [100 grams],0,0,,66.5
+Oven Fresh Items & Snacks,Masala Corn Chips,0,0,,80.0
+Oven Fresh Items & Snacks,Maravalli Round Chips [180 grams],0,0,,70.0
+Oven Fresh Items & Snacks,Maravalli Kuchi Chips [180 grams],0,0,,70.0
+Oven Fresh Items & Snacks,Potato Kuchi Chips [100 grams],0,0,,70.0
+Oven Fresh Items & Snacks,Banana Chips [200 grams],0,0,,113.05
+Oven Fresh Items & Snacks,Garlic Chips [100 grams],0,0,,50.0
+Oven Fresh Items & Snacks,Athirasam,0,0,,66.05
+Oven Fresh Items & Snacks,Bun,0,0,,8.91
+Oven Fresh Items & Snacks,Bread [1 Packet],0,0,,50.81
+Oven Fresh Items & Snacks,Wheat Bread [1 Packet],0,0,,57.19
+Oven Fresh Items & Snacks,Sandwich Bread [1 Packet],0,0,,95.1
+Oven Fresh Items & Snacks,Sweet Biscuit [1 Piece],0,0,,8.91
+Oven Fresh Items & Snacks,Salted Biscuit [1 Piece],0,0,,8.91
+Oven Fresh Items & Snacks,Sweet Biscuits [1 kg],0,0,,532.0
+Oven Fresh Items & Snacks,Salted Biscuits [1 kg],0,0,,532.0
+Puffs & Rolls,Veg Puff 1 Pc,0,0,,27.69
+Puffs & Rolls,Egg Puff 1 Pc,0,0,,33.92
+Puffs & Rolls,Mushroom Puff 1 Pc,0,0,,33.92
+Puffs & Rolls,Veg Roll 1 Pc,0,0,,70.49
+Puffs & Rolls,Egg Roll 1 Pc,0,0,,79.8
+Puffs & Rolls,Paneer Roll 1 Pc,0,0,,86.45
+Drinks (Beverages),Lemon Juice,0,0,,43.0
+Drinks (Beverages),Lemon Soda,0,0,,50.67
+Drinks (Beverages),Orange Juice,0,0,,90.5
+Drinks (Beverages),Orange Pure Juice,0,0,,119.1
+Drinks (Beverages),Grape Juice,0,0,,71.5
+Drinks (Beverages),Mosambi Juice,0,0,,71.5
+Drinks (Beverages),Pomegranate Juice,0,0,,126.75
+Drinks (Beverages),Pomegranate Pure Juice,0,0,,146.3
+Drinks (Beverages),Pineapple Juice,0,0,,71.5
+Drinks (Beverages),Papaya Juice,0,0,,71.5
+Drinks (Beverages),Watermelon Juice,0,0,,52.4
+Drinks (Beverages),Mulampalam Juice,0,0,,71.5
+Drinks (Beverages),Rose Milk,0,0,,88.71
+Drinks (Beverages),Vanilla Milkshake,0,0,,152.02
+Drinks (Beverages),Strawberry Milkshake,0,0,,164.79
+Drinks (Beverages),Pista Milkshake,0,0,,164.79
+Drinks (Beverages),Oreo Milkshake,0,0,,177.42
+Drinks (Beverages),Butterscotch Milkshake,0,0,,177.42
+Drinks (Beverages),Chocolate Milkshake,0,0,,177.42
+Drinks (Beverages),Black Currant Milkshake,0,0,,190.06
+Drinks (Beverages),Blueberry Milkshake,0,0,,190.06
+Drinks (Beverages),Black Forest Milkshake,0,0,,190.06
+Drinks (Beverages),Red Velvet Milkshake,0,0,,190.06
+Drinks (Beverages),Cold Boost,0,0,,88.71
+Drinks (Beverages),Cold Coffee,0,0,,88.71
+Drinks (Beverages),Cold Horlicks,0,0,,88.71
+Drinks (Beverages),Cool Badam Milk,0,0,,88.71
+Drinks (Beverages),Milk Serves 2,0,0,,39.9
+Drinks (Beverages),Black Tea Serves 2,0,0,,33.25
+Drinks (Beverages),Black Coffee Serves 2,0,0,,39.9
+Drinks (Beverages),Tea Serves 2,0,0,,39.9
+Drinks (Beverages),Green Tea Serves 2,0,0,,46.55
+Drinks (Beverages),Lemon Tea Serves 2,0,0,,46.55
+Drinks (Beverages),Sukku Coffee Milk Serves 2,0,0,,53.2
+Drinks (Beverages),Sukku Coffee Water Serves 2,0,0,,39.9
+Drinks (Beverages),Tea Brown Sugar Serves 2,0,0,[Chicken],46.55
+Drinks (Beverages),Coffee Serves 2,0,0,,46.55
+Drinks (Beverages),Ginger Tea Serves 2,0,0,,53.2
+Drinks (Beverages),Masala Tea Serves 2,0,0,,66.5
+Drinks (Beverages),Coffee Brown Sugar Serves 2,0,0,[Chicken],53.2
+Drinks (Beverages),Boost Serves 1,0,0,,53.2
+Drinks (Beverages),Horlicks Serves 1,0,0,,53.2
+Drinks (Beverages),Hot Badam Milk Serves 2,0,0,,53.2

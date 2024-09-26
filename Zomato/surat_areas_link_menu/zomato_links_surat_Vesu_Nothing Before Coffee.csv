@@ -1,0 +1,104 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Hot Coffee [No Milk],Americano [black Coffee],1,0,"An Espresso diluted with hot water , delivering a smooth & milder coffee ... read more",126.0
+Hot Coffee [No Milk],Espresso [Coffee Shot 60 Ml],1,0,Pressurized Hot water unleashes the true essence of coffee,112.0
+Hot Coffee [No Milk],Irish Coffee,1,0,An espresso infused with irish flavour & topped with creamy goodness.,154.0
+Hot Coffee [No Milk],Macchiato [Foam On Shot],1,0,A balance of espresso with velvety foam,126.0
+Hot Coffee [No Milk],Signature Affogato,1,0,An elegant collison of velvety espresso and luscious vanilla ice cream.,140.0
+Hot Coffee [With Milk],Cafe Latte,1,0,"Caffe latte, often shortened to just latte in English, is a coffee beverage ... read more",126.0
+Hot Coffee [With Milk],Cafe Mocha,1,0,"A caffe mocha, also called mocaccino, is a chocolate-flavoured warm beverage",154.0
+Hot Coffee [With Milk],Cappuccino,1,0,A cappuccino is an espresso-based coffee drink that originated in Austria with later ... read more,126.0
+Hot Coffee [With Milk],Caramel Cappuccino,1,0,A Caramel cappuccino is an espresso-based coffee drink that originated in Austria with ... read more,154.0
+Hot Coffee [With Milk],Caramel Latte,1,0,"Caffe latte, often shortened to just latte in English, is a coffee beverage ... read more",154.0
+Hot Coffee [With Milk],Hazelnut Cappuccino,1,0,A Hazelnut cappuccino is an espresso-based coffee drink that originated in Austria with ... read more,154.0
+Hot Coffee [With Milk],Hazelnut Latte,1,0,,154.0
+Hot Coffee [With Milk],Irish Cappuccino,1,0,,168.0
+Hot Coffee [With Milk],Irish Latte,1,0,,168.0
+Hot Coffee [With Milk],Lotus Biscoff Cappuccino,1,0,,224.0
+Hot Coffee [With Milk],Nutella Cappuccino,1,0,,196.0
+Hot Coffee [With Milk],Tiramisu Cappuccino,1,0,A Tiramisu cappuccino is an espresso-based coffee drink that originated in Austria with ... read more,168.0
+Hot Coffee [With Milk],Tiramisu Latte,1,0,,168.0
+Hot Coffee [With Milk],Vanilla Cappuccino,1,0,A Vanilla cappuccino is an espresso-based coffee drink that originated in Austria with ... read more,154.0
+Hot Coffee [With Milk],Vanilla Latte,1,0,"Vanilla latte, often shortened to just latte in English, is a coffee beverage ... read more",154.0
+Hot Choco,Hot Chocolate,1,0,,182.0
+Hot Choco,Hot Nutella,1,0,,210.0
+Hot Choco,Hot Rocher,1,0,,238.0
+Icy Coffee,Classic Cold Brew,1,0,,224.0
+Icy Coffee,Iced Americano,1,0,"Our brewed espresso and ice cold water, served over ice.",154.0
+Icy Coffee,Iced Caramel,1,0,Our brewed espresso infused into ice-cold milk with caramel flavouring.,182.0
+Icy Coffee,Iced Coffee,1,0,Our Brewed espresso with cold milk and sugar syrup served over ice.,154.0
+Icy Coffee,Iced Mocha,1,0,"Enjoy our chocolate-flavored, ice-served espresso with freezing cold milk.",182.0
+Icy Coffee,Iced Vanilla,1,0,,182.0
+Icy Coffee,Tonic Cold Brew,1,0,,308.0
+Icy Coffee,Tonic Expresso,1,0,,280.0
+Icy Coffee,Vitnamese,1,0,,252.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Brownie Shrappe,1,0,Everyone's favourite brownie blended in both chocolate and vanilla ice cream with cold ... read more,280.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Caramel Shrappe,1,0,"We blend vanilla ice cream, milk and coffee and topped it with a ... read more",224.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Choco Passion,1,0,"Creamy vanilla ice cream blended with coffee and milk, topped with whipped cream ... read more",224.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Choco Shrappe,1,0,"Enjoy our delicious choco shrappe in a blend of vanilla ice cream, freezing ... read more",224.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Creamy Shrappe ( Cold Coffee ),1,0,"Rich, creamy and irrestible shrappe, blend with vanilla ice cream and shots of ... read more",210.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Double Choco Chip Shrappe,1,0,Enjoy both flavours of chocolate and vanilla ice cream blended with cold milk ... read more,238.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Hazelnut Shrappe,1,0,We blend the coffee in cold milk and vanilla ice cream with hazelnut ... read more,238.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Irish Shrappe,1,0,"The well-known sweet, creamy Irish flavour is combined with vanilla ice cream, chilled ... read more",238.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Lotus Biscoff Shrappe,1,0,,280.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Nutella Shrappe,1,0,"A delicious combination of vanilla ice cream with cold milk, coffee and a ... read more",252.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Oreo Shrappe,1,0,"Enjoy the goodness of oreo in a blend of coffee,cold milk and choco ... read more",252.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Signature Frappe,1,0,,238.0
+Shrappe [ OUR VERY OWN THICK FRAPPE ],Tiramisu Shrappe,1,0,"We combine the well-known Italian tiramisu flavour with vanilla ice cream, cold milk, ... read more",238.0
+Iced Tea,Cranberry Iced Tea,1,0,Enjoy the nutritious cranberry in iced tea with a hint of lemon and ... read more,196.0
+Iced Tea,Lemon Iced Tea,1,0,Refresh yoursel with the squeezy lemon & coolness of mint.,168.0
+Iced Tea,Peach Iced Tea,1,0,Enjoy the speachless peach iced tea with fresh mint leaves & goodness of ... read more,182.0
+Iced Tea,Redbull Iced Tea,1,0,,280.0
+Iced Tea,Strawberry Iced Tea,1,0,"Be ""Berry special"" with the sweetness of strawberry,mint leaves and a bit taste ... read more",182.0
+Iced Tea,Watermelon Iced Tea,1,0,"An iced tea with a twist of watermelon, lemon juice & mint to ... read more",196.0
+Mocktails,Black Current Mojito,1,0,Crush black current with a base of aerated drink & lemon juice topped ... read more,168.0
+Mocktails,Classic Lemonade,1,0,A Base of aerated drink with lemon juice & jal jeera that gives ... read more,154.0
+Mocktails,Green Apple Soda,1,0,"Refreshing aerated based drink blend with green apple crush, lemon juice and topped ... read more",168.0
+Mocktails,Redbull Mojito,1,0,Lemon juice and fresh mint leaves are added to a redbull-based sweet mocktail.,308.0
+Mocktails,Strawberry Mojito,1,0,We combine crushed Strawberry and lemon juice with a base of aerated drink ... read more,168.0
+Mocktails,Virgin Mojito,1,0,A Base of aerated drink blend with mojito mint and lemon juice topped ... read more,168.0
+Mocktails,Watermelon Litchi Punch,1,0,"We combine watermelon syrup, crushed litchi & lemon juice with a base of ... read more",182.0
+Shakes,Belgium Crunchy Shake,1,0,"Enjoy the crunchiness in a blend of chocolate ice cream, milk and cocoa ... read more",252.0
+Shakes,Black Current Shake,1,0,"Creamy shake made with the blend of vanilla ice cream, cold milk and ... read more",210.0
+Shakes,Blueberry Shake,1,0,"You can induldge yourself with a blend of milk, acai & blueberry crush ... read more",280.0
+Shakes,Brownie Shake,1,0,A blend of vanilla and chocolate ice cream with milk and brownie crumbs ... read more,252.0
+Shakes,Butterscotch Shake,1,0,"A rich and creamy texture drink made with a blend of ice cream, ... read more",210.0
+Shakes,Chocolate Shake,1,0,"Enjoy the super yummy and thick drink made with a blend of chocolate, ... read more",210.0
+Shakes,Kitkat Shake,1,0,Enjoy the crunchy titbits of kitkat shake made with the blend of both ... read more,238.0
+Shakes,Lotus Biscoff Shake,1,0,,280.0
+Shakes,Nutella Shake,1,0,Nutella flavored shake blend with vanilla and chocolate ice cream.,252.0
+Shakes,Oreo Shake,1,0,This delicious creamy shake made with a blend of both chocolate and ... read more,224.0
+Shakes,Rocher Shake,1,0,"A blend of both vanilla and chocolate icecream with milk, Nutella and Rocher ... read more",308.0
+Shakes,Strawberry Shake,1,0,A delicious drink made with strawberry crush in a blend of ice cream ... read more,210.0
+Brain Freezers,Galaxy Mocktail,1,0,Enjoy the refreshing slushie drink in a combination of blue curacao with strawberry ... read more,210.0
+Brain Freezers,Icy Blue,1,0,"Refresh yourself with a pleasantly mild flavour that is not overly sweet, blended ... read more",168.0
+Brain Freezers,Litchi Slush,1,0,Enjoy the sweetness of Litchi in a blend of litchi crush with lemon ... read more,168.0
+Hot Tea,Green Tea,1,0,,112.0
+Hot Tea,Lemon Tea,1,0,,112.0
+Quick Bites,Chilli Cheese Sandwich,1,0,,252.0
+Quick Bites,Paneer Tikka Sandwich,1,0,,280.0
+Quick Bites,Peri Peri Masala Maggi,1,0,,182.0
+Quick Bites,Plain Cheese Maggie,1,0,,154.0
+Quick Bites,Tandoori Maggi,1,0,,168.0
+Desserts,Brownie Ice Cream,1,0,,182.0
+Desserts,Brownie Shot,1,0,,182.0
+Desserts,Mud Pie Brownie,1,0,,224.0
+Savoury,Brownie,1,0,,154.0
+Arabica Hot Coffee [No Milk],Arabica Americano,1,0,,168.0
+Arabica Hot Coffee [No Milk],Arabica Espresso,1,0,,154.0
+Arabica Hot Coffee [No Milk],Arabica Irish Coffee,1,0,,196.0
+Arabica Hot Coffee [No Milk],Arabica Signature Affagato,1,0,,182.0
+Arabica Hot Coffee [With Milk],Arabica Cafe Latte,1,0,,168.0
+Arabica Hot Coffee [With Milk],Arabica Cafe Mocha,1,0,,196.0
+Arabica Hot Coffee [With Milk],Arabica Cappuccino,1,0,,168.0
+Arabica Hot Coffee [With Milk],Arabica Caramel Cappuccino,1,0,,196.0
+Arabica Hot Coffee [With Milk],Arabica Caramel Latte,1,0,,196.0
+Arabica Hot Coffee [With Milk],Arabica Hazelnut Cappuccino,1,0,,196.0
+Arabica Hot Coffee [With Milk],Arabica Hazelnut Latte,1,0,,196.0
+Arabica Hot Coffee [With Milk],Arabica Irish Cappuccino,1,0,,210.0
+Arabica Hot Coffee [With Milk],Arabica Irish Latte,1,0,,210.0
+Arabica Hot Coffee [With Milk],Arabica Lotus Biscoff Cappuccino,1,0,,266.0
+Arabica Hot Coffee [With Milk],Arabica Nutella Cappuccino,1,0,,170.0
+Arabica Hot Coffee [With Milk],Arabica Tiramisu Cappuccino,1,0,,210.0
+Arabica Hot Coffee [With Milk],Arabica Tiramisu Latte,1,0,,210.0
+Arabica Hot Coffee [With Milk],Arabica Vanilla Cappuccino,1,0,,196.0
+Arabica Hot Coffee [With Milk],Arabica Vanilla Latte,1,0,,196.0

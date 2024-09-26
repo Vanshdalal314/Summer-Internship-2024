@@ -1,0 +1,54 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Buttermilk,"Masala Buttermilk [1 Pouch, 200 ml]",1,0,,17.15
+Buttermilk,"Mint Masala Buttermilk [1 Glass, 275 ml]",1,0,,40.0
+Buttermilk,"Masala Buttermilk [1 Glass, 275 ml]",1,0,,33.35
+Buttermilk,"Special Masala Buttermilk [1 Glass, 275 ml]",1,0,,40.0
+Buttermilk,"Buttermilk [1 Bottle, 900 ml]",1,0,,101.0
+Lassi,Simple Lassi [200 ml],1,0,,53.35
+Lassi,Rose Lassi [200 ml],1,0,,60.0
+Lassi,Strawberry Lassi [200 ml],1,0,,67.62
+Lassi,Blueberry Lassi [200 ml],1,0,,81.0
+Lassi,Pineapple Lassi [200 ml],1,0,,67.62
+Lassi,Butterscotch Lassi [200 ml],1,0,,81.0
+Lassi,Makhaniya Lassi [200 ml],1,0,,81.0
+Lassi,Kaju Badam Lassi [200 ml],1,0,,87.0
+Lassi,Chocolate Lassi [200 ml],1,0,,87.0
+Lassi,Kesar Kaju Lassi [200 ml],1,0,,81.0
+Lassi,Rajwadi Lassi [200 ml],1,0,,127.0
+Matho,Rajbhog Matho,1,0,,60.0
+Matho,Mango Matho,1,0,,60.0
+Matho,Kesar Pista Matho,1,0,,60.0
+Matho,Amrerican Matho,1,0,,141.0
+Matho,Green Pista Matho,1,0,,127.62
+Matho,Cream Fruit Matho,1,0,,127.62
+Dahi,Dahi,1,0,,17.2
+Drinks (Beverages),Cold Coco [275 ml],1,0,,101.0
+Drinks (Beverages),Thandai [275 ml],1,0,,101.0
+Drinks (Beverages),Kaju Anjeer Milkshake [275 ml],1,0,,138.0
+Drinks (Beverages),Lachha Rabri [100 grams],1,0,,74.3
+Drinks (Beverages),Yummy Mango Power Milk [180 ml],1,0,,60.0
+Drinks (Beverages),Green Elaichi Power Milk [180 ml],1,0,,60.0
+Drinks (Beverages),Kashmiri Kesar Power Milk [180 ml],1,0,,60.0
+Candy,Alphonso Mango Duet,1,0,,35.0
+Candy,Blueberry Duet,1,0,,42.0
+Candy,Swiss Chocobar,1,0,,71.0
+Candy,California Chocobar,1,0,,78.0
+Candy,Choco Feast,1,0,,85.0
+Kulfi,Belgium Chocolate,1,0,,63.0
+Kulfi,Mexican Mango Kulfi,1,0,,63.0
+Kulfi,Nuts n Nuts,1,0,,71.0
+Kulfi,Kulfi Nut,1,0,,71.0
+Kulfi,Saffron Almonds,1,0,,71.0
+Ice Creams,Vanilla Ice Cream [700 ml],1,0,,157.0
+Ice Creams,"Strawberry Ice Cream [700 ml, Family Pack]",1,0,,167.0
+Ice Creams,"Alphonso Mango Ice Cream [700 ml, Family Pack]",1,0,,173.0
+Ice Creams,"Butterscotch Ice Cream [700 ml, Family Pack]",1,0,,192.0
+Ice Creams,"Kaju Draksh Ice Cream [700 ml, Family Pack]",1,0,,198.0
+Ice Creams,"Cookie Cream Ice Cream [700 ml, Family Pack]",1,0,,198.0
+Ice Creams,"Chocolate Chips Ice Cream [700 ml, Family Pack]",1,0,,204.0
+Ice Creams,"Amrecian Nuts Ice Cream [700 ml, Family Pack]",1,0,,228.0
+Ice Creams,"Choco Brownie Ice Cream [700 ml, Family Pack]",1,0,,240.0
+Ice Creams,"Kesar Pista Ice Cream [700 ml, Family Pack]",1,0,,251.0
+Ice Creams,"Rajbhog Ice Cream [700 ml, Family Pack]",1,0,,275.0
+Sandwich Ice Creams,Vanilla Sandwich Ice Cream [100 ml],1,0,,41.0
+Sandwich Ice Creams,Chocolate Sandwich Ice Cream [100 ml],1,0,,46.0

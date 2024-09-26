@@ -1,0 +1,25 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Jain Aloo Puri Combo,1,0,1 Jain Aloo Puri+1 Jain Mayonnaise Aloo Puri+1 Jain Cheese Aloo Puri,149.0
+Combos,Khawasa Cheese Aloo Puri Combo,1,0,1 Khawasa+1 Veg Aloo Puri+1 Cheese Aloo Puri,149.0
+Combos,Mayonnaise Schezwan Aloo Puri Combo,1,0,Veg Aloo Puri [2 plate]+1 Mayonnaise Aloo Puri+1 Schezwan Aloo Puri,179.0
+Combos,Mayonnaise Aloo Puri Combo,1,0,Veg Aloo Puri [2 Plate]+1 Cheese Aloo Puri+1 Mayonnaise Aloo Puri,179.0
+Aloo Puri & Khawsa,Veg Aloo Poori [5 Poori],1,0,Veg aloo poori.,30.0
+Aloo Puri & Khawsa,Jain Aloo Puri,1,0,,30.0
+Aloo Puri & Khawsa,Mayonnaise Aloo Puri,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",40.0
+Aloo Puri & Khawsa,Schezwan Aloo Puri,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",40.0
+Aloo Puri & Khawsa,Jain Mayonnaise Aloo Puri,1,0,,40.0
+Aloo Puri & Khawsa,Cocktail Aloo Puri,1,0,,45.0
+Aloo Puri & Khawsa,Cheese Aloo Puri,1,0,,60.0
+Aloo Puri & Khawsa,Mayonnaise Cheese Aloo Puri,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",70.0
+Aloo Puri & Khawsa,Schezwan Cheese Aloo Puri,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",70.0
+Aloo Puri & Khawsa,Jain Cheese Aloo Puri,1,0,,60.0
+Aloo Puri & Khawsa,Cocktail Cheese Aloo Puri,1,0,,70.0
+Aloo Puri & Khawsa,Jain Mayonnaise Cheese Aloo Puri,1,0,,65.0
+Aloo Puri & Khawsa,Double Cheese Aloo Puri,1,0,,90.0
+Aloo Puri & Khawsa,Papdi,1,0,,20.0
+Aloo Puri & Khawsa,Veg Khawasa,1,0,,59.0
+Aloo Puri & Khawsa,Schezwan Khawasa,1,0,,70.0
+Aloo Puri & Khawsa,Mayonnaise Khawasa,1,0,,79.0
+Aloo Puri & Khawsa,Cheese Khawasa,1,0,,80.0
+Aloo Puri & Khawsa,Schezwan Cheese Khawasa,1,0,,90.0
+Aloo Puri & Khawsa,Mayonnise Cheese Khawasa,1,0,,89.0

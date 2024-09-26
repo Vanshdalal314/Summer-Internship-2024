@@ -1,0 +1,34 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Chicken Simple Cheese Pizza,0,0,,249.0
+Pizza,Chicken Tandoori Pizza,0,0,,294.0
+Pizza,Chicken Tandoori pizza 7 inch,0,0,Tandoori sauce+veggies+chicken+cheese,299.0
+Pizza,Chicken Supreme Pizza,0,0,,309.0
+Burgers,Chicken Classic Burger,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",189.0
+Burgers,Chicken American Burger,0,0,Fresh bun+ american patty + onion + tomato +letusce || Images used are ... read more,209.0
+Burgers,Chicken Rooster Premium Burger,0,0,,225.0
+Burgers,Chicken Cheesy Burger,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",239.0
+Burgers,Chicken Peri Peri Burger,0,0,Fresh red bun + chicken + onion + tomato + letusce + sauce ... read more,249.0
+Burgers,Chicken Tower Burger,0,0,Fresh bun + 2 piece chicken + onion + tomato + letusce + ... read more,279.0
+Burgers,Chicken Double Trouble Burger,0,0,Chicken [2 Pieces]+Onion+Tomato+Lettuce+Sauce,319.0
+Burgers,Chicken Happy Burger,0,0,Fresh bun sauce and chicken fillet.,115.0
+Burgers,Veg Happy Burger,1,0,Fresh bun + aloo tikki + sauce.,85.0
+Burgers,Veg Rooster Premium Burger,1,0,[Veg preparation],199.0
+Burgers,Veg Cheesy Burger,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",221.0
+Wraps,Veg Cheesy Wrap,1,0,,229.0
+Wraps,Chicken Mini Wrap,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",129.0
+Wraps,Chicken Premium Wrap [8 inch],0,0,,229.0
+Wraps,Special CKN Rooster Premium Wrap,0,0,Tortilla veggies and chicken.,239.0
+Wraps,Chicken Cheesy Wrap,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",269.0
+Wraps,Chicken Peri Peri Wrap,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",269.0
+Quick Bites,Fries,1,0,,109.0
+Quick Bites,Chicken Nuggets [5 Pieces],0,0,"New York style, nuggets made up of best meat of chicken breast breaded ... read more",169.0
+Quick Bites,Chicken Popcorn,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",192.0
+Quick Bites,Chicken Cheese Popcorn,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",259.0
+Quick Bites,Boneless Strips,0,0,"Manchester style, chicken tenders made up of inner part of chicken breast breaded ... read more",209.0
+Quick Bites,Peri Peri Chicken Wings [6 Pieces],0,0,,225.0
+Quick Bites,Chicken Chizza,0,0,Single chicken fillet toppings.,239.0
+Kulcha,Peri Peri Chicken Kulcha,0,0,Thick bread veggies chicken sauce grilled cheese.,269.0
+Waffle,Triple Chocolate Mini Window Waffle,1,0,,120.0
+Waffle,Dark Chocolate Mini Waffle,1,0,Crispy dark chocolate.,110.0
+Waffle,Nutella Mini Window Waffle,1,0,,160.0
+Waffle,Biscoff Milky Waffle,1,0,,149.0

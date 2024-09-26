@@ -1,0 +1,58 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Rice & Pastas,Chinese Paneer Rice,1,0,350gm. Paneer Coated In Premium Chinese Sauces Tossed With Rice,320.0
+Rice & Pastas,Mexican Rice,1,0,350gm. Have It Once And We Bet You Are A Fan Forever,380.0
+Rice & Pastas,Pasta Alfredo,1,0,"350gm. Pasta Tossed With Butter,Cream & Cheese. As The Cheese Melts, It Emulsifies ... read more",380.0
+Rice & Pastas,Pasta Arrabiata,1,0,"350gm. Pasta Made In Arrabbiata Sauce, A Spicy Sauce For Pasta Made From ... read more",300.0
+Rice & Pastas,Pink Pasta,1,0,350gm. No Confusion Great Combination Of Alfredo(Cream) + Arrabiata(Tomato) = Pink Pasta,380.0
+Rice & Pastas,Schezwan Rice,1,0,350gm. Schezwan Sauce Tossed With Carrot And Fresh Beans. (No Ajinomoto),300.0
+Rice & Pastas,Spicy Bean Rice,1,0,350gm. Creamy Rice With Tangy Fresh Tomatos And Beans,350.0
+Rice & Pastas,Spicy Beans Pasta,1,0,350gm. Made From Tomato Puree And Mexican Beans,350.0
+Rice & Pastas,Tom-Sea Rice,1,0,"350gm. Embark on a culinary journey with our Exotic Rice, a tantalizing blend ... read more",350.0
+Sizzlers (Packed In Containers.) 600gm,Cheesy Potato Sizzler,1,0,"Rice Tossed with Herbs and Tomato gravy, served with Potato wedges and topped ... read more",520.0
+Sizzlers (Packed In Containers.) 600gm,Chinse Paneer Sizzler,1,0,Sizzling delight: Paneer coated and adorned with zesty Chinese gravy for a burst ... read more,500.0
+Sizzlers (Packed In Containers.) 600gm,King Paneer Sizzler,1,0,"Sizzling plate featuring fried paneer and rice, generously topped with our cherished smoky ... read more",550.0
+Sizzlers (Packed In Containers.) 600gm,Mexican Sizzler,1,0,Rice & baked beans tossed with seasonings and topped with sizzling cheesy Mexican ... read more,560.0
+Sizzlers (Packed In Containers.) 600gm,Peri-Peri Sizzler,1,0,Paneer meshed in creamy peri gravy is added to the bed of rice ... read more,520.0
+Finger Foods (150gm),Cheese Garlic Bread,1,0,"Delight In The Aromatic And Cheesy Goodness Of Our Garlic Bread, A Perfect ... read more",200.0
+Finger Foods (150gm),French Fries,1,0,"Indulge In The Golden And Crispy Perfection Of Our French Fries, A Classic ... read more",180.0
+Finger Foods (150gm),Potato Crispers,1,0,"Crunch Into Pure Potato Perfection With Our Potato Crispers, Irresistibly Crispy And Delicious ... read more",200.0
+Pizza,Americano Party Pizza,1,0,"Sweet Corn, Capsicum, Tomato With Mozzrella Cheese",430.0
+Pizza,Fresh Veggies Pizza,1,0,"Tomato, Capsicum & Onion Added To Margherita.",420.0
+Pizza,King's Veggies Pizza,1,0,"Broccoli, Sweet Corn, Jalapeno, Black Olives, Tomato, Red - Yellow & Green Capsicum.",480.0
+Pizza,Margherita Pizza,1,0,Fresh Dough Topped With Tomato Sauce & Lots Of Cheese.,320.0
+Pizza,Premium Veg Delight Pizza,1,0,"Mushrooms, Onion, Olives, Jalapeno, Green Capsicum, Paneer.",550.0
+Pizza,So Cheesy Pizza,1,0,"Double Layer Of Premium Cheese Along With Tomato, Olives With Herbs.",530.0
+Pizza,So Spicy Pizza,1,0,Three Types Of Chilly. Red Alert For The Kids.,430.0
+Pizza,Tandoori Paneer Pizza,1,0,"Onion, Capsicum & Tandoori Paneer.",450.0
+Pizza,Teekha Tadka Pizza,1,0,"Spicy Paneer, Black Olives, Jalapeno, Green, Red , Yellow Capsicum & Green Chillies.",460.0
+Sandwich,Cheese Chilli Wich,1,0,Indulge in the perfect blend of melted cheese and spicy chillies with our ... read more,230.0
+Sandwich,Grilled Veggie Wich,1,0,Savor the goodness of grilled vegetables in every bite with our Grilled Veggie ... read more,230.0
+Sandwich,Tandoori Paneer Wich,1,0,"Experience the tantalizing flavors of tandoori-spiced paneer in our Tandoori Paneer Sandwich, a ... read more",250.0
+Shake (300Ml),Biscoff Shake,1,0,Made From The Original Caramalised Lotus Biscoff Spread,330.0
+Shake (300Ml),Brownie Mocha Smoothie,1,0,"Experience the best of both worlds with our Brownie Mocha Smoothie, a delectable ... read more",330.0
+Shake (300Ml),Brownie Shake,1,0,The Royal Brownie Churned With Ice Cream,300.0
+Shake (300Ml),Choco Queen,1,0,"Unleash your inner chocoholic with our Choco Queen, a divine treat that combines ... read more",330.0
+Shake (300Ml),Ferrero Rocher Shake,1,0,"Experience pure indulgence with our Ferrero Rocher Shake, a heavenly blend of creamy ... read more",330.0
+Shake (300Ml),King Crunchy Chocolate,1,0,"Experience the ultimate chocolate indulgence with our King Crunchy Chocolate, a heavenly combination ... read more",300.0
+Shake (300Ml),King Crunchy Coffee,1,0,"Awaken your senses with our King Crunchy Coffee, a delectable fusion of rich ... read more",300.0
+Shake (300Ml),Kitkat Shake,1,0,Kitkat Break Banta Hai.,300.0
+Shake (300Ml),Oreo Shake,1,0,Express The Love For Oreo.,300.0
+Hot Beverages (250Ml),Hazelnut Hot Chocolate,1,0,Immerse yourself in the delightful combination of creamy hot chocolate and nutty hazelnut ... read more,230.0
+Hot Beverages (250Ml),Hot Chocolate,1,0,"Experience pure comfort in a cup with our rich and velvety Hot Chocolate, ... read more",200.0
+Hot Beverages (250Ml),Nutella Hot Chocolate,1,0,"Indulge in a heavenly blend of smooth Nutella and rich hot chocolate, a ... read more",250.0
+Hot Coffee (250Ml),Cafe Mocha,1,0,Indulge in the irresistible blend of smooth chocolate and bold espresso with our ... read more,200.0
+Hot Coffee (250Ml),Caffe Latte,1,0,"Immerse yourself in pure velvety bliss with our Caffe Latte, a smooth and ... read more",200.0
+Hot Coffee (250Ml),Cappuccino,1,0,"Experience the perfect balance of rich espresso, creamy foam, and dusted cocoa in ... read more",180.0
+Hot Coffee (250Ml),Indian Coffee,1,0,"An aromatic blend of bold flavors and traditional spices, our Indian Coffee is ... read more",120.0
+Hot Coffee (250Ml),V60 Pour Over,1,0,V60 Pour-Over is a way to make coffee using a special cone-shaped tool. ... read more,220.0
+Cold Coffee And Beverages (300ml),Choco Frappe,1,0,Chocolate Flavoured Variant Of Caf,220.0
+Cold Coffee And Beverages (300ml),Cold Brew Tonic,1,0,Experience a revitalizing and invigorating twist on cold brew with our Cold Brew ... read more,250.0
+Cold Coffee And Beverages (300ml),Cold Brew,1,0,"Indulge in the smooth and rich flavors of our Cold Brew, a meticulously ... read more",200.0
+Cold Coffee And Beverages (300ml),Cold Chocolate,1,0,"Smooth, Sweet, Chilled",200.0
+Cold Coffee And Beverages (300ml),Espresso Tonic,1,0,"Elevate your coffee experience with our Espresso Tonic, a harmonious blend of bold ... read more",230.0
+Cold Coffee And Beverages (300ml),Iced Pour Over,1,0,"Quench your thirst and savor the exquisite flavors of our Iced Pour Over, ... read more",200.0
+Cold Coffee And Beverages (300ml),Indian Cold Coffee,1,0,Desi Cold Coffee Needs No Description,200.0
+Cold Coffee And Beverages (300ml),Lemon Ice Tea,1,0,"Quench your thirst and refresh your senses with our invigorating Lemon Ice Tea, ... read more",200.0
+Desserts,Chocolate Brownie.,1,0,Our Best Seller Spongy brownie made with Love,100.0
+Desserts,Cheese Cake,1,0,"""Experience the timeless elegance of our Classic Cheesecake, a velvety smooth and rich ... read more",180.0
+Desserts,Chocolate Passion,1,0,"""Indulge in pure chocolate bliss with our Chocolate Passion, a heavenly treat that ... read more",220.0

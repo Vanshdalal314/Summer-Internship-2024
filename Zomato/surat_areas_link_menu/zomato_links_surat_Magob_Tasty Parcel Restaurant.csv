@@ -1,0 +1,67 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Punjabi Fix Thali,1,0,Paneer Sabji+Veg Sabji+Dal Fry+Jeera Rice+3 Butter Chapathi+Roasted Papad+Buttermilk+Onion Salad,156.8
+Thali,Punjabi Fix Thali [Serves 4],1,0,Veg Subji [250 grams]+Paneer Subji [250 grams]+Kaju Subji [250 grams]+12 Butter Chapati+2 Roasted ... read more,719.2
+Thali,Punjabi Fix Thali [Serves 8],1,0,Veg Subji [500 grams]+Paneer Subji [500 grams]+Kaju Subji [500 grams]+24 Butter Chapati+4 Roasted ... read more,1279.2
+Main Course,Veg Tawa,1,0,,100.8
+Main Course,Veg Handi,1,0,,100.8
+Main Course,Veg Makhanwala,1,0,,100.8
+Main Course,Veg Kolhapuri,1,0,,100.8
+Main Course,Veg Jaipuri,1,0,,100.8
+Main Course,Veg Hungama,1,0,,100.8
+Main Course,Veg Hyderabadi,1,0,,100.8
+Main Course,Veg Toofani,1,0,,100.8
+Main Course,Veg Angara,1,0,,100.8
+Main Course,Veg Mushroom Masala,1,0,,100.8
+Main Course,Mix Veg,1,0,,100.8
+Main Course,Aloo Matar,1,0,,100.8
+Main Course,Aloo Palak,1,0,,100.8
+Main Course,Aloo Jeera,1,0,,100.8
+Main Course,Aloo Gobi,1,0,,100.8
+Main Course,Chana Masala,1,0,,100.8
+Main Course,Sev Tomato,1,0,,100.8
+Main Course,Aloo Tomato,1,0,,100.8
+Main Course,Tomato Palak,1,0,,100.8
+Main Course,Dal Fry [450 ml],1,0,,93.6
+Main Course,Dal Fry Tadka [450 ml],1,0,,117.6
+Main Course,Dal Fry Butter [450 ml],1,0,,109.6
+Main Course,Paneer Tikka Masala,1,0,,109.6
+Main Course,Paneer Butter Masala,1,0,,109.6
+Main Course,Paneer Bhurji,1,0,,109.6
+Main Course,Paneer Handi,1,0,,109.6
+Main Course,Paneer Chatpata,1,0,,109.6
+Main Course,Paneer Chana Masala,1,0,,109.6
+Main Course,Paneer Tawa,1,0,,109.6
+Main Course,Paneer Palak,1,0,,109.6
+Main Course,Paneer Matar,1,0,,109.6
+Main Course,Paneer Toofani,1,0,,109.6
+Main Course,Paneer Laziz,1,0,,109.6
+Main Course,Paneer Angara,1,0,,109.6
+Main Course,Paneer Mushroom Masala,1,0,,109.6
+Main Course,Kaju Curry,1,0,,117.6
+Main Course,Kaju Masala,1,0,,117.6
+Main Course,Kaju Paneer Masala,1,0,,117.6
+Main Course,Kaju Butter Masala,1,0,,117.6
+Main Course,Kaju Handi,1,0,,117.6
+Main Course,Kaju Tawa,1,0,,117.6
+Main Course,Cheese Butter Masala,1,0,,124.8
+Main Course,Cheese Tawa,1,0,,124.8
+Main Course,Cheese Garlic Palak,1,0,,124.8
+Main Course,Cheese Paneer Masala,1,0,,124.8
+Main Course,Cheese Palak,1,0,,124.8
+Breads,Chapati [35 grams],1,0,,11.2
+Breads,Butter Chapati [35 grams],1,0,,15.2
+Breads,Chapati Paratha [70 grams],1,0,,28.0
+Breads,Chapati Butter Paratha [70 grams],1,0,,33.6
+Rice and Biryani,Kaju Pulao [400 grams],1,0,,156.8
+Rice and Biryani,Paneer Pulao [400 grams],1,0,,140.8
+Rice and Biryani,Dal Khichdi [400 grams],1,0,,109.6
+Rice and Biryani,Veg Pulao [400 grams],1,0,,109.6
+Rice and Biryani,Masala Rice [300 grams],1,0,,100.8
+Rice and Biryani,Jeera Rice [300 grams],1,0,,95.2
+Rice and Biryani,Plain Rice [300 grams],1,0,,78.4
+Rice and Biryani,Veg Dum Handi Biryani [450 grams],1,0,,156.8
+Rice and Biryani,Veg Hyderabadi Biryani [450 grams],1,0,,140.8
+Rice and Biryani,Veg Biryani [450 grams],1,0,,140.8
+Accompaniments,Roasted Papad [17 grams],1,0,,15.2
+Accompaniments,Fry Papad [10 grams],1,0,,20.0
+Drinks (Beverages),Buttermilk [20 grams],1,0,,24.0

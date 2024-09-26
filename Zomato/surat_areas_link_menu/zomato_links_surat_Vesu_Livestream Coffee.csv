@@ -1,0 +1,79 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Iced Coffees,Barrel Aged Cold Brew Tonic,1,0,,266.67
+Iced Coffees,Barrel Aged Cold Brew,1,0,Cold Brew Brewed in a barrel aged coffee,247.62
+Iced Coffees,Bombon,1,0,,209.52
+Iced Coffees,Classic Cold Coffee,1,0,"Espresso, ice cream, milk , ice",190.48
+Iced Coffees,Coffee Mojito,1,0,,219.05
+Iced Coffees,Cold Brew Coconut Water,1,0,,238.1
+Iced Coffees,Cold Brew Lemonade,1,0,,228.57
+Iced Coffees,Cold Brew Tonic,1,0,,228.57
+Iced Coffees,Cold Brew,1,0,A process of steeping coffee grounds in water overnight,209.52
+Iced Coffees,Cranberry Espresso,1,0,,238.1
+Iced Coffees,Espresso Redbull,1,0,,266.67
+Iced Coffees,Espresso Tonic,1,0,,228.57
+Iced Coffees,Iced Americano,1,0,"Espresso,Water,Ice.",180.95
+Iced Coffees,Iced Espresso,1,0,"Espresso, Ice",142.86
+Iced Coffees,Iced Latte,1,0,"Espresso,Milk,ice",200.0
+Iced Coffees,Iced Mocha,1,0,"Espresso,Milk,Chocolate,Ice",209.52
+Iced Coffees,Irish Cold Brew Tonic,1,0,,257.14
+Iced Coffees,Irish Cold Brew,1,0,,228.57
+Iced Coffees,Mazagran Tonic,1,0,,247.62
+Iced Coffees,Mazagran,1,0,,228.57
+Iced Coffees,Passion Fruit Cold Brew Ale,1,0,,266.67
+Iced Coffees,Spanish Latte,1,0,"Espresso,Milk,Condensed milk",209.52
+Iced Coffees,Topical Espresso Tonic,1,0,,276.19
+Iced Coffees,Tropical Cold Brew Tonic,1,0,,266.67
+Iced Coffees,Vietnamese,1,0,,209.52
+Breakfast,Avocado Croissant,1,0,,361.9
+Breakfast,Biscoff French Toast,1,0,,304.76
+Breakfast,Breakfast Bagel,1,0,,304.76
+Breakfast,Breakfast Croissant,1,0,,333.33
+Breakfast,Caprese Sandwich,1,0,,247.62
+Breakfast,Chocolate Pancakes,1,0,,276.19
+Breakfast,Classic French Toast,1,0,,276.19
+Breakfast,Classic Pancakes,1,0,,228.57
+Breakfast,Mix Berry Smoothie Bowl,1,0,,371.43
+Manual Brews,French Press,1,0,"Brewed by placing coarsely grounded coffee in a beaker,adding hot water to brew ... read more",209.52
+Manual Brews,Hot Aeropress,1,0,The coffee is steeped with water and forced through a filter by pressing ... read more,209.52
+Manual Brews,Hot V60 Pourover,1,0,It involves pouring hot water over a bed of grinded coffee and extract ... read more,209.52
+Manual Brews,Iced Aeropress,1,0,The coffee is steeped with water and forced through a filter by pressing ... read more,209.52
+Manual Brews,Iced V60 Pourover,1,0,It involves pouring hot water over a bed of grinded coffee and extract ... read more,209.52
+Frappes,Caramel Frappe,1,0,,219.05
+Frappes,Classic Frappe,1,0,,190.48
+Frappes,Hazelnut Frappe,1,0,,219.05
+Frappes,Irish Frappe,1,0,,219.05
+Frappes,Mocha Frappe,1,0,,219.05
+Frappes,Signature Frappe,1,0,,238.1
+Frappes,Vanilla Frappe,1,0,,219.05
+Ice Cream Blends/ Shakes,Biscoff Blend,1,0,Vanilla ice cream blended with biscoff and a shot of espresso,304.76
+Ice Cream Blends/ Shakes,Chocolate Blend,1,0,Vanilla ice Cream Blended with a shot of espresso and topped with chocolate ... read more,228.57
+Ice Cream Blends/ Shakes,Nutella Blend,1,0,Vanilla ice cream blended with nutella and a shot of espresso,276.19
+Ice Cream Blends/ Shakes,Oreo Blend,1,0,Vanilla ice cream blended with oreo and a shot of espresso,247.62
+Hot Chocolate,Classic Hot Chocolate,1,0,,152.38
+Hot Chocolate,Nutella Hot Chocolate,1,0,,228.57
+Hot Chocolate,Premium Dark Hot Chocolate,1,0,,180.95
+Hot Chocolate,Signature Hot Chocolate,1,0,,219.05
+Ice Teas,Cranberry Iced Tea,1,0,,200.0
+Ice Teas,Hibiscus Ice Tea,1,0,,219.05
+Ice Teas,Lemon Iced Tea,1,0,,180.95
+Ice Teas,Yuzu Iced Tea,1,0,,200.0
+Hot Teas,Camomile Tea,1,0,,161.9
+Hot Teas,Green Tea,1,0,,161.9
+Hot Teas,Hibiscus Tea,1,0,,190.48
+Mojitos,Mint Mojito,1,0,,209.52
+Mojitos,Orange Basil Mojito,1,0,,238.1
+Savouries,Cheese Croissant,1,0,,276.19
+Savouries,Cheese Jalapeno Bagel,1,0,,257.14
+Savouries,Cream Cheese Bagel,1,0,,238.1
+Savouries,Grilled Cheese Bagel,1,0,,247.62
+Savouries,Guac On Toast,1,0,,380.95
+Savouries,Pizza Croissant,1,0,,276.19
+Savouries,Tomato Basil & Cheese Bagel,1,0,,266.67
+Savouries,Tomato Basil & Cheese Croissant,1,0,,276.19
+Hot Coffee,Americano,1,0,"Espresso, Hot water",180.95
+Hot Coffee,Cappuccino,1,0,"Espresso,Hot Milk,Milk Foam",190.48
+Hot Coffee,Espresso,1,0,A Shot Of Coffee,133.33
+Hot Coffee,Flat White,1,0,"Espresso,Steamed Milk",200.0
+Hot Coffee,Hot Mocha,1,0,"Espresso,Chocolate,hot Milk",209.52
+Hot Coffee,Latte,1,0,"Espresso,Hot Milk",190.48
+Food,Nachos,1,0,,304.76

@@ -1,0 +1,43 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sweets,Malai Peda,1,0,Malai peda,143.0
+Sweets,Kesar Peda,1,0,Kesar peda,157.0
+Sweets,Milk Cake,1,0,Best seller,190.0
+Sweets,Kalakand,1,0,Best seller,202.0
+Sweets,Bounty Peda (Chocolate Peda),1,0,Chocolate peda.,163.0
+Sweets,Motichoor Ladoo,1,0,,156.0
+Sweets,Besan Ladoo,1,0,,156.0
+Sweets,Kaju Katli,1,0,Best seller,292.0
+Sweets,Gulab Jamun,1,0,,29.0
+Sweets,Kala Jamun,1,0,,30.0
+Sweets,Rasgulla,1,0,,27.0
+Sweets,Angoori Gulab Jamun,1,0,,150.0
+Shrikhand,Mawa Malai,1,0,Traditional Surati Ghari,155.0
+Shrikhand,Kulfi Falooda,1,0,Traditional Surati Ghari,155.0
+Malai Paneer,Malai Paneer,1,0,The Secret of Every Masterchef is Milk Palace's Soft & Healthy Malai Paneer ... read more,163.0
+Curd [Punjabi Dahi],Mazedaar Dahi,1,0,Milk palace mazedaar Punjabi dahi is created by following the traditional way of ... read more,21.0
+Curd [Punjabi Dahi],Punjabi Dahi [1 kg],1,0,,114.0
+Desserts and Beverages,Plain Lassi [200 ml],1,0,Milk Palace Punjabi Lassi is one of the popular chilled beverages all across ... read more,70.0
+Desserts and Beverages,Cold Coco [200 ml],1,0,Aapke Office ke Workload ke tension se aapko rakhe Cool - Premium Cold ... read more,70.0
+Desserts and Beverages,Strawberry Lassi [200 ml],1,0,"Milk Palace Strawberry lassi is creamy, fruity Yoghurt shake. It offers you refreshment ... read more",80.0
+Desserts and Beverages,Rose Lassi [200 ml],1,0,Milk Palace Rose Lassi is a type of sweet lassi flavoured with fresh ... read more,80.0
+Desserts and Beverages,Mango Lassi [200 ml],1,0,Milk Palace Mango Lassi with Goodness of Ripe Mangoes.,80.0
+Desserts and Beverages,Kesar Dry Fruit Lassi [200 ml],1,0,,100.0
+Desserts and Beverages,Plain Shrikhand,1,0,"Our plain shrikhand is a yogurt based dessert, combined with sugar in order ... read more",104.0
+Desserts and Beverages,Kaju Draksh Shrikhand,1,0,"Our kaju [draksh] shrikhand is a yogurt-based dessert, combined with sugar, cashew nut ... read more",128.0
+Desserts and Beverages,Kesar Elaichi Shrikhand,1,0,Our kesar elaichi shrikhand is a well-known dessert in Surat that tastes very ... read more,124.0
+Desserts and Beverages,American Special Shrikhand,1,0,"Being one of the most trusted organizations in the dairy industry, we are ... read more",143.0
+Desserts and Beverages,Choco Ripple Shrikhand,1,0,"Our choco ripple shrikhand is a yogurt-based dessert, combined with sugar and choco ... read more",128.0
+Desserts and Beverages,3 Idiots Shrikhand,1,0,Enjoy guilt free desserts with milk palace three flavoured 3 idiots shrikhand. 3 ... read more,128.0
+Desserts and Beverages,Rajbhog Shrikhand,1,0,"Rich in flavour, yummy to taste milk palace rajbhog shrikhand.",143.0
+Desserts and Beverages,Kesar Badam Pista Shrikhand,1,0,Milk palace dairy & sweets thick and creamy kesar badam pista shrikhand is ... read more,143.0
+Desserts and Beverages,Pineapple Matho,1,0,Milk Palace Pineapple Matho is one of the most loved sweet dishes made ... read more,119.0
+Desserts and Beverages,Kaju Mango Matho,1,0,Have some Milk Palace Dairy & Sweets delicious & Creamy Kaju Mango Mattho ... read more,119.0
+Desserts and Beverages,Rajwadi Matho,1,0,Milk Palace Dairy & Sweets RAJWADI DRY FRUIT MATHO “Eat Something That Gives ... read more,128.0
+Desserts and Beverages,Rose Petal Mattho,1,0,,128.0
+Desserts and Beverages,Red Valvet Matho,1,0,Milk Palace Dairy & Sweets Red Velvet Matho is a lovely and delicious ... read more,133.0
+Desserts and Beverages,Rasmalai Matho,1,0,Milk Palace dairy & sweets red velvet matho is a lovely and delicious ... read more,150.0
+Cheese,Processed Cheese [200 grams],1,0,,152.0
+Cheese,Pizza Cheese [200 grams],1,0,,175.0
+Mawa [Khoya],Mawa Khoya,1,0,"Mawa (Khoya), The secret of the sweetness of sweets.",60.0
+Milk,Premium Cow Ghee,1,0,,330.0
+Milk,Premium Pure Buffalo Ghee,1,0,,295.0

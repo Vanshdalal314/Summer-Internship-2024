@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Manchow soup,1,0,[Veg preparation],150.0
+Soups,Hot and sour soup,1,0,,150.0
+Soups,Tomato soup,1,0,,10.0
+Rice,Regular Pulao,1,0,,230.0
+Rice,Special Pulao,1,0,,290.0
+Rice,Green Pulao,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",310.0
+Rice,Cheese Pulao,1,0,,310.0
+Rice,Cheese Paneer Pulao,1,0,,330.0
+Rice,Paneer Pulao,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",310.0
+Rice,Kashmiri Pulao,1,0,,370.0
+Dosa,Masala Dosa,1,0,,170.0
+Dosa,Cheese Masala Dosa,1,0,,250.0
+Dosa,Butter Masala Dosa,1,0,,210.0
+Dosa,Paper Oil Dosa,1,0,,90.0
+Dosa,Butter Paper Dosa,1,0,,110.0
+Dosa,Mysore Dosa,1,0,,230.0
+Dosa,Butter Mysore Dosa,1,0,,250.0
+Dosa,Cheese Mysore Dosa,1,0,,290.0
+Dosa,Gini Roll Dosa,1,0,,370.0
+Dosa,Gotala Dosa,1,0,,370.0
+Dosa,Palak Cheese Paneer Masala Dosa,1,0,,370.0
+Chinese,Manchurian Dry,1,0,,250.0
+Chinese,Manchurian Gravy,1,0,,250.0
+Chinese,Paneer Chilli,1,0,,410.0
+Fried Rice and Noodles,Jeera Fried Rice,1,0,,250.0
+Fried Rice and Noodles,Fried Rice,1,0,,250.0
+Fried Rice and Noodles,Singapore Fried Rice,1,0,,250.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,250.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,,370.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,310.0
+Fried Rice and Noodles,Hakka Noodles,1,0,,250.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,,250.0
+Fried Rice and Noodles,Singapore Noodles,1,0,,250.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,,250.0
+Fried Rice and Noodles,Jain Noodles,1,0,[Jain Preparation],250.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,310.0
+Snacks,Pav Bhaji [2 Pav],1,0,,230.0
+Snacks,Regular Pav Bhaji [2 Pav],1,0,,290.0
+Snacks,Oil Special Pav Bhaji [2 Pav],1,0,,310.0
+Snacks,Butter Special Pav Bhaji [2 Pav],1,0,,310.0
+Snacks,Swaminarayan Pav Bhaji [2 Pav],1,0,,230.0
+Snacks,Swaminarayan Oil Special Pav Bhaji [2 Pav],1,0,,290.0
+Snacks,Swaminarayan Butter Special Pav Bhaji [2 Pav],1,0,,310.0
+Snacks,Jain Pav Bhaji [2 Pav],1,0,[Jain Preparation],230.0
+Snacks,Jain Oil Special Pav Bhaji [2 Pav],1,0,[Jain Preparation],290.0
+Snacks,Jain Butter Special Pav Bhaji [2 Pav],1,0,[Jain Preparation],310.0
+Snacks,Khada Pav Bhaji [2 Pav],1,0,,310.0
+Snacks,Green Pav Bhaji [2 Pav],1,0,,310.0
+Snacks,Cheese Pav Bhaji [2 Pav],1,0,,310.0
+Snacks,Paneer Pav Bhaji [2 Pav],1,0,,310.0
+Snacks,Cheese Paneer Butter Pav Bhaji [2 Pav],1,0,,330.0
+Snacks,Spinach Paneer Cheese Pav Bhaji [2 Pav],1,0,,330.0
+Snacks,Regular Chutney Pav Bhaji [2 Pav],1,0,,110.0
+Snacks,Butter Special Garlic Chutney Pav Bhaji [2 Pav],1,0,,150.0
+Snacks,Regular Masala Pav [2 Pav],1,0,,150.0
+Snacks,Cheese Butter Masala Pav [2 Pav],1,0,,210.0
+Snacks,Regular Chinese Bhel,1,0,,250.0
+Snacks,Bombay Bhel,1,0,,370.0
+Snacks,Jain Bhel,1,0,[Jain Preparation],250.0

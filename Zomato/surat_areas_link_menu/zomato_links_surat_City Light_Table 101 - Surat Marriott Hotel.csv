@@ -1,0 +1,15 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Platters,Veg Kebab Platter,1,0,Assortment of veg kebabs.,1445.0
+Platters,Non Veg Kebab Platter,0,0,Assortment of non veg kebabs.,1675.0
+Fried Rice and Noodles,Veg Wok Tossed Fried Rice,1,0,,595.0
+Fried Rice and Noodles,Egg Wok Tossed Fried Rice,0,0,,595.0
+Fried Rice and Noodles,Chicken Wok Tossed Fried Rice,0,0,,595.0
+Fried Rice and Noodles,Veg Wok Tossed Hakka Noodles,1,0,,595.0
+Fried Rice and Noodles,Veg Wok Tossed Schezwan Noodles,1,0,,595.0
+Fried Rice and Noodles,Veg Wok Tossed Burnt Garlic Noodles,1,0,,595.0
+Fried Rice and Noodles,Egg Wok Tossed Hakka Noodles,0,0,,595.0
+Fried Rice and Noodles,Egg Wok Tossed Schezwan Noodles,0,0,,595.0
+Fried Rice and Noodles,Egg Wok Tossed Burnt Garlic Noodles,0,0,,595.0
+Fried Rice and Noodles,Chicken Wok Tossed Hakka Noodles,0,0,,595.0
+Fried Rice and Noodles,Chicken Wok Tossed Schezwan Noodles,0,0,,595.0
+Fried Rice and Noodles,Chicken Wok Tossed Burnt Garlic Noodles,0,0,,595.0

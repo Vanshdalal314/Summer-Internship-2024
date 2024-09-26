@@ -1,0 +1,11 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+"Aloo Poori , Khawsa, Rasawala Khaman",Nani Live Aloo Poori,1,0,"Prepared live aloo poori, live poori stuffed with aloo and white peas sabji, ... read more",30.0
+"Aloo Poori , Khawsa, Rasawala Khaman",Moti Live Aloo Poori,1,0,"Prepared live aloo poori, live poori stuffed with aloo and white peas sabji, ... read more",40.0
+"Aloo Poori , Khawsa, Rasawala Khaman",Nani Cheese Live Aloo Poori,1,0,"Prepared live aloo poori, live poori stuffed with aloo and white peas sabji, ... read more",55.0
+"Aloo Poori , Khawsa, Rasawala Khaman",Moti Cheese Live Aloo Poori,1,0,"Prepared live aloo poori, live poori stuffed with aloo and white peas sabji, ... read more",65.0
+"Aloo Poori , Khawsa, Rasawala Khaman",Schezwan Cheese Live Aloo Poori,1,0,"Prepared live aloo poori, live puri stuffed with aloo and white peas sabji, ... read more",75.0
+"Aloo Poori , Khawsa, Rasawala Khaman",Veg Khavsa Soup,1,0,"Crushed papdi with noodles, green onion, green chutney, red tomato chutney and red ... read more",45.0
+"Aloo Poori , Khawsa, Rasawala Khaman",Veg Cheese Khavsa Soup,1,0,"Crushed papdi with noodles, green onion, green chutney, red tomato chutney and red ... read more",65.0
+"Aloo Poori , Khawsa, Rasawala Khaman",Cheese Papdi,1,0,,60.0
+"Aloo Poori , Khawsa, Rasawala Khaman",Rasawala Khaman,1,0,,45.0
+"Aloo Poori , Khawsa, Rasawala Khaman",Cheese Rasavala Khaman,1,0,,65.0

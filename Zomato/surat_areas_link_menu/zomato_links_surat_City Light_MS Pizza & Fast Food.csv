@@ -1,0 +1,56 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Pizza [7 inches],1,0,,140.0
+Pizza,Veg Pizza [7 inches],1,0,,150.0
+Pizza,Tandoori Pizza [7 inches],1,0,,170.0
+Pizza,Veg Paneer Pizza [7 inches],1,0,,180.0
+Pizza,Master Cheese Pizza [7 inches],1,0,,190.0
+Pizza,Cheese Burst Pizza [7 inches],1,0,,200.0
+Pizza,MS Special Cheesy Pizza [7 inches],1,0,[Chef's Special],250.0
+Pizza,MS Special Paneer Tikka Pizza [7 inches],1,0,[Chef's Special],260.0
+Pizza,Special Paneer Tandoori Pizza [7 inches],1,0,[Chef's Special],190.0
+Sandwiches,Bread Butter Sandwich,1,0,,40.0
+Sandwiches,Bread Jam Sandwich,1,0,,50.0
+Sandwiches,Bread Butter Chutney Sandwich,1,0,,50.0
+Sandwiches,Nasily Sandwich,1,0,,70.0
+Sandwiches,Veg Sandwich,1,0,,65.0
+Sandwiches,Veg Cheese Sandwich,1,0,,90.0
+Sandwiches,Cheesy Grilled Sandwich,1,0,Yummy cheese grill with veg. stuffing & mash potato with cheese.,150.0
+Sandwiches,Cheese Grilled Sandwich [Jumbo],1,0,"Yummy cheese grilled with veg, stuffing & mash potato with cheese.",170.0
+Sandwiches,Toast Sandwich,1,0,,90.0
+Sandwiches,Open Toast Grilled Sandwich,1,0,It's specially for cheese lover.,130.0
+Sandwiches,Grilled Sandwich [Small],1,0,,65.0
+Sandwiches,Tandoori Paneer Sandwich,1,0,"Delicious sandwich with paneer, veggies & cheese.",110.0
+Sandwiches,MS Special Pizza Sandwich,1,0,,180.0
+Sandwiches,Cocktail Cheese Sandwich,1,0,,190.0
+Sandwiches,Jain Cheese Grilled Sandwich [Jumbo],1,0,[Jain Preparation],180.0
+Sandwiches,Special Tandoori Grilled Sandwich,1,0,[Chef's Special],180.0
+Snacks,Cheese Garlic Bread,1,0,"Best garlic bread in surat, cheesy and tasty.",80.0
+Snacks,Cheese Chilli Garlic Bread,1,0,Spicy & cheesy garlic bread.,90.0
+Snacks,Tandoori Garlic Bread,1,0,,100.0
+Snacks,Grilled Samosa Pav [1 Pav],1,0,,35.0
+Snacks,Grilled Cheese Samosa Pav [1 Pav],1,0,,60.0
+Snacks,Junglee Samosa Pav [1 Pav],1,0,,65.0
+Snacks,Special Cheese Nachos,1,0,[Chef's Special],120.0
+Snacks,Cheese Mayo Pav [1 Pav],1,0,,55.0
+Snacks,Time Pass Mayo Pav [1 Pav],1,0,,45.0
+Snacks,Cheese Time Pass Mayo Pav [1 Pav],1,0,,55.0
+Snacks,Special Cheese Time Pass Mayo Pav [1 Pav],1,0,,60.0
+Snacks,Jain Time Pass Mayo Pav [1 Pav],1,0,[Jain Preparation],45.0
+Snacks,Jain Cheese Time Pass Mayo Pav [1 Pav],1,0,[Jain Preparation],60.0
+Snacks,Peri Peri Time Pass Mayo Pav [1 Pav],1,0,,60.0
+Snacks,Paneer Tandoori Time Pass Mayo Pav [1 Pav],1,0,,65.0
+Snacks,Solid Masti Time Pass Mayo Pav [1 Pav],1,0,,60.0
+Snacks,Nachos Time Pass Mayo Pav [1 Pav],1,0,,60.0
+Snacks,Crispy Masala Mayo Pav [1 Pav],1,0,,55.0
+Snacks,Crispy Onion Masala Mayo Pav [1 Pav],1,0,Masala wafer with mayo & schezwan.,55.0
+Snacks,Solid Masti Mayo Pav [1 Pav],1,0,Solid masti with mayo & schezwan.,55.0
+Snacks,Tandoori Paneer Mayo Pav [1 Pav],1,0,"Best combination paneer, capsicum & onion with tandoori sauce & liquid cheese.",60.0
+Snacks,Cocktail Mayo Pav [1 Pav],1,0,Its combination of cream & onion and solid masti.,60.0
+Snacks,Ghotalo Mayo Pav [1 Pav],1,0,Most selling item of ms fast food. Solid masti mixing with special sauces ... read more,60.0
+Maggi,Masala Maggi,1,0,,60.0
+Maggi,Cheese Maggi,1,0,,90.0
+Maggi,Double Masala Maggi,1,0,,70.0
+Maggi,Peri Peri Maggi,1,0,,70.0
+Maggi,Veg Maggi,1,0,,70.0
+Maggi,Veg Cheese Maggi,1,0,,100.0
+Maggi,Cheese Chilli Garlic Maggi,1,0,,120.0

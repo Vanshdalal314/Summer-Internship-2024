@@ -1,0 +1,9 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Special Veg Aloo Puri [Regular],1,0,,25.0
+Snacks,Special Veg Cheese Aloo Puri [Regular],1,0,,65.0
+Snacks,Special Jain Aloo Puri,1,0,,25.0
+Snacks,Special Jain Cheese Aloo Puri,1,0,,65.0
+Snacks,Special Regular Khawsa,1,0,,45.0
+Snacks,Special Cheese Khawsa [Regular],1,0,,65.0
+Snacks,Special Jain Khawsa,1,0,,45.0
+Snacks,Special Jain Cheese Khawsa,1,0,,65.0

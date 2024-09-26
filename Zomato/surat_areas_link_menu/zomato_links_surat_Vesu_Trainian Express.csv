@@ -1,0 +1,251 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Asian Soup,1,0,"Chilly, garlic, palak pest, ginger",149.0
+Soups,Lemon Coriander Soup,1,0,,139.0
+Soups,Minestrone Soup,1,0,,139.0
+Soups,Sweet Corn Soup,1,0,,139.0
+Soups,Tom Yum Soup,1,0,,139.0
+Soups,Tomato Soup,1,0,,139.0
+Soups,Trainian Special Soup,1,0,,159.0
+Soups,Veg Hot And Sour Soup,1,0,,149.0
+Soups,Veg Manchow Soup,1,0,,149.0
+Starters,Baby Corn Chilli Dry,1,0,,209.0
+Starters,Cheese Ball,1,0,,269.0
+Starters,Crispy Veg In Schezwan,1,0,,199.0
+Starters,Dragon Potato,1,0,,199.0
+Starters,Drums Of Heaven,1,0,,199.0
+Starters,Gobi Manchurian,1,0,,199.0
+Starters,Golden Baby,1,0,,199.0
+Starters,Honey Chilly Patato,1,0,,209.0
+Starters,Mushroom Chilli Dry,1,0,,199.0
+Starters,Spring Roll,1,0,,209.0
+Starters,Thai Corn Fritter,1,0,,219.0
+Starters,Veg 65,1,0,,199.0
+Starters,Veg Lollipop,1,0,,199.0
+Starters,Veg Manchurian Dry,1,0,,199.0
+Paneer Starters,Chunky Paneer,1,0,,299.0
+Paneer Starters,Crispy Thread Paneer,1,0,,319.0
+Paneer Starters,Paneer 65,1,0,,299.0
+Paneer Starters,Paneer Chilly Dry,1,0,,299.0
+Paneer Starters,Paneer Dragon,1,0,,319.0
+Paneer Starters,Paneer Hunan,1,0,,299.0
+Paneer Starters,Paneer Kurkure,1,0,,299.0
+Paneer Starters,Paneer Manchurian,1,0,,299.0
+Paneer Starters,Paneer Tit Bit,1,0,,299.0
+Tandoor Starter,Achari Paneer Tikka Dry,1,0,,309.0
+Tandoor Starter,Aloo Tikka,1,0,,269.0
+Tandoor Starter,Jodhpuri Peneer Tikka Dry,1,0,,299.0
+Tandoor Starter,Lehsuni Paneer Tikka Dry,1,0,,319.0
+Tandoor Starter,Lemon Paneer Tikka Dry,1,0,,309.0
+Tandoor Starter,Malai Paneer Tikka Dry,1,0,,309.0
+Tandoor Starter,Methi Malai Paneer Dry,1,0,,309.0
+Tandoor Starter,Mushroom Tikka Dry,1,0,,299.0
+Tandoor Starter,Paneer Tikka Dry,1,0,,299.0
+Tandoor Starter,Peri Peri Paneer Tikka Dry,1,0,,309.0
+Tandoor Starter,Smoke Paneer Tikka Dry,1,0,,319.0
+Kebab,Chilly Cheese Kebab,1,0,,319.0
+Kebab,Dahi Kebab,1,0,,289.0
+Kebab,Hara Bhara Kebab,1,0,,289.0
+Kebab,Veg Seek Kebab,1,0,,279.0
+Chaap,Lehsuni Soya Chaap,1,0,,289.0
+Chaap,Tandoori Chaap,1,0,,289.0
+Platter,Tandoori Platter,1,0,"(Hara Bhara Kebab, Tandoori Aloa, Seek Kebab, Paneer Tikka)",499.0
+Platter,Veg Platter,1,0,"Aloo tikka, Hara bhara Kebab, veg. seekh kebab, dahi kebab",499.0
+From China House,Chilly Garlic Fried Rice,1,0,,219.0
+From China House,Chilly Garlic Mushroom Fried Rice,1,0,,229.0
+From China House,Hakka Noodles,1,0,,189.0
+From China House,Hong Kong Noodles,1,0,,219.0
+From China House,Korian Fried Rice,1,0,,219.0
+From China House,Korian Noodles,1,0,,199.0
+From China House,Manchurian Fried Rice,1,0,,189.0
+From China House,Mexican Hub Fried Rice,1,0,,259.0
+From China House,Peri Peri Noodles,1,0,,219.0
+From China House,Peri Peri Rice,1,0,,199.0
+From China House,Schezwan Noodles,1,0,,199.0
+From China House,Singapuri Fried Rice,1,0,,219.0
+From China House,Singapuri Noodles,1,0,,209.0
+From China House,Thai Noodles,1,0,,209.0
+From China House,Tripple Schezwan Fried Rice,1,0,,229.0
+Churram Churram,Cheese French Fries,1,0,,159.0
+Churram Churram,Cheese Masala Papad,1,0,,79.0
+Churram Churram,French Fries,1,0,,129.0
+Churram Churram,Fried Khichiya,1,0,,49.0
+Churram Churram,Fried Papad,1,0,,30.0
+Churram Churram,Masala Papad,1,0,,49.0
+Churram Churram,Peri Peri French Fries,1,0,,169.0
+Churram Churram,Roasted Khichiya,1,0,,49.0
+Churram Churram,Roasted Papad,1,0,,25.0
+Baked Dish,Baked Macroni,1,0,,289.0
+Baked Dish,Veg Baked With Macroni,1,0,,299.0
+Baked Dish,Veg Baked With Pineapple,1,0,,299.0
+Salad,Coldy Corn,1,0,,99.0
+Salad,Cucumber Salad,1,0,,49.0
+Salad,Green Salad,1,0,,59.0
+Salad,Kachumber Salad,1,0,,49.0
+Salad,Tomato Salad,1,0,,49.0
+Thoda Chatpata,Boondi Raita,1,0,,89.0
+Thoda Chatpata,Mix Fruit Raita,1,0,,109.0
+Thoda Chatpata,Patato Raita,1,0,,89.0
+Thoda Chatpata,Pineapple Raita,1,0,,99.0
+Thoda Chatpata,Plain Curd,1,0,,59.0
+Thoda Chatpata,Tadka Curd,1,0,,89.0
+Thoda Chatpata,Veg Raita,1,0,,69.0
+Sizzling Bite,Italian Sizzler,1,0,"2Types pasta,vegtable, french fries, cheese",459.0
+Sizzling Bite,Maxican Sizzler,1,0,"Vegtable, rice, cutlet, french fries, cheese",449.0
+Sizzling Bite,Mix Veg Sizzler,1,0,"Vegetable, Rice, Cutlet, French Fries, Cheese",479.0
+Sizzling Bite,Oriental Sizzler,1,0,"Noodles,rice,manchurian, paneer garvy, french fries",449.0
+Sizzling Bite,Paneer Sashlik Sizzler,1,0,"4Pic.paneer, vegetable, rice, french fries, cheese",489.0
+Sizzling Bite,Paneer Tikka Sizzler,1,0,"4Pic paneer tikka, vegetable, kulcha, rice, gravy",499.0
+Sizzling Bite,Soya Sizzler,1,0,"Soya Manchurian, Rice, Vegetable, French Fries, Cheese",489.0
+Pasta,Alfredo Pasta,1,0,,259.0
+Pasta,Arrabiata Pasta,1,0,,259.0
+Pasta,Cheesy Pasta,1,0,,279.0
+Pasta,Pink Fussili Pasta,1,0,,289.0
+Pasta,Pink Macroni Pasta,1,0,,289.0
+Pasta,Pink Pasta,1,0,,259.0
+Pasta,Pink Penne Pasta,1,0,,289.0
+Pasta,Red Fussili Pasta,1,0,,289.0
+Pasta,Red Macroni Pasta,1,0,,289.0
+Pasta,Red Penne Pasta,1,0,,289.0
+Pasta,White Fussili Pasta,1,0,,289.0
+Pasta,White Macroni Pasta,1,0,,289.0
+Pasta,White Penne Pasta,1,0,,289.0
+Punjab Ki Khushbu,Kadai Paneer,1,0,,249.0
+Punjab Ki Khushbu,Lehsuniya Paneer,1,0,,259.0
+Punjab Ki Khushbu,Methi Malai Paneer Tikka,1,0,,349.0
+Punjab Ki Khushbu,Mutter Paneer,1,0,,249.0
+Punjab Ki Khushbu,Palak Paneer,1,0,,259.0
+Punjab Ki Khushbu,Paneer Toofani,1,0,,259.0
+Punjab Ki Khushbu,Paneer Angara,1,0,,279.0
+Punjab Ki Khushbu,Paneer Bhurji,1,0,,249.0
+Punjab Ki Khushbu,Paneer Butter Masala,1,0,,259.0
+Punjab Ki Khushbu,Paneer Do Pyaza,1,0,,249.0
+Punjab Ki Khushbu,Paneer Handi,1,0,,249.0
+Punjab Ki Khushbu,Paneer Hydrabadi,1,0,,279.0
+Punjab Ki Khushbu,Paneer Kolhapuri,1,0,,269.0
+Punjab Ki Khushbu,Paneer Korial,1,0,,279.0
+Punjab Ki Khushbu,Paneer Lababdar,1,0,,249.0
+Punjab Ki Khushbu,Paneer Lazeez,1,0,,259.0
+Punjab Ki Khushbu,Paneer Mushroom Masala,1,0,,269.0
+Punjab Ki Khushbu,Paneer Pasanda,1,0,,249.0
+Punjab Ki Khushbu,Paneer Patiala,1,0,,279.0
+Punjab Ki Khushbu,Paneer Rajwadi,1,0,,259.0
+Punjab Ki Khushbu,Paneer Tikka Masala,1,0,,249.0
+Punjab Ki Khushbu,Romeo Juliet Special,1,0,,299.0
+Punjab Ki Khushbu,Shahi Paneer,1,0,,269.0
+Punjab Ki Khushbu,Soya Chaap Masala,1,0,,259.0
+Punjab Ki Khushbu,Trainian Special,1,0,,349.0
+Veg Base,Aloo Gobi Masala,1,0,,199.0
+Veg Base,Aloo Shimla,1,0,,199.0
+Veg Base,Baby Corn Masala,1,0,,199.0
+Veg Base,Baby Corn Mushroom Masala,1,0,,259.0
+Veg Base,Chana Masala,1,0,,199.0
+Veg Base,Dum Aloo Punjabi,1,0,,229.0
+Veg Base,Green Peas Masala,1,0,,199.0
+Veg Base,Jeera Aloo,1,0,,199.0
+Veg Base,Kashmiri Dum Aloo,1,0,,229.0
+Veg Base,Khumb Mutter Masala,1,0,,249.0
+Veg Base,Veg. Khyber Tawa,1,0,,209.0
+Veg Base,Palak Corn Masala,1,0,,209.0
+Veg Base,Veg Angara,1,0,,199.0
+Veg Base,Veg Diwani Handi,1,0,,209.0
+Veg Base,Veg Handi,1,0,,199.0
+Veg Base,Veg Jaipuri,1,0,,199.0
+Veg Base,Veg Jalfrezi,1,0,,199.0
+Veg Base,Veg Kadai,1,0,,199.0
+Veg Base,Veg Kolhapuri,1,0,,199.0
+Veg Base,Veg Koliwada,1,0,,199.0
+Veg Base,Veg Lahori,1,0,,199.0
+Veg Base,Veg Makhanwala,1,0,,199.0
+Veg Base,Veg Toofani,1,0,,209.0
+Veg Base,Veg. Hyderabadi,1,0,,199.0
+Cheese Base,Cheese Angara,1,0,,279.0
+Cheese Base,Cheese Butter Masala,1,0,,289.0
+Cheese Base,Chees Kaju Masala,1,0,,289.0
+Cheese Base,Cheese Paneer Masala,1,0,,289.0
+Kaju Base,Kaju Butter Masala.,1,0,,259.0
+Kaju Base,Kaju Masala,1,0,,259.0
+Kaju Base,Kaju Paneer Masala,1,0,,259.0
+Kaju Base,Spicy Kaju Curry,1,0,,269.0
+Kaju Base,Sweet Kaju Curry,1,0,,269.0
+Mughlai Base,Khoya Kaju (sweet),1,0,,259.0
+Mughlai Base,Khoya Paneer,1,0,,259.0
+Mughlai Base,Navaratan Korma (sweet),1,0,,249.0
+Kofta Base,Cheese Kofta,1,0,,259.0
+Kofta Base,Kaju Kofta,1,0,,259.0
+Kofta Base,Malai Kofta (sweet),1,0,,239.0
+Kofta Base,Methi Malai Mutter,1,0,,249.0
+Kofta Base,Nargisi Kofta,1,0,,219.0
+Kofta Base,Paneer Kofta,1,0,,239.0
+Kofta Base,Veg Kofta,1,0,,219.0
+Dal,Dal Fry,1,0,,169.0
+Dal,Dal Fry Butter,1,0,,179.0
+Dal,Dal Kolhapuri,1,0,,189.0
+Dal,Dal Makhani,1,0,,249.0
+Dal,Dal Tadka,1,0,,179.0
+Matke Ka Kamaal,Bread Basket,1,0,,299.0
+Matke Ka Kamaal,Butter Kulcha,1,0,,65.0
+Matke Ka Kamaal,Butter Naan,1,0,,65.0
+Matke Ka Kamaal,Butter Roti,1,0,,40.0
+Matke Ka Kamaal,Cheese Chilly Garlic Naan,1,0,,129.0
+Matke Ka Kamaal,Cheese Garlic Naan,1,0,,109.0
+Matke Ka Kamaal,Cheese Naan,1,0,,109.0
+Matke Ka Kamaal,Chilly Garlic Naan,1,0,,99.0
+Matke Ka Kamaal,Garlic Naan,1,0,,79.0
+Matke Ka Kamaal,Hariyali Naan,1,0,,99.0
+Matke Ka Kamaal,Lacchaa Paratha,1,0,,89.0
+Matke Ka Kamaal,Lehsuni Teekha Naan,1,0,,99.0
+Matke Ka Kamaal,Methi Paratha,1,0,,79.0
+Matke Ka Kamaal,Missi Roti,1,0,,45.0
+Matke Ka Kamaal,Onion Kulcha,1,0,,79.0
+Matke Ka Kamaal,Paneer Kulcha,1,0,,89.0
+Matke Ka Kamaal,Plain Kulcha,1,0,,59.0
+Matke Ka Kamaal,Plain Naan,1,0,,55.0
+Matke Ka Kamaal,Plain Roti,1,0,,35.0
+Matke Ka Kamaal,Pudina Paratha,1,0,,79.0
+Matke Ka Kamaal,Stuffed Paratha,1,0,,79.0
+Ek Duje Ke Sath,Dal Khichdi,1,0,,189.0
+Ek Duje Ke Sath,Hydrabadi Biryani,1,0,,209.0
+Ek Duje Ke Sath,Jeera Rice,1,0,,149.0
+Ek Duje Ke Sath,Kashmiri Pulao,1,0,,209.0
+Ek Duje Ke Sath,Masala Rice,1,0,,189.0
+Ek Duje Ke Sath,Palak Garlic Khichdi,1,0,,199.0
+Ek Duje Ke Sath,Paneer Peas Pulao,1,0,,209.0
+Ek Duje Ke Sath,Steam Rice,1,0,,139.0
+Ek Duje Ke Sath,Tawa Rice,1,0,,209.0
+Ek Duje Ke Sath,Veg Biryani,1,0,,199.0
+Ek Duje Ke Sath,Veg Dum Biryani,1,0,,219.0
+Ek Duje Ke Sath,Veg Pulao,1,0,,199.0
+Oven Ka Dhamal,Italino Blast Pizza,1,0,,229.0
+Oven Ka Dhamal,Make Your Own Pizza,1,0,,239.0
+Oven Ka Dhamal,Margarita Pizza,1,0,,199.0
+Oven Ka Dhamal,Mexicano Touch Pizza,1,0,,239.0
+Oven Ka Dhamal,Trainian Special Pizza,1,0,,249.0
+Oven Ka Dhamal,Veg Pizza,1,0,,199.0
+Ice Cream,Premium Ice Cream,1,0,,69.0
+Ice Cream,Regular Ice Cream,1,0,,59.0
+Drinks (Beverages),Bottled Water,1,0,,20.0
+Drinks (Beverages),Butter Milk,1,0,,35.0
+Drinks (Beverages),Chocolate Lassi,1,0,,99.0
+Drinks (Beverages),Fresh Lime Soda Sour,1,0,,79.0
+Drinks (Beverages),Fresh Lime Soda Sweet,1,0,,79.0
+Drinks (Beverages),Ice Lemon Tea,1,0,,89.0
+Drinks (Beverages),Ice Lemon Tea Mint,1,0,,99.0
+Drinks (Beverages),Ice Lemon Tea Pineapple,1,0,,99.0
+Drinks (Beverages),Maaza,1,0,,49.0
+Drinks (Beverages),Mango Lassi,1,0,,109.0
+Drinks (Beverages),Masala Butter Milk,1,0,,40.0
+Drinks (Beverages),Pineapple Lassi,1,0,,99.0
+Drinks (Beverages),Saffron Lassi,1,0,,109.0
+Drinks (Beverages),Salt Lassi,1,0,,79.0
+Drinks (Beverages),Soft Drinks,1,0,,59.0
+Drinks (Beverages),Special Dry Fruits Lassi,1,0,,149.0
+Drinks (Beverages),Strawberry Lassi,1,0,,99.0
+Drinks (Beverages),Sweet Lassi,1,0,,79.0
+Shakes,Brownie Shake,1,0,,169.0
+Shakes,Chocolate Milk Shake,1,0,,159.0
+Shakes,Cold Coffee,1,0,,129.0
+Shakes,Mango Shake,1,0,,159.0
+Shakes,Strowberry Shake,1,0,,159.0
+Shakes,Vanilla Shake,1,0,,159.0
+Desserts,Gulab Jamun,1,0,,79.0
+Desserts,Rassgula [2 Pcs],1,0,,79.0

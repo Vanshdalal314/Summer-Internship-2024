@@ -1,0 +1,64 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Bread Butter Sandwich,1,0,,112.5
+Sandwiches,Cheese Jam Sandwich,1,0,,168.3
+Sandwiches,Mexican Simple Sandwich,1,0,Vegetables marinated in house special Mexican dressing.,168.3
+Sandwiches,Russian Simple Sandwich,1,0,House special Russian salad between the breads.,168.3
+Sandwiches,Schezwan Simple Sandwich,1,0,Spicy combination of vegetables and schezwan sauce.,168.3
+Sandwiches,Veg Cheese Sandwich,1,0,| Serves 1 |,135.0
+Sandwiches,Vegetable Sandwich,1,0,,95.4
+Sandwiches,Bread Butter,1,0,,75.24
+Sandwiches,Cheese Chilly,1,0,Mozzarella cheese with chilli coriander and capsicum.,202.5
+Sandwiches,Cheese Chutney,1,0,,127.8
+Sandwiches,Cheese Garlic,1,0,[Spicy] A cheesy combination of mozzarella cheese garlic and chilli flakes.,163.8
+Sandwiches,Cheese Jam,1,0,,127.8
+Sandwiches,Cheese Masala,1,0,"Mozzarella cheese with oniona, tomato and capsicum.",202.5
+Sandwiches,Schezwan,1,0,,127.7
+Sandwiches,Vegetable Cheese Grill Sandwich,1,0,,207.0
+Sandwiches,Mexican Mayo Sandwich,1,0,The Mexican hit with mustard and cheese.,216.9
+Sandwiches,Russian Mayo Sandwich,1,0,Our house special Russian salad between two layers.,207.0
+Sandwiches,Schezwan Mayo Sandwich,1,0,[Spicy] House special schezwan sauce with veggies and cheese.,216.9
+Sandwiches,4 Cheese Chilly,1,0,Specially made for cheese lovers.,215.1
+Sandwiches,Ahmedabad Touch,1,0,"[Extra Spicy] Our all time favourite with assorted vegetables like cucumber, capsicum, onion ... read more",211.5
+Sandwiches,Italy Touch,1,0,The all Italian sandwich with mozzarella cheese olive and paprika.,211.5
+Sandwiches,Mexican,1,0,,127.7
+Sandwiches,Peppy Perry,1,0,Vegetables and cheese with unique peri peri sauce. (Jain not available),211.5
+Sandwiches,Pizza Sandwich,1,0,|Serves 1| An italian Classic in a sandwich twist.,225.0
+Sandwiches,Punjabi Touch,1,0,Capsicum Cheese and paneer marinated in kadhai sauce. (Jain not available),201.6
+Sandwiches,Russian,1,0,,127.7
+Sandwiches,Tuscany,1,0,,215.1
+Sandwiches,Tuscany Cheese Grilled Sandwich,1,0,Assorted vegetables with a garlic twist inside a panini bread.,268.2
+Sandwiches,Western Touch,1,0,Capsicum and olives drizzled with smoky BBQ. (Jain not available),201.6
+Sandwiches,American Exotica,1,0,The shakti special exotica stuffing with cheese corn and olives.,201.6
+Sandwiches,Indian Exotica,1,0,"The shakti special exotica stuffing with coriander, green chillies and olives.",201.6
+Sandwiches,Paneer Schezwan,1,0,[Spicy] Vegetables with house special schezwan sauce and cheese.,227.7
+Sandwiches,Paneer Tandoori,1,0,Paneer cubes marinated with tandoori dressing and vegetables.,207.0
+Sandwiches,Chocolate,1,0,Chocolate sauce with chocolate chunks.,215.1
+Sub,Boss Peri,1,0,Open Sub with peri peri and yellow cheese with tomato. (Jain not available),215.1
+Sub,Classic Tandoori Open Sub,1,0,Open sub with tandoori and spicy touch with paneer and capsicum. (Jain not ... read more,215.1
+Sub,Tarpido,1,0,"Chef Special Rozana Delicacy with vegetables, paneer. (Jain not Available)",215.1
+Burger,4 Cheese Chilli Burger,1,0,"Split bun with cheese sauce, cheese slice, tikki and mayo. (Jain not available)",160.2
+Burger,Bunny Cho,1,0,Stuffed burger with crispy patty and mozzarella. (Jain not available),173.7
+Burger,Classic Veg,1,0,"Regular veg tikki, cheese with lettuce, vegetables and chipotle.",146.7
+Burger,Exotic Burger,1,0,Loaded with Veggies and Pickles,146.7
+Burger,Heritage Burger,1,0,Indian tawa burger with sauces cheese and vegetables. (Jain not available),266.4
+Burger,Indian Touch,1,0,"Desi Style with vegetables, tikki and mayonnaise. (Jain not available)",160.2
+Burger,Maharaja Burger,1,0,Jumbo double layer with sauces cheese and vegetables. (Jain not Available),201.6
+Burger,Melting Cheese,1,0,Will melt your heart. (Jain not Available),188.1
+Burger,Supreme Burger,1,0,Loaded with Veggies,133.2
+French Fries,Chatak Pataka,1,0,,126.9
+French Fries,Classic Salted,1,0,,126.9
+French Fries,Desi Twist Fries,1,0,Curly fries with an Indian twist.,222.3
+French Fries,Pepper N Salt,1,0,,126.9
+French Fries,Peri Peri,1,0,,140.4
+Pizza,Corn Capsicana,1,0,9 inches. Soft sweet corn and green capsicum topped pizza.,284.4
+Pizza,Margerita,1,0,9 inches. Traditional italian pizza with cheese and sauce.,257.4
+Pizza,Olive Delight,1,0,9 inches. Pickled black olives with house special seasoning.,302.4
+Pizza,Panner Blossom,1,0,"9 inches. Indian spice topped with makhni, paneer, and coriander.",320.4
+Garlic Breads,Boss (Best Of Shakti Sandwich),1,0,|Serves 1| Vegetables and cheese loaded with house special dressing.,241.2
+Garlic Breads,Cheese Garlic Bread,1,0,Shakti special garlic bread with mozzarella cheese.,174.6
+Bhel,Cheese Kela Wafer,1,0,A twist to traditional bhel with Raw banana wafers.,174.6
+Bhel,Cheese Potato Wafer,1,0,Potato wafers with chutneys and vegetables.,174.6
+Bhel,Nachos Bhel,1,0,Crispy nachos cheese with chutneys and vegetables.,230.4
+Bhel,Shakti Special,1,0,Combination of bhel made with both potato and banana wafers.,188.1
+Shakti Special Combos,Mexican Mayo Sandwich + Russian Simple Sandwich,1,0,,459.0
+Shakti Special Combos,Paneer Tandoori + Margerita,1,0,,432.0

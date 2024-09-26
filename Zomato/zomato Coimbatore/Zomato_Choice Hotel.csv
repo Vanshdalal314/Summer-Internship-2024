@@ -1,0 +1,55 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Lunch,Meal,1,0,"Served with sambar,rasam,papad,puly kolambu,curd.",85.0
+Lunch,Chapathi [2 pcs],1,0,"Served with sambar,rasam,papad and curd",35.0
+Lunch,Chicken Biryani,1,0,,100.0
+Lunch,Egg biryani,1,0,,75.0
+Lunch,Mushroom Biryani,1,0,,60.0
+Lunch,Kuska Biryani,1,0,,60.0
+Starters,Chilli Chicken,1,0,,85.0
+Starters,Chicken Sukka Fry,1,0,,95.0
+Starters,Pepper Chicken,1,0,,85.0
+Starters,Chicken Fry,1,0,,95.0
+Starters,Chinthamani Chicken,1,0,,100.0
+Starters,Pallipalayam Chicken,1,0,,120.0
+Starters,Chicken Leg Fry,1,0,,55.0
+Starters,Kudal Fry,1,0,,120.0
+Starters,Chilli Leg,1,0,,50.0
+Starters,Chicken Lollipop [2 Pieces],1,0,,60.0
+Starters,Chilli Gobi,1,0,,60.0
+Starters,Gobi Manchurian,1,0,,70.0
+Starters,Chilli Mushroom,1,0,,60.0
+Starters,Mushroom Manchurian,1,0,,70.0
+Main Course,Egg Bhurji,1,0,,20.0
+Main Course,Egg Gravy,1,0,,40.0
+Main Course,Egg Korma,1,0,,20.0
+Main Course,Chicken Gravy,1,0,,110.0
+Main Course,Pepper Chicken Gravy,1,0,,110.0
+Main Course,Chettinad Chicken Gravy,1,0,,100.0
+Main Course,Chicken Manchurian Gravy,1,0,,130.0
+Main Course,Mutton Gravy,1,0,,180.0
+Parotta,Mushroom fried rice,1,0,,75.0
+Parotta,Mushroom Parotta,1,0,,45.0
+Parotta,Veechu Parotta,1,0,,20.0
+Parotta,Egg Parotta,1,0,,45.0
+Parotta,Egg Veechu Parotta,1,0,,35.0
+Parotta,Chicken Parotta,1,0,,50.0
+Biryani,Kuska Biryani,1,0,,60.0
+Biryani,Mushroom Biryani,1,0,,60.0
+Biryani,Egg Biryani,1,0,,55.0
+Biryani,Chicken Biryani,1,0,,70.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,55.0
+Fried Rice and Noodles,Egg Fried Rice,1,0,,65.0
+Fried Rice and Noodles,Chicken Fried Rice,1,0,,80.0
+Fried Rice and Noodles,Mushroom fried rice,1,0,,75.0
+Fried Rice and Noodles,Veg Noodles,1,0,,55.0
+Fried Rice and Noodles,Egg Noodles,1,0,,65.0
+Fried Rice and Noodles,Chicken Noodles,1,0,,80.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,1,0,,70.0
+Fried Rice and Noodles,Mushroom Noodles,1,0,,75.0
+Snacks,Parotta Cutlet,1,0,,50.0
+Snacks,Chilli Parotta,1,0,,45.0
+Snacks,Egg Laba,1,0,,40.0
+Snacks,Boiled Egg,1,0,,10.0
+Snacks,Egg Kalakki,1,0,,10.0
+Snacks,Omelette,1,0,,12.0
+Snacks,Chicken Kothu Parotta,1,0,,70.0

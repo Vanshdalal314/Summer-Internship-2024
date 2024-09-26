@@ -1,0 +1,184 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Match Day Combos,Veg - Momo Combo For 2,1,0,"Combo for two (Rice/Noodle, Veg Gravy, Momos & Drinks)",579.0
+Match Day Combos,Veg - Starter Combo For 2,1,0,"Combo for two (Rice/Noodle, Veg Gravy, Starters & Drinks)",679.0
+Match Day Combos,Chicken - Momo Combo For 2,1,0,"Combo for two (Rice/Noodle, Non-Veg Gravy, Momos & Drinks)",639.0
+Match Day Combos,Chicken - Starter Combo For 2,1,0,"Combo for two (Rice/Noodle, Non-Veg Gravy, Non- Veg Starters & Drinks)",739.0
+Match Day Combos,Combo for 1 Veg,1,0,"Combo for one (Rice/Noodle Bowl with choice of Veg Gravy, Veg Momos & ... read more",359.0
+Match Day Combos,Combo for 1 Non-Veg,1,0,"Combo for one (Rice/Noodle Bowl with choice of Non-Veg Gravy, Non- Veg Momos ... read more",379.0
+Pot Rice,Veg Manchurian Pot Rice,1,0,,425.0
+Pot Rice,Paneer Pot Rice,1,0,,425.0
+Pot Rice,Chicken Pot Rice,1,0,,455.0
+Starters & Soup,Hunan Paneer Dry,1,0,"(Spicy) Cubes Of Paneer, Onion, Capsicum Tossed With Spicy & Savory flavors of ... read more",299.0
+Starters & Soup,Schezwan Paneer Dry,1,0,"(Spicy) Cubes Of Paneer, Onion, Capsicum Tossed With Schezwan Sauce.",319.0
+Starters & Soup,Paneer Manchurian Dry,1,0,"(Peppery & non Spicy) Paneer, onion and capsicum tossed in classic Manchurian sauce.",319.0
+Starters & Soup,Manchurian Ball In Choice Of Sauce,1,0,"Manchurian balls tossed with Capsicum, Onion in choice of Sauce. desi chilli sauce ... read more",289.0
+Starters & Soup,Black Pepper Paneer Dry,1,0,(Peppery & Non Spicy) Paneer & Veggies Tossed With Our In House Black ... read more,299.0
+Starters & Soup,Veg Spring Roll,1,0,Mixed vegetables & noodles encased in crispy spring roll sheet served with sweet ... read more,239.0
+Starters & Soup,Sweet Chilli Potato,1,0,"Potato shots tossed with onion, capsicum, chilli flakes and sweet chilli sauce with ... read more",279.0
+Starters & Soup,Manchurian Potato,1,0,"(Peppery & Non Spicy) Potato shots tossed with onion, capsicum and Manchurian sauce.733.36kcal",279.0
+Starters & Soup,Veg Manchurian Dry,1,0,"(Peppery & non Spicy) Mix veg fried balls, onion and capsicum tossed in ... read more",279.0
+Starters & Soup,Kung Pao Paneer Dry,1,0,"(Medium Spicy) Cubes Of Paneer, Onion, Capsicum Tossed With Kung Pao Sauce. ... read more",329.0
+Starters & Soup,Paneer Chilli Dry,1,0,"(Spicy) Paneer cubes, green chillies, onion, capsicum tossed in desi chilli sauce finished ... read more",329.0
+Starters & Soup,Hunan Chicken Dry,1,0,"(Spicy) Diced chicken, Onion, Capsicum Tossed With Spicy & Savory flavors of Hunan ... read more",339.0
+Starters & Soup,Schezwan Chicken Dry,1,0,"(Spicy) Diced Chicken, Onion, Capsicum Tossed With Schezwan Sauce.",339.0
+Starters & Soup,Black Pepper Chicken Dry,1,0,(Peppery & Non Spicy) Chicken & Veggies tossed with our in house ... read more,339.0
+Starters & Soup,Chicken Spring Roll,1,0,Minced chicken encased in crispy spring roll sheet served with sweet chilli sauce.390.36kal,279.0
+Starters & Soup,Kung Pao Chicken Dry,1,0,(Medium Spicy) Chicken cubes tossed with Kung Pao sauce. 485.8kcal,339.0
+Starters & Soup,Sweet Chilli Chicken Dry,1,0,"Diced chicken tossed with onion, capsicum, chilli flakes and sweet chilli sauce with ... read more",309.0
+Starters & Soup,Chilli Chicken Dry,1,0,"(Spicy) Diced chicken, green chillies, onion, capsicum tossed in desi chilli sauce finished ... read more",339.0
+Starters & Soup,Manchurian Chicken Dry,1,0,"(Peppery & Non Spicy) Diced chicken, onion and capsicum tossed in classic Manchurian ... read more",339.0
+Starters & Soup,Veg Manchow Soup with Crispy Noodles,1,0,A local favourite with veggies topped with crunchy fried noodles. 258.11kcal,189.0
+Starters & Soup,Veg Schezwan Noodle Soup,1,0,Mixed vegetables and boiled hakka noodles flavored with crowd favourite schezwan sauce. 251.26kcal,189.0
+Starters & Soup,Chicken Manchow Soup with Crispy Noodles,1,0,A local favourite with chicken and egg topped with crunchy fried noodles. 277.25kcal,209.0
+Starters & Soup,Chicken Schezwan Noodle Soup,1,0,"Mixed vegetables, boiled Hakka noodles, egg and chicken flavored with crowd favorite schezwan ... read more",209.0
+Momos - 6 Pcs,Steamed Veg Wheat Momos With Momo Chutney,1,0,Aromatic mixture of minced vegetables encased in wheat wrapper. Served with momo chutney,250.0
+Momos - 6 Pcs,Steamed Classic Veg Momos with Momo Chutney,1,0,"Delicious mixture of chopped vegetables enveloped in a thin wrapper, steamed to perfection, ... read more",210.0
+Momos - 6 Pcs,Steamed Veg Darjeeling Momo With Momo Chutney,1,0,"Flavorful minced vegetables encased in thin wrapper, served with momo chutney",220.0
+Momos - 6 Pcs,Steamed Schezwan Paneer Momo with Momo Chutney,1,0,Paneer filling mixed with indian spices and schezwan sauce enveloped in a thin ... read more,230.0
+Momos - 6 Pcs,Steamed Corn & Cheese Momo with Momo Chutney,1,0,"Melted cheese mixed with yellow corn enveloped in a thin wrapper, steamed to ... read more",230.0
+Momos - 6 Pcs,Steamed Chicken Wheat Momos With Momo Chutney,1,0,Aromatic chicken mince encased in wheat wrapper.Served with momo chutney,280.0
+Momos - 6 Pcs,Steamed Chicken Classic Momos with Momo Chutney,1,0,"Delicious mix of juicy minced chicken filling enveloped in a thin wrapper, steamed ... read more",250.0
+Momos - 6 Pcs,Steamed Chicken Darjeeling Momo With Momo Chutney,1,0,"Flavorful chicken mince encased in thin wrapper, served with momo chutney",260.0
+Momos - 6 Pcs,Steamed Chicken Schezwan with Momo Chutney,1,0,Chicken mince filling mixed with indian spices and schezwan sauce enveloped in a ... read more,260.0
+Momos - 6 Pcs,Steamed Chicken Corn & Cheese with Momo Chutney,1,0,Melted cheese mixed with minced chicken and yellow corn enveloped in a thin ... read more,260.0
+Momos - 6 Pcs,Fried Veg Wheat Momos With Momo Chutney,1,0,Aromatic mixture of minced vegetables encased & fried in wheat wrapper. Served with ... read more,270.0
+Momos - 6 Pcs,Fried Classic Veg Momos with Momo Chutney,1,0,"Delicious mixture of chopped vegetables enveloped in a thin wrapper, fried to perfection, ... read more",230.0
+Momos - 6 Pcs,Fried Veg Darjeeling Momos With Momo Chutney,1,0,"Flavorful minced vegetables encased in thin wrapper, crispy fried & served with ... read more",240.0
+Momos - 6 Pcs,Fried Paneer Schezwan Momos with Momo Chutney,1,0,Paneer filling mixed with indian spices and schezwan sauce enveloped in a thin ... read more,250.0
+Momos - 6 Pcs,Fried Veg Corn n' Cheese Momos with Momo Chutney,1,0,"(6 Pcs) melted cheese mixed with yellow corn enveloped in a thin wrapper, ... read more",250.0
+Momos - 6 Pcs,Fried Chicken Wheat Momos With Momo Chutney,1,0,Aromatic chicken mince encased & fried in wheat wrapper. Served with momo chutney,300.0
+Momos - 6 Pcs,Fried Chicken Classic Momos with Momo Chutney,1,0,"Delicious mix of juicy minced chicken filling enveloped in a thin wrapper, fried ... read more",270.0
+Momos - 6 Pcs,Fried Chicken Darjeeling Momo With Momo Chutney,1,0,"Flavorful chicken mince encased in thin wrapper, crispy fried & served with momo ... read more",280.0
+Momos - 6 Pcs,Fried Chicken Schezwan with Momo Chutney,1,0,Chicken mince filling mixed with indian spices and schezwan sauce enveloped in a ... read more,280.0
+Momos - 6 Pcs,Fried Chicken Corn & Cheese with Momo Chutney,1,0,Melted cheese mixed with minced chicken and yellow corn enveloped in a thin ... read more,280.0
+Momos - 12 Pcs,Steamed Veg Wheat Momos With Momo Chutney - 12 Pcs,1,0,Aromatic mixture of minced vegetables encased in wheat wrapper. Served with momo chutney,340.0
+Momos - 12 Pcs,Veg Half & Half Momos 6pcs + 6pcs,1,0,"6 Pcs + 6 pcs your chocie of 2 veg steamed momos, served ... read more",380.0
+Momos - 12 Pcs,Steamed Classic Veg Momos with Momo Chutney -12 Pcs,1,0,"(12 Pcs) delicious mixture of chopped vegetables enveloped in a thin wrapper, steamed ... read more",320.0
+Momos - 12 Pcs,Steamed Veg Darjeeling Momo With Momo Chutney - 12 Pcs,1,0,"(12 pcs) Flavorful minced vegetables encased in thin wrapper, served with momo chutney",330.0
+Momos - 12 Pcs,Steamed Schezwan Paneer Momo with Momo Chutney -12 Pcs,1,0,(12 Pcs) paneer filling mixed with indian spices and schezwan sauce enveloped in ... read more,370.0
+Momos - 12 Pcs,Steamed Corn & Cheese Momo with Momo Chutney -12 Pcs,1,0,"(12 Pcs) melted cheese mixed with yellow corn enveloped in a thin wrapper, ... read more",400.0
+Momos - 12 Pcs,Steamed Chicken Wheat Momos With Momo Chutney -12Pcs,1,0,Aromatic chicken mince encased in wheat wrapper. Served with momo chutney,360.0
+Momos - 12 Pcs,Chicken Half & Half Momos 6pcs + 6pcs,1,0,"6Pcs + 6pcs your chocie of 2 chicken steamed momos, served steaming hot ... read more",400.0
+Momos - 12 Pcs,Steamed Chicken Classic Momos with Momo Chutney -12 Pcs,1,0,(12 Pcs) delicious mix of juicy minced chicken filling enveloped in a thin ... read more,340.0
+Momos - 12 Pcs,Steamed Chicken Darjeeling Momo With Momo Chutney - 12Pcs,1,0,"(12 pcs) Flavorful chicken mince encased in thin wrapper, served with momo chutney",350.0
+Momos - 12 Pcs,Steamed Chicken Schezwan with Momo Chutney -12 Pcs,1,0,(12 Pcs) chicken mince filling mixed with indian spices and schezwan sauce enveloped ... read more,400.0
+Momos - 12 Pcs,Steamed Chicken Corn & Cheese with Momo Chutney -12 Pcs,1,0,(6 Pcs) melted cheese mixed with minced chicken and yellow corn enveloped in ... read more,410.0
+Momos - 12 Pcs,Fried Veg Wheat Momos with Momo Chutney - 12 Pcs,1,0,"(12 Pcs) delicious mixture of chopped vegetables enveloped in a thin wrapper, fried ... read more",390.0
+Momos - 12 Pcs,Fried Classic Veg Momos with Momo Chutney - 12 Pcs,1,0,"(12 Pcs) delicious mixture of chopped vegetables enveloped in a thin wrapper, fried ... read more",370.0
+Momos - 12 Pcs,Fried Veg Darjeeling Momos With Momo Chutney - 12 Pcs,1,0,"(12 pcs) Flavorful minced vegetables encased in thin wrapper, served with momo chutney",380.0
+Momos - 12 Pcs,Fried Paneer Schezwan Momos with Momo Chutney - 12 Pcs,1,0,(12 Pcs) paneer filling mixed with indian spices and schezwan sauce enveloped in ... read more,420.0
+Momos - 12 Pcs,Fried Veg Corn n' Cheese Momos with Momo Chutney - 12 Pcs,1,0,"(12 Pcs) melted cheese mixed with yellow corn enveloped in a thin wrapper, ... read more",450.0
+Momos - 12 Pcs,Fried Chicken Wheat Momos with Momo Chutney - 12 Pcs,1,0,"(12 Pcs) delicious mixture of chopped vegetables enveloped in a thin wrapper, fried ... read more",410.0
+Momos - 12 Pcs,Fried Chicken Classic Momos with Momo Chutney - 12 Pcs,1,0,(12 Pcs) delicious mix of juicy minced chicken filling enveloped in a thin ... read more,390.0
+Momos - 12 Pcs,Fried Chicken Darjeeling Momos With Momo Chutney - 12 Pcs,1,0,"(12 pcs) Flavourful chicken mince encased in thin wrapper, served with momo chutney",400.0
+Momos - 12 Pcs,Fried Chicken Schezwan with Momo Chutney - 12 Pcs,1,0,(12 Pcs) chicken mince filling mixed with indian spices and schezwan sauce enveloped ... read more,450.0
+Momos - 12 Pcs,Fried Chicken Corn & Cheese with Momo Chutney - 12 Pcs,1,0,(12 Pcs) melted cheese mixed with minced chicken and yellow corn enveloped in ... read more,460.0
+Chinese Bowls (Save upto 40%),Hunan Paneer Bowl,1,0,"(Spicy) Paneer, Onion, Capsicum, tossed in Spicy & Savory Hunan Sauce With ... read more",319.0
+Chinese Bowls (Save upto 40%),Black Pepper Paneer Bowl,1,0,"(Peppery & Non Spicy) Paneer, Onion, Capsicum, Tossed In Our In-House Black Pepper ... read more",319.0
+Chinese Bowls (Save upto 40%),Veg Manchurian Bowl,1,0,"(Peppery & Non Spicy) Mix Veg Fried Fritters, Onion And Capsicum Tossed In ... read more",269.0
+Chinese Bowls (Save upto 40%),Chilli Paneer Bowl,1,0,"(Spicy) Paneer, Onion And Capsicum Tossed In Our Signature Desi Chilli Sauce, Served ... read more",319.0
+Chinese Bowls (Save upto 40%),Kung Pao Paneer Bowl,1,0,"(Medium Spicy) Paneer & Veggies Tossed In Kung Pao Sauce, Served With Choice ... read more",299.0
+Chinese Bowls (Save upto 40%),Schezwan Paneer Bowl,1,0,"(Spicy ) Paneer & Veggies Tossed In Schezwan Sauce, Served With Choice ... read more",299.0
+Chinese Bowls (Save upto 40%),Hunan Chicken Bowl,1,0,"(Spicy) Chicken, Onion, Capsicum Tossed In Spicy & Savory Hunan Sauce, Served With ... read more",309.0
+Chinese Bowls (Save upto 40%),Black Pepper Chicken Bowl,1,0,"(Peppery & Non Spicy) Chicken, Onion, Capsicum, Tossed In Our In-House Black Pepper ... read more",309.0
+Chinese Bowls (Save upto 40%),Chicken Manchurian Bowl,1,0,"(Peppery & Non Spicy) Chicken, Onion And Capsicum Tossed In Classic Manchurian Sauce, ... read more",329.0
+Chinese Bowls (Save upto 40%),Chilli Chicken Bowl,1,0,"(Spicy) Chicken, Onion And Capsicum Tossed In Our Signature Desi Chilli Sauce, Served ... read more",329.0
+Chinese Bowls (Save upto 40%),Kung Pao Chicken Bowl,1,0,"(Medium Spicy) Chicken & Veggies Tossed In Kung Pao Sauce, Served With Choice ... read more",309.0
+Chinese Bowls (Save upto 40%),Schezwan Chicken Bowl,1,0,"(Spicy) Chicken & Veggies Tossed In Schezwan Sauce, Served With Choice Of Rice/ ... read more",309.0
+Rice & Noodles - Full,Veg Fried Rice - Full (1000 ml),1,0,"Rice tossed with carrot, french beans & baby corn with a touch of ... read more",269.0
+Rice & Noodles - Full,Veg Burnt Garlic Fried Rice - Full (1000 ml),1,0,"Rice, carrot, french beans & baby corn tossed with burnt garlic & coriander.",279.0
+Rice & Noodles - Full,Veg Chilli Garlic Fried Rice - Full (1000 ml),1,0,"(Spicy) Rice tossed with carrot, french beans & baby corn flavored with soy, ... read more",309.0
+Rice & Noodles - Full,Veg Schezwan Fried Rice - Full (1000 ml),1,0,"(Spicy) Rice tossed with carrot, french beans & baby corn in schezwan sauce. ... read more",319.0
+Rice & Noodles - Full,Veg Triple Schezwan Rice,1,0,(Spicy) Rice & noodle with mixed vegetable tossed in schezwan sauce. Served with ... read more,349.0
+Rice & Noodles - Full,Veg Hakka Noodles - Full (1000 ml),1,0,"Noodles Tossed With Onion, Cabbage & Carrot With A Touch Of Dark Soya ... read more",279.0
+Rice & Noodles - Full,Veg Burnt Garlic Noodles - Full (1000 ml),1,0,"Noodles Tossed With Carrot, Cabbage, Onion, Flavoured With Burnt Garlic & Corriander.",309.0
+Rice & Noodles - Full,Veg Chilli Garlic Noodles - Full (1000 ml),1,0,"(Spicy) Noodles Tossed With Carrot, Cabbage & Onion Flavoured With Chilli Flakes, Garlic ... read more",319.0
+Rice & Noodles - Full,Veg Schezwan Noodles - Full (1000 ml),1,0,"(Spicy) Noodles tossed with onion, capsicum & carrot in schezwan sauce. Garnished with ... read more",339.0
+Rice & Noodles - Full,Egg Fried Rice - Full (1000 ml),1,0,"Rice tossed with egg & mixed veggies (carrot, french beans & baby corn) ... read more",309.0
+Rice & Noodles - Full,Double Egg Fried Rice - Full (1000 ml),1,0,"Rice tossed with Double Egg & mixed veggies (Carrot, French Beans & Baby ... read more",339.0
+Rice & Noodles - Full,Chicken Fried Rice - Full (1000 ml),1,0,"Rice tossed with shredded chicken, egg & mixed veggies (carrot, french beans & ... read more",319.0
+Rice & Noodles - Full,Chicken Burnt Garlic Fried Rice - Full (1000 ml),1,0,"Rice egg, shredded chicken carrot, french beans & baby corn tossed with burnt ... read more",359.0
+Rice & Noodles - Full,Chicken Chilli Garlic Fried Rice - Full (1000 ml),1,0,"(Spicy) Rice tossed with carrot, french beans & baby corn, egg , shredded ... read more",369.0
+Rice & Noodles - Full,Chicken Schezwan Fried Rice - Full (1000 ml),1,0,"(Spicy) Rice tossed with shredded chicken, egg, carrot, french beans & baby corn ... read more",379.0
+Rice & Noodles - Full,Chicken Triple Schezwan Rice,1,0,(Spicy) Rice & noodle with diced chicken tossed in schezwan sauce. Garnished with ... read more,379.0
+Rice & Noodles - Full,Egg Hakka Noodles - Full (1000 ml),1,0,"Noodles tossed with Egg, Mixed Veggies (Cabbage, Carrot, Onion) With A Touch ... read more",319.0
+Rice & Noodles - Full,Double Egg Hakka Noodles - Full (1000 ml),1,0,"Noodles tossed with Double Egg, Mixed Veggies (Cabbage, Carrot, Onion) With A ... read more",349.0
+Rice & Noodles - Full,Chicken Hakka Noodles - Full (1000 ml),1,0,"Noodles Tossed With Mixed Veggies (Cabbage, Carrot, Onion) With A Touch Of Dark ... read more",329.0
+Rice & Noodles - Full,Chicken Burnt Garlic Noodles - Full (1000 ml),1,0,"Noodles Tossed With Carrot, Cabbage, Onion, Egg & Chicken Flavoured With Burnt Garlic ... read more",389.0
+Rice & Noodles - Full,Chicken Chilli Garlic Noodles - Full (1000 ml),1,0,"(Spicy) Noodles Tossed With Carrot, Cabbage & Onion Egg, Chicken Flavoured With Chilli ... read more",389.0
+Rice & Noodles - Full,Chicken Schezwan Noodles - Full (1000 ml),1,0,"Noodles Tossed With Egg, Diced Chicken, Mixed Veggies In Schezwan Sauce (Onions, Cabbage ... read more",399.0
+Rice & Noodles - Half,Veg Chinese Fried Rice - Half (500 ml),1,0,"Rice tossed with carrot, french beans & baby corn. Garnished with spring onion.",200.0
+Rice & Noodles - Half,Veg Burnt Garlic Fried Rice - Half (500 ml),1,0,"Rice, carrot, french beans & baby corn tossed with burnt garlic & coriander.",229.0
+Rice & Noodles - Half,Veg Chilli Garlic Fried Rice - Half (500 ml),1,0,"Rice tossed with carrot, french beans & baby corn flavored with soy, garlic ... read more",229.0
+Rice & Noodles - Half,Veg Chinese Schezwan Fried Rice - Half (500 ml),1,0,"Rice tossed with carrot, french beans & baby corn in schezwan sauce. Garnished ... read more",219.0
+Rice & Noodles - Half,Veg Chinese Hakka Noodles - Half (500 ml),1,0,"Noodles tossed with onion, cabbage & carrot with a touch of dark soya. ... read more",209.0
+Rice & Noodles - Half,Veg Burnt Garlic Noodles - Half (500 ml),1,0,"Noodles Tossed With Carrot, Cabbage, Onion, Flavoured With Burnt Garlic & Coriander.",239.0
+Rice & Noodles - Half,Veg Chilli Garlic Noodles - Half (500 ml),1,0,"Noodles tossed with carrot, capsicum & onion, flavored with chilli flakes, garlic & ... read more",239.0
+Rice & Noodles - Half,Veg Schezwan Noodles - Half (500 ml),1,0,"Noodles tossed with onion, capsicum & carrot in schezwan sauce. Garnished with spring ... read more",219.0
+Rice & Noodles - Half,Egg Fried Rice - Half (500 ml),1,0,"Rice tossed with egg & mixed veggies (carrot, french beans & baby corn) ... read more",219.0
+Rice & Noodles - Half,Double Egg Fried Rice - Half (500 ml),1,0,"Rice tossed with Double Egg & mixed veggies (Carrot, French Beans & Baby ... read more",269.0
+Rice & Noodles - Half,Chicken Fried Rice - Half (500 ml),1,0,"Rice tossed with diced chicken, egg & mixed veggies (carrot, french beans & ... read more",229.0
+Rice & Noodles - Half,Chicken Burnt Garlic Fried Rice - Half (500 ml),1,0,"Rice egg, diced chicken carrot, french beans & baby corn tossed with burnt ... read more",259.0
+Rice & Noodles - Half,Chicken Chilli Garlic Fried Rice - Half (500 ml),1,0,"Rice tossed with carrot, french beans & baby corn, egg , shredded chicken ... read more",259.0
+Rice & Noodles - Half,Chicken Schezwan Fried Rice - Half (500 ml),1,0,"Rice tossed with diced chicken, egg, carrot, french beans & baby corn in ... read more",239.0
+Rice & Noodles - Half,Egg Hakka Noodles - Half (500 ml),1,0,"Noodles tossed with Egg, Mixed Veggies (Cabbage, Carrot, Onion) With A Touch ... read more",229.0
+Rice & Noodles - Half,Double Egg Hakka Noodles - Half (500 ml),1,0,"Noodles tossed with Double Egg, Mixed Veggies (Cabbage, Carrot, Onion) With A ... read more",239.0
+Rice & Noodles - Half,Chicken Hakka Noodles - Half (500 ml),1,0,"Noodles tossed with onion, capsicum, carrot with a touch of dark soya. Garnished ... read more",239.0
+Rice & Noodles - Half,Chicken Burnt Garlic Noodles - Half (500 ml),1,0,"Noodles egg, diced chicken carrot, french beans & baby corn tossed with burnt ... read more",269.0
+Rice & Noodles - Half,Chicken Chilli Garlic Noodles - Half (500 ml),1,0,"Noodles tossed with carrot, cabbage, onion, egg and chicken flavoured with chilli fakes, ... read more",269.0
+Rice & Noodles - Half,Chicken Schezwan Noodles - Half (500 ml),1,0,"Noodles tossed with diced chicken, egg, onion, capsicum & carrot in schezwan sauce. ... read more",249.0
+Chinese Gravy - Full,Hunan Paneer Gravy - Full (Now with Extra Paneer),1,0,(Spicy) Paneer tossed in Spicy & Savory flavors of Hunan to give it ... read more,329.0
+Chinese Gravy - Full,Black Pepper Paneer Gravy - Full (Now with Extra Paneer),1,0,"(Peppery & Non Spicy) Paneer, Onion, Capsicum, Tossed In Our In-House Black Pepper ... read more",329.0
+Chinese Gravy - Full,Manchurian Veg - Full (Now With Extra Manchurian Ball),1,0,"(Peppery & Non Spicy) Mix veg fried fritters, onion and capsicum tossed in ... read more",319.0
+Chinese Gravy - Full,Kung Pao Paneer - Full (Now with Extra Paneer),1,0,(Medium Spicy) Paneer & mixed veggies tossed in kung pao sauce.,339.0
+Chinese Gravy - Full,Schezwan Paneer - Full (Now with Extra Paneer),1,0,(Spicy) Paneer & mixed veggies tossed in schezwan sauce.,339.0
+Chinese Gravy - Full,Manchurian Paneer - Full (Now with Extra Paneer),1,0,"(Peppery & Non Spicy) Paneer, onion & capsicum tossed in classic Manchurian ... read more",329.0
+Chinese Gravy - Full,Chilli Paneer - Full (Now with Extra Paneer),1,0,"(Spicy) Paneer, onion & capsicum tossed in our signature desi chilli sauce.",339.0
+Chinese Gravy - Full,Hunan Chicken Gravy - Full (Now with Extra Chicken),1,0,(Spicy) Chicken tossed in Spicy & Savory flavors of Hunan to give it ... read more,369.0
+Chinese Gravy - Full,Black Pepper Chicken Gravy - Full (Now with Extra Chicken),1,0,"(Peppery & Non Spicy) Chicken, Onion, Capsicum, Tossed In Our In-House Black Pepper ... read more",369.0
+Chinese Gravy - Full,Schezwan Chicken Gravy - Full (Now with Extra Chicken),1,0,(Spicy) Diced chicken and mixed veggies tossed in our Schezwan sauce.,369.0
+Chinese Gravy - Full,Chicken Chilli Gravy - Full (Now with Extra Chicken),1,0,"(Spicy) Diced chicken, onion & capsicum tossed in our signature desi chilli sauce.",369.0
+Chinese Gravy - Full,Chicken Manchurian Gravy - Full (Now with Extra Chicken),1,0,"(Peppery & Non Spicy) Diced chicken, onion & capsicum tossed in classic Manchurian ... read more",319.0
+Chinese Gravy - Full,Kung Pao Chicken - Full (Now with Extra Chicken),1,0,(Medium Spicy) Diced chicken & mixed veggies tossed in Kung Pao sauce.,349.0
+Chinese Gravy - Half,Hunan Paneer Gravy - Half,1,0,(Spicy) Paneer tossed in Spicy & Savory flavors of Hunan to give it ... read more,239.0
+Chinese Gravy - Half,Black Pepper Paneer Gravy - Half,1,0,"(Peppery & Non Spicy) Paneer, Onion, Capsicum, Tossed In Our In-House Black Pepper ... read more",239.0
+Chinese Gravy - Half,Veg Manchurian Gravy - Half,1,0,"(Peppery & Non Spicy) Mix veg fried fritters, onion and capsicum tossed in ... read more",229.0
+Chinese Gravy - Half,Kung Pao Paneer Gravy - Half,1,0,(Medium Spicy) Paneer & mixed veggies tossed in kung pao sauce.,239.0
+Chinese Gravy - Half,Schezwan Paneer Gravy - Half,1,0,(Spicy) Paneer & mixed veggies tossed in schezwan sauce.,239.0
+Chinese Gravy - Half,Manchurian Paneer Gravy - Half,1,0,"(Peppery & Non Spicy) Paneer, onion & capsicum tossed in classic Manchurian ... read more",249.0
+Chinese Gravy - Half,Chilli Paneer Gravy - Half,1,0,"(Spicy) Paneer, onion & capsicum tossed in our signature desi chilli sauce.",259.0
+Chinese Gravy - Half,Hunan Chicken Gravy - Half,1,0,(Spicy) Chicken tossed in Spicy & Savory flavors of Hunan to give it ... read more,279.0
+Chinese Gravy - Half,Black Pepper Chicken Gravy - Half,1,0,"(Peppery & Non Spicy) Chicken, Onion, Capsicum, Tossed In Our In-House Black Pepper ... read more",279.0
+Chinese Gravy - Half,Chicken Schezwan Gravy - Half,1,0,(Spicy) Diced chicken and mixed veggies tossed in our Schezwan sauce.,269.0
+Chinese Gravy - Half,Chilli Chicken Gravy - Half,1,0,"(Spicy) Diced chicken, onion & capsicum tossed in our signature desi chilli sauce.",289.0
+Chinese Gravy - Half,Chicken Manchurian Gravy - Half,1,0,"(Peppery & Non Spicy) Diced chicken, onion & capsicum tossed in classic Manchurian ... read more",289.0
+Chinese Gravy - Half,Kung Pao Chicken Gravy - Half,1,0,(Medium Spicy) Diced chicken & mixed veggies tossed in Kung Pao sauce.,269.0
+Make Your Own Wok,Veg Personal Wok Bowl,1,0,"Light eater - choice of any 1 rice/noodles, 1 sauce, 4 vegetables and ... read more",249.0
+Make Your Own Wok,Veg Medium Wok Bowl,1,0,"Serves 1 - choice of any 1 rice/noodles, 1 sauce, 6 vegetables and ... read more",349.0
+Make Your Own Wok,Chicken Medium Wok Bowl,1,0,"Serves 1 - choice of any 1 rice/noodles, 1 sauce, 6 vegetables and ... read more",399.0
+Make Your Own Wok,Chicken Personal Wok Bowl,1,0,"Light eater - choice of any 1 rice/noodles, 1 sauce, 4 vegetables and ... read more",299.0
+Make Your Own Wok,Egg Medium Wok Bowl,1,0,"Serves 1 - choice of any 1 rice/noodles, 1 sauce, 6 vegetables and ... read more",399.0
+Make Your Own Wok,Egg Personal Wok Bowl,1,0,"Light eater - choice of any 1 rice/noodles, 1 sauce, 4 vegetables and ... read more",299.0
+Value Wok (For Light Eaters),Veg Fried Rice - Light Eaters,1,0,Classic Veg Fried Rice. 538.79kcal,119.0
+Value Wok (For Light Eaters),Veg Hakka Noodles - Light Eaters,1,0,"Noodles tossed with onion, cabbage & carrot with a touch of dark soya. ... read more",119.0
+Value Wok (For Light Eaters),Veg Desi Chilli Value Wok,1,0,Rice/noodle tossed with onion in desi chilli sauce.,129.0
+Value Wok (For Light Eaters),Chicken Fried Rice - Light Eaters,1,0,"Rice tossed with shredded chicken, egg & mixed veggies (carrot, french beans & ... read more",139.0
+Value Wok (For Light Eaters),Chicken Hakka Noodles - Light Eaters,1,0,"Noodles tossed with egg, chicken, onion, cabbage, carrot with a touch of dark ... read more",139.0
+Value Wok (For Light Eaters),Chicken Desi Chilli Value Wok,1,0,Rice/noodle tossed with chicken & onion in desi chilli sauce.,149.0
+Dessert,Chocolate Mousse - Small,1,0,Creamy chocolate mousse layered with moist chocolate cake.,59.0
+Dessert,Black forest Mousse Cake,1,0,"Evergreen cake recipe, served in a mousse style dessert",59.0
+Dessert,Salted Caramel Choco Mousse,1,0,Layers of Salted Caramel mousse and Choco mousse served chilled,59.0
+Dessert,Choco Lava,1,0,"Rich chocolate cake with molten chocolate center, served warm.",99.0
+Drinks,Pepsi Pet Bottle,1,0,,60.0
+Drinks,7 Up,1,0,,60.0
+Drinks,Coolberg Peach,1,0,,125.0
+Drinks,Coolberg Cranberry,1,0,,125.0
+Drinks,Aam Panna,1,0,,99.0
+Drinks,Peach Ice Tea,1,0,,99.0
+Drinks,Masala Shikanji,1,0,,99.0
+Drinks,Lemon Ice Tea,1,0,,99.0
+Extras,Crispy Noodles,1,0,,20.0
+Extras,Extra Schezwan Dip,1,0,,20.0
+Extras,Extra Mayo Dip,1,0,,20.0
+Extras,Extra Sweet Chilli Dip,1,0,,20.0
+Extras,Extra Momo Chutney,1,0,,20.0

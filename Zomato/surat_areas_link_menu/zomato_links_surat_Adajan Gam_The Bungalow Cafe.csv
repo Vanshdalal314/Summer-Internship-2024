@@ -1,0 +1,144 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup & Salad,Lemon Coriander Soup 400Ml,1,0,Zesty and aromatic lemon coriander is a refreshing burst of flavors in every ... read more,269.0
+Soup & Salad,Manchow Soup 400Ml,1,0,A rich and flavorful blend of spices and vagetables in a comforting bowl,249.0
+Soup & Salad,Tomato Basil Soup 400Ml,1,0,Savoring the perfect harmony and basil in every bite,249.0
+Soup & Salad,Coleslaw Salad,1,0,Creamy mayonnatse &mustrad tossed with exotic veggies served with crispy baked nachos and ... read more,369.0
+Soup & Salad,Extra Vegetable,1,0,,50.0
+Soup & Salad,Pesto Sauteed Paneer,1,0,Sauteed paneer with herbs and spices in seasoned pan with pesto sauce,459.0
+Soup & Salad,Sauteed Paneer,1,0,Exotic sauteed veggies with garlic and cottage cheese in olive oil,429.0
+Soup & Salad,Vegetable Salad,1,0,Crisp colourful vegetables tossed toghter with hearbs and spices,359.0
+Chinese & Rice,Chinese Bhel,1,0,Crispy nodles steamed rice vegetables and sauce with a unique indo chinese twis,389.0
+Chinese & Rice,Dragon Potato,1,0,Crispy and spicy chinese snack made form fried potato coated with a tangy ... read more,390.0
+Chinese & Rice,Hakka Noodles,1,0,"Soft steamed noodles, sauteed vegetables, premium soy sauce tossed in aromatic chinese spice ... read more",239.0
+Chinese & Rice,Paneer Chilli,1,0,"Chilly herb dressing with paneer, onion, capsicum & tossed in a aromatic chinese ... read more",399.0
+Chinese & Rice,Veg Manchurian,1,0,Vegetable balls fried and tossed in a flavourful sauce,319.0
+Chinese & Rice,Chilly Coriander Rice,1,0,"Aromatic rice filled with chillies, topped with fresh coriander & fried galic, creating ... read more",399.0
+Chinese & Rice,Baked Beans Rice,1,0,"Harmonious Fusion: A Medley of Rice, Beans, Sweet Corn, and Spring Onion, Sprinkled ... read more",499.0
+Chinese & Rice,Spinach Burnt Garlic Rice,1,0,Rice stir-fried with sauteed spainach and rich smoky brunt garlic and served with ... read more,459.0
+Chinese & Rice,Triple Fried Rice,1,0,Combination of rice and noodles served with chinese gravy,489.0
+Pasta & Sandwich,Cheese Burst,1,0,(9 Inch),149.0
+Pasta & Sandwich,Cheesy Margherita Pizza [10 Inches],1,0,Margherita with deliciously tangy tomatoes and single cheese topping with fresh basil.,449.0
+Pasta & Sandwich,Exotic Veggie Pizza [10 Inches],1,0,"Delicious combination of onion three type bell pepper, black olives, red paprika and ... read more",569.0
+Pasta & Sandwich,Farm Fresh Pizza [10 Inches],1,0,"Freshly topped with capsicum, fresh tomatoes, sweet corn, onion and red paprika.",519.0
+Pasta & Sandwich,Moroccan Paneer Pizza [10 Inches],1,0,"Delectable combination of onion, yellow capsicum, red paprika and paneer.",569.0
+Pasta & Sandwich,Paneer Paprika Pizza [9 Inches],1,0,"Zesty toppings of tandoori paneer with onion, jalapenos and red paprika.",519.0
+Pasta & Sandwich,Paneer Makhani Pizza [10 Inches],1,0,A burst of Indian flavour with spicy tangy layer of makhani sauce topped ... read more,549.0
+Pasta & Sandwich,Prsto Pizza 10 INCH,1,0,Fresh basil based sauce with marinated paneer and exotic veggies,589.0
+Pasta & Sandwich,Sriracha Pizza [10 Inches],1,0,"This is secret, try it and you will love it.",569.0
+Pasta & Sandwich,Tandoori Paneer Pizza [10 Inches],1,0,"Tandoori sauce with Mozzarella cheese topped with capsicum, onion and paneer.",579.0
+Pasta & Sandwich,Tbc Special Pizza 12 INCH,1,0,Enjoy four flavour in one pizza,629.0
+Pasta & Sandwich,Bombay Special Sandwich,1,0,"Mix of spicy chutneys, smashed potatoes, vegetables and process cheese served in toasted ... read more",330.0
+Pasta & Sandwich,Club Sandwich,1,0,A triple-layer of toasted bread filled with crispy/juicy veggies layers of cheese flavourful ... read more,310.0
+Pasta & Sandwich,Green Hummus Wrap,1,0,"Hummus, carrot, cucumber, bell pappers, parmesan cheese, garlic and olive oil",319.0
+Pasta & Sandwich,Melting Sandwich,1,0,Gooey melted cheese combined with savory fillings and sauce stuffed within toasted bread,359.0
+Pasta & Sandwich,Tandoori Paneer WRAP,1,0,Paneer enclosed in tortila wrap along with sauteed veggies with our singnature sauce,309.0
+Pasta & Sandwich,Tbc Special Pizza 12'',1,0,,629.0
+Pasta,Aglio-e-olio,1,0,"Pasta tossed in olive oil, hot chilli flakes, garlic with olives & fresh ... read more",499.0
+Pasta,White Sauce Pasta,1,0,A divine combination of the classic creamy and cheesy white sauce with different ... read more,479.0
+Pasta,Pink Sauce Pasta,1,0,A perfect combination of red and white sauce& served with toasted bread with ... read more,519.0
+Pasta,Arrabiata Red Sauce Pasta,1,0,Pasta tossed in a italian tomato sauce along with exotic veggies& served with ... read more,479.0
+Pasta,Pesto Pasta,1,0,"Vibrant pasta made with fresh basil leaves, pine nuts, garlic, parmesan cheese and ... read more",529.0
+Coffee & Tea,Kullad Chai,1,0,200 Ml.,89.0
+Coffee & Tea,Kullad Chai With Cookies,1,0,200 Ml.,119.0
+Coffee & Tea,Americano,1,0,,179.0
+Coffee & Tea,Cafe Latte,1,0,,199.0
+Coffee & Tea,Cafe Mocha,1,0,,229.0
+Coffee & Tea,Cappuccino,1,0,,199.0
+Coffee & Tea,Espresso,1,0,,159.0
+Coffee & Tea,Flate White,1,0,,189.0
+Coffee & Tea,Honey Spiced Latte,1,0,,259.0
+Coffee & Tea,Spanish Latte,1,0,,229.0
+Coffee & Tea,Spearmint Cafe Mocha,1,0,,239.0
+Coffee & Tea,Biscoff Hot Chocolate,1,0,,239.0
+Coffee & Tea,Brownie Hot Chocolate,1,0,,279.0
+Coffee & Tea,Cinnamon Hot Chocolate,1,0,,259.0
+Coffee & Tea,Classic Hot Chocolate,1,0,,209.0
+Coffee & Tea,Espresso Hot Chocolate With Marshmallow,1,0,,269.0
+Coffee & Tea,Chocolate Vietnamese,1,0,,339.0
+Coffee & Tea,Malte Breeze,1,0,Cold brew with surprise sweet drink (A TASTE LIKE A BEER),289.0
+Coffee & Tea,Tropical Cold Brew Shakerato,1,0,,289.0
+Dessert,Biscoff Cheesecake,1,0,,349.0
+Dessert,Blueberry Cheesecake,1,0,,329.0
+Dessert,Chocolate Fudge Brownie,1,0,,219.0
+Dessert,Ferror Fusion Nutella Cheesecake,1,0,,349.0
+Dessert,New York Cheesecake,1,0,,269.0
+Dessert,Nutella Cheesecake,1,0,,329.0
+Dessert,Red Velvet Brownie,1,0,,219.0
+Drinks (Beverages),Cold Brew,1,0,,239.0
+Drinks (Beverages),Cold Brew Shakerato,1,0,,259.0
+Drinks (Beverages),Aeropress Tonic,1,0,,279.0
+Drinks (Beverages),Blueberry Tonic,1,0,,289.0
+Drinks (Beverages),Cold Brew Ginger Pop,1,0,,279.0
+Drinks (Beverages),Cold Brew Tonic,1,0,,269.0
+Drinks (Beverages),Cranberry Tonic,1,0,,289.0
+Drinks (Beverages),Espresso Berry Po,1,0,,289.0
+Drinks (Beverages),Espresso Ginger Pop,1,0,,289.0
+Drinks (Beverages),Expresso Tonic,1,0,,269.0
+Drinks (Beverages),Ginger Ale Espresso,1,0,,269.0
+Drinks (Beverages),Grenadine Tonic,1,0,,289.0
+Drinks (Beverages),Orange Twist,1,0,,289.0
+Drinks (Beverages),Peach Tonic,1,0,,289.0
+Drinks (Beverages),Aeropress,1,0,,239.0
+Drinks (Beverages),V 60,1,0,,239.0
+Drinks (Beverages),Red Orange Mocktail,1,0,(Bloody Orange)tangy citrus fusion with a pinch of salt topped off with bubbly ... read more,239.0
+Drinks (Beverages),Red Mocktail,1,0,"Zesty blend of fresh pomegranate, lime, mint and sprite",249.0
+Drinks (Beverages),Blue Colada,1,0,"Tropical blend of pineapple, coconu,t blue curacao and lime topped with sparking sprite",329.0
+Drinks (Beverages),Blue Lagoon Mocktail 300 Ml.,1,0,"[Non Alcoholic] Lime juice, blue ocean with sprite.",239.0
+Drinks (Beverages),Blueberry Mojito,1,0,,219.0
+Drinks (Beverages),Chatpata Peru Mocktail 300 Ml.,1,0,"[Non Alcoholic] Guava juice, black salt, blend with tabasco.",249.0
+Drinks (Beverages),Cranberry Ice Tea,1,0,,239.0
+Drinks (Beverages),Cranberry Mojito 300 Ml.,1,0,[Non Alcoholic],219.0
+Drinks (Beverages),Cucumber Cooler,1,0,,249.0
+Drinks (Beverages),Dark Knight Rises Mocktail 300 Ml.,1,0,[Non Alcoholic] Combination of blue ocean and cranberry juice with peach syrup.,269.0
+Drinks (Beverages),Fly High Mocktail 300 Ml.,1,0,"[Non Alcoholic] Soar to new heights with a thrilling medley of cranberry, peach ... read more",339.0
+Drinks (Beverages),Gateway Sunrise,1,0,,249.0
+Drinks (Beverages),Green Apple Ice Tea,1,0,,239.0
+Drinks (Beverages),Green Apple Mojito 300 Ml.,1,0,[Non Alcoholic],219.0
+Drinks (Beverages),Kiwi Lemonade Mocktail 300 Ml.,1,0,[Non Alcoholic] Kiwi with spunch of balanced lime.,239.0
+Drinks (Beverages),Lemon Iced Tea Mocktail 300 Ml.,1,0,[Non Alcoholic],239.0
+Drinks (Beverages),Mint Mojito 300 Ml.,1,0,[Non Alcoholic],219.0
+Drinks (Beverages),Orange Fantasy Mocktail 300 Ml.,1,0,[Non Alcoholic] Combination of orange and cranberry juice with peach syrup.,269.0
+Drinks (Beverages),Peach Iced Tea Mocktail 300 Ml.,1,0,[Non Alcoholic],239.0
+Drinks (Beverages),Pink Lady,1,0,"Dazzling fusion of pink grapes, ginger zest, lime and sprite's fizz fun",269.0
+Drinks (Beverages),Red Bul Ice Tea,1,0,,299.0
+Drinks (Beverages),Yuzu Blossom,1,0,"Sparking fusion of lemongrass, yuzu lime and lemon citros syrup with sprite",329.0
+Shake,Biscoff Shake,1,0,,369.0
+Shake,Blueberry Shake 300 Ml.,1,0,,319.0
+Shake,Caramelised Popcorn Shake,1,0,,349.0
+Shake,Ferrero Rocher Shake 300 ML,1,0,,359.0
+Shake,KitKat Moment Shake 300 Ml.,1,0,,319.0
+Shake,Nuttella Brownie Shake,1,0,,369.0
+Shake,Nutella Shake,1,0,,349.0
+Shake,Oreo Blast Shake 300 Ml.,1,0,,329.0
+Shake,Red Velvet Brownie Shake,1,0,,379.0
+Shake,Swiss Strawberry Shake 300 Ml.,1,0,,329.0
+Snacks And Chaat,Basil Chilli Crack Bread,1,0,French loaf stuffed with cheesy pullouts coated with garlic butter and basil accompanied ... read more,399.0
+Snacks And Chaat,Bruschetta,1,0,"Sliced loaf topped with cherry tomatoes, basil, sweet corn, olives & parmesan cheese",389.0
+Snacks And Chaat,Cheesy Garlic Bread,1,0,Garlic bread baked to perfection seasoned with cheese,299.0
+Snacks And Chaat,In-n-out Fries,1,0,"Fries loaded with lettuce, bell peppers and jalapenos with in house sauces",359.0
+Snacks And Chaat,Onion Rings,1,0,Slice of onions coated with batter and breadcrumbs,289.0
+Snacks And Chaat,Peri Peri French Fries,1,0,Crispy fries seasoned with peri peri spice served with cheese spread &peri peri ... read more,299.0
+Snacks And Chaat,Salted French Fries,1,0,Crispy salted fries served with salsa and cheese dip,279.0
+Snacks And Chaat,Spinach Corn Cheese Balls,1,0,Cheese balls stuffed with seasoned spinach corn and cheese mix served with spicy ... read more,339.0
+Snacks And Chaat,Stuffed Pav Bhaji,1,0,Fusion of desi pav bhaji with Mozzarella cheese.,449.0
+Snacks And Chaat,Welsh Rarebit With Chilli Jam,1,0,Chilli jam served whith cheesy drip of mornay sauce on a deliclous seasoned ... read more,389.0
+Nachos,Easy Cheesy Nachos,1,0,"Delicious nachos topped with melted cheese & salsa sauce, perfect for snacking or ... read more",299.0
+Nachos,Super Loaded Nachos,1,0,Crispy nachos served with salsa loaded with melting cheese and mexican vegies,359.0
+Nachos,Supreme Nachos,1,0,"Loaded with layers of cheese, seasoned veggies and tangy sauce, a flavor packed ... read more",410.0
+Combo,Mexican Rice,1,0,,499.0
+Noodles,Veg Hakka Noodles,1,0,"Soft and fine Steamed Noodles, sauteed vegetables, Premium Soy sauce, tossed in aromatic ... read more",349.0
+Iced Coffee,Affogato,1,0,,249.0
+Iced Coffee,Bon Bon,1,0,,199.0
+Iced Coffee,Classic Iced Latte,1,0,,229.0
+Iced Coffee,Eiskaffee,1,0,,249.0
+Iced Coffee,Iced Americano,1,0,,179.0
+Iced Coffee,Vietnamese,1,0,,289.0
+Lebanese,Falafel With Humus,1,0,,230.0
+Lebanese,House Special Lebanese Platter,1,0,Falafel lavash stick and pita bread served with dipping of tahini humus and ... read more,499.0
+Lebanese,Stuffed Pita,1,0,"Pita bread, lettuce, red cabbage, hummus, bell peppers, falafel",329.0
+Frappe,Caramel Frappe,1,0,,239.0
+Frappe,Caramelised Pop Con FRAPPE,1,0,,239.0
+Frappe,Cheesecake FRAPPE,1,0,,239.0
+Frappe,Hazelnut Frappy,1,0,,239.0
+Frappe,Mocha Frappe,1,0,,239.0
+Frappe,Vanilla Frappe,1,0,,239.0

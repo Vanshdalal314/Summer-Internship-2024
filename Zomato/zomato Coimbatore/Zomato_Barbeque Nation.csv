@@ -1,0 +1,80 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Lunch Meals - Starting @ 179,Dal Makhani-Mini Meal,1,0,A flavorful Dal Makani. Served with your choice of Steamed Basmati Rice OR ... read more,179.0
+Lunch Meals - Starting @ 179,Egg Curry-Mini Meal,1,0,A flavorful Egg Curry. Served with your choice of Steamed Basmati Rice OR ... read more,199.0
+Lunch Meals - Starting @ 179,Paneer Butter Masala-Mini Meal,1,0,Soft cubes of paneer cooked in a flavourful gravy. Served with your choice ... read more,229.0
+Lunch Meals - Starting @ 179,Butter Chicken-Mini Meal,1,0,Succulent boneless Chicken cooked in an irresistibly rich and flavourful gravy. Served with ... read more,249.0
+Lunch Meals - Starting @ 179,Veg Mix-Meal,1,0,Wholesome meal of Mix Veg Curry and Dal Makhani. Served with Steamed ... read more,209.0
+Lunch Meals - Starting @ 179,Paneer Butter Masala-Meal,1,0,Wholesome meal of Paneer Butter Masala and Dal Makhani - Served with ... read more,259.0
+Lunch Meals - Starting @ 179,Egg Masala-Meal,1,0,Wholesome meal of Egg Curry and Dal Makhani. Served with Steamed Basmati ... read more,229.0
+Lunch Meals - Starting @ 179,Butter Chicken-Meal,1,0,Wholesome meal of Butter Chicken Masala and Dal Makhani. Served with Steamed Basmati ... read more,279.0
+Lunch Meals - Starting @ 179,Chicken Biryani and Butter Chicken-Meal,1,0,Chicken Dum Biryani (2-3Pcs) + Butter Chicken Masala + Paratha (1 No) + ... read more,399.0
+Match Day Combo,Premium Non-Veg Chicken-Thali,1,0,Chicken Dum Biryani + Chicken Tikka Boneless (6 Pcs) + Butter Chicken ... read more,499.0
+Match Day Combo,Premium Non-Veg Mutton-Thali,1,0,Mutton Dum Biryani + Chicken Tikka Boneless (6 Pcs) + Mutton Rogan Josh ... read more,549.0
+Match Day Combo,Premium Veg-Thali,1,0,Veg Dum Biryani + Tandoori Paneer Tikka (6 Pcs) + Butter Paneer Masala ... read more,429.0
+Bucket Biryani- Big Saver,Family Bucket - Chicken Biryani (Serves 7-8),1,0,"Super Saver Family Combo-2 Buckets of Chicken Biryani Served with Chicken Kebabs (24Pcs), ... read more",2199.0
+Bucket Biryani- Big Saver,Jumbo Bucket - Veg Biryani (Serves 3-4),1,0,"Veg Biryani is an elegant combination of spices & seasonal vegetables, layered with ... read more",859.0
+Bucket Biryani- Big Saver,Jumbo Bucket - Chicken Biryani (Serves 3-4),1,0,"Scrumptious combo of Chicken Biryani, Served with 4 boiled Eggs, Juicy & flavorful ... read more",1199.0
+Bucket Biryani- Big Saver,Jumbo Bucket - Mutton Biryani (Serves 3-4),1,0,Succulent pieces of mutton (Bone-In) slow cooked on bed of aromatic rice with ... read more,1459.0
+Bucket Biryani- Big Saver,Family Bucket - Veg Biryani (Serves 7-8),1,0,Relish this Biryani combo with familly and friends . 2 Buckets of Veg ... read more,1599.0
+Bucket Biryani- Big Saver,Family Bucket - Mutton Biryani (Serves 7-8),1,0,Delectable combo for mutton lovers - 2 Buckets of Mutton Biryani (Bone In) ... read more,2809.0
+Barbeque in a Box (Serves 2-3),Barbeque in a Box (Non Veg) Premium,1,0,[Six Starters] Chicken Tikka (6 Pcs) + Reshmi Chicken Wings (6 Pcs) + ... read more,1049.0
+Barbeque in a Box (Serves 2-3),Barbeque in a Box (Non Veg) Premium (With Prawns and Mutton),1,0,[Six Starters] - Chilly Garlic Prawns (6 Pcs) + Chicken Tikka (6 Pcs) ... read more,1249.0
+Barbeque in a Box (Serves 2-3),Barbeque In A Box (Veg) Premium,1,0,[Six Starters] - Tandoori Paneer Tikka (6 Pcs) + Churrasco Pineapple (6 Pcs) ... read more,999.0
+Barbeque in a Box (Serves 2-3),Barbeque in a Box (Non Veg Overload),1,0,[Five Starters] Chilly Garlic Prawns (6 Pcs) + Chicken Tikka (6 Pcs) + ... read more,1299.0
+Barbeque in a Box (Serves 2-3),Barbeque in a Box - Chicken Overload,1,0,[Four Starters] - Chicken Wings (12 Pcs) + Chicken Tikka (6 Pcs) + ... read more,1299.0
+Barbeque in a Box (Serves 2-3),Barbeque in a Box (Chicken Biryani Overload),1,0,Chicken Dum Biryanis (3 Portions) + Tandoori Tangdi (2 Pcs) + Chicken Tikka ... read more,1129.0
+Barbeque in a Box (Serves 2-3),Barbeque in a Box (Mutton Biryani Overload),1,0,Mutton Dum Biryani (3 Portions) + Tandoori Tangdi (2 Pcs) + Chicken Tikka ... read more,1279.0
+Barbeque in a Box (Serves 2-3),Classic Meal Box (Non Veg) Premium,1,0,Wholesome box of Curries & Biryani from the house of Barbeque Nation contains ... read more,929.0
+Barbeque in a Box (Serves 2-3),Classic Meal Box (Veg) Premium,1,0,"Scrumptious Box of India’s Favourites - Paneer Butter Masala (2 Portions), Dal Makhani, ... read more",829.0
+Barbeque in a Box (Serves 1-2),Barbeque in a Box (Chicken Biryani) Regular,1,0,Kebabs & Biryani Feast: [Two Starters] - Chicken Tikka (6Pcs) - Kalmi Fish ... read more,849.0
+Barbeque in a Box (Serves 1-2),Barbeque in a Box (Veg Biryani) Regular,1,0,Kebabs & Biryani feast: [Two Starters] - Veg Rolls (6 Pcs) + Tandoori ... read more,749.0
+Barbeque in a Box (Serves 1-2),Classic Meal Box (Non-Veg) Regular,1,0,"King Size Meal - Chicken Butter Masala, Dal Makhani, Chicken Dum Biryani, ... read more",729.0
+Barbeque in a Box (Serves 1-2),Classic Meal Box (Veg) Regular,1,0,"King Size Meal – Paneer Butter Masala, Dal Makhani, Barbecue Veg Dum Biryani, ... read more",629.0
+Premium Thalis,Premium Non-Veg Chicken Thali,1,0,Chicken Dum Biryani + Chicken Tikka Boneless (6 Pcs) + Butter Chicken ... read more,499.0
+Premium Thalis,Premium Non-Veg Mutton Thali,1,0,Mutton Dum Biryani + Chicken Tikka Boneless (6 Pcs) + Mutton Rogan Josh ... read more,549.0
+Premium Thalis,Premium Veg Thali,1,0,Veg Dum Biryani + Tandoori Paneer Tikka (6 Pcs) + Butter Paneer Masala ... read more,429.0
+Kebabs Platter and Starters,Kebabs in a Box (Non Veg Overload),1,0,Chilly Garlic Prawns (6 Pcs) + Chicken Tikka (6 Pcs) + Chicken Wings ... read more,929.0
+Kebabs Platter and Starters,Build your Own Kebab Platter (Non Veg),1,0,Make you own shareable Kebab Combo. Served with Dips.,466.0
+Kebabs Platter and Starters,Build your Own Kebab Platter (Veg),1,0,"A mighty shareable starter platter served with Cajun Sauce, Salad & Mint ... read more",436.0
+Kebabs Platter and Starters,Chicken Kebabs Platter- (Serves 2),1,0,Chicken Tikka Boneless (6 Pcs) + Chicken Seekh Kebab (6 Pcs)+ Chicken Tangadi ... read more,499.0
+Kebabs Platter and Starters,Tandoori Tangdi (3Pcs),1,0,Chicken Drumstick marinated in Indian spices and hung curd cooked in clay oven ... read more,349.0
+Kebabs Platter and Starters,Tandoori Chicken Wings (6Pcs),1,0,"Nothing better than a crispy yet juicy hot chicken wings, tossed in BBQ ... read more",319.0
+Kebabs Platter and Starters,Chicken Tikka (Boneless),1,0,"Boneless Chicken chunks marinated in authentic tikka masala and grilled on skewers, one ... read more",359.0
+Kebabs Platter and Starters,Grilled Chilli Garlic Prawns (9Pcs),1,0,Prawns marinated in Indian spices and hung curd cooked in clay oven -Tandoor ... read more,389.0
+Kebabs Platter and Starters,Tandoori Fish Tikka,1,0,Fish chunks (9Nos) marinated in Indian spices and hung curd cooked in ... read more,379.0
+Kebabs Platter and Starters,Chicken Seekh Kebab,1,0,"Succulent kebabs (6Nos) made from tender meat, masalas and seasoning,grilled on skewers till ... read more",249.0
+Kebabs Platter and Starters,Mutton Seekh Kebab,1,0,"Scrumptious, full of juices & flavors- These mutton mince kebabs (6Nos) cooked with ... read more",319.0
+Kebabs Platter and Starters,Tandoori Paneer Tikka,1,0,Cottage Cheese marinated in Indian spices and hung curd cooked in clay oven ... read more,329.0
+Kebabs Platter and Starters,Tandoori Mushroom,1,0,"Button Mushrooms marinated with tandoori spice , grilled to golden brown perfection and ... read more",289.0
+"Biryanis, Curries and Roti",Boneless Chicken Biryani,1,0,"Boneless, succulent chicken chunks (7-8 Pcs) marinated in exquisite in-house spices and layered ... read more",389.0
+"Biryanis, Curries and Roti",Chicken Biryani,1,0,Chicken marinated in in house blend of Indian spices and layered between aromatic ... read more,339.0
+"Biryanis, Curries and Roti",Chicken Tikka Biryani,1,0,Boneless Chicken chunks marinated in authentic tikka masala and grilled on skewers ... read more,399.0
+"Biryanis, Curries and Roti",Paneer Tikka Biryani,1,0,Cottage Cheese marinated in Indian spices and hung curd cooked in clay oven ... read more,329.0
+"Biryanis, Curries and Roti",Mutton Biryani,1,0,Succulent pieces of mutton slow cooked on bed of aromatic rice with in-house ... read more,429.0
+"Biryanis, Curries and Roti",Prawns Biryani,1,0,"For all the Prawns lovers, freshly spiced prawns (11-12Pcs)cooked with aromatic Basmati rice ... read more",459.0
+"Biryanis, Curries and Roti",Veg Biryani,1,0,"For all the Barbeque lovers, an assortment of fresh vegetables barbecued with a ... read more",289.0
+"Biryanis, Curries and Roti",Butter Chicken,1,0,"One of the most popular Punjabi style chicken dishes in the world , ... read more",299.0
+"Biryanis, Curries and Roti",Paneer Butter Masala,1,0,Rich creamy dish of cottage cheese chunks cooked in a tomato ... read more,299.0
+"Biryanis, Curries and Roti",Dal Makhani,1,0,India's most loved and sought after Dal. lentils slowly simmered in a very ... read more,249.0
+"Biryanis, Curries and Roti",Egg Masala,1,0,"Flavorful, delicious dish made with boiled eggs cooked in onion tomato gravy ... read more",269.0
+"Biryanis, Curries and Roti",Mutton Rogan Josh,1,0,A mutton delight slow cooked with a blend of Indian spices. Kcal ... read more,399.0
+"Biryanis, Curries and Roti",Dry Vegetable Mix,1,0,A mélange of garden vegetables cooked in rich tomato & onion gravy ... read more,229.0
+"Biryanis, Curries and Roti",Butter Naan (1No),1,0,"Indian leavened, oven-baked flatbread topped with butter. Kcal - 445",45.0
+"Biryanis, Curries and Roti",Paratha (1No),1,0,"Enjoy this warm, crispy layered flatbread delight with any of curries or Kebabs. ... read more",45.0
+"Biryanis, Curries and Roti",Flavoured Rice,1,0,Basmati Rice Flavoured with aromats . A perfect accompaniment with Masala Gravies. Kcal ... read more,149.0
+"Biryanis, Curries and Roti",Steamed Basmati Rice,1,0,"Steamed Basmati rice, perfect & fluffy. A must try with our mains.",139.0
+Desserts & Beverages,Angoori Jamun (12 Nos),1,0,A bliss to gobble up these small spongy pearl shaped slightly warm gulab ... read more,159.0
+Desserts & Beverages,Strawberry Milkshake,1,0,This Gem among milkshakes is perfect for any occasion-A smooth blend of Strawberry ... read more,149.0
+Desserts & Beverages,Chocolate Milkshake,1,0,This shake is fantabulous! Chocolate Kulfi & chocolate syrup whirled together with Rabri. ... read more,149.0
+Desserts & Beverages,Chocolate Brownie,1,0,Perfect fudge square of chocolate topped with hot chocolate sauce. Kcal - 674,149.0
+Desserts & Beverages,Kesar Pista Milkshake,1,0,Saffron Pista kulfi blened & thickened with Rabri-a shake that can be had ... read more,149.0
+Desserts & Beverages,Moong Dal Halwa,1,0,Delicious golden brown Halwa made from Moong lentils and clarified butter and ... read more,169.0
+Desserts & Beverages,Mango Milkshake,1,0,"A delicious blend of Mango Kulfi and fresh mangoes, this shake is perfect ... read more",149.0
+Desserts & Beverages,Coke Can,1,0,A deliciously fizzy go to companion. Kcal - 44,67.0
+Desserts & Beverages,Coke Can (6 Nos),1,0,Pack of 6 coke cans. Kcal - 44,379.0
+Desserts & Beverages,Coolberg Non Alcoholic Beer -Malt (330 Ml),1,0,Coolberg Non-Alcoholic Beer-Malt (330 Ml),94.28
+Desserts & Beverages,Coolberg Non Alcoholic Beer -Cranberry (330 Ml),1,0,Coolberg Non-Alcoholic Beer-Cranberry (330 Ml),94.28
+Desserts & Beverages,Coolberg Non Alcoholic Beer -Ginger (330 Ml),1,0,Coolberg Non-Alcoholic Beer-Ginger (330 Ml),94.28
+Desserts & Beverages,Coolberg Non Alcoholic Beer -Mint (330 Ml),1,0,Coolberg Non-Alcoholic Beer-Mint (330 Ml),94.28
+Desserts & Beverages,Coolberg Non Alcoholic Beer -Peach (330 Ml),1,0,Coolberg Non-Alcoholic Beer-Peach (330 Ml),94.28
+Desserts & Beverages,Coolberg Non Alcoholic Beer -Strawberry (330 Ml),1,0,Coolberg Non-Alcoholic Beer-Strawberry (330 Ml),94.28

@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Steamed Idli,Steamed Idli,1,0,,65.0
+Steamed Idli,Masala Idli,1,0,,90.0
+Steamed Idli,Butter Idli,1,0,,85.0
+Steamed Idli,Cheese Butter Idli,1,0,,110.0
+Steamed Idli,Cheese Masala Idli,1,0,,120.0
+Steamed Idli,Schezwan Steamed Idli,1,0,,90.0
+Steamed Idli,Peri Peri Idli,1,0,,90.0
+Steamed Idli,Peri Peri Cheese Idli,1,0,,120.0
+Steamed Idli,Schezwan Cheese Idli,1,0,,120.0
+Steamed Idli,Chocolate Idli,1,0,,90.0
+Steamed Idli,Cheese Chocolate Idli,1,0,,120.0
+Frankies,Veg Frankie,1,0,,70.0
+Frankies,Veg Cheese Frankie,1,0,,80.0
+Frankies,Schezwan Frankie,1,0,,90.0
+Frankies,Mayonnaise Frankie,1,0,,90.0
+Frankies,Tandoori Cheese Frankie,1,0,,90.0
+Frankies,Peri Peri Cheese Frankie,1,0,,90.0
+Frankies,Mayo Schezwan Cheese Frankie,1,0,,100.0
+Frankies,Cocktail Cheese Crispy Frankie,1,0,,110.0
+Cheese Garlic Breads,Cheese Chilli Garlic Bread,1,0,,200.0
+Cheese Garlic Breads,Supreme Garlic Bread,1,0,,220.0
+Cheese Garlic Breads,Cheese Schezwan Garlic Bread,1,0,,225.0
+Cheese Garlic Breads,Cheese Garlic Bread,1,0,,180.0
+Sandwiches,Veg Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",65.0
+Sandwiches,Veg Cheese Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",90.0
+Sandwiches,Bread Butter Sandwich,1,0,,40.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,50.0
+Sandwiches,Bread Butter Aloo Sandwich,1,0,,50.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,70.0
+Sandwiches,Mayonnaise Veg Sandwich,1,0,,80.0
+Sandwiches,Cheese Chocolate Sandwich,1,0,,90.0
+Sandwiches,Mayonnaise Veg Cheese Sandwich,1,0,,100.0
+Grilled Sandwiches,Veg Cheese Grilled Sandwich,1,0,,210.0
+Grilled Sandwiches,Tandoori Paneer Veg Cheese Grilled Sandwich,1,0,,225.0
+Grilled Sandwiches,Greenees Special Grilled Sandwich,1,0,,225.0
+Grilled Sandwiches,Peri Peri Mayonnaise Grilled Sandwich,1,0,,225.0
+Grilled Sandwiches,Mayonnaise Veg Cheese Grilled Sandwich,1,0,,225.0
+Toast Sandwiches,Veg Toast Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",80.0
+Toast Sandwiches,Veg Cheese Toast Sandwich,1,0,,90.0
+Toast Sandwiches,Cheese Chilli Toast Sandwich,1,0,"Bread stuffed with a delectable and select chillies, cheese, and grilled to perfection. ... read more",100.0
+Toast Sandwiches,Mixed Veg Pizza Toast Sandwich,1,0,,100.0
+Toast Sandwiches,Veg Cheese Tandoori Paneer Toast Sandwich,1,0,,110.0
+Toast Sandwiches,Cheese Chocolate Toast Sandwich,1,0,,100.0
+Toast Sandwiches,Maggi Cheese Toast Sandwich,1,0,,110.0
+Toast Sandwiches,Bread Butter Toast Sandwich,1,0,,50.0
+Toast Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,80.0
+Open Toast,Tandoori Paneer Open Toast,1,0,,145.0
+Open Toast,Cheese Chilli Open Toast,1,0,,130.0
+Open Toast,Schezwan Open Toast,1,0,,130.0
+Open Toast,Greenees Special Toast,1,0,,135.0
+Open Toast,Open Toast,1,0,,115.0
+Stuffed Kulcha,Stuffed Kulcha,1,0,Vegetables paneer cheese mix vegetables stuff.,140.0
+Maska Bun,Muska Bun,1,0,,50.0
+Maska Bun,Muska Bun Jam,1,0,,60.0
+Burgers,Veg Burger,1,0,,70.0
+Burgers,Veg. Cheese Burger,1,0,,80.0
+Burgers,Tandoori Cheese Burger,1,0,,80.0
+French Fries,Salted French Fries,1,0,,110.0
+French Fries,Peri Peri French Fries,1,0,,120.0
+French Fries,Masala French Fries,1,0,,120.0
+Maggi,Masala Maggi,1,0,,85.0
+Maggi,Double Masala Maggi,1,0,,95.0
+Maggi,Schezwan Maggi,1,0,,95.0
+Maggi,Peri Peri Maggi,1,0,,80.0
+Maggi,Tandoori Maggi,1,0,,95.0
+Tea and Coffee,Tulsi Pudina Green leaf Tea [100 ml],1,0,,30.0
+Tea and Coffee,Tulsi Adarak Masala Tea [100 ml],1,0,,30.0
+Tea and Coffee,Tulsi Pudina Green Leaf Tea [150 ml],1,0,,40.0
+Tea and Coffee,Tulsi Adarak Masala Tea [150 ml],1,0,,50.0
+Tea and Coffee,Hot Espresso Coffee [100 ml],1,0,,30.0
+Tea and Coffee,Hot Espresso Coffee [150 ml],1,0,,50.0
+Tea and Coffee,Hot Lemon Tea [150 ml],1,0,,50.0
+Greenees Special Hot Chocolate,"Hot Chocolate [Small, 100 ml]",1,0,,50.0
+Greenees Special Hot Chocolate,"Hot Chocolate [Large, 150 ml]",1,0,,70.0
+Cold Speciality,Cold Coffee,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",100.0
+Cold Speciality,Lemon Iced Tea,1,0,,70.0
+Crunchy Bite,Biscuit Pie,1,0,,145.0
+Pizza,Veg Cheese Pizza [6 Inches],1,0,Veg cheese pizza.,180.0
+Pizza,Veg Cheese Paneer Pizza [6 inches],1,0,,200.0
+Pizza,Only Cheese Pizza [6 inches],1,0,,180.0
+Pizza,Tandoori Paneer Cheese Pizza [6 inches],1,0,,210.0
+Pizza,Italian Cheese Pizza [6 inches],1,0,,210.0

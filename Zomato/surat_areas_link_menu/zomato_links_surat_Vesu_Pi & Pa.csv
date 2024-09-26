@@ -1,0 +1,57 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Combo Offer,Garden Veggies + Garlic Cheese Bread+ Thums up,1,0,Two Pieces only in Garlic bread,228.0
+Special Combo Offer,Italian Season Slice + Garlic Cheese Bread + Thums up,1,0,Two Pieces only in Garlic bread,228.0
+Special Combo Offer,Peri Peri Paneer Slice + Garlic Cheese Bread + Thums up,1,0,Two Pieces only in Garlic bread,228.0
+Special Combo Offer,Paneer Makhani Slice + Garlic Cheese Bread + Thums up,1,0,Two Pieces only in Garlic bread,228.0
+Special Combo Offer,Barbeque Feast Slice + Garlic Cheese Bread + Thums UP,1,0,Two Pieces only in Garlic bread,228.0
+Special Combo Offer,Desi Paneer Tikka Slice + Garlic Cheese Bread +Thums up,1,0,Two Pieces only in Garlic bread,228.0
+Special Combo Offer,White Sauce Pasta + Peri Peri Garlic Bread + Thums up,1,0,,428.0
+Special Combo Offer,Red Sauce Pasta + Peri Peri Garlic Bread +Thums up,1,0,,428.0
+Special Combo Offer,White and Red Sauce Pasta + Peri Peri Garlic Bread + Thums Up,1,0,,428.0
+Special Combo Offer,Desi Makhani Pasta + Peri Peri Garlic Bread + Thums Up,1,0,,428.0
+Special Combo Offer,Baked Lasagne + Peri Peri Garlic Bread + Thums Up,1,0,,428.0
+Special Combo Offer,1 Pasta + 1 PIzza + 2 Thums Up,1,0,,570.0
+Special Combo Offer,1 Pasta + 2 Pizza + Peri Peri Garlic Bread + Thums Up [200 ml],1,0,,999.0
+Pizza,"Desi Paneer Tikka Pizza [Regular, 9.5 inches]",1,0,,343.0
+Pizza,Paneer Peri Peri Pizza [9.5 inches],1,0,,343.0
+Pizza,Garden Veggies Pizza [9.5 inches],1,0,,343.0
+Pizza,"Mexican Bonanza Pizza [Regular, 9.5 inches]",1,0,,343.0
+Pizza,Jawar Based Veggies Pizza [9.5 inches],1,0,,350.0
+Pizza,"Barbeque Feast Pizza [Regular, 9.5 inches]",1,0,,343.0
+Pizza,"Margherita Pizza [Regular, 9.5 inches]",1,0,,300.0
+Pizza,"Customized Veggies Pizza [Regular, 9.5 inches]",1,0,,338.0
+Pizza,"Italian Season Pizza [Regular, 9.5 inches]",1,0,,343.0
+Pizza,"Paneer Makhani Pizza [Regular, 9.5 inches]",1,0,,338.0
+Pasta,White Sauce Pasta,1,0,,286.0
+Pasta,White and Red Sauce Pasta,1,0,,286.0
+Pasta,Pesto Flavour Pasta,1,0,,286.0
+Pasta,Red Sauce Pasta,1,0,,279.0
+Pasta,Desi Makhani Pasta,1,0,,279.0
+Pasta,Baked Lasagna,1,0,Assorted vegetables cooked with layers of pasta sheet with a generous helping of ... read more,286.0
+Sides,Panipuri Style Pizza,1,0,,100.0
+Sides,Cheese Garlic Bread,1,0,,143.0
+Sides,Pizza Between Breads,1,0,,143.0
+Sides,Peri Peri Garlic Bread Sticks,1,0,,172.0
+Sides,Veggie Garlic Bread Sticks,1,0,,200.0
+Pizza Slices,Jawar Based Veggies Pizza Slice [8 inches],1,0,,190.0
+Pizza Slices,Italian Season Pizza Slice [8 inches],1,0,,172.0
+Pizza Slices,Desi Paneer Tikka Pizza Slice [8 inches],1,0,,172.0
+Pizza Slices,Mexican Bonanza Pizza Slice [8 inches],1,0,,172.0
+Pizza Slices,Paneer Peri Peri Pizza Slice [8 inches],1,0,,172.0
+Pizza Slices,Garden Veggies Pizza Slice [8 inches],1,0,,172.0
+Pizza Slices,Margherita Pizza Slice [8 inches],1,0,,142.0
+Pizza Slices,Paneer Makhani Pizza Slice [8 inches],1,0,,160.0
+Pizza Slices,Barbeque Feast Pizza Slice [8 inches],1,0,,172.0
+Beverage Combos,White Sauce Pasta+Thums Up [250 ml],1,0,White Sauce Pasta + Thums Up [250 ml],275.0
+Beverage Combos,White and Red Sauce Pasta Combo,1,0,White and Red Sauce Pasta+Thums Up Soft Beverage [250 ml],275.0
+Beverage Combos,Red Sauce Pasta+Thums Up [250 ml],1,0,,275.0
+Beverage Combos,Paneer Peri Peri Pizza Slice+Thums Up [250 ml],1,0,8 inch slice with Cold Drink,180.0
+Beverage Combos,Garden Veggies Pizza Slice+Thumbs Up [250 ml],1,0,8 inch slice with Cold Drink,180.0
+Beverage Combos,Desi Paneer Tikka Pizza Slice+Thums Up [250 ml],1,0,8 inch slice with Cold Drink,180.0
+Beverage Combos,Paneer Peri Peri Pizza+Thums Up [250 ml],1,0,9.5 inch Pizza with Cold Drink,340.0
+Beverage Combos,Garden Veggies Pizza + Thums Up [250 ml],1,0,9.5 inch Pizza with Cold Drink,340.0
+Beverage Combos,Desi Paneer Tikka Pizza + Thums Up [250 ml],1,0,9.5 inch Pizza with Cold Drink,340.0
+Beverage Combos,Cheese Garlic Bread+Thums Up [250 ml],1,0,,145.0
+Beverage Combos,Peri Peri Garlic Bread Sticks+Thums Up [250 ml],1,0,,185.0
+Beverage Combos,Pizza Between Breads+Thums Up [250 ml],1,0,,145.0
+Desserts and Beverage,Thums Up [250 ml],1,0,,29.0

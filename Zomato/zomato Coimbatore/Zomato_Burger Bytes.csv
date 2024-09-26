@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Veg Burger,Aloo Tikka Burger,1,0,"A mouth-watering burger filled with savory, flavorful bites. Serves 1",115.0
+Veg Burger,Classic Paneer Burger,1,0,,155.0
+Veg Burger,Classic Veg Burger,1,0,A timeless favorite with plant-based ingredients. Serves 1,135.0
+Veg Burger,Spicy Veg Burger,1,0,Spicy veg burger with iceberg lettuce and premium mayo,155.0
+Veg Burger,Veg Tower Burger,1,0,[Veg Preparation] Double fillet veg and paneer cheese with iceberg lettuce and premium ... read more,205.0
+Classic Chicken Burger,Chicken Tandoori Burger,1,0,Tandoori style chicken patty with iceberg lettuce and tandoori mayo,165.0
+Classic Chicken Burger,Classic Chicken Burger,1,0,Crispy chicken patty with iceberg lettuce and mayo and sauce,175.0
+Twin Filllet Chicken Burger,DB American Fillet Burger,1,0,,265.0
+Twin Filllet Chicken Burger,DB Indian Fillet Burger,1,0,,265.0
+Twin Filllet Chicken Burger,DB Tandoori Fillet Burger,1,0,,265.0
+Supreme Chicken Burger,American Fillet Burger,1,0,Juicy beef patty topped with American cheese and served on a toasted bun. ... read more,185.0
+Supreme Chicken Burger,Crispy Chicken Burger,1,0,Juicy chicken patty with crispy exterior hugged by a soft burger bun. Serves ... read more,225.0
+Supreme Chicken Burger,Indian Fillet Burger,1,0,,185.0
+Supreme Chicken Burger,Spicy Fillet Burger,1,0,Tender fillet of meat topped with bold flavors and served on a warm ... read more,225.0
+Supreme Chicken Burger,Super Tower Chicken Burger,1,0,Bite into layers of deliciousness with this towering chicken creation. Serves 1,255.0
+Supreme Chicken Burger,Tandoori Fillet Burger,1,0,Mouth-watering fillet burger cooked to perfection in a tandoor oven. Serves 1,185.0
+Wraps Veg,Paneer Wrap,1,0,A flavorful veggie-filled wrap that will satisfy your cravings. Serves 1,155.0
+Wraps Veg,Simply Veg Wrap,1,0,,135.0
+Wraps Non-Veg,BBQ Chicken Wrap,1,0,"Juicy chicken smothered in BBQ sauce, wrapped up in a warm tortilla with ... read more",179.0
+Wraps Non-Veg,Chettinadu Chicken Wrap,1,0,,209.0
+Wraps Non-Veg,Fried Chicken Wrap,1,0,,229.0
+Wraps Non-Veg,Triple Treat Chicken Wrap,1,0,,239.0
+Classic Sandwich,Chettinadu Cheese Sandwich,1,0,,215.0
+Classic Sandwich,Egg Sandwich,1,0,,135.0
+Classic Sandwich,Fried Chicken Sandwich,1,0,"Fried chicken, onion, capsicum, cheese.",215.0
+Classic Sandwich,Paneer Cheese Sandwich,1,0,"Paneer, onion, capsicum and cheese.",179.0
+Classic Sandwich,Spicy Chicken Sandwich,1,0,"Peri peri, chilli, onion, capsicum, cheese.",165.0
+Classic Sandwich,Spicy Corn Sandwich,1,0,A flavor-loaded sandwich with a crunchy filling that will tantalize your taste buds. ... read more,139.0
+Classic Sandwich,Veg Cheese Sandwich,1,0,"Onion, tomato, capsicum, cheese.",145.0
+Club Sandwich,Big Byte Chicken Sandwich,1,0,"Club sandwich is three layer sandwich added with tandoori mayo , chilly sauce,cheesy ... read more",255.0
+Club Sandwich,Chicken Thunder Sandwich,1,0,"Club sandwich with three layer layered with chilly sauce , bbq sauce, cheesy ... read more",245.0
+Veg Starters,Cheese Nuggets,1,0,Cheesy and corn mixed nuggets with seasoned mayo and ketchup.,159.0
+Veg Starters,Cheesy Jalapenos,1,0,,159.0
+Veg Starters,French Fries,1,0,"Crispy, golden and irresistible - perfect for sharing or as a standalone snack. ... read more",119.0
+Veg Starters,Masala French Fries,1,0,,129.0
+Veg Starters,Potato Wedges,1,0,,129.0
+Veg Starters,Veg Fingers,1,0,Delight in crisp and flavorful vegetarian appetizers. Serves 1,139.0
+Non-Veg Starters,Chicken Cheese Balls,1,0,,159.0
+Non-Veg Starters,Chicken Nuggets,1,0,,159.0
+Non-Veg Starters,Chicken Poppers,1,0,Crispy and flavorful chicken bites that make for the perfect starter. Serves 1,159.0
+Non-Veg Starters,Chicken Strips,1,0,,199.0
+Non-Veg Starters,Fish Fingers,1,0,Crispy and golden-brown breaded fish fingers perfect to kick off any non-veg meal. ... read more,189.0
+Non-Veg Starters,Fried Wings,1,0,,175.0
+Smokey Chicken Breast,Smokey Chicken Breast (1 Pc),1,0,,189.0
+Smokey Chicken Breast,Smokey Chicken Breast (2pcs),1,0,Juicy and tender smoked chicken breast served hot and bursting with flavor. Serves ... read more,289.0
+Steamed Momos,Cheese Corn Steamed Momo [5 Pieces],1,0,,185.0
+Steamed Momos,Chicken Cheese Steamed Momo [5 Pieces],1,0,,185.0
+Steamed Momos,Chicken Peri Peri Steamed Momo [5 Pieces],1,0,,175.0
+Steamed Momos,Mushroom Steamed Momos [5 Pieces],1,0,,155.0
+Fried Momos,Cheese Corn Fried Momo [5 Pieces],1,0,,195.0
+Fried Momos,Chicken Cheese Fried Momo [5 Pieces],1,0,,195.0
+Fried Momos,Chicken Peri Peri Fried Momo [5 Pieces],1,0,,185.0
+Fried Momos,Mushroom Fried Momo [5 Pieces],1,0,,165.0
+Falooda,Classic Vanilla Falooda,1,0,,159.0
+Falooda,Mango Falooda,1,0,,179.0
+Falooda,Special Kulfi Falooda,1,0,,259.0
+Falooda,Strawberry Falooda,1,0,,159.0
+Mojitos,Blue Curacco,1,0,A refreshing and vibrant treat perfect for satisfying your sweet tooth. Serves 1,109.0
+Mojitos,Green Apple Mojito,1,0,[Non Alcoholic],109.0
+Mojitos,Lemon Mint Mojitos,1,0,,109.0
+Scoop & Shake,Black Currant Ice Cream,1,0,,80.0
+Scoop & Shake,Blackcurrant Milkshake,1,0,,149.0
+Scoop & Shake,Butterscotch Ice Cream,1,0,,80.0
+Scoop & Shake,Butterscotch Milkshake,1,0,,149.0
+Scoop & Shake,Chocolate Ice Cream,1,0,,70.0
+Scoop & Shake,Chocolate Milkshake,1,0,,139.0
+Scoop & Shake,Mango Ice Cream,1,0,,70.0
+Scoop & Shake,Mango Milkshake,1,0,,139.0
+Scoop & Shake,Special Kulfi,1,0,,95.0
+Scoop & Shake,Strabwerry Milkshake,1,0,,129.0
+Scoop & Shake,Strawberry Ice Cream,1,0,,60.0
+Scoop & Shake,Vanilla Ice Cream,1,0,,60.0
+Scoop & Shake,Vanilla Milkshake,1,0,A classic and creamy sweet treat perfect for satisfying any dessert cravings. Serves ... read more,129.0
+Special Shake,Brownie Millkshake,1,0,,169.0
+Special Shake,Cold Coffee,1,0,,149.0
+Special Shake,Oreo Millkshake,1,0,,159.0
+Cake Delight,Brownie With Ice Cream,1,0,Serves 1,211.0
+Cake Delight,Choco Lava With Icecream,1,0,Serves 1 | Indulge in a rich and decadent chocolate cake with a ... read more,211.0
+Cake Delight,Classic Brownie,1,0,,181.0
+Cake Delight,Hot Choco Lava Cake,1,0,"Indulge in a decadent, warm chocolate cake with a gooey center that melts ... read more",181.0
+Refreshers,Fresh Lime Soda,1,0,A refreshing and zesty dessert with a burst of lime flavor. Serves 1,69.0
+Refreshers,Fresh Lime,1,0,,69.0

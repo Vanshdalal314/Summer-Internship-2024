@@ -1,0 +1,109 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Baba Special Combos,Egg Curry [2 Eggs]+Green Gotalo [2 Eggs]+8 Pcs Pav+1 Jeera Soda(200 ml),0,0,Egg Curry[2 Eggs]+Green Gotalo [2 Eggs]+Pav [8 Pieces]+1 Cold Beverage,263.4
+Baba Special Combos,Cheese Red Gotalo [2 Eggs]+Egg Lasan Fry [2 Eggs]+8 Pcs Pav+1 Jeera Soda(200 ml),0,0,Cheese Red Gotalo [2 Eggs]+Egg Lasan Fry [2 Eggs]+8 Pav+1 Cold Beverage [Prepared ... read more,287.4
+Baba Special Combos,Cheese Rabdi [2 Eggs]+Boiled Salad [2 Eggs]+Omelette [2 Eggs]+8 Pcs Pav+1 Jeera Soda(200 ml),0,0,Cheese Rabdi [2 Eggs]+Boiled Salad [2 Eggs]+Omelette [2 Eggs]+8 Pav+1 Cold Beverage [Prepared ... read more,299.4
+Baba Special Combos,Egg Lehsuni Lachko [2 Eggs]+Egg Bhurji [2 Eggs]+Egg Curry [2 Eggs]+10 Pcs Pav+1 Jeera Soda(200 ml),0,0,Egg Lehsuni Lachko [2 Eggs]+Egg Bhurji [2 Eggs]+Egg Curry [2 Eggs]+10 Pav+1 Cold ... read more,383.4
+Baba Special Combos,Green Keema [2 Eggs]+Green Curry [2 Eggs]+Tomato Fry [2 Eggs]+10 Pcs Pav+1 Jeera Soda(200 ml),0,0,Green Keema [2 Eggs]+Green Curry [2 Eggs]+Tomato Fry [2 Eggs]+10 Pav+1 Cold Beverage ... read more,383.4
+Baba Special Combos,Egg Australian Fry [2 Eggs]+Limbu Mari Omelette [2 Eggs]+Egg Pulao [2 Eggs]+10 Pcs Pav+1 Jeera Soda,0,0,Egg Australian Fry [2 Eggs]+Limbu Mari Omelette [2 Eggs]+Egg Pulao [2 Eggs]+10 Pav+1 ... read more,395.4
+Baba Special Combos,Egg Australian Fry [2 Eggs]+Lasan Fry [2 Eggs]+Chinese Fry Pulao [2 Eggs]+10 Pcs Pav+1 Jeera Soda(200 ml),0,0,Baba Special Egg Curry [4 Eggs]+Egg Sandwich [2 Eggs]+10 Pav+1 Cold Beverage [Prepared ... read more,419.4
+Baba Special Combos,Egg Ravaiya [3 Eggs]+Cheese Green Gotalo [2 Eggs]+12 Pcs Pav+1 Jeera Soda(200 ml),0,0,Egg Ravaiya [3 Eggs]+Cheese Green Gotalo [2 Eggs]+12 Pav+1 Cold Beverage [Prepared in ... read more,431.4
+Baba Special Combos,Cheese Keema [2 Eggs]+Hum Tum [2 Eggs]+Cheese Omelette [2 Eggs]+10 Pcs Pav+1 Jeera Soda(200 ml),0,0,Cheese Keema [2 Eggs]+Hum Tum [2 Eggs]+Cheese Omelette [2 Eggs]+10 Pav+1 Cold Beverage ... read more,467.4
+Baba Special Combos,Cream Lachko[2 Eggs]+Cream Curry[2 Eggs]+Cheese Pulao [2 Eggs]+6 Pcs Pav+1 Jeera Soda(200 ml),0,0,Cream Lachko[2 Eggs]+Cream Curry[2 Eggs]+Cheese Pulao [2 Eggs]+6 Pcs Pav+1 Cold Beverage [Prepared ... read more,503.4
+Baba Special Combos,Egg Green Keema [2 Eggs]+Egg Bhurji [2 Eggs]+Goti Gotalo [2 Eggs]+Chinese Egg Fry Pulao [2 Eggs]+12 Pcs Pav+1 Jeera Soda(200 ml),0,0,Egg Green Keema [2 Eggs]+Egg Bhurji [2 Eggs]+Goti Gotalo [2 Eggs]+Chinese Egg Fry ... read more,503.4
+Baba Special Combos,Egg Royal Lahori [4 Eggs]+Egg Green Goti Fry [2 Eggs]+Egg Sandwich[2 Eggs]+14 Pcs Pav+1 Jeera Soda(200 ml),0,0,Egg Royal Lahori [4 Eggs]+Egg Green Goti Fry [2 Eggs]+Egg Sandwich[2 Eggs]+14 Pav+1 ... read more,551.4
+Starters,Egg Sandwich [1 Egg],0,0,Served with onion and tomato mixed salad.,48.0
+Starters,Egg Cutlets [1 Egg],0,0,,48.0
+Starters,Egg Cheese Sandwich [2 Eggs],0,0,Served with onion and tomato mixed salad.,72.0
+Starters,Egg Roll [1 Egg],0,0,Served with onion and tomato mixed salad.,84.0
+Starters,Cheese Chutney Boil [2 Eggs],0,0,,96.0
+Starters,Boiled Egg Oil Fry [2 Eggs],0,0,Served with onion and tomato mixed salad.,120.0
+Main Course,Egg Bhurji [2 Eggs] with 4 Pav,0,0,,120.0
+Main Course,Lasan Lachko Egg [2 Eggs] with 4 Pav,0,0,,120.0
+Main Course,Lasan Kachu Egg [2 Eggs] with 4 Pav,0,0,,120.0
+Main Course,Egg Curry [2 Eggs] with 4 Pav,0,0,,120.0
+Main Course,Egg Red Khimo [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,120.0
+Main Course,Egg Green Khimo [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,120.0
+Main Course,Egg Ravaiya [3 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Tadka Kachu Egg [2 Eggs] with 4 Pav,0,0,,144.0
+Main Course,Egg Cream Curry [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,144.0
+Main Course,Egg Cream Khimo [2 Eggs] with 2 Pav,0,0,Served With Onion - Tomato Mix Salad,144.0
+Main Course,Egg Lahori [2 Eggs] with 4 Pav,0,0,,156.0
+Main Course,Egg Kachi Paki Lahori [2 Eggs] with 4 Pav,0,0,,156.0
+Main Course,Egg Cheese Kofta [2 Eggs] with 4 Pav,0,0,,156.0
+Main Course,Lahori Egg Tadka [2 Eggs] with 4 Pav,0,0,,168.0
+Main Course,Egg Australian Keema [3 Eggs] with 6 Pav,0,0,Served with onion and tomato mixed salad.,264.0
+Main Course,Egg Cream Gravy Kofta [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Lazeez [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Red Gotalo [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,120.0
+Main Course,Green Gotalo [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,120.0
+Main Course,Goti Gotalo [2 Eggs] with 4 Pav,0,0,,120.0
+Main Course,Cheese Green Gotalo [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,156.0
+Main Course,Cheese Goti Gotalo [2 Eggs] with 4 Pav,0,0,,156.0
+Main Course,Australian Gotalo [2 Eggs] with 4 Pav,0,0,,156.0
+Main Course,Cheese Red Gotalo [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,156.0
+Main Course,Green Gotalo [4 Eggs] with 8 Pav,0,0,Served With Onion - Tomato Mix Salad,240.0
+Main Course,Red Gotalo [4 Eggs] with 8 Pav,0,0,Served With Onion - Tomato Mix Salad,240.0
+Main Course,Cheese Green Gotalo [4 Eggs] with 8 Pav,0,0,Served With Onion - Tomato Mix Salad,288.0
+Main Course,Cheese Red Gotalo [4 Eggs] with 8 Pav,0,0,Served With Onion - Tomato Mix Salad,288.0
+Main Course,Egg Goti Dal Fry [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,120.0
+Main Course,Egg Tomato Fry [2 Eggs] with 4 Pav,0,0,,120.0
+Main Course,Egg Green Lasan Fry [2 Eggs] with 4 Pav,0,0,,120.0
+Main Course,Egg Green Goti Fry [2 Eggs] with 4 Pav,0,0,,120.0
+Main Course,Egg Cheese Green Goti Fry [2 Eggs] with 4 Pav,0,0,,144.0
+Main Course,Egg Australian Fry [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,156.0
+Main Course,Egg Chinese Fry [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,156.0
+Main Course,Egg Italian Fry [3 Eggs] with 6 Pav,0,0,,264.0
+Main Course,Egg Australian Fry [4 Eggs] with 8 Pav,0,0,Served With Onion - Tomato Mix Salad,312.0
+Main Course,Egg Chinese Fry [4 Eggs] with 8 Pav,0,0,Served With Onion - Tomato Mix Salad,312.0
+Main Course,Egg Cream Rajwadi Fry Gravy [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Indian Egg Fry [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Russian Fry [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Kachi Kadhi Special [3 Eggs] with 6 Pav,0,0,,240.0
+Main Course,Egg Mini Baba Special [3 Eggs] with 6 Pav,0,0,,264.0
+Main Course,Egg American Kachu [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Baba Special [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Cream Tadka Special [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Afghani [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Malai Tikka [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Royal Lahori [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Hyderabadi [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Red Green Royal Special [4 Eggs] with 8 Pav,0,0,,312.0
+Main Course,Egg Royal Baba Special [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Cream Special [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Cheese Rabdi [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,156.0
+Main Course,Egg Jinga Fry [2 Egg] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,156.0
+Main Course,Egg Green Cheese Dosa [4 Eggs] with 4 Pav,0,0,,312.0
+Main Course,Egg Pizza [3 Eggs] with 4 Pav,0,0,,312.0
+Main Course,Egg Patudi [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Paratha [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Angoor Rabdi [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Paplet [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Gravy Egg Paplet [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Hum Tum [4 Eggs] with 6 Pav,0,0,,312.0
+Main Course,Egg Creamy Gravy Patudi [4 Eggs] with 6 Pav,0,0,,312.0
+Omelette,Omelette[1 Egg] with 2 Pav,0,0,,36.0
+Omelette,Limbu Mari Omelette [1 Egg] with 2 Pav,0,0,Served With Onion - Tomato Mix Salad,48.0
+Omelette,Cheese Omelette [1 Egg] with 2 Pav,0,0,,60.0
+Omelette,Omelette [2 Eggs] with 4 Pav,0,0,,72.0
+Omelette,Paper Omelette [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,84.0
+Omelette,Paper Limbu Mari Omelette [2 Eggs] with 4 Pav,0,0,Served With Onion - Tomato Mix Salad,96.0
+Omelette,Gravy Omelette [2 Eggs] with 4 Pav,0,0,,144.0
+Omelette,Royal Omelette [2 Eggs] with 4 Pav,0,0,,144.0
+Omelette,Punjabi Omelette [4 Eggs] with 6 Pav,0,0,,312.0
+Omelette,Rajwadi Omelette [4 Eggs] with 6 Pav,0,0,,312.0
+Boiled Egg,Boiled Egg [2 Eggs],0,0,,24.0
+Boiled Egg,Boiled Egg Salad [2 Eggs],0,0,Prepared with Oil,48.0
+Boiled Egg,Boiled Egg Cheese Salad [2 Eggs],0,0,Prepared with Oil,60.0
+Boiled Egg,Boiled Egg Chips [2 Eggs],0,0,Served With Onion - Tomato Mix Salad,144.0
+Rice and Pulao,Jeera Rice,1,0,Served With Onion - Tomato Mix Salad,60.0
+Rice and Pulao,Egg Pulao,0,0,Served With Onion - Tomato Mix Salad,120.0
+Rice and Pulao,Egg Green Pulao,0,0,Served With Onion - Tomato Mix Salad,120.0
+Rice and Pulao,Egg Gravy Pulao,0,0,Served With Onion - Tomato Mix Salad,120.0
+Rice and Pulao,Chinese Egg Fry Pulao,0,0,Served With Onion - Tomato Mix Salad,120.0
+Rice and Pulao,Egg Curry Pulao,0,0,Served With Onion - Tomato Mix Salad,120.0
+Rice and Pulao,Egg Cream Gravy Pulao,0,0,Served With Onion - Tomato Mix Salad,144.0
+Roti and Pav,Pav(2 pcs),1,0,,6.0
+Roti and Pav,Roti,1,0,,12.0
+Drinks (Beverages),Jeera Soda [200 ml],1,0,,18.0
+Drinks (Beverages),Buttermilk,1,0,,18.0
+Salad and Chutney,Green Chutney [Spicy],1,0,,36.0

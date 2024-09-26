@@ -1,0 +1,55 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Veg Pizza,Big Bang Pizza,1,0,Thin crust base + red papprika + green chilli + bell pepper,339.0
+Veg Pizza,Classic Pizza,1,0,Thin Crust Base + Onion + Capsicum,310.0
+Veg Pizza,Double Cheese Pizza,1,0,Thin crust base + mozarella cheese + cheddar cheese + basil sprinkles,339.0
+Veg Pizza,Exotica Pizza,1,0,Thin crust base + onion + capsicum + mushrooms + olives + jalepeno,349.0
+Veg Pizza,Farm Supreme Pizza,1,0,Thin crust base + onion + capsicum + tomato + olives,320.0
+Veg Pizza,Fiery Paneer Pizza,1,0,Thin crust base + onion + peri peri + paneer,320.0
+Veg Pizza,Fiesta Pizza,1,0,Thin crust base + onion + capsicum + chilli + garlic,320.0
+Veg Pizza,Garden Pizza,1,0,Thin crust base + black olives + onion + capsicum + green chilli ... read more,360.0
+Veg Pizza,Margherita Pizza,1,0,Thin Crust Base + Cheese + Cheese + Cheese,280.0
+Veg Pizza,Mexicana Veg Pizza,1,0,Thin crust base + bell pepper + onion + jalepeno + chipotle,339.0
+Veg Pizza,Peppy Paneer Pizza,1,0,Thin crust base + grilled paneer + capsicum + onion,339.0
+Veg Pizza,Sicilian Pizza,1,0,Thin crust base + corn + black olives + capsicum + red paprika,339.0
+Veg Pizza,Veg Fantasy Pizza,1,0,Thin crust base + onion + grilled mushroom + corn,339.0
+Non Veg Pizza,Barbeque Chicken Pizza,1,0,Thin crust base + smoked barbeque sauce + onion + shredded chicken.,349.0
+Non Veg Pizza,Carribean Pizza,1,0,Thin crust base + onion + jalaepno + corn + shredded chicken,389.0
+Non Veg Pizza,Chicken Mania Pizza,1,0,Thin crust base + grilled chicken + capsicum,360.0
+Non Veg Pizza,Chicken Supreme Pizza,1,0,Thin crust base + shredded chicken + onion + capsicum + tomatoes + ... read more,370.0
+Non Veg Pizza,Chicken Treat Pizza,1,0,Thin crust base + capsicum + tomato + shredded chicken,380.0
+Non Veg Pizza,Extravaganza Pizza,1,0,Thin crust base + shredded chicken + onion + capsicum + mushrooms + ... read more,420.0
+Non Veg Pizza,Fiery Chicken Pizza,1,0,Thin crust base + onion + shredded chicken + peri peri,339.0
+Non Veg Pizza,Head Bang Chicken Pizza,1,0,Thin crust base + onion + corn + spicy chicken + pepper chicken,410.0
+Non Veg Pizza,Mexicana Chicken Pizza,1,0,Thin crust base + shredded chicken + capsicum + onion + jalepeno + ... read more,390.0
+Non Veg Pizza,Pepper Chicken Pizza,1,0,Thin crust base + black olive + capsicum + pepper chicken,389.0
+Non Veg Pizza,Pepperoni Pizza,1,0,Thin crust base + onion + shredded chicken + peri peri,360.0
+Non Veg Pizza,Ultimate Chicken Pizza,1,0,Thin crust base + corn + red paprika + sausage + spicy chicken,399.0
+Side,Cheese Fritters,1,0,,190.0
+Side,Cheese Garlic Bread,1,0,,150.0
+Side,Chilli Cheese Garlic Bread,1,0,,140.0
+Side,Corn Cheese Balls,1,0,,190.0
+Side,French Fries,1,0,,150.0
+Side,Garlic Bread,1,0,,140.0
+Side,Jalepeno Cheese Balls,1,0,,190.0
+Side,Peri Peri Fries,1,0,,160.0
+Drinks (Beverages),Blue Curacao Mojito,1,0,,135.0
+Drinks (Beverages),Green Apple Fizz,1,0,,135.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,120.0
+Drinks (Beverages),Mint Lime,1,0,,135.0
+Drinks (Beverages),Orange & Green Apple Mojo,1,0,,145.0
+Drinks (Beverages),Virjin Mojito,1,0,,135.0
+Drinks (Beverages),Watermelon Apple Mojo,1,0,,145.0
+Thick Shake,Brownie Chocolate Thick Shake,1,0,,205.0
+Thick Shake,Brownie Thick Shake,1,0,,205.0
+Thick Shake,Choco Almond Thick Shake,1,0,,220.0
+Thick Shake,Chocolate Peanut Thick Shake,1,0,,215.0
+Thick Shake,Ferrero Rocher Thick Shake,1,0,,270.0
+Thick Shake,Kitkat Thick Shake,1,0,,220.0
+Thick Shake,Milo Thick Shake,1,0,,205.0
+Thick Shake,Mocha Brownie Thick Shake,1,0,,215.0
+Thick Shake,Nutella Thick Shake,1,0,,250.0
+Thick Shake,Oreo Thick Shake,1,0,,205.0
+Thick Shake,Red Velvet Thick Shake,1,0,,205.0
+Thick Shake,Roasted Almond Thick Shake,1,0,,220.0
+Thick Shake,Strawberry Thick Shake,1,0,,190.0
+Thick Shake,Thick Frappe Coffee Shake,1,0,,180.0

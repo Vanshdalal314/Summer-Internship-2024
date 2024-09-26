@@ -1,0 +1,160 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+NYC Supreme Croissant,Pistachio NYC Croissant,1,0,Pistachio dipped Supreme Pinwheel Croissant,200.0
+NYC Supreme Croissant,White Chocolate Croissant,1,0,White Chocolate dipped Supreme Pinwheel Croissant,200.0
+Smoothie Bowl,Acai Berry Bowl,1,0,"Blend- Blueberry, Banana. Garnish -Blueberry, Strawberry, Kiwi, Granola, Chia ... read more",450.0
+Smoothie Bowl,Cold Brew Smoothie Bowl,1,0,"Blend- CC Signature Cold Brew, Banana. Blend- Dark ... read more",450.0
+Smoothie Bowl,Cosmic Strawberry Bowl,1,0,"Blend- Strawberry, Banana. Garnish -Strawberry, Blueberry, Dragon Fruit , ... read more",450.0
+Smoothie Bowl,Mixed Berry Bowl,1,0,"Blend - Strawberry, Raspberry, Banana. Garnish - Blueberry Strawberry, Dragon ... read more",450.0
+Hot Brew,Americano.,1,0,American is a type of coffee drink prepared by diluting an espresso with ... read more,175.0
+Hot Brew,Cappuccino.,1,0,Espresso With 2/3 Part Of Steam Milk and 2 Cm of Foam,210.0
+Hot Brew,Flat White,1,0,"A flat white has espresso, Hot Milk and Small Layer of microfoam but ... read more",220.0
+Hot Brew,Latte,1,0,Latte is a coffee-based drink made primarily from espresso and steamed milk. It ... read more,220.0
+Hot Brew,Make Your Own Latte,1,0,Regula Latte With Choice of Your Own Flavour,250.0
+Hot Brew,Mocha,1,0,Espresso and hot milk with added Italian Cocoa,250.0
+Hot Brew,White Mocha,1,0,Espresso and hot milk with added White Chocolate,250.0
+Manual Brews,Aero Press,1,0,"Ground coffee beans and water are steeped inside, then forced through a filter ... read more",250.0
+Manual Brews,French Press,1,0,Coffee is brewed by placing coarsely ground coffee in the empty beaker and ... read more,250.0
+Manual Brews,Siphon,1,0,A vacuum coffee maker brews coffee using two chambers where vapor pressure and ... read more,250.0
+Manual Brews,V60 Pourover,1,0,Filter paper is inserted into the V shape and coffee grounds placed within ... read more,250.0
+Ice Blended Frappe,Biscoff Ice Blended Frappe,1,0,,300.0
+Ice Blended Frappe,Caramel Ice Blended Frappe,1,0,,275.0
+Ice Blended Frappe,Coffee Ice Blended Frappe,1,0,,250.0
+Ice Blended Frappe,Mocha Ice Blended Frappe,1,0,,275.0
+Ice Blended Frappe,Nutella Ice Blended Frappe,1,0,,300.0
+Ice Blended Frappe,Salted Caramel Ice Blended Frappe,1,0,,275.0
+Ice Blended Frappe,Spicy Cinnamon Ice Blended Frappe,1,0,,275.0
+Cc Classic,Double Dark Hot Chocolate,1,0,A warm & thick Chocolate Milk,300.0
+Cc Classic,Caramel Classic Cold Coffee,1,0,"Caramelized combination of caramel syrup blended with espresso, topped with ice cream",250.0
+Cc Classic,Choco Brownie Mochochillo,1,0,"Get lost in the flavors of yumminess!! Blended Cold Coffee, Ice Cream & ... read more",350.0
+Cc Classic,Choco Frappe Cold Coffee,1,0,Sweet chocolate drink blended ice cream,220.0
+Cc Classic,Classic Irish,1,0,"Irish flavored Cold Coffee, topped with Ice Cream and glazed with Chocolate Sauce",275.0
+Cc Classic,Coffee Chocolate Shake,1,0,Chocolaty Coffee drink blended with Chocolate Ice Cream and Chocolate Sauce,275.0
+Cc Classic,Culture Addiction Cold Coffee,1,0,"A rich sweet and creamy combination of cold coffee, hazelnut syrup blended with ... read more",350.0
+Cc Classic,Culture Frappe Cold Coffee,1,0,Sweet and refreshing cold coffee mixed with vanilla ice cream- blended,210.0
+Cc Classic,Culture Temptation Cold Coffee,1,0,"An Irish flavored cold coffee blended with irish syrup, ice cream, topped wit ... read more",350.0
+Cc Classic,Hot Chocolate.,1,0,A warm Chocolate Milk,250.0
+Cc Classic,Ice Cafe Mocha Cold Coffee,1,0,Rich combination of espresso and chocolate flavor,220.0
+Cc Classic,Lemon Ice Tea,1,0,"Delicious flavor of Iced Tea mixed with Lemon flavor, shaken with Lemon chunks, ... read more",250.0
+Cc Classic,Nutty Milano Cold Coffee,1,0,Unique flavour of hazelnut in cold coffee topped with ice cream and hot ... read more,275.0
+Cc Classic,Peach Ice Tea,1,0,"Delicious flavor of Iced Tea mixed with Peach flavor, shaken with Lemon chunks, ... read more",250.0
+Sinful Chocolate Shakes,Chocoholic Chocolate Shake,1,0,"A Treat for chocolate lovers a balanced combination of milk, chocolate ice cream ... read more",350.0
+Sinful Chocolate Shakes,Dairy Milk Chocolate Shake,1,0,Lip smacking combination of Dairy Milk blended with Chocolate Ice Cream & Milk,395.0
+Sinful Chocolate Shakes,Ferrerro Rocher Chocolate Shake,1,0,"Premium combination of blended Ferraro Rocher, Milk Chocolate Ice Cream, glazed Chocolate Sauce, ... read more",375.0
+Sinful Chocolate Shakes,Kitkat Shake Chocolate Shake,1,0,"A shake that deserves a break!! blended kitkat shake glazed chocolate sauce , ... read more",300.0
+Sinful Chocolate Shakes,Oreo Cookie Shake,1,0,"Crunchy Oreo Cookie, blended with Milk , Vanilla Ice Cream, glazed Chocolate Sauce, ... read more",300.0
+Bakery,Cheese Cake,1,0,,250.0
+Bakery,Gooey Cookie Chocolate Chips,1,0,,180.0
+Bakery,Gooey Cookies Vanilla,1,0,,180.0
+Bakery Kitchen,Bagel BTL,1,0,"Bagel Stuffed With Crispy Lettuce, Fresh Tomato,Basil Leaves & a Cheese Slice",250.0
+Bakery Kitchen,BTL Croissant Sandwich,1,0,"Croissant Stuffed With Crispy Lettuce, fresh Tomato, Basil Leaves & Cheese Slice.",200.0
+Bakery Kitchen,Cheese Cream Bagel,1,0,Toasted Bagel Stuffed with a Lot of Cream Cheese.,300.0
+Bakery Kitchen,Sourdough Avocado Toast,1,0,"2 Slice Of Sourdough, Topped With Guacamole,chopped onions, Cherry Tomatoes, Microgreens,Pumpkin seeds.",350.0
+Bakery Kitchen,Sourdough Beetroot Toast,1,0,"2 Slices Of Sourdough topped With Yummy Beetroot Hummus,Microgreens,Cherry Tomatoes,Pumpkin seeds & Jalapeno",300.0
+Breakfast Tray,55% Chocolate Dipped Croissant,1,0,The perfect ratio ofchocolate to croissant! Take a walk to the dark sie ... read more,380.0
+Breakfast Tray,Almond Croissant,1,0,Our unique double baked Almond croissant is hands down one of our ... read more,280.0
+Breakfast Tray,Avo Burrata Sourdough Toast,1,0,"Sourdough toasted to the perfect crisp, loaded with grilled/mashed cherry tomatoes, heirloom avocado ... read more",475.0
+Breakfast Tray,Butter Croissant,1,0,"A Buttery, Falky, Viennoiserie Pastry Of Austrian Origin.( Contians Gluten)",260.0
+Breakfast Tray,Harissa Hummus Mushroom Sourdough Toast,1,0,The harrissa mushroom hummus toast is a great kick start to your meal.. ... read more,375.0
+Breakfast Tray,Hazelnut Pain Au Chocolat,0,0,"Our signature double baked Pain au Hazelnut is classic, yet dangerous. It's ... read more",260.0
+Breakfast Tray,Pistachio Croissant,1,0,The nutty Pistahio and the delicate rose; unite in this croissant for ... read more,280.0
+Breakfast Tray,Raspberry Croissant,1,0,The first bite combines the buttery richness of the raspberry croissant with ... read more,260.0
+Salad & Bowl,Burata Cheese Salad,1,0,This colorful and gorgeous looking salad is made by tossing in the freshest ... read more,495.0
+Salad & Bowl,Caesar Salad,1,0,Ejoy the classic mix of roman lettuce mixed with our caesar dressing served,300.0
+Salad & Bowl,Lebanese Bowl,1,0,"This colorful n flaavourful mediterranean hummus bowl is a great lunch/dinner option , ... read more",495.0
+Salad & Bowl,Mexican Burrito Bowl,1,0,Vegetarian burrito bowls are seriously one of the best meals ever! packed with ... read more,595.0
+Salad & Bowl,Size Zero Salad,1,0,An exclusive combination of fresh veggies mixed with heathy seasoning for the siz ... read more,275.0
+Salad & Bowl,Tandoori Paneer Salad,1,0,Taste of tandoori paneer mixed with a heathly salad,275.0
+Salad & Bowl,Thai Rice Bowl,1,0,"The most traditional thai curry made with fresh coconut milk, roasted n ground ... read more",475.0
+Sandwiches,Cheese Chilly Sandwich,1,0,"2 Triangle Sandwich slices stuffed with Cheddar Cheese, finely chopped Capsicum & Green ... read more",250.0
+Sandwiches,Club Wich,1,0,"A Savory masala made with sliced Potato, Tomato, Onion & Lettuce, topped with ... read more",300.0
+Sandwiches,Grilled Veggie Wich,1,0,"3 layered sandwich with mashed potato, onion, capsicum and some Indian spices, grilled ... read more",250.0
+Sandwiches,Pizza Wich Sandwich,1,0,"Spicy and cheesy stuffing between pizza base, a perfect answer to your love ... read more",300.0
+Sandwiches,Popeye Paneer Grill Sandwich,1,0,"As it name suggests, a sandwich high on spinach, garlic, onion, cottage cheese ... read more",350.0
+Burgers,Aloo Tikki Burger,1,0,"[Served with french fries and dip] Crispy Aloo and green peas patt, crunchy ... read more",200.0
+Burgers,Crispy Veg Burger,1,0,[Served with french fries and dip] Crispy veg potato patty topped with mayonaise ... read more,300.0
+Burgers,Jain Burger,1,0,A pure jain patty with banan herbs with crunchy lettuce topped with mayonaise ... read more,250.0
+Burgers,Mexican Burger,1,0,[Served with french fries and dip] A spicy Mexican patty crunchy lettuce topped ... read more,300.0
+Burgers,Veg Burger,1,0,[Served with french fries and dip] Crispy veg potato patty topped with mayonaise ... read more,250.0
+Appetizers,Best Ever Jalapeno Poppers,1,0,Farm fresh jalapenos stuffed with gooey cheese mix and goldenfried for that perfect ... read more,425.0
+Appetizers,Bruschetta,1,0,"Unique presentation of toasted bread , topped with perfect combination of tomato marinated ... read more",300.0
+Appetizers,Cheese Cigar Roll,1,0,Our housemade crisp mini wanton wrappers filled with a spicy cheesy mix and ... read more,295.0
+Appetizers,Crispy Crunchy Veg,1,0,Selected combination of vegetables coated fried to crispy and tossed with a spicy ... read more,275.0
+Appetizers,Dal Rice Arancini,1,0,Our Indian Fusion take on sicilian arancini balls. Imagine Dal Rice Khichdi Balls ... read more,450.0
+Appetizers,Dry Manchurian,1,0,Indo- Chinese preparation of our very own manchurian in dry consistency,275.0
+Appetizers,French Fries,1,0,"Julienne cute of potato, fried golden brown, seasoned with little salt, served with ... read more",150.0
+Appetizers,Lean Green Nachos,1,0,These healthier version of nachos are made with millet (raggi) and corn. dashed ... read more,475.0
+Appetizers,Nachos With Cheese And Salsa,1,0,Crispy mexican chips,300.0
+Appetizers,Old School Onion Rings,1,0,"Our old fashioned onion rings are classics made from thick-sliced red onions, battered, ... read more",325.0
+Appetizers,Paneer Chilly Dry,1,0,"A popular I Do Chinese dish made from Cottage Cheese, Onion, Capsicum & ... read more",350.0
+Appetizers,Paneer Shanghai,1,0,An aromatic flavor of Indian cottage Cheese cooked in classic style with Chinese ... read more,350.0
+Appetizers,Pesto Hummus Mushroom Toast,1,0,,250.0
+Appetizers,Smoked BBQ Tofu Kathi Roll,1,0,The traditional kathi roll gets a continental twist! house made tortillas stuffed with ... read more,450.0
+Appetizers,Tex-Mex Nachos,1,0,"Mexican preparation of nachos, topped with chilly bean and cheese sauce",350.0
+Appetizers,World's Best Nachos,1,0,Crispy nachos toped with spicy bean masala and cheese sauce,350.0
+Sizzlers,Afghani Chap Biryani Sizzler,1,0,"A vegetarians biryani haven! freshly roasted spiced traditonal biryani, comes with the steak ... read more",650.0
+Sizzlers,China Town Sizzler,1,0,"Vegetable Hakka Noodles & Veg Fried Rice served with Cutlet, Cottage Cheese, Broccoli ... read more",550.0
+Sizzlers,Garden Fresh Sizzler,1,0,"Exotic creamy preparation of Red,Yellow Green Bell Pepper, Mushroom , Broccoli, Corn along ... read more",500.0
+Sizzlers,Maggi Sizzler,1,0,"Maggi Noodles tossed in a Tangy Sauce, topped with grated Cheese, served with ... read more",350.0
+Sizzlers,Mexican Chimichanga Sizzler,1,0,Our best selling mexican sizzler version 2.0! whats new?... everything..! our chefs special ... read more,650.0
+Sizzlers,Mexican Sizzler,1,0,It is a signature Sizzler of Coffee Culture with all the Mexican flavors ... read more,590.0
+Sizzlers,Mix Grill Sizzler,1,0,"Grilled Bell Pepper & Vegetables served with a tinge of Garlic flavor, accompanied ... read more",550.0
+Sizzlers,Paneer Shashlik Sizzler In Makhani Gravy,1,0,The authentic Paneer Tikka served with Rice & Corn Stuffed sides topped with ... read more,550.0
+Sizzlers,Pasta Sizzler,1,0,"Arrabiata Vs Alfredo Pasta on a Sizzler plate, topped with Cheese, accompanied with ... read more",550.0
+Sizzlers,Spicy Cheesy Aloo Sizzler,1,0,"Rice prepared in Butter, Arrabiata Sauce, topped with Cheese, served with Potato Wedges, ... read more",500.0
+Sizzlers,Teekha Paneer Sizzler,1,0,"Boiled Rice prepared in Butter, served with Soft and Spicy Paneer topped with ... read more",550.0
+Pizza,Americano Party Pizza [9 Inches],1,0,"Sweet Corn, Capsicum, Tomato, Mozzerella Cheese",400.0
+Pizza,Americano Temptation Pizza [9 Inches],1,0,"Baby Corn, Onion, Capsicum, Jalapenos, Mozzarella Cheese",450.0
+Pizza,Cicilia Pizza [9 Inches],1,0,"Saute Mushroom, Onion, Garlic, Mozzarella Cheese",450.0
+Pizza,Desi Culture Pizza [9 Inches],1,0,"Marinated Paneer, Onion,Tomato,Green Bell Pepper, Coriander, Green Peas & Mozzarella Cheese",525.0
+Pizza,Farmhouse Feast Pizza [9 Inches],1,0,"Mushroom, Tomato ,Capsicum ,Black Olives, Sweet Corn, Onion, Cottage Cheese, Mozzarella Cheese",550.0
+Pizza,Fresh Veggie Pizza [9 Inches],1,0,"Onion,Tomato, Capsicum &Mozzarella Cheese",350.0
+Pizza,Cheese And Premium Garlic Bread,1,0,,300.0
+Pizza,Cheese Garlic Bread Spicy,1,0,,300.0
+Pizza,Cheese Garlic Bread,1,0,,250.0
+Pizza,Margherita Pizza [9 Inches],1,0,Traditional Margherita with lots of Cheese,300.0
+Pizza,Mexicano Pizza [9 Inches],1,0,"Sweet Corn,Black Olives,Jalapenos, Tomato, Mozzarella Cheese",450.0
+Pizza,Paneer Bhurji Pizza [9 Inches],1,0,"Paneer Bhurji, Coriander, Onion, Mozzarella Cheese",400.0
+Pizza,Popeye Paneer Pizza [9 Inches],1,0,"Marinated Cottage Cheese, Green Chilli, Spinach, Onion, Mozzarella Cheese",450.0
+Pizza,Punjab Addiction Pizza [9 Inches],1,0,"Tandoori Paneer, Onion, Red & Yel ow Bell Pepper, Coriander, Mozzarel a Cheese",450.0
+Pizza,Tandoori Paneer Pizza [9 Inches],1,0,"Marinated Tandoori Paneer, Onion, Coriander & Mozzarella Cheese",400.0
+Pizza,Teekha Paneer Pizza [9 Inches],1,0,"Marinated Paneer Red & Yellow bell Pepper, Coriander & Mozzarella Cheese",450.0
+Pizza,Teekha Tadka Pizza [9 Inches],1,0,"Marinated Cottage Cheese, Jalapenos, Olives, Red & Green Bell Pepper, Mozzarella Cheese",550.0
+Pizza,The Italian Connection Pizza [9 Inches],1,0,"Olives, Jalapenos, Red & Yellow Bell Pepper, Broccoli, Mozzarella cheese",550.0
+Pasta,Aglio Olio Pasta,1,0,"Italian Preparation of spaghetti, tossed in olive oil, italian herbs and bblack olives ... read more",350.0
+Pasta,Alfredo Pasta,1,0,"Pasta prepared in creamy sauce, tossed with yellow bell peppers, brocccoli garnished with ... read more",350.0
+Pasta,Arrabiata Pasta,1,0,"Penne pasta tossed inred sauce, olive oil, and Italian herbs, garnished with black ... read more",350.0
+Pasta,Baked Alforno,1,0,Its the baked version of our very own alfredo .. wherein spaghetti is ... read more,495.0
+Pasta,Baked Spaghetti Mozarella,1,0,"This Rich, creamy, cheeeesy, tasty yet SIMPLE.. Miilion Dollar Baked spaghetti bowl .. ... read more",495.0
+Pasta,Barbaresca Penne,1,0,"This creamy pasta with sun dried tomatoes, fresh basil and loaded parmesan is ... read more",495.0
+Pasta,Combination Pasta( Pink Pasta),1,0,"A perfect combination of tangy and creamy sauce in pasta preparation, garnished with ... read more",400.0
+Pasta,Gnocchi Pasta,1,0,"This gnocchi thats smothered in italian herbs , sundried tomato and white cream ... read more",495.0
+Pasta,Layered Pasta,1,0,"3 Unique layers of red arrabiata, white alfredo and green spinach pasta, topped ... read more",600.0
+Pasta,Mac N Cheese Pasta,1,0,"Cheesiest macroni pasta, mixed with 3 different cheese bread crumbs, cheese and garnished ... read more",500.0
+Pasta,Pomodoro Basilico Spaghetti,1,0,This pasta pomodoro recipe is spaghetti tossed in our housemade italian tomato sauce ... read more,450.0
+Pasta,Portofino Penne,1,0,"Its a creamy pasta where mint brings a delicate flavour, parmesan brings salt ... read more",350.0
+Pasta,Spinach Pasta,1,0,"Fusili pasta cooked pesto sauce, tossed with mushrooms and Italian seasoning served with ... read more",350.0
+Risotto,Masala Mafia Risotto,1,0,"Classic risotto rice cooked with crunchy bell peppers, garden fresh basil , sauteed ... read more",495.0
+Risotto,Quottro Formaggie Risotto,1,0,You can call it the 4 cheese risotto.. laden with the goodness of ... read more,495.0
+Risotto,Risotto Supremo,1,0,This extra flavourful and herby classic risotto is packed with the goodness of ... read more,495.0
+Mains,Burnt Garlic Fried Rice,1,0,Crispy Burnt Garlic tossed in Chinese Sauce & Rice,350.0
+Mains,Burritos,1,0,"King size wrap filled with sauted green vegetables, beans , rice sour cream ... read more",350.0
+Mains,Chilli Garlic Noodles,1,0,"Noodles tossed with Chilli Flakes, Green Chillies, Garlic, & Vegetables",325.0
+Mains,Hakka Noodles,1,0,"Red, Yellow & Green Bell Pepper, Onion & Noodles tossed with a touch ... read more",300.0
+Mains,Kheema Pav,1,0,"Minced Cottage Cheese in Spicy Indian Gravy, served with Desi Pav",250.0
+Mains,Lebanese Falafal Wrap,1,0,"Our house made tortillas rolled in with crispy falafel nuggets, green veggies , ... read more",400.0
+Mains,Mediteranean Mezze Platter,1,0,"This mezze platter is an assortment of snack options including falafel tikkis, lavash, ... read more",475.0
+Mains,Mexican Rice,1,0,"Spice Mexican Rice, Made with Corn, mexican sauce, herbs and topped with cucumber",350.0
+Mains,Mushroom Rice,1,0,"Mushroom Flavored RIce satuated with mexican sauce, onion herbes and coriander",350.0
+Mains,Og Falafal,1,0,"Coming straight from our inhouse bakery, these fresh pita bread are tucked in ... read more",450.0
+Mains,Pad Thai Noodles,1,0,"Bell Peppers, Garlic Sauce , Thai Pest, Roasted Cashew, Flat Noodles",375.0
+Mains,Schezwan Fried Rice,1,0,Rice tossed with finely diced Vegetables & Schezwan Sauce,325.0
+Mains,Schezwan Noodles,1,0,"Vegetables, Chilli Flakes, Garlic tossed with Noodles & cooked in Schezwan Sauce.",325.0
+Mains,Veg Fried Rice,1,0,Rice tossed with finely diced Vegetables,300.0
+Waffle,Blue Berry Waffle,1,0,"Freshly Baked Waffle, garnished with Blueberries served with Vanilla Ice Cream & Blueberry ... read more",350.0
+Waffle,Chocolate Overload Waffle,1,0,"Freshly Baked Waffle, topped with Rich Chocolate Sauce, White Chocolate Sauce garnished with ... read more",350.0
+Waffle,Classic Waffle,1,0,Freshly Baked Waffle served with Maple Syrup/Honey,250.0
+Waffle,Ferroro Rocher Waffle,1,0,"Freshly Baked Waffle, garnished with Chocolate topped with Ice Cream & Ferrero Rocher",350.0
+Waffle,Kit Kat Waffle,1,0,"Freshly Baked Waffle, garnished with Chocolate topped with Kitkat",350.0
+Waffle,Nutella Waffle,1,0,"Freshly Baked Waffle served with Nutella , Vanilla Ice Cream & Banana accompanied ... read more",350.0
+Desserts,Hazelnut Fudgy Brownie,1,0,,180.0
+Desserts,Walnut Fudgy Brownie,1,0,,180.0

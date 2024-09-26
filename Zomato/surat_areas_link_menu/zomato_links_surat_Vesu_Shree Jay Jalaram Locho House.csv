@@ -1,0 +1,73 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Locho,Oil Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,67.0
+Locho,Butter Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,83.0
+Locho,Cheese Butter Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,125.0
+Locho,Lasaniya Oil Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,83.0
+Locho,Lasaniya Butter Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,108.0
+Locho,Lasaniya Cheese Butter Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,141.0
+Locho,Cheese Roll Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,183.0
+Locho,Tandoori Cheese Roll Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,200.0
+Locho,Thousand Cheese Roll Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,200.0
+Locho,Peri Peri Cheese Roll Locho,1,0,,200.0
+Locho,Garlic Cheese Roll Locho,1,0,,200.0
+Locho,Mexican Cheese Roll Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,200.0
+Locho,Pizza Cheese Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,250.0
+Locho,Cheesy Angoori Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,250.0
+Locho,Cheesy Blast Tandoori Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,216.0
+Locho,Cheesy Blast Thousand Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,216.0
+Locho,Cheesy Blast Schezwan Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,216.0
+Locho,Cheesy Blast Tikka Masala Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,216.0
+Locho,Nachos with Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,216.0
+Locho,Solid Masti with Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,216.0
+Locho,Cream Onion with Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,216.0
+Combos,Cream Onion Mayo Pav Combo,1,0,Cream Onion Mayo Pav+Solid Masti Mayo Pav+Vada Pav,160.0
+Combos,Cream Onion Pav Combo,1,0,Cream Onion Pav+Solid Masti Mayo Pav+Vada Pav,160.0
+Combos,Solid Masti Mayo Combo,1,0,Soldi Masti Mayo Locho+Cream and Onion Cheese Locho,230.0
+Combos,Lehsuni Cheese Roll Locho Combo,1,0,Lehsuni Cheese Roll Locho+Tandoori Cheese Locho,230.0
+Combos,Cheese Roll Locho Combo,1,0,Cheese Roll Locho+Garlic Cheese Butter Locho,230.0
+Combos,Dal Samosa Combo,1,0,Dal Samosa+Cheese Paneer Samosa+Chinese Samosa,199.0
+Combos,Cheese Vadapav Combo,1,0,Cheese Vadapav [2 Pieces]+Vada Pav [2 Pieces],199.0
+Combos,Cream & Onion cheese Locho Combo,1,0,Solid Masti Mayo Locho+ Cream & Onion Cheese Locho,230.0
+Combos,Lasoon cheese Roll Locho Combo,1,0,Lasoon Cheese Roll Locho+Tandoori Cheese Locho,230.0
+Snacks,Cream Onion Mayo Pav,1,0,,67.0
+Snacks,Solid Masti Mayo Pav,1,0,,67.0
+Snacks,Nachos Mayo Pav,1,0,,67.0
+Snacks,Garlic Onion Mayo Pav,1,0,,67.0
+Snacks,Garlic Solid Masti Mayo Pav,1,0,,67.0
+Snacks,Cheese Blast Mayo Pav,1,0,,83.0
+Snacks,Cheese Chinese Mayo Pav,1,0,,83.0
+Snacks,Garlic Chinese Mayo Pav,1,0,,83.0
+Snacks,Tandoori Chinese Mayo Pav,1,0,,83.0
+Snacks,Tikka Masala Chinese Mayo Pav,1,0,,83.0
+Snacks,Peri Peri Chinese Mayo Pav,1,0,,83.0
+Snacks,Thousand Cheese Mayo Pav,1,0,,83.0
+Snacks,Garlic Paneer Mayo Pav,1,0,,83.0
+Snacks,Tandoori Paneer Mayo Pav,1,0,,83.0
+Snacks,Tikka Masala Paneer Mayo Pav,1,0,,83.0
+Snacks,Peri Peri Paneer Mayo Pav,1,0,,83.0
+Snacks,Thousand Paneer Mayo Pav,1,0,,83.0
+Snacks,Garlic Aloo Tikki Mayo Pav,1,0,,83.0
+Snacks,Tikka Masala Aloo Tikki Mayo Pav,1,0,,83.0
+Snacks,Peri Peri Paneer Aloo Tikki Mayo Pav,1,0,,83.0
+Snacks,Thousand Aloo Tikki Mayo Pav,1,0,,83.0
+Snacks,Butter Vada Pav,1,0,,42.0
+Snacks,Cheese Butter Vada Pav,1,0,,83.0
+Snacks,Toofani Butter Vada Pav,1,0,,52.0
+Snacks,Toofani Butter Cheese Vada Pav,1,0,,92.0
+Snacks,Mayo Cheese Vada Pav,1,0,,100.0
+Snacks,Schezwan Cheese Vada Pav,1,0,,100.0
+Snacks,Cheese Paneer Samosa Plate [4 Pieces],1,0,,116.0
+Snacks,Cheese Samosa Plate [4 Pieces],1,0,,116.0
+Snacks,"Dal Samosa Plate [5 Pieces,150 gm]",1,0,,67.0
+Snacks,Punjabi Samosa Plate [2 Pieces],1,0,,67.0
+Snacks,Vagharela Idada,1,0,,100.0
+Snacks,Oil Idada [1 Plate],1,0,"Idada, here is a non-fermented version of dhokla, for people with acidity and ... read more",67.0
+Snacks,Butter Idada [1 Plate],1,0,"Idada, here is a non-fermented version of dhokla, for people with acidity and ... read more",100.0
+Snacks,Butter Idada with Cheese [1 Plate],1,0,"Idada, here is a non-fermented version of dhokla, for people with acidity and ... read more",133.0
+Snacks,Schezwan Idada with Cheese [1 Plate],1,0,,166.0
+Snacks,Garlic Idada with Cheese [1 Plate],1,0,"Idada, here is a non-fermented version of dhokla, for people with acidity and ... read more",166.0
+Snacks,Patudi,1,0,,100.0
+Snacks,Vagharela Khaman,1,0,"Khaman is made up of fresh ground channa daal or channa flour (besan), ... read more",100.0
+Snacks,Saada Khaman,1,0,"Khaman is made up of fresh ground channa daal or channa flour (besan), ... read more",67.0
+Snacks,Patties Plate [4 Pieces],1,0,,67.0
+Snacks,Chinese Roll,1,0,,42.0

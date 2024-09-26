@@ -1,0 +1,231 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sizzlers,Lasooni Tikka Sizzler,0,0,A succulent and juicy cutlet marinated in a rich and flavorful sauce. A ... read more,304.0
+Sizzlers,Golden Tikka Sizzler,0,0,Tender pieces of chicken marinated in a blend of aromatic spices and sizzled ... read more,304.0
+Sizzlers,Zafrani Tikka Sizzler,0,0,Tender pieces of chicken marinated in a blend of aromatic spices and cooked ... read more,336.0
+Sizzlers,Malai Tikka Sizzler,0,0,"A sizzling platter of tender marinated chicken cubes, paired with a creamy malai ... read more",396.0
+Sizzlers,Boneless Chicken Dilkush SIzzler,0,0,Boneless chicken cubes cooked in a flavorful creamy sauce with a blend of ... read more,592.0
+Sizzlers,Boneless Chicken Golden Juice Sizzler,0,0,A succulent and juicy boneless chicken dish served with a refreshing twist of ... read more,532.0
+Sizzlers,Boneless Nawabi Sizzler,0,0,"A sizzling platter of tender boneless chicken strips cooked to perfection, served alongside ... read more",488.0
+Sizzlers,Boneless Kolhapuri Sizzler,0,0,A juicy and flavorful boneless sizzler that has a perfect blend of spices ... read more,472.0
+Soups,Chicken Garlic Soup,0,0,"Chicken garlic soup, a savory chicken broth flavored with garlic and chicken, garnished ... read more",136.0
+Soups,Chicken Clear Soup,0,0,A delightfully flavor-packed clear soup with chopped veggies and chicken pieces - perfect ... read more,168.0
+Starters,Chilli Paneer [9 Pieces],1,0,A spicy and flavorful dish with a blend of soft and succulent paneer ... read more,273.6
+Starters,Paneer Schezwan Dry [9 Pieces],1,0,"A fiery dish filled with soft and creamy paneer cubes, tossed in a ... read more",288.0
+Starters,Paneer Stick Dry [9 Pieces],1,0,"Crispy paneer sticks coated in a spicy and tangy sauce, served with a ... read more",320.0
+Starters,Paneer Red Cook Dry [9 Pieces],1,0,Tender cubes of paneer cooked in a red sauce with a hint of ... read more,320.0
+Starters,Paneer Dragon Dry [9 Pieces],1,0,"Crispy and flavorful paneer dragon dry, a delightful dish that is served in ... read more",304.0
+Starters,Paneer Kaju Chilli Dry [9 Pieces],1,0,"A spicy and delicious dish with soft, succulent paneer cubes and cashew nuts ... read more",412.0
+Starters,Paneer Badami Cheese Chilli Dry [9 Pieces],1,0,A scrumptious mix of paneer and badami with a spicy kick from the ... read more,472.0
+Starters,Veg Manchurian Dry,1,0,"Crispy and flavorful vegetable dumplings coated in a spicy, tangy sauce. A Chinese ... read more",108.0
+Starters,Veg Schezwan Manchurian,1,0,Crispy and spicy fried dumplings made with mixed vegetables in a spicy and ... read more,136.0
+Starters,Garlic Manchurian,0,0,"Crispy fried chicken pieces tossed in a tangy, spicy and fragrant garlic sauce.",136.0
+Starters,Ginger Manchurian,1,0,,136.0
+Starters,Dragon Manchurian,1,0,"A mouthwatering, juicy and crispy dish, dragon manchu is a Chinese dish prepared ... read more",168.0
+Starters,Chicken Dana [250 grams],0,0,"Tender chicken pieces cooked in a rich, flavorful sauce made with aromatic spices ... read more",168.0
+Starters,Chicken Lollipop [6 Pieces],0,0,Everyone's favorite home-spiced chicken lollipop served straight from the tandoor.,288.0
+Starters,Tandoori Chicken Leg,0,0,Our tandoori chicken leg is marinated in aromatic spices and cooked to perfection ... read more,152.0
+Starters,Tandoori Chicken Chest,0,0,Our mouth watering tandoori chicken breast is marinated in aromatic spices and grilled ... read more,152.0
+Starters,Cheese Chicken Chest,0,0,Food for the soul cheese chicken chest is a lips making dish that ... read more,260.0
+Starters,Chicken Tangdi Kebab,0,0,A succulent and juicy kebab made with tender pieces of chicken marinated in ... read more,412.0
+Starters,Chicken Tawa Fry,0,0,Juicy and tender chicken pieces cooked with aromatic spices and garnished with fresh ... read more,244.0
+Starters,Chicken Kaleji Fry,0,0,"A succulent, spicy, and tangy dish, made with chicken, kaleji, and a flavorful ... read more",244.0
+Starters,Amdawadi Tawa Chicken,0,0,A crispy and flavourful dish of chicken cooked in Tawa with a blend ... read more,273.6
+Starters,Amdawadi Special Chicken,0,0,"A spicy and delicious chicken dish, Ambewadi special is a chicken dish cooked ... read more",364.8
+Starters,Chicken Chatpata,0,0,An irresistibly delicious pieces of chicken cooked in tandoor style with rich Indian ... read more,352.0
+Starters,Special Boneless Chicken Tiranga,0,0,A delicious and flavorful dish made with tender boneless chicken pieces marinated with ... read more,653.6
+Starters,Chilli Chicken Dry,0,0,Chilli chicken dry is a popular Chinese dish made with tender pieces of ... read more,244.0
+Starters,Chicken Lollipop Dry,0,0,"Crispy chicken lollipop, marinated with a blend of aromatic spices and deep fried ... read more",244.0
+Starters,Chicken Rose Garden,0,0,"A classic Chinese dish made with chicken, vegetables, and a flavorful sauce.",260.0
+Starters,Chilli Dragon Chicken,0,0,"Chinese chicken dish with a fiery kick, with a blend of schezwan and ... read more",273.6
+Starters,Special Chilli Chicken,0,0,"A fiery, spicy and lips making chicken dish.",320.0
+Starters,Special Chicken Bullet Chilli Dry,0,0,"A rich and spicy dish, bursting with flavors, this Special Chicken with ChilliDry ... read more",260.0
+Starters,Special Chicken Golden Dragon Chilli Dry,0,0,"A fiery dish of succulent chicken and vegetables cooked in a special sauce, ... read more",425.6
+Starters,Special Chicken Kurkure Dry,0,0,"Special chicken kurkure is a special dish made with chicken, spices and crisp ... read more",532.0
+Starters,Special Barbecue Chicken Chilli Dry,0,0,"A juicy, succulent and flavorful dish of barbecued chicken served with a spicy ... read more",456.0
+Starters,Special Spicy Chicken Peri Peri Chilli Dry,0,0,A spicy and flavorful dish made with tender chicken pieces in a special ... read more,592.0
+Starters,Special Chicken Vestar Chilli Dry,0,0,"Tender pieces of chicken cooked in a spicy, flavorful and aromatic sauce. A ... read more",456.0
+Starters,Boneless Chicken Keema Fry,0,0,"Crispy boneless chicken chunks cooked in a flavorful, aromatic and mildly spicy curry, ... read more",412.0
+Starters,Boneless Chicken Tawa Fry,0,0,"Tender, juicy boneless chicken cooked to perfection, served hot and sizzling on a ... read more",312.0
+Starters,Mutton Bombay Chaap,0,0,Tender and juicy mutton chaap cooked to perfection with the authentic flavors of ... read more,372.0
+Starters,Mutton Chaap Fry,0,0,Mutton chaap fry is a delicious and popular dish of mutton chunks cooked ... read more,364.8
+Starters,Special Mutton Bhuna Fry,0,0,Mutton cooked in a traditional style with a touch of spice. A flavorful ... read more,425.6
+Starters,Mutton Bheja Fry,0,0,A delectable dish made with tender pieces of mutton cooked in a rich ... read more,244.0
+Starters,Mustak Special Mutton Bheja Fry,0,0,"A dish of tender, juicy mutton cooked with aromatic spices and herbs to ... read more",364.8
+Starters,Chilli Mangolian Dry,0,0,Crunchy chicken tossed in a spicy sauce and flavored with fresh vegetables.,288.0
+Main Course,Paneer Masala,1,0,Soft paneer soaked in a rich and creamy gravy laden with butter,273.6
+Main Course,Kadhai Paneer,1,0,A delicious dish of tender paneer cooked in a rich tomato gravy with ... read more,288.0
+Main Course,Paneer Butter Masala,1,0,"Soft pieces of paneer in rich, creamy and aromatic gravy made of butter, ... read more",304.0
+Main Course,Paneer Patiala,1,0,"Approx 300 ml, Serve 2 Person",320.0
+Main Course,Paneer Cheese Butter,1,0,"A rich and creamy sauce with buttery flavor, made with paneer and cheese. ... read more",364.8
+Main Course,Paneer Bhurji,1,0,Paneer bhurji is a popular and delicious dish made from crumbled paneer.,336.0
+Main Course,Paneer Handi,1,0,"Cube cut cottage cheese and sauteed capsicum tossed together with ginger, garlic paste ... read more",320.0
+Main Course,Paneer Tikka Masala,1,0,Marinated chunks of paneer cooked in tandoor and finished in tomato gravy with ... read more,300.0
+Main Course,Veg Manchurian Gravy,1,0,"A crispy, spicy and flavorful dish that is a perfect blend of vegetables ... read more",168.0
+Main Course,Egg Keema,0,0,"A spicy, flavorful dish made with minced egg and minced meat.",152.0
+Main Course,Egg Cheese,0,0,"A fluffy, creamy omelette filled with a rich blend of premium cheese.",60.8
+Main Course,Egg Kadhi,0,0,"Egg Kadhi are popular dishes from the state of Gujarat, India.",182.4
+Main Course,Egg Bhurji,0,0,A wholesome dish prepared with delectable eggs scrambled and flavored with masalas and ... read more,152.0
+Main Course,Egg Ghotala,0,0,"A spicy and flavorful dish made with boiled eggs, green chilli paste and ... read more",228.0
+Main Course,Chicken Kaleji Masala,0,0,"Juicy chicken pieces simmered in a rich, aromatic sauce with kaleji, a traditional ... read more",304.0
+Main Course,Special Nargisi Chicken,0,0,"A rich and aromatic dish with succulent chicken pieces, cooked in a creamy ... read more",472.0
+Main Course,Special Chicken Lahori,0,0,"A special dish from the lahori cuisine, this spicy and flavorful dish is ... read more",352.0
+Main Course,Special Chicken Badshah,0,0,A special preparation of succulent chicken cooked in a unique blend of aromatic ... read more,548.0
+Main Course,Chicken Macchi Masala,0,0,"Chicken macchi masala is a lips macking combination of juicy pieces of chicken, ... read more",273.6
+Main Course,Chicken Tawa Fry Gravy,0,0,Chicken tawa fried gravy is a simple and delicious dish made with chicken ... read more,228.8
+Main Course,Nepali Chicken,0,0,Nepali chicken is a popular dish from Nepal that is made with chicken ... read more,320.0
+Main Course,Chicken Osila,0,0,"Chicken osila a unique dish from the konkani cuisine, this chicken dish is ... read more",320.0
+Main Course,Afghani Chicken,0,0,Afghani chicken a delectable dish with the rich flavors of chicken and spices.,320.0
+Main Course,Chicken Toofani,0,0,"Toofani ki kuchh masaledaar, spicy chicken curry, cooked with fresh spices and aromatic ... read more",320.0
+Main Course,Special Boneless Chicken Amrin,0,0,Special boneless amrin chicken  a special dish that is cooked with chicken pieces ... read more,456.0
+Main Course,Special Boneless Chicken Mixed Tikka Masala,0,0,"Crispy and tender pieces of boneless chicken, mixed with aromatic spices and cooked ... read more",564.0
+Main Course,Boneless Chicken Darbari,0,0,"Tender, juicy and flavorful boneless chicken cooked in a creamy, aromatic, rich tomato ... read more",456.0
+Main Course,Chicken Zafrani Boneless,0,0,A chicken preparation with a unique blend of spices and rich flavors that ... read more,472.0
+Main Course,Boneless Chicken Tikka Masala,0,0,Juicy and tender pieces of boneless chicken in a rich and creamy tomato ... read more,396.0
+Main Course,Boneless Chicken Bhuna,0,0,A spicy and aromatic chicken dish with a twist.,396.0
+Main Course,Boneless Chicken Paplet,0,0,"Crisp and succulent chicken pieces, cooked in a tangy, spicy and aromatic sauce.",396.0
+Main Course,Boneless Patiala Chicken,0,0,"Boneless, tender and juicy chicken pieces cooked with spices and herbs. A popular ... read more",412.0
+Main Course,Boneless Chicken Macchi,0,0,,412.0
+Main Course,Boneless Chicken Golden Gravy,0,0,"A delectable dish that is rich in flavor, this boneless chicken is coated ... read more",425.6
+Main Course,Boneless Reshmi Chicken,0,0,"Tender, succulent and juicy boneless chicken cooked in a creamy and flavorful sauce, ... read more",322.4
+Main Course,Boneless Chicken Rashida,0,0,"A boneless chicken dish that is cooked with a blend of aromatic spices, ... read more",396.0
+Main Course,Boneless Chicken Mumbai,0,0,,425.6
+Main Course,Boneless Chicken Dilruba Tikka Masala,0,0,Juicy chunks of boneless chicken marinated in a creamy tomato based sauce and ... read more,425.6
+Main Course,Boneless Chicken Ginger,0,0,"Delicious chicken dish cooked in a flavorful, aromatic and spicy sauce.",425.6
+Main Course,Boneless Chicken Cream Paplet,0,0,"A creamy and flavorful dish, boneless chicken cooked in a rich cream sauce.",425.6
+Main Course,Chicken Masala,0,0,A Hearty Dish With Tender Chicken Pcs Simmered In A Rich And Indulgent ... read more,273.6
+Main Course,Boneless Chicken Masala,0,0,Juicy chicken seasoned with freshly ground spices and grilled to perfection,364.8
+Main Course,Achari Chicken,0,0,Achari chicken is a lips making dish that has a unique blend of ... read more,304.0
+Main Course,Boneless Achari Chicken,0,0,"Tender boneless chicken pieces cooked in a spicy, tangy and aromatic blend of ... read more",366.4
+Main Course,Chicken Kolhapuri,0,0,Chicken pieces cooked with chicken mince in onion tomato masala.,304.0
+Main Course,Boneless Chicken Kolhapuri,0,0,A succulent chicken dish with a flavorful twist.,366.4
+Main Course,Kashmiri Chicken,0,0,A flavorful and succulent chicken dish with a subtle hint of Kashmri spices ... read more,304.0
+Main Course,Boneless Kashmiri Chicken,0,0,"Tender boneless chicken cooked in a creamy and aromatic Kashmiri sauce, with a ... read more",366.4
+Main Course,Chicken Dhaniya,0,0,A zesty combination of succulent chicken pieces and fresh coriander. A fiery dish ... read more,249.6
+Main Course,Boneless Chicken Dhaniya,0,0,A flavorful dish that is prepared with boneless chicken pieces marinated in a ... read more,332.8
+Main Course,Chicken Handi,0,0,Tasty lentil based curry recipe made with split pea lentil and indian spices.,304.0
+Main Course,Boneless Chicken Handi,0,0,"Tender chicken pieces cooked in aromatic spices, balanced with the richness of yogurt, ... read more",366.4
+Main Course,Kadhai Chicken,0,0,A rich and flavorful dish of chicken cooked in a Kadhapha style with ... read more,304.0
+Main Course,Boneless Kadhai Chicken,0,0,Tender boneless chicken cooked in a flavorful tomato based sauce with aromatic spices ... read more,366.4
+Main Course,Arbi Chicken,0,0,Arbi [colocasia] cooked in a rich tomato gravy with chunks of chicken.,304.0
+Main Course,Boneless Arbi Chicken,0,0,"A tender, flavorful chicken dish with crispy chunks of boneless arbi. A perfect ... read more",440.0
+Main Course,Nawabi Chicken,0,0,"Chicken, a favorite for many, is a versatile ingredient that can be prepared ... read more",304.0
+Main Course,Boneless Nawabi Chicken,0,0,A tender and juicy chicken dish with a rich taste and aroma.,440.0
+Main Course,Chicken Hyderabadi,0,0,A flavorful combination of rice and succulent pieces of chicken cooked in a ... read more,304.0
+Main Course,Boneless Chicken Hyderabadi,0,0,A succulent and flavorful dish made with boneless chicken cooked in a creamy ... read more,440.0
+Main Course,Chicken Lajawab,0,0,"Marinated chicken chunks cooked in a variety of spices, yogurt and kasoori methi ... read more",320.0
+Main Course,Boneless Chicken Lajawab,0,0,"A delectable, juicy, boneless chicken dish that is sure to leave you craving ... read more",440.0
+Main Course,Butter Chicken,0,0,"A curry of chicken in a spiced tomato, butter and cream sauce",320.0
+Main Course,Boneless Butter Chicken,0,0,"A curry of chicken in a spiced tomato, butter and cream sauce",366.4
+Main Course,Chicken Angara,0,0,Chicken Angara is a spicy chicken curry made using freshly ground masala powder. ... read more,320.0
+Main Course,Boneless Chicken Angara,0,0,Tender boneless chicken pieces sauteed in aromatic spices and cooked in a creamy ... read more,456.0
+Main Course,Green Chicken,0,0,Green Chicken is a succulent and aromatic chicken dish.,320.0
+Main Course,Boneless Green Chicken,0,0,"A succulent, flavorful dish with tender boneless chicken cooked in a rich and ... read more",456.0
+Main Course,Lemon Chicken,0,0,Crispy and juicy tender chicken cooked in tangy lemon flavor.,304.0
+Main Course,Boneless Lemon Chicken,0,0,"A flavorful and juicy chicken dish with a hint of lemon, perfect for ... read more",440.0
+Main Course,Kasturi Chicken,0,0,"A simple, traditional Indian dish that is packed with flavour.",304.0
+Main Course,Boneless Kasturi Chicken,0,0,"A luscious, succulent boneless chicken dish prepared with a generous amount of spices, ... read more",440.0
+Main Course,Cheese Chicken,0,0,"A tantalizing treat for the taste buds, this dish is a rich and ... read more",352.0
+Main Course,Boneless Cheese Chicken,0,0,Boneless chicken pieces cooked with soft cheese and herbs for a luscious and ... read more,488.0
+Main Course,Chicken Lollipop Gravy [5 Pieces],0,0,Tender and juicy chicken lollipop smothered in a rich and creamy gravy.,380.0
+Main Course,Boneless Chicken 65 Masala,0,0,A tangy and spicy dish with a crunchy coating of boneless chicken pieces ... read more,456.0
+Main Course,Boneless Dahi Chicken,0,0,"A delectable dish featuring juicy boneless chicken cooked in a creamy yogurt sauce, ... read more",504.0
+Main Course,Boneless Zafrani Chicken,0,0,"A flavorful chicken dish with a dash of saffron, giving it a bright ... read more",488.0
+Main Course,Mustak Special Butter Chicken,0,0,Enjoy a delectable combination of chicken cooked in a rich and creamy butter ... read more,380.0
+Main Course,Mustak Special Boneless Butter Chicken,0,0,A succulent boneless chicken dish cooked in a creamy sauce with a hint ... read more,532.0
+Main Course,Special Chicken Goti,0,0,"A delectable dish that is cooked to perfection, Special Chicken Goat is a ... read more",288.0
+Main Course,Special Boneless Chicken Goti,0,0,A spicy and tangy dish made with tender boneless chicken pieces cooked in ... read more,456.0
+Main Course,Chicken Lollipop Gravy,0,0,"Tender chicken lollipop, marinated in a rich and flavorful gravy, perfect for a ... read more",288.0
+Main Course,Chilli Chicken Gravy,0,0,Crispy chicken cooked in a spicy and flavorful gravy with a hint of ... read more,273.6
+Main Course,Mutton Bheja Masala,0,0,A rich and flavorful dish with tender pieces of lamb cooked in a ... read more,260.0
+Main Course,Mutton Lasooni Bheja,0,0,A rich and succulent dish of tender pieces of mutton cooked with fragrant ... read more,273.6
+Main Course,Boneless Mutton Bhuna,0,0,"Tender pieces of boneless mutton cooked in a rich, aromatic sauce with a ... read more",366.4
+Main Course,Mutton Chaap Masala,0,0,"Tender pieces of mutton cooked in a rich blend of spices, making it ... read more",298.0
+Main Course,Special Mutton Darbari,0,0,,592.0
+Main Course,Mustak Special Mutton,0,0,"A special and tasty mutton dish with an exotic blend of spices, this ... read more",516.8
+Main Course,Mutton Masala,0,0,Tender mutton chunks cooked in a rich gravy seasoned with aromatic spices .,425.6
+Main Course,Mutton Handi,0,0,Traditional rich stew with lots of spicy and a velvety rich masala gravy,472.0
+Main Course,Kadhai Mutton,0,0,"Tender mutton pieces in a creamy, aromatic kadhai sauce a traditional Indian dish.",425.6
+Main Course,Mutton Lajawab,0,0,A spicy and flavorful dish made with tender pieces of mutton cooked in ... read more,440.0
+Main Course,Mutton Kolhapuri,0,0,"An aromatic and flavor-packed dish with tender mutton cooked in a rich, flavorful ... read more",472.0
+Main Course,Mutton Angara,0,0,Angara is a delectable dish made from a juicy piece of mutton cooked ... read more,488.0
+Main Course,Mutton Hyderabadi,0,0,Tender mutton slow-cooked in aromatic Indian spices to create a mouth-watering dish that ... read more,366.4
+Main Course,Mutton Rogan Josh,0,0,Mutton is a lean meat that is rich in protein and has a ... read more,532.0
+Main Course,Mutton Kasturi,0,0,Tender pieces of mutton cooked in a rich blend of traditional spices and ... read more,472.0
+Main Course,Mutton Nawabi,0,0,"Tender pieces of mutton cooked in a rich and aromatic blend of spices, ... read more",472.0
+Main Course,Special Mutton Lemon Dhania,0,0,A mouthwatering dish prepared with tender pieces of mutton cooked in a special ... read more,488.0
+Main Course,Special Mutton Lemon,0,0,A flavorful dish made with tender pieces of mutton cooked in a rich ... read more,366.4
+Main Course,Special Mutton Cheese,0,0,Special mutton cheese is a delectable dish made with tender mutton pieces and ... read more,504.0
+Main Course,Special Butter Mutton,0,0,"Tender and juicy mutton cooked in a rich buttery sauce with aromatic spices, ... read more",532.0
+Main Course,Special Mutton Dhaba,0,0,A special mutton dish made with aromatic spices and herbs that will leave ... read more,577.6
+Main Course,Special Mutton Karela,0,0,A flavorful dish prepared by stuffing cooked mutton with a mixture of spices ... read more,472.0
+Main Course,Special Mutton Mughlai,0,0,A rich and aromatic mughlai dish of tender mutton cooked in a tomato ... read more,488.0
+Main Course,Special Mutton Green,0,0,A mouth watering dish prepared with succulent pieces of mutton and fresh green ... read more,504.0
+Main Course,Special Butter Mutton Rashida,0,0,"Tender pieces of mutton in a rich, buttery gravy made with aromatic spices ... read more",516.8
+Breads,Tandoori Roti,1,0,Super soft roti that is cooked to perfection in a tandoor.,19.0
+Breads,Butter Tandoori Roti,1,0,"Images used are for representation purposes only and do not indicate size, portion, ... read more",29.9
+Breads,Kulcha,1,0,A mouthwatering Roti dish with a unique texture and a delectable flavor.,45.5
+Breads,Kulcha Butter Roti,1,0,"A crispy, flaky, buttery flatbread made with refined flour and topped with a ... read more",60.8
+Breads,Naan,1,0,A leavened bread from north Indian made from maida and baked in a ... read more,45.6
+Breads,Butter Naan,1,0,Refined flour dough flat bread butter spread cooked in clay oven.,45.5
+Breads,Parotta,1,0,"A soft, pillowy bread made with layers of dough, stuffed with a flavorful ... read more",60.8
+Breads,Butter Parotta,1,0,"A buttery, flaky, and delicious paratha made with a layer of rich, creamy ... read more",68.8
+Breads,Lachha Parotta,1,0,"A layered, fluffy, soft and tender paratha with a crisp exterior. It has ... read more",76.0
+Breads,Butter Lachha Parotta,1,0,"A light and fluffy parota with a rich buttery flavor, perfect for those ... read more",84.0
+Breads,Garlic Butter Naan,1,0,"A soft and fluffy naan infused with garlic butter, perfect for a hearty ... read more",100.0
+Breads,Roti,1,0,A flatbread made up with wheat flour.,11.7
+Breads,Butter Roti,1,0,"A delicious and buttery roti, perfect for a quick and satisfying meal.",18.2
+Rice and Biryani,Tikka Rice,0,0,"A flavorful, spicy rice dish with tender pieces of chicken marinated in a ... read more",260.0
+Rice and Biryani,Plain RIce,1,0,Just plain and simple steamed rice.,74.0
+Rice and Biryani,Jeera Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices.,87.0
+Rice and Biryani,Paneer Rice,1,0,Tasty vegetarian dish made with fluffy rice and rich paneer gravy.,320.0
+Rice and Biryani,Masala Rice,1,0,Masala rice A fragrant and flavorful rice dish with a blend of spices.,136.0
+Rice and Biryani,Pulao,1,0,A delicious and flavorful rice dish prepared with a blend of aromatic spices.,152.0
+Rice and Biryani,Chicken Pulao,0,0,"Simple, aromatic and healthy meal of juicy chicken stir fried with rice.",184.0
+Rice and Biryani,Mutton Bhuna Rice,0,0,"Tender pieces of mutton cooked in a flavorful bhuna gravy, served over fragrant ... read more",562.4
+Rice and Biryani,Prawns Rice,0,0,A flavorful dish with succulent prawns cooked in a rice based gravy.,548.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,"A classic Chinese dish made with steamed rice, cooked with a variety of ... read more",108.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,A spicy and flavourful rice dish made with a mix of vegetables and ... read more,108.0
+Fried Rice and Noodles,Veg Singapore Fried Rice,1,0,"A flavorful and aromatic rice dish, packed with veggies and a hint of ... read more",108.0
+Fried Rice and Noodles,Veg Hungama Fried Rice,1,0,A flavorful rice dish with mixed vegetables and aromatic spices. It is a ... read more,152.0
+Fried Rice and Noodles,Veg Garlic Fried Rice,1,0,A savory and flavorful fried rice with a garlic aroma that will leave ... read more,108.0
+Fried Rice and Noodles,Veg Ginger Fried Rice,1,0,"A delicious rice dish with a blend of vegetables and spices, perfect for ... read more",108.0
+Fried Rice and Noodles,Veg Combination Fried Rice,1,0,A flavorful dish of rice fried with mixed vegetables to create a delicious ... read more,152.0
+Fried Rice and Noodles,Veg Manchurian Fried Rice,1,0,A delicious Indo Chinese fusion dish with a crispy outer layer and a ... read more,168.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,A wholesome combo with the aromatic triple fried rice served along with flavor-packed ... read more,273.6
+Fried Rice and Noodles,Egg Fried Rice,0,0,"Simple, aromatic, and healthy meal of scrambled eggs stir fried with rice.",168.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,A slightly spicy dish made by tossing juicy chicken and rice in a ... read more,168.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,Hot preparation of rice from the province of schezwan.,168.0
+Fried Rice and Noodles,Chicken Singapore Fried Rice,0,0,"A flavorful fried rice dish with tender chicken, fresh vegetables and a hint ... read more",168.0
+Fried Rice and Noodles,Chicken Garlic Fried Rice,0,0,"Chillies and garlic amp up the flavours of regular rice ,topped with chicken ... read more",200.0
+Fried Rice and Noodles,Chicken Hungama Fried Rice,0,0,"Chicken cooked in a special, rich and flavorful sauce with a combination of ... read more",232.0
+Fried Rice and Noodles,Chicken Kassa Fried Rice,0,0,"Crispy chicken with mixed vegetables in a fried rice bowl with a tangy, ... read more",232.0
+Fried Rice and Noodles,Chicken Chapal Fried Rice,0,0,"A rice based dish with tender chicken pieces, seasoned with aromatic spices and ... read more",232.0
+Fried Rice and Noodles,Special Chicken Fried Rice,0,0,"A flavorful dish with tender pieces of chicken, crispy vegetables, and a delicious ... read more",260.0
+Fried Rice and Noodles,Chicken Golden Fried Rice,0,0,A crispy fried rice dish with a hint of sweetness and a savory ... read more,232.0
+Fried Rice and Noodles,Chicken Traffic Fried Rice,0,0,"A flavorful and hearty dish, this chicken traffic fried rice is a popular ... read more",232.0
+Fried Rice and Noodles,Chicken Chabul Fried Rice,0,0,"A delicious fried rice dish made with juicy chicken pieces, cooked with aromatic ... read more",232.0
+Fried Rice and Noodles,Chicken Combination Fried Rice,0,0,"A flavorful and delectable dish, Chicken Combination fried rice is a classic dish ... read more",232.0
+Fried Rice and Noodles,Chicken Triple Fried Rice,0,0,"A savory rice dish made with shredded chicken, fried to perfection.",288.0
+Fried Rice and Noodles,Chicken Pizza Fried Rice,0,0,A light and flavorful dish that combines the best of both worlds pizza ... read more,336.0
+Fried Rice and Noodles,Chicken Kashmiri Fried Rice,0,0,"A classic Chinese dish of rice, chicken and vegetables, flavored with a Kashmiri ... read more",168.0
+Fried Rice and Noodles,Chicken Hong Kong Fried Rice,0,0,"A Chineseinspired fried rice dish made with chicken, vegetables, and spices.",168.0
+Fried Rice and Noodles,Special Chicken Dhaveli Gravy Fried Rice,0,0,,273.6
+Fried Rice and Noodles,Special Chicken Masti Gravy Fried Rice,0,0,A flavorful and aromatic dish that will leave you craving for more.,352.0
+Fried Rice and Noodles,Special Bombay Chicken Gravy Fried Rice,0,0,Tasteful and flavorful special Bombay chicken gravy fried rice with succulent pieces of ... read more,364.8
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,[Veg preparation],121.6
+Fried Rice and Noodles,Veg American Chopsuey,1,0,"A delicious dish served in a thick, sweet and sour, starch-based vegetable sauce ... read more",320.0
+Fried Rice and Noodles,Veg Singapore Chopsuey,1,0,A delicious dish made from a medley of vegetables cooked in a rich ... read more,239.2
+Fried Rice and Noodles,Chicken Chopsuey,0,0,"A delectable dish made with tender chicken pieces, assorted vegetables, and spices. A ... read more",501.6
+Snacks,Chinese Bhel,1,0,"In Chinese bhel, fried crispy noodles are used with stir fried veggies and ... read more",152.0
+Snacks,Singapore Bhel,1,0,A traditional Indian street food dish made with puffed rice and a sweet ... read more,168.0
+Snacks,Bombay Bhel,1,0,,200.0
+Snacks,Green Ball,1,0,Green ball is a savory and tasty dish that is an excellent option ... read more,152.0
+Snacks,Boiled Egg [2 piece],0,0,A healthy and nutritious option for a quick meal.,15.2
+Snacks,Boiled Egg Fry,0,0,A delicious and traditional South Indian dish that pairs boiled eggs with a ... read more,30.4
+Snacks,Omelette,0,0,"A fluffy, savory, and satisfying omelette that’s perfect for any meal or snack.",91.2
+Snacks,Egg Half Fry,0,0,A tasty and savory dish that can be paired with rice or roti.,106.4
+Snacks,Chicken Bhel,0,0,"A tangy and spicy combination of chicken, fresh vegetables and crisp puffed rice, ... read more",232.0
+Accompaniments,Roasted Papad,1,0,Savory and slightly spicy wafer disc roasted until crispy.,15.2
+Accompaniments,Fried Papad,1,0,Papad fried in shallow oil,19.5
+Accompaniments,Masala Papad,1,0,"Masala papad, a spicy, crunchy and aromatic papad with a burst of flavors.",45.6
+Drinks (Beverages),Chass,1,0,"Chass is a popular North Indian dish made with rice, lentils, spices and ... read more",30.4

@@ -1,0 +1,22 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burger and Sandwiches,Veg Cheese Sandwich,1,0,,70.0
+Burger and Sandwiches,Double Cheese Sandwich,1,0,,70.0
+Burger and Sandwiches,Jungle Sandwich,1,0,,70.0
+Burger and Sandwiches,Mexican Sandwich,1,0,,70.0
+Burger and Sandwiches,Schezwan Mayo Sandwich,1,0,,150.0
+Burger and Sandwiches,Veg Cheese Burger,1,0,,90.0
+Burger and Sandwiches,Veg Burger,1,0,,90.0
+Frankie Rolls,Regular Frankie Roll,1,0,,70.0
+Frankie Rolls,Cheese Schezwan Frankie Roll,1,0,,70.0
+Frankie Rolls,Mayonnaise Frankie Roll,1,0,,70.0
+Momos,Veg Momos [5 Pieces],1,0,,70.0
+Momos,Cheese Paneer Momos [5 Pieces],1,0,,110.0
+Momos,Special Cheesy Momos [5 Pieces],1,0,,110.0
+Snacks,Simple Salted Fries,1,0,,90.0
+Snacks,Masala Fries,1,0,,90.0
+Snacks,Spicy Fries,1,0,,90.0
+Snacks,Tasty Bite Special Cheesy French Fries,1,0,,130.0
+Snacks,Plain Butter Corn,1,0,,60.0
+Snacks,Masala Corn,1,0,,60.0
+Snacks,Special Tasty Bite Corn,1,0,,60.0
+Snacks,Magic Masala Corn,1,0,,60.0

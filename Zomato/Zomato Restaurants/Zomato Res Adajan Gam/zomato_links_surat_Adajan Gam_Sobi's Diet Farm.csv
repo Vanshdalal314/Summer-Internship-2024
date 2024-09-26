@@ -1,0 +1,15 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meals,Omelette Stuffed with Paneer Keema,0,0,Stuffed with paneer.,350.0
+Meals,Chicken Spinach Meal,0,0,Juicy chicken breast in spinach gravy and traditional basmati white rice tossed in ... read more,360.0
+Meals,Roasted Chicken Breast Salad,0,0,Soft and juicy chicken breast grilled with exotic veggies,290.0
+Meals,Chicken Kebab in House Sauce,0,0,Chicken kebab (3 pcs) with house sauce with rice and salad,350.0
+Meals,Chicken Veggies,0,0,Chicken breast stuffed with chopped veggies with steamed white rice and exotic salad,370.0
+Meals,Chicken Mayo [Keto],0,0,Keto chicken meal with only salad,300.0
+Meals,Omelette Stuffed with Chicken Keema,0,0,3 Egg whites and one yolk omlette stuffed with 50 gram chicken keema,350.0
+Meals,Smoked Chicken Tikka Meal,0,0,Smoked chicken pieces (200 gm) with exotic veggies and white rice,360.0
+Meals,Chicken Roasted Meal,0,0,Tender pieces of chicken cooked with a blend of exotic spices and cooked ... read more,350.0
+Meals,Chicken Roulade,0,0,"0 Oil ,melt in mouth chicken breast stuffed with veggies.",330.0
+Meals,Chicken Blonde Tikka,0,0,"Chicken tikkas smoked till blonde saffron hue, with rice and salad.",360.0
+Meals,Chicken Roasted [150 grams],0,0,"Tender, juicy pieces of chicken marinated in a blend of aromatic spices and ... read more",220.0
+Meals,Chicken Roasted [100 grams],0,0,"Juicy and tender pieces of chicken roasted with herbs and spices, perfect for ... read more",170.0
+Salads,Chicken Roasted (200gm),0,0,"Juicy and tender chicken roasted to perfection, our Chicken Roasted is a delectable ... read more",270.0

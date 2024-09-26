@@ -1,0 +1,221 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Brunt Garlic Rice (250 Ml) + Manchurian Gravy (250 Ml),1,0,,199.0
+Combos,Dal Fry (250 Ml) + Jeera Rice (250 Ml),1,0,,199.0
+Combos,Hakka Noodle (250 Ml) + Manchurian Gravy (250 Ml),1,0,,199.0
+Combos,Manchurian Gravy (250 Ml) + Veg Fried Rice (250 Ml),1,0,,199.0
+Combos,Paneer Chilly (250 Ml) + Schezwan Rice (250 Ml),1,0,,249.0
+Combos,Paneer Chilly Gravy (250 Ml) + Burnt Garlic Rice (250 Ml),1,0,,249.0
+Combos,Thai Curry (250 Ml) + Steam Rice (250 Ml),1,0,,219.0
+Combos,Tob Special Biryani (250 Ml) + Raita + Papad Churi,1,0,,199.0
+Combos,Tob Special Dal Khichadi (250 Ml) + Curd + Papad Churi,1,0,,199.0
+Combos,Veg Fried Rice (250 Ml) + Veg Hakka Noodles (250 Ml),1,0,,199.0
+Packed Meal ( Thali ),Make Your Own Special Meal,1,0,Make Your Own Meal,286.0
+Packed Meal ( Thali ),Royal Thali,1,0,Paneer Sabji + Mix Veg Sabji + Tawa Chapati + Dal Tadka + ... read more,240.0
+Packed Meal ( Thali ),Royal Special Thali,1,0,Paneer Sabji + Mix Veg Sabji + Butter Laccha Paratha + Dal Makhani ... read more,286.0
+Packed Meal ( Thali ),Mexican Thali,1,0,Mexican Rice + Mexican Tit Bit + Nachos Chips + Pesto Paneer + ... read more,286.0
+Packed Meal ( Thali ),European Thali,1,0,Pink Sauce Pasta + Pesto Paneer + Saute Veg + Italian Rice + ... read more,286.0
+Packed Meal ( Thali ),Oriental Thali,1,0,Veg Hakka Noodles + Manchurian Gravy + Crispy Veg + Green Thai Curry ... read more,286.0
+Packed Meal ( Thali ),Pav Bhaji Thali,1,0,Pav Bhaji + Kachumber Salad + Veg Pulao + Papad Churi + Gulab ... read more,286.0
+Delhi Chat Special,Pani Puri (8 Pcs),1,0,A crispy and delicious snack filled with a flavorful blend of spiced water ... read more,100.0
+Delhi Chat Special,Dahi Sev Puri,1,0,A delicious snack made with crispy fried puri and topped with tangy yogurt ... read more,100.0
+Delhi Chat Special,Raj Kachori,1,0,"Crispy kachori is stuffed with boiled potatoes, yogurt, chutney and more, creating this ... read more",125.0
+Delhi Chat Special,Dahi Papdi Chaat,1,0,"Fried and crispy papdi made freshly with topped with potatoes, chickpeas, chutneys, chaat ... read more",112.5
+Delhi Chat Special,Dahi Wada,1,0,An irresistibly creamy soothing dahi with crispy vada served fried to golden perfection.,112.5
+Delhi Chat Special,Dahi Gujiya,1,0,Dahi gujiya is a traditional Indian sweet that is made by rolling a ... read more,125.0
+Delhi Chat Special,Banarasi Palak Patta Chaat,1,0,"A delicious and healthy chaat dish made with spinach and chickpeas, flavored with ... read more",130.0
+Delhi Chat Special,Desi Ghee Aloo Tikki,1,0,"A crispy golden brown potato patty topped with a spicy, creamy, aromatic mixture ... read more",112.5
+Delhi Chat Special,Tikki Chole,1,0,A delightfully flavor-packed dish with crispy aloo tikki; served along with flavorful chick ... read more,125.0
+Delhi Chat Special,Sindh Punjab Samosa ( 2 Pcs ),1,0,"Sindh’s iconic and most popular street food, the Punjabi samosa is a fried ... read more",35.0
+Delhi Chat Special,Samosa Chole ( 1Pcs),1,0,A crispy and savory pastry filled with spiced chickpeas and topped with tangy ... read more,125.0
+Delhi Chat Special,Ragda Samosa,1,0,,112.5
+Delhi Chat Special,Dal Kachori (2 Pc),1,0,"A spicy and savory dish made with lentil stuffed in a crispy, flaky ... read more",50.0
+Delhi Chat Special,Pakwan Chat,1,0,Pakwan chat a savory snack made from a crispy fried flour based flatbread ... read more,125.0
+Delhi Chat Special,Dilhiwale Patile Ka Mutter Kulcha,1,0,"A soft and fluffy Indian bread made with a combination of lentils, vegetables ... read more",150.0
+Delhi Chat Special,Choley Kulcha,1,0,,185.0
+Delhi Chat Special,Choley Bhatura,1,0,Choley bhature is a popular North Indian dish that is a combination of ... read more,235.0
+Delhi Chat Special,Pav Bhaji,1,0,Butter laden pavs accompanied by a delicious and healthy gravy of mashed vegetables ... read more,185.0
+Delhi Chat Special,Bombay Masala Pav,1,0,"A crispy and soft Indian bread stuffed with flavorful, aromatic and spicy bhaji.",150.0
+Delhi Chat Special,Extra Butter Kulcha,1,0,,30.0
+Delhi Chat Special,Extra Butter Pav,1,0,,20.0
+Delhi Chat Special,Extra Bhature,1,0,"Crispy, fluffy bread paired with a classic, flavorful chickpea curry.",40.0
+Steaming Soup,Hong Kong Hot,1,0,"Hong kong style hot pot dish with a delicious combination of chicken, meat, ... read more",150.0
+Steaming Soup,Manchow Soup,1,0,A comforting Chinese-style thick soup filled with exotic and hot vegetables.,145.0
+Steaming Soup,Thupka,1,0,"Thukpa Is Made Of Noodles, Assorted Vegetables & Tibetian Spices",145.0
+Steaming Soup,Asian Green Soup With Herbs,1,0,A light and nourishing soup with a blend of Asian herbs and greens. ... read more,145.0
+Steaming Soup,Tom Yum Phak,1,0,Regular Hot & Spicy Thai Soup,145.0
+Steaming Soup,Sweet Corn Soup,1,0,"Comforting soup brimming with sweet, wholesome corn.",145.0
+Steaming Soup,Tomasil,1,0,Tomato With Basil,145.0
+Steaming Soup,Tamatar Dhanya Shorba,1,0,A thick and creamy tomato based soup made with the goodness of vegetables.,145.0
+Steaming Soup,Cream Of Tomato Soup,1,0,Tangy & thick tomato soup with a blissful twist of cream.,145.0
+Steaming Soup,Tex Mex Green Chili Soup,1,0,"Leafy Green & Bell Pepper Soup With A Hint Of Green Chili, Topped ... read more",145.0
+Exotic Soup,Broccoli & Corn Soup,1,0,,137.5
+Exotic Soup,Cream Of Broccoli Soup,1,0,"Creamy soup made with fresh broccoli, a hearty and nourishing dish that is ... read more",137.5
+Exotic Soup,Cream Of Mushroom Soup,1,0,,137.5
+Exotic Soup,Creamy Corn Soup,1,0,A delicious creamy soup with a hint of corn and spices that is ... read more,137.5
+Exotic Soup,Herb & Veggie Valencia,1,0,"Fresh and flavorful, this light and satisfying valencia salad is filled with fresh ... read more",137.5
+Exotic Soup,Paushtik Subz Shorba,1,0,"A rich, creamy soup with a blend of fresh vegetables and aromatic spices. ... read more",137.5
+Exotic Soup,Thai Broccoli Soup,1,0,Thai brocoli Soup is a dish of tender and flavorful broccoli cooked in ... read more,137.5
+Exotic Soup,Thai Coconut Lime Soup,1,0,(Perfectly Grilled Sandwich Clubbed with Potato & Mix Vegetables with Chutney & Sev ... read more,137.5
+Exotic Soup,Thunder Soup,1,0,,137.5
+Bread Art,Bombay Bachelors Sandwich-(3 Layer),1,0,Perfectly Grilled S/W Clubbed With Potato & Mix Vegetables With Chutney & Sev ... read more,150.0
+Bread Art,Vegetable Cheese Sandwich,1,0,A flavorful and satisfying sandwich made with fresh vegetables and melted cheese.,120.0
+Bread Art,Vegetable Grill Cheese Sandwich,1,0,| Serves 1 |,145.0
+Bread Art,Aloo Mutter Sandwich,1,0,A classic Indian snack made with a crispy and flaky bread stuffed with ... read more,125.0
+Bread Art,Paneer Tikka Sandwich,1,0,Jullienne Cut Paneer With Onion & Served With Mustard Mayo,145.0
+Bread Art,Coleslaw Sandwich,1,0,,145.0
+Bread Art,Loaded Bruschetta,1,0,(Mix Vegetables & Herbs Topped on French Loaf),195.0
+Bread Art,Cheese Garlic Bread,1,0,Garlic bread topped with an overload of cheese and baked to perfection.,150.0
+Bread Art,Supreme Garlic Bread,1,0,"Onion,Chilli, Cheese, Capsicam, On Open Baked Bun Bread",195.0
+Bread Art,Cheese Chilli Tost,1,0,"A spicy and cheesy delight, this snack will fill your tummy and your ... read more",195.0
+Bread Art,Bombay Style Bun Maska,1,0,A light and fluffy bun stuffed with a flavorful blend of chicken and ... read more,35.0
+Chinese,Honey Chilli Potato,1,0,Potato Tossed In Sweet & Spicy Sauce,155.0
+Chinese,Korean Chili Potato,1,0,Potato Tossed In Sweet & Spicy Sauce,155.0
+Chinese,Chinese Lollypops,1,0,Our classic lollypop is a delicious treat that is perfect for sharing with ... read more,190.0
+Chinese,Green Chilli Coriander Manchurian,1,0,"Crispy and mouth watering, these green chillies stuffed with a medley of fresh ... read more",175.0
+Chinese,Veg Manchurian,1,0,"An Indo chinese dry starter made with fried vegetable balls coated with thick, ... read more",175.0
+Chinese,Veg Schezwan Manchurian,1,0,"A crunchy bite of spicy, tangy goodness with a hint of sweetness, this ... read more",175.0
+Chinese,Veg Coriander Manchurian,1,0,"A spicy and tangy dish made from a mixture of fresh vegetables, coated ... read more",175.0
+Chinese,Veg Hunan Manchurian,1,0,"A delectable vegetarian dish with a spicy and tangy flavor, Veg.",175.0
+Chinese,Paneer Manchurian,1,0,Indo Chinese appetizer made with fried paneer & Manchurian sauce.,185.0
+Chinese,Crispy Crunchy Vegetables,1,0,"Crispy and crunchy vegetable sticks with a delicious blend of vegetables, spices and ... read more",190.0
+Chinese,Crispy Crunchy Coriander Vegetables,1,0,Crispy and crunchy vegetables coated in an aromatic and flavorful coriander based sauce.,190.0
+Chinese,Crispy Crunchy Hunan Vegetables,1,0,"Crispy and crunchy vegetables tossed in a sweet and spicy sauce, perfect as ... read more",190.0
+Chinese,Paneer Chilli,1,0,A spicy and flavorful dish made with paneer chunks and bell peppers in ... read more,230.0
+Chinese,Paneer Schezwan Chilli,1,0,,230.0
+Chinese,Paneer Coriander Chilli,1,0,"Crispy paneer with a spicy and aromatic flavor of coriander and chilli, a ... read more",230.0
+Chinese,Paneer Hunan Chilli,1,0,A fiery Chinese style dish with juicy paneer pieces tossed in a spicy ... read more,230.0
+Chinese,Thai Paneer,1,0,Cottage Cheese Cooked In Thai Spicy Fresh Basil Sauce,175.0
+Chinese,Dragon Roll With Sriracha Mayo,1,0,(A Chinese Spring Roll Prepared In Our Way),200.0
+Chinese,Schezwan Paneer,1,0,A delicious and spicy paneer dish cooked in a flavorful sauce.,240.0
+Off The Coal,Hyderabadi Paneer Tikka,1,0,A flavorful paneer tikka dish with succulent pieces of grilled paneer and an ... read more,250.0
+Off The Coal,Tob Paneer Tikka Sampler,1,0,Three Types Paneer Tikka Served With Green Chatni,230.0
+Off The Coal,Old School Tandoori Paneer Tikka,1,0,"A classic Indian dish, made with succulent cubes of paneer marinated in a ... read more",230.0
+Off The Coal,Broccoli Malai Tikka,1,0,"Tender pieces of Broccoli marinated in a creamy and rich malai sauce, grilled ... read more",235.0
+Off The Coal,Mix Veg Sheek Kebab,1,0,A tantalizing mixed of assorted vegetables cooked in a flavorful marinade and grilled ... read more,237.5
+Off The Coal,Cheese Stuffed Tandoori Mushroom,1,0,Spinach & Cheese Stuffed In Fresh Button Mushroom Coated With Tandoori Marinate & ... read more,250.0
+Protein Shotein Chaap,Tandoori Chaap Chingari,1,0,"Tandoori Baked Soyabean Morsels, Marinated With Red Indian Masala Served With Tasty Dip",245.0
+Protein Shotein Chaap,Tandoori Afghani Chaap,1,0,Soyabean Morcel Coated With White Tandoori Masala &Tossed In Laccha Of Onion & ... read more,245.0
+Protein Shotein Chaap,Tandoori Haryali Chaap,1,0,Tender chunks of boneless lamb marinated in yogurt and aromatic spices and cooked ... read more,212.5
+Cold Beverages,Blueberry Mojito,1,0,An invigorating mix of fresh blueberries and mint with a refreshing burst of ... read more,175.0
+Cold Beverages,Cranberry Mojito,1,0,A delicious and refreshing drink that is perfect for a summer day.,175.0
+Cold Beverages,Kokum Mojito,1,0,200Ml,175.0
+Cold Beverages,Lemon Ice Tea,1,0,"Short, catchy, lemon Ice tea is a refreshing beverage made with a blend ... read more",140.0
+Cold Beverages,Lemon Mint Cooler,1,0,200Ml,160.0
+Cold Beverages,Mint Mojito,1,0,"A refreshing burst of mint and lime, perfect for a light and flavorful ... read more",175.0
+Cold Beverages,Peach Ice Tea,1,0,"A refreshing beverage made with the combination of peach and tea, this drink ... read more",140.0
+Cold Beverages,Peach Mojito,1,0,A refreshing and flavorful combination of fresh peach and mint in a glass ... read more,175.0
+Rice & Noodles,Wok Fried Rice,1,0,Seasonal Vegetables,162.5
+Rice & Noodles,Triple Schzewan Rice With Crispy Noodles,1,0,"A hearty meal with three delectable flavors of rice, noodles and chicken.",190.0
+Rice & Noodles,Garden Chow Fan,1,0,Rice Tossed With Veggies In Chinese Style,195.0
+Rice & Noodles,Celery & Garlic Fried Rice,1,0,"A savory, aromatic rice dish with the sweetness of celery and garlic.",190.0
+Rice & Noodles,Veg Hakka Noodles,1,0,"Noodles tossed with chopped vegetable, onion, capsicum & Chinese sauce.",195.0
+Rice & Noodles,Veg.Schezwan Noodles,1,0,,200.0
+Rice & Noodles,Burnt Garlic Noodles,1,0,A deliciously aromatic preparation with noodles and vegetables cooked in a flavorful burnt ... read more,200.0
+Pasta,Smoked Pepperika Fettucini In Sundried Tomato Pesto Sauce,1,0,,287.5
+Pasta,Pasta In Pink Sauce,1,0,(Penne/Fussilli/Farfel),287.5
+Pasta,Pasta In Arabiata Sauce,1,0,(Penne/Fussilli/Farfel),287.5
+Pasta,Pasta In Alfredo Sauce,1,0,Pasta in a creamy alfredo sauce with fresh vegetables and spices.,287.5
+Pasta,Pasta In Pesto,1,0,(Penne/Fussilli/Farfel/Home Made Pesto),287.5
+Pasta,Aglio E Olio,1,0,(Spaghetti/ Penne),287.5
+Pasta,Pasta Alla Puttanesca,1,0,"Pasta Tossed In A Traditional Tomato, Garlic, Capers& Greek Olive Sauce",287.5
+Pasta,Exotic Saute Vegetable,1,0,Pesto Sauce/ Arabiata Sauce/ Alfredo Sauce,295.0
+Paneer,Dhaba Paneer,1,0,Chutney Stuffed Cottage Chesse Served In Spicy Red Gravy & Baby Onion,300.0
+Paneer,Paneer Kali Mirch,1,0,"A traditional Indian dish, paneer kali mirch is a flavorful, aromatic and aromatic ... read more",300.0
+Paneer,Do Masale Ka Korma,1,0,An aromatic dish made with a blend of Indian spices and fragrant herbs. ... read more,300.0
+Paneer,Paneer Lababdar,1,0,"Cottage Cheese Served In Red Gravy With Capsicum, Onion, Tomato",300.0
+Paneer,Dhungar Paneer,1,0,Tender Paneer Cubes Marinated In Pungent Yellow Gravy,300.0
+Paneer,Paneer Khurchan,1,0,"Cubes Of Paneer, Capsicum, Onion & Slit Green Chilly Served In Spicy Yellow ... read more",300.0
+Paneer,Paneer Butter Masala,1,0,A wholesome food served along with a creamy paneer butter masala perfect to ... read more,300.0
+Paneer,Paneer Tikka Masala,1,0,A creamy dish with soft paneer chunks cooked in a rich tomato gravy ... read more,300.0
+Paneer,Palak Paneer,1,0,An earthy spinach based gravy recipe that uses mild spices mixed together with ... read more,300.0
+Paneer,Shahi Paneer,1,0,A delicious shahi paneer mix with veggies and spices.,300.0
+Paneer,Mutter Paneer,1,0,A creamy and rich north Indian curry prepared from paneer cubes and green ... read more,300.0
+Paneer,Kadhai Paneer,1,0,Kadai paneer is a quick dish of paneer cubes combined with a spicy ... read more,300.0
+Paneer,Smokey Makhani Paneer,1,0,"A succulent and aromatic Indian dish made with creamy tomato gravy, smoky, flavorful ... read more",300.0
+Paneer,Tandoori Paneer In Makhani Gravy,1,0,"Tender and succulent paneer cubes cooked in a rich and creamy makhani gravy, ... read more",300.0
+Paneer,Paneer Dhaniya Adraki Korma,1,0,A spicy and aromatic dish with succulent pieces of paneer cooked in a ... read more,300.0
+Paneer,Paneer Bhurjee,1,0,Paneer bhurji is a delicious North Indian dish that consists of soft cubes ... read more,300.0
+Mix Veg,Lagan Nu Sabz Kalonji,1,0,,250.0
+Mix Veg,Vegetable Kadhai,1,0,Mix Veg In Spicy Red Gravy,250.0
+Mix Veg,Sunheri Sabji,1,0,Mix Veg Served In Yellow Gravy,250.0
+Mix Veg,Subz Banzara Pasand,1,0,"A mouth watering combination of vegetables with an aromatic blend of spices, perfect ... read more",250.0
+Mix Veg,Mix Veg Jhalfrieze,1,0,,250.0
+Mix Veg,Veg Diwani Handi,1,0,"Veg diwani handi, the gravy or base is made from cashew paste, onion-tomatoes ... read more",250.0
+Mix Veg,Mili Juli Sabzi,1,0,"A vibrant blend of aromatic spices and fresh vegetables, mili juli sabji is ... read more",250.0
+Mix Veg,Nanhi Sabziyon Ka Mela,1,0,"A tantalizing blend of exotic vegetables and fresh herbs, this dish is sure ... read more",250.0
+Mix Veg,Veg Makhanwala,1,0,Mix garden veggies cooked in tomato based gravy with lots of butter.,250.0
+Mix Veg,Grilled Veg In Saffron Gravy,1,0,"A flavorful medley of grilled vegetables, tossed in a rich and creamy sauce ... read more",250.0
+Mix Veg,Home Style Indian Exotic Veg With Paneer Cubes,1,0,A rich and flavorful mix of exotic vegetables and paneer cubes cooked in ... read more,250.0
+Mix Veg,Deshi Vilayati Mili Juli Sabji,1,0,"A spicy and flavorful dish made with mixed vegetables, fresh herbs and spices. ... read more",250.0
+Mix Veg,Corn Lasooni Palak,1,0,A delicious and healthy dish with a burst of flavors. A corn and ... read more,250.0
+Mutter,Methi Mutter Malai,1,0,A creamy and flavorful Punjabi dish with a hint of bitterness and sweetness.,250.0
+Mutter,Mutter Mushroom,1,0,,250.0
+Mutter,Mutter Mahrani,1,0,A delicious dish from the North Indian cuisine that is perfect for a ... read more,250.0
+Mutter,Aloo Mutter,1,0,Crisp and flavorful potatoes cooked with creamy cashew and aromatic spices.,250.0
+Mushroom,Dhingri Palak Masala,1,0,Mushroom Served In Palak Gravy & Tossed With Coriander Seeds,250.0
+Mushroom,Dhingri Dhaniya Korma,1,0,"A rich and aromatic dish made with chicken and vegetables in a creamy, ... read more",250.0
+Mushroom,Dhingri Kadai Masala,1,0,,250.0
+Kofta,Lahori Kofta,1,0,Corn Cheese Kofta In Palak Gravy,250.0
+Kofta,Dhup Chanv Kofta,1,0,"Puffed fried balls filled with a spicy and aromatic filling, served with a ... read more",250.0
+Kofta,Malai Kofta,1,0,Veggie made from kofta and added malai cooked in authentic Indian masala and ... read more,250.0
+Kofta,Sprouts Kofta In Yellow Gravy,1,0,Crispy and flavorful kofta in a tangy and aromatic yellow gravy.,250.0
+Kofta,Avadhi Kebab Lababdar,1,0,Seasonal Vegetable Seekh Kebab In Tomato Gravy,250.0
+Aloo,Tandoori Aloo In Palak Gravy,1,0,"A delicious combination of spicy and tangy flavors, this dish is a perfect ... read more",212.5
+Aloo,Tandoori Aloo In Makhani Gravy,1,0,"The classic tandoori potato dish, cooked in a rich and creamy tomato based ... read more",212.5
+Aloo,Dhaniya Aloo Pyaz,1,0,"A spicy and flavorful potato and onion curry, cooked in a rich tomato ... read more",212.5
+Aloo,Dum Aloo Punjabi,1,0,A flavorful and comforting Indian potato dish with fragrant spices.,212.5
+Aloo,Dum Aloo Chatniwala,1,0,,212.5
+Aloo,Dum Aloo Sialkoti,1,0,,212.5
+Aloo,Dum Aloo Adraki,1,0,Spicy potatoes cooked with aromatic spices in a rich tomato gravy.,212.5
+Aloo,Dum Aloo Achari,1,0,"A rich, flavorful dish of potatoes cooked with a tangy, spicy and aromatic ... read more",212.5
+Aloo,Dhaniya Aloo,1,0,,212.5
+Aloo,Aloo Pyaaz Ki Sabji In Home Style Gravy,1,0,"A delectable home style curry made with potato and onion in a savory, ... read more",212.5
+Aloo,Aloo Mutter Gobi,1,0,"A delicious dish prepared with potatoes, cauliflower, green peas, all cooked in a ... read more",212.5
+Aloo,Gobi Musslam,1,0,"A spicy and flavorful dish made with cauliflower, cooked in a rich and ... read more",212.5
+Aloo,Bhindi Do Pyaaza,1,0,"Crispy and succulent bhindis cooked in a rich, aromatic onion gravy.",212.5
+Aloo,Amritsari Chole,1,0,"The classic north Indian style chickpea dish cooked in gravy of onion, tomato ... read more",212.5
+Aloo,Pindi Chole,1,0,,162.5
+Daal,Dal Tadka,1,0,,212.5
+Daal,Dal Double Tadka,1,0,A mouthwatering and comforting protein-packed double dal tadka made with our special ingredients.,225.0
+Daal,Dal Lahsuni Palak,1,0,,212.5
+Daal,Dal Makhani,1,0,A decadently indulgent dish prepared by cooking black lentil and red kidney beans ... read more,250.0
+Daal,Dal Hyderabadi,1,0,A Hyderbadi dal with a flavourful twist of hyder spices and fresh herbs.,245.0
+Daal,Green Chilli Fried Tadka Daal,1,0,A delectable dish made with aromatic spices and green chilies that will leave ... read more,205.0
+Rice Preparation,Steam Rice,1,0,Aromatic steamed rice cooked in a tempering of cumin and whole spices.,145.0
+Rice Preparation,Jeera Rice,1,0,Frangrant rice dish tempered with lots of aromatic cumin seeds.,195.0
+Rice Preparation,Avadhi Special Biryani,1,0,Special biryani from Avadhas kitchen that is made with authentic spices and ingredients ... read more,255.0
+Rice Preparation,Tob Special Biryani,1,0,"Tob special biryani is a unique blend of spices and aromatic herbs, cooked with ... read more",255.0
+Rice Preparation,Veg Pulao,1,0,A dish containing ghee roasted veggies and flavourful rice with an undertone of ... read more,237.5
+Rice Preparation,Peas Pulao,1,0,,237.5
+Rice Preparation,Palak Khichdi,1,0,"Palak khichdi is a wholesome vegetarian dish made with lentils, rice and spinach.",237.5
+Rice Preparation,Classic Daal Khichdi,1,0,"A delicious and nutritious rice lentil soup, made with a medley of aromatic ... read more",237.5
+Indian Breads,Tawa Chapati Plain,1,0,"Tawa chapati is a flatbread commonly found in North India, cooked on a ... read more",30.0
+Indian Breads,Butter Tawa Chapati,1,0,An unleavened Indian flatbread made of whole wheat flour and butter.,30.0
+Indian Breads,Tandoori Roti,1,0,Super soft roti that is cooked to perfection in a tandoor.,40.0
+Indian Breads,Tandoori Butter Roti,1,0,"A variety of Indian flat bread, made from all purpose flour in tandoor ... read more",55.0
+Indian Breads,Laccha Paratha,1,0,Multi layered Indian flat bread with daubs of butter and cooked in tandoor.,60.0
+Indian Breads,Butter Laccha Paratha,1,0,"Layers of flaky bread smothered in decadent butter, perfect for any meal.",70.0
+Indian Breads,Tandoori Cheese Chilli Garlic Laccha Paratha,1,0,"A delicious, spicy and flavorful Indian flatbread filled with cheese and chilli, perfect ... read more",112.5
+Indian Breads,Naan,1,0,Indian bread made of maida cooked in tandoor topped with butter.,62.5
+Indian Breads,Butter Naan,1,0,North Indian bread with a generous serving of butter that tastes brilliant when ... read more,70.0
+Indian Breads,Garlic Butter Naan,1,0,North Indian bread with a generous serving of butter that tastes brilliant when ... read more,95.0
+Indian Breads,Cheese Garlic Naan,1,0,"A delicious bread infused with cheese and garlic, perfect for your next meal.",95.0
+Indian Breads,Cheese Chilli Naan,1,0,,95.0
+Indian Breads,Kalonji Naan,1,0,"A classic naan stuffed with fragrant kalonjee seeds. Perfectly flaky, soft and buttery, ... read more",67.5
+Indian Breads,Butter Kalonji Naan,1,0,,95.0
+Indian Breads,Amritsari Kulcha,1,0,Soft parathas with potato stuffing is cooked to perfection in a tandoor.,75.0
+Indian Breads,Plain Kulcha,1,0,"A classic and simple delight, perfect on its own or paired with your ... read more",50.0
+Indian Breads,Butter Kulcha,1,0,They are made using maida or a refined white flour whereas naan tends ... read more,75.0
+Indian Breads,Missi Roti,1,0,"Wholesome and soft roti made from wheat flour, gram flour and seasoned with ... read more",75.0
+Accompaniments,Papad Churi,1,0,,40.0
+Accompaniments,Roasted Papad,1,0,Crispy and flavorful Indian appetizer with a smokey roasted taste.,40.0
+Accompaniments,Mix Veg Raita,1,0,,100.0
+Accompaniments,Plain Curd,1,0,A smooth and tangy yogurt that is pure and simple in flavor.,62.5
+Accompaniments,Masala Dahi,1,0,,85.0
+Buy By Kilo,Dhungar Paneer [1 Kg],1,0,"A rich, aromatic dish featuring creamy paneer cooked in a spicy, tangy tomato ... read more",750.0
+Buy By Kilo,Paneer Khurchan [1 Kg],1,0,,750.0
+Buy By Kilo,Sunheri Subzi [1 Kg],1,0,A delicious vegetarian dish of tender and succulent green beans cooked in a ... read more,450.0
+Buy By Kilo,Dal Double Tadka[1 Kg],1,0,"A perfect blend of two lentils, cooked to perfection with aromatic spices and ... read more",425.0
+Buy By Kilo,Dal Makhani [1 Kg],1,0,"A classic dish from North India that is a rich, creamy dal cooked ... read more",450.0
+Buy By Kilo,Tob Special Biryani [1 Kg],1,0,"A rich and flavorful biryani rice dish made with aromatic spices, long grain ... read more",450.0
+Buy By Kilo,Veg Kolapuri [1 Kg],1,0,"A spicy, tangy and flavorful mixture of Indian style mixed vegetables. Enjoy with ... read more",450.0

@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Black Forest Cake,1,0,"Traditional black forest cake with the combination of chocolate, cream & cherries.",610.0
+Cakes,White Forest Cake,1,0,Enjoy vanilla cream cake with the rich combination of white chocolate || Images ... read more,610.0
+Cakes,Butterscotch Cake,1,0,Butterscotch cake.,610.0
+Cakes,Trinity Cake,1,0,"Made with 3 types of chocolate, dark chocolate, milk chocolate and white chocolate.",800.0
+Cakes,Chocolate Crunchy Cake,1,0,Chocolate crunchy cake is a pure chocolate cake with crunchiness in it || ... read more,850.0
+Cakes,Chocolate Xtasy Cake,1,0,Chocolate xtasy is a delight to have with kitkat like flavor combination of ... read more,850.0
+Cakes,Ferrero Rocher Cake,1,0,Chocolate cake with ferrero rocher filling inside out || Images used are for ... read more,950.0
+Truffle Cakes,Royal Truffle Cake,1,0,Freshly baked chocolate & mousse cake to pamper your sweet tooth || Images ... read more,610.0
+Truffle Cakes,Belgium Truffle Cake,1,0,"For all dark chocolate lovers, belgium truffle is a perfect combination of dark ... read more",800.0
+Truffle Cakes,Hazelnut Truffle Cake,1,0,,800.0
+Truffle Cakes,Oreo Cake,1,0,Chocolate cake with a crunch of Oreo & kid inside your will love ... read more,800.0
+Fruit Cakes,Pineapple Cake,1,0,Pineapple cake with fresh cream & rich pineapple filling.,610.0
+Fruit Cakes,Blueberry Fruit Cake,1,0,Fresh cream cake with blueberry filling & dry blueberries inside it for all ... read more,800.0
+Fruit Cakes,Mix Fruit Cake,1,0,Mix fruit cake made with fresh cream & fresh fruits inside out || ... read more,800.0
+Fruit Cakes,Irish Coffee Cake,1,0,"For all sweet coffee lovers, irish coffee is gives you heavenly flavor of ... read more",800.0
+Fruit Cakes,Coffee Almond Cake,1,0,Rich combination of coffee & almond put up into cake for all coffee ... read more,800.0
+Fusion Cake,Rasgulla Cake,1,0,Favorite rasgulla fused into cake to give creamy & watery experience || Images ... read more,850.0
+Fusion Cake,Rasmalai Cake,1,0,Freshly made fusion of cake with rasmalai topped with pistachio || Images used ... read more,850.0
+Premium Cake,Belgium Hazelnut Cake,1,0,Belgium hazelnut cake is a heavenly combination of dark chocolate & hazelnuts || ... read more,1050.0
+Premium Cake,Kit Kat Cake,1,0,Pure chocolate cake with kitkat inside out,1050.0

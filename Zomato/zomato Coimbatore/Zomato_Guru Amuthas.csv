@@ -1,0 +1,64 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tiffin,Pongal,1,0,,82.0
+Tiffin,Roast Dosa,1,0,,89.0
+Tiffin,Ghee Masala Roast Dosa,1,0,,149.0
+Tiffin,Ghee Podi Roast Dosa,1,0,,145.0
+Tiffin,Onion Roast Dosa,1,0,,138.0
+Tiffin,Ghee Onion Roast Dosa,1,0,,149.0
+Tiffin,Butter Onion Podi Roast Dosa,1,0,,149.0
+Tiffin,Ghee Onion Podi Roast Dosa,1,0,,155.0
+Tiffin,Ghee Rava Roast Dosa,1,0,,147.0
+Tiffin,Onion Rava Roast Dosa,1,0,,149.0
+Tiffin,Rava Masala Roast Dosa,1,0,,149.0
+Tiffin,Ghee Roast Dosa,1,0,,139.0
+Tiffin,Masala Roast Dosa,1,0,,137.0
+Tiffin,Butter Rava Roast Dosa,1,0,,145.0
+South Indian,Roast,1,0,,87.0
+South Indian,Podi Roast,1,0,,137.0
+South Indian,Rava Roast,1,0,,136.0
+South Indian,Butter Roast,1,0,,139.0
+South Indian,Onion Roast,1,0,,138.0
+South Indian,Onion Rava Roast,1,0,,149.0
+South Indian,Masala Rava Roast,1,0,,149.0
+South Indian,Butter Rava Roast,1,0,,145.0
+South Indian,Ghee Masala Roast,1,0,,149.0
+South Indian,Ghee Rava Roast,1,0,,147.0
+South Indian,Uttapam,1,0,,87.0
+South Indian,Onion Uttapam,1,0,,129.0
+South Indian,5 Taste Uttapam,1,0,,145.0
+South Indian,Butter Uttapam,1,0,,119.0
+South Indian,3 Taste Uttapam,1,0,,129.0
+South Indian,Podi Uttapam,1,0,,115.0
+South Indian,Ghee Uttapam,1,0,,125.0
+South Indian,Butter Onion Uttapam,1,0,,134.0
+South Indian,Ghee Onion Uttapam,1,0,,135.0
+South Indian,Butter Onion Podi Uttapam,1,0,,135.0
+South Indian,Ghee Onion Podi Uttapam,1,0,,137.0
+Briyani and Meals,Guru Amuthas Veg Meal,1,0,Rice+Sambhar+Rasam+Special Kuzhambu+Mor+Papad+Payasam,155.0
+Variety Rice,Tomato Rice,1,0,,87.0
+Variety Rice,Curd Rice,1,0,,87.0
+Variety Rice,Special Sambar Rice,1,0,,92.0
+Drinks (Beverages),Horlicks [Serves 2],1,0,,75.0
+Drinks (Beverages),Tea [Serves 2],1,0,,60.0
+Drinks (Beverages),Boost [Serves 2],1,0,,75.0
+Drinks (Beverages),Coffee [Serves 2],1,0,,65.0
+Drinks (Beverages),Rose Milk,1,0,,70.0
+Drinks (Beverages),Badam Milk,1,0,,75.0
+Drinks (Beverages),Vanilla Milkshake,1,0,,127.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,138.0
+Drinks (Beverages),Butterscotch Milkshake,1,0,,138.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,138.0
+Drinks (Beverages),Cold Coffee,1,0,,90.0
+Drinks (Beverages),Orange Juice,1,0,,109.0
+Drinks (Beverages),Lemon Juice,1,0,,69.0
+Drinks (Beverages),Mango Juice,1,0,,61.0
+Drinks (Beverages),Apple Juice,1,0,,105.0
+Drinks (Beverages),Watermelon Juice,1,0,,90.0
+Drinks (Beverages),Sweet Lemon Soda,1,0,,50.0
+Drinks (Beverages),Salted Lemon Soda,1,0,,50.0
+Drinks (Beverages),Mulampalam Juice,1,0,,99.0
+Drinks (Beverages),Pomegranate Juice,1,0,,99.0
+Drinks (Beverages),Mosambi Juice,1,0,,105.0
+Drinks (Beverages),Pineapple Juice,1,0,,95.0
+Drinks (Beverages),Grape Juice,1,0,,90.0
+Drinks (Beverages),Lemon Soda,1,0,,75.0

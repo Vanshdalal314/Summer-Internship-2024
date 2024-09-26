@@ -1,0 +1,131 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Non Veg Biryani,Chicken Biryani,0,0,"Comes with Egg, Raitha, Brinjal Gravy and Bread Halwa",299.0
+Non Veg Biryani,Chicken Biryani (Medium),0,0,"Comes with Egg, Raitha, Brinjal Gravy and Bread Halwa",240.0
+Non Veg Biryani,Egg Biryani,0,0,"Comes with Egg, Raitha, Brinjal Gravy and Bread Halwa",220.0
+Non Veg Biryani,Kuska Biryani,0,0,"Comes with Raitha, Brinjal Gravy and Bread Halwa",199.0
+Non Veg Biryani,Mutton Biryani,0,0,"Comes with Egg, Raitha, Brinjal Gravy and Bread Halwa",385.0
+Non Veg Biryani,Mutton Biryani (Medium),0,0,"Comes with Raitha, Brinjal Gravy and Bread Halwa",295.0
+Bucket Biryani,Chicken Biryani Bucket,0,0,,580.0
+Bucket Biryani,Mutton Biryani Bucket,0,0,,750.0
+Aryen Fried Chicken,Afc Chicken Lollipop,0,0,,160.0
+Aryen Fried Chicken,Afc Chicken Strips,0,0,,90.0
+Veg Soup,Hot & Sour Veg Soup,0,0,,110.0
+Veg Soup,Sweet Corn Veg Soup,0,0,,110.0
+Veg Soup,Veg Manchow Soup,0,0,,125.0
+Non Veg Soup,Chicken Manchow Soup,0,0,,160.0
+Non Veg Soup,Mutton Bone Soup,0,0,,160.0
+Non Veg Soup,Nandu Rasam,0,0,,160.0
+Non Veg Soup,Nattukozhi Rasam,0,0,,150.0
+Non Veg Soup,Sweet Corn Chicken Soup,0,0,,150.0
+Veg Starters,Gobi 65,0,0,,195.0
+Veg Starters,Gobi Manchurian,0,0,,200.0
+Veg Starters,Japan Paneer,0,0,,210.0
+Veg Starters,Malai Paneer Tikka,0,0,,250.0
+Veg Starters,Mushroom 65,0,0,,195.0
+Veg Starters,Mushroom Manchurian,0,0,,200.0
+Veg Starters,Paneer Tikka,0,0,,240.0
+Veg Starters,Stick Panneer,0,0,,220.0
+Chicken Starters,Andhra Chilly Chicken,0,0,,280.0
+Chicken Starters,Aryen Spicy Chicken Wings,0,0,,260.0
+Chicken Starters,Stick Chicken,0,0,,275.0
+Chicken Starters,Chicken 65 Boneless,0,0,,280.0
+Chicken Starters,Chicken Cheese Ball,0,0,,260.0
+Chicken Starters,Chindhamani Chicken,0,0,,270.0
+Chicken Starters,Chicken Dynamite,0,0,,285.0
+Chicken Starters,Chicken Lollipop,0,0,,275.0
+Chicken Starters,Maharani Chicken,0,0,,280.0
+Chicken Starters,Chicken Manchurian,0,0,,275.0
+Chicken Starters,Pallipalayam Chicken,0,0,,260.0
+Chicken Starters,Dragon Chicken,0,0,,270.0
+Chicken Starters,Japan Chicken,0,0,,285.0
+Chicken Starters,Kal Kozhi,0,0,,275.0
+Chicken Starters,Andhra Kodi Vepudu Chicken,0,0,,270.0
+Chicken Starters,Pepper Chicken,0,0,,270.0
+Chicken Starters,Pepper Leg 2 Pcs Dry,0,0,,250.0
+Mutton Starters,Mutton Chukka,0,0,,300.0
+Mutton Starters,Mutton Kola Urundai,0,0,,210.0
+Mutton Starters,Mutton Seekh Kebab,0,0,,410.0
+Mutton Starters,Turkish Kebeb Mutton,0,0,,410.0
+Sea Food Starters,Crab Lollipop,0,0,,300.0
+Sea Food Starters,Dynamic Prawn,0,0,,400.0
+Sea Food Starters,Fish Finger,0,0,,300.0
+Sea Food Starters,Garlic Fish Tikka,0,0,,380.0
+Sea Food Starters,Prawn Kurumilagu,0,0,,380.0
+Sea Food Starters,Prawn Tikka,0,0,,350.0
+"Grill, Tandoori & Barbeque",Afghan Bbq,0,0,,300.0
+"Grill, Tandoori & Barbeque",Al Faham,0,0,,300.0
+"Grill, Tandoori & Barbeque",Aryen's Spl Bbq,0,0,,310.0
+"Grill, Tandoori & Barbeque",Chicken Tikka Full,0,0,,460.0
+"Grill, Tandoori & Barbeque",Chicken Tikka Half,0,0,,240.0
+"Grill, Tandoori & Barbeque",Extra Mayonnaise,0,0,,20.0
+"Grill, Tandoori & Barbeque",Tandoori Chicken,0,0,,270.0
+Kebabs,Aryen Spl Cheese Kebab,0,0,,360.0
+Kebabs,Chicken Seekh Kebab,0,0,,300.0
+Kebabs,Chicken Tikka,0,0,,290.0
+Kebabs,Tangri Kebab,0,0,,270.0
+Kebabs,Turkish Kebab Chicken,0,0,,290.0
+Breads,Amristari Kulcha,0,0,,100.0
+Breads,Butter Garlic Naan,0,0,,85.0
+Breads,Butter Kulcha,0,0,,75.0
+Breads,Butter Naan,0,0,,75.0
+Breads,Garlic Kulcha,0,0,,80.0
+Breads,Paneer Stuffed Kulcha,0,0,,120.0
+Breads,Phulka,0,0,,35.0
+Breads,Plain Naan,0,0,,65.0
+Breads,Plain Roti,0,0,,65.0
+Breads,Rumali Roti,0,0,,65.0
+Breads,Tandoori Paratha,0,0,,65.0
+Breads,Wheat Paratha,0,0,,65.0
+Veg Gravy,Green Peas Masala,0,0,,215.0
+Veg Gravy,Kadaai Paneer,0,0,,230.0
+Veg Gravy,Mix Veg Curry,0,0,,215.0
+Veg Gravy,Mushroom Masala,0,0,,225.0
+Veg Gravy,Paneer Butter Masala,0,0,,225.0
+Veg Gravy,Paneer Tikka Masala,0,0,,225.0
+Non Veg Gravy,Butter Chicken Masala,0,0,,270.0
+Non Veg Gravy,Chicken Chettinadu Masala,0,0,,270.0
+Non Veg Gravy,Egg Masala,0,0,,200.0
+Non Veg Gravy,Hyderabad Chicken Masala,0,0,,275.0
+Non Veg Gravy,Kongu Chicken Gravy,0,0,,275.0
+Non Veg Gravy,Kongu Mutton Gravy,0,0,,335.0
+Non Veg Gravy,Mutton Rogan Josh Gravy,0,0,,370.0
+Non Veg Gravy,Prawn Masala,0,0,,310.0
+Rice & Noodle,Chicken Fried Rice,0,0,,250.0
+Rice & Noodle,Chicken Noodles,0,0,,250.0
+Rice & Noodle,Egg Fried Rice,0,0,,230.0
+Rice & Noodle,Egg Noodles,0,0,,230.0
+Rice & Noodle,Ghee Rice,0,0,,150.0
+Rice & Noodle,Jeera Rice,0,0,,135.0
+Rice & Noodle,Mixed Non Veg Fried Rice,0,0,,310.0
+Rice & Noodle,Paneer Fried Rice,0,0,,230.0
+Rice & Noodle,Paneer Noodles,0,0,,230.0
+Rice & Noodle,Prawn Fried Rice,0,0,,300.0
+Rice & Noodle,Schezwan Chicken Fried Rice,0,0,,270.0
+Rice & Noodle,Schezwan Chicken Noodles,0,0,,270.0
+Rice & Noodle,Schezwan Egg Fried Rice,0,0,,250.0
+Rice & Noodle,Schezwan Egg Noodles,0,0,,250.0
+Rice & Noodle,Schezwan Mixed Non Veg Noodles,0,0,,330.0
+Rice & Noodle,Schezwan Mushroom Fried Rice,0,0,,250.0
+Rice & Noodle,Schezwan Paneer Fried Rice,0,0,,250.0
+Rice & Noodle,Schezwan Paneer Noodles,0,0,,250.0
+Rice & Noodle,Schezwan Veg Fried Rice,0,0,,230.0
+Rice & Noodle,Schezwan Veg Noodles,0,0,,230.0
+Rice & Noodle,Veg Fried Rice,0,0,,210.0
+Rice & Noodle,Veg Noodles,0,0,,210.0
+Rice & Noodle,Veg Pulao,0,0,,210.0
+Parotta,Chicken Kothu Parotta,0,0,,225.0
+Parotta,Chilli Parotta,0,0,,220.0
+Parotta,Parotta With Plain Gravy,0,0,,45.0
+Parotta,Veg Kothu Parotta,0,0,,185.0
+Egg Dishes,Boiled Egg [2 Eggs],0,0,,40.0
+Egg Dishes,Chicken Omelette,0,0,,85.0
+Egg Dishes,Egg Burji,0,0,,100.0
+Egg Dishes,Kalaki,0,0,,45.0
+Egg Dishes,Masala Omelette,0,0,,60.0
+Egg Dishes,Mutton Omelette,0,0,,100.0
+Desserts,Arabian Pulpy Grape,0,0,,150.0
+Desserts,Bread Halwa 100 Gms,0,0,,100.0
+Desserts,Brownie,0,0,,135.0
+Desserts,Fruit Salad,0,0,,120.0
+Desserts,Gulab Jamun,0,0,,75.0
+Desserts,Special Mojito,0,0,,140.0

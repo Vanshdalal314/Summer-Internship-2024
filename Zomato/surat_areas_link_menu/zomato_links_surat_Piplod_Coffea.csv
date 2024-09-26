@@ -1,0 +1,109 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches & Open Toast,Exotic Veg Club Sandwich,1,0,A healthy and tasty sandwich made with a slice of vegetables including bell ... read more,260.1
+Sandwiches & Open Toast,Chilli Cheese Chutney Club Sandwich,1,0,A sandwich with a tangy chutney and oodles of cheese with our special ... read more,305.1
+Sandwiches & Open Toast,Tandoori Paneer Club Sandwich,1,0,"A delectable and flavourful veg sandwich with soft, melt in the mouth paneer ... read more",305.1
+Sandwiches & Open Toast,Indian Style Masala Sandwich,1,0,A delectable sandwich with a spicy and flavorful filling made with Indian spices. ... read more,134.1
+Sandwiches & Open Toast,Tomato Cheese Pesto Sandwich,1,0,"A delicious sandwich with a burst of flavor, this tomato and cheese sandwich ... read more",152.1
+Sandwiches & Open Toast,The Runner Exotic Veg Sandwich,1,0,A healthy and tasty sandwich made with a slice of vegetables including bell ... read more,152.1
+Sandwiches & Open Toast,Chutney Grilled Cheese Sandwich,1,0,A sandwich with a tangy chutney and noodles of cheese with our special ... read more,170.1
+Sandwiches & Open Toast,Creamy Chilli Cheese Sandwich,1,0,"A delicious sandwich with a creamy and spicy flavour, perfect for a quick ... read more",179.1
+Sandwiches & Open Toast,Roasted Malai Veg Sandwich,1,0,"A scrumptious sandwich filled with a delectable mixed of roasted vegetables and malai, ... read more",152.1
+Sandwiches & Open Toast,Indian Tandoori Paneer Sandwich,1,0,"A delectable and flavourful veg sandwich with soft, melt in the mouth paneer ... read more",197.1
+Sandwiches & Open Toast,Coleslaw Malai Sandwich,1,0,,107.1
+Sandwiches & Open Toast,Zucchini & Bell Pepper Sandwich,1,0,,215.1
+Sandwiches & Open Toast,Exotic Veg Open Toast,1,0,,179.1
+Sandwiches & Open Toast,Schezwan Cheese Open Toast,1,0,,152.1
+Sandwiches & Open Toast,Paneer Bhurji Open Toast,1,0,,179.1
+Sandwiches & Open Toast,Garlic Cheese Open Toast,1,0,Garlic cheese open toast is a simple yet flavourful dish. That combines the ... read more,152.1
+Sandwiches & Open Toast,Paneer Tikka Open Toast,1,0,"Paneer Tikka Open Toast is a delightful fusion dish that combines the smoky, ... read more",179.1
+Sandwiches & Open Toast,Margherita Cheese Open Toast,1,0,,134.1
+Starters,Tandoori Pan Fried Paneer,1,0,A classic dish prepared with tender paneer pieces in a delicately spiced marinade ... read more,224.1
+Starters,Malai Pan Fried Paneer,1,0,"Crisp, melt in your mouth paneer fritters, stuffed with a delicious mixed of ... read more",224.1
+Starters,Arabian Pan Fried Paneer,1,0,"A savory dish made with paneer and fresh vegetables, cooked to perfection in ... read more",224.1
+Starters,Hot Chilli Pan Fried Paneer,1,0,A delectable dish made with paneer cubes tossed in a spicy and flavorful ... read more,224.1
+Starters,Black Pepper Pan Fried Paneer,1,0,"A spicy and flavorful dish made with paneer and black pepper, a perfect ... read more",224.1
+Starters,Honey Chilli Potato,1,0,"Crispy potatoes tossed with a medley of honey and chilli, making for a ... read more",206.1
+Starters,Original Butter Garlic Bread [4 Slices],1,0,Surat special garlic bread.,161.1
+Starters,Creamy Cheese Garlic Bread [4 Slices],1,0,Dollop of cheese infused with garlic over a crispy piece of bread [4 ... read more,179.1
+Starters,Chilli Cheese Garlic Bread [4 Slices],1,0,Dollop of cheese infused with garlic and dash of spicy chillies on a ... read more,179.1
+Starters,Pizzeria Garlic Bread [4 Slices],1,0,Crispy slices of bread topped with choicest vegetables along with cheese infused with ... read more,179.1
+Pizza and Pasta,Indi Masala Macaroni,1,0,"An all veg dish made with a flavorful, aromatic Indian inspired sauce.",161.1
+Pizza and Pasta,Peri Peri Macaroni,1,0,"A spicy pasta dish with a hint of smoky flavour, perfect for vegetarians.",170.1
+Pizza and Pasta,Creamy Cheese Macaroni,1,0,Creamy and flavorful macaroni dish with a rich and creamy texture.,197.1
+Pizza and Pasta,Macaroni in Red Sauce,1,0,"A dish of pasta in a rich, red sauce with a hint of ... read more",170.1
+Pizza and Pasta,Chilli Schezwan Macaroni,1,0,"A spicy and flavourful pasta dish with a rich and creamy texture, perfect ... read more",170.1
+Pizza and Pasta,Cheese Corn Macaroni,1,0,"A rich and creamy pasta dish made with corn, cheese, and spices. The ... read more",197.1
+Pizza and Pasta,Hot Chilli Spicy Macaroni,1,0,A hearty and spicy pasta dish with a medley of vegetables and a ... read more,170.1
+Pizza and Pasta,Red Sauce Pasta,1,0,"Red sauce pasta with tomato, onion and capsicum in a spicy red sauce. ... read more",224.1
+Pizza and Pasta,Pink Sauce Pasta,1,0,"A delightful and creamy pasta dish, cooked with a tantalizing pink sauce and ... read more",251.1
+Pizza and Pasta,Creamy White Sauce Pasta,1,0,A creamy pasta dish with a blend of white sauce and a hint ... read more,269.1
+Pizza and Pasta,Mac Cheese Pizza [6 inches],1,0,Our mac cheese pizza is a classic Italian dish made with a creamy ... read more,170.1
+Pizza and Pasta,Veg Paradise Pizza [6 inches],1,0,A scrumptious combination of fresh vegetables and cheese on a crispy pizza base. ... read more,206.1
+Pizza and Pasta,Farm Punch Pizza [6 inches],1,0,"A flavourful pizza made with a combination of vegetables, olives, mozzarella and cheddar ... read more",206.1
+Pizza and Pasta,Tikka Paneer Treat Pizza [6 inches],1,0,"A pizza with a creamy and tangy base, which is topped with a ... read more",251.1
+Pizza and Pasta,Chilli Barbeque Paradise Pizza [6 inches],1,0,Pizza with a rich and robust taste of red and green chilli. It ... read more,251.1
+Pizza and Pasta,Mexican Fantasy Pizza [6 inches],1,0,"A classic Mexican pizza with an explosion of flavours, perfect for a party ... read more",251.1
+Pizza and Pasta,Burnt Chilli Garlic Paneer Pizza [6 inches],1,0,"A delicious pizza with a fiery twist, featuring tender paneer, sweet bell peppers ... read more",251.1
+Pizza and Pasta,Indo Tandoori Pizza [6 inches],1,0,"A delectable Indo tandoori pizza with a flaky, crispy base and a filling ... read more",251.1
+Pav Bhaji and Poha,"Butter Pav Bhaji [2 Pav, 250 grams]",1,0,"Spicy, flavorful Pav Bhaji—buttered buns paired with a mixed vegetable curry, a Mumbai ... read more",180.0
+Pav Bhaji and Poha,Poha,1,0,,90.0
+Fries & Nachos,Mumbai Vada Pav,1,0,This dish needs no description. Just grab it and eat it.,90.0
+Fries & Nachos,Salted Fries,1,0,"A crunchy, savory snack made with potatoes and seasoned with a salt.",116.1
+Fries & Nachos,Peri Peri Fries,1,0,A spicy and flavorful side dish made with potato wedges and peri peri ... read more,134.1
+Fries & Nachos,Cheese Fries,1,0,Our delicious cheese fries are crispy French fries topped with a creamy cheese ... read more,134.1
+Fries & Nachos,Afghani Fries,1,0,"Crisp and delicious, these deep-fried French fries are coated in a spicy and ... read more",134.1
+Fries & Nachos,Tandoori Fries,1,0,"Crisp, golden fried potato wedges tossed in our signature tandoori spices.",134.1
+Fries & Nachos,Red Sauce Fries,1,0,,161.1
+Fries & Nachos,Chilli Cheese Fries,1,0,Zesty Chilli Cheese Fries—crispy golden fries topped with melted cheese and a spicy ... read more,161.1
+Fries & Nachos,Chilli Schezwan Fries,1,0,,161.1
+Fries & Nachos,Nachos with Dip,1,0,,224.1
+Fries & Nachos,Loaded Salsa Cheese,1,0,,269.1
+Maggi,Butter Treat Maggi,1,0,"Indulge in Butter Maggie—rich, creamy noodles tossed in buttery goodness, a comforting fusion ... read more",89.1
+Maggi,Chilli Garlic Fun Maggi,1,0,Spicy Garlic Noodles are delicious and a punch with their spicy twist with ... read more,125.1
+Maggi,Cheese Corn Capsicum C3 Maggi,1,0,Savor the harmony of Cheese Corn Capsicum—succulent corn and crisp capsicum coated in ... read more,161.1
+Maggi,Punjabi Tadka Maggi,1,0,,125.1
+Maggi,Chilli Chinese Maggi,1,0,"Fiery Chilli Cheese Maggie—spicy noodles blended with gooey cheese, creating a mouthwatering fusion. ... read more",125.1
+Desserts,Coffea Brownie,1,0,[Chef's Special],161.1
+Desserts,Choco Lava,1,0,"A decadent chocolate cake layer cradling a reservoir of smooth, luxurious molten chocolate. ... read more",107.1
+Coffee,Espresso,1,0,"Rich, aromatic and flavorful, espresso is a rich, aromatic and flavorful blend of ... read more",178.2
+Coffee,Iced Americano,1,0,A refreshing coffee drink that is perfect for a hot summer day. The ... read more,196.2
+Coffee,Iced Mocha,1,0,A delicious iced coffee blended with a decadent chocolate mocha sauce.,196.2
+Coffee,Iced Caramel Macchiato,1,0,A rich and creamy iced coffee topped with a delicious caramel sauce. A ... read more,196.2
+Coffee,Iced Chocolate Almond Milk,1,0,A delicious and refreshing drink that combines the rich flavors of chocolate and ... read more,233.1
+Coffee,Iced Cranberry,1,0,A refreshingly fruity iced beverage that is perfect for a warm summer day. ... read more,214.2
+Coffee,Regular Cold Coffee,1,0,"A cold coffee beverage made with a blend of black coffee and milk, ... read more",161.1
+Coffee,Cold Coffee with Flavour,1,0,"A refreshing, light and creamy blend of hazelnut and coffee flavors, this cold ... read more",184.5
+Coffee,Cream Frespresso,1,0,,188.1
+Coffee,Frespresso with Flavour,1,0,,211.5
+Coffee,Espresso Shot,1,0,"A shot of espresso, a traditional Italian beverage made from a combination of ... read more",138.6
+Coffee,Espresso Teichner,1,0,,161.1
+Coffee,Cappuccino,1,0,A creamy and luscious beverage made with espresso and steamed milk. It is ... read more,134.1
+Coffee,Cafe Americano,1,0,"A delicious and refreshing beverage, Cafe American is made with coffee beans, sugar, ... read more",116.1
+Coffee,Cafe Mocha,1,0,Cafe mocha is a classic Italian beverage with rich chocolate flavor. It is ... read more,187.2
+Coffee,Cafe Latte,1,0,"A rich and creamy beverage, cafe latte is a classic coffee beverage made ... read more",187.2
+Coffee,Filtered Coffee,1,0,A refreshing cup of coffee with a hint of milk and sugar that ... read more,76.5
+Coffee,Filtered Mocha,1,0,"A luscious blend of coffee and chocolate, this mocha will leave you craving ... read more",107.1
+Coffee,Filtered Latte,1,0,"A rich and creamy beverage, the filtered latte is a decadent and indulgent ... read more",107.1
+Coffee,Filtered Americano,1,0,"A bold and aromatic beverage, brewed using the finest Arabica beans, and served ... read more",125.1
+Coffee,Flat White Coffee,1,0,,232.2
+Drinks (Beverages),Homemade Tea,1,0,,89.1
+Drinks (Beverages),Ginger Tea,1,0,,76.5
+Drinks (Beverages),Cinnamon Tea,1,0,,76.5
+Drinks (Beverages),Masala Tea,1,0,"Masala tea, is a spiced tea beverage & is a flavorful and aromatic ... read more",76.5
+Drinks (Beverages),Tulsi Tea,1,0,,76.5
+Drinks (Beverages),Black Tea,1,0,Black tea is a kind of tea made from leaves of tea.,80.1
+Drinks (Beverages),Jaggery Milk Tea,1,0,"Jaggery tea, made by dissolving jaggery in hot water, is a popular beverage It ... read more",98.1
+Drinks (Beverages),Lemon Iced Tea,1,0,Lemon iced tea is a refreshing and invigorating beverage that combines the briskness ... read more,134.1
+Drinks (Beverages),Strawberry Iced Tea,1,0,,134.1
+Drinks (Beverages),Cranberry Iced Tea,1,0,,161.1
+Drinks (Beverages),Green Apple Iced Tea,1,0,,134.1
+Drinks (Beverages),Watermelon Iced Tea,1,0,,134.1
+Drinks (Beverages),Watermelon Mojito,1,0,[Non Alcoholic],170.1
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],170.1
+Drinks (Beverages),Strawberry Mojito,1,0,[Non Alcoholic],170.1
+Drinks (Beverages),Blueberry Mojito,1,0,[Non Alcoholic],170.1
+Drinks (Beverages),Orange Iced Espresso,1,0,,206.1
+Drinks (Beverages),Iced Mango Mocha,1,0,,206.1
+Drinks (Beverages),Vietnamese Iced Coffee,1,0,"Vietnamese iced coffee features a deep, dark brown coffee base layered with creamy, ... read more",206.1
+Drinks (Beverages),Triple Sec Mojito,1,0,"[Non Alcoholic] It is made with orange juice, grenadine syrup and flavoured with ... read more",179.1
+Drinks (Beverages),Mango Punch,1,0,"Mango punch is an amazing mocktail recipe prepared by blending mangoes, pineapple juice ... read more",179.1

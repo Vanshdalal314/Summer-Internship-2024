@@ -1,0 +1,90 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups and Salad,Chicken Soup,0,0,,113.0
+Soups and Salad,Chicken Hot N Sour Soup,0,0,,113.0
+Soups and Salad,Chicken Manchow Soup,0,0,,119.0
+Soups and Salad,Chhote Miyan Special Soup,0,0,,133.0
+Soups and Salad,Salad [1 Plate],1,0,,20.0
+Starters,Malai Tikka,0,0,,169.0
+Starters,Special Tikka,0,0,Chicken marinated in special tikka masala to delight your taste buds.(SERVES 1),160.0
+Starters,Golden Tikka,0,0,Authentic chicken tikka flavoured with spices that are a delicasy of Punjab.,169.0
+Starters,Mari Maska Tikka,0,0,,160.0
+Starters,Russian Tikka [8 Pieces],0,0,,390.0
+Starters,Singapuri Tikka Dry,0,0,,312.0
+Starters,Cheese Tikka [8 Pieces],0,0,,375.0
+Starters,Zafrani Tikka [8 Pieces],0,0,,375.0
+Starters,Peri Peri Tikka [8 Pieces],0,0,,375.0
+Starters,Special Malai Tikka [8 Pieces],0,0,,375.0
+Starters,Zafrani Lollipop,0,0,,315.0
+Starters,Pahadi Chicken,0,0,,250.0
+Starters,Pathani Chicken,0,0,,250.0
+Starters,Tandoori Leg,0,0,Tandoori chicken is a chicken dish prepared by roasting chicken marinated in yogurt ... read more,138.0
+Starters,Cheese Leg,0,0,Juicy chicken leg seasoned with freshly ground spices and grilled to perfection with ... read more,225.0
+Starters,Special Tandoori Leg,0,0,,150.0
+Starters,Winter Leg,0,0,,200.0
+Starters,Pathani Leg,0,0,,150.0
+Starters,Rumali Leg,0,0,,150.0
+Starters,Methi Leg,0,0,,150.0
+Starters,Silver Chicken Leg,0,0,,237.0
+Starters,Chicken Lollipop Dry,0,0,,262.0
+Starters,Chicken 65,0,0,(Serves 1),187.0
+Starters,Chicken Lollipop with Schezwan,0,0,,287.0
+Starters,Silver Pathani,0,0,,275.0
+Starters,Special Tawa Fry,0,0,,287.0
+Starters,Chaap Fry,0,0,,250.0
+Starters,Chicken Tawa Fry,0,0,,275.0
+Starters,Chicken Bombay Fry,0,0,,287.0
+Starters,Chicken Tikka Fry,0,0,,275.0
+Starters,Bheja Fry,0,0,,262.0
+Main Course,Singapuri Tikka Masala,0,0,,290.0
+Main Course,Chicken Angara,0,0,,287.0
+Main Course,Chicken Kashmiri,0,0,,287.0
+Main Course,Chicken Kolhapuri,0,0,,287.0
+Main Course,Lemon Chicken,0,0,,287.0
+Main Course,Patiala Chicken Boneless,0,0,,325.0
+Main Course,Green Chicken,0,0,,287.0
+Main Course,Rose Garden Chicken,0,0,,300.0
+Main Course,Butter Chicken Boneless,0,0,,287.0
+Main Course,Chicken Lollipop Masala,0,0,,300.0
+Main Course,Chicken Handi,0,0,,275.0
+Main Course,Chicken Kadai,0,0,,275.0
+Main Course,Chicken Masala,0,0,,275.0
+Main Course,Gavthi Chicken,0,0,,300.0
+Main Course,Limbu Mari Chicken,0,0,,350.0
+Main Course,Nawabi Chicken,0,0,,312.0
+Main Course,Kabuli Chicken,0,0,An easy and delicious dish from afghanistan with aromatic spices such as fennel ... read more,325.0
+Main Course,Tawa Makhani,1,0,,312.0
+Main Course,Darbari Gotala,1,0,,350.0
+Main Course,Rumali Tawa,1,0,,275.0
+Main Course,New Tawa Rose Garden,0,0,,325.0
+Main Course,Malabar Chicken,0,0,,325.0
+Main Course,Methi Malai Chicken,0,0,,325.0
+Main Course,Tandoori Leg Masala,0,0,,275.0
+Main Course,Rozali Chicken,0,0,,300.0
+Main Course,Amdavadi Chicken,0,0,,287.0
+Main Course,Chicken Tikka Masala,0,0,,300.0
+Main Course,Masala Chicken Boneless,0,0,,300.0
+Main Course,Reshmi Chicken,0,0,,312.0
+Main Course,New Paplet Chicken,0,0,,325.0
+Main Course,Paplet Chicken,0,0,,312.0
+Main Course,Chicken Machhi Masala,0,0,,290.0
+Main Course,Bhuna Gosht,0,0,,250.0
+Main Course,Bombay Bhuna,0,0,,265.0
+Breads,Butter Roti,1,0,,18.0
+Breads,Plain Roti,1,0,,10.0
+Rice,Jeera Rice,1,0,Boiled rice sprinkled with jeera.,112.0
+Fried Rice,Veg Fried Rice,1,0,Most popular and a deliciously aromatic dish prepared from rice and stir-fried finely ... read more,162.0
+Fried Rice,Hong Kong Fried Rice,1,0,A delightfully flavorful combo with mouthwatering chicken hong kong gravy; served along with ... read more,213.0
+Fried Rice,Triple Fried Rice,0,0,A wholesome dish with the aromatic triple fried rice prepared with assorted fresh ... read more,237.0
+Fried Rice,Darbari Fried Rice,1,0,,225.0
+Fried Rice,Sandwich Fried Rice,1,0,,290.0
+Fried Rice,Chicken Fried Rice,0,0,A dish made by tossing juicy chicken and rice in a flavorful sauce.,105.0
+Fried Rice,Chicken Pizza Fried Rice,0,0,,262.0
+Fried Rice,Chicken Tikka Fried Rice,0,0,,213.0
+Fried Rice,Chicken Special Fried Rice,0,0,,240.0
+Fried Rice,Chicken Schezwan Fried Rice,0,0,,109.0
+Fried Rice,Machhi Masala Fried Rice,0,0,,290.0
+Snacks,Lal Egg Half Fry,0,0,,150.0
+Snacks,Green Egg Half Fry,0,0,,150.0
+Accompaniments,Fried Papad,1,0,,13.0
+Accompaniments,Roasted Papad,1,0,,13.0
+Drinks (Beverages),Mineral Water,1,0,,23.8

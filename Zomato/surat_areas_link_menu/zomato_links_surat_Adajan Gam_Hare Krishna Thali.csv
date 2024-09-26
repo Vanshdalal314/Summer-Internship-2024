@@ -1,0 +1,46 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Punjabi Thali,Delux Thali,1,0,Non Jain Paneer Butter Masala + Dal Makhni + Soya Chaap Gravy + ... read more,299.0
+Punjabi Thali,Royal Thali,1,0,NON JAIN Paneer Korma + Dal + Soya veg Gravy + 1 Lachha ... read more,329.0
+Punjabi Main Course,Dal Tadka 300,1,0,[300 Ml],199.0
+Punjabi Main Course,Dal Makhni 300,1,0,[300 Ml],219.0
+Punjabi Main Course,Punjabi Cholle 300,1,0,[300 Ml],209.0
+Punjabi Main Course,Rajma Masala 300,1,0,[300 Ml],209.0
+Punjabi Main Course,Subz Handi 300,1,0,[300 Ml],229.0
+Punjabi Main Course,Veg Kadhai 300,1,0,[300 Ml],219.0
+Punjabi Main Course,Veg Kolhapuri 300,1,0,[300 Ml],229.0
+Punjabi Main Course,Butter Soya Chaap 300,1,0,[300 Ml],259.0
+Punjabi Main Course,Palak Mushroom Curry 300,1,0,[300 Ml],229.0
+Punjabi Main Course,Palak Paneer 300,1,0,[300 Ml],239.0
+Punjabi Main Course,Palak Soya Chaap 300,1,0,[300 Ml],249.0
+Punjabi Main Course,Paneer Butter Masala 300,1,0,[300 Ml],239.0
+Punjabi Main Course,Veg Makhanwala 300,1,0,[300 Ml],229.0
+Punjabi Main Course,Kadhai Chaap 300,1,0,[300 Ml],249.0
+Punjabi Main Course,Kadhai Paneer 300,1,0,[300 Ml],249.0
+Punjabi Main Course,Mushroom Butter Masala 300,1,0,[300 Ml],229.0
+Punjabi Main Course,Mushroom Tikka Masala 300,1,0,[300 Ml],229.0
+Punjabi Main Course,Paneer Chatpata 300,1,0,[300 Ml],239.0
+Punjabi Main Course,Paneer Lababdar 300,1,0,[300 Ml],239.0
+Punjabi Main Course,Paneer Tikka Masala 300,1,0,[300 Ml],249.0
+Punjabi Main Course,Paneer Angara 300,1,0,[300 Ml],239.0
+Punjabi Main Course,Cheese Butter Masala 300,1,0,[300 Ml],229.0
+Punjabi Main Course,Cheese Kaju Curry 300,1,0,[300 Ml],259.0
+Punjabi Main Course,Cheese Paneer Masala 300,1,0,[300 Ml],209.0
+Punjabi Main Course,Kaju Curry Masala 300,1,0,[300 Ml],209.0
+Breads,Tawa Plain Roti,1,0,,21.0
+Breads,Tawa Butter Roti,1,0,,26.0
+Breads,Tandoori Roti,1,0,,35.0
+Breads,Tandoori Butter Roti,1,0,,40.0
+Breads,Lachhadar Paratha,1,0,,69.0
+Breads,Butter Naan,1,0,,79.0
+Breads,Stuffed Kulcha,1,0,,129.0
+Breads,Garlic Naan,1,0,,119.0
+Biryani,Veg Hyderabadi Biryani,1,0,,329.0
+Biryani,Mushroom Tikka Biryani,1,0,,339.0
+Biryani,Paneer Tikka Biryani,1,0,,349.0
+Biryani,Soya Chaap Biryani,1,0,,349.0
+Biryani,HK Special Biryani,1,0,,359.0
+Accompaniment,Roasted Papad,1,0,,39.0
+Accompaniment,Boondi Raita,1,0,,129.0
+Accompaniment,Masala Dahi,1,0,,119.0
+Accompaniment,Veg Raita,1,0,,139.0
+Drinks (Beverages),Mineral Water [1 Litre],1,0,,49.0

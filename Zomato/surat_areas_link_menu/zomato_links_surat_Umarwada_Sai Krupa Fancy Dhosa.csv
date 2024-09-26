@@ -1,0 +1,89 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dosa,Special SKD Dosa,1,0,[Chef's Special],310.0
+Dosa,Special Cheese Masala Dosa,1,0,,210.0
+Dosa,Paneer Chilli Dosa,1,0,,250.0
+Dosa,Janak Janak Payal Dosa,1,0,,250.0
+Dosa,Mixed Veg Dosa,1,0,,250.0
+Dosa,Paneer Toofani Dosa,1,0,,250.0
+Dosa,Dilkhush Dosa,1,0,,250.0
+Dosa,Cheese Sweet Corn Dosa,1,0,,250.0
+Dosa,American Chopsuey Dosa,1,0,,250.0
+Dosa,Cheese Chocolate Roll Dosa,1,0,,250.0
+Dosa,Cheese Palak Paneer Dosa,1,0,,250.0
+Dosa,Cheese Paneer Sweet Corn Dosa,1,0,,250.0
+Dosa,Raja Rani Dosa,1,0,,250.0
+Dosa,Rikki Tikki Dosa,1,0,,280.0
+Dosa,Cheese Tomato Dosa,1,0,,230.0
+Dosa,Paneer Sweet Corn Dosa,1,0,,250.0
+Dosa,Paneer Tikka Dosa,1,0,,250.0
+Dosa,Green Chilli Dosa,1,0,,250.0
+Dosa,Palak Paneer Dosa,1,0,,250.0
+Dosa,Jini Roll Dosa,1,0,,250.0
+Dosa,Chinese Dosa,1,0,,250.0
+Dosa,Spring Roll Dosa,1,0,,250.0
+Dosa,Pizza Dosa,1,0,,250.0
+Dosa,Cheese Palak Dosa,1,0,,250.0
+Dosa,Chaat Chaska Dosa,1,0,,250.0
+Dosa,Special Coriander Dosa,1,0,,250.0
+Dosa,Special Royal Lays Mayo Dosa,1,0,,250.0
+Dosa,Special SKD Mysore Dosa,1,0,[Chef's Special],310.0
+Dosa,Cheese Mysore Dosa,1,0,,210.0
+Dosa,Palak Paneer Mysore Dosa,1,0,,250.0
+Dosa,Paneer Sweet Corn Mysore Dosa,1,0,,250.0
+Dosa,Cheese Palak Mysore Dosa,1,0,,250.0
+Dosa,Paneer Tukda Mysore Dosa,1,0,,250.0
+Dosa,Paneer Surma Mysore Dosa,1,0,,250.0
+Dosa,Sweet Corn Cheese Mysore Dosa,1,0,,250.0
+Dosa,Green Velly Mysore Dosa,1,0,,280.0
+Dosa,Royal Kaju Mysore Dosa,1,0,,300.0
+Dosa,Special Rajawadi Mysore Dosa,1,0,,300.0
+Dosa,Paneer Chilli Mysore Dosa,1,0,,270.0
+Dosa,Cheese Paneer Surma Mysore Dosa,1,0,,280.0
+Dosa,Cheese Paneer Tukda Mysore Dosa,1,0,,280.0
+Dosa,Gotala Mysore Dosa,1,0,,280.0
+Dosa,Patiala Mysore Dosa,1,0,,280.0
+Dosa,Paper Sada Dosa,1,0,,70.0
+Dosa,Baby Nylon Sada Dosa,1,0,,85.0
+Dosa,Masala Paper Dosa,1,0,,160.0
+Dosa,Schezwan Sada Dosa,1,0,,100.0
+Dosa,Garlic Nylon Sada Dosa,1,0,,110.0
+Dosa,Onion Nylon Sada Dosa,1,0,,110.0
+Dosa,Special Butter Thin Export Sada Dosa,1,0,,110.0
+Dosa,Paneer Sada Dosa,1,0,,110.0
+Dosa,Baby Cheese Sada Dosa,1,0,,130.0
+Dosa,Butter Chocolate Sada Dosa,1,0,,160.0
+Dosa,Cheese Schezwan Sada Dosa,1,0,,160.0
+Dosa,Garlic Cheese Sada Dosa,1,0,,160.0
+Dosa,Onion Cheese Sada Dosa,1,0,,160.0
+Dosa,Pizza Paper Dosa,1,0,,230.0
+Dosa,Cheese Schezwan Garlic Nylon Dosa,1,0,,200.0
+Dosa,Oil Masala Dosa,1,0,,110.0
+Dosa,Oil Mysore Dosa,1,0,,120.0
+Dosa,Plain Oil Sada Dosa,1,0,,60.0
+Dosa,Jain Oil Masala Dosa,1,0,[Jain Preparation],110.0
+Dosa,Jain Oil Mysore Dosa,1,0,[Jain Preparation],130.0
+Dosa,Jain Oil Sada Dosa,1,0,[Jain Preparation],60.0
+Dosa,Masala Butter Dosa,1,0,,120.0
+Dosa,Mysore Butter Dosa,1,0,,140.0
+Dosa,Plain Sada Butter Dosa,1,0,,70.0
+Dosa,Jain Masala Butter Dosa,1,0,[Jain Preparation],120.0
+Dosa,Jain Mysore Butter Dosa,1,0,[Jain Preparation],140.0
+Dosa,Jain Sada Butter Dosa,1,0,[Jain Preparation],70.0
+Rice,Jain Oil Pulao,1,0,[Jain Preparation],170.0
+Rice,Jain Butter Pulao,1,0,[Jain Preparation],180.0
+Rice,Regular Tawa Oil Pulao,1,0,,150.0
+Rice,Regular Tawa Butter Pulao,1,0,,180.0
+Rice,Oil Pulao [Half],1,0,,110.0
+Rice,Butter Pulao [Half],1,0,,140.0
+South Indian,2 Oil Tomato Uttapam,1,0,,170.0
+South Indian,2 Oil Double Mixed Uttapam,1,0,,170.0
+South Indian,2 Oil Double Cheese Uttapam,1,0,,230.0
+South Indian,2 Tomato Butter Uttapam,1,0,,200.0
+South Indian,2 Double Mixed Butter Uttapam,1,0,,200.0
+South Indian,2 Double Cheese Butter Uttapam,1,0,,260.0
+Snacks,Oil Pav Bhaji [4 Pav],1,0,,140.0
+Snacks,Butter Pav Bhaji [4 Pav],1,0,,150.0
+Snacks,Jain Oil Pav Bhaji [4 Pieces],1,0,[Jain Preparation],150.0
+Snacks,Jain Butter Pav Bhaji [4 Pieces],1,0,[Jain Preparation],170.0
+Snacks,Special SKD Oil Masala Pav,1,0,[Chef's Special],170.0
+Snacks,Special SKD Butter Masala Pav,1,0,[Chef's Special],200.0

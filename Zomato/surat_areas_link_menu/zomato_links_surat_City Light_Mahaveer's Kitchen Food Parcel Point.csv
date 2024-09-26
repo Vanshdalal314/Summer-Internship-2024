@@ -1,0 +1,217 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chinese Happy Hour Combo,Combo 1,1,0,"Manchurian Dry/Gravy, Fried Rice, Noodles",249.48
+Chinese Happy Hour Combo,Combo 2,1,0,"Panner Chilly Dry, Schezwan Fried Rice, Schezwan Noodles",270.27
+Soup,Hot & Sour Soup,1,0,,152.46
+Soup,Lemon Coriander Soup,1,0,,152.46
+Soup,Mushroom Soup,1,0,,180.18
+Soup,Tomato Soup,1,0,,152.46
+Soup,Veg Clear Soup,1,0,,152.46
+Soup,Veg Manchow Soup,1,0,,152.46
+Soup,Veg Manchurian Soup,1,0,,152.46
+Papad & Raita,Butter Milk,1,0,,18.0
+Papad & Raita,Curd,1,0,,27.0
+Papad & Raita,Fry Papad,1,0,,18.0
+Papad & Raita,Green Chutney,1,0,,27.0
+Papad & Raita,Mix Fruit Raita,1,0,,81.0
+Papad & Raita,Roasted Papad,1,0,,13.5
+Papad & Raita,Veg Raita,1,0,,72.0
+Indian Starter,Achari Paneer Tikka Dry (7 Pcs),1,0,,304.92
+Indian Starter,Garlic Paneer Tikka (7 Pcs),1,0,,304.92
+Indian Starter,Mushroom Tikka Dry (7 Pcs),1,0,,332.64
+Indian Starter,Noorani Paneer Tikka Dry (7pcs),1,0,,318.78
+Indian Starter,Paneer Tikka Dry (7 Pcs),1,0,,277.2
+Indian Starter,Veg Hara Bhara Kabab (8 Pcs),1,0,,249.48
+Indian Starter,Veg Seekh Kabab (7 Pcs),1,0,,277.2
+Soya Chaap,Achari Soya Chaap (8 Pcs),1,0,Chaap Marinated With Tangy Achari Marinade And Served With Voggies Tossed In Clay ... read more,277.2
+Soya Chaap,Afghani Chaap (8 Pcs),1,0,"Chaap Marinated With Cream, Cashew And Spices And Grilled In Clay Oven.",277.2
+Soya Chaap,Masala Chaap (8 Pcs),1,0,Chaap Coated With Spices And Grilled In Clay Oven.,277.2
+Soya Chaap,Smoke Soya Chaap (8 Pcs),1,0,Delicious Chaap Tossed With Smoky Tangy Flavors.,304.92
+Chinese Starter,Bombay Bhel,1,0,450 Grams,180.18
+Chinese Starter,Cheese Cigar Roll,1,0,,346.5
+Chinese Starter,Chinese Bhel,1,0,450 Grams,180.18
+Chinese Starter,Dragon Potato,1,0,,249.48
+Chinese Starter,Garlic Mushroom,1,0,,346.5
+Chinese Starter,Honey Chilli Potato,1,0,,277.2
+Chinese Starter,Mushroom Chilli,1,0,,332.64
+Chinese Starter,Mushroom Coriander Spicy,1,0,450 Grams,346.5
+Chinese Starter,Mushroom Salt & Pepper,1,0,,346.5
+Chinese Starter,Mushroom Sticks,1,0,450 Grams,332.64
+Chinese Starter,Mushroom Suneri,1,0,,332.64
+Chinese Starter,Paneer 65,1,0,450 Grams,249.48
+Chinese Starter,Paneer Chilli Dry,1,0,450 Grams,263.34
+Chinese Starter,Paneer Chilli Gravy,1,0,450 Grams,263.34
+Chinese Starter,Paneer China Town,1,0,,249.48
+Chinese Starter,Paneer Garlic Pepper,1,0,,332.64
+Chinese Starter,Paneer Green Stick,1,0,,249.48
+Chinese Starter,Paneer Hot Pen,1,0,,318.78
+Chinese Starter,Paneer Hunan,1,0,,318.78
+Chinese Starter,Paneer Kollimalai,1,0,,332.64
+Chinese Starter,Paneer Majestic,1,0,450 Grams,263.34
+Chinese Starter,Paneer Manchurian,1,0,450 Grams,249.48
+Chinese Starter,Paneer Mangolian,1,0,,332.64
+Chinese Starter,Paneer Salt Pepper,1,0,,332.64
+Chinese Starter,Paneer Schezwan Dry,1,0,450 Grams,263.34
+Chinese Starter,Paneer Spanish,1,0,,332.64
+Chinese Starter,Schezwan Manchurian,1,0,450 Grams,207.9
+Chinese Starter,Veg 65,1,0,450 Grams,221.76
+Chinese Starter,Veg Crispy,1,0,450 Grams,249.48
+Chinese Starter,Veg Green Crispy,1,0,,318.78
+Chinese Starter,Veg Lollypop (6 Pcs),1,0,,221.76
+Chinese Starter,Veg Manchurian Dry,1,0,450 Grams,194.04
+Chinese Starter,Veg Manchurian Gravy,1,0,450 Grams,194.04
+Chinese Starter,Veg Mangolian,1,0,,332.64
+Fried Rice,Basil Pepper Rice,1,0,,277.2
+Fried Rice,Burnt Garlic Rice,1,0,450 Grams,214.83
+Fried Rice,Corn Pepper Rice,1,0,,256.41
+Fried Rice,Garlic Fried Rice,1,0,450 Grams,187.11
+Fried Rice,Manchurian Fried Rice,1,0,450 Grams,200.97
+Fried Rice,Mushroom Fried Rice,1,0,450 Grams,242.55
+Fried Rice,Paneer Fried Rice,1,0,450 Grams,242.55
+Fried Rice,Schezwan Fried Rice,1,0,450 Grams,214.83
+Fried Rice,Singapuri Rice,1,0,450 Grams,187.11
+Fried Rice,Spinach Garlic Rice,1,0,,256.41
+Fried Rice,Triple Fry Rice (With Gravy),1,0,450 Grams,263.34
+Fried Rice,Veg Fried Rice,1,0,450 Grams,187.11
+Paneer Main Course,Mutter Paneer (Brown),1,0,"Green Peas And Paneer (Indian Cottage Cheese) In A Base Of Onions, Tomatoes, ... read more",360.36
+Paneer Main Course,Navratna Korma (Sweet),1,0,Delicious Creamy And Aromatic North Indian Curry.,457.38
+Paneer Main Course,Palak Paneer (Green),1,0,A Paneer Preparation Made From Pureed Spinach Seasoned With Blend Of Spices And ... read more,388.08
+Paneer Main Course,Paneer Angara (Red),1,0,"Spicy, Warming, Flavorful & Super Delicious Dish Made By Cooking Paneer, Fresh Ground ... read more",429.66
+Paneer Main Course,Paneer Balti (Brown),1,0,Chunks Of Paneer In A Bucket Of Spicy Tomato Gravy Taste.,401.94
+Paneer Main Course,Paneer Bhurji (Dry),1,0,"Spiced Scrambled Panner, Cooked In North Indian Style.",498.96
+Paneer Main Course,Paneer Butter Masala (Red),1,0,Chunks Of Cottage Cheese In A Rich Cream Onion Tomato Based Gravy And ... read more,388.08
+Paneer Main Course,Paneer Chatpata (Red),1,0,"A Tangy Dish Of Paneer, Spices Cooked In Sour And Spicy Gravy.",388.08
+Paneer Main Course,Paneer Cheesy Masala (Red),1,0,"Creamy And Mildly Sweet Gravy Made With Butter,Tomatoes, Cashews, Spices, Paneer And Cheese ... read more",471.24
+Paneer Main Course,Paneer Do Pyaza (Brown),1,0,"Diced Cottage Cheese Simmered In Tomato Gravy Tossed With Diced Onions, Green Chillies, ... read more",401.94
+Paneer Main Course,Paneer Garlic Tawa (Red),1,0,A Dominant Garlic Flavor In A Creamy Gravy Seasoned With Indian Spices & ... read more,401.94
+Paneer Main Course,Paneer Handi (Brown),1,0,Delicious And Creamy Gravy Cooked In A Handi.,374.22
+Paneer Main Course,Paneer Humgama (Red),1,0,"Tiny Paneer Stuffed With Spices, Coated In Batter, Fried, And Served In A ... read more",457.38
+Paneer Main Course,Paneer Hyderabadi (Green),1,0,(Cottage Cheese In Spinach) Made With Cottage Cheese And Palak (Spinach).,429.66
+Paneer Main Course,Paneer Kadai (Brown),1,0,"Cooking Paneer And Bell Peppers In A Fragrant, Freshly Ground Spice Powder.",374.22
+Paneer Main Course,Paneer Kaleji (Brown),1,0,A Delightfully Flavor-Packed Paneer Kaleji Tossed With Veggies And Delectable Masalas.,429.66
+Paneer Main Course,Paneer Kolhapuri (Red),1,0,"Spicy And Delicious Curry Made With Indian Cottage Cheese, Lot Of Spices, Coconut, ... read more",388.08
+Paneer Main Course,Paneer Korma (Brown),1,0,"Indian Dish Where Paneer, Aka Indian Cheese Is Simmered In A Fragrant And ... read more",415.8
+Paneer Main Course,Paneer Lababdar (Brown),1,0,"Roasted Paneer, Indian Spices, Makhani Gravy Garnish With Grated Paneer And Coriander Leaves.",429.66
+Paneer Main Course,Paneer Lahori (Green),1,0,Thick And Creamy Gravy Made With A Blend Of Flavors.,415.8
+Paneer Main Course,Paneer Lajjatdar (Red),1,0,"Spiced Tomato And Cashew Paste That Is Then Saut?d With Onions, More Spices ... read more",415.8
+Paneer Main Course,Paneer Lasooni (Brown),1,0,"Spicy Tomato Based Gravy Mixed With Spices And Fine Diced Cottage, Cheese & ... read more",415.8
+Paneer Main Course,Paneer Laziz (yellow),1,0,Tiny Paneer Pieces Simmered In A Tomato-Onion Gravy And Finished With Some Grated ... read more,415.8
+Paneer Main Course,Paneer Makhanwala (Red),1,0,Evergreen Cottage Cheese Cooked In Chef Special Tomato Gravy Enriched With Fresh Cream.,401.94
+Paneer Main Course,Paneer Mughlai (Yellow),1,0,Succulent Paneer Cubes Nicely Cooked In A Delicious White Gravy.,388.08
+Paneer Main Course,Paneer Mushroom (Red),1,0,"Mushrooms With The Rich, Creamy Taste Of Paneer, Which Is Indian Cottage Cheese.",471.24
+Paneer Main Course,Paneer Pasanda (Red+Green),1,0,"Stuffed Paneer Slices Which Are Batter Coated, Fried And Served In A Smooth ... read more",457.38
+Paneer Main Course,Paneer Pativala (Yellow),1,0,Papad Rolls Made With Paneer Stuffing Are Served With A Creamy And Spicy ... read more,457.38
+Paneer Main Course,Paneer Tikka Masala (Red),1,0,"Roasted Paneer Chunks, Along With Capsicum Tomato Based Gravy, Serve With Cream And ... read more",388.08
+Paneer Main Course,Paneer Toofani (Red),1,0,"Spicy Tomato Based Gravy Mixed With Spices And Fine Diced Cottage, Cheese & ... read more",374.22
+Paneer Main Course,Paneer Zaffrani (Red),1,0,"Long Cut Cottage Cheese, Nuts, Cooked In Mildly Spices Aromatic Sattron Flavor In ... read more",401.94
+Paneer Main Course,Shahi Paneer (sweet) (yellow),1,0,"Cottage Cheese Cooked In Tomato And Cashew Gravy,Scented With Khoya And Cardamon Garnished ... read more",443.52
+Noodles,Burnt Garlic Noodles,1,0,450 Grams,207.9
+Noodles,Garlic Chilli Noodles,1,0,450 Grams,187.11
+Noodles,Garlic Noodles,1,0,450 Grams,187.11
+Noodles,Garlic Pepper Noodles,1,0,,235.62
+Noodles,Manchurian Noodies,1,0,450 Grams,173.25
+Noodles,Mushroom Noodles,1,0,450 Grams,221.76
+Noodles,Schezwan Noodles,1,0,450 Grams,187.11
+Noodles,Singapuri Noodles,1,0,450 Grams,187.11
+Noodles,Veg Hakka Noodies,1,0,450 Grams,187.11
+Veg Main Course,Aloo Jeera Dry,1,0,Boiled Potatoes Are Sauteed With Cumin Seeds &Spice Powders To Make The Most ... read more,332.64
+Veg Main Course,Aloo Mutter (Brown),1,0,"Delicious North Indian Curry Made With Potatoes,Peas, Onions, Tomatoes, Spices And Herbs.",332.64
+Veg Main Course,Aloo Palak (Green),1,0,"Simple, Healthy & Delicious Dish Of Spinach,Potatoes & Spices.",332.64
+Veg Main Course,Chana Masala (Brown),1,0,A Paneer Preparation Made From Pureed Spinach Seasoned With Blend Of Spices And ... read more,304.92
+Veg Main Course,Dum Aloo (Brown),1,0,North Indian Curried Dish Where Baby Potatoes Are Steam Cooked In A Delicious ... read more,360.36
+Veg Main Course,Methi Mutter Malai (Brown),1,0,"Spiced Scrambled Panner, Cooked In North Indian Style.",388.08
+Veg Main Course,Mix Veg (Brown),1,0,"Cauliflower, Peas, Carrots And Beans Cooked.",304.92
+Veg Main Course,Mushroom Masala (Red),1,0,"A Delicious Indian Curry Made With Mushrooms,Onions, Tomatoes, Spices & Herbs.",443.52
+Veg Main Course,Veg Angara (Red),1,0,"Gravy Or Base Made From Red Chilli Paste,Onion-Tomatoes And Cream.",360.36
+Veg Main Course,Veg Chatpata (Red),1,0,Medley Of Cut Vegetables Cooked In Tomato Onion Creamy Gravy And Spices.,346.5
+Veg Main Course,Veg Handi (Brown),1,0,"Rich, Creamy Curry Made With Mixed Vegetables.",346.5
+Veg Main Course,Veg Hydrabadi (Green),1,0,North Indian Curried Dish Where Baby Potatoes Are Steam Cooked In A Delicious ... read more,374.22
+Veg Main Course,Veg Jaipuri (Brown),1,0,Yellow Gravy With Mixed Vegetables And Topped With Roasted Papad.,346.5
+Veg Main Course,Veg Kadai (Brown),1,0,"Medley Of Onions, Tomatoes, Bell Peppers & Various Assorted Veggies Together With Spices.",346.5
+Veg Main Course,Veg Kheema (Brown),1,0,"Delicious Indian Recipe Made With Minced Vegetables, Spices And Herbs.",360.36
+Veg Main Course,Veg Kolhapuri (Red),1,0,"Mixed Vegetables In A Thick,Spiced Gravy.",332.64
+Veg Main Course,Veg Lajawab (Red),1,0,Mixed Vegetable Preparation With Cream And Choicest Spices.,388.08
+Veg Main Course,Veg Makkhanwala (Brown),1,0,Creamy And Rich Tomato Based Gravy Made With Mix Vegetables.,332.64
+Veg Main Course,Veg Mughlai (Yellow),1,0,Medley Of Cut Vegetables Cooked In Tomato Onion Gravy And Spices.,374.22
+Veg Main Course,Veg Tawa Masala (Red),1,0,"Deliciousness Of Tawa Masala, A Delightful Dish Packed With Mixed Vegetables And A ... read more",332.64
+Veg Main Course,Veg Toofani (Red),1,0,"Spicy Tomato Based Gravy Mixed With Spices And Fine Diced Cottage, Cheese & ... read more",360.36
+Kaju Main Course,Kaju Butter Masala (Brown),1,0,,498.96
+Kaju Main Course,Kaju Cheese Lahori (Green),1,0,,526.68
+Kaju Main Course,Kaju Crackly (Red),1,0,,498.96
+Kaju Main Course,Kaju Curry (Brown),1,0,,498.96
+Kaju Main Course,Kaju Khoya (Sweet),1,0,,471.24
+Kaju Main Course,Kaju Masala (red),1,0,,471.24
+Kaju Main Course,Kaju Paneer (Brown),1,0,,485.1
+Kofta Main Course,Cheese Kofta (Red),1,0,,415.8
+Kofta Main Course,Kaju Kofta (Brown),1,0,,401.94
+Kofta Main Course,Malai Kofta (Sweet),1,0,,401.94
+Kofta Main Course,Nargisi Kofta (Red+Green),1,0,,395.01
+Kofta Main Course,Paneer Kofta (Brown),1,0,,388.08
+Kofta Main Course,Veg Kofta (Red),1,0,,388.08
+Cheese Main Course,Cheese Anguri (Brown),1,0,500 Grams,429.66
+Cheese Main Course,Cheese Begum Bahar (Red),1,0,500 Grams,408.87
+Cheese Main Course,Cheese Butter Masala (Red),1,0,,429.66
+Cheese Main Course,Cheese Kaju Paneer (Brown),1,0,,388.08
+Cheese Main Course,Cheese Paneer Masala (Red),1,0,,388.08
+Cheese Main Course,Mahavir's Special (1 Veg. 1 Paneer ),1,0,,457.38
+Cheese Main Course,Paneer Cheese B Masala (red),1,0,500 Grams,415.8
+Cheese Main Course,Veg Cheesy Hyderabadi (Green),1,0,,401.94
+Cheese Main Course,Veg Cheesy Tadka (Brown),1,0,500 Grams,401.94
+Tawa Roti,Butter Tawa Roti,1,0,,13.5
+Tawa Roti,Plain Tawa Roti,1,0,,10.8
+Tandoori Roti,Butter Kulcha,1,0,,59.4
+Tandoori Roti,Butter Naan,1,0,,59.4
+Tandoori Roti,Cheese Garlic Naan,1,0,,79.2
+Tandoori Roti,Garlic Naan,1,0,,64.35
+Tandoori Roti,Plain Naan,1,0,,49.5
+Tandoori Roti,Tandoori Butter Paratha,1,0,,49.5
+Tandoori Roti,Tandoori Butter Roti,1,0,,29.7
+Tandoori Roti,Tandoori Plain Roti,1,0,,24.75
+Dal & Rice,Dal Fry,1,0,,180.18
+Dal & Rice,Dal Palak,1,0,,207.9
+Dal & Rice,Dal Palak Tadka,1,0,,221.76
+Dal & Rice,Dal Tadka,1,0,,207.9
+Dal & Rice,Jeera Rice,1,0,,180.18
+Dal & Rice,Plain Rice,1,0,,138.6
+Biryani,Dum Biryani,1,0,,249.48
+Biryani,Handi Biryani,1,0,,214.83
+Biryani,Hyderabadi Biryani,1,0,,221.76
+Biryani,Kabuli Biryani,1,0,,242.55
+Biryani,Paneer Biryani,1,0,,249.48
+Biryani,Veg Biryani,1,0,,207.9
+Pulao,Cheese Pulav,1,0,,249.48
+Pulao,Paneer Pulav,1,0,,235.62
+Pulao,Tawa Pulav,1,0,,180.18
+Pulao,Veg Pulav,1,0,,194.04
+Dal Khichdi,Dal Khichdi,1,0,,221.76
+Dal Khichdi,Dal Palak Khichdi,1,0,,228.69
+Dal Khichdi,Palak Garlic Khichdi,1,0,,249.48
+Pav Bhaji,Butter Pav Bhaji,1,0,,194.04
+Pav Bhaji,Cheese Pav Bhaji,1,0,,221.76
+Pav Bhaji,Extra Pav [ 1 PLATE ],1,0,,18.0
+Pav Bhaji,Gotalo,1,0,,235.62
+Pav Bhaji,Green Pav Bhaji,1,0,,194.04
+Paratha,Aloo Paratha,1,0,Served With Curd,180.18
+Paratha,Cheese Paneer Chilly Paratha,1,0,Served With Curd,346.5
+Paratha,Mix Veg Paratha,1,0,Served With Curd,249.48
+Paratha,Palak Paneer Paratha,1,0,Served With Curd,318.78
+Paratha,Paneer Cheese Paratha,1,0,Served With Curd,318.78
+Paratha,Paneer Paratha,1,0,Served With Curd,263.34
+Continental Soup,Almond Broccoli Soup,1,0,,194.04
+Continental Soup,Maxican Soup,1,0,,194.04
+Continental Soup,Spicy Cheese Soup,1,0,,194.04
+Continental Soup,Thai Coriander Soup,1,0,,194.04
+Continental Starters,Pad Thai Noodles,1,0,,277.2
+Continental Starters,Pesto Basil Potato,1,0,,304.92
+Continental Starters,Thai Paneer Chilly,1,0,,318.78
+Continental Rice,Lemon Rice,1,0,,207.9
+Continental Rice,Mexican Rice,1,0,,249.48
+Continental Rice,Mix Herbs Rice,1,0,,249.48
+Continental Rice,Thai Rice,1,0,,249.48
+Baked Dishes,Italian Swiss Roll,1,0,,346.5
+Baked Dishes,Lasagna Supreme,1,0,,374.22
+Baked Dishes,Three Sauce Supreme,1,0,,374.22
+Baked Dishes,Veg Lasagna,1,0,,346.5
+Pasta,Pasta Alfredo (White),1,0,,291.06
+Pasta,Pasta Arrabbiata [ PINK ],1,0,,291.06
+Pasta,Pasta In Pesto Sauce (Green),1,0,,291.06
+Pasta,Pasta Itallian (Red),1,0,,291.06

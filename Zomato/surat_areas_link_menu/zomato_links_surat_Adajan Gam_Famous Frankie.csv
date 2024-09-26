@@ -1,0 +1,81 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tandoori frankie,Tandoori Paneer Cheese Frankie,1,0,"Onion, cabbage, aloo patty, paneer, cheese, tandoori sauce and mayonnaise.",126.0
+Tandoori frankie,Tandoori Cheese Frankie,1,0,,116.0
+Tandoori frankie,Tandoori Mayo Frankie,1,0,,100.0
+Tandoori frankie,Tandoori Manchurian Frankie,1,0,,116.0
+Tandoori frankie,Tandoori Noodles Frankie,1,0,,116.0
+Tandoori frankie,Tandoori Noodles Cheese Frankie,1,0,,126.0
+Tandoori frankie,Tandoori Manchurian Paneer Frankie,1,0,,151.0
+Tandoori frankie,Tandoori Noodles Paneer Cheese Frankie,1,0,,176.0
+Regular Frankie,Cheese Frankie,1,0,Cheese with onions and sweet and spicy sauce wrapped up tight in a ... read more,95.0
+Regular Frankie,Veg Frankie,1,0,Mix veg patty with onions and tomato gravy wrapped up tight in roti ... read more,63.0
+Regular Frankie,Cheese Schezwan Frankie,1,0,Crunchy vegetable patty with cheese and sweet and spicy schezwan sauce wrapped up ... read more,110.0
+Regular Frankie,Schezwan Frankie,1,0,,80.0
+Regular Frankie,Cheese Mayo Frankie,1,0,,116.0
+Regular Frankie,Garlic Cheese Frankie,1,0,,116.0
+Regular Frankie,Cheese Schezwan Mayo Frankie,1,0,,126.0
+Regular Frankie,Regular Cheese Corn Frankie,1,0,,116.0
+Regular Frankie,Regular Schezwan Cheese Corn Frankie,1,0,,116.0
+Paneer frankie,Paneer Cheese Frankie,1,0,Crispy roti stuffed with paneer chilly on a bed of schezwan sauce topped ... read more,126.0
+Paneer frankie,Garlic Paneer Cheese Frankie,1,0,,152.0
+Paneer frankie,Schezwan Paneer Cheese Frankie,1,0,Crunchy Vegetables paired with soft paneer in sweet and spicy schezwan sauce and ... read more,151.0
+Paneer frankie,Mayo Paneer Cheese Frankie,1,0,,152.0
+Paneer frankie,Paneer Cheese Corn Frankie,1,0,,137.0
+Paneer frankie,Butter Paneer Cheese Frankie,1,0,,152.0
+Paneer frankie,Paneer Frankie,1,0,,100.0
+Paneer frankie,Paneer Chilli Cheese Frankie,1,0,Crispy roti stuffed with paneer chilly on a bed of schezwan sauce topped ... read more,126.0
+Chilli Frankie,Chilli Cheese Frankie,1,0,Chilli cheese frankie.,100.0
+Chilli Frankie,Chilli Paneer Cheese Frankie,1,0,,126.0
+Chilli Frankie,Chilli Corn Mayo Frankie,1,0,,126.0
+Chilli Frankie,Chilli Cheese Corn Frankie,1,0,,152.0
+Chilli Frankie,Chilli Paneer Cheese Corn Frankie,1,0,,200.0
+Mayonnaise Frankie,Mayo Frankie,1,0,,88.0
+Mayonnaise Frankie,Schezwan Mayo Frankie,1,0,,100.0
+Mayonnaise Frankie,Corn Mayo Mayonnise Frankie,1,0,,89.0
+Mayonnaise Frankie,Garlic Mayo Frankie,1,0,,100.0
+Mayonnaise Frankie,Chilli Mayo Frankie,1,0,,100.0
+Mayonnaise Frankie,Mixed Mayo Frankie,1,0,,88.0
+Corn frankie,Corn Mayo Frankie,1,0,,89.0
+Corn frankie,Cheese Corn Frankie,1,0,"Cheese, corn, mayonnaise, liquid cheese, onion, cabbage and chaat masala.",100.0
+Corn frankie,Schezwan Cheese Corn Frankie,1,0,,116.0
+Corn frankie,Schezwan Paneer Cheese Corn Frankie,1,0,,126.0
+Corn frankie,Tandoor Cheese Corn Frankie,1,0,,121.0
+Corn frankie,Tandoor Paneer Cheese Corn Frankie,1,0,,189.0
+Corn frankie,Garlic Cheese Corn Frankie,1,0,,116.0
+Corn frankie,Garlic Paneer Cheese Corn Frankie,1,0,,189.0
+Corn frankie,Mexican Paneer Cheese Corn Frankie,1,0,,189.0
+Jain Frankie,Jain Tandoori Paneer Cheese Frankie,1,0,"Paneer, cheese, mayo, cabbage, jain tikki, jain schezwan sauce chaat masala.",126.0
+Jain Frankie,Jain Tandoori Manchurian Cheese Frankie,1,0,,126.0
+Jain Frankie,Jain Noodles Manchurian Cheese Frankie,1,0,,126.0
+Jain Frankie,Jain Manchurian Cheese Frankie,1,0,,116.0
+Jain Frankie,Jain Paneer Cheese Frankie,1,0,,126.0
+Jain Frankie,Jain Paneer Cheese Corn Frankie,1,0,,137.0
+Jain Frankie,Jain Frankie,1,0,,63.0
+Jain Frankie,Jain Tandoori Noodles Cheese Frankie,1,0,,126.0
+Jain Frankie,Jain Cheese Corn Frankie,1,0,,116.0
+Jain Frankie,Jain Cheese Mayo Frankie,1,0,Jain schezwan sauce cabbage kela tikki cheese chaat masala.,100.0
+Jain Frankie,Jain Noodles Cheese Frankie,1,0,,126.0
+Chinese Frankie,Manchurian Cheese Frankie,1,0,,116.0
+Chinese Frankie,Manchurian Schezwan Frankie,1,0,Your favorite Manchurian Schezwan Frankie now overloaded with Extra Manchurian,100.0
+Chinese Frankie,Manchurian Cheese Corn Frankie,1,0,,137.0
+Chinese Frankie,Noodles Cheese Frankie,1,0,,121.0
+Chinese Frankie,Noodles Schezwan Frankie,1,0,,100.0
+Chinese Frankie,Noodles Cheese Corn Frankie,1,0,"Noodles, cheese, corn, mayonnaise, liquid cheese, onion, cabbage and chaat masala.",137.0
+Fancy Frankie Varieties,Fancy Noodles Cheese Corn Frankie,1,0,"Noodles, cheese, corn, mayonnaise, liquid cheese, onion, cabbage and chaat masala.",152.0
+Fancy Frankie Varieties,Noodles Paneer Cheese Corn Frankie,1,0,"Noodles, Paneer, Cheese, Corn, Mayonnaise, Liquid Cheese, Onion, Cabbage and Chaat Masala.",189.0
+Fancy Frankie Varieties,Fancy Manchurian Cheese Corn Frankie,1,0,,152.0
+Fancy Frankie Varieties,Manchurian Paneer Cheese Corn Frankie,1,0,,189.0
+Fancy Frankie Varieties,Noodles Manchurian Paneer Cheese Corn Frankie,1,0,,215.0
+Special Blast Jumbo Frankie,Cheese Blast Frankie,1,0,An easy and simple snack recipe made with flaky flatbread stuff with veggies ... read more,160.0
+Special Blast Jumbo Frankie,Noodles Cheese Blast Frankie,1,0,,170.0
+Special Blast Jumbo Frankie,Peri Peri Cheese Blast Frankie,1,0,,210.0
+Special Blast Jumbo Frankie,Schezwan Cheese Blast Frankie,1,0,,210.0
+Special Blast Jumbo Frankie,Tandoori Cheese Blast Frankie,1,0,,210.0
+Special Blast Jumbo Frankie,Corn Cheese Blast Frankie,1,0,,180.0
+Special Blast Jumbo Frankie,Paneer Cheese Blast Frankie,1,0,,180.0
+Special Blast Jumbo Frankie,Peri Peri Paneer Cheese Blast Frankie,1,0,,263.0
+Special Blast Jumbo Frankie,Schezwan Paneer Cheese Blast Frankie,1,0,,231.0
+Special Blast Jumbo Frankie,Tandoori Paneer Cheese Blast Frankie,1,0,,263.0
+Special Blast Jumbo Frankie,Corn Paneer Cheese Blast Frankie,1,0,,263.0
+Combos,Cheese Blast Frankie and Veg Frankie,1,0,,228.0
+Combos,Cheese Frankie and Veg Cheese Frankie,1,0,,195.0

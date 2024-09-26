@@ -1,0 +1,102 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian Dishes,Bataka Vada,1,0,,90.0
+South Indian Dishes,Butter Idli,1,0,,110.0
+South Indian Dishes,Dahi Boondi,1,0,,115.0
+South Indian Dishes,Dahi Idli,1,0,,115.0
+South Indian Dishes,Dahi Vada,1,0,,115.0
+South Indian Dishes,Idli Fry,1,0,,100.0
+South Indian Dishes,Idli Samabar,1,0,,90.0
+South Indian Dishes,Idli Vada,1,0,,90.0
+South Indian Dishes,Masala Idli,1,0,,115.0
+South Indian Dishes,Puri (4 Pcs),1,0,,50.0
+South Indian Dishes,Puri Bhaji,1,0,,115.0
+South Indian Dishes,Vada Sambar,1,0,,100.0
+South Indian Dishes,Veg Cutlet,1,0,,90.0
+South Indian Dishes,Veg Samosa,1,0,,90.0
+Dosa,Butter Rava Sada,1,0,,140.0
+Dosa,Cheese Gotala,1,0,,200.0
+Dosa,Cheese Masala Dosa,1,0,,180.0
+Dosa,Cheese Surma,1,0,,200.0
+Dosa,Cheese Uttapam,1,0,,150.0
+Dosa,Jinni Roll Dosa,1,0,,180.0
+Dosa,Masala Dosa,1,0,,115.0
+Dosa,Masala Uttapam,1,0,,130.0
+Dosa,Mysore Masala Dosa,1,0,,145.0
+Dosa,Mysore Sada Dosa,1,0,,120.0
+Dosa,Nylon Plain Dosa,1,0,,150.0
+Dosa,Onion Rava Masala Dosa,1,0,,150.0
+Dosa,Onion Rava Sada Dosa,1,0,,145.0
+Dosa,Onion Uttapam,1,0,,130.0
+Dosa,Palak Paneer Dosa,1,0,,200.0
+Dosa,Paneer Masala Dosa,1,0,,150.0
+Dosa,Paneer Sada Dosa,1,0,,130.0
+Dosa,Paneer Schezwan Dosa,1,0,,265.0
+Dosa,Paper Masala (Jumbo) Dosa,1,0,,420.0
+Dosa,Paper Sada (Jumbo) Dosa,1,0,,360.0
+Dosa,Rava Masala Dosa,1,0,,145.0
+Dosa,Rava Sada Dosa,1,0,,120.0
+Dosa,Sada Dosa,1,0,,90.0
+Dosa,Tomato Uttapam,1,0,,130.0
+Dosa,Tomoto Onion Uttapam,1,0,,130.0
+Dosa,Triple Takkar Dosa,1,0,,200.0
+Dosa,Uttapam,1,0,,110.0
+Pav Bhaji,Cheese Jain Pav Bhaji,1,0,,190.0
+Pav Bhaji,Cheese Kada Pav Bhaji,1,0,,190.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,,190.0
+Pav Bhaji,Cheese Tawa Pulao,1,0,,230.0
+Pav Bhaji,Extra Pav 2 Pcs,1,0,,30.0
+Pav Bhaji,Gotala Pav Bhaji,1,0,,180.0
+Pav Bhaji,Green Garlic Pav Bhaji,1,0,,200.0
+Pav Bhaji,Jain Pav Bhaji,1,0,,150.0
+Pav Bhaji,Khada Pav Bhaji,1,0,,160.0
+Pav Bhaji,Masala Pav 2 Pcs,1,0,,110.0
+Pav Bhaji,Only Bhaji,1,0,,120.0
+Pav Bhaji,Paneer Cheese Tawa Pulao,1,0,,250.0
+Pav Bhaji,Pav Bhaji,1,0,,150.0
+Pav Bhaji,Pav Extra 1 Pcs,1,0,,12.0
+Pav Bhaji,Special Greeen Garlic Tawa Pulav,1,0,,240.0
+Pav Bhaji,Tawa Pulao,1,0,,190.0
+Pizza,Cheese Pizza [8 Inch],1,0,,200.0
+Pizza,Delux Pizza [8 Inch],1,0,,240.0
+Pizza,Italian Pizza [8 Inch],1,0,,220.0
+Pizza,Margherita Pizza [8 Inch],1,0,,190.0
+Pizza,Mushroom Pizza [8 Inch],1,0,,240.0
+Pizza,Onion Capsicum Pizza [8 Inch],1,0,,210.0
+Pizza,Plain Cheese Burger [8 Inch],1,0,,110.0
+Pizza,Veg Burger [8 Inch],1,0,,100.0
+Pizza,Veg Cheese Pizza [8 Inch],1,0,,190.0
+Pizza,Veg Chese Burger [8 Inch],1,0,,120.0
+Sandwiches,Bread Butter,1,0,,60.0
+Sandwiches,Bread Jam,1,0,,60.0
+Sandwiches,Bread Slice (2 Pcs),1,0,,40.0
+Sandwiches,Cheese Grill Sandwich,1,0,,150.0
+Sandwiches,Cheese Sandwich,1,0,,120.0
+Sandwiches,Cheese Toast Sandwich,1,0,,145.0
+Sandwiches,Club Sandwich,1,0,,130.0
+Sandwiches,Grill Club Sandwich,1,0,,150.0
+Sandwiches,Veg Cheese Grill Sandwich,1,0,,160.0
+Sandwiches,Veg Cheese Sandwich,1,0,,140.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,145.0
+Sandwiches,Veg Grill Sandwich,1,0,,145.0
+Sandwiches,Veg Sandwich,1,0,,90.0
+Sandwiches,Veg Toast Sandwich,1,0,,100.0
+Papad,Fry Papad,1,0,,40.0
+Papad,Masala Papad,1,0,,50.0
+Papad,Roasted Papad,1,0,,20.0
+Fresh Juice,Bombay To Goa Juice,1,0,,110.0
+Fresh Juice,Fresh Lime Juice,1,0,,50.0
+Fresh Juice,Ganga Jamuna Juice,1,0,,110.0
+Fresh Juice,Mosambi Juice,1,0,,110.0
+Fresh Juice,Orange Juice,1,0,,110.0
+Fresh Juice,Pineapple Juice,1,0,,110.0
+Fresh Juice,Water Melon Juice,1,0,,110.0
+Milk Shakes,Anjeer Milk Shake,1,0,,190.0
+Milk Shakes,Badam Milk Shake,1,0,,190.0
+Milk Shakes,Kaju Anjeer Milk Shake,1,0,,225.0
+Milk Shakes,Kaju Badam Milk Shake,1,0,,225.0
+Bevrages,Butter Milk,1,0,,30.0
+Bevrages,Fresh Lime Soda,1,0,,60.0
+Bevrages,Lassi,1,0,,60.0
+Bevrages,Mineral Water,1,0,,20.0
+Hot Bevrages,Coffee,1,0,,50.0
+Hot Bevrages,Tea,1,0,,35.0

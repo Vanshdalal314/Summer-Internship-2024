@@ -1,0 +1,81 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Special Punjabi Fixed Thali,1,0,,225.0
+Main Course,Vagharelo Rotlo,1,0,,135.0
+Main Course,Sev Tomato,1,0,,125.0
+Main Course,Sev Lasoon,1,0,,160.0
+Main Course,Lili Dungri Gathiya,1,0,,160.0
+Main Course,Sukhi Bhaji,1,0,,125.0
+Main Course,Rajwadi Dhokli,1,0,,140.0
+Main Course,Lasaniya Batata,1,0,,125.0
+Main Course,Bharela Ringan,1,0,,140.0
+Main Course,Dahi Tikhari,1,0,,125.0
+Main Course,Vegetable Sabji [1 kg],1,0,,430.0
+Main Course,Paneer Sabji [1 kg],1,0,,430.0
+Main Course,Cheese Sabji [1 kg],1,0,,500.0
+Main Course,Veg Diwani Handi,1,0,,165.0
+Main Course,Veg Makhanwala,1,0,,165.0
+Main Course,Veg Handi,1,0,,175.0
+Main Course,Veg Kadhai,1,0,,175.0
+Main Course,Veg Toofani,1,0,,175.0
+Main Course,Veg Chatpata,1,0,,175.0
+Main Course,Veg Keema,1,0,,175.0
+Main Course,Veg Pahadi,1,0,,175.0
+Main Course,Veg Angara,1,0,,190.0
+Main Course,Kaju Curry,1,0,,210.0
+Main Course,Kaju Masala,1,0,,210.0
+Main Course,Sweet Navratan Korma,1,0,,200.0
+Main Course,Kaju Paneer Masala,1,0,,250.0
+Main Course,Shubham Special Veg,1,0,,251.0
+Main Course,Punjabi Dum Aloo,1,0,,180.0
+Main Course,Aloo Matar,1,0,,125.0
+Main Course,Chana Masala,1,0,,135.0
+Main Course,Plain Palak,1,0,,135.0
+Main Course,Aloo Palak,1,0,,135.0
+Main Course,Mix Vegetable,1,0,,150.0
+Main Course,Veg Jaipuri,1,0,,175.0
+Main Course,Veg Kolhapuri,1,0,,175.0
+Main Course,Veg Hyderabadi,1,0,,175.0
+Main Course,Mushroom Masala,1,0,,200.0
+Main Course,Paneer Bhurji,1,0,,210.0
+Main Course,Paneer Angara,1,0,,210.0
+Main Course,Cheese Butter Masala,1,0,,225.0
+Main Course,Shubham Special Paneer,1,0,,251.0
+Main Course,Palak Paneer,1,0,,175.0
+Main Course,Paneer Chatpata,1,0,,200.0
+Main Course,Paneer Tikka Masala,1,0,,200.0
+Main Course,Paneer Handi,1,0,,200.0
+Main Course,Paneer Kadai,1,0,,200.0
+Main Course,Paneer Butter Masala,1,0,,200.0
+Main Course,Paneer Toofani,1,0,,200.0
+Main Course,Paneer Pasanda,1,0,,210.0
+Main Course,Paneer Tawa,1,0,,170.0
+Main Course,Paneer Lababdar,1,0,,225.0
+Main Course,Paneer Lasaniya,1,0,,225.0
+Main Course,Matar Mushroom,1,0,,225.0
+Main Course,Cheese Begum Bahar,1,0,,210.0
+Main Course,Cheese Angoori,1,0,,235.0
+Main Course,Paneer Angoori,1,0,,225.0
+Main Course,Dal Fry,1,0,,125.0
+Main Course,Butter Dal Fry,1,0,,145.0
+Main Course,Dal Tadka,1,0,,145.0
+Main Course,Dal Palak,1,0,,145.0
+Main Course,Veg Kofta,1,0,,150.0
+Main Course,Nargis Kofta,1,0,,190.0
+Main Course,Cheese Kofta,1,0,,200.0
+Main Course,Paneer Kofta,1,0,,200.0
+Breads,Plain Chapati Roti,1,0,,15.0
+Breads,Butter Chapati Roti,1,0,,20.0
+Breads,Thepla,1,0,,25.0
+Breads,Butter Tawa Paratha,1,0,,25.0
+Breads,Bajra Rotla,1,0,,30.0
+Rice and Biryani,Plain Rice,1,0,,75.0
+Rice and Biryani,Jeera Rice,1,0,,100.0
+Rice and Biryani,Masala Rice,1,0,,125.0
+Rice and Biryani,Veg Pulao,1,0,,125.0
+Rice and Biryani,Green Peas Pulao,1,0,,135.0
+Rice and Biryani,Shubham Special Pulao,1,0,,199.0
+Rice and Biryani,Veg Biryani,1,0,,150.0
+Rice and Biryani,Hyderabadi Biryani,1,0,,150.0
+Rice and Biryani,Handi Biryani,1,0,,150.0
+Rice and Biryani,Shubham Special Biryani,1,0,,199.0
+Snacks,Paneer Koliwada,1,0,,225.0

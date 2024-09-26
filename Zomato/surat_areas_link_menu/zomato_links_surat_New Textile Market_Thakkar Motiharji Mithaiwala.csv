@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Laddu & Modak,Motichoor Laddu,1,0,,169.0
+Laddu & Modak,Boondi Laddu,1,0,,169.0
+Peda,Surti Peda,1,0,,182.0
+Peda,White Malai Peda,1,0,,182.0
+Peda,Bhavnagari Peda,1,0,,158.0
+Peda,Surti Kesar Peda,1,0,,195.0
+Peda,Kesar Malai Peda,1,0,,195.0
+Peda,Chocolate Ball Bounty,1,0,,195.0
+Jalebi,Regular Jalebi,1,0,,208.0
+Jalebi,Large Jalebi,1,0,,208.0
+Ghari,Pista Ghari,1,0,,290.0
+Ghari,Kesar Badam Pista Ghari,1,0,,310.0
+Mithai,Barfi,1,0,,195.0
+Mithai,Dudhi Halwa,1,0,,195.0
+Mithai,Chikoo Halwa,1,0,,195.0
+Mithai,Tirangi Halwa,1,0,,195.0
+Mithai,Doodh Badam Halwa,1,0,,195.0
+Mithai,Chocolate Barfi,1,0,,195.0
+Mithai,Green Apple Halwa,1,0,,195.0
+Mithai,Pineapple Halwa,1,0,,195.0
+Mithai,Regular Mawa Mix Mithai,1,0,,195.0
+Mithai,Milk Cake,1,0,,208.0
+Mithai,Mawa Anjeer Barfi,1,0,,185.0
+Mithai,Special Mawa Mix Mithai,1,0,,185.0
+Mithai,Mawa Ghughra,1,0,,250.0
+Mithai,Dry Fruit Halwa,1,0,,250.0
+Kaju Mithai,Kaju Katli,1,0,,299.0
+Kaju Mithai,Kesar Kaju Katli,1,0,,305.0
+Kaju Mithai,Strawberry Kaju Katli,1,0,,305.0
+Kaju Mithai,Kaju Anjeer Roll,1,0,,305.0
+Kaju Mithai,Kaju Anjeer Patra,1,0,,305.0
+Kaju Mithai,Kaju Cassata Halwa,1,0,,305.0
+Dal & Pakwan,Sutarfeni,1,0,,220.0
+Dal & Pakwan,Ghewar,1,0,,220.0
+Dal & Pakwan,Plain Khaja,1,0,,220.0
+Dal & Pakwan,Sweet Khaja,1,0,,220.0
+Dal & Pakwan,Khajli,1,0,,220.0
+Dal & Pakwan,Dahithra,1,0,,220.0
+Dal & Pakwan,Gagan Ganthiya,1,0,,220.0
+Dal & Pakwan,Biscuit,1,0,,220.0
+Dal & Pakwan,Farsi Puri,1,0,,220.0
+Dal & Pakwan,Badami Mysore Pak,1,0,,220.0
+Dal & Pakwan,Mohanthlal,1,0,,220.0
+Dal & Pakwan,Magaj,1,0,,220.0
+Dal & Pakwan,Pakwan Mix,1,0,,220.0
+Dal & Pakwan,Chana Dal,1,0,,220.0
+Dal & Pakwan,Mag Dal,1,0,,220.0
+Summer Special,Sarasiya Khaja,1,0,,450.0
+Sarasiya Khaja,Sarasiya Khaja,1,0,,450.0

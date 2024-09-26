@@ -1,0 +1,115 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fried Rice and Chowmein,Fried Rice,1,0,,99.0
+Fried Rice and Chowmein,Egg Schezwan Rice,0,0,,81.0
+Fried Rice and Chowmein,Egg Jeera Rice,0,0,,72.0
+Fried Rice and Chowmein,Egg Bhurji Rice,0,0,,81.0
+Fried Rice and Chowmein,Egg Fried Rice,0,0,,99.0
+Fried Rice and Chowmein,Egg Chicken Fried Rice,0,0,,126.0
+Fried Rice and Chowmein,Veg Paneer Chowmein,1,0,,90.0
+Fried Rice and Chowmein,Mix Veg Chowmein,1,0,,99.0
+Fried Rice and Chowmein,Mushroom Chowmein,1,0,,117.0
+Fried Rice and Chowmein,Egg Chowmein,0,0,,81.0
+Fried Rice and Chowmein,Chicken Chowmein,0,0,,90.0
+Fried Rice and Chowmein,Egg Chicken Chowmein,0,0,,90.0
+Fried Rice and Chowmein,Double Egg Chicken Chowmein,0,0,,99.0
+Fried Rice and Chowmein,Mixed Chowmein,0,0,"Egg, chicken and prawns.",117.0
+Main Course,Chana Paneer,1,0,,90.0
+Main Course,Matar Paneer,1,0,,99.0
+Main Course,Palak Paneer,1,0,,126.0
+Main Course,Paneer Masala,1,0,,135.0
+Main Course,Mushroom Masala,1,0,,135.0
+Main Course,Kaju Paneer,1,0,,144.0
+Main Course,Paneer Handi,1,0,,144.0
+Main Course,Kaju Mushroom,1,0,,171.0
+Main Course,Mushroom Handi,1,0,,189.0
+Main Course,Egg Keema,0,0,,72.0
+Main Course,Egg Kadhi,0,0,,81.0
+Main Course,Lahsan Tadka,0,0,,54.0
+Main Course,Egg Bhurji,0,0,,81.0
+Main Course,Fish Masala,0,0,,90.0
+Main Course,Mutton Keema,0,0,,99.0
+Main Course,Chicken Curry,0,0,,117.0
+Main Course,Chicken Kassa,0,0,,126.0
+Main Course,Chicken Tikka Butter Masala,0,0,,126.0
+Main Course,Chicken Stick Kabab Butter Masala,0,0,,135.0
+Main Course,Chicken Butter Masala,0,0,,135.0
+Main Course,Chicken Leg Butter Masala,0,0,,135.0
+Main Course,Crab Curry,0,0,,135.0
+Main Course,Chicken Kabab Butter Masala,0,0,,153.0
+Main Course,Prawns Curry,0,0,,153.0
+Main Course,Prawns Curry [Small],0,0,,153.0
+Main Course,Mutton Kassa,0,0,,162.0
+Rice and Biryani,Sada Rice,1,0,,81.0
+Rice and Biryani,Biryani Rice,0,0,,99.0
+Rice and Biryani,Jeera Rice,1,0,,99.0
+Rice and Biryani,Egg Kadhi Pulao,0,0,,99.0
+Rice and Biryani,Veg Pulao,1,0,,108.0
+Rice and Biryani,Egg Pulao,0,0,,117.0
+Rice and Biryani,Veg Biryani,1,0,,108.0
+Rice and Biryani,Egg Biryani,0,0,,108.0
+Rice and Biryani,Chicken Biryani,0,0,,99.0
+Rice and Biryani,Chicken Special Biryani,0,0,,108.0
+Rice and Biryani,Fashion Mutton Biryani,0,0,,144.0
+Rice and Biryani,Mutton Biryani,0,0,,162.0
+Rice and Biryani,Kabab Biryani,0,0,,162.0
+Snacks,Paneer Pakoda,1,0,,126.0
+Snacks,Mushroom Pakoda,1,0,,153.0
+Snacks,Boiled Egg [1 Egg],0,0,,13.5
+Snacks,Omelette,0,0,,45.0
+Snacks,Egg Sada Half Fry,0,0,,45.0
+Snacks,Egg Boiled Fry,0,0,,45.0
+Snacks,Egg Tomato Half Fry,0,0,,54.0
+Snacks,Egg Lahsan Half Fry,0,0,,54.0
+Snacks,Special Limbu Mari Omelette,0,0,,54.0
+Snacks,Chicken Pakoda,0,0,,90.0
+Snacks,Boneless Chicken Pakoda,0,0,,108.0
+Snacks,Crab Pakoda,0,0,,117.0
+Snacks,Prawns Pakoda,0,0,,126.0
+Snacks,Prawns Pakoda [Small],0,0,,126.0
+Snacks,Chicken Manchurian,0,0,,162.0
+Starters,Chicken Tandoori Leg,0,0,,81.0
+Starters,Chicken Leg,0,0,,81.0
+Starters,Chicken Tikka,0,0,,90.0
+Starters,Hariyali Kabab,0,0,,90.0
+Starters,Malai Kabab,0,0,,99.0
+Starters,Pomfret Tandoori,0,0,,108.0
+Starters,Fish Tikka,0,0,,108.0
+Starters,Reshmi Kabab,0,0,,108.0
+Starters,Kastoori Kabab,0,0,,108.0
+Starters,Tandoori Prawns,0,0,,117.0
+Starters,Chicken Stick Kabab,0,0,,135.0
+Starters,Tandoori,0,0,,432.0
+Starters,Chicken Liver Tawa Fry,0,0,,144.0
+Starters,Chicken Liver Tikka,0,0,,153.0
+Starters,Lollipop Butter Masala,0,0,,126.0
+Starters,Chicken Liver Gravy,0,0,,144.0
+Starters,Chicken Liver Chatpata,0,0,,117.0
+Starters,Green Paneer Tikka,1,0,,126.0
+Starters,Paneer 65,1,0,,153.0
+Starters,Paneer Manchurian,1,0,,162.0
+Starters,Fish Fry,0,0,,81.0
+Starters,Chicken Lollipop,0,0,,117.0
+Starters,Prawns Chilli,0,0,,135.0
+Starters,Chilli Chicken,0,0,,153.0
+Soups,Manchow Soup,0,0,,54.0
+Soups,Veg Soup,1,0,,54.0
+Soups,Paneer Soup,1,0,,54.0
+Soups,Mushroom Soup,1,0,,72.0
+Soups,Egg Soup,0,0,,54.0
+Soups,Chicken Soup,0,0,,54.0
+Soups,Mutton Soup,0,0,,99.0
+Soups,Crab Soup,0,0,,72.0
+Breads,Plain Paratha,1,0,,13.5
+Breads,Chapati,1,0,,9.0
+Rolls,Mushroom Roll,1,0,,72.0
+Rolls,Veg Mixed Roll,1,0,,72.0
+Rolls,Paneer Roll,1,0,,72.0
+Rolls,Egg Rolll,0,0,,54.0
+Rolls,Double Egg Roll,0,0,,72.0
+Rolls,Egg Chicken Roll,0,0,,72.0
+Rolls,Kabab Roll,0,0,,72.0
+Rolls,Special Kabab Roll,0,0,,81.0
+Rolls,Double Egg Chicken Roll,0,0,,81.0
+Rolls,Lachha Egg Chicken Roll,0,0,,90.0
+Party Combos,Chicken Kassa [Half] with Fashion Mutton Biryani [Half],0,0,,351.0
+Party Combos,Chicken Special Biryani [Half] with Fashion Mutton Biryani [Half],0,0,,225.0

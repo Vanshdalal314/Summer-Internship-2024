@@ -1,0 +1,163 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Drinks (Beverages),Butter Milk,1,0,,40.0
+Drinks (Beverages),Cold Drinks,1,0,,20.0
+Drinks (Beverages),Fresh Lime Soda,1,0,,50.0
+Drinks (Beverages),Lassi ( Sweet ),1,0,,99.0
+Drinks (Beverages),Lassi (Salted),1,0,,99.0
+Drinks (Beverages),Water 10,1,0,,10.0
+Drinks (Beverages),Water 20,1,0,,20.0
+Budget Friendly,Budget Friendly,1,0,,159.0
+Chawal Ki Kushboo,Corn & Makhane Pulao,1,0,,210.0
+Chawal Ki Kushboo,Jeera Rice,1,0,,180.0
+Chawal Ki Kushboo,Matka Dum Biryani,1,0,,340.0
+Chawal Ki Kushboo,Mix Veg Biryani,1,0,,320.0
+Chawal Ki Kushboo,Paneer Biryani,1,0,,310.0
+Chawal Ki Kushboo,Peac Pulao,1,0,,220.0
+Chawal Ki Kushboo,Plain Rice,1,0,,170.0
+Chawal Ki Kushboo,Soya Chaap Biryani,1,0,,269.0
+Chawal Ki Kushboo,Veg Hydrabadi Biryani,1,0,,330.0
+Chawal Ki Kushboo,Veg Pulao,1,0,,200.0
+Chawal Ki Kushboo,Veg Seekh Kabab Biryani,1,0,,350.0
+Garden Kasalad,Green Salad,1,0,,110.0
+Garden Kasalad,Kachumber Salad,1,0,,115.0
+House Of Dal,Dal Fry,1,0,,200.0
+House Of Dal,Dal Makhni,1,0,,260.0
+House Of Dal,Dal Palak Lasooniya,1,0,,240.0
+House Of Dal,Dal Tadka,1,0,,220.0
+Kurkure Papad,Cheese Masala Papad,1,0,,115.0
+Kurkure Papad,Fry Papad,1,0,,50.0
+Kurkure Papad,Khichiya Cheese Masala,1,0,,125.0
+Kurkure Papad,Khichiya Masala Papad,1,0,,120.0
+Kurkure Papad,Masala Papad,1,0,,110.0
+Kurkure Papad,Roasted Papad,1,0,,45.0
+Maa Ki Roti,Aloo Stuffed Parathas,1,0,,159.0
+Maa Ki Roti,Butter Kulcha,1,0,,85.0
+Maa Ki Roti,Butter Naan,1,0,,60.0
+Maa Ki Roti,Cheese Naan,1,0,,160.0
+Maa Ki Roti,Chur Chur Naan,1,0,,150.0
+Maa Ki Roti,Garlic Naan,1,0,,70.0
+Maa Ki Roti,Gobi Stuffed Parathas,1,0,,159.0
+Maa Ki Roti,Lachha Paratha,1,0,,50.0
+Maa Ki Roti,Masala Kulcha,1,0,,90.0
+Maa Ki Roti,Missi Roti,1,0,,50.0
+Maa Ki Roti,Mix Stuffed Parathas,1,0,,159.0
+Maa Ki Roti,Naan,1,0,,40.0
+Maa Ki Roti,Paneer Stuffed Parathas,1,0,,159.0
+Maa Ki Roti,Plain Kulcha,1,0,,60.0
+Maa Ki Roti,Roti Basket,1,0,,299.0
+Maa Ki Roti,Tandoori Butter,1,0,,49.0
+Maa Ki Roti,Tandoori Roti,1,0,,39.0
+Maa Ki Roti,Tawa Butter Roti,1,0,,40.0
+Maa Ki Roti,Tawa Roti,1,0,,25.0
+Maggi,Butter Garlic Maggi,1,0,,119.0
+Maggi,Chilli Maggi,1,0,,115.0
+Maggi,Corn And Capsicum Maggi,1,0,,149.0
+Maggi,Maggi,1,0,,55.0
+Maggi,Peri - Peri Maggi,1,0,,159.0
+Maggi,Schezwan Maggi,1,0,,149.0
+Maggi,Tomato Maggi,1,0,,129.0
+Maggi,Vegetable Maggi,1,0,,99.0
+Quick Bite,Cheese Corn Balls,1,0,,199.0
+Quick Bite,Corn Cheese Tikki,1,0,,199.0
+Quick Bite,Fries With Cheese,1,0,,199.0
+Quick Bite,Garlic Bread,1,0,,199.0
+Quick Bite,Loaded Nachos,1,0,,199.0
+Quick Bite,Veg Cutlet,1,0,,199.0
+Raita,Boondi Raita,1,0,,120.0
+Raita,Cucumber And Tomato Raita,1,0,,125.0
+Raita,Garlic Raita,1,0,,125.0
+Raita,Mix Raita,1,0,,115.0
+Raita,Potato Raita,1,0,,120.0
+Thali Wala,Executive Thali,1,0,1 Type Of Chinese Starter + Veg Sabzi + Paneer Sabzi +Lacha Paratha ... read more,249.0
+Thali Wala,Dal Makhani + Butter Naan [1 Pieces],1,0,,150.0
+Thali Wala,Chinese Thali 2,1,0,Gravy Manchurian + Fried Rice + Salad,169.0
+Thali Wala,Budget Thali,1,0,Jeers Aloo + Channa Masala + Dal Fry + Plain Rice + 2 ... read more,149.0
+Thali Wala,Chinese Thali 3,1,0,Manchurian Dry + Hakka Noodles + Salad,169.0
+Thali Wala,Paneer Butter Masala + Butter Naan [1 Pieces],1,0,,156.0
+Thali Wala,Chinese Thali 1,1,0,Paneer Chilly Dry + Hakka Noodles + Salad,169.0
+Thali Wala,Chinese Thali 4,1,0,Paneer Chilly Gravy + Fried Rice + Salad,169.0
+Thali Wala,Paneer Lababdar + Butter Naan [2 Pieces],1,0,,156.0
+Thali Wala,Paneer Lababdar + Dal Makhani + Butter Naan [2 Pieces],1,0,,169.0
+Thali Wala,Delux Thali,1,0,Paneer Sabji + Veg Sabji + Dak Makhni + Jeera Rice +Butter Roti ... read more,249.0
+Thali Wala,Standard Thali,1,0,Panner Sabzi + Veg Sabzi + Dal Fry + Plain Rice + 3 ... read more,169.0
+Thali Wala,Punjabi Chole + Butter Naan [1 Pieces],1,0,,150.0
+Veg Chinese,Chinese Bhel,1,0,,249.0
+Veg Chinese,Honey Chilli Crispy Potato,1,0,,250.0
+Veg Chinese,Mushroom Salt & Pepper,1,0,,290.0
+Veg Chinese,Paneer 65,1,0,,295.0
+Veg Chinese,Paneer Chilli,1,0,,295.0
+Veg Chinese,Paneer Green Garlic Sauce,1,0,,299.0
+Veg Chinese,Paneer Hot Garlic Steak,1,0,,290.0
+Veg Chinese,Shanghai Paneer,1,0,,299.0
+Veg Chinese,Veg 65,1,0,,250.0
+Veg Chinese,Veg Lollipop,1,0,,275.0
+Veg Chinese,Veg Spring Roll,1,0,,250.0
+Veg Chinese,Vegetable Manchurian Dry,1,0,,215.0
+Veg Main Course,Bhindi Masala,1,0,,200.0
+Veg Main Course,Chaap Butter Masala,1,0,,280.0
+Veg Main Course,Chaap Cheese Masala,1,0,,299.0
+Veg Main Course,Chaap Kalimari Masala,1,0,,285.0
+Veg Main Course,Chaap Tikka Masala,1,0,,290.0
+Veg Main Course,Gobi Aloo,1,0,,190.0
+Veg Main Course,Jeera Aloo,1,0,,190.0
+Veg Main Course,Kaju Masala,1,0,,380.0
+Veg Main Course,Mix Veg,1,0,,250.0
+Veg Main Course,Mushroom Kadai,1,0,,290.0
+Veg Main Course,Mutter Paneer,1,0,,250.0
+Veg Main Course,Pahadi Chaap Masala,1,0,,295.0
+Veg Main Course,Palak Paneer,1,0,,349.0
+Veg Main Course,Paneer Angara,1,0,,360.0
+Veg Main Course,Paneer Awadhi Tawa,1,0,,310.0
+Veg Main Course,Paneer Bhurji,1,0,,289.0
+Veg Main Course,Paneer Butter Masala,1,0,,290.0
+Veg Main Course,Paneer Handi,1,0,,280.0
+Veg Main Course,Paneer Jhangiri,1,0,,340.0
+Veg Main Course,Paneer Kadai,1,0,,270.0
+Veg Main Course,Paneer Khurchan,1,0,,330.0
+Veg Main Course,Paneer Lababdar,1,0,,299.0
+Veg Main Course,Paneer Pasanda,1,0,,350.0
+Veg Main Course,Paneer Patiyala,1,0,,310.0
+Veg Main Course,Paneer Tikka Masala,1,0,,299.0
+Veg Main Course,Sev Bhaji,1,0,,199.0
+Veg Main Course,Shahi Paneer,1,0,,296.0
+Veg Main Course,Subzi Kolhapuri,1,0,,250.0
+Veg Main Course,Veg Handi,1,0,,260.0
+Veg Main Course,Veg Jalfrezi,1,0,,250.0
+Veg Main Course,Veg Kadai,1,0,,260.0
+Veg Main Course,Veg Maratha,1,0,,270.0
+Veg Main Course,Veg Patiyala,1,0,,280.0
+Veg Rice& Noodles,Brunt Garlic Noodle,1,0,,310.0
+Veg Rice& Noodles,Brunt Garlic Rice,1,0,,230.0
+Veg Rice& Noodles,Corn&Mushroom Fried Rice,1,0,,240.0
+Veg Rice& Noodles,Lemon Rice,1,0,,235.0
+Veg Rice& Noodles,Paneer Fried Rice,1,0,,235.0
+Veg Rice& Noodles,Schezwan Fried Rice,1,0,,215.0
+Veg Rice& Noodles,Schezwan Noodle,1,0,,245.0
+Veg Rice& Noodles,Singapore Noodle,1,0,,240.0
+Veg Rice& Noodles,Veg Fried Rice,1,0,,200.0
+Veg Rice& Noodles,Veg Hakka Noodle,1,0,,235.0
+Veg Soup,Cream Of Tomato,1,0,,195.0
+Veg Soup,Hot & Sour Vegetable,1,0,,182.0
+Veg Soup,Lemon Coriander,1,0,,195.0
+Veg Soup,Manchow Soup,1,0,,182.0
+Veg Soup,Sweet Corn Soup,1,0,,195.0
+Veg Soup,Veg Clear Soup,1,0,,155.0
+Veg Tandoor,Achari Chaap,1,0,,330.0
+Veg Tandoor,Achari Paneer Tikka,1,0,,350.0
+Veg Tandoor,Afghani Chaap,1,0,,360.0
+Veg Tandoor,Angara Chaap,1,0,,360.0
+Veg Tandoor,Banjara Paneer Tikka,1,0,,340.0
+Veg Tandoor,Chaap Cheese Tikka,1,0,,350.0
+Veg Tandoor,Chaap Kabab,1,0,,330.0
+Veg Tandoor,Cheese Paneer Tikka,1,0,,360.0
+Veg Tandoor,Delhi Wali Chaap,1,0,,340.0
+Veg Tandoor,Harabhara Kabab,1,0,,299.0
+Veg Tandoor,Hariyali Paneer Tikka,1,0,,350.0
+Veg Tandoor,Malai Chaap Tikka,1,0,,360.0
+Veg Tandoor,Masala Chaap,1,0,,350.0
+Veg Tandoor,Paneer Kalimiri Tikka,1,0,,300.0
+Veg Tandoor,Peri Peri Paneer Tikka,1,0,,350.0
+Veg Tandoor,Tandoori Chaap,1,0,,300.0
+Veg Tandoor,Tandoori Mushroom Tikka,1,0,,349.0
+Veg Tandoor,Tandoori Paneer Tikka,1,0,,330.0
+Veg Tandoor,Veg Seekh Kabab,1,0,,299.0

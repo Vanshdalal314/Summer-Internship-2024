@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Rock Stone Specials,Butterscotch Fantasy Ice Cream,1,0,"Butterscotch ice cream mixed with yellow cake, butterscotch flakes and caramel.",115.0
+Rock Stone Specials,Vanilla French Kisssss Ice Cream,1,0,"French vanilla ice cream mixed with cookie dough, chocolate chips, choco fudge and ... read more",90.0
+Rock Stone Specials,An Italian Love Affair Ice Cream,1,0,"Coffee Italiano ice cream mixed with roasted almonds, kitkat, caramel and topped with ... read more",115.0
+Rock Stone Specials,Oreo Double Double Ice Cream,1,0,"Sweet cream ice cream mixed with double oreo cookies, choco chips and choco ... read more",115.0
+Rock Stone Specials,Rock with Ferrero Rocher Ice Cream,1,0,"Silky swiss chocolate ice cream mixed with a ferrero rocher, choco chips, fresh ... read more",215.0
+Rock Stone Specials,All Berry Bang Ice Cream,1,0,"Sweet cream ice cream mixed with whole strawberries, raspberries, blueberries fruits and pie ... read more",215.0
+Signature Ice Cream,All Chocolate No Nonsense Ice Cream,1,0,"Silky swiss chocolate ice cream mixed with rich chocolate brownie, chocolate chips, fresh ... read more",115.0
+Signature Ice Cream,Beyond Darkness Beyond Desire Ice Cream,1,0,"Dark belgium chocolate ice cream mixed with peanut butter, roasted almonds, rich chocolate ... read more",115.0
+Signature Ice Cream,Chocolate Passion for Strawberry Ice Cream,1,0,"Dark belgium chocolate ice cream mixed with whole strawberries, choco chips and ... read more",115.0
+Signature Ice Cream,Nutella Frenzy Ice Cream,1,0,"Silky swiss chocolate ice cream mixed with nutella Ferrero cream hazelnut, rich chocolate ... read more",120.0
+Signature Ice Cream,Doctor Nuts Ice Cream,1,0,"Butterscotch and caramel nuts ice cream mixed with roasted almonds, cashew, laced with ... read more",120.0
+Signature Ice Cream,Rocky Off Road Ice Cream,1,0,"Silky swiss chocolate ice cream mixed with roasted almonds, cashew, oreo cookies, laced ... read more",120.0
+Signature Ice Cream,Exotic Fruit Trill Ice Cream,1,0,"Sweet cream and mango ice cream mixed with lychee, pineapple fruit and apple ... read more",115.0
+Signature Ice Cream,Fruit Extravaganza Ice Cream,1,0,"Sweet cream, strawberry and blackcurrant ice cream mixed with kiwi, lychee, pineapple fruit ... read more",115.0
+Signature Ice Cream,Strawberry Razzmatazz Ice Cream,1,0,"Strawberry ice cream mixed with strawberries, banana fruit, white chocolate chips, pie crust ... read more",115.0
+Signature Ice Cream,Lychee Double Double Ice Cream,1,0,Sweet cream ice cream mixed with double lychees and topped with strawberry stick.,115.0
+Signature Ice Cream,Candy Land Ice Cream,1,0,"Cotton candy ice cream mixed with gems, rainbow sprinkles, choco fudge and topped ... read more",135.0
+Signature Shakes and Smoothies,Cookies and Cream Shake,1,0,Sweet cream ice cream blended with crunchy double oreo cookies.,180.0
+Signature Shakes and Smoothies,Peanut Butter Delight Shake,1,0,Dark belgium chocolate ice cream blended with peanut butter and topped with garnishing.,180.0
+Signature Shakes and Smoothies,Woo La La Fudge Shake,1,0,Silky swiss chocolate ice cream blended with chocolate fudge and topped with garnishing.,180.0
+Signature Shakes and Smoothies,Vanilla Caramel Shake,1,0,French vanilla ice cream blended with caramel and topped with garnishing.,180.0
+Signature Shakes and Smoothies,Strawberry Nirvana Shake,1,0,Strawberry ice cream blended with strawberries and topped with garnishing.,180.0
+Signature Shakes and Smoothies,Banana Strawberry Goes Smoothie,1,0,"Sorbet blended with bananas, strawberries fruits and orange juice.",180.0
+Signature Shakes and Smoothies,Lemony Berry Berry Smoothie,1,0,"Sorbet blended with strawberries, raspberries and pineapple fruits.",180.0
+Signature Shakes and Smoothies,Rich Mocha Latte,1,0,"Coffee Italiano ice cream blended with coffee mix, chocolate fudge, ice and topped ... read more",165.0
+Signature Shakes and Smoothies,Vanilla Caramel Latte,1,0,"Coffee Italiano and French vanilla ice cream blended with coffee mix, caramel, ice ... read more",165.0
+Signature Shakes and Smoothies,Raspberry Truffle Latte,1,0,"Coffee Italiano ice cream blended with coffee mix, raspberry sauce, chocolate fudge, ice ... read more",165.0
+Signature Shakes and Smoothies,Yogo Mango Banana Smoothie,1,0,Sorbet and yogurt blended with bananas and mango fruits.,190.0
+Signature Shakes and Smoothies,Yogoberry Bang Smoothie,1,0,"Sorbet and yogurt blended with raspberries, strawberries and blueberries fruits.",190.0
+Signature Shakes and Smoothies,Dark and Stormy with Brownie Shake,1,0,"Silky swiss chocolate ice cream blended with rich chocolate brownie, choco chips and ... read more",200.0
+Signature Shakes and Smoothies,Dating with Strawberry Beauty Shake,1,0,"Strawberry ice cream blended with red velvet cake, strawberry fruit, pie crust and ... read more",200.0
+Signature Shakes and Smoothies,Rock Stone Classic Shake,1,0,"Sweet cream ice cream blended with rich chocolate brownie, roasted almonds, chocolate fudge ... read more",200.0
+Sundaes,Caramel Nuts Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Butterscotch Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,French Vanilla Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Coffee ltaliano Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Malai Kulfi Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Sweet Cream Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Cotton Candy Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Belgium Dark Chocolate Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Silky Swiss Chocolate Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Blackcurrant Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Strawberry Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Bubblegum Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Sundaes,Jamaican Choco Fudge Sundae,1,0,A scoop of ice cream garnished with toppings and topped with choco or ... read more,90.0
+Starters,French Fries,1,0,,90.0
+Starters,Veg Fried Momos [6 Pieces],1,0,,120.0
+Starters,Corn Fried Momos [6 Pieces],1,0,,120.0
+Starters,Paneer Fried Momos [6 Pieces],1,0,,120.0

@@ -1,0 +1,7 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Locho,Plain Locho,1,0,,50.0
+Locho,Oil Locho,1,0,,65.0
+Locho,Butter Locho,1,0,,75.0
+Khaman and Khamani,Vagharela Khaman,1,0,,55.0
+Khaman and Khamani,Sev Khamani,1,0,,55.0
+Samosa and Chinese Puff,Dal Onion Samosa [Fried],1,0,,102.0

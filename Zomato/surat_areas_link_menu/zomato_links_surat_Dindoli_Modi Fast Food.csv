@@ -1,0 +1,29 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Vada Pav,Vada Pav,1,0,,60.0
+Vada Pav,Cheese Vada Pav,1,0,,80.0
+Vada Pav,Mayo Vada Pav,1,0,,70.0
+Vada Pav,Tandoori Vada Pav,1,0,,70.0
+Vada Pav,Cheese Mayo Vada Pav,1,0,,90.0
+Vada Pav,Chinese Vada Pav,1,0,,70.0
+Vada Pav,Cheese Chinese Vada Pav,1,0,,90.0
+Samosa,Samosa [2 Pieces],1,0,,60.0
+Samosa,Samosa Chaat,1,0,,70.0
+Samosa,Cheese Samosa Chaat,1,0,,90.0
+Samosa,Dahi Samosa Chaat,1,0,,90.0
+Ulta Vada Pav,Ulta Vada Pav,1,0,,70.0
+Ulta Vada Pav,Cheese Ulta Vada Pav,1,0,,90.0
+Ulta Vada Pav,Cheese Ball Vada Pav,1,0,,110.0
+Bread Butter,Bread Butter,1,0,,60.0
+Sandwiches,Veg Sandwich,1,0,,70.0
+Sandwiches,Veg Cheese Sandwich,1,0,,100.0
+Sandwiches,Veg Grilled Sandwich,1,0,,130.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,150.0
+Pizza [7 inches],Veg Cheese Pizza [7 inches],1,0,,150.0
+Pizza [7 inches],Corn Cheese Pizza [7 inches],1,0,,170.0
+Pizza [7 inches],Veg Paneer Cheese Pizza [7 inches],1,0,,180.0
+Pizza [7 inches],Veg Corn Paneer Pizza [7 inches],1,0,,190.0
+Pizza [7 inches],Only Cheese Pizza [7 inches],1,0,,160.0
+Kachori,Kachori,1,0,,70.0
+Kachori,Dahi Kachori,1,0,,80.0
+Kachori,Ragda Kachori,1,0,,90.0
+Kachori,Cheese Ragda Kachori,1,0,,110.0

@@ -1,0 +1,91 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Gulam Thali6,0,0,Green Gravy+Boiled Masala+Butter Bread [4 Pieces]+Rice+Salad,225.0
+Thali,Hakum Ka Akka Thali,0,0,Tod Fod+Aaj Kal+Bheja Fry+Butter Bread [6pcs]+Salad+Egg Rice,379.0
+Thali,King Thali,0,0,Kachu Paku+Green Gravy+Lasan Fry+Egg Rice+Butter Bread [6 Pieces]+Salad,299.0
+Thali,Queen Thali,0,0,Red Gravy+Green Gravy+Omelette+Butter Bread [6 Pieces]+Chutney+Egg Rice+Salad,275.0
+Thali,RRR Thali,0,0,Goti Greavy+Bheja Fry+Aaj Kal+8 Pav+Salad+Lasan Chutney+Jeera Rice,400.0
+Combos,Cocktail Khulhad Egg Fire,0,0,,450.0
+Egg Fry,Australian Fry [4 Egg] + 6 Pav,0,0,,280.0
+Egg Fry,Chinese Fry [2 Egg] + 4 Pav,0,0,,150.0
+Egg Fry,Golden Fry [ 4 Egg] + 6 Pav,0,0,,280.0
+Egg Fry,Goti Dal Fry [3 Egg] + 6 Pav,0,0,,200.0
+Egg Fry,Goti Fry [2 Egg] + 4 Pav,0,0,,150.0
+Egg Fry,Green Fry [2 Egg] + 4 Pav,0,0,,150.0
+Egg Fry,Lasan Fry [2 Egg] + 4 Pav,0,0,,150.0
+Egg Fry,Masala Half Fry [2 Egg] + 4 Pav,0,0,,150.0
+Egg Fry,Regular Egg Fry [2 Egg] + 4 Pav,0,0,,140.0
+Egg Fry,Special Chinese Fry [4 Egg] + 6 Pav,0,0,,280.0
+Egg Fry,Tomato Fry [2 Egg] + 4 Pav,0,0,,150.0
+Gotalo,Cheese Green Gotala [4 Egg] + 6 Pav,0,0,,220.0
+Gotalo,Cheese Katki Gotala [2 Egg] + 4 Pav,0,0,,150.0
+Gotalo,Gujju Gotala [2 Egg] + 4 Pav,0,0,,150.0
+Gotalo,Hyderabadi Gotala [4 Eggs] + 6 Pav,0,0,,240.0
+Gotalo,Kashmiri Gotala [2 Egg] + 4 Pav,0,0,,150.0
+Kheema,Australian Kheema [2 Egg] + 4 Pav,0,0,,170.0
+Kheema,Cheese Goti Kheema [2 Egg] + 4 Pav,0,0,,200.0
+Kheema,Cheese Katki Kheema [2 Egg] + 4 Pav,0,0,,200.0
+Kheema,Golden Kheema [2 Egg] + 4 Pav,0,0,,150.0
+Kheema,Green Kheema [2 Egg] + 4 Pav,0,0,,150.0
+Kheema,Kheema [2 Egg] + 4 Pav,0,0,,140.0
+Kheema,Lasan Kheema [2 Egg] + 4 Pav,0,0,,150.0
+Kheema,Rasavala Kheema [2 Egg] + 4 Pav,0,0,,150.0
+Kheema,Silver Kheema [2 Egg] + 4 Pav,0,0,,150.0
+Kheema,Tomato Kheema [2 Egg] + 4 Pav,0,0,,150.0
+Regular Main Course,Cheese American [2 Egg] + 4 Pav,0,0,,200.0
+Regular Main Course,Egg Bhurji [2 Egg] + 4 Pav,0,0,,150.0
+Regular Main Course,Egg Kachu Paku [2 Egg] + 4 Pav,0,0,,150.0
+Regular Main Course,Egg Kofta [2 Egg] + 4 Pav,0,0,,160.0
+Regular Main Course,Egg Lahori [4 Egg] + 6 Pav,0,0,,250.0
+Regular Main Course,Egg Lasaniya [2 Egg] + 4 Pav,0,0,,150.0
+Regular Main Course,Green Lachka [2 Egg] + 4 Pav,0,0,,160.0
+Regular Main Course,Kashmiri Curry [5 Egg],0,0,,250.0
+Regular Main Course,Lasan Lachko [3 Egg] + 4 Pav,0,0,,150.0
+Regular Main Course,Lasan Nu Kachu [3 Egg] With 4 Pav,0,0,,150.0
+Regular Main Course,Malai Curry [2 Egg],0,0,,160.0
+Regular Main Course,Rajwadi Tadka [2 Egg] + 4 Pav,0,0,,150.0
+Regular Main Course,Ravaiya [2 Egg] + 4 Pav,0,0,,150.0
+Regular Main Course,Tomato Omelette Gravy [3 Egg] + 4 Pav,0,0,,150.0
+Fancy Main Course,Anda Cheese Chingara [5 Eggs],0,0,,300.0
+Fancy Main Course,Barma Special Garib Rath [6 Eggs],0,0,,350.0
+Fancy Main Course,Egg Chatpata [5 Egg],0,0,,350.0
+Fancy Main Course,Egg Love Me,0,0,,400.0
+Fancy Main Course,Egg Patra,0,0,,270.0
+Fancy Main Course,Egg Patudi,0,0,,270.0
+Fancy Main Course,Egg Samosa,0,0,,350.0
+Fancy Main Course,London Lizy Cheese,0,0,,450.0
+Fancy Main Course,Raja Rani Tadka,0,0,,400.0
+Fancy Main Course,Red Carrot [8 Eggs],0,0,,450.0
+Fancy Main Course,Victoriya [8 Eggs],0,0,,450.0
+Happy Egg Special,Aaj Aur Kal [2 Egg + 4 Pav],0,0,,150.0
+Happy Egg Special,Bhul Bhulaiya [5 Egg + 6 Pav],0,0,,250.0
+Happy Egg Special,Boom Boom Saka Laka [6 Egg + 6 Pav],0,0,,380.0
+Happy Egg Special,Cocktail Tequila [6 Egg + 8 Pav],0,0,,450.0
+Happy Egg Special,Dus Ka Dum [8 Egg] With 10 Pav,0,0,,500.0
+Happy Egg Special,Happy Egg Special Tod Food [3 Egg + 6 Pav],0,0,,190.0
+Happy Egg Special,Jo Jita Wo Sikandar [21 Egg] + 21 Pav,0,0,,1100.0
+Happy Egg Special,Traffic Jam [6 Egg + 6 Pav],0,0,,300.0
+Starters,Egg Bhel Dry,0,0,,100.0
+Starters,Fir Milenge [3 Egg],0,0,,200.0
+Starters,Golden Tikka [4 Egg],0,0,,250.0
+Starters,Hawa Hawai [2 Egg],0,0,,180.0
+Starters,Khatta Mitha [2 Egg],0,0,,180.0
+Omelette,American Cheese Omelette,0,0,,200.0
+Omelette,Lemon Omelette,0,0,,100.0
+Omelette,Masala Omelette,0,0,,120.0
+Omelette,Omelette,0,0,,100.0
+Omelette,Paper Omelette,0,0,,100.0
+Omelette,Royal Omelette,0,0,,150.0
+Omelette,Tomato Omelette,0,0,,120.0
+Breads,Butter Chapatti,0,0,,15.0
+Breads,Pav 4pcs,1,0,,25.0
+Rice,Anda Pulao,0,0,,150.0
+Rice,Egg Bhurji Rice,0,0,,225.0
+Rice,Egg Chatpata Rice [3 Egg],0,0,,150.0
+Rice,Jeera Rice,1,0,,100.0
+Rice,Kheema Rice [2 Egg],0,0,,190.0
+Rice,Omelette Rice [3 Eggs],0,0,,150.0
+Boiled Egg,Cheese Boiled Fry [3 Eggs],0,0,,150.0
+Boiled Egg,Green Boiled Fry,0,0,,100.0
+Boiled Egg,Red Boiled Fry,0,0,,100.0
+Green Chutney,Goti Lasan Chutney [2 Egg],0,0,,75.0
+Green Chutney,Green Chutney,0,0,,50.0

@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Vanela Gathiya,Vanela Gathiya,1,0,Served with Green Chutney + Onion(kanda) + Mirchi (if available),170.0
+Sev Khamani,Sev Khamani,1,0,"Served with Green Chutney, Onion (kanda) and Mirchi (if available)",90.0
+Idada,Oil Masala Masala,1,0,"Served with green chutney, onion [kanda] and mirchi [if available].",60.0
+Idada,Cheese Butter Idada,1,0,"Served with Green Chutney, Onion (kanda) and Mirchi (if available)",110.0
+Patra & Potato Puri,Sada Patra,1,0,"Served with Green Chutney, Onion (kanda) and Mirchi (if available)",75.0
+Patra & Potato Puri,Vagharela Patra,1,0,"Served with Green Chutney, Onion (kanda) and Mirchi (if available)",90.0
+Patra & Potato Puri,Fry Patra,1,0,"Served with Green Chutney, Onion (kanda) and Mirchi (if available)",140.0
+Patra & Potato Puri,Potato Puri,1,0,,120.0
+Fafda,Papdi,1,0,"Served with Green Chutney, Onion (kanda) and Mirchi (if available)",120.0
+Fafda,Fafada,1,0,,170.0
+Extras,Nylon Sev,1,0,,120.0
+Samosa,Chinese Kacha Samosa,1,0,"Served with green chutney, onion [kanda] and mirchi.",100.0
+Samosa,Chinese Fried Samosa,1,0,"Served with green chutney, onion [kanda] and mirchi.",70.0
+Samosa,Kacha Samosa [Dalna],1,0,,90.0
+Samosa,Fried Samosa,1,0,,140.0
+Samosa,Dry Fruits Kacha Samosa,1,0,,100.0
+Samosa,Dry Fruits Fried Samosa,1,0,,70.0
+Snacks,Methi na Gota,1,0,,140.0
+Khaman & Khandvi,Plain Khaman,1,0,"Served with Green Chutney, Onion (kanda) and Mirchi (if available)",60.0
+Khaman & Khandvi,Vagharela Khaman,1,0,"Served with Green Chutney, Onion (kanda) and Mirchi (if available)",90.0
+Khaman & Khandvi,Rasawala Khaman,1,0,"Served with green chutney, onion [kanda] and mirchi [if available].",70.0
+Khaman & Khandvi,Live Oil Masala Khaman & Sev,1,0,"Served with Green Chutney, Onion (kanda)",90.0
+Khaman & Khandvi,Nylon Khaman,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",90.0
+Khaman & Khandvi,Vaghareli Khandvi,1,0,,90.0
+Locho,Plain Locho,1,0,Served with green chutney and onion [kanda].,70.0
+Locho,Oil Locho,1,0,Served with green chutney and onion [kanda].,100.0
+Locho,Butter Locho,1,0,Served with green chutney and onion [kanda].,160.0
+Locho,Cheese Butter Locho,1,0,,200.0
+Locho,Oil Cheese Locho,1,0,Served with green chutney and onion [kanda].,140.0
+Combos,Combo 1,1,0,250/ vagharela khaman+ 250/ oil locho+ 250/ oil masala idada +250/ patudi+ 100/ ... read more,400.0
+Combos,Combo 2,1,0,Cheese butter locho+ 250/ Khamni ( sweet) jain/ regular+ 1 plet Rasawala khaman ... read more,470.0
+Combos,Combo 3,1,0,Vagharela khaman+ 250/  Vagharela patra+ 250/ Patudi +250/ Oil masala idada+ 250/ Sev ... read more,340.0
+Combos,Combo 4,1,0,Khamni ( sweet) 500/ gram +Plen locho 500 / gram + Patudi 250/ ... read more,440.0
+Combos,Combo 5,1,0,Dal kanda samosa 250/ gram+ Petish 250 / gram+ Patudi 250/ gram+ Khamni ... read more,440.0
+Dussehra Special,Jalebi,1,0,"Comes with green chutney, kanda and marcha.",50.0

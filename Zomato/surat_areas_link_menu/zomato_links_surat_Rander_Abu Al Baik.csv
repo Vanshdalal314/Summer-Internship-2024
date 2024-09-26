@@ -1,0 +1,69 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken Popcorns With Coldrink,0,0,16 Pcs popcorn chicken with coldrinks,289.0
+Starters,Crispy Chicken Nuggets,0,0,,225.0
+Starters,Crispy Chicken Popcorns,0,0,,229.0
+Starters,Crispy Chicken Popcorns With Dip & Coldrink,0,0,Popcorn chicken with garlic mayo dip & coldrink,285.0
+Starters,Crispy Chicken Strips,0,0,4 Pcs,299.0
+Starters,Crispy Drumsticks,0,0,,399.0
+Starters,Crispy Lollipops,0,0,,265.0
+Starters,Fusion Nuggets,0,0,,339.0
+Starters,Fusion Popcorn,0,0,Popcorn chicken dressed with mexican and garnished with jalapenos and olives,345.0
+Starters,Fusion Strips,0,0,,339.0
+Starters,Hot & Crispy Wings,0,0,,145.0
+Starters,Hot Wings With Coldrink Tin,0,0,6 Pcs with coldrink tin,289.0
+Starters,Peri Peri Nuggets,0,0,,339.0
+Starters,Peri Peri Popcorns,0,0,,335.0
+Starters,Fish Nuggets,0,0,,339.0
+Starters,Fish Shots,0,0,,329.0
+Starters,Fish & Chips,0,0,French Fries + Pepsi + Mayonnaise,449.0
+Starters,PRAWNS Shots,0,0,8 Pcs shrimps,399.0
+Meal For One,Abu Al Baik Hot Wings Combo,0,0,"Kabira Zinger Burger, hot wings 3 pcs, french fries, pepsi, mayonnaise",410.0
+Meal For One,CRISPY BURGER & Lollipop COMBO,0,0,,420.0
+Meal For One,Crispy Burger & Popcorn Combo,0,0,,429.0
+Meal For One,CRISPY BURGER & Tangdi COMBO,0,0,,429.0
+Meals,Fried Chicken Combo,0,0,"3 Drumstiks, 3 strips, 3 lollipop,4 wings, large fries, 2 coke with dips",699.0
+Meals,Crunchy Burger Buddy Meal,0,0,2 Crunchy burger with regular popcorn with 2 coldrink,629.0
+Meals,Happy Family Meal,0,0,4 Pc zinger cheesi burger. 30 Pcs of popcorns with 1 large fries ... read more,1199.0
+Meals,Meal For 4,0,0,"Chef's special 2 pizzas with 2 crunchy burgers, 2 pcs drumstiks & flavoured ... read more",1499.0
+Meals,Mexican Wrap Meal,0,0,2Pc crispy chicken wraps with 1 fries & 2 mayo dips,529.0
+Burger,2 Crispy Burgers,0,0,2 Crispy chicken burgers,474.0
+Burger,2 Crispy Veg Burgers,1,0,2 Crispy veg cheese burgers,299.0
+Burger,Chipotle Classic Chicken Burger,0,0,,259.0
+Burger,Cheese Fish Burger,0,0,,299.0
+Burger,Crispy Chicken Burger With Coke,0,0,Zinger burger with coldrink,299.0
+Burger,Crispy Chicken Zinger Burger,0,0,,259.0
+Burger,Crispy Chicken Zinger Cheese Burger With Coldrink Tin,0,0,Zinger burger with coldrink tin,289.0
+Burger,Fish Burger,0,0,,289.0
+Burger,Paneer Zinger Burger,1,0,Crunchy paneer patty burger with finger lickin mayo and lettuce,236.0
+Burger,Supreme Cheese Burger,0,0,Cheese burger,269.0
+Burger,Prawns Zinger Burger,0,0,Crisy chicken zinger burger with tandoori flavour,299.0
+Burger,Veg Cheese Delight Burger,1,0,,129.0
+Burger,Veg Cheese Burger With Coke,1,0,Veg burger with coldrink,235.0
+Burger,Yummy Peri-Peri Crunchy Burger,0,0,Peri-peri crispy chicken,259.0
+Pizza,Abu Al Baik Pizza With Coldrink,0,0,9 Inch pizza with coldrink,379.0
+Pizza,Abu Al Baik Pizza,0,0,[9 Inch],379.0
+Pizza,Atlantic Fish Pizza,0,0,9 Inches,479.0
+Pizza,"Barbecue Pizza 9""",0,0,9 Inches,429.0
+Pizza,Butter Chicken Pizza,0,0,9 Inches,449.0
+Pizza,California Chicken Pizza,0,0,9 Inches,449.0
+Pizza,Chicken Tandoori Pizza,0,0,[9 Inch],409.0
+Pizza,Chilli Prawns Pizza,0,0,9 Inches,499.0
+Pizza,Creamy Garlic Sticks,1,0,Creamy cheese sticks,234.0
+Pizza,Malai Tikka Pizza,0,0,9 Inches,479.0
+Pizza,Margherita Pizza,1,0,,319.0
+Pizza,Plain Cheese Pizza,1,0,,285.0
+Pizza,Signature Pizza,0,0,9 Inches,475.0
+Pizza,Veg Chhesi Pizza,1,0,,315.0
+Pizza,Veg Pizza,1,0,[9 Inch],295.0
+Dips,Cheesi Deep,1,0,,45.0
+Dips,Coldrink Tin,1,0,,55.0
+Dips,Garlic Mayo Dip,0,0,,35.0
+Dips,Peri Peri Dip,1,0,,39.0
+Dips,Signature Dip,0,0,,49.0
+Dips,Supreme Dip,1,0,,45.0
+French Fries,Cheese Garlic Bread,1,0,3 Pcs cheese garlic bread,159.0
+French Fries,Cheese Balls,1,0,6 Pcs cheese balls,139.0
+French Fries,French Fries,1,0,,95.0
+French Fries,Loaded French Fries,1,0,Cheesi & spicy loaded fries,145.0
+French Fries,Masala Fries,1,0,,125.0
+French Fries,Peri Peri Fries,1,0,,130.0

@@ -1,0 +1,155 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Rajgharana Special Thalii,1,0,"One Veg Starter, One Veg Sabji, One Paneer Sabji, Dal Fry, 2 Tandoori ... read more",199.0
+Thali,Special Veg Thali,1,0,"One Veg Sabji, One Paneer Sabji, Dal Fry, 3 Chapati /2 Tandoori Roti. ... read more",150.0
+Thali,Veg Fixed Lunch Pack,1,0,"One Veg Sabji, One Pulse Sabji, Dal Fry, 3 Chapati, Rice, Salad, Papad, ... read more",130.0
+Soup,Cream Of Mushroom Soup,1,0,,120.0
+Soup,Cream Of Tomato Soup,1,0,,110.0
+Soup,Dal Palak Soup,1,0,,130.0
+Soup,Dhaniya Tamatar Shorba,1,0,,120.0
+Soup,Hot & Sour Soup,1,0,,110.0
+Soup,Lemon Coriander Soup,1,0,,120.0
+Soup,Manchow Soup,1,0,,115.0
+Soup,Sweet Corn Soup,1,0,,110.0
+Soup,Veg Clear Soup,1,0,,105.0
+Soup,Veg Exotic Soup,1,0,,150.0
+Soup,Veg Tibetian Thupka Soup,1,0,,150.0
+Appetizers,Cold Coffe [250ml],1,0,,75.0
+Appetizers,Fresh Lime Soda (Salted,1,0,,45.0
+Appetizers,Fresh Lime Soda (Sweet,1,0,,45.0
+Appetizers,Fresh Lime Water (Salted,1,0,,35.0
+Appetizers,Fresh Lime Water (Sweet),1,0,,35.0
+Starters,Assorted Chaap Platter[300gm],1,0,,320.0
+Starters,Hara Bhara Kabab[300gm],1,0,,220.0
+Starters,Paneer Banjara Tikka[300gm],1,0,,270.0
+Starters,Paneer Malai Tikka[300gm],1,0,,260.0
+Starters,Paneer Pahadi Tikka[300gm],1,0,,250.0
+Starters,Paneer Seekh Kabab[300gm],1,0,,240.0
+Starters,Paneer Tikka [300gm],1,0,,240.0
+Starters,Stuffed Mushroom Tikka[300gm],1,0,,250.0
+Starters,Tandoori Afghani Chaap[300gm],1,0,,235.0
+Starters,Tandoori Chaap[300gm],1,0,,210.0
+Starters,Tandoori Malai Chaap[300gm],1,0,,225.0
+Starters,Tandoori Mix Platter[300gm],1,0,,365.0
+Starters,Veg Seekh Kabab[300gm],1,0,,220.0
+Starters,Chinese Bhel,1,0,,231.0
+Starters,Chinese Sizzler,1,0,,400.0
+Starters,Dragon Potato,1,0,,212.0
+Starters,Hakka Noodle,1,0,,175.0
+Starters,Paneer 65[300gm],1,0,,228.0
+Starters,Paneer Schezwan,1,0,,250.0
+Starters,Panner Chilly[300gm],1,0,,216.0
+Starters,Singapuri Noodles,1,0,,225.0
+Starters,Veg 65 [300gm],1,0,,204.0
+Starters,Veg Crispy [300gm],1,0,,192.0
+Starters,Veg Lollipop[300gm],1,0,,198.0
+Starters,Veg Manchurian [300gm],1,0,,192.0
+Main Course,Aloo Gobhi Dry[350gm],1,0,,162.0
+Main Course,Aloo Jeera[350gm],1,0,,156.0
+Main Course,Aloo Mutter[350gm],1,0,,162.0
+Main Course,Aloo Palak[350gm],1,0,,168.0
+Main Course,Baigan Bharta[350gm],1,0,,156.0
+Main Course,Bhindi Masla[350gm],1,0,,174.0
+Main Course,Chana Masala [350gm],1,0,,174.0
+Main Course,Sev Tamatar[350gm],1,0,,156.0
+Main Course,Cheese Butter Masala [350gm],1,0,,220.0
+Main Course,Kaju Cheese Masala [350gm],1,0,,240.0
+Main Course,Kaju Khoya [350gm],1,0,,230.0
+Main Course,Kaju Tawa Masala [350gm],1,0,,220.0
+Main Course,Methi Mutter Malai [350gm],1,0,,200.0
+Main Course,Mushroom Butter Masala [350gm],1,0,,210.0
+Main Course,Punjabi Dum Aloo [350gm],1,0,,195.0
+Main Course,Veg Anarkali [350gm],1,0,,220.0
+Main Course,Veg Angara [350gm],1,0,,192.0
+Main Course,Veg Balti [350gm],1,0,,205.0
+Main Course,Veg Handi [350gm],1,0,,192.0
+Main Course,Veg Hyderbadi [350gm],1,0,,200.0
+Main Course,Veg Jaipuri [350gm],1,0,,192.0
+Main Course,Veg Jalfreize [350gm],1,0,,192.0
+Main Course,Veg Kadai [350gm],1,0,,198.0
+Main Course,Veg Kolhapuri [350gm],1,0,,198.0
+Main Course,Veg Korma [350gm],1,0,,205.0
+Main Course,Veg Makkanwala [350gm],1,0,,205.0
+Main Course,Veg Tawa [350gm],1,0,,204.0
+Main Course,Veg Tawa Kheema Masala [350gm],1,0,,210.0
+Main Course,Veg Toofani [350gm],1,0,,192.0
+Main Course,Dal Fry [250gm],1,0,,135.0
+Main Course,Dal Makhni[250gm],1,0,,170.0
+Main Course,Dal Mastani,1,0,,187.5
+Main Course,Dal Tadka[250gm],1,0,,145.0
+Main Course,Hari Bhari Dal,1,0,,185.0
+Main Course,Cheese Kofta[300gm],1,0,,240.0
+Main Course,Malai Kofta (Sweet)[300gm],1,0,,240.0
+Main Course,Nargisi Kofta[300gm],1,0,,230.0
+Main Course,Paneer Kofta[300gm],1,0,,220.0
+Main Course,Veg Kofta [300gm],1,0,,210.0
+Main Course,Kadai Paneer [350gm],1,0,,210.0
+Main Course,Mutter Paneer [350gm],1,0,,195.0
+Main Course,Palak Paneer [350gm],1,0,,210.0
+Main Course,Paneer Angara [350gm],1,0,,210.0
+Main Course,Paneer Balti [350gm],1,0,,210.0
+Main Course,Paneer Bhurji [350gm],1,0,,230.0
+Main Course,Paneer Butter Masala [350gm],1,0,,210.0
+Main Course,Paneer Hyderbadi [350gm],1,0,,210.0
+Main Course,Paneer Kaju Masala [350gm],1,0,,230.0
+Main Course,Paneer Kolhapuri [350gm],1,0,,210.0
+Main Course,Paneer Korma [350gm],1,0,,230.0
+Main Course,Paneer Lababdar [350gm],1,0,,220.0
+Main Course,Paneer Lasaniya [350gm],1,0,,240.0
+Main Course,Paneer Lazeez [350gm],1,0,,230.0
+Main Course,Paneer Makhni [350gm],1,0,,210.0
+Main Course,Paneer Pasanda [350gm],1,0,,240.0
+Main Course,Paneer Pathani [350gm],1,0,,220.0
+Main Course,Paneer Patiala [350gm],1,0,,240.0
+Main Course,Paneer Sizzler Curry [350gm],1,0,,230.0
+Main Course,Paneer Tawa [350gm],1,0,,210.0
+Main Course,Paneer Tikka Masala [350gm],1,0,,220.0
+Main Course,Paneer Toffani [350gm],1,0,,210.0
+Main Course,Shahi Paneer [350gm],1,0,,210.0
+Indian Bread,Aloo Paratha [1 Pcs],1,0,,135.0
+Indian Bread,Amritsari Kulcha [1 Pcs],1,0,,160.0
+Indian Bread,Butter Kulcha [1 Pcs],1,0,,50.0
+Indian Bread,Butter Naan [1 Pcs],1,0,,45.0
+Indian Bread,Butter Paratha [1 Pcs],1,0,,45.0
+Indian Bread,Butter Tandoori Roti [1 Pcs],1,0,,32.0
+Indian Bread,Cheese Garlic Naan [1 Pcs],1,0,,105.0
+Indian Bread,Cheese Naan [1 Pcs],1,0,,90.0
+Indian Bread,Garlic Naan [1 Pcs],1,0,,70.0
+Indian Bread,Kulcha [1 Pcs],1,0,,42.0
+Indian Bread,Lachha Naan,1,0,,56.25
+Indian Bread,Naan [1 Pcs],1,0,,36.0
+Indian Bread,Onion Paratha [1 Pcs],1,0,,115.0
+Indian Bread,Paratha [1 Pcs],1,0,,36.0
+Indian Bread,Stuffed Kulcha [1 Pcs],1,0,,95.0
+Indian Bread,Tandoori Roti [1 Pcs],1,0,,22.0
+Mocktail,Blue Lagoon,1,0,,96.0
+Mocktail,Fire Lady,1,0,,114.0
+Mocktail,Mint Mojito,1,0,,96.0
+Mocktail,Pink Lady,1,0,,108.0
+Rice,Dal Khichdi [200gm],1,0,,185.0
+Rice,Jeera Rice [200gm],1,0,,135.0
+Rice,Kaju Pulao [200gm],1,0,,195.0
+Rice,Peas Pulao [200gm],1,0,,160.0
+Rice,Raj Gharana Special Biryani [200gm],1,0,,240.0
+Rice,Steamed Rice [200gm],1,0,,120.0
+Rice,Veg Cheese Pulao [200gm],1,0,,190.0
+Rice,Veg Dum Biryani [200gm],1,0,,195.0
+Rice,Veg Hyderabadi Biryani [200gm],1,0,,200.0
+Rice,Veg Pulao [200gm],1,0,,170.0
+Accompaniments,Boondi Raita,1,0,,100.0
+Accompaniments,Fried Papad,1,0,,30.0
+Accompaniments,Green Salad,1,0,,100.0
+Accompaniments,Jain Veg Salad,1,0,,110.0
+Accompaniments,Masla Papad (Fried),1,0,,55.0
+Accompaniments,Masla Papad (Roasted),1,0,,55.0
+Accompaniments,Pineapple Raita,1,0,,120.0
+Accompaniments,Plain Dahi,1,0,,65.0
+Accompaniments,Roasted Papad,1,0,,25.0
+Accompaniments,Tomato Salad,1,0,,85.0
+Accompaniments,Veg Raita,1,0,,95.0
+Shake & Lassi,Chhas,1,0,,32.0
+Shake & Lassi,Dry Fruit Lassi,1,0,,100.0
+Shake & Lassi,Mango Lassi,1,0,,80.0
+Shake & Lassi,Masala Chhas,1,0,,42.0
+Shake & Lassi,Plain Lassi,1,0,,60.0
+Shake & Lassi,Raj Gharana Special Lasssi,1,0,,110.0
+Shake & Lassi,Strawbeery Lassi,1,0,,75.0

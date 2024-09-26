@@ -1,0 +1,150 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Vegetable Sandwich,1,0,,155.0
+Sandwiches,Chilli Bite Sandwich,1,0,,155.0
+Sandwiches,Masala Sandwich,1,0,,155.0
+Sandwiches,Jain Sandwich,1,0,[Jain Preparation],155.0
+Sandwiches,Bombay Kaccha Sandwich,1,0,,155.0
+Sandwiches,Veg Mayonnaise Corn Sandwich,1,0,,185.0
+Sandwiches,Tandoori Sandwich,1,0,,210.0
+Sandwiches,Paneer Masala Sandwich,1,0,,195.0
+Sandwiches,Paneer Chutney Sandwich,1,0,,195.0
+Sandwiches,Tangy Paneer Sandwich,1,0,,210.0
+Sandwiches,Chilli Paneer Sandwich,1,0,,210.0
+Sandwiches,Paneer Makhani Sandwich,1,0,,210.0
+Sandwiches,Paneer Loaded Sandwich,1,0,,225.0
+Sandwiches,Paneer Pizza Sandwich,1,0,,225.0
+Sandwiches,Kadhai Paneer Sandwich,1,0,,240.0
+Sandwiches,Masala Club Sandwich,1,0,,265.0
+Sandwiches,Veg Cheese Club Sandwich,1,0,,265.0
+Sandwiches,Classic Club Sandwich,1,0,,280.0
+Sandwiches,Cheese Paneer Club Sandwich,1,0,,280.0
+Sandwiches,Pizza Cheese Sandwich,1,0,,295.0
+Sandwiches,Sandwich Master Special Sandwich,1,0,,310.0
+Sandwiches,Cheese Chutney Sandwich,1,0,,170.0
+Sandwiches,Butter Cheese Sandwich,1,0,,170.0
+Sandwiches,Jain Cheese Sandwich,1,0,[Jain Preparation],170.0
+Sandwiches,Masala Cheese Sandwich,1,0,,195.0
+Sandwiches,Cheese Corn Sandwich,1,0,,195.0
+Sandwiches,Veg Cheese Sandwich,1,0,,195.0
+Sandwiches,Garlic Cheese Sandwich,1,0,,195.0
+Sandwiches,Chilli Cheese Sandwich,1,0,,195.0
+Sandwiches,Cheese Blast Sandwich,1,0,,225.0
+Sandwiches,Veg Cheese Corn Sandwich,1,0,,225.0
+Sandwiches,Chilli Cheese Corn Sandwich,1,0,,225.0
+Sandwiches,Chocolate Kaccha Sandwich,1,0,,115.0
+Sandwiches,Chocolate Grilled Sandwich,1,0,,125.0
+Sandwiches,Raspberry Sandwich,1,0,,155.0
+Sandwiches,Oreo Sandwich,1,0,,155.0
+Sandwiches,KitKat Sandwich,1,0,,155.0
+Sandwiches,Choco Brownie Sandwich,1,0,,185.0
+Sandwiches,Chocolate Club Sandwich,1,0,,195.0
+Sandwiches,Bread Butter Sandwich,1,0,"A buttery, crispy bread with a layer of salted, sweet, delicious butter. Enjoy ... read more",50.0
+Sandwiches,Bread Jam Sandwich,1,0,Our decadent bread jam is a perfect accompaniment to your cup of coffee ... read more,50.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,A delicious and rich sandwich made with a slice of bread topped with ... read more,69.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,A bread loaf filled with a rich and creamy spread of butter cheese. ... read more,80.0
+Pizza and Pasta,Margherita Pizza [7 inches],1,0,,225.0
+Pizza and Pasta,Cheese Corn Pizza [7 inches],1,0,,255.0
+Pizza and Pasta,Kadhai Paneer Pizza [7 inches],1,0,,255.0
+Pizza and Pasta,Paneer and Onion Pizza [7 inches],1,0,,265.0
+Pizza and Pasta,Fresh Farm Pizza [7 inches],1,0,,265.0
+Pizza and Pasta,Tandoori Paneer Pizza [7 inches],1,0,,295.0
+Pizza and Pasta,Cheese Blast Pizza [7 inches],1,0,,335.0
+Pizza and Pasta,Sandwich Master Special Pizza [7 inches],1,0,[Chef's Special],380.0
+Pizza and Pasta,White Sauce Pasta,1,0,,310.0
+Pizza and Pasta,Red Sauce Pasta,1,0,,310.0
+Pizza and Pasta,Mac and Cheese Pasta,1,0,,335.0
+Pizza and Pasta,Tandoori Pasta,1,0,,365.0
+Pizza and Pasta,Indiana Pasta,1,0,,365.0
+Burgers,Veg Burger,1,0,,125.0
+Burgers,Classic Cheese Burger,1,0,,140.0
+Burgers,Chilli Cheese Burger,1,0,,140.0
+Burgers,Mexican Burger,1,0,,155.0
+Burgers,Tandoori Paneer Burger,1,0,,170.0
+Burgers,Cheese Blast Burger,1,0,,195.0
+Snacks,Nachos,1,0,,170.0
+Snacks,Cheese Loded Nachos,1,0,,240.0
+Snacks,Cheesling Chips,1,0,,240.0
+Snacks,Butter Corn,1,0,,115.0
+Snacks,Veg Corn,1,0,,140.0
+Snacks,Peri Peri Corn,1,0,,170.0
+Snacks,Chilli Cheese Corn,1,0,,170.0
+Snacks,Chatpata Cheese Corn,1,0,,170.0
+Snacks,French Fries,1,0,,170.0
+Snacks,Masala French Fries,1,0,,180.0
+Snacks,Cheese French Fries,1,0,,195.0
+Snacks,Peri Peri French Fries,1,0,,195.0
+Snacks,Masala Cheese Fries,1,0,,210.0
+Snacks,Mayonnaise Cheese Fries,1,0,,225.0
+Snacks,Peri Peri Cheese Fries,1,0,,225.0
+Snacks,Loaded Cheese Fries,1,0,,240.0
+Snacks,Cheese Garlic Bread,1,0,,195.0
+Snacks,Veg Cheese Garlic Bread,1,0,,225.0
+Snacks,Cheese Corn Garlic Bread,1,0,,225.0
+Snacks,Chilli Cheese Garlic Bread,1,0,,255.0
+Snacks,Paneer Cheese Garlic Bread,1,0,,255.0
+Snacks,Sandwich Master Special Garlic Bread,1,0,,280.0
+Maggi,Masala Maggi,1,0,,85.0
+Maggi,Veg Masala Maggi,1,0,,115.0
+Maggi,Double Masala Maggi,1,0,,125.0
+Maggi,Tandoori Maggi,1,0,,155.0
+Maggi,Schezwan Maggi,1,0,,155.0
+Maggi,Cheese Corn Maggi,1,0,,170.0
+Maggi,Chilli Cheese Maggi,1,0,,185.0
+Maggi,Veg Paneer Maggi,1,0,,185.0
+Maggi,Punjabi Tadka Maggi,1,0,,185.0
+Maggi,Cheese Blast Maggi,1,0,,185.0
+Maggi,Garlic Cheese Maggi,1,0,,195.0
+Maggi,Veg Mayonnaise Maggi,1,0,,195.0
+Maggi,Kadhai Paneer Maggi,1,0,,195.0
+Desserts,Brownie with Ice Cream,1,0,,185.0
+Desserts,Hot Chocolate Brownie,1,0,,195.0
+Desserts,Hot Oreo Brownie,1,0,,210.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,155.0
+Drinks (Beverages),Mint Iced Tea,1,0,,155.0
+Drinks (Beverages),Strawberry Iced Tea,1,0,,155.0
+Drinks (Beverages),Peach Iced Tea,1,0,,155.0
+Drinks (Beverages),Green Apple Iced Tea,1,0,,155.0
+Drinks (Beverages),Cold Coffee,1,0,,170.0
+Drinks (Beverages),Dark Cold Coffee,1,0,,185.0
+Drinks (Beverages),Chocolate Cold Coffee,1,0,,195.0
+Drinks (Beverages),Oreo Cold Coffee,1,0,,210.0
+Drinks (Beverages),Hazelnut Cold Coffee,1,0,,210.0
+Drinks (Beverages),Caramel Cold Coffee,1,0,,210.0
+Drinks (Beverages),Irish Cold Coffee,1,0,,210.0
+Drinks (Beverages),Brownie Cold Coffee,1,0,,265.0
+Drinks (Beverages),Mint Blast Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Blue Heaven Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Fresh Lemon Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Strawberry Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Bubble Gum Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Watermelon Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Cranberry Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Blueberry Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Blackcurrant Mojito,1,0,[Non Alcoholic],195.0
+Drinks (Beverages),Oreo Milkshake,1,0,,255.0
+Drinks (Beverages),KitKat Milkshake,1,0,,255.0
+Drinks (Beverages),Caramel Milkshake,1,0,,255.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,255.0
+Drinks (Beverages),Choco Irish Milkshake,1,0,,265.0
+Drinks (Beverages),Choco Brownie Milkshake,1,0,,280.0
+Drinks (Beverages),Oreo Brownie Milkshake,1,0,,280.0
+Drinks (Beverages),KitKat Brownie Milkshake,1,0,,280.0
+Drinks (Beverages),Vanilla Milkshake,1,0,,195.0
+Drinks (Beverages),Blueberry Milkshake,1,0,,240.0
+Drinks (Beverages),Bubble Gum Milkshake,1,0,,240.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,240.0
+Drinks (Beverages),Mix Berry Milkshake,1,0,,265.0
+Drinks (Beverages),Black Tea,1,0,,35.0
+Drinks (Beverages),Plain Tea,1,0,,45.0
+Drinks (Beverages),Masala Tea,1,0,,45.0
+Drinks (Beverages),Ginger Tea,1,0,,45.0
+Drinks (Beverages),Elaichi Tea,1,0,,55.0
+Drinks (Beverages),Chocolate Tea,1,0,,55.0
+Drinks (Beverages),Black Coffee,1,0,,50.0
+Drinks (Beverages),Hot Coffee,1,0,,55.0
+Drinks (Beverages),Dark Hot Coffee,1,0,,55.0
+Drinks (Beverages),Hot Chocolate,1,0,,70.0
+Drinks (Beverages),Irish Hot Coffee,1,0,,70.0
+Drinks (Beverages),Caramel Coffee,1,0,,70.0
+Drinks (Beverages),Hazelnut Coffee,1,0,,70.0

@@ -1,0 +1,42 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+South Indian,Sada Dosa,1,0,,75.0
+South Indian,Cheese Sada Dosa,1,0,,100.0
+South Indian,Masala Dosa,1,0,,100.0
+South Indian,Butter Masala Dosa,1,0,,130.0
+South Indian,Cheese Masala Dosa,1,0,,155.0
+South Indian,Mysore Masala Dosa,1,0,,115.0
+South Indian,Butter Mysore Masala Dosa,1,0,,150.0
+South Indian,Cheese Mysore Dosa,1,0,,165.0
+South Indian,Rava Sada Dosa,1,0,,95.0
+South Indian,Butter Rava Sada Dosa,1,0,,125.0
+South Indian,Cheese Rava Sada Dosa,1,0,,160.0
+South Indian,Rava Masala Dosa,1,0,,115.0
+South Indian,Butter Rava Masala Dosa,1,0,,140.0
+South Indian,Cheese Rava Masala Dosa,1,0,,180.0
+South Indian,Plain Uttapam,1,0,,95.0
+South Indian,Butter Plain Uttapam,1,0,,125.0
+South Indian,Onion Uttapam,1,0,,115.0
+South Indian,Butter Onion Uttapam,1,0,,150.0
+South Indian,Cheese Onion Uttapam,1,0,,160.0
+South Indian,Tomato Uttapam,1,0,,115.0
+South Indian,Butter Tomato Uttapam,1,0,,150.0
+South Indian,Cheese Tomato Uttapam,1,0,,160.0
+South Indian,Masala Uttapam,1,0,,120.0
+South Indian,Butter Masala Uttapam,1,0,,155.0
+South Indian,Cheese Masala Uttapam,1,0,,165.0
+South Indian,Onion Rava Sada Dosa,1,0,,95.0
+South Indian,Butter Onion Rava Sada Dosa,1,0,,125.0
+South Indian,Cheese Onion Rava Sada Dosa,1,0,,160.0
+South Indian,Tomato Onion Uttapam,1,0,,120.0
+South Indian,Butter Tomato Onion Uttapam,1,0,,145.0
+South Indian,Cheese Tomato Onion Uttapam,1,0,,165.0
+South Indian,Onion Rava Masala Dosa,1,0,,115.0
+South Indian,Butter Onion Rava Masala Dosa,1,0,,145.0
+South Indian,Cheese Onion Rava Masala Dosa,1,0,,180.0
+South Indian,Idli [2 Pieces] with Sambar,1,0,,75.0
+South Indian,Butter Idli [2 Pieces],1,0,,100.0
+South Indian,Fried Idli [2 Pieces],1,0,,90.0
+South Indian,Vada [2 Pieces] with Sambar,1,0,,80.0
+South Indian,Dahi Idli,1,0,,100.0
+South Indian,Butter Sada Dosa,1,0,,100.0
+Snack,Veg Samosa [2 Pieces],1,0,,75.0

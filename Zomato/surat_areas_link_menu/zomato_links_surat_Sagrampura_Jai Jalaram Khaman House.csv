@@ -1,0 +1,5 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Plain Khaman,1,0,,60.0
+Snacks,Fried Khaman,1,0,,90.0
+Snacks,Locho Kheeru,1,0,,80.0
+Snacks,Sev,1,0,,125.0

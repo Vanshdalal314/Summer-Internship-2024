@@ -1,0 +1,142 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Traditional Flavors,Bambaiya Meetha Paan,1,0,,42.86
+Traditional Flavors,Banarasi Meetha Paan,1,0,,42.86
+Traditional Flavors,Banarasi Saada Paan,1,0,,33.33
+Traditional Flavors,Herbal Paan,1,0,,57.14
+Traditional Flavors,Jashn-E-Bahar Paan,1,0,,123.81
+Traditional Flavors,Kalkatta Meetha Paan,1,0,,42.86
+Traditional Flavors,Kalkatta Saada Paan,1,0,,33.33
+Traditional Flavors,Maghai Joda Paan,1,0,,57.14
+Traditional Flavors,Mastani Paan,1,0,,66.67
+Traditional Flavors,Mughlai Saada Paan,1,0,,52.38
+Traditional Flavors,Mumtaaz Paan,1,0,,66.67
+Traditional Flavors,Shaandar Saada Paan,1,0,,42.86
+Paanveda,Immunity Booster Paan,1,0,,57.14
+Paanveda,Improved Cardiovascular Paan (Mild Bitter),1,0,,57.14
+Paanveda,Improved Digestion Paan,1,0,,57.14
+Paanveda,Sugar Control Paan (Mild Bitter),1,0,,57.14
+Paanveda,Weight Loss Paan (Mild Bitter),1,0,,57.14
+Twisted Flavors,Almond Joy Paan,1,0,,85.71
+Twisted Flavors,Dark Chocolate Paan,1,0,,76.19
+Twisted Flavors,Milk Chocolate Paan,1,0,,76.19
+Gourmet Paan,5-Star Crunch Paan,1,0,,114.29
+Gourmet Paan,Aam Crunch Paan,1,0,,114.29
+Gourmet Paan,Choco Moco Paan,1,0,,114.29
+Gourmet Paan,Dark Choco Crunch Paan,1,0,,114.29
+Gourmet Paan,Kit-Kat Crunch Paan,1,0,,114.29
+Gourmet Paan,Milk Choco Crunch Paan,1,0,,114.29
+Gourmet Paan,Nuttastic Paan,1,0,,114.29
+Gourmet Paan,Paan Truffle,1,0,,142.86
+Gourmet Paan,Philly Billy Paan,1,0,,114.29
+Kulhad,Black Tea,1,0,,33.33
+Kulhad,Bon Tea (With Bournvita),1,0,,66.67
+Kulhad,Cappuccino,1,0,,57.14
+Kulhad,Elaichi Chai,1,0,,57.14
+Kulhad,Ginger Cappuccino,1,0,,66.67
+Kulhad,Ginger Pudina Chai,1,0,,38.1
+Kulhad,Gurwali Chai,1,0,,57.14
+Kulhad,Haldi Doodh,1,0,,42.86
+Kulhad,Kadak Chai,1,0,,33.33
+Kulhad,Kulhad Coffee,1,0,,38.1
+Kulhad,Paan Chai (No Milk),1,0,,57.14
+Kulhad,Paan Ki Chai,1,0,,57.14
+Kulhad,Paan Latte,1,0,,66.67
+Kulhad,Rajwadi Chai,1,0,,57.14
+Kulhad,Rose Chai (With Milk),1,0,,57.14
+Kulhad,Shahi Chai,1,0,,57.14
+Green Tea,Black Iced Tea,1,0,,66.67
+Green Tea,Green Tea,1,0,,66.67
+Green Tea,Lemon Ginger Green Tea,1,0,,66.67
+Green Tea,Lemon Grass Tea,1,0,,66.67
+Green Tea,Mojito Iced Tea,1,0,,66.67
+Green Tea,Paan Green Tea,1,0,,66.67
+Green Tea,Rose Tea,1,0,,66.67
+Tea Latte,Adraki Chai Latte (Cold),1,0,,128.57
+Tea Latte,Chai Frappe (Cold),1,0,,128.57
+Tea Latte,Chai Latte (Hot),1,0,,119.05
+Coffee,Americano,1,0,,104.76
+Coffee,Black Coffee,1,0,,66.67
+Coffee,Espresso,1,0,,66.67
+Coffee,Hot Bonvita,1,0,,95.24
+Coffee,Hot Chocolate,1,0,,128.57
+Coffee,Nutella Hot Chocolate,1,0,,142.86
+Cold Coffee,Bounvita (Cold),1,0,,123.81
+Cold Coffee,Caramel Frappe,1,0,,147.62
+Cold Coffee,Choco Chip Frappe,1,0,,166.67
+Cold Coffee,Chocolate Cold Coffee,1,0,,176.19
+Cold Coffee,Classic Indian Cold Coffee,1,0,,142.86
+Cold Coffee,Masala Coffee,1,0,,133.33
+Cold Coffee,Paan Frappe,1,0,,166.67
+Cold Coffee,White Chocolate Mocha,1,0,,166.67
+Milk Shakes,Gulkand Shake,1,0,,176.19
+Milk Shakes,Kit-Kat Shake,1,0,,185.71
+Milk Shakes,Meetha Paan Shake,1,0,,190.48
+Milk Shakes,Oreo Cookies Shake,1,0,,185.71
+Milk Shakes,Paan Shot (2 Shots),1,0,,95.24
+Milk Shakes,Paan Thandai,1,0,,190.48
+Milk Shakes,Saunf Shake,1,0,,166.67
+Milk Shakes,Tutty Fruity Shake,1,0,,185.71
+Milk Shakes,Walnut Dates Shake,1,0,,190.48
+Thick Shake,Banana Butterscotch Thick Shake,1,0,,214.29
+Thick Shake,Double Chocolate Thick Shake,1,0,,214.29
+Thick Shake,Kitkat Thick Shake,1,0,,214.29
+Thick Shake,Paan Thick Shake,1,0,,214.29
+Thick Shake,Strawberry Thick Shake,1,0,,214.29
+Mocktails,Guava Paan Mojito,1,0,,204.76
+Mocktails,Jaljeera,1,0,,57.14
+Mocktails,Mango Mojito,1,0,,166.67
+Mocktails,Mint Mojito,1,0,,166.67
+Mocktails,Mirch Mumtaz (2 Shots),1,0,,95.24
+Mocktails,Moscow Paan Mule,1,0,,180.95
+Mocktails,Mughalai Paan Sorbet,1,0,,204.76
+Mocktails,Nimbu Soda,1,0,,57.14
+Mocktails,Paan Ki Dukan,1,0,,166.67
+Mocktails,Paan Mojito,1,0,,166.67
+Mocktails,Paan Panna,1,0,,166.67
+Mocktails,Paan-E-Bahar,1,0,,180.95
+Mocktails,Paan-E-Noorjaha,1,0,,180.95
+Mocktails,Paango Berry Colada,1,0,,180.95
+Mocktails,Paantini,1,0,,180.95
+Mocktails,Shikanji,1,0,,57.14
+Bites,Butter Maggi,1,0,,76.19
+Bites,Cheesy Creamy Maggi,1,0,,104.76
+Bites,Maggi,1,0,,61.9
+Bites,Veggie Maggi,1,0,,80.95
+Bites,Cheese Frise,1,0,,166.67
+Bites,French Fries,1,0,,95.24
+Bites,Nutella Fries,1,0,,128.57
+Bites,Peri Peri Fries,1,0,,119.05
+Bites,Cheese Burger,1,0,,142.86
+Bites,Classic Veg Burger,1,0,,104.76
+Bites,Crispy Potato Burger,1,0,,119.05
+Bites,Paneer Burger,1,0,,128.57
+Bites,Chatpata Pizza Sandwich,1,0,,185.71
+Bites,Cheese Sandwich,1,0,,185.71
+Bites,Nutella Sandwich,1,0,,128.57
+Bites,Paneer Tikka Sandwich,1,0,,185.71
+Bites,Regular Veg Sandwich,1,0,,100.0
+Bites,Traditional Mumbaiya Sandwich,1,0,,157.14
+Bites,Alfredo Pasta,1,0,,190.48
+Bites,Arrabiata Pasta,1,0,,190.48
+Bites,Pesto Pasta,1,0,,190.48
+Bites,Aloo Tikki Wrap,1,0,,119.05
+Bites,Cheese Schezwan Wrap,1,0,,128.57
+Bites,Paneer Tikka Wrap,1,0,,142.86
+Bites,Bread Butter,1,0,,57.14
+Bites,Bread Tost,1,0,,66.67
+Bites,Butter Maska Bun,1,0,,57.14
+Bites,Cheese Chilli Toast (2 Pieces),1,0,,119.05
+Bites,Cheese Nuggest (8 Pieces),1,0,,128.57
+Bites,Creamy Cheesy Nachos,1,0,,128.57
+Bites,Creamy Nachos With Salsa,1,0,,142.86
+Bites,Garlic Bread,1,0,,119.05
+Bites,Masala Maska Bun (2 Pieces),1,0,,95.24
+Bites,Spicy Wedges,1,0,,104.76
+Bites,Veg Strips (4 Pieces),1,0,,119.05
+Bites,Veggie Nuggest (8 Pieces),1,0,,119.05
+Pizzas,American Garden Pizza,1,0,,141.9
+Pizzas,Margerita Pizza,1,0,,141.9
+Pizzas,Mexicorn Pizza,1,0,,141.9
+Pizzas,Tandoori Paneer Pizza,1,0,,141.9
+Food Some,2 Pizza -199,1,0,,189.52
+Food Some,Kalkatta Paan-20,1,0,,19.05

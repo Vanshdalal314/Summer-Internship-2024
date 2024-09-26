@@ -1,0 +1,33 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Grilled Sandwich,1,0,,130.0
+Sandwiches,Special Grilled Sandwich,1,0,,160.0
+Sandwiches,Open Sandwich,1,0,,120.0
+Sandwiches,Veg Sandwich,1,0,,90.0
+Sandwiches,Veg Cheese Sandwich,1,0,,110.0
+Sandwiches,Tossed Sandwich,1,0,,95.0
+Sandwiches,Cheese Tossed Sandwich,1,0,,120.0
+Sandwiches,Gobi Masala Sandwich,1,0,,95.0
+Sandwiches,Gobi Cheese Sandwich,1,0,,120.0
+Sandwiches,Bombay Sandwich,1,0,,120.0
+Sandwiches,Bread Butter Sandwich,1,0,,80.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,90.0
+Sandwiches,Bread Butter Jam Cheese Sandwich,1,0,,115.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,100.0
+Snacks and Chaat,Sabudana,1,0,,90.0
+Snacks and Chaat,Poha,1,0,,80.0
+Snacks and Chaat,Vada Pav,1,0,,75.0
+Snacks and Chaat,Cheese Vada Pav,1,0,,85.0
+Snacks and Chaat,Bombay Bhel,1,0,,90.0
+Snacks and Chaat,Jain Bhel,1,0,,90.0
+Snacks and Chaat,Cheese Bhel,1,0,,100.0
+Snacks and Chaat,Sukha Bhel,1,0,,90.0
+Snacks and Chaat,Rangila Bhel,1,0,,100.0
+Snacks and Chaat,Dahi Bhel,1,0,,95.0
+Snacks and Chaat,Dahi Sev Puri,1,0,,95.0
+Snacks and Chaat,Delhi Chaat,1,0,,95.0
+Snacks and Chaat,Kachori,1,0,,75.0
+Snacks and Chaat,Samosa,1,0,,75.0
+Snacks and Chaat,Dahi Kachori,1,0,,80.0
+Snacks and Chaat,Dahi Samosa,1,0,,80.0
+Maggi,Masala Maggi,1,0,,90.0
+Maggi,Cheese Masala Maggi,1,0,,110.0

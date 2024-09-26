@@ -1,0 +1,183 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Maggi Pasta,Cheese Macaroni,1,0,,100.0
+Maggi Pasta,Veg Cheese Macaroni,1,0,,145.0
+Maggi Pasta,Masala Penne,1,0,,100.0
+Maggi Pasta,Veg Masala Penne,1,0,,145.0
+Maggi Pasta,Mushroom Penne,1,0,,100.0
+Maggi Pasta,Veg Mushroom Penne,1,0,,145.0
+Maggi Pasta,Tomato Twist Pasta,1,0,,100.0
+Maggi Pasta,Veg Tomato Twist Pasta,1,0,,145.0
+Maggi,Masala Maggi,1,0,,75.0
+Maggi,Veg Masala Maggi,1,0,,120.0
+Maggi,Super Masala Maggi,1,0,,85.0
+Maggi,Veg Super Masala Maggi,1,0,,130.0
+Maggi,Jain Masala Maggi,1,0,,85.0
+Maggi,Veg Jain Masala Maggi,1,0,,130.0
+Maggi,Atta Masala Maggi,1,0,,90.0
+Maggi,Veg Atta Masala Maggi,1,0,,135.0
+Maggi,Oats Masala Maggi,1,0,,100.0
+Maggi,Veg Oats Masala Maggi,1,0,,145.0
+Maggi,Peri Peri Maggi,1,0,,115.0
+Maggi,Garlic Maggi,1,0,,115.0
+Maggi,Chilli Garlic Maggi,1,0,,120.0
+Maggi,Schezwan Noodles Maggi,1,0,,140.0
+Maggi,Cheese Chilli Corn Maggi,1,0,,155.0
+Maggi,Namos Special Maggi,1,0,,195.0
+Cookies,Sweet & Salty Cookies [3 Pieces],1,0,,50.0
+Cookies,Chocolate Chips Cookies [3 Pieces],1,0,,50.0
+Cookies,Fusion Cookies [3 Pieces],1,0,,50.0
+Drinks (Beverages),Espresso,1,0,100% Arabica coffee. A concentrated dose of coffee made with pressure and water.,145.0
+Drinks (Beverages),Americano,1,0,100% Arabica coffee. A double shot of espresso with hot water.,160.0
+Drinks (Beverages),Easy Pour,1,0,100% Arabica coffee. Coffee brewed by slowly pouring hot water on coffee grounds ... read more,160.0
+Drinks (Beverages),Espresso Macchiato,1,0,100% Arabica coffee. A double shot of espresso with foamed milk.,160.0
+Drinks (Beverages),Flat White,1,0,100% Arabica coffee. A double shot of espresso with textured milk and topped ... read more,160.0
+Drinks (Beverages),Latte,1,0,100% Arabica coffee. Espresso with extra milk and steamed micro foam.,160.0
+Drinks (Beverages),Cappuccino,1,0,"100% Arabica coffee. Double shot of espresso, with 2.5 parts hot steamed milk ... read more",170.0
+Drinks (Beverages),Cortado,1,0,100% Arabica coffee. Double shot of espresso and 1.5 parts textured milk.,170.0
+Drinks (Beverages),Latte Nutella,1,0,100% Arabica coffee. A traditional espresso shot served with nutella and steaming milk.,190.0
+Drinks (Beverages),Mocha,1,0,"100% Arabica coffee. Espresso with steamed milk, melted and handmade dark chocolate.",190.0
+Drinks (Beverages),Nescafe Select,1,0,,65.0
+Drinks (Beverages),Nescafe Classic,1,0,Prepared with mixed with sugar.,55.0
+Drinks (Beverages),Nescafe Sunrise,1,0,Prepared with mixed with sugar.,55.0
+Drinks (Beverages),Nescafe Black,1,0,,65.0
+Drinks (Beverages),Nescafe Espresso,1,0,Milk.,80.0
+Drinks (Beverages),Nescafe Cafe Latte,1,0,,80.0
+Drinks (Beverages),Nescafe Cappuccino,1,0,,80.0
+Drinks (Beverages),Nescafe King Cappuccino,1,0,,100.0
+Drinks (Beverages),Nescafe Mochaccino,1,0,,80.0
+Drinks (Beverages),Nestea Lemon,1,0,Prepared with mixed with sugar.,65.0
+Drinks (Beverages),Green Tea,1,0,,65.0
+Drinks (Beverages),Desi Kawa Green Tea,1,0,,80.0
+Drinks (Beverages),Nescafe Hazelnut Black,1,0,,95.0
+Drinks (Beverages),Nescafe Irish Black,1,0,,95.0
+Drinks (Beverages),Nescafe Tiramisu Black,1,0,,95.0
+Drinks (Beverages),Nescafe Caramel Black,1,0,,95.0
+Drinks (Beverages),Nescafe Vanilla Black,1,0,,95.0
+Drinks (Beverages),Nescafe Butterscotch Black,1,0,,95.0
+Drinks (Beverages),Nescafe Caramel Cafe Latte,1,0,,110.0
+Drinks (Beverages),Nescafe Vanilla Cafe Latte,1,0,,110.0
+Drinks (Beverages),Nescafe Hazelnut Cappuccino,1,0,,110.0
+Drinks (Beverages),Nescafe Irish Cappuccino,1,0,,110.0
+Drinks (Beverages),Nescafe Tiramisu Cappuccino,1,0,,110.0
+Drinks (Beverages),Nescafe Butterscotch Cappuccino,1,0,,110.0
+Drinks (Beverages),Nescafe Hazelnut Hot Mochaccino,1,0,,110.0
+Drinks (Beverages),Nescafe Irish Hot Mochaccino,1,0,,110.0
+Drinks (Beverages),Nescafe Tiramisu Hot Mochaccino,1,0,,110.0
+Drinks (Beverages),Nescafe Caramel Hot Mochaccino,1,0,,110.0
+Drinks (Beverages),Nescafe Vanilla Hot Mochaccino,1,0,,110.0
+Drinks (Beverages),Nesquik Hot Chocolate (Sweet),1,0,Sweet.,95.0
+Drinks (Beverages),Nesquik Hazelnut Hot Chocolate (Sweet),1,0,Sweet.,125.0
+Drinks (Beverages),Nesquik Irish Hot Chocolate (Sweet),1,0,Sweet.,125.0
+Drinks (Beverages),Nesquik Tiramisu Hot Chocolate (Sweet),1,0,Sweet.,125.0
+Drinks (Beverages),Bitter Dark Hot Chocolate,1,0,Bitter.,95.0
+Drinks (Beverages),Bitter Hazelnut Dark Hot Chocolate,1,0,Bitter.,125.0
+Drinks (Beverages),Bitter Irish Dark Hot Chocolate,1,0,Bitter.,125.0
+Drinks (Beverages),Bitter Tiramisu Dark Hot Chocolate,1,0,Bitter.,125.0
+Drinks (Beverages),Nescafe Hot Mocha (Sweet),1,0,Sweet.,110.0
+Drinks (Beverages),Nescafe Hazelnut Hot Mocha,1,0,Sweet.,140.0
+Drinks (Beverages),Nescafe Irish Hot Mocha,1,0,Sweet.,140.0
+Drinks (Beverages),Nescafe Tiramisu Hot Mocha,1,0,Sweet.,140.0
+Drinks (Beverages),Nescafe Bitter Hot Mocha,1,0,,115.0
+Drinks (Beverages),Nescafe Hazelnut Bitter Hot Mocha,1,0,,145.0
+Drinks (Beverages),Nescafe Irish Bitter Hot Mocha,1,0,,145.0
+Drinks (Beverages),Nescafe Tiramisu Bitter Hot Mocha,1,0,,145.0
+Drinks (Beverages),Nutella Milk,1,0,,125.0
+Drinks (Beverages),Hazelnut Nutella Milk,1,0,,155.0
+Drinks (Beverages),Irish Nutella Milk,1,0,,155.0
+Drinks (Beverages),Tiramisu Nutella Milk,1,0,,155.0
+Drinks (Beverages),Hot Lemon Ginger Water,1,0,,80.0
+Drinks (Beverages),Hot Lemon Honey Tea,1,0,,110.0
+Drinks (Beverages),Cold Lemon Ginger Water,1,0,,150.0
+Drinks (Beverages),Cold Lemon Honey Tea,1,0,,160.0
+Drinks (Beverages),Iced Espresso,1,0,100% Arabica coffee. Espresso poured over ice.,145.0
+Drinks (Beverages),Iced Americano,1,0,100% Arabica coffee. A double shot of espresso with ice and cold water.,170.0
+Drinks (Beverages),Coffee Tonic,1,0,100% Arabica coffee. This unique combination of tonic and espresso makes for a ... read more,195.0
+Drinks (Beverages),Iced Low Sugar,1,0,100% Arabica coffee. A single shot of espresso with cold milk over ice.,165.0
+Drinks (Beverages),Iced Latte,1,0,100% Arabica coffee. A double shot of espresso with cold milk over ice.,185.0
+Drinks (Beverages),Iced Cappuccino,1,0,100% Arabica coffee. Espresso blended with ice & milk.,210.0
+Drinks (Beverages),Iced Mocha,1,0,100% Arabica coffee. Espresso with handmade dark chocolate and cold milk over ice.,210.0
+Drinks (Beverages),Bon Bon,1,0,100% Arabica coffee. A double shot of espresso with ice and condensed ... read more,165.0
+Drinks (Beverages),Affogato,1,0,100% Arabica coffee. Everyone's ideal coffee dessert consists of vanilla ice cream and ... read more,230.0
+Drinks (Beverages),Nescafe Cold Coffee,1,0,,155.0
+Drinks (Beverages),Nescafe Nutella Coffee,1,0,,195.0
+Drinks (Beverages),Nescafe Vanila Coffee,1,0,,230.0
+Drinks (Beverages),Nescafe Vanila Choco Chips,1,0,,255.0
+Drinks (Beverages),Nescafe Chocolate Coffee,1,0,,235.0
+Drinks (Beverages),Nescafe Choco Chips,1,0,,260.0
+Drinks (Beverages),Nescafe KitKat Shake,1,0,,255.0
+Drinks (Beverages),Nescafe Oreo Shake,1,0,,255.0
+Drinks (Beverages),Nescafe Brownie Shake,1,0,,255.0
+Drinks (Beverages),Nescafe Ferrero Shake,1,0,,270.0
+Drinks (Beverages),Nescafe Nutella Shake,1,0,,270.0
+Drinks (Beverages),Nescafe Cold Coffee with Vanilla Ice Cream,1,0,,195.0
+Drinks (Beverages),Nescafe Cold Coffee with Chocolate Ice Cream,1,0,,195.0
+Drinks (Beverages),Biscoff Shake,1,0,,270.0
+Drinks (Beverages),Nescafe Frappuccino,1,0,Coffee with dark chocolate.,170.0
+Drinks (Beverages),Nescafe Hazelnut Frappuccino,1,0,,210.0
+Drinks (Beverages),Nescafe Irish Frappuccino,1,0,,210.0
+Drinks (Beverages),Nescafe Tiramisu Frappuccino,1,0,,210.0
+Drinks (Beverages),Frappuccino with Vanilla Ice Cream,1,0,,210.0
+Drinks (Beverages),Frappuccino with Chocolate Ice Cream,1,0,,210.0
+Drinks (Beverages),Nescafe Frappe,1,0,,155.0
+Drinks (Beverages),Nescafe Hazelnut Frappe,1,0,,195.0
+Drinks (Beverages),Nescafe Irish Frappe,1,0,,195.0
+Drinks (Beverages),Nescafe Tiramisu Frappe,1,0,,195.0
+Drinks (Beverages),Nescafe Caramel Frappe,1,0,,195.0
+Drinks (Beverages),Nescafe Vanilla Frappe,1,0,,195.0
+Drinks (Beverages),Nescafe Butterscotch Frappe,1,0,,195.0
+Drinks (Beverages),Nescafe Hazelnut Frappe Delite,1,0,,235.0
+Drinks (Beverages),Nescafe Irish Frappe Delite,1,0,,235.0
+Drinks (Beverages),Nescafe Tiramisu Frappe Delite,1,0,,235.0
+Drinks (Beverages),Nescafe Caramel Frappe Delite,1,0,,235.0
+Drinks (Beverages),Frappe with Vanilla Ice Cream,1,0,,195.0
+Drinks (Beverages),Frappe with Chocolate Ice Cream,1,0,,195.0
+Drinks (Beverages),Nescafe Mango Fruit Frappe,1,0,,185.0
+Drinks (Beverages),Nescafe Peach Fruit Frappe,1,0,,185.0
+Drinks (Beverages),Nescafe Litchi Fruit Frappe,1,0,,185.0
+Drinks (Beverages),Nescafe Kiwi Fruit Frappe,1,0,,185.0
+Drinks (Beverages),Nescafe Green Apple Fruit Frappe,1,0,,185.0
+Drinks (Beverages),Nesquik Chocolate Shake,1,0,,145.0
+Drinks (Beverages),Nesquik Hazelnut Chocolate,1,0,,185.0
+Drinks (Beverages),Nesquik Irish Chocolate,1,0,,185.0
+Drinks (Beverages),Nesquik Tiramisu Chocolate,1,0,,185.0
+Drinks (Beverages),Nesquik Caramel Chocolate,1,0,,185.0
+Drinks (Beverages),Nesquik Vanilla Chocolate,1,0,,185.0
+Drinks (Beverages),Nesquik Hazelnut Delite,1,0,,225.0
+Drinks (Beverages),Nesquik Irish Delite,1,0,,225.0
+Drinks (Beverages),Nesquik Tiramisu Delite,1,0,,225.0
+Drinks (Beverages),Nesquik Caramel Delite,1,0,,225.0
+Drinks (Beverages),Nesquik Vanilla Delite,1,0,,225.0
+Drinks (Beverages),Nesquik Chocolate with Vanilla Ice Cream,1,0,,185.0
+Drinks (Beverages),Nesquik Chocolate with Chocolate Ice Cream,1,0,,185.0
+Drinks (Beverages),Dark Cold Chocolate,1,0,Bitter taste of cold chocolate.,185.0
+Drinks (Beverages),Cold Nutella Milk,1,0,Bitter taste of cold chocolate.,205.0
+Drinks (Beverages),Nesquik Vanila Chocolate,1,0,,200.0
+Drinks (Beverages),Nesquik Vanila Choco Chips,1,0,,220.0
+Drinks (Beverages),Nesquik Chocolaty,1,0,,225.0
+Drinks (Beverages),Nesquik Chocolaty Choco Chips,1,0,,245.0
+Drinks (Beverages),Nesquik Silk Shake,1,0,,270.0
+Drinks (Beverages),Nescafe Cold Mocha,1,0,Coffee chocolate mixed with sugar.,170.0
+Drinks (Beverages),Nescafe Hazelnut Cold Mocha,1,0,Coffee chocolate mixed with sugar.,210.0
+Drinks (Beverages),Nescafe Irish Cold Mocha,1,0,Coffee chocolate mixed with sugar.,210.0
+Drinks (Beverages),Nescafe Tiramisu Cold Mocha,1,0,Coffee chocolate mixed with sugar.,210.0
+Drinks (Beverages),Nescafe Caramel Cold Mocha,1,0,Coffee chocolate mixed with sugar.,210.0
+Drinks (Beverages),Nescafe Vanilla Cold Mocha,1,0,Coffee chocolate mixed with sugar.,210.0
+Drinks (Beverages),Nescafe Hazelnut Mocha Delite,1,0,Coffee chocolate mixed with sugar.,255.0
+Drinks (Beverages),Nescafe Irish Mocha Delite,1,0,Coffee chocolate mixed with sugar.,255.0
+Drinks (Beverages),Nescafe Tiramisu Mocha Delite,1,0,Coffee chocolate mixed with sugar.,255.0
+Drinks (Beverages),Nescafe Caramel Mocha Delite,1,0,Coffee chocolate mixed with sugar.,255.0
+Drinks (Beverages),Nescafe Vanilla Mocha Delite,1,0,Coffee chocolate mixed with sugar.,255.0
+Drinks (Beverages),Nescafe Mocha with Vanilla Ice Cream,1,0,Coffee chocolate mixed with sugar.,210.0
+Drinks (Beverages),Nescafe Mocha with Chocolate Ice Cream,1,0,Coffee chocolate mixed with sugar.,210.0
+Drinks (Beverages),Nestea Lemon Iced Tea,1,0,,130.0
+Drinks (Beverages),Nestea Peach Iced Tea,1,0,,165.0
+Drinks (Beverages),Nestea Green Apple Iced Tea,1,0,,165.0
+Drinks (Beverages),Nestea Watermelon Iced Tea,1,0,,165.0
+Drinks (Beverages),Nestea Green Mint Iced Tea,1,0,,165.0
+Drinks (Beverages),Nestea Blue Curacao Iced Tea,1,0,,165.0
+Drinks (Beverages),Nestea Lemon Slush Iced Tea,1,0,,150.0
+Drinks (Beverages),Nestea Green Apple Slush Iced Tea,1,0,,185.0
+Drinks (Beverages),Nestea Mango Slush Iced Tea,1,0,,185.0
+Drinks (Beverages),Nestea Peach Slush Iced Tea,1,0,,185.0
+Drinks (Beverages),Nestea Litchi Slush Iced Tea,1,0,,185.0
+Drinks (Beverages),Nestea Kiwi Slush Iced Tea,1,0,,185.0

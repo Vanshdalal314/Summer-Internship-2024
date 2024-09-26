@@ -1,0 +1,199 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chai,Adrak Chai,1,0,Adrak wali Chai or Ginger Tea with Milk is a very invigorating beverage ... read more,40.0
+Chai,Chocolate Chai,1,0,"A malty sweet chocolaty blend of chocolate tea powder, milk & sugar",40.0
+Chai,Elaichi Chai,1,0,Indian cardamom tea or elaichi chai is a popular beverage made using a ... read more,55.0
+Chai,Lemon Grass Pudina,1,0,,40.0
+Chai,Mango Chai,1,0,,55.0
+Chai,Masala Chai,1,0,Masala Chai is an Indian beverage made by brewing black tea powder with ... read more,40.0
+Chai,Mix (Elachi+Adrak+Masala),1,0,,55.0
+Chai,Pan Chai,1,0,"Made using Pan tea powder, milk & sugar. This is a unusual flavour ... read more",40.0
+Chai,Rose Chai,1,0,A aromatic herbal beverage made from the fragrant petals and buds of rose ... read more,40.0
+Chai,Saffron Chai,1,0,"It is a mood-lifting, refreshing herbal beverage full of anti-depressant made with Saffron ... read more",65.0
+Chai,Strawberry Chai,1,0,"Best quality tea, straight from the tea estates. Brewed tea and fresh summer ... read more",55.0
+Coffee,Black Coffee,1,0,Black coffee is simply coffee with nothing added.,80.0
+Coffee,Caramel Coffee,1,0,"Caramel coffee is similar to vanilla, but with a more toasty overall flavour",105.0
+Coffee,Chocolate Hot Coffee,1,0,This creamy beverage is made with real chocolate and instant coffee.,65.0
+Coffee,French Vanilla Coffee,1,0,French Vanilla Coffee is a rich coffee that's generally creamy and is slightly ... read more,120.0
+Coffee,Hazelnut Coffee,1,0,Intense sweet and nutty flavour,105.0
+Coffee,Hot Coffee,1,0,"Coffee, milk cosy, and deliciously frothy",55.0
+Coffee,Irish Coffee,1,0,Irish Coffee tastes like a sweet boozy coffee drink,105.0
+Coffee,Strong Choco Coffee,1,0,It's a simple drink that combines creamy dark chocolate and freshly brewed coffee.,80.0
+Coffee,Baithak Special Cold Coffee,1,0,A creamy and energizing drink made from milk flavored with strong coffee.,170.0
+Coffee,Brownie Cold Coffee,1,0,Serve 1,105.0
+Coffee,Brownie Cold Coffee With Ice Cream,1,0,Serve 1,120.0
+Coffee,Caramel Cold Coffee,1,0,Serve 1,105.0
+Coffee,Choco Cold Coffee With Ice Cream,1,0,Serve 1,90.0
+Coffee,Chocolate Cold Coffee,1,0,Serve 1,65.0
+Coffee,Cold Coffee,1,0,Serve 1,55.0
+Coffee,Cold Coffee With Ice Cream,1,0,Serve 1,80.0
+Coffee,Hazelnut Cold Coffee,1,0,Serve 1,105.0
+Coffee,Strong Cold Coffee,1,0,Serve 1,65.0
+Coffee,Ultimate Cold Coffee,1,0,Serve 1,105.0
+Tea,Black Tea (150 ML),1,0,"It has Intense, richly aromatic and malty taste. Ingredients - Tea powder, mint ... read more",45.0
+Tea,Lemon Black Tea (150 ML),1,0,"Lemon Tea is a refreshing tea prepared using Tea powder, mint leaves, water, ... read more",55.0
+Tea,Special Black Tea (Lemon + Honey) (150 ML),1,0,Black tea is not only a non-sweetened or less-calorie drink but also provides ... read more,65.0
+Tea,Butterfly Pea Green Tea,1,0,Butterfly pea flower is commonly grown in Southeast Asia,80.0
+Tea,Butterfly Pea Honey Green Tea,1,0,Butterfly pea flower is commonly grown in Southeast Asia,95.0
+Tea,Hibiscus Green Tea,1,0,Strawberry Hibiscus Tea is a luxurious and sweet drink that will leave you ... read more,80.0
+Tea,Hibiscus Honey Green Tea,1,0,Strawberry Hibiscus Tea is a luxurious and sweet drink that will leave you ... read more,95.0
+Tea,Kashmiri Kahwah Green Tea,1,0,"Kahwa is the perfect beverage. A blend of cardamom, ginger, cinnamon, saffron with ... read more",80.0
+Tea,Kashmiri Kahwah Honey Green Tea,1,0,"Kahwa is the perfect beverage. A blend of cardamom, ginger, cinnamon, saffron with ... read more",95.0
+Tea,Tulsi Ginger Green Tea,1,0,Tulsi Ginger Green Tea is a remarkable combination of sacred Tulsi leaves and ... read more,55.0
+Tea,Tulsi Ginger Honey Green Tea,1,0,Tulsi Ginger Green Tea is a remarkable combination of sacred Tulsi leaves and ... read more,70.0
+Tea,Bubblegum Ice Tea (150 ML),1,0,Ingredients - Ice tea powder & bubble gum syrup. The Bubble Gum Ice ... read more,120.0
+Tea,Classic Ice Tea (150 ML),1,0,A combination of spicies and served with cold ice tea,95.0
+Tea,Green Apple Ice Tea (150 Ml),1,0,Ingredients - Ice tea powder & green apple syrup.,110.0
+Tea,Lemon Ice Tea (150 ML),1,0,"Ice tea powder, lemon & mint. Iced tea is a form of cold ... read more",95.0
+Tea,Litchi Ice Tea (150 Ml),1,0,"Ice tea powder & litchi syrup something different, light, refreshing and not too ... read more",110.0
+Tea,Mixberry Ice Tea (150 Ml),1,0,Ingredients - Ice tea powder & mix berry syrup. Our mix berry iced ... read more,110.0
+Tea,Peach Ice Tea (150 ML),1,0,This refreshing tea gets a subtle hint of sweetness and fruity peach flavour ... read more,120.0
+Tea,Plain Ice Tea (150 ML),1,0,This refreshing tea?gets a subtle hint of sweetness and fruity peach flavor from ... read more,90.0
+Tea,Watermelon Ice Tea (150 Ml),1,0,Ingredients - Ice tea powder & melon syrup,110.0
+Sp. Hot Chocolate,Hot Chocolate,0,0,"Not only does it taste delicious, but it has quite the positive effect ... read more",65.0
+Sp. Dryfruit Milk,Dryfruit Kesar Milk (Ukala),1,0,"Another unique drink for milk lover topped with a variety of dry fruits, ... read more",65.0
+Frappe,Blueberry Frappe (150 ML),1,0,Creamy frozen coffee drink tasting of fresh picked blueberries,145.0
+Frappe,Caramel Frappe (150 ML),1,0,"Ingredients - Frozen milk frappe powder, caramel syrup, coffee & normal milk. A ... read more",145.0
+Frappe,Hazelnut Frappe (150 ML),1,0,"Ingredients - Frozen milk frappe powder, hazelnut syrup, coffee & normal milk. A ... read more",145.0
+Frappe,Irish Frappe (150 ML),1,0,"Ingredients - Frozen milk frappe powder, Irish syrup, coffee & normal milk is ... read more",130.0
+Frappe,Mixberry Frappe (150 Ml),1,0,"Made with Frozen milk frappe powder, blueberry syrup & normal milk is perfect ... read more",155.0
+Frappe,Strawberry Oreo Frappe (150 Ml),1,0,"Frozen milk frappe powder, strawberry crush Oreo biscuits & normal milk. A combination ... read more",155.0
+Shakes,Black Current Shake (150 Ml),1,0,"A refreshing shake prepared with black current syrup, ice cream and wholesome milk ... read more",130.0
+Shakes,Brownie Shake (150 ML),1,0,"Frozen milk brownie, chocolate syrup ice cream & sugar Brownie Milkshake is a ... read more",160.0
+Shakes,Butterscotch Shake (150 Ml),1,0,,105.0
+Shakes,Cadburry Shake (150 ML),1,0,"Frozen milk Cadbury, chocolate syrup ice cream & sugar refreshingly smooth Milkshake with ... read more",120.0
+Shakes,Exotic Chocolate Shake (150 Ml),1,0,,130.0
+Shakes,Kesar Pista Shake (150 Ml),1,0,,120.0
+Shakes,Kitkat Shake (150 ML),1,0,"Frozen milk KitKat, chocolate syrup ice cream & sugar.The kitkat shake has a ... read more",120.0
+Shakes,Mango Shake (150 Ml),1,0,,105.0
+Shakes,Nutella Shake (150 Ml),1,0,"A refreshing shake prepared with Nutella chocolate, ice cream and wholesome milk - ... read more",160.0
+Shakes,Oreo Shake (150 ML),1,0,"Frozen milk, Oreo biscuits chocolate syrup, ice cream & sugar Oreo Milkshake is ... read more",120.0
+Shakes,Red Velvet Shake (150 ML),1,0,"Frozen milk, Red velvet syrup\cake, ice cream &sugar unique through and tasty drink ... read more",160.0
+Shakes,Strawberry Shake (150 Ml),1,0,,105.0
+Shakes,Vanilla Shake (150 Ml),1,0,,105.0
+Very Popular,Blue Moon Mojito (150 ML),1,0,,120.0
+Very Popular,Cranberry (Cran Cooler) (150 ML),1,0,,130.0
+Very Popular,Green Apple (Apple Spritzer) (150 ML),1,0,,130.0
+Very Popular,Lichi (Buko Lychee) (150 ML),1,0,,130.0
+Very Popular,Virgin Mojito (Cuban Lemonade) (150 ML),1,0,,105.0
+Very Popular,Cheese Shots,1,0,Crispy vegetarian snack with the melted cheese.,145.0
+Very Popular,Cheesy Corn Triangle,1,0,Triangle-shaped snacks with a corn and cheese stuffing.,145.0
+Very Popular,Cheesy Pizza Fingers,1,0,"Loaded with corn, potato and red capsicum and are spiked with a familiar, ... read more",145.0
+Very Popular,Chilly Wedges,1,0,"Deliciuos, spicy & crispy potato wedges.",160.0
+Very Popular,Garlic Shots,1,0,Seasoned to perfection with the classic combination of garlic and chili,145.0
+Very Popular,Pizza Pocket (Mini Puff),1,0,This tasty snack is loaded with real cheese and vegetables.,130.0
+Very Popular,Potato Wedges,1,0,This popular western side dish gets an Indian twist of indian spices,145.0
+Very Popular,Veggie Nuggets,1,0,"Well-seasoned, has a crispy outer covering and juicy flavour.",145.0
+Very Popular,Golden Corn Kulhad Pizza,1,0,Medium.,195.0
+Very Popular,Paneer Makhni Kulhad Pizza,1,0,,210.0
+Very Popular,Veggie Kulhad Pizza,1,0,Medium.,190.0
+Maggie,Aglio Olio Maggie,1,0,,110.0
+Maggie,Baithak Special Maggie,1,0,,140.0
+Maggie,Cheese Butter Maggie,1,0,,110.0
+Maggie,Korean Spicy Maggie,1,0,,130.0
+Maggie,Manchow Maggie,1,0,,130.0
+Maggie,Masala Maggie,1,0,,65.0
+Maggie,Peri Peri Maggie,1,0,,120.0
+Maggie,Plain Maggie,1,0,Baithack maggie very taste full your choice,55.0
+Maggie,Punjabi Tadka Maggie,1,0,,120.0
+Maggie,Schezwan Maggie,1,0,,95.0
+Maggie,Tandoori Tadka Maggie,1,0,,120.0
+Maggie,Veg Masala Maggie,1,0,,80.0
+Fries,Angara Fries,1,0,For spice lovers a perfect combination of fries and angara.,145.0
+Fries,BBQ Fries,1,0,,130.0
+Fries,Cheesy Fries,1,0,Delicious and juicy fries loaded with liquid cheese.,145.0
+Fries,Chilli Fries,1,0,,160.0
+Fries,Jalapeno Fries,1,0,,145.0
+Fries,Loaded Fries,1,0,These Loaded Cheese Fries are guaranteed to be a crowd pleaser!,130.0
+Fries,Masala Fries,1,0,Crispy Masala French Fries is an spicy Indian style.,120.0
+Fries,Peri Peri Fries,1,0,"Lightly spiced, slightly sweet and a little salty perfect fry.",130.0
+Fries,Peri Peri Loaded Fries,1,0,"Lightly spiced, slightly sweet and a little salty perfect fry loaded with baithack ... read more",145.0
+Fries,Salsa Fries,1,0,,130.0
+Fries,Salted Fries,1,0,"Crispy on the outside, creamy on the inside, perfectly salted French Fries.",110.0
+Sandwich,Chilli Chatakedar Sandwich,1,0,,120.0
+Sandwich,Chilli Chatakedar Sandwich With Cheese,1,0,,160.0
+Sandwich,Chocolate Sandwich,1,0,Delicious melted chocolate stuffed in between two pieces of bread to make a ... read more,150.0
+Sandwich,Corn Mayo Sandwich,1,0,,130.0
+Sandwich,Corn Mayo Sandwich With Cheese,1,0,"Hearty sandwich stuffed generously with assorted seasoned vegetables, cheese and grilled to perfection.",170.0
+Sandwich,Grill Veggies Sandwich,1,0,,120.0
+Sandwich,Grill Veggies Sandwich With Cheese,1,0,,160.0
+Sandwich,Paneer Kadai Sandwich,1,0,,140.0
+Sandwich,Paneer Kadai Sandwich With Cheese,1,0,,190.0
+Sandwich,Paneer Majedar Sandwich,1,0,,140.0
+Sandwich,Paneer Majedar Sandwich With Cheese,1,0,"Sandwich stuffed with veggies, cheese and tasty paneer usually eaten with sauce.",190.0
+Sandwich,Tandoori Tadka Sandwich,1,0,,130.0
+Sandwich,Tandoori Tadka Sandwich With Cheese,1,0,,170.0
+Sandwich,Thousand Island Sandwich,1,0,,120.0
+Sandwich,Thousand Island Sandwich With Cheese,1,0,,160.0
+Sandwich,Veg Mayo Sandwich,1,0,,105.0
+Sandwich,Veg Mayo Sandwich With Cheese,1,0,,145.0
+Panini Sandwich,Coleslaw Panini,1,0,Consists of raw shredded cabbage carrot capsicum with a mayonnaise based dressing and ... read more,190.0
+Panini Sandwich,Paneer Tandoori Panini,1,0,"Tandoori Paneer Sandwich has layers of spiced & smoked paneer, capsicum onion tomato ... read more",210.0
+Panini Sandwich,Paneer Tikka Panini,1,0,"An Indian dish made from paneer marinated in spices with capsicum, Onion & ... read more",210.0
+Panini Sandwich,Veg Panini,1,0,"Grilled Vegetable Panini loaded with, bell peppers and cabbage, carrot & Onion.",190.0
+Burgers,Paneer Burger,1,0,Paneer Burger is a unique and delicious burger recipe and is an Indian ... read more,180.0
+Burgers,Schezwan Burger,1,0,"Flavourful, spicy and hot condiment",105.0
+Burgers,Spinach & Corn Burger,1,0,"A delicious patty made from corn, potatoes, spinach and a dash of spices.",145.0
+Burgers,Veg Burger,1,0,Veg burger is a combination of tastes and textures,90.0
+Burgers,Veg Cheese Burger,1,0,Best burgers a combination of tastes and textures with cheese,130.0
+Breads And Buns,3 Layer Bun Maska (Butter Jam/Nutella),1,0,,100.0
+Breads And Buns,Biscoff Bun Maska,1,0,,75.0
+Breads And Buns,Bread Butter Toast,1,0,Crisp bread with a cobination of butter and jam,55.0
+Breads And Buns,Bread Butter Toast With Jam,1,0,Crisp bread with a cobination of butter and jam,80.0
+Breads And Buns,Brown Chocolate Bun Maska,1,0,,45.0
+Breads And Buns,Bun Maska,1,0,One of the favourites with Mumbaikers to have with their hot cup of ... read more,35.0
+Breads And Buns,Bun Maska Jam,1,0,"It's a super-soft, slightly sweet slathered generously with Maska.",45.0
+Breads And Buns,Bun Maska Jam Cheese,1,0,Soft bun with pleasant cheese.,95.0
+Breads And Buns,Cheese Chilly Toast,1,0,"As the name suggests, chilli cheese toast is a toasted bread cooked with ... read more",130.0
+Breads And Buns,Cheese With Butter Bun Maska,1,0,,65.0
+Breads And Buns,Coffee Chocolate Bun Maska,1,0,,75.0
+Breads And Buns,Garlic Bun Maska,1,0,Chef's special garlic maska with a mouth-watering taste,60.0
+Breads And Buns,Garlic Cheese Bun Maska,1,0,,95.0
+Breads And Buns,Green Apple Bun Maska,1,0,,45.0
+Breads And Buns,Green Chutney With Cheese Bun Maska,1,0,,60.0
+Breads And Buns,Irani Bun Maska,1,0,,40.0
+Breads And Buns,Pan Chocolate Bun Maska,1,0,,75.0
+Breads And Buns,Ras Malai Bun Maska,1,0,,75.0
+Breads And Buns,White Chocolate Bun Maska,1,0,,60.0
+Pizza,Baithack Special Pizza (7 Inch),1,0,"Capsicum, onion, tomato, black olives, corn, paneer , jalapeno, Basil, pasta pizza sauce ... read more",220.0
+Pizza,Cheese Burst Pizza (7 Inch),1,0,"Capsicum, onion, black olives, tomato, corn, pasta pizza sauce, Liquid cheese & cheese. ... read more",200.0
+Pizza,Corn Pizza (7 Inch),1,0,"Pasta pizza sauce, mayo, cheese & corn inimitable burst of crunchy sweetness that ... read more",150.0
+Pizza,Double Cheese Pizza (7 Inch),1,0,"Combination of Capsicum onion, pasta pizza sauce & liquid cheese topped with extra ... read more",190.0
+Pizza,Olive Baby Corn Pizza (7 Inch),1,0,"Baby corn, black olives, corn, pizza pasta sauce, mayo & cheese. If you're ... read more",200.0
+Pizza,Onion Pizza (7 Inch),1,0,"Pasta pizza sauce, mayo, cheese & onion - Crispy, and delicious, this vegetarian ... read more",150.0
+Pizza,Paneer Makhni (7 Inch),1,0,"Capsicum, onion, makhani sauce, mayo, cheese & paneer. The paneer makhani pizza is ... read more",190.0
+Pizza,Veggies Pizza (7 Inch),1,0,"Capsicum, corn, onion, black olives, tomato, cheese, pizza pasta sauce Mayo Hot, cheesy ... read more",170.0
+Pasta,Aglio Oilo In Penne,1,0,"Spaghetti Aglio e Olio is a little spicy, it's herbaceous",190.0
+Pasta,Peri Peri Fries Pasta,1,0,"A combination of fries, baithack special sauce and pasta.",190.0
+Pasta,Pink Sauce Pasta,1,0,Creamy pink sauce pasta is a unique delicious pasta recipe made using combination ... read more,190.0
+Pasta,Red Sauce Pasta,1,0,Red Sauce Pasta is a perfectly-cooked pasta in a richly flavoured tomato sauce ... read more,160.0
+Pasta,Schezwan Sauce Pasta,1,0,"Uniquely flavoursome, delicious, hot and spicy",190.0
+Pasta,White Sauce Pasta,1,0,"White sauce pasta is a creamy, delicious and cheesy pasta tossed in white ... read more",175.0
+Nachos,Cheese And Herbs Nachos,1,0,"Nachos, mayo sauce, liquid cheese & grated cheese. Crisps Cheese and Herbs is ... read more",150.0
+Nachos,Jalapeno Nachos,1,0,"Nachos, veges, mayo, jalapeno sauce & liquid cheese. it's a healthier snack for ... read more",140.0
+Nachos,Peri Peri Nachos,1,0,"Ingredients - Nachos, peri, veges, mayo sauce & liquid cheese. It's the perfect ... read more",150.0
+Garlic Bread,Cheese Burst Garlic Bread,1,0,Loaded with cheese and a combination of cheifs special garlic sauce,145.0
+Garlic Bread,Cheese Garlic Bread,1,0,"A popular, cheesy and tasty appetizer.",130.0
+Garlic Bread,Garlic Bread,1,0,"It has a distinct, smoky taste with natural touches of spices",95.0
+Special Thandai,Thandai,1,0,,65.0
+Bubble Tea,Green Apple Tea,1,0,Baithack bubble tea,150.0
+Bubble Tea,Lemon Bubble Tea,1,0,Baithack bubble tea,150.0
+Bubble Tea,Lychee Tea,1,0,Baithack bubble tea,150.0
+Bubble Tea,Mango BUBBLE TEA,1,0,Baithack bubble tea,150.0
+Bubble Tea,Strawberry Tea,1,0,Baithack bubble tea,150.0
+Bubble Shakes,Green Apple Bubble Shake,1,0,Baithack Shake,170.0
+Bubble Shakes,Lychee Bubble Shake,1,0,Baithack Shake,170.0
+Bubble Shakes,Mango Bubble Shake,1,0,Baithack Shake,170.0
+Bubble Shakes,Strawberry Bubble Shake,1,0,Baithack Shake,170.0
+New Cold Coco Specialty,Brownie Cold Coco,1,0,,105.0
+New Cold Coco Specialty,Brownie Cold Coco With Ice Cream,1,0,,120.0
+New Cold Coco Specialty,Choco Cold Coco,1,0,,80.0
+New Cold Coco Specialty,Cold Coco,1,0,,65.0
+New Cold Coco Specialty,Cold Coco With Ice Cream,1,0,,90.0
+Extra,Achaari,1,0,,55.0
+Extra,Cheese,1,0,,45.0
+Extra,Chipotle,1,0,,55.0
+Extra,Italian,1,0,,55.0
+Extra,Mayo,1,0,,45.0
+Extra,Salsa And Jalapeno,1,0,,45.0
+Extra,Tom Mayo,1,0,,55.0
+Extra,Toppings,1,0,,55.0

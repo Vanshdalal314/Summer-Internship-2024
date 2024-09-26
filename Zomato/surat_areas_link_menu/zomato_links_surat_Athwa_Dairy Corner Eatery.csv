@@ -1,0 +1,79 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sides,Cheese Chilli Garlic Bread,1,0,,195.0
+Sides,Cheese Fries,1,0,200 Gm,169.0
+Sides,Cheese Garlic Bread,1,0,,182.0
+Sides,Cheese Olive Chilli Garlic Bread,1,0,,221.0
+Sides,Cheese Peri Peri Fries,1,0,200 Gm,208.0
+Sides,Corn Cheese Garlic Bread,1,0,,195.0
+Sides,Jalepeno Popps,1,0,15 Pc Approx,195.0
+Sides,Nachos With Cheese,1,0,200 Gm,195.0
+Sides,Peri Peri Fries,1,0,200 Gm,169.0
+Sides,Potato Wedges,1,0,200 Gm,156.0
+Sides,Pull Apart Garlic Bread,1,0,,260.0
+Sides,Salted Fries,1,0,200 Gm,130.0
+Sandwich,Bread Butter Jam Cheese,1,0,,156.0
+Sandwich,Bread Butter Jam,1,0,,104.0
+Sandwich,Bread Butter,1,0,,78.0
+Sandwich,Cheese Chutney Sandwich,1,0,,169.0
+Sandwich,Veg Cheese Sandwich,1,0,,169.0
+Sandwich,Veg Sandwich,1,0,,130.0
+Toasts And Grills,Cheese Chutney Griill,1,0,,208.0
+Toasts And Grills,Chilli Cheese Open Toast,1,0,,260.0
+Toasts And Grills,Mushroom Grill,1,0,,325.0
+Toasts And Grills,Plain Cheese Grill,1,0,,208.0
+Toasts And Grills,Tandoori Paneer Grill,1,0,,286.0
+Toasts And Grills,Veg Cheese Grill,1,0,,195.0
+Glutton Grills (3 Layer),Bombay Masala Cheese,1,0,3 Layer,325.0
+Glutton Grills (3 Layer),Cheesy Heaven,1,0,3 Layer,325.0
+Pasta,Penne Pink Sauce,1,0,400 Gm,390.0
+Pasta,Penne Red Sauce,1,0,400 Gm,390.0
+Pasta,Penne White Sauce,1,0,400 Gm,416.0
+Pasta,Spaghetti Aglio-E-Olio,1,0,400 Gm,325.0
+Pasta,Spaghetti Pink Sauce,1,0,400 Gm,390.0
+Pasta,Spaghetti Red Sauce,1,0,400 Gm,390.0
+Pasta,Spaghetti White Sauce,1,0,400 Gm,416.0
+Pizza,Bonanza,1,0,"(Mushroom, Onion, Olives, Capscicum, Tomato, Jalapeno, Extra Cheese)",455.0
+Pizza,Colorato,1,0,"(Bell Pepper, Capsicum, Olives, Cheese)",390.0
+Pizza,Drunken Pizza,1,0,"(Our Secret Sauce, Four Blend Cheese, Olives, Bell Pepper, Onion)",455.0
+Pizza,Golden Glow,1,0,"(Corn, Cheese)",351.0
+Pizza,Greenario,1,0,"(Roasted Bell Pepper, Capsicum, Onion, Broccoli, Jalapenos, Cheese)",390.0
+Pizza,Hot Affair,1,0,"(Sun Dried Tomato, Jalapenos, Red Paprika, Black Olives, Chilli Flakes)",390.0
+Pizza,La Fantasy,1,0,"(Onion, Capsicum, Cottage Cheese)",390.0
+Pizza,Marghereta,1,0,"(Basil, Tomato, Cheese)",325.0
+Pizza,Siciliano,1,0,"(Mushroom, Onion, Sun Dried Tomato, Basil, Jalapeno)",455.0
+Pizza,Veg Tango,1,0,"(Onion, Capsicum, Cheese)",351.0
+Drinks (Beverages),Chocolate Chips Coco,1,0,250 Ml,130.0
+Drinks (Beverages),Coco With Ice Cream,1,0,250Ml,143.0
+Drinks (Beverages),Coco,1,0,250 Ml,91.0
+Drinks (Beverages),Coke Can,1,0,,52.0
+Drinks (Beverages),Hayati Energy Drink,1,0,,78.0
+Drinks (Beverages),Hell,1,0,,97.5
+Drinks (Beverages),Hot Chocolate,1,0,150 Ml,78.0
+Drinks (Beverages),Hot Coffee,1,0,150 Ml,104.0
+Drinks (Beverages),Kaju Coco,1,0,250 Ml,156.0
+Drinks (Beverages),Kaju Lassi,1,0,250 Ml,143.0
+Drinks (Beverages),Lassi,1,0,250Ml,91.0
+Drinks (Beverages),Monster Can,1,0,,195.0
+Drinks (Beverages),Plain Soda,1,0,,39.0
+Drinks (Beverages),Red Bull,1,0,,195.0
+Drinks (Beverages),Rose Lassi,1,0,250 Ml,104.0
+Drinks (Beverages),Sprite Can,1,0,,52.0
+Drinks (Beverages),Thumbs Up Can,1,0,,52.0
+Meals,Aloo Paratha,1,0,,156.0
+Meals,Butter Pav Bhaji,1,0,300 Gm,221.0
+Meals,Cheese Pav Bhaji,1,0,300 Gm,247.0
+Meals,Chole Kulche,1,0,With 2 Pc Kulcha,208.0
+Meals,Dal Makhani,1,0,300 Gm,195.0
+Meals,Extra Kulcha,1,0,,26.0
+Meals,Extra Pav,1,0,,26.0
+Meals,Jain Pav Bhaji,1,0,300 Gm,247.0
+Meals,Jeera Rice,1,0,200 Gm,169.0
+Meals,Laccha Paratha,1,0,,130.0
+Meals,Mix Veg Paratha,1,0,,169.0
+Meals,Paneer Paratha,1,0,,182.0
+Meals,Paneer Tikka Masala,1,0,300 Ml,208.0
+Meals,Papad,1,0,,26.0
+Meals,Pav Bhaji,1,0,300 Gm,195.0
+Meals,Steam Rice,1,0,200 Gm,156.0
+Meals,Swaminarayan Pav Bhaji,1,0,300 Gm,234.0
+Meals,Tawa Pulav,1,0,300 Gm,234.0

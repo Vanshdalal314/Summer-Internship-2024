@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Chicken Kulambu Combo,0,0,White Rice [750 ml]+Chicken Kulambu [200 ml]+Chilli Chicken [100 ml]+Rasam [100 ml]+Curd [100 ... read more,200.0
+Combos,Fish Kulambu Combo,0,0,White Rice [750 ml]+Fish Kulambu [200 ml]+Rasam [100 ml]+Curd [100 ml],200.0
+Combos,Karuvattu Kulambu Combo,0,0,White Rice [750 ml]+Karuvattu Kulambu [200 ml]+Rasam [100 ml]+Curd [100 ml],200.0
+Combos,Raagi Kali with Karuvattu Kolambu,0,0,,200.0
+Meals,3 Chapati with Chicken Kulambu [250 ml],0,0,,130.0
+Meals,Arisi Parippu Sadham,0,0,Sadham with pickle.,115.0
+Starters,Mathi Fish Fry [5 Pieces],0,0,,170.0
+Starters,Vaval Fish Fry [2 Pieces],0,0,,170.0
+Starters,Chicken Leg Pepper Fry [2 Pieces],0,0,,200.0
+Starters,Ragi Kali [2 Pieces],0,0,,100.0
+Starters,Pichu Potta Kozhi Varuval,0,0,,200.0
+Main Course,Chicken Gravy,0,0,,199.0
+Main Course,Pepper Chicken Gravy,0,0,,199.0
+Main Course,Chettinad Chicken Semi Gravy,0,0,,199.0
+Main Course,Chettinad Sukka Semi Gravy,0,0,,199.0
+Rice and Biryani,White Rice,0,0,,70.0
+Snacks,Boiled Egg [3 Eggs],0,0,,70.0
+Snacks,Egg Omelette [3 Eggs],0,0,,70.0
+Snacks,Egg Poriyal [3 Eggs],0,0,,80.0
+Snacks,Buttermilk,0,0,,60.0

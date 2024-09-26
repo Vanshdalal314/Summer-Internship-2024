@@ -1,0 +1,116 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Dal Fry with 4 Butter Chapati,1,0,Dal Fry+4 Butter Chapati+Papad [1 Piece]+Buttermilk,179.0
+Combos,Dal Fry Combo,1,0,Dal Fry+Jeera Rice+Salad [Subject to Availability],179.0
+Combos,Veg Manchurian Gravy with Veg Fried Rice,1,0,Veg Manchurian Gravy [Half] with Veg Fried Rice,229.0
+Combos,Paneer Cheese Kaju [300 Grams] with 3 Butter Chapati,1,0,Paneer Cheese Kaju [250 grams]+3 Butter Chapati+Papad [1 Piece]+1 Buttermilk,249.0
+Combos,Paneer Pasanda Combo,1,0,Paneer Pasanda [300 grams]+6 Butter Tawa Chapati Roti+Papad [2 Pieces]+1 Buttermilk,249.0
+Combos,Dry Manchurian Combo,1,0,Veg Manchurian Dry [Half]+Paneer Chatpata [300 Grams]+3 Butter Chapati+Papad [1 Piece]+1 Buttermilk,399.0
+Combos,Paneer Handi Combo,1,0,Paneer Handi [300 grams]+3 Butter Chapati+Cheese Paneer Biryani [Full]+Papad [1 Piece]+1 Buttermilk,499.0
+Combos,Manchurian & Veg Jaipuri Combo,1,0,Manchurian Dry [Half]+Veg Jaipuri [500 grams]+5 Butter Tawa Chapati+Papad [1 Piece]+1 Buttermilk,549.0
+Combos,Kaju Curry Combo,1,0,Kaju Curry [300 grams]+3 Butter Chapati+Special Sainath Biryani [Full]+Papad [1 Piece]+1 Buttermilk,549.0
+Combos,Paneer Toofani Combo,1,0,Paneer Toofani [500 grams]+5 Butter Tawa Chapati+Special Sainath Biryani [Full]+Papad [1 Piece]+1 Buttermilk,599.0
+Combos,Paneer Garlic Combo,1,0,Paneer Garlic [500 grams]+5 Butter Tawa Chapati+Veg Pulao [Full]+Papad [1 Piece]+1 Buttermilk,549.0
+Combos,Paneer Butter Masala Combo,1,0,Paneer Butter Masala [500 grams]+5 Butter Tawa Chapati+Cheese Paneer Biryani [Full]+Papad [1 Piece]+1 ... read more,599.0
+Main Course,Palak Matar,1,0,,199.0
+Main Course,Chana Masala,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",199.0
+Main Course,Veg Jaipuri,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",219.0
+Main Course,Veg Kadhai,1,0,,219.0
+Main Course,Veg Hyderabadi,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",219.0
+Main Course,Veg Chatpata,1,0,,219.0
+Main Course,Veg Tawa,1,0,,219.0
+Main Course,Veg Balti,1,0,,209.0
+Main Course,Mix Veg,1,0,,199.0
+Main Course,Veg Kolhapuri,1,0,,209.0
+Main Course,Veg Toofani,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",209.0
+Main Course,Navratan Korma,1,0,,239.0
+Main Course,Veg Handi,1,0,,219.0
+Main Course,Veg Makhanwala,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",229.0
+Main Course,Paneer Green Gujarath,1,0,,209.0
+Main Course,Paneer Palak,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",209.0
+Main Course,Paneer Chana,1,0,,209.0
+Main Course,Paneer Matar,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",209.0
+Main Course,Paneer Toofani,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",209.0
+Main Course,Paneer Kadai,1,0,,219.0
+Main Course,Paneer Masala,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",209.0
+Main Course,Paneer Butter Masala,1,0,"Paneer Butter Masala, Also Known As Butter Paneer Is A Rich & Creamy ... read more",209.0
+Main Course,Paneer Tikka Masala,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",219.0
+Main Course,Paneer Chatpata,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",209.0
+Main Course,Paneer Garlic,1,0,,219.0
+Main Course,Paneer Lajawab,1,0,,219.0
+Main Course,Paneer Kolhapuri,1,0,,219.0
+Main Course,Paneer Patiyala,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",219.0
+Main Course,Paneer Cheese Kaju,1,0,,249.0
+Main Course,Paneer Laziz,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",219.0
+Main Course,Paneer Korma,1,0,,219.0
+Main Course,Paneer Lahori,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",209.0
+Main Course,Paneer Tawa,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",219.0
+Main Course,Paneer Lababdar,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",219.0
+Main Course,Paneer Handi,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",219.0
+Main Course,Paneer Balti,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",219.0
+Main Course,Paneer Shahi,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",229.0
+Main Course,Paneer Cheese Butter,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",229.0
+Main Course,Paneer Bhurji,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",229.0
+Main Course,Paneer Kaju,1,0,,229.0
+Main Course,Paneer Pasanda,1,0,,319.0
+Main Course,Paneer Jalaram Special,1,0,,319.0
+Main Course,Cheese Angara,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",239.0
+Main Course,Kaju Curry,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",259.0
+Main Course,Cheese Masala,1,0,,239.0
+Main Course,Kaju Masala,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",249.0
+Main Course,Kaju Khoya,1,0,,259.0
+Main Course,Dal Fry,1,0,Dal Fry Is A Popular Indian Dish Where Cooked Spiced Lentils Are Finished ... read more,129.0
+Main Course,Dal Tadka,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",149.0
+Main Course,Dal Green,1,0,,149.0
+Main Course,Dal Butter,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",149.0
+Main Course,Malai Kofta,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",299.0
+Main Course,Cheese Kofta,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",329.0
+Main Course,Paneer Kofta,1,0,,299.0
+Main Course,Kaju Kofta,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",339.0
+Main Course,Raja Rani Kofta,1,0,,339.0
+Chinese,Manchurian,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",159.0
+Chinese,Chinese Bhel,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",159.0
+Chinese,Bombay Bhel,1,0,,159.0
+Chinese,Paneer Chinese Bhel,1,0,,229.0
+Chinese,Mushroom Chilly,1,0,,279.0
+Chinese,Paneer Chilli,1,0,,279.0
+Chinese,Paneer Schezwan,1,0,,299.0
+Fried Rice and Noodles,Fried Rice,1,0,,189.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,"| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Fried Rice and Noodles,Singapore Fried Rice,1,0,,199.0
+Fried Rice and Noodles,Combination Rice,1,0,,199.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,229.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,,279.0
+Fried Rice and Noodles,Hakka Noodles,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",189.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Fried Rice and Noodles,Schezwan Garlic Noodles,1,0,,199.0
+Fried Rice and Noodles,Chinese Chopsuey,1,0,,152.4
+Rice Biryani and Khichdi,Steam Rice,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",99.0
+Rice Biryani and Khichdi,Jeera Rice,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",119.0
+Rice Biryani and Khichdi,Veg Pulao,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",189.0
+Rice Biryani and Khichdi,Green Pulao,1,0,,189.0
+Rice Biryani and Khichdi,Kashmiri Pulao,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",249.0
+Rice Biryani and Khichdi,Veg Biryani,1,0,Veg Biryani Also Known As Vegetable Biryani Is An Aromatic Rice Dish Made ... read more,249.0
+Rice Biryani and Khichdi,Kaju Pulao,1,0,,259.0
+Rice Biryani and Khichdi,Cheese Pulao,1,0,,249.0
+Rice Biryani and Khichdi,Paneer Pulao,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",229.0
+Rice Biryani and Khichdi,Veg Paneer Biryani,1,0,Veg Biryani Also Known As Vegetable Biryani Is An Aromatic Rice Dish Made ... read more,259.0
+Rice Biryani and Khichdi,Hyderabadi Biryani,1,0,,279.0
+Rice Biryani and Khichdi,Cheese Paneer Biryani,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",279.0
+Rice Biryani and Khichdi,Special Sainath Biryani,1,0,,289.0
+Rice Biryani and Khichdi,Dal Khichdi [500 grams],1,0,,219.0
+Rice Biryani and Khichdi,Lasuni Dal Khichdi [500 grams],1,0,,229.0
+Rice Biryani and Khichdi,Palakl Khichdi [500 grams],1,0,,238.0
+Rice Biryani and Khichdi,Rajwadi Khichdi [500 grams],1,0,,249.0
+Thali,Mini Punjabi Thali,1,0,Special Paneer Sabji+3 Butter Roti+Special Veg Biryani+Gulab Jamun [1 Piece]+Achar+Salad+Mukhwas,170.0
+Thali,Silver Punjabi Thali,1,0,Paneer Sabji + Veg Sabji + 4 Butter Chapati Roti + Dal Fry ... read more,195.0
+Thali,Golden Punjabi Thali,1,0,Special Paneer Sabji + Veg Sabji + 4 Butter Chapati Roti + Special ... read more,195.0
+Thali,Gujarati Thali,1,0,Green Sabji + Kathol Sabji + 6 Butter Chapati + Dal Rice or ... read more,219.0
+Roti,Tawa Chapati Roti,1,0,,13.0
+Roti,Butter Tawa Chapati Roti,1,0,,16.0
+Accompaniments,Roasted Papad,1,0,,25.0
+Accompaniments,Fried Papad,1,0,,30.0
+Accompaniments,Gulab Jamun [2 Pieces],1,0,,30.0
+Accompaniments,Veg Raita,1,0,,129.0
+Accompaniments,Boondi Raita,1,0,,139.0
+Buttermilk,Buttermilk,1,0,,30.0

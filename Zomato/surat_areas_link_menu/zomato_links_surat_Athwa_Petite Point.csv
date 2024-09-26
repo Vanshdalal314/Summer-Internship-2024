@@ -1,0 +1,105 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pack Combo,Punjabi Thali,1,0,Paneer Sabzi+Veg Sabzi+Dal Fry+Jeera Rice+3 Butter Roti,189.0
+Pack Combo,Special Punjabi Thali,1,0,Paneer Sabji+Veg Sabji+Dal Fry+Jeera Rice+3 Butter Roti+Buttermilk+Gulab Jamun [2 Pieces]+Papad+Salad,239.0
+Starters,Hara Bhara Cheese Kabab [5 Pieces],1,0,,340.0
+Starters,Paneer Tikka Dry [8 Pieces],1,0,,360.0
+Starters,Paneer Banjara Tikka Dry [5 Pieces],1,0,"A delicious, spicy, and juicy tikka made with paneer and a flavorful mix ... read more",370.0
+Main Course,Dal Fry,1,0,"Most popular dal made with tur dal, onion, tomatoes and spices.",133.0
+Main Course,Butter Dal Fry,1,0,,140.0
+Main Course,Dal Tadka,1,0,"A mix of arhar dal and moong dal tempred with oil, fried spices ... read more",140.0
+Main Course,Dal Palak,1,0,Dal Palak is a popular dish from the Indian subcontinent that features a ... read more,150.0
+Main Course,Dal Fry Tadka,1,0,,140.0
+Main Course,Paneer Hara Masala,1,0,,190.0
+Main Course,Paneer Rajwadi,1,0,,190.0
+Main Course,Paneer Bhurji,1,0,"Scrambled paneer with onion, tomatoes and spices.",199.0
+Main Course,Paneer Lababdar,1,0,"Paneer cubes in a creamy, mildly tangy and faintly sweet gravy made of ... read more",199.0
+Main Course,Matar Paneer,1,0,A wholesome and flavorful dish of soft paneer chunks cooked in a rich ... read more,200.0
+Main Course,Palak Paneer,1,0,"A popular Indian dish of Indian paneer cubes in a mild, spiced smooth ... read more",200.0
+Main Course,Paneer Tikka Masala,1,0,Marinated and spiced paneer cubes with red spiced gravy and medium spicy.,220.0
+Main Course,Paneer Butter Masala,1,0,"A creamy and mildly sweet gravy made with butter, tomatoes, cashews, spices topped ... read more",230.0
+Main Course,Paneer Balti Masala,1,0,Chunks of paneer in a bucket of spicy tomato gravy.,265.0
+Main Course,Paneer Handi Masala,1,0,"A creamy and mildly sweet gravy cooked in a handi, made with onion, ... read more",265.0
+Main Course,Paneer Tawa Masala,1,0,"A semi dry curry with capsicum, bell pepper, onion, tomatoes and paneer cubes ... read more",265.0
+Main Course,Paneer Toofani,1,0,"A creamy and spicy dish made with paneer, onions, tomatoes, and bell peppers.",265.0
+Main Course,Paneer Angara,1,0,A delectable dish of cubes of homemade cottage cheese cooked in a creamy ... read more,265.0
+Main Course,Paneer Chatpata,1,0,"Crispy paneer cubes tossed in a tangy and spicy mix of chaat masala, ... read more",265.0
+Main Course,Paneer Patiyala,1,0,,265.0
+Main Course,Petite Point Restaurant,1,0,Petite Point is a finedining restaurant located in the heart of the city.,199.0
+Main Course,Nargisi Kofta,1,0,A creamy and spicy curry Mughlai masala served with stuffed vegetable koftas. (Serves ... read more,199.0
+Main Course,Paneer Kofta,1,0,,199.0
+Main Course,Veg Kofta,1,0,"Tender and flavorful vegetarian meatballs, made with a blend of vegetables and spices. ... read more",199.0
+Main Course,Kaju Curry,1,0,,225.0
+Main Course,Kaju Kofta,1,0,"Deep fried dumplings filled with cashew nut and spices, served with a spicy ... read more",290.0
+Main Course,Kaju Paneer Masala,1,0,,295.0
+Main Course,Cheese Kofta,1,0,A scrumptious meat,290.0
+Main Course,Kaju Masala,1,0,"A rich and flavorful dish made with cashews and aromatic spices, Kaju masala ... read more",310.0
+Main Course,Mix Vegetable,1,0,,135.0
+Main Course,Aloo Mutter,1,0,,160.0
+Main Course,Corn Butter Masala,1,0,,180.0
+Main Course,Veg Handi Masala,1,0,Taste the authentic flavours of India with this Veg Korma.,180.0
+Main Course,Veg Keema Masala,1,0,"A delicious Indian vegetarian dish made with minced vegetables and spices, served with ... read more",180.0
+Main Course,Veg Makhanwala,1,0,"A creamy and flavorful curry with a rich tomato base, made with a ... read more",180.0
+Main Course,Veg Shahi Masala,1,0,"A decadent and creamy dish, perfect for a special occasion, with the rich ... read more",180.0
+Main Course,Veg Tawa Masala,1,0,A flavorful and aromatic dish of spiced vegetables cooked with aromatic spices and ... read more,180.0
+Main Course,Sweet Navratna Korma,1,0,A sweet and aromatic dish made with a generous blend of nine different ... read more,190.0
+Main Course,Special Petit Point,1,0,[Chef's Special],190.0
+Main Course,Paneer Angara Speciasl,1,0,"A delectable dish that is a flavorful combination of succulent paneer, juicy chicken, ... read more",225.0
+Main Course,Paneer Angara Special,1,0,,225.0
+Main Course,Chana Masala,1,0,"A delectable blend of chickpeas and spices, this dish is a popular Indian ... read more",180.0
+Main Course,Mix Veg,1,0,,180.0
+Main Course,Aloo Matar,1,0,A popular North Indian dish that combines the flavors of potatoes and peas.,180.0
+Main Course,Aloo Palak,1,0,"A healthy, delicious, and filling dish made with potatoes and spinach.",180.0
+Main Course,Veg Handi,1,0,,245.0
+Main Course,Veg Tawa,1,0,Veg tawa A popular South Asian dish that is made by panfrying vegetables ... read more,245.0
+Main Course,Veg Toofani,1,0,"A rich and flavorful Indian dish featuring a blend of vegetables, spices, and ... read more",245.0
+Main Course,Veg Kolhapuri,1,0,A flavorful and spicy dish made with vegetables in a spicy kolhapurian gravy.,240.0
+Main Course,Veg Hyderabadi,1,0,"A savory dish with a blend of aromatic spices, rich tomato gravy and ... read more",240.0
+Main Course,Mushroom Masala,1,0,A delectable side dish made with fresh mushrooms and aromatic spices.,270.0
+Main Course,Cheese Butter Masala,1,0,"A creamy and mildly sweet gravy made with butter, tomatoes, cashews, spices topped ... read more",270.0
+Breads,Plain Roti,1,0,"Plain Roathe perfect accompaniment to any meal, our Plain Rota are made with ... read more",20.0
+Breads,Butter Roti,1,0,,24.0
+Breads,Plain Naan,1,0,A simple and flavorful flatbread perfect for dipping into your favorite curry.,41.0
+Breads,Plain Paratha,1,0,"Plain Paratha is a traditional Indian flatbread, made with wheat flour and cooked ... read more",41.0
+Breads,Butter Naan,1,0,A leavened flatbread cooked in tandoor brushed with butter.,51.0
+Breads,Butter Paratha,1,0,A light and flaky flatbread stuffed with butter and spices. Perfect for a ... read more,51.0
+Breads,Plain Kulcha,1,0,,51.0
+Breads,Cheese Chilli Naan,1,0,"A tantalizing fusion of cheese and chilli, our Cheese Chilly Naan is the ... read more",75.0
+Breads,Cheese Naan,1,0,,82.0
+Breads,Garlic Naan,1,0,,82.0
+Breads,Butter Kulcha,1,0,"A delectable, buttery flatbread that is soft, fluffy, and perfect for dipping.",57.0
+Rice and Biryani,Steamed Rice,1,0,A simple dish of perfectly cooked steamed rice.,120.0
+Rice and Biryani,Jeera Rice,1,0,"Basmati rice cooked with ghee, cumin seeds & other fragrant spices.",125.0
+Rice and Biryani,Veg Pulao,1,0,"A flavorful rice dish with a combination of vegetables and spices, perfect for ... read more",180.0
+Rice and Biryani,Nizami Tarkari Biryani,1,0,A traditional Hyderabadi biryani dish made with the perfect blend of spices and ... read more,150.0
+Rice and Biryani,Veg Handi Biryani,1,0,,210.0
+Rice and Biryani,Hyderabadi Biryani,1,0,"A delicious medley of succulent vegetables, spices, ghee, saffron, and flavourful basmati rice ... read more",210.0
+Rice and Biryani,Nizami Tadka Biryani,1,0,"A classic Hyderabadi Biryadi with a rich, creamy, aromatic sauce. Perfect for a ... read more",210.0
+Chinese,Veg Crispy Chilli,1,0,,180.0
+Chinese,Green Pepper Paneer,1,0,"A delicious vegetarian dish, featuring green bell peppers and paneer in a rich ... read more",210.0
+Chinese,Mushroom Chilli Dry,1,0,A delicious dish of succulent mushrooms cooked in a spicy sauce with a ... read more,210.0
+Chinese,Paneer Schezwan Gravy,1,0,"A flavorful and spicy gravy dish made with paneer, schezwan sauce, and a ... read more",210.0
+Chinese,Veg Manchurian,1,0,"Crispy, tangy, and spicy, our Veg.",225.0
+Chinese,Veg 65,1,0,A popular Chinese dish made with a medley of vegetables and spices. The ... read more,225.0
+Chinese,Veg Spring Roll [5 Pieces],1,0,"Crisp, flaky, and packed with fresh veggies, these spring rolls are the perfect ... read more",225.0
+Chinese,Paneer Chilli,1,0,"A fiery combination of succulent paneer and spicy chillies, cooked in a creamy ... read more",310.0
+Chinese,Chinese Bhel,1,0,,180.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,"A flavorful combination of sauted vegetables and rice, seasoned with aromatic spices.",225.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,A spicy and flavorful fried rice dish with a mix of vegetables and ... read more,225.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,225.0
+Raita & Papad,Roasted Papad,1,0,"A short, marketable, and tasty dish made with papad that is roasted and ... read more",20.0
+Raita & Papad,Fried Papad,1,0,,26.0
+Raita & Papad,Masala Papad,1,0,,36.0
+Raita & Papad,Curd,1,0,A delicious and tangy dish that is rich in calcium and vitamin D. ... read more,51.0
+Raita & Papad,Tomato Salad,1,0,,80.0
+Raita & Papad,Green Salad,1,0,"A fresh and healthy green salad, perfect for a light lunch or a ... read more",99.0
+Raita & Papad,Veg Raita,1,0,"A creamy and cooling yoghurt drink made with vegetables such as cucumber, tomatoes ... read more",100.0
+Chaas & Lassi,Masala Butter Milk,1,0,A smooth and creamy drink with a spicy kick. Perfect to quench your ... read more,40.0
+Chaas & Lassi,Special Lassi,1,0,"A creamy yoghurt drink with a tangy twist of lime, perfect for a ... read more",90.0
+Chaas & Lassi,Sweet Lassi,1,0,,80.0
+Chaas & Lassi,Buttermilk,1,0,,41.0
+French Fries,French Fries,1,0,Potato fingers stir fried and topped with salt. (Serves 1).,90.0
+Soups,Veg Clear Soup [250 ml],1,0,A clear and aromatic soup made from a combination of vegetables and spices.,140.0
+Soups,Cheese Corn Tomato Soup [250 ml],1,0,"Creamy and satisfying, this soup is a delicious blend of cheese and corn ... read more",185.0
+Soups,Veg Hot and Sour Soup [250 ml],1,0,"A hot and sour soup made with a medley of vegetables, spices, and ... read more",155.0
+Soups,Veg Manchow Soup [250 ml],1,0,"A rich and spicy soup with a blend of mixed vegetables, ginger, and ... read more",165.0
+Soups,Cream of Tomato Soup [250 ml],1,0,A creamy and flavorful soup that is perfect for a rainy day. A ... read more,165.0

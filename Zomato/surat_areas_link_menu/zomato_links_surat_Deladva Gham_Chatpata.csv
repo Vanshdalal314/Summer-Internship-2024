@@ -1,0 +1,99 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Biscuit Pie with Cheese Garlic Bread,1,0,Biscuit Pie+Cheese Garlic Bread+Cold Coffee,349.0
+Combos,Chatpata Cheese Grilled Sandwich [3 Breads] with Veg Cheese Time Pass,1,0,Chatpata Cheese Grilled Sandwich [3 Breads]+Veg Cheese Time Pass+2 Cold Coffee,349.0
+Combos,2 Chocolate Brownie with Vanilla Ice Cream,1,0,,199.0
+Combos,Chatpata Burger with Salted Fries,1,0,Chatpata Burger+Salted Fries+Cold Coffee,149.0
+Combos,Chatpata Burger + Chocolate Milkshake,1,0,Chatpata Burger+Salted Fries+Chocolate Milkshake,199.0
+Combos,Chatpata Burger with Chocolate Thickshake,1,0,Chatpata Burger+Salted Fries+Chocolate Thickshake,199.0
+Pizza,Margherita Pizza [7 inches],1,0,,139.0
+Pizza,American Garden Pizza [7 inches],1,0,,159.0
+Pizza,Chatpata Cheese Pizza [7 inches],1,0,,159.0
+Pizza,Tandoori Paneer Pizza [7 inches],1,0,,179.0
+Pizza,Peri Peri Paneer Pizza [7 inches],1,0,,179.0
+Burgers and Sandwiches,Chatpata Burger,1,0,,55.0
+Burgers and Sandwiches,Peri Peri Burger,1,0,,59.0
+Burgers and Sandwiches,Schezwan Burger,1,0,,59.0
+Burgers and Sandwiches,Tandoori Burger,1,0,,59.0
+Burgers and Sandwiches,American Burger,1,0,,59.0
+Burgers and Sandwiches,Double Tikki Burger,1,0,,99.0
+Burgers and Sandwiches,Double Cheese Burger,1,0,,99.0
+Burgers and Sandwiches,Bread Butter Bread Sandwich,1,0,2 Breads.,49.0
+Burgers and Sandwiches,Bread Butter Jam Sandwich,1,0,2 Breads.,59.0
+Burgers and Sandwiches,Bombay Veg Sandwich,1,0,3 Breads.,99.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich,1,0,2 Breads.,69.0
+Burgers and Sandwiches,Bombay Veg Cheese Sandwich,1,0,3 Breads.,149.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,139.0
+Burgers and Sandwiches,Chatpata Cheese Grilled Sandwich,1,0,,139.0
+Burgers and Sandwiches,American Cheese Grilled Sandwich,1,0,,139.0
+Burgers and Sandwiches,Peri Peri Cheese Grilled Sandwich,1,0,,149.0
+Burgers and Sandwiches,Melting Cheese Sandwich,1,0,,249.0
+Burgers and Sandwiches,Bread Butter Jam Cheese Sandwich,1,0,2 Breads.,79.0
+Burgers and Sandwiches,Tandoori Paneer Cheese Grilled Sandwich,1,0,,149.0
+Snacks,Salted Fries,1,0,,79.0
+Snacks,Peri Peri Fries,1,0,,89.0
+Snacks,Salted Loaded Fries,1,0,,119.0
+Snacks,Peri Peri Loaded Fries,1,0,,129.0
+Snacks,Veg Cheese Timepass,1,0,,69.0
+Snacks,Cheesy Creamy Timepass,1,0,,79.0
+Snacks,Peri Peri Paneer Timepass,1,0,,89.0
+Snacks,Tandoori Paneer Timepass,1,0,,89.0
+Snacks,Cheese Garlic Bread [3 Pieces],1,0,,149.0
+Snacks,Cheese Chilli Bread [3 Pieces],1,0,,149.0
+Snacks,Gourmet Garlic Bread [3 Pieces],1,0,,149.0
+Snacks,Biscuit Pie [6 Pieces],1,0,,149.0
+Drinks (Beverages),Cold Coffee,1,0,,59.0
+Drinks (Beverages),Chocolate Coffee,1,0,,79.0
+Drinks (Beverages),Blueberry Fountain Soda,1,0,,25.0
+Drinks (Beverages),Clear Lemon Fountain Soda,1,0,,25.0
+Drinks (Beverages),Tangy Orange Fountain Soda,1,0,,25.0
+Drinks (Beverages),Fruit Beer Fountain Soda,1,0,,25.0
+Drinks (Beverages),Green Apple Fountain Soda,1,0,,25.0
+Drinks (Beverages),Jeera Masala Soda,1,0,,25.0
+Drinks (Beverages),Kala Khatta Soda,1,0,,25.0
+Drinks (Beverages),Pineapple Soda,1,0,,25.0
+Drinks (Beverages),Green Mango Soda,1,0,,25.0
+Drinks (Beverages),Strawberry Soda,1,0,,25.0
+Drinks (Beverages),Watermelon Soda,1,0,,25.0
+Drinks (Beverages),Fresh Lime Soda,1,0,,35.0
+Drinks (Beverages),Sweet Lime Soda,1,0,,35.0
+Drinks (Beverages),Limbu Sharbat Shikanji,1,0,,35.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,79.0
+Drinks (Beverages),Peach Iced Tea,1,0,,79.0
+Drinks (Beverages),Virgin Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Blue Lagoon Mocktail,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Watermelon Mojito,1,0,[Non Alcoholic],89.0
+Drinks (Beverages),Vanilla Milkshake,1,0,,79.0
+Drinks (Beverages),Pineapple Milkshake,1,0,,89.0
+Drinks (Beverages),Mango Milkshake,1,0,,99.0
+Drinks (Beverages),Blackcurrant Milkshake,1,0,,99.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,99.0
+Drinks (Beverages),Rose Milkshake,1,0,,99.0
+Drinks (Beverages),Banarasi Pan Milkshake,1,0,,99.0
+Drinks (Beverages),Kesaria Thandai Milkshake,1,0,,99.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,99.0
+Drinks (Beverages),Chocolate Chips Milkshake,1,0,,99.0
+Drinks (Beverages),Oreo Milkshake,1,0,,99.0
+Drinks (Beverages),KitKat Milkshake,1,0,,119.0
+Drinks (Beverages),Kaju Anjeer Milkshake,1,0,,139.0
+Drinks (Beverages),Kaju Mango Milkshake,1,0,,139.0
+Drinks (Beverages),Kaju Chocolate Milkshake,1,0,,139.0
+Drinks (Beverages),Nutella Milkshake,1,0,,149.0
+Drinks (Beverages),Choco Brownie Milkshake,1,0,,149.0
+Drinks (Beverages),Vanilla Thickshake,1,0,,79.0
+Drinks (Beverages),Pineapple Thickshake,1,0,,89.0
+Drinks (Beverages),Mango Thickshake,1,0,,99.0
+Drinks (Beverages),Blackcurrant Thickshake,1,0,,99.0
+Drinks (Beverages),Strawberry Thickshake,1,0,,99.0
+Drinks (Beverages),Rose Thickshake,1,0,,99.0
+Drinks (Beverages),Banarasi Paan Thickshake,1,0,,99.0
+Drinks (Beverages),Kesaria Thandai Thickshake,1,0,,99.0
+Drinks (Beverages),Chocolate Thickshake,1,0,,99.0
+Drinks (Beverages),Chocolate Chips Thickshake,1,0,,99.0
+Drinks (Beverages),Oreo Thickshake,1,0,,99.0
+Drinks (Beverages),KitKat Thickshake,1,0,,119.0
+Drinks (Beverages),Kaju Anjeer Thickshake,1,0,,139.0
+Drinks (Beverages),Kaju Mango Thickshake,1,0,,139.0
+Drinks (Beverages),Kaju Chocolate Thickshake,1,0,,139.0
+Drinks (Beverages),Nutella Thickshake,1,0,,149.0
+Drinks (Beverages),Choco Brownie Thickshake,1,0,,149.0

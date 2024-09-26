@@ -1,0 +1,75 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Veg Grilled Sandwich,1,0,"Tomato, cucumber, cabbage, capsicum, carrot, mayonnaise, masala, black paper and salt.",135.0
+Sandwiches,New Chilli Cheese Grilled Sandwich,1,0,"Bread, capsicum, green chilli, cabbage and masala.",139.0
+Sandwiches,Cheese Corn Grilled Sandwich,1,0,,139.0
+Sandwiches,Mushroom Corn Grilled Sandwich,1,0,,139.0
+Sandwiches,Creamy Paneer Grilled Sandwich,1,0,,159.0
+Sandwiches,Cheese Pineapple Grilled Sandwich,1,0,,139.0
+Sandwiches,Herb Paneer Grilled Sandwich,1,0,,159.0
+Sandwiches,Chocolate Cheese Grilled Sandwich,1,0,,169.0
+Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,,179.0
+Sandwiches,Indian Grilled Sandwich,1,0,,179.0
+Sandwiches,Spicy Paneer Grilled Sandwich,1,0,,179.0
+Sandwiches,Exotic Grilled Sandwich,1,0,,179.0
+Sandwiches,Spicy Veg Cheese Non Grilled Sandwich,1,0,"Cucumber, onion, tomato and cheese.",99.0
+Sandwiches,Garden Sub Sandwich,1,0,"Lettuce, cucumber, onion, hot dog bread, white cheese and Thousand sauce.",129.0
+Sandwiches,Spicy Paneer Sub Sandwich,1,0,,139.0
+Sandwiches,Crunchy Aloo Grilled Sub Sandwich,1,0,,139.0
+Sandwiches,Exotic Cheese Sub Sandwich,1,0,,139.0
+Pizza and Pasta,Red Veggie Penne Pasta,1,0,,179.0
+Pizza and Pasta,White Veggie Penne Pasta,1,0,,149.0
+Pizza and Pasta,Mushroom Cheese Penne Pasta,1,0,,159.0
+Pizza and Pasta,Margherita Pizza [8 inches],1,0,Pizza base and Mozzarella cheese.,179.0
+Pizza and Pasta,Garden Fresh Pizza [8 inches],1,0,"Capsicum, onion and corn.",205.0
+Pizza and Pasta,Simply Veg Pizza [8 inches],1,0,"Capsicum, onion and tomato.",205.0
+Pizza and Pasta,Spicy Veg Pizza [8 inches],1,0,"Capsicum, green chilli, onion and tomato.",215.0
+Pizza and Pasta,Mushroom Delight Pizza [8 inches],1,0,"Mushroom, corn and capsicum.",215.0
+Pizza and Pasta,Hawaiian Pizza [8 inches],1,0,"Pineapple, paneer, corn and capsicum.",239.0
+Pizza and Pasta,Corn Exotic Pizza [8 inches],1,0,"Capsicum, tomato, corn, garlic and herb.",245.0
+Pizza and Pasta,Peppy Paneer Pizza [8 inches],1,0,"Onion, red chilli, paneer and red peprika.",245.0
+Pizza and Pasta,Mexican Bananza Pizza [8 inches],1,0,"Corn, capsicum, jalapeno, red chilli and olive.",245.0
+Pizza and Pasta,Super Feast Pizza [8 inches],1,0,"Capsicum, onion, mushroom, corn and jalapeno.",245.0
+Pizza and Pasta,Tandoori Feast Pizza [8 inches],1,0,"Onion, paneer, tandoori sauce and green chilli.",255.0
+Pizza and Pasta,Paneer Makhani Pizza [8 inches],1,0,"Onion, paneer, makhani sauce and green chilli.",255.0
+Burgers,Aloo Crunch Burger,1,0,,89.0
+Burgers,Aloo Butter Grilled Crunch Burger,1,0,,99.0
+Burgers,Cheese Crunch Burger,1,0,,115.0
+Burgers,Spicy Cheese Crunch Burger,1,0,,125.0
+Burgers,Cheese Double Crunch Burger,1,0,,139.0
+Burgers,Spicy Paneer Crunch Burger,1,0,,139.0
+Wraps,Creamy Wrap,1,0,,89.0
+Wraps,Crunchy Aloo Wrap,1,0,,99.0
+Wraps,Paneer Spicy Wrap,1,0,,99.0
+Garlic Breads,Cheese Garlic Bread [3 Pieces],1,0,,89.0
+Garlic Breads,Spicy Cheese Garlic Bread [3 Pieces],1,0,,99.0
+Garlic Breads,Corn Cheese Garlic Bread [3 Pieces],1,0,,99.0
+Garlic Breads,Supreme Cheese Garlic Bread [3 Pieces],1,0,,125.0
+Maggi,Italian Red Maggi,1,0,,89.0
+Maggi,Italian Cheese Maggi,1,0,,99.0
+Maggi,Paneer Makhani Maggi,1,0,,129.0
+Snacks,French Fries,1,0,Salted fries.,89.0
+Snacks,Herbs & Chilli Fries,1,0,,89.0
+Snacks,Loaded French Fries,1,0,,139.0
+Snacks,Peri Peri French Fries,1,0,Salty and spicy.,97.0
+Waffles,Classic Waffle,1,0,,102.0
+Waffles,Honey Butter Waffles,1,0,,113.0
+Waffles,Dark Chocolate Waffle,1,0,,130.0
+Waffles,Oreo Waffles,1,0,,139.0
+Cold Coffee,Frappe,1,0,,109.0
+Cold Coffee,Caremal Frappe,1,0,,129.0
+Cold Coffee,Cold Coffee,1,0,,155.0
+Shakes,Litchi Smoothie,1,0,,119.0
+Shakes,Strawberry Shake,1,0,,129.0
+Shakes,Mango Smoothie,1,0,,119.0
+Shakes,Pineapple Smoothie,1,0,,119.0
+Shakes,Blackcurrent Shake,1,0,,119.0
+Shakes,Kiwi Shake,1,0,,119.0
+Shakes,Thick Choco Smoothie,1,0,,129.0
+Shakes,Oreo Shake,1,0,,139.0
+Colada,Litchi Colada,1,0,,105.0
+Colada,Green Mint Cool,1,0,,99.0
+Colada,Cool Blue,1,0,,99.0
+Colada,Lemon Ice Tea,1,0,,99.0
+Colada,Watermelon Punch,1,0,,99.0
+Colada,Mint Mojito,1,0,[Non Alcoholic],99.0
+Colada,Mix Fruit,1,0,,65.0

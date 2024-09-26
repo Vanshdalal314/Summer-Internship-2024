@@ -1,0 +1,123 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Classic Hot Coffees,Cloudy Cappuchino Hot Coffee,1,0,A Heavenly Combination Of Espresso Creamy Steamed Milk and A Touch Of Vanilla ... read more,179.0
+Classic Hot Coffees,Darknight Magic Hot Coffee,1,0,A rich and bold blend of dark roast coffee shot with a hint ... read more,149.0
+Classic Hot Coffees,Harmony Latte Hot Coffee,1,0,"A harmonious blend of espresso, steamed milk",199.0
+Classic Hot Coffees,Hot Chocolate,1,0,,249.0
+Classic Hot Coffees,Melody Mocha Hot Coffee,1,0,Classic espresso combined with dark chocolaty and steamed milk.,219.0
+Spicy & Hot Coffees,Almond Arabesque Coffee,1,0,"A graceful combination of almond syrup, espresso, and frothy milk.",239.0
+Spicy & Hot Coffees,Caramel Crescendo Coffee,1,0,"A symphony of creamy caramel, espresso, steamed milk, and whipped cream.",219.0
+Spicy & Hot Coffees,Hazelnut Harmonica Coffee,1,0,Rich hazelnut flavors dances with espresso and creamy milk.,219.0
+Spicy & Hot Coffees,Minty Marimba Coffee,1,0,Cool mint syrup mingles with espresso and creamy steamed milk.,199.0
+Spicy & Hot Coffees,Vanilla Voila Coffee,1,0,Smooth espresso meets the sweet allure of vanilla and fluffy milk,209.0
+Iced Coffee,Arctic Dream Iced Coffee,1,0,"A refreshing iced coffee creation with espresso, milk, and a splash of orange ... read more",249.0
+Iced Coffee,Chamberlain Coffee,1,0,"A refreshing expresso, rich cocoa, and frothy milk, served over ice.",299.0
+Iced Coffee,Iced Americano Coffee,1,0,"Chilled espresso, over ice.",199.0
+Iced Coffee,Iced Nuttela Coffee,1,0,"A refreshing expresso, rich nutella, and creamy milk, served over ice.",319.0
+Iced Coffee,Iced Symphony Coffee,1,0,"Chilled espresso, steamed milk, and chocolate flavored syrup over ice.",249.0
+Iced Coffee,Trio Special Iced Coffee,1,0,"A refreshing blend of cold brew coffee, rich cranberry juice, and creamy milk, ... read more",329.0
+Frappes,Caramel Frosted Frappe,1,0,"A frosty blended coffee treat with espresso, caramel",349.0
+Frappes,Hazelnut Frosted Frappe,1,0,"A frosty blended coffee treat with espresso, hazelnut paste, and a generous dollop ... read more",349.0
+Frappes,Mocha Madness Frappe,1,0,"A frosty blend of espresso, dark chocolate, milk, and ice, topped with whipped ... read more",319.0
+Frappes,Nuttela Frosted Frappe,1,0,"A frosty blended coffee treat with espresso, nutella paste, and a generous dollop ... read more",339.0
+Frappes,Spicy Java Jolt,1,0,Experience a burst of energy with this invigorating iced coffee infused with a ... read more,349.0
+Salads,Fungi Velentino,1,0,"Chilled espresso, steamed milk, and chocolate flavored syrup over ice.",359.0
+Salads,Greek Chickpea Salad,1,0,"A protein packed salad with chickpeas, cherry tomatoes, cucumber, red onions, olives, feta ... read more",299.0
+Salads,Italino Salad,1,0,"Fresh exotica veggies with olive oil toasted with rocket leaves and parmesan cheese, ... read more",369.0
+Salads,Keto Salad,1,0,Soft cottage cheese with exotic veggies roasted in olive oil and herbs.,369.0
+Salads,Pesto With Cream,1,0,Soft cottage cheese with exotic veggies roasted in olive oil and rich cream ... read more,379.0
+Salads,Russian Salad,1,0,Fresh fruits with exotica veggies marinated with rich cream.,329.0
+Rice,Burnt Garlic Rice,1,0,,359.0
+Rice,Cilantro Rice,1,0,,329.0
+Rice,Classic Exotic Rice,1,0,,359.0
+Rice,Fried Rice,1,0,,259.0
+Rice,Mexican Rice,1,0,,359.0
+Sizzlers,Cafetrio Sp.sizzler,1,0,,799.0
+Sizzlers,Cottage Saslic Sizzler,1,0,,579.0
+Sizzlers,Rich Exotic Sizzler,1,0,,599.0
+Sizzlers,Taste Of Italino Sizzler,1,0,,599.0
+Sizzlers,Taste Of Maxico Sizzler,1,0,,499.0
+Sandwiches,Chesse Blast Sandwich,1,0,,259.0
+Sandwiches,Club Sandwich,1,0,,349.0
+Sandwiches,Loaded Cheese Sandwich,1,0,,359.0
+Sandwiches,Veg Grill Sandwich,1,0,,239.0
+Sandwiches,Veg Sandwich,1,0,,189.0
+Fries,Jalapeno Cheese Fries,1,0,,249.0
+Fries,Loaded Cheese Fries,1,0,,209.0
+Fries,Peri-Peri Fries,1,0,,179.0
+Fries,Salted Fries,1,0,,149.0
+Breads,Italian Garlic Bread,1,0,,269.0
+Breads,Romano Garlic Bread,1,0,,269.0
+Breads,Strached Bruchetta,1,0,,269.0
+Breads,Strached Chilli Onion,1,0,,229.0
+Breads,Streached Garlic Bread,1,0,,219.0
+Sides & Fun,Cheese Corn Balls,1,0,,309.0
+Sides & Fun,Dahi Kebab,1,0,,250.0
+Sides & Fun,Nachos,1,0,,319.0
+Sides & Fun,Quesadilla,1,0,,349.0
+Pasta,Alfredo Pasta,1,0,,359.0
+Pasta,Arrabiata Pasta,1,0,,349.0
+Pasta,Creamy Paneer,1,0,,389.0
+Pasta,Fusionpasta,1,0,,399.0
+Pasta,Lasagna,1,0,,569.0
+Pasta,Love Of Italy (Speghetti),1,0,,389.0
+Pasta,Love Of Pesto Pasta,1,0,,429.0
+Pasta,Mac & Cheese Pasta,1,0,,429.0
+Mocktails,Blue Lagoon,1,0,Blue curcao syrup lemon juice top up soda sprite,269.0
+Mocktails,Blue Lagoon Red Bull Mocktail,1,0,Mint leaves and lemon juice blue curcao syrup cut lemon chunks topp up ... read more,389.0
+Mocktails,Cindrella,1,0,Grape juice cranberry juice and pineapple crush and rock salt and tabasco,219.0
+Mocktails,Dream Mango,1,0,Mango juice rock salt and tabasco,229.0
+Mocktails,First Love,1,0,Cranberry juice and pineapple juice lemon juice litchi juice,279.0
+Mocktails,Fresh Lime Soda,1,0,,129.0
+Mocktails,Fresh Lime Water,1,0,,79.0
+Mocktails,Green Apple Mojito,1,0,[Non alcoholic] receive mint mojito add green apple syrup,189.0
+Mocktails,Green Martini,1,0,Kiwi crush green apple crush rock salt lemon juice ice crush,279.0
+Mocktails,Guava Merry,1,0,Guava juice rock salt and tabasco,279.0
+Mocktails,Hawain Beach,1,0,Pineapple juice lemon juice orange juice mix blue curcao syrup top up soda ... read more,279.0
+Mocktails,Kiwi Mojito,1,0,[Non alcoholic] kiwi crush and mint mojito receive,169.0
+Mocktails,Litchi Mojito,1,0,[Non alcoholic] litchi juice and mint mojito receive,160.0
+Mocktails,One More Time,1,0,Orange juice cut fresh orange pineapple juice chunks lemon juice top up redbull,359.0
+Mocktails,Pink Killer,1,0,Cranberry juice and litchi juice top up soda,249.0
+Mocktails,Rainbow Mocktails,1,0,Watermelon syrup and pineapple crush mango juice lemon juice blue curcao syrup mix ... read more,279.0
+Mocktails,Rock Bottom,1,0,Watermelon syrup and lemon juice,349.0
+Mocktails,Shake On The Beach,1,0,Peach ice tea syrup cranberry juice orange juice lemon juice top up soda ... read more,299.0
+Mocktails,Star Smokie,1,0,Kiwi crush and mint mojito receive,369.0
+Mocktails,Strawberry Delight,1,0,Strawberry crush and lemon juice rock salt ice crush,279.0
+Mocktails,Sunset Colour,1,0,Cranberry juice lemon juice litchi juice and orange juice top up soda and ... read more,279.0
+Mocktails,Tropical Sunset,1,0,Strawberry crush touch litchi juice lemon,379.0
+Mocktails,Watermelon Mojito,1,0,[Non alcoholic] mint mojito receive watermelon syrup,169.0
+Desserts,Martini Afagato,1,0,,259.0
+Pizza [11 Inches],Add Extrta Cheese Burst On Pizza,1,0,,139.0
+Pizza [11 Inches],Druggy Cheessy Pizza,1,0,"Handmade tangy tomato sauce, basil, mozzrella cheese, orange chedar cheese, orange chedar cheese ... read more",359.0
+Pizza [11 Inches],Garden Of Eden Pizza,1,0,"Handmade tangy tomato sauce with exotica veggies, olive oil, garlic drizzle",369.0
+Pizza [11 Inches],Hot Pappers Pizza,1,0,"Handmade tangy tomato sauce, red bell paper",359.0
+Pizza [11 Inches],Make Your Own Pizza,1,0,Choose Your Favorite Toppings and Drizzle Topping,359.0
+Pizza [11 Inches],Mediterranean Sunshinepizza,1,0,"Handmade tangy tomato sauce with cherry tomatoes, black olives, jalapeno, capsicum, sweet corn, ... read more",369.0
+Pizza [11 Inches],Mia-Margharita Pizza,1,0,"Handmade chunky merinara sauce, fresh basil, mozzrella cheese, permesan cheese, olive oil",349.0
+Pizza [11 Inches],Pesto Paradise Pizza,1,0,"Handmade fresh pesto with soft cottage cheese, zuchhini, bell pappers, olive, pine nuts ... read more",369.0
+Pizza [11 Inches],Traditional Korma Pizza,1,0,"Hadnmade korma sauce, soft cottage cheese, onion, red peprika, green capsicum, tomatoes, coriendor, ... read more",369.0
+Pizza [11 Inches],Wild Of Love Pizza,1,0,"Hadnmade tangy tomato sauce, soft cottage cheese, fresh brocolli, fresh mushroom, baby corn, ... read more",369.0
+Ice Tea,Cranberry Ice Tea,1,0,,199.0
+Ice Tea,Lemon Iced Tea,1,0,,179.0
+Ice Tea,Peach Ice Tea,1,0,,199.0
+Party Package,Red Bull,1,0,,190.0
+Party Package,Water Bottle,1,0,,20.0
+Shake,Apple Eye Shake,1,0,,209.0
+Shake,Avocado With Banana Shake,1,0,,349.0
+Shake,Biscopp Shake,1,0,,329.0
+Shake,Cold Coffee,1,0,,279.0
+Shake,Fruit Punch,1,0,,319.0
+Shake,Good Night Kiss Shake,1,0,,319.0
+Shake,Kit Kat Shake,1,0,,309.0
+Shake,Oreo Shake,1,0,,299.0
+Shake,Pan Shot,1,0,,349.0
+Shake,Pina Colada,1,0,,289.0
+Cocktail,Beer Chelada (malt Beer),1,0,,429.0
+Cocktail,Beer Marghrita (malt Beer,1,0,,439.0
+Cocktail,Beer Shandy (malt Beer),1,0,,419.0
+Cocktail,Budweiser 0.0,1,0,,179.0
+Cocktail,Malt Beer,1,0,,179.0
+Cocktail,Shark Bite (malt Beer),0,0,,429.0
+Cocktail,The Twist (malt Beer),1,0,,429.0
+Maggie,Masala C.m,1,0,,119.0
+Maggie,Masala Veg Maggie,1,0,,109.0
+Maggie,Masala Maggie,1,0,,79.0

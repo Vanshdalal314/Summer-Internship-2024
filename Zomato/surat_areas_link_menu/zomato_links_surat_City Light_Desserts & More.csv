@@ -1,0 +1,203 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+IPL Special,Combo 3,1,0,"Mojito, Fresh Lime Soda, Tandoori Paneer S/w, Vol u Vent Pie, Coffee Toffee ... read more",700.0
+Cakes,Black Forest,1,0,"Black Forest Cake consists of layers of chocolate sponge with grated chocolate, whipped ... read more",375.0
+Cakes,Brownie Ala Mode,1,0,"Gooey brownie cake and truffle mixed, topped with chocolate sponge, and finished with ... read more",775.0
+Cakes,Choco Ecstacy Cake,1,0,Chocolate sponge with chocolate ganache and chocolate chips. Coated with chocolate sponge crumbs ... read more,495.0
+Cakes,Choco Vanilla Cake,1,0,"Chocolate sponge with layers of eclair chococlate ganache and vanilla cream, with an ... read more",390.0
+Cakes,Chocolate Caramel Cake,1,0,"Chocolate sponge, with a thin layer of fresh cream, caramel sauce, and sprinkled ... read more",525.0
+Cakes,Chocolate Nutties Cake,1,0,Chocolate sponge with chocolate mousse loaded with nutties.,750.0
+Cakes,Death By Chocolate Cake,1,0,"Four layered cakes with the base of brownie, tiered with chocolate sponge, filled ... read more",990.0
+Cakes,Dutch Truffle Cake,1,0,Chocolate sponge layered with rich chocolate truffle. It's a no cream cake but ... read more,495.0
+Cakes,Ferrero Rocher And Nutella,1,0,Chocolate sponge with Nutella cream and pieces of hazelnut. Garnished with rocher pieces.,660.0
+Cakes,German Chocolate Cake,1,0,"Layers of moist chocolate sponge, chocolate mousse, and pure chocolate truffle, tasting rich ... read more",495.0
+Cakes,Rich Choco Mousse Cake,1,0,Chocolate sponge with the rich mousse cream.,450.0
+Cakes,Triple Truffle Cake,1,0,A four layered cake with different flavours in each layer. The initial layer ... read more,690.0
+Cakes,Blueberry Cake,1,0,Moist vanilla sponge coated with the blueberry cream and topped with the blueberry ... read more,500.0
+Cakes,Fresh Fruit Cake,1,0,"Moist vanilla sponge, layered with fresh cream, loaded with fresh seasonal fruits.",1000.0
+Cakes,Pineapple Cake,1,0,"A homemade style, soft vanilla sponge with pieces of pineapple. Garnished with pineapple ... read more",375.0
+Cakes,Fancy Cake,1,0,"A chocolate mousse cake shaped into a mouse, bee, teddy & coffee mug ... read more",580.0
+Cakes,Red Velvet Frost Cake,1,0,"Red Velvet Sponge layered with cream cheese, topped with red velvet crumbs.",550.0
+Cakes,Butterscotch Cake,1,0,"Cake layered with butterscotch cream to provide a rich, gooey texture and with ... read more",385.0
+Cakes,Chocolate Chip Sponge,1,0,,250.0
+Cakes,Gud Aata Sponge,1,0,,550.0
+Cakes,Marble Sponge,1,0,,250.0
+Cakes,Vanilla Sponge,1,0,,235.0
+Patesserie,Chocolate Sandwich,1,0,Belgium Mousse Sandwiched in Dark Chocolate sponge soaked in rich truffle added with ... read more,200.0
+Patesserie,Coffee Toffee Trio Pastry,1,0,,120.0
+Patesserie,Black Forest Pastry,1,0,"Black Forest Cake consists of layers of chocolate sponge with grated chocolate, whipped ... read more",110.0
+Patesserie,Rich Choco Mousse Pastry,1,0,Chocolate sponge with the rich mousse cream.,140.0
+Patesserie,Brownie Ala Mode Pastry,1,0,"Gooey brownie cake and truffle mixed, topped with chocolate sponge, and finished with ... read more",170.0
+Patesserie,Dutch Truffle Pastry,1,0,Chocolate sponge layered with rich chocolate truffle. It's a no cream cake but ... read more,180.0
+Patesserie,Triple Truffle Pastry,1,0,A four layered cake with different flavours in each layer. The initial layer ... read more,160.0
+Patesserie,German Chocolate Pastry,1,0,"Layers of moist chocolate sponge, chocolate mousse, and pure chocolate truffle, tasting rich ... read more",180.0
+Patesserie,Chocolate Nutties Pastry,1,0,Chocolate sponge with chocolate mousse loaded with nutties.,220.0
+Patesserie,Opera Pastry,1,0,"Thin layers of chocolate cake, tiramisu and truffle sauce to give a heavenly ... read more",200.0
+Patesserie,Belgium Mousse Pastry,1,0,"Rich Belgium mousse, on top of a thin, chocolate sponge. Coated in chocolate ... read more",200.0
+Patesserie,Death By Chocolate Pastry,1,0,"Four layered cakes with the base of brownie, tiered with chocolate sponge, filled ... read more",200.0
+Patesserie,Ferrero Rocher And Nutella Pastry,1,0,Chocolate sponge with Nutella cream and pieces of hazelnut. Garnished with rocher pieces.,210.0
+Patesserie,Pineapple Pastry,1,0,"A homemade style, soft vanilla sponge with pieces of pineapple. Garnished with pineapple ... read more",105.0
+Patesserie,Blueberry Pastry,1,0,Moist vanilla sponge coated with the blueberry cream and topped with the blueberry ... read more,160.0
+Patesserie,Fresh Fruit Pastry,1,0,"Moist vanilla sponge, layered with fresh cream, loaded with fresh seasonal fruits.",200.0
+Desserts,New York Cheesecake,1,0,A Classic New York Cheesecake With Buttery Cracker Crust And Rich Dense Filling ... read more,200.0
+Desserts,Oreo Cheese Cake,1,0,An oreo layer with new york cheesecake filled with oreo chunks.,250.0
+Desserts,Red Velvet Heart Entremet,1,0,A Heart Shaped Pastry Size Dessert coated with red velvet chocolate.,275.0
+Desserts,Biscoff Cheesecake,1,0,Classic Cheesecake Generously Layered With Biscoff Paste.,250.0
+Desserts,Blueberry Cheesecake,1,0,Classic Cheesecake Generously Layered With Blueberry Filling.,220.0
+Desserts,Hazlenut Entremet,1,0,"A French Dessert , Pastry Size, layered with mouse and hazlenuts coated with ... read more",180.0
+Desserts,Hazelnut Cheesecake,1,0,Classic Cheesecake Generously Layered With Hazelnut Paste.,250.0
+Desserts,Tiramisu Cake,1,0,An Italian dessert for coffee-lovers. With a thin base of sponge and coffee ... read more,200.0
+Desserts,Very Berry Chocolate Mousse Cake,1,0,Its a chocolate with rasperry and blueberry mousse cake with two different layers. ... read more,675.0
+Desserts,Biscoff Bliss Pudding Box,1,0,Sweet tooth cravings to be satisfied with this combination of biscoff spead and ... read more,350.0
+Desserts,Hazelnut Crunch Pudding Box,1,0,Roasted hazelnuts and nutella blend layered with chocolate sponge and truffle to make ... read more,350.0
+Brownies,Walnut Brownie,1,0,Brownie containing roasted walnuts.,100.0
+Brownies,Hazelnut Brownie,1,0,Classic brownie consisting of hazelnuts and Nutella inside.,120.0
+Straight From Our Bakery,Vanilla Muffin,1,0,,45.0
+Straight From Our Bakery,Chocolate Chip Muffin,1,0,,48.0
+Straight From Our Bakery,Assorted Muffin (6 Pieces Pack),1,0,,175.0
+Straight From Our Bakery,Cakesickels,1,0,,135.0
+Straight From Our Bakery,Chocolate Doughnut,1,0,,100.0
+Straight From Our Bakery,Caramel Center Filled Doughnut,1,0,,120.0
+Straight From Our Bakery,Chocolate Center Filled Doughnut,1,0,,120.0
+Straight From Our Bakery,Chocolate Chip Center Filled Doughnut,1,0,,120.0
+Straight From Our Bakery,Garlic Butter Toast,1,0,Crispy rusks dipped in butter seasoned with fresh garlic and herbs,125.0
+Straight From Our Bakery,Zatar Lavash,1,0,Fresh toasted dough seasoned with sesame and spices arabian style. Best had with ... read more,150.0
+Straight From Our Bakery,Sesame Lavash,1,0,,150.0
+Straight From Our Bakery,Cheese Lavash,1,0,,125.0
+Straight From Our Bakery,Soup Sticks,1,0,,100.0
+Straight From Our Bakery,Pizza Lavash,1,0,,150.0
+Straight From Our Bakery,Cream Rolls (Big),1,0,,45.0
+Straight From Our Bakery,Cream Roll (Flavoured And Small),1,0,,90.0
+Straight From Our Bakery,Plain Khari,1,0,,90.0
+Straight From Our Bakery,Vol-Au-Vents,1,0,Puff Pastry Tart shells ready to be filled in your gravy and baked. ... read more,145.0
+Straight From Our Bakery,Bagels,1,0,"4 Pcs of authentic, eggless bagels rolled in oats and sesame",160.0
+Straight From Our Bakery,Confectioners Croissants,1,0,French Croissants filled with...,150.0
+Straight From Our Bakery,Croissants (Plain),1,0,The Breakfast Croissant,60.0
+Straight From Our Bakery,Muska Bun,1,0,Best had with butter and tea. Refreshing!!!,20.0
+Straight From Our Bakery,Plain Kulcha (2 Pieces),1,0,,40.0
+Straight From Our Bakery,Pizza Base 6 Inch,1,0,,45.0
+Straight From Our Bakery,Masala Kulcha [2 Pieces],1,0,,40.0
+Straight From Our Bakery,Aata Bhaji Pav,1,0,,65.0
+Straight From Our Bakery,Aata Dabeli Pav,1,0,,65.0
+Straight From Our Bakery,Aata Pizza Base 6 Inch,1,0,,50.0
+Straight From Our Bakery,Burger Bun Medium (4 Pieces),1,0,,50.0
+Straight From Our Bakery,Burger Bun Small (9 Pieces),1,0,,90.0
+Straight From Our Bakery,Pizza Base 9 Inches,1,0,,55.0
+Straight From Our Bakery,Aata Pizza Base 9 Inches,1,0,,65.0
+Straight From Our Bakery,Garlic Bagutte Bread,1,0,,85.0
+Straight From Our Bakery,Panini Bread (2 Pieces),1,0,,70.0
+Straight From Our Bakery,Pita Bread 7 Inch (2 Pieces),1,0,,80.0
+Straight From Our Bakery,Whole Wheat Bread,1,0,,40.0
+Straight From Our Bakery,Cheese Garlic Bagutte Bread,1,0,,95.0
+Straight From Our Bakery,Multi Grain Bread,1,0,,50.0
+Straight From Our Bakery,Kalory Brown Crustless 300g,1,0,Small packect of Brown bread slices with sides removed perfect for sandwiches.,50.0
+Straight From Our Bakery,Kalory Brown Crustless 600g,1,0,Family pack of brown bread slices with sides removed perfect for sandwiches.,75.0
+Straight From Our Bakery,Kalory White Sliced Bread 200g,1,0,,25.0
+Straight From Our Bakery,Kalory Dabeli Pav (12 Piece),1,0,Size for Dabeli,32.0
+Straight From Our Bakery,Kalory Bhaji Pav 400g,1,0,,37.0
+Straight From Our Bakery,Kalory White Sliced Bread 400g,1,0,,42.0
+Straight From Our Bakery,Kalory Whole Wheat Bread 400g,1,0,"Made from Atta, rich in fibres and bran",48.0
+Straight From Our Bakery,Kalory White Crustless Bread 600g,1,0,A perfect sandwich bread for your home,73.0
+Confectionery & Chocolates,Assorted Chocolate Box (12 Pcs),1,0,"Nutella Hazelnut Chocolate , Dates And Almond Chocolate , Roasted Almond Rock , ... read more",500.0
+Confectionery & Chocolates,Asst'd Crumble Box,1,0,"Crushed Cookies blended in chocolates topped with flavours of Biscoff, Tangy Fruit and ... read more",450.0
+Confectionery & Chocolates,Chocolate Birthday Tag (s),1,0,,20.0
+Confectionery & Chocolates,Chocolate Champagne Bottle,1,0,,60.0
+Confectionery & Chocolates,Dates & Almond Choc,1,0,Arabian Date and Almond Coated in Dark Chocolate,45.0
+Confectionery & Chocolates,Nutri Pie,1,0,Digestive Biscuit coated with Milk Chocolate making it an wholesome healthy munch,75.0
+Confectionery & Chocolates,Peanut Rocks,1,0,A jar of Charcoal Roasted Peanuts coated with tempered dark chocolate,275.0
+Confectionery & Chocolates,Roasted Almond Rocks,1,0,Roasted Califonian Almonds coated with Dark Chocolate,45.0
+Confectionery & Chocolates,Rochher Choc,1,0,Roasted Hazlenut in wafer roll coated with milk choclate and hazlenut crumbs,50.0
+Confectionery & Chocolates,Rose Marzipan Balls,1,0,Rose petals and rose pulp coated in white truffle,40.0
+Confectionery & Chocolates,Chocolate Smiley,1,0,Nutritious Marie coated with chocolate. Sure to make you smile,120.0
+Confectionery & Chocolates,Brownie Choco Bar,1,0,Cubes of brownie enrobed in dark chocolate,35.0
+Confectionery & Chocolates,Chocolate Ball,1,0,,80.0
+Confectionery & Chocolates,Lollipops,1,0,,70.0
+Confectionery & Chocolates,Truffle Tarts [5 Per Pack],1,0,,125.0
+Confectionery & Chocolates,Caramel Flourentine,1,0,,90.0
+Cookies,Berries & Seed Cookies,1,0,"Atta cookies coated with dried cranberries, blueberries, sunflower seeds and pumkin seeds.",225.0
+Cookies,Badam Pista Cookies [250 Gram],1,0,Pure butter cookies mixed and topped with flakes of almonds and pitachio and ... read more,400.0
+Cookies,Chocolate Fudge Cookies [300g],1,0,Cookies with truffle made in pure unsalted butter. best had when microwaved.,390.0
+Cookies,Gooey Cookies [300g],1,0,Englishcoookies with chunk of chocolates made in pure unsalted butter,390.0
+Cookies,Honey Oatmeal Cookies [300g],1,0,Crispy cookies with the health of oats and honey made in pure unsalted ... read more,390.0
+Cookies,Waffle Bites,1,0,A sandwich of milk chocolate truffle between waffle biscuits.,300.0
+Cookies,Chocolate Crispies,1,0,,225.0
+Cookies,Cashew Crispies,1,0,,225.0
+Cookies,Jeera Crispies,1,0,,225.0
+Cookies,Cashew Cookies,1,0,,160.0
+Cookies,Double Choco Chip Cookies,1,0,,175.0
+Cookies,Vanilla Choco Chip Cookies,1,0,,160.0
+Season Hampers For Gifting,Assorted Celebration Bag (Option 1),1,0,"1 Asst'd Choco Crumble Box, 2 Choco Brownies, 1 Jar of Chocolate marbles.",950.0
+Season Hampers For Gifting,Assorted Goody Hamper,1,0,"2 Brownies, a jar of chocolate rocks and 1 box of premium cookies.",750.0
+Season Hampers For Gifting,Dream Hamper,1,0,"1 Box Button Cookie, 1 Box Cheese Straw , 1 Box Chip and ... read more",1650.0
+Season Hampers For Gifting,Mini Celebration Bag,1,0,1 Box of Crispies Jar of Chocolate Marbles.,475.0
+Season Hampers For Gifting,Occasions Gift Hamper,1,0,"1 Jar Nutties, 1 Jar Nurtimix, 1 box Lavash, 1 pkt. Naan Chips ... read more",1350.0
+Season Hampers For Gifting,Seasons Greetings Gift Hamper,1,0,"4 Hand Crafted Chocolates, 1 Lavash Box ,1 Butter Garlic Toast, 1 Jar ... read more",750.0
+Healthy Bakes,Millet Bread 200gm,1,0,"Atta, Jowar, Bajra & Ragi flours kneaded for a healthy breakfast",50.0
+Healthy Bakes,Nachini Crackers,1,0,A super healthy and tasty munch with baked ragi crackers,160.0
+Healthy Bakes,Whole Wheat Crackers,1,0,"Its crunchy, mild spicy and its baked. Best had with tea, coffee and ... read more",160.0
+Savouries & Fillers,Bagel Sandwiches,1,0,Portion 2pcs. Option of Authentic: Ceam Cheese & Veggies. Italian: Cottage cheese blended ... read more,160.0
+Savouries & Fillers,Spanish Croissant Sandwich,1,0,Quantity 2 pcs. Vegges in rich salsa sauce enveloped in a buttery croissant ... read more,220.0
+Savouries & Fillers,Tandoori Paneer Croissant Sandwich,1,0,Quantity 2 pcs. Cottage Cheese stirred in Tandoori Mayo enveloped in a croissant ... read more,250.0
+Savouries & Fillers,Paneer Tikka Sandwich,1,0,A Sandwich with Sauted Paneer and Veggies in tangy tandoori sauce,180.0
+Savouries & Fillers,Spicy Cheese Sandwich,1,0,,175.0
+Savouries & Fillers,Pesto Panini Sandwich,1,0,,180.0
+Savouries & Fillers,Alfredo Pasta,1,0,Penne pasta tossed with vegetables in white sauce topped with olives served with ... read more,220.0
+Savouries & Fillers,Arrabbiata Pasta,1,0,Penne pasta tossed with vegetables in red sauce served with 2 slices of ... read more,220.0
+Savouries & Fillers,"Garden Veg Pizza 9""",1,0,"Thin Crust Base garnished with sauces, garden veggies and mozerella cheese",265.0
+Savouries & Fillers,"Margarita Pizza 9""",1,0,"Authentic Italian thin crust pizza topped with Sauces and Mozerella,",250.0
+Savouries & Fillers,"Tandoori Paneer Pizza 9""",1,0,"Paneer marinated the with Indian Sauces with bell paper, onions and tomatoes",275.0
+Savouries & Fillers,Supreme Veg Burger,1,0,,180.0
+Savouries & Fillers,Veg American Hotdog,1,0,"[Veg Preparation] The American Hot Dog, with Soya Sausage,topped with Mustard & Mayo ... read more",195.0
+Savouries & Fillers,Biscuit Pie (6 Pcs),1,0,Puff Pastry Tarts topped with veggies and loads of cheese,135.0
+Savouries & Fillers,Cheese Garlic Jalapeno Toast,1,0,4 Slice of French Loaf coated with garlic paste garnished with cheese and ... read more,180.0
+Savouries & Fillers,Cheese Garlic Toasties,1,0,French bread baked with cheesy garlic paste,175.0
+Savouries & Fillers,Cheesy Jalepeno Samosa (3pcs),1,0,"Indian style fritters with a cheesy jalapeno filling,",135.0
+Savouries & Fillers,French Fries,1,0,Potato wedges fried till crispy mixed with salt and spices,125.0
+Savouries & Fillers,Korean Bun,1,0,"A soft bun filled with cream cheese, butter and garlic, garnished with corriander ... read more",150.0
+Savouries & Fillers,Potato Cheese Shots (6 Pcs),1,0,Union of Potato Cheese & Herb seasoning coated in golden crunchy bread crumb,135.0
+Savouries & Fillers,Potato Wedges,1,0,Classic style potato wedges with seasonings,135.0
+Savouries & Fillers,Vol-u-vent Pies,1,0,6Pcs of vol-u-vents filled with veggies in red sauce topped with cheese & ... read more,200.0
+Savouries & Fillers,Paneer Chilli Puff,1,0,Paneer Chilli stuffed in Puff Pastry Squares.,85.0
+Savouries & Fillers,Samosa,1,0,Indian Fritters Punjabi Style,40.0
+Savouries & Fillers,Veg Puff,1,0,Puff Pastry Triangles stuffed with Punjabi Potato Filling,45.0
+Savouries & Fillers,Noodle Puff,1,0,Hakka Noodles enrobed in a puff pastry dough.,65.0
+Savouries & Fillers,Chinese Roll,1,0,A hotdog loaf stuffed with hakka noodles on top,60.0
+Savouries & Fillers,Paneer Chilli Wrap,1,0,The all round paneer chilli wraped in tortilla base and grilled,140.0
+Savouries & Fillers,Cheesy Maggi,1,0,Classic Maggi adorned with cheese,125.0
+Savouries & Fillers,Plain Maggi,1,0,Maggi the classic style,100.0
+Savouries & Fillers,Veg Masala Maggi,1,0,Maggi with added veggies and spices,135.0
+From Our Cafe,Affogato,1,0,An espresso shot poured on vanilla ice cream,160.0
+From Our Cafe,Americano,1,0,An espresso shot with added hot water in true european style,130.0
+From Our Cafe,Biscoff Latte,1,0,Dark espresso balanced with steamed milk and a light layer of foam. A ... read more,200.0
+From Our Cafe,Cafe Latte,1,0,Dark espresso balanced with steamed milk and a light layer of foam. A ... read more,170.0
+From Our Cafe,Cafe Mocha,1,0,A delicious combination of our rich espresso with bittersweet mocha sauce and steamed ... read more,200.0
+From Our Cafe,Caffe Macchiato,1,0,Espresso shot with a thick layer of foam,140.0
+From Our Cafe,Cappuccino,1,0,"Dark, rich espresso set upon a smoothed layer of thick foam, served hot",160.0
+From Our Cafe,Caramel Cappuccino,1,0,"Dark, rich espresso shot with milk foam mixture and caramel flavour, served hot",200.0
+From Our Cafe,Caramel Latte,1,0,Dark espresso balanced with steamed milk and a light layer of foam. A ... read more,200.0
+From Our Cafe,Caramel Mocha,1,0,"A delicious combination of our rich espresso with bittersweet mocha sauce, steamed milk ... read more",230.0
+From Our Cafe,Espresso,1,0,A short and strong coffee shot,125.0
+From Our Cafe,Hazelnut Cappuccino,1,0,"Dark, rich espresso shot with milk foam mixture which is hazelnut flavoured, served ... read more",200.0
+From Our Cafe,Hazelnut Latte,1,0,Dark espresso balanced with steamed milk and a light layer of foam. A ... read more,200.0
+From Our Cafe,Hazelnut Mocha,1,0,"A delicious combination of our rich espresso with bittersweet mocha sauce, steamed milk ... read more",230.0
+From Our Cafe,Irish Cappuccino,1,0,"Dark, rich espresso shot with milk foam mixture with added irish syrup, served ... read more",200.0
+From Our Cafe,Irish Latte,1,0,Dark espresso balanced with steamed milk and a light layer of foam. A ... read more,200.0
+From Our Cafe,Irish Mocha,1,0,"A delicious combination of our rich espresso with bittersweet mocha sauce, steamed milk ... read more",230.0
+From Our Cafe,Nutella Latte,1,0,Dark espresso balanced with steamed milk and a light layer of foam. A ... read more,200.0
+From Our Cafe,Vanilla Cappuccino,1,0,"Dark, rich espresso shot with milk foam mixture with a tint of vanilla ... read more",200.0
+From Our Cafe,Fresh Lime Soda,1,0,A combination of lemon and soda with ice. Perfect drink to refresh your ... read more,100.0
+From Our Cafe,Fresh Lime Water,1,0,A combination of lemon and water with ice. Perfect drink to refresh your ... read more,90.0
+From Our Cafe,Lemon Iced Tea,1,0,"A light, delicate flavour of lemon and tea with ice. Perfect drink to ... read more",150.0
+From Our Cafe,Mojito Mint,1,0,"A perfect mix of mint flavour, lemon, ice, soda, and sprite. Perfect drink ... read more",150.0
+From Our Cafe,Peach Iced Tea,1,0,"A light, delicate flavour of peach, lemon and tea with ice. Perfect drink ... read more",150.0
+From Our Cafe,Hot Biscoff Chocolate,1,0,A perfect mix of steamed hot milk or cold milk with chocolate powder ... read more,220.0
+From Our Cafe,Hot Caramel Chocolate,1,0,Steamed hot milk or cold milk with chocolate powder and a layer of ... read more,200.0
+From Our Cafe,Hot Chocolate,1,0,Steamed hot milk or cold milk with chocolate powder,180.0
+From Our Cafe,Hot Nutella Chocolate,1,0,Steamed hot milk or cold milk with chocolate powder and a spoonful of ... read more,220.0
+From Our Cafe,Masala Tea,1,0,Boiling black tea in milk and water with a mixture of aromatic indian ... read more,90.0
+Cake Accessories,Balloon Shaped Candle,1,0,,100.0
+Cake Accessories,Cake Toppers,1,0,"Options of Happy Birthday,Happy Anniversary, Congratulations & Welcome",125.0
+Cake Accessories,Champagne Bottle Candle (6pcs),1,0,,35.0
+Cake Accessories,Champagne Set Candle (Golden),1,0,"Available in Silver, Golden & Pink",150.0
+Cake Accessories,Metallic Star Candle (3pc),1,0,,100.0
+Cake Accessories,Party Poppers,1,0,,100.0
+Cake Accessories,Sparkling Candles (1pc),1,0,,50.0

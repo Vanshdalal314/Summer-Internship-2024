@@ -1,0 +1,94 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sweets,Andhra Kaja,1,0,,132.5
+Sweets,Annapoorni Special,1,0,,162.5
+Sweets,Athipalam Kaju Cassatta,1,0,,355.0
+Sweets,Adhirasam,1,0,,12.0
+Sweets,Badam Bites,1,0,,325.0
+Sweets,Badam Halwa,1,0,,325.0
+Sweets,Badusha,1,0,,115.0
+Sweets,Balaji Laddu,1,0,,162.5
+Sweets,Banarasi Soan Papdi,1,0,,162.5
+Sweets,Beetroot Mysurpa,1,0,,175.0
+Sweets,Besan Laddu,1,0,,175.0
+Sweets,Bombay Halwa,1,0,,145.0
+Sweets,Bombay Kaja,1,0,,132.5
+Sweets,Carrot Mysurpa,1,0,,192.5
+Sweets,Cashewnut Cake,1,0,,252.0
+Sweets,Chocolate Bites,1,0,,325.0
+Sweets,Chocolate Burfi,1,0,,175.0
+Sweets,Coconut Burfi,1,0,,132.5
+Sweets,Coconut Poli [1 Piece],1,0,,17.0
+Sweets,Crispy Mysurpa,1,0,,132.5
+Sweets,Dal Poli,1,0,,16.0
+Sweets,Dates Mysurpa,1,0,,175.0
+Sweets,Dry Fruits Burfi,1,0,,325.0
+Sweets,Dry Fruits Roll,1,0,,325.0
+Sweets,Dry Fruits Laddu,1,0,,222.5
+Sweets,Ellu Urundai,1,0,,132.5
+Sweets,Groundnut Urundai,1,0,,115.0
+Sweets,Gulkand Biscuits,1,0,,325.0
+Sweets,Horlicks Burfi,1,0,,192.5
+Sweets,Jaggery Wheat Halwa,1,0,,145.0
+Sweets,Jhangri,1,0,,115.0
+Sweets,Jalebi,1,0,,115.0
+Sweets,Square Baklava,1,0,,355.0
+Sweets,Finger Baklava,1,0,,325.0
+Sweets,Kaju Cassata,1,0,,325.0
+Sweets,Kaju Diamond,1,0,,325.0
+Sweets,Kaju Laddu,1,0,,325.0
+Sweets,Kaju Roll,1,0,,325.0
+Sweets,Kaju Pista Roll,1,0,,295.0
+Sweets,Kala Jamun,1,0,,132.5
+Sweets,Kambu Urundai,1,0,,145.0
+Sweets,Karuppatti Mysurpa,1,0,,205.0
+Sweets,Laddu,1,0,,102.5
+Sweets,Mango Bites,1,0,,325.0
+Sweets,Mango Burfi,1,0,,175.0
+Sweets,Milk Peda,1,0,,175.0
+Sweets,Mini Jamun,1,0,,132.5
+Sweets,Mothi Laddu,1,0,,132.5
+Sweets,Mothi Pak,1,0,,145.0
+Sweets,Mysurpa,1,0,,175.0
+Sweets,Pasi Paruppu Urundai,1,0,,132.5
+Sweets,Ragi Urundai,1,0,,115.0
+Sweets,Rose Bites,1,0,,325.0
+Sweets,Rose Laddu,1,0,,325.0
+Sweets,Sugar Free Laddu,1,0,,162.5
+Sweets,Vanilla Katli,1,0,,175.0
+Sweets,Wheat Halwa,1,0,,145.0
+Sweets,Wheat Laddu,1,0,,145.0
+Sweets,White Soan Papdi,1,0,,162.5
+Snacks,Chola Murukku,1,0,,115.0
+Snacks,Bombay Mixer,1,0,,102.5
+Snacks,Butter Murukku,1,0,,102.5
+Snacks,Coconut Milk Murukku,1,0,,115.0
+Snacks,Corn Mixer,1,0,,102.5
+Snacks,Garlic Mixer,1,0,,115.0
+Snacks,Garlic Murukku,1,0,,115.0
+Snacks,Kai Murukku,1,0,,132.5
+Snacks,Kara Boondi,1,0,,115.0
+Snacks,Kara Sev,1,0,,102.5
+Snacks,Manaparai Murukku,1,0,,115.0
+Snacks,Masala Thattai,1,0,,115.0
+Snacks,Mixer,1,0,,90.0
+Snacks,Nendram Chips,1,0,,145.0
+Snacks,Omapodi,1,0,,102.5
+Snacks,Onion Murukku,1,0,,115.0
+Snacks,Pepper Sev,1,0,,102.5
+Snacks,Pidi Murukku,1,0,,115.0
+Snacks,Potato Chips,1,0,,162.5
+Snacks,Tomato Potato Chips,1,0,,162.5
+Snacks,Pudina Potato Chips,1,0,,162.5
+Snacks,Potato Finger Chips,1,0,,145.0
+Snacks,Potato Pepper Finger,1,0,,162.5
+Snacks,Pudina Mixer,1,0,,115.0
+Snacks,Ragi Ribbon Pakoda,1,0,,102.5
+Snacks,Ragi Thatta Vadai,1,0,,115.0
+Snacks,Ribbon Pakoda,1,0,,102.5
+Snacks,Samai Murukku,1,0,,115.0
+Snacks,Seedai,1,0,,102.5
+Snacks,Ellu Murukku,1,0,,115.0
+Snacks,Tapioca Chips,1,0,,115.0
+Snacks,Thatta Vadai,1,0,,115.0
+Snacks,Varagu Murukku,1,0,,115.0
+Snacks,Sattur Sev,1,0,,102.5

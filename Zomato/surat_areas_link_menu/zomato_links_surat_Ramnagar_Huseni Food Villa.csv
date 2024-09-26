@@ -1,0 +1,10 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken Lollipop [5 Pieces],0,0,,170.0
+Starters,Chicken 65 Tikka [10 Pieces],0,0,,200.0
+Chicken Main Course,Chicken Angara Boneless,0,0,,130.0
+Chicken Main Course,Butter Chicken Boneless,0,0,,130.0
+Biryani,Chicken Dum Biryani,0,0,,120.0
+Biryani,Chicken Tikka Biryani,0,0,[Chef's Special],150.0
+Biryani,Chicken Seekh Biryani,0,0,,160.0
+Shawarma,Regular Chicken Shawarma,0,0,,60.0
+Shawarma,Cheese Chicken Shawarma,0,0,,80.0

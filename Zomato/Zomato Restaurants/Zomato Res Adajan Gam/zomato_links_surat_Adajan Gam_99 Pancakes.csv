@@ -1,0 +1,57 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+New Launches,Almighty Almond Pancake,1,0,"Indulge in the delightful flavors of Almond Licious Pancakes, a stack of six ... read more",180.0
+New Launches,Almond Affair Waffle,1,0,"Indulge your taste buds with the Almond Licious Waffle, a delightful culinary creation ... read more",159.0
+Value Deals,Chocolate Lovely pancake (6pcs) + Chocolate Heaven waffle,1,0,,269.0
+Value Deals,Holla Nutella pancake (6pcs) + Naughty Nutella Waffle,1,0,,279.0
+Value Deals,Chocolate Lovely pancake (12pcs) + Holla Nutella pancake (6pcs),1,0,,359.0
+Value Deals,2 Garlic Bread + 2 Holla Nutella (6pcs) + 1 Iced Tea,1,0,,569.0
+Value Deals,Chocolate Lovely Pancake(6)+Kitkat Pancake(6)+XOXOWaff+KitkatWaff,1,0,1 Chocolate Lovely Pancake(6pcs)+ 1 Kitkat Pancake(6pcs)+ XOXO Waffle + Kitkat Waffle,560.95
+Pancakes,Dark Chocolate Pancakes,1,0,Mini pancakes with Dark Chocolate,150.0
+Pancakes,Rainbow Pancakes,1,0,"Mini pancakes with dark chocolate, whipped cream, fruit pebbles, gems, rainbow sprinklers & ... read more",150.0
+Pancakes,KitKat Pancakes,1,0,Mini pancakes with chocolate and kitkat crumble,160.0
+Pancakes,Crunchy Bubblegum Oreo,1,0,"Mini pancakes with crunchy bubblegum, & oreo crushed",160.0
+Pancakes,Biscoff Pancakes,1,0,Mini pancakes with lotus biscoff & whipped cream,170.0
+Pancakes,Red Velvet Pancakes,1,0,"Mini pancakes with white chocolate, cream cheese & red velvet cookies.",150.0
+Pancakes,Maple Lady,1,0,Mini pancakes with maple syrup and unsalted butter.,120.0
+Pancakes,Choco Banoffee,1,0,"Mini pancakes with banana, banoffee caramel and dark chocolate",150.0
+Pancakes,Holla Nutella,1,0,Mini pancakes with nutella,160.0
+Pancakes,Red Riding Hood,1,0,"Mini pancakes with whipped cream, fresh strawberry, nutella & chip sprinklers",180.0
+Pancakes,Chocolate Lovely,1,0,"Mini pancakes with dark chocolate, white chocolate, nutella, brownie, caramel balls and chip ... read more",190.0
+Pancakes,Milky Mania Pancakes,1,0,Mini pancakes with milk chocolate,150.0
+Pancakes,Very Very Strawberry,1,0,Crepe with nutella & Fresh strawberry,260.0
+Pancakes,Biscoff Crepe,1,0,Crepe with lotus biscoff.,260.0
+Pancakes,Caramel Banoffee,1,0,"Crepe with bananas, banoffee caramel and caramel balls",210.0
+Pancakes,Indulge In Chocolate,1,0,"Crepe with brownie, dark chocolate and almond flakes",250.0
+Pancakes,Nutella Forever,1,0,Crepe with Nutella,230.0
+Waffles,Bubblegum Oreo Waffle,1,0,Waffwich with crunchy bubblegum & oreo crushed.,159.0
+Waffles,Maple Magic Waffle,1,0,Waffwich with maple syrup & unsalted butter,109.0
+Waffles,Milky Way Waffle,1,0,Waffwich with Milk Chocolate,169.0
+Waffles,Biscoff Waffle,1,0,Waffwich with lotus biscoff & whipped cream,169.0
+Waffles,Cheesy Blueberry Waffle,1,0,"Waffwich with cream cheese, cheesecake crumble and blueberry compote",159.0
+Waffles,Cheesy Strawberry Waffle,1,0,"Waffwich with cream cheese, cheesecake crumble and strawberry compote",159.0
+Waffles,Biscoff Cheese Waffle,1,0,"Waffwich with cheese cream, cheesecake crumble and Lotus biscoff spread",159.0
+Waffles,Oreo Thunder Waffle,1,0,Waffwich with Oreo cookies,129.0
+Waffles,Chocolate Heaven Waffle,1,0,Waffwich with dark chocolate,129.0
+Waffles,Caramelized Banana Waffle,1,0,Waffwich with Banana and Caramel,109.0
+Waffles,Naughty Nutella Waffle,1,0,Waffwich with Nutella,169.0
+Waffles,Creamy Strawberry Waffle,1,0,Waffwich with cream cheese and fresh strawberry,159.0
+Waffles,XoXo Chocolate Waffle,1,0,"Waffwich with Nutella, dark chocolate, white chocolate and chip sprinklers",169.0
+Waffles,KitKat Waffle,1,0,Waffwich with chocolate and KitKat crumble,169.0
+Waffles,Red Velvet Waffle,1,0,"Waffwich with White Chocolate, Cream Cheese & Red Velvet Cookies",159.0
+Waffles,Rainbow Waffle,1,0,"Waffwich with dark chocolate, fruit pebbles, gems, & rainbow sprinklers.",139.0
+Desserts & Pastries,Apple Cinnemon Pie,1,0,An apple pie is a fruit pie in which the principal filling ingredient is ... read more,160.0
+Desserts & Pastries,Hot Chocolate Planter,1,0,Chocolate sponge mixed with dark chocolate,110.0
+Desserts & Pastries,Nutella Pastry,1,0,Our delicious chocolate cake sponge with nutella covered crispy bits of ferrero rocher ... read more,240.0
+Drinks (Beverages),Crazy Nutella Shake,1,0,Rich nutella thick shake,210.0
+Drinks (Beverages),Magical Strawberry Shake,1,0,Creamy strawberry shake,210.0
+Drinks (Beverages),Chocoholic Shake,1,0,Chocolate thick shake with truffle,210.0
+Drinks (Beverages),Biscoff Shake,1,0,"Shake with lotus biscoff, vanilla ice cream.",210.0
+Drinks (Beverages),Kit kat Shake,1,0,Kit Kat shake with Kit Kat crumble,210.0
+Drinks (Beverages),Bubbleisious Oreo Shake,1,0,"Shake with crunchy bubblegum, vanilla ice cream, oreo crushed",210.0
+Drinks (Beverages),Red Velvet Shake,1,0,Vanilla with Cream Cheese & Red Velvet Cookies.,210.0
+Drinks (Beverages),Cold Coffee,1,0,"Energize your day with our Iced Coffee, a creamy blend of coffee and ... read more",150.0
+Drinks (Beverages),Maddy Melon Iced Tea,1,0,Watermelon iced tea,150.0
+Drinks (Beverages),Peachy Affection Iced Tea,1,0,Peach iced tea,150.0
+Drinks (Beverages),Merry Berry Iced Tea,1,0,Berry iced tea,150.0
+Drinks (Beverages),Green Apple Thunder Iced Tea,1,0,Apple iced tea,150.0
+99 Pancakes Store,Party Fondue Box,1,0,"The Fondue Party Box is a dessert assortment for birthdays, graduation celebrations, wedding ... read more",1999.0

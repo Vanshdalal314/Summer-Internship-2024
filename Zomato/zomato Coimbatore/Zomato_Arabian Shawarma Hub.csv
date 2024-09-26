@@ -1,0 +1,166 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Shawarma,Veg Shawarma,1,0,,110.0
+Shawarma,Tandoori Paneer Shawarma,1,0,,159.0
+Shawarma,ASH Special Chicken Shawarma,1,0,,160.0
+Shawarma,ASH Special Chicken Shawarma Plate,1,0,,200.0
+Shawarma,Classic Chicken Shawarma,1,0,,110.0
+Shawarma,Classic Chicken Shawarma Plate,1,0,,170.0
+Shawarma,Peri Peri Chicken Shawarma,1,0,,140.0
+Shawarma,Peri Peri Chicken Shawarma Plate,1,0,,190.0
+Shawarma,Tandoori Chicken Shawarma,1,0,,150.0
+Shawarma,Tandoori Chicken Shawarma Plate,1,0,,150.0
+Shawarma,Barbeque Chicken Shawarma,1,0,,160.0
+Shawarma,Barbeque Chicken Shawarma Plate,1,0,,200.0
+Shawarma,Ghost Chicken Shawarma,1,0,,160.0
+Shawarma,Ghost Chicken Shawarma Plate,1,0,,200.0
+Shawarma,Hot and Spicy Chicken Shawarma,1,0,,169.0
+Shawarma,Hot and Spicy Chicken Shawarma Plate,1,0,,200.0
+Shawarma,Chicken Lover Shawarma,1,0,,160.0
+Shawarma,Chicken Lover Shawarma Plate,1,0,,219.0
+Shawarma,Kurkure Chicken Shawarma,1,0,,159.0
+Shawarma,Kurkure Chicken Shawarma Plate,1,0,,209.0
+Shawarma,Chicken Cone Shawarma,1,0,,99.0
+Shawarma,Chicken Pani Puri Shawarma,1,0,,169.0
+Shawarma,Chicken Cup Shawarma,1,0,,159.0
+Shawarma,Chicken Lebanese Shawarma,1,0,,169.0
+Shawarma,Chicken Lebanese Shawarma Plate,1,0,,209.0
+Combos,Veg Sandwich with Coke Soft Beverage [300 ml],1,0,,169.0
+Combos,Chicken Fried Rice with Fried Chicken,1,0,Chicken Fried Rice+Fried Chicken+Coke Soft Beverage [300 ml],269.0
+Combos,Chicken Fried Rice with Mushroom Chilli,1,0,Chicken Fried Rice+Mushroom Chilli+Coke Soft Beverage [300 ml],269.0
+Combos,Chicken Burger with Fried Chicken,1,0,Chicken Burger+Fried Chicken+Coke Soft Beverage [300 ml],269.0
+Combos,Shawarma with Crispy Wings,1,0,Shawarma+Crispy Wings+Coke Soft Beverage [300 ml],269.0
+Combos,Cone Shawarma with Coke Soft Beverage [300 ml],1,0,,119.0
+Starters,Gobi Chilli,1,0,,140.0
+Starters,Mushroom Chilli,1,0,,160.0
+Starters,Paneer Chilli,1,0,,190.0
+Starters,Crispy Fried Chicken,1,0,,199.0
+Starters,Crispy Chicken Wings,1,0,,200.0
+Starters,Barbeque Chicken Honey Wings,1,0,,200.0
+Starters,Crispy Chicken Lollipop,1,0,,220.0
+Starters,Barbeque Chicken Lollipop,1,0,,230.0
+Starters,Chicken 65,1,0,,170.0
+Starters,Crab Lollipop,1,0,,219.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,170.0
+Fried Rice and Noodles,Mushroom Fried Rice,1,0,,160.0
+Fried Rice and Noodles,Schezwan Mushroom Fried Rice,1,0,,170.0
+Fried Rice and Noodles,Schezwan Paneer Fried Rice,1,0,,180.0
+Fried Rice and Noodles,Gobi Fried Rice,1,0,,160.0
+Fried Rice and Noodles,Schezwan Gobi Fried Rice,1,0,,170.0
+Fried Rice and Noodles,Egg Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Schezwan Egg Fried Rice,1,0,,160.0
+Fried Rice and Noodles,Chicken Fried Rice,1,0,,160.0
+Fried Rice and Noodles,Schezwan Chicken Fried Rice,1,0,,170.0
+Fried Rice and Noodles,Veg Noodles,1,0,,130.0
+Fried Rice and Noodles,Schezwan Veg Noodles,1,0,,150.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,170.0
+Fried Rice and Noodles,Mushroom Noodles,1,0,,160.0
+Fried Rice and Noodles,Schezwan Mushroom Noodles,1,0,,170.0
+Fried Rice and Noodles,Schezwan Paneer Noodles,1,0,,180.0
+Fried Rice and Noodles,Gobi Noodles,1,0,,160.0
+Fried Rice and Noodles,Schezwan Gobi Noodles,1,0,,170.0
+Fried Rice and Noodles,Egg Noodles,1,0,,150.0
+Fried Rice and Noodles,Schezwan Egg Noodles,1,0,,160.0
+Fried Rice and Noodles,Chicken Noodles,1,0,,160.0
+Fried Rice and Noodles,Schezwan Chicken Noodles,1,0,,170.0
+Burgers and Sandwiches,Classic Veg Burger,1,0,,150.0
+Burgers and Sandwiches,Classic Cheese Burger,1,0,,160.0
+Burgers and Sandwiches,Veg Makhani Burger,1,0,,170.0
+Burgers and Sandwiches,Cheese Burst Burger,1,0,,170.0
+Burgers and Sandwiches,Tandoori Paneer Burger,1,0,,190.0
+Burgers and Sandwiches,Barbeque Paneer Burger,1,0,,210.0
+Burgers and Sandwiches,Big Boy Burger,1,0,,210.0
+Burgers and Sandwiches,Classic Chicken Burger,1,0,,160.0
+Burgers and Sandwiches,Chicken Cheese Burger,1,0,,169.0
+Burgers and Sandwiches,Barbeque Chicken Burger,1,0,,159.0
+Burgers and Sandwiches,Mexican Chicken Burger,1,0,,170.0
+Burgers and Sandwiches,Crispy Chicken Burger,1,0,,199.0
+Burgers and Sandwiches,Chicken Double Decker Burger,1,0,,209.0
+Burgers and Sandwiches,Classic Veg Sandwich,1,0,,119.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,149.0
+Burgers and Sandwiches,Corn and Capsicum Sandwich,1,0,,160.0
+Burgers and Sandwiches,Mexican Veg Sandwich,1,0,,160.0
+Burgers and Sandwiches,Tandoori Paneer Sandwich,1,0,,170.0
+Burgers and Sandwiches,Veg Club Sandwich,1,0,,200.0
+Burgers and Sandwiches,Classic Chicken Sandwich,1,0,,160.0
+Burgers and Sandwiches,Chicken Shawarma Sandwich,1,0,,170.0
+Burgers and Sandwiches,Baebeque Chicken Sandwich,1,0,,170.0
+Burgers and Sandwiches,Tandoori Chicken Sandwich,1,0,,180.0
+Burgers and Sandwiches,Crispy Chicken Sandwich,1,0,,210.0
+Burgers and Sandwiches,Chicken Club Sandwich,1,0,,230.0
+Snacks,French Fries,1,0,,139.0
+Snacks,Masala Fries,1,0,,150.0
+Snacks,Peri Peri Fries,1,0,,159.0
+Snacks,Chilli Garlic Fries,1,0,,160.0
+Snacks,Chilli Cheese Fries,1,0,,160.0
+Snacks,Smiley,1,0,,150.0
+Snacks,Veg Fingers,1,0,,150.0
+Snacks,Chilli Garlic Pops,1,0,,150.0
+Snacks,Potato Wedges,1,0,,160.0
+Snacks,Veg Spring Roll,1,0,,169.0
+Snacks,Cheese Corn Nuggets [6 Pieces],1,0,,169.0
+Snacks,Chicken Cheese Fries,1,0,,180.0
+Snacks,Crispy Fried Chicken Strips,1,0,,210.0
+Snacks,Chicken Fingers,1,0,,179.0
+Snacks,Chicken Nuggets [6 Pieces],1,0,,179.0
+Snacks,Fish Fingers,1,0,,219.0
+Momos,Veg Momos [5 Pieces],1,0,,140.0
+Momos,Paneer Momos [5 Pieces],1,0,,160.0
+Momos,Fried Chicken Momos [5 Pieces],1,0,,150.0
+Maggi,Masala Maggi,1,0,,119.0
+Maggi,Cheese Maggi,1,0,,140.0
+Maggi,Corn Cheese Maggi,1,0,,150.0
+Maggi,Paneer Maggi,1,0,,160.0
+Maggi,Chilli Garlic Maggi,1,0,,140.0
+Maggi,Schezwan Veg Maggi,1,0,,150.0
+Maggi,Peri Peri Veg Maggi,1,0,,140.0
+Maggi,Egg Maggi,1,0,,130.0
+Maggi,Chicken Maggi,1,0,,140.0
+Maggi,Peri Peri Chicken Maggi,1,0,,150.0
+Maggi,Schezwan Chicken Maggi,1,0,,170.0
+Desserts,Vanilla Ice Cream,1,0,,130.0
+Desserts,Strawberry Ice Cream,1,0,,140.0
+Desserts,Chocolate Ice Cream,1,0,,140.0
+Desserts,Butterscotch Ice Cream,1,0,,140.0
+Desserts,Chocolate Brownie with Vanilla Ice Cream,1,0,[Veg preparation],139.0
+Desserts,Sizzling Brownie,1,0,,190.0
+Drinks (Beverages),Rose Milk,1,0,,90.0
+Drinks (Beverages),Watermelon Juice,1,0,,105.0
+Drinks (Beverages),Fresh Lime Juice,1,0,,100.0
+Drinks (Beverages),Mint Lemonade,1,0,,110.0
+Drinks (Beverages),Grapes Juice,1,0,,120.0
+Drinks (Beverages),Muskmelon Juice,1,0,,120.0
+Drinks (Beverages),Mosambi Juice,1,0,,120.0
+Drinks (Beverages),Orange Juice,1,0,,119.0
+Drinks (Beverages),Apple Juice,1,0,,130.0
+Drinks (Beverages),Pineapple Juice,1,0,,120.0
+Drinks (Beverages),Pomegranate Juice,1,0,,130.0
+Drinks (Beverages),Nannari Sarbath,1,0,,105.0
+Drinks (Beverages),Fresh Lime Soda,1,0,[Non Alcoholic],110.0
+Drinks (Beverages),Classic Virgin Mojito,1,0,[Non Alcoholic],120.0
+Drinks (Beverages),Blue Curacao Mocktail,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Strawberry Mocktail,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Green Apple Freeze Mocktail,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Spicy Mango Mojito,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Blackcurrant Mocktail,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Orange Mocktail,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Fruit Beer Mocktail,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Litchi Mojito,1,0,[Non Alcoholic],140.0
+Drinks (Beverages),Vanilla Milkshake,1,0,,140.0
+Drinks (Beverages),Cold Boost Milkshake,1,0,,140.0
+Drinks (Beverages),Cold Coffee MilkShake,1,0,,140.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,150.0
+Drinks (Beverages),Butterscotch MilkShake,1,0,,150.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,160.0
+Drinks (Beverages),Choco Chip Milkshake,1,0,,160.0
+Drinks (Beverages),Oreo Cookies Milkshake,1,0,,160.0
+Drinks (Beverages),Brownie Blast Milkshake,1,0,,160.0
+Drinks (Beverages),Bubble Gum Milkshake,1,0,,160.0
+Drinks (Beverages),KitKat Crunchy Milkshake,1,0,,169.0
+Drinks (Beverages),Blackcurrant Milkshake,1,0,,160.0
+Drinks (Beverages),Mango Milkshake,1,0,,160.0
+Drinks (Beverages),Pineapple Milkshake,1,0,,160.0
+Drinks (Beverages),Mixed Berry Milkshake,1,0,,160.0
+Drinks (Beverages),Kiwi Milkshake,1,0,,160.0
+Drinks (Beverages),Dry Fruits Milkshake,1,0,,169.0

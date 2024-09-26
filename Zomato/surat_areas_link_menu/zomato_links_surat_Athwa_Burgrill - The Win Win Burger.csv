@@ -1,0 +1,77 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+IPL Specials,Kolkata Peri-Peri Riders,0,0,Peri Peri Fried Chicken Burger + African Peri Peri Regular + Choice Of ... read more,469.0
+IPL Specials,Real Chicken Bangalore,0,0,Cheese Chicken Quarter Pounder Burger + African Peri Peri Regular + Choice Of ... read more,429.0
+IPL Specials,Delhi Cheesy,1,0,Ultimate Snacker Burger + Cheese Nads 5pcs + Choice Of Drinks,399.0
+IPL Specials,Punjab Rings,1,0,Cheesy Cheddar + Onion Rings + Choice Of Drink,399.0
+IPL Specials,Gujarat Treasures,1,0,Crispy fries dusted with peri-peri spice,349.0
+IPL Specials,Mumbai Indulgence,1,0,Peri- peri fries loaded with house special sauces and molten cheese,399.0
+IPL Specials,Chennai Super Wings,0,0,"Best of both worlds, peri-peri dusted cripy fries and 8 pieces chicken wings",599.0
+IPL Specials,Savoury Hyderabad,0,0,8 Pieces of peri-peri dusted boneless chicken wings,599.0
+IPL Specials,Lucknow Super Gains,0,0,10 Cripsy fried chicken wings coated with spicy peri-peri seasoning,599.0
+IPL Specials,The All Rounder,0,0,Grilled Chicken Burger + Chicken Quarter Pounder + 2 choice of Soft Drinks,589.0
+IPL Specials,Rajasthan Redhot,0,0,Tandoori Chicken Breast + African Peri Peri Fries + Choice Of Drink,449.0
+Burgrill Exclusive,Vegetarian Slider Box,1,0,A sharing box for our most loved vegetarian burgers (Choose any 3)1.Chilli cheese ... read more,439.0
+Burgrill Exclusive,Non-vegetarian Slider Box,0,0,(Contains Chicken and Mutton) A sharing box for our most loved non - ... read more,459.0
+Burgers,Southern State Burger,1,0,Brown bun - Potato patty - Onions - Chipotle mayo || Serving size ... read more,79.0
+Burgers,Spicy Veggie Burger,1,0,Brown bun - Vegetable patty - Onions - Spicy sauce || Serving size ... read more,99.0
+Burgers,Chilli Cheese Burger,1,0,Brown bun - Cheese burst patty - Chipotle mayo || Serving Size - ... read more,149.0
+Burgers,Veggie B,1,0,Large brown bun - Classic veggie patty - Lettuce - Mint sauce || ... read more,179.0
+Burgers,Ultimate Snacker Burger,1,0,Large brown bun - Spiced fries - Potato patty - Double cheese - ... read more,209.0
+Burgers,Cheesy Cheddar Paneer Burger,1,0,Large brown bun - Grilled spiced paneer - Cheese - lettuce - Spicy ... read more,229.0
+Burgers,Onion Ring Snacker Burger,1,0,Large brown bun - Onion rings - Potato patty - Double cheese - ... read more,229.0
+Burgers,Beet-Shroom Burger,1,0,Large brown bun - Beetroot patty - sautéed mushrooms - lettuce - gouda ... read more,239.0
+Burgers,Heavy Weight Burger,1,0,Large brown bun - Spinach corn patty - Cheese slice - Grilled paneer ... read more,259.0
+Burgers,Chicken Steak Burger,0,0,Brown bun - Chicken patty - Lettuce - Mayo || Serving Size - ... read more,99.0
+Burgers,Spiced Grilled Chicken Burger,0,0,Brown bun - Grilled chicken breast - Onions - OG Sauce || Serving ... read more,109.0
+Burgers,Chicken Cheeseburger,0,0,Brown bun - Minced chicken patty - Creamy sauce || Serving Size - ... read more,129.0
+Burgers,Grilled Chicken Burger,0,0,Large brown bun - Grilled chicken patty - Lettuce - OG sauce || ... read more,189.0
+Burgers,Cheese Chicken Quarter Pounder Burger,0,0,Large brown bun - Chicken quarter pounder - Sautéed onions - Lettuce - ... read more,249.0
+Burgers,BBQ Pulled Chicken Burger,0,0,Large brown bun - Pulled chicken cooked in BBQ sauce - Sliced onions ... read more,239.0
+Burgers,Tandoori Chicken Breast Burger,0,0,Large brown bun - Grilled tandoori chicken breast - Cheese - Sautéed onions ... read more,259.0
+Burgers,Cheese Mutton Quarter Pounder Burger,0,0,Large brown bun - Mutton quarter pounder - Sautéed onions - Lettuce - ... read more,289.0
+Burgers,Peri Peri Fried Chicken Burger,0,0,Large brown bun - Fried battered chicken - Jalapeños - Lettuce - Peri ... read more,309.0
+Burgers,Messy Burger,0,0,Large brown bun - Minced chicken patty filled with cheddar cheese - Sautéed ... read more,399.0
+Wraps,Falafel Wrap,1,0,Spinach tortilla - falafel balls - Lettuce - tomatoes - jalapeño - onions ... read more,219.0
+Wraps,Mexican Salsa Paneer Wrap,1,0,Spinach tortilla - Grilled paneer strips - Lettuce - tomatoes - jalapeño - ... read more,219.0
+Wraps,Veggie Wrap,1,0,Spinach tortilla - onion rings - veggie patty - Lettuce - tomatoes - ... read more,219.0
+Wraps,Grilled Chicken Wrap,0,0,Spinach tortilla - grilled smoked chicken - Lettuce - tomatoes - jalapeño - ... read more,249.0
+Wraps,Tandoori Chicken Wrap,0,0,Spinach tortilla - Tandoori whole chicken breast - Lettuce - tomatoes - jalapeño ... read more,249.0
+Wraps,Grilled Mutton Wrap,0,0,Spinach tortilla - Grilled minced mutton - Lettuce - tomatoes - jalapeño - ... read more,249.0
+Subs,Chargrilled Veggie Sub,1,0,Multigrain sub - Baby corn - broccoli - onions - bell peppers - ... read more,239.0
+Subs,Tandoori Paneer Tikka Sub,1,0,Multigrain sub - grilled paneer cubes - lettuce - onions - cheese - ... read more,239.0
+Subs,Falafel Sub,1,0,Multigrain sub - Falafel balls - lettuce - cheese - onions - spicy ... read more,239.0
+Subs,Smoked chicken Sub,0,0,Multigrain sub - smoked chicken - cheese - lettuce - onions - tomatoes ... read more,289.0
+Subs,Pulled BBQ Chicken Sub,0,0,Multigrain sub - pulled chicken in BBQ - cheese - lettuce - onions ... read more,289.0
+Healthy Bowls,Falafel Salad,1,0,Falafel balls - fresh cut veggies - Ranch || Serving Size - 158gms/181.39kcal,289.0
+Healthy Bowls,Exotic Veggie & Rice,1,0,Brown rice - grilled exotic veggies - Rich Indian gravy || Serving Size ... read more,289.0
+Healthy Bowls,Thai Paneer Salad,1,0,Marinated Paneer - Fresh cut veggies - peanuts - Thai sauce || Serving ... read more,339.0
+Healthy Bowls,Paneer Protein Bowl,1,0,Grilled Paneer - grilled exotic veggies - Low fat sauce || Serving size ... read more,339.0
+Healthy Bowls,Low Fat Grilled Chicken Salad,0,0,Low fat grilled chicken - fresh cut veggies - Honey mustard || Serving ... read more,349.0
+Healthy Bowls,Tandoori chicken - Protein Bowl,0,0,Grilled tandoori chicken breast - Grilled exotic veggies - low fat sauce || ... read more,399.0
+Healthy Bowls,Grilled Chicken & Rice,0,0,Brown rice - Grilled exotic veggies - grilled chicken breast - Rich Indian ... read more,399.0
+Healthy Bowls,Meaty Mighty Salad,0,0,Smoked chicken - Grilled chicken breast - fresh cut veggies - OG sauce ... read more,399.0
+Healthy Bowls,Thai Chicken Salad,0,0,Grilled chicken cubes - Fresh cut veggies - peanuts - Thai sauce || ... read more,359.0
+Fries,Salted Fries,1,0,Golden crinkle fries seasoned with salt || Serving Size Regular - 128gms/360.61kcal || ... read more,109.0
+Fries,Portuguese Fries,1,0,Portugese style mild spicy seasoning tossed over crinkle cut fries || Serving Size ... read more,119.0
+Fries,Smokey BBQ Fries,1,0,Serving Size Regular - 136gms/379.63kcal || Serving Size Large - 200gms/557.53kcal,119.0
+Fries,African Peri Peri Fries,1,0,"Crinkle cut fries tucked under a layer of Cheese, home-made sauces & special ... read more",149.0
+Fries,Cheesy Fries,1,0,Serving Size Regular - 200gms/594.36kcal || Serving Size Large - 281gms/840.94kcal,139.0
+Fries,Mushroom & Cheese,1,0,A scrumptious meal with mushrooms & cheese decked up on a layer of ... read more,139.0
+Fries,Chicken and Cheese Fries,0,0,Serving Size Regular - 226gms/553.77kcal || Serving Size Large - 339gms/812.94kcal,199.0
+Fries,Fully Loaded Chicken Fries,0,0,Serving Size Regular - 256gms/586.62kcal || Serving Size Large - 314gms/735.93kcal,199.0
+Sides,Onion Rings (5pcs),1,0,Onion rings - Chipotle mayo || Serving size - 104gms/345.28kcal,149.0
+Sides,Smokey Cheese Nads,1,0,Cheese burst nuggets - Smokey BBQ rub || Serving size - 102gms/367.53kcal,159.0
+Sides,Chicken Wings,0,0,Seasoning - Peri Peri / Smokey BBQ ... read more,219.0
+Sides,Boneless Chicken Wings,0,0,Seasoning - Peri Peri / Smokey BBQ ... read more,209.0
+Sides,Grilled Chicken Box,0,0,Grilled chicken breast - Boiled egg whites - Honey mustard || Serving Size ... read more,189.0
+Stills & Bubbles,Bombay Banta,1,0,"A nostalgia trip packed with flavor explosions! Sweet, sour, and oh-so-masaledar, this ... read more",84.76
+Stills & Bubbles,Lemon Green Ice Tea,1,0,Our Lemon Iced Tea is like a summer breeze in a bottle - ... read more,94.28
+Stills & Bubbles,Peach Black Ice Tea,1,0,Our Peach Iced Tea is like a summer breeze in a bottle - ... read more,94.28
+Stills & Bubbles,Pepsi (300 ml),1,0,,57.14
+Stills & Bubbles,Pepsi Black (300 ml),1,0,,57.14
+Stills & Bubbles,Cranberry Fruit Beer,1,0,"Our Cranberry Fruit Beer is a burst of refreshing goodness, Sip and let ... read more",94.29
+Shakes,Cold coffee,1,0,"Crafted from the finest coffee beans, each sip delivers a smooth experience. Savor ... read more",219.0
+Shakes,Belgian Chocolate Cold Coffee,1,0,Savor the bold fusion of freshly brewed cold coffee and rich Belgian chocolate. ... read more,219.0
+Shakes,Kit Kat Shake,1,0,"Indulge in our Kit Kat Shake, crafted with 100% real chocolate for an ... read more",219.0
+Shakes,Caramel Parle - G Shake,1,0,"Relive nostalgia with our Caramel Parle G Shake, blending the iconic Parle G ... read more",219.0
+Desserts,Brownie,1,0,Goey brownie - nuts,149.0

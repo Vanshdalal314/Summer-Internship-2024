@@ -1,0 +1,108 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Regular Pizzas,5 Cheese Pizza (Regular ),1,0,"Combination Of Mozzarella, Cheddar , Monterey Jack , Colby , Orange Cheddar . ... read more",289.0
+Regular Pizzas,7 Cheese Pizza (Regular ),1,0,"Combination Of Orange Cream Cheese, Mozzarella, Cheddar, Monterey Jack, Colby, Orange Cheddar & ... read more",299.0
+Regular Pizzas,Authentic Veggie Pizza (Regular ),1,0,"Green Capsicum, Crunchy Onion, Spiced Paneer In Jalapeno Sauce. Nutritional Information As ... read more",289.0
+Regular Pizzas,Cheesy Dynamite Pizza (Regular ),1,0,"Crunchy Onion, Fresh Tomato, Green Capsicum, Black Olives With Dynamite Sauce. Nutritional Information ... read more",289.0
+Regular Pizzas,Cheesy Jalapeno Pizza (Regular ),1,0,"Golden Corn, Sliced Jalapeno, Cheese Sauce & Cheese . Nutritional Information As Per ... read more",199.0
+Regular Pizzas,Double Cheese Margherita Pizza (Regular ),1,0,Loaded With Extra Mozzarella Cheese & Signature Pizza Sauce . Nutritional Information As ... read more,209.0
+Regular Pizzas,Farm Fresh Pizza (Regular ),1,0,"Fresh Tomato, Green Capsicum, Spiced Paneer, Spicy Red Paprika. Nutritional Information As ... read more",269.0
+Regular Pizzas,Italian Style Pizza (Regular ),1,0,"Green Capsicum, Crunchy Onion, Diced Mushroom, Golden Corn, Black Olive In Jalapeno Sauce ... read more",299.0
+Regular Pizzas,Kadhai Paneer Pizza (Regular ),1,0,"Fresh Tomato, Green Capsicum, Spiced Paneer With Makhani Sauce . Nutritional Information As ... read more",289.0
+Regular Pizzas,La Milano Paneer Pizza (Regular ),1,0,"Green Capsicum, Crunchy Onion, Spiced Paneer, Golden Corn, Black Olive In Cheese Sauce ... read more",299.0
+Regular Pizzas,Mac & Corn Pizza (Regular ),1,0,"Macaroni, Golden Corn, Jalapeno Sauce & Cheese . Nutritional Information As Per 100 ... read more",199.0
+Regular Pizzas,Mac Special Cheesy Pizza (Regular ),1,0,"Macaroni, Green Capsicum, Crunchy Onion, Golden Corn, Black Olive With Cheesy/hot Chilli Sauce ... read more",299.0
+Regular Pizzas,Mac Special Chilli Pizza (Regular ),1,0,"Macaroni, Green Capsicum, Crunchy Onion, Golden Corn, Black Olive With Cheesy/hot Chilli Sauce ... read more",299.0
+Regular Pizzas,Makhani Punch Pizza (Regular ),1,0,"Crunchy Onion, Green Capsicum, Makhani Sauce & Cheese. Nutritional Information As Per 100 ... read more",199.0
+Regular Pizzas,Margherita Pizza(Regular ),1,0,Mozzarella Cheese & Signature Pizza Sauce Nutritional Information As Per 100 ... read more,150.0
+Regular Pizzas,Max Veggie Pizza (Regular ),1,0,All Veg. Toppings With Extra Cheese . Nutritional Information As Per 100 Gms ... read more,309.0
+Regular Pizzas,Maxican Casa Pizza (Regular ),1,0,"Crunchy Onion, Golden Corn & Sliced Jalapeno . Nutritional Information As Per 100 ... read more",199.0
+Regular Pizzas,Milano Retreat Pizza (Regular ),1,0,"Fresh Tomato, Green Capsicum, Golden Corn, Sliced Jalapeno, Black Olive In Peri Peri ... read more",299.0
+Regular Pizzas,Pepper Blossom Pizza (Regular ),1,0,"Green Capsicum, Sliced Jalapeno & Spicy Red Paprika . Nutritional Information As Per ... read more",268.0
+Regular Pizzas,Peri Peri Special Pizza (Regular ),1,0,"Green Capsicum, Crunchy Onion, Spiced Paneer, Diced Mushroom, Black Olive In Peri Peri ... read more",299.0
+Regular Pizzas,Pesto Special Pizza (Regular ),1,0,"Crunchy Onion, Golden Corn, Sliced Jalapeno, Black Olive With Authentic Pesto Marinara. Nutritional ... read more",299.0
+Regular Pizzas,Phoenix Delight Pizza (Regular ),1,0,"Fresh Tomato, Green Capsicum, Spiced Paneer, Black Olive, Spicy Red Paprika In Jalapeno ... read more",299.0
+Regular Pizzas,Smoke Supreme Pizza (Regular ),1,0,"Crunchy Onion, Green Capsicum, Golden Corn, Spicy Red Paprika With Smoked Paprika Sauce ... read more",289.0
+Regular Pizzas,Spice Max Pizza (Regular ),1,0,"Green Capsicum, Crunchy Onion, Sliced Jalapeno, Black Olive & Spicy Red Paprika With ... read more",299.0
+Regular Pizzas,Spicy Blast Pizza (Regular ),1,0,"Green Capsicum, Diced Mushroom, Sliced Jalapeno, Black Olives In Hot Chilli Sauce. Nutritional ... read more",289.0
+Regular Pizzas,Veggie Delight Pizza (Regular ),1,0,"Fresh Tomato, Crunchy Onion & Spiced Paneer . Nutritional Information As Per 100 ... read more",209.0
+Regular Pizzas,Veggie Special Pizza (Regular ),1,0,"Fresh Tomato, Green Capsicum, Crunchy Onion, Diced Mushroom . Nutritional Information As Per ... read more",269.0
+Party Combo,Classic Pizza Large Special Combo,1,0,Large Pizza Veg & Garlic Bread Sticks,768.0
+Party Combo,Classic Pizza Medium Special Combo,1,0,"Medium Pizza Veg, Choco Lava Cake & Garlic Bread Sticks",757.0
+Party Combo,Exotic Pizza Large Special Combo,1,0,Large Pizza Veg & Garlic Bread Sticks,958.0
+Party Combo,Exotic Pizza Medium Special Combo,1,0,"Medium Pizza Veg, Choco Lava Cake & Garlic Bread Sticks",887.0
+Party Combo,Premium Pizza Large Special Combo,1,0,Large Pizza Veg & Garlic Bread Sticks,928.0
+Party Combo,Premium Pizza Medium Special Combo,1,0,"Medium Pizza Veg, Choco Lava Cake & Garlic Bread Sticks",857.0
+Party Combo,Special Pizza Large Special Combo,1,0,Large Pizza Veg & Garlic Bread Sticks,968.0
+Party Combo,Special Pizza Medium Special Combo,1,0,"Medium Pizza Veg, Choco Lava Cake & Garlic Bread Sticks",927.0
+Veg Pizza,Margherita Pizza,1,0,Mozzarella Cheese & Signature Pizza Sauce Nutritional Information As Per 100 ... read more,129.0
+Veg Pizza,Cheesy Jalapeno Pizza,1,0,"Golden Corn, Sliced Jalapeno, Cheese Sauce & Cheese . Nutritional Information As Per ... read more",178.0
+Veg Pizza,Mac & Corn Pizza,1,0,"Macaroni, Golden Corn, Jalapeno Sauce & Cheese . Nutritional Information As Per 100 ... read more",178.0
+Veg Pizza,Makhani Punch Pizza,1,0,"Crunchy Onion, Green Capsicum, Makhani Sauce & Cheese. Nutritional Information As Per 100 ... read more",178.0
+Veg Pizza,Peri Peri Onion Pizza,1,0,"Crunchy Onion, Peri-peri Sauce & Cheese . Nutritional Information As Per 100 ... read more",178.0
+Veg Pizza,Classic Veggie Pizza,1,0,"Fresh Tomato,green Capsicum & Crunchy Onion. Nutritional Information As Per 100 Gms (calories ... read more",199.0
+Veg Pizza,Double Cheese Margherita Pizza,1,0,Loaded With Extra Mozzarella Cheese & Signature Pizza Sauce . Nutritional Information As ... read more,199.0
+Veg Pizza,Mexican Casa Pizza,1,0,"Crunchy Onion, Golden Corn & Sliced Jalapeno . Nutritional Information As Per 100 ... read more",199.0
+Veg Pizza,Veggie Delight Pizza,1,0,"Fresh Tomato, Crunchy Onion & Spiced Paneer . Nutritional Information As Per 100 ... read more",199.0
+Veg Pizza,Farm Fresh Pizza,1,0,"Fresh Tomato, Green Capsicum, Spiced Paneer, Spicy Red Paprika. Nutritional Information As ... read more",219.0
+Veg Pizza,Pepper Blossom Pizza,1,0,"Green Capsicum, Sliced Jalapeno & Spicy Red Paprika . Nutritional Information As Per ... read more",219.0
+Veg Pizza,Veggie Special Pizza,1,0,"Fresh Tomato, Green Capsicum, Crunchy Onion, Diced Mushroom . Nutritional Information As Per ... read more",219.0
+Veg Pizza,5 Cheese Pizza,1,0,"Combination Of Mozzarella, Cheddar , Monterey Jack , Colby , Orange Cheddar . ... read more",269.0
+Veg Pizza,Authentic Veggie Pizza,1,0,"Green Capsicum, Crunchy Onion, Spiced Paneer In Jalapeno Sauce. Nutritional Information As ... read more",269.0
+Veg Pizza,Cheesy Dynamite Pizza,1,0,"Crunchy Onion, Fresh Tomato, Green Capsicum, Black Olives With Dynamite Sauce. Nutritional Information ... read more",269.0
+Veg Pizza,Kadhai Paneer Pizza,1,0,"Fresh Tomato, Green Capsicum, Spiced Paneer With Makhani Sauce . Nutritional Information As ... read more",269.0
+Veg Pizza,Smoke Supreme Pizza,1,0,"Crunchy Onion, Green Capsicum, Golden Corn, Spicy Red Paprika With Smoked Paprika Sauce ... read more",269.0
+Veg Pizza,Spicy Blast Pizza,1,0,"Green Capsicum, Diced Mushroom, Sliced Jalapeno, Black Olives In Hot Chilli Sauce. Nutritional ... read more",269.0
+Veg Pizza,5 Cheese Pesto-pizza,1,0,"Exotic Combination Of Mozzarella, Cheddar, Monterey Jack,colby,orange Cheddar With Authentic Pesto Marinara . ... read more",289.0
+Veg Pizza,7 Cheese Pizza,1,0,"Combination Of Orange Cream Cheese, Mozzarella, Cheddar, Monterey Jack, Colby, Orange Cheddar & ... read more",289.0
+Veg Pizza,Italian Style Pizza,1,0,"Green Capsicum, Crunchy Onion, Diced Mushroom, Golden Corn, Black Olive In Jalapeno Sauce ... read more",289.0
+Veg Pizza,La Milano Paneer Pizza,1,0,"Green Capsicum, Crunchy Onion, Spiced Paneer, Golden Corn, Black Olive In Cheese Sauce ... read more",289.0
+Veg Pizza,Mac Special Cheesy Sauce Pizza,1,0,"Macaroni, Green Capsicum, Crunchy Onion, Golden Corn, Black Olive With Cheesy/hot Chilli Sauce ... read more",289.0
+Veg Pizza,Mac Special Chilly Sauce Pizza,1,0,"Macaroni, Green Capsicum, Crunchy Onion, Golden Corn, Black Olive With Cheesy/hot Chilli Sauce ... read more",289.0
+Veg Pizza,Milano Retreat Pizza,1,0,"Fresh Tomato, Green Capsicum, Golden Corn, Sliced Jalapeno, Black Olive In Peri Peri ... read more",289.0
+Veg Pizza,Paneer Butter Masala Pizza,1,0,"Crunchy Onion, Green Capsicum, Spiced Paneer, Spicy Red Paprika In Makhani Sauce . ... read more",289.0
+Veg Pizza,Peri Peri Special Pizza,1,0,"Green Capsicum, Crunchy Onion, Spiced Paneer, Diced Mushroom, Black Olive In Peri Peri ... read more",289.0
+Veg Pizza,Pesto Special Pizza,1,0,"Crunchy Onion, Golden Corn, Sliced Jalapeno, Black Olive With Authentic Pesto Marinara. Nutritional ... read more",289.0
+Veg Pizza,Phoenix Delight Pizza,1,0,"Fresh Tomato, Green Capsicum, Spiced Paneer, Black Olive, Spicy Red Paprika In Jalapeno ... read more",289.0
+Veg Pizza,Spice Max Pizza,1,0,"Green Capsicum, Crunchy Onion, Sliced Jalapeno, Black Olive & Spicy Red Paprika With ... read more",289.0
+Veg Pizza,Max Veggie Pizza,1,0,All Veg. Toppings With Extra Cheese . Nutritional Information As Per 100 Gms ... read more,289.0
+Jain Special,5 Cheese Pizza ( Jain ),1,0,"Combination Of Mozzarella, Cheddar , Monterey Jack , Colby , Orange Cheddar . ... read more",269.0
+Jain Special,Cheesy Jalapeno Pizza ( Jain ),1,0,"Golden Corn, Sliced Jalapeno, Cheese Sauce & Cheese . Nutritional Information As Per ... read more",178.0
+Jain Special,Double Cheese Margherita Pizza ( Jain ),1,0,Loaded With Extra Mozzarella Cheese & Signature Pizza Sauce . Nutritional Information As ... read more,199.0
+Jain Special,Farm Fresh Pizza ( Jain ),1,0,"Fresh Tomato, Green Capsicum, Spiced Paneer, Spicy Red Paprika . Nutritional Information ... read more",219.0
+Jain Special,Margherita Pizza ( Jain ),1,0,Mozzarella Cheese & Signature Pizza Sauce. Nutritional Information As Per 100 Gms ... read more,129.0
+Classic Mania,Golden Corn & Tomato Pizza,1,0,Golden Corn & Tomato With Cheese ( 16.5 Cm Approx.) Nutritional Information ... read more,139.0
+Classic Mania,Jalapeno & Black Olive Pizza,1,0,Jalapeno And Black Olives With Cheese (16.5 Cm Approx.) Nutritional Information As Per ... read more,148.0
+Classic Mania,Onion & Capsicum Pizza,1,0,Onion & Capsicum With Cheese ( 16.5 Cm Approx.) Nutritional Information As Per ... read more,129.0
+Classic Mania,Paneer & Onion Pizza,1,0,Onion And Paneer With Cheese (16.5 Cm Approx.) Nutritional Information As Per 100 ... read more,139.0
+Classic Mania,Doubles Pack Of 4 Veg,1,0,"Onion & Capsicum Pizza, Onion & Tomato Pizza, Capsicum & Paneer Pizza, Onion ... read more",529.0
+Classic Mania,Singles Pack Of 4 Veg,1,0,"Onion Pizza, Tomato Pizza, Capsicum Pizza, Golden Corn Pizza ( Pack Of 4 ... read more",389.0
+Pasta,Authentic Pesto Pasta,1,0,"Green Capsicum, Crunchy Onion, Golden Corn, Black Olives With Authentic Pesto Pasta ... read more",178.0
+Pasta,Cheesy Chilly Mac,1,0,"Macaroni , Cheese Tossed In Exotic Chilly Sauce. Nutritional Information As Per 100 ... read more",178.0
+Pasta,Cheesy Mac,1,0,"Macaroni, Loaded With Cheese. Nutritional Information As Per 100 Gms (calories 189.5 Kcal ... read more",178.0
+Pasta,Italiano Pasta,1,0,"Green Capsicum, Crunchy Onion, Golden Corn, Black Olives With Mixture Of Alfredo ... read more",178.0
+Pasta,Mexicana Pasta,1,0,"Green Capsicum, Crunchy Onion, Golden Corn, Black Olives With Arrabbiata Red Sauce ... read more",178.0
+Pasta,Milano Pasta,1,0,"Green Capsicum, Crunchy Onion, Golden Corn, Black Olives With Alfredo White Sauce ... read more",178.0
+Garlic Bread,Cheesy Bread Sticks,1,0,"Freshly Baked Cheesy Bread Stick, Cheese & Served With Cheesy Sauce ( 160 ... read more",178.0
+Garlic Bread,Cheesy Garlic Bread Sticks,1,0,"Freshly Baked Garlic Bread Stick With Cheese, Fresh Basil & Garlic Chunks, Served ... read more",168.0
+Garlic Bread,Garlic Bread Sticks,1,0,"Freshly Baked Garlic Bread Stick Accompanied By Fresh Basil & Garlic Chunks , ... read more",139.0
+Garlic Bread,5 Cheese Stuffed Garlic Bread,1,0,"Stuffed With Exotic Combination Of Mozzarella, Cheddar, Monterey Jack, Colby & Orange Cheddar. ... read more",178.0
+Garlic Bread,Jalapeno Stuffed Garlic Bread,1,0,"Stuffed With Sliced Jalapeno, Golden Corn & Cheese. Nutritional Information As Per 100 ... read more",178.0
+Garlic Bread,Cheesy Garlic Bread,1,0,Loaded With Cheese . Nutritional Information As Per 100 Gms (calories 321.5 Kcal ... read more,119.0
+Garlic Bread,Paneer Tikka Garlic Bread,1,0,"Topped With Exotic Paneer Tikka, Spicy Red Paprika & Cheese. Nutritional Information As ... read more",139.0
+Garlic Bread,Supreme Garlic Bread,1,0,"Topped With Crunchy Onion, Golden Corn, Black Olive, Sliced Jalapeno & Cheese. Nutritional ... read more",129.0
+Garlic Bread,Cheese Dip,1,0,(44 Kcals),35.0
+Garlic Bread,Jalapeno Dip,1,0,(43 Kcals),35.0
+Garlic Bread,Peri Peri Dip,1,0,(45 Kcals),35.0
+Garlic Bread,Signature Garlic Butter Dip,1,0,,35.0
+Sides,Cheesy Corn Taco,1,0,Stuffed With Spiced Paneer & Golden Corn. Nutritional Information As Per 100 Gms ... read more,168.0
+Sides,Fiery Smoked Taco,1,0,"Stuffed With Crunchy Onion, Green Capsicum, Golden Corn In Smoked Paprika Sauce. Nutritional ... read more",168.0
+Sides,Paneer Tikka Taco,1,0,Stuffed With Spiced Paneer Tikka & Spicy Red Paprika. Nutritional Information As Per ... read more,168.0
+Sides,Indiana Quesadillas,1,0,"Stuffed With Crunchy Onion, Spiced Paneer, Black Olives, Golden Corn In Cheesy Dynamite ... read more",168.0
+Sides,Mexicana Quesadillas,1,0,"Stuffed With Crunchy Onion, Green Capsicum, Black Olive, Golden Corn In Exotic Sauce ... read more",168.0
+Premium Dessert,Choco Lava Cake,1,0,Sweet Temptation Of Choco Lava Cake. Nutritional Information As Per 100 Gms (calories ... read more,119.0
+Premium Dessert,Chocolate Pizza Cake,1,0,Spongy Pizza Cake Topped To Perfection With Swiss White Chocolate Button .nutritional Information ... read more,159.0
+Premium Dessert,Cinna Sticks,1,0,Scrumptious Twist To Sweet Delights Served With Melted Belgium Chocolate .nutritional Information As ... read more,139.0
+Fries & Wedges,Cheesy Fries,1,0,Cheese French Fries Are Crisp From The Outside As Well As Soft From ... read more,148.0
+Fries & Wedges,Peri Peri Fries,1,0,French Fries Are Crisp From The Outside As Well As Soft From Inside ... read more,148.0
+Fries & Wedges,Potato Wedges,1,0,Made From The Choicest Of Potatoes And Seasoned With Traditional Indian Spices.,145.0
+Fries & Wedges,Salted Fries,1,0,Simply Salted Fries,139.0

@@ -1,0 +1,51 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Kaju Katli,Premium Kajukatli,1,0,,273.0
+Kaju Katli,Kesar Kaju Katli,1,0,,292.0
+Dry Fruit Sweets,Anjeer Bar,1,0,,312.0
+Dry Fruit Sweets,Kaju Pan,1,0,,312.0
+Dry Fruit Sweets,Dry Fruits Coco Balls,1,0,,312.0
+Dry Fruit Sweets,Almond Biscoff,1,0,,156.0
+Dry Fruit Sweets,Rose Almond Laddu,1,0,,312.0
+Dry Fruit Sweets,Cadbury Balls,1,0,,312.0
+Dry Fruit Sweets,Kashmiri Ball,1,0,,312.0
+Mawa Sweets,Rose Gulkand Barfi,1,0,,195.0
+Mawa Sweets,Kesar Malai Peda,1,0,,75.0
+Mawa Sweets,Milk Cake,1,0,,195.0
+Mawa Sweets,White Malai Peda,1,0,,70.0
+Mawa Sweets,Orange Ripple Barfi,1,0,,195.0
+Mawa Sweets,Butterscotch Barfi,1,0,,195.0
+Ghee Sweets,Kesar Mysore Pak,1,0,,195.0
+Ghee Sweets,Motichoor Laddu,1,0,,130.0
+Ghee Sweets,Gulab Jamun,1,0,,100.0
+Ghee Sweets,Mohanthal,1,0,,195.0
+Bengali Sweets,Rasgulla,1,0,,52.0
+Winter Special,Akhrot Halwa,1,0,,228.0
+Winter Special,Salam Pak,1,0,,292.0
+Winter Special,Khajur Pak,1,0,,292.0
+Surti Ghari,Badam Pista Ghari,1,0,,284.0
+Surti Ghari,Special Kesar Badam Pista Ghari,1,0,,304.0
+Sweets,White Malai Peda,1,0,,70.0
+Sweets,Kesar Malai Peda,1,0,,75.0
+Sweets,Badam Pista Ghari,1,0,,284.0
+Sweets,Special Kesar Badam Pista Ghari,1,0,,304.0
+Sweets,Rose Gulkand Barfi,1,0,,195.0
+Sweets,Orange Ripple Barfi,1,0,,195.0
+Sweets,Butterscotch Barfi,1,0,,195.0
+Sweets,Milk Cake,1,0,,195.0
+Sweets,Gulab Jamun,1,0,,100.0
+Sweets,Rasgulla,1,0,,52.0
+Sweets,Akhrot Halwa,1,0,,228.0
+Sweets,Mohanthal,1,0,,195.0
+Sweets,Motichoor Laddu,1,0,,130.0
+Sweets,Kesar Mysore Pak,1,0,,195.0
+Sweets,Premium Kajukatli,1,0,,273.0
+Sweets,Kesar Kaju Katli,1,0,,292.0
+Sweets,Anjeer Bar,1,0,,312.0
+Sweets,Rose Almond Laddu,1,0,,312.0
+Sweets,Cadbury Balls,1,0,,312.0
+Sweets,Kaju Pan,1,0,,312.0
+Sweets,Almond Biscoff,1,0,,156.0
+Sweets,Kashmiri Ball,1,0,,312.0
+Sweets,Dry Fruits Coco Balls,1,0,,312.0
+Sweets,Khajur Delight,1,0,,228.0
+Sweets,Salam Pak,1,0,,292.0

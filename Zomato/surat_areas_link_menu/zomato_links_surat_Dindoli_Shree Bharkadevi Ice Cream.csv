@@ -1,0 +1,86 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Cream,Rose Sunday,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,90.0
+Ice Cream,Pineapple Sunday,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,100.0
+Ice Cream,Mango Sunday,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,110.0
+Ice Cream,Butterscotch Sunday,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,120.0
+Ice Cream,Special Sunday,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,140.0
+Ice Cream,Special Fresh Ghotala Sunday,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,140.0
+Ice Cream,Special SunDay Chocolate Ghotala,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,300.0
+Ice Cream,Special Double Sundae,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,180.0
+Ice Cream,Special Triple SunDay,1,0,Super sundae is a mixture of the most delectable live fog ice cream ... read more,260.0
+Ice Cream,Special Bharkadevi Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,70.0
+Ice Cream,Vanilla Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,50.0
+Ice Cream,Special American Dry Fruit Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,70.0
+Ice Cream,Rajbhog Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,70.0
+Ice Cream,Shahi Gulab Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,70.0
+Ice Cream,Mawa Malai Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,70.0
+Ice Cream,Chocolate Chips Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,70.0
+Ice Cream,Kaju Draksh Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,70.0
+Ice Cream,Butterscotch Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,70.0
+Ice Cream,Kaju Anjeer Ice Cream,1,0,Our Ice cream is made live in front of you. Using fresh Ingredients ... read more,70.0
+Cakes,Chocolate Chips Cake,1,0,,300.0
+Cakes,Black Forest Cake,1,0,,300.0
+Desserts,Rajbhog Shrikhand,1,0,"Shrikhand, Puri and Aloo Sabzi is a popular combo of lunch menu items ... read more",370.0
+Desserts,Kesar Pista Shrikhand,1,0,"Shrikhand, Puri and Aloo Sabzi is a popular combo of lunch menu items ... read more",370.0
+Desserts,American Dry Fruit Shrikhand,1,0,"Shrikhand, Puri and Aloo Sabzi is a popular combo of lunch menu items ... read more",370.0
+Desserts,Kaju Draksh Shrikhand,1,0,"Shrikhand, Puri and Aloo Sabzi is a popular combo of lunch menu items ... read more",370.0
+Desserts,Ilayachi Shrikhand,1,0,"Shrikhand, Puri and Aloo Sabzi is a popular combo of lunch menu items ... read more",370.0
+Desserts,Mango Matho,1,0,"Shrikhand, Puri and Aloo Sabzi is a popular combo of lunch menu items ... read more",370.0
+Desserts,Mawa Rabadi,1,0,,100.0
+Desserts,Kaju Rabadi,1,0,,160.0
+Desserts,Special Rose Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",110.0
+Desserts,Special Keasr Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",110.0
+Desserts,Special Butterscotch Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",110.0
+Desserts,Special Rajbhog Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",110.0
+Desserts,Special Strawberry Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",110.0
+Desserts,Special Mango Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",110.0
+Desserts,Special Chocolate Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",110.0
+Desserts,Special American Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",110.0
+Desserts,Special Pineppal Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",110.0
+Desserts,Mastani Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",120.0
+Desserts,Masti Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",120.0
+Desserts,Royal Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",120.0
+Desserts,Special Bharkadevi Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",220.0
+Desserts,Special Kulfi Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",140.0
+Desserts,Special Oreo Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",140.0
+Desserts,Blackcurrant Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",120.0
+Desserts,Kiwi Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",120.0
+Desserts,Litchi Falooda,1,0,"Traditional falooda's with full of sevai, sabza, cream, milk and topped with ice ... read more",100.0
+Desserts,Fruit Salad with Kaju,1,0,,100.0
+Desserts,Fruit Salad [1 kg],1,0,,200.0
+Desserts,Fruit Salad With Ice Cream,1,0,1,80.0
+Drinks (Beverages),Kaju Badam Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,100.0
+Drinks (Beverages),Kaju Anjeer Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,150.0
+Drinks (Beverages),Chocolate Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,120.0
+Drinks (Beverages),Butterscotch Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,120.0
+Drinks (Beverages),Strawberry Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,100.0
+Drinks (Beverages),Rajwadi Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,90.0
+Drinks (Beverages),Anjeer Thick Shake,1,0,Sip and eat our unique variety of thick shakes made out of all ... read more,110.0
+Drinks (Beverages),Oreo Thick Shake,1,0,,120.0
+Drinks (Beverages),Cold Coco,1,0,Try Surat's famous cold coco to experience real deliciousness. Cold coco is a ... read more,60.0
+Drinks (Beverages),Cold Coco with Ice Cream,1,0,Try Surat's famous cold coco to experience real deliciousness. Cold coco is a ... read more,80.0
+Drinks (Beverages),Cold Coco with Kaju,1,0,Try Surat's famous cold coco to experience real deliciousness. Cold coco is a ... read more,90.0
+Drinks (Beverages),Special Cold Coco,1,0,Try Surat's famous cold coco to experience real deliciousness. Cold coco is a ... read more,160.0
+Drinks (Beverages),Cold Coco [1 kg],1,0,Try Surat's famous cold coco to experience real deliciousness. Cold coco is a ... read more,220.0
+Drinks (Beverages),Badam Shake,1,0,"Milkshake is traditionally made by blending milk, ice cream, fruits and dry fruits ... read more",90.0
+Drinks (Beverages),Badam Shake with Ice Cream,1,0,"Milkshake is traditionally made by blending milk, ice cream, fruits and dry fruits ... read more",110.0
+Drinks (Beverages),Badam Shake with Kaju,1,0,"Milkshake is traditionally made by blending milk, ice cream, fruits and dry fruits ... read more",140.0
+Drinks (Beverages),Badam Shake with Kaju Ice Cream,1,0,"Milkshake is traditionally made by blending milk, ice cream, fruits and dry fruits ... read more",150.0
+Drinks (Beverages),Badam Shake [1 kg],1,0,"Milkshake is traditionally made by blending milk, ice cream, fruits and dry fruits ... read more",320.0
+Drinks (Beverages),Mango Shake,1,0,,80.0
+Drinks (Beverages),Kaju Mango Shake,1,0,,110.0
+Drinks (Beverages),Rose milk Shek,1,0,"Milkshake is traditionally made by blending milk, ice cream, fruits and dry fruits ... read more",80.0
+Drinks (Beverages),Mango milk Shek,1,0,"Milkshake is traditionally made by blending milk, ice cream, fruits and dry fruits ... read more",80.0
+Drinks (Beverages),Strawberry milk shake,1,0,"Milkshake is traditionally made by blending milk, ice cream, fruits and dry fruits ... read more",60.0
+Drinks (Beverages),Kaju Badam milk shake,1,0,,100.0
+Drinks (Beverages),Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",60.0
+Drinks (Beverages),Pineapple Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",80.0
+Drinks (Beverages),Mago Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",80.0
+Drinks (Beverages),Kesar Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",80.0
+Drinks (Beverages),Rose Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",80.0
+Drinks (Beverages),Chocolate Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",80.0
+Drinks (Beverages),Mawa Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",80.0
+Drinks (Beverages),Kaju Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",80.0
+Drinks (Beverages),Rose Dry Fruit Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",100.0
+Drinks (Beverages),Mango Dry Fruit Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",110.0
+Drinks (Beverages),Special Punjabi Dry Fruit Lassi,1,0,"Traditional lassi is a sweet savoury beverage blended with yogurt, milk and sugar. ... read more",120.0

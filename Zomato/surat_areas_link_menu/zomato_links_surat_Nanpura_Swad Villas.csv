@@ -1,0 +1,10 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Patties,1,0,,130.0
+Snacks,Samosa,1,0,,130.0
+Snacks,Papad Poha,1,0,,130.0
+Snacks,Mori Papdi,1,0,,130.0
+Snacks,Mora Gathiya,1,0,,130.0
+Snacks,Jada Gathiya,1,0,,130.0
+Snacks,Sev,1,0,,130.0
+Snacks,Solapuri Chevda,1,0,,130.0
+Snacks,Makkai Chevdo,1,0,,130.0

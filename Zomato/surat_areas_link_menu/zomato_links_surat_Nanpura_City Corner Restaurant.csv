@@ -1,0 +1,139 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Mushroom Soup,1,0,,150.0
+Soups,Cream Tomato Soup,1,0,,150.0
+Soups,Ministrone Soup,1,0,Not for jain.,150.0
+Soups,Veg Sweet Corn Soup,1,0,,150.0
+Soups,Hot & Sour Soup,1,0,,150.0
+Soups,Manchow Soup,1,0,,150.0
+Starters,Veg Hara Bhara Kabab,1,0,This item is not for jain people.,255.0
+Starters,Hariyali Tikka,1,0,,277.0
+Starters,Paneer Tikka Dry,1,0,,277.0
+Main Course,Veg Angara,1,0,,264.0
+Main Course,Veg Lazeez,1,0,,264.0
+Main Course,Veg Maharaja,1,0,,264.0
+Main Course,Veg Lababdar,1,0,,264.0
+Main Course,Veg Garlic Masala,1,0,,270.0
+Main Course,Special Cheese Butter Masala,1,0,,283.0
+Main Course,Special Kaju Masala,1,0,,283.0
+Main Course,Special Kaju Curry,1,0,,283.0
+Main Course,Special Sweet Kaju Khoya,1,0,,283.0
+Main Course,Special Veg City Corner,1,0,,250.0
+Main Course,Special Veg Tawa,1,0,,264.0
+Main Course,Special Veg Kadai,1,0,,264.0
+Main Course,Special Veg Kolhapuri,1,0,,264.0
+Main Course,Special Veg Balti,1,0,,264.0
+Main Course,Special Veg Handi,1,0,,264.0
+Main Course,Special Veg Hyderabadi,1,0,,264.0
+Main Course,Special Veg Toofani,1,0,,264.0
+Main Course,Veg Jaipuri,1,0,,250.0
+Main Course,Mushroom Masala,1,0,,280.0
+Main Course,Mushroom Matar Masala,1,0,,280.0
+Main Course,Veg Makhanwala,1,0,,250.0
+Main Course,Sweet Navratna Korma,1,0,,250.0
+Main Course,Sweet Dum Aloo Kashmiri,1,0,,250.0
+Main Course,Dum Aloo Punjabi,1,0,,250.0
+Main Course,Stuffed Shimla Mirchi Masala,1,0,,250.0
+Main Course,Stuffed Tomato,1,0,,250.0
+Main Course,Green Peas Masala,1,0,,250.0
+Main Course,Mix Vegetable,1,0,,190.0
+Main Course,Chana Masala,1,0,,230.0
+Main Course,Palak Matar,1,0,,230.0
+Main Course,Aloo Matar,1,0,,230.0
+Main Course,Aloo Sukhi Bhaji,1,0,,230.0
+Main Course,Dal Fry,1,0,,120.0
+Main Course,Dal Butter Fry,1,0,,157.0
+Main Course,Dal Tadka,1,0,,157.0
+Main Course,Paneer Angara,1,0,,280.0
+Main Course,Paneer Lazeez,1,0,,280.0
+Main Course,Paneer Maharaja,1,0,,280.0
+Main Course,Paneer Lababdar,1,0,,280.0
+Main Course,Paneer Chatpata,1,0,,280.0
+Main Course,Special Kaju Paneer,1,0,,280.0
+Main Course,Special Paneer Tawa Masala,1,0,,280.0
+Main Course,Special Paneer Handi,1,0,,280.0
+Main Course,Special Paneer Kadai,1,0,,280.0
+Main Course,Special Paneer Balti,1,0,,280.0
+Main Course,Special Paneer Cheese Masala,1,0,,280.0
+Main Course,Special Paneer Toofani,1,0,,280.0
+Main Course,Special Paneer Nizami,1,0,,280.0
+Main Course,Paneer Tikka Masala,1,0,,280.0
+Main Course,Paneer Butter Masala,1,0,,280.0
+Main Course,Paneer Mushroom Masala,1,0,,280.0
+Main Course,Paneer Hara Masala,1,0,,280.0
+Main Course,Sweet Shahi Paneer,1,0,,280.0
+Main Course,Paneer Bhurji,1,0,,280.0
+Main Course,Palak Paneer,1,0,,280.0
+Main Course,Paneer Matar,1,0,,235.0
+Main Course,Cheese Begum Bahar,1,0,,290.0
+Main Course,Kaju Kofta,1,0,All kofta dish is not for jain people.,265.0
+Main Course,Cheese Kofta,1,0,All kofta dish is not for jain people,265.0
+Main Course,Sweet Malai Kofta,1,0,All kofta dish is not for jain people.,265.0
+Main Course,Paneer Kofta,1,0,All kofta dish is not for jain people.,265.0
+Main Course,Nargisi Kofta,1,0,All kofta dish is not for jain people.,265.0
+Main Course,Veg Kofta,1,0,All kofta dish is not for jain people.,265.0
+Breads,Roti,1,0,,25.0
+Breads,Butter Roti,1,0,,31.0
+Breads,Paratha,1,0,,41.0
+Breads,Butter Paratha,1,0,,46.0
+Breads,Naan,1,0,,44.0
+Breads,Butter Naan,1,0,,50.0
+Breads,Stuffed Paratha,1,0,,88.0
+Breads,Stuffed Naan,1,0,,100.0
+Breads,Garlic Naan,1,0,,113.0
+Breads,Cheese Garlic Naan,1,0,,119.0
+Breads,Cheese Naan,1,0,,119.0
+Breads,Stuffed Kulcha,1,0,This item dish is not for jain people.,95.0
+Breads,Kulcha,1,0,,46.0
+Breads,Butter Kulcha,1,0,,50.0
+Breads,Cheese Chilli Naan,1,0,,120.0
+Rice and Biryani,Veg Pulao,1,0,,175.0
+Rice and Biryani,Peas Pulao,1,0,,175.0
+Rice and Biryani,Sweet Kashmiri Pulao,1,0,,175.0
+Rice and Biryani,Steamed Rice,1,0,,88.0
+Rice and Biryani,Plain Rice,1,0,,75.0
+Rice and Biryani,Special Masala Rice,1,0,,175.0
+Rice and Biryani,Jeera Rice,1,0,,150.0
+Rice and Biryani,Veg Biryani,1,0,,200.0
+Rice and Biryani,Veg Hyderabadi Biryani,1,0,,200.0
+Rice and Biryani,Handi Biryani,1,0,,200.0
+Chinese,Paneer Chilli,1,0,,265.0
+Chinese,Veg Lollipop,1,0,,245.0
+Chinese,Veg Manchurian,1,0,,245.0
+Chinese,Veg 65,1,0,,245.0
+Chinese,Chinese Bhel,1,0,,240.0
+Fried Rice and Noodles,Veg Sweet American Chopsuey,1,0,,240.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,240.0
+Fried Rice and Noodles,Sezwan Fried Noodles,1,0,,240.0
+Fried Rice and Noodles,Singapore Fried Noodles,1,0,,240.0
+Fried Rice and Noodles,Jeera Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Mushroom Fried Rice,1,0,,240.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,240.0
+Fried Rice and Noodles,Singapore Fried Rice,1,0,,240.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,240.0
+Sandwiches,Bread Butter Sandwich,1,0,,37.0
+Sandwiches,Veg Sandwich,1,0,,62.0
+Sandwiches,Cheese Sandwich,1,0,,110.0
+Sandwiches,Veg Cheese Sandwich,1,0,,110.0
+Sandwiches,Masala Sandwich,1,0,This dish is not for jain people,62.0
+Snacks,French Fries,1,0,,113.0
+Accompaniments,Sweet Pineapple Raita,1,0,,113.0
+Accompaniments,Veg Raita,1,0,,113.0
+Accompaniments,Boondi Raita,1,0,,113.0
+Accompaniments,Curd,1,0,,63.0
+Accompaniments,Sweet Dahi Boondi,1,0,,113.0
+Accompaniments,Green Salad,1,0,,75.0
+Accompaniments,Tomato Salad,1,0,,75.0
+Accompaniments,Cheese Masala Papad,1,0,,75.0
+Accompaniments,Masala Papad,1,0,,56.0
+Accompaniments,Fried Papad,1,0,,31.0
+Accompaniments,Roasted Papad,1,0,,31.0
+Accompaniments,Sev msala papad,1,0,,80.0
+Desserts and Beverages,Kaju Milkshake [300 ml],1,0,,118.0
+Desserts and Beverages,Kaju Chocolate Milkshake [300 ml],1,0,,118.0
+Desserts and Beverages,Ice Cream Milkshake [300 ml],1,0,,112.0
+Desserts and Beverages,Chocolate Milkshake [300 ml],1,0,,90.0
+Desserts and Beverages,Buttermilk,1,0,,37.0
+Desserts and Beverages,Lassi [200 ml],1,0,,75.0
+Desserts and Beverages,Salted Fresh Lemon Water [300 ml],1,0,,37.0
+Desserts and Beverages,Sweet Fresh Lemon Water [300 ml],1,0,,37.0
+Desserts and Beverages,Gulab Jamun [1 Piece],1,0,,20.0

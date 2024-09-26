@@ -1,0 +1,71 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burgers,Cheesy Saucy Lava Burger,1,0,It is cheese and yummy yummy burger.,158.0
+Burgers,Double Tikki Burger,1,0,It is tikki burger [2 pieces] with cream and burger sauce.,129.0
+Burgers,Mexican King Burger,1,0,"Crispy delight with delicious Mexican tangy taste topped jalapeno, corn and tasty sauce.",139.0
+Burgers,Classic Burger,1,0,"Yummy patty with soft bun, burger sauce and onion.",89.0
+Burgers,Peri Peri Burger,1,0,Peri peri masala with yummy patty and soft bun.,99.0
+Burgers,Peri Peri Burger with Cheese Slice,1,0,Enjoy the flavor of peri peri with special sauce and toppings in fresh ... read more,129.0
+Burgers,Mexican Burger [King] with Cheese Slice,1,0,"Crispy delight with delicious Mexican tangy taste topped jalapeno, corn and  tasty sauce.",158.0
+Burgers,Barbeque Spice Burger [King],1,0,"It is potato patty with soft bun, spicy barbeque sauce and green chilli ... read more",109.0
+Burgers,Barbeque Spice [King] Burger with Cheese Slice,1,0,,139.0
+Burgers,Double Tikki Burger with Cheese Slice,1,0,Tasty herb potato patty imprisoned with onion and tasty sauce between fresh soft ... read more,158.0
+Burgers,Classic Burger with Cheese Slice,1,0,Tasty herb potato patty imprisoned with onion and tasty sauce between fresh soft ... read more,119.0
+Combos,Nachos Cheese Combo,1,0,Cheese Nachos+Cheese Garlic Bread+Mint Mojito [200 ml],249.0
+Combos,Exotica Pizza Combo,1,0,Exotica Pizza [7 inches]+Cheese Garlic Bread + Surprise Mojito [200 ml] [Non Alcoholic],399.0
+Combos,White Sauce Pasta Combo,1,0,White Sauce Cheesy Pasta+Garlic Bread [3 Pieces]+Mint Mojito,349.0
+Combos,Classic Burger Combo [3 Pieces],1,0,It is a yummy patty with soft bun and onion.,229.0
+Combos,Classic Burger Combo,1,0,Classic Burger+French Fries+ Mojito [200 ml] [Non Alcoholic],229.0
+Combos,Fried Momos [6 Pieces] with French Fries and Mint Mojito,1,0,Fried Momos [6 Pieces]+French Fries+Mint Mojito [200 ml] [Non Alcoholic],289.0
+Combos,Cheese Gravy Momos [6 Pieces] and French Fries with Mint Mojito,1,0,Cheese Gravy Momos [6 Pieces]+French Fries+Mint Mojito [Non Alcoholic],349.0
+World of Fries,Salted French Fries [100 grams],1,0,Potato fries with salt.,99.0
+World of Fries,Cheesy Peri Peri Fries,1,0,,169.0
+World of Fries,Peri Peri Fries,1,0,Served with cheese dip.,149.0
+World of Fries,Cheese Salted French Fries,1,0,,152.0
+World of Fries,Cheese Masala Cheese French Fries,1,0,Cheese masala with cheese sauce.,199.0
+Garlic Breads,Cheese Garlic Bread,1,0,Garlic bread loaded with special garlic paste and loads of Mozzarella cheese.,129.0
+Garlic Breads,Supreme Garlic Bread,1,0,"Jalapeno, onion and sweet corn topping with garlic paste and cheese.",158.0
+Garlic Breads,Cheese Chilli Garlic Bread,1,0,"Garlic bread loaded with special chilli paste, garlic paste and lots of Mozzarella ... read more",149.0
+Maggi,Double Masala Cheese Maggi,1,0,Double maggi masala with cheese.,139.0
+Maggi,Double Masala Maggi,1,0,,99.0
+Maggi,Hot Passion Spicy Maggi,1,0,Hot passion spicy maggi.,139.0
+Maggi,Veg Masala Cheese Maggi,1,0,Veggies add on meggi.,158.0
+Maggi,Maxican Corn Maggi,1,0,"Golden corn, simla, veggies and sauce.",129.0
+Maggi,Maxican Corn Cheese Maggi,1,0,"Golden corn, simla, veggies and sauce.",158.0
+Maggi,Veg Masala Maggi,1,0,Veggies add on maggi.,139.0
+Maggi,Hot Passion Spicy Cheese Maggi,1,0,Green chilli and spicy sauce add on maggi.,148.0
+Pizza,Veg Exotica Pizza [7 Inches],1,0,"Olives, jalapeno, capsicum, red paprika, onion with sauce cheese.",199.0
+Pizza,Hot to Hell Cheese Pizza [7 inches],1,0,"Spicy itna, nani ki yaad dila de jitna.",169.0
+Pizza,Cheesy Momo Mania Pizza [7 Inches],1,0,Best ever fusion pizza with special tibetan sauce topped momos.,249.0
+Pizza,Ultimate Paneer Peri Peri Pizza [7 Inches],1,0,"Paneer, capsicum, red paprika with special sauce, spices and cheese.",239.0
+Pizza,Paneer Makhani Burst Pizza [7 Inches],1,0,"The burst of makhani tossed with paneer, capsicum, onion, corn & cheese.",249.0
+Pizza,Paneer Tandoori Pizza [7 inches],1,0,,249.0
+Pizza,Margherita Pizza [7 inches],1,0,Neapolitan pizza with special sauce and cheese.,129.0
+Pizza,Cheese Golden Corn Pizza [7 Inches],1,0,American sweet corn with cheese.,158.0
+Pizza,Jalapeno and Onion Cheese Pizza [7 inches],1,0,"Jalapeno, onion, cheese pizza and spice sauce.",209.0
+Sandwiches,Cheesy Grilled Sandwich [3 Layer],1,0,,299.0
+Sandwiches,Veg Cheese Grilled Sandwich [3 Layer],1,0,,209.0
+Sandwiches,Paneer Supreme Sandwich [3 Layer],1,0,,349.0
+Sandwiches,Cheese Melting Sandwich [3 Layer],1,0,Mozzarella covered and baked sandwich with blend of special sauces and vegetable stuffed ... read more,299.0
+Nachos,Zorko's Special Cheesy Nachos,1,0,,149.0
+Momos,Classic Veg Fried Momos [6 Pieces],1,0,,129.0
+Momos,Paneer Cheese Fried Momos [6 Pieces],1,0,,249.0
+Momos,Jain Paneer Cheese Fried Momos [6 Pieces],1,0,,249.0
+Momos,Paneer Cheese Gravy Momos [6 Pieces],1,0,,299.0
+Momos,Zorko's Cheesy Gravy Veg Momos [6 Pieces],1,0,,279.0
+Pasta,Arrabiata Red Sauce Pasta,1,0,Penne pasta tossed in spicy fusion red sauce along with golden corn and ... read more,149.0
+Pasta,White Sauce Pasta,1,0,Sweet and cheese pasta.,158.0
+Pasta,Cheese Arrabiata Red Sauce Pasta,1,0,Pasta in barbeque sauce and red sauce also cheese. Jain not available.,249.0
+Pasta,Maggi Masala Fusion Pasta,1,0,Penne pasta tossed in cheesy & creamy fusion pink sauce along with juicy ... read more,209.0
+Pasta,Cheese Pink Sauce Pasta,1,0,Penne pasta tossed in cheese and creamy fusion pink sauce along with golden ... read more,249.0
+Pasta,Cheese Maggi Masala Fusion Pasta,1,0,Penne pasta tossed in cheesy and creamy fusion maggi masala along with golden ... read more,249.0
+Pasta,Baked Cheese Maggi Masala Fusion Pasta,1,0,Penne pasta tossed in cheesy and creamy fusion maggi masala along with golden ... read more,299.0
+Pasta,Baked Cheese Peri Peri Pasta,1,0,Penne pasta tossed in cheese and creamy fusion peri peri sauce along with ... read more,299.0
+Pasta,Baked Cheese Pink Sauce Pasta,1,0,Penne pasta tossed in cheese and creamy fusion pink sauce along with golden ... read more,299.0
+Pasta,Baked Cheese Alfredo Pasta in White Sauce,1,0,Penne pasta tossed in cheese and fresh creamy white sauce along with golden ... read more,299.0
+Pasta,Cheese Alfredo Pasta in White Sauce,1,0,Penne pasta tossed in cheese and fresh creamy white sauce along with golden ... read more,249.0
+Pasta,Baked Cheese Arrabiata Red Sauce Pasta,1,0,Pasta in barbeque sauce and red sauce also cheese.,299.0
+Mojito,Mint Mojito,1,0,[Non Alcoholic],65.0
+Mojito,Surprise Mojito,1,0,[Non Alcoholic],65.0
+Mojito,Litchi Mojito,1,0,,65.0
+Mojito,Orange Mojito,1,0,,65.0
+Mojito,Pineapple Mojito,1,0,,65.0

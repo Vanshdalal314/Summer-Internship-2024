@@ -1,0 +1,132 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Coffee,Americano Cold,1,0,,140.0
+Coffee,Americano Hot,1,0,,140.0
+Coffee,Cappuccino,1,0,,175.0
+Coffee,Cold Brew,1,0,,250.0
+Coffee,Cold Brew With Tonic,1,0,,300.0
+New @Healthy Eatzzz,Avocado Sushi,1,0,"Avocado,cucumber, and Jalepinos",495.0
+New @Healthy Eatzzz,Broccoli Kulcha,1,0,Whole wheat kulcha stuffed with broccoli and served with chutney and raita,250.0
+New @Healthy Eatzzz,Broccoli Tikka,1,0,Broccoli Marinated in indian spices and cooked in tandoor,450.0
+New @Healthy Eatzzz,Crunchy Edamame & Quinoa Roll,1,0,,495.0
+New @Healthy Eatzzz,Mushroom Kulcha,1,0,Whole wheat kulcha stuffed with mushroom and served with raita and chutney,250.0
+New @Healthy Eatzzz,Paneer Kulcha,1,0,Whole wheat kulcha stuffed with paneer and served with chutney and raita,250.0
+New @Healthy Eatzzz,Paneer Tikka,1,0,Paneer marinated in indian spice and cooked in tandoor,450.0
+New @Healthy Eatzzz,Pesto Paneer Tikka,1,0,Paneer Marinated in Pesto and cooked in tandoor,450.0
+New @Healthy Eatzzz,Truffle Mushroom,1,0,Assorted Mushroom. truffle mayo,495.0
+Healthy Pasta,Aglio E Olio,1,0,"Spaghetti saluted with garlic, olive oil, cherry tomatoes,olives",295.0
+Healthy Pasta,Arrabiata,1,0,"Pasta Tossed in spicy tomato sauce with corn, bell peppers, mushroom, olives,",350.0
+Healthy Pasta,Broccoli Pesto,1,0,"Pasta tossed with rich and creamy broccoli Pesto sauce with broccoli,mushroom,corn,bell peppers, olives",350.0
+Healthy Pasta,Pesto Pasta,1,0,"Pasta tossed in creamy pesto sauce with mushroom,cherry tomatoes,olives, bell peppers",350.0
+Healthy Starters,Baked Sweet Potatoes,1,0,Baked sweet potato fries served with chipotle dip and sriracha mayo dip,325.0
+Healthy Starters,Baked Tacos,1,0,We bake our corn tacos to give you perfect crisp Kung Pao ... read more,215.0
+Healthy Starters,Herbed Pita Bread With Humus,1,0,Whole wheat pitta bread grilled with herbs and served with humus,200.0
+Healthy Starters,Loaded Ragi Nachos,1,0,"Ragi chips,lettuce,corn, tomatoes,capsicum,beans,olives,jalepinos,low fat cheese sauce, Mexican sauce,salsa,sour cream",235.0
+Healthy Starters,Pesto Mushroom,1,0,"Mushroom, Bell peppers, onion sautéed in pesto sauce",275.0
+Healthy Starters,Ultimate Bake Ragi Nachos,1,0,"Baked Ragi Nachos,Capsicum,corn,olives,Jalapinos ,lettuce,Pica de gello,Sour cream, Mexican Bake beans,Avacado Sauce,Cheese Sauce,",350.0
+Breakfast,Avacado And Cream Cheese Cibbata Sandwich,1,0,"Avocado, cream cheese, basil leaves, roasted cherry tomatoes served in a whole wheat ... read more",275.0
+Breakfast,Avacado Veg Croissants,1,0,"Avocado,Lettuce,tomatoes,capsicum,olives,jalapenos,Cheese Jalapeno Sauce,Chipotle Sauce,Served in croissants, with house salad",275.0
+Breakfast,Cibbata Salad Sandwich,1,0,"Pesto tomatoes mozzarella balsamic grilled onion, grilled mushroom, spinach leaves served in a ... read more",250.0
+Breakfast,Coco Oats With Fruits And Nuts,1,0,"Rolled oats,Coco powder,honey,Soya milk,mix berries ,mix fruits,almonds",275.0
+Breakfast,French Toast(Eggless),1,0,"Custard dipped Sourdough milk bread served with fruits, honey and almonds",250.0
+Breakfast,Hot Avocado Toast,1,0,Toast with whipped cottage cheese with avocado and hot sauce served with house ... read more,275.0
+Breakfast,Hummus Toast,1,0,Toast with house made hummus and sautéed mushroom served with house salad,235.0
+Breakfast,Pesto Cream Cheese Bagel,1,0,Cream cheese and pesto in a multi seed bagel served with house salad.,250.0
+Breakfast,Tofu Akuri,1,0,"[Veg preparation] Silken tofu perfectly cooked in akuri style, with ginger, garlic and ... read more",225.0
+Breakfast,Twisted Cream Cheese Bagel,1,0,"| Serve 1 | Cilantro cream cheese, avocado in a multi seed Wheat ... read more",275.0
+Breakfast,Veg Cream Cheese Croissants,1,0,"Cream cheese,basil,cherry tomatoes,mushroom,balsamic onions,served in croissants with house salad",250.0
+Buddha Bowl [Food For Your Soul],Greek Buddha Bowl,1,0,"Rasin quinoa,lettuce,cherry tomatoes,cucumber,herb potatoes,olives,purple cabbage,sauted onions,bell peppers,feta cheese, pomegranate,greek dressing served with warm ... read more",395.0
+Buddha Bowl [Food For Your Soul],Indian Buddha Bowl,1,0,"Brown Rice, Spinach, onion, corn, tomatoes,capsicum, cholle, grilled paneer,Raita,Makhani Gravy",375.0
+Buddha Bowl [Food For Your Soul],Italian Buddha Bowl,1,0,"Whole wheat spaghetti Aglio e olio, broccoli, cherry tomatoes, mushroom, corn, olives, bell ... read more",375.0
+Buddha Bowl [Food For Your Soul],Kimchi Ramen Bowl,1,0,"Spinach Noodles (gluten Free), Bok choy, edamame, carrot,cucumber, shitake mushrooms,purple cabbage, kimchi broth",375.0
+Buddha Bowl [Food For Your Soul],Korean Bibimbap Bowl,1,0,"Grilled paneer, pickled cucumber& zucchini ,garlic Bokchoy,carrot,kimchi,mushroom,bellpepers,sesame seeds,brown rice served with Korean ... read more",375.0
+Buddha Bowl [Food For Your Soul],Laksha Bowl,1,0,"A coconut spicy broth served with rice noodles , French beans, carrot, broccoli, ... read more",375.0
+Buddha Bowl [Food For Your Soul],Mediterranean Buddha Bowl,1,0,"Brown rice,zattar spiced Grilled aubergine, zucchini , mushroom, bell pepper , grilled pesto ... read more",365.0
+Buddha Bowl [Food For Your Soul],Mexican Santa Fe,1,0,"Adobo sauce brown rice served with chilli smoked paneer, baked beans. Sour cream, ... read more",365.0
+Buddha Bowl [Food For Your Soul],Shawarma Buddha Bowl,1,0,"| Serves 1-2 | Medium spicy | Brown rice,lettuce salad,falafel balls,cherry tomatoes,baba ghanoush,humus,house ... read more",365.0
+Buddha Bowl [Food For Your Soul],Sunshine Buddha Bowl,1,0,"Brown rice Lettuce, basil, Kidney Beans, Broccoli, Pico De Gallo, potato,Onion, olives, Paneer, ... read more",375.0
+Healthy Pizza,Athens Spinach Pizza [10 Inches],1,0,"Garlicky spinach, mushrooms, corn, feta cheese, pomodoro sauce, mozzarella cheese, ragi thin crust ... read more",375.0
+Healthy Pizza,Exotica,1,0,"Paneer,Mushroom, golden corn, capsicums, zucchini, broccoli, and jalapeno, olives",395.0
+Healthy Pizza,Garden Veg Pizza [10 Inches],1,0,"Tomatoes, caramelized onions, capsicum, mushroom, corn, olives, pomodoro sauce, mozzarella cheese, ragi thin ... read more",375.0
+Healthy Pizza,Grande,1,0,"Mushroom, golden corn, capsicums, zucchini, broccoli ,sun dried tomatoes",375.0
+Healthy Pizza,Hawaiian,1,0,"Pineapple, jalapeno, corn, red paprika",375.0
+Healthy Pizza,Healthy Overload Pizza [10 Inches],1,0,"Broccoli, zucchini, tomatoes, tricolor capsicum, corn, caramelized onions, garlicky spinach, mushrooms, olives, jalapenos, ... read more",450.0
+Healthy Pizza,Makhani Paneer Pizza [10 Inches],1,0,"Paneer, corn, capsicum, caramelized onions, tomatoes, broccoli, makhani sauce, mozzarella cheese, ragi thin ... read more",395.0
+Healthy Pizza,Margherita Pizza [10 Inches],1,0,"Classic pomodoro sauce, basil, mozzarella cheese, ragi thin crust base.",325.0
+Healthy Pizza,Pesto,1,0,"Pesto sauce, sundried tomatoes, mushroom, olives",395.0
+Healthy Pizza,Spicy Paneer,1,0,"Panner, chillies, tomatoes, bell peppers, corn,onion,jalepinos",375.0
+Healthy Pizza,Tandoori Paneer Pizza [10 Inches],1,0,"Paneer, corn, caramelized onions, capsicum, tomatoes, coriander, tandoori sauce, pomodoro sauce, mozzarella cheese, ... read more",425.0
+Healthy Salad,Broccoli Apple Salad,1,0,"Lettuce, apple, red cabbage, broccoli, corn, walnuts, olives, feta cheese. Dressing: Lemon Vinaigrette",250.0
+Healthy Salad,Glow Bowl Salad,1,0,"Spinach,Quinoa,tomatoes,beetroot,carrot,corn,olives,chickpea,blueberry,feta,mix seeds Dressing:Honey Mustard",250.0
+Healthy Salad,Green Goodness,1,0,"Lettuce, spinach, broccoli, edamame, avocado, French beans, celery, mix seeds, Dressing :Green goodness ... read more",250.0
+Healthy Salad,Healthy Punch Salad,1,0,"Lettuce,Paneer,Broccoli,zucchini,corn,mushroom,tomatoes,capsicum,olives,jalapenos,chickpea Dressing:Sweet Vinaigrette",250.0
+Healthy Salad,Herb Potato And Chick Pea Salad,1,0,"Lettuce, Red Cabbage, Bell Pepper, Corn, Herb Potato, Cucumber, Onion, Chickpea. Dressing: Harisaa",250.0
+Healthy Salad,Indian Rumble Salad,1,0,"Spinach,Fresh Paneer,Celery, Tomatoes,Corn,Herbed Potatoes,Olives,Jalapeno,Tortilla Strips Dressing: Mint Mayonnaise, Tandoori Mayonnaise",250.0
+Healthy Salad,Korean Salad,1,0,"Lettuce, purple cabbage, paneer, cucumber, mushroom, corn, bell pepper, peanuts, onion,, dressing: ... read more",250.0
+Healthy Salad,Paneer Fiesta Salad,1,0,"Paneer, lettuce, cucumber, bell pepper, onion, celery, corn. Dressing chipotle.",250.0
+Healthy Salad,Pesto Paneer Salad,1,0,"Paneer, mix color bell peppers, lettuce, zucchini, corn, cherry tomatoes, olives dressing pesto ... read more",250.0
+Healthy Salad,Sauteed Vegetables,1,0,"Sautéed panner, broccoli, babycorn, frenchbeans, mushroom,, bell peppers, carrot ,onion, in Mexican spices",275.0
+Healthy Salad,Spring Roll Salad,1,0,"Lettuce, red cabbage, bell pepper, carrot, cucumber, mushroom, basil, rice noodle, peanuts, onion ... read more",250.0
+Healthy Salad,The Hippie,1,0,"Lettuce, spinach, Grilled Paneer, Quinoa, Corn, Roasted Red Peppers, Roasted Mushrooms, Pomegranate, Jalapeno, ... read more",250.0
+Healthy Salad,Unicorn Salad,1,0,"Lettuce, Spinach, quinoa, cucumber, capsicum, apple, onion, purple cabbage, almonds, mint , pomegranate ... read more",250.0
+Healthy Meals,Falafel Thali,1,0,"Humus+falafel+lettuce house salad,harissa+sour cream+siracha+grilled pitta",275.0
+Healthy Meals,Healthy Thali,1,0,Paneer Sabzi+2 Multigrain Palak Rotis+Salad+Buttermilk [200 ml],250.0
+Healthy Meals,Protein Thali,1,0,"Mix sprout salad, Pesto marinated grill Paneer,Fruits,Protein smothie(200ml)",350.0
+Keto Menu,Grilled Broccoli With Pomodoro Sauce,1,0,Grilled Broccoli served with Pomodoro Sauce,325.0
+Keto Menu,Keto Mexican Burrito Bowl,1,0,"Cauliflower rice ,tomatoes,capsicum,mushroom,zucchini,lettuce,sour cream,salsa,chipotle mayonnaise ,cheese sauce,cheddar cheese pro-13.8gm fats-20.6gm carb-10.1gm",315.0
+Keto Menu,Keto Paneer Makhani Bowl,1,0,"Cauliflower rice,grilled paneer,broccoli,tomatoes,bell peepers,makhani gravy ,cheese sauce ,lettuce pro-19.8gm fat-20.1gm carb-12.8gm",315.0
+Keto Menu,Keto Paneer Wrap,1,0,"Almond flax seed wrap(by keto pantry),paneer,capsicum,tomatoes,olives,broccoli,chipotle mayo,cheddar cheese pro-17.9gm fat-28.9gm carb-8.7gm",235.0
+Keto Menu,Rainbow Salad,1,0,"Lettuce,purple cabbage,olives,bell peppers,zucchini,broccoli dressing : chili mayonnaise pro-15.7gm fat-29.4gm carb-8.5gm",225.0
+Keto Menu,Spinach Salad,1,0,"Spinach,paneer,mushroom,olives,tomatoes,capsicum,jalapeno dressing: tandoori mayo & mint mayo pro-15.2gm fat-22.5gm carb-8.8gm",225.0
+Keto Menu,Zucchini Arrabiata,1,0,"| Serves 1-2 | Medium Spicy | Zucchini noodles tossed in butter,homemade tomatoes ... read more",315.0
+Healthy Gourmet Burgers,Mediterranean Burger,1,0,"Chickpea patty, grilled bell pepper, cucumber, olives, hummus, harissa sauce",250.0
+Healthy Gourmet Burgers,Paneer Makhani Burger,1,0,"Grilled Panner,onions, tomatoes,makhani gravy,lettuce,low fat cheese sauce,whole wheat charcoal buns, served with little ... read more",250.0
+Healthy Gourmet Burgers,Peri Peri Burger,1,0,"Peri Peri mayo, grill paneer, tomato onion, cheese jalapeno sauce. Lettuce, jalapeno",250.0
+Healthy Gourmet Burgers,Tex Mex Burger,1,0,"Grilled beans, zucchini & corn patty, lettuce, jalapenos, tomato slices, whole wheat charcoal ... read more",250.0
+Healthy Bowl,Chole Rice Bowl,1,0,"| Serves 1-2 | Chole Buritto bowl Cheakpeas,purple cabbage,onion tomato,bell pepper, tandoori sauce,cheese ... read more",265.0
+Healthy Bowl,Falafel Bowl,1,0,"[Calories: 644] Falafel Bullets,lettuce,corn,cucumber,bell pepper,beans,parsley,olives,lime juice,humus,sour cream,chili garlic sauce,served with whole wheat pita ... read more",250.0
+Healthy Bowl,Mexican Burrito Bowl,1,0,"| Serves 1-2 | Spicy | Brown rice , bell peppers, kidney beans, ... read more",275.0
+Healthy Bowl,Mexican Hot Pot,1,0,"Mexican rice served with Mexican curry, olives, jalapenos, salsa, sour cream, ragi nachos, ... read more",295.0
+Healthy Bowl,Paneer Makhani Bowl,1,0,"| Serves 1-2 | Medium spicy | Brown rice,corn,tomatoes,onion,broccoli,paneer,makhani gravy,lettuce,cheese sauce.",275.0
+Healthy Bowl,Power Protein Bowl,1,0,"Panner,Mixed sprouts, beans, red channa, tomatoes, onion, corn, peanuts, Sriracha Sauce",285.0
+Healthy Bowl,Protein Bowl,1,0,"Mixed sprouts, beans, channa, tomatoes, onion, corn, peanuts, coriander.",265.0
+Healthy Bowl,Rajma Bowl,1,0,A bowl of comfort food,275.0
+Healthy Bowl,Soba Bowl,1,0,"Grilled Tofu, Buckwheat Noodles, Carrot, Red Cabbage, Spring Onion, Broccoli, mushrooms Ragi Chips, ... read more",300.0
+Healthy Bowl,Swaadika,1,0,"Paneer, Crunchy Slaw (red Cabbage, Carrot, Green Scallions), Broccoli Florets, Crushed Peanuts, Lettuce, ... read more",300.0
+Healthy Bowl,Veggie Power Bowl(Vegan),1,0,"Lettuce, broccoli, corn, , grilled bell peppers, sweet potato, mexican chickpea Dressing: Cashew-dill ... read more",300.0
+Healthy Soup [250 Ml],Broccoli Almond Soup,1,0,A creamy Broccoli Soup,190.0
+Healthy Soup [250 Ml],Healthy Clear Soup,1,0,"A clear soup with healthy vegetables like brocoli,french beans,corn,carrot,mushroom",175.0
+Healthy Soup [250 Ml],Tomato Basil Soup,1,0,Hearty and comforting tomato soup with basil flavours served with bread croutons.,175.0
+Fruit Bowls,Chia Fruit Bowl,1,0,"Mix seasonal fruits, chia seeds, granola",235.0
+Fruit Bowls,Fruit Bowl,1,0,Mix seasonal fruits,195.0
+Fruit Bowls,Granola Bowl,1,0,"Mix seasonal fruits, granola",225.0
+Fruit Bowls,Power Fruit Bowl,1,0,"Mix seasonal fruit, chia seeds, peanutbutter, granola, chia seed",275.0
+Health Wraps,Broccoli Quesadilla,1,0,"Broccoli mash, Mexican Sauce & low Fat cheese Sauce ,multi grain Quesadillas",215.0
+Health Wraps,Falafel Wrap,1,0,"| Serve 1 | Medium spicy | Lettuce, vegetable bullets, tomato, capsicum, green ... read more",225.0
+Health Wraps,Mediterranean Roll,1,0,"Lettuce, paneer, olives, bell peppers, cherry tomatoes, cucumber, hummus, muhammara,",225.0
+Health Wraps,Mexican Paneer Wrap,1,0,"Grilled Paneer,Mexican beans,corn,capsicum,pica de gello,sour cream,chipotle sauce, avocado sauce,cheese jalapeno sauce",235.0
+Health Wraps,Paneer Bhurjee Wrap,1,0,"Paneer bhurjee, lettuce, onion, jalapeno cheese sauce",225.0
+Health Wraps,Paneer Wrap,1,0,"Herbed Panner,lettuce,onion,tomatoes, capsicum,corn,olives,jalepinos,chipotle sauce,cheese jalepino sauce all in a multi grain wrap.",225.0
+Health Wraps,Pesto Veggie Roll,1,0,"Grilled carrot, French beans, baby corn, mushrooms, sundried tomatoes ,olives , pesto, cheese ... read more",225.0
+Sandwiches,Falafel Sandwich,1,0,"Falafel balls, tomatoes, capsicum, jalapenos, olives, cucumber, corn, hummus, harissa sauce, beetroot bread",250.0
+Sandwiches,Korean Sandwich,1,0,"Paneer, bell pepper, pickled cucumber and zucchini, purple cabbage, kimchi, gochujang mayo",250.0
+Sandwiches,Pesto Paneer Sandwich,1,0,"Pesto marinated paneer and carrot, French beans, baby corn, mushrooms, mozzarella cheese",275.0
+Sandwiches,Sunset Sandwich,1,0,"Grilled aubergin, zucchini, mushroom, bell pepper, spinach feta, Tomato Pizza sauce, pesto, cheese ... read more",250.0
+Sandwiches,Tandoori Paneer Sandwich,1,0,"Paneer,onion, tomatoes, capsicum, onion, beetroot bread",250.0
+Sandwiches,ZCF Sandwich,1,0,"| Serve 1 | Spicy | ZUCCHINI, Corn,feta cheese, beetroot bread",250.0
+Health Juices,Abc,1,0,Apple beetroot carrot,190.0
+Health Juices,Beetroot Buzz Juice,1,0,"Beetroot, pineapple, carrot. Health benefits a magical, soothing blend to cleanse the body ... read more",190.0
+Health Juices,Black Magic Juice,1,0,"Activated charcoal, cayenne, lemon, honey, himalayan pink salt. pure filtered water. Health benefit ... read more",90.0
+Health Juices,Iron Man Juice,1,0,"Apple, strawberry, cucumber,fresh mint. Health benefits good source of vitamin a, vitamin c, ... read more",195.0
+Health Juices,Skin Glow Juice,1,0,"Apple,beetroot,carrot,celery, cucumber, orange, flax seeds. Health benefits tightens skin, hydrates, fights sun damage,reduces ... read more",190.0
+Health Juices,Toxin Flush Juice,1,0,"Parsley, spinach, apple, lemon, ginger. Health benefits it removes toxins and cleanses your ... read more",190.0
+Health Juices,Watermelon Juicejuice,1,0,,190.0
+Smoothies/Smoothie Bowl,Ageless,1,0,"Smoothie (250ml):Pineapple, mango, spinach,banana, mixseed, coconut milk. Health benefits: Hydrates skin,fights sun damage,reduces ... read more",225.0
+Smoothies/Smoothie Bowl,Anti Ageing Smoothie,1,0,"Pineapple, Matcha, Banana, Spinach, Lime, Coconut powder",250.0
+Smoothies/Smoothie Bowl,Banana Latte,1,0,"Banana, milk, coffee, chia seeds, honey. Health benefits instant energy, rich in omega ... read more",190.0
+Smoothies/Smoothie Bowl,Berry Blast,1,0,"Smoothie: Blue Berry, Raspberry, Strawberry, Banana, Soya Milk, Mix seeds, Health Benefits: This ... read more",230.0
+Smoothies/Smoothie Bowl,Coco Berry,1,0,"Smoothie:Blue Beery,Strawberry,Raspberry, Coco powder,banana,coco nibs,soya milk,mix seeds",245.0
+Smoothies/Smoothie Bowl,Mango Papaya Smoothie,1,0,"Mango, Papaya, Pineapple, banana, almonds",225.0
+Smoothies/Smoothie Bowl,Peantubutter Strawberry Smoothie,1,0,"Peantut butter,oats,banana,strawberry,coco powder,soya milk,mix seeds",225.0
+Smoothies/Smoothie Bowl,Protein Smoothie,1,0,"Smoothie:Strawberry, pineapple, orange, soya milk, chia seeds, protein powder. Health benefits it's your ... read more",250.0
+Dessert,Vegan & Gluten Free Apple Pie,1,0,,575.0
+Dessert,Vegan Dark Chocolate Brownie,1,0,,180.0

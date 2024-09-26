@@ -1,0 +1,68 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Margherita Pizza [9 inches],1,0,Premium quality.,170.0
+Pizza,Double Cheese Margherita Pizza [9 inches],1,0,Premium quality food.,230.0
+Pizza,Italian Pizza,1,0,,190.0
+Pizza,Mixed Veg Cheese Pizza,1,0,,190.0
+Pizza,Veggie Supreme Pizza,1,0,,220.0
+Pizza,Half N Half Pizza,1,0,,190.0
+Pizza,Special Ultimate Veggie Supreme Pizza,1,0,,250.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,42.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich,1,0,,100.0
+Burgers and Sandwiches,Bread Butter Jam Sandwich,1,0,,55.0
+Burgers and Sandwiches,Bread Butter Cheese Jam Sandwich,1,0,,100.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,73.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,115.0
+Burgers and Sandwiches,Special Club Sandwich,1,0,,145.0
+Burgers and Sandwiches,Bread Butter Grilled Sandwich,1,0,,85.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,,115.0
+Burgers and Sandwiches,Aloo Masala Sandwich,1,0,,115.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,190.0
+Burgers and Sandwiches,Veg Cheese Aloo Masala Sandwich,1,0,,200.0
+Burgers and Sandwiches,Veg Cheese Chilli Garlic Sandwich,1,0,,200.0
+Burgers and Sandwiches,Special Open Bombay Cheese Grilled Sandwich,1,0,,235.0
+Burgers and Sandwiches,Rajwadi Grilled Sandwich,1,0,,250.0
+Burgers and Sandwiches,Mexican Sandwich,1,0,,250.0
+Burgers and Sandwiches,Special Hyderabadi Sandwich,1,0,,250.0
+Burgers and Sandwiches,Mayo Garlic Sandwich,1,0,,250.0
+Burgers and Sandwiches,Punjabi Sandwich,1,0,,250.0
+Burgers and Sandwiches,Special Paneer Schezwan Sandwich,1,0,,275.0
+Burgers and Sandwiches,Special Hot Paneer Tandoori Garlic Sandwich,1,0,,275.0
+Burgers and Sandwiches,Special Ahmedabad Royal Sandwich,1,0,,275.0
+Burgers and Sandwiches,Veg Burger,1,0,,85.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,115.0
+Burgers and Sandwiches,Classic Cheese Burger,1,0,,145.0
+Burgers and Sandwiches,Paneer King Burger,1,0,,160.0
+Burgers and Sandwiches,Ultimate Veggie Burger,1,0,,190.0
+Burgers and Sandwiches,Special Royal King Burger,1,0,,220.0
+Snacks,Butter Dabeli,1,0,,35.0
+Snacks,Masala Dabeli,1,0,,43.0
+Snacks,Mayo Dabeli,1,0,,55.0
+Snacks,Cheese Butter Dabeli,1,0,,55.0
+Snacks,Cheese Masala Dabeli,1,0,,65.0
+Snacks,Cheese Mayo Dabeli,1,0,,70.0
+Snacks,Vada Pav,1,0,,35.0
+Snacks,Garlic Mayo Vada Pav,1,0,,50.0
+Snacks,Bread Pakoda,1,0,,35.0
+Snacks,Garlic Mayo Pakoda,1,0,,50.0
+Snacks,Only Vada [1 Piece],1,0,,17.0
+Snacks,Punjabi Samosa [1 Piece],1,0,,25.0
+Snacks,Butter Vada Pav,1,0,,40.0
+Snacks,Cheese Vada Pav,1,0,,55.0
+Snacks,Tandoori Mayo Vada Pav,1,0,,55.0
+Snacks,Cheese Bread Pakoda,1,0,,55.0
+Snacks,Veg Hotdog,1,0,,100.0
+Snacks,Veg Cheese Hotdog,1,0,,110.0
+Snacks,Paneer Cheese Hotdog,1,0,,170.0
+Snacks,Garlic Bread [2 Pieces],1,0,,145.0
+Snacks,Salted and Masala French Fries,1,0,,115.0
+Snacks,Peri Peri French Fries,1,0,,145.0
+Snacks,Cheese French Fries French Fries,1,0,,160.0
+Snacks,Peri Peri Cheese French Fries,1,0,,190.0
+Maggi,Plain Maggi,1,0,,70.0
+Maggi,Veg Maggi,1,0,,85.0
+Maggi,Butter Veg Maggi,1,0,,100.0
+Maggi,Cheese Veg Maggi,1,0,,130.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,100.0
+Drinks (Beverages),Cold Coffee,1,0,,70.0
+Drinks (Beverages),Butterscotch Coffee,1,0,,100.0
+Drinks (Beverages),Vanilla Cold Coffee,1,0,,100.0

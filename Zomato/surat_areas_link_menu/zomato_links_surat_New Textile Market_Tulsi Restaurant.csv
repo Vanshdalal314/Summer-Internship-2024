@@ -1,0 +1,220 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+"Combos, Meals And Thali",Veg Cheese Grilled Sandwich With Veg Cheese Sandwich And French Fries,1,0,[Combo Item],319.2
+"Combos, Meals And Thali",Veg Cheese Toast Sandwich With Veg Cheese Pizza [6 Inches] And Fries,1,0,[Combo Item],343.2
+"Combos, Meals And Thali",Veg Kadai [400 Grams] With 3 Tandoori Butter Roti,1,0,[Combo Item] Veg Kadai [400 grams]+3 Tandoori Butter Roti+Vaghareli Khichdi+Roasted Papad [2 Pieces]+Pineapple ... read more,471.2
+"Combos, Meals And Thali",Special Veg Tulsi [400 Grams] With 3 Tandoori Butter Roti,1,0,[Combo Item] Special Veg Tulsi [400 grams]+3 Tandoori Butter Roti+Veg Pulao+Roasted Papad [2 ... read more,511.2
+"Combos, Meals And Thali",Paneer Angara [400 Grams] With 3 Tandoori Butter Roti,1,0,"[Combo Item] Paneer Angara [400 grams]+3 Tandoori Butter Roti+Veg Biryani [Full, 450 grams]+Roasted ... read more",535.2
+"Combos, Meals And Thali",Special Kaju Curry [300 Grams] With 2 Tandoori Butter Roti,1,0,Special Kaju Curry [300 grams]+2 Tandoori Butter Roti,236.0
+"Combos, Meals And Thali",Cheese Angoori [400 Grams] With Jeera Rice [Full],1,0,[Combo Item] Cheese Angoori [400 grams]+Jeera Rice [Full]+Dal Fry+3 Tandoori Butter Roti+Roasted Papad ... read more,551.2
+"Combos, Meals And Thali",Paneer Butter Masala [300 Grams] With 2 Plain Chapati [Serves 1],1,0,,176.0
+"Combos, Meals And Thali",Jeera Rice [Half] With Dal Fry [Serves 1],1,0,[Combo Item],176.0
+"Combos, Meals And Thali",Veg Hyderabadi Biryani [520 Grams] With Buttermilk [Serves 1],1,0,[Combo Item],176.0
+"Combos, Meals And Thali",Veg Cheese Pizza [6 Inches] With French Fries [Half] [Serves 1],1,0,[Combo Item],176.0
+"Combos, Meals And Thali",Veg Cheese Grilled Sandwich With French Fries [Half] [Serves 1],1,0,[Combo Item],176.0
+"Combos, Meals And Thali",Onion Capsicum Cheese Pizza [6 Inches] With French Fries [Half],1,0,,176.0
+"Combos, Meals And Thali",Dal Bati,1,0,"Bati [4 Pieces,225 grams]+Dal [400 ml] + Lasun Chutney",135.2
+"Combos, Meals And Thali",Dal Bati With Rice,1,0,,159.2
+"Combos, Meals And Thali",Dal Bati With Ghee,1,0,Bati [4 Pieces-225 Grams] With Ghee + Dal [ 400 ml]+ + Lasun ... read more,164.0
+"Combos, Meals And Thali",Special Gujarati Thali,1,0,Veg Sabji + Kathol Sabji + 3 Butter Chapati Roti + Gujarati Dal ... read more,207.2
+Soups,Cream Of Tomato Soup,1,0,,72.0
+Soups,Veg Manchow Soup,1,0,,72.0
+Soups,Veg Hot And Sour Soup,1,0,,72.0
+Soups,Cream Of Mushroom Soup,1,0,,72.0
+Soups,Cream Of Veg Soup,1,0,,112.0
+Soups,Sweet Corn Soup,1,0,,112.0
+Soups,Lemon Coriander Soup,1,0,,112.0
+Soups,Cheese Corn Tomato Soup,1,0,,120.0
+Starters,Paneer Tikka Dry,1,0,,156.0
+Starters,Hariyali Tikka Dry,1,0,,156.0
+Starters,Paneer Cheese Malai Tikka,1,0,,156.0
+Starters,Reshmi Paneer Tikka,1,0,,156.0
+Starters,Pahadi Paneer Tikka,1,0,,156.0
+Starters,Hara Bhara Kabab,1,0,,220.0
+Main Course,Special Kaju Curry,1,0,Fried cashewnuts cooked in a mild onion gravy laced with butter.,188.0
+Main Course,Special Kaju Masala,1,0,,188.0
+Main Course,Special Paneer Tulsi,1,0,[Chef's Special],192.0
+Main Course,Special Paneer Kaju,1,0,,192.0
+Main Course,Paneer Tawa Masala,1,0,,176.0
+Main Course,Paneer Balti,1,0,,176.0
+Main Course,Paneer Angara,1,0,,176.0
+Main Course,Paneer Toofani,1,0,,176.0
+Main Course,Paneer Chatpata,1,0,,176.0
+Main Course,Paneer Nawabi,1,0,,176.0
+Main Course,Paneer Pasanda,1,0,,176.0
+Main Course,Paneer Patiala,1,0,,176.0
+Main Course,Paneer Sultan,1,0,,176.0
+Main Course,Special Kaju Tadka,1,0,[Spicy],186.4
+Main Course,Cheese Angoori,1,0,,192.0
+Main Course,Paneer Golden,1,0,,184.0
+Main Course,Paneer Palapal,1,0,,184.0
+Main Course,Paneer Zalazal,1,0,,184.0
+Main Course,Cheese Butter Masala,1,0,,192.0
+Main Course,Kaju Angara,1,0,,224.0
+Main Course,Veg Angara,1,0,,192.0
+Main Course,Paneer Takatak,1,0,,184.0
+Main Course,Paneer Lasaniya,1,0,,184.0
+Main Course,Cheese Angara,1,0,,240.0
+Main Course,Paneer Matka,1,0,,232.0
+Main Course,Veg Matka,1,0,,192.0
+Main Course,Kaju Matka,1,0,,224.0
+Main Course,Paneer Dilruba,1,0,,232.0
+Main Course,Kaju Lasaniya,1,0,,172.0
+Main Course,Kaju Maharaja,1,0,,176.0
+Main Course,Cheese Ghotala,0,0,,176.0
+Main Course,Cheese Lahori,1,0,,176.0
+Main Course,Special Tulsi Paneer Tadka,1,0,[Chef's Special],168.0
+Main Course,Paneer Maharaja,1,0,,168.0
+Main Course,Paneer Mughlai,1,0,,168.0
+Main Course,Paneer Pahadi,1,0,,168.0
+Main Course,Veg Tadka,1,0,,148.0
+Main Course,Veg Mughlai,1,0,,148.0
+Main Course,Veg Maharaja,1,0,,148.0
+Main Course,Veg Diwani Handi,1,0,,148.0
+Main Course,Special Veg Tulsi,1,0,[Chef's Special],172.0
+Main Course,Veg Makhanwala,1,0,,152.0
+Main Course,Veg Toofani,1,0,,152.0
+Main Course,Veg Jaipuri,1,0,,152.0
+Main Course,Veg Kolhapuri,1,0,,152.0
+Main Course,Veg Kadai,1,0,,152.0
+Main Course,Veg Handi,1,0,,152.0
+Main Course,Veg Silsila,1,0,,152.0
+Main Course,Veg Rangila,1,0,,168.0
+Main Course,Veg Hyderabadi,1,0,,152.0
+Main Course,Mushroom Masala,1,0,,172.0
+Main Course,Chana Masala,1,0,,132.0
+Main Course,Veg Dum Aloo,1,0,,120.0
+Main Course,Aloo Matar,1,0,,120.0
+Main Course,Aloo Gobi,1,0,,120.0
+Main Course,Aloo Palak,1,0,,120.0
+Main Course,Plain Palak,1,0,,120.0
+Main Course,Jeera Aloo,1,0,,120.0
+Main Course,Sev Tomato,1,0,,120.0
+Main Course,Mix Vegetable,1,0,,120.0
+Main Course,Baingan Bharta,1,0,,120.0
+Main Course,Bhindi Masala,1,0,,120.0
+Main Course,Bhindi Fry,1,0,,128.0
+Main Course,Dal Fry,1,0,,108.0
+Main Course,Butter Dal Fry,1,0,,112.0
+Main Course,Tadka Dal Fry,1,0,,124.0
+Main Course,Dal Palak,1,0,,120.0
+Main Course,Veg Kofta,1,0,,164.0
+Main Course,Paneer Kofta,1,0,,224.0
+Main Course,Malai Kofta,1,0,,224.0
+Main Course,Kaju Kofta,1,0,,224.0
+Main Course,Kashmiri Kofta,1,0,,224.0
+Main Course,Nargisi Kofta,1,0,,224.0
+Main Course,Khoya Kaju,1,0,,216.0
+Main Course,Navratan Korma,1,0,,216.0
+Main Course,Paneer Shahi Korma,1,0,,216.0
+Main Course,Paneer Butter Masala,1,0,,168.0
+Main Course,Paneer Tikka Masala,1,0,Cubes of paneer cooked in a combination of onion & tomato gravy.,168.0
+Main Course,Paneer Kadai,1,0,,168.0
+Main Course,Paneer Handi Jumbo,1,0,,168.0
+Main Course,Paneer Bhurji,1,0,,184.0
+Main Course,Paneer Afghani,1,0,,172.0
+Main Course,Paneer Palak,1,0,,160.0
+Main Course,Paneer Matar,1,0,,160.0
+Main Course,Chana Paneer,1,0,,160.0
+Main Course,Paneer Mushroom,1,0,,176.0
+Breads,Plain Chapati,1,0,,20.0
+Breads,Butter Chapati,1,0,,24.0
+Breads,Tandoori Roti,1,0,,20.0
+Breads,Tandoori Butter Roti,1,0,,24.0
+Breads,Tandoori Plain Paratha,1,0,,32.0
+Breads,Tandoori Butter Paratha,1,0,,36.0
+Breads,Pudina Paratha,1,0,,56.0
+Breads,Aloo Paratha,1,0,,60.0
+Breads,Stuffed Paratha,1,0,,64.0
+Breads,Cheese Chilli Garlic Paratha,1,0,,64.0
+Breads,Tandoori Butter Kulcha,1,0,,44.0
+Breads,Tandoori Plain Naan,1,0,,32.0
+Breads,Tandoori Butter Naan,1,0,,36.0
+Breads,Tandoori Garlic Naan,1,0,,44.0
+Breads,Cheese Naan,1,0,,56.0
+Breads,Kashmiri Naan,1,0,,56.0
+Breads,Kabuli Naan,1,0,,48.0
+Breads,Palak Naan,1,0,,48.0
+Breads,Missi Roti,1,0,,48.0
+Breads,Methi Roti,1,0,,48.0
+Rice And Biryani,Kabuli Khichdi,1,0,,116.0
+Rice And Biryani,Vaghareli Khichdi,1,0,,120.0
+Rice And Biryani,Kaju Pulao,1,0,,160.0
+Rice And Biryani,Veg Pulao,1,0,,128.0
+Rice And Biryani,Veg Kashmiri Pulao,1,0,,136.0
+Rice And Biryani,Kadhi Pulao,1,0,,132.0
+Rice And Biryani,Kadhi Khichdi,1,0,,112.0
+Rice And Biryani,Paneer Pulao,1,0,,136.0
+Rice And Biryani,Masala Khichdi,1,0,,112.0
+Rice And Biryani,Masala Rice,1,0,,132.0
+Rice And Biryani,Jeera Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices.,92.0
+Rice And Biryani,Plain Rice,1,0,,84.0
+Rice And Biryani,Tarkari Biryani,1,0,,148.0
+Rice And Biryani,Veg Biryani,1,0,,96.0
+Rice And Biryani,Veg Hyderabadi Biryani,1,0,,100.0
+Rice And Biryani,Dum Biryani,1,0,,144.0
+Chinese,Veg Chilli,1,0,,96.0
+Chinese,Veg Manchurian,1,0,,100.0
+Chinese,Veg 65,1,0,,100.0
+Chinese,Paneer Chilli,1,0,,108.0
+Chinese,Paneer Manchurian,1,0,,108.0
+Chinese,Paneer 65,1,0,,108.0
+Chinese,Veg Schezwan,1,0,,108.0
+Chinese,Paneer Schezwan,1,0,,112.0
+Fried Rice And Noodles,Veg Fried Rice,1,0,,96.0
+Fried Rice And Noodles,Veg Manchurian Fried Rice,1,0,,100.0
+Fried Rice And Noodles,Combination Fried Rice,1,0,,96.0
+Fried Rice And Noodles,Hong Kong Fried Rice,1,0,,96.0
+Fried Rice And Noodles,Mushroom Fried Rice,1,0,,104.0
+Fried Rice And Noodles,Schezwan Fried Rice,1,0,,100.0
+Fried Rice And Noodles,Triple Schezwan Fried Rice,1,0,,104.0
+Fried Rice And Noodles,Veg Hakka Noodles,1,0,,100.0
+Fried Rice And Noodles,Veg Schezwan Noodles,1,0,,100.0
+Pizza,Veg Cheese Pizza [6 Inches],1,0,,148.0
+Pizza,Onion Cheese Pizza [6 Inches],1,0,,148.0
+Pizza,Tomato Cheese Pizza,1,0,,152.0
+Pizza,Onion Capsicum Cheese Pizza [6 Inches],1,0,,156.0
+Pizza,Schezwan Cheese Pizza [6 Inches],1,0,,152.0
+Pizza,Veg Mushroom Pizza [6 Inches],1,0,,159.2
+Pizza,Italian Cheese Pizza [6 Inches],1,0,,159.2
+Sandwiches,Veg Toast Sandwich,1,0,,84.0
+Sandwiches,Cheese Toast Sandwich,1,0,,128.0
+Sandwiches,Kashmiri Toast Sandwich,1,0,,136.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,148.0
+Sandwiches,Veg Schezwan Grilled Sandwich,1,0,,156.0
+Baby Snacks,French Fries,1,0,,104.0
+Baby Snacks,Cheese Balls,1,0,,144.0
+Baby Snacks,Cheese Cutlet,1,0,,152.0
+Snacks,Veg Spring Roll,1,0,,200.0
+Snacks,Cheese Garlic Bread [4 Pieces],1,0,,104.0
+Snacks,American Garlic Bread [4 Pieces],1,0,,120.0
+Snacks,Cheese Chilli Garlic Bread [4 Pieces],1,0,,120.0
+Snacks,Chinese Bhel,1,0,,100.0
+Snacks,Potato Chips,1,0,,76.0
+Accompaniments,Roasted Papad,1,0,,21.6
+Accompaniments,Fried Papad,1,0,,25.6
+Accompaniments,Masala Papad,1,0,,44.0
+Accompaniments,Green Salad,1,0,,60.0
+Accompaniments,Tomato Salad,1,0,,56.0
+Accompaniments,Veg Raita,1,0,,72.0
+Accompaniments,Pineapple Raita,1,0,,79.2
+Accompaniments,Curd,1,0,[Pre-Prepared],60.0
+Accompaniments,Green Chutney,1,0,,20.0
+Accompaniments,Lasoon Chutney,1,0,,20.0
+Accompaniments,Onion Salad,1,0,,24.0
+Accompaniments,Mix Veg Salad,1,0,,32.0
+Accompaniments,Fried Mirchi,1,0,,16.0
+Accompaniments,Sweet Dahi [300 Ml],1,0,[Dessert],40.0
+Desserts And Beverages,Gulab Jamun [2 Pieces],1,0,[Dessert] [Pre-Prepared],28.0
+Desserts And Beverages,Rasgulla [2 Pieces],1,0,[Dessert] [Pre-Prepared],36.0
+Desserts And Beverages,Special Tulsi Lassi,1,0,[Chef's Special],100.0
+Desserts And Beverages,Plain Lassi,1,0,,72.0
+Desserts And Beverages,Rose Lassi,1,0,,80.0
+Desserts And Beverages,Mango Lassi,1,0,,80.0
+Desserts And Beverages,Special Mango Lassi,1,0,,88.0
+Desserts And Beverages,Badam Syrup Lassi,1,0,,68.0
+Desserts And Beverages,Buttermilk,1,0,,28.0
+Desserts And Beverages,Pineapple Juice,1,0,,68.0
+Desserts And Beverages,Kaju Anjeer Milkshake,1,0,,104.0
+Desserts And Beverages,Kaju Mango Milkshake,1,0,,104.0
+Desserts And Beverages,Vanilla Milkshake,1,0,,96.0
+Desserts And Beverages,Rose Milkshake,1,0,,76.0

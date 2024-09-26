@@ -1,0 +1,4 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Vada Pav,"Vada Pav [1 Vada, Jumbo]",1,0,,30.0
+Vada Pav,Cheese JumboVada Pav [1 Piece],1,0,,50.0
+Vada Pav,Single Vada [2 Pieces],1,0,,35.0

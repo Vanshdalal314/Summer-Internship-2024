@@ -1,0 +1,89 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken Shanghai,0,0,,494.5
+Starters,Chicken Tai Pai,0,0,,506.0
+Starters,Drums Of Heaven,0,0,,483.0
+Starters,Chicken Bullet,0,0,,494.5
+Starters,Burnt Garlic Lolipop,0,0,,494.5
+Starters,Chicken Chilli,0,0,,345.0
+Starters,Chicken Chilli Lady Finger,0,0,,425.5
+Starters,Chicken Crispy,0,0,,483.0
+Starters,Chicken Crunchy,0,0,,494.5
+Starters,Chicken Kurkure,0,0,,483.0
+Starters,Chicken Lolipop,0,0,,425.5
+Starters,Chicken Malai Kurkure,0,0,,506.0
+Starters,Chicken Manchurian,0,0,,345.0
+Starters,Chicken Red Cook,0,0,,425.5
+Starters,Chicken Schezwan,0,0,,356.5
+Starters,Drum Of Heaven,0,0,,471.5
+Starters,Honey Chilli Chicken,0,0,,506.0
+Starters,Oyster Chicken,0,0,,494.5
+Starters,Chicken Teriyaki,0,0,,506.0
+Shawarma Roll,Chicken Cheese Shawarma,0,0,,146.63
+Shawarma Roll,Chicken Peri Peri Shawarma,0,0,,156.4
+Shawarma Roll,Chicken Shawarma,0,0,,117.3
+Pizza,Chicken Arabian Pizza,0,0,,303.03
+Pizza,Chicken Barbeque Pizza,0,0,,332.35
+Pizza,Chicken Chilli Pizza,0,0,,283.48
+Pizza,Chicken Classic Pizza,0,0,,273.7
+Pizza,Chicken Cocktail Pizza,0,0,,283.48
+Pizza,Chicken French Pizza,0,0,,312.8
+Pizza,Chicken Garlic Pizza,0,0,,312.8
+Pizza,Chicken Golden Delight Pizza,0,0,,303.03
+Pizza,Chicken Hot Pan Pizza,0,0,,283.48
+Pizza,Chicken Italian Pizza,0,0,,312.8
+Pizza,Chicken Mexican Pizza,0,0,,293.25
+Pizza,Chicken Schezwan Pizza,0,0,,312.8
+Pizza,Chicken Special Pizza,0,0,,312.8
+Pizza,Chicken Tandoori Pizza,0,0,,293.25
+Fried Rice And Noodles,Chicken Chinese Bhel,0,0,,107.53
+Fried Rice And Noodles,Chicken Combination Fried Rice With Gravy,0,0,,371.45
+Fried Rice And Noodles,Chicken Fried Rice,0,0,,224.83
+Fried Rice And Noodles,Chicken Burnt Garlic Fried Rice,0,0,,293.25
+Fried Rice And Noodles,Chicken Schezwan Fried Rice,0,0,,234.6
+Fried Rice And Noodles,Chicken Singapuri Fried Rice,0,0,,234.6
+Fried Rice And Noodles,Egg Fried Rice,0,0,,215.05
+Fried Rice And Noodles,Honkong Rice,0,0,,50.0
+Fried Rice And Noodles,Chicken Double Dhamal Fried Rice,0,0,,563.5
+Fried Rice And Noodles,Chicken Masti Fried Rice,0,0,,540.5
+Fried Rice And Noodles,Chicken Matka Chinese Biryani,0,0,,563.5
+Fried Rice And Noodles,Pizza Plus Special Chicken Fried Rice,0,0,,540.5
+Fried Rice And Noodles,Chicken Pot Fried Rice,0,0,,563.5
+Fried Rice And Noodles,Garden Special Chicken Fried Rice,0,0,,563.5
+Fried Rice And Noodles,Creamy Cheesy Fried Rice,0,0,,563.5
+Fried Rice And Noodles,Drogon Rice,0,0,,575.0
+Fried Rice And Noodles,Burnt Garlic Noodles,0,0,,293.25
+Fried Rice And Noodles,Chicken American Chopsuey,0,0,,371.45
+Fried Rice And Noodles,Chicken Chilli Gravy Noodles,0,0,,371.45
+Fried Rice And Noodles,Chicken Chilli Noodles,0,0,,293.25
+Fried Rice And Noodles,Chicken Chowmein,0,0,,215.05
+Fried Rice And Noodles,Chicken Burnt Garlic Noodles,0,0,,293.25
+Fried Rice And Noodles,Chicken Hakka Noodles,0,0,,215.05
+Fried Rice And Noodles,Chicken Schezwan Noodles,0,0,,215.05
+Fried Rice And Noodles,Chicken Singapuri Noodles,0,0,,215.05
+Fried Rice And Noodles,Chicken Special Noodles,0,0,,371.45
+Fried Rice And Noodles,Pizza Plus Special Chicken Noodles,0,0,,400.78
+Burgers And Sandwiches,Arabic Burger,0,0,,215.05
+Burgers And Sandwiches,Chicken Double Cheese Burger,0,0,,215.05
+Burgers And Sandwiches,French Burger,0,0,,224.83
+Burgers And Sandwiches,Special Burger,0,0,,234.6
+Burgers And Sandwiches,Tandoori Chicken Burger,0,0,,205.28
+Burgers And Sandwiches,Chicken Double Cheese Sandwich,0,0,,215.05
+Burgers And Sandwiches,Chicken Sandwich,0,0,,205.28
+Burgers And Sandwiches,Double Decker Sandwich,0,0,,234.6
+Burgers And Sandwiches,French Sandwich,0,0,,215.05
+Burgers And Sandwiches,Arabian Grilled Sandwich,0,0,,283.48
+Burgers And Sandwiches,Chicken Grilled Sandwich,0,0,,263.93
+Burgers And Sandwiches,French Grilled Sandwich,0,0,,293.25
+Burgers And Sandwiches,Special Grilled Sandwich,0,0,,303.03
+Burgers And Sandwiches,Tandoori Grilled Sandwich,0,0,,273.7
+Veg Grill Sandwich,Veg Paneer Grill Sandwich,1,0,,322.0
+Veg Pizza,Capsicum Pizza,1,0,,215.05
+Veg Pizza,Margerita Pizza,1,0,,273.7
+Veg Pizza,Onion Pizza,1,0,,244.38
+Veg Pizza,Paneer Pizza,1,0,,254.15
+Veg Pizza,Veg Special Pizza,1,0,,273.7
+Veg Pizza,Veg. Pizza,1,0,,244.38
+Veg Sandwich,Cheese Sandwich,1,0,,148.35
+Veg Sandwich,Mix Veg Toast Sandwich,1,0,,148.35
+Veg Sandwich,Special Veg Toast Sandwich,1,0,,230.0
+Dessert,Choco Lava Cake,1,0,,99.0

@@ -1,0 +1,135 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Juices,Apple Juice [400 ml],1,0,Adding fresh apple fruit and fresh milk.,90.0
+Juices,Pomegranate Juice [400 ml],1,0,Adding fresh pomegranate fruit and fresh milk.,90.0
+Juices,Pure Pomegranate Juice [400 ml],1,0,Adding fresh pomegranate fruit.,119.0
+Juices,Orange Juice [400 ml],1,0,Adding fresh orange fruit.,79.0
+Juices,Grape Juice,1,0,Adding only fresh grape fruit.,79.0
+Juices,Pineapple Juice [400 ml],1,0,Adding fresh pineapple fruit.,69.0
+Juices,Guava Juice [400 ml],1,0,Adding fresh guava fruit.,69.0
+Juices,Mosambi Juice [400 ml],1,0,Adding fresh mosambi fruit.,69.0
+Juices,Chikoo Juice [400 ml],1,0,Adding fresh chikoo fruit.,69.0
+Juices,Papaya Juice,1,0,Adding only fresh papaya fruit.,59.0
+Juices,Muskmelon Juice,1,0,Adding only fresh muskmelon fruit.,59.0
+Juices,Watermelon Juice,1,0,Adding only fresh watermelon fruit.,49.0
+Juices,Lemon Juice,1,0,"Adding only fresh lemon, sugar and soda.",49.0
+Juices,Lemon Mint Juice,1,0,Adding fresh lemon and mint leaf.,59.0
+Juices,Lemon and Ginger Juice,1,0,Adding only fresh lemon and ginger.,59.0
+Juices,Salt Lime Soda,1,0,"Adding only fresh lemon, pinch salt and soda.",59.0
+Juices,Sweet Lime Soda,1,0,"Adding only fresh lemon, sugar and soda.",69.0
+Juices,Masala Lime Soda,1,0,"Adding only fresh lemon, sugar and soda.",79.0
+Juices,Lemon Mint Soda,1,0,"Adding only fresh lemon, mint leaf, pinch salt, sugar and soda.",79.0
+Juices,Lemon with Grape Juice,1,0,"Adding only fresh lemon, fresh grape and sugar.",79.0
+Juices,Lemon with Pineapple Juice,1,0,"Adding only fresh lemon, fresh pineapple and sugar.",79.0
+Juices,Kulki Sarbath,1,0,"Adding only fresh lemon, nanari liquid, green chilli, pinch salt, sugar and soda.",79.0
+Juices,Fig Juice,1,0,"Adding fresh fig fruit, fresh milk and sugar.",99.0
+Juices,Kiwi Juice,1,0,"Adding fresh kiwi fruit, fresh milk and sugar.",119.0
+Juices,Strawberry Juice,1,0,"Adding fresh strawberry fruit, fresh milk and sugar.",99.0
+Juices,Carrot Juice,1,0,Adding fresh carrot fruit and fresh milk.,89.0
+Juices,Beetroot Juice,1,0,Adding fresh beetroot fruit and fresh milk.,89.0
+Juices,Cucumber Juice,1,0,Adding only fresh cucumber.,79.0
+Juices,Red Pairo Juice,1,0,"Beetroot, pomegranate and watermelon.",119.0
+Juices,Skin Caro Juice,1,0,Carrot and orange.,119.0
+Juices,Body Cooler Juice,1,0,"Cucumber, carrot and muskmelon.",119.0
+Juices,ABC Juice,1,0,"Apple, beetroot and carrot.",119.0
+Juices,Citrus Punch Juice,1,0,"Mosambi, orange, lemon and soda.",119.0
+Juices,Thirumeni Juice,1,0,"Pineapple, mint, grapes and little lime.",119.0
+Juices,Sangamam Juice,1,0,"Pineapple, ginger, mosambi and little lime.",119.0
+Juices,Pineapple Cool Juice,1,0,"Pineapple, mint, ginger and little lime.",119.0
+Juices,Rosy Melon Juice,1,0,Watermelon and muskmelon.,119.0
+Juices,Sun Shine Juice,1,0,"Mosambi, pineapple and lemon.",119.0
+Juices,Sun Set Juice,1,0,"Orange, pineapple and lemon.",119.0
+Fruit Salads,Fruit Salad,1,0,"Apple, pomegranate, muskmelon, watermelon, pineapple, banana and papaya.",99.0
+Fruit Salads,Masala Fruit Salad,1,0,"Masala flavour, apple, pomegranate, muskmelon, watermelon, pineapple, banana and papaya.",129.0
+Fruit Salads,Ice Cream Salad,1,0,"Icecream, apple, pomegranate, muskmelon, watermelon, pineapple, banana and papaya.",149.0
+Drinks (Beverages),"Apple cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh apple fruit, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Apple cum Butterscotch Shake [1 Pack, 300 ml]",1,0,"Adding fresh apple fruit, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Pomegranate cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh pomegranate fruit, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Pineapple cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh pineapple fruit, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Guava cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh guava fruit, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Muskmelon cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh muskmelon fruit, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Muskmelon cum Butterscotch Shake [1 Pack, 300 ml]",1,0,"Adding fresh muskmelon fruit, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Chikku cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh chikoo, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Papaya cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh papaya, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Fig cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh fig, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Kiwi cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh kiwi, ice cream and fresh milk.",129.0
+Drinks (Beverages),"Strawberry cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh strawberry, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Carrot cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh carrot, ice cream and fresh milk.",119.0
+Drinks (Beverages),"Beetroot cum Vanilla Shake [1 Pack, 300 ml]",1,0,"Adding fresh beetroot, ice cream and fresh milk.",119.0
+Drinks (Beverages),Blue Mint Curacao Mojito,1,0,[Non Alcoholic],99.0
+Drinks (Beverages),Black Buster Mojito,1,0,[Non Alcoholic] Coke soft beverage flavor.,99.0
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],99.0
+Drinks (Beverages),Red Strawberry Mojito,1,0,[Non Alcoholic],99.0
+Drinks (Beverages),Blackcurrant Mojito,1,0,[Non Alcoholic],99.0
+Drinks (Beverages),Buttermilk,1,0,Pure curd milk.,49.0
+Drinks (Beverages),Rose Milk,1,0,Pure milk.,49.0
+Drinks (Beverages),Rose Milk with Vanilla,1,0,Pure milk with vanilla ice cream.,89.0
+Drinks (Beverages),Plain Lassi,1,0,Fresh Curd with Lite Banana Blended,49.0
+Drinks (Beverages),Vanilla Lassi,1,0,,89.0
+Drinks (Beverages),Green Apple Lassi,1,0,,89.0
+Drinks (Beverages),Butterscotch Lassi,1,0,,89.0
+Drinks (Beverages),Strawberry Lassi,1,0,,89.0
+Drinks (Beverages),Pista Lassi,1,0,,89.0
+Drinks (Beverages),Blackcurrant Lassi,1,0,,89.0
+Drinks (Beverages),Chocolate Lassi,1,0,,89.0
+Drinks (Beverages),Vanila Shake,1,0,,99.0
+Drinks (Beverages),Butterscotch Shake,1,0,"Adding fresh milk, ice cream, Butterscotch flavour min 300ml pack",99.0
+Drinks (Beverages),Strawberry Shake,1,0,"Adding fresh milk, ice cream, Strawberry flavour min 300ml pack",99.0
+Drinks (Beverages),Pista Shake,1,0,"Adding fresh milk, ice cream, Pista flavour min 300ml pack",99.0
+Drinks (Beverages),Blackcurrant Shake,1,0,"Adding fresh milk, ice cream, blackcurrant flavour min 300ml pack",119.0
+Drinks (Beverages),Chocolate Shake,1,0,"Adding fresh milk, ice cream and chocolate flavour mix [300 ml] pack.",119.0
+Drinks (Beverages),Sharjah Shake,1,0,,89.0
+Drinks (Beverages),Cold Coffee,1,0,"Added fresh cold milk, coffee powder and sugar.",89.0
+Drinks (Beverages),Dates Shake,1,0,,99.0
+Drinks (Beverages),Cold Boost,1,0,,89.0
+Drinks (Beverages),Bonza Shake,1,0,,99.0
+Drinks (Beverages),Oreo Shake,1,0,,99.0
+Drinks (Beverages),Brownie Shake,1,0,,129.0
+Drinks (Beverages),KitKat Shake,1,0,,119.0
+Drinks (Beverages),Diary Milk Shake,1,0,,119.0
+Pizza,Golden Corn Pizza [8 inches],1,0,Our special flavour sauce with cheese burst stuffing corn pizza.,199.0
+Pizza,Peppy Paneer Pizza [8 inches],1,0,Our special flavour sauce with cheese burst stuffing paneer pizza.,249.0
+Pizza,Mushroom Pizza [8 inches],1,0,Our special flavour sauce with cheese burst stuffing mushroom pizza.,249.0
+Pizza,Taco Chicken Pizza [8 inches],1,0,Our special flavour sauce with cheese burst stuffing chicken pizza.,249.0
+Snacks,Peri Peri French Fries [Regular],1,0,,99.0
+Snacks,Smiley [6 Pieces],1,0,,119.0
+Snacks,Garlic Cheese Popcorn [10 Pieces],1,0,,119.0
+Snacks,Veg Spice Nuggets [8 Pieces],1,0,,119.0
+Snacks,Chicken Nuggets [6 Pieces],1,0,Halal Chicken,129.0
+Snacks,Chicken Popcorn [10 Pieces],1,0,Chicken Balls,129.0
+Snacks,Chicken Fingers [5 Pieces],1,0,,129.0
+Snacks,Fried Chicken [2 Pieces],1,0,,199.0
+Snacks,Bread Omlette,1,0,,69.0
+Snacks,Cheese Bread Omlette,1,0,,89.0
+Snacks,Chilli Cheese Bread Omlette,1,0,,89.0
+Snacks,Paneer Bread Omlette,1,0,,99.0
+Snacks,Paneer Chilli Bread Omlette,1,0,,99.0
+Snacks,Stuffed Bread Omlette,1,0,,99.0
+Snacks,Chicken Bread Omlette,1,0,,119.0
+Snacks,Kovai Special Bread Omelette,1,0,Chicken and cheese stuffing.,139.0
+Burgers and Sandwiches,Veg Burger,1,0,"Adding Stuff, Corn, Capsicum, Veg Patty, Special Myonus",99.0
+Burgers and Sandwiches,Cheese Veg Burger,1,0,,119.0
+Burgers and Sandwiches,Paneer Burger,1,0,,119.0
+Burgers and Sandwiches,Paneer Cheese Burger,1,0,"Adding Stuff, Fresh Paneer, Capsicum, Special Myonus",129.0
+Burgers and Sandwiches,Chicken Burger,1,0,"Adding Stuff, Chicken, Capsicum, Special Myonus",119.0
+Burgers and Sandwiches,Chicken Cheese Burger,1,0,"Adding Stuff, Chicken, Cheese Burst, Capsicum, Special Myonus",129.0
+Burgers and Sandwiches,Kovai Special Non Veg Burger,1,0,"Adding stuff, cheese burst, egg, chicken and capsicum.",149.0
+Burgers and Sandwiches,Veg Sandwich,1,0,"Adding Stuff, Corn, Capsicum, Special Myonus",79.0
+Burgers and Sandwiches,Cheese Veg Sandwich,1,0,,99.0
+Burgers and Sandwiches,Paneer Sandwich,1,0,"Adding Stuff, Fresh Paneer, Capsicum, Special Myonus",119.0
+Burgers and Sandwiches,Cheese Paneer Sandwich,1,0,,129.0
+Burgers and Sandwiches,Chilli Cheese Paneer Sandwich,1,0,,129.0
+Burgers and Sandwiches,Choco Cheese Sandwich,1,0,,119.0
+Burgers and Sandwiches,Choco Sandwich,1,0,"Dry Nuts, Choco Burst, Black Grapes, Well Toast",99.0
+Burgers and Sandwiches,Egg Sandwich,1,0,"Adding Stuff, Egg, Capsicum, Special Myonus",99.0
+Burgers and Sandwiches,Egg Cheese Sandwich,1,0,,119.0
+Burgers and Sandwiches,Chicken Sandwich,1,0,"Adding Stuff, Chicken, Capsicum, Special Myonus",119.0
+Burgers and Sandwiches,Chicken Cheese Sandwich,1,0,"Adding Stuff, Chicken, Cheese Burst, Capsicum, Special Myonus",129.0
+Burgers and Sandwiches,Kovai Special Non Veg Club Sandwich,1,0,"Adding stuff, cheese burst, egg, chicken and capsicum.",149.0
+Maggi,Plain Maggi,1,0,Well Cooked Boiled Maggi with Flavor Taste,79.0
+Maggi,Veg Stuffed Maggi,1,0,,89.0
+Maggi,Egg Maggi,1,0,Adding Egg in Boiled Maggi with our Flavor,99.0
+Maggi,Paneer Maggi,1,0,"Adding vegetables, paneer and spices.",119.0
+Maggi,Chicken Maggi,1,0,Adding chicken and spices.,119.0
+Maggi,Kovai Special Chicken Maggi,1,0,Adding chicken and spices.,149.0
+Combo,Fried Chicken with French Fries,1,0,,299.0
+Combo,Spring Potato with Watermelon Juice,1,0,,149.0

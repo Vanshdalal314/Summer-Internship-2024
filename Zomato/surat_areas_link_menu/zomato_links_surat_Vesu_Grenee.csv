@@ -1,0 +1,88 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burger,Veg. Supreme Burger,1,0,,80.0
+Burger,Veg. Supreme Cheese Burgers,1,0,,100.0
+Crunchy Bite,Crunchy Bite,1,0,Khari biscuit stuffed with veges on top and cheese. Also known as Biscuit ... read more,120.0
+Crunchy Bite,Tandoori Crunchy Bite,1,0,"Khari biscuit stuffed with tandoori paneer, veges and cheese on top.",130.0
+Cold Speciality,Cold Coffee,1,0,,99.0
+Cold Speciality,Cold Chocolate,1,0,,109.0
+Cold Speciality,Lemon Ice Tea,1,0,,89.0
+Cold Speciality,Peach Ice Tea,1,0,,99.0
+Cold Speciality,Thandai Smoothie,1,0,,149.0
+French Fries,Jumbo French Fries ( 250gm ),1,0,,149.0
+French Fries,Masala French Fries,1,0,,99.0
+French Fries,Peri Peri French Fries,1,0,,99.0
+French Fries,Plain French Fries,1,0,,80.0
+French Fries,Salted French Fries,1,0,,80.0
+Garlic Bread,Cheese Chilly Garlic 2pcs,1,0,,100.0
+Garlic Bread,Chees Chilly Garlic Bread (4PCS),1,0,,170.0
+Garlic Bread,Cheese Garlic Bread (2 Pcs),1,0,,160.0
+Garlic Bread,Cheese Schezwan Garlic 2 Pcs,1,0,,100.0
+Garlic Bread,Cheese Schezwan Garlic 4pcs,1,0,,160.0
+Grill Sandwich,Chocolate Grill Sandwich,1,0,,250.0
+Grill Sandwich,Grenee Special Grill Sandwich,1,0,,230.0
+Grill Sandwich,Mayo Veg Cheese Grill,1,0,,220.0
+Grill Sandwich,Peri Peri Mayo Grill,1,0,,220.0
+Grill Sandwich,Tandoori Paneer Grill Sandwich,1,0,,225.0
+Grill Sandwich,Cheese Grill Sandwich,1,0,,200.0
+Hot Speciality,Adrak Masala Chai,1,0,Serves 2,70.0
+Hot Speciality,Coffee,1,0,Serves 2,80.0
+Hot Speciality,Green Leaf Pudina Chai,1,0,Serves 2,70.0
+Hot Speciality,Green Tea (tea Bag),1,0,Serves 2,80.0
+Hot Speciality,Hot Choclate,1,0,Serves 2,130.0
+Hot Speciality,Lemon Honey Tea,1,0,Serves 2,100.0
+Hot Speciality,Lemon Tea,1,0,Serves 2,90.0
+Khakhra Pizza,6''Khakhra Pizza,1,0,Classic veg cheese pizza with khakhra base,180.0
+Khakhra Pizza,"6""Khakhra Tandoori",1,0,Tandoori paneer with onion and capsicum khakhra base,180.0
+Maggi,Cheese Butter Maggi,1,0,,120.0
+Maggi,Cheese Maggie,1,0,Maggi adored with cheese,110.0
+Maggi,Double Masala Maggi,1,0,An all time favorite snack. Maggi with double magic masala.,80.0
+Maggi,Maggi Masala,1,0,An all time favorite snack. Maggi with magic masala.,70.0
+Maggi,Peri Peri Maggi,1,0,Maggi with peri peri masala on top,80.0
+Maggi,Schezwan Maggi,1,0,Maggi mixed with schezwan chutny,90.0
+Maggi,Veg Maggi,1,0,,80.0
+Maska Bun,Choclate Maska Bun,1,0,,59.0
+Maska Bun,Jam Maskabun,1,0,,59.0
+Maska Bun,Maska Bun,1,0,,49.0
+Maska Bun,Maska Cheese,1,0,,79.0
+Open Toast,Cheese Chilly Open Toast,1,0,,130.0
+Open Toast,Chilly Open Toast,1,0,,150.0
+Open Toast,Grenee Special Toast,1,0,,100.0
+Open Toast,Maggie Open Toast,1,0,,110.0
+Open Toast,Open Toast,1,0,,90.0
+Open Toast,Open Toast Mozzarella,1,0,,120.0
+Open Toast,Open Toast Shezwan,1,0,,100.0
+Pizza,7''Italiano Pizza,1,0,,200.0
+Pizza,Maggie Pizza,1,0,,200.0
+Pizza,Only Cheese Pizza,1,0,,180.0
+Pizza,7''Only Cheese Pizza,1,0,,190.0
+Pizza,7''Tandoori Paneer Pizza,1,0,,200.0
+Pizza,7''Veg Cheese Pizza,1,0,,190.0
+Pizza,Veg Schezwan Pizza,1,0,,200.0
+Steam Idli,Butter Steam Idli,1,0,Traditional breakfast made by steaming a batter consisting of lentils & rice with ... read more,100.0
+Steam Idli,Cheese Butter Steam Idli,1,0,Traditional breakfast made by steaming a batter consisting of lentils & rice with ... read more,130.0
+Steam Idli,Cheese Masala Idli,1,0,Traditional breakfast made by steaming a batter consisting of lentils & rice with ... read more,130.0
+Steam Idli,Masala Idli,1,0,Traditional breakfast made by steaming a batter consisting of lentils & rice with ... read more,110.0
+Steam Idli,Peri Peri Cheese Steam Idli,1,0,Traditional breakfast made by steaming a batter consisting of lentils & rice with ... read more,130.0
+Steam Idli,Peri Peri Steam Idli,1,0,Traditional breakfast made by steaming a batter consisting of lentils & rice with ... read more,110.0
+Steam Idli,Steam Idli,1,0,"Idli is a type of savoury cake, originating from the Indian subcontinent, popular ... read more",90.0
+Sandwich Choice,Bread Butter,1,0,Nothing beats the simplicity and legacy of the good old Bread Butter. slices ... read more,45.0
+Sandwich Choice,Bread Butter Cheese,1,0,,79.0
+Sandwich Choice,Bread Butter Jam,1,0,Fresh & pure Amul butter comes up with bread served with Jam.,50.0
+Sandwich Choice,Chocolate Sandwich,1,0,,100.0
+Sandwich Choice,Chutney Sandwich,1,0,,40.0
+Sandwich Choice,Mayonnaise Cheese Bread,1,0,,80.0
+Sandwich Choice,Mayonnaise Veg Sandwich,1,0,,80.0
+Sandwich Choice,Peri Peri Veg Sandwich,1,0,Sandwich stuffed with assorted vegetables and peri peri sauce.,90.0
+Sandwich Choice,Veg Cheese Sandwich,1,0,Hearty sandwich stuffed generously with assorted vegetables and cheese served with green chutny,99.0
+Sandwich Choice,Veg Sandwich,1,0,Hearty sandwich stuffed generously with assorted vegetables served with green chutny,75.0
+Toast Sandwich,Aloo Masala Toast,1,0,,120.0
+Toast Sandwich,Bread Butter Cheese Toast,1,0,,80.0
+Toast Sandwich,Bread Butter Toast,1,0,,50.0
+Toast Sandwich,Cheese Chilli Toast,1,0,,120.0
+Toast Sandwich,Meggi Toast,1,0,,120.0
+Toast Sandwich,Pizza Toast Sandwich,1,0,,120.0
+Toast Sandwich,Veg Cheese Toast Sandwich,1,0,,120.0
+Toast Sandwich,Veg Toast Sandwich,1,0,,90.0
+Ulta Pizza,7''Italiano Ulta Pizza,1,0,,219.0
+Ulta Pizza,Only Cheese Ulta Pizza,1,0,,219.0
+Ulta Pizza,7''Veg Cheese Ulta Pizza,1,0,,199.0

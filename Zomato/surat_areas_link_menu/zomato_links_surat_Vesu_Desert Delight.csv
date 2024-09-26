@@ -1,0 +1,114 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Desserts,Brownie with Vanilla Ice Cream,1,0,Brownie+Vanilla Ice Cream,190.0
+Desserts,Brownie with Chocolate Ice Cream,1,0,Brownie+Chocolate Ice Cream,190.0
+Combos,Veg Burger Combo,1,0,Veg Burger+Aloo Tikki Burger,260.0
+Combos,Simply Fries Combo,1,0,Veg Burger+Simply Fries,270.0
+Combos,Pizza Combo,1,0,Single Topping Pizza [8 inches]+Veg Burger,300.0
+Combos,Veg Cheese Grilled Sandwich Combo,1,0,Veg Cheese Grilled Sandwich+Cold Coffee/Choco Frappe,300.0
+Combos,Cheese Garlic Bread Combo,1,0,Cheese Garlic Bread+Cold Coffee/Choco Frappe,340.0
+Combos,Margherita Pizza Combo,1,0,Margherita Pizza [8 inches]+Peri Peri Fries,370.0
+Combos,Veg Pizza Combo,1,0,Margherita Pizza [8 inches]+Veg Pizza [8 in,470.0
+Pizza and Pasta,Red Sauce Pasta,1,0,,280.0
+Pizza and Pasta,White Sauce Pasta,1,0,,340.0
+Pizza and Pasta,Pink Sauce Pasta,1,0,,370.0
+Pizza and Pasta,Special Pasta,1,0,,410.0
+Pizza and Pasta,Onion Pizza [8 inches],1,0,,160.0
+Pizza and Pasta,Tomato Pizza [8 inches],1,0,,160.0
+Pizza and Pasta,Capsicum Pizza [8 inches],1,0,,160.0
+Pizza and Pasta,Sweet Corn Pizza [8 inches],1,0,,240.0
+Pizza and Pasta,Margherita Pizza [8 inches],1,0,,260.0
+Pizza and Pasta,Veggie Pizza [8 inches],1,0,,260.0
+Pizza and Pasta,Paneer and Capsicum Pizza [8 inches],1,0,,270.0
+Pizza and Pasta,Double Cheese Pizza [8 inches],1,0,,280.0
+Pizza and Pasta,Peppy Paneer Pizza [8 inches],1,0,,300.0
+Pizza and Pasta,Schezwan Paneer Pizza [8 inches],1,0,,330.0
+Pizza and Pasta,Makhani Paneer Pizza [8 inches],1,0,,340.0
+Pizza and Pasta,Tandoori Paneer Pizza [8 inches],1,0,,350.0
+Pizza and Pasta,Stuffed Pizza [8 inches],1,0,,370.0
+Pizza and Pasta,Double Margherita Pizza [8 inches],1,0,,410.0
+Pizza and Pasta,Special Toofani Pizza [8 inches],1,0,,480.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,60.0
+Burgers and Sandwiches,Bread Butter Toast Sandwich,1,0,,80.0
+Burgers and Sandwiches,Bread Jam Sandwich,1,0,,80.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich,1,0,,120.0
+Burgers and Sandwiches,Bread Jam Cheese Sandwich,1,0,,120.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,140.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,180.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,,210.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,240.0
+Burgers and Sandwiches,Double Decker Grilled Sandwich,1,0,,280.0
+Burgers and Sandwiches,Paneer Grilled Sandwich,1,0,,300.0
+Burgers and Sandwiches,Open Cheese Toast Sandwich,1,0,,340.0
+Burgers and Sandwiches,Special Grilled Sandwich,1,0,,370.0
+Burgers and Sandwiches,Aloo Tikki Burger,1,0,,140.0
+Burgers and Sandwiches,Double Tikki Burger,1,0,,160.0
+Burgers and Sandwiches,Veg Burger,1,0,,180.0
+Burgers and Sandwiches,Mexican Burger,1,0,,190.0
+Burgers and Sandwiches,Cheese Blast Burger,1,0,,240.0
+Burgers and Sandwiches,Special Burger,1,0,,270.0
+Snacks,Smiley,1,0,,160.0
+Snacks,Mayo Smiley,1,0,,190.0
+Snacks,Cheesy Nachos,1,0,,210.0
+Snacks,Double Cheesy Nachos,1,0,,240.0
+Snacks,Cheese Ball,1,0,,270.0
+Snacks,Schezwan Cheese Ball,1,0,,300.0
+Snacks,Mayo Cheese Ball,1,0,,300.0
+Snacks,Cheesy Cheese Ball,1,0,,340.0
+Snacks,Special Cheese Ball,1,0,,370.0
+Snacks,Veg Cheese Biscuit Pie,1,0,,160.0
+Snacks,Schezwan Cheese Biscuit Pie,1,0,,190.0
+Snacks,Mayo Cheese Biscuit Pie,1,0,,210.0
+Snacks,Tandoori Cheese Biscuit Pie,1,0,,230.0
+Snacks,Special Paneer Biscuit Pie,1,0,,260.0
+Snacks,Simply Garlic Bread,1,0,,160.0
+Snacks,Cheese Garlic Bread,1,0,,230.0
+Snacks,Corn Garlic Bread,1,0,,260.0
+Snacks,Chilli Cheese Garlic Bread,1,0,,270.0
+Snacks,Exotic Garlic Bread,1,0,,300.0
+Snacks,Paneer Garlic Bread,1,0,,340.0
+Snacks,Special Garlic Bread,1,0,,370.0
+Snacks,Simply Salted Fries,1,0,,160.0
+Snacks,Peri Peri Fries,1,0,,180.0
+Snacks,Schezwan Peri Fries,1,0,,190.0
+Snacks,Mayo Peri Fries,1,0,,190.0
+Snacks,Cheesy Fries,1,0,,210.0
+Snacks,Schezwan Mayo Fries,1,0,,240.0
+Snacks,Schezwan Cheesy Fries,1,0,,260.0
+Snacks,Mayo Cheesy Fries,1,0,,260.0
+Snacks,Special Fries,1,0,[Veg preparation],280.0
+Maggi,Masala Maggi,1,0,,100.0
+Maggi,Veg Maggi,1,0,,140.0
+Maggi,Cheese Maggi,1,0,,140.0
+Maggi,Veg Cheese Maggi,1,0,,180.0
+Maggi,Schezwan Maggi,1,0,,160.0
+Maggi,Cheese Garlic Maggi,1,0,,180.0
+Maggi,Schezwan Mayo Maggi,1,0,,190.0
+Maggi,Crunch Maggi,1,0,,210.0
+Maggi,Special Maggi,1,0,,240.0
+Pastries,Black Forest Pastry,1,0,,180.0
+Pastries,Pineapple Pastry,1,0,,180.0
+Pastries,Blueberry Pastry,1,0,,180.0
+Pastries,Chocolate Chips Pastry,1,0,,190.0
+Pastries,Blackcurrant Pastry,1,0,,190.0
+Pastries,Red Velvet Pastry,1,0,,210.0
+Pastries,Royal Chocolate Pastry,1,0,,230.0
+Drinks (Beverages),Lemon Mint Mojito,1,0,[Non Alcoholic],230.0
+Drinks (Beverages),Litchi Mojito,1,0,[Non Alcoholic],230.0
+Drinks (Beverages),Strawberry Mojito,1,0,[Non Alcoholic],230.0
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],230.0
+Drinks (Beverages),Litchi Float,1,0,,230.0
+Drinks (Beverages),Strawberry Float,1,0,,230.0
+Drinks (Beverages),Green Apple Float,1,0,,230.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,230.0
+Drinks (Beverages),Peach Iced Tea,1,0,,230.0
+Drinks (Beverages),Cold Coffee,1,0,,180.0
+Drinks (Beverages),Coffee with Vanilla Ice Cream,1,0,,220.0
+Drinks (Beverages),Choco Frappe,1,0,,220.0
+Drinks (Beverages),Strawberry Shake,1,0,,230.0
+Drinks (Beverages),Litchi Shake,1,0,,230.0
+Drinks (Beverages),Butterscotch Shake,1,0,,230.0
+Drinks (Beverages),Chocolate Shake,1,0,,270.0
+Drinks (Beverages),Oreo Shake,1,0,,280.0
+Drinks (Beverages),KitKat Shake,1,0,,300.0
+Drinks (Beverages),Nutella Shake,1,0,,310.0
+Drinks (Beverages),Dry Fruit Shake,1,0,,340.0

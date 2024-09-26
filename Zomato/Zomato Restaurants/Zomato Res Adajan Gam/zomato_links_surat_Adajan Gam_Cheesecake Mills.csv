@@ -1,0 +1,18 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,New York Cheesecake and Blueberry Cheesecake,1,0,,468.0
+Combos,Biscoff and Blueberry Cheesecake,1,0,,504.0
+Combos,Oreo Nutella and New york cheesecake,1,0,Oreo Nutella and New york cheesecake,468.0
+Combos,Oreo Nutella and Blueberry Cheesecake,1,0,Oreo Nutella and Blueberry Cheesecake,488.0
+Combos,Strawberry and Blueberry Cheesecake,1,0,Strawberry and Blueberry Cheesecake,476.0
+Cheesecakes,New York Style Cheesecake,1,0,"New york style is a classic cheesecake and our bestseller as well, its ... read more",255.0
+Cheesecakes,Blueberry Cheesecake,1,0,Blueberry compote spread on top of nyc classic cheesecake.,290.0
+Cheesecakes,Biscoff Cheesecake,1,0,,330.0
+Cheesecakes,Strawberry Cheesecake,1,0,Fresh strawberry compote spread on top of nyc classic cheesecake.,270.0
+Cheesecakes,Nutella Classic Cheesecake,1,0,Topping of Nutella spread on New York style cheesecake.,300.0
+Cheesecakes,Oreo Nutella Cheesecake,1,0,,300.0
+Cheesecakes,Mocha Cheesecake,1,0,One of our premium cheesecake offering. Mocha is made with oreo cookie base ... read more,330.0
+Cheesecakes,Dark Chocolate Cheesecake,1,0,,340.0
+Cheesecakes,White Chocolate Blueberry Cheesecake,1,0,,370.0
+Cheesecakes,Ferrero Rocher Cheesecake,1,0,,420.0
+Cheesecakes,Fresh Mango Cheesecake,1,0,,330.0
+Sandwich,Caprese Sandwich,1,0,,325.0

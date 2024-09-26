@@ -1,0 +1,142 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Broccoli Almond Soup,1,0,Creamy Thick Soup Made Of Broccoli & Topped With Almond,355.0
+Soup,Cottage Cheese Exotic Soup,1,0,Exotic Veggies With Julinnes Cutting Paneer,315.0
+Soup,Cream Of Mushroom Soup,1,0,Chopped Buttom Mushroom Enriched With Cream,355.0
+Soup,Khow-Suey Soup,1,0,Traditional Burma Delicious Served With Different Accompaniments,355.0
+Soup,Lemon Coriander Soup,1,0,Taste It To Soothen Your Sense,285.0
+Soup,Manchow Soup,1,0,Thick Veg Soup Flavoured With Dark Soya & Served With Crispy Noodles,285.0
+Soup,Mehfil-Ka-Pyala Soup,1,0,A Medium Spicy Soup Blend Of Coconut & Served With Soft Noodles,325.0
+Soup,Mexican Chilly Tortilla Soup,1,0,A Classic Mexican Soup With Bleand Of Kidney Beans American Corn Served With ... read more,392.0
+Soup,Sweet Corn Soup,1,0,Sweet Corn Topped With Chopped Veggies,315.0
+Soup,Tom Yom Phak Soup,1,0,Thai Veg Soup Spiked With Galangal Lemon Grass & Hot Chilly,355.0
+Soup,Tomato Basil Soup,1,0,,285.0
+Soup,Tomato Creamy Soup,1,0,,285.0
+Soup,Veg Clear Soup,1,0,Clear Healthy Soup Served With Vegetable,285.0
+Soup,Veg Thai Soup,1,0,Coconut Cream Base Thik Soup Served With English Veggies,325.0
+Fries,Cheesy French Fries,1,0,,399.0
+Fries,French Fries,1,0,,225.0
+Fries,Peri Peri French Fries,1,0,,255.0
+Fries,Special Garlic French Fries,1,0,,340.0
+Starters,Apka Hindustani Paneer Tikka,1,0,Two Type Of Paneer Tikka Served,625.0
+Starters,Broccoli Lollipop,1,0,Broccoli Lollipop Tossed Schezwan Sauce And Served With Chef Special Sauce,595.0
+Starters,Bruschetta,1,0,Cheese Veggies Bread Baked In Oven,410.0
+Starters,Cheese Corn Ball,1,0,Cheese Ball Made Of Cheese & Corn,515.0
+Starters,Cheese Garlic Bread,1,0,Bread Slice With Spread Of Garlic Butter And Topped With Cheese & ... read more,330.0
+Starters,Cheese Pepper Roll,1,0,Roll Stuffed With Slice Cheese And Veggies Served With Schezwan Sauce,499.0
+Starters,Chilli Paneer,1,0,Paneer And Bell Pepper Tossed With Chilli Soya Sauce,499.0
+Starters,Crispy Hong Kong,1,0,Cotted Fried Corn Tossed With Bell Pepper Onion & Sriracha Sauce,405.0
+Starters,Crispy Nachos With Salsa,1,0,Maize Flour Chips Served With Sour Cream & Salsa,430.0
+Starters,Crispy Veg,1,0,Crispy Fried Vegetable Tossed In Sehezwan Sauce,425.0
+Starters,Crispy Water Chestnut,1,0,Fried Water Chestnut Bell Pepper & Onion Tossed With Honey Chilli Sauce,590.0
+Starters,Exotic Bruschetta,1,0,Bread Slice Topped With Chopped Exotic Veggies & Cheese,450.0
+Starters,Hara Bhara Kebab,1,0,All Time Favourite Fried Kebab Made Of Greens Topped With Cashe,430.0
+Starters,Kashmiri Paneer Tikka,1,0,Paneer With Tossed Of Chef Secret Ingredients,640.0
+Starters,Lahori Paneer Tikka,1,0,Marinated Paneer Stuffed With Cheese & Chutney Roasted In Clay Oven,640.0
+Starters,Lasooni Soya Chaap,1,0,Chaap Marinated Garlic & Indian Spices,530.0
+Starters,Malai Paneer Tikka,1,0,Soft Paneer Marenated With Malai Creamy Cheese,650.0
+Starters,Manchurian Dry,1,0,All Time Favourite Veg Dumpling Tossed With Chines Sauce,390.0
+Starters,Mehfil E Mushroom,1,0,Two Type Of Mushroom Tikka,580.0
+Starters,Overload Nachos,1,0,Maize Flour Chips Serve With Loaded Mexican Topping Salsa & Cheese Sauce,450.0
+Starters,Palak Corn Seekh Kebab,1,0,"( Minced Spinach , American corn Mixed Qith Indian Spice Served With Green ... read more",350.0
+Starters,Paneer Cheese Chilli Garlic Kebab,1,0,Chef Special Creamy Roasted Kebeb,635.0
+Starters,Paneer Cheese Seekh Kebab,1,0,"Minced Vegetable , Paneer , Cheese Mixed With Indian Spice",430.0
+Starters,Paneer Satay,1,0,"Paneer Served Shashlik Stick Peanut Butter ,Bell Pepper ,Onion",520.0
+Starters,Singapuri Chilli Paneer,1,0,Cottage Cheese Tossed With Singapuri Sauce,499.0
+Starters,Soya Chaap Gilori,1,0,"( Stuffed Cheese , Mix Cottage Cheese With Mild Sweet Flavour )",410.0
+Starters,Sunrise Bruschetta,1,0,"Sunrise Tomato , Basil , Olive , Mexican Seasoning , Cheese",450.0
+Starters,Tandoori Chefs Special Platter,1,0,"2 Type Paneer Tikka , 2 Type Kebab , Mushroom , Broccoli Soya ... read more",890.0
+Starters,Tandoori Soya Chaap,1,0,Marinated Soya Chaap Roasted In Tandoor,530.0
+Indian Main Course,Avadhi Paneer,1,0,Stuffed Paneer With Yellow Spicy Gravy,585.0
+Indian Main Course,Cheese Butter Masala,1,0,Cheese Cube Cooked In Tomato Gravy Masala With Butter,585.0
+Indian Main Course,Chef Special Paneer,1,0,Healthy Paneer Tikka & Grated Cheese Served Rice Red Gravy Made With Chef,595.0
+Indian Main Course,Chef Special Soya Chaap,1,0,Soft Soya Cooked In Chef Special Gravy & Masala,635.0
+Indian Main Course,Dum Aloo,1,0,Baby Potato Simmered In Punjabi Spical Brown Gravy,490.0
+Indian Main Course,Kaju Cheese Masala,1,0,Cashew Cooked In Rich Tomato Gravy With Indian Spices Topped With Cheese Cube,635.0
+Indian Main Course,Kaju Paneer Tikka Masala,1,0,Tandoori Paneer Tikka Simmered In Rice Tomato Gravy And Roasted Cashew Nut Cooked ... read more,650.0
+Indian Main Course,Malai Kofta,1,0,"Rice Soft Nuts , Paneer Kofta Cooked In Malai Gravy",635.0
+Indian Main Course,Nargisi Kofta,1,0,Chef Special Kofta Served In Rice Tomata Gravy,635.0
+Indian Main Course,Paneer Angara,1,0,Small Cutting Of Paneer In Hot And Tang Gravy Served In Sizzling Tawa ... read more,650.0
+Indian Main Course,Paneer Begam Bagar,1,0,Triangle Paneer Served In Red & Yellow Gravy,595.0
+Indian Main Course,Paneer Kadai,1,0,"Bell Pepper , Onion , Paneer Cooked In Tasty Fusion Gravy",585.0
+Indian Main Course,Paneer Lababder,1,0,Finger Cutting Paneer Cooked With Rice Creamy Tomato Gravy,585.0
+Indian Main Course,Paneer Zaykedar,1,0,Julienns Cut Of Paneer Served With Creamy Fusion Red & Yellow Gravy,635.0
+Indian Main Course,Shaam Savera Kofta,1,0,( Cheesy Spinach Kofta Served In Yellow And Green Gravy Seperately ),495.0
+Indian Main Course,Subz Chatpata,1,0,Rich Tomato Gravy Touch With Onion Gravy And Indian Chatpata Masala,495.0
+Indian Main Course,Subz Desi Vilayati,1,0,Indian And English Vegetable Cooked With Red Gravy,580.0
+Indian Main Course,Subz Diwani Handi,1,0,Fresh Vegetable Cooked In Onion And Spinach Gravy,495.0
+Indian Main Course,Subz Jaipuri,1,0,Mix Vegetable Cooked In Yellow Gravy,505.0
+Indian Main Course,Subz Kolhapuri,1,0,Indian Vegetable Cooked In Red Gravy & Kolhapuri Masala,350.0
+Indian Main Course,Turkish Keema Masala,1,0,Chopped Vegetable & Soya Keema Cooked In Chef Special Gravy,635.0
+Dal,Dal Fry,1,0,,330.0
+Dal,Dal Khichdi,1,0,,435.0
+Dal,Dal Makhani,1,0,,510.0
+Dal,Dal Palak,1,0,,375.0
+Dal,Dal Tadka,1,0,,235.0
+Indian Breads,Butter Kulcha,1,0,,112.0
+Indian Breads,Butter Naan,1,0,,112.0
+Indian Breads,Butter Roti,1,0,,85.0
+Indian Breads,Cheese Garlic Naan,1,0,,196.0
+Indian Breads,Chilli Garlic Naan,1,0,,140.0
+Indian Breads,Garlic Naan,1,0,,133.0
+Indian Breads,Lachha Paratha,1,0,,112.0
+Indian Breads,Missi Roti,1,0,,126.0
+Indian Breads,Onion Kulcha,1,0,,140.0
+Indian Breads,Peri Peri Cheese Naan,1,0,,203.0
+Indian Breads,Plain Naan,1,0,,105.0
+Indian Breads,Plain Roti,1,0,,77.0
+Indian Breads,Roti Ki Tokri,1,0,( Butter Roti / Lachha Paratha / Missi Roti / Garlic Naan/ Kulcha),693.0
+Indian Breads,Stuffed Kulcha,1,0,,182.0
+Basmati Ki Kamal,Dum Biriyani,1,0,,490.0
+Basmati Ki Kamal,Hydrabadi Biriyani,1,0,,490.0
+Basmati Ki Kamal,Jeera Rice,1,0,,343.0
+Basmati Ki Kamal,Navratan Pulav,1,0,,435.0
+Basmati Ki Kamal,Steamed Rice,1,0,,295.0
+Basmati Ki Kamal,Veg Pulav,1,0,,415.0
+Noodles & Rice,Brunt Garlic Rice,1,0,,410.0
+Noodles & Rice,Chef Special Bhel,1,0,,475.0
+Noodles & Rice,Chilli Garlic Noodles,1,0,,445.0
+Noodles & Rice,Fried Rice,1,0,,375.0
+Noodles & Rice,Hakka Noodles,1,0,,445.0
+Noodles & Rice,Mexican Rice With Gravy,1,0,,615.0
+Noodles & Rice,Schezwan Noodles,1,0,,445.0
+Noodles & Rice,Schezwan Rice,1,0,,385.0
+Noodles & Rice,Singapori Noodles,1,0,,445.0
+Noodles & Rice,Thai Curry With Curry Rice,1,0,,580.0
+Noodles & Rice,Triple Schezwan,1,0,,550.0
+Pizza,Margherita Pizza [12 Inch],1,0,"Tomato Sauce , Fresh Mozzarella Cheese , Basil , Tomato Slice",550.0
+Pizza,Mexican Pizza [12 Inch],1,0,"Mexican Topping With Bell Pepper , Jalapino , Trotilla Chips",720.0
+Pizza,Tandoori Paneer Tikka Pizza [12 Inch],1,0,"Our Uniqie Tandoori Sauce Pizza With Paneer Tikka ,Onion , Capsicum & Loads ... read more",699.0
+Pizza,Triple Cheese Pizza [12 Inch],1,0,"Mozzarella Cheese , Feta Cheese , Process Cheese Three Types Of Bell Pepper ... read more",755.0
+Pizza,Veg Farm House Pizza [12 Inch],1,0,"Delightful Combination Of Onion , Capsicum , Bell Pepper ,American Corn , Mushroom ... read more",699.0
+Pasta,Agli Olio Pasta,1,0,"Spaghetti Tossed With Olive Oil , Olives , Broccoli , Garlic And Parmesan ... read more",515.0
+Pasta,Alfredo Pasta,1,0,Pasta Cooked In Creamy Cheese Sauce With Exotic Veggies,515.0
+Pasta,Arrabita Pasta,1,0,Pasta Cooked In Spicy Tomato Sauce And Exotic Veggies Served With Garlic Bread,495.0
+Pasta,Creamy Pesto Pasta,1,0,Pasta Cooked In Creamy Basil Cheese Sauce,595.0
+Pasta,Del Brano Pasta,1,0,Pasta Tossed In Mix Sauce And Veggies,575.0
+Pasta,Pasta N Pasta,1,0,Pasta Cooked In Red And White Sauce Separatly With American Corn,610.0
+Sandwich,Bread Butter,1,0,,135.0
+Sandwich,Paneer Tikka Double Decker Sandwich,1,0,,390.0
+Sandwich,Vegetable Cheese Grilled Sandwich,1,0,,345.0
+Sandwich,Vegetable Cheese Sandwich,1,0,,265.0
+Papad,Fry Papad,1,0,,63.0
+Papad,Khichiya Papad,1,0,,91.0
+Papad,Roasted Papad,1,0,,56.0
+Raita,Masala Chaas,1,0,,90.0
+Raita,Mix Veg Raita,1,0,,155.0
+Raita,Pineapple Raita,1,0,,180.0
+Raita,Plain Chaas,1,0,,80.0
+Raita,Plain Curd,1,0,,130.0
+Raita,Sweet & Salted Lassi,1,0,,150.0
+Raita,Sweet Lassi,1,0,,140.0
+Health & Nutrition,Exotic Vegetables (hot),1,0,(Exotic Vegetables Tossed In Olive Oil And Herbs),450.0
+Health & Nutrition,Greek Salad,1,0,,280.0
+Health & Nutrition,Green Garden Salad,1,0,,265.0
+Health & Nutrition,Russian Salad,1,0,(An Assortment of vegetables Served With Mayonnaise Dressing ),340.0
+Health & Nutrition,Waldorf Salad,1,0,( A Traditional Salad of Washington Apple & Walnuts Dressing With ... read more,365.0
+Mocktails,Kaju Anjeer Shake,1,0,,390.0
+Mocktails,Pinacolada,1,0,"Pineapple Juice , Coconut Syrup , Triple Shake Syrup",410.0
+Shake,Oreo Thick Shake,1,0,,390.0
+Thali,Mehfil E Thali,1,0,"( 1 paneer Subz , 1 Mix Veg Subz , Dal , Rice ... read more",399.0
+Chaat,Dahi Papdi Chaat,1,0,,150.0
+Chaat,Dahi Puri,1,0,,120.0
+Chaat,Panipuri,1,0,,80.0

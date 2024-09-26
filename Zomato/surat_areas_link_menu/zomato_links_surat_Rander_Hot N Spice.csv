@@ -1,0 +1,150 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos & Thali,Veg Manchurian with Fried Rice,1,0,Veg Manchurian [250 grams]+Fried Rice [300 grams]+Salad+Coke Soft Beverage [200 ml] [Subject To ... read more,199.0
+Combos & Thali,Veg Manchurian with Hakka Noodles,1,0,Veg Manchurian [250 grams]+Hakka Noodles [300 grams]+Salad+Coke Soft Beverage [200 ml] [Subject To ... read more,199.0
+Combos & Thali,Chicken Chilli Dry with Chicken Fried Rice,0,0,Chicken Chilli Dry [250 grams]+Chicken Fried Rice [300 grams]+Salad+Coke Soft Beverage [200 ml] ... read more,220.0
+Combos & Thali,Chicken Chilli Dry with Chicken Hakka Noodles,0,0,Chicken Chilli Dry [250 grams]+Chicken Hakka Noodles [300 grams]+Salad+Coke Soft Beverage [200 ml] ... read more,220.0
+Combos & Thali,Chicken Fried Rice with Chicken 65,0,0,Chicken Fried Rice [300 grams]+Chicken 65 [250 grams]+Salad+Coke Soft Beverage [200 ml] [Subject ... read more,220.0
+Combos & Thali,Chicken Hakka Noodles with Chicken 65,0,0,Chicken Hakka Noodles [300 grams]+Chicken 65 [250 grams]+Salad+Coke Soft Beverage [200 ml] [Subject ... read more,220.0
+Combos & Thali,"Chicken Dum Biryani [Serves 1, 500 ml] with Coke Soft Beverage [200 ml]",0,0,,180.0
+Combos & Thali,Butter Chicken with 3 Chapati,0,0,Butter Chicken [300 grams]+3 Chapati+Salad+Coke Soft Beverage [200 ml] [Subject to Availability],259.0
+Combos & Thali,Chicken Masala Boneless with 3 Chapati,0,0,Chicken Masala [300 grams]+3 Chapati+Salad+Coke Soft Beverage [200 ml] [Subject to Availability],259.0
+Combos & Thali,Chicken Handi Boneless with 3 Chapati,0,0,Chicken Handi Boneless [300 grams]+3 Chapati+Salad+Coke Soft Beverage [200 ml] [Subject to Availability],259.0
+Combos & Thali,Chicken Dragon Kabsa,0,0,Served with dry masala and 1 boiled egg topping.,350.0
+Starters,Veg Manchurian,1,0,,70.0
+Starters,Paneer Chilli,1,0,,150.0
+Starters,Paneer Crispy,1,0,,150.0
+Starters,Chicken 65,0,0,,120.0
+Starters,Maska Chicken,0,0,,190.0
+Starters,Chicken Schezwan Dry,0,0,,190.0
+Starters,Chicken Shanghai Dry,0,0,,190.0
+Starters,Chicken Thai Spice,0,0,,190.0
+Starters,Chicken Green Thai Dry,0,0,,190.0
+Starters,Chicken Burn Chilli Dry,0,0,,190.0
+Starters,Chicken Hot and Spice Dry,0,0,,190.0
+Starters,Chicken Crispy Dry,0,0,,190.0
+Starters,Bbq Chicken Dry,0,0,,190.0
+Starters,Chicken Hunan Chilli Dry,0,0,,190.0
+Starters,Chicken Chilli Dry,0,0,,190.0
+Starters,Chicken Golden Dry,0,0,,190.0
+Starters,Chicken Apple Lollipop,0,0,,190.0
+Starters,Chicken Crunchy Tukda,0,0,,300.0
+Starters,Boneless Chicken 65 Dry,0,0,,160.0
+Starters,Chicken Kurkure,0,0,Yummy chicken kurkure light spicy.,260.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,110.0
+Fried Rice and Noodles,Veg Singapore Noodles,1,0,,100.0
+Fried Rice and Noodles,Veg Chilli Garlic Noodles,1,0,,110.0
+Fried Rice and Noodles,Veg Green Thai Noodles,1,0,,110.0
+Fried Rice and Noodles,Veg Burnt Chilli Noodles,1,0,,110.0
+Fried Rice and Noodles,Veg Butter Garlic Noodles,1,0,,110.0
+Fried Rice and Noodles,Veg Burnt Garlic Noodles,1,0,,110.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,110.0
+Fried Rice and Noodles,Veg Hot and Spicy Noodles,1,0,,130.0
+Fried Rice and Noodles,Veg Hong Kong Noodles,1,0,,110.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,,140.0
+Fried Rice and Noodles,Chicken Green Thai Noodles,0,0,,140.0
+Fried Rice and Noodles,Chicken Hakka Noodles,0,0,,140.0
+Fried Rice and Noodles,Chicken Singapore Noodles,0,0,,140.0
+Fried Rice and Noodles,Chicken Hunan Chilli Noodles,0,0,,150.0
+Fried Rice and Noodles,Chicken Hot and Spice Noodles,0,0,,160.0
+Fried Rice and Noodles,Chicken Butter Garlic Noodles,0,0,,160.0
+Fried Rice and Noodles,Chicken Burnt Chilli Noodles,0,0,,160.0
+Fried Rice and Noodles,Chicken Hong Kong Noodles,0,0,,160.0
+Fried Rice and Noodles,Chicken Burnt Garlic Noodles,0,0,,160.0
+Fried Rice and Noodles,Chicken Pot Noodles,0,0,,180.0
+Fried Rice and Noodles,Chicken BBQ Noodles,0,0,,160.0
+Fried Rice and Noodles,Chicken Chilli Garlic Noodles,0,0,,160.0
+Fried Rice and Noodles,American Chopsuey,0,0,,250.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,110.0
+Fried Rice and Noodles,Veg Schezwan Rice,1,0,,80.0
+Fried Rice and Noodles,Veg Soya Fried Rice,1,0,,110.0
+Fried Rice and Noodles,Veg Chilli Garlic Rice,1,0,,130.0
+Fried Rice and Noodles,Veg Burn Chilli Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Veg Green Thai Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Veg Singapore Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Veg Butter Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Veg Burnt Garlic Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Chicken Soya Fried Rice,0,0,,140.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,,140.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,140.0
+Fried Rice and Noodles,Chicken Chilli Garlic Fried Rice,0,0,,150.0
+Fried Rice and Noodles,Chicken Burnt Chilli Fried Rice,0,0,,150.0
+Fried Rice and Noodles,Chicken Butter Fried Rice,0,0,,150.0
+Fried Rice and Noodles,Chicken Singapore Fried Rice,0,0,,150.0
+Fried Rice and Noodles,Chicken Burnt Garlic Fried Rice,0,0,,150.0
+Fried Rice and Noodles,Chicken Green Thai Fried Rice,0,0,,150.0
+Fried Rice and Noodles,Chicken Chilli Kepsa,0,0,,300.0
+Fried Rice and Noodles,Chicken Dragon Kabsa,0,0,Served with dry masala and 1 boiled egg topping.,350.0
+Fried Rice and Noodles,Chicken Pizza Rice,0,0,No spicy wIth cheese topping.,380.0
+Fried Rice and Noodles,Chicken Green Thai Chilli Rice with Gravy,0,0,,170.0
+Fried Rice and Noodles,Chicken Green Thai Fry Rice,0,0,,150.0
+Main Course,Chicken Masala,0,0,,140.0
+Main Course,Chicken Tawa Fry,0,0,,140.0
+Main Course,Chicken 65 Masala,0,0,,150.0
+Main Course,Achari Chicken,0,0,,150.0
+Main Course,Kashmiri Chicken,0,0,,150.0
+Main Course,Green Chicken,0,0,,150.0
+Main Course,Kolhapuri Chicken,0,0,,150.0
+Main Course,Butter Chicken,0,0,,150.0
+Main Course,Hyderabadi Chicken,0,0,,150.0
+Main Course,Chicken Handi,0,0,,150.0
+Main Course,Chicken Kadhai,0,0,,150.0
+Main Course,Chicken Tawa Masala,0,0,,170.0
+Main Course,Chicken Amdawadi Tawa,0,0,,180.0
+Main Course,Chicken 65 Masala Boneless,0,0,,200.0
+Main Course,Chicken Masala Boneless,0,0,,200.0
+Main Course,Achari Chicken Boneless,0,0,,200.0
+Main Course,Kashmiri Chicken Boneless,0,0,,200.0
+Main Course,Lemon Chicken Boneless,0,0,,200.0
+Main Course,Kolhapuri Chicken Boneless,0,0,,200.0
+Main Course,Butter Chicken Boneless,0,0,,200.0
+Main Course,Hyderabadi Chicken Boneless,0,0,,200.0
+Main Course,Chicken Handi Boneless,0,0,,200.0
+Main Course,Chicken Kadhai Boneless,0,0,,200.0
+Main Course,Chicken Special Tawa Fry,0,0,,200.0
+Main Course,Chicken Patiyala,0,0,,200.0
+Main Course,Chicken Bhuna,0,0,,220.0
+Main Course,Chicken Chatpata,0,0,,240.0
+Main Course,Chicken Afghani,0,0,,250.0
+Main Course,Chicken Toofani,0,0,,250.0
+Main Course,Chicken Tikka Fry,0,0,,260.0
+Main Course,Chicken Darbari,0,0,,220.0
+Main Course,Chicken Gravy Special,0,0,,300.0
+Main Course,Chicken Zafrani Gravy,0,0,,350.0
+Rice and Biryani,Egg Pulao,0,0,,80.0
+Rice and Biryani,Chicken Tikka Pulao,0,0,,150.0
+Rice and Biryani,Chicken Bhuna Pulao,0,0,,160.0
+Rice and Biryani,Chicken Hunan Chilli Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken Chilli Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken Crispy Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken Burn Chilli Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken BBQ Chilli Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken Schezwan Pepper Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken Dragon Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken Bamboo Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken Hot and Spicy Chilli Fried Rice with Dry Masala,0,0,,170.0
+Rice and Biryani,Chicken Hakka Pot Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken Triple Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Chicken Oyster Chilli Fried Rice with Gravy,0,0,,170.0
+Rice and Biryani,Toofani Pulao,0,0,,170.0
+Rice and Biryani,Chicken Chatpata Pulao,0,0,,170.0
+Rice and Biryani,Chicken Afghani Pulao,0,0,,170.0
+Rice and Biryani,Chicken Darbari Pulao,0,0,,180.0
+Rice and Biryani,Chicken Golden Pulao,0,0,,200.0
+Rice and Biryani,Chicken boneless Kabsa,0,0,With dry masala rice + boiled egg topping,400.0
+Rice and Biryani,Boneless Chicken Biryani,0,0,,190.0
+Rice and Biryani,Chicken Biryani,0,0,Chicken biryani.,180.0
+Rice and Biryani,Chicken Dum Biryani [Serves 1],0,0,,100.0
+Snacks,Veg Bhel,1,0,,100.0
+Snacks,Chicken Shawarma Wrap,0,0,,80.0
+Snacks,Chicken Bhel,0,0,,120.0
+Soups,Chicken Manchow Soup,0,0,,100.0
+Soups,Chicken Hot and Sour Soup,0,0,,100.0
+Soups,Chicken Hot and Spice Soup,0,0,,120.0
+Soups,Chicken Dragon Soup,0,0,,120.0
+Soups,Veg Manchow Soup,1,0,,80.0
+Soups,Veg Hot and Sour Soup,1,0,,80.0
+Soups,Veg Dragon Soup,1,0,,80.0
+Breads,Chapati,1,0,,12.0
+Breads,Butter Chapati,1,0,,20.0
+Breads,Kulcha,1,0,,25.0
+Breads,Butter Kulcha,1,0,,40.0

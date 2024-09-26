@@ -1,0 +1,286 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pav Bhaji,Pav Bhaji,1,0,A delightful vegetarian medley full of authentic flavors that will tantalize your taste ... read more,250.0
+Pav Bhaji,Jain Pav Bhaji [2 Pav],1,0,Delicious and flavorsome vegetarian pav bhaji dish inspired by Jain cuisine.,250.0
+Pav Bhaji,No Onion Garlic Pav Bhaji,1,0,,250.0
+Pav Bhaji,Khada Pav Bhaji,1,0,A flavorful and satisfying vegetarian delicacy that will take your taste buds on ... read more,270.0
+Pav Bhaji,Masala Pav Bhaji [2 Pav],1,0,A savory and flavorful delight that combines a medley of vegetables with aromatic ... read more,295.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,Indulge in a delectable medley of flavors with this creamy and cheesy twist ... read more,295.0
+Pav Bhaji,Cheese Khada Pav Bhaji,1,0,,315.0
+Pav Bhaji,Only Bhaji,1,0,"A mouthwatering and flavorful medley of vegetables served with soft buns, creating the ... read more",205.0
+Pav Bhaji,Special Dry Fruit Pav Bhaji,1,0,,315.0
+Pav Bhaji,Paneer Khada Pav Bhaji,1,0,,315.0
+Pav Bhaji,Special Masala Pav,1,0,"A delectable blend of flavors and spices, this savory dish is a must-try ... read more",195.0
+Pav Bhaji,Chutney Masala Pav,1,0,"A mouthwatering blend of flavors and textures, this veg delicacy is sure to ... read more",180.0
+Pav Bhaji,Pav Sandwich,1,0,A divine and flavorful sandwich bursting with a medley of delectable vegetables.,225.0
+Pav Bhaji,Extra Butter Pav [1 Piece],1,0,Indulge in an irresistible delight brimming with savory flavors that will leave you ... read more,25.0
+Pav Bhaji,Kadak Pav (Single),1,0,,30.0
+Pav Bhaji,Chutney Fry,1,0,,70.0
+Pav Bhaji,Onion Fry,1,0,,70.0
+Snacks,Upma,1,0,,90.0
+Snacks,Sheera,1,0,[Dessert],115.0
+Snacks,Dahi Wada,1,0,,135.0
+Snacks,Potato Wada,1,0,"Crispy and flavorful, this veggie snack is a perfect blend of seasoned potatoes ... read more",90.0
+Snacks,Toast Butter,1,0,,70.0
+Snacks,Jam Butter,1,0,,70.0
+Snacks,Jam Toast,1,0,,90.0
+Snacks,Veg. Tomato Omlette,1,0,[Veg preparation],160.0
+Snacks,Puri Bhaji,1,0,,135.0
+Snacks,Vada Pav (Single),1,0,A satisfying and flavorful veg snack bursting with delightful flavors and textures.,45.0
+Snacks,Misal Pav,1,0,A flavorful and aromatic vegetarian snack bursting with a perfect blend of regional ... read more,135.0
+Snacks,Dahi Misal,1,0,,160.0
+Snacks,Vada Usal,1,0,,170.0
+Snacks,Usal Pav,1,0,,135.0
+Snacks,Nachos (Cheese Tomato Salsa),1,0,,315.0
+Idlis,Steamed Idli [2 Pieces],1,0,"Soft, fluffy steamed idlis that melt in your mouth, a perfect vegetarian delight ... read more",90.0
+Idlis,Vada Sambar,1,0,"A satisfying and flavorful combination of crispy, savory vadas immersed in a divine ... read more",90.0
+Idlis,Idli Vada,1,0,Idli [1 piece]+Vada [1 piece],90.0
+Idlis,Dahi Idi,1,0,,130.0
+Idlis,Idli Fry,1,0,,115.0
+Idlis,Tawa Idli,1,0,,195.0
+Idlis,Idli Chilly,1,0,,225.0
+Dosas,Mysore Masala Bhaji Dosa,1,0,,150.0
+Dosas,Sada Dosa,1,0,"A classic South Indian delight, this flavorful dosa is a favorite among vegetarians.",100.0
+Dosas,Masala Dosa,1,0,,120.0
+Dosas,Mysore Sada,1,0,,135.0
+Dosas,Mysore Masala Dosa ( Mumbai Style - Punjabi Bhaji ),1,0,Mysore dosa with red punjabi masala,150.0
+Dosas,Rava Sada,1,0,,120.0
+Dosas,Rava Masala,1,0,,135.0
+Dosas,Palak Dosa,1,0,,135.0
+Dosas,Palak Masala Dosa,1,0,,150.0
+Dosas,Onion Rava Sada,1,0,,135.0
+Dosas,Onion Rava Masala,1,0,,150.0
+Dosas,Paper Sada Dosa,1,0,,270.0
+Dosas,Paper Masala Dosa,1,0,,325.0
+Soups,Veg. Clear Soup,1,0,,160.0
+Soups,Veg. Manchow Soup,1,0,,160.0
+Soups,Tomato Soup,1,0,,160.0
+Soups,Veg. Sweet Corn Soup,1,0,,160.0
+Soups,Veg. Hot & Sour Soup,1,0,,160.0
+Soups,Veg. Dragon Soup,1,0,,160.0
+Soups,Veg. Talumein Soup,1,0,,160.0
+Soups,Veg. Noodles Soup,1,0,,160.0
+Soups,Spl. Tom Yum Soup,1,0,,160.0
+Soups,Veg. Mushroom Soup,1,0,,180.0
+Soups,Mushroom Manchow Soup,1,0,,180.0
+Soups,Tomato Basil Soup,1,0,,160.0
+Soups,Cream Of Veg Soup,1,0,,160.0
+Soups,Palak Soup,1,0,,160.0
+Soups,Cream Of Broccoli Soup,1,0,,180.0
+Soups,Cream Of Mushroom Soup,1,0,,180.0
+Soups,Minestrone Soup,1,0,,180.0
+Soups,Broccoli Soup,1,0,,180.0
+Special Dosas,Baby Dosa,1,0,,115.0
+Special Dosas,Set Dosa,1,0,,160.0
+Special Dosas,Neer Dosa,1,0,,150.0
+Special Dosas,Chilly Milly Dosa,1,0,,160.0
+Special Dosas,Spring Dosa,1,0,,180.0
+Special Dosas,Crispy Schezwan Dosa,1,0,,195.0
+Special Dosas,Noodle Dosa,1,0,,180.0
+Special Dosas,Manchurian Dosa,1,0,,180.0
+Special Dosas,Chocolate Dosa,1,0,,180.0
+Uttapam,Uttapam,1,0,,115.0
+Uttapam,Onion Uttapam,1,0,,135.0
+Uttapam,Tomato Uttapam,1,0,,135.0
+Uttapam,Masala Uttapam,1,0,,150.0
+Uttapam,David Uttapam,1,0,,150.0
+Uttapam,Onion Tomato Uttapam,1,0,,150.0
+Upvas Snacks,Sabudana Wada,1,0,[Veg preparation],135.0
+Upvas Snacks,French Fries,1,0,[Veg preparation],135.0
+Upvas Snacks,Potato Toast,1,0,[Veg preparation],115.0
+Upvas Snacks,Farali Pattice,1,0,,115.0
+Sandwiches,Bread Butter,1,0,,50.0
+Sandwiches,Veg. Sandwich,1,0,,115.0
+Sandwiches,Veg. Toast Sandwich,1,0,,135.0
+Sandwiches,Only Cheese Toast Sandwich,1,0,,160.0
+Sandwiches,Only Cheese Sandwich,1,0,,150.0
+Sandwiches,Veg. Cheese Sandwich,1,0,,150.0
+Sandwiches,Veg Tomato Omlette Sandwich,1,0,[Veg preparation],180.0
+Sandwiches,Veg. Cheese Toast Sandwich,1,0,,180.0
+Sandwiches,Cheese Chilly Toast,1,0,,195.0
+Sandwiches,Chocolate Sandwich,1,0,,195.0
+Sandwiches,Chocolate Cheese Sandwich,1,0,,225.0
+Sandwiches,Pineapple Sandwich,1,0,,160.0
+Grills,Veg Grilled Sandwich,1,0,,160.0
+Grills,Veg Cheese Grilled Sandwich,1,0,Indulge in a delectable grilled dish loaded with melted cheese and a medley ... read more,195.0
+Grills,Mushroom Cheese Grilled Sandwich,1,0,,225.0
+Grills,Club Grilled Sandwich,1,0,,195.0
+On The Roll,Veg. Hot Dog,1,0,,135.0
+On The Roll,Cheese Hot Dog,1,0,,165.0
+On The Roll,Garlic Roll,1,0,,135.0
+On The Roll,Family Garlic Roll,1,0,,215.0
+On The Roll,Garlic Cheese Roll,1,0,,205.0
+On The Roll,Manchurian Roll,1,0,,225.0
+On The Roll,Paneer Chilly Roll,1,0,,270.0
+Indian Pizzas,Veg Pizza [6 Inches],1,0,,225.0
+Indian Pizzas,Jain Pizza [6 Inches],1,0,,225.0
+Indian Pizzas,Cheese Pizza,1,0,,225.0
+Indian Pizzas,Pineapple Pizza [6 Inches],1,0,,250.0
+Indian Pizzas,All Toppings Pizza [6 Inches],1,0,,250.0
+Indian Pizzas,Sweet Corn Pizza [6 Inches],1,0,,225.0
+Indian Pizzas,Mushroom Pizza [6 Inches],1,0,,250.0
+Indian Pizzas,Crispy Schezwan Pizza [6 Inches],1,0,,250.0
+Burger,Veg. Burger,1,0,,160.0
+Burger,Only Cheese Burger,1,0,,195.0
+Burger,Veg. Cheese Burger,1,0,,205.0
+Frankie,Veg. Frankie,1,0,,160.0
+Frankie,Cheese Frankie,1,0,"Satisfyingly cheesy and bursting with flavor, this veggie Frankie is a must-try for ... read more",195.0
+Frankie,Cheese & Paneer Frankie,1,0,,195.0
+Tawa Pulav,Tawa Pulao,1,0,"A delectable and flavorful rice dish cooked on a traditional griddle, bursting with ... read more",250.0
+Tawa Pulav,Cheese Tawa Pulao,1,0,,295.0
+Tawa Pulav,Hariyali Tawa Pulao,1,0,A vibrant and flavorful veggie-packed Tawa Pulav bursting with green goodness.,295.0
+Tawa Pulav,Cheese Hariyali Tawa Pulao,1,0,,340.0
+Tawa Pulav,Paneer Hariyali Tawa Pulav,1,0,A flavorful and aromatic veg delight with a vibrant green twist.,340.0
+Tawa Pulav,Amar Spl. DryFruit Pulav,1,0,[Chefs Special],360.0
+Tawa Pulav,Paneer Tawa Pulav,1,0,,340.0
+Chaat,Sev Puri Toast Sandwich,1,0,,160.0
+Chaat,Pani Puri,1,0,A delightfully flavorful chaat brimming with a burst of tangy and refreshing sensations.,70.0
+Chaat,Chowpati Bhel,1,0,"A flavorful and savory delight, this Chaat dish is sure to tantalize your ... read more",90.0
+Chaat,Puniabi Bhel,1,0,,115.0
+Chaat,Sev Batata Puri,1,0,"A delightful and tangy Indian street food loaded with crispy sev, crunchy potatoes, ... read more",90.0
+Chaat,Dahi Batata Pur,1,0,,135.0
+Chaat,Dahi Bhel,1,0,,135.0
+Chaat,Papdi Chaat,1,0,"A flavorful assortment of crispy bites, tangy chutneys, and refreshing toppings, Papdi Chaat ... read more",135.0
+Chaat,Golden Bhel,1,0,,135.0
+Chinese Gravy,Veg. Manchurian Gravy,1,0,,250.0
+Chinese Gravy,Veg. Chilly Gravy,1,0,,250.0
+Chinese Gravy,Gobi Manchurian Gravy,1,0,,270.0
+Chinese Gravy,Mix Veg. Schezwan Style,1,0,,270.0
+Chinese Gravy,Manchurian In Sweet Garlic Sauce,1,0,,270.0
+Chinese Gravy,Paneer Manchurian Gravy,1,0,A delectable vegetarian gravy packed with flavors that will leave you craving for ... read more,340.0
+Chinese Gravy,Paneer Chilly Gravy,1,0,,340.0
+Chinese Gravy,Paneer Schezwan Gravy,1,0,Rich and flavorful vegetarian gravy with succulent paneer in a tantalizing Schezwan sauce.,360.0
+Chinese Gravy,Babycorn Manchurian Gravy,1,0,,360.0
+Chinese Gravy,Babycorn Chilly Gravy,1,0,,360.0
+Chinese Gravy,Mushroom Manchurian Gravy,1,0,,360.0
+Chinese Gravy,Mushroom Chilly Gravy,1,0,,360.0
+Chinese Gravy,Mushroom Schezwan Gravy,1,0,A delectable and flavorful veg gravy dish with tender mushrooms smothered in a ... read more,360.0
+Chinese Appetizers,Veg. Manchurian Dry,1,0,"A delectable Chinese appetizer packed with flavors and textures, perfect for a delightful ... read more",250.0
+Chinese Appetizers,Veg. Chilly Dry,1,0,,250.0
+Chinese Appetizers,Gobi Manchurian Dry,1,0,,250.0
+Chinese Appetizers,Veg. Garlic,1,0,,270.0
+Chinese Appetizers,Veg. Ginger,1,0,,270.0
+Chinese Appetizers,Veg. Potato,1,0,,270.0
+Chinese Appetizers,Veg. 65,1,0,,295.0
+Chinese Appetizers,Crispy Fried Potato,1,0,,250.0
+Chinese Appetizers,Veg. Finger,1,0,,250.0
+Chinese Appetizers,Veg. Hot Garlic,1,0,,295.0
+Chinese Appetizers,Schezwan Finger,1,0,,295.0
+Chinese Appetizers,Veg. Crispy,1,0,,295.0
+Chinese Appetizers,Veg. Lollypop,1,0,,295.0
+Chinese Appetizers,Veg. Gold Coin,1,0,,315.0
+Chinese Appetizers,Mushroom Manchurian Dry,1,0,,340.0
+Chinese Appetizers,Mushroom Chilly Dry,1,0,,340.0
+Chinese Appetizers,Baby Corn Manchurian Dry,1,0,A delectable Chinese appetizer filled with tender baby corn in a delightful Manchurian ... read more,340.0
+Chinese Appetizers,Baby Corn Chilly Dry,1,0,,340.0
+Chinese Appetizers,Mushroom Schezwan Dry,1,0,A tantalizing Chinese delight featuring succulent mushrooms infused with bold and zesty flavors.,340.0
+Chinese Appetizers,Veg. Spring Roll,1,0,,295.0
+Chinese Appetizers,Paneer Spring Roll,1,0,,315.0
+Chinese Appetizers,Paneer Manchurian Dry,1,0,,315.0
+Chinese Appetizers,Paneer Chilly Dry,1,0,"Delicious Chinese-style appetizer with tender paneer, bursting with flavors and a tantalizing crunch.",315.0
+Chinese Appetizers,Paneer 65,1,0,,315.0
+Chinese Appetizers,Paneer Schezwan,1,0,,315.0
+Chinese Appetizers,Veg. Paneer Satay,1,0,Delight your taste buds with this delectable Chinese appetizer featuring succulent paneer skewers.,340.0
+Chinese Rice,Veg. Fried Rice,1,0,A flavorful and succulent rice dish packed with an array of delectable mixed ... read more,250.0
+Chinese Rice,Veg. Schezwan Fried Rice,1,0,,270.0
+Chinese Rice,Combination Fried Rice,1,0,,295.0
+Chinese Rice,Veg. Mushroom Fried Rice,1,0,,295.0
+Chinese Rice,Veg. Singapore Fried Rice,1,0,,270.0
+Chinese Rice,Veg. Hongkong Fried Rice,1,0,,270.0
+Chinese Rice,Paneer Schezwan Fried Rice,1,0,,315.0
+Chinese Rice,Manchuran Fried Rice,1,0,"A delectable and flavorful combination of rice and savory gravy, creating a delightful ... read more",340.0
+Chinese Rice,Veg Triple Schezwan Fried Rice,1,0,"A lip-smacking combination of triple veggies and flavorful rice, topped with a delectable ... read more",360.0
+Chinese Noodles,Veg. Hakka Noodles,1,0,A delectable and flavorful noodle dish showcasing the rich and diverse flavors of ... read more,250.0
+Chinese Noodles,Veg. Schezwan Noodles,1,0,,270.0
+Chinese Noodles,Veg. Garlic Noodles,1,0,Flavorful garlic-infused noodles brimming with a delightful medley of vegetables.,250.0
+Chinese Noodles,Veg. Ginger Noodles,1,0,,250.0
+Chinese Noodles,Veg. Singapore Noodles,1,0,,270.0
+Chinese Noodles,Veg. Hong Kong Noodles,1,0,,270.0
+Chinese Noodles,American Chopsuey,1,0,,270.0
+Chinese Noodles,Chinese Chopsuey,1,0,,270.0
+Chinese Noodles,Manchurian Noodles With Gravy,1,0,"Delight in the delectable combination of tender noodles immersed in a savory, flavorful ... read more",360.0
+Chinese Noodles,Triple Schezwan Noodles With Gravy,1,0,Experience the tantalizing blend of flavors in this delectable dish featuring scrumptious noodles ... read more,360.0
+Chinese Noodles,Spl. Dragon Noodles,1,0,"A tantalizing combination of flavors and textures, our Spl. Dragon Noodles are a ... read more",360.0
+Fresh Juices,Mosambi Juice,1,0,,150.0
+Fresh Juices,Orange Juice,1,0,,150.0
+Fresh Juices,Ganga Jamuna,1,0,,150.0
+Fresh Juices,Water Melon Juice,1,0,,115.0
+Fresh Juices,Ganga Jamuna Saraswati,1,0,,180.0
+Fresh Juices,Mara Mari,1,0,,180.0
+Fresh Juices,Pineapple Juice,1,0,,180.0
+Fresh Juices,Grapes Juice,1,0,,195.0
+Fresh Juices,Cocktail Juice,1,0,,195.0
+Fresh Juices,Apple Juice,1,0,,205.0
+Fresh Juices,Anar Juice,1,0,,205.0
+Fresh Juices,Mango Juice (Tin Pulp),1,0,,225.0
+Blossoms Delight,Water Melon Blossom,1,0,,205.0
+Blossoms Delight,Pineapple Blossom,1,0,,205.0
+Blossoms Delight,Orange Blossom,1,0,,205.0
+Blossoms Delight,Shagun Blossom,1,0,,205.0
+Blossoms Delight,Black Current,1,0,,250.0
+Blossoms Delight,Spl. Cocktail Blossom,1,0,,270.0
+Milk Shakes,Rose Shake,1,0,,160.0
+Milk Shakes,Vanilla Shake,1,0,,160.0
+Milk Shakes,Butterscotch Shake,1,0,,160.0
+Milk Shakes,Cold Coffee Shake,1,0,,160.0
+Milk Shakes,Cold Coffee With Ice Cream,1,0,,225.0
+Milk Shakes,Chikkoo Shake,1,0,,180.0
+Milk Shakes,Pineapple Shake,1,0,,180.0
+Milk Shakes,Banana Shake,1,0,,180.0
+Milk Shakes,Chocolate Shake,1,0,,180.0
+Milk Shakes,Kesar Shake,1,0,,180.0
+Milk Shakes,Amar Spl. Thandai,1,0,,225.0
+Milk Shakes,Brownie Shake,1,0,,225.0
+Milk Shakes,Sitaphal Shake,1,0,,250.0
+Milk Shakes,Kaju Anjeer Shake,1,0,,315.0
+Seasonal Shakes & Cream,Strawberry Shake With Pieces,1,0,,250.0
+Seasonal Shakes & Cream,Mango Shake With Pieces,1,0,,295.0
+Kulfi,Malai Kulfi,1,0,[Dessert],115.0
+Kulfi,Kesar Pista,1,0,,115.0
+Dry Fruit Shakes,Anjeer Shake,1,0,,250.0
+Dry Fruit Shakes,Kaju Mango Shake,1,0,,315.0
+Dry Fruit Shakes,Chikkoo Chocolate & Nuts,1,0,,315.0
+Dry Fruit Shakes,Chocolate & Nuts Shake,1,0,,315.0
+Dry Fruit Shakes,Badam Pista,1,0,"A rich and creamy dry fruit shake, perfect for nut lovers.",340.0
+Dry Fruit Shakes,Shahi Kesar Pista Shake,1,0,"Indulge in the rich, creamy bliss of our Shahi Kesar Pista Shake, a ... read more",360.0
+Dry Fruit Shakes,Dry Fruit Milk Shake,1,0,"Indulge in a delectable blend of creamy milk and luscious dry fruits, creating ... read more",375.0
+Falooda,Royal Falooda,1,0,Indulge in the regal flavors of this delightful and refreshing dessert that will ... read more,205.0
+Falooda,Kesar Falooda,1,0,[Dessert],205.0
+Falooda,Kulfi Falooda,1,0,[Dessert],250.0
+Falooda,Amar Spl. Falooda,1,0,[Dessert],270.0
+Jelly & Custard,Plain Jelly,1,0,,150.0
+Jelly & Custard,Fruit Custard,1,0,A delightful and creamy dessert bursting with fresh and vibrant fruit flavors.,180.0
+Jelly & Custard,Jelly With Ice Cream,1,0,,180.0
+Jelly & Custard,Fruit Custard With Jelly,1,0,,180.0
+Jelly & Custard,Fruit Custard With Ice Cream,1,0,,225.0
+Jelly & Custard,Fruit Custard With Dry Fruit,1,0,,225.0
+Jelly & Custard,Fruit Custard With Dry Fruit & Ice-Cream,1,0,,250.0
+Hot Beverages,Tea [serves -1],1,0,,45.0
+Hot Beverages,Filter Coffee[serves -1],1,0,,70.0
+Hot Beverages,Nes Coffee[serves -1],1,0,,70.0
+Cold Beverages,Mineral Water,1,0,,10.0
+Ice Cream,Butterscotch Ice Cream,1,0,[Dessert],115.0
+Ice Cream,Chocolate Ice Cream,1,0,[Dessert],115.0
+Ice Cream,Cookies Cream Ice Cream,1,0,[Dessert],115.0
+Ice Cream,Vanilla Ice Cream,1,0,[Dessert],115.0
+Ice Cream,Belgium Dark Chocolate Ice Cream,1,0,[Dessert],135.0
+Ice Cream,Mango Ice Cream,1,0,[Dessert],135.0
+Ice Cream,Strawberry Ice Cream,1,0,[Dessert],135.0
+Ice Cream,Chocolate Chips Ice Cream,1,0,[Dessert],135.0
+Cooler,Sweet Lassi,1,0,,125.0
+Cooler,Khara Lassi,1,0,,125.0
+Cooler,Butter Milk,1,0,,70.0
+Cooler,Fresh Lemon Juice,1,0,,125.0
+Cooler,Fresh Lemon Soda,1,0,,150.0
+Cooler,Ginger Lemon,1,0,,90.0
+Cooler,Jal Jeera,1,0,,70.0
+Cooler,Masala Thumbsup,1,0,,115.0
+Mocktails,Blue Heaven,1,0,"[Non Alcoholic] Blue curcao, soda and sprite.",250.0
+Mocktails,Green Apple,1,0,"[Non Alcoholic] Green apple syrup, soda and sprite.",250.0
+Mocktails,Litchi Grasshopper,1,0,"[Non Alcoholic] Litchi syrup, cream, soda and sprite.",250.0
+Mocktails,Mojito Mint,1,0,"[Non Alcoholic] Green lemon syrup, pudina, soda and sprite.",250.0
+Mocktails,Kiwi Eye,1,0,"[Non Alcoholic] Kiwi eye, soda and sprite.",250.0
+Mocktails,Blueberry Mocktail,1,0,"[Non Alcoholic] Blueberry syrup, cream, soda and sprite.",250.0
+Mocktails,Kiwi Grasshopper,1,0,"[Non Alcoholic] Kiwi syrup, orange juice, lime soda and sprite.",250.0
+Mocktails,Lime Zip,1,0,"[Non Alcoholic] Green lemon syrup, vanilla and soda.",250.0
+Mocktails,Golden Blow,1,0,"[Non Alcoholic] Orange syrup, pineapple syrup, vanilla and soda.",250.0
+Mocktails,Blue Ice Berg,1,0,"[Non Alcoholic] Blue curacao syrup, vanilla and soda.",250.0

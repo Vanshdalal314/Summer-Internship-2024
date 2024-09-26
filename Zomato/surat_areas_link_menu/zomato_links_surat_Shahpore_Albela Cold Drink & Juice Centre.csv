@@ -1,0 +1,106 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Albela Upvas Specials,Badam Shake,1,0,Specialties cream milk and dry fruit.,150.0
+Albela Upvas Specials,Kesar Pista Shake,1,0,,150.0
+Albela Upvas Specials,Cream Salad,1,0,,150.0
+Albela Upvas Specials,Mango Cream Milk,1,0,,150.0
+Albela Upvas Specials,Strawberry Cream Milk,1,0,,150.0
+Albela Upvas Specials,Cream Milk Fruit Salad,1,0,,150.0
+Albela Upvas Specials,Special Cream Milk Mango Delight,1,0,"Cream milk mango, ice cream & fresh mango tukda.",170.0
+Drinks (Beverages),Strawberry American Thickshake,1,0,,80.0
+Drinks (Beverages),Pineapple American Thickshake,1,0,,80.0
+Drinks (Beverages),Mango American Thickshake,1,0,,80.0
+Drinks (Beverages),Orange American Thickshake,1,0,,80.0
+Drinks (Beverages),Lichi American Thickshake,1,0,,80.0
+Drinks (Beverages),Blackcurrant American Thickshake,1,0,,80.0
+Drinks (Beverages),Rose American Thickshake,1,0,,80.0
+Drinks (Beverages),Cold Coffee American Thickshake,1,0,,80.0
+Drinks (Beverages),Kiwi American Thickshake,1,0,,90.0
+Drinks (Beverages),Thandai American Thickshake,1,0,,90.0
+Drinks (Beverages),Plain Chocolate American Thickshake,1,0,,90.0
+Drinks (Beverages),Kesar Anjeer American Thickshake,1,0,,90.0
+Drinks (Beverages),Choco Vanilla American Thickshake,1,0,,90.0
+Drinks (Beverages),Chocolate Kaju American Thickshake,1,0,,110.0
+Drinks (Beverages),Chocolate Chips American Thickshake,1,0,,110.0
+Drinks (Beverages),Mango Cadbury American Thickshake,1,0,,110.0
+Drinks (Beverages),Butterscotch American Thickshake,1,0,,110.0
+Drinks (Beverages),Kesar Pista American Thickshake,1,0,,110.0
+Drinks (Beverages),Kaju Anjeer American Thickshake,1,0,,110.0
+Drinks (Beverages),Kaju Badam American Thickshake,1,0,,110.0
+Drinks (Beverages),Kaju Mango American Thickshake,1,0,,110.0
+Drinks (Beverages),Kaju Gulkand American Thickshake,1,0,,110.0
+Drinks (Beverages),Kaju Pista American Thickshake,1,0,,110.0
+Drinks (Beverages),Shahi Gulab American Thickshake,1,0,,110.0
+Drinks (Beverages),Rajbhog American Thickshake,1,0,,150.0
+Drinks (Beverages),Cold Coco,1,0,Made by Pure Coco powder & real chocolate with high fat milk use.,80.0
+Drinks (Beverages),Kaju Coco,1,0,,150.0
+Drinks (Beverages),Chocolate Chips Coco,1,0,,130.0
+Drinks (Beverages),Mango Beverage,1,0,,80.0
+Drinks (Beverages),Kaju Mango Beverage,1,0,,150.0
+Drinks (Beverages),Fruit Salad,1,0,,80.0
+Drinks (Beverages),Strawberry Beverage,1,0,,80.0
+Drinks (Beverages),KitKat Thickshake,1,0,,150.0
+Drinks (Beverages),Cold Coco [1 litre],1,0,Pure coco powder and chocolate and milk use made by coco.,250.0
+Drinks (Beverages),Crunchy Balls Coco with Ice Cream,1,0,Special chocolate coco ice cream and crunchy ball ice cream.,150.0
+Drinks (Beverages),Pineapple Milkshake,1,0,,50.0
+Drinks (Beverages),Rose Milkshake,1,0,,50.0
+Drinks (Beverages),Chikoo Milkshake,1,0,,60.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,50.0
+Drinks (Beverages),Mango Milkshake,1,0,,70.0
+Drinks (Beverages),Chikoo Chocolate Milkshake,1,0,,70.0
+Drinks (Beverages),Cold Coffee Milkshake,1,0,,70.0
+Drinks (Beverages),Chikoo Kaju Milkshake,1,0,,110.0
+Drinks (Beverages),Chikoo Chocolate Kaju Milkshake,1,0,,120.0
+Drinks (Beverages),Pineapple Kaju Milkshake,1,0,,99.0
+Drinks (Beverages),Gulkand Milkshake,1,0,,70.0
+Drinks (Beverages),Anjeer Milkshake,1,0,,70.0
+Drinks (Beverages),Kaju Mango Milkshake,1,0,,149.0
+Drinks (Beverages),Kaju Anjeer Milkshake,1,0,,149.0
+Drinks (Beverages),Kaju Gulkand Milkshake,1,0,,149.0
+Drinks (Beverages),Kaju Anjeer Gulkand Milkshake,1,0,,149.0
+Drinks (Beverages),Mosambi Fresh Juice,1,0,,90.0
+Drinks (Beverages),Plain Mosambi Fresh Juice,1,0,Without sugar and ice.,99.0
+Drinks (Beverages),Sweet Plain Lassi,1,0,,70.0
+Drinks (Beverages),Mango Lassi,1,0,,70.0
+Drinks (Beverages),Rose Lassi,1,0,,70.0
+Drinks (Beverages),Kesari Lassi,1,0,,70.0
+Drinks (Beverages),Green Lassi,1,0,,70.0
+Drinks (Beverages),Strawberry Lassi,1,0,,70.0
+Drinks (Beverages),Pineapple Lassi,1,0,,70.0
+Drinks (Beverages),Blackcurrant Lassi,1,0,,70.0
+Drinks (Beverages),Rajbhog Lassi,1,0,,130.0
+Drinks (Beverages),Kaju Lassi,1,0,,130.0
+Desserts,Rose Falooda,1,0,,110.0
+Desserts,Kesar Falooda,1,0,,110.0
+Desserts,Mango Falooda,1,0,,110.0
+Desserts,Rajbhog Falooda,1,0,,150.0
+Desserts,Angoor Rabdi Falooda,1,0,,150.0
+Desserts,Strawberry Falooda,1,0,,110.0
+Desserts,Pineapple Falooda,1,0,,110.0
+Desserts,Orange Falooda,1,0,,110.0
+Desserts,Kiwi Falooda,1,0,,110.0
+Desserts,Milk Cream Falooda,1,0,,110.0
+Desserts,Chocolate Falooda,1,0,,110.0
+Desserts,Vanilla Ice Cream [100 ml],1,0,,50.0
+Desserts,Mango Ice Cream [100 ml],1,0,,50.0
+Desserts,Strawberry Ice Cream [100 ml],1,0,,50.0
+Desserts,Kaju Draksh Ice Cream [100 ml],1,0,,50.0
+Desserts,Rajbhog Ice Cream [100 ml],1,0,,50.0
+Desserts,American Dry Fruit Ice Cream [100 ml],1,0,,50.0
+Desserts,Chocolate Chips Ice Cream [100 ml],1,0,,50.0
+Desserts,Butterscotch Ice Cream [100 ml],1,0,,50.0
+Desserts,Mawa Malai Ice Cream [100 ml],1,0,,50.0
+Desserts,Kaju Anjeer Ice Cream [100 ml],1,0,,50.0
+Desserts,Badam Cadbury Ice Cream [100 ml],1,0,,50.0
+Desserts,Shahi Gulab Ice Cream [100 ml],1,0,,50.0
+Desserts,Vanilla Ice Cream [500 ml],1,0,,150.0
+Desserts,Mango Ice Cream [500 ml],1,0,,150.0
+Desserts,Strawberry Ice Cream [500 ml],1,0,,150.0
+Desserts,Kaju Draksh Ice Cream [500 ml],1,0,,150.0
+Desserts,Rajbhog Ice Cream [500 ml],1,0,,150.0
+Desserts,American Dry Fruit Ice Cream [500 ml],1,0,,150.0
+Desserts,Chocolate Chips Ice Cream [500 ml],1,0,,150.0
+Desserts,Butterscotch Ice Cream [500 ml],1,0,,150.0
+Desserts,Mawa Malai Ice Cream [500 ml],1,0,,150.0
+Desserts,Kaju Anjeer Ice Cream [500 ml],1,0,,150.0
+Desserts,Badam Cadbury Ice Cream [500 ml],1,0,,150.0
+Desserts,Shahi Gulab Ice Cream [500 ml],1,0,,150.0

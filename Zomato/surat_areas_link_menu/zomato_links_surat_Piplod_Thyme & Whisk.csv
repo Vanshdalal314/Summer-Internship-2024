@@ -1,0 +1,290 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Drinks,Aerated Beverages-Canned,1,0,,90.0
+Drinks,Chaas [Plain/Masala],1,0,,180.0
+Drinks,Energy Drink,1,0,,205.0
+Drinks,Evocus Black Water,1,0,,100.0
+Drinks,Fresh Lime Soda [Sweet/Salted],1,0,,205.0
+Drinks,Lassi [Sweet / Salted],1,0,,205.0
+Drinks,Mango Lassi,1,0,,250.0
+Drinks,Sparkling Water,1,0,,220.0
+Drinks,Stawberry Lassi,1,0,,250.0
+Drinks,Choco Bounty Shake,1,0,Topped with whipped cream.,270.0
+Drinks,Dark Fantasy Shake,1,0,Rich Choco Filled Dark Fantasy Cookies Blended Tastefully With Ice Cream.,295.0
+Drinks,Ferrero Rocher Shake,1,0,,295.0
+Drinks,Kitkat Blast,1,0,,270.0
+Drinks,Lotus Biscoff Shake,1,0,Sinfully Delicious Lotus Cookies Blended With Vanilla Bean Ice Cream And Our Secret ... read more,295.0
+Drinks,Oreo Brownie Twist,1,0,"A Shake Of Fudgy Walnut Brownie, Oreo Cookies Blended Together With Rich Cream ... read more",295.0
+Drinks,Snicker Truffle,1,0,,295.0
+Drinks,T&W House Special Shake Lindt Dark Chocolate Shake,1,0,70% Dark Couverture Lindit Chocolate Blended With Ice Cream And Milk.,565.0
+Drinks,Blue Heaven,1,0,,225.0
+Drinks,Blueberry Mojito,1,0,[Non Alcoholic],250.0
+Drinks,Bubblegum Cream Cheese,1,0,,270.0
+Drinks,Cola Mojito,1,0,,295.0
+Drinks,Dragons Soul,1,0,,270.0
+Drinks,Fresh Raspberry Fizz,1,0,,270.0
+Drinks,Glass Skin(Apple),1,0,,270.0
+Drinks,Glass Skin(Carrot),1,0,,270.0
+Drinks,Glass Skin(Orange),1,0,,270.0
+Drinks,Grabbies Punch,1,0,"[Non Alcoholic] A Goodness Of Blueberries Blended Tastefully With Sparkling Water, Lemon And ... read more",270.0
+Drinks,Guava Chilli Magic,1,0,"[Non Alcoholic] A Vibrant Naughty Mix Of Guava, Chilli And Some Secret Magic ... read more",225.0
+Drinks,Hawain Fruit Punch,1,0,,270.0
+Drinks,Health Boast(Beetroot),1,0,,270.0
+Drinks,Health Boast(Carrot),1,0,,270.0
+Drinks,Health Boast(Spinach),1,0,,270.0
+Drinks,Island Girl Tea,1,0,(Lemon/Strawberry/Passion Fruit/Litchi),250.0
+Drinks,Jack & Jill,1,0,(A Refreshing Drink For All Apricot & Peach Fruit Lovers. Must Try!),250.0
+Drinks,Litchi Lemongrass Cooler,1,0,,270.0
+Drinks,Mint Mojito Cooler,1,0,[Non Alcoholic],250.0
+Drinks,"Lemon,Pineapple,Kiwi Mixology",1,0,,270.0
+Drinks,Our Lady In Red,1,0,"[Non Alcoholic] A Blend Of Refreshing Watermelon Juice, Cranberry Juice, Bubblegum With A ... read more",270.0
+Drinks,Pineapple Sunrise,1,0,[Non Alcoholic] Refreshing Beverage For Pineapple And Orange Lovers.,250.0
+Drinks,Strawberry Mango Punch,1,0,,270.0
+Drinks,Summer Is Back,1,0,,270.0
+Drinks,The Bull Fight,1,0,"[Non Alcoholic] Shaken Combination Of Watermelon, Fresh Lemon With Energy Boosting Red Bull.",295.0
+Drinks,Virgin Beach,1,0,"Orange Juice, Cranberry Juice, Loaded With Grenadine Syrup Topped With Fizz And Sparkling ... read more",250.0
+Drinks,Virgin Pinacolada,1,0,,270.0
+Drinks,Wildcat Cooler,1,0,[Non Alcoholic] Blueberries And Rosemary Herb Shaken With Honey Syrup Topped With Sparkling ... read more,270.0
+Drinks,Affogato,1,0,( Chocolate / Biscoff / Irish / Caramel / Nutella),270.0
+Drinks,Americano,1,0,,180.0
+Drinks,Cafe Irish,1,0,Hot milky coffee with irish flavour.,270.0
+Drinks,Cafe Latte,1,0,Regular Coffee With Hot Milk.,225.0
+Drinks,Cafe Mocha,1,0,,250.0
+Drinks,Cappuccino,1,0,,225.0
+Drinks,Carmel Mocha Latte,1,0,,255.0
+Drinks,Cinnamon Cappuccino,1,0,,250.0
+Drinks,Cold Coffee With Ice Cream,1,0,,270.0
+Drinks,Couverture Hot Chocolate,1,0,A Sinful Way To Get Your Chocolate Hug From Inside.,270.0
+Drinks,Flat White,1,0,,250.0
+Drinks,Fresh Orange Iced Coffee,1,0,,270.0
+Drinks,Lindt Hot Chocolate,1,0,Rich 80% Cocoa Swiss Lindt Chocolate With Milk And Cream.,315.0
+Drinks,Nutella Capuccino,1,0,,270.0
+Drinks,Vietnamese Hot Coffee,1,0,,270.0
+Drinks,Vietnamese Iced Coffee,1,0,,270.0
+Drinks,Blue Butterfly Pea Tea,1,0,With Honey And Lemon.,180.0
+Drinks,Ginger Green Tea,1,0,,150.0
+Drinks,Indian Ginger Tea,1,0,,150.0
+Drinks,Indian Masala Tea,1,0,,150.0
+Drinks,Lemon Green Tea,1,0,,150.0
+Drinks,Biscoff Frappe,1,0,,315.0
+Drinks,Caramel Frappe,1,0,,295.0
+Drinks,Chocolate Mint Frappe,1,0,,295.0
+Drinks,Hazlenut Frappe,1,0,,295.0
+Drinks,Kitkat Frappe,1,0,,295.0
+Drinks,Apple Canned Juice,1,0,,180.0
+Drinks,Guava Canned Juice,1,0,,180.0
+Drinks,Kombucha,1,0,,270.0
+Drinks,Litchi Canned Juice,1,0,,180.0
+Soups & Salads,Asparagus Pine Nut Soup,1,0,"Healthy Asparagus, Garlic Confit, Pine Nuts, Blended Tastefully To Mingle Your Senses.",295.0
+Soups & Salads,Broccoli And Almond Cappuccino,1,0,Three Types Of Greens Enriched With Cream And Spiked With Garlic And Garnish ... read more,250.0
+Soups & Salads,Burnt Garlic Soup,1,0,A Clear Soup Enriched With Vegetable Broth And Burnt Garlic.,250.0
+Soups & Salads,Chowpatty Soup,1,0,A Fusion Soup Of Pav Bhaji Flavour With A Creative Twist.,270.0
+Soups & Salads,Creamy Italian Tomato Soup,1,0,,250.0
+Soups & Salads,Hot & Sour,1,0,,250.0
+Soups & Salads,Lemon Coriander Soup,1,0,,250.0
+Soups & Salads,Manchow,1,0,,250.0
+Soups & Salads,Mexican Tortilla Soup,1,0,"A Classic Mexican Soup With A Blend Of Kidney Beans, American Corn, Chilli, ... read more",250.0
+Soups & Salads,Mushroom & Thyme Scented Soup,1,0,Fine Handpicked Fresh Mushrooms Roasted And Scented With Thyme And Enriched With Chef'S ... read more,250.0
+Soups & Salads,Spicy Chunky Minestrone Soup,1,0,[Chef's Special],250.0
+Soups & Salads,Thai Coriander Soup,1,0,An Aromatic Flavour Of Thai Scented Coriander Stock Infused With Our Secret Ingredients.,250.0
+Soups & Salads,Tibetian Thukpa,1,0,"A Spicy Tibetan Noodle Soup With Local Ingredients From Tibet, Served Hot.",270.0
+Soups & Salads,Tom Yum Phak,1,0,"Thai Veg Soup Spiked With Galangal, Lemon Grass And Hot Chilli.",250.0
+Soups & Salads,Zucchini Orange Soup,1,0,,250.0
+Healthy Insalata Salad,Burrata Pesto Salad,1,0,"[Chef'S Special] Burrata Cheese, Argula, Lettuce, Basil, Cherry Tomatoes, Walnuts, Finished With Fresh ... read more",520.0
+Healthy Insalata Salad,Classic Caesar Salad,1,0,,405.0
+Healthy Insalata Salad,Original Green Salad,1,0,Slices Of Fresh Vegetables,250.0
+Healthy Insalata Salad,Quinoa Tropical Salad,1,0,,450.0
+Healthy Insalata Salad,Refreshing Watermelon Salad,1,0,Cold Chunks Of Fresh Watermelon And Crumbled Feta With A Hint Of Orange ... read more,430.0
+Healthy Insalata Salad,Tandoori Chaat Salad,1,0,"Tandoori Cottage Cheese, Bell Pepper, Green Chilli, Coriander, With A Hint Of Chaat ... read more",430.0
+Healthy Insalata Salad,Tex Mex Avocado Salad,1,0,"Fresh Healthy Veggies, Has Avocado Gauc, Beans Tossed In Tex Mex Seasoning And ... read more",450.0
+Fries & Papad,Chilly Garlic Fries,1,0,,405.0
+Fries & Papad,Chipotle Fries,1,0,,405.0
+Fries & Papad,French Fries ( Plain/Salted),1,0,,270.0
+Fries & Papad,Hungarian Cheese Fries,1,0,,405.0
+Fries & Papad,Peri Peri Fries,1,0,,315.0
+Fries & Papad,Pesto Fries,1,0,,405.0
+Fries & Papad,Truffle Fries,1,0,Truffle oil and Parmesan dust.,450.0
+Fries & Papad,Chilly Cheese Papad,1,0,,160.0
+Fries & Papad,Fried Papad,1,0,,70.0
+Fries & Papad,Jalapeno Basil Corn Cheese Papad,1,0,,180.0
+Fries & Papad,Jalapeno Basil Corn Papad,1,0,,160.0
+Fries & Papad,Masala Papad,1,0,,135.0
+Fries & Papad,Roasted Papad,1,0,,70.0
+Appetizers,Al Funghi Cream Cheese,1,0,,405.0
+Appetizers,Arabic Crispy Pita Platter,1,0,"Crispy Pita Breads, Lavash, Falafel Served With Classic Hummus, Pesto Hummus, Beet Hummus, ... read more",520.0
+Appetizers,Black Pepper Stir Fry In Cottage Cheese,1,0,,450.0
+Appetizers,Black Pepper Stir Fry In Tofu,1,0,,450.0
+Appetizers,Blue Lagoon Arancini Croquesttes,1,0,[Chef'S Special] Crispy Dumpling Stuffed With Blue Butterfly Arborio Rice And Melting Bocconcini ... read more,520.0
+Appetizers,Bulky Yummy Nachos,1,0,"(Nachos Loaded With Chilli Refried Beans Sauce, Salsa, Jalapeno, Avocado Gauc, Capsicum & ... read more",450.0
+Appetizers,Chanajor Bhel,1,0,,360.0
+Appetizers,Cheese Chilli Toast,1,0,,405.0
+Appetizers,Ching Mai Mushroom,1,0,,450.0
+Appetizers,Chipotle Tacos,1,0,,465.0
+Appetizers,Classic Garlic Bread,1,0,,270.0
+Appetizers,Coriander Chilli Paneer Skillet,1,0,[Chef'S Special] Cottage Cheese Tossed With Bell Peppers In Chef'S Special Creamy Coriander ... read more,450.0
+Appetizers,Corn Chaat,1,0,,360.0
+Appetizers,Creamy Soya In Black Beans Sauce,1,0,[Chef'S Special] Creamy Tandoor Baked Soya Tossed In Chef Special Fermented Black Soybeans ... read more,475.0
+Appetizers,Crispy Lotus Root,1,0,"[Chef'S Special] Crunchy Lotus Root Tossed In Your Choice Of Sauce, Black Bean ... read more",450.0
+Appetizers,Dabeli Khari Toast,1,0,[Chef's Special],425.0
+Appetizers,(Add On) Extra Cheese Sauce,1,0,,135.0
+Appetizers,Fusion Bhurji Quesadilas,1,0,Fusion Of Grated Paneer Marinated In Nawabi Kali Mirch Masala Along With Chef'S ... read more,450.0
+Appetizers,Fusion Tikka Makhni Bruchetta,1,0,,405.0
+Appetizers,Garbanzo Jalapeno Chaat,1,0,,360.0
+Appetizers,Grilled Quesadillas,1,0,"Bell Pepper, Corn, Cheese, Olives, Jalapeno, Stuffed In Grilled Tortillas, Served With Salsa ... read more",450.0
+Appetizers,Jalapeno Cheese Nuggets,1,0,Served With In House Cranberry Chilli Dip.,465.0
+Appetizers,Korean Garlic Bun,1,0,"(Soft Brioche Bun Stuffed With Cream Cheese Filling, Drenched In House Made Herbed ... read more",405.0
+Appetizers,Lemon Garlic Butter Mushrooms,1,0,,450.0
+Appetizers,Original Falafel,1,0,A Chickpea Patty Loaded In A Pita Pocket With Classic Hummus And Tzatziki ... read more,465.0
+Appetizers,Peking Manchurian Dry,1,0,"Your Choice Of Dumplings Tossed With Spicy Sauce, Scallions And Fresh Coriander.",405.0
+Appetizers,Peri Peri Platter,1,0,"Mozzarella Stick, Potato Nuggets, Cottage Cheese Popcorn Sprinkled With Peri Peri Seasoning And ... read more",475.0
+Appetizers,Pesto Paneer Skillet,1,0,Soft Cottage Cheese Tossed In Chef'S Favourite Pesto Masala And Cooked To Perfection.,450.0
+Appetizers,Pink Hummus Bruschetta,1,0,,405.0
+Appetizers,Roasted Cherry Tomato Basil,1,0,,405.0
+Appetizers,Shanghai Paneer Chilly,1,0,Crispy Fried Paneer Tossed In Dark Soy Sauce.,450.0
+Appetizers,Sichuan Chilli Paneer,1,0,[Chef'S Special] Crispy Paneer Tossed In Sichuan Pepper And Chilli Sauce.,450.0
+Appetizers,Sichuan Chilli Chestnut,1,0,[Chef'S Special] Crispy Water Chestnut Tossed In Sichuan Pepper And Chilli Sauce.,450.0
+Appetizers,Signature Cheesy Garlic Bread,1,0,[Chef's Special],385.0
+Appetizers,Spicy Oyster Satay,1,0,[Veg Preparation],450.0
+Appetizers,Spinach Corn Rocks,1,0,,405.0
+Appetizers,Spinach Tofu Tacos,1,0,,465.0
+Appetizers,Tropical Leaf Chaat,1,0,,405.0
+Appetizers,Avadhi Dahi Kebab,1,0,,450.0
+Appetizers,Beans And Jalapeno Seekh Kebab,1,0,"(Red Beans, Jalapeno, In-House Spice Mix Kebab Served On Skewers, Mint Chutney Dip)",450.0
+Appetizers,Fusion Tandoori Momos,1,0,(Momos Stuffed With Mix Vegetables And Tossed In Chef'S Special Tandoori Masala),450.0
+Appetizers,Hara Bhara Chopati Kebab,1,0,(Chef Special Hara Bhara Kebab Rolled In Chanajor Garam),450.0
+Appetizers,Lemon Ginger Soya Tikka,1,0,[Chef's Special],450.0
+Appetizers,Lucknowi Galouti Kebab,1,0,"(Our Take On Lucknowi Style Galouti Kebab With Rajma, Beet, In-House Spice Mix, Served Alongwith ... read more",475.0
+Appetizers,Peri Peri Cheese Chilli Seekh Kebab,1,0,"(Cottage Cheese, Smashed Potato, Cheese, Green Chillies, Peri Peri Sprinkler, In-House Spice Mix Kebab Served ... read more",475.0
+Appetizers,Spicy Chipotle Mushroom & Broccoli Tikka,1,0,(Stuffed Mushroom & Broccoli Marinated In Chef'S Special Seasoning & Grilled To Perfection),450.0
+Appetizers,Tandoori Grilled Soya Chaap,1,0,[Chef's Special],450.0
+Appetizers,Tandoori Pesto Paneer Tikka,1,0,"(Paneer Marinated In Rich Pesto Sauce, Cooked To Perfection In Tandoor )",475.0
+Appetizers,Three Cheese Tandoori Aloo,1,0,"(Potato Marinated In Tandoor Masala, Cooked In Clay Oven And Finished With A Blend ... read more",475.0
+Appetizers,Traditional Paneer Tikka,1,0,,450.0
+Appetizers,Blue Butterfly Pea Waterchestnut Cream Cheese Dimsums,1,0,,405.0
+Appetizers,Cottage Cheese Oyster Bao,1,0,[Veg Preparation],405.0
+Appetizers,Edamame Truffle Oil Dimsums,1,0,,405.0
+Appetizers,Mongolian Grilled Tofu Bao,1,0,,405.0
+Appetizers,Three Mushroom Miso Bao,1,0,,405.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Classic Macoroni Sandwich,1,0,"Made With Whole Wheat Flour, Served With Fries And House Special Salad. Creamy, ... read more",385.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Grilled Pesto Sandwich,1,0,"Made With Whole Wheat Flour, Served With Fries And House Special Salad",360.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Indian Spiced Cottage Cheese Sandwich,1,0,"Made With Whole Wheat Flour, Served With Fries And House Special Salad. Cottage ... read more",360.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Peri Peri Twisty,1,0,"Made With Whole Wheat Flour, Served With Fries And House Special Salad. Famous ... read more",360.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Mexican Queso Burger,1,0,"Made With Whole Wheat Flour, Served With Fries And Dip. A Crispy Mexican ... read more",360.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Pesto Cheese Chili Burger,1,0,"[Chef'S Special] Made With Whole Wheat Flour, Served With Fries And Dip. Broccoli ... read more",385.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Sichuan Chilli Burger,1,0,"Made With Whole Wheat Flour, Served With Fries And Dip. A Crispy Sichuan ... read more",360.0
+Sandwiches/ Burgers/ Wraps/ Pizza,T&W Cheese Burger,1,0,"[Chef'S Special] Made With Whole Wheat Flour, Served With Fries And Dip. A ... read more",385.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Arabic Falafel Wrap,1,0,,360.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Cheesy Corn Americana Wrap,1,0,,360.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Lebanon Shawarma Wrap,1,0,,360.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Al Funghi Pizza [10 Inches],1,0,"Pomodoro, Shiitake, Wild Porcini, Fresh Mushroom, Walnut Mushroom Pate, Mozzarella And Olive Oil.",520.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Classic Margherita Pizza [10 Inches],1,0,"Pomodoro, Cherry Tomatoes, Fresh Basils And Mozzarella.",495.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Forever Treasure Pizza [10 Inches],1,0,"Pomodoro, Cottage Cheese, Bell Pepper, Tomato, Olives And Thyme.",520.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Harissa Twist Pizza [10 Inches],1,0,"Fresh Harissa Sauce, Spinach, Sun Dried Tomatoes, Onions And Basil.",520.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Hungarian Pizza [10 Inches],1,0,"Hungarian Sauce, Cottage Cheese, Rocket Leaves, Bell Peppers And Olives.",520.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Indian Spiced Paneer Tikka Pizza [10 Inches],1,0,"Tandoori Paneer, Capsicum, Onion, Green Chilli And Bell Peppers Over Chef'S Special Tandoori ... read more",520.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Jamaican Garlic Pizza [10 Inches],1,0,"Pomodoro, Zucchini, Mushroom, Bell Peppers, Onions, Whole Roasted Garlic And Chilli Garlic Sauce.",520.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Lebanon Pizza [10 Inches],1,0,"Zaatar Sauce, Green Llives, Falafel Tikki, Chickpea, Feta Cheese, Roasted Garlic, Onions, Pomegranate ... read more",540.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Olive Pesto Pizza [10 Inches],1,0,"Chunky Pesto Sauce, Sun Dried Tomatoes, Roasted Garlic, Olives, Nutty Pine Nuts And ... read more",520.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Ravioli Pizza [10 Inches],1,0,"Pomodoro, Ravioli Pasta, Basil, Olives And Parmesan.",540.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Ricotta E Rucola Pizza [10 Inches],1,0,"Pomodoro, Argula Leaves, Ricotta Cheese, Jalapenos And Mozzarella.",520.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Spicy Mexicana Queso Pizza [10 Inches],1,0,"Spicy Mexicana Sauce, Mushroom, Jalapenos, Crisp Capsicum, Onion, Corn Kernels And Mozzarella.",520.0
+Sandwiches/ Burgers/ Wraps/ Pizza,T&W Quattro Formaggi Pizza [10 Inches],1,0,"4 Cheese Pizza Made Using Mozzarella, Ricotta, English Cheddar And Parmesan.",540.0
+Sandwiches/ Burgers/ Wraps/ Pizza,Truffle Pizza [10 Inches],1,0,"Pomodoro, Truffle Pate, Truffle Oil And Mozzarella.",855.0
+Pastas & Risotto,Beetroot Risotto,1,0,Served With Garlic Bread [2 Pieces]. Finished With Basil Cream.,525.0
+Pastas & Risotto,Cheesy Alfredo,1,0,,495.0
+Pastas & Risotto,Chunky Pesto,1,0,,495.0
+Pastas & Risotto,Cow Boy Enchilladas,1,0,Served With Garlic Bread [2 Pieces]. Tortilla Stuffed With Spicy Beans And Corn ... read more,525.0
+Pastas & Risotto,Handmade Gnocchi Pasta,1,0,Served with garlic bread [2 pieces].,495.0
+Pastas & Risotto,Italiano Parma Rosa,1,0,,495.0
+Pastas & Risotto,Macaron Au Gratin,1,0,Served With Garlic Bread [2 Pieces].,495.0
+Pastas & Risotto,Mexican Hot Pot,1,0,Served With Garlic Bread [2 Pieces].,525.0
+Pastas & Risotto,Original Arrabiata,1,0,,495.0
+Pastas & Risotto,Risotto Al Quattro Formaggi,1,0,Served With Garlic Bread [2 Pieces]. In Blue Butterfly Pea Flower.,525.0
+Pastas & Risotto,Smokey Three Layered Lasagne,1,0,Served With Garlic Bread [2 Pieces]. A Classic Preparation Of Layered Pasta Sheets ... read more,525.0
+Pastas & Risotto,Spaghetti Aglio E Olio,1,0,Served With Garlic Bread [2 Pieces].,495.0
+Pastas & Risotto,Spinach Ricotta Cheese Ravoli Pasta,1,0,Served With Garlic Bread [2 Pieces].,545.0
+Pastas & Risotto,Tre Funghi Risotto,1,0,Served With Garlic Bread [2 Pieces].,525.0
+Pastas & Risotto,Truffle Butter Spaghetti,1,0,,525.0
+Pastas & Risotto,Wild Porcini Cream,1,0,,495.0
+Pan Asian,Black Pepper Wok,1,0,"Tender Tofu, Water Chestnut, Exotic Veggies And Black Pepper Sauce.",495.0
+Pan Asian,Burmese Khousuey,1,0,"Burmese One Pot Meal Of Noodles, Vegetables In Spicy Coconut Scented Curry And ... read more",675.0
+Pan Asian,Cantonese Mushroom Chilli Wok,1,0,"Exotic Veggies, Hand Picked Mushroom And Spicy Oyster Chilli Sauce.[Veg Preparation]",495.0
+Pan Asian,Chiang Mai Wok,1,0,"Thai Spiced Pokchoy, Beans, Zucchini, Broccoli, Chinese Cabbage In Chiang Mai Curry Sauce.",495.0
+Pan Asian,Douchi Wok,1,0,"Tender Tofu, Exotic Veggies, Lotus Root And, Chef'S Special Douchi Sauce.",495.0
+Pan Asian,Hunan Style Wok,1,0,"Fresh Veggies, Cottage Cheese And Spicy Hunan Sauce",495.0
+Pan Asian,Manchurian Chilli Wok,1,0,"Crispy Vegetable Dumpling, Scallions And Garlic Soya Sauce.",475.0
+Pan Asian,Spicy Sichuan Chilly Wok,1,0,"Fresh Veggies, Cottage Cheese, Spicy Burnt Garlic And Sichuan Sauce",495.0
+Pan Asian,Thai Green Curry With Butter Jasmine Rice,1,0,,675.0
+Pan Asian,Thai Green Curry With Steam Rice,1,0,,585.0
+Pan Asian,Thai Red Curry With Butter Jasmine Rice,1,0,,675.0
+Pan Asian,Thai Red Curry With Steam Rice,1,0,,585.0
+Pan Asian,Blue Butterfly Pea Jasmine Fried Rice,1,0,"Thai Staple Aromatic Sticky Jasmine Rice In Blue Butterfly Pea Flower, Finished With ... read more",495.0
+Pan Asian,Burnt Garlic Spinach Fried Rice,1,0,,450.0
+Pan Asian,Curry In Sauce Pot,1,0,,160.0
+Pan Asian,Hakka Noodles,1,0,,385.0
+Pan Asian,Pad Thai Noodles,1,0,"Flat Noodles Tossed With Scallions, Peppers And Basil In Unique Thai Style And ... read more",450.0
+Pan Asian,Sichuan Fried Rice,1,0,,450.0
+Pan Asian,Steamed Butter Jasmine Rice,1,0,,475.0
+Pan Asian,Stir Fried Black Pepper Udon Noodles,1,0,Japanese Udon Noodles In Chef'S Special Black Pepper Sauce Along With Veggies.,450.0
+Pan Asian,Thai Fried Rice,1,0,,430.0
+Pan Asian,Triple Schezwan Rice,1,0,,520.0
+Pan Asian,Veg Fried Rice,1,0,,385.0
+Indian,Dal Panchmahal With Kulcha,1,0,,540.0
+Indian,Dal Makhani Shots With Small Cheese Naan,1,0,,540.0
+Indian,Fusion Chowpatty Bhaji &Kebab With Cheese Naan,1,0,,540.0
+Indian,Chole Masala With Stuffed Kulcha,1,0,,540.0
+Indian,Paneer Cheese Gotala With Lachha Paratha,1,0,,540.0
+Indian,Apricot Pistachio Kofta,1,0,(In Onion Brown Aravy),520.0
+Indian,Galouti Kofta,1,0,,475.0
+Indian,Kaju Masala,1,0,,520.0
+Indian,Lasooni Palak Paneer,1,0,,495.0
+Indian,Malai Methi Mutter,1,0,,450.0
+Indian,Paneer Bhuna Masala,1,0,(Fresh Paneer In Chef'S Unique Gravy),495.0
+Indian,Paneer Butter Masala,1,0,,495.0
+Indian,Paneer Cheese Gotala,1,0,,495.0
+Indian,Paneer Kali Mirch,1,0,(In Curd Yellow Gravy),495.0
+Indian,Paneer Khurchan,1,0,,495.0
+Indian,Paneer Mutter Lasaniya,1,0,,475.0
+Indian,Paneer Taka Tak,1,0,(In House Special Spicy Avadhi Gravy),495.0
+Indian,Paneer Tikka Masala,1,0,,520.0
+Indian,Chole Chana Masala,1,0,,450.0
+Indian,Punjabi Dum Aloo,1,0,,450.0
+Indian,Sizzling Cheese Angara,1,0,,495.0
+Indian,Sizzling Paneer Roulade,1,0,Healthy paneer and grated cheese rolls served sizzling in rich red gravy made ... read more,495.0
+Indian,Sizzling Tawa Masala,1,0,(Healthy Paneer & Grated Cheese Rolls Served Sizzling In Rich Red Gravy Made ... read more,495.0
+Indian,Soya Achari Masala,1,0,,475.0
+Indian,Spicy Mushroom Sukka,1,0,,475.0
+Indian,Stuffed Mughlai Mushroom Malai,1,0,,495.0
+Indian,Three Cheese Butter Masala,1,0,"(A Yammy Blend Of Three Cheese - Processed, Cheddar & Parmesan)",520.0
+Indian,Veg Handi,1,0,,450.0
+Indian,Veg Kolhapuri,1,0,,450.0
+Indian,Dal Fry,1,0,,360.0
+Indian,Dal Makhani,1,0,,495.0
+Indian,Dal Panchmahal,1,0,"(A Nutritious Mix Of Hand Beaten Moong, Urad, Masoor, Toor And Chana Daal ... read more",495.0
+Indian,Dal Tadka,1,0,,385.0
+Indian,Curd Rice,1,0,,345.0
+Indian,Dal Khichdi,1,0,,495.0
+Indian,Dal Palak Khichdi,1,0,,525.0
+Indian,Jeera Rice,1,0,,425.0
+Indian,Masala Khichdi,1,0,,525.0
+Indian,Mushroom Biryani,1,0,Hand Picked Button Mushrooms Tossed In Chef'S Secret Sauce Along With Vegetables And ... read more,555.0
+Indian,Palak Dum Biryani,1,0,Served With Plain Raita And Salan Mirchi.,555.0
+Indian,Seekh Kebab Biryani,1,0,"Spicy Seekh Kebab On Bed Of Long Aromatic Basmati Rice, Cooked On Slow ... read more",595.0
+Indian,Sizzling Dal Panchmahal Khichdi,1,0,,595.0
+Indian,Sizzling Paneer Tikka Biryani,1,0,"Paneer Marinated In A Special Spice Mix, On A Bed Of Long, Fragrant ... read more",555.0
+Indian,Steamed Rice,1,0,,315.0
+Indian,Thyme & Olive Rice,1,0,,495.0
+Indian,Veg Dum Biryani,1,0,,555.0
+Juices,Orange Juice,1,0,,225.0
+Juices,Pineapple Juice,1,0,,225.0
+Juices,Watermelon Juice,1,0,,225.0
+Dolce Desserts,Baked Newyork Cheesecake,1,0,(Macereted Sour Cherry/ Macereted Fresh Raspberry),540.0
+Dolce Desserts,"Baked Newyork Cheesecake Options(Bluebeery, Nutella,Biscoff)",1,0,Blueberry/Nutella/Biscoff/Caramel,495.0
+Dolce Desserts,Biscoff Surprise,1,0,,495.0
+Dolce Desserts,Chef'S Kiss,1,0,,565.0
+Dolce Desserts,Classic Tiramisu,1,0,,495.0
+Dolce Desserts,Deconstructed Black Forest,1,0,"(Fudgy Brownie, Callebaut Dark Chocolat Ganache, Sweetened Cream, Macerated Sour Cherries, Dark Chocolate ... read more",540.0
+Dolce Desserts,Hazlenut Crunch,1,0,"(Moist Chocolate Sponge, Turkish Origin Hazelnut Praline, Callebaut Milk Chocolate Hazelnut Mousse; Finished ... read more",495.0
+Dolce Desserts,Mango Pull Me Up Cake,1,0,,540.0
+Dolce Desserts,Molten Chocolate Fondant,1,0,"(Molten Chocolate Lava Cake, Vanilla Crumble, Espresso Cream, Vanilla Ice Cream)",495.0
+Dolce Desserts,Oreo Brownie,1,0,,315.0
+Dolce Desserts,Textures Of Chocolate,1,0,"(Chocolate Tart Sable, Salted Caramel, Callebaut Dark Chocolate Ganache, Feuilletine Chocolate Crunch, Callebaut ... read more",565.0

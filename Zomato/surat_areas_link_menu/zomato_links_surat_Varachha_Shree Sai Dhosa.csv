@@ -1,0 +1,68 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Zomato Exclusive Combos,Butter Jini Roll Dosa with Masala Dosa,1,0,,280.0
+Zomato Exclusive Combos,Pav Bhaji [10 Pav] + Pulao [450 ml] + Lasan Chutney,1,0,,260.0
+Zomato Exclusive Combos,Paneer Cheese Gotala with 2 Sada Paper Dosa [Serves 1],1,0,,299.0
+Mysore Dhosa,Mysore Dosa,1,0,,130.0
+Mysore Dhosa,Gotada Mysore Dosa,1,0,,199.0
+Mysore Dhosa,Paneer Bhurji Gravy Mysore Dosa,1,0,,199.0
+Mysore Dhosa,Cheese Masala Mysore Dosa,1,0,,199.0
+Mysore Dhosa,Cheese Mysore Dosa,1,0,,199.0
+Masala Dhosa,Jain Dosa,1,0,,120.0
+Masala Dhosa,Masala Dosa,1,0,Dosa served with flavourful spiced potato masala and served with Coconut Chutney and ... read more,120.0
+Masala Dhosa,Butter Paneer Masala Dosa,1,0,,199.0
+Fancy Dhosa,Butter Raja Rani Dosa,1,0,,199.0
+Fancy Dhosa,Butter Jini Roll Dosa,1,0,"It is a stuffing of mix veggies like cabbage, carrots, capsicum is semi-cooked ... read more",199.0
+Fancy Dhosa,Butter Dilkush Dosa,1,0,,199.0
+Fancy Dhosa,Butter Palak Paneer Dosa,1,0,,169.0
+Fancy Dhosa,Butter Cheese Palak Dosa,1,0,,199.0
+Fancy Dhosa,Butter Chinese Dosa,1,0,,199.0
+Fancy Dhosa,Butter Cheese Chinese Dosa,1,0,,199.0
+Fancy Dhosa,Butter Cheese Paneer Dosa,1,0,,199.0
+Fancy Dhosa,Butter Paneer Chili Dosa,1,0,,199.0
+Fancy Dhosa,Paneer Surma Dosa,1,0,,199.0
+Fancy Dhosa,Cheese Paneer Surma Dosa,1,0,,199.0
+Fancy Dhosa,Shree Sai Special Butter Mixed Dosa,1,0,[Chef's Special],199.0
+Paper Dhosa,Sada Paper Dosa,1,0,,55.0
+Paper Dhosa,Butter Paneer Paper Dosa,1,0,,80.0
+Paper Dhosa,Butter Cheese Paper Dosa,1,0,,100.0
+Paper Dhosa,Butter Tomato Cheese Paper Dosa,1,0,,100.0
+Paper Dhosa,Butter Onion Cheese Paper Dosa,1,0,,100.0
+Paper Dhosa,Butter Onion Garlic Paper Dosa,1,0,,100.0
+Chinese,Manchurian,1,0,,140.0
+Chinese,Schezwan Manchurian,1,0,,150.0
+Chinese,Chinese Bhel,1,0,"Chinese bhel has sweet, tangy and spicy taste. This recipe of Chinese bhel ... read more",140.0
+Chinese,Bombay Bhel,1,0,,140.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,A Classical Fusion Recipe Made By Tossing The Long Grain Rice In A ... read more,110.0
+Fried Rice and Noodles,Fried Rice,1,0,A Dish Of Cooked Rice That Has Been Stir-fried In A Wok Or ... read more,90.0
+Fried Rice and Noodles,Singapore Fried Rice,1,0,,90.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,120.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,,170.0
+Fried Rice and Noodles,American Chopsuey,1,0,,110.0
+Fried Rice and Noodles,Schezwan Hakka Noodles,1,0,,140.0
+Pav Bhaji,Pav [Oil],1,0,,6.0
+Pav Bhaji,Pav [Butter],1,0,,9.0
+Pav Bhaji,Pav Bhaji,1,0,a fast food dish from India consisting of a thick vegetable curry (bhaji) ... read more,130.0
+Pav Bhaji,Jain Pav Bhaji,1,0,Jain preparation.,140.0
+Pav Bhaji,Butter Green Palak Bhaji,1,0,,180.0
+Pav Bhaji,Butter Paneer Bhaji,1,0,,180.0
+Pav Bhaji,Butter Paneer Tukda Bhaji,1,0,,180.0
+Pav Bhaji,Butter Kaju Bhaji,1,0,,180.0
+Pav Bhaji,Butter Special Bhaji,1,0,,190.0
+Pav Bhaji,Butter Cheese Bhaji,1,0,,190.0
+Pav Bhaji,Butter Cheese Palak Bhaji,1,0,,199.0
+Pav Bhaji,Butter Cheese Palak Paneer Bhaji,1,0,,199.0
+Pulao,Jeera Rice,1,0,Rice cooked with cumin &other fragrant spices.,100.0
+Pulao,Tawa Pulao,1,0,Tawa pulao is a popular Mumbai street food of rice and vegetables sauteed ... read more,170.0
+Pulao,Cheese Pulao,1,0,,199.0
+Pulao,Paneer Pulao,1,0,,199.0
+Pulao,Paneer Tukda Pulao,1,0,,199.0
+Pulao,Cheese Paneer Pulao,1,0,,199.0
+Pulao,Kaju Biryani Pulao,1,0,,199.0
+Pulao,Draksh Biryani Pulao,1,0,,199.0
+Pulao,Cheese Biryani Pulao,1,0,,199.0
+Pulao,Paneer Biryani Pulao,1,0,,199.0
+Pulao,Kashmiri Pulao,1,0,,199.0
+Soups,Manchow Soup,1,0,Stir fried vegetables are immersed in a pot of water/stock enriched with aromatics ... read more,100.0
+Soups,Hot and Sour Soup,1,0,,100.0
+Soups,Tomato Soup,1,0,,80.0
+Accompaniment,Lasun Chutney,1,0,,65.0

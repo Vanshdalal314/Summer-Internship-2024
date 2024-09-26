@@ -1,0 +1,66 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Breakfast Meals,Idli [2 Pieces],1,0,,95.0
+Breakfast Meals,Idli [1 Piece] & 1 Medu Vada,1,0,,100.0
+Breakfast Meals,Medu Vada [2 Vada],1,0,,110.0
+Breakfast Meals,Plain Uttapam,1,0,,110.0
+Breakfast Meals,Rava Sada Dosa,1,0,,135.0
+Breakfast Meals,Onion Uttapam,1,0,,150.0
+Breakfast Meals,Tomato Uttapam,1,0,,150.0
+Breakfast Meals,Tomato Onion Uttapam,1,0,,160.0
+Breakfast Meals,Mixed Uttapam,1,0,,175.0
+Breakfast Meals,Rava Masala Dosa,1,0,,175.0
+Dosa,Sada Dosa,1,0,,100.0
+Dosa,Baby Sada Dosa,1,0,,100.0
+Dosa,Schezwan Sada Dosa,1,0,,150.0
+Dosa,Garlic Sada Dosa,1,0,,170.0
+Dosa,Cheese Sada Dosa,1,0,,180.0
+Dosa,Cheese Baby Dosa,1,0,,180.0
+Dosa,Cheese Schezwan Sada Dosa,1,0,,200.0
+Dosa,Cheese Garlic Sada Dosa,1,0,,220.0
+Dosa,Nylon Dosa,1,0,,150.0
+Dosa,Baby Nylon Dosa,1,0,,150.0
+Dosa,Jeera Nylon Dosa,1,0,,180.0
+Dosa,Garlic Nylon Dosa,1,0,,180.0
+Dosa,Cheese Nylon Dosa,1,0,,220.0
+Dosa,Cheese Baby Nylon Dosa,1,0,,220.0
+Dosa,Cheese Garlic Nylon Dosa,1,0,,250.0
+Dosa,Cheese Schezwan Garlic Nylon Dosa,1,0,,260.0
+Dosa,Cheese Garlic Olive Nylon Dosa,1,0,,260.0
+Dosa,Cheese Garlic Oregano Nylon Dosa,1,0,,260.0
+Dosa,Cheese Garlic Oregano Baby Corn Nylon Dosa,1,0,,260.0
+Dosa,Pizza Paper Dosa,1,0,"Pizza sauce, tomato, onion, capsicum, sweet corn, olive and jalapeno.",350.0
+Dosa,Masala Dosa,1,0,,200.0
+Dosa,Schezwan Masala Dosa,1,0,,220.0
+Dosa,Palak Dosa,1,0,,220.0
+Dosa,Aloo Palak Dosa,1,0,,220.0
+Dosa,Cheese Masala Dosa,1,0,,240.0
+Dosa,Paneer Dosa,1,0,,240.0
+Dosa,Cheese Schezwan Masala Dosa,1,0,,260.0
+Dosa,Aloo Paneer Dosa,1,0,,260.0
+Dosa,Sweet Corn Dosa,1,0,,260.0
+Dosa,Schezwan Sweet Corn Dosa,1,0,,270.0
+Dosa,Chinese Dosa,1,0,,270.0
+Dosa,Cheese Aloo Palak Dosa,1,0,,270.0
+Dosa,Cheese Chocolate Roll Dosa,1,0,,270.0
+Dosa,Cheese Paneer Dosa,1,0,,280.0
+Dosa,Palak Paneer Dosa,1,0,,280.0
+Dosa,Cheese Chinese Dosa,1,0,,300.0
+Dosa,Cheese Sweet Corn Dosa,1,0,,310.0
+Dosa,Mixed Dosa,1,0,,310.0
+Dosa,Cheese Schezwan Sweet Corn Dosa,1,0,,310.0
+Dosa,Jini Roll Dosa,1,0,,310.0
+Dosa,Schezwan Roll Dosa,1,0,,310.0
+Dosa,Cheese Palak Dosa,1,0,,320.0
+Dosa,Cheese Palak Paneer Dosa,1,0,,350.0
+Dosa,Mysore Masala Dosa,1,0,,200.0
+Dosa,Cheese Mysore Masala Dosa,1,0,,240.0
+Dosa,Paneer Surma Dosa,1,0,,310.0
+Dosa,Paneer Tukda Dosa,1,0,,310.0
+Dosa,Cheese Paneer Surma Dosa,1,0,,350.0
+Dosa,Cheese Paneer Tukda Dosa,1,0,,350.0
+Dosa,Gotalo Dosa,1,0,,380.0
+Dosa,Sainath Malhar Special Dosa,1,0,,380.0
+Pav Bhaji,Pav Bhaji,1,0,Bhaji [250 grams]+2 Pav+Salad [Salad-Subject to Availability],200.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,Cheese Bhaji [250 grams]+2 Pav+Salad [Salad-Subject to Availability],260.0
+Accompaniment,Buttermilk,1,0,,30.0
+Accompaniment,Salad,1,0,,30.0

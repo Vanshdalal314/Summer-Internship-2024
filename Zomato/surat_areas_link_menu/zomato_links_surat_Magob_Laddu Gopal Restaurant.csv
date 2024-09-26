@@ -1,0 +1,228 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Veg Punjabi Thali [Mini],1,0,Veg Sabji+4 Butter Chapati+Dal Fry+Jeera Rice+Pickle+Papad [Subject to Availability],125.4
+Thali,Paneer Punjabi Thali [Mini],1,0,Paneer Sabji+4 Butter Chapati+Dal Fry+Jeera Rice+Pickle+Papad [Subject to Availability],131.4
+Thali,Punjabi Thali,1,0,Paneer Sabji+Veg Sabji+5 Chapati+Dal+Jeera Rice+Pickle+Salad+Papad +Buttermilk+Gulab Jamun [1 Piece] [Subject to Availability],179.4
+Thali,Punjabi Maharaja Thali,1,0,Kaju Curry+Paneer Butter Masala+3 Tawa Paratha+Jeera Rice+Dal Tadka+Pickle+Buttermilk+Salad+Papad+Gulab Jamun [1 Piece] [Subject to ... read more,209.4
+Chole Bhature,Punjabi Chole Bhature,1,0,,91.8
+Pav Bhaji,Pav Bhaji [2 Pav],1,0,,102.0
+Pav Bhaji,Jain Pav Bhaji [2 Pav],1,0,,122.4
+Pav Bhaji,Cheese Bhaji,1,0,,132.6
+Pav Bhaji,Masala Pav,1,0,,102.0
+Main Course,Aloo Matar,1,0,,78.0
+Main Course,Aloo Palak,1,0,,78.0
+Main Course,Aloo Gobhi,1,0,,78.0
+Main Course,Aloo Jeera,1,0,,78.0
+Main Course,Mix Veg,1,0,,78.0
+Main Course,Chana Masala,1,0,,78.0
+Main Course,Sev Tomato,1,0,,78.0
+Main Course,Bhindi Fry,1,0,,78.0
+Main Course,Bhindi Masala,1,0,,78.0
+Main Course,Plain Palak,1,0,,78.0
+Main Course,Lehsuni Palak,1,0,,78.0
+Main Course,Laddu Gopal Special Veg,1,0,,156.0
+Main Course,Veg Garlic Masala,1,0,,144.0
+Main Course,Veg Tawa Masala,1,0,,126.0
+Main Course,Veg Angara,1,0,,144.0
+Main Course,Veg Toofani,1,0,,144.0
+Main Course,Veg Handi,1,0,,126.0
+Main Course,Veg Kadai,1,0,,126.0
+Main Course,Veg Kolhapuri,1,0,,126.0
+Main Course,Veg Hyderabadi,1,0,,126.0
+Main Course,Veg Makhanwala,1,0,,126.0
+Main Course,Dum Aloo Punjabi,1,0,,126.0
+Main Course,Special Cheese Lucknowi,1,0,,198.0
+Main Course,Special Cheese Angoori,1,0,,198.0
+Main Course,Sweet Malai Kofta,1,0,,126.0
+Main Course,Nargisi Kofta,1,0,,126.0
+Main Course,Cheese Kofta,1,0,,126.0
+Main Course,Veg Sabji,1,0,,144.0
+Main Course,Punjabi Sabji,1,0,,114.0
+Main Course,Matar Paneer,1,0,,96.0
+Main Course,Palak Paneer,1,0,,96.0
+Main Course,Paneer Toofani,1,0,,126.0
+Main Course,Paneer Angara,1,0,,126.0
+Main Course,Paneer Chatpata,1,0,,126.0
+Main Course,Paneer Bhurji,1,0,,126.0
+Main Course,Shahi Paneer,1,0,,126.0
+Main Course,Paneer Kadai,1,0,,126.0
+Main Course,Paneer Tikka Masala,1,0,,126.0
+Main Course,Paneer Butter Masala,1,0,,126.0
+Main Course,Paneer Kofta,1,0,,126.0
+Main Course,Paneer Sabji,1,0,,156.0
+Main Course,Paneer Garlic Masala,1,0,,156.0
+Main Course,Laddu Gopal Special Paneer,1,0,,156.0
+Main Course,Special Paneer Roll Masala,1,0,,186.0
+Main Course,Special Paneer Rajwadi,1,0,,186.0
+Main Course,Special Paneer Matka,1,0,,198.0
+Main Course,Kaju Paneer Masala,1,0,,126.0
+Main Course,Kaju Curry,1,0,,126.0
+Main Course,Sweet Khoya Kaju,1,0,,126.0
+Main Course,Kaju Kofta,1,0,,126.0
+Main Course,Kaju Masala,1,0,,162.0
+Main Course,Kaju Paneer,1,0,,168.0
+Main Course,Special Kaju Angara,1,0,,186.0
+Main Course,Special Kaju Tawa Masala,1,0,,186.0
+Main Course,Special Kaju Lahsuniya Matka,1,0,,198.0
+Main Course,Dal Fry Tadka [350 grams],1,0,,78.0
+Main Course,Butter Dal Fry [350 grams],1,0,,78.0
+Main Course,Dal Fry [350 grams],1,0,,78.0
+Rice and Biryani,Dal Khichdi [700 ml],1,0,,90.0
+Rice and Biryani,Plain Rice [700 ml],1,0,,60.0
+Rice and Biryani,Steamed Rice [700 ml],1,0,,60.0
+Rice and Biryani,Jeera Rice [700 ml],1,0,,60.0
+Rice and Biryani,Masala Rice [700 ml],1,0,,72.0
+Rice and Biryani,Veg Pulao [700 ml],1,0,,78.0
+Rice and Biryani,Veg Sweet Kashmiri Pulao [700 ml],1,0,,108.0
+Rice and Biryani,Paneer Pulao [700 ml],1,0,,108.0
+Rice and Biryani,Tawa Pulao [700 ml],1,0,,108.0
+Rice and Biryani,Kaju Pulao [700 ml],1,0,,120.0
+Rice and Biryani,Laddu Gopa Special Biryani [700 ml] with Raita,1,0,[Veg preparation],120.0
+Rice and Biryani,Veg Handi Biryani [700 ml] with Raita,1,0,,108.0
+Rice and Biryani,Hyderabadi Biryani [700 ml] with Raita,1,0,,108.0
+Rice and Biryani,Veg Biryani [700 ml] with Raita,1,0,,108.0
+Breads,Plain Chapati,1,0,,10.8
+Breads,Butter Chapati,1,0,,13.2
+Breads,Plain Paratha,1,0,,21.0
+Breads,Butter Paratha,1,0,,24.0
+Breads,Missi Roti,1,0,,42.0
+Breads,Aloo Paratha with Curd,1,0,,84.0
+Chinese,Veg Manchurian Dry,1,0,,81.6
+Chinese,Manchurian Gravy,1,0,,81.6
+Chinese,Chinese Bhel,1,0,,81.6
+Chinese,Bombay Bhel,1,0,,91.8
+Chinese,Paneer Crispy,1,0,,120.0
+Chinese,Veg Crispy [700 ml],1,0,,120.0
+Chinese,Paneer 65 Dry,1,0,,120.0
+Chinese,Veg 65 Dry [700 ml],1,0,,120.0
+Chinese,Paneer Schezwan Dry,1,0,,120.0
+Chinese,Schezwan Manchurian [700 ml],1,0,,132.6
+Chinese,Green Manchurian [700 ml],1,0,,132.6
+Chinese,Green Gravy Manchurian [700 ml],1,0,,142.8
+Chinese,Veg Lollipop [7 Pieces],1,0,,150.0
+Chinese,Paneer Chilli Gravy [700 ml],1,0,,150.0
+Chinese,Paneer Chilli Dry,1,0,,156.0
+Chinese,Paneer Lollipop [7 Pieces],1,0,,150.0
+Chinese,Veg Hara Bhara Kebab [7 Pieces],1,0,,150.0
+Chinese,Mushroom Chilli Dry [700 ml],1,0,,180.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,132.6
+Fried Rice and Noodles,Triple Fried Rice,1,0,,183.6
+Fried Rice and Noodles,Veg Fried Rice [175 grams],1,0,,112.2
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,112.2
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,112.2
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,142.8
+Fried Rice and Noodles,Combination Fried Rice,1,0,,122.4
+Fried Rice and Noodles,Manchurian Noodles,1,0,,81.6
+Fried Rice and Noodles,Singapore Noodles,1,0,,91.8
+Fried Rice and Noodles,Hong Kong Noodles,1,0,,91.8
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,91.8
+Fried Rice and Noodles,Schezwan Noodles,1,0,,91.8
+Soups,Hot and Sour Soup [230 ml],1,0,,75.0
+Soups,Veg Manchow Soup [230 ml],1,0,,75.0
+Soups,Veg Sweet Corn Soup [230 ml],1,0,,75.0
+Soups,Tomato Soup [230 ml],1,0,,75.0
+"Samosa, Vada Pav, Dabeli and Kachori",Samosa [1 Piece],1,0,,18.6
+"Samosa, Vada Pav, Dabeli and Kachori",Ragada Samosa [2 Pieces],1,0,,61.2
+"Samosa, Vada Pav, Dabeli and Kachori",Mirch Vada [1 Piece],1,0,,18.6
+"Samosa, Vada Pav, Dabeli and Kachori",Vada Pav,1,0,,20.4
+"Samosa, Vada Pav, Dabeli and Kachori",Grilled Vada Pav,1,0,,36.0
+"Samosa, Vada Pav, Dabeli and Kachori",Dabeli,1,0,,30.6
+"Samosa, Vada Pav, Dabeli and Kachori",Dal Kachori [1 Piece],1,0,,18.6
+"Samosa, Vada Pav, Dabeli and Kachori",Pyaaz Kachori [1 Piece],1,0,,23.4
+"Samosa, Vada Pav, Dabeli and Kachori",Ragda Kachori [1 Piece],1,0,,42.0
+"Samosa, Vada Pav, Dabeli and Kachori",Raj Kachori,1,0,,83.4
+Chaat and Snacks,Paneer Kofta [1 Piece],1,0,,23.4
+Chaat and Snacks,Dahi Puri [6 Pieces],1,0,,61.2
+Chaat and Snacks,Delhi Papdi Chaat,1,0,,61.2
+Chaat and Snacks,Sev Puri [6 Pieces],1,0,,61.2
+Chaat and Snacks,Bhalla Papdi Chaat,1,0,,61.2
+Chaat and Snacks,Paneer Spring Roll,1,0,,150.0
+Chaat and Snacks,Veg Spring Roll,1,0,,120.0
+Chaat and Snacks,Stuffed Kulcha,1,0,,60.0
+Fast Food,Bread Butter Sandwich,1,0,,30.6
+Fast Food,Bread Butter Aloo Sandwich,1,0,,30.6
+Fast Food,Bread Butter Cheese Toast Sandwich,1,0,,40.8
+Fast Food,Bread Butter Jam Sandwich,1,0,,40.8
+Fast Food,Bread Butter Cheese Jam Sanwich,1,0,,51.0
+Fast Food,Bread Butter Aloo Cheese Sandwich,1,0,,51.0
+Fast Food,Veg Toast Sandwich,1,0,,51.0
+Fast Food,Veg Cheese Sandwich,1,0,,51.0
+Fast Food,Aloo Masala Cheese Toast Sandwich,1,0,,51.0
+Fast Food,Pizza Toast Sandwich,1,0,,61.2
+Fast Food,Aloo Masala Toast Sandwich,1,0,,61.2
+Fast Food,Bread Butter Aloo Cheese Toast Sandwich,1,0,,61.2
+Fast Food,Open Veg Cheese Toast Sandwich,1,0,,71.4
+Fast Food,Veg Mini Grilled Sandwich,1,0,,81.6
+Fast Food,Veg Grilled Sandwich,1,0,,102.0
+Fast Food,Veg Chinese Grilled Sandwich,1,0,,112.2
+Fast Food,Veg Cheese Chinese Grilled Sandwich,1,0,,122.4
+Fast Food,Bombay Type Grill Sandwich,1,0,,132.6
+Fast Food,Bombay Type Cheese Grill Sandwich,1,0,,132.6
+Fast Food,Veg Cheese Paneer Grilled Sandwich,1,0,,132.6
+Fast Food,Paneer Cheese Grilled Sandwich,1,0,,142.8
+Fast Food,Veg Pizza [6 inches],1,0,,91.8
+Fast Food,Veg Cheese Pizza [6 inches],1,0,,102.0
+Fast Food,Veg Cheese Paneer Pizza [6 inches],1,0,,132.6
+Fast Food,Italian Pizza [6 inches],1,0,,142.8
+Fast Food,Italian Cheese Pizza [6 inches],1,0,,132.6
+Fast Food,Italian Paneer Cheese Pizza [6 inches],1,0,,163.2
+Fast Food,Cheese Garlic Bread,1,0,,61.2
+Fast Food,Veg Burger,1,0,,51.0
+Fast Food,Veg Cheese Burger,1,0,,61.2
+Fast Food,French Fries,1,0,,122.4
+Fast Food,Veg Frankie,1,0,,51.0
+Fast Food,Veg Chesse Frankie,1,0,,61.2
+Fast Food,Schezwan Frankie,1,0,,71.4
+Fast Food,Veg Hot Dog,1,0,,51.0
+Fast Food,Veg Cheese Hot Dog,1,0,,61.2
+Namkeens,Methi Mathri [200 grams],1,0,,40.8
+Namkeens,Trikoni [200 grams],1,0,,40.8
+Namkeens,Sahi Tikla [200 grams],1,0,,40.8
+Namkeens,Rimzim [200 grams],1,0,,40.8
+Namkeens,Matar [200 grams],1,0,,47.4
+Namkeens,Marwadi Paita [200 grams],1,0,,61.2
+Farali,Sabudana Vada [3 Pieces],1,0,,71.4
+Farali,Sabudana Khichdi,1,0,,91.8
+Accompaniments,Cheese Masala Papad,1,0,,30.0
+Accompaniments,Masala Papad,1,0,,24.0
+Accompaniments,Fried Papad,1,0,,12.0
+Accompaniments,Roasted Papad,1,0,,12.0
+Accompaniments,Pineapple Raita [200 grams],1,0,,63.0
+Accompaniments,Veg Raita [200 grams],1,0,,60.0
+Accompaniments,Boondi Raita [200 grams],1,0,,60.0
+Accompaniments,Plain Curd [200 grams],1,0,,36.0
+Accompaniments,Green Chutney [50 grams],1,0,,15.0
+Accompaniments,Green Salad [180 grams],1,0,,54.0
+Accompaniments,Tomato Salad [180 grams],1,0,,54.0
+Accompaniments,Chaas [250 ml],1,0,,18.0
+Sweets,Rasgulla [1 Piece],1,0,,17.4
+Sweets,Gulab Jamun [1 Piece],1,0,,17.4
+Sweets,Kala Jamun [1 Piece],1,0,,17.4
+Sweets,Khopra Cham Cham [1 Piece],1,0,,21.0
+Sweets,Malai Cham Cham [1 Piece],1,0,,23.4
+Sweets,Bengali Pakija [1 Piece],1,0,,27.6
+Sweets,Raj Bhog [1 Piece],1,0,,28.8
+Sweets,Raj Bhog Rabdi [1 Piece],1,0,,40.8
+Sweets,Rasmalai [1 Piece],1,0,,36.0
+Sweets,Kaju Katli,1,0,,209.4
+Sweets,Anjeer Barfi,1,0,,250.2
+Sweets,Kaju Dimond King,1,0,,250.2
+Sweets,Kaju Kasata,1,0,,250.2
+Sweets,Malai Peda,1,0,,122.4
+Sweets,Kesar Peda,1,0,,122.4
+Sweets,Salasar Peda,1,0,,122.4
+Sweets,Kalakand,1,0,,132.6
+Sweets,Milk Cake,1,0,,132.6
+Sweets,Mava Barfi,1,0,,132.6
+Sweets,Mava Roll,1,0,,132.6
+Sweets,Motichoor Laddu,1,0,,112.2
+Sweets,Besan Laddu,1,0,,112.2
+Sweets,Mohan Thal,1,0,,112.2
+Sweets,Pure Ghee Jalebi,1,0,,102.0
+Sweets,Moti Pak,1,0,,132.6
+Sweets,Boondi,1,0,,91.8
+Sweets,Moong Dal Barfi,1,0,,132.6
+Sweets,Balushahi,1,0,,112.2
+Sweets,Agra Petha [500 grams],1,0,,244.8
+Sweets,Paneer Ghewar [400 grams],1,0,,237.0
+Sweets,Rabri Ghewar [600 grams],1,0,,355.8
+Sweets,Dal Badam Halwa,1,0,,117.0

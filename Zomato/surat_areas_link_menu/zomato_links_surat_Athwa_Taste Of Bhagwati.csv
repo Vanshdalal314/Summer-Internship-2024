@@ -1,0 +1,190 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Simply South Combo,All Time Special [ Masala Dosa + Plain Dosa ],1,0,Morning Special Bf[ Masala Dosa + Plain Dosa,219.5
+Simply South Combo,Meal For One [ Butter Idli 2 Pc ],1,0,[ Butter Idli 2 Pc ],114.5
+Simply South Combo,Meal For One [ Mini Idli 12 Pc + Rasam 250 Gm ],1,0,[ Mini idli 12 pc + rasam 250 gm ],124.5
+Simply South Combo,Meal For One [ Plain Idli 2 Pc + Sambhar + Coconut Cutni ],1,0,[ Plain idli 2 pc + sambhar + coconut cutni ],84.5
+Simply South Combo,Meal For Two [ Plain Idli 2 Pc + Medu Vada 2 Pc + Masala Dosa,1,0,[ Plain idli 2 pc + medu vada 2 pc + masala dosa,299.0
+Simply South Combo,For One [ PLAIN IDLI 1 PC + MEDU VADA 1 PC ],1,0,[ Plain idli 1 pc + medu vada 1 pc,94.5
+Starters,Dahi Boondi,1,0,A tangy and refreshing South Indian delight with a crispy texture.,140.0
+Starters,Keerai Vadai,1,0,Keerai vada is a traditional South Indian dish made with a batter of ... read more,175.0
+Starters,Masala Boondi,1,0,A light and crispy fried snack made with boondi and a flavorful and ... read more,120.0
+Starters,Mini Fried Idli,1,0,"Mini sized and crispy fried idli, perfect for a quick and light snack.",110.0
+Starters,Mini Malgapodi Idli,1,0,"Malgapodi idli is a flavorful and crispy idli, stuffed with a spicy malgapodi ... read more",200.0
+Starters,Mini Masala Idli,1,0,A delicious and flavorful snack or appetizer made with idli batter stuffed with ... read more,140.0
+Starters,Mini Tadka Idli,1,0,Crisp and soft idli made with a twist of traditional spices and flavors.,160.0
+Starters,Onion Pakoda,1,0,"Crisp and tangy onion pakoda, a popular Indian snack made with a mixed ... read more",180.0
+Starters,Paniyaram,1,0,Shallow fried round dumplings frome fermented rice and lentil dough and tempered with ... read more,160.0
+Idli,Ambassador Idli,1,0,"A traditional South Indian breakfast, made of rice and black lentils, steamed and ... read more",184.5
+Idli,Butter Idli,1,0,Melt-in-the-mouth butter idlis steamed to perfection paired with delicious coconut chutney and sambar.,139.5
+Idli,Mini Idli (12 Pc),1,0,"Tiny flavorful idli, a popular South Indian snack.",94.5
+Idli,Neil Idli ( 2 Pcs ),1,0,A soft and fluffy steamed idli with a crispy outer layer. Enjoy with ... read more,149.5
+Idli,Plain Idli (2Pc),1,0,"Soft and fluffy idli, perfect for breakfast or a snack.",84.5
+Idli,Rasam Idli,1,0,Melt-in-the-mouth butter idlis steamed to perfection paired with delicious coconut chutney and rasam.,174.5
+Idli,Thair Idli ( Ask For Sweet And Salt Dahi),1,0,"Sweet and salty, our thayir idli is a decadent dish that pairs the ... read more",174.5
+Idli,That Idli,1,0,"A soft, fluffy and mildly sweet breakfast dish, made with fermented rice and ... read more",114.5
+Vadai [ Medu Vada ],Idli Vadai Mix ( 1 Idli + 1 Vadai ),1,0,"A rich, flavorful dish made with a combination of crispy idli and soft, ... read more",125.0
+Vadai [ Medu Vada ],Masala Ulanda Vadai (2Pc),1,0,A spicy and flavorful appetizer made with Ulandian vada. The perfect blend of ... read more,134.5
+Vadai [ Medu Vada ],Onion Vadai,1,0,,159.5
+Vadai [ Medu Vada ],Rasam Wada,1,0,"Rasam vada are spicy, tangy and flavorful Indian snacks or appetizers.",169.5
+Vadai [ Medu Vada ],Thair Vadai (Dahi Wada),1,0,"A crispy, light snack made with lentils, deep fried in a spicy batter ... read more",174.5
+Vadai [ Medu Vada ],Ulanda Vadai [medu Vada2pc],1,0,,99.5
+Veg Upma,Upma,1,0,,134.5
+Rasam Of The Day,Tomato Rasam,1,0,A spicy and sour lentil broth. this can be had as a soup ... read more,99.5
+Pongal,Ven Pongal,1,0,The south version of porridge khichidi thise is made of yellow lentil and ... read more,159.5
+Sevai,Elumicha Pazham Sevai ( Lemon Sevai ),1,0,"Elumicha pazham sevai is a South Indian dish that is made with rice, ... read more",159.5
+Sevai,Thangai Sevai ( Coconut Sevai ),1,0,"A traditional sweet dish from Tamil Nadu, Thangai Madhura sevai is a flavorful, ... read more",154.5
+Sadam (Rice),Bisibelebath,1,0,,194.5
+Sadam (Rice),Elumicha Pazham Sadam ( Lemon Rice ),1,0,A flavorful dish made from lemon infused rice that is paired with a ... read more,194.5
+Sadam (Rice),Plain Rice With Rasam,1,0,,199.5
+Sadam (Rice),Plain Rice With Sambhar,1,0,A traditional South Indian dish that consists of long grain rice cooked in ... read more,199.5
+Sadam (Rice),Puliyogare (Tamarind Rice),1,0,"A tangy and spicy South Indian dish made with tamarind rice, mixed with ... read more",194.5
+Sadam (Rice),Thair Rice (Curd Rice ),1,0,A classic dish that combines the tangy flavors of curd and rice.,194.5
+Sadam (Rice),Thakkali Sadam ( Tomato Rice ),1,0,A tangy and flavorful rice dish made with fresh tomatoes and fragrant spices.,194.5
+Sadam (Rice),Thengai Sadam ( Coconut Rice ),1,0,A classic South Indian dish that is rich and creamy with a hint ... read more,194.5
+Dosa,Achari Onion Sada Dosa,1,0,Crisp and flavorful dosa filled with tangy and spicy onion. A popular South ... read more,174.5
+Dosa,Crispy Ghee Sada Dosa,1,0,,189.5
+Dosa,Crispy Kurmura Masala Dosa,1,0,,184.5
+Dosa,Crispy Kurmura Sada Dosa,1,0,,164.5
+Dosa,Masala Dosa,1,0,"Deliciously crispy dosa with a generous spread of fresh butter, spicy chutney and ... read more",154.5
+Dosa,Mysore Masala Dosa,1,0,"A semi spicy, crispy and delicious dosa, with masala folded into it topped ... read more",204.5
+Dosa,Mysore Sada Dosa,1,0,Crispy and tasty schezwan plain dosa is also known as mysore sada dosa.,199.5
+Dosa,Onion Masala Dosa,1,0,,189.5
+Dosa,Onion Sada Dosa,1,0,A crispy and savory South Indian specialty perfect for breakfast or as a ... read more,164.5
+Dosa,Paper Masala Dosa,1,0,,300.0
+Dosa,Paper Plain Dosa,1,0,"Crispy, golden-brown dosa with a delicate, melt-in-your-mouth texture.",199.5
+Dosa,Plain Dosa,1,0,"A semi-spicy, crispy and delicious dosa paired with sambar and chutney.",99.5
+Dosa,Pudina Masala Dosa,1,0,"Pudina masala dosa is a traditional South Indian dish, made with a crispy ... read more",194.5
+Dosa,Pudina Onion Masala Dosa,1,0,"A crispy, light and flavorful dosa with a refreshing mint and onion filling.",174.5
+Dosa,Pudina Onion Sada Dosa,1,0,A crispy and flavorful South Indian pancake made with aromatic mint and onion.,174.5
+Dosa,Pudina Sada Dosa,1,0,,174.5
+Rava Dosa,Coconut Rava Masala Dosa,1,0,,230.0
+Rava Dosa,Coconut Rava Sada Dosa,1,0,"A light, fluffy and mildly sweet dosa made with a blend of rice ... read more",215.0
+Rava Dosa,Crispy Achari Onion Rava Dosa,1,0,"A crispy, flavorful dosa filled with an aromatic mixed of spices and tangy ... read more",230.0
+Rava Dosa,Podi Rava Dosa,1,0,"Crispy and delicious plain dosa made of rava coated with fresh butter, served ... read more",215.0
+Rava Dosa,Rava Masala Dosa,1,0,"Crispy and delicious dosa made of rawa, folded in with masala and coated ... read more",215.0
+Rava Dosa,Rava Onion Masala Dosa,1,0,Crispy and fluffy rava dosa topped with a savory onion masala that will ... read more,230.0
+Rava Dosa,Rava Onion Sada Dosa,1,0,"A crispy, golden brown dosa filled with a savoury, aromatic onion filling. A ... read more",215.0
+Rava Dosa,Rava Sada Dosa,1,0,"Crispy and delicious plain dosa made of rava coated with fresh butter, served ... read more",200.0
+Rava Dosa,Veg Rava Masala Dosa,1,0,A crispy and flavorful dosa made with a wholesome combination of vegetables and ... read more,230.0
+Rava Dosa,Veg Rava Sada Dosa,1,0,"Tasty, crispy and delicious rava dosa with a filling of fresh vegetables. Perfect ... read more",215.0
+Favourite Flavour Of Dosa,Achari Onion Masala Dosa,1,0,A crispy and flavorful dosa filled with a delectable mixed of onion and ... read more,215.0
+Favourite Flavour Of Dosa,Chattinad Cheese Spring Dosa,1,0,A crispy and savoury dosa filled with a flavorful combination of cheese and ... read more,275.0
+Favourite Flavour Of Dosa,Cheese Chilli Garlic Dosa,1,0,"A crispy, golden brown dosa filled with aromatic spices, cheese and chilli garlic ... read more",275.0
+Favourite Flavour Of Dosa,Cheese Corn Dosa,1,0,"A crispy, cheesy and flavorful South Indian dish, made with corn and dosa ... read more",275.0
+Favourite Flavour Of Dosa,Dosa Platter,1,0,"A scrumptious and filling platter of crispy and savoury dosa, served with a ... read more",315.0
+Favourite Flavour Of Dosa,Ghee Masala Roast Dosa,1,0,A crispy dosa filled with a medley of spices and cooked with ghee ... read more,230.0
+Favourite Flavour Of Dosa,Keerai Cheese Corn Dosa,1,0,A healthy and delicious South Indian snack made with a blend of spinach ... read more,275.0
+Favourite Flavour Of Dosa,Keerai Cheese Garlic Dosa,1,0,"A crispy dosa topped with a savory mixed of spinach, garlic and a ... read more",275.0
+Favourite Flavour Of Dosa,Spicy Chattinad Dosa,1,0,"A spicy and tangy South Indian snack, spicy chettinad dosa is a perfect ... read more",220.0
+Favourite Flavour Of Dosa,Spring Dosa,1,0,"A mouthwatering dosa stuffed with stir fried veggies in delectable chinese flavors, served ... read more",235.0
+Uthappam,Capsicum Uttapam,1,0,Uttapam are a type of savoury pancake made with a blend of rice ... read more,154.5
+Uthappam,Cheese Chilly Uttapam,1,0,A crispy and flavorful dish that combines the spicy flavors of cheese and ... read more,174.5
+Uthappam,Cheese Corn Uttapam,1,0,A delicious snack made with soft and fluffy uttapam topped with a generous ... read more,164.5
+Uthappam,Coconut Uttapam,1,0,A fluffy South Indian delight infused with the sweetness of coconut.,189.5
+Uthappam,Madurai Sandwich Uttapam,1,0,"A crispy, soft and fluffy Indian pancake, stuffed with a delicious mixture of ... read more",184.5
+Uthappam,Masala Uttapam,1,0,"Made with toppings such as tomatoes, onion, chillies, capsicum and coriander with butter ... read more",164.5
+Uthappam,Mix Uttapam,1,0,A wholesome meal with flavor-packed soft uttapam topped with assorted veggies; served along ... read more,174.5
+Uthappam,Onion Capsicum Uttapam,1,0,"A crispy and flavorful South Indian dish made with layered batter of onion, ... read more",200.0
+Uthappam,Onion Uttapam,1,0,A wholesome meal with flavor packed soft uttapam topped with onions and cheese ... read more,174.5
+Uthappam,Panchvarna Uttapam,1,0,,159.5
+Uthappam,Plain Uttapam,1,0,,164.5
+Uthappam,Tomato Capsicum Uttapam,1,0,"A savoury Indian pancake made with tomato, bell pepper and spices.",159.5
+Uthappam,Tomato Corn Uttapam,1,0,"A delicious and crispy veg snack made with tomatoes, corn and spices. A ... read more",169.5
+Uthappam,Tomato Masala Uttapam,1,0,"A spicy, tangy and flavorful rice based dish made with tomatoes, onion and ... read more",184.5
+Uthappam,Tomato Onion Uttapam,1,0,An interesting spin on the classic dosa with onions and tomatoes mixed into ... read more,174.5
+Uthappam,Tomato Uttapam,1,0,A savory South Indian delicacy loaded with aromatic flavors.,159.5
+Uthappam,Veg Uttapam,1,0,,184.5
+Combos,Brunt Garlic Rice (250 Ml) + Manchurian Gravy (250 Ml),1,0,Serves 1 | Combo for one 1 Brunt Garlic Rice (250 Ml) + ... read more,199.0
+Combos,Dal Fry (250 Ml) + Jeera Rice (250 Ml),1,0,Serves 1 | Combo for one 1 Dal Fry (250 Ml) + Jeera ... read more,199.0
+Combos,Hakka Noodle (250 Ml) + Manchurian Gravy (250 Ml),1,0,Serves 1 | Combo for one Hakka Noodle (250 Ml) + Manchurian Gravy ... read more,199.0
+Combos,Manchurian Gravy (250 Ml) + Veg Fried Rice (250 Ml),1,0,Serves 1 | Combo for one ( Manchurian Gravy (250 Ml) + Veg ... read more,199.0
+Combos,Paneer Chilly (250 Ml) + Schezwan Rice (250 Ml),1,0,Serves 1 | Combo for one 1 [ Paneer Chilly (250 Ml) + ... read more,249.0
+Combos,Paneer Chilly Gravy (250 Ml) + Burnt Garlic Rice (250 Ml),1,0,Serves 1 | Combo for one 1 Paneer Chilly Gravy (250 Ml) + ... read more,249.0
+Combos,Thai Curry (250 Ml) + Steam Rice (250 Ml),1,0,[Thai Curry (250 Ml) + Steam Rice (250 Ml)],219.0
+Combos,Tob Special Biryani (250 Ml) + Raita + Papad Churi,1,0,Serves 1 | Combo for one 1 Tob Special Biryani (250 Ml) + ... read more,199.0
+Combos,Tob Special Dal Khichadi (250 Ml) + Curd + Papad Churi,1,0,Serves 1 | Combo for one 1 Tob Special Dal Khichadi (250 Ml) ... read more,199.0
+Combos,Veg Fried Rice (250 Ml) + Veg Hakka Noodles (250 Ml),1,0,Serves 1 | Combo for one 1 Veg Fried Rice (250 Ml) + ... read more,199.0
+Thali ( Packets Meal ),Make Your Own Meal,1,0,Make your own special meal like any paneer sabji + veg sabji ... read more,300.0
+Thali ( Packets Meal ),Oriental Thali,1,0,Veg Hakka Noodles + Manchurian Gravy + Crispy Veg + Green Thai Curry ... read more,300.0
+Thali ( Packets Meal ),Royal Thali,1,0,Paneer sabji + veg sabji + dal tadka + jeera rice + tandoori ... read more,220.0
+Thali ( Packets Meal ),Savory Meal ( Mini Thali ),1,0,Mix veg sabji with paneer + dal tadka + steam rice + tandoori ... read more,160.0
+Thali ( Packets Meal ),Special Royal Thali,1,0,Paneer sabji + mix veg sabji + tandoori roti or lachcha paratha ... read more,270.0
+TOB Combo,For One [Daal Khichdi With Papad Churi],1,0,Daal Khichdi With Papad Churi,229.5
+TOB Combo,Daal Makhani With Tandoori 2 Pc,1,0,[Daal Makhani 250 ml +Tandoori 2 Pc],229.5
+TOB Combo,Dal Tadka With Jeera Rice & Papad Churi,1,0,MEAL FOR 1 [Daal Makhani 250 ML + Tandoori 2 Pc ],229.5
+TOB Combo,Kadhai Paneer With Garlic Naan,1,0,MEAL FOR 1 [Kadhai Paneer 250 ML + Garlic Naan 1 PC ],229.5
+TOB Combo,Palak Daal Lasuni Khichdi With Papad Churi & Onion,1,0,MEAL FOR 1 [Palak Daal Lasuni Khichdi 250 ML + Papad Churi & ... read more,229.5
+TOB Combo,Paneer Bhurjee Laccha Paratha,1,0,MEAL FOR 1 [Paneer Bhurjee 250 ML + Laccha Paratha 2 PC ],229.5
+TOB Combo,Shahi Paneer With Butter Naan,1,0,MEAL FOR 1 [Shahi Paneer 250 ML + Butter Naan 1 PC ],229.5
+TOB Combo,Veg Deewani Handi With Laccha Paratha,1,0,MEAL FOR 1 [Veg Deewani Handi 250 With Laccha Paratha,224.5
+Chinese,Chinese Lollipop,1,0,Green Chilly Coriander Manchurian,249.5
+Chinese,Crispy Crunchy Vegetables,1,0,"Crispy and crunchy vegetable sticks with a delicious blend of vegetables, spices and ... read more",224.5
+Chinese,Green Chilly Coriander Manchurian Dry,1,0,A mouth watering starter dish made with green chillies and coriander leaves.,224.5
+Chinese,Honey Chilly Potato,1,0,(Potato Tossed in Sweet & Spicy Sauce),200.0
+Chinese,Mushroom Chilly Dry,1,0,,230.0
+Chinese,Paneer Chilly Dry,1,0,,230.0
+Chinese,Veg Manchurian Dry,1,0,A crispy flavorful and mouth watering dish that is full of spice and ... read more,224.5
+Rice & Noodles,Burnt Garlic Noodles,1,0,A deliciously aromatic preparation with noodles and vegetables cooked in a flavorful burnt ... read more,249.5
+Rice & Noodles,Burnt Garlic Rice,1,0,Burnt garlic fried rice is a popular Chinese dish that is cooked with ... read more,249.5
+Rice & Noodles,Cottage Cheese In Chilly Coriander Sauce,1,0,A classic Indo Chinese dish that is a rich and creamy combination of ... read more,230.0
+Rice & Noodles,Exotic Veggies In Black Pepper,1,0,"An array of exotic vegetables prepared in a rich, dark black pepper gravy. ... read more",224.5
+Rice & Noodles,Exotic Veggies In Chilly Basil,1,0,,224.5
+Rice & Noodles,Exotic Veggies In Hot Garlic,1,0,"A tasty combination of exotic veggies cooked in a spicy, rich and aromatic ... read more",224.5
+Rice & Noodles,Exotic Veggies In Szechwan Sauce,1,0,Fresh and crunchy vegetables cooked in a schezwan sauce for a perfect blend ... read more,224.5
+Rice & Noodles,Lemon Ginger Fried Rice,1,0,"A flavorful dish with a tangy twist, lemon ginger fried rice is a ... read more",249.5
+Rice & Noodles,Paneer Chilly Gravy,1,0,,230.0
+Rice & Noodles,Veg Fried Rice,1,0,A classic recipe of rice tossed with fresh veggies and sauce.,249.5
+Rice & Noodles,Veg Hakka Noodles,1,0,"Noodles tossed with chopped vegetable, onion, capsicum & Chinese sauce.",195.0
+Off The Coal,Cheese Stuffed Tandoori Mushroom,1,0,(Spinach & Cheese Stuffed in Fresh Button Mushroom Coated with Tandoori Marinate & ... read more,250.0
+Off The Coal,Hydrabadi Paneer Tikka,1,0,"Tender and juicy paneer chunks marinated in a spicy and flavorful sauce, grilled ... read more",250.0
+Off The Coal,Mix Veg Sheek Kebab,1,0,A tantalizing mixed of assorted vegetables cooked in a flavorful marinade and grilled ... read more,237.5
+Off The Coal,Old School Tandoori Paneer Tikka,1,0,"A classic Indian dish, made with succulent cubes of paneer marinated in a ... read more",230.0
+Vegetable Biryani,Avadhi Special Biryani,1,0,Authentically flavored basmati rice cooked with exotic vegetable and dry fruit in avadhi ... read more,254.5
+Vegetable Biryani,Hydrabadi Veg Biryani,1,0,A popular spice and vegetables mixed favoured rice dish which is typically prepared ... read more,254.5
+Vegetable Biryani,Paneer & Vegetable Biryani,1,0,A flavorful and aromatic dish with fluffy rice cooked with paneer and vegetables. ... read more,274.5
+Vegetable Biryani,Tob Spicial Biryani,1,0,Authentically flavored basmati rice cooked with exotic vegetable and paneer,254.5
+Rice,Jeera Rice,1,0,Frangrant rice dish tempered with lots of aromatic cumin seeds.,195.0
+Rice,Palak Khichdi,1,0,"Palak khichdi is a wholesome vegetarian dish made with lentils, rice and spinach.",237.5
+Rice,Peas Pulao,1,0,,237.5
+Rice,Steam Rice,1,0,Aromatic steamed rice cooked in a tempering of cumin and whole spices.,145.0
+Rice,Veg Pulao,1,0,A dish containing ghee roasted veggies and flavourful rice with an undertone of ... read more,237.5
+Dal,Dal Double Tadka,1,0,A mouthwatering and comforting protein-packed double dal tadka made with our special ingredients.,249.5
+Dal,Dal Fry,1,0,A comforting and delicious preparation made with mixed dal cooked and tempered with ... read more,224.5
+Dal,Dal Lasuni Palak,1,0,"A comforting bowl of creamy, rich dal with a hint of spinach and ... read more",212.5
+Dal,Dal Makhani,1,0,A decadently indulgent dish prepared by cooking black lentil and red kidney beans ... read more,249.5
+Dal,Green Chilli Fried Tadka Dal,1,0,This is a spicy and flavorful dish of mixed lentils cooked with fresh ... read more,209.5
+Dal,Soya Khima,1,0,"A classic North Indian dish made with a spicy blend of soya, potatoes ... read more",249.5
+Hindustani Rasoi,Dhaba Paneer,1,0,Chutney Stuffed Cottage Chesse Served In Spicy Red Gravy & Baby Onion,299.5
+Hindustani Rasoi,Kadhai Paneer,1,0,Kadai paneer is a quick dish of paneer cubes combined with a spicy ... read more,299.5
+Hindustani Rasoi,Mutter Paneer,1,0,A creamy and rich north Indian curry prepared from paneer cubes and green ... read more,299.5
+Hindustani Rasoi,Paneer Bhurji,1,0,Paneer is a popular veg dish that is made with crumbled Indian cottage ... read more,299.5
+Hindustani Rasoi,Paneer Khurchan,1,0,"Cubes Of Paneer, Capsicum, Onion & Slit Green Chilly Served In Spicy Yellow ... read more",299.5
+Hindustani Rasoi,Paneer Lababdar,1,0,"Cottage Cheese Served In Red Gravy With Capsicum, Onion, Tomato",299.5
+Hindustani Rasoi,Paneer Tikka Masala,1,0,A creamy dish with soft paneer chunks cooked in a rich tomato gravy ... read more,299.5
+Hindustani Rasoi,Shahi Paneer,1,0,A delicious shahi paneer mix with veggies and spices.,299.5
+Vegetable,Dum Aloo Punjabi,1,0,A flavorful and comforting Indian potato dish with fragrant spices.,249.5
+Vegetable,Lahori Kofta,1,0,Corn Cheese Kofta In Palak Gravy,249.5
+Vegetable,Methi Mutter Malai,1,0,A creamy and flavorful Punjabi dish with a hint of bitterness and sweetness.,249.5
+Vegetable,Palak Mushroom,1,0,,249.5
+Vegetable,Sunheri Sabji,1,0,Mix Veg Served In Yellow Gravy,249.5
+Vegetable,Veg Diwani Handi,1,0,"Veg diwani handi, the gravy or base is made from cashew paste, onion-tomatoes ... read more",249.5
+Vegetable,Veg Kolapuri,1,0,A light and tasty mixed of seasonal vegetables in a tangy and spicy ... read more,249.5
+Vegetable,Vegetable Kadhai,1,0,Mix Veg In Spicy Red Gravy,249.5
+Indian Breads,Butter Laccha Paratha,1,0,"Layers of flaky bread smothered in decadent butter, perfect for any meal.",70.0
+Indian Breads,Butter Naan,1,0,North Indian bread with a generous serving of butter that tastes brilliant when ... read more,70.0
+Indian Breads,Laccha Paratha,1,0,Multi layered Indian flat bread with daubs of butter and cooked in tandoor.,44.5
+Indian Breads,Tandoori Butter Roti,1,0,"A variety of Indian flat bread, made from all purpose flour in tandoor ... read more",62.5
+Indian Breads,Tandoori Roti,1,0,Super soft roti that is cooked to perfection in a tandoor.,44.5
+Desserts,Coconut Tango,1,0,,125.0
+Desserts,Gulab Jamun ( 1Pc),1,0,A decadent dessert that is a perfect blend of creamy texture and a ... read more,50.0
+Desserts,Payasam,1,0,,110.0
+Desserts,Pineapple Kesari,1,0,A tasteful dish made by slow cooking rava and sugar flavored with juicy ... read more,150.0
+Refills,Aplam 2Pc (Papad),1,0,Aplam papad are a versatile accompaniment for any meal.,45.0
+Refills,Desi Ghee With Podi,1,0,A traditional Indian sweet and savory dish made with a generous helping of ... read more,75.0
+Refills,Extra Kurma,1,0,"A rich and creamy dish made with the aromatic spices of kurma, a ... read more",100.0
+Refills,Extra Neer Appam,1,0,"Crispy and fluffy, these golden brown appam are perfect for soaking up the ... read more",110.0
+Refills,Extra Neer Dosa,1,0,"A crispy and light, yet satisfying dish. A soft, fluffy dosa with a ... read more",110.0
+Refills,Extra Puri,1,0,Piping hot and crispy poori filled with delicious aloo.,70.0
+Refills,Extra Thair,1,0,,40.0
+Refills,Pachadi (Veg Raita),1,0,"A refreshing and cooling yoghurt based raita, made with a mixed of fresh ... read more",75.0
+Refills,Potato Bhaji,1,0,Crispy potatoes with a rich and savory blend of spices. A satisfying veg ... read more,50.0

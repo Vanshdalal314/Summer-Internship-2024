@@ -1,0 +1,51 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice-Cream Shake,Exotic Caramel,1,0,Enjoy your caramel shake with chocolaty 5star.,224.1
+Ice-Cream Shake,Nutella Shake,1,0,No words describe the goodness of nutella.,251.1
+Ice-Cream Shake,Coffee Mocha,1,0,Crunchy combo of mocha coffee,233.1
+Ice-Cream Shake,Ferrero Rocher,1,0,When tastefull nutella meets the richness of roacher feels like heaven on earth.,332.1
+Ice-Cream Shake,Chocohez Brownie,1,0,Fully chcolaty brwnie blend with hazulnut make your mood chocolaty.,287.1
+Ice-Cream Shake,Kaju Anjeer,1,0,Traditional taste made for elders.,215.1
+Ice-Cream Shake,Biscoff Delight,1,0,Treat yourself with a luscious biscoff drizzle,287.1
+Ice-Cream Shake,Hazelnut Hunger,1,0,(Exotic hazelnuts to die for),215.1
+Ice-Cream Shake,Kitkat,1,0,(Have a kitkat have a breakshake),215.1
+Ice-Cream Shake,Mint Oreo,1,0,(Combination of mouth refreshing mint and chocolate oreo),215.1
+Ice-Cream Shake,Snicker Superior,1,0,"(Superior chocolate shake of fully loaded with snickers and nuts,)",224.1
+Ice-Cream Shake,Nut Confection,1,0,(Nutty almonds and cashew mixed with chiku chocolate),215.1
+Ice-Cream Shake,The Dark Fantasy,1,0,Dark chocolate shake with crunchy dark fantasy cookies and crumbles.,224.1
+Ice-Cream Shake,Lotte Choco Pie,1,0,"Fluffy marshmallows,soft biscuits and rich choco come together to bring you this shake.",224.1
+Ice-Cream Shake,Death By Cocoa,1,0,Chocolaty shake with taste of COCO.,215.1
+Ice-Cream Shake,Bubblegum,1,0,(Strawberries and bubblegum reminise your childhood),197.1
+Ice-Cream Shake,Sinful Strawberry,1,0,(Indugle your senses with the freshness of strawberry),197.1
+Ice-Cream Shake,Chilled Chikoo,1,0,(All season fresh),197.1
+Ice-Cream Shake,Paanocha,1,0,"(Feel the freshness of indian paan with cashew, almond and gulkand)",197.1
+Ice-Cream Shake,Kaju Gulkand,1,0,(A perfect blend of crunchinness along with aromatic rose),197.1
+Ice-Cream Shake,Kaju Badam,1,0,(Go full crazy on nuttiness),197.1
+Ice-Cream Shake,Kesar Badam,1,0,(The royal kesar blend with milk and almond),197.1
+Ice-Cream Shake,Caramel Popcorn,1,0,(The perfect mixture of greasy caramel and popcorn flavor),224.1
+Ice-Cream Shake,Coffee Cappuccino,1,0,(Cappuccino with ice cream taste delicious),224.1
+Waffles,Naked Nutella,1,0,(Keep calm and love nutella),215.1
+Waffles,Biscoff Nutella,1,0,Indulge into the madness of biscoff cookie and nutella.,233.1
+Waffles,Ferrero Rocher Waffle,1,0,A treat of ferrero rocher chocolate with hazelnut spread.,233.1
+Waffles,Belgian Chocolate Milk,1,0,(Delicious taste of dairymilk chocolate),170.1
+Waffles,Belgian Chocolate Dark,1,0,(Delicious taste of dairymilk chocolate),170.1
+Waffles,Butterscotch,1,0,(A Confection Of Buttery Waffle),179.1
+Waffles,KitKat Waffle,1,0,(Its A Combo Of Bits & White chocolate),188.1
+Waffles,Oreo Crunchy,1,0,Crumbly biscuit waffle,188.1
+Waffles,Almond Cocoa Butter,1,0,(Spread almond chocolate with love),179.1
+Waffles,Crunchy Almond,1,0,(Feel the crunchyness of rosted almonds with white chocolate),179.1
+Waffles,Rasmalai Pistachio,1,0,Sweet rasmalai chocolate with nuty pistachios.,197.1
+Waffles,Chocolate Overloaded Milk,1,0,Dark waffle with dark chocolate always wins.,179.1
+Waffles,Chocolate Overloaded Dark,1,0,Dark waffle with milky chocolate always wins.,179.1
+Waffles,Dark And White Fantasy,1,0,A love of dark waffle and white chocolate.,179.1
+Waffles,Triple Chocolate,1,0,A combination of our best three chocolate,197.1
+Waffles,Kiki & Cream,1,0,(A rich black velvet batter with creamy blue chocolate),215.1
+Waffles,Biscoff & Oreo Milky Way,1,0,(A charcol with a sweet oreo chocolate),188.1
+Sundaes,Ice Cream & Fudge,1,0,(Mouthwatering candy topped with ice cream),179.1
+Sundaes,Triple Cookie,1,0,"(A mixture of oreo, kitkat and Crumbles in one Waffle)",242.1
+Sundaes,Rocky Road,1,0,(Enjoy both world of ice cream with oreo crush),224.1
+Sundaes,Kitkat & Oreo,1,0,The best combination ever.,242.1
+Sundaes,Choco Caramel Brownie,1,0,A taste you can never forget.,242.1
+Sundaes,The Dark Pleasure,1,0,"Mixture of coffee , choco-crumble & mint flavour.",242.1
+Cheesecake,Newyork Cheesecake,1,0,90 Grams.,179.1
+Cheesecake,Biscoff Crunch Cheesecake,1,0,90 Grams.,242.1
+Cheesecake,Nutella Explosion Cheesecake,1,0,90 Grams.,215.1

@@ -1,0 +1,26 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fafda and Kachori,Kachori,1,0,Fried masala balls with coconut bits.,54.0
+Namkeens,Bhakhr Wadi [250 grams],1,0,,117.0
+Namkeens,Bhatha Kani [250 grams],1,0,,117.0
+Namkeens,Chana Dal [250 grams],1,0,,117.0
+Namkeens,Disco Bhakarwadi [250 grams],1,0,,117.0
+Namkeens,Dry Kachodi [400 grams],1,0,,234.0
+Namkeens,Farali Chevdo [250 grams],1,0,,166.5
+Namkeens,Jada Ghatiya [250 grams],1,0,,117.0
+Namkeens,Jeera Puri [250 grams],1,0,,117.0
+Namkeens,Lasan Bhakarwadi [250 grams],1,0,,117.0
+Namkeens,Methi Gathiya [250 grams],1,0,,144.0
+Namkeens,Masala Papdi [250 grams],1,0,,144.0
+Namkeens,Bhel ni Puri [250 grams],1,0,,103.5
+Namkeens,Tikhi Boondi [250 grams],1,0,,117.0
+Namkeens,Sev Mamara [250 grams],1,0,,117.0
+Namkeens,Papad Poha [250 grams],1,0,,117.0
+Namkeens,Tikha Gathiya,1,0,,117.0
+Namkeens,Surati Bhusu,1,0,,117.0
+Namkeens,Poha Chevdo,1,0,"Poha chivda, a simple poha mixture is a namkeen savory snack made by ... read more",117.0
+Namkeens,Mora Bhusu,1,0,,117.0
+Namkeens,Mora Gathiya,1,0,,117.0
+Namkeens,Methi Puri [250 grams],1,0,,117.0
+Namkeens,Masala Puri [250 grams],1,0,,117.0
+Desserts,Ghee Jalebi,1,0,,90.0
+Desserts,Sakarpara [250 grams],1,0,,117.0

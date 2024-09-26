@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Aloo Puri,Veg Aloo Puri,1,0,,30.0
+Aloo Puri,Veg Cheese Aloo Puri,1,0,,55.0
+Aloo Puri,Veg Schezwan Aloo Puri,1,0,,35.0
+Aloo Puri,Boiled Egg Aloo Puri,0,0,,45.0
+Aloo Puri,Boiled Egg Cheese Aloo Puri,0,0,,60.0
+Aloo Puri,Chicken Aloo Puri,0,0,,50.0
+Aloo Puri,Chicken Cheese Aloo Puri,0,0,A surti special aloo puri dish topped with small pieces of chicken and ... read more,70.0
+Aloo Puri,Boiled Egg Chicken Aloo Puri,0,0,,60.0
+Aloo Puri,Chicken Schezwan Aloo Puri,0,0,,60.0
+Khawsa,Veg Khawsa,1,0,Served with noodles with soup.,85.0
+Khawsa,Veg Schezwan Khawsa,1,0,Served with noodles with soup.,85.0
+Khawsa,Boiled Egg Khawsa,0,0,Served with noodles with soup.,90.0
+Khawsa,Chicken Khawsa,0,0,Served with noodles with soup.,90.0
+Khawsa,Chicken Schezwan Khawsa,0,0,Served with noodles with soup.,90.0
+Khawsa,Chicken Boiled Egg Khawsa,0,0,Served with noodles with soup.,95.0
+Khawsa,Chicken Cheese Khawsa,0,0,,85.0

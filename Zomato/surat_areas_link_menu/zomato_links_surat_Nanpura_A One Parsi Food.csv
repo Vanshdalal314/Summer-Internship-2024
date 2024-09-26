@@ -1,0 +1,37 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meals,Veg Dhansak,1,0,Rice+Dal [Subject to Availability],170.0
+Meals,Brown Rice,1,0,,110.0
+Meals,Chicken Curry Rice,0,0,"An aromatic, spicy, and flavorful chicken curry rice dish, perfect for satisfying your ... read more",240.0
+Meals,Mutton Curry Rice,0,0,Mutton curry rice is a popular Indian dish that is made with tender ... read more,280.0
+Starters,Chicken Lollipop,0,0,A spicy and juicy chicken lollipop that will tickle your taste buds and ... read more,200.0
+Starters,Chicken Stick [2 Pieces],0,0,Two juicy chicken sticks served with a side of refreshing mint chutney.,170.0
+Starters,Big Fried Pomfret [1 Piece],0,0,"A deliciously light and crispy fried pomfret fillet, perfect for a light, indulgent ... read more",420.0
+Starters,Fried Prawns,0,0,,250.0
+Main Course,Parsi Akuri,0,0,Egg bhurji.,180.0
+Main Course,Chicken Chaap [2 Pieces],0,0,,170.0
+Main Course,Chicken Masala,0,0,Chicken masala with a rich gravy of chicken cooked in aromatic spices and ... read more,220.0
+Main Course,Dahi Chicken,0,0,,220.0
+Main Course,Chicken Sali Marghi Gravy,0,0,,240.0
+Main Course,Chicken Maghlai Murghi,0,0,,270.0
+Main Course,Khatti Mithi Sali Marghi,0,0,,240.0
+Main Course,Chicken Afghani Margi Gravy,0,0,"Tender chicken pieces cooked in a flavorful, aromatic gravy made with a blend ... read more",270.0
+Main Course,Boneless Butter Chicken,0,0,A succulent dish of tender boneless chicken cooked in a creamy sauce of ... read more,270.0
+Main Course,Chicken Dhansak,0,0,Chicken Dhansak is a delicious and rich chicken curry dish made with tender ... read more,230.0
+Main Course,Bheja Masala,0,0,A rich and flavourful dish of tender chunks of mutton cooked in a ... read more,250.0
+Main Course,Mutton Chaap [2 Pieces],0,0,"Tender pieces of lamb cooked to perfection with aromatic spices, perfect for a ... read more",180.0
+Main Course,Mutton Masala Gravy,0,0,"Juicy pieces of tender mutton in a flavorful gravy made with aromatic spices, ... read more",270.0
+Main Course,Sali Mutton Gosht Gravy,0,0,Tender pieces of mutton cooked with aromatic spices in a rich and flavorful ... read more,290.0
+Main Course,Dahi Mutton Gosht Gravy,0,0,"Tender, juicy pieces of mutton cooked in a rich and creamy yogurt based ... read more",280.0
+Main Course,Mughlai Mutton Gosht Gravy,0,0,A rich and flavorful Mughlai dish made with tender chunks of mutton in ... read more,310.0
+Main Course,Afghani Mutton Gosht,0,0,Tender chunks of mutton cooked in a flavorful blend of spices and aromatic ... read more,310.0
+Main Course,Mutton Gravy Mamna,0,0,Tender pieces of mutton simmered in a rich and aromatic gravy with a ... read more,270.0
+Main Course,Mutton Dhansak,0,0,Mutton pieces cooked with a blend of spices to create a flavorful and ... read more,260.0
+Main Course,Mutton Dal Gosht,0,0,"A delicious blend of tender mutton and flavorful dal, perfect for a hearty ... read more",280.0
+Main Course,Prawns Curry,0,0,,280.0
+Main Course,Prawns Masala Gravy,0,0,Rich and creamy prawns cooked in a spicy tomato gravy that will make ... read more,280.0
+Bread,Roti,1,0,Roti is a traditional Indian bread that is made with whole wheat flour ... read more,10.0
+Snacks,Parsi Poro Omelette,0,0,"A traditional Parsi breakfast dish, made with a fluffy omelette and fragrant Parsi ... read more",140.0
+Snacks,Cheese Omelette,0,0,,150.0
+Snacks,Sali Tomato Par Egg,0,0,"A flavorful and aromatic dish, perfect for a hearty breakfast or brunch.",180.0
+Snacks,Chicken Keema na Cutlets [2 Pieces],0,0,A savory and flavorful cutlet filled with chicken keema and a variety of ... read more,130.0
+Snacks,Mutton Keema na Cutlets [2 Pieces],0,0,"A delectable dish of spicy and flavorful mutton keema and cutlet, served with ... read more",140.0

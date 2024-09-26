@@ -1,0 +1,123 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meals And Biriyanis,Chettinadu Chicken Biriyani,0,0,,189.0
+Meals And Biriyanis,Chettinadu Egg Biriyani,0,0,,130.0
+Meals And Biriyanis,Chettinadu Fish Biriyani,0,0,,230.0
+Meals And Biriyanis,Chettinadu Kaadai Biriyani,0,0,,210.0
+Meals And Biriyanis,Chettinadu Prawns Biriyani,0,0,,230.0
+Meals And Biriyanis,Veg Biriyani,0,0,,150.0
+Meals And Biriyanis,Chicken Fried Rice,0,0,,178.0
+Meals And Biriyanis,Egg Fried Rice,0,0,,135.0
+Meals And Biriyanis,Fish Fried Rice,0,0,,210.0
+Meals And Biriyanis,Gobi Fried Rice,0,0,,142.0
+Meals And Biriyanis,Mixed Fried Rice,0,0,,220.0
+Meals And Biriyanis,Mushroom Fried Rice,0,0,,130.0
+Meals And Biriyanis,Paneer Fried Rice,0,0,,147.0
+Meals And Biriyanis,Prawns Fried Rice,0,0,,210.0
+Meals And Biriyanis,Schezwan Chicken Fried Rice,0,0,,180.0
+Meals And Biriyanis,Schezwan Egg Fried Rice,0,0,,147.0
+Meals And Biriyanis,Schezwan Fish Fried Rice,0,0,,220.0
+Meals And Biriyanis,Schezwan Mixed Fried Rice,0,0,,230.0
+Meals And Biriyanis,Schezwan Mushroom Fried Rice,0,0,,140.0
+Meals And Biriyanis,Schezwan Paneer Fried Rice,0,0,,147.0
+Meals And Biriyanis,Schezwan Prawns Fried Rice,0,0,,220.0
+Meals And Biriyanis,Schezwan Veg Fried Rice,0,0,,136.5
+Meals And Biriyanis,Veg Fried Rice,0,0,,115.0
+Meals And Biriyanis,Chicken Noodles,0,0,,178.0
+Meals And Biriyanis,Egg Noodles,0,0,,138.0
+Meals And Biriyanis,Fish Noodles,0,0,,195.0
+Meals And Biriyanis,Mixed Noodles,0,0,,205.0
+Meals And Biriyanis,Mushroom Noodles,0,0,,130.0
+Meals And Biriyanis,Paneer Noodles,0,0,,140.0
+Meals And Biriyanis,Prawns Noodles,0,0,,195.0
+Meals And Biriyanis,Schezwan Chicken Noodles,0,0,,180.0
+Meals And Biriyanis,Schezwan Egg Noodles,0,0,,147.0
+Meals And Biriyanis,Schezwan Fish Noodles,0,0,,189.0
+Meals And Biriyanis,Schezwan Mixed Noodles,0,0,,220.0
+Meals And Biriyanis,Schezwan Mushroom Noodles,0,0,,145.0
+Meals And Biriyanis,Schezwan Paneer Noodles,0,0,,155.0
+Meals And Biriyanis,Schezwan Prawns Noodles,0,0,,210.0
+Meals And Biriyanis,Schezwan Veg Noodles,0,0,,136.5
+Meals And Biriyanis,Veg Noodles,0,0,,126.0
+Meals And Biriyanis,Chicken Pulao,0,0,,170.0
+Meals And Biriyanis,Egg Pulao,0,0,,157.0
+Meals And Biriyanis,Fish Pulao,0,0,,178.5
+Meals And Biriyanis,N V Mixed Pulao,0,0,,199.5
+Meals And Biriyanis,Mushroom Pulao,0,0,,136.5
+Meals And Biriyanis,Paneer Pulao,0,0,,150.0
+Meals And Biriyanis,Prawns Pulao,0,0,,189.0
+Meals And Biriyanis,Veg Pulao,0,0,,136.5
+Meals And Biriyanis,Basmati Steam Rice,0,0,,68.25
+Meals And Biriyanis,Ghee Rice,0,0,,94.5
+Meals And Biriyanis,Jeera Rice,0,0,,94.0
+Meals And Biriyanis,Masala Rice,0,0,,84.0
+Malabar Biriyani,Malabar Chicken Biriyani,0,0,,180.0
+Malabar Biriyani,Malabar Fish Biriyani,0,0,,210.0
+Main Course,Chapatti Single,0,0,,18.0
+Main Course,Parotta Single,0,0,,21.0
+Side Dish,Butter Chicken Masala,0,0,,185.0
+Side Dish,Chettinadu Chicken Curry,0,0,,165.0
+Side Dish,Chicken Dry,0,0,,180.0
+Side Dish,Chicken Lolly Pop,0,0,,165.0
+Side Dish,Chicken Manchurian,0,0,,165.0
+Side Dish,Chilly Chicken,0,0,,140.0
+Side Dish,Garlic Chicken,0,0,,180.0
+Side Dish,Ginger Chicken,0,0,,170.0
+Side Dish,Hydrabad Spicy Chicken Gravy,0,0,,165.0
+Side Dish,Kadai Chicken Gravy,0,0,,180.0
+Side Dish,Kolapuri Chicken Curry,0,0,,165.0
+Side Dish,Mughalai Chicken Gravy,0,0,,178.5
+Side Dish,Pallipalayam Chicken,0,0,,175.0
+Side Dish,Pepper Chicken,0,0,,180.0
+Side Dish,Punjabi Chicken Curry,0,0,,178.5
+Side Dish,Schezwan Chicken Dry,0,0,,178.0
+Side Dish,Boiled Egg,0,0,,15.75
+Side Dish,Egg Burji,0,0,,63.0
+Side Dish,Egg Bhurji Masala,0,0,,95.0
+Side Dish,Egg Masala,0,0,,84.0
+Side Dish,Aloo Muttar Gravy,0,0,,115.5
+Side Dish,Channa Masala,0,0,,105.0
+Side Dish,Green Peas Masala,0,0,,105.0
+Side Dish,Mixed Veg Masala,0,0,,147.0
+Side Dish,Veg Kadaai,0,0,,130.0
+Side Dish,Veg Masala,0,0,,70.0
+Side Dish,Aloo Gobi,0,0,,115.5
+Side Dish,Chilly Gobi,0,0,,105.0
+Side Dish,Gobi Masala,0,0,,89.0
+Side Dish,Kadaai Gobi,0,0,,112.0
+Side Dish,Manchurian Gobi,0,0,,109.0
+Side Dish,Schezwan Gobi,0,0,,112.0
+Side Dish,Chilly Mushroom,0,0,,90.0
+Side Dish,Manchurian Mushroom,0,0,,112.0
+Side Dish,Mushroom Masala,0,0,,105.0
+Side Dish,Schezwan Mushroom,0,0,,90.0
+Side Dish,Chilly Paneer,0,0,,130.0
+Side Dish,Mutter Paneer Masala,0,0,,125.0
+Side Dish,Paneer 65,0,0,,170.0
+Side Dish,Paneer Butter Masala,0,0,,168.0
+Side Dish,Paneer Kadaai,0,0,,170.0
+Side Dish,Paneer Manchurian,0,0,,150.0
+Side Dish,Chettinadu Fish Masala (Bone Less),0,0,,180.0
+Side Dish,Chilly Fish,0,0,,175.0
+Side Dish,Fish Fry 65,0,0,,190.0
+Side Dish,Fish Fry 95,0,0,,205.0
+Side Dish,Fish Kadaai,0,0,,189.0
+Side Dish,Fish Masala (Bone Less),0,0,,178.0
+Side Dish,Fish Manchurian,0,0,,150.0
+Side Dish,Garlic Fish,0,0,,150.0
+Side Dish,Ginger Fish,0,0,,199.0
+Side Dish,Manchurian Fish,0,0,,190.0
+Side Dish,Pepper Fish,0,0,,199.0
+Side Dish,Schezwan Fish Dry,0,0,,178.0
+Side Dish,Kaadai Chettinadu,0,0,,190.0
+Side Dish,Kaadai Chilly,0,0,,135.0
+Side Dish,Kaadai Hyderbad Gravy,0,0,,190.0
+Side Dish,Kaadai Onion Fry,0,0,,190.0
+Side Dish,Kaadai Masala,0,0,,190.0
+Side Dish,Garlic Prawns,0,0,,225.0
+Side Dish,Ginger Prawns,0,0,,225.0
+Side Dish,Kadaai Prawns,0,0,,225.0
+Side Dish,Manchurian Prawns,0,0,,215.0
+Side Dish,Golden Fry Prawns,0,0,,199.5
+Side Dish,Prawns Onion Fry,0,0,,215.0
+Side Dish,Ginger Prawn Gravy,0,0,,225.0
+Cool Drinks & Beverages,Water Bottele 1 L,0,0,,25.0

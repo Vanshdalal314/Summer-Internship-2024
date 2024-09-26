@@ -1,0 +1,79 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Laziz Desi Pizza,1,0,"Special sauce, mozzarella, onion, capsicum and tomato.",190.0
+Pizza,Chefs Special Pizza,1,0,"Pizza sauce, mozzarella, red/yellow/green jalapenos, sweet corn, baby corn, red paprika, paneer tikka ... read more",190.0
+Pizza,Margherita Pizza,1,0,"Liquid cheese, mozzarella cheese, oregano and beck.",190.0
+Pizza,Peri Peri Corn Margherita Pizza,1,0,"Pizza base, pizza sauce, liquid cheese, mozzarella cheese, oregano and peri peri sauce.",190.0
+Pizza,Schezwan Pizza,1,0,"Laziz pizza sauce, tikka mix, mozzarella, onion, capsicum, paneer tikka and butter sauce.",190.0
+Pizza,Veg Classic Pizza,1,0,"Laziz pizza sauce, corn, mushroom, cheese, capsicum, tomato and olives.",190.0
+Pizza,Peri Peri Corn Pizza,1,0,"Onion, olives, broccoli, red bell pepper, red paprika, baby corn and jalapeno",190.0
+Pizza,Paneer Tikka Pizza,1,0,Paneer tikka cubes with capsicum.,190.0
+Pizza,Tandoori Paneer Pizza,1,0,"Pizza sauce, chilli flakes, mozzarella, onion, capsicum, diced tomato, paneer tikka cube and ... read more",190.0
+Pizza,Veg Mexican Pizza,1,0,"Pizza sauce, chilli flakes, mozzarella, onion, capsicum, diced tomato, paneer tikka cube and ... read more",190.0
+Pizza,Veg Paprika Pizza,1,0,"Pizza sauce, chilli flakes, mozzarella, onion, capsicum, sweet corn, red paprika, mushroom and ... read more",190.0
+Pizza,Veg Carnival Pizza,1,0,"Laziz pizza sauce, mozzarella, capsicum, mushroom, tomato and jalapenos.",190.0
+Pizza,Veg Fajita Pizza,1,0,"Laziz pizza sauce, chilli flakes, mozzarella, diced onion, diced capsicum, diced tomato, corn, ... read more",190.0
+Pizza,Chatpata Paneer Pizza,1,0,"Pizza sauce, chilli flakes, mozzarella, capsicum, red paprika, sweet corn, chatpata paneer and ... read more",190.0
+Pizza,Peri Peri Paneer Pizza,1,0,"Pizza sauce, chilli flakes, mozzarella, capsicum, onion, diced tomato, paneer tikka cube and ... read more",190.0
+Pizza,Special Kolhapuri Pizza,1,0,,435.0
+Pizza,Corn Delite Pizza,1,0,,190.0
+Pizza,Four Season Pizza,1,0,3 Types of capsicum.,190.0
+Pizza,Veg Super Pizza,1,0,"Capsicum, corn, baby corn and olives.",190.0
+Pizza,Laziz Khas Pizza,1,0,Pizza with tangy twist and toppings.,190.0
+Pizza,Creamy Cheese Pizza,1,0,"Liquid cheese, red and yellow bell pepper, green capsicum and jalapeno.",190.0
+Pizza,Mushroom Paprika Pizza,1,0,,190.0
+Pizza,Veg Spicy Fusion Pizza,1,0,,189.0
+Pizza,Chilli Paneer Pizza,1,0,,190.0
+Pizza,Pomidor Pizza,1,0,,190.0
+Pizza,Fiery Paneer Pizza,1,0,,190.0
+Pizza,Tomato & Corn Pizza,1,0,,190.0
+Pizza,Lime Chilli Pizza,1,0,,190.0
+Pizza,Kastoori Paneer Pizza,1,0,More taste.,190.0
+Pizza,Butter Garlic Paneer Pizza,1,0,,190.0
+Pizza,Protein Soya Pizza,1,0,,190.0
+Pizza,Barbeque Paneer pizza,1,0,,190.0
+Pizza,Green Peas Paneer Pizza,1,0,,190.0
+Pizza,Hot Paneer Pizza,1,0,,190.0
+Starters,Veg Lollipop,1,0,,235.0
+Starters,Choco Lava Cake,1,0,,149.0
+Starters,White Lava Cake,1,0,,149.0
+Starters,Coffee Lava Cake,1,0,,149.0
+Pasta,Red Sauce Pasta,1,0,,160.0
+Pasta,White Sauce Pasta,1,0,,180.0
+Pasta,Cheesy Macaroni,1,0,,190.0
+Burgers and Sandwiches,Fiery Paneer Burger,1,0,,150.0
+Burgers and Sandwiches,Peri Peri Paneer Burger,1,0,,150.0
+Burgers and Sandwiches,Zinger Paneer Burger,1,0,,150.0
+Burgers and Sandwiches,Peri Peri Veg Burger,1,0,,150.0
+Burgers and Sandwiches,Zinger Veg Burger,1,0,,150.0
+Burgers and Sandwiches,Veg Conclo Burger,1,0,,150.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,200.0
+Burgers and Sandwiches,Paneer Banjara Grilled Sandwich,1,0,,220.0
+Burgers and Sandwiches,Paneer Tikka Grilled Sandwich,1,0,,220.0
+Burgers and Sandwiches,Peri Peri Paneer Grilled Sandwich,1,0,,220.0
+Burgers and Sandwiches,Spicy Veg Grilled Sandwich,1,0,,220.0
+Burgers and Sandwiches,Sweet Corn Grilled Sandwich,1,0,,220.0
+Burgers and Sandwiches,Chilli Toast Sandwich,1,0,,170.0
+Burgers and Sandwiches,Cheese Coleslaw Sandwich,1,0,,170.0
+Burgers and Sandwiches,Cheese Club Sandwich,1,0,,199.0
+Snacks,Regular Fries,1,0,,110.0
+Snacks,Peri Peri Fries,1,0,,125.0
+Snacks,Cheese French Fries,1,0,,175.0
+Snacks,Garlic Chilli Cheese Fries,1,0,,199.0
+Snacks,Pizza Fries,1,0,,199.0
+Snacks,Manchurian Fries,1,0,,210.0
+Snacks,Paneer Chilli Fries,1,0,,249.0
+Snacks,Cheese Maggi Pakoda,1,0,,235.0
+Snacks,Laziz Special Garlic Stick,1,0,,250.0
+Snacks,Paneer Pops,1,0,,185.0
+Snacks,Peri Peri Paneer Pops,1,0,,210.0
+Drinks (Beverages),Thums Up Soft Beverage [200 ml],1,0,,38.09
+Drinks (Beverages),Fanta Soft Beverage [200 ml],1,0,,38.09
+Drinks (Beverages),Sprite Soft Beverage [200 ml],1,0,,38.09
+Drinks (Beverages),Coke Soft Beverage [200 ml],1,0,,38.09
+Drinks (Beverages),Cold Coffee,1,0,,149.0
+Drinks (Beverages),Chocolate Shake,1,0,,149.0
+Drinks (Beverages),Mango Shake,1,0,,149.0
+Drinks (Beverages),Oreo Shake,1,0,,149.0
+Drinks (Beverages),Strawberry Shake,1,0,,149.0
+Drinks (Beverages),KitKat Shake,1,0,,149.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,99.0

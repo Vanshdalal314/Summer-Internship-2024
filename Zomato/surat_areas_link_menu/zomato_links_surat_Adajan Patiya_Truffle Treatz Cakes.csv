@@ -1,0 +1,157 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Black Forest Cake,1,0,,550.0
+Cakes,Pineapple Cake,1,0,,550.0
+Cakes,Strawberry Cake,1,0,,550.0
+Cakes,White Forest Cake,1,0,,550.0
+Cakes,Chocolate Forest Cake,1,0,,550.0
+Cakes,Choco Nutty Crunch Cake,1,0,,635.0
+Cakes,Chocolate Delight Cake,1,0,,635.0
+Cakes,Chocolate Chips Cake,1,0,,635.0
+Cakes,Swiss Chocolate Cake,1,0,,635.0
+Cakes,Black Gateau Cake,1,0,,635.0
+Cakes,Chocolate Flakes Cake,1,0,,635.0
+Cakes,Fall in Heaven Cake,1,0,,635.0
+Cakes,Caramel Cake,1,0,,635.0
+Cakes,Strawberry Chocolate Cake,1,0,,635.0
+Cakes,Orange Chocolate Cake,1,0,,635.0
+Cakes,Choco Universe Cake,1,0,,635.0
+Cakes,Chocolate Dessert Cake,1,0,,635.0
+Cakes,Silk Chocolate Cake,1,0,,635.0
+Cakes,Mouth Filled Chocolate Cake,1,0,,635.0
+Cakes,Roll Chocolate Cake,1,0,,635.0
+Cakes,Choco Craving Cake,1,0,,635.0
+Cakes,Rich Chocolate Cake,1,0,,635.0
+Cakes,Kiwi Strawberry Cake,1,0,,635.0
+Cakes,Chocolate Truffle Cake,1,0,,715.0
+Cakes,Truffle Premium Cake,1,0,,715.0
+Cakes,Almond Truffle Cake,1,0,,715.0
+Cakes,Dutch Brownie Cake,1,0,,715.0
+Cakes,Truffle Chips Cake,1,0,,715.0
+Cakes,Forest Truffle Cake,1,0,,715.0
+Cakes,Mousse Delight Cake,1,0,,715.0
+Cakes,Brownie Delight Cake,1,0,,715.0
+Cakes,Brownie Crumble Cake,1,0,,715.0
+Cakes,Rocher Forest Cake,1,0,,715.0
+Cakes,Rocher Flakes Cake,1,0,,715.0
+Cakes,Premium Butterscotch Cake,1,0,,715.0
+Cakes,Premium Black Currant Cake,1,0,,715.0
+Cakes,Choco Ectacy,1,0,,715.0
+Cakes,Chocolate Velvet Cake,1,0,,715.0
+Cakes,Chocolate Crumbs Cake,1,0,,715.0
+Cakes,Chocolate Marble Cake,1,0,,715.0
+Cakes,Chocolate Crispe Cake,1,0,,715.0
+Cakes,Choco Fudge Cake,1,0,,715.0
+Cakes,Oreo Delight Cake,1,0,,715.0
+Cakes,Frill Drops Chocolate Cake,1,0,,715.0
+Cakes,Chocolate Basket Cake,1,0,,715.0
+Cakes,White Basket Cake,1,0,,715.0
+Cakes,Coffee Delight Cake,1,0,,715.0
+Cakes,Mocha Delight Cake,1,0,,715.0
+Cakes,Red Velvet Cake,1,0,,715.0
+Cakes,Melting Blueberry Cake,1,0,,715.0
+Cakes,Mango Magic Cake,1,0,,715.0
+Cakes,Rose Gulkand Cake,1,0,,715.0
+Cakes,Rasmalai Cake,1,0,,715.0
+Cakes,Kitkat Delight Cake,1,0,,800.0
+Cakes,Chocolate Almond Cake,1,0,,800.0
+Cakes,German Basket Cake,1,0,,800.0
+Cakes,German Belgium Chococlate Cake,1,0,,800.0
+Cakes,Pistachio Chocolate Cake,1,0,,800.0
+Cakes,Truffling Cake Cake,1,0,,800.0
+Cakes,Rainbow Cake,1,0,,800.0
+Cakes,Hazelnut Cake,1,0,,800.0
+Cakes,Fresh Fruit Cake,1,0,,800.0
+Cakes,Mawa Rabdi Cake,1,0,,800.0
+Cakes,Sitafal Cake,1,0,,800.0
+Cakes,Chocolate Rainbow Cake,1,0,,800.0
+Cakes,Fererorochar Premium Cake,1,0,,800.0
+Cakes,Donut Delight Cake,1,0,,800.0
+Cakes,Heart Layered Chocolate Cake,1,0,,800.0
+Cakes,Black Orange Chocolate Treat Cake,1,0,,800.0
+Cakes,Nutella Cake,1,0,,800.0
+Pastries,Black Forest Pastry,1,0,,95.0
+Pastries,Pineapple Pastry,1,0,,95.0
+Pastries,Strawberry Pastry,1,0,,95.0
+Pastries,White Forest Pastry,1,0,,95.0
+Pastries,Chocolate Forest Pastry,1,0,,95.0
+Pastries,Choco Nutty Pastry,1,0,,115.0
+Pastries,Chocolate Delight Pastry,1,0,,115.0
+Pastries,Chocolate Chips Pastry,1,0,,115.0
+Pastries,Chocolate Swiss Pastry,1,0,,115.0
+Pastries,Black Gateau Pastry,1,0,,115.0
+Pastries,Chocolate Flakes Pastry,1,0,,115.0
+Pastries,Fall in Heaven Pastry,1,0,,115.0
+Pastries,Caramel Pastry,1,0,,115.0
+Pastries,Orange Chocolate Pastry,1,0,,115.0
+Pastries,Choco Universe Pastry,1,0,,115.0
+Pastries,Chocolate Dessert Pastry,1,0,,115.0
+Pastries,Silk Chocolate Pastry,1,0,,115.0
+Pastries,Roll Chocolate Pastry,1,0,,115.0
+Pastries,Choco Craving Pastry,1,0,,115.0
+Pastries,Rich Chocolate Pastry,1,0,,115.0
+Pastries,Kiwi Strawberry Pastry,1,0,,115.0
+Pastries,Chocolate Truffle Pastry,1,0,,125.0
+Pastries,Truffle Premium Pastry,1,0,,125.0
+Pastries,Almond Truffle Pastry,1,0,,125.0
+Pastries,Dutch Brownie Pastry,1,0,,125.0
+Pastries,Truffle Chips Pastry,1,0,,125.0
+Pastries,Forest Truffle Pastry,1,0,,125.0
+Pastries,Mousse Delight Pastry,1,0,,125.0
+Pastries,Brownie Delight Pastry,1,0,,125.0
+Pastries,Brownie Crumble Pastry,1,0,,125.0
+Pastries,Rocher Forest Pastry,1,0,,125.0
+Pastries,Rocher Flakes Pastry,1,0,,125.0
+Pastries,Premium Butterscotch Pastry,1,0,,125.0
+Pastries,Premium Black Currant Pastry,1,0,,125.0
+Pastries,Choco Ectacy Pastry,1,0,,125.0
+Pastries,Chocolate Velvet Pastry,1,0,,125.0
+Pastries,Chocolate Crumbs Pastry,1,0,,125.0
+Pastries,Chocolate Marble Pastry,1,0,,125.0
+Pastries,Chocolate Crispe Pastry,1,0,,125.0
+Pastries,Choco Fudge Pastry,1,0,,125.0
+Pastries,Oreo Delight Pastry,1,0,,125.0
+Pastries,Frill Dropes Chocolate Pastry,1,0,,125.0
+Pastries,Chocolate Basket Pastry,1,0,,125.0
+Pastries,White Basket Pastry,1,0,,125.0
+Pastries,Coffee Delight Pastry,1,0,,125.0
+Pastries,Mocha Delight Pastry,1,0,,125.0
+Pastries,Red Velvet Pastry,1,0,,125.0
+Pastries,Melting Blueberry Pastry,1,0,,125.0
+Pastries,Mango Magic Pastry,1,0,,125.0
+Pastries,Rose Gulkand Pastry,1,0,,125.0
+Pastries,Rasmalai Pastry,1,0,,125.0
+Pastries,Kitkat Delight Pastry,1,0,,145.0
+Pastries,Walnut Mount Pastry,1,0,,145.0
+Pastries,Chocolate Almond Pastry,1,0,,145.0
+Pastries,German Basket Pastry,1,0,,145.0
+Pastries,German Belgium Chocolate Pastry,1,0,,145.0
+Pastries,Pistachio Chocolate Cake Pastry,1,0,,145.0
+Pastries,Truffling Cream Pastry,1,0,,145.0
+Pastries,Rainbow Pastry,1,0,,145.0
+Pastries,Hazelnut Pastry,1,0,,145.0
+Pastries,Fresh Fruit Pastry,1,0,,145.0
+Pastries,Mawa Rabdi Pastry,1,0,,145.0
+Pastries,Sitafal Pastry,1,0,,145.0
+Pastries,Chocolate Rainbow Pastry,1,0,,145.0
+Pastries,Fererro Rochar Premium Pastry,1,0,,145.0
+Pastries,Dount Delight Pastry,1,0,,145.0
+Pastries,Heart Layered Chocolate Pastry,1,0,,145.0
+Pastries,Black Orange Chocolate Treat Pastry,1,0,,145.0
+Pastries,Nutella Pastry,1,0,,145.0
+Pastries,Chocolate Velvet Cake [250 grams],1,0,,365.0
+Pastries,Choco Fudge Cake [250 grams],1,0,,365.0
+Pastries,Brownie Crumble Cake [250 grams],1,0,,365.0
+Pastries,Fall in Cake [250 grams],1,0,,365.0
+Pastries,Pineapple [250 grams],1,0,,365.0
+Pastries,White Forest [250 grams],1,0,,365.0
+Pastries,Chocolate Bowl [250 grams],1,0,,365.0
+Desserts,Brownie,1,0,,115.0
+Desserts,Chocolate Ball,1,0,,55.0
+Desserts,Cakesicles,1,0,,65.0
+Desserts,Mousse,1,0,,65.0
+Desserts,Donut,1,0,,85.0
+Desserts,Cup Cake Chocolate,1,0,,55.0
+Desserts,Cup Cake Dark Chocolate,1,0,,65.0
+Desserts,Cup Cake Vanilla,1,0,,55.0
+Desserts,Cup Cake Strawberry,1,0,,55.0
+Desserts,Cup Cake Bluebery,1,0,,55.0

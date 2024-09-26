@@ -1,0 +1,125 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Combos,Bread Omelette with Fried Wings [3 Pieces],0,0,,224.0
+Special Combos,Chicken Supreme Pizza [7 inches] with French Fries,0,0,,385.0
+Special Combos,Veg Supreme Pizza [7 inches] with French Fries,0,0,,385.0
+Special Combos,Chicken Fried Rice with French Fries,0,0,,290.0
+Special Combos,Chicken Cheese Burger with French Fries,0,0,,240.0
+Special Combos,Red Sauce Pasta with French Fries,0,0,,295.0
+Special Combos,White Sauce Pasta with French Fries,0,0,,295.0
+Bucket,Bucket Chicken,0,0,"6pcs(1 Leg, 2 Strips, 3 Wings) 9pcs(Leg 2, Strips 3, Wings 4)",265.0
+Starters,Fried Chicken Wings [5 Pieces],0,0,"Fried chicken wings are a popular, crispy and often spicy snack or meal, ... read more",210.0
+Starters,Cheese Creamy Wings [5 Pieces],0,0,Enjoy the cheese creamy chicken ever.,190.0
+Starters,Boneless Strip [5 Pieces],0,0,Chicken.,225.0
+Starters,Peri Peri Fried Wings [5 Pieces],0,0,"Peri Peri Fried refers to food, often chicken, that is fried and then ... read more",240.0
+Starters,Cheesy Cream Wings [5 Pieces],0,0,"Cheesy Cream Wings are chicken wings coated in a rich, creamy cheese sauce, ... read more",240.0
+Starters,Cheesy Boneless Strips [5 Pieces],0,0,"Cheesy Boneless Strips are tender, boneless pieces of chicken, often breaded and fried, ... read more",270.0
+Starters,Cheesy Chicken Popcorn,0,0,"Cheesy Chicken Popcorn consists of bite-sized, breaded, and fried chicken pieces, often tossed ... read more",240.0
+Starters,Popcorn [Medium],0,0,Popcorn is a popular snack made by heating fried corn kernels until they ... read more,140.0
+Starters,Popcorn [Large],0,0,Popcorn is a popular snack made by heating fried corn kernels until they ... read more,180.0
+Starters,Bucket [6 Pieces],0,0,Strips [2 Pieces]+Wings [4 Pieces],200.0
+Starters,Crab Lollipop,0,0,Crab Lollipop is a seafood appetizer where crab meat is seasoned and shaped ... read more,190.0
+Starters,Chicken Nuggets [5 Pieces],0,0,"Chicken nuggets are small, breaded, and deep-fried pieces of chicken, popular as a ... read more",180.0
+Starters,Fish Fingers [5 Pieces],0,0,Fish fingers are a popular seafood dish made from white fish that is ... read more,210.0
+Starters,Aloo Tikki Cutlet [3 Pieces],0,0,"Aloo tikki cutlet is a popular Indian snack made of spiced, mashed potatoes ... read more",60.0
+Fried Rice,Corn Fried Rice,0,0,Corn Fried Rice is a flavorful dish combining cooked rice stir-fried with corn ... read more,165.0
+Fried Rice,Mushroom Fried Rice,0,0,Mushroom Fried Rice is a savory dish featuring cooked rice stir-fried with various ... read more,190.0
+Fried Rice,Egg Fried Rice,0,0,Egg Fried Rice is a simple yet popular Asian dish made by stir-frying ... read more,165.0
+Fried Rice,Chicken Fried Rice,0,0,Chicken Fried Rice is a hearty and flavorful dish combining stir-fried rice with ... read more,190.0
+Fried Rice,Schezwan Chicken Fried Rice,0,0,Schezwan Chicken Fried Rice is a spicy and bold Indo-Chinese dish made with ... read more,199.0
+Fried Rice,Prawns Fried Rice,0,0,Prawns Fried Rice is a savory seafood dish featuring stir-fried rice with succulent ... read more,210.0
+Fried Rice,Crab Fried Rice,0,0,"Crab Fried Rice is a flavorful seafood dish made with stir-fried rice, chunks ... read more",210.0
+Fried Rice,Paneer Fried Rice,0,0,Paneer Fried Rice is a vegetarian dish combining stir-fried rice with cubes of ... read more,180.0
+Fried Rice,Ghee Rice,0,0,Ghee rice is a fragrant and flavorful Indian dish made with basmati rice ... read more,90.0
+Fried Rice,Jeera Rice,0,0,Jeera rice is a simple yet aromatic Indian dish made with basmati rice ... read more,100.0
+Pizza and Pasta,White Pasta,0,0,"White Pasta, often referred to as Pasta in White Sauce or Alfredo Pasta, ... read more",200.0
+Pizza and Pasta,Red Pasta,0,0,"Red Pasta, commonly known as Pasta in Marinara or Arrabbiata Sauce, is a ... read more",200.0
+Pizza and Pasta,Cheese Baked Pasta,0,0,"Pasta loaded with cheese, Baked to perfection.",260.0
+Pizza and Pasta,Pesto Pasta,0,0,Pesto Pasta is a flavorful Italian dish made with pasta coated in a ... read more,220.0
+Pizza and Pasta,Desi Italian Pasta,0,0,Desi Italian Pasta is a fusion dish that combines traditional Italian pasta with ... read more,220.0
+Pizza and Pasta,Spicy Red Pasta,0,0,Spicy Red Pasta is a zesty dish featuring pasta tossed in a fiery ... read more,220.0
+Pizza and Pasta,South Indian Pasta,0,0,[NO cream].South Indian Pasta is a unique fusion dish that blends traditional Italian ... read more,165.0
+Burgers and Sandwiches,Veg Burger,0,0,A veg burger is a vegetarian friendly sandwich consisting of a meat free ... read more,100.0
+Burgers and Sandwiches,Veg Cheese Burger,0,0,A veg cheese burger is a vegetarian burger featuring a meatless patty made ... read more,120.0
+Burgers and Sandwiches,Veg Double Decker Burger,0,0,A veg double decker burger is a hearty vegetarian burger consisting of two ... read more,150.0
+Burgers and Sandwiches,Grilled Mushroom Burger,0,0,A grilled mushroom burger is a savory sandwich featuring a grilled portobello mushroom ... read more,150.0
+Burgers and Sandwiches,Tandoori Cheese Paneer Burger,0,0,A tandoori cheese paneer burger is an indian fusion dish featuring a bun ... read more,175.0
+Burgers and Sandwiches,Chicken Burger,0,0,"A chicken burger is a sandwich that consists of a cooked chicken patty, ... read more",115.0
+Burgers and Sandwiches,Chicken Cheese Burger,0,0,"A Chicken Cheese Burger is a sandwich comprising a cooked chicken patty, often ... read more",140.0
+Burgers and Sandwiches,Chicken Double Decker Burger,0,0,A chicken double decker burger is a substantial sandwich featuring two layers of ... read more,175.0
+Burgers and Sandwiches,Fried Chicken Cheese Burger,0,0,Fried chicken on your burger. Crunchy burger.,220.0
+Burgers and Sandwiches,Fish Burger,0,0,Crispy fried fish.,199.0
+Burgers and Sandwiches,Crab Burger,0,0,A crab burger is a seafood sandwich featuring a patty made from seasoned ... read more,230.0
+Burgers and Sandwiches,Tandoori Chicken Cheese Burger,0,0,A tandoori chicken cheese burger is a fusion dish that combines a bun ... read more,220.0
+Burgers and Sandwiches,Cheese Sandwich,0,0,"A Cheese Sandwich is a simple, classic dish typically made with one or ... read more",135.0
+Burgers and Sandwiches,Chilli Cheese Sandwich,0,0,A Chilli Cheese Sandwich is a spicy and flavorful variation of the classic ... read more,140.0
+Burgers and Sandwiches,Veg Sandwich,0,0,A Veg Sandwich is a vegetarian sandwich made with various fresh vegetables like ... read more,140.0
+Burgers and Sandwiches,Mexican Spicy Sandwich,0,0,A Mexican Spicy Sandwich is a flavorful creation that typically includes ingredients like ... read more,165.0
+Burgers and Sandwiches,Paneer Sandwich,0,0,A Paneer Sandwich is a popular vegetarian option made with slices or crumbled ... read more,180.0
+Burgers and Sandwiches,Corn & Paneer Sandwich,0,0,A Corn & Paneer Sandwich combines sweet corn kernels and paneer (Indian cottage ... read more,190.0
+Burgers and Sandwiches,Tandoori Paneer Sandwich,0,0,"A Tandoori Paneer Sandwich features slices of paneer marinated in tandoori spices, grilled ... read more",190.0
+Burgers and Sandwiches,Mexican Spicy Paneeer Sandwich,0,0,A Mexican Spicy Paneer Sandwich fuses Indian and Mexican cuisines by filling bread ... read more,190.0
+Burgers and Sandwiches,Corn Cheese Sandwich,0,0,A Corn Cheese Sandwich is a creamy and delightful combination of sweet corn ... read more,165.0
+Burgers and Sandwiches,Egg Sandwich,0,0,An Egg Sandwich is a simple yet versatile dish typically made with sliced ... read more,115.0
+Burgers and Sandwiches,Fried Chicken Sandwich,0,0,Crispy fried chicken and mayo packed in your sandwich for the best sandwich ... read more,175.0
+Burgers and Sandwiches,Chicken Sausage Sandwich,0,0,"A Chicken Sausage Sandwich features grilled or fried chicken sausage slices, often paired ... read more",150.0
+Burgers and Sandwiches,Chicken Mayo Sandwich,0,0,A Chicken Mayo Sandwich is a creamy and simple sandwich made with chopped ... read more,165.0
+Burgers and Sandwiches,Mexian Spicy Chicken Sandwich,0,0,"A Mexican Spicy Chicken Sandwich is a flavorful fusion dish that includes spicy, ... read more",165.0
+Burgers and Sandwiches,Peri Peri Chicken Sandwich,0,0,"A Peri Peri Chicken Sandwich features chicken marinated in spicy Peri Peri sauce, ... read more",175.0
+Maggi,Mushroom & Cheese Maggi,0,0,Mushroom & cheese maggi is a quick and savory noodle dish that combines ... read more,140.0
+Maggi,Corn & Cheese Maggi,0,0,"Corn & cheese maggi is a delicious variation of instant noodles, combining the ... read more",140.0
+Maggi,Egg Maggi,0,0,Egg maggi is a hearty and quick noodle dish that incorporates scrambled or ... read more,135.0
+Maggi,Chicken & Cheese Maggi,0,0,"Chicken & cheese maggi is a delicious and hearty twist on instant noodles, ... read more",200.0
+Maggi,Peri Peri Veg Maggi,0,0,Peri peri veg maggi is a spicy and flavorful noodle dish that combines ... read more,135.0
+Maggi,Kung Pao Veg Maggi,0,0,Hot and sweet.,135.0
+Maggi,Peri Peri Chicken Maggi,0,0,Peri peri chicken maggi is a spicy and savory noodle dish that blends ... read more,190.0
+Maggi,Kung Pao Chicken,0,0,Hot and sweet.,200.0
+Maggi,Cheese Maggi,0,0,"Cheese maggi is a twist on the classic instant noodle dish, enriched with ... read more",90.0
+Snacks,French Fries,0,0,"French fries are thin strips of deep fried potatoes, known for their crispy ... read more",100.0
+Snacks,Masala Fries,0,0,"Masala fries are a spiced variation of traditional French fries, tossed in a ... read more",120.0
+Snacks,Peri Peri Fries,0,0,Peri Peri Fries are crispy French fries seasoned with a spicy and tangy ... read more,120.0
+Snacks,Cheese Loaded Fries,0,0,Cheese loaded fries are a decadent snack comprising crispy French fries generously topped ... read more,175.0
+Snacks,Peri Peri Cheese Fries,0,0,Peri peri cheese fries are a tantalizing snack featuring crispy French fries topped ... read more,190.0
+Snacks,Chicken Popcorn,0,0,"Chicken popcorn consists of bite sized pieces of chicken breast, coated in a ... read more",190.0
+Snacks,Veggie Corn Wrap,0,0,"A veggie corn wrap is a healthy and flavorful meal option, combining sweet ... read more",120.0
+Snacks,Peri Peri Paneer Wraps,0,0,Peri peri paneer wraps are a spicy and tangy dish featuring paneer cubes ... read more,120.0
+Snacks,Chicken Sausage Wraps,0,0,"Chicken sausage wrap consist of grilled or fried chicken sausage slices, wrapped in ... read more",120.0
+Desserts and Beverages,Virgin Mojito,0,0,Perfect blend of mint and lemon flavours into a refreshing mix.,135.0
+Desserts and Beverages,Green Apple Mojito,0,0,[Non Alcoholic],135.0
+Desserts and Beverages,Blue Curacao Mojito,0,0,[Non Alcoholic],135.0
+Desserts and Beverages,Vanilla Ice Cream,0,0,[Dessert],100.0
+Desserts and Beverages,Chocolate Ice Cream,0,0,[Dessert],115.0
+Desserts and Beverages,Death By Chocolate Sunday Ice Cream,0,0,Death by chocolate sundae ice cream is a decadent dessert featuring rich chocolate ... read more,240.0
+Desserts and Beverages,Jamun Vanilla Sunday,0,0,"A jamun vanilla sundae combines the unique, tangy sweet flavor of jamun [black ... read more",120.0
+Desserts and Beverages,Browine,0,0,[Dessert] [Pre-Prepared],100.0
+Desserts and Beverages,Browine with Vanilla Ice Cream,0,0,[Dessert],175.0
+Desserts and Beverages,Butterscotch Falooda,0,0,[Dessert],150.0
+Desserts and Beverages,Dry Fruit Falooda,0,0,Dry fruits,175.0
+Desserts and Beverages,Mixed Ice Cream Falooda,0,0,[Dessert],165.0
+Desserts and Beverages,Ginger Lime Soda,0,0,Ginger lime soda is a zesty and refreshing beverage that combines the spicy ... read more,80.0
+Desserts and Beverages,Sweet Lemon Soda,0,0,Sweet lemon soda is a delightful and refreshing carbonated beverage that blends the ... read more,75.0
+Desserts and Beverages,Salted Lemon Soda,0,0,Salted lemon soda is a unique and thirst quenching beverage that combines the ... read more,75.0
+Desserts and Beverages,Red Wine,0,0,[Non Alcoholic],135.0
+Desserts and Beverages,Strawberry Soda,0,0,"Strawberry soda is a sweet, bubbly and refreshing beverage with a vibrant pink ... read more",95.0
+Desserts and Beverages,Strawberry Soda with Ice Cream Float,0,0,A strawberry soda with ice cream float is a creamy and fizzy dessert ... read more,135.0
+Desserts and Beverages,Chill Beer,0,0,[Non Alcoholic],135.0
+Desserts and Beverages,Coke with Vanilla Ice Cream Float,0,0,"A Coke float is a classic, nostalgic dessert beverage made by topping a ... read more",80.0
+Desserts and Beverages,Hot Chocolate,0,0,"Hot chocolate is a warm, comforting beverage made from melted chocolate or cocoa ... read more",90.0
+Desserts and Beverages,Creamy Vanilla Milkshake,0,0,"A creamy vanilla milkshake is a thick, smooth blend of vanilla ice cream, ... read more",135.0
+Desserts and Beverages,Love Rose Milkshake,0,0,Rose milk lover? now its time to taste the next version of it ... read more,150.0
+Desserts and Beverages,Chocolate Overdose Milkshake,0,0,A chocolate overdose milkshake is an intensely rich and indulgent beverage made with ... read more,150.0
+Desserts and Beverages,Butterscotch Milkshake,0,0,A butterscotch milkshake is a creamy and sweet treat made by blending rich ... read more,150.0
+Desserts and Beverages,Juicy Mango Milkshake,0,0,"A juicy mango milkshake is a creamy, tropical delight blending ripe, sweet mangoes ... read more",165.0
+Desserts and Beverages,KitKat Milkshake,0,0,A KitKat milkshake is a creamy and crunchy treat made by blending vanilla ... read more,190.0
+Desserts and Beverages,Blackcurrant Milkshake,0,0,"A blackcurrant milkshake is a creamy, vibrant and tangy beverage made by blending ... read more",165.0
+Desserts and Beverages,Oreo Shake,0,0,Vanilla ice cream blended with Oreo chunks.,165.0
+Desserts and Beverages,Brownie Bite Shake,0,0,Delicious vanilla ice cream and yummy brownie.,190.0
+Desserts and Beverages,Cold Coffee,0,0,A soothing shake made by blending cold coffee and ice cream together.,150.0
+Desserts and Beverages,Milo Dinosaur Shake,0,0,Malaysia famous milkshake now for you. Enjoy the chocoholic beverage.,140.0
+Momos,Veg Momos [5 Pieces],0,0,Veg momos are a popular Himalayan dumpling snack filled with a mixture of ... read more,135.0
+Momos,Schezwan Tandoori Paneer Momos [5 Pieces],0,0,Schezwan tandoori paneer momos are a fusion dish featuring dumplings stuffed with spicy ... read more,180.0
+Momos,Chilli Chicken Momos [5 Pieces],0,0,Chilli chicken momos are a tantalizing fusion dish where traditional steamed or fried ... read more,179.0
+Momos,Cheesey Sauce Paneer Momos [5 Pieces],0,0,Cheesy sauce paneer momos are a delectable fusion dish consisting of momos stuffed ... read more,210.0
+Momos,Cheesey Sauce Chicken Momos [5 Pieces],0,0,Cheesy sauce chicken momos are a savory and indulgent dish featuring tender momos ... read more,220.0
+Momos,Tandoori Paneer Momos [5 Pieces],0,0,Cheesy sauce chicken momos are a savory and indulgent dish featuring tender momos ... read more,110.0
+Momos,Schezwan Chilli Chicken Momos [5 Pieces],0,0,Schezwan chilli chicken momos is a spicy and flavorful Indo Chinese fusion dish ... read more,130.0
+Momos,Cheesy Sauce Veg Momos [5 Pieces],0,0,"Cheesy sauce veg momos is a delightful variation of the traditional dumpling, stuffed ... read more",120.0

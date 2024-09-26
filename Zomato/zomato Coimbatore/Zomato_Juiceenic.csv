@@ -1,0 +1,41 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Drinks (Beverages),Blue Curacao Mojito,1,0,Dive into a vibrant and refreshing experience with our Blue Curacao Mojito—a dazzling ... read more,155.0
+Drinks (Beverages),Blueberry Mojito,1,0,Savor the timeless appeal of our Blueberry Mojito—a refreshing concoction that seamlessly blends ... read more,155.0
+Drinks (Beverages),Green Apple Mojito,1,0,Experience a burst of freshness with our Green Apple Mojito—a tantalizing fusion of ... read more,155.0
+Drinks (Beverages),Mint Mojito,1,0,Quench your thirst with our Mint Mojito—a refreshing concoction of crisp mint leaves ... read more,155.0
+Drinks (Beverages),Water Melon Mojito,1,0,"Beat the heat with our Watermelon Mojito—a cool and invigorating blend of watermelon, ... read more",155.0
+Desserts,Brownie,1,0,,79.0
+Desserts,Choco Lava Cake,1,0,,99.0
+Classic Iced Tea,Berry Ice Tea,1,0,We carefully blend our premium tea leaves with the finest berries to achieve ... read more,180.0
+Classic Iced Tea,Hibiscus Ice Tea,1,0,"Sourced from the finest hibiscus flowers, our tea is carefully crafted to capture ... read more",180.0
+Classic Iced Tea,Orange Peach Paradise Ice Tea,1,0,Indulge in the blissful harmony of fruit and tea with our Orange Peach ... read more,180.0
+Classic Iced Tea,Passionfruit Ice Tea,1,0,"Combined with the essence of real passion fruit, and natural tea leaves infuse ... read more",180.0
+100% Natural Juices,Chilli Gauva,1,0,"Introducing our tantalizing Guava Chilli Juice, a fusion of exotic flavors crafted to ... read more",180.0
+100% Natural Juices,Jamun Kala Khatta ( Jamuntini Sour),1,0,"""Jamun Kala Khatta"" is a delightful and tangy beverage that captures the essence ... read more",180.0
+100% Natural Juices,Lychee Lemon,1,0,"Our Lychee Lemon drink captures the exotic allure of this tropical gem, delivering ... read more",180.0
+100% Natural Juices,Orange Mint Cooler,1,0,The Orange Mint Cooler is a vibrant and refreshing beverage that perfectly captures ... read more,180.0
+100% Natural Juices,Pineapple Bird'S Eye Chilli,1,0,"Introducing our exquisite Pineapple Bird's Eye Chilli juice, a premium concoction that harmonizes ... read more",180.0
+100% Natural Juices,Tamarind Shikanji,1,0,Tamarind Shikanji is a wonderful twist on the classic Indian beverage!Shikanji is typically ... read more,180.0
+Mocktails,Chilli Gauva Mocktail,1,0,"Introducing our ""Chili Guava Blaze"" mocktail, a fiery fusion of tropical guava sweetness ... read more",199.0
+Mocktails,Jamun Kala Khatta Mocktail,1,0,"Introducing our tantalizing ""Jamun Kalakhatta Burst"" mocktail, a delightful blend of the unique ... read more",199.0
+Mocktails,Lychee Lemon Mocktail,1,0,"Introducing our refreshing ""Lychee Lemon Fizz"" mocktail, a delightful fusion of juicy lychees ... read more",199.0
+Mocktails,Orange Mint Mocktail,1,0,"Introducing our refreshing ""Citrus Mint Zing"" mocktail, a delightful blend of zesty oranges ... read more",199.0
+Mocktails,Pineapple Bird'S Eye Chilli Mocktail,1,0,"Introducing our electrifying creation, the ""Tropical Firestorm"" mocktail, where the tropical sweetness of ... read more",199.0
+Mocktails,Tamarind Shikanji Mocktail,1,0,"Introducing our tangy delight, the ""Tamarind Twist"" mocktail, a refreshing fusion of zesty ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Guava Chilli Gin PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Hibiscus Tea Gin PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Jamun Kala Khatta Gin PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Pineapple Bird'Seye Chilli Gin PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Guava Chilli Vodka PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Jamun Kala Khatta Vodka PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Lychee Lemon Vodka PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Orange Mint Rum PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Passion Fruit Tea Rum PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Orange Mint Tequila PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Passion Fruit Tea Tequila PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Orange Mint Whiskey PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Cocktail PreMix(Does not contain any alochol),Passion Fruit Tea Whiskey PreMix,1,0,"Our juices are free from added preservatives, colours or artificial flavours. Add 60ml ... read more",199.0
+Sparkling Iced Tea,Sparkling Berry Ice Tea,1,0,"Introducing our sparkling sensation, the ""Berry Breeze"" tea, where the luscious flavors of ... read more",199.0
+Sparkling Iced Tea,Sparkling Hibiscus Ice Tea,1,0,"Introducing the ""Blossom Fizz"" , a sparkling fusion of hibiscus tea and refreshing ... read more",199.0
+Sparkling Iced Tea,Sparkling Orange Peach Paradise Ice Tea,1,0,"Introducing our sparkling delight, the ""Citrus Peach Fizz"" tea, where the bright zest ... read more",199.0
+Sparkling Iced Tea,Sparkling Passionfruit Ice Tea,1,0,"Introducing our sparkling sensation, the ""Passion Sparkler"" tea, where the tropical allure of ... read more",199.0

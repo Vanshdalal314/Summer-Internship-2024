@@ -1,0 +1,91 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Chicken Dana 65 with Tandoori Chicken Leg,0,0,Chicken Dana 65 + Tandoori Chicken Leg,280.0
+Combos,Boneless Chicken Tikka Masala [500 ml]+6 Chapati+2 Papad,0,0,,320.0
+Combos,Boneless Chicken 69 with Tandoori Chicken Leg,0,0,Boneless Chicken 69 + Tandoori Chicken Leg,328.0
+Combos,Boneless Butter Chicken [500 ml]+6 Chapati+2 Papad,0,0,,328.0
+Combos,Chicken Lollipop [6 Pieces] with Chicken Dana 65,0,0,,360.0
+Combos,Special Malai Tikka [6 Pieces] with Chicken Dana 65,0,0,,424.0
+Combos,Chicken Kolhapuri Gravy [1000 ml]+10 Chapati+Plain Rice,0,0,Serves 3 to 4 person,472.0
+Combos,Chicken Hariyali [1 litre]+8 Chapati+Plain Rice+2 Papad,0,0,,472.0
+Combos,Chicken Masala [500 ml]+6 Chapati+Chicken Dum Biryani+2 Papad,0,0,,480.0
+Combos,Boneless Special Afghani [1000 ml]+10 Chapati+Plain Rice+2 Papad,0,0,,560.0
+Starters,Tandoori Chicken Leg,0,0,,136.0
+Starters,Chicken Dana 65,0,0,,144.0
+Starters,Tandoori Chicken Chest,0,0,,158.4
+Starters,Tandoori Butter Leg,0,0,,160.0
+Starters,Chicken Cheese Tandoori Leg,0,0,,184.0
+Starters,Boneless Chicken 69,0,0,,192.0
+Starters,Special Tandoori Leg,0,0,,200.0
+Starters,Boneless Red Chicken Tikka [6 Pieces],0,0,,208.0
+Starters,Silver Chicken,0,0,,208.0
+Starters,Chicken Lollipop [6 Pieces],0,0,,216.0
+Starters,Boneless Green Chicken Tikka [6 Pieces],0,0,,216.0
+Starters,Lasooni Tikka [6 Pieces],0,0,,216.0
+Starters,Chicken Bombay Fry,0,0,,224.0
+Starters,Chicken Pahadi,0,0,,272.0
+Starters,Chicken Pathani,0,0,,272.0
+Starters,Special Lehsuni Tikka [6 Pieces],0,0,,296.0
+Starters,Golden Tikka [6 Pieces],0,0,,304.0
+Starters,Special Malai Tikka [6 Pieces],0,0,,304.0
+Starters,Special Chicken Tangdi [4 Pieces],0,0,,384.0
+Starters,Special Chicken Banglori Fry,0,0,,608.0
+Main Course,Chicken Masala,0,0,,224.0
+Main Course,Chicken Tawa Fry Gravy,0,0,,224.0
+Main Course,Chicken Machhi Masala,0,0,,224.0
+Main Course,Chicken Tawa Fry Green Masala,0,0,,224.0
+Main Course,Boneless Chicken Tikka Masala,0,0,,224.0
+Main Course,Boneless Chicken Makhani Gravy,0,0,,224.0
+Main Course,Golden Chicken,0,0,,240.0
+Main Course,Chicken Rajwadi,0,0,,240.0
+Main Course,Shrimp Masala Fry,0,0,,248.0
+Main Course,Boneless Lemon Tikka Masala,0,0,,264.0
+Main Course,Boneless Chicken Tikka Green Masala,0,0,,264.0
+Main Course,Boneless Pudina Tikka Masala,0,0,,264.0
+Main Course,Chicken Hyderabadi Green Gravy,0,0,,264.0
+Main Course,Chicken Lehsuniya Gravy,0,0,,264.0
+Main Course,Chicken Angara Gravy,0,0,,264.0
+Main Course,Boneless Chicken Dilkhush,0,0,,264.0
+Main Course,Boneless Chicken Chatpata,0,0,,264.0
+Main Course,Boneless Butter Chicken,0,0,,264.0
+Main Course,Chicken Kadhai Gravy,0,0,,272.0
+Main Course,Boneless Chilli Chicken Tikka Masala,0,0,,280.0
+Main Course,Mutton Masala Gravy,0,0,,280.0
+Main Course,Chicken Kolhapuri,0,0,,296.0
+Main Course,Boneless Chicken Lehsuniya,0,0,,304.0
+Main Course,Chicken Pack,0,0,,304.0
+Main Course,Chicken Shimla,0,0,,304.0
+Main Course,Chicken Pyaza,0,0,,304.0
+Main Course,Chicken Roasted Masala,0,0,,304.0
+Main Course,Chicken Hariyali,0,0,,304.0
+Main Course,Chicken Char Bag,0,0,,304.0
+Main Course,Chicken Ghotala,0,0,,304.0
+Main Course,Chicken Mughlai,0,0,,304.0
+Main Course,Chicken Kashmiri,0,0,,304.0
+Main Course,Tangdi Masala [2 Pieces],0,0,,304.0
+Main Course,Chicken Rashida,0,0,,304.0
+Main Course,Mutton Kashmiri,0,0,,320.0
+Main Course,Chicken Caska Maska,0,0,,328.0
+Main Course,Boneless Chicken Khurchan,0,0,,344.0
+Main Course,Boneless Chicken Reshmi,0,0,,344.0
+Main Course,Boneless Chicken Paplet Masala,0,0,,360.0
+Main Course,Boneless Special Afghani,0,0,,384.0
+Main Course,Mutton Angara Gravy,0,0,,384.0
+Main Course,Boneless Chicken Angara,0,0,,392.0
+Main Course,Mutton Mughlai Gravy,0,0,,400.0
+Main Course,Mutton Kolhapuri Gravy,0,0,,400.0
+Main Course,Mutton Rashida Gravy,0,0,,400.0
+Main Course,Special Chicken Hindustani,0,0,,544.0
+Breads,Chapati,1,0,,9.6
+Breads,Butter Chapati,1,0,,20.0
+"Rice, Biryani and Fried Rice",Plain Rice,1,0,,72.0
+"Rice, Biryani and Fried Rice",Jeera Rice,1,0,,96.0
+"Rice, Biryani and Fried Rice",Chicken Pulao,0,0,,246.4
+"Rice, Biryani and Fried Rice",Chicken Dum Biryani,0,0,,208.0
+"Rice, Biryani and Fried Rice",Chicken Tikka Fried Rice,0,0,,216.0
+"Rice, Biryani and Fried Rice",Chicken Fried Rice,0,0,,216.0
+"Rice, Biryani and Fried Rice",Chicken Singapore Fried Rice,0,0,,216.0
+"Rice, Biryani and Fried Rice",Chicken Schezwan Fried Rice,0,0,,216.0
+"Rice, Biryani and Fried Rice",Amdawadi Fried Rice,0,0,,264.0
+"Rice, Biryani and Fried Rice",Chicken Triple Fried Rice,0,0,,268.0
+Accompaniments,Roasted Papad,1,0,,16.0
+Accompaniments,Fried Papad,1,0,,16.0

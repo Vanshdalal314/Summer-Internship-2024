@@ -1,0 +1,101 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Veg Manchow Soup,1,0,,129.0
+Soups,Veg Hot & Sour Soup,1,0,,129.0
+Soups,Veg Burn Garlic Soup,1,0,,139.0
+Soups,Vegetable Soup,1,0,,129.0
+Soups,Egg Soup,0,0,,129.0
+Soups,Chicken Manchow Soup,0,0,,129.0
+Soups,Chicken Hot and Sour Soup,0,0,,129.0
+Soups,Chicken Burnt Garlic Soup,0,0,,120.0
+Soups,Chicken Soup,0,0,,129.0
+Soups,Chicken Schezwan Soup,0,0,,130.0
+Starters,Chicken 65,0,0,,199.0
+Starters,Boneless Chicken 65,0,0,,229.0
+Starters,Boneless Golden Chicken 65,0,0,,229.0
+Starters,Boneless Green Chicken 65,0,0,,229.0
+Starters,Boneless Golden Chicken 65 [500 grams],0,0,,340.0
+Starters,Crispy Chicken,0,0,,235.0
+Starters,Chicken Manchurian Dry,0,0,,235.0
+Starters,Chicken Chilli Dry,0,0,,239.0
+Starters,Chicken Schezwan Chilli,0,0,,239.0
+Starters,Mustard Chilli,0,0,,249.0
+Starters,chicken Special Chilli Hong Kong Style,0,0,[Chef's Special],249.0
+Starters,Special Chilli Singapuri Style,0,0,[Chef's Special],239.0
+Starters,Dragon Chicken,0,0,,249.0
+Starters,Chinese Chicken Schezwan Lollipop,0,0,,249.0
+Starters,Chicken Lollipop,0,0,,199.0
+Starters,Paneer Chilli,1,0,,229.0
+Starters,Paneer Manchurian,1,0,,229.0
+Starters,Paneer Schezwan Sauce,1,0,,239.0
+Starters,Manchurian Dry,1,0,,149.0
+Starters,Schezwan Manchurian,1,0,,159.0
+Starters,Garlic Manchurian,1,0,,159.0
+Starters,Singapuri Manchurian,1,0,,159.0
+Starters,Mustard Manchurian,1,0,,160.0
+Main Course,Chicken Chilli Gravy,0,0,,249.0
+Main Course,Manchurian Gravy,1,0,,110.0
+Biryani,Chicken Chinese Biryani,0,0,,249.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,199.0
+Fried Rice and Noodles,Veg Singapuri Rice,1,0,,199.0
+Fried Rice and Noodles,Veg Schezwan Rice,1,0,,199.0
+Fried Rice and Noodles,Veg Garlic Rice,1,0,,199.0
+Fried Rice and Noodles,Veg Rice Noodles,1,0,,199.0
+Fried Rice and Noodles,Peri Peri Paneer Fried Rice,1,0,,239.0
+Fried Rice and Noodles,Ginger Fried Rice,1,0,,199.0
+Fried Rice and Noodles,Triple Rice,1,0,,249.0
+Fried Rice and Noodles,Paneer Manchurian Rice,1,0,,239.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,249.0
+Fried Rice and Noodles,Paneer Singapuri Fried Rice,1,0,,249.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,179.0
+Fried Rice and Noodles,Chicken Singapuri Rice,0,0,,179.0
+Fried Rice and Noodles,Chicken Schezwan Rice,0,0,,179.0
+Fried Rice and Noodles,Chicken Hong Kong Rice,0,0,,249.0
+Fried Rice and Noodles,Chicken Triple Rice,0,0,,299.0
+Fried Rice and Noodles,Chicken Kabsa Rice,0,0,,299.0
+Fried Rice and Noodles,Chicken Special Rice,0,0,[Chef's Special],249.0
+Fried Rice and Noodles,Chicken Hungama Rice,0,0,,249.0
+Fried Rice and Noodles,Chicken Pizza Rice,0,0,,219.0
+Fried Rice and Noodles,Chicken Traffic Jam Rice,0,0,,249.0
+Fried Rice and Noodles,Chicken Garlic Rice,0,0,,179.0
+Fried Rice and Noodles,Chicken Dhamal Rice,0,0,,269.0
+Fried Rice and Noodles,Chicken Royal Special Rice,0,0,[Chef's Special],310.0
+Fried Rice and Noodles,Chicken Bullet Rice,0,0,,260.0
+Fried Rice and Noodles,Chicken Magic Rice Special,0,0,[Chef's Special],280.0
+Fried Rice and Noodles,Chicken Singapuri Special Rice,0,0,[Chef's Special],200.0
+Fried Rice and Noodles,Chicken Bombay Bhel,0,0,,199.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,199.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,199.0
+Fried Rice and Noodles,Veg Singapuri Noodles,1,0,,199.0
+Fried Rice and Noodles,Veg Special Noodles,1,0,[Chef's Special],199.0
+Fried Rice and Noodles,Veg Fry Noodles,1,0,,199.0
+Fried Rice and Noodles,Veg Garlic Noodles,1,0,,199.0
+Fried Rice and Noodles,Chinese Bhel,1,0,,199.0
+Fried Rice and Noodles,Bombay Bhel,1,0,,249.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,249.0
+Fried Rice and Noodles,Paneer Schezwan Noodles,1,0,,249.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,,249.0
+Fried Rice and Noodles,Chicken Hakka Noodles,0,0,,249.0
+Fried Rice and Noodles,Chicken Singapuri Noodles,0,0,,249.0
+Fried Rice and Noodles,Chicken Special Noodles,0,0,[Chef's Special],270.0
+Fried Rice and Noodles,Chicken Fry Noodles,0,0,,249.0
+Fried Rice and Noodles,Chicken Garlic Noodles,0,0,,249.0
+Pizza,Veg Pizza [6 Inches],1,0,,199.0
+Pizza,Paneer Cheese Pizza [6 Inches],1,0,,210.0
+Pizza,Hot Pizza [6 Inches],1,0,,199.0
+Pizza,Veg Peri Peri Pizza [6 Inches],1,0,,210.0
+Pizza,Veg Italian Pizaa [6 Inches],1,0,,250.0
+Pizza,Veg Sezwan Pizza [6 Inches],1,0,,250.0
+Pizza,Veg Chinese Pizza [6 Inches],1,0,,279.0
+Pizza,Chicken Pizza [6 Inches],0,0,,279.0
+Pizza,Chicken Sezwan Pizza [6 Inches],0,0,,249.0
+Pizza,Chicken Tandoori Pizza [6 Inches],0,0,,260.0
+Pizza,Chicken Tikka Pizza [6 Inches],0,0,,299.0
+Pizza,Sp Royal Chicken Pizza [6 Inches],0,0,,299.0
+Pizza,Chicken Peri Peri Pizza [6 Inches],0,0,,249.0
+Pizza,Chicken Onion Pizza [6 Inches],0,0,,249.0
+Pizza,Chicken Italian Pizza [6 Inches],0,0,,269.0
+Pizza,Spot Chicken Peri Peri Pizza [6 Inches],0,0,,289.0
+Snacks,French Fries,1,0,,189.0
+Snacks,Peri Peri French Fries,1,0,,190.0
+Royal Combo,Chicken Fried Rice with Chicken Chilli Dry,0,0,,220.0
+Royal Combo,Veg Manchurian with Chicken Fried Rice and Chicken Noodles,0,0,,299.0

@@ -1,0 +1,73 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters (Snacks Special),Chinese Bhel,1,0,"A Chinese twist on the classic Indian treat with crispy bhel, onions, coriander ... read more",140.0
+Starters (Snacks Special),Bombay Bhel,1,0,"Indian style Chinese bhel is made of fried noodles, perked up with crunchy ... read more",140.0
+Starters (Snacks Special),Paneer Bombay Bhel,1,0,,180.0
+Starters (Snacks Special),Paneer Chinese Bhel,1,0,,140.0
+Starters (Snacks Special),Schezwan Bhel,1,0,,140.0
+Starters (Snacks Special),Veg Manchurian Dry,1,0,Veg manchurian dry,130.0
+Starters (Snacks Special),Veg Garlic Ball,1,0,,140.0
+Starters (Snacks Special),Veg Lollipop,1,0,,140.0
+Starters (Snacks Special),Dry Triple,1,0,Combo.,160.0
+Starters (Snacks Special),Dry Paneer Chilli,1,0,Dry paneer chilli,192.0
+Starters (Snacks Special),Dry Paneer Manchurian,1,0,,192.0
+Starters (Snacks Special),Paneer Dragon Trichie,1,0,,204.0
+Starters (Snacks Special),Dry Paneer Schezwan,1,0,,200.0
+Starters (Snacks Special),Paneer Mongolian,1,0,,204.0
+Starters (Snacks Special),Paneer Red Coc,1,0,,204.0
+Starters (Snacks Special),Paneer 65,1,0,Deliciously crispy thin and long dosa smothered with butter; served with sambhar and ... read more,204.0
+Starters (Snacks Special),Manchurian 65 Mix,1,0,,140.0
+Starters (Snacks Special),Manchurian 65 Taste,1,0,,140.0
+Starters (Snacks Special),Manchurian Lollipop Taste,1,0,,140.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,A delectable dish with slippery strands of noodles dressed in a flavorful sauce ... read more,130.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,Vegetables and soft noodles that is tossed with vegetables in a flavorful schezwan ... read more,140.0
+Fried Rice and Noodles,Hot Garlic Noodles,1,0,,140.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,A hot and spicy preparation with soft noodles and crispy Manchurian balls cooked ... read more,140.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,180.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,140.0
+Fried Rice and Noodles,Crispy Noodles,1,0,,140.0
+Fried Rice and Noodles,65 Noodles,1,0,,140.0
+Fried Rice and Noodles,Chilli Garlic Noodles,1,0,,140.0
+Fried Rice and Noodles,Veg American Chopsuey,1,0,,150.0
+Fried Rice and Noodles,Veg Chinese Chopsuey,1,0,,160.0
+Fried Rice and Noodles,Veg Schezwan Chopsuey,1,0,,150.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,A slightly spicy dish made by tossing vegetables and rice in a garlic ... read more,140.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,Fresh veggies tossed in a pan with steamed rice and flavorful spices - ... read more,130.0
+Fried Rice and Noodles,Veg Manchurian Fried Rice,1,0,Veg manchurian fried rice,140.0
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Veg Garlic Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Veg Noodles Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Veg Combination Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Triple Schezwan Fried Rice,1,0,,200.0
+Fried Rice and Noodles,Paneer Triple Schezwan Fried Rice,1,0,,240.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,Paneer fried rice is mixture of tossed rice and paneer with veggies and ... read more,180.0
+Fried Rice and Noodles,Chinese Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Hunan Fried Rice,1,0,,180.0
+Fried Rice and Noodles,Burnt Garlic Rice,1,0,,100.0
+Fried Rice and Noodles,65 Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Manchurian Singapuri Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Chilli Garlic Rice,1,0,,140.0
+Manchurian & More,Veg Manchurian Gravy,1,0,,120.0
+Manchurian & More,Veg Manchurian Semi Dry,1,0,,120.0
+Manchurian & More,Veg Schezwan Ball Gravy,1,0,,130.0
+Manchurian & More,Veg Garlic Ball Gravy,1,0,,130.0
+Manchurian & More,Veg Lollipop Gravy,1,0,,130.0
+Manchurian & More,Paneer Chilli Gravy,1,0,,200.0
+Manchurian & More,Paneer Manchurian Gravy,1,0,,180.0
+Manchurian & More,Paneer Schezwan Gravy,1,0,,170.0
+Manchurian & More,Paneer Red Coc Gravy,1,0,,170.0
+Manchurian & More,Paneer Dragon Gravy,1,0,,170.0
+Soups,Veg Manchow Soup,1,0,,150.0
+Soups,Veg Hot and Sour Soup,1,0,,144.0
+Soups,Veg Noodles Soup,1,0,,144.0
+Soups,Veg Long Fong Soup,1,0,,120.0
+Soups,China Town Special Soup,1,0,,180.0
+Accompaniments,Special Salad,1,0,,100.0
+Accompaniments,Fried Noodles [Half Plate],1,0,,50.0
+Accompaniments,Manchurian Balls [15 Pieces],1,0,,50.0
+Accompaniments,Schezwan Sauce,1,0,,150.0
+Drinks (Beverages),Thumbs Up [200 Ml],1,0,,20.0
+Drinks (Beverages),Sprite [200 ml],1,0,,20.0
+Meals For One,Manchurian Balls + Chinese Bhel,1,0,,140.0
+Meals For One,Veg Manchurian Dry + Chinese Bhel,1,0,,210.0
+Meals For One,Paneer Chilli Dry + Chinese Bhel,1,0,,210.0
+Meals For One,Veg Hakka Noodles + Chinese Bhel,1,0,,210.0

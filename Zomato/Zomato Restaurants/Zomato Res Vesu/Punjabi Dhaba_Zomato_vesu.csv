@@ -1,0 +1,137 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali and Mini Meals,Regular Thali,1,0,1 Gravy Sabzi+1 Dry Sabzi+Dal+Steamed Rice+4 Plain Chapati/2 Plain Tandoori Roti+Salad [Subject to Availability],130.0
+Thali and Mini Meals,Special Punjabi Thali,1,0,4 Butter Chapati/2 Butter Tandoori Roti+1 Paneer Sabji+1 Veg Sabji+Jeera Rice+Dal Fry+Roasted Papad+Buttermilk+Chikki ... read more,170.0
+Thali and Mini Meals,Royal Thali,1,0,Paneer Lababdar+Mix Veg+Paneer Biryani+2 Butter Paratha/2 Butter Tandoori Roti+Mixed Raita+1 Roasted Papad+1 Sweet+Salad+Pickle [Sweet ... read more,220.0
+Thali and Mini Meals,Rajma Chawal Combo,1,0,[Combo Item] Rajma Steam Rice [500 grams]+1 Salad+1 Pickle [Salad-Subject to Availability],129.0
+Thali and Mini Meals,Chole Chawal Combo,1,0,[Combo Item]  Chole Steamed Rice [500 grams]+1 Salad+1 Pickle [Salad-Subject to Availability],129.0
+Thali and Mini Meals,Kadhi Chawal Combo,1,0,[Combo Item]  Kadhi Steam Rice [500 grams]+1 Salad+1 Pickle [Salad-Subject to Availability],129.0
+Thali and Mini Meals,2 Aloo Paratha with Masala Dahi & Pickle,1,0,2 Aloo Onion Paratha+Masala Dahi [150 grams]+Pickle,159.0
+Thali and Mini Meals,2 Aloo Onion Paratha with Masala Dahi & Pickle,1,0,2 Aloo Onion Paratha+Masala Dahi [150 grams]+Pickle,169.0
+Main Course,Matar Paneer,1,0,Matar paneer is a North Indian dish featuring peas and paneer in a ... read more,160.0
+Main Course,Palak Paneer,1,0,Palak paneer is a classic North Indian dish where Indian cottage cheese [paneer] ... read more,160.0
+Main Course,Paneer Butter Masala,1,0,"Creamy and mildly sweet gravy made with butter, tomatoes, spices and paneer.",160.0
+Main Course,Paneer Kali Mirch,1,0,Paneer kali mirch is a North Indian dish where cubes of Indian cottage ... read more,160.0
+Main Course,Paneer Handi,1,0,Paneer handi is a mouth-watering vegetarian recipe. Prepared with this extremely delicious and ... read more,160.0
+Main Course,Paneer Kadhai,1,0,Paneer kadhai is a North Indian dish where cubes of Indian cottage cheese ... read more,160.0
+Main Course,Paneer Tawa,1,0,Paneer tawa is a North Indian dish where cubes of Indian cottage cheese ... read more,160.0
+Main Course,Sweet Shahi Paneer,1,0,Shahi paneer is a regal North Indian dish where Indian cottage cheese [paneer] ... read more,160.0
+Main Course,Paneer Do Pyaza,1,0,Paneer do pyaaza is a North Indian curry featuring Indian cottage cheese [paneer] ... read more,160.0
+Main Course,Paneer Toofani,1,0,Cottage cheese cubes in spicy tomato & onion gravy mixed with Indian spices.,160.0
+Main Course,Paneer Lababdar,1,0,Cubes of paneer cooked in special lababdar spices with brown gravy.,160.0
+Main Course,Paneer Kaju,1,0,Paneer kaju is a North Indian dish that combines Indian cottage cheese [paneer] ... read more,160.0
+Main Course,Paneer Lemon,1,0,Dices of paneer with gravy and flavour of lemon into it,160.0
+Main Course,Paneer Tikka Butter Masala,1,0,Indulge in the exquisite fusion of smoky paneer tikka and rich butter masala ... read more,180.0
+Main Course,Paneer Bhurji,1,0,"Savor the culinary delight of our paneer bhurji, a flavorful masterpiece where crumbled ... read more",180.0
+Main Course,Shahi Palak Paneer,1,0,Dices of paneer in palak gravy with crushed cottage cheese,180.0
+Main Course,Paneer Chana Masala,1,0,Red gravy with chana and diced paneer,180.0
+Main Course,Paneer Angoori,1,0,Red gravy with paneer angoors,180.0
+Main Course,Paneer Chatpata,1,0,"Luscious combination of paneer and exotic gravy made from tomato puree,chopped onions and ... read more",180.0
+Main Course,Paneer Angara,1,0,"Ignite your taste buds with our paneer angara, a smoky sensation where succulent ... read more",180.0
+Main Course,Paneer Cheese Angoori,1,0,Red gravy assorted paneer and cheese balls.,200.0
+Main Course,Paneer Kofta,1,0,Red gravy with paneer kofta,200.0
+Main Course,Rajma Masala,1,0,"Rajma masala is a north indian dish made with kidney beans,onions,tomatoes,spices and herbs",140.0
+Main Course,Sev Tomato,1,0,Tangy tomato based gravy generously topped with crispy sev.,140.0
+Main Course,Dahi Fry,1,0,Dahi is fried with the veggies and some spices.,140.0
+Main Course,Aloo Chana,1,0,"A soulwarming blend of tender potatoes and hearty chickpeas, expertly seasoned with aromatic ... read more",140.0
+Main Course,Aloo Jeera,1,0,"Indulge in the simplicity of our aloo jeera, where tender potatoes meet the ... read more",140.0
+Main Course,Dum Aloo,1,0,"Dum aloo, where baby potatoes are slow cooked in a flavorful blend of ... read more",140.0
+Main Course,Aloo Gobhi,1,0,"Aloo gobhi, a classic Indian dish showcasing the perfect blend of spiced cauliflower ... read more",140.0
+Main Course,Chana Masala,1,0,Black peas boiled and cooked with semi thick tomato and onion gravy with ... read more,140.0
+Main Course,Aloo Matar,1,0,Tender potatoes and peas simmered in a spiced tomato based curry.,140.0
+Main Course,Chana Fry Dry Masala,1,0,Fried chana with some veggies.,160.0
+Main Course,Mix Veg,1,0,Mix veg curry is made by cooking a amixture of vegeabled together in ... read more,140.0
+Main Course,Veg Kolhapuri,1,0,It has a very aromatic and medium spicy flavour of indian spices || ... read more,160.0
+Main Course,Veg Toofani,1,0,Chefs special way of preparing the vegetables with touch of North India.,160.0
+Main Course,Veg Kadhai,1,0,"Fresh green veggies cooked with capsicum,onion,tomato masala gravy",160.0
+Main Course,Veg Handi,1,0,"A gravy or base is made from cashew paste,onion ,tomatoes and cream a ... read more",160.0
+Main Course,Sweet Shahi Chaap,1,0,"Sweet shahi chaap, where succulent soya chaap are marinated in royal spices and ... read more",160.0
+Main Course,Chaap Toofani,1,0,"Chaap toofani, where tender soy chunks are infused with bold spices and grilled ... read more",160.0
+Main Course,Tawa Chaap,1,0,"Tawa chaap, a delectable dish where soy based chaap are expertly seasoned and ... read more",160.0
+Main Course,Kali Mirch Chaap,1,0,"Kaali mirch chaap, a tantalizing creation where soy based chunks are impeccably marinated ... read more",160.0
+Main Course,Lemon Chaap Gravy,1,0,"Lemon chaap gravy, where soy based chunks are immersed in a luscious curry ... read more",160.0
+Main Course,Butter Chaap,1,0,"Butter chaap, where succulent soy based chunks are delicately cooked in a luscious ... read more",160.0
+Main Course,Kadhai Chaap,1,0,"Kadai chaap, a flavorful creation where soy based chunks are expertly cooked with ... read more",160.0
+Main Course,Masala Chaap Gravy,1,0,"Masala chaap gravy, where soy based chunks are immersed in a rich and ... read more",160.0
+Main Course,Butter Masala Chaap,1,0,"It is rich and creamy curry made with soya chaap,spices,onions,tomatoed and cashews with ... read more",180.0
+Main Course,Kali Mirch Lemon Chaap,1,0,"Kaali mirch lemon chaap, a tantalizing fusion where soy based chunks are delicately ... read more",180.0
+Main Course,Roasted Crispy Chaap Gravy,1,0,"Roasted crispy chaap gravy, featuring soy based chunks expertly roasted to a crispy ... read more",180.0
+Main Course,Kaju Paneer,1,0,This indulgent combination showcases the velvety texture of cashews and the succulence of ... read more,160.0
+Main Course,Sweet Kaju Curry,1,0,"Sweet kaju curry, where cashews [kaju] take center stage in a luscious and ... read more",160.0
+Main Course,Kaju Masala,1,0,"Kaju masala, a decadent dish where cashews [kaju] are enveloped in a rich ... read more",160.0
+Main Course,Kaju Butter Masala,1,0,"Flavourful curry made of cashew nuts, Indian spices & the rich, silky, creamy ... read more",180.0
+Main Course,Mushroom Matar,1,0,Mushrooms and peas are simmered in a spiced tomato based curry.,140.0
+Main Course,Mushroom Masala,1,0,"Mushroom masala, a delectable dish where succulent mushrooms are cooked in a flavorful ... read more",140.0
+Main Course,Tawa Mushroom,1,0,"Tawa mushroom, a delightful dish where mushrooms are expertly seasoned and cooked on ... read more",160.0
+Main Course,Mushroom Butter Masala,1,0,"Mushroom butter masala, where tender mushrooms are cooked to perfection in a luscious ... read more",160.0
+Main Course,Mushroom Paneer Masala,1,0,"Mushroom paneer masala, featuring tender mushrooms and Indian cottage cheese [paneer] cooked in ... read more",180.0
+Main Course,Cheese Angoori,1,0,Cheese angoori is indian curry served in a creamy tomato onion gravy having ... read more,160.0
+Main Course,Cheese Butter Masala,1,0,"Cheese butter masala, where delectable cheese cubes are immersed in a velvety and ... read more",180.0
+Main Course,Cheese Paneer Butter Masala,1,0,"Cheese paneer butter masala, featuring creamy cheese and succulent paneer in a velvety ... read more",180.0
+Main Course,Cheese Kofta,1,0,"Koftas stuffed with cheese, prepared in spicy Indian gravy.",200.0
+Main Course,Dal Fry,1,0,Black lentils and kidney beans cooked overnight over tandoor with mild herbs garnished ... read more,120.0
+Main Course,Dal Tadka,1,0,"Boil lentils with onions, tomato, green chillies, garlic and turmeric powder till lentils ... read more",140.0
+Main Course,Dal Double Tadka,1,0,Lentil dish featuring twice the tempering with aromatic spices.,160.0
+Main Course,Dal Makhani,1,0,"A decadently indulgent dish prepared by cooking black lentil, red kidney beans in ... read more",160.0
+Chole Bhature,Chole Bhature,1,0,"2 Bhature, special chole masala [250 grams], salad and pickle [Subject to Availability].",150.0
+Chole Bhature,Paneer Chole Bhature,1,0,Paneer Bhature [2 Bhature]+Paneer Chole Masala [250 grams]+Salad+Pickle [Salad-Subject to Availability],180.0
+"Rice, Biryani, Pulao and Khichdi",Steamed Rice,1,0,"Steamed rice, a timeless staple featuring perfectly cooked grains that serve as the ... read more",85.0
+"Rice, Biryani, Pulao and Khichdi",Jeera Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices. Images used ... read more,115.0
+"Rice, Biryani, Pulao and Khichdi",Matar Rice,1,0,"Rice is cooked with vibrant green peas, creating a delightful and aromatic combination.",130.0
+"Rice, Biryani, Pulao and Khichdi",Paneer Rice,1,0,Rice is adorned with succulent cubes of Indian cottage cheese [paneer].,150.0
+"Rice, Biryani, Pulao and Khichdi",Lemon Rice,1,0,Rice is infused with tangy lemon juice.,150.0
+"Rice, Biryani, Pulao and Khichdi",Masala Rice,1,0,"Aromatic rice cooked with the goodness of authentic indian masala and spices,very tasty ... read more",160.0
+"Rice, Biryani, Pulao and Khichdi",Veg Biryani,1,0,Rice cooked to perfection and blend with authentic Indian herbs and soft mix ... read more,170.0
+"Rice, Biryani, Pulao and Khichdi",Paneer Biryani,1,0,Soft paneer cubes and flavored rice slow cooked in a delicious mix of ... read more,190.0
+"Rice, Biryani, Pulao and Khichdi",Paneer Tikka Biryani,1,0,Deliciously decadent flavored dum rice layered with paneer tikka and indian whole spices ... read more,210.0
+"Rice, Biryani, Pulao and Khichdi",Kaju Biryani,1,0,Sinfully creamy biryani prepared with flavored rice and cashews cooked in a creamy ... read more,210.0
+"Rice, Biryani, Pulao and Khichdi",Veg Pulao,1,0,"Rice, mixed vegetables and aromatic spices cooked to perfection.",155.0
+"Rice, Biryani, Pulao and Khichdi",Paneer Pulao,1,0,Rice is cooked with tender cubes of Indian cottage cheese [paneer] and an ... read more,175.0
+"Rice, Biryani, Pulao and Khichdi",Cheese Pulao,1,0,"Pot rice dish made by cooking fragrant basmati rice with aromatic spices, vegetables ... read more",175.0
+"Rice, Biryani, Pulao and Khichdi",Kaju Pulao,1,0,Rice is adorned with cashews [kaju] and a blend of aromatic spices.,175.0
+"Rice, Biryani, Pulao and Khichdi",Khichdi,1,0,"Rice and lentils are gently cooked together, seasoned with aromatic spices.",150.0
+"Rice, Biryani, Pulao and Khichdi",Dal Khichdi,1,0,"Dal khichdi, a comforting dish where rice and lentils are delicately cooked together ... read more",160.0
+"Rice, Biryani, Pulao and Khichdi",Masala Khichdi,1,0,"Masala Khichdi, a flavorful dish where rice and lentils are seasoned with a ... read more",160.0
+Breads,Plain Tandoori Roti,1,0,"Plain tandoori roti, a classic Indian flatbread cooked in a traditional tandoor.",30.0
+Breads,Butter Tandoori Roti,1,0,"Butter tandoori roti, a classic Indian flatbread cooked in a traditional tandoor and ... read more",40.0
+Breads,Plain Naan,1,0,"Plain naan, a soft and leavened Indian bread cooked in a traditional tandoor.",60.0
+Breads,Butter Naan,1,0,"Butter naan, a soft and leavened Indian bread cooked in a traditional tandoor ... read more",70.0
+Breads,Pyaazwali Roti,1,0,"Indian flatbread made with a blend of gram flour and wheat flour, generously ... read more",70.0
+Breads,Garlic Naan,1,0,"Garlic naan, a soft and leavened Indian bread cooked in a traditional tandoor, ... read more",100.0
+Breads,Cheese Naan,1,0,"Cheese naan, a soft and leavened Indian bread cooked in a traditional tandoor ... read more",100.0
+Breads,Cheese Garlic Naan,1,0,"Cheese garlic naan, a soft and leavened Indian bread cooked in a traditional ... read more",120.0
+Breads,Plain Chapati,1,0,"Plain chapati, a classic Indian unleavened flatbread made from whole wheat flour.",10.0
+Breads,Butter Chapati,1,0,"Butter chapati, a classic Indian flatbread made from whole wheat flour and generously ... read more",15.0
+Breads,Plain Paratha,1,0,"Plain Paratha, a traditional Indian flatbread made with whole wheat flour, rolled to ... read more",30.0
+Breads,Butter Paratha,1,0,"Butter paratha, a classic Indian flatbread made with whole wheat flour, generously layered ... read more",35.0
+Breads,Lachha Paratha,1,0,"Made with hand tossed lachas || Images used are for representation purposes only, ... read more",40.0
+Breads,Mirchi Paratha,1,0,"Mirchi paratha, a fiery Indian flatbread crafted with whole wheat flour and infused ... read more",40.0
+Breads,Masala Paratha,1,0,Paratha with added masala into it,40.0
+Breads,Aloo Paratha,1,0,Served with pickle.,60.0
+Breads,Aloo Onion Paratha,1,0,Served with pickle.,70.0
+Breads,Onion Paratha,1,0,Served with pickle.,70.0
+Breads,Paneer Paratha,1,0,Served with pickle.,80.0
+Breads,Gobi Paratha,1,0,Served with pickle.,80.0
+Breads,Cheese Paratha,1,0,Served with pickle.,80.0
+Breads,Mix Veg Paratha,1,0,Served with pickle.,80.0
+Breads,Aloo Gobi Paratha,1,0,Served with pickle.,80.0
+Breads,Cheese Paneer Paratha,1,0,Served with pickle.,90.0
+Breads,Special Punjabi Dhaba Paratha,1,0,Served with pickle.,90.0
+Maggi,Plain Maggi,1,0,"Plain maggi, a quick and comforting dish featuring boiled maggi noodles tossed with ... read more",50.0
+Maggi,Masala Maggi,1,0,"Maggi with magic spices || Images used are for representation purposes only, and ... read more",60.0
+Maggi,Veg Maggi,1,0,Maggi with veggies and spices,70.0
+Maggi,Double Masala Maggi,1,0,"Double masala maggi, where the classic noodles are generously seasoned with an extra ... read more",70.0
+Maggi,Cheese Maggi,1,0,Maggi with cheese toppings,90.0
+Maggi,Veg Cheese Maggi,1,0,Maggi with veggies and cheese toppings.,110.0
+Accompaniments,Dahi,1,0,It is a versatile and refreshing dairy product made by fermenting milk with ... read more,50.0
+Accompaniments,Masala Dahi,1,0,"Masala dahi, where creamy yogurt is infused with a medley of aromatic spices.",60.0
+Accompaniments,Sweet Dahi,1,0,"Sweet dahi, where creamy yogurt is delicately sweetened for a delightful and refreshing ... read more",60.0
+Accompaniments,Boondi Raita,1,0,"Boondi raita, where fluffy and crispy chickpea flour pearls [boondi] are delicately mixed ... read more",70.0
+Accompaniments,Onion Raita,1,0,"Onion raita, where finely chopped onions are blended into cool and creamy yogurt, ... read more",80.0
+Accompaniments,Mixed Veg Raita,1,0,"Mix veg raita, where a variety of finely chopped vegetables are harmoniously blended ... read more",90.0
+Accompaniments,Roasted Papad,1,0,"Roasted papad, a traditional Indian appetizer made from seasoned lentil or gram flour ... read more",40.0
+Accompaniments,Fried Papad,1,0,Immerse yourself in the satisfying crunch and rich flavors.,50.0
+Accompaniments,Masala Papad,1,0,Masala papad topped with mixed veggies.,70.0
+Accompaniments,Buttermilk,1,0,"Buttermilk, a refreshing and tangy beverage made by churning yogurt and diluting it ... read more",40.0
+Accompaniments,Double Masala Buttermilk,1,0,"Double masala buttermilk, where traditional buttermilk is enhanced with an extra burst of ... read more",50.0
+Kuch Khane ke Saath Hojaye,Rasgulla [2 Pieces] with Roasted Papad [1 Piece] and 1 Buttermilk,1,0,Rasgulla [2 Pieces] with roasted papad and 1 buttermilk.,120.0
+Kuch Khane ke Saath Hojaye,Gulab Jamun [2 Pieces] with Roasted Papad [1 Piece] and 1 Buttermilk,1,0,Gulab jamun [2 Pieces] with roasted Papad and 1 buttermilk.,130.0

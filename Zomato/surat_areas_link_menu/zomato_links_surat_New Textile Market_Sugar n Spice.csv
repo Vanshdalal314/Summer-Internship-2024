@@ -1,0 +1,81 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,1 Veg Pizza + 1 French Fries + 1 Soft Drink,1,0,Veg Pizza [7 inches]+ French Fries + Coke [200 ml],265.0
+Combos,1 Veg Burger + 1 French Fries + 1 Soft Drink,1,0,Veg Burger + French fries + Coke [200 ml],230.0
+Combos,Veg Sandwich with 1 French Fries and Strawberry Milkshake,1,0,1 Veg Sandwich+1 French Fries+1 Strawberry Milkshake,300.0
+Combos,Fried Rice with Manchurian and Veg Lollipop,1,0,Fried Rice+Manchurian+Veg Lollipop,355.0
+Combos,Hakka Noodles with Manchurian and Spring Roll,1,0,,355.0
+Combos,Fried Rice with Manchurian and Paneer Chilli,1,0,,390.0
+Combos,Hakka Noodles with Manchurian and Mushroom Schezwan,1,0,,390.0
+Chinese,Veg Lollipop,1,0,,300.0
+Chinese,Dragon Potato,1,0,,270.0
+Chinese,Chilli Garlic Mushroom,1,0,,330.0
+Chinese,Paneer Red Cook,1,0,,330.0
+Chinese,Baby Corn Mushroom,1,0,,330.0
+Chinese,Veg Manchurian,1,0,,270.0
+Chinese,Paneer Chilli,1,0,,330.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,270.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,300.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,240.0
+Fried Rice and Noodles,Veg Schezwan Hakka Noodles,1,0,,270.0
+Snacks,Veg Spring Roll,1,0,,270.0
+Snacks,Garlic Bread,1,0,Bread [4 slices] baked in garlic butter.,180.0
+Snacks,Cheese Garlic Bread,1,0,,215.0
+Snacks,Salted French Fries [Regular],1,0,,155.0
+Snacks,Chilli Cheese Garlic Bread,1,0,"Bread [4 slices] baked in garlic, butter, green chillies and cheese.",215.0
+Snacks,Supreme Garlic Bread,1,0,,240.0
+Pizza,Margherita Pizza,1,0,,170.0
+Pizza,Double Cheese Margherita Pizza,1,0,,215.0
+Pizza,Corn & Cheese Pizza,1,0,,215.0
+Pizza,Garden Fresh Pizza,1,0,"Onion, tomato and capsicum.",215.0
+Pizza,Corn Delight Pizza,1,0,,215.0
+Pizza,Farm Villa Pizza,1,0,"Onion, tomato, capsicum, sweet corn, olives and red paprika.",215.0
+Pizza,Mexicano Pizza,1,0,,215.0
+Pizza,Mushroom Mania Pizza,1,0,"Mushroom, onion and olives.",240.0
+Pizza,Fungi Special Pizza,1,0,"Double mushroom, onion, capsicum and jalapenos.",270.0
+Pizza,Tandoori Paneer Pizza,1,0,,270.0
+Pizza,Paneer Lovers Pizza,1,0,,280.0
+Pizza,Special Jalapeno Cheese Pizza,1,0,"Onion, capsicum, paneer, jalapeno and cheesy mayo sauce.",280.0
+Pizza,Veg Supreme Pizza,1,0,"Onion, tomato, capsicum, mushroom, corn, olives, jalapeno and red paprika.",280.0
+Burgers and Sandwiches,Veg Burger,1,0,,105.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,145.0
+Burgers and Sandwiches,Coleslaw Sandwich,1,0,Non grilled.,120.0
+Burgers and Sandwiches,Vegetable Cheese Sandwich,1,0,,155.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,75.0
+Burgers and Sandwiches,Double Decker Grilled Sandwich,1,0,Double decker grilled sandwich.,240.0
+Burgers and Sandwiches,Vegetable Grilled Sandwich,1,0,,190.0
+South Indian,Plain Dosa,1,0,,115.0
+South Indian,Spicy Crispy Dosa,1,0,,125.0
+South Indian,Onion Dosa,1,0,,125.0
+South Indian,Masala Dosa,1,0,,150.0
+South Indian,Spring Dosa,1,0,,150.0
+South Indian,Spring Cheese Dosa,1,0,,190.0
+South Indian,Cheese Dosa,1,0,,180.0
+South Indian,Mysore Sada Dosa,1,0,,150.0
+South Indian,Mysore Masala Dosa,1,0,,190.0
+South Indian,Cheese Mysore Masala Dosa,1,0,,240.0
+South Indian,Pizza Dosa,1,0,,270.0
+South Indian,Rava Dosa,1,0,,165.0
+South Indian,Rava Masala Dosa,1,0,,205.0
+South Indian,Onion Uttapam,1,0,,180.0
+South Indian,Tomato Onion Uttapam,1,0,,180.0
+South Indian,Veg Cheese Uttapam,1,0,,215.0
+Soups,Tomato and Basil Soup,1,0,,145.0
+Soups,Manchow Soup,1,0,A fresh broth of garlic and chillies topped with fried noodles.,165.0
+Soups,Hot and Sour Soup,1,0,,165.0
+Soups,Sweet Corn Soup,1,0,A mildly spiced all time favourite corn soup.,165.0
+Soups,Lemon and Coriander Soup,1,0,"A tangy soup made from herb, vegetable stock and lemon coriander.",165.0
+Soups,Minestrone Soup,1,0,,190.0
+Drinks (Beverages),Plain Buttermilk,1,0,,60.0
+Drinks (Beverages),Masala Buttermilk,1,0,,60.0
+Drinks (Beverages),Plain Lassi,1,0,,95.0
+Drinks (Beverages),Sweet Lassi,1,0,,95.0
+Drinks (Beverages),Salted Lassi,1,0,,95.0
+Drinks (Beverages),Litchi Lassi,1,0,,120.0
+Drinks (Beverages),Mango Lassi,1,0,,120.0
+Drinks (Beverages),Strawberry Lassi,1,0,,120.0
+Drinks (Beverages),Litchi Milkshake,1,0,,145.0
+Drinks (Beverages),Mango Milkshake,1,0,,145.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,145.0
+Drinks (Beverages),Strawberry Mango Milkshake,1,0,,145.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,145.0
+Drinks (Beverages),Cold Coffee,1,0,,120.0

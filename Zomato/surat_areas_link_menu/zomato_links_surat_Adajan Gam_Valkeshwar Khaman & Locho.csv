@@ -1,0 +1,8 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Khaman,Sada Khaman,1,0,,50.0
+Farsan,Sadi Papdi,1,0,Pure besan 0% maida.,130.0
+Farsan,Gathiya,1,0,Pure besan 0% maida.,130.0
+Farsan,Bhavnagri Gathiya,1,0,Pure besan 0% maida.,130.0
+Farsan,Mixed Chavanu,1,0,,130.0
+Farsan,Tikha Gathiya,1,0,Pure besan 0% maida.,130.0
+Farsan,Tikki Masala Papdi,1,0,Pure besan 0% maida.,130.0

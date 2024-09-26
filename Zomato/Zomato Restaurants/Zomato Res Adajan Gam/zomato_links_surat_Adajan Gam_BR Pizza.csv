@@ -1,0 +1,108 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Veg Cheese Pizza,1,0,,170.0
+Pizza,Jain Cheese Pizza,1,0,,180.0
+Pizza,Only Cheese Pizza,1,0,,190.0
+Pizza,Stuffed Pizza,1,0,,190.0
+Pizza,Onion Capsicum Pizza,1,0,,190.0
+Pizza,Italian Pizza,1,0,,200.0
+Pizza,Indian Touch Pizza,1,0,,180.0
+Pizza,Italian Puff Paneer Pizza,1,0,,190.0
+Pizza,Bombay Shop Pizza,1,0,Toping of Grated paneer with other toppings.,190.0
+Pizza,Special Paneer Pizza,1,0,,210.0
+Pizza,Indian Festival Pizza,1,0,,210.0
+Pizza,BR Special Pizza,1,0,[chef's Special],220.0
+Pizza,Mozzarella Veg Cheese Pizza,1,0,,190.0
+Pizza,Mozzarella Italian Pizza,1,0,,210.0
+Pizza,Mozzarella Marged Pizza,1,0,,210.0
+Pizza,Mozzarella Mushroom Pizza,1,0,,220.0
+Pizza,Mozzarella American Pizza,1,0,,220.0
+Pizza,Mozzarella Paneer Tandoori Pizza,1,0,,230.0
+Burgers,Veg Burger,1,0,,50.0
+Burgers,Italian Burger,1,0,,80.0
+Burgers,Italian Cheese Burger,1,0,,100.0
+Burgers,Veg Cheese Burger,1,0,Freshly baked buns layered with cheese and filled with veg patties.,100.0
+Burgers,Paneer Tikki Burger,1,0,,120.0
+Burgers,BR Special Cheese Burger,1,0,,120.0
+Sandwiches,Italian Grilled Sandwich,1,0,,170.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,"Hearty sandwich stuffed generously with assorted seasoned vegetables, cheese and grilled to perfection.",180.0
+Sandwiches,Pure Jain Grilled Sandwich,1,0,,180.0
+Sandwiches,Mushroom Cheese Grilled Sandwich,1,0,,190.0
+Sandwiches,Cheese Grilled Sandwich,1,0,,190.0
+Sandwiches,Paneer Cheese Grilled Sandwich,1,0,,200.0
+Sandwiches,Mixed Veg Grilled Sandwich,1,0,,220.0
+Sandwiches,Bread Butter Sandwich,1,0,,20.0
+Sandwiches,Bread Butter Chutney Sandwich,1,0,,20.0
+Sandwiches,Veg Sandwich,1,0,,50.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,50.0
+Sandwiches,Double Decker Sandwich,1,0,,70.0
+Sandwiches,Veg Cheese Sandwich,1,0,A non-grilled sandwich stuffed with crunchy vegetables loads of cheese. | Item can't ... read more,80.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,90.0
+Sandwiches,Bread Butter Cheese Jam Sandwich,1,0,,90.0
+Sandwiches,Double Decker Cheese Sandwich,1,0,,100.0
+Sandwiches,Bread Butter Cheese Chutney Sandwich,1,0,,100.0
+Sandwiches,Cutlet Cheese Sandwich,1,0,,120.0
+Sandwiches,3 in One Cheese Sandwich,1,0,,160.0
+Sandwiches,Juicy Sandwich,1,0,,160.0
+Sandwiches,Bread Butter Toast Sandwich,1,0,,60.0
+Sandwiches,Veg Toast Sandwich,1,0,,80.0
+Sandwiches,Masala Toast Sandwich,1,0,,80.0
+Sandwiches,Aloo Matar Toast Sandwich,1,0,,80.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,100.0
+Sandwiches,Masala Cheese Toast Sandwich,1,0,,100.0
+Sandwiches,Aloo Matar Cheese Toast Sandwich,1,0,,100.0
+Sandwiches,Garlic Toast Sandwich,1,0,,100.0
+Sandwiches,Bread Butter Cheese Toast with Chutney Sandwich,1,0,,100.0
+Sandwiches,Club Cheese Toast Sandwich,1,0,,120.0
+Sandwiches,Russian Garlic Toast Sandwich,1,0,,120.0
+Sandwiches,3 in One Club Cheese Toast Sandwich,1,0,,160.0
+BR Rainbow Grilled Sandwiches,Cutlet Cheese Grilled Sandwich,1,0,,180.0
+BR Rainbow Grilled Sandwiches,Kashmiri Grilled Sweet Sandwich,1,0,,190.0
+BR Rainbow Grilled Sandwiches,Paneer Chilly Grilled Sandwich,1,0,,190.0
+BR Rainbow Grilled Sandwiches,American Cheese Grilled Sandwich,1,0,,210.0
+BR Rainbow Grilled Sandwiches,Bombay Sub Grilled Sandwich,1,0,,210.0
+BR Rainbow Grilled Sandwiches,BR Special Coating Grilled Sandwich,1,0,,220.0
+BR Rainbow Grilled Sandwiches,BR Special Grilled Sandwich,1,0,,220.0
+Garlic Breads,Garlic Bread [4 Pieces],1,0,,150.0
+Garlic Breads,Cheese Chilly Garlic Bread,1,0,,150.0
+Garlic Breads,Pizza Garlic Bread Toast,1,0,,160.0
+Garlic Breads,Paneer Garlic Bread,1,0,,190.0
+Garlic Breads,American Garlic Bread,1,0,Garlic bread baked to perfection and goes perfect with pizza and cola.,190.0
+Garlic Breads,Italian Garlic Bread,1,0,,190.0
+Garlic Breads,Special Bombay Garlic Bread,1,0,,210.0
+Garlic Breads,Special Tandoori Garlic Bread,1,0,,210.0
+Garlic Breads,BR Special Garlic Bread,1,0,,220.0
+Kulcha,Pizza Kulcha,1,0,Pizza kulcha is leavened Indian flatbread stuffed with spicy pizza spices.,180.0
+Kulcha,Veg Cheese Kulcha,1,0,,160.0
+Kulcha,Jain Kulcha,1,0,,160.0
+Kulcha,Mayonnaise Kulcha,1,0,,170.0
+Kulcha,Paneer Masti Kulcha,1,0,,200.0
+Kulcha,Tandoori Paneer Kulcha,1,0,,200.0
+Kulcha,Love Bite Kulcha,1,0,,200.0
+Kulcha,Paneer Afghani Kulcha,1,0,,200.0
+Kulcha,Italian Kulcha,1,0,,190.0
+Kulcha,American Kulcha,1,0,,200.0
+Kulcha,Paneer Kulcha,1,0,,200.0
+Kulcha,Sweet Corn Kulcha,1,0,,190.0
+Kulcha,Jain Paneer Kulcha,1,0,,200.0
+Kulcha,Coating Kulcha,1,0,,200.0
+Kulcha,Special BR Kulcha,1,0,[Chef's Special],220.0
+Hotdogs,Veg Hot Dog,1,0,,90.0
+Hotdogs,Veg Garlic,1,0,,90.0
+Hotdogs,Mushroom Hot Dog,1,0,,90.0
+Hotdogs,Italian Hot Dog,1,0,,100.0
+Hotdogs,Veg Cheese Hot Dog,1,0,,110.0
+Hotdogs,Cheese Garlic Hot Dog,1,0,,110.0
+Hotdogs,Mushroom Cheese Hot Dog,1,0,,130.0
+Hotdogs,Italian Cheese Hot Dog,1,0,,130.0
+Hotdogs,Paneer Cheese Hot Dog,1,0,,130.0
+Footlong,Veg Cheese Foot Long,1,0,"Fresh foot long bread packed with this filling, topped with cheese, and baked ... read more",180.0
+Footlong,Paneer Chilly Foot Long,1,0,,200.0
+Footlong,Paneer Tandoori Foot Long,1,0,,200.0
+Footlong,Plain Cheese Foot Long,1,0,,200.0
+Footlong,Bombay Shop Foot Long,1,0,,210.0
+Footlong,American Foot Long,1,0,,210.0
+Footlong,Mushroom Foot Long,1,0,,210.0
+Footlong,Italian Cheese Foot Long,1,0,,210.0
+Footlong,Masti Paneer Foot Long,1,0,,220.0
+Footlong,Manchurian with Paneer Foot Long,1,0,,220.0
+Footlong,BR Special Foot Long,1,0,[chef's Special],230.0

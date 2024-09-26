@@ -1,0 +1,4 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Chicken Biryani,0,0,,180.0
+Biryani,Chicken Kushka,0,0,Biryani rice.,90.0
+Starter,Chilli Chicken [250 grams],0,0,,150.0

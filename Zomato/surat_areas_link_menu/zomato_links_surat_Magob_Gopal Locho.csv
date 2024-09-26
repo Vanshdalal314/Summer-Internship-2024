@@ -1,0 +1,20 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Locho,Oil Locho,1,0,,100.0
+Locho,Butter Locho,1,0,,140.0
+Locho,Cheese Butter Locho,1,0,,160.0
+Locho,Lasaniya Locho [1 Plate],1,0,,99.0
+Locho,Italian Locho [1 Plate],1,0,,110.0
+Locho,Chinese Locho [1 Plate],1,0,,110.0
+Locho,Cassata Locho [1 Plate],1,0,,110.0
+Locho,Cream and Onion Locho [1 Plate],1,0,,110.0
+Locho,Cheese Tandoori Locho [1 Plate],1,0,,110.0
+Locho,Lemon Spice Locho,1,0,,150.0
+Locho,Black Pepper Locho,1,0,,160.0
+Locho,Peri Peri Locho,1,0,,160.0
+Locho,Red & Black Spicy Locho,1,0,,150.0
+Khaman,Sev Khaman,1,0,,70.0
+Khamani,Sev Khamani,1,0,,70.0
+Khamani,Cheese Khamani,1,0,,160.0
+Idada,Oil Idada,1,0,,70.0
+Idada,Cheese Butter Idada,1,0,,160.0
+Idada,Special Garlic Idada [1 Plate],1,0,,110.0

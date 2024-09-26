@@ -1,0 +1,61 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Creams,Creamy Vanilla Ice Cream,1,0,,40.0
+Ice Creams,Shahi Gulab Ice Cream,1,0,,60.0
+Ice Creams,Kaju Draksh Ice Cream,1,0,,60.0
+Ice Creams,Kesar Pista Ice Cream,1,0,Sugarfree.,60.0
+Ice Creams,American Dry Fruit Ice Cream,1,0,,60.0
+Ice Creams,Winter Cream Ice Cream,1,0,,60.0
+Ice Creams,Rajbhog Ice Cream,1,0,,60.0
+Ice Creams,Panchamrut Ice Cream,1,0,,60.0
+Ice Creams,Badam Cadbury Ice Cream,1,0,,60.0
+Ice Creams,Leeche Ice Cream,1,0,,65.0
+Faloodas,Rose Falooda,1,0,,110.0
+Faloodas,Rajwadi Falooda,1,0,,120.0
+Faloodas,Kesar Pista Falooda,1,0,,110.0
+Faloodas,Badam Pista Falooda,1,0,,110.0
+Faloodas,Chocolate Falooda,1,0,,110.0
+Lassi,Lassi,1,0,,70.0
+Lassi,Mango Lassi,1,0,,80.0
+Lassi,Strawberry Lassi,1,0,,80.0
+Lassi,Lassi with Ice Cream,1,0,,85.0
+Lassi,Kaju Lassi,1,0,,95.0
+Lassi,Manmohak Special Lassi,1,0,[Chef's Special],120.0
+Cold Coco,Coco,1,0,,70.0
+Cold Coco,Cadbury Coco,1,0,,80.0
+Cold Coco,Coco with Ice Cream,1,0,,85.0
+Cold Coco,Kaju Coco,1,0,,95.0
+Cold Coco,Kaju Cadbury Coco,1,0,,100.0
+Cold Coco,Special Manmohak Coco,1,0,[Chef's Special],120.0
+Cold Coco,"Coco [1 litre, serves 4]",1,0,,240.0
+Milkshakes,Gulkand Milkshake,1,0,,95.0
+Milkshakes,Oreo Milkshake,1,0,,100.0
+Milkshakes,Kaju Anjeer Milkshake,1,0,,145.0
+Milkshakes,Kaju Badam Milkshake,1,0,,145.0
+Milkshakes,Kaju Badam Anjeer Milkshake,1,0,,150.0
+Flavored Milk,Rose Flavored Milk,1,0,,60.0
+Flavored Milk,Mango Flavored Milk,1,0,,60.0
+Flavored Milk,Badam Pista Flavored Milk,1,0,,60.0
+Flavored Milk,Pineapple Flavoured Milk,1,0,,60.0
+Sundae,Strawberry Sundae,1,0,2 Strawberry scoops topped with dry fruits and jelly.,100.0
+Sundae,Pineapple Sundae,1,0,2 Pineapple scoops topped with dry fruits and jelly.,100.0
+Sundae,Chocolate Strawberry Sundae,1,0,Chocolate and strawberry scoops topped with black currant and strawberry pulp.,100.0
+Sundae,Chocolate Coin Sundae,1,0,"2 Chocolate scoops topped with chocolate chips, dry fruits and jelly.",100.0
+Sundae,Chocolate Siphon Sundae,1,0,"3 Vanilla scoops topped with chocolate syrup, dry fruits and jelly.",180.0
+Sundae,Titanic Sundae,1,0,"Rajbhog, panchamrut and vanilla scoops topped with mango and strawberry pulp, dry fruits, ... read more",180.0
+Gotala,Classic Gotala,1,0,"Chocolate, winter cream and vanilla scoops topped with chocolate and strawberry pulp, dry ... read more",120.0
+Gotala,Premium Gotala,1,0,"Mava malai, golden bite and vanilla scoops topped with pineapple and strawberry pulp, ... read more",120.0
+Gotala,Traditional Gotala,1,0,"Rajbhog, panchamrut and vanilla scoops topped with black currant and strawberry pulp, dry ... read more",120.0
+Thick Shakes,Vanilla Thick Shake,1,0,,100.0
+Thick Shakes,Kesar Elaichi Thick Shake,1,0,,100.0
+Thick Shakes,Strawberry Blast Thick Shake,1,0,,100.0
+Thick Shakes,Pineapple Thick Shake,1,0,,100.0
+Thick Shakes,Blackcurrant Thick Shake,1,0,,100.0
+Thick Shakes,Coffee Thick Shake,1,0,,100.0
+Thick Shakes,Chocolate Chips Thick Shake,1,0,,100.0
+Thick Shakes,Shahi Gulab Thick Shake,1,0,,100.0
+Thick Shakes,Anjeer Thick Shake,1,0,,100.0
+Thick Shakes,Oreo Thick Shake,1,0,,110.0
+Thick Shakes,Gulkand Thick Shake,1,0,,100.0
+Thick Shakes,Kaju Anjeer Thick Shake,1,0,,145.0
+Thick Shakes,Kaju Badam Thick Shake,1,0,,145.0
+Thick Shakes,Kaju Chocolate Thick Shake,1,0,,145.0

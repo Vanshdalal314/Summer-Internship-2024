@@ -1,0 +1,46 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Veg Manchow Soup,1,0,,75.0
+Soups,Veg Hot and Sour Soup,1,0,,75.0
+Soups,Veg Lemon Soup,1,0,,75.0
+Soups,Chicken Manchow Soup,0,0,,110.0
+Soups,Chicken Hot and Sour Soup,0,0,,110.0
+Soups,Chicken Green Soup,0,0,,110.0
+Soups,Chicken Clear Soup,0,0,,110.0
+Soups,Chicken Lemon Soup,0,0,,110.0
+Soups,Special Barbecue Chicken Soup,0,0,,120.0
+Starters,Chicken Manchurian,0,0,,210.0
+Starters,Chicken Chilli,0,0,,225.0
+Starters,Dragon Chicken,0,0,,240.0
+Starters,Chicken 829,0,0,,250.0
+Starters,Chicken Tai Pai,0,0,,250.0
+Starters,Chicken Kurkure,0,0,,260.0
+Starters,Bullet Chicken,0,0,,350.0
+Starters,Chicken Crispy,0,0,,275.0
+Starters,Chicken Reshmi,0,0,,275.0
+Starters,Rose Garden,0,0,,250.0
+Starters,Jiz Kurkure,0,0,,275.0
+Starters,Special Barbecue,0,0,,300.0
+Starters,Oyster Chilli,0,0,,240.0
+Starters,Prawns Chilli,0,0,,290.0
+Biryani,Chicken Kabsa Rice,0,0,,250.0
+Fried Rice and Noodles,Veg Manchurian Fried Rice,1,0,,125.0
+Fried Rice and Noodles,Veg Triple Fried Rice,1,0,,180.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,125.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Veg Singapuri Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,175.0
+Fried Rice and Noodles,Chicken Singapuri Fried Rice,0,0,,185.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,,185.0
+Fried Rice and Noodles,Chicken Triple Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Chicken Chappad Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Chicken Garden Fried Rice,0,0,,250.0
+Fried Rice and Noodles,Chicken Crispy Fried Rice,0,0,,210.0
+Fried Rice and Noodles,Chicken Dragon Fried Rice,0,0,,210.0
+Fried Rice and Noodles,Chicken Chilli Fried Rice,0,0,,275.0
+Fried Rice and Noodles,Chicken Korean Fried Rice,0,0,,225.0
+Fried Rice and Noodles,Chicken Hakka Noodles,0,0,,150.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,,150.0
+Fried Rice and Noodles,Chicken Singapuri Noodles,0,0,,150.0
+Fried Rice and Noodles,Chicken Triple Noodles,0,0,,250.0
+Fried Rice and Noodles,Chicken American Chopsuey,0,0,,275.0
+Snack,Chicken Bhel,0,0,,250.0

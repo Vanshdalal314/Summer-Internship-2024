@@ -1,0 +1,6 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dabeli,Regular Dabeli,1,0,,25.0
+Dabeli,Amul Butter Dabeli,1,0,,35.0
+Dabeli,Cheese Dabeli,1,0,,40.0
+Dabeli,Dabeli Tukda,1,0,,45.0
+Dabeli,Jain Dabeli,1,0,,25.0

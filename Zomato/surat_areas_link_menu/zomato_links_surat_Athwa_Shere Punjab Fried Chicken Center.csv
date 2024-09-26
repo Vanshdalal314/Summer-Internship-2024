@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken Tandoori Fried,0,0,,320.0
+Starters,Chicken Lollipop Fried,0,0,,320.0
+Starters,Chicken Kaleji Fried,0,0,,190.0
+Starters,Chicken Fried Leg,0,0,,330.0
+Starters,Chicken Fried Breast,0,0,,330.0
+Main Course,Chicken Curry Masala,0,0,,175.0
+Main Course,Boneless Chicken Tikka Masala,0,0,,400.0
+Main Course,Butter Chicken Curry Masala,0,0,,420.0
+Main Course,Lemon Chicken Curry Masala in Butter,0,0,,420.0
+Main Course,Kali Mirch Chicken Masala in Butter,0,0,,420.0
+Main Course,Boneless Chicken Butter Tikka Masala,0,0,,480.0
+Main Course,Boneless Lemon Chicken Tikka Masala,0,0,,480.0
+Main Course,Boneless Kali Mirch Chicken Tikka Masala,0,0,,480.0
+Breads,Plain Chapati,1,0,,10.0
+Rice,Rice with Gravy,0,0,,100.0
+Snacks,Pav [2 Pieces],1,0,,10.0

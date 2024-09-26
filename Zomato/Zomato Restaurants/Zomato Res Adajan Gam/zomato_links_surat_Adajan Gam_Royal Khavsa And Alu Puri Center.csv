@@ -1,0 +1,7 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Khawsa And Aloo Poori,Veg Khawsa,1,0,,60.0
+Khawsa And Aloo Poori,Veg Fry Noodles Khawsa,1,0,,70.0
+Khawsa And Aloo Poori,Cheese Khawsa,1,0,,80.0
+Khawsa And Aloo Poori,Sadi Aloo Poori,1,0,,25.0
+Khawsa And Aloo Poori,Cutlet Aloo Poori,1,0,,35.0
+Khawsa And Aloo Poori,Cheese Aloo Poori,1,0,,70.0

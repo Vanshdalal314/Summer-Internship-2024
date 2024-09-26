@@ -1,0 +1,194 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Create Your Own,1 Scoop & 3 Toppings,1,0,,208.0
+Create Your Own,2 Scoops & 4 Toppings,1,0,,278.0
+Scoops - Regular,Chikku,1,0,,84.0
+Scoops - Regular,Rich Pineapple,1,0,,84.0
+Scoops - Regular,Sweet Cream Scoop,1,0,,69.0
+Scoops - Classique,Butterscotch Scoop,1,0,,104.0
+Scoops - Classique,Chocolate Scoop,1,0,,104.0
+Scoops - Classique,Cookie Dough Scoop,1,0,,104.0
+Scoops - Classique,Cotton Candy Scoop,1,0,,104.0
+Scoops - Classique,Hazelnut Scoop,1,0,,104.0
+Scoops - Classique,Horlicks Scoop,1,0,,104.0
+Scoops - Classique,Kesar Pista Scoop,1,0,,104.0
+Scoops - Classique,Kulfi Scoop,1,0,,104.0
+Scoops - Classique,Peanut Butter Scoop,1,0,,104.0
+Scoops - Classique,Popcorn Scoop,1,0,,104.0
+Scoops - Natural Fruit,Banana Scoop,1,0,,104.0
+Scoops - Natural Fruit,Blackcurrant Scoop,1,0,,104.0
+Scoops - Natural Fruit,Fig & Honey Scoop,1,0,,104.0
+Scoops - Natural Fruit,Jackfruit Scoop,1,0,,104.0
+Scoops - Natural Fruit,Litchi Scoop,1,0,,104.0
+Scoops - Natural Fruit,Mango Scoop,1,0,,104.0
+Scoops - Natural Fruit,Pink Guava Scoop,1,0,,104.0
+Scoops - Natural Fruit,Raspberry Scoop,1,0,,104.0
+Scoops - Natural Fruit,Strawberry Scoop,1,0,,104.0
+Scoops - Natural Fruit,Tender Coconut Scoop,1,0,,104.0
+Scoops - Royal,Bubble Gum Scoop,1,0,,115.0
+Scoops - Royal,Coffee Scoop,1,0,,115.0
+Scoops - Royal,French Vanilla Scoop,1,0,,115.0
+Scoops - Royal,Mint Scoop,1,0,,115.0
+Scoops - Royal,Ruum-N-Raisin Scoop,1,0,(Veg Preparation),115.0
+Scoops - Royal,Swiss Chocolate Scoop,1,0,,115.0
+Scoops - Royal,Tiramisu Scoop,1,0,,115.0
+Scoops - Royal,Toffee Caramel Scoop,1,0,,115.0
+Classique Creation,Apple Crumble,1,0,"Sweet Cream Ice Cream, Cookie Crumbs, Apple Pie Falling, Cinnamon Powder And Caramel ... read more",146.0
+Classique Creation,Banana Chocolate Fudge,1,0,"French Vanilla Ice Cream, Roasted Almonds, Bananas And Chocolate Fudge.",146.0
+Classique Creation,Birthday Treat,1,0,"Cookie Dough Ice Cream, Brownies, Rainbow Sprinkles And Chocolate Fudge.",146.0
+Classique Creation,Chocolate Lovers,1,0,"Chocolate Ice Cream, Dark Chocolate Chip, Browine And Chocolate Fudge.",146.0
+Classique Creation,Coffee Break,1,0,"Coffee Ice Cream, Cookie Crumbs, Kitkat Bars And Caramel Fudge.",146.0
+Classique Creation,Mango Praline Sensation,1,0,"Mango Ice Cream, French Vanilla Ice Cream, Mango Cubes And Parline.",146.0
+Classique Creation,Nuttie Kesariya,1,0,"Kesar Pista Ice Cream, Tutti Frutti, Roasted Almonds, Cashewnut And Kesar Pista Sauce.",146.0
+Classique Creation,Oreo Cream & Fudge,1,0,"Sweet Cream Ice Cream, Dark Chocolate Chips Oreo Cookies And Chocolate Fudge.",146.0
+Classique Creation,Rocky Road,1,0,"Chocolate Ice Cream, Roasted Almond, Hazelnut And Chocolate Fudge.",146.0
+Marble Creation,Banoffy Toffy,1,0,"Chocolate Ice Cream, Banana Ice Cream, Bananas, Dark Chocolate Chips And Caramel Fudge.",166.0
+Marble Creation,Cafe Au Lait,1,0,"Coffee Ice Cream, Sweet Cream Ice Cream, Nutties, Whipped Cream And Coco Powder.",166.0
+Marble Creation,Choco Strawberry Heaven,1,0,"Chocolate Ice Cream, Strawberry Ice Cream, Strawberry Pie Filling And Dark Chocolate Chips.",166.0
+Marble Creation,Chocolate Truffle Sensation,1,0,"Chocolate Ice Cream, Cookie Dough Ice Cream, Ferrero Rocher Chocolate And Hazelnuts.",166.0
+Marble Creation,Crumble Caramel,1,0,,166.0
+Marble Creation,Mocha Fudge Temptation,1,0,"Chocolate Ice Cream, Coffee Ice Cream, Brownies And Chocolate Fudge.",166.0
+Royal Creation,Black Forest,1,0,"Chocolate Ice Cream, Cherry Pie Filling, Brownie And Chocolate Fudge.",184.0
+Royal Creation,Butterscotch Praline Crunch,1,0,"Butterscotch Ice Cream, Parlines, Cadbury Nutties And Caramel Sauce.",184.0
+Royal Creation,Candy Blast,1,0,"Cotton Candy Ice Cream, Brownie, Oreo, Chocolate Fudge, Rainbow Colour Balls.",184.0
+Royal Creation,Cookie Dream,1,0,"French Vanilla Ice Cream, Dark Chocolate Chips, Chocolate Chip Cookies, Caramel Fudge And ... read more",184.0
+Royal Creation,Expresso Cookie Mix,1,0,"Coffee Ice Cream, Roasted Almonds, Oreo Cookies And Caramel Fudge.",184.0
+Royal Creation,Hazelnut Nutella,1,0,"Hazelnut Ice Cream, Hazelnut Filling Hazelnut.",184.0
+Royal Creation,Mint Chocolate,1,0,"Mint Chocolate, Dark Chocolate Chips, Brownie And Chocolate Fudge.",184.0
+Royal Creation,Oreo Peanut Butter,1,0,"Peanut Butter Ice Cream, Roasted Almond, Oreo Cookie And Chocolate Fudge.",184.0
+Royal Creation,Ruum-N-Raisin,1,0,"(Veg Preparation) Rum And Raisin Ice Cream, Almond, Cashewnut, Raisin And Chocolate Fudge.",184.0
+Royal Creation,Strawberry Fantasy,1,0,"Strawberry Ice Cream, Cookie Crumbs, Strawberry Pie Filling, Roasted Almonds And Caramel Fudge.",184.0
+Royal Creation,Strawberry Shortcake,1,0,"French Vanilla Ice Cream, Strawberry Pie Filling, Vanilla Sponge Cake And Caramel ... read more",184.0
+Royal Creation,Tiramisu Lovers,1,0,"Tiramisu Ice Cream, Brownie. Oreo And Chocolate Fudge.",184.0
+Natural Fruit Creation,Berry Mojo,1,0,"Strawberry Ice Cream, French Vanilla Ice Cream, Fruit Cocktail And Kiwi Fruit.",184.0
+Natural Fruit Creation,Fruit Cocktaill,1,0,"French Vanilla Ice Cream, Mango Ice Cream, Fruit Cocktail, Litchi Fruit, Peach Fruit ... read more",184.0
+Natural Fruit Creation,Litchi Delight,1,0,"French Vanilla Ice Cream, Litchi Ice Cream, Strawberry Pie Filling And Litchi Fruit.",184.0
+Natural Fruit Creation,Peach Melba,1,0,"French Vanilla Ice Cream, Cookie Crumbs, Caramel Fudge, Blueberry Pie Falling, Peach Slices.",184.0
+Natural Fruit Creation,Whats Up Berry,1,0,"Strawberry Ice Cream, Cookie Crumbs, Strawberry Pie Falling, Bananas And White Chocolate Chips.",184.0
+Retail Pack,Butterscotch Tub,1,0,Serves -4.,295.0
+Retail Pack,Chocolate Tub,1,0,Serves -4.,295.0
+Retail Pack,Cookie Dough Tub,1,0,Serves -4.,295.0
+Retail Pack,French Vanilla Tub,1,0,Serves -4.,295.0
+Retail Pack,Kesar Pista,1,0,,295.0
+Retail Pack,Mango Tub,1,0,Serves -4.,295.0
+Retail Pack,Rasberry,1,0,,295.0
+Retail Pack,Strawberry Tub,1,0,Serves -4.,295.0
+Milkshake,Banana Milk Shake,1,0,,166.0
+Milkshake,Black Current Milk Shake,1,0,,166.0
+Milkshake,Bubblegum Milk Shake,1,0,,166.0
+Milkshake,Butterscotch Milk Shake,1,0,,166.0
+Milkshake,Caramel Milk Shake,1,0,,166.0
+Milkshake,Classic Chocolate Milk Shake,1,0,,166.0
+Milkshake,Coffee Milk Shake,1,0,,166.0
+Milkshake,Cookie Dough Milk Shake,1,0,,166.0
+Milkshake,Cotton Candy,1,0,,166.0
+Milkshake,Cracker Caramel Milkshake,1,0,,176.0
+Milkshake,Cracker Chocolate Milkshake,1,0,,176.0
+Milkshake,Fig & Honey Milk Shake,1,0,,166.0
+Milkshake,French Vanilla Milk Shake,1,0,,166.0
+Milkshake,Hazelnut Milk Shake,1,0,,166.0
+Milkshake,Horlicks Milkshake,1,0,,166.0
+Milkshake,Jackfruit Milk Shake,1,0,,166.0
+Milkshake,Kesar Pista Milk Shake,1,0,,166.0
+Milkshake,Kulfi Milk Shake,1,0,,166.0
+Milkshake,Litchi Milk Shake,1,0,,166.0
+Milkshake,Mango Milk Shake,1,0,,166.0
+Milkshake,Mint Milk Shake,1,0,,166.0
+Milkshake,Muskmelon Milkshake,1,0,,166.0
+Milkshake,Peanut Butter Milk Shake,1,0,,166.0
+Milkshake,Pink Guave Milk Shake,1,0,,166.0
+Milkshake,Rasberry Milk Shake,1,0,,166.0
+Milkshake,Ruum & Raisin Milk Shake,1,0,,166.0
+Milkshake,Strawberry Milk Shake,1,0,,166.0
+Milkshake,Sweetcream Milk Shake,1,0,,166.0
+Milkshake,Swiss Chocolate Milk Shake,1,0,,166.0
+Milkshake,Tender Coconut Milk Shake,1,0,,166.0
+Milkshake,Tiramisu Milk Shake,1,0,,166.0
+Blended Thickshake,Alphonso Mango,1,0,Alphanso Mango Ice Cream Blended With Fresh Milk,220.0
+Blended Thickshake,Belgian Blast,1,0,Rich Dark Chocolate Ice Cream Blended With Fresh Milk,220.0
+Blended Thickshake,Brownie Nutella,1,0,French Vanilla Ice Cream With Spongy Brownie Blende With Hazel Nut And Fresh ... read more,220.0
+Blended Thickshake,Butter Sctoch Praline Crunch,1,0,,220.0
+Blended Thickshake,Cappuccino Thick Shake,1,0,Strong Coffee Ice Cream Blended With Fresh Milk,220.0
+Blended Thickshake,Choco Strawberry Heaven,1,0,"Chocolate Ice Cream, Strawberry Ice Cream, Strawberry Pie Filling And Dark Chocolate Chips.",220.0
+Blended Thickshake,Crunchy Oreo Nutella,1,0,French Vanilla Ice Cream Blended With Hazel Nut Oreo Cookies In Fresh Milk,220.0
+Blended Thickshake,Kiddy Kitkat,1,0,,220.0
+Blended Thickshake,Litchi Madness,1,0,,220.0
+Ice Cream Cake,Butterscotch Blast Ice Cream Cake,1,0,Vanilla Spong Layerd With Butter Scotch Ice Cream And Praline,152.0
+Ice Cream Cake,Choco Strawberry,1,0,"Strawberry Ice Cream ,Vanilla Sponge ,Chocolae Sponge ,Chocolat Ice Cream With Chocolate Truffle",152.0
+Ice Cream Cake,Chocolate Triple Decker,1,0,Chocolate Sponge Loded With Cherry And Chocolate Ice Cream,152.0
+Ice Cream Cake,Coffee Cookie,1,0,Vanilla Sponge Layer With Coffee Ice Cream And Cooki Dough Ice Cream,152.0
+Ice Cream Cake,Mango Cracker,1,0,Vanilla Sponge Loaded With Alphanso Mango Ice Cream With Mango Jelly,152.0
+Ice Cream Cake,Strawberry Banana,1,0,"Vanilla Sponge , Strawberry Ice Cream Mixed With Banana Ice Cream",152.0
+Ice Cream Cake,White Forest Ice Cream Cake,1,0,Vanilla Sponge Loded French Vanilla Ice Cream Toped White Chocolate Flakes,152.0
+Cake & Pastries,Black Forest Pastry,1,0,,94.0
+Cake & Pastries,Butterscotch Pastry,1,0,,94.0
+Cake & Pastries,Chocolate Truffle Pastry,1,0,,94.0
+Cake & Pastries,Oreo Pastry,1,0,,94.0
+Cake & Pastries,White Forest Cake,1,0,,850.0
+Belgian Waffle,Apple Cream Chocolate,1,0,Red Velvet Waffle Filled With Apple Pie Filling And Coted White Chocolate,156.0
+Belgian Waffle,Banana Honey Waffle,1,0,,119.0
+Belgian Waffle,Belgian Chocolate,1,0,Chocolate Waffle Cotted With Milky Chocolate,135.0
+Belgian Waffle,Blueberry Cream Chocolate,1,0,Red Velvet Waffle Filled With Blueberry Pie Filling And Coted White Chocolate,156.0
+Belgian Waffle,Butter Honey Waffle,1,0,Orginal Waffle Toped With Butter And Honey,124.0
+Belgian Waffle,Coffee Waffle,1,0,Chocolate Waffle Cotted With Coffee Filling,129.0
+Belgian Waffle,Double Chocolate,1,0,"Chocolate Waffle ,Filled With Dark Chocolate And White Chocolate",135.0
+Belgian Waffle,Nutella Treat,1,0,Chocolate Waffle Filles With Hazel Nut Spread,162.0
+Belgian Waffle,Strawberry Cream Chocolate,1,0,Red Velvet Waffle Filled With Strawberry Pie Filling And Coted White Chocolate,156.0
+Belgian Waffle Ice Cream Sandwich,Butterscotch Praline Ice Cream Sandwich,1,0,"Crispy Waffle Filled Butter Scotch Ice Cream, Parlines, Cadbury Nutties And Caramel Sauce",178.0
+Belgian Waffle Ice Cream Sandwich,Death By Waffle Ice Cream Sandwich,1,0,,315.0
+Belgian Waffle Ice Cream Sandwich,Hazelnut Nutella Filling,1,0,"Crispy Waffle Filled With Hazelnut Ice Cream, Hazelnut Filling Dry Hazelnut",178.0
+Belgian Waffle Ice Cream Sandwich,Mango Praline Ice Cream Sandwich,1,0,Crispy Waffle Filled With Mango Ice Cream Mixed With Pralines And Mango Crush,178.0
+Belgian Waffle Ice Cream Sandwich,Oreo Cream And Fudge Ice Cream Sandwich,1,0,"Crispy Waffle Filled Sweet Ice-Cream,Dark Chocolate Chips, Oreo Cookies And Chocolate Fudge.",178.0
+Belgian Waffle Ice Cream Sandwich,Rocky Road Ice Cream Sandwich,1,0,Crispy Waffle Filled With Chocolate Ice Cream Mixed With Hazal Nut And Rosted ... read more,178.0
+Belgian Waffle Ice Cream Sandwich,Strawberry Fantasy Ice Cream Sandwich,1,0,"Crispy Waffle Filled With Strawberry Ice Cream, Cookie Crumbs,Strawberry Pie Filling, Roasted Almonds ... read more",178.0
+Belgian Waffle Full Ring,All Berry Waffle,1,0,,325.0
+Belgian Waffle Full Ring,Choco Almond Bite,1,0,,325.0
+Belgian Waffle Full Ring,Death By Waffle,1,0,,315.0
+Belgian Waffle Full Ring,Kids Treat,1,0,,325.0
+Belgian Waffle Full Ring,Red Velvet Oreo Brownie Waffle,1,0,,325.0
+Belgian Waffle Full Ring,Tripple Choco Waffle,1,0,,315.0
+Sundae,Banana Choco Break,1,0,"French Vanilla Ice Cream, French Vanilla Ice Cream, Fresh Banana Fruit, Roasted Almonds, ... read more",169.0
+Sundae,Butterscotch Caramel Nut,1,0,"2 Scoops Of Butterscotch Ice Cream, Topped With Caramel Fudge And Caramel Fudge ... read more",156.0
+Sundae,Candy Boy,1,0,Eat Up Your Dear Friend Candy Boy With Heart Full Of Cotton Candy ... read more,146.0
+Sundae,Caramel Popcorn Sundae,1,0,,179.0
+Sundae,Choco Burst,1,0,"Scoop Of Swiss Chocolate Ice Cream, Scoop Of Classic Chocolate Ice Cream, Scoop ... read more",220.0
+Sundae,Chocolate Popcorn Sundae,1,0,,179.0
+Sundae,Coffee Mocha,1,0,"Scoop Of Coffee Ice Cream, Topped With Cashew Nut And Chocolate Fudge.",156.0
+Sundae,Crispy Tower,1,0,"Scoop Of Coffee Ice Cream, Scoop Of Caramel Ice Cream, Layer Of Banana ... read more",209.0
+Sundae,Death By Chocolate,1,0,"2 Scoops Of French Vanilla Ice Cream, Layer Of Hot Brownie Topped With ... read more",220.0
+Sundae,Dry Fruit Sundae,1,0,"Kellogg'S Flakes, Chocolate Fudge, French Vanilla Ice Cream ,French Vanilla Ice Cream Roasted ... read more",188.0
+Sundae,Exotic Red Velvet Sundea,1,0,,169.0
+Sundae,Fig & Honey Dry Fruit Cream,1,0,"2 Scoops Of Fig And Honey Ice Cream, Topped With Roasted Almonds And ... read more",188.0
+Sundae,Fruit Paradise,1,0,"2 Scoops Of Strawberry Ice Cream, Scoop Of Mango Ice Ream, Layer Of ... read more",220.0
+Sundae,Gudbud,1,0,,250.0
+Sundae,Hazelnut Nutella Twist,1,0,"2 Scoops Of Hazelnut Ice Cream, Hazelnut Filling Hazelnut And Caramel Fudge.",198.0
+Sundae,Kulfi Sundae,1,0,"2 Scoops Of Kulfi Ice Cream, Layer Of Tutti Fruity, Topped With Almonds, ... read more",188.0
+Sundae,Luscious Litchi Crush,1,0,"2 Scoops Of Lychee Ice Cream, Layer Of Lychee Fruit With Lychee Crush, ... read more",229.0
+Sundae,Mocha Fudge Sundae,1,0,"Hot Brownie, Coffee Ice Cream, Hot Brownie, Swiss Chocolate Ice Cream, Roasted Almonds, ... read more",166.0
+Sundae,Muskmelon Punch Sundae,1,0,,189.0
+Sundae,Oreo Crunch,1,0,"2 Scoops Of Sweet Cream Ice Cream, Layer Of Oreo Cookie, Topped With ... read more",146.0
+Sundae,Pineapple Sundea,1,0,,178.0
+Sundae,Strawberry Fruit Cream,1,0,"Strawberry Ice Cream ,Fresh Strawberry Fruit/Pie Filling , Whipped Cream ,Strawberry Crush, White ... read more",169.0
+Sundae,Strawberry Vanilla Feast,1,0,"2 Scoops Of Strawberry Ice Cream, 1 Scoops Of French Vanilla Ice Cream ... read more",220.0
+Sundae,Swiss Choco Brownie,1,0,"2 Scoops Of Swiss Chocolate, Topped With Brownie, Choco Fudge, Almonds And Twister.",178.0
+Sundae,Tiramisu Exotic,1,0,"Tiramisu Ice Cream, Hot Brownie, Tiramisu Ice Cream, Whipped Cream, Roasted Almonds, Chocolate ... read more",178.0
+Sundae,Vanilla Choco Kellogg's,1,0,"2 Scoops Of French Vanilla Ice Cream, Layer Of Choco Kelloggs, Topped With ... read more",149.0
+Sandwich,Cheese N Tomato,1,0,"Fresh Tomato,Cheese Slice,Spreded With Mayo",119.0
+Sandwich,Coleslaw Delight,1,0,"Orignal Coleslaw (Cabbage,Carrot And Onion Mixed With Mayo)",119.0
+Sandwich,Peri Peri Panner Sandwich,1,0,"Onion,Capicum,Tomato, Mixed Peri Peri Mayo",119.0
+Sandwich,Summer Veggie,1,0,"Onion,Capicum,Tomato,Lettuce Mixed With Mayo",119.0
+Dessert,Hot Brownie Fudge,1,0,Chocolate Spongy Brownie Topped With Chocolate Sauce And Vanilla Ice Cream,188.0
+Dessert,Hot Brownie With Hot Chocolate Fudge,1,0,,115.0
+Dessert,Hot Brownie With Ice Cream,1,0,,156.0
+Dessert,Hot Sizzling Brownie,1,0,,220.0
+Dessert,Mini Red Velvet With Ice Cream,1,0,,109.0
+Mix - In,Oreo Cookies,1,0,,35.0
+Waffle Cone,Chocolate Color Balls Waffle Cone,1,0,,34.0
+Waffle Cone,Chocolate Dipped Waffle Cone,1,0,,34.0
+Waffle Cone,Chocolate Nut Waffle Cone,1,0,,45.0
+Waffle Cone,Chocolate Rainbow Waffle Cone,1,0,,34.0
+Waffle Cone,Plain Waffle Cone,1,0,,26.0
+Waffle Bowl,Choc Color Balls Waffle Bowl,1,0,,44.0
+Waffle Bowl,Choc Dipped Waffle Bowl,1,0,,44.0
+Waffle Bowl,Choc Nut Waffle Bowl,1,0,,50.0
+Waffle Bowl,Choc Rainbow Waffle Bowl,1,0,,44.0
+Waffle Bowl,Plain Waffle Bowl,1,0,,26.0

@@ -1,0 +1,96 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos and Thali,Gravy Manchurian with Veg Fried Rice,1,0,Gravy Manchurian and fried rice is a popular Indo-Chinese combo made with deep-fried ... read more,170.0
+Combos and Thali,Paneer Chilli with Veg Fried Rice,1,0,Paneer chilli is a popular Indo Chinese dish that features paneer [Indian cottage ... read more,210.0
+Combos and Thali,Shanghai Paneer with Noodles,1,0,These crisped protein pieces are enveloped in a vibrant Indo Chinese sauce that ... read more,220.0
+Combos and Thali,Hot & Sour Soup Combo,1,0,This tangy broth awakens your taste buds with a delightful interplay of spicy ... read more,270.0
+Combos and Thali,Dal Fry with Jeera Rice,1,0,Dal fry is a popular Indian dish made from lentils [dal] that are ... read more,170.0
+Combos and Thali,Dal Fry with 2 Roti,1,0,,170.0
+Combos and Thali,Dal Makhani with 2 Roti,1,0,,170.0
+Combos and Thali,Dal Makhani with Jeera Rice,1,0,,170.0
+Combos and Thali,Jeera Rice with Pakoda Kadhi,1,0,,200.0
+Combos and Thali,Chole Chawal,1,0,,170.0
+Combos and Thali,Chole Bhature [2 Bhature],1,0,,170.0
+Combos and Thali,Paneer Chole Bhature [2 Bhature],1,0,Paneer Chole+2 Bhature,200.0
+Combos and Thali,Paneer Chatpata with 3 Chapati,1,0,Paneer Handi+3 Chapati,220.0
+Combos and Thali,Veg Makhanwala with 3 Chapati,1,0,,210.0
+Combos and Thali,Veg Biryani with Raita,1,0,,210.0
+Combos and Thali,Dal Masala Khichdi with Kadhi,1,0,"Dal Palak Khichdi+Kadhi [Combines the goodness of lentils, spinach and a tangy yogurt ... read more",210.0
+Combos and Thali,Punjabi Thali [Large],1,0,Jeera Aloo+3 Chapati+Jeera Rice+Dal Fry+Salad [Subject to Availability],240.0
+Combos and Thali,Punjabi Thali [Extra Large],1,0,Paneer Butter Masala+Veg Handi+4 Chapati+Jeera Rice+Dal Fry+Salad [Salad-Subject to Availability],300.0
+Combos and Thali,Chinese Thali,1,0,Veg Manchow Soup+Manchurian Dry+Paneer Chilli Gravy+Burnt Garlic Fried Rice+Hakka Noodles,340.0
+Combos and Thali,Punjabi Thali [XXL],1,0,Paneer Butter Masala+Veg Keema+4 Chapati+Jeera Rice+Dal Fry+Papad+Salad+Gulab Jamun+1 Farsan+1 Buttermilk+Mukhwas [Subject to Availability],340.0
+Combos and Thali,Punjabi Barbeque Thali,1,0,Paneer Tikka+Hara+Veg Keema+3 Chapati+Veg Biryani+Gulab Jamun [1 Piece]+Salad [Subject to Availability],340.0
+Main Course,Chef's Special,1,0,,350.0
+Main Course,Paneer Butter Masala,1,0,"This creamy Restaurant Style Paneer Butter Masala is rich, creamy and has pieces ... read more",190.0
+Main Course,Paneer Tikka Masala,1,0,Paneer cubes are marinated in yogurt and spices and then grilled or tandoori ... read more,230.0
+Main Course,Paneer Chatpata,1,0,"Paneer cubes are typically stir fried with onion, tomatoes, and a blend of ... read more",200.0
+Main Course,Paneer Angara,1,0,Paneer cubes are marinated in yogurt and spices and then grilled or tandoori ... read more,220.0
+Main Course,Paneer Bhurji,1,0,"Paneer cubes are crumbled and cooked with onion, tomatoes, a blend of spices ... read more",220.0
+Main Course,Paneer Palak,1,0,"Palak paneer, a popular Indian dish featuring spinach and paneer, is used as ... read more",230.0
+Main Course,Cheese Butter Masala,1,0,"The gravy is typically infused with butter, creating a decadent and flavorful sauce ... read more",350.0
+Main Course,Jeera Aloo Chatpata,1,0,"Sliced or cubed potatoes are stir fried with onion, tomatoes, a blend of ... read more",150.0
+Main Course,Dum Aloo Punjabi,1,0,"Potatoes are typically cooked with onions, tomatoes, ginger, garlic, a blend of spices ... read more",160.0
+Main Course,Veg Handi,1,0,"A variety of vegetables, such as potatoes, carrots, peas, cauliflower, are cooked in ... read more",170.0
+Main Course,Veg Makhanwala,1,0,"A variety of vegetables, such as potatoes, carrots, peas, cauliflower, are cooked in ... read more",180.0
+Main Course,Veg Jaipuri,1,0,"A variety of vegetables, such as potatoes, carrots, peas and cauliflower, are cooked ... read more",180.0
+Main Course,Veg Keema Amritsari,1,0,"A combination of vegetables, such as potatoes, carrots, peas and cauliflower, are minced ... read more",190.0
+Main Course,Veg Kolhapuri,1,0,"A variety of vegetables, such as potatoes, carrots, peas and cauliflower, are cooked ... read more",190.0
+Main Course,Veg Angara,1,0,"A variety of vegetables, such as cauliflower, potatoes, bell peppers and onion, are ... read more",200.0
+Main Course,Punjabi Chole,1,0,"Chickpeas are soaked overnight and then cooked with onion, tomatoes, ginger, garlic, a ... read more",170.0
+Main Course,Veg Kofta,1,0,"Bite sized vegetable balls made with a combination of mashed potatoes, chopped vegetables, ... read more",300.0
+Main Course,Nargis Kofta,1,0,"Crispy kofta, filled with a vibrant mix of paneer, vegetables and spices, hide ... read more",340.0
+Main Course,Cheese Kofta,1,0,Cheese kofta incorporates the goodness of cheese into the dish. Grated or crumbled ... read more,370.0
+Main Course,Kaju Curry,1,0,This versatile dish features succulent cashews as the star ingredient. The cashews are ... read more,370.0
+Main Course,Kaju Masala,1,0,"Kaju masala highlights the richness of cashews. Here, the cashews are often ground ... read more",380.0
+Main Course,Dal Fry,1,0,"The lentils are typically seasoned with a blend of aromatic spices like cumin, ... read more",170.0
+Main Course,Dal Tadka,1,0,The lentils are cooked to a soft and creamy consistency and then seasoned ... read more,180.0
+Main Course,Dal Makhani,1,0,"Black lentils are simmered in a creamy tomato based gravy infused with butter, ... read more",200.0
+Main Course,Dal Palak,1,0,"Palak paneer, a popular Indian dish featuring spinach and paneer, is used as ... read more",170.0
+Main Course,Pakoda Kadhi,1,0,"Pakoda, typically made from chickpea flour or lentil flour, are deep fried until ... read more",200.0
+Rice & Biryani & Khichdi,Steamed Rice,1,0,,130.0
+Rice & Biryani & Khichdi,Jeera Rice,1,0,,150.0
+Rice & Biryani & Khichdi,Veg Pulao,1,0,,180.0
+Rice & Biryani & Khichdi,Veg Biryani,1,0,A veg delight featuring an assortment of vegetables cooked to perfection in a ... read more,300.0
+Rice & Biryani & Khichdi,Hyderabadi Biryani,1,0,"A culinary gem from the city of Hyderabad, this biryani is renowned for ... read more",330.0
+Rice & Biryani & Khichdi,Masala Chaap Biryani,1,0,"A veg paradise, masala chaap biryani showcases the versatility of paneer, a fresh ... read more",320.0
+Rice & Biryani & Khichdi,Paneer Tikka Biryani,1,0,"A fusion of two popular dishes, paneer tikka biryani combines the flavors of ... read more",360.0
+Chinese Starters,Veg Manchurian,1,0,This popular dish features bite sized vegetable balls made with a combination of ... read more,190.0
+Chinese Starters,Crispy Vegetable,1,0,"A vegetarian take on a classic appetizer, crispy vegetable offers a delightful textural ... read more",190.0
+Chinese Starters,Veg Lollipop,1,0,"A visually appealing and fun to eat appetizer, veg lollipop features vegetables like ... read more",220.0
+Chinese Starters,Paneer Chilli Dry,1,0,"A popular Indo Chinese dish, paneer chilli features paneer cubes stir fried in ... read more",270.0
+Chinese Starters,Paneer Shanghai,1,0,This dish takes inspiration from the vibrant flavors of shanghai cuisine. Tender paneer ... read more,300.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,Veg fried rice features fluffy cooked rice stir fried with a medley of ... read more,230.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,Schezwan fried rice features fluffy cooked rice stir fried with vegetables and a ... read more,250.0
+Fried Rice and Noodles,Burnt Garlic Fried Rice,1,0,"Finely chopped garlic is fried until lightly browned, infusing the oil with a ... read more",260.0
+Fried Rice and Noodles,Triple Schezwan Fried Rice,1,0,"Taking the fiery flavors of schezwan fried rice to a whole new level, ... read more",320.0
+Fried Rice and Noodles,Hakka Noodles,1,0,The noodles are typically cooked to a slightly al dente texture and then ... read more,230.0
+Fried Rice and Noodles,Chilli Garlic Noodles,1,0,"Thin noodles are stir fried with a generous amount of chopped garlic, infused ... read more",260.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,Szechwan noodles features stir fried noodles coated in a bold and spicy schezwan ... read more,280.0
+Starters,Paneer Tikka Dry,1,0,A beloved Indian dish featuring tender cubes of paneer cheese marinated in a ... read more,300.0
+Starters,Paneer Hara Garlic Tikka,1,0,This variation takes the classic paneer tikka masala and infuses it with the ... read more,310.0
+Starters,Lehsuni Paneer Tikka,1,0,This variation features a generous amount of garlic in both the marinade and ... read more,340.0
+Starters,Schezwan Paneer Tikka,1,0,"Schezwan sauce is a fiery blend of chilli peppers, sichuan peppercorns, garlic, ginger ... read more",330.0
+Starters,Malai Paneer Tikka,1,0,"Malai cream, a rich cream made from the top layer of milk, is ... read more",340.0
+Starters,Hara Bhara Pudina Kebab,1,0,A vibrant green skewer packed with an assortment of finely chopped green vegetable ... read more,280.0
+Starters,Shami Kebab,1,0,,280.0
+Starters,Chilli Cheese Seekh,1,0,This fiery kebab is for the adventurous palate. A skewer loaded with a ... read more,360.0
+Starters,Lehsuni Chaap,1,0,"Tender chaap cubes marinated in a fragrant blend of garlic, ginger, chillies and ... read more",310.0
+Starters,Achari Chaap,1,0,"Chaap cubes marinated in a vibrant achari masala, a blend of spices inspired ... read more",320.0
+Starters,Schezwan Chaap,1,0,"Tender chaap cubes marinated in a fiery schezwan sauce, a sichuan inspired condiment ... read more",330.0
+Starters,Masala Chaap,1,0,"Chaap cubes marinated in a fragrant masala gravy, a blend of spices like ... read more",230.0
+Starters,Malai Chaap,1,0,"Tender chaap cubes cooked in a rich and creamy malai gravy, made from ... read more",330.0
+Breads,Chapati,1,0,"Chapati, also known as roti, is a staple flatbread in North Indian cuisine. ... read more",20.0
+Breads,Tandoori Roti,1,0,Tandoori roti is a whole wheat flatbread cooked in a tandoori oven. Its ... read more,25.0
+Breads,Naan,1,0,Naan is a leavened flatbread popular in North Indian cuisine. Its made from ... read more,50.0
+Breads,Garlic Naan,1,0,Garlic naan is a variation of naan that is infused with garlic flavor. ... read more,80.0
+Breads,Cheese Garlic Naan,1,0,Cheese garlic naan is a delightful fusion of 2 beloved flatbread the classic ... read more,90.0
+Breads,Kulcha,1,0,Kulcha is a leavened flatbread from North Indian cuisine. The dough is kneaded ... read more,80.0
+Breads,Tawa Paratha,1,0,Tawa paratha is a layered flatbread from North Indian cuisine. Its made from ... read more,50.0
+Breads,Laccha Paratha,1,0,,60.0
+Accompaniments,Plain Curd,1,0,,70.0
+Accompaniments,Veg Raita,1,0,,100.0
+Accompaniments,Buttermilk,1,0,,30.0
+Accompaniments,Green Mint Chutney,1,0,,30.0
+Accompaniments,Fried Papad,1,0,,20.0
+Accompaniments,Roasted Papad,1,0,,15.0
+Accompaniments,Chole Salad,1,0,,130.0

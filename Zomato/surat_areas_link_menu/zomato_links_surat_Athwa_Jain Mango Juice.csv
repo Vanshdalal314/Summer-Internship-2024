@@ -1,0 +1,3 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Juices,Regular Mango Juice,1,0,,60.0
+Juices,Special Alphonso Juice,1,0,,125.0

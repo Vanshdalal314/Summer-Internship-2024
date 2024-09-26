@@ -1,0 +1,113 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Garlic Breads,Cheese Chilli Garlic Bread,1,0,,199.0
+Garlic Breads,Cheese Garlic Bread,1,0,,169.0
+Garlic Breads,Cheese Schezwan Garlic Bread,1,0,,199.0
+Garlic Breads,Supreme Garlic Bread,1,0,,219.0
+Steam Idli,Butter Steam Idli,1,0,,99.0
+Steam Idli,Cheese Butter Steamed Idli [2 Pieces],1,0,Idli is the quintessential south Indian breakfast. This savory rice cake made by ... read more,135.0
+Steam Idli,Cheese Chocolate Idli,1,0,,149.0
+Steam Idli,Cheese Masala Idli,1,0,,149.0
+Steam Idli,Chocolate Idli,1,0,,125.0
+Steam Idli,Peri Peri Cheese Steam Idli,1,0,,149.0
+Steam Idli,Peri Peri Steamed Idli,1,0,,125.0
+Steam Idli,Schezwan Cheese Steam Idli,1,0,,149.0
+Steam Idli,Schezwan Steam Idli,1,0,,125.0
+Steam Idli,Special Masala Idli [2 Pieces],1,0,Idli is the quintessential south Indian breakfast served with special masala of greenees. ... read more,130.0
+Steam Idli,Steam Idli,1,0,,85.0
+Meals For One,Italian Burger + Veg Burger + [250ml] Thumsup,1,0,Save Rs 50/-,199.0
+Meals For One,Peri Peri Paneer Burger + Veg Burger + [250ml] Thumsup,1,0,Save Rs 50/-,249.0
+Meals For One,Tandoori Cheese Burger + Salted French Fries,1,0,Save Rs 50/-,199.0
+Meals For One,Veg Cheese Grilled Sandwich + Salted French Fries,1,0,Save Rs 65/-,225.0
+Meals For One,Veg Cheese Pizza + Salted French Fries + [250ml] Thumsup,1,0,Save Rs. 85/-,225.0
+Burgers,Double Trouble Burger,1,0,"Deliciously filling burger, served with double patties, slices of onion, tomatoes, combination of ... read more",249.0
+Burgers,Italian Cheese Burger,1,0,Crispy herbed chilli potato patty covered with a dollop of grated cheese creamy ... read more,199.0
+Burgers,Pav Bhaji Burger,1,0,,99.0
+Burgers,Peri Peri Paneer Burger,1,0,"Crispy spiced paneer patty covered with a dollop of cheese, creamy sauces and ... read more",249.0
+Burgers,Tandoori Cheese Burger,1,0,,199.0
+Burgers,Veggie Burger,1,0,"Classic burger with veg patty topped with tomato, onion and various sauces.",99.0
+Momos [6 Pieces],Cheese Paneer Momos [6 Pieces],1,0,"The filling is packed with cabbage, paneer and cheese, and seasoned with south ... read more",175.0
+Momos [6 Pieces],Mix Veg Momos [6 Pieces],1,0,,149.0
+Sandwiches,Bread Butter Sandwich,1,0,,49.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,75.0
+Sandwiches,Bread Butter Chutney Sandwich,1,0,,49.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,49.0
+Sandwiches,Cheese Chocolate Sandwich,1,0,,125.0
+Sandwiches,Mayonnaise Veg Cheese Sandwich,1,0,,125.0
+Sandwiches,Mayonnaise Sandwich,1,0,,89.0
+Sandwiches,Peri Peri Veg Cheese Sandwich,1,0,,125.0
+Sandwiches,Veg Cheese Sandwich,1,0,,99.0
+Sandwiches,Veg Sandwich,1,0,,75.0
+Sandwiches,Chocolate Grilled Sandwich,1,0,,219.0
+Sandwiches,Greenees Special Grilled Sandwich,1,0,,239.0
+Sandwiches,Maharaja Grilled Sandwich [4 Slice],1,0,,275.0
+Sandwiches,Veg Mayonnaise Cheese Grilled Sandwich,1,0,,219.0
+Sandwiches,Melting Cheese Grilled Sandwich,1,0,,275.0
+Sandwiches,Peri Peri Mayonnaise Grilled Sandwich,1,0,,219.0
+Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,,239.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,199.0
+Sandwiches,Aloo Masala Toast Sandwich,1,0,,135.0
+Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,99.0
+Sandwiches,Bread Butter Toast Sandwich,1,0,,65.0
+Sandwiches,Cheese Chilli Toast Sandwich,1,0,,135.0
+Sandwiches,Cheese Chocolate Toast Sandwich,1,0,,149.0
+Sandwiches,Maggi Toast Sandwich,1,0,,149.0
+Sandwiches,Pizza Toast Sandwich,1,0,Mix veg with garlic.,135.0
+Sandwiches,Veg Cheese Tandoori Paneer Toast Sandwich,1,0,,149.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,135.0
+Sandwiches,Veg Toast Sandwich,1,0,,95.0
+Open Toast,Cheese Chilli Open Toast,1,0,,199.0
+Open Toast,Greenees Special Open Toast,1,0,,149.0
+Open Toast,Maggi Open Toast,1,0,,130.0
+Open Toast,Open Toast,1,0,,99.0
+Open Toast,Paneer Tikka Open Toast,1,0,A perfect combination of succulent pieces of paneer tikka topped on a spicy ... read more,175.0
+Open Toast,Schezwan Open Toast,1,0,,130.0
+Open Toast,Tandoori Paneer Open Toast,1,0,,130.0
+Pizzas,Italiano Pizza [7 Inches],1,0,"Veg, black olive and cheese pizza.",249.0
+Pizzas,Maggi Pizza [7 Inches],1,0,,199.0
+Pizzas,Margherita Only Cheese Pizza [7 Inches],1,0,,199.0
+Pizzas,Paneer Makhani Pizza [7 Inches],1,0,,249.0
+Pizzas,Tandoori Paneer Pizza [7 Inches],1,0,,249.0
+Pizzas,Veg Cheese Paneer Pizza [7 Inches],1,0,,199.0
+Pizzas,Veg Cheese Pizza [7 Inches],1,0,,185.0
+Pizzas,Veg Cheese Khakhra Pizza [7 Inches],1,0,,175.0
+Pizzas,Cocktaill Ulta Pizza [7 Inches],1,0,,235.0
+Pizzas,Tandoori Paneer Ulta Pizza [7 Inches],1,0,,235.0
+Pizzas,Veg Cheese Ulta Pizza [7 Inches],1,0,,199.0
+Maggi,Double Masala Maggi,1,0,,89.0
+Maggi,Maggi Masala,1,0,,79.0
+Maggi,Peri Peri Maggi,1,0,,119.0
+Maggi,Schezwan Maggi,1,0,,119.0
+Maggi,Tandoori Maggi,1,0,,119.0
+French Fries,Cheese Masala French Fries,1,0,,169.0
+French Fries,Cheesy French Fries (Lots Of Cheese & Mayo),1,0,,199.0
+French Fries,Masala French Fries,1,0,,119.0
+French Fries,Peri Peri Cheese French Fries,1,0,,169.0
+French Fries,Peri Peri French Fries,1,0,,149.0
+French Fries,Salted French Fries,1,0,,99.0
+French Fries,Schezwan Cheesy French Fries,1,0,,169.0
+French Fries,Schezwan French Fries,1,0,,149.0
+Frankie,Cocktaill Frankie,1,0,,149.0
+Frankie,Mayo Frankie,1,0,Jain not available.,105.0
+Frankie,Mayo Schezwan Frankie,1,0,Jain not available.,125.0
+Frankie,Schezwan Frankie,1,0,Jain not available.,105.0
+Frankie,Tandoori Frankie,1,0,Jain not available.,105.0
+Frankie,Veg Cheese Frankie,1,0,Jain not available.,99.0
+Frankie,Veg. Frankie,1,0,Jain not available.,75.0
+Maska Bun,Maska Bun,1,0,,49.0
+Maska Bun,Nutella Maska Bun,1,0,Nutella loaded musca bun with dressing of chocolate syrup,65.0
+Crunchy Bite,Biscuit Pie,1,0,,165.0
+Tea And Coffee,Ginger Tulsi Masala Tea,1,0,"[Small, Serves 2] / [Large, Serves 4] Freshly brewed tea with ginger, lemongrass ... read more",85.0
+Tea And Coffee,Green Leaf Tulsi Pudina Tea,1,0,"[Small, Serves 2] / [Large, Serves 4] Freshly brewed tea with mint, lemongrass ... read more",85.0
+Tea And Coffee,Green Tea,1,0,,35.0
+Tea And Coffee,Lemon Honey Tea,1,0,,50.0
+Tea And Coffee,Black Coffee [Large],1,0,,75.0
+Tea And Coffee,Espresso Coffee,1,0,"[Small, Serves 2] / [Large, Serves 4] Freshly brewed espresso coffee served hot.",85.0
+Cold Speciality,Cold Chocolate,1,0,,149.0
+Cold Speciality,Cold Coffee,1,0,200Ml approx,149.0
+Cold Speciality,Greenees Special Lemon Tea,1,0,200Ml approx,85.0
+Cold Speciality,Lemon Ice Tea,1,0,200Ml approx,85.0
+Shakes,KitKat Shake [Extra Large],1,0,,149.0
+Shakes,Oreo Shake [Extra Large],1,0,,149.0
+Hot Chocolates,Hot Chocolate [Extra Large],1,0,"Hot chocolate, also known as hot cocoa or drinking chocolate, is a heated ... read more",99.0
+Hot Chocolates,"Hot Chocolate [Large, Serves 2]",1,0,"Hot chocolate, also known as hot cocoa or drinking chocolate, is a heated ... read more",80.0
+Pav Bhaji,Pav Bhaji,1,0,,150.0

@@ -1,0 +1,152 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meals,Mini Parcel Meals Non Veg,0,0,A compact and convenient meal option consisting of assorted non-vegetarian dishes packed into ... read more,174.0
+Meals,Mini Parcel Meals Veg,0,0,A compact and convenient meal option consisting of assorted vegetarian dishes packed into ... read more,174.0
+Meals,P Non Veg Meals,0,0,"A complete and wholesome meal option consisting of assorted vegetarian dishes, including curries, ... read more",261.0
+Meals,P Veg Meals,0,0,"A complete and wholesome meal option consisting of assorted non-vegetarian dishes, including curries, ... read more",261.0
+Veg Starters,Chilly Babycorn,0,0,"Crispy baby corn pieces cooked in a spicy and flavorful chili sauce, garnished ... read more",261.0
+Veg Starters,Chilli Gobi,0,0,"Crispy cauliflower florets cooked in a spicy and flavorful chili sauce, garnished with ... read more",214.0
+Veg Starters,Chilly Mushroom,0,0,"Tender mushroom pieces cooked in a spicy and flavorful chili sauce, garnished with ... read more",261.0
+Veg Starters,Chilli Paneer,0,0,Tender paneer (Indian cottage cheese) cubes cooked in a spicy and flavorful chili ... read more,294.0
+Veg Dry,Babycorn Manchurian Dry,0,0,"Indo-Chinese appetizer using baby corn, onion, bell pepper & saut?ed in a sweet-spicy ... read more",288.0
+Veg Dry,Babycorn Pallipalayam Dry,0,0,"Crispy baby corn pieces cooked in the Pallipalayam style, flavored with onions, garlic, ... read more",288.0
+Veg Dry,Babycorn Pepper Fry,0,0,,288.0
+Veg Dry,Gobi Manchurian Dry,0,0,"Crispy cauliflower florets tossed in a spicy and tangy Manchurian sauce, garnished with ... read more",248.0
+Veg Dry,Gobi Pallipalayam Dry,0,0,"Crispy cauliflower florets cooked in the Pallipalayam style, flavored with onions, garlic, and ... read more",248.0
+Veg Dry,Hot And Pepper Gobi,0,0,"Crispy cauliflower florets cooked in a spicy and flavorful pepper sauce, offering a ... read more",288.0
+Veg Dry,Mushroom Manchurian Dry,0,0,"Tender mushroom pieces tossed in a spicy and tangy Manchurian sauce, garnished with ... read more",288.0
+Veg Dry,Mushroom Pallipalayam Dry,0,0,"Tender mushroom pieces cooked in the Pallipalayam style, flavored with onions, garlic, and ... read more",288.0
+Veg Dry,Mushroom Pepper Fry,0,0,"Tender mushroom pieces cooked with black pepper and aromatic spices, offering a flavorful ... read more",288.0
+Veg Dry,Paneer Manchurian Dry,0,0,Tender paneer (Indian cottage cheese) cubes tossed in a spicy and tangy Manchurian ... read more,321.0
+Veg Dry,Paneer Pallipalayam Dry,0,0,"Tender paneer (Indian cottage cheese) cubes cooked in the Pallipalayam style, flavored with ... read more",321.0
+Non Veg Dry,Cashew Chicken,0,0,A delicious and flavorful chicken dish made with tender chicken pieces cooked in ... read more,395.0
+Non Veg Dry,Chicken Manchurian Dry,0,0,"Chicken flavoured with bell peppers, soy sauce, tomato sauce, ginger, green chilli, vinegar",375.0
+Non Veg Dry,Chinese Chilly Chicken Dry,0,0,,395.0
+Non Veg Dry,Garlic Chicken Dry,0,0,A delicious and aromatic chicken dish made with tender chicken pieces cooked with ... read more,375.0
+Non Veg Dry,Ginger Chicken Dry,0,0,A flavorful and aromatic chicken dish made with tender chicken pieces cooked with ... read more,375.0
+Non Veg Dry,Hyderabadi Chicken Dry,0,0,A flavorful and aromatic chicken dish made with tender chicken pieces cooked in ... read more,375.0
+Non Veg Dry,Kerala Fried Chicken,0,0,A delicious and aromatic chicken dish made with tender chicken pieces marinated in ... read more,375.0
+Non Veg Dry,Monika Chicken,0,0,A savory and flavorful chicken dish made with tender chicken pieces cooked in ... read more,388.0
+Non Veg Dry,Mutton Fry Bone,0,0,A spicy and flavorful mutton dish made with tender mutton pieces cooked with ... read more,455.0
+Non Veg Dry,Mutton Pallipalayam Dry Bone,0,0,A traditional South Indian mutton dish made with tender mutton pieces cooked in ... read more,469.0
+Non Veg Dry,Nattukozhi Fry,0,0,A traditional South Indian chicken dish made with country chicken pieces marinated in ... read more,415.0
+Non Veg Dry,Nattukozhi Pallipalayam Dry,0,0,A traditional South Indian chicken dish made with country chicken pieces cooked in ... read more,428.0
+Non Veg Dry,Pepper Mutton Bone,0,0,A delicious and aromatic mutton dish made with tender mutton pieces cooked with ... read more,455.0
+Non Veg Dry,Schezwan Chicken,0,0,A spicy and flavorful chicken dish made with tender chicken pieces cooked in ... read more,395.0
+Non Veg Dry,Spring Leg (2 Pcs),0,0,"A flavorful and tender chicken leg dish marinated with aromatic spices and herbs, ... read more",335.0
+Non Veg Dry,Thalakari Fry,0,0,A delicious and aromatic chicken dish made with tender chicken pieces cooked with ... read more,375.0
+Non Veg Dry,Thalakkari Pallipalayam Dry,0,0,A traditional South Indian chicken dish made with tender chicken pieces cooked in ... read more,388.0
+Veg Gravy,Aloo Gobi Masala,0,0,Tender cauliflower florets and potato pieces cooked in a rich and flavorful masala ... read more,274.0
+Veg Gravy,Baby Corn Manchurian Gravy,0,0,"Crispy baby corn pieces cooked in a spicy and tangy Manchurian sauce, garnished ... read more",301.0
+Veg Gravy,Babycorn Hot & Pepper,0,0,,301.0
+Veg Gravy,Babycorn Pallipalayam Gravy,0,0,"Tender babycorn pieces cooked in the Pallipalayam style, flavored with onions, garlic, and ... read more",314.0
+Veg Gravy,Dal Fry,0,0,"Creamy and flavorful lentil curry made with yellow lentils, tempered with spices and ... read more",248.0
+Veg Gravy,Gobi Manchurian Gravy,0,0,"Crispy cauliflower florets cooked in a spicy and tangy Manchurian sauce, garnished with ... read more",261.0
+Veg Gravy,Gobi Masala,0,0,"Crispy cauliflower florets cooked in a rich and flavorful masala sauce, infused with ... read more",254.0
+Veg Gravy,Gobi Pallipalayam Gravy,0,0,"Crispy cauliflower florets cooked in the Pallipalayam style, flavored with onions, garlic, and ... read more",274.0
+Veg Gravy,Green Peas Masala,0,0,"Tender green peas cooked in a rich and flavorful masala sauce, infused with ... read more",261.0
+Veg Gravy,Kadaai Paneer,0,0,"Tender paneer (Indian cottage cheese) cubes cooked with onions, bell peppers, tomatoes, and ... read more",308.0
+Veg Gravy,Malai Kofta,0,0,"Soft and creamy kofta balls made with paneer (Indian cottage cheese), potatoes, and ... read more",348.0
+Veg Gravy,Mushroom Manchurian Gravy,0,0,"Tender mushroom pieces cooked in a spicy and tangy Manchurian sauce, garnished with ... read more",301.0
+Veg Gravy,Mushroom Masala,0,0,"Tender mushroom pieces cooked in a rich and flavorful masala sauce, infused with ... read more",288.0
+Veg Gravy,Mushroom Pallipalayam Gravy,0,0,"Tender mushroom pieces cooked in the Pallipalayam style, flavored with onions, garlic, and ... read more",314.0
+Veg Gravy,Mutter Paneer,0,0,,321.0
+Veg Gravy,Paneer Butter Masala,0,0,Tender paneer (Indian cottage cheese) cubes cooked in a rich and creamy tomato-based ... read more,335.0
+Veg Gravy,Paneer Manchurian Gravy,0,0,Tender paneer (Indian cottage cheese) cubes cooked in a spicy and tangy Manchurian ... read more,335.0
+Veg Gravy,Paneer Pallipalayam Gravy,0,0,"Tender paneer (Indian cottage cheese) cubes cooked in the Pallipalayam style, flavored with ... read more",335.0
+Veg Gravy,Veg Kadaai,0,0,"Assorted vegetables cooked with onions, bell peppers, tomatoes, and aromatic spices in a ... read more",281.0
+Veg Gravy,Veg Methi Malai,0,0,Assorted vegetables cooked in a creamy and flavorful gravy flavored with fenugreek leaves ... read more,348.0
+Veg Gravy,Veg Mixed Curry,0,0,A flavorful and aromatic curry made with assorted vegetables cooked in a rich ... read more,294.0
+Non Veg Gravy,Butter Chicken Masala,0,0,A classic Indian dish made with tender chicken pieces cooked in a rich ... read more,395.0
+Non Veg Gravy,Chettinad Chicken Gravy,0,0,"Spicy curry laced with onions, coconut, fresh ground spices & herbs.",395.0
+Non Veg Gravy,Chicken Keema Curry,0,0,,306.0
+Non Veg Gravy,Chicken Manchurian Gravy,0,0,Chicken coated in a soy sauce and pan fried until crisp which is ... read more,395.0
+Non Veg Gravy,Chicken Masala,0,0,,328.0
+Non Veg Gravy,Chicken Mughalai Gravy,0,0,A rich and creamy chicken dish made with tender chicken pieces cooked in ... read more,428.0
+Non Veg Gravy,Chicken Pallipalayam Gravy,0,0,A traditional South Indian chicken dish made with tender chicken pieces cooked in ... read more,395.0
+Non Veg Gravy,Chinese Chilly Chicken Gravy,0,0,,415.0
+Non Veg Gravy,Garlic Chicken Gravy,0,0,A flavorful and aromatic chicken dish made with tender chicken pieces cooked with ... read more,395.0
+Non Veg Gravy,Ginger Chicken Gravy,0,0,A flavorful and aromatic chicken dish made with tender chicken pieces cooked with ... read more,395.0
+Non Veg Gravy,Hyderabadi Chicken Gravy,0,0,A flavorful and aromatic chicken dish made with tender chicken pieces cooked in ... read more,395.0
+Non Veg Gravy,Kadaai Chicken Gravy,0,0,A flavorful and aromatic chicken dish made with tender chicken pieces cooked with ... read more,395.0
+Non Veg Gravy,Malabar Chicken Masala,0,0,A delicious and aromatic chicken dish made with tender chicken pieces cooked with ... read more,395.0
+Non Veg Gravy,Murgh Methi Malai,0,0,A creamy and flavorful chicken dish made with tender chicken pieces cooked in ... read more,428.0
+Non Veg Gravy,Mutton Chops,0,0,A flavorful and aromatic mutton dish made with tender mutton chops cooked with ... read more,455.0
+Non Veg Gravy,Mutton Masala Bone,0,0,A spicy and flavorful mutton dish made with tender mutton pieces cooked with ... read more,475.0
+Non Veg Gravy,Mutton Pallipalayam Gravy,0,0,A traditional South Indian mutton dish made with tender mutton pieces cooked in ... read more,489.0
+Non Veg Gravy,Nattu Kozhi Pallipalayam Gravy,0,0,A traditional South Indian chicken dish made with country chicken pieces cooked in ... read more,435.0
+Non Veg Gravy,Natukozhi Masala,0,0,A flavorful and aromatic chicken dish made with tender country chicken pieces cooked ... read more,435.0
+Non Veg Gravy,Schezwan Chicken Gravy,0,0,A spicy and flavorful chicken dish made with tender chicken pieces cooked in ... read more,395.0
+Non Veg Gravy,Thalakari Masala,0,0,A delicious and aromatic chicken dish made with tender chicken pieces cooked with ... read more,395.0
+Egg,Boiled Egg [2 Eggs],0,0,"Two soft-boiled eggs served whole, offering a simple and satisfying egg dish that ... read more",54.0
+Egg,Double Omelette,0,0,"Two fluffy omelettes made with eggs and seasoned with salt and pepper, offering ... read more",100.0
+Egg,Egg Burji,0,0,"Scrambled eggs cooked with onions, tomatoes, and spices, offering a flavorful and satisfying ... read more",128.0
+Egg,Egg Manchurian,0,0,"Crispy egg balls tossed in a spicy and tangy Manchurian sauce, garnished with ... read more",174.0
+Egg,Egg Masala,0,0,"Hard-boiled eggs cooked in a rich and flavorful masala sauce, infused with aromatic ... read more",174.0
+Egg,Egg Podimas,0,0,"Scrambled eggs cooked with onions, tomatoes, and spices, offering a flavorful and satisfying ... read more",128.0
+Egg,Half Boil,0,0,,46.0
+Egg,Kalakki,0,0,"A traditional South Indian dish made with scrambled eggs cooked with onions, tomatoes, ... read more",46.0
+Egg,Masala Omelette,0,0,"A fluffy omelette made with eggs and seasoned with spices, onions, tomatoes, and ... read more",108.0
+Egg,Mini Karandi Omelette,0,0,"Beaten eggs with finely chopped onion, chillies, coriander leaves cooked in a kuzhi ... read more",114.0
+Biryani,Chicken Biryani With Egg,0,0,"Dum Biriyani made using Seeraga Samba rice, with aromatic freshly roasted Chettinad masala. ... read more",341.0
+Biryani,Chicken Biryani,0,0,"Dum Biryani made using seeraga samba rice, with aromatic freshly roasted chettinad masala. ... read more",328.0
+Biryani,Chicken Bucket Biryani Full (8 To 9 Person),0,0,,2528.0
+Biryani,"Chicken Bucket Biryani [Full, Serves 8]",0,0,A full portion of chicken bucket biryani served with full portion of Poricha ... read more,3090.0
+Biryani,Chicken Bucket Biryani Half (4 To 5 Person),0,0,,1338.0
+Biryani,"Chicken Bucket Biryani [Half, Serves 4]",0,0,A half portion of chicken bucket biryani served with half portion of Poricha ... read more,1619.0
+Biryani,Egg Biryani,0,0,"A delightful rice dish cooked with fragrant seeraga samba rice, boiled eggs, and ... read more",301.0
+Biryani,Jhatka Veg Biryani,0,0,,254.0
+Biryani,Mushroom Biryani,0,0,"A delicious rice dish cooked with fragrant basmati rice and tender mushrooms, infused ... read more",261.0
+Biryani,Mutton Biryani With Egg,0,0,"Dum biriyani made using seeraga samba rice, with aromatic freshly roasted chettinad masala. ... read more",469.0
+Biryani,Mutton Biryani,0,0,A classic Indian rice dish cooked with fragrant seeraga samba rice and tender ... read more,455.0
+Biryani,Mutton Bucket Biryani Full (8 To 9 Persons),0,0,,3156.0
+Biryani,Mutton Bucket Biryani Full (8 To 9 Person),0,0,"A large serving of fragrant mutton biryani served in a bucket, suitable for ... read more",3719.0
+Biryani,Mutton Bucket Biryani Half (4 To 5,0,0,,1645.0
+Biryani,Mutton Bucket Biryanihalf (4 To 5 Person),0,0,"A generous serving of aromatic mutton biryani served in a bucket, perfect for ... read more",1926.0
+Biryani,Plain Biryani,0,0,A simple and flavorful rice dish cooked with seeraga samba rice and aromatic ... read more,281.0
+Rice & Noodles,Butter Rice,0,0,"A delicious and indulgent rice dish cooked with butter and aromatic spices, offering ... read more",274.0
+Rice & Noodles,Chicken Fried Rice,0,0,"Fragrant and flavorful fried rice made with tender chicken pieces and assorted vegetables, ... read more",328.0
+Rice & Noodles,Chicken Noodles,0,0,"Fragrant and flavorful noodles made with tender chicken pieces and assorted vegetables, offering ... read more",328.0
+Rice & Noodles,Egg Fried Rice,0,0,"Fragrant and flavorful fried rice made with scrambled eggs and assorted vegetables, offering ... read more",308.0
+Rice & Noodles,Egg Noodles,0,0,"Fragrant and flavorful noodles made with scrambled eggs and assorted vegetables, offering a ... read more",308.0
+Rice & Noodles,Ghee Rice,0,0,A fragrant and flavorful rice dish cooked with ghee (clarified butter) and aromatic ... read more,274.0
+Rice & Noodles,Gobi Fried Rice,0,0,"Fragrant and flavorful fried rice made with crispy cauliflower florets, offering a delicious ... read more",294.0
+Rice & Noodles,Gobi Noodles,0,0,"Fragrant and flavorful noodles made with crispy cauliflower florets, offering a delicious and ... read more",294.0
+Rice & Noodles,Kashmiri Pulo Rice,0,0,,294.0
+Rice & Noodles,Mushroom Fried Rice,0,0,"Fragrant and flavorful fried rice made with tender mushroom pieces, offering a delicious ... read more",308.0
+Rice & Noodles,Mushroom Noodles,0,0,"Fragrant and flavorful noodles made with tender mushroom pieces, offering a delicious and ... read more",308.0
+Rice & Noodles,Mutton Fried Rice,0,0,"Fragrant and flavorful fried rice made with tender mutton pieces and assorted vegetables, ... read more",388.0
+Rice & Noodles,Mutton Noodles,0,0,"Fragrant and flavorful noodles made with tender mutton pieces and assorted vegetables, offering ... read more",388.0
+Rice & Noodles,Paneer Fried Rice,0,0,,321.0
+Rice & Noodles,Paneer Noodles,0,0,"Fragrant and flavorful noodles made with tender paneer (Indian cottage cheese) cubes, offering ... read more",321.0
+Rice & Noodles,Pulao Chicken Rice,0,0,"Fragrant and flavorful rice cooked with tender chicken pieces and aromatic spices, offering ... read more",348.0
+Rice & Noodles,Pulao Rice Veg,0,0,"Veg Pulao is a rice dish cooked with an assortment of spices, veggies ... read more",294.0
+Rice & Noodles,Pulav Cashew Rice,0,0,"Fragrant and flavorful rice cooked with cashew nuts and aromatic spices, offering a ... read more",328.0
+Rice & Noodles,Schezwan Chicken Fried Rice,0,0,Fragrant and flavorful fried rice made with tender chicken pieces and aromatic Schezwan ... read more,335.0
+Rice & Noodles,Schezwan Chicken Noodles,0,0,"Fragrant and flavorful noodles made with tender chicken pieces and aromatic Schezwan sauce, ... read more",335.0
+Rice & Noodles,Schezwan Egg Fried Rice,0,0,"Fragrant and flavorful fried rice made with scrambled eggs and aromatic Schezwan sauce, ... read more",315.0
+Rice & Noodles,Schezwan Egg Noodles,0,0,"Fragrant and flavorful noodles made with scrambled eggs and aromatic Schezwan sauce, offering ... read more",315.0
+Rice & Noodles,Schezwan Gobi Fried Rice,0,0,Fragrant and flavorful fried rice made with crispy cauliflower florets and aromatic Schezwan ... read more,300.0
+Rice & Noodles,Schezwan Gobi Noodles,0,0,"Fragrant and flavorful noodles made with crispy cauliflower florets and aromatic Schezwan sauce, ... read more",300.0
+Rice & Noodles,Schezwan Mushroom Fried Rice,0,0,Fragrant and flavorful fried rice made with tender mushroom pieces and aromatic Schezwan ... read more,315.0
+Rice & Noodles,Schezwan Mushroom Noodles,0,0,"Fragrant and flavorful noodles made with tender mushroom pieces and aromatic Schezwan sauce, ... read more",315.0
+Rice & Noodles,Schezwan Mutton Fried Rice,0,0,Fragrant and flavorful fried rice made with tender mutton pieces and aromatic Schezwan ... read more,395.0
+Rice & Noodles,Schezwan Mutton Noodles,0,0,"Fragrant and flavorful noodles made with tender mutton pieces and aromatic Schezwan sauce, ... read more",395.0
+Rice & Noodles,Schezwan Paneer Fried Rice,0,0,Fragrant and flavorful fried rice made with tender paneer (Indian cottage cheese) cubes ... read more,328.0
+Rice & Noodles,Schezwan Paneer Noodles,0,0,Fragrant and flavorful noodles made with tender paneer (Indian cottage cheese) cubes and ... read more,328.0
+Rice & Noodles,Schezwan Veg Fried Rice,0,0,"Fragrant and flavorful fried rice made with assorted vegetables and aromatic Schezwan sauce, ... read more",294.0
+Rice & Noodles,Schezwan Veg Noodles,0,0,"Fragrant and flavorful noodles made with assorted vegetables and aromatic Schezwan sauce, offering ... read more",294.0
+Rice & Noodles,Singapore Chicken Noodles,0,0,Fragrant and flavorful noodles made with tender chicken pieces and aromatic spices in ... read more,355.0
+Rice & Noodles,Singapore Chicken Rice,0,0,Tender chicken pieces served with fragrant and flavorful rice cooked in the Singaporean ... read more,355.0
+Rice & Noodles,Veg Fried Rice,0,0,"Fragrant and flavorful fried rice made with assorted vegetables, offering a delicious and ... read more",288.0
+Rice & Noodles,Veg Noodles,0,0,"Fragrant and flavorful noodles made with assorted vegetables, offering a delicious and satisfying ... read more",288.0
+Pappads & Salads,Cucumbar Salad,0,0,"A simple and refreshing salad made with thinly sliced cucumbers, seasoned with salt, ... read more",94.0
+Pappads & Salads,Green Salad,0,0,"A refreshing and nutritious salad made with assorted fresh vegetables, such as lettuce, ... read more",94.0
+Pappads & Salads,Masala Pappad,0,0,,80.0
+Pappads & Salads,Roasted Pappad,0,0,,60.0
+Fresh Juices,Buttermilk,0,0,"Refreshing and tangy yogurt-based drink, flavored with spices and herbs, offering a cooling ... read more",74.0
+Fresh Juices,Fresh Lime Juice,0,0,"Refreshing and tangy lime juice, offering a revitalizing and thirst-quenching beverage option.",68.0
+Fresh Juices,Mint Lime Juice,0,0,"Refreshing and tangy lime juice infused with fresh mint leaves, offering a revitalizing ... read more",80.0
+Fresh Juices,Musk Melon Juice,0,0,"Refreshing and hydrating juice made from ripe musk melon, offering a cooling and ... read more",114.0
+Fresh Juices,Pomegranate Juice,0,0,"Refreshing and antioxidant-rich juice made from fresh pomegranate seeds, offering a nutritious and ... read more",168.0
+Fresh Juices,Rose Milk,0,0,"Refreshing and aromatic milk-based drink flavored with rose syrup, offering a cooling and ... read more",80.0
+Fresh Juices,Water Melon Juice,0,0,"Refreshing and hydrating juice made from ripe watermelon, offering a cooling and thirst-quenching ... read more",80.0

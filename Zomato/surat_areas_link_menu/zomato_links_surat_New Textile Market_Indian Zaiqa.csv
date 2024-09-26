@@ -1,0 +1,112 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup & Shorba,Vegetable Sweet Corn Soup,1,0,,150.0
+Soup & Shorba,Chicken Hot N Sour Soup,0,0,,170.0
+Soup & Shorba,Chicken Manchow Soup,0,0,,170.0
+Soup & Shorba,Chicken Sweet Corn Soup,0,0,,170.0
+Soup & Shorba,Chicken Tom Yum Soup,0,0,,170.0
+Soup & Shorba,Cream Of Broccoli Soup,1,0,,180.0
+Soup & Shorba,Cream Of Mushroom Soup,1,0,,160.0
+Soup & Shorba,Cream Of Tomato Soup,1,0,,160.0
+Soup & Shorba,Mulligatawny Soup,1,0,,170.0
+Soup & Shorba,Chicken Lung Fung Soup,0,0,,170.0
+Salads,Fresh Garden Salad,1,0,,170.0
+Salads,Fruit Salad,1,0,,180.0
+Salads,Kachumber Salad,1,0,,170.0
+Salads,Russian Salad,1,0,,170.0
+Salads,Sprout Salad,1,0,,170.0
+Salads,Tossed Salad,1,0,,170.0
+Salads,Chicken Lebanese Salad,0,0,,200.0
+Salads,Chicken Pasta Salad,0,0,,190.0
+Salads,Chicken Tikka Salad,0,0,"A flavorful blend of tender grilled chicken and crisp vegetables, tossed in a ... read more",180.0
+Salads,Cocktail Chicken Salad,0,0,[Non Alcoholic],190.0
+Salads,Tuna Fish Salad,0,0,,250.0
+Salads,Healthy Egg Salad,0,0,,170.0
+Starters,Potato 65,1,0,,220.0
+Starters,Schezwan Paneer Dry,1,0,,240.0
+Starters,Butter Garlic Prawns,0,0,,460.0
+Starters,Chicken 65,0,0,,270.0
+Starters,Crispy Chicken,0,0,,270.0
+Starters,Kung Pao Fish,0,0,,330.0
+Starters,Corn Cheese Ball,1,0,,260.0
+Starters,Hara Bhara Kebab,1,0,"A flavorful and savory delight filled with a burst of vibrant greens, perfect ... read more",240.0
+Starters,Lehsuni Paneer Tikka,1,0,,270.0
+Starters,Paneer Tikka,1,0,,270.0
+Starters,Spinach Cheese Roll,1,0,"Crispy on the outside, soft on the inside; these delectable bites are bursting ... read more",220.0
+Starters,Stuffed Tandoori Mushroom,1,0,,260.0
+Starters,Chicken Lehsuni Tikka,0,0,,290.0
+Starters,Chicken Reshmi Tikka,0,0,,290.0
+Starters,Chicken Tikka,0,0,,290.0
+Starters,Pahadi Murgh Tikka,0,0,,290.0
+Starters,Surmai Tawa Fry,0,0,,340.0
+Starters,Tandoori Chicken Half,0,0,,440.0
+Main Course,Aloo Gobi Adraki,1,0,,240.0
+Main Course,Bhindi Masala,1,0,,250.0
+Main Course,Chole Masala,1,0,,280.0
+Main Course,Kadai Paneer,1,0,,300.0
+Main Course,Mushroom Do Pyaza,1,0,,270.0
+Main Course,Matar Paneer,1,0,,280.0
+Main Course,Paneer Hara Pyaz,1,0,,290.0
+Main Course,Paneer Lababdar,1,0,,280.0
+Main Course,Paneer Tikka Masala,1,0,,280.0
+Main Course,Rajma Masala,1,0,,280.0
+Main Course,Veg Chilli Billi,1,0,,290.0
+Main Course,Vegetable Jalfrezi,1,0,,280.0
+Main Course,Dal Makhani,1,0,,290.0
+Main Course,Butter Chicken,0,0,,310.0
+Main Course,Chicken Chettinad,0,0,,290.0
+Main Course,Dum Murgh Kali Mirch,0,0,,300.0
+Main Course,Chicken Sukka,0,0,,290.0
+Main Course,Chicken Tikka Masala,0,0,A tantalizing and flavorful Indian specialty that combines tender chicken pieces in a ... read more,290.0
+Main Course,Kadai Chicken,0,0,"A flavorful and aromatic chicken delicacy cooked to perfection, offering a satisfying main ... read more",290.0
+Main Course,Murgh Lababdar,0,0,,290.0
+Rice And Biryani,Jeera Rice,1,0,,150.0
+Rice And Biryani,Kalyani Kofta Biryani,1,0,,300.0
+Rice And Biryani,Lemon Rice,1,0,A tangy and refreshing rice dish with a burst of lemony flavors that ... read more,130.0
+Rice And Biryani,Mushroom Biryani,1,0,,290.0
+Rice And Biryani,Paneer Tikka Biryani,1,0,,280.0
+Rice And Biryani,Steam Rice,1,0,,120.0
+Rice And Biryani,Mix Vegetable Pulao,1,0,,180.0
+Rice And Biryani,Chicken Pulao,0,0,,250.0
+Rice And Biryani,Zafrani Egg Biryani,0,0,A flavorful and aromatic rice dish layered with succulent pieces of tender meat ... read more,290.0
+Rice And Biryani,Hyderabadi Chicken Biryani,0,0,,310.0
+Rice And Biryani,Tandoori Chicken Biryani,0,0,,340.0
+Rice & Noodles,Veg Fried Rice,1,0,,190.0
+Rice & Noodles,Chicken Fried Rice,0,0,,270.0
+Rice & Noodles,Egg Fried Rice,0,0,,240.0
+Rice & Noodles,Triple Chicken Fried Rice,0,0,,280.0
+Indian Breads,Butter Chapati,1,0,,60.0
+Indian Breads,Cheese Paratha,1,0,,110.0
+Indian Breads,Plain Chapati,1,0,,50.0
+Indian Breads,Pudina Lachha Paratha,1,0,,90.0
+Indian Breads,Stuffed Mix Vegetable Kulcha,1,0,,90.0
+Indian Breads,Tawa Lachha Paratha,1,0,,80.0
+Indian Breads,Tawa Roti With Butter,1,0,,60.0
+All Time Favourite,Bombay Cheese Sandwich,1,0,,220.0
+All Time Favourite,Cocktail Vegetable Pizza [Regular],1,0,[Non Alcoholic],260.0
+All Time Favourite,Greek Pita Sandwich,1,0,,220.0
+All Time Favourite,Onion Pakora,1,0,,200.0
+All Time Favourite,Paneer Pakora,1,0,,240.0
+All Time Favourite,Aloo Paratha,1,0,,150.0
+All Time Favourite,Mix Vegetable Paratha,1,0,,160.0
+All Time Favourite,Paneer Paratha,1,0,,180.0
+All Time Favourite,Vegetable Cheese Sandwich,1,0,,210.0
+All Time Favourite,Vegetable Cheese Burger,1,0,,220.0
+All Time Favourite,Chicken Burger,0,0,,240.0
+All Time Favourite,Chicken Cheese Sandwich,0,0,,240.0
+All Time Favourite,Chicken Sandwich,0,0,,240.0
+All Time Favourite,Chicken Tikka Popcorn,0,0,,250.0
+All Time Favourite,Chicken Stuffed Paratha,0,0,"Delicious, flavorful chicken stuffed in soft paratha, making it an all-time favorite dish.",240.0
+All Time Favourite,Chicken Tikka Sandwich,0,0,An irresistible all-time favorite sandwich packed with succulent chicken tikka.,240.0
+All Time Favourite,Cocktail Chicken Pizza [Regular],0,0,[Non Alcoholic],240.0
+All Time Favourite,Egg Mayo Sandwich,0,0,,80.0
+All Time Favourite,Fish Koliwada,0,0,,270.0
+All Time Favourite,Pita Bread Pockets With Various Fillings,0,0,Chicken,270.0
+Sweets,Gulab Jamun,1,0,,100.0
+Sweets,Moong Dal Halwa,1,0,,140.0
+Sweets,Shahi Phirni,1,0,,110.0
+Drinks (Beverages),7Up Can [250 Ml],1,0,,50.0
+Drinks (Beverages),Buttermilk,1,0,,35.0
+Drinks (Beverages),Coke Can [250 Ml],1,0,,50.0
+Drinks (Beverages),Sweet Lassi,1,0,,50.0
+Drinks (Beverages),Sprite Can [250 Ml],1,0,,50.0
+Drinks (Beverages),Thums Up Can [250 Ml],1,0,,50.0

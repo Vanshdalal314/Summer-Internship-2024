@@ -1,0 +1,80 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Match Day Combos,Rajwadi Khimo + Nimbu Mari Omlette + Pav [5 Pieces],0,0,,160.0
+Match Day Combos,Diet Combo,0,0,Paper Omelette without Oil [2 Eggs]+Boiled Egg Tikka [2 Eggs]+Boiled Egg White [5 ... read more,293.0
+Match Day Combos,"Australian Fry [4 eggs]+Green boil fry+12 pav+Salad+Jeera Soda [250 ml, 2 Pieces]",0,0,,319.0
+Match Day Combos,Limbu Mari Omelette + Lashun Fry + Pav[5 pieces],0,0,,251.0
+Match Day Combos,Australian Fry + Pav [5 pieces],0,0,,273.0
+Match Day Combos,"Italian Fry [4 eggs]+Dal kari+12 pav+Salad+Jeera Soda [250 ml, 2 Pieces]",0,0,,306.0
+Match Day Combos,Lahsun Khimo [2 Plate] + Pav [5 Pieces],0,0,,246.0
+Match Day Combos,Green Ghotalo + Lasun Khimo + Pav [10 Pieces],0,0,,266.0
+Starters,Green Chutney Fry,0,0,,67.0
+Starters,Tomato Fry,0,0,,67.0
+Starters,Cheese Green Fry,0,0,,160.0
+Starters,Cheese Tomato Fry,0,0,,160.0
+Starters,Cheese Boil Fry,0,0,,160.0
+Starters,Boil Chips,0,0,,67.0
+Starters,Lasun Masala Fry,0,0,,67.0
+Starters,Cheese Kofta,0,0,,160.0
+Starters,Rajwadi Rabdi,0,0,,306.0
+Starters,Australian Fry,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",266.0
+Starters,American Fry,0,0,,333.0
+Starters,Italian Fry,0,0,,293.0
+Starters,15 August,0,0,,319.0
+Starters,Bullet Fry,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",333.0
+Starters,Afghan Fry,0,0,,319.0
+Starters,Ganga Jamna,0,0,,319.0
+Starters,Japan Fry,0,0,,319.0
+Starters,Thikari Fry,0,0,,319.0
+Starters,3 In 1,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",359.0
+Starters,Kaleji,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",333.0
+Starters,Gulati Fry,0,0,,319.0
+Starters,Sosyo Fry,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",333.0
+Starters,Coke Fry,0,0,,333.0
+Starters,Mughlai Fry,0,0,,319.0
+Main Course,Lasan Locho,0,0,,160.0
+Main Course,Dal Fry,1,0,Authentic taste of indore,133.0
+Main Course,Lahsun Khimo,0,0,,84.0
+Main Course,Tomato Khimo,0,0,,84.0
+Main Course,Rajwadi Khimo,0,0,,146.0
+Main Course,Kadhi,0,0,,133.0
+Main Course,Dal Kadhi,0,0,,133.0
+Main Course,Punjabi Kadhi,0,0,,133.0
+Main Course,Cheese Khimo,0,0,,160.0
+Main Course,Cheese Punjabi Kadhi,0,0,,173.0
+Main Course,Bhurji,0,0,,133.0
+Main Course,Tomato Bhurji,0,0,,133.0
+Main Course,Green Ghotala,0,0,,120.0
+Main Course,Tomato Ghotala,0,0,,120.0
+Main Course,Cheese Ghotala,0,0,,160.0
+Main Course,Lahsun Paratha [12 Desi Eggs],0,0,,599.0
+Main Course,Angoor Rabdi,0,0,,266.0
+Main Course,Jumanji Fry,0,0,,319.0
+Main Course,Goti Gotalo,0,0,,239.0
+Main Course,Russian Fry,0,0,,319.0
+Breads,Pav [5 Pieces],1,0,,27.0
+Special Rolls,Bhul Bhulaiya Roll,0,0,,266.0
+Special Rolls,Green Phaplet Roll,0,0,,266.0
+Special Rolls,Bahubali Roll,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",266.0
+Special Rolls,Punjabi Roll,0,0,,306.0
+Special Rolls,Spring Roll,0,0,,266.0
+Special Rolls,Garlic Roll,0,0,,319.0
+Snacks,Cheese Bhel,0,0,,67.0
+Snacks,Goti Fry,0,0,,106.0
+Snacks,Boiled Eggs,0,0,,13.0
+Snacks,Boiled Tikka,0,0,,106.0
+Snacks,Boil Fry,0,0,,106.0
+Snacks,Omlette,0,0,,67.0
+Snacks,Nimbu Mari Omelette,0,0,,80.0
+Snacks,Cheese Omelette,0,0,,120.0
+Snacks,Omelette Sandwich,0,0,,120.0
+Snacks,Lemon Pepper Omelette,0,0,,120.0
+Snacks,Bombay Omelette,0,0,,80.0
+Snacks,Kachi Pakki Omelette,0,0,,80.0
+Snacks,Green Gravy Omelette,0,0,,133.0
+Snacks,Tomato Gravy Omelette,0,0,,133.0
+Snacks,Goti Gravy Omelette,0,0,,106.0
+Snacks,Dry Paatra [6 Eggs],0,0,,266.0
+Snacks,Singotar Special Dosa [14 Eggs],0,0,,599.0
+Accompaniments,Green Lahsun Chutney,1,0,,67.0
+Accompaniments,Tomato Chutney,1,0,,80.0
+Accompaniments,Gotti Chutney,1,0,,80.0

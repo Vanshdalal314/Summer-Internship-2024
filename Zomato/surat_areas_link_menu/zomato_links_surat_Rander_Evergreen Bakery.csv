@@ -1,0 +1,16 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Pineapple Cake [500 grams],1,0,,350.0
+Cakes,Black Forest Cake [500 grams],1,0,,350.0
+Cakes,Vanilla Cake [500 grams],1,0,,350.0
+Cakes,Red Stawbery Cake [500 g],1,0,,350.0
+Cakes,Oreo Cake [500 grams],1,0,Chocolate cake with Oreo toppings.,350.0
+Cakes,Chocolate Cake [500 grams],1,0,[Veg preparation],350.0
+Cakes,Chocolate Flakes Cake [500 grams],1,0,Chocolate cake.,350.0
+Cakes,Kangaroo Cake [500 grams],1,0,[Veg preparation],350.0
+Cakes,Rasmalai Cake [500 grams],1,0,Rasmalai flavoured cake.,400.0
+Cakes,Black and White Cake [500 grams],1,0,Chocolate vanilla cake.,350.0
+Cakes,Chocolate Truffle Cake [500 grams],1,0,Dark chocolate ganache cake.,400.0
+Bakery,Methi Khari,1,0,Methi puff [masala khari].,60.0
+Bakery,Special Surti Khari,1,0,Bakery oven cooked puff.,60.0
+Bakery,Mas Mas Butter [350 grams],1,0,Jeera and salty.,80.0
+Bakery,Mawa Toast [500 grams],1,0,"Rava, khopra, milk and elaichi flavour rust.",120.0

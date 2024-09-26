@@ -1,0 +1,65 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Drinks (Beverages),Virgin Mojito,1,0,[Non Alcoholic],150.0
+Drinks (Beverages),Cranberry Mojito,1,0,[Non Alcoholic],150.0
+Drinks (Beverages),Watermelon Mojito,1,0,[Non Alcoholic],150.0
+Drinks (Beverages),Kiwi Mojito,1,0,[Non Alcoholic],150.0
+Drinks (Beverages),Peach Mojito,1,0,[Non Alcoholic],150.0
+Drinks (Beverages),Wine Mojito,1,0,[Non Alcoholic],150.0
+Drinks (Beverages),Mango Juice,1,0,,180.0
+Drinks (Beverages),Kiwi Juice,1,0,A quick and delicious drink that goes well on any day made up ... read more,180.0
+Drinks (Beverages),Strawberry Juice,1,0,,180.0
+Drinks (Beverages),Jamun Juice,1,0,"Tangy and vibrant juice made from juicy kala jamun, rich in iron and ... read more",180.0
+Drinks (Beverages),Watermelon Juice,1,0,A quick and delicious drink that goes well on any day made up ... read more,150.0
+Drinks (Beverages),Orange Juice,1,0,Get Yourself Charged With This Instant Orange Drink Made With Dashes Of Fresh ... read more,180.0
+Drinks (Beverages),Pineapple Juice,1,0,A delicious seasonal fresh pineapple drink made with real pineapples.,180.0
+Drinks (Beverages),Guava Juice,1,0,Freshly squeezed Guava juice; served chilled. A refreshing beverage to satisfy your thirst.,150.0
+Drinks (Beverages),Findla Juice,1,0,,180.0
+Drinks (Beverages),Falsa Juice,1,0,,180.0
+Drinks (Beverages),Watermelon Strawberry Juice,1,0,,200.0
+Drinks (Beverages),Strawberry Shake,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",180.0
+Drinks (Beverages),Mango Shake,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",180.0
+Drinks (Beverages),Mango Punch,1,0,,180.0
+Drinks (Beverages),Chikoo Shake,1,0,,180.0
+Drinks (Beverages),Orange Shake,1,0,,180.0
+Drinks (Beverages),Black Currant Shake,1,0,,180.0
+Drinks (Beverages),Dates Shake,1,0,,180.0
+Drinks (Beverages),Chikoo Gulkand Shake,1,0,,190.0
+Drinks (Beverages),Pinacolada Shake,1,0,[Non Alcoholic],180.0
+Drinks (Beverages),Oreo Shake,1,0,,220.0
+Drinks (Beverages),KitKat Shake,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",230.0
+Drinks (Beverages),Fererro Rocher Shake,1,0,,260.0
+Drinks (Beverages),Nutella Shake,1,0,,260.0
+Drinks (Beverages),Brownie Walnut Shake,1,0,,260.0
+Drinks (Beverages),Cold Coco Shake,1,0,,240.0
+Drinks (Beverages),Chocolate Shake,1,0,A rich and creamy milkshake made with chocolate - a perfect chocolate indulgence.,220.0
+Drinks (Beverages),White Cream Chocolate Shake,1,0,,280.0
+Drinks (Beverages),Special Cold Coffee,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",150.0
+Drinks (Beverages),KitKat Coffee,1,0,"A Shake made from fresh Kitkat Chocolate, Coffee and some added sugar.",180.0
+Drinks (Beverages),Nutella Coffee,1,0,,180.0
+Drinks (Beverages),Fererro Rocher Coffee,1,0,,220.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,150.0
+Drinks (Beverages),Peach Iced Tea,1,0,,150.0
+Drinks (Beverages),Mississippi Blue,1,0,,150.0
+Drinks (Beverages),Blue Lagoon,1,0,,150.0
+Drinks (Beverages),Berry Beautiful,1,0,,150.0
+Drinks (Beverages),Lady Killer,1,0,,150.0
+Drinks (Beverages),Kiwi Heart,1,0,,150.0
+Drinks (Beverages),Blue Berry,1,0,,150.0
+Drinks (Beverages),Sax on The Beach,1,0,,160.0
+Drinks (Beverages),Red Wine,1,0,,180.0
+Drinks (Beverages),Cranberry Cooler,1,0,,180.0
+Drinks (Beverages),Findla Shot,1,0,"A delicious shot that will tantalize your taste buds, the findla shot is ... read more",180.0
+Drinks (Beverages),Dada Giri Shot,1,0,,150.0
+Drinks (Beverages),Kiwi Shot,1,0,"Kiwi shot is blend of kiwi, black salt and salt for garnishing.",180.0
+Drinks (Beverages),Wine Shot,1,0,[Non Alcoholic],160.0
+Drinks (Beverages),Paan Shot,1,0,A refreshing and flavourful sweet drink that is a perfect dessert or a ... read more,160.0
+Drinks (Beverages),Chocolate Shot,1,0,"Chocolate shot is blend of chocolate, black salt and salt for garnishing.",160.0
+Drinks (Beverages),Guava Regular,1,0,Guava is a tropical fruit that is high in fiber and potassium. This ... read more,160.0
+Drinks (Beverages),Guava Spices,1,0,"A tangy, spicy, and flavorful side dish made with fresh guava and aromatic ... read more",160.0
+Drinks (Beverages),Mix Berry Shot,1,0,"Mix berry shot is blend of mix berry, black salt and salt for ... read more",160.0
+Drinks (Beverages),Sitaphal Shot,1,0,,180.0
+Drinks (Beverages),Brownie Shot,1,0,Indulge your sweet tooth with this delectable and creamy brownie shot. The rich ... read more,180.0
+Drinks (Beverages),Strawberry Shot,1,0,A refreshing blend of strawberry and lemon flavors in a shot that is ... read more,160.0
+Drinks (Beverages),Ginger Shot,1,0,A shot of fresh lime juice blended with a dash of ginger and ... read more,160.0
+Drinks (Beverages),Jamun short,1,0,Real fruit,180.0
+Drinks (Beverages),Chiku Gulkand Shot,1,0,,180.0

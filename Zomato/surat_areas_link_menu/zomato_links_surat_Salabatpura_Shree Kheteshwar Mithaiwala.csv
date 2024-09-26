@@ -1,0 +1,52 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Mithai,Peda,1,0,,132.0
+Mithai,Kesar Peda,1,0,,139.5
+Mithai,Cadbury Peda,1,0,Cadbury peda.,147.25
+Mithai,Gulkand Peda,1,0,,147.25
+Mithai,Dry Fruit Motichur Laddu,1,0,,132.0
+Mithai,Dudhi Halwa,1,0,,147.25
+Mithai,Mawa Cham Cham,1,0,,147.25
+Mithai,Mawa Mixed Mithai,1,0,,147.25
+Mithai,Chocolate Barfi,1,0,,147.25
+Mithai,Special Kalakand Barfi,1,0,,147.25
+Mithai,Tiranga Mawa Barfi,1,0,,147.25
+Ghee Mithai,Motichur Laddu,1,0,,116.25
+Ghee Mithai,Mohanthal,1,0,,131.75
+Ghee Mithai,Magaj,1,0,,131.75
+Ghee Mithai,Surat Khajali,1,0,,116.25
+Dry Fruit Mithai,Kaju Katli,1,0,,232.5
+Dry Fruit Mithai,Kaju Mix,1,0,,263.5
+Dry Fruit Mithai,Kaju Cassata,1,0,,263.5
+Dry Fruit Mithai,Kaju Kesar Katari,1,0,,263.5
+Dry Fruit Mithai,Anjeer Patra,1,0,"Delight in the richness of Kaju Katli, a popular Indian sweet made from ... read more",263.5
+Dry Fruit Mithai,Dry Fruit Khajur Chikki,1,0,,271.25
+Dry Fruit Mithai,Dry Fruit Anjeer Chikki,1,0,,271.25
+Dry Fruit Mithai,Kaju Anjeer Cutlet,1,0,,263.5
+Dry Fruit Mithai,Dry Fruit Inderpuri,1,0,,263.5
+Dry Fruit Mithai,Dry Fruit Cadbury Ball,1,0,,263.5
+Ghewar,Malai Ghewar,1,0,,310.0
+Ghewar,Sada Ghewar,1,0,,147.25
+Ganesh Chaturthi Special,Mawa Modak,1,0,,147.25
+Ganesh Chaturthi Special,Mawa Kesar Modak,1,0,,147.25
+Ganesh Chaturthi Special,Besan Modak,1,0,,147.25
+Kaju Bites,Dry Fruit Bite,1,0,Savor the traditional sweetness of Peda. These delectable milk-based confections originate from India ... read more,263.5
+Kaju Bites,Kaju Rose Bite,1,0,,263.5
+Kaju Bites,Kaju Chocolate Bite,1,0,,263.5
+Kaju Bites,Kaju Orange Bite,1,0,,263.5
+Kaju Bites,Mango Delight Bite,1,0,,263.5
+Kaju Bites,Kaccha Aam Delight Bite,1,0,,263.5
+Kaju Bites,Strawberry Delight Bite,1,0,,263.5
+Kaju Bites,Dry Fruit Mixed Bite,1,0,,263.5
+Winter Sweets,Methi Pak,1,0,,186.0
+Baklava [Turkey special sweets],Rose Vat Baklava,1,0,,292.25
+Baklava [Turkey special sweets],Mixed Baklava,1,0,,292.25
+Baklava [Turkey special sweets],Finger Baklava,1,0,"Experience the divine combination of flavors with Mawa Kesar Modak. These modaks, a ... read more",292.25
+Baklava [Turkey special sweets],Walnut Baklava,1,0,,292.5
+Baklava [Turkey special sweets],Kaju Square Baklava,1,0,,292.25
+Baklava [Turkey special sweets],Prayment Baklava,1,0,,292.25
+Baklava [Turkey special sweets],Mixed Tat Baklava,1,0,,292.25
+Baklava [Turkey Special Sweets Hamper],Mixed Turkish Baklava [9 Pieces],1,0,,449.0
+Baklava [Turkey Special Sweets Hamper],Mixed Turkish Baklava [12 Pieces],1,0,,549.0
+Baklava [Turkey Special Sweets Hamper],Mixed Turkish Baklava [15 Pieces],1,0,,659.0
+Baklava [Turkey Special Sweets Hamper],Mixed Turkish Baklava [25 Pieces],1,0,,1179.0
+Baklava [Turkey Special Sweets Hamper],Mixed Turkish Baklava [35 Pieces],1,0,,1529.0

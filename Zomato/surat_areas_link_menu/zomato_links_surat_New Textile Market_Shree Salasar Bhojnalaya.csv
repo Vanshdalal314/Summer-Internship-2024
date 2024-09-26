@@ -1,0 +1,29 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Lunch,Mini Lunch,1,0,Sabzi+2 Paratha+Raita+Salad+Chutney+Achaar [Subject to Availability],90.0
+Thali,Deluxe Thali,1,0,2 Sabzi+4 Chapati+Dal+Rice+Chaas+Papad+Salad+Raita [Subject to Availability],180.0
+Thali,Punjabi Thali,1,0,2 Sabzi +3 Paratha+Dal rice+Chaas+Papad+Salad+Raita [Subject to Availability],130.0
+Meals,Dal Chawal,1,0,,60.0
+Meals,Dal Chawal with Sabzi,1,0,,100.0
+Main Course,Mix Veg Sabzi,1,0,,80.0
+Main Course,Besan Gatta Sabzi ( only thrusday),1,0,,100.0
+Main Course,Chana Masala,1,0,,80.0
+Main Course,Palak Paneer,1,0,,90.0
+Main Course,Paneer Bhurji,1,0,,90.0
+Main Course,Paneer Butter Masala,1,0,,90.0
+Main Course,Dal Tadka,1,0,,80.0
+Main Course,Dal Fry,1,0,,70.0
+Main Course,Bhindi Masala,1,0,,80.0
+Main Course,Sev Tamatar,1,0,,80.0
+Main Course,Aloo Matar,1,0,,80.0
+Breads,Sada Paratha,1,0,,15.0
+Breads,Aloo Paratha( with curd),1,0,1 pic. Aloo paratha with masala curd,80.0
+Breads,Aloo Gobi Paratha,1,0,,65.0
+Breads,Cheese Paratha,1,0,,90.0
+Breads,Cheese Paneer Paratha,1,0,,100.0
+Breads,Butter Chapati,1,0,,15.0
+Breads,Special Besan Masala Paratha,1,0,,50.0
+Snacks,sp. Paneer wale Chole Bhature( 4 pm close),1,0,Punjabi paneer chole with 2 bhatura with salad,100.0
+Snacks,Chole Pav,1,0,,50.0
+Accompaniments,Masala Papad,1,0,,40.0
+Accompaniments,Veg Raita,1,0,,15.0
+Accompaniments,Papad,1,0,,15.0

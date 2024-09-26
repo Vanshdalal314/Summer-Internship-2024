@@ -1,0 +1,92 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Omelette,Oil Omelette [2 Eggs],0,0,Prepared with oil.,160.0
+Omelette,Oil Limbu Mari Plain Omelette,0,0,,180.0
+Omelette,Oil Omelette Rabadi [2 Layer],0,0,Omelette gravy.,180.0
+Omelette,Chinese Oil Omelette,0,0,Red gravy omelette.,180.0
+Omelette,Butter Omelette,0,0,,200.0
+Omelette,Limbu Mari Butter Omelette,0,0,,220.0
+Omelette,Butter Omelette Rabadi,0,0,,220.0
+Omelette,Chinese Butter Omelette,0,0,,220.0
+Combos,Oil Combo 1,0,0,Signature (4egg+6 pav)+half rice+boil salad(2 eggs+ cheese),501.0
+Combos,Oil Combo 2,0,0,Tikkari(5egg+6pav)+egg starter+boil eggs(3pic.),501.0
+Combos,Oil Combo 3,0,0,Egg roll tadaka(6egg +6pav)+Bhurji rice+boil salad(2egg +cheese),599.0
+Combos,Oil Combo 4,0,0,Kheema(2egg+4pav)+Gravy rice+boil eggs (4pic.),349.0
+Kheema & Ghotala,Egg Oil Green Keema,0,0,Egg [2 eggs] and 4 pav.,220.0
+Kheema & Ghotala,Egg Oil Red Keema,0,0,"4 Eggs, 4 pav and red gravy.",220.0
+Kheema & Ghotala,Egg Oil Green Ghotala,0,0,Most green.,220.0
+Kheema & Ghotala,Egg Oil Red Ghotala,0,0,,220.0
+Kheema & Ghotala,Egg Lehsun Oil Kacchu,0,0,2 Eggs.,220.0
+Kheema & Ghotala,Egg Oil Lehsun Lachko,0,0,,220.0
+Kheema & Ghotala,Egg Butter Green Keema,0,0,,260.0
+Kheema & Ghotala,Egg Butter Red Keema,0,0,,260.0
+Kheema & Ghotala,Egg Butter Green Ghotala,0,0,,260.0
+Kheema & Ghotala,Egg Butter Red Ghotala,0,0,,260.0
+Roti,Roti oil,1,0,,15.0
+Roti,Butter Roti,1,0,,20.0
+Egg Starters,Cheese Oil Omelette,0,0,,180.0
+Egg Starters,Cheese Butter Omelette,0,0,,220.0
+Egg Starters,Egg Cheese Oil Sandwich,0,0,,200.0
+Egg Starters,Egg Cheese Butter Sandwich,0,0,,240.0
+Egg Starters,Egg Oil Burger,0,0,,200.0
+Egg Starters,Egg Butter Burger,0,0,,240.0
+Egg Starters,Boiled Egg [2 Eggs],0,0,,40.0
+Egg Half Fry,Lehsuni Oil Half Fry [2 Eggs],0,0,,220.0
+Egg Half Fry,Lehsuni Butter Half Fry [2 Eggs],0,0,,260.0
+Egg Half Fry,Tomato Oil Half Fry [2 Eggs],0,0,,220.0
+Egg Half Fry,Tomato Butter Half Fry [2 Eggs],0,0,,260.0
+Egg Half Fry,Russian Oil Half Fry [2 Eggs],0,0,,220.0
+Egg Half Fry,Russian Butter Half Fry,0,0,Yummy food.,260.0
+Egg Half Fry,Dahi Cheese Goti Oil Half Fry,0,0,,220.0
+Egg Half Fry,Dahi Cheese Goti Butter Half Fry [2 Eggs],0,0,,260.0
+Egg Half Fry,Chinese Oil Half Fry [2 Eggs],0,0,,220.0
+Egg Half Fry,Chinese Butter Half Fry [2 Eggs],0,0,,260.0
+Egg Half Fry,Australian Oil Half Fry,0,0,,280.0
+Egg Half Fry,Australian Butter Oil Fry,0,0,,320.0
+Special Main Course [2 Eggs],Egg Kacchi Lahori in Oil [2 Eggs],0,0,,220.0
+Special Main Course [2 Eggs],Egg Kacchi Lahori in Butter [2 Eggs],0,0,,260.0
+Special Main Course [2 Eggs],Egg Cheese Kofta in Oil [2 Eggs],0,0,,220.0
+Special Main Course [2 Eggs],Egg Cheese Kofta in Butter [2 Eggs],0,0,,260.0
+Special Main Course [2 Eggs],Egg Toofani in Oil [2 Eggs],0,0,,220.0
+Special Main Course [2 Eggs],Egg Toofani in Butter [2 Eggs],0,0,,260.0
+Special Main Course [2 Eggs],Egg Cutless Curry in Oil [2 Eggs],0,0,,240.0
+Special Main Course [2 Eggs],Egg Cutless Curry in Butter [2 Eggs],0,0,Cheese,280.0
+Special Main Course [2 Eggs],Egg Chinese Kaccu in Oil [2 Eggs],0,0,,220.0
+Special Main Course [2 Eggs],Egg Chinese Kaccu in Butter [2 Eggs],0,0,,260.0
+Special Main Course [2 Eggs],Egg Cheese Malai in Oil [2 Eggs],0,0,,220.0
+Special Main Course [2 Eggs],Egg Cheese Malai in Butter [2 Eggs],0,0,,260.0
+Special Main Course [2 Eggs],Egg Ravaiya in Oil [2 Eggs],0,0,,220.0
+Special Main Course [2 Eggs],Egg Ravaiya in Butter [2 Eggs],0,0,,260.0
+Special Main Course [2 Eggs],Egg Akori in Oil [2 Eggs],0,0,,220.0
+Special Main Course [2 Eggs],Egg Akori in Butter [2 Eggs],0,0,,260.0
+Special Main Course [3 Eggs],Egg Lahori in Oil [3 Eggs],0,0,,280.0
+Special Main Course [3 Eggs],Egg Lahori in Butter [3 Eggs],0,0,,320.0
+Special Main Course [3 Eggs],Egg Jaipuri in Oil [3 Eggs],0,0,,280.0
+Special Main Course [3 Eggs],Egg Jaipuri in Butter [3 Eggs],0,0,,320.0
+Special Main Course [3 Eggs],Egg Mastani in Oil [3 Eggs],0,0,,280.0
+Special Main Course [3 Eggs],Egg Mastani in Butter [3 Eggs],0,0,,320.0
+Special Main Course [3 Eggs],Egg Sainath Dhamaal in Oil [3 Eggs],0,0,,280.0
+Special Main Course [3 Eggs],Egg Sainath Dhamaal in Butter [3 Eggs],0,0,,320.0
+Special Main Course [4 Eggs],Egg Singham in Oil [4 Eggs],0,0,,340.0
+Special Main Course [4 Eggs],Egg Singham in Butter [4 Eggs],0,0,,380.0
+Special Main Course [4 Eggs],Egg Khakhra [4 Eggs],0,0,,320.0
+Special Main Course [4 Eggs],Butter Egg Khakhra [4 Eggs],0,0,,380.0
+Special Main Course [4 Eggs],Green Signature Oil,0,0,,340.0
+Special Main Course [4 Eggs],Green Signature Butter,0,0,,380.0
+Special Main Course [4 Eggs],Hara Bhara Oil,0,0,,340.0
+Special Main Course [4 Eggs],Hara Bhara Butter,0,0,,380.0
+Special Main Course [4 Eggs],Mamana Gravy Oil,0,0,,340.0
+Special Main Course [4 Eggs],Mamana Gravy Butter,0,0,,380.0
+Special Main Course [4 Eggs],Rajwadi Oil,0,0,,340.0
+Special Main Course [4 Eggs],Rajwadi Butter,0,0,,380.0
+Special Main Course [4 Eggs],Paplet Oil,0,0,,340.0
+Special Main Course [4 Eggs],Paplet Butter,0,0,,380.0
+Special Main Course [4 Eggs],Japanese Omelette Oil,0,0,,340.0
+Special Main Course [4 Eggs],Japanese Omelette Butter,0,0,,380.0
+Special Main Course [4 Eggs],Green Tadka Oil,0,0,,340.0
+Special Main Course [4 Eggs],Green Tadka Butter,0,0,,380.0
+Special Main Course [4 Eggs],Egg Taka Tak Oil,0,0,,340.0
+Special Main Course [4 Eggs],Egg Taka Tak Butter,0,0,,380.0
+Special Main Course [4 Eggs],Pathani Oil,0,0,,340.0
+Special Main Course [4 Eggs],Pathani Butter,0,0,,380.0
+Special Main Course [4 Eggs],4 To Ka 1 Oil,0,0,,340.0
+Special Main Course [4 Eggs],4 To Ka 1 Butter,0,0,,420.0

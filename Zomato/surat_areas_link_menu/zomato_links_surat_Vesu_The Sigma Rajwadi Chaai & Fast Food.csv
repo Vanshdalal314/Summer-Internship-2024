@@ -1,0 +1,84 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Tea,Adrak Tea,1,0,,54.0
+Tea,Lemon Tea,1,0,,54.0
+Tea,Masala Tea,1,0,,54.0
+Tea,Green Tea,1,0,,54.0
+Tea,Elaichi Tea,1,0,,54.0
+Tea,Kulhad Tea,1,0,,72.0
+Pizza and Pasta,Margherita Cheese Pizza [7 inches],1,0,,126.0
+Pizza and Pasta,Mexican Cheese Pizza [7 inches],1,0,,162.0
+Pizza and Pasta,Veg Cheese Pizza [7 inches],1,0,,189.0
+Pizza and Pasta,Schezwan Cheese Pizza [7 inches],1,0,,207.0
+Pizza and Pasta,Mushroom Cheese Pizza [7 inches],1,0,,216.0
+Pizza and Pasta,Italian Cheese Pizza [7 inches],1,0,,234.0
+Pizza and Pasta,Corn Cheese Pizza [7 inches],1,0,,243.0
+Pizza and Pasta,Tandoori Paneer Cheese Pizza [7 inches],1,0,,252.0
+Pizza and Pasta,Alfredo Pasta,1,0,,252.0
+Pizza and Pasta,Arrabiata Pasta,1,0,,298.0
+Pizza and Pasta,Pink Sauce Pasta,1,0,,315.0
+Pizza and Pasta,Alfredo Spaghetti,1,0,,261.0
+Pizza and Pasta,Arrabiata Spaghetti,1,0,,298.0
+Pizza and Pasta,Pink Sauce Spaghetti,1,0,,306.0
+Burgers and Sandwiches,Aloo Tikki Burger,1,0,,63.0
+Burgers and Sandwiches,Veg Burger,1,0,,72.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,108.0
+Burgers and Sandwiches,Veg Schezwan Cheese Burger,1,0,,134.0
+Burgers and Sandwiches,Tandoori Paneer Burger,1,0,,144.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,163.0
+Burgers and Sandwiches,Italian Cheese Grilled Sandwich,1,0,,207.0
+Burgers and Sandwiches,Paneer Tandori Grilled Sandwich,1,0,,252.0
+Burgers and Sandwiches,Veg Corn Cheese Grilled Sandwich,1,0,,270.0
+Burgers and Sandwiches,Veg Cheese Rim Zim Sandwich,1,0,,234.0
+Burgers and Sandwiches,Paneer Rim Zim Sandwich,1,0,,306.0
+Burgers and Sandwiches,The Sigma Special Rim Zim Sandwich,1,0,,333.0
+Snacks,Grilled Vada Pav,1,0,,54.0
+Snacks,Schezwan Vada Pav,1,0,,81.0
+Snacks,Cheese Vada Pav,1,0,,90.0
+Snacks,Plain French Fries,1,0,,81.0
+Snacks,Masala French Fries,1,0,,90.0
+Snacks,Peri Peri French Fries,1,0,,99.0
+Snacks,Cheese French Fries,1,0,,108.0
+Snacks,Mayonnaise French Fries,1,0,,126.0
+Snacks,Butter Toast,1,0,,81.0
+Snacks,Cheese Butter Toast,1,0,,108.0
+Snacks,Veg Toast,1,0,,117.0
+Snacks,Masala Toast,1,0,,126.0
+Snacks,Veg Cheese Toast,1,0,,145.0
+Snacks,Masala Cheese Toast,1,0,,171.0
+Snacks,Cheese Paneer Tandoori Toast,1,0,,189.0
+Snacks,Khari,1,0,,45.0
+Snacks,Veg Cheese Hot Dog,1,0,,117.0
+Snacks,Paneer Tandoori Hot Dog,1,0,,171.0
+Snacks,The Sigma Special Hot Dog,1,0,,207.0
+Snacks,Cheese Garlic Bread,1,0,,126.0
+Snacks,Supreme Garlic Bread,1,0,,171.0
+Snacks,Veg Garlic Bread,1,0,,198.0
+Maggi,Masala Maggi,1,0,,72.0
+Maggi,Jain Maggi,1,0,[Jain Preparation],81.0
+Maggi,Cheese Maggi,1,0,,99.0
+Maggi,Schezwan Maggi,1,0,,108.0
+Maggi,Jain Cheese Butter Maggi,1,0,[Jain Preparation],126.0
+Ice Creams,Vanilla Ice Cream,1,0,,63.0
+Ice Creams,Chocolate Ice Cream,1,0,,72.0
+Ice Creams,Butterscotch Ice Cream,1,0,,72.0
+Drinks (Beverages),Regular Coffee,1,0,,63.0
+Drinks (Beverages),Adrak Coffee,1,0,,81.0
+Drinks (Beverages),Black Coffee,1,0,,81.0
+Drinks (Beverages),Chocolate Coffee,1,0,,81.0
+Drinks (Beverages),Badam Coffee,1,0,,81.0
+Drinks (Beverages),Elaichi Coffee,1,0,,81.0
+Drinks (Beverages),Cold Coffee,1,0,,108.0
+Drinks (Beverages),Milk,1,0,,72.0
+Drinks (Beverages),Vanilla Milkshake,1,0,,99.0
+Drinks (Beverages),Oreo Milkshake,1,0,,108.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,108.0
+Drinks (Beverages),Butterscotch Milkshake,1,0,,108.0
+Drinks (Beverages),KitKat Milkshake,1,0,,126.0
+Drinks (Beverages),Virgin Mojito,1,0,[Non Alcoholic],90.0
+Drinks (Beverages),Litchi Punch Mocktail,1,0,[Non Alcoholic],99.0
+Drinks (Beverages),Mojito,1,0,[Non Alcoholic],126.0
+Drinks (Beverages),Blue Lagoon Mojito,1,0,[Non Alcoholic],126.0
+Drinks (Beverages),Vanilla Thickshake,1,0,,135.0
+Drinks (Beverages),Oreo Thickshake,1,0,,180.0
+Drinks (Beverages),Chocolate Thickshake,1,0,,180.0
+Drinks (Beverages),Butterscotch Thickshake,1,0,,198.0

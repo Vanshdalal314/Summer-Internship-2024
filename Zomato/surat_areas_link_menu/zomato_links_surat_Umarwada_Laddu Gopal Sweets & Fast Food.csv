@@ -1,0 +1,66 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Samosa and Kachori,Samosa [1 Piece],1,0,A spicy snack made by deep frying dough shaped in the form of ... read more,18.6
+Samosa and Kachori,Dal Kachori [1 Piece],1,0,A crispy and savory Indian snack rich in flavorful filling.,18.6
+Samosa and Kachori,Pyaaz Kachori [1 Piece],1,0,A delectable veg snack to indulge in.,23.4
+Samosa and Kachori,Paneer Kofta [1 Piece],1,0,,23.4
+Samosa and Kachori,Mirchi Vada [1 Piece],1,0,Crispy and savory snack perfect for any time of the day.,18.6
+Samosa and Kachori,Nylon Khaman [Serves 1],1,0,A steamed and savoury snack that melts in your mouth.,51.0
+Namkeen,Methi Matthi [200 grams],1,0,,40.8
+Namkeen,Trikoni [200 grams],1,0,,40.8
+Namkeen,Sahi Tikla [200 grams],1,0,,40.8
+Namkeen,Rimzim [200 grams],1,0,,40.8
+Namkeen,Jeera Matthi [200 grams],1,0,,40.8
+Namkeen,Matar [200 grams],1,0,,47.4
+Namkeen,Dry Samosa [200 grams],1,0,,51.0
+Namkeen,Dry Kachori [200 grams],1,0,,51.0
+Namkeen,Sakkar Para [200 grams],1,0,,61.2
+Farali,Falhari French Fries,1,0,,122.4
+Sweets,Rasgulla [1 Piece],1,0,A melt in the mouth dessert made from cottage cheese balls soaked in ... read more,17.4
+Sweets,Gulab Jamun [1 Piece],1,0,Soft and spongy and delicious Indian dessert Served with a generous helping of ... read more,17.4
+Sweets,Kala Jamun [1 Piece],1,0,,17.4
+Sweets,Khopra Cham Cham,1,0,"Kaju katli is a traditional Indian cashew fudge candy that's terrifically smooth, thin ... read more",21.0
+Sweets,Malai Chamcham [1 Piece],1,0,A creamy and indulgent sweet treat.,23.4
+Sweets,Bengali Pakija [1 Piece],1,0,,27.6
+Sweets,Raj Bhog [1 Piece],1,0,,28.8
+Sweets,Mother India,1,0,,30.6
+Sweets,Raj Bhog Rabdi [1 Piece],1,0,A rich and creamy dessert featuring delicate flavors and a velvety texture.,40.8
+Sweets,Rasmalai [1 Piece],1,0,A delectable sweet treat that melts in your mouth.,36.0
+Sweets,Angoor Rabdi,1,0,Tasty and mouth watering rabri made from the goodness of grapes and some ... read more,122.4
+Sweets,Mava Kachori,1,0,,46.2
+Sweets,Malai Peda,1,0,"A creamy, melt in your mouth sweet treat that will leave you wanting ... read more",122.4
+Sweets,Kesar Peda,1,0,"A traditional North Indian sweet made from khoya, sugar, saffron and cardamom.",122.4
+Sweets,Salasar Peda,1,0,A creamy and sweet delicacy perfect for any dessert lover.,122.4
+Sweets,Kalakand,1,0,A creamy and milky sweet treat that melts in your mouth with every ... read more,132.6
+Sweets,Milk Cake,1,0,Indian milk cake/alwar ka mawa is a sweet milk fudge made with solidified ... read more,132.6
+Sweets,Mava Barfi,1,0,,132.6
+Sweets,Mava Roll,1,0,,132.6
+Sweets,Motichoor Laddu,1,0,Delicious laddu made up of motichoor which give you a richness sweet taste.,112.2
+Sweets,Besan Laddu,1,0,A mouth watering traditional Indian sweet made with rich and decadent flavors.,112.2
+Sweets,Mohan Thal,1,0,A rich and decadent traditional Indian dessert perfect for those with a sweet ... read more,112.2
+Sweets,Pure Ghee Jalebi,1,0,,102.0
+Sweets,Moti Pak,1,0,A mouthwatering sweet treat perfect for any occasion.,132.6
+Sweets,Boondi,1,0,,91.8
+Sweets,Moong Dal Barfi,1,0,A richly textured mixture of moong dal paste and crumbled mava is cooked ... read more,132.6
+Sweets,Aagra Petha [500 grams],1,0,,244.8
+Sweets,Balushahi,1,0,,112.2
+Sweets,Kaju Katli,1,0,"Kaju katli is a traditional Indian cashew fudge candy that's terrifically smooth, thin ... read more",209.4
+Sweets,Anjeer Barfi,1,0,,250.2
+Sweets,Kaju Roll,1,0,,250.2
+Sweets,Kaju Diamond King,1,0,,250.2
+Sweets,Kaju Kasata,1,0,,250.2
+Sweets,Dal Badam Halwa,1,0,,117.0
+Vada Pav and Dabeli,Vada Pav,1,0,A tasty and satisfying veg snack that packs a flavorful punch in every ... read more,20.4
+Vada Pav and Dabeli,Cheese Vada Pav,1,0,A delectable fusion of traditional Indian flavors with gooey and melted cheese.,30.6
+Vada Pav and Dabeli,Grilled Vada Pav,1,0,A crispy roll filled with a savory surprise straight from the grill.,36.0
+Vada Pav and Dabeli,Dabeli,1,0,A flavoursome chaat packed with texture and crunch.,30.6
+Chaat,Raj Kachori,1,0,An indulgent chaat loaded with a burst of vibrant flavors and textures.,71.4
+Chaat,Dahi Kachori,1,0,,24.0
+Chaat,Dahi Puri,1,0,,61.2
+Chaat,Sev Puri [5 Pieces],1,0,,61.2
+Chaat,Dahi Bhalla [4 Pieces],1,0,,51.0
+Chaat,Bhalla Papdi Chaat,1,0,A flavor packed veg snack bursting with sweet and tangy flavors and perfect ... read more,61.2
+Chaat,Delhi Chaat Papdi,1,0,A flavorful veg dish that will tantalize your taste buds.,61.2
+Chaat,Ragda Samosa,1,0,,61.2
+Chaat,Ragda Kachori,1,0,,61.2
+Chaat,Aloo Tikki,1,0,,61.2
+Chole Bhature,Punjabi Chole Bhature,1,0,"It is a combination of chana masala [spicy white chickpeas] and bhature/puri, a ... read more",91.8

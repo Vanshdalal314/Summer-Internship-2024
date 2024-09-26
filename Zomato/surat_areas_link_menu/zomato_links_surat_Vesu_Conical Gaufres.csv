@@ -1,0 +1,55 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Mini Waffle Popsicle,Caramel Delight - Mini,1,0,,102.0
+Mini Waffle Popsicle,Cheeky Chocolate - Mini,1,0,,87.0
+Mini Waffle Popsicle,Dark & Milk Delight,1,0,,73.0
+Mini Waffle Popsicle,Dark And White Delight Waffle,1,0,,73.0
+Mini Waffle Popsicle,Dark Chocolate Fantasy,1,0,,102.0
+Mini Waffle Popsicle,Kit Kat Crunch Waffle,1,0,,116.0
+Mini Waffle Popsicle,Milk & White Delight,1,0,,73.0
+Mini Waffle Popsicle,Milk And Dark Delight Waffle,1,0,,73.0
+Mini Waffle Popsicle,Milk Chocolate Fantasy,1,0,,102.0
+Mini Waffle Popsicle,Naughty Nutella Waffle,1,0,,116.0
+Mini Waffle Popsicle,Oreo (white),1,0,,102.0
+Mini Waffle Popsicle,Oreo Waffle With Dark Chocolate,1,0,,87.0
+Mini Waffle Popsicle,Oreo Fantasy,1,0,,102.0
+Mini Waffle Popsicle,Oreo Milk,1,0,,87.0
+Mini Waffle Popsicle,Triple Chocolate Waffle [mini],1,0,,116.0
+Mini Waffle Popsicle,Waffle With Sprinkle (dark),1,0,,73.0
+Mini Waffle Popsicle,Waffle With Sprinkle (Milk),1,0,,73.0
+Mini Waffle Popsicle,Waffle With Sprinkle (White),1,0,,102.0
+Mini Waffle Popsicle,White & Dark Delight,1,0,,102.0
+Stick Waffles,Biscoff Caramel - Stick,1,0,,392.0
+Stick Waffles,Caramel Delight,1,0,"Chocolate waffle on a stick, dipped in white chocolate topped with dark choco ... read more",218.0
+Stick Waffles,Cheeky Chocolate,1,0,"Chocolate waffle on a stick, dipped in dark chocolate. topped with caramel sauce ... read more",218.0
+Stick Waffles,Chocolate Waffle With Sprinkle - Stick,1,0,,189.0
+Stick Waffles,Chocolate Waffle With Sprinkle - Stick (Milk),1,0,,189.0
+Stick Waffles,Chocolate Waffle With Sprinkle - Stick (White),1,0,,189.0
+Stick Waffles,Coffee Delight - Stick,1,0,,203.0
+Stick Waffles,Dark And Milk Fantacy,1,0,"Chocolate waffle on a stick, dipped in dark chocolate, topped with milk chocolate.",218.0
+Stick Waffles,Dark And White Fantacy,1,0,"Chocolate waffle on a stick, dipped in dark chocolate, topped with white chocolate.",218.0
+Stick Waffles,Dark Fantacy With Dark Chips,1,0,"Chocolate waffle on a stick, dipped in dark chocolate, topped with dark choco ... read more",203.0
+Stick Waffles,Lotus Biscoff - Stick,1,0,,348.0
+Stick Waffles,Milk & White Fantacy - Stick,1,0,,218.0
+Stick Waffles,Milk And Dark Fantasy - Stick,1,0,,218.0
+Stick Waffles,Milky Bar,1,0,"Chocolate waffle on a stick, dipped in milk chocolate, topped with mix choco ... read more",261.0
+Stick Waffles,Oreo Cookie Crumbles,1,0,"Chocolate waffle on a stick, dipped in white chocolate, topped with crushed oreo ... read more",218.0
+Stick Waffles,Oreo Cookie Crumbles - Stick (milk),1,0,,218.0
+Stick Waffles,Oreo Cookie Crumbles - Stick (white),1,0,,218.0
+Stick Waffles,Paan Waffle - Stick,1,0,,290.0
+Stick Waffles,Red Velvet - Stick,1,0,,218.0
+Stick Waffles,White And Dark Fantacy,1,0,"Chocolate waffle on a stick, dipped in white chocolate, topped with dark chocolate ... read more",232.0
+Newly Launched,Biscoff,1,0,,174.0
+Newly Launched,Blueberry Blast,1,0,,145.0
+Newly Launched,Blueberry Blast - Stick,1,0,,290.0
+Newly Launched,Mocha Delight,1,0,,116.0
+Newly Launched,Kitkat Nutella Mix - Mini,1,0,,131.0
+Newly Launched,Lotus Biscoff,1,0,,145.0
+Newly Launched,Paan Waffle,1,0,,116.0
+Newly Launched,Red Velvet,1,0,,116.0
+Newly Launched,Strawberry Surprise,1,0,,102.0
+Newly Launched,Strawberry Surprise - Stick,1,0,,218.0
+Best Sellers,KitKat Nutella Mix Stick,1,0,"Chocolate waffle on a stick dipped in milk chocolate,topped with dark choco chips ... read more",305.0
+Best Sellers,KitKat Waffle Stick,1,0,"Chocolate Waffle on a stick dipped in milk chocolate, Topped with Kit Kat, ... read more",276.0
+Best Sellers,Nutella Waffle Stick,1,0,,290.0
+Best Sellers,Triple Chocolate Waffle,1,0,,232.0
+Best Sellers,Ultimate Oreo,1,0,"Chocolate waffle on a stick, dipped in dark chocolate, topped with milk and ... read more",247.0

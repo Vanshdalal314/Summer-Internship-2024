@@ -1,0 +1,58 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali And Combos,Regular Thali,1,0,Kadhai Paneer+Mixed Veg Subji+Dal Fry+Steamed Rice+Naan+Roti+Salad+Papad+Raita,299.0
+Thali And Combos,Special Thali,1,0,Kadhai Paneer+Mixed Veg Subji+Dal Fry+Steamed Rice+Naan+Roti+Salad+Papad+Raita+Gulab Jamun,349.0
+Thali And Combos,Chole Khulcha Combo,1,0,,240.0
+Thali And Combos,Paneer Tikka [2 Pieces]+Paneer Makhani [150 Ml]+Lachha Paratha,1,0,,250.0
+Thali And Combos,Veg Mixed [150 Ml] +Lachha Paratha,1,0,,250.0
+Thali And Combos,Dal Makhani Rice Or Paratha Combo,1,0,Dal Makhani+Rice/Paratha,260.0
+Thali And Combos,Veg Dum Biryani+Raita+Paneer Tikka [2 Pieces],1,0,,290.0
+Soups,Hot & Sour Soup,1,0,,99.0
+Soups,Manchow Soup,1,0,,140.0
+Soups,Tomato Shorbha,1,0,,140.0
+Soups,Veg Shorbha,1,0,,140.0
+Starters,Veg Seek Kebab [6 Pieces],1,0,,330.0
+Main Course,Mix Veg,1,0,,180.0
+Main Course,Veg Hydrabadi,1,0,,180.0
+Main Course,Paneer Tikka Masala,1,0,,190.0
+Main Course,Paneer Butter Masala,1,0,,190.0
+Main Course,Kadai Paneer,1,0,,190.0
+Main Course,Paneer Lababdar,1,0,,199.0
+Main Course,Paneer Tikka Palak,1,0,,199.0
+Main Course,Shahi Paneer,1,0,,199.0
+Main Course,Masala Soya Chaap,1,0,,190.0
+Main Course,Dal Makhani,1,0,,230.0
+Main Course,Dal Fry,1,0,,260.0
+Main Course,Dal Tadka,1,0,,290.0
+Rice & Biryani,Steam Rice,1,0,,140.0
+Rice & Biryani,Jeera Rice,1,0,,190.0
+Rice & Biryani,Veg Biryani,1,0,,370.0
+Rice & Biryani,Paneer Tikka Biryani,1,0,,420.0
+Roti And Stuffed Paratha,Roti,1,0,,40.0
+Roti And Stuffed Paratha,Khulcha,1,0,,80.0
+Roti And Stuffed Paratha,Lachha Paratha,1,0,,90.0
+Roti And Stuffed Paratha,Naan,1,0,,100.0
+Roti And Stuffed Paratha,Garlic Naan,1,0,,120.0
+Roti And Stuffed Paratha,Stuff Paratha Mix Veg,1,0,,160.0
+Roti And Stuffed Paratha,Stuff Aloo Paratha,1,0,,160.0
+Chole Khulcha,Chole Khulcha,1,0,,240.0
+Chinese,Veg Crispy,1,0,,199.0
+Chinese,Veg Manchurian,1,0,,180.0
+Chinese,Veg Lollypop,1,0,,199.0
+Chinese,Paneer Chilly,1,0,,279.0
+Chinese,Burnt Garlic Paneer,1,0,,279.0
+Chinese,Fried Rice,1,0,,299.0
+Chinese,Burnt Garlic Rice,1,0,,299.0
+Chinese,Hakka Noodle,1,0,,299.0
+Chinese,Burnt Garlic Noodle,1,0,,299.0
+Sandwich And Fries,Veg Sandwich,1,0,,99.0
+Sandwich And Fries,Veg Cheese Sandwich,1,0,,129.0
+Sandwich And Fries,Cheese Sandwich,1,0,,129.0
+Sandwich And Fries,Paneer Tikka Grill Sandwich,1,0,,179.0
+Sandwich And Fries,French Fries,1,0,,129.0
+Sandwich And Fries,Peri Peri French Fries,1,0,,149.0
+Chaas Papad And Sweet,Roasted Papad,1,0,,29.0
+Chaas Papad And Sweet,Fry Papad,1,0,,29.0
+Chaas Papad And Sweet,Masala Papad,1,0,,49.0
+Chaas Papad And Sweet,Masala Chhas,1,0,,35.0
+Snacks,Paneer Tikka Roll,1,0,,219.0
+Snacks,Soya Kheema Pav,1,0,,249.0

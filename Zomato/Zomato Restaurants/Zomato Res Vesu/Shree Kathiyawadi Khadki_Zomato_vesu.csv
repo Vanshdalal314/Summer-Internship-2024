@@ -1,0 +1,92 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Evening Special,Mix Veg With Gulab Jamun,1,0,Mix Veg[200 Grams Container]+5 Tawa Roti+Gulab Jamun [1 Piece],190.0
+Evening Special,Paneer Butter Masala With Gulab Jamun,1,0,Paneer Butter Masala[200 Grams Container]+5 Tawa Roti+Gulab Jamun [1 Piece],190.0
+Evening Special,Sev Tameta With Ladu Combo,1,0,Sev Tameta[200 Grams Container]+5 Tawa Roti+Laddu [1 Piece],150.0
+Evening Special,Cheese Butter Masala With Roti[5] Combo,1,0,Cheese Butter Masala[200 Grams Container]+2 Paratha+Salad+Gulab Jamun [1 Piece],180.0
+Evening Special,Evening Packed Dinner,1,0,2 Sabji[200 Grams Container]+5 Roti+Dal[200 Grams Container] Rice[200 Grams Container] [Kadhi Khichdi only ... read more,195.0
+Evening Special,Evening Special Thali,1,0,2 Sabji[200 Grams Container]+Kadhi[200 Grams Container]+Khichdi[200 Grams Container]+5 Roti+Papad+Salad+1 Piece Sweet,185.0
+Evening Special,Paneer Butter Masala With Roti[5] Combo,1,0,Paneer Butter Masala [200 Grams Container]+2 Paratha+Salad+Gulab Jamun [1 Piece],180.0
+Evening Special,Punjabi Thali,1,0,Paneer Tikka Masala [200 grams]+Veg Makhanwala [200 grams]+5 Tawa Roti+Dal Fry [250 grams ... read more,250.0
+Evening Special,Bhindi Masala,1,0,[300 Grams],128.0
+Evening Special,Dahi Ganthiya,1,0,[300 Grams],128.0
+Evening Special,Dahi Tikhari,1,0,[300 Grams],115.0
+Evening Special,Mix Sabji,1,0,[300 Grams],128.0
+Evening Special,Ringan Bharthu,1,0,[300 Grams],115.0
+Evening Special,Sev Dungari,1,0,[300 Grams],128.0
+Evening Special,Sev Lasan,1,0,[300 Grams],128.0
+Evening Special,Sev Tamatar,1,0,[300 Grams],105.0
+Evening Special,Evening Special Bhindi Masala,1,0,[300 Grams],128.0
+Evening Special,Evening Special Ringan Bharthu,1,0,[300 Grams],138.0
+Evening Special,Evening Special Sev Tamatar,1,0,[300 Grams],95.0
+Evening Special,Lasaniya Bataka,1,0,[300 Grams],128.0
+Evening Special,Mix Dal Spicy,1,0,[300 Grams],120.0
+Evening Special,Mix Vegetables,1,0,[300 Grams],128.0
+Evening Special,Paneer Sabji,1,0,[300 Grams],180.0
+Evening Special,Rajwadi Dhokali,1,0,[300 Grams],128.0
+Evening Special,Evening Special Cheese Angori,1,0,[300 Grams],287.0
+Evening Special,Evening Special Cheese Butter Masala,1,0,[300 Grams],287.0
+Evening Special,Evening Special Chole,1,0,[300 Grams],138.0
+Evening Special,Evening Special Kaju Kari,1,0,[300 Grams],241.0
+Evening Special,Evening Special Kaju Masala,1,0,[300 Grams],253.0
+Evening Special,Evening Special Kaju Paneer,1,0,[300 Grams],264.0
+Evening Special,Evening Special Matar Paneer,1,0,[300 Grams],172.0
+Evening Special,Evening Special Palak Paneer,1,0,[300 Grams],172.0
+Evening Special,Evening Special Paneer Angara,1,0,[300 Grams],287.0
+Evening Special,Evening Special Paneer Bhurji,1,0,[300 Grams],253.0
+Evening Special,Evening Special Paneer Butter Masala,1,0,[300 Grams],241.0
+Evening Special,Evening Special Paneer Cheese Masala,1,0,[300 Grams],264.0
+Evening Special,Evening Special Paneer Dhamaka,1,0,[300 Grams],241.0
+Evening Special,Evening Special Paneer Handi,1,0,[300 Grams],253.0
+Evening Special,Evening Special Paneer Kadhai,1,0,[300 Grams],241.0
+Evening Special,Evening Special Paneer Lababdar,1,0,[300 Grams],241.0
+Evening Special,Evening Special Paneer Lasaniya,1,0,[300 Grams],230.0
+Evening Special,Evening Special Paneer Makkhanwala,1,0,[300 Grams],253.0
+Evening Special,Evening Special Paneer Patiyala,1,0,[300 Grams],253.0
+Evening Special,Evening Special Paneer Tikka Masala,1,0,[300 Grams],218.0
+Evening Special,Evening Special Paneer Tufani,1,0,[300 Grams],241.0
+Evening Special,Evening Special Sahi Paneer,1,0,[300 Grams],218.0
+Evening Special,Evening Special Veg Angara,1,0,[300 Grams],253.0
+Evening Special,Evening Special Veg Handi,1,0,[300 Grams],172.0
+Evening Special,Evening Special Veg Jaipuri,1,0,[300 Grams],184.0
+Evening Special,Evening Special Veg Kolhapuri,1,0,[300 Grams],184.0
+Evening Special,Kaju Gathiya,1,0,[300 Grams],170.0
+Evening Special,Evening Special Dal Fry Tadka,1,0,[300 Grams],155.0
+Evening Special,Evening Special Dal Fry,1,0,[300 Grams],143.0
+Evening Special,Baati [1 Piece],1,0,,35.0
+Evening Special,Special Dal Bati,1,0,Dal [300 Gram Container] + 2 Baati + Ghee + Salad,135.0
+Evening Special,Evening Special Cheese Pulav,1,0,[300 Grams],184.0
+Evening Special,Evening Special Dal Khichdi,1,0,[400 Grams],180.0
+Evening Special,Evening Special Dal Khichdi [400 Grams],1,0,,180.0
+Evening Special,Evening Special Hyderabadi Biryani,1,0,[300 Grams],207.0
+Evening Special,Evening Special Jeera Rice,1,0,[300 Grams],120.0
+Evening Special,Evening Special Masala Khichdi Kadhi With Ghee,1,0,Khichdi [300 Grams] +Kadhi [200 Grams],120.0
+Evening Special,Evening Special Masala Khichdi Kadhi,1,0,Khichdi [300 Grams] +Kadhi [200 Grams],110.0
+Evening Special,Evening Special Masala Pulao,1,0,[300 Grams],145.0
+Evening Special,Evening Special Masala Rice,1,0,[300 Grams],144.0
+Evening Special,Evening Special Paneer Pulav,1,0,[300 Grams],184.0
+Evening Special,Evening Special Plain Rice,1,0,[300 Grams Foil Container],60.0
+Evening Special,Evening Special Rajwadi Kadhi,1,0,[300 Grams],60.0
+Evening Special,Evening Special Sadi Khichdi And Kadhi,1,0,Khichdi [300 Grams] +Kadhi [200 Grams],103.0
+Evening Special,Evening Special Sadi Khichdi Kadhi With Ghee,1,0,Khichdi [300 Grams] +Kadhi [200 Grams],110.0
+Evening Special,Evening Special Sadi Khichdi Kadhi,1,0,Khichdi [300 Grams] +Kadhi [200 Grams],103.0
+Evening Special,Evening Special Veg Biryani,1,0,[300 Grams],195.0
+Evening Special,Evening Special Veg Pulav,1,0,[300 Grams],172.0
+Evening Special,Bajri Na Rotla No Churmo,1,0,,120.0
+Evening Special,Bajri No Rotlo With Ghee,1,0,,30.0
+Evening Special,Bajri No Rotlo,1,0,1 Pc (Serves 1),20.0
+Evening Special,Lasaniyo Rotlo,1,0,,85.0
+Evening Special,Makai No Rotlo With Ghee,1,0,,30.0
+Evening Special,Makai No Rotlo,1,0,,20.0
+Evening Special,Rotli With Ghee,1,0,,25.0
+Evening Special,Rotli,1,0,(Serve 1),15.0
+Evening Special,Vagharelo Rotlo,1,0,,140.0
+Evening Special,Curd,1,0,,18.0
+Evening Special,Butter Milk,1,0,,20.0
+Evening Special,Gulab Jamun,1,0,,50.0
+Evening Special,Jaggeryy,1,0,,10.0
+Evening Special,Kala Jamun,1,0,,50.0
+Evening Special,Mango Raas,1,0,,60.0
+Evening Special,Mineral Water[1 Liter],1,0,,25.0
+Evening Special,Pure Desi Ghee,1,0,,30.0
+Evening Special,Pure Ghee Laddu,1,0,,40.0
+Evening Special,Rajbhog Shrikhand,1,0,,50.0

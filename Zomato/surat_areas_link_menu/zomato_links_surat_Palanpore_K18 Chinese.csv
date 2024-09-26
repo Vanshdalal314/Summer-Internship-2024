@@ -1,0 +1,53 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+K18special,Veg Crispy,1,0,,300.0
+K18special,Veg Lollipop,1,0,,280.0
+K18special,Paneer Butter Garlic,1,0,,300.0
+K18special,Veg 65,1,0,,260.0
+K18special,Taiwan Bhel,1,0,,280.0
+Soups,Manchow Soup,1,0,,100.0
+Soups,Hot & Sour Soup,1,0,,100.0
+Soups,Lemon & Coriander Soup,1,0,,100.0
+Soups,Veg Clear Soup,1,0,,100.0
+Soups,Manchurian Soup,1,0,,100.0
+Soups,Sweet Corn Soup,1,0,,100.0
+Soups,Baby Corn Soup,1,0,,120.0
+Soups,Mushroom Soup,1,0,,120.0
+Starters,Manchurian Dry,1,0,,180.0
+Starters,Veg Manchurian Gravy,1,0,,180.0
+Starters,Schezwan Manchurian,1,0,,200.0
+Starters,Peri Peri Manchurian,1,0,,200.0
+Starters,Garlic Manchurian,1,0,,200.0
+Starters,Paneer Manchurian,1,0,,260.0
+Starters,Paneer Chilli Gravy,1,0,,300.0
+Starters,Paneer Chilli Dry,1,0,,300.0
+Starters,American Chopsuey,1,0,,300.0
+Starters,Veg Mushroom Chilli Dry,1,0,,300.0
+Starters,Paneer Shanghai,1,0,,320.0
+Starters,Spicy Paneer,1,0,,320.0
+Starters,Thai Paneer,1,0,,320.0
+Starters,Mushroom Baby Corn Dry,1,0,,320.0
+Fried Rice & Noodles,Hakka Noodles,1,0,,180.0
+Fried Rice & Noodles,Singapuri Noodles,1,0,,180.0
+Fried Rice & Noodles,Manchurian Noodles,1,0,,180.0
+Fried Rice & Noodles,Mushroom Noodles,1,0,,200.0
+Fried Rice & Noodles,Schezwan Noodles,1,0,,180.0
+Fried Rice & Noodles,Hong Kong Noodles,1,0,,200.0
+Fried Rice & Noodles,Paneer Noodles,1,0,,200.0
+Fried Rice & Noodles,Exotic Noodles,1,0,,250.0
+Fried Rice & Noodles,Fried Rice,1,0,,180.0
+Fried Rice & Noodles,Schezwan Fried Rice,1,0,,180.0
+Fried Rice & Noodles,Singapuri Fried Rice,1,0,,180.0
+Fried Rice & Noodles,Manchurian Fried Rice,1,0,,180.0
+Fried Rice & Noodles,Tripple Fried Rice,1,0,,280.0
+Fried Rice & Noodles,Masti Fried Rice,1,0,,300.0
+Fried Rice & Noodles,Korean Fried Rice,1,0,,300.0
+Fried Rice & Noodles,Dragon Kabsa Rice,1,0,,300.0
+Fried Rice & Noodles,Cheese Fried Rice,1,0,,300.0
+Fried Rice & Noodles,Casa Fried Rice,1,0,,320.0
+Fried Rice & Noodles,Dragon Casa Fried Rice,1,0,,250.0
+Fried Rice & Noodles,Mushroom Fried Rice,1,0,,320.0
+Fried Rice & Noodles,Burnt Garlic Fried Rice,1,0,,350.0
+Bhel,Chinese Bhel,1,0,,180.0
+Bhel,Cheese Chinese Bhel,1,0,,200.0
+Bhel,Singapuri Bhel,1,0,,180.0
+Bhel,Bombay Bhel,1,0,,180.0

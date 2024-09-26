@@ -1,0 +1,59 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Combos,Sweet Corn Dhokla [500 grams] with Jalebi[250 grams] Combo [Serves 1],1,0,Sweet Corn Dhokla [500 grams]+Jalebi[250 grams]+Combo [Serves 1],179.0
+Special Combos,Sada Khaman [500 grams] with Vagharela Idla [500 grams],1,0,Sada Khaman[500 Gram]+Idla [500 Gram],199.0
+Special Combos,Nylon Khaman [250 Grams] Combo,1,0,Nylon Khaman [250 Grams]+Sweet Corn Dhokla [500 Grams]+Chinese Samosa [250 Grams],291.0
+Special Combos,Vagharela Khaman (500g) + Sweet Corn Dhokla (250g) + Buttermilk (2),1,0,,240.0
+Special Combos,Regular Dal Samosa (500 g),1,0,Regular Dal Samosa (500 g)+Vagharela Khaman (250g)+2 Favrito Soda (200ml),399.0
+Special Combos,Vagharela Patra (500g) + Sada Khaman (250g) + 2 Buttermilk,1,0,,239.0
+Special Combos,Butter Locho,1,0,Amul Butter Sev Locho [250 gram]+Idada [500 gram]+2 Favrito Soda [200 ml],269.0
+Special Combos,Chinese Samosa (250g) + Vagharela Khaman (250g) + 2 Favrito Soda,1,0,,220.0
+Special Combos,Amul Butter Sev Locho [500g],1,0,Amul Butter Sev Locho [500g]+Vagharela Khaman [500g]+2 Sosyo [250ml],449.0
+Special Combos,Regular Dal Samosa [500g] + Live Oil kahaman [500g] + 2 Sosyo [250ml],1,0,,399.0
+Special Combos,Aloo Samosa [6 Pcs] + Patudi [500g] + Idada [500g] + 2 Buttermilk,1,0,,349.0
+Special Combos,Sweet Corn Dhokla [500g] + Methi Na Gota [500g],1,0,,349.0
+Special Combos,Jalebi Combo,1,0,Jalebi [250 grams]+Papdi [500 grams],270.0
+Special Combos,Jalebi [50 TGT 0 grams] + Papdi [1 Kg],1,0,,480.0
+Specials Items,Aloo Samosa [2 Pcs],1,0,,40.0
+Specials Items,Dal Kanda Samosa [4 Pieces],1,0,,45.0
+Specials Items,Chinese Samosa,1,0,,90.0
+Specials Items,Regular Dal Samosa,1,0,,80.0
+Specials Items,Sweet Corn Dhokla,1,0,,60.0
+Specials Items,Jalebi,1,0,,70.0
+Specials Items,Vagharela Khaman (500 Grams),1,0,Vagharela Khaman (500 Grams) + Regular Dal Samosa (500 Grams) + Amul Butter ... read more,499.0
+Specials Items,Amul Butter Locho [2 Plate],1,0,Amul Butter Locho [2 Plate]+Jalebi [250 Grams]+Aloo Samosa [4 Pieces],229.0
+Locho,Sado Locho,1,0,,62.0
+Locho,Sev Locho,1,0,,70.0
+Locho,Tel Sev Locho,1,0,,45.0
+Locho,Amul Butter Sev Locho,1,0,,120.0
+Locho,Garlic Oil Locho,1,0,,50.0
+Locho,Garlic Butter Locho,1,0,,52.0
+Locho,Cheese Oil Locho,1,0,"Served with sev, green chutney and onion [kanda].",120.0
+Locho,Garlic Cheese Oil Locho,1,0,,120.0
+Locho,Cheese Butter Locho,1,0,"Served with sev, green chutney and onion [kanda].",140.0
+Locho,Garlic Cheese Butter Locho,1,0,,80.0
+Locho,Locha Nu Khiru,1,0,Served with chutney and masala.,80.0
+Khaman,Sada Khaman,1,0,Served with green chutney.,45.0
+Khaman,Vagharela Khaman,1,0,,99.0
+Khaman,Naylon Khaman,1,0,,70.0
+Khaman,"Rasawala Khaman [1 plate, 100 grams ]",1,0,,60.0
+Khaman,"Garlic Rasawala Khaman [1 Plate, 100 grams]",1,0,,70.0
+Khaman,Live Oil Khaman,1,0,"Comes with kadhi, raita marcha and kanda.",50.0
+Khaman,Live Oil Masala Khaman,1,0,"Comes with kadhi, raita marcha and kanda.",50.0
+Khaman,Dry Fruit Sev Khamni,1,0,,210.0
+Khaman,Live Sev Khamni,1,0,,180.0
+Khaman,Live Sev Khamni [Jain],1,0,,180.0
+Idla & Patra,Vagharela Idla,1,0,Served with green chutney and onion [kanda].,55.0
+Idla & Patra,Patra Sada,1,0,,70.0
+Idla & Patra,Vagharela Patra,1,0,,99.0
+Idla & Patra,Cheese Masala Idla [150 Gram],1,0,1 Plate,60.0
+Samosa,Kacha Chinese Samosa,1,0,Kacha,60.0
+Samosa,Kacha Dal Samosa with Chatni,1,0,,60.0
+Snacks and Sweets,Patudi,1,0,,70.0
+Snacks and Sweets,Cheese Sev Patudi,1,0,Served in 150 Grams.,50.0
+Snacks and Sweets,"Sweet Corn Dhokla [1 Plate, 125 grams]",1,0,,30.0
+Snacks and Sweets,Methi Na Gota,1,0,,75.0
+Snacks and Sweets,Sev,1,0,,40.0
+Snacks and Sweets,Papdi,1,0,,120.0
+Extras,Green Chutney,1,0,,10.0
+Extras,Garlic Chutney,1,0,,20.0
+Extras,Sauce Garlic Chutney,1,0,,20.0

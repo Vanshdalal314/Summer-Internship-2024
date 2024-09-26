@@ -1,0 +1,70 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Full Time Items,Finger Chips,1,0,"Salted fries, or simply fries, chips, finger chips, or French-fried potatoes, are batonnet ... read more",97.5
+Full Time Items,Idli Sambhar,1,0,|Serve 1| | 2| | Medium spicy|,97.5
+Full Time Items,Idli Vada,1,0,| Serves 1 | | Medium Spicy | | Served With Hot Sauce ... read more,110.5
+Full Time Items,Single Idli,1,0,,58.5
+Full Time Items,Single Samosa,1,0,|Medium spicy|,58.5
+Full Time Items,Single Vada,1,0,Soft on the inside and crispy on the outside vada that will leave ... read more,65.0
+Full Time Items,Vada Sambhar,1,0,A crispy and savory classic South Indian delight paired with warm and flavorful ... read more,110.5
+Full Time Items,Veg Samosa,1,0,A mouthwatering vegetarian snack filled with flavorful goodness.,97.5
+Full Time Items,Cheese Masala Dosa,1,0,"A crispy Indian pancake filled with a gooey, savory cheese filling and a ... read more",162.5
+Full Time Items,Cheese Uttapam,1,0,"Soft and spongy dosa, with gooey cheese sprinkled all over the top.",136.5
+Full Time Items,Masala Dosa,1,0,| Serves 1 | | Medium Spicy | | Served With Hot Sauce ... read more,117.0
+Full Time Items,Masala Uttapam,1,0,| Serves 1 | | Medium Spicy |,130.0
+Full Time Items,Mix Uttapam,1,0,A savory medley of flavors in every bite.,130.0
+Full Time Items,Mysore Masala Dosa,1,0,|Serve 1| | 1 Pc| | Dry| | Mediumspicy|,149.5
+Full Time Items,Mysore Sada Dosa,1,0,Crispy South Indian crepe with unique savory flavor.,123.5
+Full Time Items,Onion Rava Masala Dosa,1,0,Crispy Rava Dosa stuffed with flavorful onion masala.,136.5
+Full Time Items,Onion Rava Sada Dosa,1,0,| Serves 1 | | Medium Spicy |,123.5
+Full Time Items,Onion Uttapam,1,0,A savory South Indian delight studded with caramelized onions.,123.5
+Full Time Items,Rava Masala Dosa,1,0,A savoring South Indian crispy crepe with flavorful filling.,130.0
+Full Time Items,Rava Sada Dosa,1,0,A flavorful and savory vegetarian dish that's perfect for a light and satisfying ... read more,110.5
+Full Time Items,Sada Dosa,1,0,A light and crispy South Indian delicacy.,97.5
+Full Time Items,Special Masala Dosa,1,0,,149.5
+Full Time Items,Special Rava Masala Dosa,1,0,,162.5
+Full Time Items,Tomato Omelette,0,0,,117.0
+Full Time Items,Tomato Uttapam,1,0,A savory South Indian delicacy loaded with aromatic flavors.,123.5
+Full Time Items,Uttapam,1,0,"Uttapam made with toppings such as tomatoes, onion, chillies, capsicum and coriander with ... read more",97.5
+Full Time Items,Fry Papad,1,0,Serve 1,32.5
+Full Time Items,Masala Papad,1,0,"A crispy, flavorful vegetarian bite with a tantalizing mix of spices.",45.5
+Full Time Items,Roasted Papad,1,0,Crispy and flavorful Indian appetizer with a smokey roasted taste.,26.0
+Full Time Items,Green Salad,1,0,A deliciously aromatic and flavorful dish prepared from rice and stir-fried vegetables.,65.0
+Full Time Items,Special Salad,1,0,Serves 1,78.0
+Full Time Items,Bread Butter,1,0,A classic and comforting dish perfect for breakfast or a snack.,65.0
+Full Time Items,Bread Butter Jam,1,0,A classic combination of smooth butter and sweet jam spread over freshly baked ... read more,65.0
+Full Time Items,Cheese Sandwich,1,0,An indulgent sandwich made by grilling bread with a delectable cheese stuffing.,91.0
+Full Time Items,Chutney Sandwich,1,0,|Medium spicy|,65.0
+Full Time Items,Jam Sandwich,1,0,"Classic combination of cheese, jam, bread and butter in a sandwich.",65.0
+Full Time Items,Tomato Sandwich,1,0,,65.0
+Full Time Items,Veg Cheese Sandwich,1,0,A savory and creamy sandwich filled with vegetable goodness.,104.0
+Full Time Items,Veg Sandwich,1,0,A mouth-watering veg sandwich with layers of delicious flavors.,65.0
+Full Time Items,Boondi Raita,1,0,|Serves 1|,123.5
+Full Time Items,Dahi Boondi,1,0,A tangy and refreshing South Indian delight with a crispy texture.,123.5
+Full Time Items,Dahi Pineapple,1,0,,123.5
+Full Time Items,Dahi Potato,1,0,,123.5
+Full Time Items,Dahi Vada,1,0,| Serves 1 |,123.5
+Full Time Items,Veg Raita,1,0,A refreshing and flavorful Papad dish with a variety of vegetables.,97.5
+Full Time Items,Lime Juice,1,0,A refreshing and tangy juice bursting with zesty lime flavor.,26.0
+Full Time Items,Mango,1,0,A refreshing and fruity beverage perfect for hot summer days.,65.0
+Full Time Items,Maramari,1,0,,78.0
+Full Time Items,Mosambi,1,0,,78.0
+Full Time Items,Pineapple Juice,1,0,A refreshing blend of tropical sweetness in every sip.,78.0
+Full Time Items,Watermelon Juice,1,0,A refreshing and fruity beverage perfect for hot summer days.,65.0
+Full Time Items,Butter Milk,1,0,A creamy and tangy accompaniment that perfectly complements any meal.,32.5
+Full Time Items,Chikoo Chocolate Shake,1,0,Serves 1,91.0
+Full Time Items,Chikoo Milk Shake,1,0,,78.0
+Full Time Items,Chocolate Shake,1,0,A rich and creamy milkshake made with chocolate - a perfect chocolate indulgence.,78.0
+Full Time Items,Cold Coco Shake,1,0,,78.0
+Full Time Items,Cold Coffee Shake,1,0,,78.0
+Full Time Items,Dry Fruit Shake,1,0,,156.0
+Full Time Items,Kaju Anjeer Shake,1,0,An exotic blend of creamy cashews and succulent figs creates a deliciously indulgent ... read more,143.0
+Full Time Items,Kaju Badam Shake,1,0,Serves 1,143.0
+Full Time Items,Kaju Chikoo Shake,1,0,,143.0
+Full Time Items,Kaju Coco Shake,1,0,,143.0
+Full Time Items,Kaju Draksh Shake,1,0,Serves 1,143.0
+Full Time Items,Kaju Mango Shake,1,0,"A creamy, fruity blend that is refreshing and indulgent.",143.0
+Full Time Items,Kaju Pista Shake,1,0,Serves 1,143.0
+Full Time Items,Mango Shake,1,0,"Seasons special ripe, juicy mangoes blended into this super yummy shake.",78.0
+Full Time Items,Pineapple Milk Shake,1,0,,78.0
+Full Time Items,Salted Lassi,1,0,Serve 1,52.0
+Full Time Items,Sweet Lassi,1,0,A refreshing and creamy yogurt-based beverage with a touch of sweetness.,52.0

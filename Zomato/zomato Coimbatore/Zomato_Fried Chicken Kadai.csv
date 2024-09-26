@@ -1,0 +1,62 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Crispy Fried Chicken Wings,Chicken Wings [6 Pieces],0,0,Crispy fried chicken wings served with mayo.,179.0
+Crispy Fried Chicken Wings,Chicken Wings [12 Pieces],0,0,Crispy fried chicken wings served with mayo.,319.0
+Pan Tossed Chicken Wings,Chilli Garlic Pan Tossed Wings,0,0,Chicken wings tossed in our special chilli garlic sauce.,189.0
+Pan Tossed Chicken Wings,BBQ Pan Tossed Wings,0,0,Chicken wings tossed in our house BBQ sauce.,189.0
+Pan Tossed Chicken Wings,Honey Sriracha Pan Tossed Wings,0,0,Chicken wings tossed in our house blend of sriracha and honey.,189.0
+Pan Tossed Chicken Wings,Salt & Vinegar Pan Tossed Wings,0,0,Chicken wings tossed in in simple salt and vinegar.,189.0
+Pan Tossed Chicken Wings,Lemon Pepper Pan Tossed Wings,0,0,Chicken wings tossed in our special lemon pepper dust.,189.0
+Pan Tossed Chicken Wings,Peri Peri Pan Tossed Wings,0,0,Chicken wings tossed in our house blend of mustard and honey.,189.0
+Pan Tossed Chicken Wings,Mango Jalapeno Pan Tossed Wings,0,0,Chicken wings tossed in our house made mango jalapeno sauce.,189.0
+Assorted Fried Chicken,Fried Chicken Assorted [2 Pieces],0,0,Fried chicken.,199.0
+Assorted Fried Chicken,Fried Chicken Assorted [4 Pieces],0,0,,369.0
+Assorted Fried Chicken,Fried Chicken Assorted [8 Pieces],0,0,,699.0
+Assorted Fried Chicken,Fried Chicken Assorted [12 Pieces],0,0,,1029.0
+Fried Chicken Combos,Fried Chicken [2 Pieces] with Fries and Pepsi [475 ml],0,0,Fried Chicken [2 Pieces]+Fries+Pepsi Pet [475 ml],299.0
+Fried Chicken Combos,Fried Chicken [4 Pieces] with Fries and Pepsi Pet [475 ml],0,0,Fried Chicken [4 Pieces]+Fries+Pepsi Pet [475 ml],449.0
+Fried Chicken Combos,Fried Chicken [8 Pieces] with 2 Fries and 2 Pepsi [475ml],0,0,Fried Chicken [8 Pieces]+2 Fries+Pepsi Pet [475 ml],849.0
+Fried Chicken Combos,Fried Chicken Assorted & Wings Combo-Regular,0,0,Assorted Fried Chicken [4pieces] + Crispy Wings [4 Pieces]+Fries+Pepsi [475 ml],499.0
+Fried Chicken Combos,Fried Chicken Assorted + Wings Combo - Large,0,0,Fried Chicken Assorted  [8 Pieces] + Crispy Wings [8 Pieces]+2 Fries+2 Pepsi [475 ... read more,999.0
+Burgers,Veg Chipotle Burger,0,0,,129.0
+Burgers,Spicy Veg Burger,0,0,,159.0
+Burgers,Premium Chicken Burger,0,0,,179.0
+Burgers,Mexican Chicken Burger,0,0,A supremely delicious boneless chicken deep fried and presented with fresh veggies and ... read more,169.0
+Burgers,Spicy Chicken Burger,0,0,Chicken burger.,159.0
+Rolls,Veg Roll,0,0,,139.0
+Rolls,Spicy Paneer Roll,0,0,,169.0
+Rolls,Mushroom Roll,0,0,,169.0
+Rolls,Paneer Tikka Roll,0,0,,169.0
+Rolls,Chicken Tikka Roll,0,0,,179.0
+Rolls,Bhuna Chicken Roll,0,0,,159.0
+Rolls,Schezwan Chicken Roll,0,0,,179.0
+Starters,Peri Peri French Fries,0,0,,99.0
+Starters,Lemon Pepper French Fries,0,0,,99.0
+Starters,Chilli Garlic French Fries,0,0,,99.0
+Starters,Jalepeno Poppers,0,0,,199.0
+Starters,Veg Fingers,0,0,,169.0
+Starters,Chicken Fingers,0,0,,199.0
+Starters,Chicken Popcorn,0,0,,149.0
+Desserts,Choco Lava Cake,0,0,,99.0
+Desserts,Walnut Brownie,0,0,,109.0
+Desserts,Truffle Brownie,0,0,,99.0
+Desserts,Icy Lava,0,0,,169.0
+Desserts,Brownie Blast Sundae,0,0,,169.0
+Desserts,Gems Chocolate Sundae,0,0,,179.0
+Desserts,Oreo Cookie Sundae,0,0,,179.0
+Desserts,Ferrero Sundae,0,0,,189.0
+Desserts,Caramel Sundae,0,0,,179.0
+Desserts,Tres Leches,0,0,,249.0
+Drinks (Beverages),Mojito Mint,0,0,[Non Alcoholic],129.0
+Drinks (Beverages),Blue Curacao Mojito,0,0,[Non Alcoholic],129.0
+Drinks (Beverages),Lime Mint Mojito,0,0,[Non Alcoholic],129.0
+Drinks (Beverages),Choco Truffle Thickshake,0,0,,169.0
+Drinks (Beverages),Red Velvet Thickshake,0,0,,169.0
+Drinks (Beverages),Brownie Thickshake,0,0,,179.0
+Drinks (Beverages),Oreo Brownie Thickshake,0,0,,199.0
+Drinks (Beverages),KitKat Thickshake,0,0,,169.0
+Drinks (Beverages),Oreo KitKat Thickshake,0,0,,189.0
+Drinks (Beverages),Chocolate Frappe Milkshake,0,0,,99.0
+Drinks (Beverages),Rose Frappe Milkshake,0,0,,99.0
+Drinks (Beverages),Mango Frappe Milkshake,0,0,,109.0
+Drinks (Beverages),Strawberry Frappe Milkshake,0,0,,109.0
+Drinks (Beverages),Butterscotch Frappe Milkshake,0,0,Milkshake,99.0

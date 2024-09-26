@@ -1,0 +1,93 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Rice,Butter Tawa Pulao,1,0,,150.0
+Rice,Butter Green Pulao,1,0,,180.0
+Rice,Butter Cheese Pulao,1,0,,200.0
+Rice,Butter Green Cheese Pulao,1,0,,280.0
+Rice,Butter Cheese Paneer Pulao,1,0,,250.0
+Rice,Butter Green Cheese Paneer Pulao,1,0,,250.0
+South Indian,Oil Idli,1,0,,80.0
+South Indian,Butter Idli,1,0,,80.0
+South Indian,Oil Fried Idli,1,0,,110.0
+South Indian,Butter Fried Idli,1,0,,130.0
+South Indian,Butter Cheese Fried Idli,1,0,,170.0
+South Indian,Vada Sambar,1,0,,80.0
+South Indian,Oil Sada Dosa,1,0,,70.0
+South Indian,Butter Cheese Sada Dosa,1,0,,140.0
+South Indian,Oil Garlic Sada Dosa,1,0,,100.0
+South Indian,Butter Garlic Sada Dosa,1,0,,120.0
+South Indian,Butter Cheese Garlic Sada Dosa,1,0,,150.0
+South Indian,Oil Naylon Sada Dosa,1,0,,80.0
+South Indian,Butter Naylon Sada Dosa,1,0,,100.0
+South Indian,Butter Cheese Naylon Dosa,1,0,,150.0
+South Indian,Butter Paneer Sada Dosa,1,0,,140.0
+South Indian,Oil Masala Dosa,1,0,,120.0
+South Indian,Butter Masala Dosa,1,0,,150.0
+South Indian,Butter Cheese Masala Dosa,1,0,,170.0
+South Indian,Butter Paneer Masala Dosa,1,0,,170.0
+South Indian,Butter Paneer Cheese Masala Dosa,1,0,,200.0
+South Indian,Oil Jain Masala Dosa,1,0,,120.0
+South Indian,Butter Jain Masala Dosa,1,0,,150.0
+South Indian,Oil Mysore Masala Dosa,1,0,,130.0
+South Indian,Butter Mysore Masala Dosa,1,0,,160.0
+South Indian,Butter Cheese Mysore Masala Dosa,1,0,,200.0
+South Indian,Butter Paneer Cheese Mysore Dosa,1,0,,220.0
+South Indian,Oil Jain Mysore Masala Dosa,1,0,,130.0
+South Indian,Butter Jain Mysore Masala Dosa,1,0,,160.0
+South Indian,Butter Jain Cheese Mysore Dosa,1,0,,200.0
+South Indian,Butter Jain Paneer Cheese Mysore Dosa,1,0,,210.0
+South Indian,Oil Jain Mysore Sada Dosa,1,0,,100.0
+South Indian,Butter Jain Mysore Sada Dosa,1,0,,120.0
+South Indian,Oil Rava Masala Dosa,1,0,,140.0
+South Indian,Butter Rava Masala Dosa,1,0,,160.0
+South Indian,Butter Cheese Rava Masala Dosa,1,0,,190.0
+South Indian,Butter Paneer Rava Masala Dosa,1,0,,190.0
+South Indian,Oil Rava Sada Dosa,1,0,,90.0
+South Indian,Butter Rava Sada Dosa,1,0,,110.0
+South Indian,Butter Cheese Rava Sada Dosa,1,0,,140.0
+South Indian,Butter Rava Paneer Masala Dosa,1,0,,140.0
+South Indian,Butter Cheese Paneer Rava Masala Dosa,1,0,,220.0
+South Indian,Oil Masala Uttapam,1,0,,120.0
+South Indian,Butter Masala Uttapam,1,0,,150.0
+South Indian,Oil Onion Uttapam,1,0,,120.0
+South Indian,Butter Onion Uttapam,1,0,,150.0
+South Indian,Oil Jain Tomato Uttapam,1,0,,120.0
+South Indian,Butter Jain Tomato Uttapam,1,0,,150.0
+South Indian,Oil Mixed Uttapam,1,0,,120.0
+South Indian,Butter Mixed Uttapam,1,0,,150.0
+South Indian,Butter Cheese Uttapam,1,0,,180.0
+South Indian,Cheese Gotala Dosa,1,0,,280.0
+South Indian,Paneer Gotala Dosa,1,0,,280.0
+South Indian,Green Gotala Dosa,1,0,,300.0
+South Indian,Paneer Tukda Gotala Dosa,1,0,,300.0
+South Indian,Cheese Paneer Gotala Dosa,1,0,,300.0
+South Indian,Jini Roll Dosa,1,0,,250.0
+South Indian,Palak Paneer Dosa,1,0,,280.0
+South Indian,Cheese Palak Paneer Dosa,1,0,,300.0
+South Indian,Chinese Dosa,1,0,,220.0
+South Indian,Pizza Dosa,1,0,,250.0
+South Indian,Butter Sada Dosa,1,0,,100.0
+Pizza,Only Cheese Pizza [7 Inches],1,0,,150.0
+Pizza,Veg Cheese Pizza [7 Inches],1,0,"Onion, capsicum and tomato.",180.0
+Pizza,Tomato Pizza [7 Inches],1,0,,160.0
+Pizza,Special Pizza [7 Inches],1,0,"Vegetable, paneer and olive.",220.0
+Pizza,Cheese Corn Pizza [7 Inches],1,0,,180.0
+Sandwiches,Veg Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",80.0
+Sandwiches,Veg Cheese Sandwich,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",100.0
+Sandwiches,Veg Toast Sandwich,1,0,,80.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,120.0
+Sandwiches,Veg Grilled Sandwich,1,0,,120.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,150.0
+Sandwiches,Bombay Grilled Sandwich,1,0,,180.0
+Sandwiches,Mayo Veg Cheese Grilled Sandwich,1,0,,180.0
+Sandwiches,Special Grilled Sandwich,1,0,,220.0
+Snacks,Samosa,1,0,,80.0
+Snacks,Butter Pav Bhaji,1,0,"Pav [4 Pieces], papad and salad.",150.0
+Snacks,Butter Green Bhaji,1,0,"Pav [4 Pieces], papad and salad.",180.0
+Snacks,Butter Cheese Bhaji,1,0,"Pav [4 Pieces], papad and salad.",200.0
+Snacks,Butter Cheese Green Bhaji,1,0,"Pav [4 Pieces], papad and salad.",220.0
+Snacks,Butter Paneer Tukda Bhaji,1,0,"Pav [4 Pieces], papad and salad.",220.0
+Snacks,Butter Cheese Paneer Bhaji,1,0,"Pav [4 Pieces], papad and salad.",250.0
+Snacks,Bread Butter,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",50.0
+Snacks,Bread Butter Cheese,1,0,,80.0
+Snacks,Bread Butter Jam,1,0,,50.0
+Snacks,Jam Cheese Butter,1,0,,80.0

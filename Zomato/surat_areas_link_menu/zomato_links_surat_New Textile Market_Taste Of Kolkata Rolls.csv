@@ -1,0 +1,72 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Veg Rolls,Veg Roll,1,0,Served with Green Chutney & Salad,100.0
+Veg Rolls,Veg Cheese Roll,1,0,Served with Green Chutney & Salad,110.0
+Veg Rolls,Veg Schezwan Roll,1,0,Served with Green Chutney & Salad,110.0
+Veg Rolls,Veg Kasha Roll,1,0,Served with Green Chutney & Salad,110.0
+Veg Rolls,Veg Double Roll,1,0,Double Vegetable Quantity. Served with Green Chutney & Salad,130.0
+Veg Rolls,Veg Paneer Roll,1,0,Served with Green Chutney & Salad,150.0
+Veg Rolls,American Cheese Roll,1,0,Served with Green Chutney & Salad,140.0
+Paneer Rolls,Paneer Roll,1,0,Served with Green Chutney & Salad,120.0
+Paneer Rolls,Paneer Schezwan Roll,1,0,Served with Green Chutney & Salad,130.0
+Paneer Rolls,Paneer Tikka Roll,1,0,Served with Green Chutney & Salad,140.0
+Paneer Rolls,Paneer Kasha Roll,1,0,Served with Green Chutney & Salad,140.0
+Paneer Rolls,Double Paneer Roll,1,0,Served with Green Chutney & Salad,150.0
+Paneer Rolls,Paneer Malai Tikka Roll,1,0,Served with Green Chutney & Salad,170.0
+Egg Rolls,Egg Roll,0,0,Served with Green Chutney & Salad,100.0
+Egg Rolls,Egg Cheese Roll,0,0,Served with green chutney and salad.,120.0
+Egg Rolls,Double Egg Roll,0,0,Served with Green Chutney & Salad,120.0
+Egg Rolls,Egg Schezwan Roll,0,0,Served with Green Chutney & Salad,130.0
+Egg Rolls,Double Egg Schezwan Roll,0,0,Served with Green Chutney & Salad,140.0
+Egg Rolls,Egg Paneer Roll,0,0,Served with Green Chutney & Salad,140.0
+Egg Rolls,Egg Paneer Tikka Roll,0,0,Served with Green Chutney & Salad,150.0
+Egg Rolls,Double Egg Paneer Roll,0,0,Served with Green Chutney & Salad,150.0
+Egg Rolls,Egg Paneer Malai Tikka Roll,0,0,Served with Green Chutney & Salad,170.0
+Egg Rolls,Double Egg Double Paneer Roll,0,0,Served with Green Chutney & Salad,190.0
+Chicken Rolls,Chicken Roll,0,0,Served with Green Chutney & Salad,120.0
+Chicken Rolls,Egg Chicken Roll,0,0,Served with green chutney and salad.,130.0
+Chicken Rolls,Double Egg Chicken Roll,0,0,Served with Green Chutney & Salad,150.0
+Chicken Rolls,Double Chicken Roll,0,0,Served with Green Chutney & Salad,150.0
+Chicken Rolls,Egg Double Chicken Roll,0,0,Served with Green Chutney & Salad,150.0
+Chicken Rolls,Double Egg Double Chicken Roll,0,0,Served with Green Chutney & Salad,180.0
+Chicken Tikka Roll,Chicken Tikka Roll,0,0,Served with Green Chutney & Salad,140.0
+Chicken Tikka Roll,Egg Chicken Tikka Roll,0,0,Served with Green Chutney & Salad,150.0
+Chicken Tikka Roll,Double Egg Chicken Tikka Roll,0,0,Served with Green Chutney & Salad,160.0
+Chicken Tikka Roll,Egg Double Chicken Tikka Roll,0,0,Served with Green Chutney & Salad,160.0
+Chicken Tikka Roll,Double Egg Double Chicken Tikka Roll,0,0,Served with Green Chutney & Salad,220.0
+Chicken Malai Tikka Rolls,Chicken Malai Tikka Roll,0,0,Served with Green Chutney & Salad,150.0
+Chicken Malai Tikka Rolls,Egg Chicken Malai Tikka Roll,0,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",160.0
+Chicken Malai Tikka Rolls,Double Egg Chicken Malai Tikka Roll,0,0,Served with Green Chutney & Salad,180.0
+Chicken Malai Tikka Rolls,Egg Double Chicken Malai Tikka Roll,0,0,Served with Green Chutney & Salad,180.0
+Chicken Malai Tikka Rolls,Double Egg Double Chicken Malai Tikka Roll,0,0,Served with Green Chutney & Salad,280.0
+Chicken Kasha Roll,Chicken Kasha Roll,0,0,Served with Green Chutney & Salad,140.0
+Chicken Kasha Roll,Egg Chicken Kasha Roll,0,0,Served with Green Chutney & Salad,150.0
+Chicken Kasha Roll,Double Chicken Kasha Roll,0,0,Served with Green Chutney & Salad,160.0
+Chicken Kasha Roll,Double Egg Chicken Kasha Roll,0,0,Served with Green Chutney & Salad,160.0
+Chicken Kasha Roll,Egg Double Chicken Kasha Roll,0,0,Served with Green Chutney & Salad,160.0
+Chicken Kasha Roll,Double Egg Double Chicken Kasha Roll,0,0,Served with Green Chutney & Salad,200.0
+Chicken Schezwan Rolls,Chicken Schezwan Roll,0,0,Served with Green Chutney & Salad,130.0
+Chicken Schezwan Rolls,Egg Chicken Schezwan Roll,0,0,Served with Green Chutney & Salad,140.0
+Chicken Schezwan Rolls,Double Egg Chicken Schezwan Roll,0,0,Served with Green Chutney & Salad,150.0
+Chicken Schezwan Rolls,Egg Double Chicken Schezwan Roll,0,0,Served with Green Chutney & Salad,150.0
+Chicken Schezwan Rolls,Double Chicken Schezwan Roll,0,0,Served with Green Chutney & Salad,170.0
+Chicken Schezwan Rolls,Double Egg Double Chicken Schezwan Roll,0,0,Served with Green Chutney & Salad,200.0
+Tikka Plates,Paneer Tikka Plate [7 Pieces],1,0,[Veg preparation],200.0
+Tikka Plates,Paneer Malai Tikka Plate [7 pieces],1,0,[Veg preparation],240.0
+Tikka Plates,"Chicken Tikka Plate [7 Pieces, 1 Plate]",0,0,,210.0
+Tikka Plates,"Chicken Malai Tikka [1 Plate, 7 Pieces]",0,0,,250.0
+Chicken Pizza Rolls,Chicken Pizza Rolls,0,0,,160.0
+Chicken Pizza Rolls,Egg Chicken Pizza Rolls,0,0,,170.0
+Chicken Pizza Rolls,Double Egg Chicken Pizza Rolls,0,0,,180.0
+Chicken Pizza Rolls,Double Chicken Pizza Rolls,0,0,,190.0
+Chicken Pizza Rolls,Egg Double Chicken Pizza Rolls,0,0,,200.0
+Chicken Pizza Rolls,Double Egg Double Chicken Pizza Rolls,0,0,,210.0
+Momos,Chicken Momos [8Pcs],0,0,,150.0
+Momos,Chicken Fried Momos [8 Pieces],0,0,,180.0
+Momos,Paneer Steamed Momos [8 Pieces],1,0,,150.0
+Momos,Paneer Fried Momos [8 Pieces],1,0,,180.0
+Paneer Pizza Rolls,Paneer Pizza Roll,1,0,,150.0
+Paneer Pizza Rolls,Double Paneer Pizza Roll,1,0,,180.0
+Paneer Pizza Rolls,Egg Paneer Pizza Roll,0,0,,160.0
+Paneer Pizza Rolls,Double Egg Paneer Pizza Roll,0,0,,170.0
+Paneer Pizza Rolls,Egg Double Paneer Pizza Roll,0,0,,190.0
+Paneer Pizza Rolls,Double Egg Double Paneer Pizza Roll,0,0,,200.0

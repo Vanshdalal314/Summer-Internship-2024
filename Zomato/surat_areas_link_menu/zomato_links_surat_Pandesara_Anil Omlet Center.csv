@@ -1,0 +1,99 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Omelette,Oil Rajwadi Egg Omelette [5 Eggs],0,0,,320.0
+Omelette,Butter Rajwadi Egg Omelette [5 Eggs],0,0,,350.0
+Omelette,Oil Regular Omelette [2 Eggs],0,0,,100.0
+Omelette,Oil Limbu Mari Omelette [2 Eggs],0,0,,120.0
+Omelette,Oil Cheese Omelette [2 Eggs],0,0,,120.0
+Omelette,Oil Rasavali Omelette [3 Eggs],0,0,,170.0
+Omelette,Oil Surati Omelette [3 Eggs],0,0,,200.0
+Omelette,Butter Regular Omelette [2 Eggs],0,0,,120.0
+Omelette,Butter Limbu Mari Omelette [2 Eggs],0,0,,140.0
+Omelette,Butter Cheese Omelette [2 Eggs],0,0,,140.0
+Omelette,Butter Rasavali Omelette [3 Eggs],0,0,,200.0
+Omelette,Butter Surati Omelette [3 Eggs],0,0,,250.0
+Starters,Oil Egg Russian Fry [2 Eggs],0,0,,170.0
+Starters,Oil Egg Chinese Fry [2 Eggs],0,0,,170.0
+Starters,Butter Egg Russian Fry [2 Eggs],0,0,,220.0
+Starters,Butter Egg Chinese Fry [2 Eggs],0,0,,220.0
+Main Course,Oil Tikri Tadka [2 Eggs],0,0,,170.0
+Main Course,Oil Patra [2 Eggs],0,0,,170.0
+Main Course,Oil Dal Fry [2 Eggs],0,0,,170.0
+Main Course,Oil Malai Kofta [2 Eggs],0,0,,180.0
+Main Course,Oil Kachu Tadka [2 Eggs],0,0,,200.0
+Main Course,Oil Egg Paplet [4 Eggs],0,0,,250.0
+Main Course,Butter Thikri Tadka [2 Eggs],0,0,,200.0
+Main Course,Butter Patra [2 Eggs],0,0,,200.0
+Main Course,Butter Dal Fry [2 Eggs],0,0,,200.0
+Main Course,Butter Malai Kofta [2 Eggs],0,0,,220.0
+Main Course,Butter Kachu Tadka [2 Eggs],0,0,,250.0
+Main Course,Butter Paplet [2 Eggs],0,0,,300.0
+Main Course,Butter Bhurji Pulao [3 Eggs],0,0,,250.0
+Main Course,Oil Egg Keema [2 Eggs],0,0,,150.0
+Main Course,Oil Egg Kadi [2 Eggs],0,0,,160.0
+Main Course,Oil Egg Bhurji [2 Eggs],0,0,,150.0
+Main Course,Oil Egg Tomato Keema [2 Eggs],0,0,,150.0
+Main Course,Oil Egg Lachko [2 Eggs],0,0,,160.0
+Main Course,Oil Egg Lasan Kachu [2 Eggs],0,0,,160.0
+Main Course,Oil Egg Tukka Shak Red [2 Eggs],0,0,,160.0
+Main Course,Oil Egg Tukka Shak Green [2 Eggs],0,0,,160.0
+Main Course,Oil Egg Ghotala [2 Eggs],0,0,,160.0
+Main Course,Oil Egg Goti Gotalo [2 Eggs],0,0,,160.0
+Main Course,Oil Egg Fry Paki Bhurji [2 Eggs],0,0,,160.0
+Main Course,Oil Egg Lahori [2 Eggs],0,0,,170.0
+Main Course,Oil Egg Lahori Tadka [2 Eggs],0,0,,200.0
+Main Course,Oil Egg Kachi Lahori [2 Eggs],0,0,,170.0
+Main Course,Oil Egg Australian Fry [2 Eggs],0,0,,170.0
+Main Course,Oil Egg Ravaiya [2 Eggs],0,0,,170.0
+Main Course,Butter Egg Keema [2 Eggs],0,0,,200.0
+Main Course,Butter Egg Kadi [2 Eggs],0,0,,200.0
+Main Course,Butter Egg Bhurji [2 Eggs],0,0,,200.0
+Main Course,Butter Egg Tomato Keema [2 Eggs],0,0,,200.0
+Main Course,Butter Egg Lachko [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Lasan Kachu [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Red Tukka Shak [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Tukka Shak Green [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Gotalo [2 Eggs],0,0,,200.0
+Main Course,Butter Egg Goti Gotalo [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Fry Paki Bhurji [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Lahori [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Tadka Lahori [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Kachi Lahori [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Australian Fry [2 Eggs],0,0,,220.0
+Main Course,Butter Egg Ravaiya [2 Eggs],0,0,,220.0
+Main Course,Cheese Egg Keema,0,0,,170.0
+Rice,Oil Pulao [2 Eggs],0,0,,170.0
+Rice,Oil Cheese Gravy Pulao [3 Eggs],0,0,,250.0
+Rice,Oil Bhurji Pulao [3 Eggs],0,0,,200.0
+Rice,Butter Pulao [2 Eggs],0,0,,220.0
+Rice,Butter Cheese Gravy Pulao [3 Eggs],0,0,,300.0
+Snacks,Oil Royal Cut [2 Eggs],0,0,,170.0
+Snacks,Oil Egg Patudi [4 Eggs],0,0,,300.0
+Snacks,Oil Egg Mamna [5 Eggs],0,0,,300.0
+Snacks,Oil Egg Kasata [5 Eggs],0,0,,320.0
+Snacks,Special Oil Egg Surti [5 Eggs],0,0,,350.0
+Snacks,Oil Paratha Egg Cutlet [5 Pieces],0,0,,350.0
+Snacks,Oil Egg Ghari [5 Eggs],0,0,,350.0
+Snacks,Butter Royal Cut [2 Eggs],0,0,,200.0
+Snacks,Butter Egg Patudi [4 Eggs],0,0,,350.0
+Snacks,Butter Egg Mamna [5 Eggs],0,0,,350.0
+Snacks,Butter Egg Kasata [5 Eggs],0,0,,350.0
+Snacks,Special Butter Egg Surti [5 Eggs],0,0,,400.0
+Snacks,Egg Butter Paratha Cutlet [5 Pieces],0,0,,400.0
+Snacks,Butter Egg Ghari [5 Eggs],0,0,,400.0
+Snacks,Oil Cutlet [2 Eggs],0,0,,120.0
+Snacks,Butter Cutlet [2 Eggs],0,0,,140.0
+Snacks,Oil Plain Fry [2 Eggs],0,0,,100.0
+Snacks,Oil Lasan Fry [2 Eggs],0,0,,150.0
+Snacks,Oil Tomato Fry [2 Eggs],0,0,,150.0
+Snacks,Oil Chutney Fry [2 Eggs],0,0,,160.0
+Snacks,Oil Green Fry [3 Eggs],0,0,,200.0
+Snacks,Butter Plain Fry [2 Eggs],0,0,,120.0
+Snacks,Butter Lasan Fry [2 Eggs],0,0,,200.0
+Snacks,Butter Tomato Fry [2 Eggs],0,0,,200.0
+Snacks,Butter Chutney Fry [2 Eggs],0,0,,200.0
+Snacks,Butter Green Fry [3 Eggs],0,0,,250.0
+Snacks,Boiled Egg [1 Egg],0,0,,15.0
+Snacks,Plain Cheese Boiled [1 Egg],0,0,,35.0
+Snacks,Masala Boiled Fry [1 Egg],0,0,,60.0
+Roll,Oil Cheese Egg Roll [4 Eggs],0,0,,300.0
+Roll,Butter Cheese Egg Roll [4 Eggs],0,0,,350.0

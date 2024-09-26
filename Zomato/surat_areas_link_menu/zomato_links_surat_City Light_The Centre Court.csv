@@ -1,0 +1,41 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Crunchy Caramel Chocolate Cake,0,0,,700.0
+Cakes,German Chocolate Cake,0,0,,860.0
+Cakes,Silk Chocolate Cake,0,0,,505.0
+Cakes,English Toffee Cake,1,0,,970.0
+Cakes,Rocher Cake,0,0,,700.0
+Cakes,Butterscotch Cake,0,0,,700.0
+Cakes,Red Velvet Cake,0,0,,515.0
+Cheese Cake Slice,Baked Cheese Pastry Strawberry [95 grams],1,0,,200.0
+Cheese Cake Slice,Baked Cheese Pasty Chocolate Topped,1,0,,200.0
+Cheese Cake Slice,Baked Cheese Pastry,1,0,80 Gm,200.0
+Cheese Cake Slice,"Blueberry Cheesecake [90 grams,Slice]",1,0,,200.0
+Cheese Cake Slice,Nutella Cheesecake [80 grams Slice],1,0,,200.0
+Cheese Cake Slice,"Biscoff Cheesecake [80 grams,Slice]",1,0,,210.0
+Donuts,"Classic Glazed Donut [1 Piece, 50 grams]",1,0,,100.0
+Donuts,"Cinnamon Sugar Donut [1 Piece, 40 grams]",1,0,,100.0
+Donuts,Dark Chocolate Donut [40 grams],1,0,,130.0
+Donuts,Milk Chocolate Donut [40 grams],1,0,Sweet milk chocolate.,130.0
+Donuts,Kiddie Gems Donut [40 grams],1,0,,130.0
+Donuts,White Chocolate Donut [40 grams],1,0,,130.0
+Donuts,Oreo Cookie Donut [40 grams],1,0,,130.0
+Donuts,Nutella Donut [40 grams],1,0,,150.0
+Pastries,Mango Pastry [75 grams],1,0,,160.0
+Pastries,Red Velvet Pastry [65 grams],1,0,,160.0
+Pastries,Eggless German Chocolate Pastry,1,0,85 Gm,160.0
+Pastries,Heart Shape Chocolate Mousse [100 grams],1,0,,180.0
+"Brownies, Lava Cake & Pies",Chocolate Brownie [60 grams],1,0,,140.0
+"Brownies, Lava Cake & Pies",Walnut Brownie,1,0,,150.0
+"Brownies, Lava Cake & Pies",Apple Pie [95 grams],1,0,,160.0
+"Brownies, Lava Cake & Pies",Tiramisu Jar,1,0,"90 Grams Tiramisu - A classic Italian dessert with layers of espresso-soaked ladyfingers, ... read more",190.0
+Pizza,Veggie Primavera Pizza,1,0,"Onion, green peppers, mushroom, tomato, blend of cheese.",240.0
+Pizza,Margherita Pizza,1,0,"Classic pizza sauce, basil, house blend of cheese.",240.0
+Pizza,Caprese Pizza,1,0,"Classic tomato sauce, cherry tomatoes, basil and house blend cheese.",240.0
+Pizza,Angry Mushroom Pizza,1,0,Fiery and mushroom yellow and red peppers.,250.0
+Pizza,Veg Hawaiian Pizza,1,0,"Grilled pineapple, paneer, tomato, onions, jalapeno, mozzarella fresh basil sauteed with our secret ... read more",250.0
+Cold Coffee,Iced Latte,1,0,"Dark roast espresso blended with ice and milk, u can simply call it ... read more",190.0
+Cold Coffee,Vietnamese Cold Brew,1,0,,190.0
+Cold Coffee,Frappe Latte,1,0,Dark roast espresso blended with vanilla ice cream base for that thick cold ... read more,220.0
+Cold Coffee,Java Chip Frappe,1,0,,220.0
+Macarons,Dark Chocolate Macaron,0,0,,50.0
+Macarons,Strawberry Macaron,0,0,,50.0

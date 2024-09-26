@@ -1,0 +1,55 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Plain Biryani,0,0,A protein packed combo of half portion of plain biriyani raita and gravy.,68.0
+Biryani,Egg Biryani,0,0,A scrumptious of flavor packed egg biryani served with raita.,90.0
+Biryani,Chicken Biryani,0,0,A scrumptious of flavor packed chicken biryani.,113.0
+Biryani,Gilma Chicken Biryani,0,0,"Specially added ingredient, spice, fried biryani with chicken.",135.0
+Biryani,Chicken 65 Biryani,0,0,,120.0
+Biryani,Chicken Pepper Biryani,0,0,,130.0
+Starters,Boneless Chilli Chicken [Serves 1],0,0,Boneless chilli chicken.,135.0
+Starters,Chilli Chicken,0,0,[12Pm-11pm],80.0
+Starters,Chicken Lollipop [2 Pieces],0,0,,80.0
+Starters,Butter Chicken Dry,0,0,,150.0
+Starters,Chettinad Chicken Dry,0,0,,135.0
+Starters,Pepper Chicken Dry,0,0,A delightfully succulent chicken fry with extra punch of pepper.,135.0
+Starters,Garlic Chicken Dry,0,0,A deliciously tasty garlic chicken pieces.,135.0
+Starters,Ginger Chicken Dry,0,0,A delightfully flavorful mouth-watering ginger chicken assorted on gravy,135.0
+Starters,Chicken Manchurian Dry,0,0,"Deep fried, crispy Chicken florets tossed in a thick and spicy manchurian.",135.0
+Starters,Pallipalayam Chicken Dry,0,0,,120.0
+Starters,Chicken Chukka,0,0,,135.0
+Meals,Veg Meal,0,0,Rice+Sambar+Rasam+Kootu+Poriyal+Curd+Papaddam,110.0
+Meals,Non Veg Meal,0,0,Rice+Chettinad Chicken Gravy+Sambar+Rasam+Special Kolambu+Kootu+Poriyal+Buttermilk+Papad,210.0
+Main Course,Egg Masala,0,0,A flavorsome combo of irresistibly gravy with chicken pieces.,80.0
+Main Course,Egg Bhurji,0,0,,90.0
+Main Course,Butter Chicken Gravy,0,0,The all time favorite creamy butter chicken,150.0
+Main Course,Chettinad Chicken Gravy,0,0,Lip smacking spicy chettinad chicken gravy.,135.0
+Main Course,Pepper Chicken Gravy,0,0,A delightfully succulent Chicken gravy with extra punch of pepper.,135.0
+Main Course,Garlic Chicken Gravy,0,0,A deliciously aromatic gravy of tasty garlic chicken.,135.0
+Main Course,Ginger Chicken Gravy,0,0,A delightfully flavorful mouth watering ginger dry chicken.,135.0
+Main Course,Chicken Manchurian Gravy,0,0,A wholesome and delicious mouthwatering chicken manchurian gravy.,135.0
+Main Course,Pallipalayam Gravy,0,0,,140.0
+Breads,3 Parotta,0,0,,45.0
+Breads,2 Chapati,0,0,,45.0
+Breads,Veechu Parotta,0,0,"Paper thin parthas stuffed folded to form an envelope, fried on both sides.",35.0
+Breads,Egg Kothu Parotta,0,0,"A minced preparation of flatbreads, egg and veggies along with gravy.",90.0
+Breads,Egg Veechu Parotta,0,0,A hearty preparation with paratha stuffed with seasoned egg and tawa toasted.,53.0
+Breads,Chicken Kothu Parotta,0,0,"A delightfully wholesome combo with chicken kothu parota, plain gravy.",150.0
+Breads,Chilli Parotta,0,0,,90.0
+Breads,Chicken Vecchu Parotta,0,0,,150.0
+Breads,Egg Lappa,0,0,,80.0
+Breads,Chicken Cylon Parotta,0,0,,150.0
+Breads,Chicken Illai Parotta,0,0,,160.0
+Fried Rice and Noodles,Veg Fried Rice,0,0,"Nutritious biriyani, cooked with select spices and packed with vegetables served with gravy ... read more",80.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,A delightful meal if egg fried rice served with sauce.,90.0
+Fried Rice and Noodles,Schezwan Egg Fried Rice,0,0,,105.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,A delightful meal if chicken fried rice served with sauce,120.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,A deliciously spicy preparation with rice and juicy chicken chunks tossed in fiery ... read more,135.0
+Fried Rice and Noodles,Veg Noodles,0,0,A scrumptious combo of veg noodles and sauce.,80.0
+Fried Rice and Noodles,Egg Noodles,0,0,A delightful meal if egg noodles rice served with sauce,90.0
+Fried Rice and Noodles,Schezwan Egg Noodles,0,0,,105.0
+Fried Rice and Noodles,Chicken Noodles,0,0,A wholesome combo of scrumptious chicken noodles,120.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,A deliciously spicy preparation with noodles and juicy chicken chunks tossed in fiery ... read more,135.0
+Snacks,Kalaki,0,0,Whisked egg mixture poured on a hot iron skillet and then folded into ... read more,23.0
+Snacks,Kolambo Kalaki,0,0,,25.0
+Snacks,Omeltte,0,0,,25.0
+Snacks,One Side Omeltte,0,0,,25.0
+Snacks,Full Boiled Egg,0,0,,20.0

@@ -1,0 +1,18 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Lunch,Meals,1,0,"Includes Rice, Sambar, Puli Kuzhambu, Rasam, Poriyal, Kootu, Appalam, Payasam and Curd(550 g)",105.0
+Variety Rice,Tomato Rice,1,0,,70.0
+Variety Rice,Sambar Rice,1,0,250 G,70.0
+Variety Rice,Curd Rice [250 grams],1,0,,60.0
+Variety Rice,Lemon Rice,1,0,A deliciously tangy dish made with rice in a lemon-based masala spiced with ... read more,60.0
+Quick bites,Kara Paniyaram set,1,0,6 Pieces,60.0
+Quick bites,Coconut Oppitu,1,0,2 Pieces,30.0
+Quick bites,Dal Oppitu,1,0,2 Pieces,30.0
+Extras,Curd,1,0,,10.0
+Hot drinks,Tea for 2,1,0,,50.0
+Hot drinks,Coffee for 2,1,0,,52.0
+Hot drinks,Ginger tea for 2,1,0,,60.0
+Hot drinks,Green tea for 2,1,0,,60.0
+Hot drinks,Masala Tea for 2,1,0,,60.0
+Hot drinks,Horlicks for 2,1,0,,60.0
+Hot drinks,Boost for2,1,0,,60.0
+Hot drinks,Sukkumalli Coffee for 2,1,0,,50.0

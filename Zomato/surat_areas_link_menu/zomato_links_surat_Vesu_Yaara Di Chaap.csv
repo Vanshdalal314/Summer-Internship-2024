@@ -1,0 +1,41 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Spicy Dry Chaap,Dry Banjara Chaap (4 Pcs),1,0,[Veg preparation],325.0
+Spicy Dry Chaap,Veg Fish Tikka (Yellow),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",260.0
+Spicy Dry Chaap,Veg Makhmali Tikka (White),1,0,,260.0
+Spicy Dry Chaap,Masala Chaap,1,0,,325.0
+Spicy Dry Chaap,Veg Tandoori Tikka (Red),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",260.0
+Spicy Dry Chaap,Veg Zafrani Tikka(Green),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",260.0
+Spicy Dry Chaap,Veg. Hyderabadi Garlic Chaap,1,0,,349.0
+Creamy Chaap,Veg Afghani Chaap (Red),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",310.0
+Creamy Chaap,Veg Haryali Tikka (Green),1,0,,310.0
+Creamy Chaap,Veg Reshmi Tikka (White),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",310.0
+Creamy Chaap,Veg. Creamy Garlic Chaap,1,0,,325.0
+Creamy Chaap,Veg. Creamy Lemon Tikka,1,0,,325.0
+Cheesy Creamy Chaap,Veg Fish Malai Chaap,1,0,,351.0
+Cheesy Creamy Chaap,Veg Kashmiri Tikka,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",325.0
+Cheesy Creamy Chaap,Veg Malai Boti Tikka (White),1,0,[Veg preparation],325.0
+Cheesy Creamy Chaap,Veg Malai Murakhan Chaap,1,0,,499.0
+Cheesy Creamy Chaap,Veg Murakhan Chaap,1,0,[Veg preparation],499.0
+Cheesy Creamy Chaap,Veg Pahadi Tikka (Red),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",325.0
+Cheesy Creamy Chaap,Veg Schezwan Boti Tikka (Red),1,0,[Veg preparation],325.0
+Cheesy Creamy Chaap,Veg Tandoori Malai Chaap,1,0,,351.0
+Cheesy Creamy Chaap,Veg Zafrani Malai Chaap,1,0,,351.0
+Cheesy Creamy Chaap,Veg. Green Garden Chaap,1,0,,399.0
+Cheesy Creamy Chaap,Veg. Makhmali Malai Chaap,1,0,,351.0
+Creamy Gravy Chaap(Semi Gravy),Cheesy Laziz Chaap (Orange),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",351.0
+Creamy Gravy Chaap(Semi Gravy),Creamy Black Pepper Chaap (White),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",351.0
+Creamy Gravy Chaap(Semi Gravy),Creamy Butter Masala Chaap (Red),1,0,,351.0
+Creamy Gravy Chaap(Semi Gravy),Creamy Pesto Chaap(Green),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",351.0
+Creamy Gravy Chaap(Semi Gravy),Red Chilly Masala Chaap (Red),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",299.0
+Creamy Gravy Chaap(Semi Gravy),Veg Fish Curry (Yelow),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",299.0
+Creamy Gravy Chaap(Semi Gravy),Veg Tandoori Curry (Red),1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",299.0
+Chaap Roll,Malai Chaap Roll,1,0,,270.0
+Chaap Roll,Tandoori Chaap Roll,1,0,,270.0
+Punjabi Gravy Chaap(Gravy),Amritsari Chap,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",325.0
+Punjabi Gravy Chaap(Gravy),Angara Chaap,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",299.0
+Punjabi Gravy Chaap(Gravy),Kadai Chap,1,0,,325.0
+Punjabi Gravy Chaap(Gravy),Makhni Chaap,1,0,,299.0
+Tawa Roti,Butter Roti,1,0,,23.0
+Tawa Roti,Plain Roti,1,0,,20.0
+Extra,Butter Milk (220ml),1,0,,49.0
+Extra,Extra Chutney,1,0,,20.0

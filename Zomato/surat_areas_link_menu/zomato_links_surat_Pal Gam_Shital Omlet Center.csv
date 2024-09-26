@@ -1,0 +1,92 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Egg Lasan Fry,0,0,,70.0
+Starters,Egg Sadi Fry,0,0,,70.0
+Starters,Egg Lasan Kachu,0,0,,70.0
+Starters,Egg Tomato Fry,0,0,,70.0
+Starters,Egg Goti Fry,0,0,,80.0
+Starters,Egg Chinese Fry,0,0,,100.0
+Starters,Egg Cheese Fry,0,0,,110.0
+Starters,Egg Masala Boiled Fry,0,0,,110.0
+Starters,Egg Green Boiled Fry,0,0,,120.0
+Starters,Egg Gotalo Fry,0,0,,130.0
+Starters,Egg Dosa Dry,0,0,,130.0
+Main Course,Egg Lehsun Gotalo,0,0,,130.0
+Main Course,Boiled Egg Tikka Gravy,0,0,,200.0
+Main Course,Egg Angoor Rabdi,0,0,,240.0
+Main Course,Egg Akuri,0,0,,190.0
+Main Course,Egg Dosa Gravy,0,0,,130.0
+Main Course,Egg Maharaja,0,0,,240.0
+Main Course,Egg Toofani,0,0,,260.0
+Main Course,Egg Green Roll Gravy,0,0,,320.0
+Main Course,Egg Green Tadka,0,0,,290.0
+Main Course,Egg Hyderabadi,0,0,,320.0
+Main Course,Egg Hyderabadi Dosa Gravy,0,0,,290.0
+Main Course,Egg Jaipuri,0,0,,210.0
+Main Course,Egg Kolhapuri,0,0,,240.0
+Main Course,Egg Paplet,0,0,,290.0
+Main Course,Egg Lahori,0,0,,160.0
+Main Course,Egg Lucknowi,0,0,,290.0
+Main Course,Egg Laziz,0,0,,260.0
+Main Course,Egg Mixed Lahori,0,0,,210.0
+Main Course,Egg Mix Gravy Kachu,0,0,,240.0
+Main Course,Omelette Roll Gravy,0,0,,290.0
+Main Course,Egg Rabdi,0,0,,190.0
+Main Course,Egg Ravaiya,0,0,,240.0
+Main Course,Egg Red Tadka,0,0,,290.0
+Main Course,Egg Surti,0,0,,210.0
+Main Course,Egg Surti Tadka,0,0,,210.0
+Main Course,Machhi Curry,0,0,,240.0
+Main Course,Egg Afghani Fry,0,0,,320.0
+Main Course,Australian Red Egg Fry,0,0,,290.0
+Main Course,Egg Italian Fry,0,0,,320.0
+Main Course,Egg Mexican Fry,0,0,,290.0
+Main Course,Egg Russian Fry,0,0,,320.0
+Main Course,Egg Triple Fry,0,0,,290.0
+Main Course,Australian Green Egg Fry,0,0,,290.0
+Main Course,Egg One 2 ka 4,0,0,,360.0
+Main Course,Egg Special Laziz,0,0,,360.0
+Main Course,Egg Surti Takatak,0,0,,390.0
+Main Course,Egg Punjabi Tadka,0,0,,390.0
+Main Course,Egg Hariyali,0,0,,390.0
+Main Course,Egg Red Chilli,0,0,,390.0
+Main Course,Egg 007,0,0,,390.0
+Main Course,Egg Double Decker,0,0,,340.0
+Main Course,Egg Rajwadi,0,0,,350.0
+Main Course,Egg Shital Special Gravy,0,0,,390.0
+Main Course,Egg Pizza Gravy,0,0,,420.0
+Main Course,Egg Bhurji,0,0,,70.0
+Main Course,Egg Gotalo,0,0,,130.0
+Main Course,Goti Gotalo,0,0,,190.0
+Main Course,Egg Green Kofta,0,0,,170.0
+Main Course,Egg Keema,0,0,,70.0
+Main Course,Egg Curry,0,0,,70.0
+Main Course,Lehsun Bhurji,0,0,,70.0
+Main Course,Egg Masala Gotalo,0,0,,130.0
+Main Course,Egg Keema Masala,0,0,,70.0
+Main Course,Egg Red Kofta,0,0,,170.0
+Main Course,Egg Tomato Gotalo,0,0,,170.0
+Bread,Rotli,1,0,,20.0
+Bread,Pav [4 Pieces],1,0,,30.0
+Fried Rice,Egg Bhurji Rice,0,0,,200.0
+Fried Rice,Egg Red Rice,0,0,,200.0
+Fried Rice,Egg Green Rice,0,0,,200.0
+Sandwiches,Egg Sandwich,0,0,,100.0
+Sandwiches,Egg Cheese Sandwich,0,0,,120.0
+Snacks,Omelette,0,0,,60.0
+Snacks,Omelette Sandwich,0,0,,80.0
+Snacks,American Omelette,0,0,,110.0
+Snacks,Cheese Sandwich,0,0,,100.0
+Snacks,Nimbu Mari Omelette,0,0,,100.0
+Snacks,Punjabi Omelette,0,0,,130.0
+Snacks,Pizza Omelette,0,0,,340.0
+Snacks,Egg Locho,0,0,,130.0
+Snacks,Cheese Egg Locho,0,0,,160.0
+Snacks,Cutlets,0,0,,60.0
+Snacks,Boiled Egg,0,0,,20.0
+Snacks,Boiled Cheese Egg,0,0,,110.0
+Snacks,Boiled Egg Chips,0,0,,200.0
+Snacks,Boiled Egg Dry Roll,0,0,,200.0
+Snacks,Cocktail Omelette,0,0,[Non Alcoholic],160.0
+Accompaniments,Tomato Chutney,1,0,,70.0
+Accompaniments,Lasan Chutney,1,0,,70.0
+Accompaniments,Boiled Egg Salad,0,0,,60.0

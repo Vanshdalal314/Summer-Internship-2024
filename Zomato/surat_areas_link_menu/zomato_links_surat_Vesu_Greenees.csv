@@ -1,0 +1,54 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Idli,Idli [2 Pieces],1,0,,67.0
+Idli,Butter Idli [2 Pieces],1,0,,90.0
+Idli,Special Masala Idli [2 Pieces],1,0,,94.0
+Idli,Peri Peri Idli [2 Pieces],1,0,,94.0
+Idli,Chocolate Idli [2 Pieces],1,0,,94.0
+Idli,Cheese Masala Idli [2 Pieces],1,0,,100.0
+Idli,Cheese Butter Idli [2 Pieces],1,0,,121.0
+Chinese,Veg Manchurian Dry,1,0,,150.0
+Chinese,Chinese Bhel,1,0,,180.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,190.0
+Pizza and Kulcha,Veg Cheese Pizza,1,0,,161.0
+Pizza and Kulcha,Italiano Pizza,1,0,,202.0
+Pizza and Kulcha,Veg Cheese Paneer Pizza,1,0,,188.0
+Pizza and Kulcha,Tandoori Paneer Pizza,1,0,,202.0
+Pizza and Kulcha,Maggi Pizza,1,0,,202.0
+Pizza and Kulcha,Veg Cheese Khakhra Pizza,1,0,,134.0
+Ulta Pizza,Veg Cheese Ulta Pizza,1,0,,175.0
+Ulta Pizza,Tandoori Paneer Ulta Pizza,1,0,,199.0
+Ulta Pizza,Cocktail Ulta Pizza,1,0,,199.0
+Burger & Fries,Veg Burger,1,0,,67.0
+Burger & Fries,Veg Cheese Burger,1,0,,67.0
+Burger & Fries,Tandoori Cheese Burger,1,0,,108.0
+Sandwiches,Veg Sandwich,1,0,,67.0
+Sandwiches,Veg Cheese Sandwich,1,0,,94.0
+Sandwiches,Veg Toast Sandwich,1,0,,81.0
+Sandwiches,Aloo Masala Toast Sandwich,1,0,,105.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,108.0
+Sandwiches,Cheese Chilli Toast Sandwich,1,0,,108.0
+Sandwiches,Maggi Toast Sandwich,1,0,,105.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,188.0
+Sandwiches,Chocolate Grilled Sandwich,1,0,,202.0
+Sandwiches,Greenees Special Grilled Sandwich,1,0,,215.0
+Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,,228.0
+Open Toast,Open Toast,1,0,,108.0
+Garlic Breads,Cheese Garlic Bread,1,0,,181.0
+Maska Bun and Bread Butter,Maska Bun,1,0,,40.0
+Maska Bun and Bread Butter,Bread Butter Jam,1,0,,47.0
+Maggi,Masala Maggi,1,0,,67.0
+Maggi,Double Masala Maggi,1,0,,81.0
+Maggi,Tandoori Maggi,1,0,,81.0
+Maggi,Schezwan Maggi,1,0,,81.0
+Maggi,Vegetable Maggi,1,0,,99.0
+Maggi,Chilli Garlic Maggi,1,0,,99.0
+Frankie,Veg Frankie,1,0,,67.0
+Frankie,Veg Cheese Frankie,1,0,,81.0
+Frankie,Tandoori Cheese Frankie,1,0,,81.0
+Frankie,Schezwan Cheese Frankie,1,0,,81.0
+Frankie,Mayo Frankie,1,0,,81.0
+Biscuit Pie,Biscuit Pie,1,0,,134.0
+Tea and Coffee,Ginger Tulsi Masala Tea,1,0,,27.0
+Tea and Coffee,Green Leaf Tulsi Pudina Tea,1,0,,27.0
+Tea and Coffee,Lemon Iced Tea,1,0,,67.0
+Tea and Coffee,Cold Coffee [200 ml],1,0,,101.0

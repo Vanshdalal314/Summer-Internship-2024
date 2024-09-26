@@ -1,0 +1,80 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Burger,Angara Punjab Burger (V),1,0,Rajasthani angara spices meet punjabi flavors topped with our magic mayonnaise and premium ... read more,108.0
+Burger,Batata Harra Burger (V),1,0,Fusion burger made from Lebanese and South Indian spices perfected to Indian palate ... read more,68.0
+Burger,Bhuna Mediterranean Burger (V),1,0,Patty made from Coastal Mediterranean European flavors with roasted notes of garlic topped ... read more,83.0
+Burger,Cheese Burger (V),1,0,Tasty cheesy burger,179.0
+Burger,Spicy Dynamite Burger (V),1,0,Spiceup ur tastebuds with spicy Patty & Dynamite Mayo,129.0
+Burger,Spicy Veggie Burger (V),1,0,All-Time favorite patty made from potatoes & other veggies topped with our premium ... read more,160.0
+Burger,Bond Burger (V),1,0,Premium patty made from North Indian achari flavour topped with our dual dip ... read more,194.0
+Burger,Rockstar Burger (V),1,0,Premium patty made from North Indian achari flavour topped with our dual dip ... read more,205.0
+Burger,Spicy Paneer Burger (V),1,0,Patty made with cajun spices from West and Indian spices from East topped ... read more,217.0
+Burger,Spinach Corn Burger (V),1,0,"Refreshing patty made from spinach, corns, potato & cheese topped with our dual ... read more",181.0
+Burger,Bond Bomber Burger (V),1,0,Smoky tandoori spices combined with world famous peri-peri spice to deliver bang on ... read more,283.0
+Burger,Paneer Bomber Burger (V),1,0,Double decker Paneer Patty and cheese bomber patty topped with our dual dip ... read more,307.0
+Burger,Rockstar Bomber Burger (V),1,0,Double decker Premium patty and cheese bomber patty topped with our dual dip ... read more,293.0
+Burger,Spinach Corn Bomber Burger (V),1,0,"Refreshing patty made from spinach, corns, potato & cheese topped with our dual ... read more",270.0
+Kids Meal,Junior Joy Box,1,0,Batata Harra Burger + Regular Fries + Coke + Surprise Gift,286.0
+Kids Meal,Burger Buddies Box,1,0,Bhuna Mediterranean Burger + Regular Fries + Coke + Surprise Gift,309.0
+Kids Meal,Pizza Puff Paradise Box,1,0,Pizza Puff (1 Pc) + Onion Rings (6 Pcs) + Regular Orange Cascade ... read more,332.0
+Coffee,Biscoff Latte,1,0,A Combition of Biscoff & Coffee for the creamy & caramalized treat,276.0
+Coffee,Cappuccino,1,0,"A strong shot of Italian styled espresso, evened out with steamed and foamed ... read more",184.0
+Coffee,Caramel Cappuccino,1,0,"A delightful fusion of rich espresso, creamy milk, and sweet caramel, creating a ... read more",219.0
+Coffee,Double Mocha With Chocolate,1,0,A rich and decadent coffee delight that combines the intense flavors of mocha ... read more,219.0
+Coffee,Espresso,1,0,A serving of Coffee Shot for those who love a strong coffee black ... read more,184.0
+Coffee,Latte,1,0,"Light, hot coffee, with a shot of espresso in steamed milk.",184.0
+Coffee,Long Black,1,0,A tall serving of double shot espresso topped with hot water every sip'll ... read more,184.0
+Coffee,Mocacciono,1,0,A shot of espresso with a dollop of foam that complements the beverage,184.0
+Coffee,Nutella Hot Chocolate,1,0,"A rich chocolatey, creamy, and nutty delicious drink",276.0
+Coffee,Pistachio Hot Chocolate,1,0,"When you are in a hurry, take a pistachio Hot chocolate along",276.0
+Coffee,Pistachio Latte,1,0,"A delightful fusion of rich espresso, creamy milk, and pistachio, to embrace your ... read more",276.0
+Coffee,Premium Hot Chocolate,1,0,This sinful brew is a blend of premium dark chocolate and milk.,219.0
+Coffee,Turkish Caramel Latte,1,0,"Turkish Latte tastes even better when it has a Caramelic effect to it, ... read more",219.0
+Coffee,White Chocolate Latte,1,0,A unique flavor of white chocolate & coffee for the blissful experience,276.0
+Coffee,Classic Cold Brew,1,0,"Our classic cold brew is handcrafted to soothe your soul with its sweet, ... read more",180.0
+Coffee,Hazelnutcold Brew,1,0,"A beverage that is a combination of hazelnut and diluted cold brew coffee, ... read more",180.0
+Coffee,Strawberry Brew,1,0,"Delicious, smooth cold brew paired with fresh, flavorful mojito to cool you down ... read more",180.0
+Coffee,Vanilla Cold Brew,1,0,"Delicious, smooth cold brew paired with fresh, flavorful Vanilla to cool you down",180.0
+Coffee,Caramel Cold Coffee,1,0,"A harmonious blend of rich espresso, velvety milk, and sweet caramel, served over ... read more",180.0
+Coffee,Dark Frappe,1,0,"Rich and creamy cold coffee with a scoop of ice cream, drenched with ... read more",180.0
+Coffee,Hazelnut Cold Coffee,1,0,"A velvety, chilled coffee delight infused with the nutty goodness of hazelnuts, delivering ... read more",180.0
+Coffee,Hazelnut Iced Cappucino,1,0,"A frosty, caffeine-rich creation with a nutty twist, perfect for those who love ... read more",180.0
+Coffee,Iced Capuccino,1,0,A cool and creamy coffee delight that offers the perfect balance of bold ... read more,180.0
+Coffee,Iced Latte,1,0,"A cool and creamy coffee sensation featuring smooth espresso and cold milk, perfectly ... read more",180.0
+Coffee,Vanilla Cold Coffee,1,0,"A delectable blend of chilled coffee, velvety milk, and creamy vanilla, creating a ... read more",180.0
+Shakes,Belgium Lotus Biscoff Shake,1,0,Our Signature Belgium Lotus Biscoff Shake,276.0
+Shakes,Choco Oreo Shake,1,0,Relish the rich and creamy shake dozed with Oreo.,276.0
+Shakes,Chocolate Shake,1,0,"Thick and creamy ice cream chocolate shake, with chocolate toppings",242.0
+Shakes,Cookie & Creme Shake,1,0,Our Signature Cookie & Creme Shake,276.0
+Shakes,Death By Chocolate,1,0,A must try for those who love an overdose of chocolate. Loaded with ... read more,276.0
+Shakes,Forest Fruit Shake,1,0,A slice of classic cake blended with chocolate ice cream topped with whipped ... read more,242.0
+Shakes,Mango Shake,1,0,Our Signature Mango Thick Shake,242.0
+Shakes,Strawberry Cookie & Creme Shake,1,0,Delicious Strawberry Indulged with Cookie & Creme,276.0
+Shakes,Strawberry Shake,1,0,This summer relish the rich and creamy shake dipped in Strawberry and dozed ... read more,242.0
+Veg Sides & Fries,Fries,1,0,"Crispy and golden potatos on the outside soft and fluffy from the inside, ... read more",98.0
+Veg Sides & Fries,Jalapeno Poppers,1,0,Crispy potato bytes loaded with jalapeno flavour and melting cheese served best with ... read more,114.0
+Veg Sides & Fries,Onion Rings,1,0,"Thick-cut, golden perfection made from sweet, crisp onions, lightly battered and seasoned for ... read more",125.0
+Veg Sides & Fries,Pizza Puff 1Pc,1,0,"Crafted with a delectable blend of savory fillings, mozzarella cheese, and aromatic herbs, ... read more",56.0
+Veg Sides & Fries,Premium Fries Cheese Fries,1,0,"Indulge in our premium fries, a symphony of golden perfection paired with three ... read more",183.0
+Veg Sides & Fries,Premium Fries Peri Peri Fries,1,0,"Indulge in our premium fries, a symphony of golden perfection paired with three ... read more",183.0
+Veg Sides & Fries,Veggie Sticks,1,0,"A colorful medley of fresh, crunchy vegetables, perfect for guilt-free snacking. Served with ... read more",102.0
+Veg Wraps,Bond Wrap,1,0,Premium Wrap made from North Indian achari flavour topped with our dual dip ... read more,178.0
+Veg Wraps,Paneer Wrap,1,0,Smoky tandoori spices combined with world famous peri-peri spice to deliver bang on ... read more,201.0
+Veg Wraps,Rockstar Wrap,1,0,Utterly different fusion patty wrap made from spicy lemon and premium Indian spices ... read more,190.0
+Drinks,Ginger Ale,1,0,Our ginger ale is an exclusive fizzy drink made of natural ginger flavorand ... read more,98.0
+Drinks,Lemon Ice Tea,1,0,Refreshing zing of lemon in iced tea.,98.0
+Drinks,Mango,1,0,Refreshing Mango drink,98.0
+Drinks,Minty Green Apple,1,0,Green apple crush with fresh mint mixed in soda.,98.0
+Drinks,Minty Mojito,1,0,"A refreshing drink with fresh squeezed limes, and mint leaves - an ideal ... read more",98.0
+Drinks,Orange Cascade,1,0,A sweet and tangy fruit beverage blended with orange and mint.,98.0
+Drinks,Peach Ice Tea,1,0,"Enjoy the citrusy punch in an iced tea to cool you off, quench ... read more",98.0
+Drinks,Pomegranate,1,0,A mojito with a twist of Pomegranate and mint served with a fizzzzz ... read more,98.0
+Drinks (Beverages),Coke 330ML,1,0,Savor the timeless taste of Coca-Cola Classic - an iconic and effervescent cola ... read more,70.0
+Drinks (Beverages),Coke Bottle 475Ml,1,0,Pop the top and savor the fizz,70.0
+Drinks (Beverages),Spring Water Bottle 750Ml,1,0,"Pure, crisp, and sourced from natural spring",40.0
+Desserts,Dark Chocolate Brownie,1,0,Our classic dense brownies with a variety of fillings and toppings.,114.0
+Dip On Side,Cheese Sauce,1,0,"A cheesy and creamy flavors, perfect for enhancing your favorite dishes with a ... read more",29.0
+Dip On Side,Cocktail Mayo,1,0,"A harmonious blend of tangy and creamy flavors, perfect for enhancing your favorite ... read more",29.0
+Dip On Side,Magic Mayo,1,0,"Indulged texture for your favorite foods, transformation into delicious culinary delights.",29.0
+Dip On Side,Mayonnaise,1,0,"A creamy, velvety condiment that adds a rich and indulgent texture to your ... read more",29.0
+Dip On Side,Peri Peri,1,0,"A vibrant and zesty condiment that delivers a burst of fiery flavor, adding ... read more",29.0
+Dip On Side,Spicy Dynamite,1,0,"Bold and flavorful condiment that adds a fiery kick to your favorite foods, ... read more",29.0

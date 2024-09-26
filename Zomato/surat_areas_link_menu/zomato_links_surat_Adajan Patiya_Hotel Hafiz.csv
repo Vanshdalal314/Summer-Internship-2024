@@ -1,0 +1,79 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Machhi and Jhinga Fry Combo,0,0,Machhi and Jhinga Fry Combo,210.0
+Starters,Fried Chicken,0,0,,210.0
+Starters,Chicken Lollipop,0,0,,190.0
+Starters,Chicken 65 [250 grams],0,0,,130.0
+Starters,Mutton Keema Fry,0,0,,170.0
+Starters,Machhi Fry,0,0,,120.0
+Starters,Jhinga Fry,0,0,,150.0
+Main Course,Paneer Masala,1,0,,190.0
+Main Course,Palak Paneer,1,0,,190.0
+Main Course,Kaju Paneer,1,0,,260.0
+Main Course,Paneer Handi,1,0,,190.0
+Main Course,Paneer Tikka,1,0,,190.0
+Main Course,Paneer Butter Masala,1,0,,200.0
+Main Course,Anda Masala,0,0,,75.0
+Main Course,Double Anda Keema,0,0,,75.0
+Main Course,Double Anda Bhurji,0,0,,75.0
+Main Course,Dal Mughlai,0,0,,75.0
+Main Course,Chana Mughlai,0,0,,85.0
+Main Course,Boneless Butter Chicken,0,0,,220.0
+Main Course,Chicken Green,0,0,,190.0
+Main Course,Chicken Handi,0,0,,180.0
+Main Course,Chicken Balti,0,0,,180.0
+Main Course,Boneless Chicken Paplet,0,0,,220.0
+Main Course,Chicken Kadai,0,0,,180.0
+Main Course,Boneless Chicken Rumali,0,0,,230.0
+Main Course,Chicken Lemon,0,0,,180.0
+Main Course,Chicken Angari,0,0,,190.0
+Main Course,Chicken Do Pyaza,0,0,,190.0
+Main Course,Chicken Achari,0,0,,180.0
+Main Course,Chicken Rashida,0,0,,190.0
+Main Course,Chicken Mughlai,0,0,,210.0
+Main Course,Chicken Hyderabadi,0,0,,200.0
+Main Course,Hotel Hafiz Special Chicken,0,0,,200.0
+Main Course,Chicken Lollipop Gravy [4 Pieces],0,0,,200.0
+Main Course,Chicken Schezwan,0,0,,220.0
+Main Course,Chicken Amdavadi,0,0,,180.0
+Main Course,Mutton Green,0,0,,190.0
+Main Course,Bhaji Gosht,0,0,,180.0
+Main Course,Bhindi Gosht,0,0,,180.0
+Main Course,Tomato Gosht,0,0,,180.0
+Main Course,Special Mutton Handi,0,0,,190.0
+Main Course,Mutton Kadai,0,0,,190.0
+Main Course,Tawa Mutton,0,0,,190.0
+Main Course,Mutton Balti,0,0,,190.0
+Main Course,Mutton Achari,0,0,,190.0
+Main Course,Mutton Lemon,0,0,,190.0
+Main Course,Mutton Afghani,0,0,,200.0
+Main Course,Mutton Kaseli,0,0,,210.0
+Main Course,Mutton Mughlai,0,0,,210.0
+Main Course,Hotel Hafiz Special Mutton,0,0,,220.0
+Main Course,Mutton Lasaniya,0,0,,220.0
+Main Course,Kolhapuri Mutton,0,0,,210.0
+Main Course,Hyderabadi Mutton,0,0,,210.0
+Main Course,Dal Tadka,1,0,,100.0
+Main Course,Dal Fry,1,0,,80.0
+Main Course,Chana Fry,1,0,,80.0
+Main Course,Mix Veg,1,0,,70.0
+Main Course,Sev Tomato,1,0,,70.0
+Main Course,Bhindi Fry,1,0,,70.0
+Main Course,Plain Palak,1,0,,70.0
+Main Course,Aloo Palak,1,0,,70.0
+Breads,Plain Roti,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",10.0
+Breads,Butter Roti,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",15.0
+Rice and Biryani,Double Anda Biryani,0,0,,110.0
+Rice and Biryani,Chicken Dum Biryani,0,0,,130.0
+Rice and Biryani,Mutton Biryani,0,0,,200.0
+Rice and Biryani,Veg Pulao,1,0,,90.0
+Rice and Biryani,Jeera Rice,1,0,,85.0
+Rice and Biryani,Steamed Rice,1,0,,80.0
+Rice and Biryani,Anda Pulao,0,0,,90.0
+Rice and Biryani,Chicken Pulao,0,0,,100.0
+Rice and Biryani,Jhinga Pulao,0,0,,150.0
+Fried Rice,Chicken Fried Rice,0,0,,150.0
+Snacks,Double Half Fry,0,0,,130.0
+Snacks,Double Omelette,0,0,,50.0
+Snacks,Lasaniya Double Anda Fry,0,0,,140.0
+Accompaniments,Fried Papad,1,0,,15.0
+Accompaniments,Roasted Papad,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",15.0

@@ -1,0 +1,184 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+IPL Combos,Blow Up Special Nachos + Cold Coco,1,0,,209.0
+IPL Combos,Classic Salted Fries + Cold Coco,1,0,,139.0
+IPL Combos,Classy Veggie Wrap + Cold Coco,1,0,,129.0
+IPL Combos,Italian Pizza Sandwich + Cold Coco,1,0,,199.0
+IPL Combos,Paneer Exoctic Burger + Rose Milk Cold Drink,1,0,,209.0
+IPL Combos,Peri Peri Fries + Rose Milk Cold Drink,1,0,,149.0
+IPL Combos,Simply Cheese Burger + Cold Coco,1,0,,149.0
+IPL Combos,Veg Tikki Burger + Cold Coco,1,0,,129.0
+Burgers,Desi Style Burger,1,0,Herb Potato Patty With Veggies & Phudin & Achari Dip,99.0
+Burgers,"No Worry, Only Peri Peri Burger",1,0,Flavor Of Chilly Patty With Veggies & Peri Peri Dip,119.0
+Burgers,Pesto Basil Burger,1,0,Enjoy Flavours Of Pesto & Bsail With Patty & Veggies,139.0
+Burgers,Simply Cheesy Burger,1,0,Herb Chilly Potato Patty With Burger & Cheese Dip,119.0
+Burgers,Spice That's Too Nice Burger,1,0,Flavors Of Chilliy Patty With Veggies & Garlic Chilly Dip,139.0
+Burgers,Veg Tikki Burger,1,0,Herb Chilly Potato Patty With Veggies With Burger Dip,99.0
+Burgers,The Angrezi Burger,1,0,"Popular Patty With Lactus, Veggies With Jalepino & Special Dip",169.0
+Burgers,The Mexican Star,1,0,"Crushed Nachos With Patty, Lactus With Salsa & Dips",179.0
+Burgers,The Passion Bite,1,0,"Chilly Garlic Flavours With Patty, Lactus & Veggies",199.0
+Burgers,The Tandoori Tadka,1,0,"Punjabi Korma Flavours With Patty, Lactus & Veggies",199.0
+Burgers,Paneer Exotic Tandoori Burger,1,0,Lactus With Amazing Flavours On Panner Patty,199.0
+Burgers,Paneer Spicy Burger,1,0,Chilly Garlic With Panner Patty & Veggies & Dips,209.0
+Burgers,Paneer Tandoori Burger,1,0,"Punjabi Korma Flavour With Panner Patty, Veggies & Dips",189.0
+Burgers,Special Paneer Burger,1,0,Crunchy Panner Patty With Vegies & Burger Dip,179.0
+Burgers,Choco Brownie Burger (brownie With Loads Of Chocolate),1,0,"Warm Brownie With Nutella, Chocolate Spread & Chocolate Sauce",189.0
+Burgers,Exotic Fresh Veggie Burger (no Tikki),1,0,Exotic Vegies With Burger Dip / Veggies With Cheese & Mayonnaise,159.0
+Burgers,Mac & Cheese Burger (cheesy Macaroni & Veggie),1,0,Special Marinated Macroni With Signature Dips & Veggies,179.0
+Wrap It !!,Chat Pata Sa Achari Wrap,1,0,Herb Potato Patty Topped with Indian Veggies & Phudin + Achari Dip,99.0
+Wrap It !!,Classy Veggie Wrap,1,0,Herb Chilly Potato Patty With Indian Veggies Dips,99.0
+Wrap It !!,Pesto Basil Wrap,1,0,Enjoy Flavours Of Pesto & Basil with Patty & Indian Veggies,139.0
+Wrap It !!,Very Very (peri-peri) Spice Wrap,1,0,Flavor Of Chilly Patty with Indian Veggies & Peri Peri Dip,129.0
+Wrap It !!,Cheese Mushroom Wrap,1,0,"Patty With Mushrooms, Lactus & Veggies & Dips",179.0
+Wrap It !!,Cheesy Veggie Wrap,1,0,"Lactus, Veggies, Sweet Corn, Crunchy Patty & Cheese Dip",169.0
+Wrap It !!,Hot & Passion Wrap,1,0,"Garlic Chilly Flavour With Lactus, Patty , Red Paprika & Jalepino",179.0
+Wrap It !!,Paneer Tandoori Wrap,1,0,"Punjabi Flavour Wrap With Panner Patty, Lactus & Veggies & Dips",189.0
+Wrap It !!,Tangy Mexican Wrap,1,0,"Salsa With Crunchy Patty, Cruched Nachos, Lactus & Jalepino.",169.0
+Sandwich It !!,Cheese & Chutney Sandwich,1,0,Favorite Combination Of Chutteny With Cheese In White Bread,99.0
+Sandwich It !!,Goody Veggie Cheese Sandwich,1,0,Veggie Sandwich With Grated Cheese In White Bread,129.0
+Sandwich It !!,Goody Veggie Sandwich,1,0,"Green Chuttney With Potato, Cucumber, Tomatoes, Onions In White Bread",89.0
+Sandwich It !!,Pineapple Cheese Sandwich,1,0,Combination Of Pineapple Pcs With Jam & Cheese & Massala,149.0
+Sandwich It !!,Grilled Tandoori Paneer Sandwich,1,0,Marinated Panner With a Combination Of Veggies & Punjabi Flavour,199.0
+Sandwich It !!,Italian Pizza Sandwich,1,0,Pizza Flavours In White Bread With Veggies & Cheese,189.0
+Sandwich It !!,Spicy Delight Sandwich,1,0,"Lactus With Premium Veggies, Cheese & Chilly Garlic Flavor To Spice Up",199.0
+Fries & Nice,Blow Up Special Fries,1,0,"Fries Loaded With Olives, Jalapeno, Red Paprika, Cheese Dip & Cheese",189.0
+Fries & Nice,Chat Pata Fries,1,0,,129.0
+Fries & Nice,Classic Salted Fries,1,0,,109.0
+Fries & Nice,Peri Peri Fries,1,0,,139.0
+Nachos Only No Chaos,Blow Up Special Nachos,1,0,"Nachos Loaded With Olives , Jalepino , Red Peprica , Cheese Dip & ... read more",189.0
+Nachos Only No Chaos,It's A Cheesy Affair - Cheesy Nachos,1,0,,169.0
+Sweet Corns Utterlly Buttery Corns,Blow Up Sweet Corn Delight,1,0,"Fries Loaded With Herbs, Olive, Jalapeno, Cheese Dip & Cheese",189.0
+Sweet Corns Utterlly Buttery Corns,Buttery Sweet Corn,1,0,,99.0
+Sweet Corns Utterlly Buttery Corns,Chat Pata Butter Corn,1,0,,129.0
+Sweet Corns Utterlly Buttery Corns,Peri Peri Butter Corn,1,0,,139.0
+Brownies,Bonvilla Brownie (warm Brownie Vanilla Ice Cream & Sprinkled Bonvita),1,0,,149.0
+Brownies,Coffee Brownie (warm Brownie With Coffee Ice Cream),1,0,,189.0
+Double Scoop Sundae,Cheesey Affair,1,0,"Vanilla and strawberry ice cream on vanilla sponge , with grated cheese layer,garnished ... read more",259.0
+Double Scoop Sundae,Day&night Sundae (2 Scoops),1,0,A delightful combination of chocolate and vanilla ice cream topped with chocolate and ... read more,229.0
+Tripple Scoop Sundae,All-about-banana Split Sundae,1,0,A timeless classic of ice cream sundaes with our delicious fruit cocktail and ... read more,299.0
+Tripple Scoop Sundae,Big Happy Bear Sundae,1,0,Three types of fruit ice creams loaded with fruits and a chocolate brownie ... read more,309.0
+Tripple Scoop Sundae,Nutella Madness Delux Sundae,1,0,"A heavenly layer of rich chocolate, mocha fudge brownie, luxurious Ferrero Rocher ice ... read more",309.0
+Navratri Special,American Mud Cale Ice Cream Milk Shake,1,0,,199.0
+Navratri Special,Butter Scotch Ice Cream Milk Shake,1,0,,169.0
+Navratri Special,Chocolate Ice Cream Milk Shake,1,0,,129.0
+Navratri Special,Kaju Anjeer Ice Cream Milk Shake,1,0,,189.0
+Navratri Special,Kesar Pista Ice Cream Milk Shake,1,0,,179.0
+Navratri Special,Mango Ice Cream Milk Shake,1,0,,129.0
+Navratri Special,Nutty Belgium Ice Cream Milk Shake,1,0,,199.0
+Navratri Special,Oreo Crush Ice Cream Milk Shake,1,0,,159.0
+Navratri Special,Pan Punch Ice Cream Milk Shake,1,0,,179.0
+Navratri Special,Rajasthan Thandi Ice Cream Milk Shake,1,0,,189.0
+Navratri Special,Strawberry Ice Cream Milk Shake,1,0,,129.0
+Navratri Special,Vanilla Ice Cream Milk Shake,1,0,,119.0
+Navratri Special,Banana Besters (strawberry+banana) Thick Shake,1,0,,229.0
+Navratri Special,Biscof Thick Shake,1,0,,229.0
+Navratri Special,Charming Strawbery Thick Shake,1,0,,189.0
+Navratri Special,Chikoo Anjeer Thick Shake,1,0,,199.0
+Navratri Special,Chikoo Thick Shake,1,0,,189.0
+Navratri Special,Gulistan (strawbery+ Mango) Thick Shake,1,0,,229.0
+Navratri Special,Kaju Anjeer Thick Shake,1,0,,219.0
+Navratri Special,Kit Kat Thick Shake,1,0,,199.0
+Navratri Special,Kiwi Twister (kiwi+strawbery) Thick Shake,1,0,,229.0
+Navratri Special,Nutella Brownie Thick Shake,1,0,,219.0
+Navratri Special,Sitafal Thick Shake,1,0,,189.0
+Navratri Special,Butter Scotch [250ml],1,0,,69.0
+Navratri Special,Kesar Pista,1,0,,69.0
+Navratri Special,Pista Badam,1,0,,69.0
+Navratri Special,Raj Bhog,1,0,,69.0
+Navratri Special,Rose Petals,1,0,,69.0
+Navratri Special,Variyali,1,0,,69.0
+Navratri Special,Black Grapes,1,0,,129.0
+Navratri Special,Black Jamun Madness,1,0,,149.0
+Navratri Special,Juicy Strawberry,1,0,,159.0
+Navratri Special,Purple Orange,1,0,,169.0
+Navratri Special,Refreshing Kiwi,1,0,,159.0
+Navratri Special,Spicy Guvava Punch,1,0,,139.0
+Navratri Special,Tangy Pineapple,1,0,,129.0
+Navratri Special,Tropical Guava,1,0,,129.0
+Navratri Special,Cinderella Shots (pineapple + Orange),1,0,,149.0
+Navratri Special,Kiwi Surprise (pineapple + Kiwi),1,0,,149.0
+Navratri Special,Orange Guava Tales,1,0,,139.0
+Navratri Special,Pineapple Twister (pineapple + Red Grapes),1,0,,139.0
+Navratri Special,Sunrise Superstar (orange + Strawberry),1,0,,149.0
+Navratri Special,Sunset Freshy (pineapple + Water Melon),1,0,,139.0
+Shake For The Shake !!,Alphonso Mango Falooda,1,0,,179.0
+Shake For The Shake !!,Falsa Falooda,1,0,,169.0
+Shake For The Shake !!,Gadbad Falooda,1,0,,189.0
+Shake For The Shake !!,Kesar Falooda,1,0,Experience the perfect blend of saffron and sweetness with this refreshing falooda.,179.0
+Shake For The Shake !!,Rose Falooda,1,0,A fragrant and floral Falooda with a beautiful pink hue.,169.0
+Shake For The Shake !!,Kesar Kulfi Falooda,1,0,,199.0
+Shake For The Shake !!,Rose Kulfi Falooda,1,0,,199.0
+Shake For The Shake !!,Chocolate Chips Coco,1,0,,89.0
+Shake For The Shake !!,Cold Coco,1,0,"Velvety and smooth , a refreshing vegan dessert that tantalizes the taste buds!",79.0
+Shake For The Shake !!,Cold Coco With Ice Cream,1,0,,109.0
+Shake For The Shake !!,Kaju Cold Coco,1,0,,99.0
+Shake For The Shake !!,Kaju Cold Coco With Ice Cream,1,0,,129.0
+Shake For The Shake !!,Classic Cold Coffee,1,0,,99.0
+Shake For The Shake !!,Columbian Roast (dark) Cold Coffee,1,0,,99.0
+Shake For The Shake !!,Hazelnut Cold Coffee,1,0,,99.0
+Shake For The Shake !!,Mocha Cold Coffee,1,0,,99.0
+Shake For The Shake !!,Kiwi Apple Thunder Cooler,1,0,,129.0
+Shake For The Shake !!,Mint Mojito (lemon + Mint),1,0,,129.0
+Shake For The Shake !!,Ocean Guava Thunder Cooler,1,0,,129.0
+Shake For The Shake !!,Water Melon Mint Mojito,1,0,,129.0
+Ice Cream - I Scream...!,Alphonso Mango,1,0,,75.0
+Ice Cream - I Scream...!,Butter Scotch,1,0,,75.0
+Ice Cream - I Scream...!,Coffee,1,0,,85.0
+Ice Cream - I Scream...!,Cookies Cream,1,0,,85.0
+Ice Cream - I Scream...!,Paan,1,0,,85.0
+Ice Cream - I Scream...!,Pista Malai,1,0,,85.0
+Ice Cream - I Scream...!,Red Velvet,1,0,,85.0
+Ice Cream - I Scream...!,Vanilla,1,0,,55.0
+Ice Cream - I Scream...!,American Mud Cake,1,0,,95.0
+Ice Cream - I Scream...!,Chocolate,1,0,,55.0
+Ice Cream - I Scream...!,Chocolate Chips,1,0,,85.0
+Ice Cream - I Scream...!,Mocha Fudge Brownie,1,0,,95.0
+Ice Cream - I Scream...!,Nutty Belgium Chocolate,1,0,,95.0
+Ice Cream - I Scream...!,Almond Carnival,1,0,,95.0
+Ice Cream - I Scream...!,American Nuts,1,0,,85.0
+Ice Cream - I Scream...!,Kaju Drakash,1,0,,85.0
+Ice Cream - I Scream...!,Kesar Pista Havmor Dry Fruit Ice Cream,1,0,,95.0
+Ice Cream - I Scream...!,Raj Bhogh,1,0,,95.0
+Ice Cream - I Scream...!,Taj-mahal,1,0,,95.0
+Ice Cream - I Scream...!,Biscof,1,0,,100.68
+Ice Cream - I Scream...!,Fresh Coconut,1,0,,95.0
+Ice Cream - I Scream...!,Fresh Guava Seasonal,1,0,,95.0
+Ice Cream - I Scream...!,Fresh Jamun-seasonal,1,0,,95.0
+Ice Cream - I Scream...!,Fresh Pink Guava-seasonal,1,0,,95.0
+Ice Cream - I Scream...!,Fresh Sitafal-seasonal,1,0,,95.0
+Ice Cream - I Scream...!,Fresh Strawberry-seasonal,1,0,,95.0
+Ice Cream - I Scream...!,Kaju Gulkand,1,0,,106.0
+Ice Cream - I Scream...!,Ripple,1,0,,106.0
+Ice Cream - I Scream...!,Anjeer Badam Kulfi,1,0,,131.18
+Ice Cream - I Scream...!,Coconut Kulfi,1,0,,121.02
+Ice Cream - I Scream...!,Fresh Jamun-Seasonal Kulfis By The Creamery,1,0,,131.18
+Ice Cream - I Scream...!,Fresh Mango-seasonal Kulfi,1,0,,131.18
+Ice Cream - I Scream...!,Fresh Sitafal-Seasonal Kulfis By The Creamery,1,0,,131.18
+Ice Cream - I Scream...!,Kaju Coco Kulfi,1,0,,121.02
+Ice Cream - I Scream...!,Kaju Katli Kulfi,1,0,,121.02
+Ice Cream - I Scream...!,Kitkat Kulfi,1,0,,121.02
+Ice Cream - I Scream...!,Malai Kulfi,1,0,,131.18
+Ice Cream - I Scream...!,Rasgulla Kulfi,1,0,,121.02
+Ice Cream - I Scream...!,Real Badam Pista Kulfi,1,0,,131.18
+Ice Cream - I Scream...!,Real Kesar Pista,1,0,,131.18
+Ice Cream - I Scream...!,Almond Mocha,1,0,,50.85
+Ice Cream - I Scream...!,Choco Truffle,1,0,,50.85
+Ice Cream - I Scream...!,Triple Chocolate,1,0,,59.32
+Ice Cream - I Scream...!,Wild Berries,1,0,,50.85
+Ice Cream - I Scream...!,Black Forest Pastry,1,0,,60.0
+Ice Cream - I Scream...!,Cookie Sandwich Ice Cream,1,0,,60.0
+Ice Cream - I Scream...!,Shotties- Choco Crunch,1,0,,86.0
+Ice Cream - I Scream...!,Shotties- Dark Chocolate,1,0,,86.0
+Ice Cream - I Scream...!,Slice Cassata,1,0,,60.0
+Ice Cream - I Scream...!,Choco Block,1,0,,72.03
+Ice Cream - I Scream...!,Dark Chocolate,1,0,,42.37
+Ice Cream - I Scream...!,Double Belgian Chocolate,1,0,,72.03
+Ice Cream - I Scream...!,Italiano Tiramisu,1,0,,76.27
+Ice Cream - I Scream...!,Nutty French Vanilla,1,0,,63.56
+Ice Cream - I Scream...!,Swiss Choco Brownie,1,0,,72.03
+Ice Cream - I Scream...!,Turbo (chocolate Disk),1,0,,50.85
+Ice Cream - I Scream...!,Malai Kulfi (roll Cut),1,0,,47.0
+Ice Cream - I Scream...!,Matka Kulfi,1,0,,55.0
+Ice Cream - I Scream...!,Black Forest 1 Ltr,1,0,,508.47
+Ice Cream - I Scream...!,Golden Fantasy 1 Ltr,1,0,,508.47
+Cold Drinks,Coke Tin 330 Ml,1,0,,66.67
+Cold Drinks,Fanta Tin 330 Ml,1,0,,66.67

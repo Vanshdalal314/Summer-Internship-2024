@@ -1,0 +1,4 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Zomato Special Combos,Mini Tiffin [Serves 2],1,0,"1 Sweet[4 pieces,150 grams]+2 farsan[4 pieces fried and 4 pieces boiled]+2 vegetables+dal rice+10 ... read more",500.0
+Zomato Special Combos,FullTiffin [Serves 3],1,0,"1 Sweet[7 pieces,200 grams]+2 farsan[6 pieces fried and 6 pieces boiled]+4 vegetables+dal rice+20 ... read more",700.0
+Zomato Special Combos,Regular Thali,1,0,Salad+papad+fry farsan/dhokla+green vegetable/punjabi vegetable+bataka tameta/kathod+gujrati dal rice+6 fulka roti,180.0

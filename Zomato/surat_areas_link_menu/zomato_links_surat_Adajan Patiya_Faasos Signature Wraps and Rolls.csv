@@ -1,0 +1,117 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Super Saver Combos,2 Non-Veg Shawarmas at 190 each,0,0,"With SAVINGS up to Rs 100, take a trip to Arabia with 2 ... read more",379.0
+Super Saver Combos,2 Veg Shawarmas at 175 each,1,0,"Save upto Rs 80, and experience the magic of the Middle East with ... read more",349.0
+Super Saver Combos,2 Signature Veg Wraps at 188 each,1,0,Amazing wraps and SAVINGS up to Rs. 78. What else can you ask ... read more,375.0
+Super Saver Combos,2 Signature Non-Veg Wraps at 215 each,0,0,Get spoiled with max SAVINGS of Rs. 70 & delicious surprises. Enjoy a ... read more,429.0
+Super Saver Combos,3 Signature Veg Wraps at 166 each,1,0,"Bolder the flavours, bigger the SAVINGS up to Rs. 159. Choose any 3 ... read more",498.0
+Super Saver Combos,3 Signature Non-Veg Wraps at 195 each,0,0,Surprise your taste buds and your pockets with max SAVINGS of Rs. 165 ... read more,585.0
+Newly Launched,Diced Smoky Paneer Salad Wrap,1,0,"Smoked to perfection, soft cottage cheese is paired with crunchy capsicum, corn & ... read more",229.0
+International Wraps,Smoky Diced Paneer Salad Wrap.,1,0,"Smoked to perfection, soft cottage cheese is paired with crunchy capsicum, corn & ... read more",229.0
+International Wraps,Mexicana Potato Corn Salsa Wrap,1,0,"Here potatoes dont potate, they do salsa. Dont take our word, try this ... read more",215.0
+International Wraps,Lebanese Falafel Veggie Wrap,1,0,"Crunchy, herbed Falafels and oven-roasted vegetables are generously drizzled with mint mayo and ... read more",219.0
+International Wraps,American Smoked Sausage Wrap,0,0,"Here comes the showstopper. Smoked chicken sausage lathered in barbeque sauce, chipotle-flavoured cheesy ... read more",249.0
+International Wraps,Cheese Baked Pizza Wrap (Veg),1,0,Is it a pizza or a wrap Let your tastebuds decide. A medley ... read more,225.0
+International Wraps,Lebanese Chicken Meatball Wrap,0,0,Spiced chicken keftas and oven-roasted vegetables are generously drizzled with mint mayo and ... read more,229.0
+Indie Wraps,Chicken Extravaganza Wrap,0,0,"Bestseller Alert. In this East-meets-West wrap, slow-cooked bhuna chicken and juicy chicken meatballs ... read more",255.0
+Indie Wraps,Smoked Butter Chicken Wrap,0,0,For the love of butter chicken and everything thats wrapped in between! Surprise ... read more,249.0
+Indie Wraps,Pindi Chole Paneer Wrap,1,0,Everybody said paneer and chole cant be friends but we thought otherwise and ... read more,219.0
+Indie Wraps,Zaikedar Mutton Bhuna Wrap,0,0,Straight from the Faasos hall of fame. Soft and scrumptious mutton chunks cooked ... read more,319.0
+Kebab Wraps,Classic Hara Bhara Kebab Wrap,1,0,Soft yet crispy hara bhara kebab with fresh mint chutney and crunchy onions ... read more,219.0
+Kathi Rolls,Hara Bhara Kebab Kathi Roll,1,0,Indulge in soft and crispy hara bhara kebabs mixed with fresh mint chutney ... read more,209.0
+Kathi Rolls,Mutton Galouti Kebab Kathi Roll,0,0,"A melt-in-your-mouth season special of soft, subtly spiced mutton galouti kebabs, wrapped in ... read more",319.0
+Shawarmas (Newly Launched),Classic Peppy Chicken Shawarma.,0,0,"Wrap your taste buds around warm kuboos or rumali roti, with spiced chicken, ... read more",198.0
+Shawarmas (Newly Launched),Classic Smoky Chicken Shawarma.,0,0,"Experience Arabic enchantment with thin, soft kuboos or rumali of your choice, enveloping ... read more",198.0
+Shawarmas (Newly Launched),Sizzled Falafel Shawarma,1,0,"Experience Turkish magic wrapped in warm kuboos or rumali roti, with crispy fried ... read more",179.0
+Shawarmas (Newly Launched),Paneer Tikka Shawarma.,1,0,Your Lebanese cravings have met their match! Bite into a paneer shawarma wrapped ... read more,189.0
+Shawarmas (Newly Launched),Special Peppy Chicken Shawarma,0,0,"Soft, warm kuboos or rumali roti, loaded with Arabic spiced chicken, creamy hummus, ... read more",219.0
+Shawarmas (Newly Launched),Special Smoky Chicken Shawarma,0,0,"Brace yourself for a Mediterranean treat with warm kuboos or rumali roti, loaded ... read more",219.0
+Shawarmas (Newly Launched),Veg Shawarma & Side Meal,1,0,Super savings of up to Rs 70 with your fav veg shawarma and ... read more,238.0
+Shawarmas (Newly Launched),Non-Veg Shawarma & Side Meal,0,0,Savour and save up to Rs 80 with a delicious non veg shawarma ... read more,258.0
+Shawarmas (Newly Launched),Veg Shawarma & Beverage Meal,1,0,Hold onto that trip to the Middle East! Save up to Rs 28 ... read more,195.0
+Shawarmas (Newly Launched),Non-Veg Shawarma & Beverage Meal,0,0,"Habibi, we got a double surprise for you- savings up to Rs 38 ... read more",215.0
+Shawarmas (Newly Launched),Veg Shawarma with Side & Beverage Meal,1,0,"A meal fit for a Sheikh! Your choice of veg shawarma, side and ... read more",258.0
+Shawarmas (Newly Launched),Non-Veg Shawarma with Side & Beverage Meal,0,0,"Feast like a royal with your fav non veg shawarma, choice of side ... read more",278.0
+Shawarmas (Newly Launched),Garlic Mayonnaise Dip (100g),1,0,Make your shawarma 2x tasty with our chef's special garlic mayonnaise dip.,69.0
+Shawarmas (Newly Launched),Hummus Dip (100g),1,0,Double the middle eastern twist on your shawarma with our chef's special hummus ... read more,69.0
+Shawarmas (Newly Launched),Mixed Pickled Vegetables (50g),1,0,"Let the desi in you drool over our mixed pickled vegetables, perfect partner ... read more",59.0
+Shawarmas (Newly Launched),Pita with Garlic Dressing & Hummus,1,0,"Habibi, indulge in a Middle Eastern feast of delicious garlic dressing pita bread ... read more",149.0
+Shawarmas (Newly Launched),Pita Bread with Garlic Dressing Dip,1,0,This soft pita bread with delicious garlic mayo dip is all you need ... read more,89.0
+Shawarmas (Newly Launched),Pita Bread with Hummus Dip,1,0,This classic hummus and pita bread combo is a match made in flavour ... read more,89.0
+World Cup Combos,Boom Boom Signature Wrap & Beverage Meal at 219,0,0,Dominate the pitch and roar with victory along side your favourite signature wrap ... read more,219.0
+World Cup Combos,SKY Special Signature Wrap & Side Meal at 245,0,0,Catch every moment with a duo of your fav signature wrap and choice ... read more,245.0
+World Cup Combos,King's Fav Veg Rice Bowl & Wrap Combo,1,0,Save upto RS. 119 and clean bowl hunger with this veg rice bowl ... read more,259.0
+World Cup Combos,King's Fav Non-Veg Rice Bowl & Wrap Combo,0,0,The duo. The myth. The legend. Save upto RS. 114 with your choice ... read more,269.0
+World Cup Combos,SKY Special Veg Rice Bowl & Beverage Meal,1,0,Gill-ty of winning glory in every bite with the delish rice bowl and ... read more,209.0
+World Cup Combos,SKY Special Non-Veg Rice Bowl & Beverage Meal,0,0,Dominate the pitch with savings of RS. 61 and victory along side your ... read more,209.0
+Guilt Free Wraps,2 Veg Guilt Free Wraps at 179 each,1,0,"Double the greens, double the fun! Grab your 2 fav Veg Guilt-Free Wraps ... read more",378.0
+Guilt Free Wraps,Smoky Diced Paneer Salad Wholewheat Wrap,1,0,"Smoked to perfection, soft cottage cheese is paired with crunchy capsicum, corn & ... read more",229.0
+Guilt Free Wraps,Masala Paneer Tikka Wholewheat Wrap,1,0,"We dont have any pun for paneer, but we do have a lot ... read more",198.0
+Guilt Free Wraps,Pindi Chole Wholewheat Wrap,1,0,No one believed us when we said chole can be even more exciting. ... read more,140.0
+Guilt Free Wraps,Masala Chicken Tikka Wholewheat Wrap,0,0,Bored of the same old flavours Excite your taste buds with surprises that ... read more,210.0
+Guilt Free Wraps,Chicken Bhuna Wholewheat Wrap,0,0,"The bestseller, rock n roll award goes to: Roasted and flavorful chicken pieces ... read more",210.0
+Guilt Free Wraps,Malai Chicken Kebab Wholewheat Wrap,0,0,Fix your mundane days & let the good times roll. Oh so creamy ... read more,210.0
+Mango Delight Meals,Mexicana Potato Corn Salsa Wrap & Mango Delight Meal,1,0,A Mexican and Mango combo you didn't know you needed! Save upto RS. ... read more,259.0
+Mango Delight Meals,Cheesy Baked Pizza Wrap & Mango Delight Meal,1,0,"Save big, upto RS. 98 with this Cheesy Baked Pizza Wrap and a ... read more",269.0
+Mango Delight Meals,American Smoked Sausage Wrap & Mango Delight Meal,0,0,Save upto RS. 98 with this sizzling hot American Smoked Sausage Wrap & ... read more,289.0
+Mango Delight Meals,Paneer Signature Rice Bowl (Regular) & Mango Delight Meal,1,0,You'll love this combo! Paneer Signature Rice Bowl & a Mango Delight of ... read more,289.0
+Mango Delight Meals,Chicken Signature Rice Bowl & Mango Delight Meal,0,0,The perfect duo doesn't exi- Save upto RS. 102 with this Chicken Signature ... read more,299.0
+Meal Combos,Veg Signature Wrap & Wedges Meal at 245,1,0,"Save upto Rs 83, heres your quick-fix. Get your choice of 1 signature ... read more",245.0
+Meal Combos,Non-Veg Signature Wrap & Wedges Meal at 269,0,0,"Signature savings of upto Rs 65, on signature cravings. Get your choice of ... read more",269.0
+Meal Combos,Veg Signature Wrap & Beverage Meal at 219,1,0,Save upto Rs 20 while you watch your tastebuds do the jive. Choose ... read more,219.0
+Meal Combos,Non-Veg Signature Wrap & Beverage Meal at 225,0,0,Give a high-five to savings of upto Rs 24. Choose 1 non-veg signature ... read more,225.0
+Meal Combos,Veg Shawarma and Side Meal,1,0,Super savings of up to Rs 70 with your fav veg shawarma and ... read more,238.0
+Meal Combos,Non-Veg Shawarma with Side and Beverage Meal,0,0,"Feast like a royal with your fav non veg shawarma, choice of side ... read more",278.0
+Meal Combos,Non-Veg Shawarma and Side Meal,0,0,Savour and save up to Rs 80 with a delicious non veg shawarma ... read more,258.0
+Meal Combos,"Non-Veg Signature Wrap, Side & Beverage Meal at 299",0,0,"Save upto 56, heres your quick-fix. Get your choice of 1 signature veg ... read more",299.0
+Meal Combos,"Veg Signature Wrap, Side & Beverage Meal at 269",0,0,"Signature savings of upto 56, on signature cravings. Get your choice of 1 ... read more",269.0
+Meal Combos,2 Signature Veg Wraps with Side & Beverage Combo Meal,1,0,Save upto 85 while you watch your tastebuds do the jive. Choose 2 ... read more,459.0
+Meal Combos,2 Signature Non-Veg Wraps with Side & Beverage Combo Meal,0,0,"Give a high-five to savings of upto 95. Choose 2 non-veg signature wraps, ... read more",509.0
+Rice Bowls,Paneer Signature Rice Bowl (Spicy),1,0,Let your taste buds fall in love with this unique bowl made using ... read more,249.0
+Rice Bowls,Smoked Butter Chicken Rice Bowl (Spicy),0,0,Everyone loves a good butter chicken and this one is made with added ... read more,279.0
+Rice Bowls,Chicken Signature Rice Bowl (Spicy),0,0,Your favourite meal got the makeover it deserves. Succulent boneless chicken cooked in ... read more,259.0
+Rice Bowls,Royal Chicken Rice Bowl (Spicy) - Jumbo,0,0,"Breaking the norm was never this delicious. Succulent chicken with roasted Indian spices, ... read more",359.0
+Rice Bowls,Mutton Bhuna Rice Bowl (Spicy) - Regular,0,0,A treasure trove of unique Indian flavours waiting to surprise your palate. Spicy ... read more,319.0
+Rice Bowls,Royal Veg Rice Bowl (Spicy) - Jumbo,1,0,"An absolutely lovely combination of home-style chole, spiced paneer tikka and corn salsa ... read more",299.0
+Rice Bowls,Pindi Chole Signature Rice Bowl (Spicy),1,0,Giving an all-time favourite a delicious makeover to make your meal exciting! Chole ... read more,219.0
+Rice Bowls,Paneer Signature Rice Bowl,1,0,Let your taste buds fall in love with this unique bowl made using ... read more,249.0
+Rice Bowls,Smoked Butter Chicken Rice Bowl,0,0,Everyone loves a good butter chicken and this one is made with added ... read more,279.0
+Rice Bowls,Chicken Signature Rice Bowl,0,0,Your favourite meal got the makeover it deserves. Succulent boneless chicken cooked in ... read more,259.0
+Rice Bowls,Royal Chicken Rice Bowl (Jumbo),0,0,"Breaking the norm was never this delicious. Succulent chicken with roasted Indian spices, ... read more",359.0
+Rice Bowls,Mutton Bhuna Rice Bowl (Regular),0,0,A treasure trove of unique Indian flavours waiting to surprise your palate. Spicy ... read more,319.0
+Rice Bowls,Royal Veg Rice Bowl (Jumbo),1,0,"An absolutely lovely combination of home-style chole, spiced paneer tikka and corn salsa ... read more",299.0
+Rice Bowls,Pindi Chole Signature Rice Bowl,1,0,Giving an all-time favourite a delicious makeover to make your meal exciting! Chole ... read more,219.0
+Sides & Beverages,"Fries (Choose M, or L)",1,0,"Golden fried, super crispy Fries, salted to perfection. Enjoy in medium or large ... read more",109.0
+Sides & Beverages,"Potato Wedges (Choose S, M, or L)",1,0,"When you don't know what to eat next, we suggest keep it simple ... read more",69.0
+Sides & Beverages,Potato Chilli Shots with Mayo Dip,1,0,Crispy and spiced potato shots served with a cheesy mayonnaise dip to tantalize ... read more,109.0
+Sides & Beverages,Cheese Chicken Meatballs,0,0,"(100% Safely Cooked Chicken) Juicy minced chicken meatballs, served with a Cheese mayonnaise ... read more",135.0
+Sides & Beverages,Teekha Chaska Sausages,0,0,"Succulent chicken sausages, cut into small bite sized pieces is sprinkled with our ... read more",129.0
+Sides & Beverages,Hummus Dip - 100g,1,0,Double the middle eastern twist on your shawarma with our chef's special hummus ... read more,69.0
+Sides & Beverages,Garlic Mayonnaise Dip - 100g,1,0,Make your shawarma 2x tasty with our chef's special garlic mayonnaise dip.,69.0
+Sides & Beverages,Mixed Pickled Vegetables - 50g,1,0,"Let the desi in you drool over our mixed pickled vegetables, perfect partner ... read more",59.0
+Sides & Beverages,Teekha Chaska French Fries,1,0,"A Faasos favourite, Teekha Chaska comes with freshly fried, golden french fries for ... read more",119.0
+Sides & Beverages,Falafel Nuggets with Mayo Dip,1,0,"Mediterranean inspired crispy falafel made from the finest soaked chickpeas and spices, served ... read more",109.0
+Sides & Beverages,Falafel Shots (6 pieces),1,0,"Mediterranean inspired crispy falafel- made from the finest soaked chickpeas and spices, served ... read more",49.0
+Sides & Beverages,"Cheesy Wedges (Choose Peri Peri, Chipotle)",1,0,Thick-cut potato wedges can be drizzled with either peri-peri sauce or tangy chipotle-flavoured ... read more,135.0
+Sides & Beverages,Double Wedges Combo,1,0,SAVE Rs. 29 and indulge in this combo of 2 portions of Wedges. ... read more,169.0
+Sides & Beverages,Teekha Chaska (Pack of 20),1,0,"Double the flavour, double the spice with Teekha Chaska. Stock up on your ... read more",200.0
+Sides & Beverages,Aamras Drink,1,0,"200ml. This Aamras drink is pure deliciousness, a quick summer delight to satiate ... read more",59.0
+Sides & Beverages,Cold Coffee,1,0,"200ml. Guaranteed to satisfy your craving for caffeine and coolness, this refreshing, ready-to-drink, ... read more",119.0
+Sides & Beverages,Coca-Cola Bottle (475 ML),1,0,475 ML Coca - Cola Bottle,66.5
+Sides & Beverages,SWIG Green Apple,1,0,Aerated drink flavored with the mouth-puckering green apple. Sure to refresh you completely!,57.0
+Sides & Beverages,Skimmed Mint Buttermilk,1,0,Mildly spiced Indian buttermilk with the freshness of mint.,50.0
+Sides & Beverages,SWIG Jeera Masala Soda,1,0,Aerated drink with the added zing of jeera and masala. A perfect accompaniment ... read more,57.0
+Sides & Beverages,Masala Lemonade (180 ml),1,0,"A refreshing classic drink with a combined goodness of fresh lime, himalayan pink ... read more",46.0
+Sides & Beverages,Tender Coconut Water,1,0,"Every athletes go to natural energy drink, Coconut water is complete win-win for ... read more",95.24
+Desserts,Choco Lava Cake,1,0,A perfect match of Chocolate Cake on the outside and molten Chocolate on ... read more,99.0
+Desserts,Chocolate Muffin,1,0,This delicious Chocolate Muffin made with chocolate chips and rich ganache filling is ... read more,99.0
+Desserts,Mango Cheesecake,1,0,"This New York Style Mango Cheesecake, made with premium quality mango infused cream ... read more",179.0
+Desserts,New York Cheesecake,0,0,"The classic, melt-in-your-mouth New York cheesecake is the perfect combination of cream cheese ... read more",179.0
+Desserts,Chocolate Truffle Pastry,1,0,Layers of soft chocolate sponge and dense but silky-smooth chocolate ganache makes this ... read more,145.0
+Desserts,Rich Red Velvet Pastry,1,0,Rich and moist Red Velvet cake layered with fresh cream cheese makes our ... read more,145.0
+Desserts,Chocolate Mocha Jar,1,0,"Feel like having coffee & dessert at the same time. Well, we have ... read more",149.0
+Desserts,Alphonso Mango Ice Cream,1,0,"Delicious Alphonso Mango based ice cream made with juicy, real Mango pulp and ... read more",99.0
+Desserts,Belgian Chocolate Ice Cream,1,0,"Treat yourself to a scoop of luxury: Belgian chocolate ice cream that's rich, ... read more",99.0
+Desserts,Dry Fruit Kulfi Ice Cream,1,0,"A creamy base, made from simmering milk to a thick, luscious consistency, with ... read more",99.0
+Desserts,Vanilla Ice Cream,1,0,"Luxuriously smooth and creamy that melts effortlessly on the tongue, this vanilla ice ... read more",99.0
+Desserts,Strawberry Ice Cream,1,0,Nothing tops a berry berry good ice cream and this Strawberry one is ... read more,99.0
+Desserts,Salted Caramel Ice Cream,1,0,"Sweet, Salty and a little scoop of happiness. This salted caramel ice cream ... read more",99.0

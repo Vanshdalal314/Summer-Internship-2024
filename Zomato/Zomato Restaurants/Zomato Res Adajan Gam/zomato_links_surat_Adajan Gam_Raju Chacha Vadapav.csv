@@ -1,0 +1,26 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Vada Pav (Non Jain),Butter vadapav,1,0,,40.0
+Vada Pav (Non Jain),Cheese Vada Pav,1,0,Yummy amul spread cheese,70.0
+Vada Pav (Non Jain),Plain Mayonnaise Vada Pav,1,0,"A flavor-packed snack with a flavorsome, deep-fried potato balls stuffed between fresh bread ... read more",50.0
+Vada Pav (Non Jain),Garlic Mayonnaise Vada Pav,1,0,"A flavor-packed snack with a flavorsome, deep-fried potato balls stuffed between fresh bread ... read more",60.0
+Vada Pav (Non Jain),1000 Mayonnaise Vada Pav,1,0,"A savory, deep-fried snack made by dipping mashed patotoes in a seasoned gram ... read more",60.0
+Vada Pav (Non Jain),Cheese Blast Mayonnaise Vada Pav,1,0,"A flavor packed snack with a flavorsome, deep fried potato balls stuffed between ... read more",60.0
+Vada Pav (Non Jain),Tandoori Mayonnaise Vada Pav,1,0,"A flavor-packed snack with a flavorsome, deep-fried potato balls stuffed between fresh bread ... read more",70.0
+Vada Pav (Non Jain),Smoky Peri Peri Mayonnaise Vada Pav,1,0,It's spicy.,70.0
+Vada Pav (Non Jain),Only Vada,1,0,,21.0
+Pav (Non Jain),Butter Pav,1,0,A soft bun filled with butter,21.0
+Pav (Non Jain),Cheese Blast Mayonnaise Pav,1,0,"A soft bun filled with cheese flavour mayonnaise, cream & onion wafer.",50.0
+Pav (Non Jain),Smoky Peri Peri Mayonnaise Pav,1,0,Filled with Peri Peri Mayonnaise + Cream Onion Wafer,55.0
+Pav (Non Jain),Tandoori Mayonnaise Pav,1,0,Filled with Tandoori Mayonnaise + Cream Onion Wafer,55.0
+Pav (Non Jain),1000 Mayonnaise Pav,1,0,Served with 1000 island type of Mayonnaise along with Cream and Onion chips.,55.0
+Pav (Non Jain),Cheese Pav,1,0,A soft bun filled with liquid Cheese.,55.0
+Pav (Non Jain),Plain Mayonnaise Pav,1,0,Filled with Mayonnaise + Cream Onion Wafer,40.0
+Pav (Non Jain),Garlic Mayonnaise Pav,1,0,Filled with Garlic Mayonnaise + Cream Onion Wafer,50.0
+Bread Pakoda (Non Jain),Bread Pakoda,1,0,"A savory, deep-fried snack made by dipping mashed patotoes in a seasoned gram ... read more",40.0
+Bread Pakoda (Non Jain),Cheese Bread Pakoda,1,0,"A savory, deep-fried snack made by dipping mashed patotoes in a seasoned gram ... read more",70.0
+Bread Pakoda (Non Jain),Plain Mayonnaise Pakora,1,0,,50.0
+Bread Pakoda (Non Jain),Garlic Mayonnaise Pakora,1,0,"A savory, deep-fried snack made by dipping mashed patotoes in a seasoned gram ... read more",60.0
+Bread Pakoda (Non Jain),1000 Mayonnaise Pakora,1,0,,60.0
+Bread Pakoda (Non Jain),Cheese Blast Mayonnaise Pakora,1,0,"A savory, deep fried snack made by dipping mashed potatoes in a seasoned ... read more",60.0
+Bread Pakoda (Non Jain),Tandoori Mayonnaise Pakora,1,0,,70.0
+Bread Pakoda (Non Jain),Smoky Peri Peri Mayonnaise Bread Pakora,1,0,It's spicy,70.0

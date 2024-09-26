@@ -1,0 +1,25 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Aalupuri,Veg Aloo Puri with Sev,1,0,4 Veg aloo puri with fresh ingredient quality.,20.0
+Aalupuri,Veg Aloo Puri with Papdi,1,0,4 Veg aloo puri with fresh ingredient quality.,20.0
+Aalupuri,Boiled Egg Aloo Puri with Sev,0,0,Fresh boil eggs with 4 puries.,40.0
+Aalupuri,Veg Amul Cheese Aloo Puri with Sev,1,0,Serve with pure Amul cheese cube with 4 puries.,45.0
+Aalupuri,Boiled Egg Aalupuri With Papdi,0,0,Fresh Boil Eggs With 4 Puries,40.0
+Aalupuri,Egg with Cheese Aloo Puri with Papdi,0,0,Egg with Amul cheese cube 4 puries.,55.0
+Aalupuri,Veg Amul Cheese Aalupuri With Papdi,1,0,Serve With Pure Amul Cheese Cube With 4 Puries,45.0
+Aalupuri,Egg with Cheese Aloo Puri with Sev,0,0,Egg with Amul cheese cube 4 puries.,55.0
+Aalupuri,Special Egg [4 Eggs],0,0,Special Egg Is Delicious Variety With Chicken And Cheese Combination,135.0
+Aalupuri,Chicken Aloo Puri with Papdi,0,0,Fresh chicken gravy with 4 puries.,45.0
+Aalupuri,Chicken with Egg Aloo Puri with Sev,0,0,Tatsy chicken with boil egg delicious combination with 4 puries.,60.0
+Aalupuri,Chicken with Egg Aloo Puri with Papdi,0,0,Tatsy chicken with boil egg delicious combination with 4 puries.,60.0
+Aalupuri,Chicken with Cheese Aalupuri With Sev,0,0,Delicious Tasty And Fresh Chicken Thick Gravy With Amul Chesse Cube With 5 ... read more,70.0
+Aalupuri,Chicken with Cheese Aalupuri With Papdi,0,0,Delicious Tasty And Fresh Chicken Thick Gravy With Amul Chesse Cube With 5 ... read more,70.0
+Aalupuri,"Chicken, Egg with Cheese Aloo Puri with Papdi",0,0,"Full combo with tasty yummy and fresh chicken, Amul cheese cube, and ... read more",90.0
+Aalupuri,Chicken Aloo Puri with Sev,0,0,Fresh chicken gravy with 4 puries.,45.0
+Aalupuri,"Chicken, Egg with Cheese Aloo Puri with Sev",0,0,"Full combo with tasty yummy and fresh chicken, Amul cheese cube,and boil eggs ... read more",90.0
+Khawsa,Veg Khawsa,1,0,"Fresh and best quality || Images used are for representation purposes only, ... read more",55.0
+Khawsa,Veg Cheese Khawsa,1,0,Veg khawsa with 1 fresh amul cheese cube,75.0
+Khawsa,Veg Khawsa with Boiled Egg,0,0,With Boil Egg,65.0
+Khawsa,Chicken Khawsa,0,0,With fresh chicken and thick gravy || Images used are for representation purposes ... read more,60.0
+Khawsa,Cheese Chicken Khawsa,0,0,Serve With 1 Amul Cheese Cube and fresh chicken pieces and thick gravy,90.0
+Khawsa,"Chicken, Cheese with Egg Khawsa",0,0,"Best Combo With Boil Egg , Fresh Chicken Gravy And Amul Cheese Cube",100.0
+Khawsa,Chicken Khawsa With Boiled Egg,0,0,Chicken Khawsa With Boil Egg,80.0

@@ -1,0 +1,43 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pav Bhaji,Pav Bhaji,1,0,,130.0
+Pav Bhaji,Butter Pav Bhaji,1,0,,190.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,,190.0
+Pav Bhaji,Cheese and Butter Pav Bhaji,1,0,,220.0
+Pav Bhaji,Paneer Pav Bhaji,1,0,,250.0
+Thali,Veg Thali,1,0,2 Veg Sabji+5 Roti+Dal+Rice,130.0
+Thali,Punjabi Thali,1,0,2 Sabji+1 Paneer Sabji+Dal+5 Roti,170.0
+Thali,Special Thali,1,0,2 Veg Sabji+1 Paneer Sabji+Dal Fry+Jeera Rice+5 Butter Roti,230.0
+Main Course,Chana Pindi [750 grams],1,0,,200.0
+Main Course,Shahi Paneer [750 grams],1,0,,220.0
+Main Course,Kadai Paneer [750 grams],1,0,,270.0
+Main Course,Paneer Do Pyaza [750 grams],1,0,,280.0
+Main Course,Paneer Bhurji [500 grams],1,0,,200.0
+Main Course,Matar Paneer [750 grams],1,0,,200.0
+Main Course,Paneer Butter Masala [750 grams],1,0,,300.0
+Main Course,Dal Fry,1,0,Basic indian dish made by cooking lentils with spices.,130.0
+Breads,1 Roti,1,0,,15.0
+Breads,1 Butter Roti,1,0,,20.0
+Breads,Aloo Paratha,1,0,,120.0
+Breads,Paneer Paratha,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",170.0
+Breads,Onion Paratha,1,0,,170.0
+Breads,Paneer Cheese Paratha,1,0,,210.0
+Breads,Aloo Butter Paratha,1,0,,160.0
+Breads,1 Plain Paratha,1,0,,30.0
+Rice and Biryani,Jeera Rice,1,0,,130.0
+Rice and Biryani,Tawa Pulao,1,0,,150.0
+Rice and Biryani,Cheese Tawa Pulao,1,0,,180.0
+Rice and Biryani,Butter Tawa Pulao,1,0,,180.0
+Rice and Biryani,Paneer Tawa Pulao,1,0,,220.0
+Rice and Biryani,Mixed Tawa Pulao,1,0,,250.0
+Rice and Biryani,Kashmiri Tawa Pulao,1,0,,300.0
+Rice and Biryani,Cheese Butter Tawa Pulao,1,0,,230.0
+Rice and Biryani,Veg Biryani,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",200.0
+Rice and Biryani,Paneer Biryani,1,0,,230.0
+Rice and Biryani,Cheese Biryani,1,0,,230.0
+Rice and Biryani,Mixed Biryani,1,0,,250.0
+Rice and Biryani,Kashmiri Biryani,1,0,,300.0
+Snacks,Chole Bhature,1,0,,120.0
+Snacks,Butter Chole Bhature,1,0,,180.0
+Snacks,Cheese Chole Bhature,1,0,,190.0
+Snacks,Paneer Chole Bhature,1,0,,230.0
+Snacks,Paneer Cheese Chole Bhature,1,0,,260.0

@@ -1,0 +1,91 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Chatpata Burger with Salted Fries and Cold Coffee,1,0,Classic Potato Patty Chatpata Burger+Salted Fries+Cold Coffee,149.0
+Combos,Peri Peri Burger with Peri Peri Fries and Cold Coffee,1,0,Spicy Peri Peri Burger+Spicy Peri Peri Fries+Cold Coffee,199.0
+Snacks,Biscuit Pie [6 Pieces],1,0,"A special handcrafted palak kahri topped with secret sauce, mix veggies & lots ... read more",149.0
+Snacks,Cheese Garlic Bread [3 Pieces],1,0,"A recipe which only includes bread, butter, garlic, herbs, lots of cheese, a ... read more",149.0
+Snacks,Cheese Chilli Garlic Bread [3 Pieces],1,0,A spicy twist to your favorite cheese garlic bread. Its really hot and ... read more,149.0
+Snacks,Gourmet Garlic Bread [3 Pieces],1,0,"A bread topped with garlic paste, lots of veggies and 3 different types ... read more",149.0
+Snacks,Salted Fries with Mayo Dip,1,0,Your favorite fries seasoned with salt and chaat masala accomplished with mayo dip.,89.0
+Snacks,Peri Peri Fries with Spicy Dip,1,0,Your favorite fries seasoned with salt and peri peri sprinkler accomplished with peri ... read more,99.0
+Snacks,Cheesy Loaded Fries,1,0,Your favorite fries seasoned with salt and peri peri sprinkler loaded with rich ... read more,149.0
+Sandwiches,Bread Butter Sandwich [2 Slices],1,0,A very delectable snack enjoyed with chutney or ketchup is loved by all.,45.0
+Sandwiches,Bread Butter Jam Sandwich [2 Slices],1,0,Bread butter jam is the traditional Italian breakfast loved by kids.,49.0
+Sandwiches,Bread Butter Cheese Sandwich [2 Slices],1,0,A very delectable snack enjoyed with chutney or ketchup is loved by all.,75.0
+Sandwiches,Bombay Veg Sandwich [2 Slices],1,0,"An extremely popular street style sandwich recipe made with layer of sandwich slices, ... read more",79.0
+Sandwiches,Bombay Veg Cheese Sandwich [2 Slices],1,0,"An extremely popular street style sandwich recipe made with layer of sandwich slices, ... read more",99.0
+Sandwiches,Veg Cheese Grilled Sandwich [2 Slices],1,0,This is a Bombay style delicious stuffed sandwich made with a filling of ... read more,129.0
+Sandwiches,Chatpata Cheese Grilled Sandwich [2 Slices],1,0,A chatpata cheese grilled sandwich perfect for Indian palete. This delicious stuffed sandwich ... read more,139.0
+Sandwiches,American Cheese Grilled Sandwich [2 Slices],1,0,"A cheesy creamy sandwich stuffed with mayo, cheese, cream and mixed veggies, topped ... read more",139.0
+Sandwiches,Tandoori Paneer Cheese Grilled Sandwich [2 Slices],1,0,It is a fusion recipe which is combination of Indian tandoori paneer tikka ... read more,139.0
+Sandwiches,Peri Peri Cheese Grilled Sandwich [2 Slices],1,0,This hot and spicy peri peri paneer grilled sandwich is made with a ... read more,139.0
+Burgers,Chatpata Burger [1 Piece],1,0,Crispy potato patty flavored with burger mayo.,49.0
+Burgers,Veg Cheese Burger [1 Piece],1,0,Crispy potato patty flavored with burger mayo and cheese slice.,69.0
+Burgers,Peri Peri Cheese Burger [1 Piece],1,0,Crispy potato patty flavored with peri peri mayo and cheese slice.,79.0
+Burgers,Schezwan Cheese Burger [1 Piece],1,0,Crispy potato patty flavored with schezwan chutney and cheese slice.,79.0
+Burgers,Tandoori Cheese Burger [1 Piece],1,0,Crispy potato patty flavored with tandoori mayo and cheese slice.,79.0
+Burgers,Double Cheese Burger [1 Piece],1,0,Crispy potato patty flavored with burger mayo and 2 cheese slice.,89.0
+Burgers,Double Tikki Cheese Burger [1 Piece],1,0,Crispy potato patty [2 pieces] flavored with burger mayo and cheese slice.,99.0
+Pizza,Margherita Pizza [6 inches],1,0,"A typical Neapolitan pizza made with tomatoes. mozzarella cheese, Cheddar cheese and liquid ... read more",139.0
+Pizza,Chatpata Cheese Pizza [6 inches],1,0,"A spicy and tangy pizza, made with tomatoes, onion, capsicum, sweet corn and ... read more",149.0
+Pizza,American Garden Pizza [6 inches],1,0,"A typical Neapolitan pizza made with tomatoes, onion, capsicum, sweet corn and mozzarella, ... read more",149.0
+Pizza,Tandoori Paneer Pizza [6 inches],1,0,It is a fusion recipe which is combination of Indian tandoori paneer tikka ... read more,149.0
+Pizza,Peri Peri Paneer Pizza [6 inches],1,0,This hot and spicy peri peri paneer pizza is made with a rich ... read more,149.0
+Timepass,Veg Cheese Timepass [1 Piece],1,0,"Delicious stuffed bun, made with a filling of mix vegetable, cheese, masala wafers ... read more",75.0
+Timepass,Cheesy Creamy Timepass [1 Piece],1,0,"A cheesy creamy bun stuffed with mayo, cheese, masala wafers and mix veggies ... read more",89.0
+Timepass,Peri Peri Paneer Timepass [1 Piece],1,0,This hot and spicy peri peri paneer grilled bun made with a rich ... read more,89.0
+Timepass,Tandoori Paneer Timepass [1 Piece],1,0,"It is a fusion recipe which is combination of Indian tandoori paneer tikka, ... read more",89.0
+Cold Coffee [250 ml],Cold Coffee,1,0,"A perfect blend of coffee, ice cream & milk.",49.0
+Cold Coffee [250 ml],Chocolate Coffee,1,0,"A perfect blend of coffee, chocolate ice cream & milk.",79.0
+Milkshakes [250 ml],Vanilla Milkshake [250 ml],1,0,All time favorite vanilla blended with ice cream & milk.,99.0
+Milkshakes [250 ml],Chocolate Milkshake [250 ml],1,0,All time classic chocolate milkshake.,99.0
+Milkshakes [250 ml],Pienapple Milkshake [250 ml],1,0,Delicious pinneple crush blended with ice cream & milk.,99.0
+Milkshakes [250 ml],Strawberry Milkshake [250 ml],1,0,Delicious strawberry crush blended with ice cream & milk.,99.0
+Milkshakes [250 ml],Rose Milkshake [250 ml],1,0,Delicious rose crush blended with ice cream & milk.,99.0
+Milkshakes [250 ml],Chocolate Chips Milkshake [250 ml],1,0,All time classic chocolate milkshake topped with chocolate chips.,129.0
+Milkshakes [250 ml],Mango Milkshake [250 ml],1,0,A great milkshake with rich alphonso mango pulp.,129.0
+Milkshakes [250 ml],Blackcurrant Milkshake [250 ml],1,0,Delicious black current crush blended with ice cream & milk.,149.0
+Milkshakes [250 ml],Oreo Milkshake [250 ml],1,0,"Crunchy Oreo crumb blended with ice cream, milk & chocolate syrup.",149.0
+Milkshakes [250 ml],Banarasi Pan Milkshake [250 ml],1,0,Chatpata special banarashi pan blended with ice cream & milk.,149.0
+Milkshakes [250 ml],Kesariya Thandai Milkshake [250 ml],1,0,Holi special keshariya thandai.,149.0
+Milkshakes [250 ml],KitKat Milkshake [250 ml],1,0,"Crunchy KitKat blended with ice cream, milk & chocolate syrup.",149.0
+Milkshakes [250 ml],Nutella Milkshake,1,0,"Creamy nutella spread blended with ice cream, milk & chocolate syrup.",149.0
+Milkshakes [250 ml],Kaju Anjeer Milkshake [250 ml],1,0,All time favorite ajneer blended with ice cream & milk & topped with ... read more,149.0
+Milkshakes [250 ml],Kaju Mango Milkshake [250 ml],1,0,A great milkshake with rich alphonso mango pulp topped with kaju.,149.0
+Milkshakes [250 ml],Kaju Chocolate Milkshake [250 ml],1,0,All time classic chocolate milkshake topped with kaju.,149.0
+Thickshakes [250 ml],Vanilla Thickshake [250 ml],1,0,All time favorite vanilla blended with ice cream.,99.0
+Thickshakes [250 ml],Chocolate Thickshake [250 ml],1,0,All time classic chocolate thickshake.,99.0
+Thickshakes [250 ml],Pineapple Thickshake [250 ml],1,0,All time classic chocolate thickshake.,99.0
+Thickshakes [250 ml],Strawberry Thickshake [250 ml],1,0,Delicious strawberry crush blended with ice cream.,99.0
+Thickshakes [250 ml],Rose Thickshake [250 ml],1,0,Delicious rose crush blended with ice cream.,99.0
+Thickshakes [250 ml],Chocolate Chips Thickshake [250 ml],1,0,All time classic chocolate thick shake topped with chocolate chips.,129.0
+Thickshakes [250 ml],Mango Thickshake [250 ml],1,0,A great thickshake with rich alphonso mango pulp.,129.0
+Thickshakes [250 ml],Blackcurrant Thickshake [250 ml],1,0,Delicious blackcurrant crush blended with ice cream.,149.0
+Thickshakes [250 ml],Oreo Thickshake [250 ml],1,0,Crunchy Oreo crumbs blended with ice cream & chocolate syrup.,149.0
+Thickshakes [250 ml],Banarasi Pan Thickshake [250 ml],1,0,Chatpata special banarashi pan blended with ice cream.,149.0
+Thickshakes [250 ml],Kesariya Thandai Thickshake [250 ml],1,0,Holi special keshariya thandai thick shake.,149.0
+Thickshakes [250 ml],KitKat Thickshake [250 ml],1,0,Crunchy Kitkat blended with ice cream & chocolate syrup.,149.0
+Thickshakes [250 ml],Nutella Thickshake [250 ml],1,0,Creamy nutella spread blended with ice cream & chocolate syrup.,149.0
+Thickshakes [250 ml],Kaju Anjeer Thickshake [250 ml],1,0,All time favorite ajneer blended with ice cream & topped with kaju.,149.0
+Thickshakes [250 ml],Kaju Mango Thickshake [250 ml],1,0,A great thickshake with rich alphonso mango pulp topped with kaju.,149.0
+Thickshakes [250 ml],Kaju Chocolate Thickshake [250 ml],1,0,All time classic chocolate thickshake topped with kaju.,149.0
+Mocktails [250 ml],Lemon Iced Tea,1,0,Refreshing cold ice tea served with lime.,79.0
+Mocktails [250 ml],Peach Iced Tea,1,0,Refreshing cold peach flavored tea.,79.0
+Mocktails [250 ml],Virgin Mojito,1,0,Refreshing summer beverage muddled with lime & mint.,99.0
+Mocktails [250 ml],Blue Lagoon Mocktail,1,0,"A perfect beverage which has blue curacao, lime & mint.",99.0
+Mocktails [250 ml],Green Apple Mojito,1,0,Flavourful green apple beverage muddled with lime & mint.,99.0
+Mocktails [250 ml],Watermelon Mojito,1,0,FLAVOURFUL Watermelon BEVERAGE MUDDLED WITH LIME & MINT.,99.0
+Fountain Soda [200 ml],Blueberry,1,0,"A robust sweet, tart blueberry flavor with a slight earthy aroma and fruity ... read more",25.0
+Fountain Soda [200 ml],Clear Lemon,1,0,A thirst-quenching soft drink based on carbonated water with an explosive fruit flavor.,25.0
+Fountain Soda [200 ml],Tangy Orange,1,0,"Bubbly, juicy, bright, and sweet–orange soda is a beverage classic that dazzles the ... read more",25.0
+Fountain Soda [200 ml],Fruit Beer,1,0,Refreshing cold ice tea served with lime. non alcoholic,25.0
+Fountain Soda [200 ml],Green Apple,1,0,"Green apple is a light, refreshing soda drink with a tarty bite.",25.0
+Fountain Soda [200 ml],Jeera Masala,1,0,Masala jeera soda is a refreshing indian summer drink made using cumin seeds.,25.0
+Fountain Soda [200 ml],Kala Khatta,1,0,"Kala khatta is a dark purple-colored sharbat with a sweet, tangy, and a bit ... read more",25.0
+Fountain Soda [200 ml],Pineapple,1,0,This tasty beverages transports you to the sunny caribbean with its sweet sparkling pineapple taste.,25.0
+Fountain Soda [200 ml],Maza Mango,1,0,"Slightly sweet, slightly tangy, and so perfect for helping you quench the thirst ... read more",25.0
+Fountain Soda [200 ml],Green Mango,1,0,Green mango cold drink is a summer special cooling agent in the body,35.0
+Fountain Soda [200 ml],Strawberry,1,0,This strawberry soda is full of berry flavor.,35.0
+Fountain Soda [200 ml],Watermelon,1,0,The carbonated water is literally popping with the sweet and slightly acidic watermelon ... read more,35.0
+Fountain Soda [200 ml],Fresh Lime Soda,1,0,You get the tangy kick of lemon followed by a sharp zing of salt ... read more,35.0
+Fountain Soda [200 ml],Sweet Lime Soda,1,0,You get the tangy kick of lemon followed by a sharp zing of salt ... read more,35.0
+Fountain Soda [200 ml],Nimbu Sharbat [Shikanji],1,0,Indian style lemonade made with fresh lemon juice and sugar with a touch ... read more,35.0

@@ -1,0 +1,146 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Fried Rice with Chicken Chilli Gravy,0,0,,190.0
+Combos,Schezwan Fried Rice with Chicken Chilli Gravy,0,0,,190.0
+Combos,Chicken Noodles Chicken Chilli Dry,0,0,,190.0
+Soups and Salads,Manchow Soup,1,0,,100.0
+Soups and Salads,Hot and Sour Soup,1,0,,100.0
+Soups and Salads,Lemon Coriander Soup,1,0,,100.0
+Soups and Salads,Chicken Manchow Soup,0,0,,140.0
+Soups and Salads,Chicken Hot and Sour Soup,0,0,,140.0
+Soups and Salads,Chicken Lung Fung Soup,0,0,,140.0
+Soups and Salads,Chicken Noodles Soup,0,0,,140.0
+Soups and Salads,Chicken Lemon Coriander Soup,0,0,,140.0
+Soups and Salads,Green Salad,1,0,,90.0
+Soups and Salads,Tomato Salad,1,0,,80.0
+Starters,Egg Chilli Dry Dry,0,0,,170.0
+Starters,Egg Schezwan Dry,0,0,,180.0
+Starters,Chicken 65 Dry,0,0,,210.0
+Starters,Chicken 65 [250 g],0,0,,160.0
+Starters,Chicken Leg Piece Fry [1 Piece],0,0,,180.0
+Starters,Chicken Lollipop Fry [6 Pieces],0,0,,180.0
+Starters,Chicken Binsh Fry [250 g],0,0,,150.0
+Starters,Chicken Chilli Dry,0,0,,210.0
+Starters,Schezwan Chicken Dry,0,0,,220.0
+Starters,Chicken Paprika Dry,0,0,,210.0
+Starters,Green Chicken Dry,0,0,,210.0
+Starters,Green Cheese Chicken Dry,0,0,,240.0
+Starters,Chicken Lollipop Dry [6 Pieces],0,0,,230.0
+Main Course,Shahi Paneer,1,0,,190.0
+Main Course,Paneer Angara,1,0,,190.0
+Main Course,Dal Fry,1,0,,160.0
+Main Course,Dal Tadka,1,0,,160.0
+Main Course,Paneer Butter Masala,1,0,,200.0
+Main Course,Paneer Lababdar,1,0,,200.0
+Main Course,Paneer Handi,1,0,,200.0
+Main Course,Kadhai Paneer,1,0,,200.0
+Main Course,Paneer Chatpata,1,0,,190.0
+Main Course,Palak Paneer,1,0,,190.0
+Main Course,Matar Paneer,1,0,,180.0
+Main Course,Chana Paneer,1,0,,180.0
+Main Course,Veg Kolhapuri,1,0,,180.0
+Main Course,Veg Handi,1,0,,180.0
+Main Course,Chana Masala,1,0,,170.0
+Main Course,Veg Kadhai,1,0,,180.0
+Main Course,Veg Hyderabadi,1,0,,180.0
+Main Course,Mix Veg,1,0,,170.0
+Main Course,Veg Diwani Handi,1,0,,180.0
+Main Course,Veg Jaipuri,1,0,,170.0
+Main Course,Veg Keema Masala,1,0,,180.0
+Main Course,Jeera Aloo,1,0,,170.0
+Main Course,Aloo Matar,1,0,,170.0
+Main Course,Aloo Palak,1,0,,170.0
+Main Course,Matar Palak,1,0,,170.0
+Main Course,Plain Palak,1,0,,170.0
+Main Course,Sev Tamatar,1,0,,160.0
+Main Course,Kaju Masala,1,0,,220.0
+Main Course,Kaju Curry,1,0,,220.0
+Main Course,Kaju Paneer Masala,1,0,,220.0
+Main Course,Cheese Masala,1,0,,200.0
+Main Course,Cheese Paneer Masala,1,0,,200.0
+Main Course,Cheese Butter Masala,1,0,,200.0
+Main Course,Egg Curry [2 Eggs],0,0,,140.0
+Main Course,Chilli Chicken Gravy,0,0,,210.0
+Main Course,Schezwan Chicken Gravy,0,0,,220.0
+Main Course,Chicken Angara,0,0,,210.0
+Main Course,Chicken Unick Tawa Fry,0,0,,210.0
+Main Course,Chicken Do Pyaaza,0,0,,210.0
+Main Course,Chicken Lehsunia,0,0,,200.0
+Main Course,Chicken Green Masala,0,0,,200.0
+Main Course,Chicken Kolhapuri,0,0,,200.0
+Main Course,Boneless Butter Chicken,0,0,,220.0
+Main Course,Chicken Handi,0,0,,200.0
+Main Course,Chicken Masala,0,0,,200.0
+Main Course,Chicken Toofani,0,0,,200.0
+Main Course,Chicken Achari,0,0,,200.0
+Main Course,Afghani Chicken,0,0,,200.0
+Main Course,Kadhai Chicken,0,0,,200.0
+Main Course,Chicken Peri Peri Masala,0,0,,220.0
+Main Course,Chicken Mughlai,0,0,,220.0
+Main Course,Chicken Binsh Masala,0,0,,200.0
+Main Course,Chicken Curry [3 Pieces],0,0,,200.0
+Main Course,Fish Curry [2 Pieces],0,0,,180.0
+Main Course,Fish Masala [2 Pieces],0,0,,180.0
+Breads,Tawa Roti,1,0,,12.0
+Breads,Butter Tawa Roti,1,0,,15.0
+Breads,Tawa Paratha,1,0,,30.0
+Rice and Biryani,Steamed Rice,1,0,,150.0
+Rice and Biryani,Jeera Rice,1,0,,150.0
+Rice and Biryani,Veg Pulao,1,0,,170.0
+Rice and Biryani,Dal Khichdi,1,0,,150.0
+Rice and Biryani,Palak Khichdi,1,0,,150.0
+Rice and Biryani,Egg Pulao,0,0,,160.0
+Rice and Biryani,Chicken Pulao,0,0,,190.0
+Rice and Biryani,Veg Biryani,1,0,,170.0
+Rice and Biryani,Hyderabadi Biryani,1,0,,170.0
+Rice and Biryani,Egg Biryani,0,0,,140.0
+Rice and Biryani,Chicken Dum Biryani,0,0,,160.0
+Chinese,Manchurian Dry,1,0,,170.0
+Chinese,Manchurian Gravy,1,0,,170.0
+Chinese,Green Manchurian Dry,1,0,,180.0
+Chinese,Schezwan Manchurian Dry,1,0,,180.0
+Chinese,Chilli Paneer Dry,1,0,,200.0
+Chinese,Chilli Paneer Gravy,1,0,,200.0
+Chinese,Schezwan Paneer Chilli Dry,1,0,,210.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,180.0
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,170.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,170.0
+Fried Rice and Noodles,Schezwan Egg Fried Rice,0,0,,180.0
+Fried Rice and Noodles,Egg Mexican Fried Rice,0,0,,170.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,190.0
+Fried Rice and Noodles,Schezwan Chicken Fried Rice,0,0,,200.0
+Fried Rice and Noodles,Chicken Singapuri Fried Rice,0,0,,200.0
+Fried Rice and Noodles,Chicken Mexican Fried Rice,0,0,,210.0
+Fried Rice and Noodles,Chicken Garlic Fried Rice,0,0,,190.0
+Fried Rice and Noodles,Hakka Noodles,1,0,,210.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,,170.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,170.0
+Fried Rice and Noodles,Egg Noodles,0,0,,150.0
+Fried Rice and Noodles,Egg Schezwan Noodles,0,0,,160.0
+Fried Rice and Noodles,Egg Singapuri Noodles,0,0,,160.0
+Fried Rice and Noodles,Egg Garlic Noodles,0,0,,160.0
+Fried Rice and Noodles,Chicken Noodles,0,0,,170.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,,180.0
+Fried Rice and Noodles,Chicken Singapuri Noodles,0,0,,170.0
+Fried Rice and Noodles,Chicken Garlic Noodles,0,0,,170.0
+Fried Rice and Noodles,Chicken Hong Kong Noodles,0,0,,180.0
+Snacks,Chinese Bhel,1,0,,170.0
+Snacks,Pav [2 Pieces],1,0,,15.0
+Snacks,Omelette,0,0,,130.0
+Snacks,Egg Half Fry,0,0,,130.0
+Snacks,Egg Mexican Fry,0,0,,140.0
+Snacks,Egg Masala Fry,0,0,,130.0
+Snacks,Egg Chinese Fry,0,0,,150.0
+Snacks,Australian Fry,0,0,,150.0
+Snacks,Spinach Omelette,0,0,,120.0
+Snacks,Royal Omelette,0,0,,120.0
+Snacks,Schezwan Omelette,0,0,,150.0
+Snacks,Mayo Omelette,0,0,,130.0
+Snacks,Cheese Omelette,0,0,,160.0
+Snacks,Mayo Cheese Omelette,0,0,,170.0
+Snacks,Schezwan Cheese Omelette,0,0,,170.0
+Snacks,Chicken Chinese Bhel,0,0,,180.0
+Accompaniments,Veg Raita,1,0,,90.0
+Accompaniments,Boondi Raita,1,0,,90.0
+Accompaniments,Roasted Papad,1,0,,25.0
+Accompaniments,Plain Curd,1,0,,80.0
+Drinks (Beverages),Buttermilk,1,0,,25.0

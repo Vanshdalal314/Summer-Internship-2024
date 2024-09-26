@@ -1,0 +1,43 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos and Meals,Cholay Kulchay Combo,1,0,1 Stuffed Kulcha+1 Cholay+1 Raita+1 Laccha Onion,930.0
+Combos and Meals,Chur Chur Naan Mini Meal,1,0,1 Crisp Stuffed Flakes Bread+1 Dal Makhani+1 Fries Chilies,930.0
+Combos and Meals,Veg Hyderabadi Dum Biryani Meal,1,0,1 Flavored Basmati Rice+1 Salan+1 Burani Raita,1040.0
+Combos and Meals,Chicken Hyderabadi Dum Biryani Meal,0,0,1 Flavored Basmati Rice+1 Salan+1 Burani Raita,1150.0
+Combos and Meals,Lamb Hyderabadi Dum Biryani Meal,0,0,1 Flavored Basmati Rice+1 Salan+1 Burani Raita,1260.0
+Combos and Meals,Mutton Keema Naan Meal,0,0,1 Crisp Stuffed Flat Bread+1 Gravy+1 Fried Chilies,965.0
+Combos and Meals,Keema Pao Meal,0,0,1 Spiced Minced Lamb+1 Maska Pao+1 Fried Chilies,965.0
+Combos and Meals,Egg Curry and Paratha,0,0,1 Boiled Eggs+1 Cumin+1 Onions+1 Tomato+1 Chilies+1 Tawa Paratha,930.0
+Combos and Meals,Chicken and Paratha Meal,0,0,1 Butter Chicken+1 Laccha Paratha+1 Masala Pyaza,965.0
+Salad,Prawns Caesar Salad,0,0,"Gems, shaved Parmesan, croutons, caesar dressing, silver skin anchovies, garlic sauté prawns.",875.0
+Salad,Healthy Quinoa & Arugula Salad,1,0,"Plant base. Red quinoa, young tomatoes, orange, walnut, goat cheese, kalamata olives, citrus ... read more",790.0
+Salad,"Apple, Water Chestnut & Palm Heart Salad",1,0,"Plant base. Granny smith, water chestnut, palm heart, parsley tossed with lemon dressing ... read more",790.0
+Salad,Chicken Caesar Salad,0,0,"Gems, shaved parmesan, croutons, caesar dressing, silver skin anchovies, grilled local cajun spiced ... read more",820.0
+Salad,Veg Caesar Salad,1,0,"Gems, shaved Parmesan, croutons, caesar dressing, grilled vegetable brochette.",785.0
+Soups & Salads,Roasted Tomato and Basil Soup,1,0,"Plant base. Tomatoes, leek, celery, garlic, shallots, butter, pepper and basil.",545.0
+Soups & Salads,Broccoli Almond Soup,1,0,"Plant base. Broccoli, herbs, cream, garlic bread and almond.",545.0
+Thin Crust Pizza,Margherita Pizza [10 inches],1,0,"The classic combination of tomatoes, mozzarella and fresh basil.",820.0
+Thin Crust Pizza,Verdure Pizza [10 inches],1,0,"Bell pepper, onion, tomato, broccoli and olives.",820.0
+Thin Crust Pizza,Paneer Tikka Pizza [10 inches],1,0,,745.0
+Thin Crust Pizza,Rustica Pizza [10 inches],0,0,"Buffalo mozzarella, roasted chicken, truffle oil and mushroom.",875.0
+Thin Crust Pizza,Meat Lover Pizza [10 inches],0,0,"Peri peri chicken, chicken sausages, chicken salami and mozzarella.",875.0
+Pasta,Choice of Pasta,1,0,,820.0
+Pasta,Tomato and Garlic Risotto,1,0,"Arborio, roasted garlic, young tomato, thyme and Parmesan cheese.",820.0
+Pasta,Chicken and Mushroom Risotto,0,0,"Arborio, button mushroom, porcini, chicken and Parmesan cheese.",875.0
+Burgers and Sandwiches,Caprese Panini,1,0,"Plant base. Grilled farmers bread, tomato, mozzarella and basil.",820.0
+Burgers and Sandwiches,Paneer Grilled Tikka Focaccia Sandwich,1,0,"Paneer tikka, chopped onion, chilies, cilantro and olive focaccia.",820.0
+Burgers and Sandwiches,Veg Club Sandwich,1,0,"Charred bell peppers, grilled zucchini, tomatoes, iceberg lettuce and cheese.",820.0
+Burgers and Sandwiches,Chicken Grilled Tikka Focaccia Sandwich,0,0,"Chicken tikka, chopped onion, chilies, cilantro and olive focaccia.",820.0
+Burgers and Sandwiches,Non Veg Club Sandwich,0,0,"Roasted chicken breast, fried egg, bacon, tomatoes, iceberg lettuce and  cheese.",820.0
+Burgers and Sandwiches,Surat Marriott Hotel Chicken Burger,0,0,"Crumb fried chicken patty, caramelized onion, yellow Cheddar and fries.",875.0
+Snacks and Chaat,Samosa Chole Chaat,1,0,"Plant base. Potato, chickpea, mint dip, tamarind dip, sweet yoghurt, chilli and chaat ... read more",655.0
+Snacks and Chaat,Chana Jor Garam,1,0,"Onion, tomato, chaat masala and chana jor garam.",655.0
+Snacks and Chaat,Masala Bhel,1,0,"Onion, tomato, chaat masala, puffed rice and namkeen.",655.0
+Pastries,Black Forest Pastry,1,0,,295.0
+Pastries,Butterscotch Pastry,1,0,[Veg preparation],295.0
+Pastries,Chocolate Mud Pastry,0,0,,295.0
+Pastries,Chocolate Truffle Pastry,1,0,[Veg preparation],295.0
+Pastries,Fresh Mix Fruit Pastry,1,0,,295.0
+Pastries,Fresh Cream Pineapple Pastry,1,0,,295.0
+Pastries,Milk Chocolate Pastry,1,0,,295.0
+Pastries,New York Style Cheesecake Pastry,0,0,,295.0
+Pastries,Red Velvet Pastry,1,0,[Veg preparation],295.0

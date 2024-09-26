@@ -1,0 +1,175 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bowls,Mexican Burrito Bowl,1,0,,445.5
+Bowls,Exotic Veg Ramen Bowl,1,0,,445.5
+Bowls,Indian Paneer Kabab Bowl,1,0,,409.5
+Bowls,Chowmein Manchurian Bowl,1,0,,409.5
+Platter,Smokey Tandoori Platter,1,0,Combination of 12-pieces platter[2 Pieces each]- Paneer Tikka+Pahadi+Soya+Brocoli+Cauliflower+Jafrani Tikka,639.0
+Soups and Salads,Thai Soup,1,0,Veg broth with spicy coconut curry flavours added with exotic veggies.,256.5
+Soups and Salads,Manchow Soup,1,0,"Medium spice, ask for more spicy if you required all time favourite.",247.5
+Soups and Salads,Cream Corn Soup,1,0,Don't required introduction kids favourite.,247.5
+Soups and Salads,Talumein Soup,1,0,"Noodles and veggies, flavoured with soy sauce and held together with vegetable stock.",247.5
+Soups and Salads,Veg Shorba,1,0,,247.5
+Soups and Salads,Veg Clear Broth Soup,1,0,,247.5
+Soups and Salads,Creamy Broccoli Almond Soup,1,0,That creamy texture all time favorite rich in protein broccoli with hint of ... read more,279.0
+Soups and Salads,Hot and Sour Soup,1,0,That creamy texture all time favorite rich in protein broccoli with hint of ... read more,247.5
+Soups and Salads,Indian Green Salad,1,0,"Tomatoes, cucumber, beetroot, carrot, onion garnished with lemon and herbs.",279.0
+Soups and Salads,Oriental Coleslaw Salad,1,0,"White and purple exotic cabbage mixed with carrot, almonds, scallion, mix bell peppers ... read more",301.5
+Soups and Salads,Barbeque Cottage Cheese Salad,1,0,"Crisp iceberg, chilled cucumber, tomatoes and assorted peppers tossed with fresh herb dressing ... read more",355.5
+Main Course,Shahi Paneer,1,0,Cottage cheese cubes cooked in aromatic Mughlai rich and creamy cashew gravy.,373.5
+Main Course,Paneer Kasturi,1,0,"Paneer cubes, cooked in rich thick brown gravy with authentic Mughlai style.",265.5
+Main Course,Soya Rara Chaap,1,0,Soya charcoaled with minced soya and chunks spicy red gravy.,346.5
+Main Course,Veg Lahori Korma,1,0,"Mix veggies, cottage cheese slice cooked in brown gravy, cashew gravy.",310.5
+Main Course,Dal Tadka,1,0,"Our onion of north Indian style lentil preparation tempered with ghee, herbs and ... read more",256.5
+Main Course,Dal Fry,1,0,"Our onion of north Indian style lentil preparation tempered with ghee, herbs and ... read more",256.5
+Main Course,Matar Paneer,1,0,Matar paneer chopped fenugreek and green peas cooked in brown nut based gravy.,310.5
+Main Course,Smoked Paneer Tikka Masala,1,0,"Cottage cheese nicely cooked in red gravy, with some Indian spices ... read more",265.5
+Main Course,Smoked Paneer Butter Masala,1,0,"Cottage cheese nicely cooked in red gravy, with some Indian spices ... read more",265.5
+Main Course,Gilafi Veg Tawa Masala,1,0,"Chopped spiced vegetables, finished with in home special Mughlai gravy.",310.5
+Main Course,Paneer Angori Masala,1,0,Cheesy paneer balls cooked in yellow Mughlai gravy must try.,373.5
+Main Course,Awadhi Kofta Curry,1,0,Vegetable dumplings simmered in a delicate onion and red based curry must ... read more,373.5
+Main Course,Veg Crispy Tawa Masala,1,0,Assorted crispy veggies finely cooked on tawa style brown masala semi gravy.,337.5
+Main Course,Thai Green Curry,1,0,,382.5
+Main Course,Thai Red Curry,1,0,,382.5
+Main Course,Paneer Lababdar,1,0,,373.5
+Main Course,Paneer Tikka Masala,1,0,,373.5
+Main Course,Paneer Kolhapuri,1,0,,337.5
+Main Course,Pasanda Paneer,1,0,,463.5
+Main Course,Hyedrabadi Tikka Masala,1,0,,445.5
+Main Course,Malai Kofta,1,0,,382.5
+Main Course,Khoya Kaju,1,0,,382.5
+Main Course,Indian Lasagna,1,0,,553.5
+Breads,Plain Tandoor Roti,1,0,,49.5
+Breads,Plain Naan,1,0,,85.5
+Breads,Garlic Naan,1,0,,103.5
+Breads,Cheese Garlic Naan,1,0,,103.5
+Breads,Plain Kulcha,1,0,,85.5
+Breads,Butter Kulcha,1,0,,85.5
+Breads,Butter Roti,1,0,,49.5
+Breads,Butter Naan,1,0,,49.5
+Breads,Cheese Butter Naan,1,0,,103.5
+Breads,Plain Lachha Paratha,1,0,,85.5
+Breads,Butter Lachha Paratha,1,0,,85.5
+Breads,Assorted Indian Bread Basket,1,0,,229.5
+Rice and Biryani,Thai Green curry With Rice,1,0,"Exotic vegetables cooked with galangal, basil, coconut milk and thai curry sauce, served ... read more",301.5
+Rice and Biryani,Red Curry With Rice,1,0,"Exotic vegetables cooked with galangal, basil, coconut milk and thai curry sauce, served ... read more",301.5
+Rice and Biryani,Steamed Rice,1,0,,139.5
+Rice and Biryani,Jeera Rice,1,0,,193.5
+Rice and Biryani,Mix Vegetables Biryani,1,0,Served with raita.,337.5
+Rice and Biryani,Soya Keema Biryani,1,0,Served with raita.,337.5
+Rice and Biryani,Cottage Cheese Paneer Biryani,1,0,Served with raita.,382.5
+Rice and Biryani,Paneer Tikka Biryani,1,0,Served with raita.,459.0
+Rice and Biryani,Paneer Biryani,1,0,,391.5
+Chinese,Cottage Cheese Mushroom in Hot Garlic,1,0,"Cubes of paneer and mushroom woked in hot garlic sauce, accompany with some ... read more",319.5
+Chinese,Andhra Chilli Cottage Cheese,1,0,,310.5
+Chinese,Paneer Chilli,1,0,"All time favourite, ask for dry or gravy choice is yours.",310.5
+Chinese,Cottage Cheese Shanghai,1,0,"Cubes of paneer tossed in shanghai or schezwan sauce, accompany with some other ... read more",310.5
+Chinese,Cottage Cheese Schezwan Style,1,0,"Cubes of paneer tossed in shanghai or schezwan sauce, accompany with some other ... read more",310.5
+Chinese,Manchurian,1,0,,283.5
+Chinese,Soya Chilli,1,0,Soya chap tossed with chilly style soya sauce .,283.5
+Chinese,Exotic Assorted Vegetables in Schezwan,1,0,,337.5
+Chinese,Exotic Assorted Cottage Cheese in in Shanghai,1,0,,337.5
+Chinese,Five Fragrance Veggies,1,0,"Mixed exotic veggies, crispy fried and tossed in wok with five spice style ... read more",283.5
+Chinese,Paneer Satay Stick,1,0,,373.5
+Chinese,Dragon Pullover Noodles,1,0,Flat noodles tossed with exotic vegetables and spice oriental sauce don't dare to ... read more,315.0
+Chinese,Pesto Manchurian Chilli,1,0,,427.5
+Chinese,Exotic Saute Vegetable,1,0,,409.5
+Chinese,Baby Corn Chilli,1,0,,337.5
+Chinese,Veg Lollipop,1,0,,346.5
+Chinese,Cottage Cheese Candy,1,0,,472.5
+Starters,Paneer Tikka,1,0,"Marinated cottage cheese dices, skewed and finished in clay tandoor for perfections.",310.5
+Starters,Soya Firdausi Tikka,1,0,Soya chaap cubes marinated in specially home made masala and cooked in clay ... read more,310.5
+Starters,Pahadi Paneer Kebab,1,0,"Cubes of cottage cheese marinated in secret spices, skewed, foiled and char coaled.",328.5
+Starters,Paneer Malai Kebab,1,0,"Cubes of cottage cheese marinated in white creamy cheesy sauce, charcoaled.",328.5
+Starters,Do Phool Do Swad,1,0,"Cauliflower and broccoli marinated with mildly spiced, flavoured yoghurt charcoaled.",328.5
+Starters,Zafrani Makhmali Paneer Tikka,1,0,"Diced cottage cheese marinate in yogurt, cashew paste and Italian sauce, with touch ... read more",427.5
+Starters,Veg Seekh Kebab,1,0,,319.5
+Starters,Patiala Chaap,1,0,,337.5
+Starters,Afghani Soya Chaap,1,0,,337.5
+Starters,Hara Bhara Kebab,1,0,,346.5
+Starters,Tandoori Soya Chaap,1,0,,346.5
+Starters,Kajun Paneer Tikka,1,0,,391.5
+Starters,Jamaican Paneer Tikka,1,0,,418.5
+Fried Rice and Noodles,Veg Fried Rice,1,0,,283.5
+Fried Rice and Noodles,Hakka Fried Rice,1,0,,283.5
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,283.5
+Fried Rice and Noodles,Burnt Garlic Fried Rice,1,0,,283.5
+Fried Rice and Noodles,Veg Noodles,1,0,,283.5
+Fried Rice and Noodles,Burnt Garlic Noodles,1,0,,283.5
+Fried Rice and Noodles,Hakka Noodles,1,0,,283.5
+Fried Rice and Noodles,Schezwan Noodles,1,0,,283.5
+Pizza and Pasta,Margherita Pizza [12 inches],1,0,"Fresh tomatoes, basil and our own pizza sauce.",561.6
+Pizza and Pasta,Grilled Paneer BBQ Style Pizza [12 inches],1,0,"In house pizza sauce topped with onion, bell peppers, smoky BBQ paneer and ... read more",633.6
+Pizza and Pasta,Spicy Sound Pizza [12 inches],1,0,"Sliced jalapenos, red paprika, green chilly, mix olives, mix bell peppers.",633.6
+Pizza and Pasta,Supreme Veg Loaded Pizza [12 inches],1,0,"Fresh veggies onion, bell peppers, olives, cherry tomatoes, baby corn, mushroom and ... read more",633.6
+Pizza and Pasta,Veggie Italian Alfredo Pizza [12 inches],1,0,"Bell peppers, mushroom, dice paneer with original alfredo sauce and mozzarella.",633.6
+Pizza and Pasta,Mexican Green Wave Pizza [12 inches],1,0,"Crunchy bell peppers, onions, jalapenos, Italian mini herbs with hot mexicana sauce topped ... read more",633.6
+Pizza and Pasta,4 Story Pizza [12 inches],1,0,,652.5
+Pizza and Pasta,Stuffed Grilled Pizza [7 inches],1,0,,472.5
+Pizza and Pasta,Arrabiata Pasta,1,0,A tangy spicy red sauce based penne pasta.,355.5
+Pizza and Pasta,Alfredo Pasta,1,0,A creamy white sauce tossed pasta.,382.5
+Pizza and Pasta,Macaroni Parmesan Pasta,1,0,"A macaroni pasta cooked in cheesy sauce, mac and cheese.",400.5
+Pizza and Pasta,Mix Sauce Pasta,1,0,Combina tion of alfredo and Arrabiata sauce.,337.5
+Pizza and Pasta,Spaghetti In Red Sauce,1,0,Spaghetti tossed in spicy arrabbiata sauce.,418.5
+Pizza and Pasta,Aglio e Olio Pasta,1,0,,427.5
+Pizza and Pasta,Basil Pesto Pasta,1,0,,459.0
+Burgers and Sandwiches,Veg Burger,1,0,,247.5
+Burgers and Sandwiches,Juicy Burger Story,1,0,,333.0
+Burgers and Sandwiches,Paneer Tikka Sandwich,1,0,,310.5
+Burgers and Sandwiches,Club House Sandwich,1,0,,279.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,292.5
+Snacks,Falafel Bites,1,0,,265.5
+Snacks,French Fries,1,0,,166.5
+Snacks,Peri Peri Fries,1,0,,211.5
+Snacks,Nachos and Dips,1,0,,279.0
+Snacks,Honey Chilli Potato Fries,1,0,,279.0
+Snacks,Wedges and Fries with Parmesan Cheese,1,0,,283.5
+Snacks,Korean Cream Cheese Bun,1,0,,265.5
+Snacks,Indian Paneer Keema Bun,1,0,,265.5
+Snacks,Cheese Garlic Bread,1,0,,247.5
+Snacks,Veg Supreme Cheese Garlic Bread,1,0,,265.5
+Wrap,Veggie Loaded Wrap,1,0,,279.0
+Wrap,Corn Cheese Chilli Wrap,1,0,,292.5
+Wrap,Tandoori Style Wrap,1,0,,310.5
+Wrap,Falafel Wrap,1,0,,319.5
+Shawarma,Falafel Shawarma,1,0,,279.0
+Accompaniments,Boondi Raita,1,0,,139.5
+Accompaniments,Pineapple Raita,1,0,,139.5
+Accompaniments,Papad Fry Roasted,1,0,,67.5
+Accompaniments,Papad Fry Masala,1,0,,67.5
+Accompaniments,Masala Papad,1,0,,67.5
+Accompaniments,Fried Papad,1,0,,67.5
+Accompaniments,Roasted Papad [2 Pieces],1,0,,67.5
+Accompaniments,Plain Curd,1,0,,76.5
+Drinks (Beverages),Guava Chilli,1,0,,157.5
+Drinks (Beverages),Desi Kokum Cooler,1,0,,148.5
+Drinks (Beverages),Virgin Mojito,1,0,,148.5
+Drinks (Beverages),Coffee Mojitos,1,0,,166.5
+Drinks (Beverages),Orange Mojitos,1,0,,166.5
+Drinks (Beverages),Mix Berries Mojitos,1,0,,166.5
+Drinks (Beverages),Strawberries Mojitos,1,0,,166.5
+Drinks (Beverages),Lychee Mojitos,1,0,,166.5
+Drinks (Beverages),Blue Pina Colada,1,0,,211.5
+Drinks (Beverages),Deep Blue Ocean,1,0,,211.5
+Drinks (Beverages),Sparkling Ginger Ale,1,0,,193.5
+Drinks (Beverages),Cucumber & Mint Cooler,1,0,,193.5
+Drinks (Beverages),Bublegum Delight,1,0,,229.5
+Drinks (Beverages),Ice Cafe Latte,1,0,Cafe latte poured on ice.,175.5
+Drinks (Beverages),Ice Vanilla Latte,1,0,Cafe latte sweetened with in house vanilla flavour.,175.5
+Drinks (Beverages),Caramel Cold Latte,1,0,Cafe latte sweetened with in house caramel flavour.,175.5
+Drinks (Beverages),Iced Americano,1,0,An espresso coffee poured on ice and milk for perfect combination.,175.5
+Drinks (Beverages),Oh How Affogato,1,0,Coffee lovers don't forget to have ask for vanilla or chocolate ice.,175.5
+Drinks (Beverages),Cold Brew Story,1,0,"Micro climate coffee offers flavour of dried cherry, fig and plum.",175.5
+Drinks (Beverages),Cold Coffee Frappe,1,0,"Our signature cold coffee blended, authentic.",193.5
+Drinks (Beverages),Double Choco Frappe,1,0,Frappe with chocolate flavour blended with choco chips.,238.5
+Drinks (Beverages),Choco Rocher Nutella Frappe,1,0,"Chocolate frappe blended with chocolate sauce, nutella, ferrero rocher,.",238.5
+Drinks (Beverages),Brownie Nuts,1,0,Nuts andcrumbled brownie with crispy chocolate pearls and choco sauce.,238.5
+Drinks (Beverages),Oh Rio,1,0,Oreo crumbs with chocolate flavour all time fav.,211.5
+Drinks (Beverages),K K Crackles,1,0,Chocolate flavour with kit kat crackle blend for perfections.,211.5
+Drinks (Beverages),Mix Berries Frappe,1,0,Mix berries blended with frappe topped with whipped cream and berry fruits.,247.5
+Drinks (Beverages),Lemon Tea,1,0,,247.5
+Drinks (Beverages),Peach Iced Tea,1,0,,247.5
+Drinks (Beverages),Berry Burst,1,0,,283.5
+Drinks (Beverages),Classic Hot Chocolate,1,0,Hot chocolate topped with marshmallow.,211.5
+Drinks (Beverages),Hazelnut Hot Chocolate,1,0,Hot chocolate flavoured with in house hazelnut fillings.,229.5
+Drinks (Beverages),Berryfied,1,0,"Blueberries, banana, strawberries, apple, raspberry with choice of your mylk.",283.5
+Drinks (Beverages),Starwberrythies,1,0,"Blueberries, banana, strawberries, apple, raspberry with choice of your mylk.",256.5

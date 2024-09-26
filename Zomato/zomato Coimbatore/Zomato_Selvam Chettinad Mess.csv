@@ -1,0 +1,9 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Egg Specials,Full Boil,0,0,,30.0
+Egg Specials,Kalakki,0,0,,30.0
+Egg Specials,Onion Kalaki,0,0,,35.0
+Egg Specials,Egg Omelette,0,0,,35.0
+Egg Specials,Plain Omelette,0,0,,30.0
+Egg Specials,Double Egg Omelette,0,0,,75.0
+Drinks (Beverages),Mineral Water [1 litre],0,0,Kinley.,33.0
+Drinks (Beverages),Fruit Beverage [135 ml],0,0,,30.0

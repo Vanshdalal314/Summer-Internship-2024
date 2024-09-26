@@ -1,0 +1,56 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pastries,Choco Fantasy Cake Pastry,1,0,,140.0
+Pastries,Mud Cake,1,0,,126.0
+Pastries,Choco Lava Cake,1,0,,112.0
+Pastries,Lotus Biscoff Choco Lava Cake,1,0,,168.0
+Pastries,Nutella Brownie,1,0,,140.0
+Pastries,Brownie,1,0,Rich chewy chocolate cake preferred by cake connoisseurs everywhere. Packaging done with non ... read more,126.0
+Milkshakes,Vanilla Milkshake,1,0,There's nothing boring about this old classic shake. Packaging done with non edible ... read more,238.0
+Milkshakes,Chocolate Milkshake [Serves 1],1,0,A blend of creamy chocolate ice cream and our homemade fudge sauce. Packaging ... read more,266.0
+Milkshakes,Butterscotch Milkshake,1,0,A blend of creamy butterscotch ice cream garnished with praline. Packaging done with ... read more,238.0
+Milkshakes,Oreo Milkshake,1,0,A blend of cream vanilla with oreo garnished with chocolate sauce. Packaging done ... read more,280.0
+Milkshakes,Strawberry Milkshake,1,0,Freshest strawberries blended with ice cream to beat the heat. Packaging done with ... read more,238.0
+Milkshakes,Badam Milkshake,1,0,Real almond sauce blended with ice cream. Packaging done with non edible dry ... read more,252.0
+Milkshakes,Brownie Milkshake,1,0,"A blend of belgium chocolate ice cream with brownies, chocolate lovers treat. Packaging ... read more",280.0
+Milkshakes,Cold Coffee Milkshake,1,0,A blend of freeze dried coffee with ice cream. Packaging done with non ... read more,252.0
+Milkshakes,Mango Milkshake,1,0,Fresh mango pulp blended with ice cream. Packaging done with non edible dry ... read more,238.0
+Milkshakes,Ferrero Milkshake,1,0,,252.0
+Milkshakes,KitKat Milkshake,1,0,,252.0
+Milkshakes,Lotus Biscoff Milkshake,1,0,,252.0
+Ice Creams,Unicorn Ice Cream [1 Scoop],1,0,Packed with non edible dry ice.,154.0
+Ice Creams,"Vanilla Ice Cream [1 Scoop, Serves 1]",1,0,Packed with non edible dry ice.,126.0
+Ice Creams,Belgian Chocolate Ice Cream [1 Scoop],1,0,Packed with non edible dry ice.,154.0
+Ice Creams,Oreo Ice Cream [1 Scoop],1,0,Packed with non edible dry ice.,154.0
+Ice Creams,Blackcurrant Ice Cream [1 Scoop],1,0,Packed with non edible dry ice.,126.0
+Ice Creams,Cherry Merry Ice Cream [1 Scoop],1,0,Packed with non edible dry ice.,126.0
+Ice Creams,Chocolate Ice Cream [1 Scoop],1,0,Packed with non edible dry ice.,126.0
+Ice Creams,Mascarpone Red Velvet Ice Cream [1 Scoop],1,0,,154.0
+Ice Creams,Caramel Almond Crunch Ice Cream [1 Scoop],1,0,,154.0
+Ice Creams,Butterscotch Ice Cream [1 Scoop],1,0,,126.0
+Ice Creams,Pistachio Ice Cream [1 Scoop],1,0,,126.0
+Ice Creams,Strawberry Ice Cream [1 Scoop],1,0,,126.0
+Ice Creams,Arabian Delight Ice Cream,1,0,,168.0
+Ice Creams,Choco Brownie Peanut Butter Ice Cream,1,0,,168.0
+Ice Creams,Coconut Bounty Ice Cream,1,0,,168.0
+Ice Creams,Ferrero Rocher Ice Cream,1,0,,168.0
+Ice Creams,Filter Coffee Ice Cream,1,0,,154.0
+Ice Creams,Jamun Ice Cream,1,0,,126.0
+Ice Creams,KitKat Ice Cream,1,0,,168.0
+Ice Creams,Kesar Pista Ice Cream,1,0,,126.0
+Ice Creams,Lotus Biscoff Ice Cream,1,0,,168.0
+Ice Creams,Minions Ice Cream,1,0,,168.0
+Ice Creams,Salted Caramel Ice Cream,1,0,,168.0
+Ice Creams,Mango Ice Cream,1,0,,126.0
+Sundae,Mango Sundae Ice Cream [Serves 1],1,0,Mangoes gone wild on our classic vanilla softy. Packed with non edible dry ... read more,112.0
+Sundae,Nutty Crunch Ice Cream,1,0,"Classic vanilla softy swirled with luscious fudge sauce, topped with roasted cashew and ... read more",182.0
+Sundae,Vanilla Classic Ice Cream [Serves 1],1,0,A simply sweet and classic treat of nature's best vanilla. Packed with non ... read more,84.0
+Sundae,Fruit Salad Ice Cream,1,0,Vanilla softy with energising choco malt sauce topped with crunchy crumbs. Packed with ... read more,252.0
+Sundae,Brownie Earthquake Ice Cream,1,0,,308.0
+Sundae,Mud Cake Sundae,1,0,Madness with creamy vanilla ice cream placed on warm mud cake topped with ... read more,273.0
+Sundae,Nutella Brownie Sundae,1,0,Creamy vanilla ice cream on warm nutella brownie topped with nutella and chocolate ... read more,322.0
+Sundae,Cookie Sundae,1,0,,273.0
+Sundae,Brookie Sundae,1,0,,273.0
+Sundae,Lotus Biscoff Choco Lava Sundae Ice Cream,1,0,,336.0
+Sundae,Choco Lava Sundae,1,0,Classic vanilla softy with swirls of gooey caramel sauce golden delight. Packed ... read more,280.0
+Sundae,Double Fudge Brownie Ice Cream,1,0,Scoop of creamy chocolate ice cream placed over warm brownie with swirls of ... read more,308.0
+Sundae,Death By Chocolate Ice Cream,1,0,"Chocolate lovers fantasy of gooey choco lava cake with chocolate ice cream, chocolate ... read more",350.0

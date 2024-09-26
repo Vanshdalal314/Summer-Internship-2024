@@ -1,0 +1,140 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Cream,American Dry Fruit,1,0,,65.0
+Ice Cream,Badam Cadburry,1,0,,65.0
+Ice Cream,Black Current,1,0,,65.0
+Ice Cream,Butter Scotch,1,0,,65.0
+Ice Cream,Cho.Chips Ice Cream,1,0,,65.0
+Ice Cream,Choco Brownie,1,0,,65.0
+Ice Cream,Hide N Seak,1,0,,65.0
+Ice Cream,Kaju Anjeer,1,0,,65.0
+Ice Cream,Kaju Drakash,1,0,,65.0
+Ice Cream,Kaju Gulkand,1,0,,65.0
+Ice Cream,Keshar Kasturi,1,0,,65.0
+Ice Cream,Keshar Pista,1,0,,65.0
+Ice Cream,Mango,1,0,,70.0
+Ice Cream,Mawa Malai Pista,1,0,,65.0
+Ice Cream,Panpasand,1,0,,65.0
+Ice Cream,Rajbhog,1,0,,65.0
+Ice Cream,Sitafal,1,0,,70.0
+Ice Cream,Tender Coconut Ice Cream,1,0,,70.0
+Ice Cream,Vanila Ice Cream (100 Ml),1,0,,40.0
+Ice Cream,Winter Cream,1,0,,65.0
+Cold Corner,Bournvita Coco,1,0,,130.0
+Cold Corner,Chocolate Chips Coco (250 Ml.),1,0,,90.0
+Cold Corner,Coffee Cream (260 Ml.),1,0,,90.0
+Cold Corner,Cold Coco (250 Ml.),1,0,,90.0
+Cold Corner,Cold Coffee (250 Ml.),1,0,,70.0
+Cold Corner,Kaju Coco,1,0,,150.0
+Cold Corner,Kaju Coco (260 Ml.),1,0,,120.0
+Cold Corner,Kit Kat Coco,1,0,,130.0
+Cold Corner,Oreo Coco,1,0,,130.0
+Cold Corner,Rajwadi Coco With Ice Cream Vanilla (250 Ml.),1,0,,130.0
+Milk Shake,Anjeer Milk Shake,1,0,,165.0
+Milk Shake,Apple Milk Shake,1,0,,125.0
+Milk Shake,Badam Gulkand Milk Shake,1,0,,165.0
+Milk Shake,Bournvita Milk Shake,1,0,,125.0
+Milk Shake,Chiku Chocolate Milk Shake,1,0,,125.0
+Milk Shake,Chiku Milk Shake,1,0,,100.0
+Milk Shake,Chocolate Milkshake,1,0,,90.0
+Milk Shake,Chocolate Shake,1,0,,80.0
+Milk Shake,Dry Fruits Milk Shake,1,0,,200.0
+Milk Shake,Thandai Milk Shake,1,0,,125.0
+Milk Shake,Gulkand Milk Shake,1,0,,125.0
+Milk Shake,Hide N Seak Milk Shake,1,0,,125.0
+Milk Shake,Kaju Anjeer Milk Shake,1,0,,165.0
+Milk Shake,Kaju Badam Milk Shake,1,0,,165.0
+Milk Shake,Kaju Gulkand Milk Shake,1,0,,165.0
+Milk Shake,Kaju Mango Milk Shake,1,0,,165.0
+Milk Shake,Kaju Strawberry Milk Shake,1,0,,165.0
+Milk Shake,Kesar Milkshake,1,0,,90.0
+Milk Shake,Kesar Shake,1,0,,80.0
+Milk Shake,Kit Kat Milk Shake,1,0,,125.0
+Milk Shake,Mango Milk Shake,1,0,,125.0
+Milk Shake,Oreo Milk Shake,1,0,,125.0
+Milk Shake,Pineapple,1,0,,80.0
+Milk Shake,Pineapple Milkshake,1,0,,90.0
+Milk Shake,Rajwadi Dry Fruits Milk Shake,1,0,,210.0
+Milk Shake,Rose Milkshake,1,0,,90.0
+Milk Shake,Rose Shake,1,0,,80.0
+Milk Shake,Special Vanila Shake,1,0,,70.0
+Milk Shake,Special Vanilla Milkshake,1,0,,70.0
+Milk Shake,Strawberry Milk Shake,1,0,,125.0
+Thick Shake,Anjeer Thick Shake,1,0,,125.0
+Thick Shake,Badam Thandai Thick Shake,1,0,,120.0
+Thick Shake,Black Current Thick Shake,1,0,,100.0
+Thick Shake,Bournvita Thick Shake,1,0,,125.0
+Thick Shake,Caramel Almond Thick Shake,1,0,,120.0
+Thick Shake,"Caramel Choco Thick Shake [1 Glass, 225 Ml]",1,0,,150.0
+Thick Shake,Cashew Caramel Thick Shake,1,0,,120.0
+Thick Shake,Chiku Thick Shake,1,0,,110.0
+Thick Shake,Choco Coffee Nut Thick Shake,1,0,,125.0
+Thick Shake,Chocolate Chips Thick Shake,1,0,,110.0
+Thick Shake,Chocolate Thick Shake,1,0,,100.0
+Thick Shake,Kaju Anjeer Thick Shake,1,0,,120.0
+Thick Shake,Kaju Badam Anjeer Thick Shake,1,0,,120.0
+Thick Shake,Kaju Chiku Thick Shake,1,0,,135.0
+Thick Shake,Kaju Chocolate Thick Shake,1,0,,135.0
+Thick Shake,Kaju Mango Thick Shake,1,0,,125.0
+Thick Shake,Kaju Thick Shake,1,0,,125.0
+Thick Shake,Kesar Thick Shake,1,0,,100.0
+Thick Shake,Kit - Kat Thick Shake,1,0,,125.0
+Thick Shake,Mango Thick Shake,1,0,,100.0
+Thick Shake,"Mawa Malai-Pista Flavour Thick Shake [1 Glass, 225 Ml]",1,0,,139.0
+Thick Shake,Mixed Fruit Thick Shake,1,0,,100.0
+Thick Shake,Nuttorio Thick Shake,1,0,,180.0
+Thick Shake,Nutty Nutella Thick Shake,1,0,,180.0
+Thick Shake,Oreo Thick Shake,1,0,,125.0
+Thick Shake,Pineapple Thick Shake,1,0,,100.0
+Thick Shake,Pista Plain Thick Shake,1,0,,100.0
+Thick Shake,"Plain Kesar Thick Shake[1 Glass, 225 Ml]",1,0,,100.0
+Thick Shake,Rajbhog Thick Shake,1,0,,150.0
+Thick Shake,Rose Thick Shake,1,0,,100.0
+Thick Shake,Strawberry Thick Shake,1,0,,100.0
+Thick Shake,Thandai Thick Shake,1,0,,110.0
+Thick Shake,Vanilla Thick Shake,1,0,,80.0
+Faluda,Deluxe Falooda With Cream,1,0,,150.0
+Faluda,"Kesar Falooda [1 Glass, 250 Ml]",1,0,,119.0
+Faluda,"Kulfi Falooda [1 Glass, 250 Ml]",1,0,,119.0
+Faluda,"Rose Falooda [1 Glass, 250 Ml]",1,0,,119.0
+Lassi,Black Current Lassi,1,0,,90.0
+Lassi,Gulab Lassi,1,0,,90.0
+Lassi,Kaju Anjeer Lassi,1,0,,100.0
+Lassi,Kaju Badan Lassi,1,0,,100.0
+Lassi,Mango Lassi,1,0,,90.0
+Lassi,Pineapple Lassi,1,0,,90.0
+Lassi,Plain Lassi,1,0,,60.0
+Lassi,Pure Badam Lassi,1,0,,100.0
+Lassi,Pure Kaju Lassi,1,0,,100.0
+Lassi,Shahi Gulab Lassi,1,0,,100.0
+Lassi,Strawberry Lassi,1,0,,90.0
+Special Topping,Dry Fruit Hangama,1,0,,205.0
+Special Topping,Gotala,1,0,,125.0
+Special Topping,Hangama,1,0,,175.0
+Special Topping,Rangoli,1,0,,115.0
+Fresh Juice,Apple Juice,1,0,,100.0
+Fresh Juice,Pineapple Juice,1,0,,95.0
+Super Saver Pack,1 Liter American Dry Fruit Icecream Tub,1,0,,425.0
+Super Saver Pack,1 Liter Chocolate Chips Icecream Tub,1,0,,425.0
+Super Saver Pack,1 Liter Rajbhog Icecream Tub,1,0,,425.0
+Super Saver Pack,1 Liter Royal Rose Icecream Tub,1,0,,425.0
+Super Saver Pack,1 Liter Super Vanilla Icecream Tub,1,0,,185.0
+Super Saver Pack,1 Ltr Choco Chips Coco,1,0,,269.0
+Super Saver Pack,1 Ltr Cold Coco,1,0,,219.0
+Super Saver Pack,2 Liter Cold Coco (1+1),1,0,,400.0
+Super Saver Pack,5 Liter Vanilla [Creamart-Icecream],1,0,,480.0
+Cream Delight,Green Welly Cream Delight,1,0,,129.0
+Cream Delight,Kaju Mango Cream Delight,1,0,,129.0
+Cream Delight,Keshar Pista Cream Delight,1,0,,129.0
+Cream Delight,Rajbhog Cream Delight,1,0,,129.0
+Open,Dry Fruit Mattho Liquid,1,0,,250.0
+Open,Pineapple Mattho Liquid,1,0,,380.0
+Open,Pista Mattho Liquid,1,0,,225.0
+Open,Rajbhog Mattho Liquid,1,0,,275.0
+Extra,Chocolate Chips,1,0,,15.0
+Extra,Jelly,1,0,,15.0
+Extra,Kaju,1,0,,50.0
+Extra,With Extra Vanilla Ice Cream,1,0,,20.0
+Desserts,Chocobar - Frshna,1,0,,15.0
+Desserts,Dryfruit Kulfi,1,0,,25.0
+Desserts,Malai Kulfi,1,0,,15.0
+Desserts,Rangilla - Freshna,1,0,,15.0

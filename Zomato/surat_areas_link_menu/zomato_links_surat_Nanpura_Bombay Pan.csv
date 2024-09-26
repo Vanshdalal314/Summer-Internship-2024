@@ -1,0 +1,10 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pan,Kalkatti Sada Pan,1,0,,30.0
+Pan,Sweet Pan,1,0,,35.0
+Pan,Chocolate Pan,1,0,,45.0
+Pan,Kalkatti Navratan Kimam Pan,1,0,,45.0
+Pan,Ghundi Jodi Pan,1,0,,25.0
+Pan,Choco Ghundi Pan,1,0,,30.0
+Pan,Choco Laddu Pan,1,0,,15.0
+Pan,Banarasi Sada Pan,1,0,,25.0
+Pan,Banarasi Meetha Pan,1,0,,30.0

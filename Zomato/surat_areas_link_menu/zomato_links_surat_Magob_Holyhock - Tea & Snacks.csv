@@ -1,0 +1,42 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Crunchy Tikki [4 Pieces],1,0,"Crispy tikki made with a blend of spices and vegetables, fried to perfection. ... read more",90.0
+South Indian,Upma,1,0,"A wholesome and nutritious dish made from rice and lentils, perfect for breakfast ... read more",70.0
+Sandwiches,Mexican Cheese Sandwich,1,0,"A crispy, cheesy, Mexican style sandwich filled with layers of fresh vegetables and ... read more",150.0
+Sandwiches,Schezwan Cheese Sandwich,1,0,A flavorful and cheesy sandwich with a spicy twist.,150.0
+Sandwiches,Paneer Tandoori Sandwich,1,0,"A delicious sandwich with soft, juicy paneer and a flavorful, spicy tandori sauce. ... read more",150.0
+Sandwiches,Cheese Chilli Sandwich,1,0,"A flavourful combination of melted cheese and spicy chilli sauce, stuffed in a ... read more",150.0
+Sandwiches,Cheese Butter Sandwich,1,0,"A scrumptious and flavourful sandwich with melted cheese and butter, toasted to perfection ... read more",130.0
+Sandwiches,Hollyhock Special Sandwich,1,0,[Chef's Special],170.0
+Sandwiches,Veg Sandwich,1,0,A delicious sandwich filled with a tasty vegetable mixed and served with a ... read more,80.0
+Sandwiches,Veg Cheese Sandwich,1,0,"A soft, fluffy and cheesy sandwich filled with a wholesome blend of vegetables ... read more",110.0
+Snacks,Sabudana Vada [4 Pieces],1,0,"Crisp and savory vadas made from sabudana, a starchy, nutritious, and gluten free ... read more",130.0
+Snacks,French Fries,1,0,"French fries are a classic American fast food. The combination of potatoes, spices ... read more",110.0
+Snacks,Bread Butter,1,0,A soft and buttery bread spread with a rich and creamy butter sauce.,70.0
+Snacks,Bread Jam,1,0,,70.0
+Snacks,Salted French Fries,1,0,"A popular snack with a crispy outer layer and a soft, flavorful center. ... read more",110.0
+Snacks,Peri Peri French Fries,1,0,"Crispier than regular French fries, these fried potatoes are smothered in a tangy, ... read more",120.0
+Snacks,Samosa [2 Pieces],1,0,"A crispy, flaky pastry filled with a flavorful blend of potatoes, spices and ... read more",70.0
+Snacks,Garlic Bread [4 Pieces],1,0,"A delicious bread roll with garlic and herbs, perfect for snacking.",130.0
+Snacks,Regular Maska Bun,1,0,Maska bun [regular] is a delectable snack that is filled with a soft ... read more,60.0
+Snacks,Maska Bun,1,0,Served with jam.,70.0
+Snacks,Cheese Maska Bun,1,0,"A soft, buttery bun with a rich, creamy, melt in your mouth cheese ... read more",80.0
+Snacks,Cheese Balls [6 Pieces],1,0,"Serves a delicious plate of cheese balls, a perfect appetizer or snack that ... read more",130.0
+Snacks,Veg Finger [6 Pieces],1,0,"Juicy, crunchy and delectable veg fingers with a crispy exterior and soft, melt ... read more",90.0
+Drinks (Beverages),Pudina Tea,1,0,A refreshing tea infused with the fragrant flavor of mint leaves. It is ... read more,60.0
+Drinks (Beverages),Elaichi Tea,1,0,"A refreshing tea with the aromatic flavour of cardamom, perfect to enjoy with ... read more",60.0
+Drinks (Beverages),Indian Masala Tea,1,0,"A delicious blend of aromatic spices and tea, our Indian Masal Tea is ... read more",40.0
+Drinks (Beverages),Black Tea,1,0,A classic blend of black tea with a distinct sweet and malty flavor. ... read more,50.0
+Drinks (Beverages),Green Tea,1,0,"A healthy and refreshing beverage, green tea has a slightly bitter taste, which ... read more",60.0
+Drinks (Beverages),Hot Chocolate,1,0,"A sweet and creamy beverage made from a blend of dark chocolate, milk ... read more",120.0
+Drinks (Beverages),Hot Bournvita,1,0,,100.0
+Drinks (Beverages),Black Coffee,1,0,"A rich, aromatic, full bodied brew with an intense aroma and a smooth, ... read more",50.0
+Drinks (Beverages),Hot Coffee,1,0,Hot coffee a hot beverage made by brewing coffee with hot water. It ... read more,60.0
+Drinks (Beverages),Hot Vanila,1,0,A classic dessert that will make you want to order it again and ... read more,70.0
+Drinks (Beverages),Blueberry Iced Tea,1,0,"A refreshing, fruity and sweet iced tea with a blueberry twist.",120.0
+Drinks (Beverages),Kokum Pudina,1,0,"A refreshing and cooling beverage made with kokum, a traditional Indian spice and ... read more",120.0
+Drinks (Beverages),Cold Bournvita,1,0,"An irresistible cold beverage made with bournville finest chocolate, served chilled with a ... read more",110.0
+Drinks (Beverages),Classic Cold Coffee,1,0,,120.0
+Drinks (Beverages),Cappuccino,1,0,"A rich and creamy beverage with the perfect blend of coffee, milk, and ... read more",130.0
+Drinks (Beverages),Hazelnut Cold Coffee,1,0,"A perfect blend of creamy coffee and the rich, nutty flavor of hazelnut ... read more",130.0
+Drinks (Beverages),Rose Milkshake,1,0,"A refreshing and fruity beverage made with fresh rose petals and creamy milk, ... read more",120.0
+Drinks (Beverages),Oreo Milkshake,1,0,"A decadent and creamy milkshake made with Oreo cookies, milk and ice cream, ... read more",130.0

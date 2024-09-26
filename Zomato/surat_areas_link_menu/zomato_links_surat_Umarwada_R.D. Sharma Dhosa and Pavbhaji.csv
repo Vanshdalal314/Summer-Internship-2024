@@ -1,0 +1,108 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pav Bhaji,Pav Bhaji,1,0,Pav [4 Pc] + Bhaji + Salad,160.0
+Pav Bhaji,Butter Pav Bhaji,1,0,Pav [4 Pc] + Bhaji + Salad,175.0
+Pav Bhaji,Double Fried Bhaji,1,0,Pav [4 Pc] + Bhaji + Salad,180.0
+Pav Bhaji,Cheese Bhaji,1,0,Pav [4 Pc] + Bhaji + Salad,210.0
+Pav Bhaji,Punjabi Pav Bhaji,1,0,Pav [4 Pc] + Bhaji + Salad,175.0
+Pav Bhaji,Jain Pav Bhaji,1,0,Pav [4 Pc] + Bhaji + Salad,155.0
+Pav Bhaji,Paneer Pav Bhaji,1,0,Pav [4 Pc] + Bhaji + Salad,230.0
+Pav Bhaji,Gotala Bhaji,1,0,Pav [4 Pc] + Bhaji + Salad,190.0
+Snacks,Samosa [2 Pieces],1,0,With Chutney,70.0
+Snacks,Chole Bhature,1,0,With 2 Pc Bhature + Pickle,140.0
+Snacks,Vada Pav,1,0,With Chilli n chutney,55.0
+Snacks,Cheese Vada Pav,1,0,With Chilli n chutney,60.0
+Snacks,Kachori [2 Pieces],1,0,With Chutney,70.0
+Snacks,Pyaaj Kachori [1 Piece],1,0,With Chutney,45.0
+Snacks,Chole Kachori,1,0,,65.0
+Snacks,Chole Samosa,1,0,,65.0
+Snacks,Ragda Kachori,1,0,,65.0
+Snacks,Ragda Patties,1,0,,65.0
+South Indian,Plain Dosa,1,0,With Chutney and Sambhar,95.0
+South Indian,Masala Dosa,1,0,With Chutney and Sambhar,125.0
+South Indian,Butter Masala Dosa,1,0,With Chutney and Sambhar,145.0
+South Indian,Cheese Sada Dosa,1,0,With Chutney and Sambhar,135.0
+South Indian,Cheese Masala Dosa,1,0,With Chutney and Sambhar,165.0
+South Indian,Maisur Dosa,1,0,With Chutney and Sambhar,155.0
+South Indian,Maisur Dosa Butter,1,0,With Chutney and Sambhar,175.0
+South Indian,Cheese Maisur Dosa,1,0,With Chutney and Sambhar,175.0
+South Indian,Chinese Dosa,1,0,With Chutney and Sambhar,165.0
+South Indian,Nylon Dosa,1,0,With Chutney and Sambhar,105.0
+South Indian,Jinny Roll,1,0,With Chutney and Sambhar,185.0
+South Indian,Cheese Palak Dosa,1,0,With Chutney and Sambhar,185.0
+South Indian,Palak Paneer Surma,1,0,With Chutney and Sambhar,190.0
+South Indian,Plain Uttapam,1,0,With Chutney and Sambhar,100.0
+South Indian,Onion Uttapam,1,0,With Chutney and Sambhar,110.0
+South Indian,Mix Uttapam,1,0,With Chutney and Sambhar,140.0
+South Indian,Onion Cheese Uttapam,1,0,With Chutney and Sambhar,130.0
+South Indian,Mix Cheese Uttapam,1,0,With Chutney and Sambhar,170.0
+Sandwiches,Bread Butter Sandwich,1,0,Served with chutney and sauce.,60.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,70.0
+Sandwiches,Bread Butter Aloo Sandwich,1,0,,70.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,Served with chutney and sauce.,80.0
+Sandwiches,Bread Butter Cheese Aloo Sandwich,1,0,,80.0
+Sandwiches,Veg Sandwich,1,0,Served with chutney and sauce.,85.0
+Sandwiches,Veg Toast Sandwich,1,0,With Sauce & Chutney,100.0
+Sandwiches,Aloo Matar Toast Sandwich,1,0,With Sauce & Chutney,100.0
+Sandwiches,Veg Cheese Sandwich,1,0,With Sauce & Chutney,70.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,With Sauce & Chutney,75.0
+Sandwiches,Cheese Aloo Matar Toast Sandwich,1,0,With Sauce & Chutney,75.0
+Sandwiches,Grilled Sandwich,1,0,Served with sauce and chutney.,180.0
+Sandwiches,Open Cheese Toast Sandwich,1,0,With Sauce & Chutney,140.0
+Chinese,Manchurian,1,0,Served with Salad,160.0
+Chinese,Fried Rice,1,0,Served with Salad,165.0
+Chinese,Chinese Bhel,1,0,Served with Salad,180.0
+Chinese,Noodles,1,0,Served with Salad,165.0
+Chinese,Triple rice,1,0,Served with Salad,185.0
+Chinese,Chilli Paneer,1,0,Served with Salad,240.0
+Chinese,Veg 65,1,0,Served with Salad,200.0
+Chinese,Veg Lollipop,1,0,Served with Salad,210.0
+Chaat,Rangila Bhel,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",100.0
+Chaat,Paani Puri [5 Pieces],1,0,,45.0
+Chaat,Bhel Puri,1,0,"Images used are for representation purposes only and do not indicate size, portion, ... read more",60.0
+Chaat,Papdi Chaat,1,0,,80.0
+Chaat,Delhi Chaat,1,0,,80.0
+Chaat,Sev Puri [5 Pieces],1,0,,55.0
+Chaat,Dahi Puri [5 Pieces],1,0,,80.0
+Chaat,Dahi Vada,1,0,Crispy and delicious vada dunked in creamy dahi topped with chaat powders.,80.0
+Chaat,Dahi Sev Batata Puri [5 Pieces],1,0,,90.0
+Chaat,Masala Puri [5 Pieces],1,0,,55.0
+Chaat,Dahi Samosa,1,0,"Crispy samosa chunks mixed with chana masala, chaat chutneys, dahi and more.",80.0
+Chaat,Dahi Kachori,1,0,"Kachori is stuffed with dal besan, red chili powder, black pepper, salt, and ... read more",80.0
+Chaat,Dahi Bhel,1,0,,90.0
+Chaat,Cheese Bhel,1,0,"Wholesome puffed rice mixed with tomatoes, onions, chutneys and garnished with sev and ... read more",80.0
+Pulav,Veg Pulav,1,0,"With Lasan Chutney, Salad.",140.0
+Pulav,Veg Cheese Pulav,1,0,"With Lasan Chutney, Salad.",165.0
+Pulav,Paneer Cheese Pulav,1,0,"With Lasan Chutney, Salad.",180.0
+Khana Khazana,Mix Veg,1,0,Besan Gatte+4 Poori or 4 Roti,100.0
+Khana Khazana,Shahi Paneer,1,0,Shahi Paneer+4 Poori or 4 Roti,100.0
+Khana Khazana,Chole,1,0,Chole+4 Poori or 4 Roti,100.0
+Khana Khazana,Dal Rice,1,0,,120.0
+Special Combos,Masala Dosa + Jeera Cold Drink [200ML],1,0,,145.0
+Special Combos,Maisur Dosa + Plain Dosa + Jeera Cold Drink [200ML],1,0,,270.0
+Special Combos,Cheese Palak Dosa + Jeera Cold Drink [200ML],1,0,,205.0
+Special Combos,Chole + Bhature [2 Pc] + Pickle + Butter Milk,1,0,,155.0
+Special Combos,Vada Pav [2 Piece] + Jeera Cold Drink [200ML] + Chilli + Chutney,1,0,,130.0
+Special Combos,Pyaaz Kachori [2 Pieces] + Jeera Cold Drink [200ML],1,0,,90.0
+Special Combos,Samosa [2 Pieces] +Jeera Cold Drink [200ml],1,0,,75.0
+Punjabi Thali,Special Punjabi Thali,1,0,"2 Sabzi+Dal+Rice+4 Poori/4 Chapati Roti+Buttermilk+Papad+Salad+Pickle [Sabzi, Dal and Salad-Subject to Availability]",225.0
+Khichu,Khichu,1,0,,30.0
+Khichu,Butter Khichu,1,0,,45.0
+Khichu,Cheese Khichu,1,0,,55.0
+Pizza,Only Cheese Pizza,1,0,With Sauce & Chutney,160.0
+Pizza,Veg Cheese Pizza,1,0,With Sauce & Chutney,175.0
+Pizza,Paneer Tikka Pizza,1,0,With Sauce & Chutney,180.0
+Kulfi,Malai Kulfi,1,0,,50.0
+Extras,Sambar,1,0,,25.0
+Extras,Coconut Chutney,1,0,,25.0
+Extras,Bhatura [1 Piece],1,0,,15.0
+Extras,Butter Pav [4 Pieces],1,0,,20.0
+Extras,Only Bhaji,1,0,,85.0
+Extras,Lasun Chutney,1,0,,40.0
+Extras,Roti,1,0,,10.0
+Extras,Papad,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",10.0
+Drinks (Beverages),Butter Milk,1,0,,22.0
+Drinks (Beverages),Jeera Cold Beverage [200 ml],1,0,,20.0
+Drinks (Beverages),Tea,1,0,,30.0
+Drinks (Beverages),Coffee,1,0,,40.0
+Drinks (Beverages),Malai Lassi,1,0,,50.0
+Drinks (Beverages),Cold Coco,1,0,,55.0

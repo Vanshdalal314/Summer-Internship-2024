@@ -1,0 +1,9 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Zomato Exclusive Meals,Vada Pav Combo [5 Pieces],1,0,Crispy and spicy vada pav combo with five vada and five pavs to ... read more,179.0
+Zomato Exclusive Meals,Burger Combo,1,0,Rosti Burger [1 Piece]+1 Fries [Medium]+1 Coke Soft Beverage [200 ml],190.0
+Zomato Exclusive Meals,Sandwich Combo,1,0,Grilled Mexican Bean Sandwich [1 Piece]+1 Fries [Medium]+1 Coke Soft Beverage [200 ml],249.0
+Zomato Exclusive Meals,Rice Combo,1,0,1 Mexican Rice+1 Fries [Medium]+1 Coke Soft Beverage [200 ml],289.0
+Vada Pav,Vada Pav [1 Piece],1,0,,36.0
+Vada Pav,Cheese Vada Pav,1,0,,60.0
+Vada Pav,Veggie Cheese Vada Pav [1 Piece],1,0,,60.0
+Vada Pav,Schezwan Cheese Vada Pav [1 Piece],1,0,,60.0

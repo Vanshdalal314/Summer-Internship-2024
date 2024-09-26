@@ -1,0 +1,63 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Momos,Veg Steamed Momos [6 Pieces],1,0,Momos stuffed with healthy veggies served with red chutney.,99.0
+Momos,Paneer Steamed Momos [6 Pieces],1,0,Momos stuffed with paneer and healthy veggies.,129.0
+Momos,Cheese Steamed Momos [6 Pieces],1,0,Momos stuffed with cottage cheese and healthy veggies.,129.0
+Momos,Cheese Fried [3 Pieces]+Paneer Fried [3 Pieces]+Cheesy Baked Momos [6 Pieces],1,0,Combination of all types of momos with paneer and cheese fry and veg ... read more,259.0
+Momos,Cheesy Mayo Baked Momos [6 Pieces],1,0,,159.0
+Momos,Veg Fried Momos [6 Pieces],1,0,,119.0
+Momos,Cheese Fried Momos [6 Pieces],1,0,,139.0
+Momos,Paneer Fried Momos [6 Pieces],1,0,,139.0
+Momos,Cheese Mayo Baked and Fried Momos [6 Pieces],1,0,,169.0
+Momos,Tandoori Chicken Steamed Momos [6 Pieces],0,0,Momos stuffed with tandoori chicken and served with red chutney.,149.0
+Momos,Peri Peri Chicken Steamed Momos [6 Pieces],0,0,Peri peri favoured chicken inside the filling.,149.0
+Momos,Chilli Chicken Steamed Momos [6 Pieces],0,0,The Momos for chilli lovers. Stuffed with chicken and chilli and served with ... read more,149.0
+Momos,Tandoori Chicken Fried Momos [6 Pieces],0,0,Tandoori masala chicken Inside momos filling.,169.0
+Momos,Peri Peri Chicken Fried Momos [6 Pieces],0,0,,169.0
+Momos,Tandoori Chicken Cheese Baked Momos [6 Pieces],0,0,The perfect combination of tandoori and cheese. The perfect one for tandoori and ... read more,199.0
+Momos,Peri peri Chicken Cheese Baked Momos [6 Pieces],0,0,,199.0
+Momos,Chilly Chicken Cheese Baked Momos [6 Pieces],0,0,,199.0
+Cheesy Gravy Momos,Cheesy Tandoori Steamed Gravy Momos [6 Pieces],1,0,Veg momos steamed and baked in tandoori gravy and cheesy topping.,159.0
+Cheesy Gravy Momos,Cheesy Schezwan Steamed Gravy Momos [6 Pieces],1,0,,159.0
+Cheesy Gravy Momos,Cheesy Tandoori Fried Gravy Momos [6 Pieces],1,0,,169.0
+Cheesy Gravy Momos,Cheesy Schezwan Fried Gravy Momos [6 Pieces],1,0,,169.0
+Cheesy Gravy Momos,Cheesy Tandoori Chicken Gravy Momos [6 Pieces],0,0,,219.0
+Cheesy Gravy Momos,Cheesy Chicken Schezwan Gravy Momos [6 Pieces],0,0,,219.0
+Momos Platters,Veg Steam Momos [4 Pieces]+Veg Fried Momos [4 Pieces]+Cheesy Tandoori Gravy Momos [6 Pieces],1,0,"4 Pieces veg steam, 4 pieces veg fried, 4 pieces cheesy tandoori gravy ... read more",279.0
+Momos Platters,Veg Steam Momos [4 Pieces]+Veg Fried Momos [4 Pieces]+Cheesy Schezwan Gravy Momos [6 Pieces],1,0,"4 Pieces veg steam, 4 pieces veg fried, 4 pieces cheesy schezwan gravy ... read more",279.0
+Momos Platters,Cheesy Tandoori Gravy Momos [4 Pieces] with Cheesy Schezwan Gravy Momos [4 Pieces],1,0,Cheese Tandoori Gravy Momos [4 Pieces]+Cheese Schezwan Gravy Momos [4 Pieces],209.0
+Momos Platters,Tandoori Chicken Steam Momos [4 Pieces]+Chicken Fried Momos [4 Pieces]+Cheesy Tandoori Gravy Chicken Momos [6 Pieces],0,0,,319.0
+Momos Platters,Tandoori Chicken Steam Momos [4 Pieces]+Chicken Fried Momos [4 Pieces]+Cheesy Schezwan Gravy Chicken Momos [6 Pieces],0,0,,319.0
+Momos Platters,Cheesy Tandoori Chicken Gravy Momos [6 Pieces] with Cheese Schezwan Gravy Chicken Momos [4 Pieces],0,0,Cheese Tandoori Chicken Gravy Momos [4 Pieces]+Cheese Schezwan Gravy Chicken Momos [4 Pieces],279.0
+Combos,Veg Fried Momos [6 Pieces] with French Fries,1,0,,199.0
+Combos,Paneer Fried Momos [6 Pieces] with French Fries,1,0,,229.0
+Combos,Cheese Fried Momos [6 Pieces] with French Fries,1,0,,229.0
+Combos,Tandoori Chicken Fried Momos [6 Pieces] with French Fries,0,0,Tandoori Chicken Fried Momos [6 Pieces] with French Fries,239.0
+Combos,Peri Peri Fried Momos [6 Pieces] with French Fries,0,0,,239.0
+Waffles,Kiki and Cream Oreo Crunch Waffle,1,0,,169.0
+Waffles,Pink Oreo Crunch,1,0,,179.0
+Waffles,Belgium Chocolate Waffle,1,0,,129.0
+Waffles,Coffee Mocha Waffle,1,0,Made in vanilla waffle with crunchy coffee spread.,139.0
+Waffles,Dark and White Fantasy Waffle,1,0,Black velvet bread with white chocolate. For extra crispy lovers.,129.0
+Waffles,Belgian Dark Chocolate Waffle,1,0,A waffle truly made for adults.,139.0
+Waffles,Double Chocolate Waffle,1,0,Combination of white and Belgian chocolate.,139.0
+Waffles,Triple Chocolate Waffle,1,0,"Combination of three chocolate. Dark, Belgian and white",159.0
+Waffles,KitKat Waffle,1,0,,159.0
+Waffles,Nutella Waffle,1,0,Classic Nutella spread with vanilla bread.,169.0
+Waffles,Dairy Milk Choco Chip Waffle,1,0,Classic dairy milk chocolate spread with choco chips in vanilla waffle.,179.0
+Waffles,Red Velvet Cream Cheese Waffle,1,0,,159.0
+Waffles,Blueberry Cream Cheese Waffle,1,0,,159.0
+Waffles,Strawberry Cream Cheese Waffle,1,0,,149.0
+Snacks,French Fries,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",89.0
+Snacks,Cheese French Fries,1,0,,129.0
+Zomato Discount Combos,4 Chilly Chicken+4 Tandoori Chicken Steam Momos,0,0,,179.0
+Zomato Discount Combos,4 Tandoori Chicken+ 4 Peri Peri Chicken Steam Momos,0,0,,179.0
+Zomato Discount Combos,4 Tandoori Chicken Steam+ 4 Tandoori Fried,0,0,,189.0
+Zomato Discount Combos,4 Peri Peri Chicken Steam+ 4 Peri Peri Fried,0,0,,189.0
+Zomato Discount Combos,4 Cheesy Tandoori Gravy+ 4 Cheesy Schezwan Gravy Chicken Momos,0,0,,219.0
+Zomato Discount Combos,4 Tandoori Chicken Steam+ 4 Cheesy Chicken Schezwan Gravy Momos,0,0,,209.0
+Zomato Discount Combos,4 Tandoori Chicken Steam+ 4 Cheesy Chicken Tandoori Gravy Momos,0,0,,209.0
+Zomato Discount Combos,4 Veg Steam+ 4 Cheesy Tandoori Gravy Momos,1,0,,159.0
+Zomato Discount Combos,4 Veg Steam+ 4 Cheesy Schezwan Gravy Momos,1,0,,159.0
+Zomato Discount Combos,4 Veg Steam+4 Paneer Steam,1,0,,139.0
+Zomato Discount Combos,4 Veg Steam+ 4 Cheese Steam,1,0,,139.0
+Zomato Discount Combos,Cheese Steamed Momos [4 Pieces] with Paneer Steamed Momos [4 Pieces],1,0,,159.0

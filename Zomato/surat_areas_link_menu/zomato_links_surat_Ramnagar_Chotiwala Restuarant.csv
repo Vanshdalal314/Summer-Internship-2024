@@ -1,0 +1,13 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Super Deluxe Thali,1,0,2 Sabji+5 Roti+Rice+Dal+Salad+Pickle+Papad [Subject to Availability],130.0
+Thali,Regular Thali,1,0,1 Sabji+4 Roti+Rice+Dal+Salad+Pickle [Subject to Availability],110.0
+Thali,Mini Rice Thali,1,0,Rice+Dal+Salad+Pickle [Subject to Availability],60.0
+Thali,Mini Roti Thali,1,0,5 Roti+1 Sabji+Salad+Pickle [Subject to Availability],80.0
+Thali,Super Special Thali,1,0,Gujarati Dal+5 Roti+2 Sabj+Rice+Papad+Pickle+Salad,140.0
+Thali,Special Roti Thali,1,0,8 Roti+2 Sabji+Salad+Papad+Pickle [Subject to Availability],120.0
+Thali,Special Thali,1,0,Gujarati Dal+4 Roti+Sabji+Rice+Pickle+Salad,120.0
+Thali,Dal,1,0,Servers 2,50.0
+Thali,Veg Sabzi Today Special,1,0,,60.0
+Thali,Gujarati Dal,1,0,,60.0
+Thali,Rice,1,0,Servers 2,40.0
+Thali,Roti,1,0,,8.0

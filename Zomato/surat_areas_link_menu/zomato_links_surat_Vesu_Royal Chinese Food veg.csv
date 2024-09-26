@@ -1,0 +1,48 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Manchow Soup,1,0,,80.0
+Soups,Hot and Sour Soup,1,0,,80.0
+Soups,Hong Kong Soup,1,0,,80.0
+Soups,Royal Special Soup,1,0,,80.0
+Soups,Paneer Soup,1,0,,90.0
+Soups,Garlic Soup,1,0,,90.0
+Soups,Clear Soup,1,0,,80.0
+Soups,Noodles Soup,1,0,,80.0
+Soups,Tomato Soup,1,0,,80.0
+Starters,Manchurian Dry,1,0,,90.0
+Starters,Manchurian Schezwan,1,0,,100.0
+Starters,Manchurian Garlic,1,0,,100.0
+Starters,Hong Kong Manchurian,1,0,,100.0
+Starters,Veg 65,1,0,,140.0
+Starters,Veg Lollipop,1,0,,130.0
+Starters,Paneer Chilli,1,0,,130.0
+Starters,Paneer Manchurian,1,0,,120.0
+Starters,Paneer Hong Kong,1,0,,140.0
+Starters,Paneer Schezwan,1,0,,140.0
+Starters,Paneer Singapuri,1,0,,140.0
+Main Course,Manchurian Gravy,1,0,,90.0
+Main Course,Paneer Gravy,1,0,,130.0
+Rice,Jeera Rice,1,0,,90.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,,110.0
+Fried Rice and Noodles,Fried Rice,1,0,,80.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,90.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,100.0
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,100.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,110.0
+Fried Rice and Noodles,Noodles Fried Rice,1,0,,100.0
+Fried Rice and Noodles,Combination Fried Rice,1,0,,100.0
+Fried Rice and Noodles,Paneer Manchurian Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Hakka Noodles,1,0,,80.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,,90.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,90.0
+Fried Rice and Noodles,Hong Kong Noodles,1,0,,90.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,,90.0
+Fried Rice and Noodles,Jeera Noodles,1,0,,80.0
+Fried Rice and Noodles,Chinese Chopsuey,1,0,,90.0
+Fried Rice and Noodles,American Chopsuey,1,0,,90.0
+Fried Rice and Noodles,Hong Kong Chopsuey,1,0,,90.0
+Fried Rice and Noodles,Singapuri Chopsuey,1,0,,90.0
+Snacks,Chinese Bhel,1,0,,90.0
+Snacks,Bombay Bhel,1,0,,100.0
+Snacks,Singapuri Bhel,1,0,,100.0
+Snacks,Mixed Bhel,1,0,,90.0
+Snacks,Royal Special Bhel,1,0,,120.0

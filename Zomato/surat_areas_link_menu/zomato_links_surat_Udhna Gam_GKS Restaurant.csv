@@ -1,0 +1,158 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Special Non Veg Thali,0,0,4chapati+ 1 Chicken Starter+Chicken Curry [1 Piece]/Mutton Masala [1 Piece]/+Steamed Rice+Dal Fry+butter milk ... read more,260.0
+Thali,Punjabi Thali,1,0,Paneer Masala+Mixed Veg+4 Chapati+Jeera Rice+Dal+Buttermilk [250 ml]+Salad+Achar+Papad [Subject to Availability],170.0
+Soups and Salads,Veg Coriander Soup,1,0,,149.0
+Soups and Salads,Veg Sweet Corn Soup,1,0,"American corn with sweet corn paste with carrot , beans & corn starch.",149.0
+Soups and Salads,Veg Hot N Sour Soup,1,0,Julian cut vegetable & mushroom with soya sauce.,149.0
+Soups and Salads,Veg Lemon Coriander Soup,1,0,Fresh vegies with coriander and touch of lime.,140.0
+Soups and Salads,Veg Manchow Soup,1,0,Finely chopped vegetable with a touch of soya sauce topped with a fried ... read more,140.0
+Soups and Salads,Chicken Lemon Soup,0,0,,179.0
+Soups and Salads,Chicken Sweet Corn Soup,0,0,Toasted chicken with sweet corn paste add usually water.,185.0
+Soups and Salads,Chicken Hot and Sour Soup,0,0,Chopped chicken cooked with tangy and spicy sauce.,199.0
+Soups and Salads,Chicken Manchow Soup,0,0,A soup made from chicken with white egg simmered in water.,195.0
+Soups and Salads,Chicken Lemon Coriander Soup,0,0,Chicken with fresh coriander and touch of lime.,199.0
+Soups and Salads,Green Salad,1,0,,99.0
+Soups and Salads,Kachumber Salad,1,0,,90.0
+Soups and Salads,Onion Ring Salad,1,0,,80.0
+Soups and Salads,Onion Tomato Salad,1,0,,80.0
+Starters,Paneer Chilli,1,0,,230.0
+Starters,Kerala Style Chicken Dry Fry [12 Pieces],0,0,Spicy Chicken Fry Made With Red Chilly Flakes,250.0
+Starters,Chicken Lollipop Dry [6 Pieces],0,0,"Chicken lollipop is, essentially a frenched chicken winglet, wherein the meat is cut ... read more",250.0
+Starters,Lemon Chicken Dry Boneless [12 Pieces],0,0,Boneless chicken fried and tossed in special chef sauce.,260.0
+Starters,Chicken 65 Dry Boneless [12 Pieces],0,0,,260.0
+Starters,Chicken Chilli Dry Boneless [12 Pieces],0,0,,260.0
+Starters,Chicken Salt and Pepper Dry Boneless [12 Pieces],0,0,,260.0
+Starters,Fish Fry Boneless [8 Pieces],0,0,,260.0
+Starters,Fish Chilli [8 Pieces],0,0,,260.0
+Starters,Prawns Chilli [10 Pieces],0,0,,299.0
+Starters,Prawns Dry Fry,0,0,,289.0
+Starters,Fry Leg Piece [1 Piece],0,0,North Indian flavor marinate with leg piece in deep fry.,190.0
+Starters,Paneer Chilli Dry [12 Pieces],1,0,Cubes of fried crispy paneer tossed in a spicy sauce made with soy ... read more,200.0
+Starters,Dragon Paneer Dry,1,0,Deep fry paneer till crisp and golden.,230.0
+Starters,Manchurian Dry,1,0,deep fried mixed vegetable dumplings tossed in Chinese sauces.,180.0
+Starters,Tomato Soup,1,0,,149.0
+Main Course,Lemon Chicken Gravy Boneless [12 Pieces],0,0,,260.0
+Main Course,Chicken 65 Gravy Boneless [12 Pieces],0,0,,260.0
+Main Course,Chicken Chilli Gravy Boneless [12 Pieces],0,0,,260.0
+Main Course,Chicken Salt and Pepper Gravy Boneless [12 Pieces],0,0,,260.0
+Main Course,Paneer Butter Masala,1,0,A rich and creamy dish with a flavorful mild Makhani greavy,180.0
+Main Course,Paneer Kadai,1,0,,190.0
+Main Course,Matar Paneer,1,0,,160.0
+Main Course,Paneer Angara,1,0,,199.0
+Main Course,Paneer Palak,1,0,,180.0
+Main Course,Paneer Handi,1,0,,190.0
+Main Course,Paneer Masala,1,0,,150.0
+Main Course,Paneer Bhurji [500 ml],1,0,,269.0
+Main Course,GKS Special Paneer,1,0,,190.0
+Main Course,Mix Veg,1,0,,90.0
+Main Course,Veg Kolhapuri,1,0,,150.0
+Main Course,Veg Kadai,1,0,Mix vegetable with brown gravy.,160.0
+Main Course,Veg Tawa Masala,1,0,,160.0
+Main Course,Aloo Gobi,1,0,,90.0
+Main Course,Chana Masala,1,0,Delight in a flavorful and aromatic flavor chick pie and tomato onion gravy.,120.0
+Main Course,Aloo Matar,1,0,,100.0
+Main Course,Sev Tomato,1,0,,100.0
+Main Course,Mushroom Masala,1,0,,160.0
+Main Course,Mushroom Butter Masala,1,0,,180.0
+Main Course,Kaju Paneer Masala,1,0,,200.0
+Main Course,Kaju Curry,1,0,,210.0
+Main Course,Paneer Lababdar [500 ml],1,0,Cube cute cottage cooked in a rich creamy sauce with a hint of ... read more,220.0
+Main Course,Paneer Kurchan,1,0,Julian cottage cheese onione and capcicum cooked with brown greavy.,260.0
+Main Course,Veg Lazawab [450 grams],1,0,American corn mushroom and mix vegetable served with mild creamy.,220.0
+Main Course,Kaju Masala [500 ml],1,0,,260.0
+Main Course,Egg Curry [500 ml],0,0,Boiled eggs prepared with brown Punjabi gravy and spices.,170.0
+Main Course,Egg Bhurji [2 Eggs],0,0,A soft fluffy egg cooked in onion tomato with less oil.,130.0
+Main Course,Egg Masala [2 Eggs],0,0,Boiled egg  cooked with thick red  gravy.,130.0
+Main Course,Chicken Butter Masala,0,0,,240.0
+Main Course,Chicken Kadai,0,0,,220.0
+Main Course,Chicken Kolhapuri,0,0,,210.0
+Main Course,Chicken Tawa Masala,0,0,,220.0
+Main Course,Chicken Kali Mirch,0,0,,210.0
+Main Course,Chicken do Pyaza,0,0,Diamond cut onion with chicken pieces cooked in flavorful brown gravy.,235.0
+Main Course,Chicken Angara,0,0,Chicken cooked in tongue tickling spicy gravy.,239.0
+Main Course,Chicken Masala,0,0,A special tadka and chicken pieces cooked in thick gravy.,230.0
+Main Course,Chicken Curry,0,0,Chicken stew cooked in chicken pieces with spicy and aromatic flavor.,220.0
+Main Course,Chicken Rara,0,0,Chopped chicken tossed with onion tomato with leg pieces in mild brown gravy.,280.0
+Main Course,Butter Chicken,0,0,Boneless chicken cooked with a rich and creamy butter sauce.,260.0
+Main Course,Kerala Style Chicken Curry,0,0,Chicken pieces cooked with Kerala flavor with curry leave.,250.0
+Main Course,Punjabi Home Style Chicken,0,0,Cooking with authentic Punjabi style.,269.0
+Main Course,Kerala Chicken Curry,0,0,"Nadan style chicken curry, this dish consists of rich ingredients of Kerala spices ... read more",220.0
+Main Course,Chicken Hyderabadi,0,0,,240.0
+Main Course,Mutton Masala,0,0,Mutton cooked in thick gravy with flavor spice.,270.0
+Main Course,Mutton Kadai,0,0,,280.0
+Main Course,Mutton Do Pyaza,0,0,,280.0
+Main Course,Mutton Curry,0,0,Mutton stew cooked in mutton pieces.,250.0
+Main Course,Mutton Handi,0,0,,270.0
+Main Course,Mutton Rogan Josh,0,0,Tender pieces of mutton cooked in a rich and aromatic rogan josh gravy.,275.0
+Main Course,Mutton Sukka,0,0,Mutton cooked in onion tomato with less gravy.,275.0
+Main Course,Palak Ghost,0,0,A spinach paste cooked with mutton and aromatic spice.,280.0
+Main Course,Paneer Chilli Gravy [12 Pieces],1,0,,200.0
+Main Course,Dragon Paneer Gravy,1,0,,230.0
+Main Course,Mushroom Chilli Gravy,1,0,,230.0
+Main Course,Manchurian Gravy,1,0,,180.0
+Breads,Chapati,1,0,,15.0
+Breads,Butter Chapati,1,0,,18.0
+Breads,Kerala Laccha Parotta,0,0,Kerala style laccha parotta.,25.0
+Rice and Biryani,Veg Biryani,1,0,"Served with raita, pickle and papad.",180.0
+Rice and Biryani,Veg Hyderabad Biryani,1,0,"Served with raita, pickle and papad.",190.0
+Rice and Biryani,Egg Biryani,0,0,Boiled egg cooked with our special biryani rice served with raita achar papad.,156.0
+Rice and Biryani,Chicken Dum Biryani,0,0,A mouthwatering chicken made with fragrant basmati rice and tender chicken piece cooked ... read more,195.0
+Rice and Biryani,Hyderabadi Chicken Dum Biryani,0,0,A Hyderabadi style chicken cooked in biryani masala served with raita papad achar.,190.0
+Rice and Biryani,Mutton Dum Biryani,0,0,"Served with raita, pickle and papad.",260.0
+Rice and Biryani,Prawns Dum Biryani,0,0,Deep fry prawns cooked with biryani masala and rice served with raita achar ... read more,260.0
+Rice and Biryani,Plain Rice,1,0,,130.0
+Rice and Biryani,Jeera Rice,1,0,,140.0
+Rice and Biryani,Veg Pulao,1,0,"Served with raita, pickle and papad.",160.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,Vegetable with noodle tossed in butter.,160.0
+Fried Rice and Noodles,Veg Singapore Noodles,1,0,,200.0
+Fried Rice and Noodles,Chilli Garlic Noodles,1,0,Tossed vegetable with noodle chilli flack brunt garlic.,190.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,Julian cut of vegetable spring onion tossed with noodle and cooked in schezawan ... read more,210.0
+Fried Rice and Noodles,Chicken Garlic Noodles,0,0,Juliane cut chicken and vegetable tossed with noodle and brunt garlic.,239.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,Chicken tossed with noodle and touch schewan sauce.,249.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,Seasoning vegetable with rice and sauce.,169.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,Rice and Chinese ball tossed in sauces.,220.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,Finely chopped mix vegetable tossed with rice touch of schezwan sauce.,185.0
+Fried Rice and Noodles,Veg Triple Fried Rice,1,0,,210.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,Egg tossed with rice in Chinese sauces.,210.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,Cottage fried chicken with egg tossed in rice.,249.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,Fried chicken and egg tossed in schezan sauce.,254.0
+Fried Rice and Noodles,Chicken Garlic Coriander Fried Rice,0,0,,260.0
+Fried Rice and Noodles,Chicken Garlic Fried Rice,0,0,Chicken and rice tossed with brunt garlic.,259.0
+Fried Rice and Noodles,Chicken Lemon Fried Rice,0,0,,229.0
+Fried Rice and Noodles,Chicken Singapuri Fried Rice,0,0,,275.0
+Chinese,Paneer Chilli Dry,1,0,Onion  capsicum toast with fried cottage cheese touched garlic ginger sauce.,250.0
+Chinese,Paneer Chilli Gravy,1,0,Onion  capsicum toast with fried cottage cheese touched garlic ginger sauce.,250.0
+Chinese,Manchurian Dry,1,0,Vegetable balls tossed with onion garlic sauce.,180.0
+Chinese,Manchurian Gravy,1,0,Vegetable balls tossed with onion garlic sauce.,180.0
+Chinese,Vegetable Balls in Hot Garlic Sauce,1,0,,209.0
+Chinese,Dragon Paneer,1,0,Deep fry paneer till crisp and  touch aromatic sauce.,269.0
+Chinese,Mushroom Chilli Dry,1,0,Fresh mushroom fry with crispy better are tossed in a sweet nd spicy ... read more,249.0
+Chinese,Mushroom Chilli Gravy,1,0,Fresh mushroom fry with crispy better are tossed in a sweet nd spicy ... read more,249.0
+Chinese,Paneer 65,1,0,A South Indian flavor curry leaves mustered seed and yogurt with red chilli ... read more,249.0
+Chinese,Paneer Kurkure,1,0,,265.0
+Chinese,Kerala Style Chicken Dry [16 Pieces],0,0,chicken fry with Indian spicy better with curry leave and green chilli.,265.0
+Chinese,Kerala Style Chicken Fry [16 Pieces],0,0,chicken fry with Indian spicy better with curry leave and green chilli.,265.0
+Chinese,Chicken Lollipop [6 Pieces],0,0,Chicken wings fry Chinese better served with hot schezwan sauce.,279.0
+Chinese,Lemon Chicken Dry,0,0,Boneless chicken fry in a chef signature sauce.,279.0
+Chinese,Lemon Chicken Gravy,0,0,Boneless chicken fry in a chef signature sauce.,279.0
+Chinese,Chicken 65 Dry [12 Pieces],0,0,Boneless chicken fried and tossed with south Indian zaika.,285.0
+Chinese,Chicken Chilli,0,0,Onion calcium toasted with fried chicken touch garlic ginger sauce.,279.0
+Chinese,Chicken Salt N Paper Dry,0,0,,285.0
+Chinese,Chicken Kurkure [12 Pieces],0,0,Boneless chicken with bread crumb fried with egg better served with red green ... read more,265.0
+Chinese,Fish Fry Boneless [8 Pieces],0,0,A North Indian flavor with spice better with deep fry.,350.0
+Chinese,Fish Chilli [8 Pieces],0,0,Fried basa fish tossed with onion calcium and garlic sauce.,350.0
+Chinese,Prawns Fry [12 Pieces],0,0,Prawns fry served with green chutney.,335.0
+Chinese,Prawns Chilli [12 Pieces],0,0,Deep fry prawns tossed with onion calcium and garlic sauce.,349.0
+Snacks,Chinese Bhel,1,0,Fried crunch with veggies rice noodle and manchurian tossed with schezwan sauce.,210.0
+Snacks,Omelettte [2 Eggs],0,0,A mouthwatering creation of fluffy egg filled with tantalizing flavor.,100.0
+Accompaniments,Raita,1,0,,60.0
+Accompaniments,Papad,1,0,,10.0
+Accompaniments,GKS Special Raita [300 ml],1,0,,90.0
+Accompaniments,Cucumber Raita [300 ml],1,0,,100.0
+Accompaniments,Fried Papad,1,0,,20.0
+Accompaniments,Roasted Papad,1,0,,25.0
+Drinks (Beverages),Sweet and Salted Fresh Lime Soda,1,0,,50.0
+Drinks (Beverages),Sweet and Salted Lassi,1,0,,40.0
+Drinks (Beverages),Buttermilk,1,0,,40.0
+Drinks (Beverages),Dry Fruit Lassi,1,0,,99.0
+Drinks (Beverages),Sweet Lassi,1,0,,50.0

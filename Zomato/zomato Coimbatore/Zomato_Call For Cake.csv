@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Eggless Red Velvet Cake [500 grams],1,0,,660.0
+Cakes,Black Forest Cake [500 grams],1,0,,450.0
+Cakes,White Forest Cake [500 grams],1,0,,500.0
+Cakes,Choco Truffle Cake [500 grams],1,0,,490.0
+Cakes,Mango Supreme Cake [500 grams],1,0,,480.0
+Cakes,Pineapple Cake [500 grams],1,0,,480.0
+Cakes,Rainbow Gateaux Cake [500 grams],1,0,,660.0
+Cakes,Strawberry Cake [500 grams],1,0,,480.0
+Cakes,Strawberry White Forest Cake [500 grams],1,0,,550.0
+Cakes,Butterscotch Cake [500 grams],1,0,,480.0
+Cakes,Blackcurrant Cake [500 grams],1,0,,480.0
+Cakes,Eggless Red Velvet Cake [1 kg],1,0,,1150.0
+Cakes,Choco Truffle Cake [1 kg],1,0,,900.0
+Cakes,Pineapple Cake [1 kg],1,0,,860.0
+Cakes,Mango White Forest Cake [1 kg],1,0,,1020.0
+Cakes,Italian Gateaux Cake [1 kg],1,0,,1160.0
+Cakes,Brownie Cake,1,0,,70.0
+Pastries,Black Forest Pastry [2 Slices],1,0,,130.0
+Pastries,Butterscotch Pastry [2 Slices],1,0,,130.0
+Pastries,Mango Pastry [2 Slices],1,0,,130.0
+Pastries,Pineapple Pastry [2 Slices],1,0,,130.0
+Pastries,Strawberry Pastry [2 Slices],1,0,,130.0
+Pastries,Cheese Cake Pastry,1,0,,60.0
+Desserts,Eggless Mousse,1,0,,65.0
+Desserts,Caramel Custard,1,0,,65.0
+Desserts,Ndc Pudding,1,0,,60.0
+Desserts,Redvelvet Pudding,1,0,,60.0
+Desserts,Choco Lava Cake,1,0,,70.0
+Desserts,Pineapple Struddle,1,0,,40.0
+Desserts,Chocolate Struddle,1,0,,40.0
+Breads,Milk Bread,1,0,,55.0
+Breads,Wheat Bread,1,0,,60.0
+Cookies,Bean Cookies,1,0,,80.0
+Cookies,Pistah Cookies,1,0,,90.0
+Cookies,Butter Cookies,1,0,,80.0
+Cookies,Crunchy Chocolate Cookies,1,0,,90.0
+Cookies,Ghee Cookies,1,0,,80.0
+Cookies,Chocochip Cookies,1,0,,90.0
+Cakes and Snacks,Apple Cake [2 Pieces],1,0,,50.0
+Cakes and Snacks,Chocolate Doughnut [2 pieces],1,0,,100.0
+Cakes and Snacks,Pistah Japanese Cake,1,0,,74.0
+Cakes and Snacks,Almond Japanese Cake,1,0,,60.0
+Cakes and Snacks,Cream Bun [2 Pieces],1,0,,75.0

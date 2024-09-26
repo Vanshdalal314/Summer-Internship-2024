@@ -1,0 +1,25 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Jani Special Khaman and Idra,Vagharela Khaman,1,0,A delicious gujarati snack of khaman topped with a freshly prepared vaghar. || ... read more,50.0
+Jani Special Khaman and Idra,Idada Vagharela,1,0,"Idada, here is a non-fermented version of dhokla, for people with acidity and ... read more",50.0
+Jani Special Khaman and Idra,Idada Butter,1,0,,65.0
+Jani Special Khaman and Idra,Idada Cheese,1,0,,90.0
+Locho,Sado Locho,1,0,,160.0
+Locho,Oil Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,52.0
+Locho,Lasan Oil Locho [Non Jain],1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,77.0
+Locho,Butter Locho,1,0,Locho is steamed gujarati farsan [snack /side dish] originated in surat. It is ... read more,77.0
+Locho,Lasan Butter Locho [Non Jain],1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,78.0
+Locho,Schezwan Locho [Non Jain],1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,90.0
+Locho,Peri Peri Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,70.0
+Locho,Italian Locho [Non Jain],1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,90.0
+Locho,Tandoor Locho [Non Jain],1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,90.0
+Locho,Sev,1,0,50 Grams,15.0
+Cheese Locho,Cheese Locho,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",103.0
+Cheese Locho,Lasan Cheese Locho,1,0,Non Jain,116.0
+Cheese Locho,Cheese Chilli Locho [Non Jain],1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",91.0
+Roll Locho,Roll Schezwan Locho,1,0,Non Jain.,168.0
+Roll Locho,Roll Locho,1,0,Locho is steamed Gujarati Farsan (Snack /Side Dish) originated in Surat. It is ... read more,142.0
+Roll Locho,Roll Peri Peri Locho,1,0,Roll Peri Peri Locho+Sev.,168.0
+Roll Locho,Roll Lasun Locho,1,0,Non Jain.,156.0
+Roll Locho,Roll Cheese Chili Locho,1,0,Non Jain.,150.0
+Roll Locho,Roll Italian Locho,1,0,Non Jain.,168.0
+Roll Locho,Roll Tandoor Locho,1,0,Non Jain.,168.0

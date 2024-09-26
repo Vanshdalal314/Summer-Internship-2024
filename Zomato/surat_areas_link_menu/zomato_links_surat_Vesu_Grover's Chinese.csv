@@ -1,0 +1,45 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chinese Combos,Angara Veg Momos [4 Pieces] + Afghani Paneer Momos [4 Pieces],1,0,Jain not Available,349.0
+Chinese Combos,Fried Momos Combo,1,0,"Combination of Veg, Paneer momos , Stuffed Cheese & Corn 3pcs = ... read more",289.0
+Chinese Combos,Manchurian Gravy + Fried Rice + Cold Beverage [250ml],1,0,Jain not Available,379.0
+Chinese Combos,Manchurian Gravy + Hakka Noodles + Cold Beverage [250ml],1,0,Jain not Available,379.0
+Chinese Combos,Paneer Chilly Gravy + Burnt Garlic Noodles + Cold Beverage [250 Ml],1,0,Jain not Available,399.0
+Chinese Combos,Steam Momos Combo,1,0,"Combination of Veg, Paneer & Stuffed Cheese & Corn 3pcs Each [NON-JAIN]",269.0
+Soups,Manchow Soup,1,0,A comforting Chinese-style thick soup filled with exotic and hot vegetables.,189.0
+Manchurian,Veg Burnt Garlic Manchurian,1,0,,249.0
+Manchurian,Veg Manchurian Dry,1,0,"Indo Chinese dish, deep fried vegetable balls tossed in Chinese sauces.",249.0
+Manchurian,Veg Manchurian Gravy,1,0,Veg Manchurian gravy recipe has a sauce or gravy in which the fried ... read more,249.0
+Manchurian,Veg Schezwan Manchurian,1,0,,249.0
+Paneer Chilli & Chaap,Chilli Soya Chaap {16-20pcs},1,0,,339.0
+Paneer Chilli & Chaap,Chinese Chap Chilli Gravy{16-20pcs},1,0,,419.0
+Paneer Chilli & Chaap,Paneer Chilli Gravy {12-15pcs},1,0,,419.0
+Paneer Chilli & Chaap,Paneer Chilli {16-20pcs},1,0,,419.0
+Paneer Chilli & Chaap,Schezwan Chilli Soya Chaap {16-20pcs},1,0,,429.0
+Paneer Chilli & Chaap,Schezwan Paneer Chilli {16-20pcs},1,0,,419.0
+Chinese Bhel,Mushroom Chinese Bhel {300-350gms},1,0,[300 to 350 Grams],259.0
+Chinese Bhel,Paneer Chinese Bhel {300-350gms},1,0,[300 to 350 Grams],259.0
+Chinese Bhel,Veg Chinese Bhel {300-350gms},1,0,[300 to 350 Grams],259.0
+Fried Rice And Noodles,Veg. Manchurian Rice {300-350gms},1,0,,249.0
+Fried Rice And Noodles,Triple Rice,1,0,Mixture of Rice & Noodles Served with gravy manchurian balls,399.0
+Fried Rice And Noodles,Veg Burnt Garlic Fried Rice {300-350gms},1,0,,249.0
+Fried Rice And Noodles,Veg Fried Rice {300-350gms},1,0,,249.0
+Fried Rice And Noodles,Veg Paneer Fried Rice {300-350gms},1,0,,279.0
+Fried Rice And Noodles,Veg Schezwan Fried Rice {300-350gms},1,0,,249.0
+Fried Rice And Noodles,Delhi 6 Chowmein,1,0,,229.0
+Fried Rice And Noodles,Veg Burnt Garlic Noodles,1,0,A deliciously aromatic preparation with noodles and vegetables cooked in a flavorful burnt ... read more,229.0
+Fried Rice And Noodles,Veg Hakka Noodles,1,0,"Delectable stands of soft noodles tossed with assorted chopped veggies and hakka sauces, ... read more",239.0
+Fried Rice And Noodles,Veg Manchurian Noodles,1,0,A wholesome combo of hearty veg flavored rice served with deliciously spicy veg ... read more,239.0
+Fried Rice And Noodles,Veg Paneer Noodles,1,0,,279.0
+Mushroom,Mushroom Chilli,1,0,Delectable mushrooms cooked in a spicy and tasty chilli sauce - perfect dish ... read more,399.0
+Mushroom,Schezwan Mushroom Chilli,1,0,,399.0
+Mushroom,Veg Mushroom Chilli Gravy,1,0,,399.0
+Momos,Special Kurkure Momos,1,0,Super crispy fried momos stuffed with paneer and veggies.,299.0
+Momos,Cheese Gravy Momos [6 Pieces],1,0,Fully loaded cheese gravy option of jain fried momos and paneer fried momos.,329.0
+Momos,Chilli Gravy Momos [6 Pieces],1,0,Spicy gravy momos with diced vegetables option of jain fried momos and paneer ... read more,319.0
+Momos,Jain Steamed Momos,1,0,"Stuffed vegetables like cabbage, capsicum etc.",159.0
+Momos,Paneer Steamed Momos,1,0,Stuffed with paneer and vegetables.,169.0
+Momos,Special Steamed Momos,1,0,"Stuffed with paneer, spinach, soya crumbs and vegetables.",179.0
+Momos,Veg Steamed Momos,1,0,"Stuffed vegetables like onion, cabbage, carrot etc.",159.0
+Momos,Afghani Tandoori Momos [6 Pieces],1,0,"Marinated in cheese, cashew and our secret spices white colored momos stuffed with ... read more",309.0
+Momos,Angara Tandoori Momos [6 Pieces],1,0,Marinated in spiciest spices stuffed with paneer and vegetables roasted in tandoor to ... read more,309.0
+Momos,Garlic And Black Pepper Tandoori Momos [6 Pieces],1,0,Marinated in garlic and black pepper momos stuffed with paneer and vegetables roasted ... read more,309.0

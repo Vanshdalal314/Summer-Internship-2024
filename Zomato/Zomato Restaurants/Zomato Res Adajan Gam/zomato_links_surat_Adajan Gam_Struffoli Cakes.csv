@@ -1,0 +1,87 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Desserts,Sundae Mousse,1,0,,50.0
+Desserts,Brownie,1,0,,80.0
+Desserts,Choclate Candy,1,0,,50.0
+Desserts,Chocolate Ball,1,0,,50.0
+Cakes and Pastries,Delight Rocks Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Delight Swiss Choco Flavour Name Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Rich Choclate Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Black Forest Cake [500 grams],1,0,,450.0
+Cakes and Pastries,Swiss Brownie Cake [500 grams],1,0,,600.0
+Cakes and Pastries,Ferrero Rocher Cake [500 grams],1,0,,600.0
+Cakes and Pastries,Royal Choclate Cake [500 grams],1,0,,600.0
+Cakes and Pastries,Choco Premium Cake [500 grams],1,0,,650.0
+Cakes and Pastries,Choclate Chips Cake [500 grams],1,0,,550.0
+Cakes and Pastries,KitKat Basket Cake [500 grams],1,0,,600.0
+Cakes and Pastries,Belgium Choclate Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Nuttela Delight Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Choco Nut Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Death By Choclate Cake [500 grams],1,0,,600.0
+Cakes and Pastries,Belgian Choclate Cake [500 grams],1,0,,600.0
+Cakes and Pastries,Choco Goey Cake [500 grams],1,0,,600.0
+Cakes and Pastries,German Chocolate Cake [500 grams],1,0,,600.0
+Cakes and Pastries,Almond Chips Cake [500 grams],1,0,,450.0
+Cakes and Pastries,Delight Rocks Cake [1 kg],1,0,,900.0
+Cakes and Pastries,Delight Swiss Choco Flavour Name Cake [1 kg],1,0,,900.0
+Cakes and Pastries,Rich Choclate Cake [1 kg],1,0,,900.0
+Cakes and Pastries,Black Forest Cake [1 Kg],1,0,[Veg preparation],850.0
+Cakes and Pastries,Swiss Brownie Cake [1 kg],1,0,,1000.0
+Cakes and Pastries,Ferrero Rocher Cake [1 Kg],1,0,,900.0
+Cakes and Pastries,Royal Choclate Cake [1 Kg],1,0,,1000.0
+Cakes and Pastries,Choco Premium Cake [1 Kg],1,0,,900.0
+Cakes and Pastries,Choclate Chips Cake [1 Kg],1,0,,900.0
+Cakes and Pastries,KitKat Basket Cake [1 Kg],1,0,,950.0
+Cakes and Pastries,Belgium Choclate Cake [1 Kg],1,0,,900.0
+Cakes and Pastries,Nuttela Delight Cake [1 Kg],1,0,,900.0
+Cakes and Pastries,Death By Choclate Cake [1 Kg],1,0,,1000.0
+Cakes and Pastries,Belgian Choclate Cake [1Kg],1,0,,1000.0
+Cakes and Pastries,Choco Goey Cake [1 Kg],1,0,,1000.0
+Cakes and Pastries,German Chocolate Cake [1 Kg],1,0,,1000.0
+Cakes and Pastries,Almond Chips Cake [1 Kg],1,0,,800.0
+Cakes and Pastries,Tiramisu Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Choco Mocha Cake [500 grams],1,0,,550.0
+Cakes and Pastries,White Forest Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Pineapple Cake [500 grams],1,0,,500.0
+Cakes and Pastries,Litchi Cake [500 grams],1,0,,500.0
+Cakes and Pastries,Butterscotch Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Rasmalai Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Rose Gulkand Cake [500 grams],1,0,,550.0
+Cakes and Pastries,Rainbow Cake [500 grams],1,0,,700.0
+Cakes and Pastries,Red Velvet Cake [500 grams],1,0,,650.0
+Cakes and Pastries,Tiramisu Cake [1 Kg],1,0,,800.0
+Cakes and Pastries,Choco Mocha Cake [1 Kg],1,0,,900.0
+Cakes and Pastries,White Forest Cake [1 Kg],1,0,,800.0
+Cakes and Pastries,Pineapple Cake [1 Kg],1,0,,750.0
+Cakes and Pastries,Litchi Cake [1 Kg],1,0,,750.0
+Cakes and Pastries,Butterscotch Cake [1 Kg],1,0,,800.0
+Cakes and Pastries,Rasmalai Cake [1 Kg],1,0,,900.0
+Cakes and Pastries,Rose Gulkand Cake [1 Kg],1,0,,900.0
+Cakes and Pastries,Red Velvet Cake [1 Kg],1,0,,900.0
+Cakes and Pastries,Delight Rocks Pastry,1,0,,120.0
+Cakes and Pastries,Delight Swiss Choco Flavour Name Pastry,1,0,,120.0
+Cakes and Pastries,Rich Choclate Pastry,1,0,,100.0
+Cakes and Pastries,Black Forest Pastry,1,0,,80.0
+Cakes and Pastries,Swiss Brownie Pastry,1,0,,120.0
+Cakes and Pastries,Ferrero Rocher Pastry,1,0,,100.0
+Cakes and Pastries,Royal Choclate Pastry,1,0,,120.0
+Cakes and Pastries,Choco Premium Pastry,1,0,,100.0
+Cakes and Pastries,Choclate Chips Pastry,1,0,,100.0
+Cakes and Pastries,Belgium Choclate Pastry,1,0,,100.0
+Cakes and Pastries,Nuttela Delight Pastry,1,0,,100.0
+Cakes and Pastries,Choco Nut Pastry,1,0,,100.0
+Cakes and Pastries,Death By Choclate Pastry,1,0,,120.0
+Cakes and Pastries,Belgian Choclate Pastry,1,0,,120.0
+Cakes and Pastries,Choco Goey Pastry,1,0,,120.0
+Cakes and Pastries,German Chocolate Pastry,1,0,,120.0
+Cakes and Pastries,Almond Chips Pastry,1,0,,70.0
+Cakes and Pastries,Tiramisu Pastry,1,0,,100.0
+Cakes and Pastries,Choco Mocha Pastry,1,0,,100.0
+Cakes and Pastries,White Forest Pastry,1,0,,100.0
+Cakes and Pastries,Pineapple Pastry,1,0,,80.0
+Cakes and Pastries,Litchi Pastry,1,0,,80.0
+Cakes and Pastries,Butterscotch Pastry,1,0,,80.0
+Cakes and Pastries,Rasmalai Pastry,1,0,,120.0
+Cakes and Pastries,Rose Gulkand Pastry,1,0,,120.0
+Cakes and Pastries,Rainbow Pastry,1,0,,140.0
+Cakes and Pastries,Red Velvet Pastry,1,0,,140.0
+Cakes and Pastries,Donuts,1,0,,60.0

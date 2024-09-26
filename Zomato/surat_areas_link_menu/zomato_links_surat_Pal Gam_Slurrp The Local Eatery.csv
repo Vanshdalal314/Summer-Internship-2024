@@ -1,0 +1,160 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Healthy Bowls,Curry For Life Chicken,0,0,(Slurrp Version of Japanese curry with chicken katsu served with steamed rice),530.0
+Healthy Bowls,Curry For Life Veg [o],1,0,(Slurrp Version of Japanese curry with paneer katsu served with steamed rice),530.0
+Healthy Bowls,Fungi Bowl (Chicken),0,0,(Asian Flavoured rice sauted with mushroom) Add chicken,450.0
+Healthy Bowls,Fungi Bowl Veg,1,0,(Asian Flavoured rice sauted with mushroom) Add paneer,450.0
+Healthy Bowls,Ghee Rosat Chicken,0,0,,470.0
+Healthy Bowls,Ghee Rosat Mushroom,1,0,,450.0
+Healthy Bowls,Oriental Rice Bowl Chicken,0,0,,400.0
+Healthy Bowls,Oriental Rice Bowl Veg,1,0,,400.0
+Gym Box,Chicken Gym Box,0,0,"Juicy grilled chicken perfect for the fitness enthusiast, 250 gms chicken, 2 boiled ... read more",470.0
+Gym Box,Egg Gym Box,0,0,A hearty egg based meal packed with protein and essential vitamins and minerals ... read more,390.0
+Gym Box,Veg Gym Box,1,0,A box full of fresh and healthy vegetables that are perfect for those ... read more,450.0
+Gym & Lean,Chicken Steak,0,0,"150Grms grilled whole chicken bresat tossed seasoned with herbs, served with sauce n ... read more",470.0
+Gym & Lean,Creamy Mushroom Chicken Steak,0,0,Creamy mushroom chicken steak A delicious and creamy dish with succulent chicken steak ... read more,480.0
+Gym & Lean,Creamy Mushroom Paneer Steak,1,0,Creamy mushroom paneer steak A delicious and creamy dish with succulent paneer steak ... read more,470.0
+Gym & Lean,Fish Steak,0,0,A classic dish with a modern twist. garlic souse create a beautiful contrast ... read more,490.0
+Gym & Lean,Mexican Chicken Platter,0,0,Mexican rice and Mexican creamy gravy served with salad,470.0
+Gym & Lean,Mexican Paneer Platter,1,0,Mexican rice and Mexican creamy gravy served with salad,450.0
+Gym & Lean,Paneer Steak,1,0,"150Grms grilled paneer tossed with herbs, served with sauce n exotic veggies",450.0
+Gym & Lean,Roasted Chicken Lollipop,0,0,Chicken drum sticks roasted with herbs and mild spicing.,490.0
+Gym & Lean,Stuffed Chicken Steak With Pepper Sauce,0,0,,540.0
+Soup & Salads,Broccoli Almond Soup,1,0,,350.0
+Soup & Salads,Chicken Egg Drop,0,0,"A comforting, warm bowl of rich broth with tender pieces of chicken and ... read more",350.0
+Soup & Salads,Egg Drop,0,0,,300.0
+Soup & Salads,Fusion Khow Suey Chicken,0,0,,430.0
+Soup & Salads,Fusion Khow Suey Veg,1,0,,400.0
+Soup & Salads,Roasted Tomato & Basil Soup With Cheese Toast,1,0,,350.0
+Soup & Salads,Veg Clear,1,0,,270.0
+Soup & Salads,Avo Caprese Salad,1,0,"Avocado, cherry tomato, romaine lettuce & ice burg lettuce dressed with chipotle sauce.",550.0
+Soup & Salads,Avocado Siracha Chicken Salad,0,0,"Grilled chicken breast with cherry tomato, romaine lettuce , ice burg lettuce ... read more",520.0
+Soup & Salads,Avocado Siracha Egg Salad,0,0,,480.0
+Soup & Salads,Grilled Paneer,1,0,"Paneer, bell peppers, onions, tomatoes grilled with a chilli herb dressing.",380.0
+Soup & Salads,Pesto Chicken Salad,0,0,,450.0
+Soup & Salads,Pesto Paneer Salad,1,0,150gm Paneer tossed with pesto sauce & exotic veggies,440.0
+Soup & Salads,Roasted Chicken Salad,0,0,150gm Chicken chunks roasted with vegetables and herbs.,400.0
+Soup & Salads,Roasted Egg Salad,0,0,4 Boiled eggs tossed with exotic vegetables and herbs.,370.0
+Soup & Salads,Roasted Veggie Salad,1,0,,380.0
+Soup & Salads,Veggie Paneer Salad,1,0,,380.0
+Kathi Rolls,Chicken Tikka Roll,0,0,"A spicy, flavorful, juicy, and tender chicken tikka roll in a soft and ... read more",420.0
+Kathi Rolls,Egg Tikka Roll,0,0,"A delicious egg roll wrapped in a soft, puffy, leavened bread. A perfect ... read more",350.0
+Kathi Rolls,Mushroom Tikka Roll,1,0,"A delightful combination of soft mushroom tikka, vegetables and spices wrapped in a ... read more",350.0
+Kathi Rolls,Paneer Tikka Roll,1,0,"A delightful combination of soft paneer chunks, vegetables and spices wrapped in a ... read more",350.0
+Eggs,Baked Egg With Pesto & Chicken,0,0,Pesto sauce and chicken are baked with 2 eggs,450.0
+Eggs,Bakes Eggs With Mushroom & Spinach,0,0,A savory and hearty baked egg dish loaded with flavorful mushrooms and nutritious ... read more,430.0
+Eggs,Chicken & Cheese Omlette,0,0,,400.0
+Eggs,Mushroom & Cheese Omlette,0,0,Omlette egg content,380.0
+Eggs,Stuffed Mushroom & Chicken Cheese Omlette,0,0,3 Egg omlette is stuffed with sauted mushroom and cheese and also comes ... read more,430.0
+Eggs,Stuffed Spinach & Mushroom,0,0,Egg content,410.0
+Kebab And Tikka,Chicken Malai Tikka,0,0,"Tender pieces of chicken marinated in a creamy, aromatic, and flavorful sauce with ... read more",520.0
+Kebab And Tikka,Egg Tikka,0,0,,380.0
+Kebab And Tikka,Garlic Chicken Tikka,0,0,"A succulent, juicy and flavorful dish made with tender chicken pieces, marinated in ... read more",490.0
+Kebab And Tikka,Kulhar Dum Murg,0,0,,520.0
+Kebab And Tikka,Middle Eastern Fish Tikka,0,0,,540.0
+Kebab And Tikka,Mushroom Tikka,1,0,Delicious Indian dish with tender mushrooms roasted to perfection with fragrant spices.,420.0
+Kebab And Tikka,Mustard Fish Tikka,0,0,"Tasty and mouthwatering Mustard fish tikka, a delicious Indian dish",540.0
+Kebab And Tikka,Mutton Shami Kabab,0,0,,620.0
+Kebab And Tikka,Peri Peri Tikka Chicken,0,0,"Tender chicken marinated in aromatic Indian spices, grilled to perfection",490.0
+Kebab And Tikka,Peri Peri Tikka Fish,0,0,,540.0
+Kebab And Tikka,Peri Peri Tikka Paneer,1,0,Delicious Indian dish with tender paneer roasted to perfection with fragrant spices.,440.0
+Kebab And Tikka,Malai Paneer Tikka,1,0,,500.0
+Prawns And Fish,Baked Masala Prawns,0,0,A sumptuous seafood dish made with succulent prawns and aromatic spices.,650.0
+Prawns And Fish,Cilantro Prawns,0,0,,650.0
+Prawns And Fish,Garlic Prawns,0,0,Succulent and juicy prawns cooked in a creamy garlic sauce with spices.,650.0
+Prawns And Fish,Grilled Fish Bowl,0,0,,550.0
+Prawns And Fish,Masala Fish,0,0,,550.0
+Main Course,Egg Kheema,0,0,A comforting Indian curry made with 4 eggs and fragrant spices.,390.0
+Main Course,Green Lasan Chicken Kheema,0,0,( Served with chapati/ pav or rice),490.0
+Main Course,Mutton Kheema,0,0,"Delicious and flavourful curry made with minced mutton, aromatic spices, and a dash ... read more",650.0
+Main Course,Paneer Kheema Cury,1,0,A hearty dish that blends soft and tender paneer with aromatic spices to ... read more,490.0
+Main Course,Paneer Mushroom Kheema,1,0,"A hearty and flavorful Indian curry with paneer, mushrooms, and keema.",490.0
+Main Course,Veggie Kheema,1,0,A hearty dish exotic vegtable with aromatic spices to create a delectable curry ... read more,490.0
+Main Course,Butter Chicken Curry,0,0,Cooked in butter & cashew and tomato gravy wwith perfect blend of Indian ... read more,550.0
+Main Course,Garlic Chicken Curry,0,0,A flavorful Indian curry featuring tender chicken and aromatic garlic.,530.0
+Main Course,Garlic Fish Curry,0,0,Cooked in onion gravy with sauteed tomato,550.0
+Main Course,Gunpowder Chicken Curry,0,0,Cooked in onion gravy and flavored with south indian Gunpowder masala,530.0
+Main Course,Lemon Chicken Curry,0,0,Cooked in onion gravy with hint of lemon flavor,530.0
+Main Course,Matka Chicken Curry,0,0,Indian style masala with onion gravy,530.0
+Main Course,Paneer Garlic Curry,1,0,"A creamy Indian curry infused with garlic and warm spices, perfect for paneer ... read more",510.0
+Main Course,Paneer Tikka Masala,1,0,Tandoor Cooked paneer cooked in spicy tomato & onion gravy with perfect blend ... read more,510.0
+Rice,Chicken Biryani,0,0,"A flavorful and aromatic combination of tender chicken and fragrant rice, layered with ... read more",520.0
+Rice,Chicken Lebanese Bowl,0,0,"Two pice chicken tikka ,humus, beat root salad ,roasted mix veg, brown rice",470.0
+Rice,Egg & Chicken Combo Rice,0,0,"Egg and chicken chunks are saut?ed with brown rice ,exotic veggies & ... read more",390.0
+Rice,Egg Biryani,0,0,"A flavorful and aromatic combination of 2 boiled eggs and fragrant rice, layered ... read more",450.0
+Rice,Egg Rice,0,0,2 eggs are Sauteed with brown rice & herbs,350.0
+Rice,Mushroom Spinach Rice,1,0,Brown rice saut?ed with mushroom and spinach with herbs,380.0
+Rice,Organic Khichdi,1,0,,390.0
+Rice,Palak Khichdi,1,0,,370.0
+Rice,Paneer Lebanese Bowl,1,0,"Paneer tikka, brown rice,roasted veggies, humus, beat root salad",450.0
+Rice,Peri Peri Broccoli Quinoa Khichdi,1,0,,430.0
+Rice,Peri Peri Chicken Rice Bowl,0,0,"Tender Chicken with fragrant rice, seasoned to perfection.",470.0
+Rice,Peri Peri Paneer Rice Bowl,1,0,"Paneer chunks with fragrant rice, seasoned to perfection.",450.0
+Rice,Veg Biryani,1,0,"An aromatic rice dish made with basmati rice, spices & mixed veggies.",470.0
+Extras,Boiled Eggs (2),0,0,Egg content,50.0
+Extras,Brown Rice,1,0,,200.0
+Extras,Chapati (2),1,0,,80.0
+Extras,Chicken 100 Gm,0,0,,200.0
+Extras,Pav (2),1,0,,50.0
+Extras,Plain Rice,1,0,,200.0
+Extras,Veggies,1,0,,150.0
+Sandwiches And Toasties,Chicken Club Sandwiche,0,0,,450.0
+Sandwiches And Toasties,Katsu Sando Sandwich,0,0,Bread crumb coated whole chicken breast & gochujang & tomato sauce avocado,550.0
+Sandwiches And Toasties,Paneer Club Sandwiches,1,0,,430.0
+Sandwiches And Toasties,Veg Club Sandwiches,1,0,,420.0
+Sandwiches And Toasties,Avocado Toastie,1,0,Meshed avo topped wth cherry tomato & bocconcini cheese.,580.0
+Sandwiches And Toasties,Beetroot Hummus & Mushroom Toastie,1,0,Toasted loaf topped with beetroot hummus & saut?ed mushroom.,500.0
+Sandwiches And Toasties,Chunky Chipottle Chicken,0,0,Chicken chunks tossed with chipotle sauce & topped with half fried egg .,470.0
+Sandwiches And Toasties,Scramble Egg,0,0,Toasted loaf topped with scrambled egg & drizzle with siracha sauce.,350.0
+Pasta(Pennie) / Speghetti,Chicken Alfredo Pasta,0,0,Cheese sauce pasta prepared with chicken,520.0
+Pasta(Pennie) / Speghetti,Chicken Arabiata Pasta,0,0,Tomato basil sauce pasta prepared with chicken,500.0
+Pasta(Pennie) / Speghetti,Chicken Bolognese Pasta,0,0,Spaghetti prepared with tomato basil sauce and minced chicken,570.0
+Pasta(Pennie) / Speghetti,Chicken Parma Pasta,0,0,Spaghetti prepared with tomato basil sauce and a whole chicken breast,560.0
+Pasta(Pennie) / Speghetti,Chicken Pesto Pasta,0,0,Pesto sauce pasta prepared with chicken,590.0
+Pasta(Pennie) / Speghetti,Chicken Rosatella Pasta,0,0,Tomato baisl and cheese sauce pasta prepared with chicken,550.0
+Pasta(Pennie) / Speghetti,Veg Alfredo Pasta,1,0,Cheese sauce pasta prepared with exotic veggies,500.0
+Pasta(Pennie) / Speghetti,Veg Arabiata Pasta,1,0,Tomato basil sauce pasta prepared with exotic veggies,500.0
+Pasta(Pennie) / Speghetti,Veg Bolognese Pasta,1,0,Spaghetti prepared with red pasta sauce and exotic veggies,550.0
+Pasta(Pennie) / Speghetti,Veg Pesto Pasta,1,0,Pesto sauce pasta prepared with exotic veggies,560.0
+Pasta(Pennie) / Speghetti,Veg Rosatella Pasta,1,0,Tomato baisl and cheese sauce pasta prepared with exotic veggies,530.0
+Hummus,Hummus Pita,1,0,"Egg and chicken chunks are sautéed with brown rice ,exotic veggies & ... read more",290.0
+Hummus,Loaded Hummus,1,0,"Egg and chicken chunks are sautéed with brown rice ,exotic veggies & ... read more",390.0
+Shakes And Smoothies,Berry Merry Super Smoothie,1,0,"(350ml) Strawberry, Raspberry, Apple Juice and Fat Free Probiotic Yogurt",340.0
+Shakes And Smoothies,Brainstrom Super Smoothie,1,0,"(350ml) Mango, Blueberries, Orange Juice Fat Free Probiotic Yogurt",330.0
+Shakes And Smoothies,Cool Berry Super Smoothie,1,0,"(350ml) Blueberry, Apple Juice and Fat Free Probiotic Yogurt",340.0
+Shakes And Smoothies,Detox Super Smoothie,1,0,"(350ml) Cranberries, Pineapple, Pineapple Juice, Fat Free Probiotic Yogurt",330.0
+Shakes And Smoothies,Fat Burner Super Smoothie,1,0,"(350ml) Strawberries, Raspberries, Blueberries, Cranberries Apple Juice, Fat Free Probiotic Yogurt",340.0
+Shakes And Smoothies,Gym Special Super Smoothie,1,0,"(350ml) Strawberry, Raspberry, Blueberry, Cranberry, Orange Juice, Fat Free Probiotic Yogurt and Gym ... read more",350.0
+Shakes And Smoothies,Mango Protein Super Smoothie,1,0,"(350ml) Mango, Orange Juice, Fat Free Probiotic Yogurt and Protein Booster",350.0
+Shakes And Smoothies,Mulberry Magic Super Smoothie,1,0,"(350ml) Mulberry, Apple Juice and Fat Free Probiotic Yogurt",320.0
+Shakes And Smoothies,Protein Blast Super Smoothie,1,0,"(350ml) Strawberry, Pineapple, Orange Juice, Fat Free Probiotic Yogurt and Protein Booster",330.0
+Shakes And Smoothies,Skin Glow Super Smoothie,1,0,"(350ml) Carrot, Mango, Orange Juice, Fat Free Probiotic Yogurt",310.0
+Shakes And Smoothies,Banana Bliss Smoothie,1,0,"(350ml) Banana, Honey, Milk and Fat Free Probiotic Yogurt",260.0
+Shakes And Smoothies,Banapple Smoothie,1,0,"(350ml) Banana, Apple, Apple Juice and Fat Free Probiotic Yogurt",250.0
+Shakes And Smoothies,Big Punch Smoothie,1,0,"(350ml) Kiwi, Mango, Pineapple, Apple Juice and Fat Free Probiotic Yogurt",340.0
+Shakes And Smoothies,Bunny Mix Smoothie,1,0,"(350ml) Carrot, Strawberry, Orange Juice and Fat Free Probiotic Yogurt",250.0
+Shakes And Smoothies,Guava Goodness Smoothie,1,0,"(350ml) Guava, Guava Juice and Fat Free Probiotic Yogurt",280.0
+Shakes And Smoothies,Happy Appy Smoothie,1,0,"(350ml) Apple, Strawberry, Apple Juice, Guava Juice and Fat Free Probiotic Yogurt",250.0
+Shakes And Smoothies,Krazy Kiwi Smoothie,1,0,"(350ml) Kiwi, Blueberry, Apple Juice and Fat Free Probiotic Yogurt",290.0
+Shakes And Smoothies,Mango Madness Smoothie,1,0,"(350ml) Mango, Orange Juice and Fat Free Probiotic Yogurt",330.0
+Shakes And Smoothies,Pineapple Pleasure Smoothie,1,0,"(350ml) Pineapple, Pineapple Juice and Fat Free Probiotic Yogurt",260.0
+Shakes And Smoothies,Raspberry Rush Smoothie,1,0,"(350ml) Raspberry, Mango, Ornage Juice and Fat Free Probiotic Yougurt",340.0
+Shakes And Smoothies,Strawberry Slush Smoothie,1,0,"(350ml) Strawberry, Orange Juice and Fat Free Probiotic Yogurt",300.0
+Shakes And Smoothies,Tropical Passion Smoothie,1,0,"(350ml) Kiwi, Pineapple, Orange Juice and Fat Free Probiotic Yogurt",260.0
+Shakes And Smoothies,Biscoff Shake,1,0,,310.0
+Shakes And Smoothies,Bounty Shake,1,0,,270.0
+Shakes And Smoothies,Brownie Shake,1,0,,290.0
+Shakes And Smoothies,Ferrero Rocher Shake,1,0,,370.0
+Shakes And Smoothies,Irish Coffee Cream Shake,1,0,,320.0
+Shakes And Smoothies,Kitkat Shake,1,0,,280.0
+Shakes And Smoothies,Nutella Brownie Shake,1,0,,380.0
+Shakes And Smoothies,Nutella Shake,1,0,,340.0
+Shakes And Smoothies,Oreo Cookie Shake,1,0,,280.0
+Shakes And Smoothies,Peanut Butter Nutella Shake,1,0,,300.0
+Shakes And Smoothies,Peanut Butter Oreo Shake,1,0,,270.0
+Shakes And Smoothies,Royal Belgiam Shake,1,0,,350.0
+Shakes And Smoothies,Snicker Shake,1,0,,270.0
+Shakes And Smoothies,Acv Tonics,1,0,"Apple Cider Vinegar, Ginger. Basil, Lemon and Honey",210.0
+Shakes And Smoothies,Beautify Tonics,1,0,"Beetroot, Apple, Carrot and Lemon",170.0
+Shakes And Smoothies,Energize Tonics,1,0,"Apple, Carrot and Ginger",200.0
+Shakes And Smoothies,Imunize Tonics,1,0,"Turmeric, Ginger, Lemon and Pepper",170.0
+Shakes And Smoothies,Purify Tonics,1,0,"Apple, Carrot, Celery, Ginger, Strawberries and Raspberries",220.0

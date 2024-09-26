@@ -1,0 +1,114 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Desserts,Special Rose Falooda,1,0,,99.0
+Desserts,Special Strawberry Falooda,1,0,,99.0
+Desserts,Special Butterscotch Falooda,1,0,,99.0
+Desserts,Special Pineapple Falooda,1,0,,99.0
+Desserts,Special Mango Falooda,1,0,Seviya Sabja milk 4-ice Cream Design frinkles mango syrup creamy.,99.0
+Desserts,Special Kesar Falooda,1,0,,119.0
+Desserts,Special Rajbhog Falooda,1,0,,129.0
+Desserts,Special Chocolate Falooda,1,0,,129.0
+Desserts,Special Pista Falooda,1,0,,129.0
+Desserts,Special Rabdi Falooda,1,0,,149.0
+Desserts,Special Kulfi Falooda,1,0,,149.0
+Desserts,Special Paan Falooda,1,0,,149.0
+Desserts,Special Badam Anjeer Falooda,1,0,,149.0
+Desserts,Special Fruit Punch Falooda,1,0,"Fruits & dry fruits mixed, seveya, sabja, milk and  ice cream [4 scoops].",199.0
+Desserts,Special American Falooda,1,0,,199.0
+Desserts,Special Rajwadi 3 Star Falooda,1,0,,199.0
+Desserts,Special Royal Falooda,1,0,,249.0
+Desserts,Special Mexican Falooda,1,0,,249.0
+Desserts,Special Bholenath Falooda,1,0,,299.0
+Drinks (Beverages),Hazelnut Thick Shake,1,0,,149.0
+Drinks (Beverages),Cookies Twist Thick Shake,1,0,,149.0
+Drinks (Beverages),Rosy Rose Thick Shake,1,0,,149.0
+Drinks (Beverages),Mango Melody Thick Shake,1,0,,149.0
+Drinks (Beverages),Ferrero Rocher Thick Shake,1,0,,199.0
+Drinks (Beverages),Jim Jam Thick Shake,1,0,,199.0
+Drinks (Beverages),Almond Thick Shake,1,0,,249.0
+Drinks (Beverages),Pina Colada Thick Shake,1,0,,249.0
+Drinks (Beverages),Mixed Fruit Thick Shake,1,0,,249.0
+Drinks (Beverages),Brownie Thick Shake,1,0,,249.0
+Drinks (Beverages),Cad B Thick Shake,1,0,,299.0
+Drinks (Beverages),Mixed Dry Fruit Thick Shake,1,0,,349.0
+Drinks (Beverages),Double Chocolate Thick Shake,1,0,,349.0
+Drinks (Beverages),American Thick Shake,1,0,,399.0
+Drinks (Beverages),Pineapple Thick Shake,1,0,Full creamy pineapple syrup or design sprinkles.,99.0
+Drinks (Beverages),KitKat Thick Shake [300 ml],1,0,KitKat chocolate ice cream design sprinkles.,169.0
+Drinks (Beverages),Strawberry Thick Shake [300 ml],1,0,Strawberry ice cream with jelly cherry or design sprinkles.,100.0
+Drinks (Beverages),Oreo Thick Shake [300 ml],1,0,"Oreo biscuit ice cream, nutella chocolate, cadburry or design sprinkles.",149.0
+Drinks (Beverages),Kaju Lassi,1,0,,70.0
+Drinks (Beverages),Rose Lassi,1,0,,60.0
+Drinks (Beverages),Mango Lassi,1,0,,60.0
+Drinks (Beverages),Kesar Lassi,1,0,,80.0
+Drinks (Beverages),Chocolate Lassi,1,0,,80.0
+Drinks (Beverages),Rajbhog Lassi,1,0,,100.0
+Drinks (Beverages),Special Rajwadi Lassi,1,0,,120.0
+Drinks (Beverages),Special American Lassi,1,0,,120.0
+Drinks (Beverages),Strawberry Lassi,1,0,,100.0
+Drinks (Beverages),Pineapple Lassi,1,0,,100.0
+Drinks (Beverages),Dry Fruit Rabdi Lassi,1,0,,150.0
+Drinks (Beverages),Fruit Punch Lassi,1,0,,150.0
+Drinks (Beverages),Paan Lassi,1,0,,120.0
+Drinks (Beverages),Rabdi Lassi,1,0,,150.0
+Drinks (Beverages),Pina Colada Lassi,1,0,,200.0
+Drinks (Beverages),Shahi Lassi,1,0,,200.0
+Drinks (Beverages),Maharaja Lassi,1,0,,200.0
+Drinks (Beverages),Mango Milkshake,1,0,,49.0
+Drinks (Beverages),Kaju Mango Milkshake,1,0,,69.0
+Drinks (Beverages),Kaju Badam Milkshake,1,0,,99.0
+Drinks (Beverages),Chikoo Milkshake,1,0,,49.0
+Drinks (Beverages),Chikoo Chocolate Milkshake,1,0,,59.0
+Drinks (Beverages),Kaju Chikoo Chocolate Milkshake,1,0,,69.0
+Drinks (Beverages),Gulkand Milkshake,1,0,,59.0
+Drinks (Beverages),Kaju Gulkand Milkshake,1,0,,79.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,49.0
+Drinks (Beverages),Rose Milkshake,1,0,,49.0
+Drinks (Beverages),Kesar Milkshake,1,0,,79.0
+Drinks (Beverages),Pineapple Milkshake,1,0,,79.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,99.0
+Drinks (Beverages),Dry Fruit Milkshake,1,0,"Best for fast. Milk khajur draksh, badam, pista, kaju, apple, annar, banana and ... read more",149.0
+Drinks (Beverages),Oreo Milkshake,1,0,"Oreo, vanilla ice cream, chocolate syrup, Cadbury and milk cream clinkers.",119.0
+Drinks (Beverages),KitKat Milkshake,1,0,,129.0
+Drinks (Beverages),Mixed Fruit Milkshake,1,0,,149.0
+Drinks (Beverages),Cookies Cream Milkshake,1,0,,149.0
+Drinks (Beverages),Banana Milkshake,1,0,,99.0
+Drinks (Beverages),Butterscotch Milkshake,1,0,,101.0
+Drinks (Beverages),Kaju Anjeer Milk Shake [300 ml],1,0,Kaju with sugar vanilla ice cream & milk.,120.0
+Drinks (Beverages),Vanilla Milkshake [300 ml],1,0,Vanilla cream & design sprinkles.,45.0
+Ice Creams,Gulab Ice Cream,1,0,Gulab gulkand milk & cream,55.0
+Ice Creams,American Dry Fruit Ice Cream,1,0,"Badam, kaju, pista, gulkand, jelly, milk cream, chocolate ingredients.",55.0
+Ice Creams,Chocolate Chips Ice Cream,1,0,Milk chocolate cream chips.,55.0
+Ice Creams,Afghani Dry Fruit Ice Cream,1,0,Badam and kaju flavors milk cream.,55.0
+Ice Creams,Kaju Anjeer Ice Cream,1,0,Milk anjeer kaju cream.,55.0
+Ice Creams,Kaju Draksh Ice Cream,1,0,Best for fast. Milk cream kaju draksh.,55.0
+Ice Creams,Special Bombay Ice Cream,1,0,"Badam, pista, kaju, gulkand, jelly spinkles and milk cream.",59.0
+Ice Creams,Mava Malai Ice Cream,1,0,Green flavors mava milk cream.,55.0
+Ice Creams,Rajbhog Ice Cream,1,0,"Best for fast. Kesar, badam, kaju and pista milk cream.",55.0
+Ice Creams,Special Raja Rani Ice Cream,1,0,All dry fruit mixed cream milk.,59.0
+Special Shakes,Badam Shake,1,0,Badam and mava milk.,70.0
+Special Shakes,Fruit Salad Shake,1,0,"Milk, anar, apple, banana and angur.",60.0
+Special Shakes,Cold Coco Milkshake [250 ml],1,0,,59.0
+Special Shakes,Cadbury Cold Coco Milkshake [250 ml],1,0,,69.0
+Special Shakes,Kaju Cold Coco Milkshake,1,0,,79.0
+Special Shakes,Special Dry Fruit Cold Coco Milkshake,1,0,,99.0
+Topping ice+cream,Traffic Jam Sundae,1,0,Tops ice+cream For All Family Member,149.0
+Topping ice+cream,Special Biscoff Topping Ice Cream,1,0,,249.0
+Topping ice+cream,Special Strawberry Topping Ice Cream,1,0,,119.0
+Topping ice+cream,Special Mango Topping Ice Cream,1,0,,119.0
+Topping ice+cream,Special Chocolate Topping Ice Cream,1,0,,119.0
+Topping ice+cream,Special Delight Topping Ice Cream,1,0,,299.0
+Topping ice+cream,Special Dulles Topping Ice Cream,1,0,,349.0
+Kulfi,Mava Malai Kulfi,1,0,,15.0
+Kulfi,Kesar Pista Kulfi,1,0,,25.0
+Kulfi,Bombay Kulfi,1,0,,30.0
+Kulfi,Shahi Kulfi,1,0,,30.0
+Kulfi,Rasgulla Kulfi,1,0,,25.0
+Kulfi,Dry Fruit Kulfi,1,0,,50.0
+Kulfi,Rajbhog Kulfi,1,0,,35.0
+Combos,Cold Coco Lassi [1 Liter],1,0,,199.0
+Combos,Creamy Lassi [1 Liter],1,0,Creamy lassi.,199.0
+Combos,Mango Lassi [1 Liter],1,0,Mango lassi.,220.0
+Combos,Rose Lassi [1 Liter],1,0,,230.0
+Combos,Strawberry Lassi [1 Liter],1,0,,230.0
+Combos,Chocolate Lassi [1 Liter],1,0,,250.0
+Combos,Kesar Lassi [1 Liter],1,0,,280.0

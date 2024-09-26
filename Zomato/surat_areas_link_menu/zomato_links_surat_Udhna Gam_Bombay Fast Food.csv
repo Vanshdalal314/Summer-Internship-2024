@@ -1,0 +1,15 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Vada Pav,Sada Vada Pav,1,0,,30.0
+Vada Pav,Butter Vada Pav,1,0,,35.0
+Vada Pav,Mayonnaise Vada Pav,1,0,,40.0
+Vada Pav,Schezwan Vada Pav,1,0,,40.0
+Vada Pav,Cheese Vada Pav,1,0,,45.0
+Vada Pav,Mixed Cheese Vada Pav,1,0,,50.0
+Bread Pakoda,Bread Pakoda,1,0,,35.0
+Bread Pakoda,Cheese Bread Pakoda,1,0,,50.0
+Frankies,Veg Frankie,1,0,,45.0
+Frankies,Veg Cheese Frankie,1,0,,60.0
+Frankies,Schezwan Cheese Frankie,1,0,,60.0
+Frankies,Mayonnaise Cheese Frankie,1,0,,60.0
+Frankies,Cheese Cocktail Frankie,1,0,,75.0
+Frankies,Mayonnaise Schezwan Cheese Frankie,1,0,,80.0

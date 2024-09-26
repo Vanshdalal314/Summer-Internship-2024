@@ -1,0 +1,13 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Samosa,Dal Kanda Pudina Samosa,1,0,,200.0
+Samosa,Dal Pudina Jain Samosa,1,0,,200.0
+Samosa,Chinese Samosa,1,0,,220.0
+Samosa,Dal Cheese Samosa,1,0,,320.0
+Samosa,Cheese Paneer Samosa,1,0,,410.0
+Zomato Exclusive Combos,Dal Kanda Pudina Samosa + Chinese Samosa,1,0,200 Grams each,168.0
+Zomato Exclusive Combos,Dal Kanda Pudina Samosa + Cheese Paneer Samosa,1,0,200 Grams each,244.0
+Zomato Exclusive Combos,Dal Kanda Pudina Samosa + Cheese Dal Samosa,1,0,200 Grams each,208.0
+Zomato Exclusive Combos,Chinese Samosa + Cheese Paneer Samosa,1,0,200 Grams each,252.0
+Zomato Exclusive Combos,Chinese Samosa + Cheese Dal Samosa,1,0,200 Grams each,216.0
+Zomato Exclusive Combos,Cheese Paneer Samosa + Cheese Dal Samosa,1,0,200 Grams each,292.0
+Zomato Exclusive Combos,Dal Pudina Samosa + Cheese Dal Samosa [Jain],1,0,200 Grams each [Jain],208.0

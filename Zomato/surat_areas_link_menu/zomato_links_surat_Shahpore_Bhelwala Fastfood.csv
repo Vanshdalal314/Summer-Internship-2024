@@ -1,0 +1,120 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Veg Manchurian Dry,1,0,,130.0
+Starters,Paneer Manchurian,1,0,,150.0
+Starters,Chilli Paneer Dry,1,0,,180.0
+Starters,Lemon Chilli Paneer,1,0,,210.0
+Main Course,Veg Manchurian Gravy,1,0,,120.0
+Main Course,Chilli Paneer Gravy,1,0,,160.0
+Rice,Jeera Rice,1,0,,100.0
+Rice,Cheese Paneer Rice,1,0,,180.0
+South Indian,Onion Uttapam,1,0,,115.0
+South Indian,Tomato Uttapam,1,0,,115.0
+South Indian,Mixed Uttapam,1,0,,120.0
+South Indian,Butter Mixed Uttapam,1,0,,130.0
+South Indian,Masala Uttapam,1,0,,130.0
+South Indian,Idli Sambar,1,0,,75.0
+South Indian,Plain Dosa,1,0,,70.0
+South Indian,Butter Plain Dosa,1,0,,80.0
+South Indian,Masala Dosa,1,0,,95.0
+South Indian,Butter Masala Dosa,1,0,,110.0
+South Indian,Mysore Masala Dosa,1,0,,100.0
+South Indian,Butter Mysore Masala Dosa,1,0,,110.0
+South Indian,Paper Masala Dosa,1,0,,215.0
+South Indian,Paper Saada Dosa,1,0,,175.0
+South Indian,Rava Plain Dosa,1,0,,80.0
+South Indian,Rava Masala Dosa,1,0,,100.0
+South Indian,Butter Rava Masala Dosa,1,0,,110.0
+South Indian,Cheese Palak Dosa,1,0,,140.0
+South Indian,Chinese Dosa,1,0,,130.0
+South Indian,Italian Dosa,1,0,,140.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,160.0
+Fried Rice and Noodles,Paneer Schezwan Fried Rice,1,0,,170.0
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Hong Kong Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Triple Schezwan Fried Rice,1,0,,180.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,135.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,120.0
+Fried Rice and Noodles,Hong Kong Noodles,1,0,,120.0
+Fried Rice and Noodles,Veg Schezwan Hakka Noodles,1,0,,140.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,120.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,,135.0
+Pizza,Peri Peri Pizza,1,0,[3 Layered Grilled Sandwich],140.0
+Pizza,Peri Peri Paneer Tikka Pizza,1,0,[3 Layered Grilled Sandwich],190.0
+Pizza,Plain Cheese Pizza [6 inches],1,0,,125.0
+Pizza,Onion Capsicum Pizza [6 inches],1,0,,120.0
+Pizza,Onion Tomato Capsicum Cheese Pizza [6 inches],1,0,,120.0
+Pizza,Onion Tomato Mushroom Pizza [6 inches],1,0,,130.0
+Pizza,Mushroom Pizza [6 inches],1,0,,135.0
+Pizza,Pineapple Pizza [6 inches],1,0,,125.0
+Pizza,Corn Capsicum Pizza [6 inches],1,0,,135.0
+Pizza,Italian Pizza [6 inches],1,0,,135.0
+Pizza,Chilli Paneer Pizza [6 inches],1,0,,185.0
+Pizza,Paneer Schezwan Pizza [6 inches],1,0,,175.0
+Pizza,Paneer Tikka Pizza [6 inches],1,0,,180.0
+Pizza,Chilli Cheese with Garlic Pizza [6 inches],1,0,,145.0
+Pizza,Three In One Pizza [6 inches],1,0,,155.0
+Pizza,All In One Pizza [6 inches],1,0,,170.0
+Pizza,Special Stuffed Pizza [6 inches],1,0,,210.0
+Burgers and Sandwiches,Peri Peri Cheese Burger,1,0,[3 Layered Grilled Sandwich],120.0
+Burgers and Sandwiches,Veg Burger,1,0,,90.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,110.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,70.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,95.0
+Burgers and Sandwiches,Veg Toast Sandwich,1,0,,85.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,100.0
+Burgers and Sandwiches,Plain Cheese Sandwich,1,0,,75.0
+Burgers and Sandwiches,Plain Cheese Toast Sandwich,1,0,,75.0
+Burgers and Sandwiches,Paneer Tikka Toast Sandwich,1,0,,125.0
+Burgers and Sandwiches,Cheese Grilled Sandwich,1,0,[3 Layered Grilled Sandwich],130.0
+Burgers and Sandwiches,Mushroom Grilled Sandwich,1,0,[3 Layered Grilled Sandwich],140.0
+Burgers and Sandwiches,Italian Grilled Sandwich,1,0,[3 Layered Grilled Sandwich],150.0
+Burgers and Sandwiches,Paneer Tikka Grilled Sandwich,1,0,[3 Layered Grilled Sandwich],170.0
+Burgers and Sandwiches,Chilli Paneer Grilled Sandwich,1,0,[3 Layered Grilled Sandwich],170.0
+Burgers and Sandwiches,Peri Peri Grilled Sandwich,1,0,[3 Layered Grilled Sandwich],140.0
+Rolls,Chilli Paneer Roll,1,0,,155.0
+Rolls,Paneer Schezwan Roll,1,0,,155.0
+Rolls,Paneer Tikka Roll,1,0,,155.0
+Frankies,Veg Frankie,1,0,,90.0
+Frankies,Veg Cheese Frankie,1,0,,120.0
+Frankies,Chilli Paneer Frankie,1,0,,130.0
+Frankies,Paneer Schezwan Frankie,1,0,,130.0
+Frankies,Paneer Tikka Frankie,1,0,,130.0
+Frankies,Mushroom Frankie,1,0,,120.0
+Snacks,Bread Butter,1,0,,60.0
+Snacks,Veg Hot Dog,1,0,,100.0
+Snacks,Veg Cheese Hot Dog,1,0,,120.0
+Snacks,Chilli Cheese Garlic Toast,1,0,,110.0
+Snacks,Garlic Bread,1,0,,110.0
+Snacks,Veg Chinese Bhel,1,0,,130.0
+Snacks,Veg Singapuri Bhel,1,0,,130.0
+Snacks,Pav Bhaji,1,0,,120.0
+Snacks,Butter Pav Bhaji,1,0,,130.0
+Snacks,Cheese Pav Bhaji,1,0,,160.0
+Snacks,Chole Bhature,1,0,,130.0
+Snacks,Special Bhel,1,0,,60.0
+Snacks,Sukhi Bhel,1,0,,60.0
+Snacks,Dahi Poori,1,0,,65.0
+Snacks,Dahi Bataka Poori,1,0,,75.0
+Snacks,Sev Masala Poori,1,0,,70.0
+Snacks,Dahi Kachodi,1,0,,75.0
+Snacks,Dahi Vada,1,0,,90.0
+Snacks,Dahi Boondi,1,0,,80.0
+Snacks,Dahi Idli,1,0,,100.0
+Snacks,Sev Dahi Aloo Chaat,1,0,,90.0
+Snacks,Papdi Chaat,1,0,,80.0
+Snacks,Sev Bataka Poori,1,0,,70.0
+Snacks,Cheese Bhel,1,0,,95.0
+Snacks,Cheese Dahi Bataka Poori,1,0,,100.0
+Snacks,Cheese Papdi Chaat,1,0,,110.0
+Snacks,Cheese Dahi Kachodi,1,0,,110.0
+Snacks,Kachori Chaat,1,0,,90.0
+Snacks,Cheese Kachodi Chaat,1,0,,110.0
+Snacks,Bhel Kachodi Chaat,1,0,,100.0
+Snacks,Cheese Bhel Kachodi,1,0,,110.0
+Snacks,Bhel Kachodi,1,0,,80.0
+Snacks,Veg Cutlet,1,0,,90.0
+Snacks,Veg Cheese Cutlet,1,0,,110.0
+Drinks (Beverages),Special Coco,1,0,,60.0
+Drinks (Beverages),Special Lassi,1,0,,60.0

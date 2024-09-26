@@ -1,0 +1,11 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sev Usal,Sev Usal,1,0,"Served with 2 pav, bhajiya vatana, rasa, sev gathiya, tari and spicy taste.",109.0
+Sev Usal,5 Pav,1,0,Soft pav.,35.0
+Mahajan Special Combos,Sev Usal with 4 Pav,1,0,,124.0
+Mahajan Special Combos,Sev Usal with 5 Pav,1,0,,129.0
+Farsan,Spicy Tari,1,0,,20.0
+Farsan,Sev Gathiya,1,0,,30.0
+Farsan,Masala Chass,1,0,,20.0
+Farsan,Rasa,1,0,,59.0
+Farsan,Onion & Lemon Salad,1,0,,20.0
+Farsan,2 Pav,1,0,,15.0

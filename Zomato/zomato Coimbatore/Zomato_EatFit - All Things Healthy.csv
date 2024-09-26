@@ -1,0 +1,119 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Large Order Combo,Paratha Thali (Meal for 4),1,0,"Palak Paneer, Dal Makhani, Parathas Thali+Yellow Dal Tadka, Bhindi Chana, Paratha Thali-2 of ... read more",668.2
+Biryani,Shahi Subz Biryani (500gm),1,0,Dig into our royal biryani feast made with a medley of spices and ... read more,213.85
+Biryani,Boneless Chicken Biryani (500gm),1,0,Tender boneless chicken pieces cooked in aromatic basmati rice and bhuna spices is ... read more,217.75
+Pasta,Creamy Pesto Pasta,1,0,[Energy- 866kcal | Protein-20g] Durum wheat penne pasta coated in a velvety blend ... read more,201.5
+Pasta,Peri Peri Pasta,1,0,[Energy- 699kcal | Protein-22g] Mouth-watering durum wheat penne pasta tossed in fiery peri ... read more,207.35
+Pasta,Bolognese Penne Pasta (Veg Plant Mutton),1,0,{Veg Preparation} [Energy- 883kcal | Protein-24g] A savoury plant-based twist with meaty plant ... read more,252.2
+Pasta,Hummus with Pita Bread,1,0,"[Energy - 473kcal | Protein - 18g] Classic middle eastern dish, chick pea ... read more",155.35
+Pasta,Greek Salad,1,0,"A Greek based salad with wholesome, nutritious ingredients like cherry tomatoes, colourful bell ... read more",168.35
+Pasta,Creamy Pesto Chicken Pasta,1,0,"""Durum wheat penne pasta coated in a velvety blend of basil pesto sauce, ... read more",233.35
+Pasta,Tomato Basil Chicken Pasta,1,0,Perfectly cooked durum wheat penne tossed in a flavourful blend of fresh and ... read more,239.2
+Pasta,Chicken Peri Peri Pasta,1,0,[Energy- 865kcal | Protein-34g] Mouth-watering durum wheat penne pasta tossed in fiery peri ... read more,278.85
+Pasta,Chicken Penne Bolognese,1,0,"[Energy- 876kcal | Protein-22g] Succulent chicken mince in a rich Bolognese sauce, tossed ... read more",272.35
+Pizza & Garlic Breads,"8"" Farm Fresh Veggie Pizza",1,0,"Multigrain base, onion - capsicum, jalapeno, olives & corn topping and generous spread ... read more",207.35
+Buddha Bowls,Beetroot Hummus Millet Bowl Veg,1,0,"This bowl is a vibrant and nutritious vegetarian delight. With velvety beetroot hummus, ... read more",213.85
+Buddha Bowls,Pesto Hummus Millet Bowl Veg,1,0,"[Energy- 863kcal, Protein-18g] This bowl is a vibrant and nutritious vegetarian delight. With ... read more",213.85
+Buddha Bowls,Beetroot Hummus Buddha Bowl Veg,1,0,"[Energy- 638kcal, Protein-14g] This bowl is a vibrant and nutritious vegetarian delight. With ... read more",207.35
+Buddha Bowls,Beetroot Hummus Chicken Millet Bowl,1,0,"This bowl is a vibrant and nutritious delight. With velvety beetroot hummus, crunchy ... read more",239.85
+Buddha Bowls,Egg Power Pack Meal (Protein - 35g),1,0,"A power-packed meal comprising of wild rice mix, mix bean stew, sliced boiled ... read more",252.85
+Buddha Bowls,Pesto Hummus Chicken Millet Bowl,1,0,"[Energy- 867kcal, Protein-25g] This bowl is a vibrant and nutritious delight. With creamy ... read more",226.85
+Buddha Bowls,Pesto Hummus Buddha Bowl Non-Veg,1,0,"[Energy- 690kcal, Protein-22g] This bowl is a vibrant and nutritious delight. With ... read more",220.35
+Buddha Bowls,Beetroot Hummus Buddha Bowl Non-Veg,1,0,"[Energy- 642kcal, Protein-21g] This bowl is a vibrant and nutritious delight. With velvety ... read more",220.35
+Chinese Fried Rice & Noodle Bowl,Veg Manchurian Hakka Noodles Bowl,1,0,"Chinese stir-fried dish with boiled noodles, sautéed vegetables and soy sauce paired with ... read more",187.2
+Chinese Fried Rice & Noodle Bowl,Chicken Manchurian Hakka Noodles Bowl,1,0,"Chinese stir-fried dish with boiled noodles, sautéed vegetables and soy sauce paired with ... read more",220.35
+Chinese Fried Rice & Noodle Bowl,Chilli Garlic Paneer Hakka Noodles Bowl,1,0,"Chinese stir-fried dish with boiled noodles, sautéed vegetables and soy sauce paired with ... read more",207.35
+Chinese Fried Rice & Noodle Bowl,Chilli Garlic Chicken Hakka Noodles Bowl,1,0,"Chinese stir-fried dish with boiled noodles, sautéed vegetables and soy sauce paired with ... read more",230.75
+Chinese Fried Rice & Noodle Bowl,Chilli Garlic Paneer,1,0,An Indo-Chinese dish with a perfect balance of heat and tang. Soft paneer ... read more,169.0
+Chinese Fried Rice & Noodle Bowl,Chicken Manchurian Gravy,1,0,Crispy juicy chicken balls coated with a flavorful blend of spices and tossed ... read more,182.65
+Chinese Fried Rice & Noodle Bowl,Chilli Garlic Chicken,1,0,An Indo-Chinese dish with a perfect balance of heat and tang. Succulent chicken ... read more,214.5
+3 Layer Rice Bowl,"Yellow Dal Tadka, Soya Masala Sabzi & Jeera Pulao",1,0,"An extremely comforting and nutritious meal - featuring yellow dal tadka, soya chunks ... read more",152.75
+3 Layer Rice Bowl,"Yellow Dal Tadka, Bhindi Chana & Jeera Pulao",1,0,A bowl bursting with the goodness of protein from whole foods! Satisfy your ... read more,152.75
+3 Layer Rice Bowl,"Ghar ke Rajma, Aloo Gobhi & Jeera Pulao",1,0,What’s better than a rice bowl? A rajma rice bowl! Indulge in the ... read more,155.35
+3 Layer Rice Bowl,"Kadhai Paneer, Soya Masala Sabzi & Jeera Pulao",1,0,"A flavourful rice bowl with delicious kadhai paneer, yummy soya masala sabzi and ... read more",168.35
+3 Layer Rice Bowl,"Kadhai Paneer, Bhindi Chana & Jeera Pulao",1,0,"A flavourful rice bowl with delicious kadhai paneer, bhindi chana and aromatic jeera ... read more",178.75
+3 Layer Rice Bowl,"Lasooni Methi Paneer, Soya Masala Sabzi & Jeera Pulao",1,0,"This ain’t just a rice bowl, this is a protein bowl. Garlicky methi ... read more",168.35
+3 Layer Rice Bowl,"Butter Paneer, Aloo Gobhi & Jeera Pulao",1,0,This super bowl brings the best of all worlds together with its wholesome ... read more,178.75
+3 Layer Rice Bowl,"Chole, Bhindi Chana & Millet Pulao",1,0,"A wholesome meal of Chana Masala, Bhindi Chana sabzi and a nutritious mix ... read more",152.75
+3 Layer Rice Bowl,"Palak Paneer, Soya Matar & Millet Pulao",1,0,"A classic dish of fresh spinach puree gravy with paneer cubes, served along ... read more",174.2
+3 Layer Rice Bowl,"Lasooni Methi Paneer, Soya Matar & Millet Pulao",1,0,Tender paneer pieces added into lasooni methi gravy served with soya matar sabzi ... read more,168.35
+3 Layer Rice Bowl,"Lasooni Methi Chicken, Bhindi Chana & Jeera Pulao",1,0,"High protein lasooni methi chicken, served with kala chana bhindi cooked in panchphoran ... read more",181.35
+3 Layer Rice Bowl,"Lasooni Methi Chicken, Soya Masala Sabzi & Jeera Pulao",1,0,"A double protein dhamaaka bowl! Garlicky methi chicken, humble soya masala sabzi and ... read more",184.6
+3 Layer Rice Bowl,"Butter Chicken, Aloo Gobhi & Jeera Pulao",1,0,This super bowl brings the best of all worlds together with its wholesome ... read more,191.75
+3 Layer Rice Bowl,"Kadhai Chicken, Soya Masala Sabzi & Jeera Pulao",1,0,"A flavourful rice bowl with succulent kadhai chicken, yummy soya masala sabzi and ... read more",191.75
+3 Layer Rice Bowl,"Kadhai Chicken, Bhindi Chana & Jeera Pulao",1,0,"A flavourful rice bowl with delicious kadhai chicken, bhindi chana and aromatic jeera ... read more",191.75
+3 Layer Rice Bowl,"Palak Chicken, Soya Matar & Millet pulao",1,0,A classic dish of fresh spinach puree gravy with chicken pieces served along ... read more,187.2
+Indian Thalis,Yellow Dal Tadka Fit Thali,1,0,"A classic home meal with tadka wali dal, aloo gobi adraki, raita and ... read more",171.6
+Indian Thalis,Lasooni Methi Paneer Fit Thali,1,0,"An aromatic, flavoursome lasooni methi gravy tossed with paneer served along with yellow ... read more",200.2
+Indian Thalis,Dal Makhani Fit Thali,1,0,"Delicious dal makhani, bhindi chana served with raita and whole wheat parathas. A ... read more",184.6
+Indian Thalis,Palak Paneer Fit Thali,1,0,"A vibrant, flavourful meal of palak paneer gravy with dal makhani, raita and ... read more",210.6
+Indian Thalis,Butter Paneer Fit Thali,1,0,"A heavy satiating meal featuring popular butter paneer, creamy dal makhani with raita, ... read more",213.2
+Indian Thalis,Kadhai Paneer Fit Thali,1,0,"A vibrant, flavourful meal of kadhai paneer gravy with dal makhani, raita and ... read more",207.35
+Indian Thalis,Palak Chicken Fit Thali,1,0,"A vibrant, flavourful meal of palak chicken gravy with dal makhani, raita and ... read more",220.35
+Indian Thalis,Lasooni Methi Chicken Fit Thali,1,0,"Flavoursome lasooni methi gravy with chicken served with yellow dal tadka, raita soft ... read more",217.75
+Indian Thalis,Butter Chicken Fit Thali,1,0,"A heavy satiating meal featuring popular butter chicken, creamy dal makhani with raita, ... read more",226.2
+Indian Thalis,Kadhai Chicken Fit Thali,1,0,"A mouth watering combination of kadhai chicken, rich dal makhani, with raita and ... read more",220.35
+Indian Thalis,"Yellow Dal Tadka, Bhindi Chana, Paratha Thali",1,0,"Authentic Indian thali that comes with yellow dal tadka, wholesome portion of bhindi ... read more",152.75
+Indian Thalis,"Kadhai Paneer, Yellow Dal Tadka, Paratha Thali",1,0,"Simple yet amazingly flavourful paneer dish made with soft paneer cubes cooked, crispy ... read more",194.35
+Indian Thalis,"Chole, Aloo Gobhi, Paratha Thali",1,0,"Tangy and spicy mix of chana masala paired with roasted potatoes, cauliflower sabzi ... read more",168.35
+Indian Thalis,"Kadhai Paneer, Bhindi Chana, Paratha Thali",1,0,Enjoy scoops of soft whole wheat paratha with flavourful kadhai paneer and bhindi ... read more,194.35
+Indian Thalis,"Kadhai Paneer, Soya Masala Sabzi, Paratha Thali",1,0,A flavourful paratha thali! Enjoy scoops of soft whole wheat paratha with flavourful ... read more,181.35
+Indian Thalis,"Butter Paneer, Dal Makhani, Paratha Thali",1,0,Savour the health of protein with great taste in this thali that includes ... read more,184.6
+Indian Thalis,"Lasooni Methi Paneer, Aloo Gobhi & Paratha Thali",1,0,A flavourful protein thali! Garlicky methi paneer with delicious aloo gobhi and whole ... read more,178.75
+Indian Thalis,"Palak Paneer, Dal Makhani, Parathas Thali",1,0,"A healthy and tasty thali consisting of Palak Paneer, creamy dal makhani and ... read more",181.35
+Indian Thalis,"Dal Makhani, Butter Paneer, Pulao Thali",1,0,"A buttery rice thali delight! Creamy dal makhani, butter paneer and ghee-ful jeera ... read more",174.85
+Indian Thalis,"Matar Paneer, Dal Makhani, Paratha Thali",1,0,Enjoy soft whole wheat parathas with flavourful matar paneer along with rich dal ... read more,197.6
+Indian Thalis,"Masala Egg curry, Yellow Dal Tadka, Paratha Thali",1,0,Want a meal that's nutritious yet light on your stomach? This thali of ... read more,165.75
+Indian Thalis,"Lasooni Methi Chicken, Yellow Dal Tadka, Paratha Thali",1,0,Here's a power packed thali - a combination of high protein dal in ... read more,194.35
+Indian Thalis,"Kadhai Chicken, Bhindi Chana, Paratha Thali",1,0,Paratha thali can't become more flavoursome! Enjoy scoops of soft whole wheat paratha ... read more,200.85
+Indian Thalis,"Kadhai Chicken, Soya Masala Sabzi, Paratha Thali",1,0,A flavourful paratha thali! Enjoy scoops of soft whole wheat paratha with flavourful ... read more,207.35
+Indian Thalis,"Palak Chicken, Dal Makhani, Parathas Thali",1,0,"An absolutely delicious thali combination of Palak Chicken, Dal Makhani and whole wheat ... read more",191.75
+Indian Thalis,"Keema Chicken, Dal Makhani, Paratha Thali",1,0,"Scoop up the spicy, traditional tawa chicken where minced and roasted chicken comes ... read more",200.85
+Indian Thalis,"Butter Chicken, Dal Makhani, Paratha Thali",1,0,"Move over boring dal, sabzi with this Fit thali that comes with soft ... read more",226.2
+Indian Thalis,Palak Paneer Deluxe Thali,1,0,This deluxe paratha thali is sure to satiate your taste buds- Iron rich ... read more,259.35
+Indian Thalis,Butter Paneer Deluxe Thali,1,0,"Grab on this sumptous thali of soft parathas, jeera pulao, butter paneer, dal ... read more",265.2
+Indian Thalis,Kadhai Paneer Deluxe Thali,1,0,This deluxe thali is sure to satiate you with a bonus of amazing ... read more,259.35
+Kulcha Burger,Spicy Dilli Kulcha Burger (Whole Wheat),1,0,"Wheat kulcha burger layered with creamy chole masala, spicy peri peri spread and ... read more",129.35
+Kulcha Burger,Butter Paneer Kulcha Burger (Whole Wheat),1,0,Our Indian touch to a burger - kulcha and butter paneer masala ... read more,165.75
+Kulcha Burger,Veg Keema Kulcha Burger,1,0,"Bite into the soft layers of desi kulcha burger, spread with creamy cheese ... read more",155.35
+Kulcha Burger,Peri-Peri Paneer Kulcha Burger (Whole Wheat),1,0,[Energy - 668Cal | Protein - 29gm] Bite into the flavourful layers of our ... read more,207.35
+Kulcha Burger,Chicken Keema Kulcha Burger (Whole Wheat),1,0,A merge of contemporary style with a desi swag. This soulful kulcha burger ... read more,168.35
+Kulcha Burger,Peri-Peri Chicken Kulcha Burger (Whole Wheat),1,0,[Energy - 577Cal | Protein - 23gm] Bite into the flavourful layers of our ... read more,213.2
+Breakfast and Snacks,Idli-Sambhar with Coconut Chutney (Gluten-Free),1,0,"The perfect breakfast plate, this duo is a hit amongst many and we've ... read more",113.75
+Breakfast and Snacks,Gunpowder Idli with Coconut Chutney (Gluten-Free),1,0,"Delicious soft idlis coated with flavourful dal based podi, ghee along with fresh ... read more",117.0
+Breakfast and Snacks,Chole Kulche,1,0,Thinking of what to eat today? Try out our classic vegan chana masala ... read more,129.35
+Healthy Khichdi,Millet Curd Rice,1,0,[Energy - 419kcal | Protein - 12gm] Tasty and creamy curd rice with the ... read more,117.0
+Healthy Khichdi,Multigrain Khichdi,1,0,"A humble yet fulfilling gruel made with a mix of rice, broken wheat, ... read more",109.85
+Healthy Khichdi,Spicy Rajasthani Dal Papdi Khichdi,1,0,"A North Indian comfort khichdi! Enjoy the classic mix of rice, dal and ... read more",109.85
+Healthy Khichdi,Sabudana Khichdi,1,0,"Subtle and soft sabudana (sago) pearls tossed with curry leaves, chillies and roasted ... read more",108.55
+Healthy Khichdi,Millet Khichdi,1,0,"[Energy - 410Cal | Protein - 14gm] A delicious mix of dal, rice ... read more",122.2
+Healthy Khichdi,Classic Curd Rice,1,0,"Classic creamy curd rice combination tempered with mustard seeds, curry leaves and ginger. ... read more",135.85
+Healthy Khichdi,Quinoa Khichdi,1,0,"Anti-inflammatory and vegan, this yogic bowl of quinoa pumpkin khichdi is a crowd-pleaser. ... read more",142.35
+Healthy Khichdi,Signature Sabudana Khichdi,1,0,A delicious gluten-free meal with a twist of subtle and soft sabudana (sago) ... read more,113.75
+A la Carte,Whole Wheat Kulcha (2pcs),1,0,Enjoy 2 soft whole wheat kulchas as an accompaniment for any meal. Allergen information: ... read more,52.0
+A la Carte,Whole Wheat Parathas (3pcs),1,0,"High in fibre and protein, our whole wheat parathas are the perfect accompaniment ... read more",44.85
+A la Carte,Soya Masala Sabzi (360g),1,0,"Homely and humble soya chunks, onions, tomatoes and peas cooked in homemade spices ... read more",135.2
+A la Carte,Dal Makhani (420g),1,0,Rich and creamy Indian lentil dish made from black urad dal (black gram) ... read more,148.85
+A la Carte,Ghar Ka Rajma (380g),1,0,"An everyday favourite, here's a large and sharing portion of delicious rajma curry. ... read more",148.85
+A la Carte,Kadhai Paneer (380g),1,0,Simple yet amazingly flavourful paneer dish made with soft paneer cubes cooked with ... read more,181.35
+A la Carte,Lasooni Methi Paneer (380g),1,0,Soft paneer pieces cooked in spinach and garlic come with a memorable twist ... read more,195.0
+A la Carte,Matar Paneer (380g),1,0,Enjoy this flavourful matar paneer not only by yourself but also with others. ... read more,200.2
+A la Carte,Butter Paneer (380g),1,0,Savour the goodness of protein that’s simmered to perfection with tomatoes and a ... read more,217.75
+A la Carte,Lasooni Methi Chicken (400g),1,0,Succulent chicken pieces cooked in spinach and garlic comes with a memorable twist ... read more,204.75
+A la Carte,Butter Chicken (400g),1,0,Luscious chicken in rich and creamy masala simmered to perfection in whole spices ... read more,221.0
+A la Carte,Kadhai Chicken (400g),1,0,Simple yet amazingly flavourful chicken dish made with succulent boneless chicken cubes cooked ... read more,226.85
+Desserts & Beverages,Hibiscus Rose Kombucha (200 ml),1,0,A delightful and tangy fermented tea infused with the floral notes of hibiscus ... read more,107.9
+Desserts & Beverages,Berry Basil Kombucha,1,0,"(200ml)A fermented tea infused with a blend of berries and basil, creating a ... read more",109.85
+Desserts & Beverages,Ginger Lemonade Kombucha (200 ml),1,0,A revitalizing brew combining the citrusy tang of lime juice with the spicy ... read more,109.85
+Desserts & Beverages,Tender Coconut Water,1,0,A refreshing natural tender coconut water for the day! This power-packed simple drink ... read more,39.0
+Desserts & Beverages,Classic Masala Chaas,1,0,Grab on the low calorie buttermilk with cooling properties and refresh yourself. Allergen information: ... read more,44.85
+Desserts & Beverages,Mocha Shake,1,0,"Enjoy this mocha shake made with milk, coffee, cocoa powder and sweetened with ... read more",64.35
+Desserts & Beverages,Mixed Fruit (200ml),1,0,"[Energy - 72Cal] 100% Natural fruit juice with mango, pineapple, sugarcane, pomegranate, and ... read more",70.2
+Desserts & Beverages,Peach Ice Tea,1,0,"A delightful blend of brewed tea decoction, peach extract, khandsari sugar, and lime ... read more",51.35
+Desserts & Beverages,Melon Ice Tea,1,0,"Fusion of detoxing tea infused with the refreshing essence of melon, khandsari sugar ... read more",51.35
+Desserts & Beverages,Seviya Kheer,1,0,"Delectable and homely sevaiyan kheer- sweetened with jaggery, can be a perfect ... read more",64.35
+Desserts & Beverages,Badam Kheer (400gm),1,0,"Creamy rich and delicious keer with skimmed milk, rice, sweetened with jaggery and ... read more",100.1
+Desserts & Beverages,Chocolate Nutty Dates Pudding,1,0,"Be ready to go nuts over this delectable combination of chocolate, nuts and ... read more",65.0
+Desserts & Beverages,Badam Kheer,1,0,"Creamy rich and delicious keer with skimmed milk, rice, sweetened with jaggery and ... read more",52.0
+Desserts & Beverages,Mango Pudding,1,0,"A delightful mango dessert made with ripe mango pulp, broken wheat, coconut milk ... read more",91.0
+Desserts & Beverages,Gajar ka Halwa,1,0,"Quintessential Indian dessert made with carrots, milk, khoya, khandasari sugar, ghee and cardamom. ... read more",110.5

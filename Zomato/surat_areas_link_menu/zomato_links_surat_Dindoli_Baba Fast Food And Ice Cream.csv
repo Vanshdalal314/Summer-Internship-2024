@@ -1,0 +1,79 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Manchow Soup,1,0,,99.0
+Soups,Hot and Sour Soup,1,0,,99.0
+Soups,Garlic Ginger Soup,1,0,,99.0
+Soups,Ginger Soup,1,0,,99.0
+Manchurian,Manchurian 65,1,0,,129.0
+Manchurian,Schezwan Manchurian,1,0,,129.0
+Manchurian,Garlic Manchurian,1,0,,119.0
+Manchurian,Ginger Manchurian,1,0,,119.0
+Manchurian,Dry Manchurian,1,0,,109.0
+Manchurian,Manchow Manchurian,1,0,,119.0
+Manchurian,Singapuri Manchurian,1,0,,119.0
+Manchurian,Paneer 65,1,0,,209.0
+Manchurian,Paneer 99,1,0,,249.0
+Manchurian,Paneer Chilli,1,0,,179.0
+Manchurian,Paneer Manchurian,1,0,,139.0
+Manchurian,Paneer Chilli Schezwan,1,0,,179.0
+Manchurian,Paneer Cheese Manchurian,1,0,,189.0
+Manchurian,Paneer Schezwan Manchurian,1,0,,209.0
+Manchurian,Ching Chong Special Chilli,1,0,,269.0
+Manchurian,Veg Cheese Green Chilli,1,0,,269.0
+Main Course,Manchurian Gravy,1,0,,109.0
+Main Course,Schezwan Manchurian Gravy,1,0,,129.0
+Main Course,Garlic Manchurian Gravy,1,0,,129.0
+Main Course,Ginger Manchurian Gravy,1,0,,129.0
+Main Course,Manchow Manchurian Gravy,1,0,,129.0
+Main Course,Singapuri Manchurian Gravy,1,0,,129.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,109.0
+Fried Rice and Noodles,Veg Singapuri Fried Rice,1,0,,119.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,119.0
+Fried Rice and Noodles,Manchow Fried Rice,1,0,,119.0
+Fried Rice and Noodles,Garlic Fried Rice,1,0,,119.0
+Fried Rice and Noodles,Ginger Fried Rice,1,0,,119.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,119.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,,209.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,,109.0
+Fried Rice and Noodles,Veg Noodles,1,0,,119.0
+Fried Rice and Noodles,Hakka Noodles,1,0,,119.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,,119.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,119.0
+Fried Rice and Noodles,Manchow Noodles,1,0,,119.0
+Fried Rice and Noodles,Garlic Noodles,1,0,,129.0
+Fried Rice and Noodles,Ginger Noodles,1,0,,129.0
+Pizza,Margherita Pizza,1,0,,149.0
+Pizza,Veg Bite Pizza,1,0,,209.0
+Pizza,Tandoori Paneer Pizza,1,0,,249.0
+Pizza,American Heat Pizza,1,0,,259.0
+Pizza,Mexican Delight Pizza,1,0,,249.0
+Pizza,7 Cheese Pizza,1,0,,269.0
+Pizza,Spinach Pizza,1,0,,219.0
+Pizza,Spicy Treat Pizza,1,0,,189.0
+Burgers and Sandwiches,Tandoori Burger,1,0,,69.0
+Burgers and Sandwiches,Veg Burger,1,0,,59.0
+Burgers and Sandwiches,Mayonnaise Burger,1,0,,59.0
+Burgers and Sandwiches,Schezwan Burger,1,0,,69.0
+Burgers and Sandwiches,Cheese Burger,1,0,,79.0
+Burgers and Sandwiches,Tandoori Cheese Burger,1,0,,89.0
+Burgers and Sandwiches,Peri Peri Burger,1,0,,69.0
+Burgers and Sandwiches,Paneer Burger,1,0,,69.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,69.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,99.0
+Burgers and Sandwiches,Chocolate Sandwich,1,0,,139.0
+Burgers and Sandwiches,Veg Grilled Sandwich,1,0,,129.0
+Burgers and Sandwiches,Baba Special Sandwich,1,0,[Chef's Special],179.0
+Burgers and Sandwiches,Corn Cheese Grilled Sandwich,1,0,,159.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,159.0
+Burgers and Sandwiches,Tandoori Paneer Grilled Sandwich,1,0,,179.0
+Burgers and Sandwiches,Peri Peri Grilled Sandwich,1,0,,189.0
+Burgers and Sandwiches,Chocolate Grilled Sandwich,1,0,,139.0
+Snacks,Chinese Bhel,1,0,,99.0
+Snacks,Bombay Bhel,1,0,,119.0
+Snacks,Singapuri Bhel,1,0,,119.0
+Snacks,Salted French Fries,1,0,,89.0
+Snacks,Peri Peri French Fries,1,0,,109.0
+Snacks,Cheese French Fries,1,0,,139.0
+Snacks,Cheese Garlic Bread,1,0,,119.0
+Snacks,Onion Cheese Garlic Bread,1,0,,139.0
+Snacks,Corn Chilli Garlic Bread,1,0,,139.0
+Snacks,Paneer Cheese Garlic Bread,1,0,,139.0

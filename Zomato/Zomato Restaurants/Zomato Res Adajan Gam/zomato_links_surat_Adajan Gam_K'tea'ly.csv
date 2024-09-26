@@ -1,0 +1,73 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pasta,Pink Sauce Pasta,1,0,,200.0
+Pasta,White Sauce Pasta,1,0,,200.0
+Pasta,Red Sauce Pasta,1,0,,200.0
+Sandwiches,Paneer Schezwan Sandwich grilled,1,0,,190.0
+Sandwiches,Club Sandwich grilled,1,0,,190.0
+Sandwiches,Maharaja Sandwich grilled,1,0,,300.0
+Sandwiches,Bread Butter Sandwich,1,0,,60.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,70.0
+Sandwiches,Veg Sandwich non grill,1,0,,100.0
+Sandwiches,Veg Cheese Sandwich non grill,1,0,,130.0
+Sandwiches,Nutella Sandwich non grill,1,0,,130.0
+Sandwiches,Veg Mayo Sandwich non grill,1,0,,130.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,150.0
+Sandwiches,Aloo Mixed Herbs Grilled Sandwich,1,0,,150.0
+Sandwiches,chilli Cheese Toast Sandwich,1,0,"A gustatory adventure that embarks on a sensory journey, inviting the curious epicurean ... read more",150.0
+Sandwiches,Mayo Grilled Sandwich,1,0,,150.0
+Sandwiches,Paprika Grilled Sandwich,1,0,,150.0
+Sandwiches,Nutella Grilled Sandwich,1,0,,150.0
+Wraps,Veg Wrap,1,0,Stuffed with grilled paneer and fresh veggies.,200.0
+Wraps,Mexican Wrap,1,0,Stuffed with grilled paneer with spicy Mexican sauce.,200.0
+Maggi,Green Land Maggi,1,0,,140.0
+Maggi,Cup Maggi,1,0,"Multi layered, creamy, served in a cup.",160.0
+Maggi,Meri Maggi,1,0,,80.0
+Maggi,Peri Peri Maggi,1,0,,100.0
+Maggi,Veg Cheese Maggi,1,0,,110.0
+Maggi,Schezwan Maggi,1,0,,110.0
+Maggi,Nachos Maggi,1,0,,120.0
+Maggi,Cheese Corn Maggi,1,0,,120.0
+Snacks,French Fries,1,0,No description required.,140.0
+Snacks,Cheese Nachos,1,0,,200.0
+Snacks,Mayo Pav,1,0,,130.0
+Snacks,Saucy French Fries,1,0,Fries with a mix of delicious cheese and mayo.,200.0
+Snacks,Chilli Cheese Ball,1,0,,150.0
+Snacks,Biscuit Pie,1,0,,140.0
+Drinks (Beverages),Blue Curacao Mojito,1,0,,150.0
+Drinks (Beverages),Mint Mojito,1,0,Classic mint flavoured with lemon squeezed.,150.0
+Drinks (Beverages),Strawberry Mojito,1,0,,150.0
+Drinks (Beverages),Green Apple Mojito,1,0,,150.0
+Drinks (Beverages),Paan Cake Shake,1,0,,200.0
+Drinks (Beverages),Blackcurrant Shake,1,0,Milk shake that drag you to your favourite flavour.,200.0
+Drinks (Beverages),Chocolate Chips Shake,1,0,,200.0
+Drinks (Beverages),Butterscotch Shake,1,0,Vanilla milk shake mixed with butterscotch.,200.0
+Drinks (Beverages),Frappe Shake,1,0,Best of both worlds chocolate and coffee,200.0
+Drinks (Beverages),Zaffran Shake,1,0,Milk with a taste of saffron and nuts.,200.0
+Drinks (Beverages),Rose Love Shake,1,0,,150.0
+Drinks (Beverages),Strawberry Love Shake,1,0,,150.0
+Drinks (Beverages),Chocolate Love Shake,1,0,,150.0
+Drinks (Beverages),Oreo Love Shake,1,0,,150.0
+Drinks (Beverages),KitKat Love Shake,1,0,,150.0
+Drinks (Beverages),Lemon Iced Tea Cooler,1,0,,130.0
+Drinks (Beverages),Peach Iced Tea Cooler,1,0,,130.0
+Drinks (Beverages),Premium Hot Chocolate,1,0,,150.0
+Drinks (Beverages),Mint Hot Chocolate,1,0,,150.0
+Drinks (Beverages),Caramel Hot Chocolate,1,0,,150.0
+Drinks (Beverages),Hazelnut Hot Chocolate,1,0,,150.0
+Drinks (Beverages),Hot Coffee,1,0,,90.0
+Drinks (Beverages),Hot Chocolate,1,0,,90.0
+Drinks (Beverages),Bournvita Milk,1,0,,90.0
+Drinks (Beverages),Masala Milk,1,0,,90.0
+Drinks (Beverages),Cold Coffee,1,0,,150.0
+Drinks (Beverages),Adrak Tea,1,0,,50.0
+Drinks (Beverages),Adrak Elaichi Tea,1,0,,50.0
+Drinks (Beverages),Masala Tea,1,0,,50.0
+Drinks (Beverages),Pudina Tea,1,0,,50.0
+Drinks (Beverages),Zaffran Tea,1,0,,60.0
+Drinks (Beverages),Chocolate Masala Tea,1,0,,80.0
+Drinks (Beverages),Double Zaffran Tea,1,0,,80.0
+Pizza,Margherita Pizza [7 inches],1,0,,160.0
+Pizza,Mexican Pizza [7 inches],1,0,,200.0
+Garlic Bread,Cheese Burst Garlic Bread,1,0,Classic garlic bread with loads of melted cheese.,200.0
+Garlic Bread,Cheese Garlic Bread,1,0,,150.0
+Garlic Bread,Chilli Cheese Garlic Bread,1,0,,160.0

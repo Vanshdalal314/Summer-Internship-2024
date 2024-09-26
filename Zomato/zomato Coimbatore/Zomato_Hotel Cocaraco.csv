@@ -1,0 +1,98 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Chicken Biryani + Pepper Chicken,0,0,,250.0
+Combos,Egg Biriyani + Chicken Fry,0,0,Egg Biriyani + Chicken Fry [Serve for One] [Save 10],220.0
+Combos,Chicken Biryani + Chicken Manchurian,0,0,,250.0
+Combos,Parotta [2 no]+Egg Masala,0,0,,130.0
+Combos,Plain Biryani + Chilly chicken,0,0,,200.0
+Combos,Egg Biryani [1 No] + Pepper Chicken,0,0,,240.0
+Combos,Plain Biryani + Pepper Kadai,0,0,,220.0
+Combos,Chicken Fried Rice + Pepper Chicken,0,0,,260.0
+Combos,Parotta [2 no] + Pepper Chicken Masala,0,0,,170.0
+Combos,Chapati [3 no] + Pepper Chicken Masala,0,0,,200.0
+Combos,Chicken Noodles + Pepper Chicken,0,0,,250.0
+Combos,Chicken Biriyani + Chicken Manchurian,0,0,Chicken Biriyani + Chicken Manchurian [Serve for One] [Save 10],232.0
+Combos,Plain Biriyani + Gobi 65,0,0,Plain Biriyani + Gobi 65 [Serve for One] [Save 10],173.0
+Combos,Veg Fried Rice + Chilli Gobi,0,0,,190.0
+Cocaraco Special,Beef Biryani,0,0,[Chef's Special],130.0
+Cocaraco Special,Beef Chukka,0,0,[Chef's Special],120.0
+Cocaraco Special,Beef Chukka Fry,0,0,,130.0
+Cocaraco Special,Beef Chilli,0,0,[Chef's Special],150.0
+Cocaraco Special,Pepper Beef,0,0,,140.0
+Cocaraco Special,Pepper Beef Masala Boneless,0,0,[Chef's Special],145.0
+Cocaraco Special,Garlic Beef,0,0,,143.0
+Cocaraco Special,Ginger Beef,0,0,,143.0
+Cocaraco Special,Beef 65,0,0,,140.0
+Cocaraco Special,Beef Pallipalayam,0,0,,130.0
+Cocaraco Special,Beef Pallipalayam Masala,0,0,,155.0
+Cocaraco Special,Beef Biryani + Beef Chukka,0,0,,245.0
+Starters,Chilli Chicken,0,0,,130.0
+Starters,Chicken Fry,0,0,,136.0
+Starters,Chicken 65,0,0,,136.0
+Starters,Chicken Manchurian,0,0,,140.0
+Starters,Pepper Chicken,0,0,,140.0
+Starters,Chicken Leg,0,0,,90.0
+Starters,Pepper Leg,0,0,,110.0
+Starters,Kaadai Chilli,0,0,,120.0
+Starters,Pepper Kaadai,0,0,,130.0
+Starters,Kaadai 65,0,0,,130.0
+Starters,Boneless Chilly Fish,0,0,,130.0
+Starters,Boneless Pepper Fish,0,0,,143.0
+Starters,Chilly Prawns,0,0,,155.0
+Starters,Pepper Prawns,0,0,,146.0
+Starters,Chilly Gobi,0,0,,100.0
+Starters,Gobi 65,0,0,,101.0
+Starters,Pepper Gobi,0,0,,120.0
+Starters,Gobi Manchurian,0,0,,120.0
+Starters,Chilly Mushroom,0,0,,94.0
+Starters,Pepper Mushroom,0,0,,105.0
+Starters,Mushroom Manchurian,0,0,,105.0
+Main Course,Chicken Masala,0,0,,130.0
+Main Course,Chettinad Chicken Gravy,0,0,,143.0
+Main Course,Ginger Chicken Gravy,0,0,,154.0
+Main Course,Garlic Chicken,0,0,,154.0
+Main Course,Butter Chicken Gravy,0,0,,155.0
+Main Course,Chicken Pallipalayam,0,0,,155.0
+Main Course,Chicken Pallipalayam Masala,0,0,,155.0
+Main Course,Leg Pepper Masala,0,0,,148.0
+Main Course,Kaadai Masala,0,0,,133.0
+Main Course,Pepper Prawns Masala,0,0,,167.0
+Main Course,Fish Masala,0,0,,138.0
+Main Course,Pepper Gobi Masala,0,0,,95.0
+Main Course,Pepper Mushroom Masala,0,0,,119.0
+Main Course,Mushroom Masala,0,0,,107.0
+Main Course,Green Peas Masala,0,0,,100.0
+Breads,2 Parotta,0,0,,45.0
+Breads,2 Chapati,0,0,,45.0
+Breads,2 Veechu Parotta,0,0,,50.0
+Breads,1 Egg Parotta,0,0,,83.0
+Breads,2 Egg Chappathi,0,0,,60.0
+Breads,2 Egg Veechu Parotta,0,0,,70.0
+Rice and Biryani,Plain Biryani,0,0,,90.0
+Rice and Biryani,Egg Biryani,0,0,,110.0
+Rice and Biryani,Chicken Biryani,0,0,,130.0
+Rice and Biryani,Kaadai Biryani,0,0,,180.0
+Rice and Biryani,Dry Chicken Leg Biriyani,0,0,,155.0
+Fried Rice and Noodles,Veg Fried Rice,0,0,,90.0
+Fried Rice and Noodles,Veg Noodles,0,0,,90.0
+Fried Rice and Noodles,Mushroom Rice,0,0,,119.0
+Fried Rice and Noodles,Mushroom Noodles,0,0,,119.0
+Fried Rice and Noodles,Egg Fried Rice,0,0,,110.0
+Fried Rice and Noodles,Egg Noodles,0,0,,110.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,130.0
+Fried Rice and Noodles,Chicken Noodles,0,0,,130.0
+Fried Rice and Noodles,Mixed Fried Rice,0,0,Egg + prawan + fish + chicken. (Serves 1),150.0
+Fried Rice and Noodles,Beef Fried Rice,0,0,,130.0
+Fried Rice and Noodles,Beef Noodles,0,0,,130.0
+Fried Rice and Noodles,Mixed Noodles,0,0,Egg + prawan + fish + chicken,131.0
+Fried Rice and Noodles,Mushroom Fried Rice,0,0,,130.0
+Fried Rice and Noodles,Gobi Fried Rice,0,0,,120.0
+Eggs,Egg Masala [2 Eggs],0,0,,80.0
+Eggs,Egg Poriyal [2 Eggs],0,0,,55.0
+Eggs,Kalakki [2 eggs],0,0,,45.0
+Eggs,Omlette [2 eggs],0,0,,50.0
+Eggs,Kalakki [2 nos ],0,0,,45.0
+Eggs,Oniyan Kalakki[2 nos ],0,0,,50.0
+Eggs,Boiled Egg[2 nos ],0,0,,25.0
+Party combos,Chicken Fried Rice with Chilli Chicken,0,0,Chicken Fried Rice+Chilli Chicken [Serves 2],260.0
+Party combos,Chicken Fried Rice with Chicken Noodles,0,0,Chicken Fried Rice+Chicken Noodle [Serves 1],260.0
+Party combos,Chicken Fried Rice with Chicken Biryani,0,0,Chicken Fried Rice+Chicken Biryani [Serves 1],260.0

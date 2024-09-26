@@ -1,0 +1,128 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Idli and Vada,Idli Sambar,1,0,2 Pieces,75.0
+Idli and Vada,2 Vada Sambhar,1,0,,85.0
+Idli and Vada,Idli Vada,1,0,2 Pieces,85.0
+Idli and Vada,Batata Vada [2 pcs],1,0,,85.0
+Idli and Vada,Fry Idli,1,0,2 Pieces,105.0
+Idli and Vada,Butter Idli,1,0,2 Pieces,120.0
+Idli and Vada,Dahi Idli,1,0,2 Pieces,125.0
+Idli and Vada,Dahi Vada,1,0,2 Pieces,125.0
+Idli and Vada,Masala Idli,1,0,2 Pieces,130.0
+Dosa,Sada Dosa,1,0,"A thin crispy plain dosa served with sambhar, red garlic chutney & white ... read more",75.0
+Dosa,Upma,1,0,A yummy dish made from upma rava cooked in lots of ghee and ... read more,75.0
+Dosa,Samosa,1,0,2 Pieces,80.0
+Dosa,Butter Sada Dosa,1,0,"A thin crispy butter plain dosa served with sambhar, red garlic chutney & ... read more",105.0
+Dosa,Masala Dosa,1,0,,115.0
+Dosa,Dahi Boondi,1,0,,125.0
+Dosa,Puri Bhaji,1,0,,135.0
+Dosa,Butter Masala Dosa,1,0,,140.0
+Dosa,Veg Pulao,1,0,Aromatic rice tossed in a pan with fresh veggies and spices. Serves 1.,140.0
+Dosa,Mysore Masala Dosa,1,0,,150.0
+Dosa,Jain Mysore Masala Dosa,1,0,,150.0
+Dosa,Butter Mysore Masala Dosa,1,0,,190.0
+Dosa,Butter Jain Mysore Masala Dosa,1,0,,190.0
+Dosa,Nylon Dosa,1,0,| Item can't be modified |,200.0
+Dosa,Paper Sada Dosa,1,0,,450.0
+Dosa,Paper Masala Dosa,1,0,Fermented extra large crepe made from rice batter and stuff with mildly spiced ... read more,500.0
+Dosa,Rava Sada Dosa,1,0,,120.0
+Dosa,Rava Masala Dosa,1,0,A delightfully wholesome combo of mouthwatering set dosa| Item can't be modified |,140.0
+Dosa,Butter Rava Sada Dosa,1,0,"Rava dosa is a south Indian breakfast made with semolina, cumin, ginger, coriander ... read more",145.0
+Dosa,Butter Rava Masala Dosa,1,0,A delightfully wholesome combo of mouthwatering butter rava masala dosa. |Served with delectable ... read more,160.0
+Uttapam,Plain Uttapam,1,0,,90.0
+Uttapam,Butter Plain Uttapam,1,0,,110.0
+Uttapam,Jain Tomato Uttapam,1,0,,125.0
+Uttapam,Onion Uttapam,1,0,"A delightfully wholesome combo with mouthwatering onion uttapam, | Item can't be modified ... read more",130.0
+Uttapam,Mix Uttapam,1,0,,135.0
+Uttapam,Butter Jain Tomato Uttapam,1,0,,140.0
+Uttapam,Butter Mix Uttapam,1,0,,150.0
+Uttapam,Masala Uttapam,1,0,"A delightfully wholesome combo with mouthwatering masala uttapam, served along with sambhar and ... read more",140.0
+Uttapam,Butter Onion Uttapam,1,0,"A delightfully wholesome combo with mouthwatering butter onion uttapam, served along with sambhar ... read more",150.0
+Uttapam,Butter Masala Uttapam,1,0,,160.0
+Uttapam,Coconut Uttapam,1,0,,180.0
+Uttapam,Butter Coconut Uttapam,1,0,,200.0
+Sandwich,Bread Butter,1,0,,50.0
+Sandwich,Bread Butter Jam Sandwich,1,0,,65.0
+Sandwich,Veg Sandwich,1,0,A flavorsome sandwich prepared with two bread slices stuffed with perfectly seasoned mixed ... read more,80.0
+Sandwich,Bread Butter Cheese Sandwich,1,0,,100.0
+Sandwich,Veg Cheese Sandwich,1,0,A non-grilled sandwich stuffed with crunchy vegetables loads of cheese. | Item can't ... read more,110.0
+Sandwich,Bread Butter Cheese Jam Sandwich,1,0,,110.0
+Sandwich,Club Cheese Sandwich,1,0,,130.0
+Sandwich,Bread Butter Toast Sandwich,1,0,,60.0
+Sandwich,Veg Toast Sandwich,1,0,,90.0
+Sandwich,Masala Toast Sandwich,1,0,,90.0
+Sandwich,Bread Butter Cheese Toast Sandwich,1,0,,110.0
+Sandwich,Veg Cheese Toast Sandwich,1,0,,120.0
+Sandwich,Masala Cheese Toast Sandwich,1,0,,120.0
+Sandwich,Mushroom Toast Sandwich,1,0,,120.0
+Sandwich,Mushroom Cheese Toast Sandwich,1,0,,140.0
+Sandwich,Club Cheese Toast Sandwich,1,0,,140.0
+Sandwich,Bombay Grill Sandwich,1,0,,200.0
+Sandwich,Italian Grilled Sandwich,1,0,,200.0
+Sandwich,Mushroom Grilled Sandwich,1,0,,220.0
+Pizza,Pineapple Pizza [6 Inches],1,0,,160.0
+Pizza,Capsicum Pizza [6 Inches],1,0,,160.0
+Pizza,Veg Cheese Pizza [6 Inches],1,0,,175.0
+Pizza,Jain Cheese Pizza [6 Inches],1,0,,175.0
+Pizza,Plain Cheese Pizza [6 Inches],1,0,,175.0
+Pizza,Italian Pizza [6 Inches],1,0,,190.0
+Pizza,Stuffed Pizza [6 Inches],1,0,,200.0
+Pizza,Veg Mushroom Pizza [6 Inches],1,0,,200.0
+Pizza,Special Sainath Pizza [6 Inches],1,0,,220.0
+Chinese,Veg Manchurian Gravy,1,0,,190.0
+Chinese,Veg Manchurian Dry,1,0,,190.0
+Chinese,Idli Chilly,1,0,,190.0
+Chinese,Veg 65 Dry,1,0,,200.0
+Chinese,Chinese Bhel,1,0,,200.0
+Chinese,Singapore Bhel,1,0,,200.0
+Chinese,Bombay Bhel,1,0,,200.0
+Chinese,Veg Lolly Pop,1,0,,210.0
+Chinese,Paneer Manchurian Mix,1,0,,240.0
+Chinese,Paneer Chilly,1,0,,250.0
+Chinese,Paneer 65 Dry,1,0,,250.0
+Chinese,Schezwan Paneer Chilly Dry,1,0,,250.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,190.0
+Fried Rice and Noodles,Singapore Fried Rice,1,0,,190.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,200.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,220.0
+Fried Rice and Noodles,Combination Rice,1,0,,220.0
+Fried Rice and Noodles,American Chopsy,1,0,,220.0
+Fried Rice and Noodles,Mushroom Fried Rice,1,0,,220.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,240.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,180.0
+Fried Rice and Noodles,Veg Singapore Noodles,1,0,,190.0
+Fried Rice and Noodles,Veg Garlic Noodles,1,0,,190.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,200.0
+Soup,Veg Sweet Corn Soup,1,0,,150.0
+Soup,Veg Noodles Soup,1,0,,150.0
+Soup,Manchow Soup,1,0,[Veg preparation],170.0
+Soup,Mushroom Soup,1,0,,180.0
+Burgers,Jain Burger,1,0,,100.0
+Burgers,Veg Cheese Burger,1,0,A cheesy veg burger made with lots of veggies and tasty sauces; served ... read more,110.0
+Burgers,Italian Cheese Burger,1,0,,115.0
+Burgers,Mushroom Burger,1,0,,120.0
+Drinks (Beverages),Lemon Juice,1,0,,60.0
+Drinks (Beverages),Watermelon Juice,1,0,,75.0
+Drinks (Beverages),Mosambi Juice,1,0,,90.0
+Drinks (Beverages),Pineapple Juice,1,0,,90.0
+Drinks (Beverages),Orange Juice,1,0,,90.0
+Drinks (Beverages),Mosambi and Pineapple Juice,1,0,,95.0
+Drinks (Beverages),Butter Milk,1,0,,45.0
+Drinks (Beverages),Lassi,1,0,,90.0
+Drinks (Beverages),Special Lassi,1,0,,120.0
+Milkshakes,Chikku Milkshake,1,0,,75.0
+Milkshakes,Pineapple Milkshake,1,0,,80.0
+Milkshakes,Rose Milkshake,1,0,,80.0
+Milkshakes,Strawberry Milkshake,1,0,,80.0
+Milkshakes,Chocolate Milkshake,1,0,,85.0
+Milkshakes,Mango Milkshake,1,0,,95.0
+Milkshakes,Chikku Chocolate,1,0,,100.0
+Milkshakes,Cold Coffee,1,0,,110.0
+Milkshakes,Gulkand Milkshake,1,0,,110.0
+Milkshakes,Kaju Gulkand,1,0,,140.0
+Milkshakes,Badam Milkshake,1,0,,150.0
+Milkshakes,Kaju Anjeer,1,0,,170.0
+Milkshakes,Kaju Draksh,1,0,,170.0
+Milkshakes,Kaju Chocolate Milkshake,1,0,,170.0
+Milkshakes,Kaju Milkshake,1,0,,180.0
+Milkshakes,Kaju Badam,1,0,,180.0
+Milkshakes,Dry Fruit Milkshake,1,0,,200.0

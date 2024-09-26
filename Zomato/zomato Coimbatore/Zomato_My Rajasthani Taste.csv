@@ -1,0 +1,77 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Aloo Fry,1,0,,85.0
+Starters,Aloo Gobi,1,0,,70.0
+Starters,Gobi Masala,1,0,,70.0
+Starters,Soya Fry,1,0,,60.0
+Starters,Onion Fry,1,0,,65.0
+Main Course,Veg Kolhapuri,1,0,,85.0
+Main Course,Paneer Masala,1,0,,165.0
+Main Course,Paneer Tikka Masala,1,0,,180.0
+Main Course,Kadai Paneer,1,0,,180.0
+Main Course,Shahi Paneer,1,0,,180.0
+Main Course,Palak Paneer,1,0,,130.0
+Main Course,Matar Paneer,1,0,,135.0
+Main Course,Kaju Masala,1,0,,285.0
+Main Course,Aloo Palak,1,0,,95.0
+Main Course,Matar Palak,1,0,,95.0
+Main Course,Tawa Paneer,1,0,,240.0
+Main Course,Paneer Bhurji,1,0,,230.0
+Main Course,Dal Fry,1,0,,70.0
+Main Course,Dal Butter Fry,1,0,,85.0
+Main Course,Gobi Shimla,1,0,,95.0
+Main Course,Gobi Matar,1,0,,90.0
+Main Course,Chana Masala,1,0,,85.0
+Main Course,Bhindi Masala,1,0,,90.0
+Main Course,Mushroom Masala,1,0,,120.0
+Main Course,Soya Masala,1,0,,85.0
+Main Course,Matar Masala,1,0,,90.0
+Main Course,Papad Subji,1,0,,85.0
+Main Course,Aloo Tomato,1,0,,80.0
+Main Course,Onion Tomato,1,0,,85.0
+Main Course,Curd Fry,1,0,,85.0
+Main Course,Aloo Matar,1,0,,65.0
+Main Course,Sev Tamatar,1,0,,85.0
+Breads,Tandoori Roti,1,0,,40.0
+Breads,Butter Roti,1,0,,49.0
+Breads,Butter Naan,1,0,,52.0
+Breads,Plain Naan,1,0,,45.0
+Breads,Garlic Naan,1,0,,90.0
+Breads,Aloo Kulcha,1,0,,70.0
+Breads,Onion Kulcha,1,0,,70.0
+Breads,Masala Kulcha,1,0,,90.0
+Breads,Paneer Kulcha,1,0,,90.0
+Breads,Plain Kulcha,1,0,,45.0
+Breads,Butter Kulcha,1,0,,49.0
+Breads,Phulka Roti,1,0,,20.0
+Breads,Butter Phulka Roti,1,0,,28.0
+Breads,Aloo Paratha,1,0,,85.0
+Breads,Onion Paratha,1,0,,85.0
+Breads,Gobi Paratha,1,0,,85.0
+Breads,Aloo Gobi Paratha,1,0,,85.0
+Breads,Paneer Paratha,1,0,,115.0
+Breads,Plain Paratha,1,0,,45.0
+Breads,Aloo Pyaz Paratha,1,0,,85.0
+Rice,Plain Rice,1,0,,50.0
+Rice,Dal Rice,1,0,,85.0
+Rice,Lemon Rice,1,0,,80.0
+Rice,Jeera Rice,1,0,,80.0
+Rice,Punjabi Rice,1,0,,90.0
+Rice,Curd Rice,1,0,,85.0
+Rice,Masala Rice,1,0,,90.0
+Rice,Paneer Rice,1,0,,100.0
+Fried Rice,Veg Fried Rice,1,0,,90.0
+Accompaniments,Masala Papad,1,0,,65.0
+Accompaniments,Papad Churi,1,0,,69.0
+Accompaniments,Roasted Papad,1,0,,30.0
+Accompaniments,Tomato Fry Raitha,1,0,,80.0
+Accompaniments,Curd,1,0,,35.0
+Drinks (Beverages),Lassi,1,0,,40.0
+Drinks (Beverages),Butter Milk,1,0,,35.0
+Drinks (Beverages),Rose Milk,1,0,,45.0
+Combos,Combo 1,1,0,Dal+1 Rice+2 Phulka Roti+Aloo Fry [1 Piece] [Subject to Availability],225.0
+Combos,Combo 2,1,0,4 Phulka Roti+1 Dal Fry,149.0
+Combos,Combo 3,1,0,2 Butter Naan+1 Kadhai Paneer,290.0
+Combos,Combo 4,1,0,2 Tandoori Roti+1 Sev Tomato,199.0
+Combos,Combo 5,1,0,2 Plain Paratha+1 Chana Masala,190.0
+Combos,Combo 6,1,0,1 Aloo Paratha+1 Dahi Masala,140.0
+Combos,Combo 7,1,0,2 Butter Naan+2 Butter Roti+1 Masala Rice+5 Phulka Roti+1 Dal Tadka+1 Kadhai Paneer+1 ... read more,785.0

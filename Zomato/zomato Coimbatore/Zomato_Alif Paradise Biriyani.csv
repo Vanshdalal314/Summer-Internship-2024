@@ -1,0 +1,37 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Gilma Biryani with Lollipop [Serves 1],0,0,Gilma Biryani+Lollipop,289.0
+Combos,Veg Noodles with Mushroom Manchurian [Serves 1],0,0,Veg Noodles+Mushroom Manchurian,259.0
+Combos,Chicken Biryani with Chicken 65 [Serves 1],0,0,Chicken Biryani+Chicken 65,289.0
+Combos,Beef Biryani with Beef Chukka [Serves 1],0,0,Beef Biryani+Beef Chukka,289.0
+Combos,Chicken Biryani with Pepper Chicken [Serves 1],0,0,Chicken Biryani+Pepper Chicken,289.0
+Combos,Gilma Biryani with Pepper Chicken [Serves 1],0,0,Gilma Biryani+Pepper Chicken,289.0
+Combos,3 Parotta with Chicken Manchurian,0,0,3 Parotta+Chicken Manchurian,269.0
+Combos,Chicken Fried Rice with Pepper Chicken,0,0,Chicken Fried Rice+Pepper Chicken,289.0
+Combos,Curd Rice with Andhra Chicken,0,0,Curd Rice+Andhra Chicken,249.0
+Starters,Gobi Chilli,0,0,,199.0
+Starters,Mushroom Manchurian Dry,0,0,,216.0
+Starters,Gobi Manchurian Dry,0,0,,229.0
+Starters,Paneer Chilli,0,0,,189.0
+Starters,Paneer Manchurian,0,0,,259.0
+Starters,Beef Chilli [8 Pieces],0,0,,259.0
+Starters,Garlic Beef [Serves 2],0,0,,279.0
+Starters,Kerala Beef Dry,0,0,,259.0
+Starters,Beef Manchurian Dry,0,0,,249.0
+Starters,Beef Sukka,0,0,,249.0
+Starters,Chicken Chops [Serves 2],0,0,,279.0
+Starters,Mushroom Chilli,0,0,,179.0
+Starters,Chicken Fry,0,0,[Halal],259.0
+Starters,Chilli Chicken,0,0,,249.0
+Starters,Kerala Chicken,0,0,,259.0
+Starters,Chicken 65 Boneless,0,0,,289.0
+Starters,Chicken Lolly Pop [3 Pieces],0,0,,269.0
+Starters,Andra Chicken Dry [Serves 2],0,0,,269.0
+Starters,Chicken Manchurian,0,0,,259.0
+Biryani,Gillma Veg Biriyani,0,0,,229.0
+Fried Rice and Noodles,Veg Noodles,0,0,,169.0
+Fried Rice and Noodles,Mushroom Noodles,0,0,,178.8
+Fried Rice and Noodles,Veg Mixed Fried Noodles,0,0,,189.8
+Fried Rice and Noodles,Egg Noodles,0,0,,169.0
+Fried Rice and Noodles,Chicken Noodles,0,0,,189.0
+Fried Rice and Noodles,Beef Noodles,0,0,,189.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,,202.8

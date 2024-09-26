@@ -1,0 +1,83 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Party Combos,Butter Ghotala Bhaji with Pav Bhaji,1,0,Butter Ghotala Bhaji+Pav Bhaji [4 Pav],325.0
+Navratri Combos,Pav Bhaji + Manchurian Dry,1,0,,199.0
+Navratri Combos,Noodles with Manchurian Gravy and Fried Rice,1,0,Noodles+Manchurian Gravy+Fried Rice,399.0
+Navratri Combos,Oil Pav Bhaji and Oil Tawa Pulao,1,0,,199.0
+Navratri Combos,Hakka Noodles and Paneer Chilly Dry,1,0,,249.0
+Navratri Combos,Butter Pav Bhaji and Butter Tawa Pulao,1,0,,249.0
+Navratri Combos,Manchurian Gravy and Veg Fried Rice,1,0,,249.0
+Navratri Combos,Manchurian Dry and Butter Pav Bhaji,1,0,,249.0
+Chinese,Manchurian Dry,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",140.0
+Chinese,Manchurian Gravy,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",140.0
+Chinese,Manchurian Kolhapuri Gravy,1,0,,150.0
+Chinese,Manchurian Singapuri Gravy,1,0,,150.0
+Chinese,Schezwan Manchurian Gravy,1,0,,150.0
+Chinese,Ginger Manchurian Gravy,1,0,,150.0
+Chinese,Garlic Manchurian Gravy,1,0,,150.0
+Chinese,Cheese Manchurian Gravy,1,0,,160.0
+Chinese,Manchurian 65 Gravy,1,0,,170.0
+Chinese,Manchurian Kolhapuri Dry,1,0,,150.0
+Chinese,Manchurian Singapuri Dry,1,0,,150.0
+Chinese,Schezwan Manchurian Dry,1,0,,150.0
+Chinese,Ginger Manchurian Dry,1,0,,150.0
+Chinese,Garlic Manchurian Dry,1,0,,150.0
+Chinese,Cheese Manchurian,1,0,,160.0
+Chinese,Manchurian 65,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",160.0
+Chinese,Paneer Chilli,1,0,"Paneer cubes, green chillies, onion, capsicum tossed in desi chilli sauce finished with ... read more",140.0
+Chinese,Paneer Schezwan Chilli,1,0,,230.0
+Chinese,Paneer Kolhapuri Chilli,1,0,,230.0
+Chinese,Paneer Chilli 65,1,0,,160.0
+Chinese,Paneer Chilli 65 Gravy,1,0,,160.0
+Chinese,Paneer Chilli Gravy,1,0,,140.0
+Chinese,Paneer Chilli Schezwan Gravy,1,0,,210.0
+Chinese,Paneer Chilli Kolhapuri Gravy,1,0,,210.0
+Chinese,Mushroom Chilli,1,0,,190.0
+Chinese,Mushroom Chilli Gravy,1,0,,190.0
+Pav Bhaji,Pav Bhaji,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",130.0
+Pav Bhaji,Khada Bhaji,1,0,,140.0
+Pav Bhaji,Green Bhaji,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",140.0
+Pav Bhaji,Butter Ghotala Bhaji,1,0,"| Butter made || Images used are for representation purposes only, and do ... read more",170.0
+Pav Bhaji,Kathiyawadi Bhaji,1,0,,140.0
+Pav Bhaji,Kolhapuri Bhaji,1,0,,140.0
+Pav Bhaji,Butter Kolhapuri Gotala Bhaji,1,0,,170.0
+Pav Bhaji,Butter Kaju Masala Bhaji,1,0,,180.0
+Pav Bhaji,Butter Amul Cream Ghotala Bhaji,1,0,,180.0
+Pav Bhaji,Jain Butter Ghotala Bhaji,1,0,,170.0
+Pav Bhaji,Butter Cheese Bhaji,1,0,"Butter made || Images used are for representation purposes only, and do not ... read more",170.0
+Pav Bhaji,Butter Paneer Bhaji,1,0,,140.0
+Pav Bhaji,Butter Masala Pav,1,0,,90.0
+Pav Bhaji,Oil Pav [4 Pav],1,0,,20.0
+Pav Bhaji,Butter Pav [4 Pav],1,0,,40.0
+Rice,Jeera Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices. || Images ... read more,110.0
+Rice,Tawa Pulao,1,0,,130.0
+Rice,Green Pulao,1,0,,140.0
+Rice,Kashmiri Pulao,1,0,Butter made,149.0
+Rice,Kolhapuri Pulao,1,0,,140.0
+Rice,Cheese Pulao,1,0,Butter made,159.0
+Rice,Paneer Pulao,1,0,Butter made,160.0
+Rice,Paneer Cheese Pulao,1,0,,160.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,Veg fried rice is flavourful rice tossed with vegetables and Chinese sauces.,140.0
+Fried Rice and Noodles,Manchurian Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,A wholesome dish with the aromatic Schezwan rice prepared with assorted fresh veggies ... read more,150.0
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Hong Kong Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Garlic Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Kolhapuri Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,A wholesome dish with the aromatic triple fried rice prepared with assorted fresh ... read more,190.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,160.0
+Fried Rice and Noodles,Noodles,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",140.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,A Singaporean delicacy with soft and tender noodles tossed in a sweet and ... read more,150.0
+Fried Rice and Noodles,Hong Kong Noodles,1,0,,150.0
+Fried Rice and Noodles,Garlic Noodles,1,0,,150.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,"Vegetables, Chilli Flakes, Garlic tossed with Noodles & cooked in Schezwan Sauce.",150.0
+Fried Rice and Noodles,Manchurian Noodles,1,0,,140.0
+Fried Rice and Noodles,Kolhapuri Manchurian Noodles,1,0,,150.0
+Bhel,Chinese Bhel,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",140.0
+Bhel,Singapuri Bhel,1,0,,150.0
+Bhel,Schezwan Bhel,1,0,,150.0
+Bhel,Bombay Bhel,1,0,,150.0
+Bhel,Kolhapuri Bhel,1,0,,150.0
+Soups,Hot and Sour Soup,1,0,A spicy vegetable soup loaded with nutritious veggies to tingle your taste buds.,90.0
+Soups,Manchow Soup,1,0,,90.0
+Soups,Baby Corn Soup,1,0,,90.0
+Soups,Mushroom Soup,1,0,A mouth-watering cream of mushroom soup.,99.0

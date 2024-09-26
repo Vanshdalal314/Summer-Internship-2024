@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Veg Loaded Pizza,1,0,"Capsicum, onion, tomato, sauce & Amul Mozzarella cheese.",150.0
+Pizza,Paneer Onion Pizza,1,0,"Onion, paneer, topping, liquid cheese and Amul Mozzarella.",160.0
+Pizza,Tomato Pizza,1,0,"Tomato, pizza topping, liquid cheese & Amul Mozzarella.",160.0
+Pizza,Tandoori Pizza,1,0,,180.0
+Pizza,Tandoori Paneer Pizza,1,0,,190.0
+Pizza,Cheese Corn Pizza,1,0,"Pizza topping, sauces, liquid cheese, sweet corn & Amul Mozzarella.",180.0
+Pizza,Special Pizza,1,0,,240.0
+Burgers,Cream Burger,1,0,,50.0
+Burgers,Veg Aloo Tikki Burger,1,0,,70.0
+Burgers,Spicy Burger,1,0,,80.0
+Burgers,Cheese Burger,1,0,,90.0
+Burgers,Paneer Burger,1,0,,100.0
+Burgers,Tandoori Burger,1,0,,100.0
+Burgers,Special Burger,1,0,,140.0
+Snack,Sweet Corn,1,0,,70.0
+Drinks (Beverages),Cold Coffee,1,0,,80.0

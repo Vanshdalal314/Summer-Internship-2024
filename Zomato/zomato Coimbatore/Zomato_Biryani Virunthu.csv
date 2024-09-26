@@ -1,0 +1,14 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chicken 65,0,0,,170.0
+Starters,Chicken Finger,0,0,,170.0
+Starters,Fish Finger,0,0,,175.0
+Starters,Crab Lollipop,0,0,,175.0
+Starters,Prawns 65,0,0,,178.0
+Biryani,Plain Biryani,0,0,,150.0
+Biryani,Chicken Biryani,0,0,,178.0
+Biryani,Chicken 65 Biryani,0,0,,178.0
+Biryani,Chicken Chukka Biryani,0,0,,178.0
+Main Course,Chicken Chukka,0,0,,178.0
+Main Course,Pepper Chicken Gravy,0,0,,178.0
+Main Course,Chettinad Chicken Gravy,0,0,,178.0
+Main Course,Pepper Chicken,0,0,,178.0

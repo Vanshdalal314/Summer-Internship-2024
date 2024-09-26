@@ -1,0 +1,273 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Bismillah Special Combos,Paneer Butter Masala Combo,1,0,Paneer Butter Masala + Chapati Roti - 3 + Veg Rice,330.0
+Bismillah Special Combos,Butter Dal Fry with Jeera Rice,1,0,Butter Dal Fry + Jeera Rice,349.0
+Bismillah Special Combos,Veg Singapuri Fry Rice + Veg Manchurian,1,0,,369.0
+Bismillah Special Combos,Veg Fried Rice with Veg Manchurian,1,0,Veg Fried Rice + Veg Manchurian,369.0
+Bismillah Special Combos,Paneer Chilli with Veg Fried Rice,1,0,Paneer Chilli + Veg Fried Rice,369.0
+Bismillah Special Combos,Chicken Fried Rice with Chicken Manchurian,0,0,Chicken Fried Rice + Manchurian Gravy,399.0
+Bismillah Special Combos,Chicken Manchurian Dry with Chicken Fried Rice,0,0,Chicken Manchurian Dry + Chicken Fried Rice,399.0
+Bismillah Special Combos,Chicken Fried Rice with Chicken Hakka Noodles,0,0,Chicken Fried Rice + Chicken Hakka Noodles,400.0
+Bismillah Special Combos,Chicken Biryani with Chicken 65 [250 gms],0,0,Chicken Biryani + Chicken 65 [250 gms],400.0
+Bismillah Special Combos,Chicken Rose Garden and Chicken Biryani,0,0,Chicken Manchurian Dry + Chicken Lollipop,400.0
+Bismillah Special Combos,Chicken Tikka Biryani with Chicken Fried Rice,0,0,Chicken Tikka Biryani + Chicken Fried Rice,430.0
+Bismillah Special Combos,Chicken Tikka Combo,0,0,Chicken Tikka [5 Pieces]+Boneless Chicken 65 [200 grams]+Chicken Pulao+3 Roti+Salad,550.0
+Starters,Chicken 65,0,0,,199.0
+Starters,Chicken Golden Leg,0,0,,229.0
+Starters,Chicken Tandoori Leg,0,0,,229.0
+Starters,Chicken Lollipop Fry,0,0,,229.0
+Starters,Chicken Tangdi Fry spicy,0,0,,229.0
+Starters,Special Royal Chicken Fry,0,0,,229.0
+Starters,Fish Tandoori Boneless Tikka Red Spicy,0,0,,279.0
+Starters,Chicken Golden Fry,0,0,,279.0
+Starters,Chicken Cheese Leg,0,0,,279.0
+Starters,Chicken Cheese Malai Tikka,0,0,,289.0
+Starters,Chicken Tikka Takatak,0,0,,289.0
+Starters,Prawns special Royal Chilli Dry,0,0,,299.0
+Starters,Chicken Cheese Makhan Malai Tikka,0,0,,309.0
+Starters,Chicken Mix Royal Fry,0,0,,319.0
+Starters,Crispy Chicken,0,0,Long fry chicken mild periperi sauce,319.0
+Starters,Chicken Schezwan Tikka,0,0,,339.0
+Starters,Prawns Tandoori,0,0,,339.0
+Starters,Prawns Grill,0,0,,339.0
+Starters,Bread Crumb Fried Prawns Skewer,0,0,,339.0
+Starters,Boneless Chicken 65 [250 grams],0,0,,199.0
+Starters,Chicken Tandoori,0,0,,379.0
+Starters,Chicken Pathani Tikka,0,0,,369.0
+Starters,Chicken Mamna,0,0,,319.0
+Starters,Periperi Chicken Tikka,0,0,,369.0
+Main Course,Chicken Masala Fry,0,0,,179.0
+Main Course,Chicken Kadhai,0,0,,229.0
+Main Course,Chicken Kolhapuri,0,0,,229.0
+Main Course,Spicy Chicken Pasta with Red Sauce,0,0,,219.0
+Main Course,Chicken Pasta Italiano Red Sauce,0,0,,229.0
+Main Course,Chicken Pasta with White Sauce and Cheese,0,0,,229.0
+Main Course,Chicken Balti,0,0,,259.0
+Main Course,Chicken Tikka Masala,0,0,,279.0
+Main Course,Chicken Koyla,0,0,,279.0
+Main Course,Chicken Mughlai,0,0,,279.0
+Main Course,Fish Red Masala,0,0,,279.0
+Main Course,Fish Fried Koliwada,0,0,,289.0
+Main Course,Prawns Red Masala,0,0,,289.0
+Main Course,Special Chicken Afghani Gravy,0,0,,289.0
+Main Course,Butter Chicken,0,0,,289.0
+Main Course,Special Boneless Chicken Bullet Fry,0,0,,289.0
+Main Course,Barbique Chicken,0,0,,329.0
+Main Course,Chicken Golden Tikka Gravy,0,0,,329.0
+Main Course,Chicken Bullet Masala Boneless,0,0,,329.0
+Main Course,Boneless Chicken Afghani,0,0,,399.0
+Main Course,Boneless Butter Chicken,0,0,,429.0
+Main Course,Mix Vegetable,1,0,,119.0
+Main Course,Aloo Matar,1,0,,129.0
+Main Course,Dal Fry,1,0,,139.0
+Main Course,Chana Masala,1,0,,149.0
+Main Course,Aloo Gobi,1,0,,149.0
+Main Course,Butter Dal Fry,1,0,,189.0
+Main Course,Paneer Matar,1,0,,209.0
+Main Course,Veg White Sauce Pasta,1,0,,219.0
+Main Course,Veg Chinese Pasta in Red Sauce,1,0,,219.0
+Main Course,Veg Makhanwala,1,0,,219.0
+Main Course,Veg Jaipuri,1,0,,219.0
+Main Course,Paneer Pasta In Red Sauce,1,0,,219.0
+Main Course,Vegetable Afghani,1,0,,239.0
+Main Course,Veg Kadhai,1,0,,239.0
+Main Course,Vegetable Kolhapuri,1,0,,239.0
+Main Course,Veg Bullets,1,0,,249.0
+Main Course,Paneer Butter Masala,1,0,,249.0
+Main Course,Veg Paneer Double Dhamaal masala,1,0,,269.0
+Main Course,Paneer Makhanwala,1,0,,269.0
+Main Course,Shahi Paneer Malai Makhan Masala,1,0,,269.0
+Main Course,Kaju Paneer Masala,1,0,,269.0
+Main Course,Special Kaju Makhani Masala,1,0,,269.0
+Fried Rice and Noodles,Chicken Fried Rice,0,0,,149.0
+Fried Rice and Noodles,Chicken Singapuri Fried Rice,0,0,,149.0
+Fried Rice and Noodles,Chicken Schezwan Fried Rice,0,0,,149.0
+Fried Rice and Noodles,Chicken Hot Garlic Fried Rice,0,0,,149.0
+Fried Rice and Noodles,Egg Singapuri Fried Rice [Full],0,0,,179.0
+Fried Rice and Noodles,Chicken Hong Kong Fried Rice [Full],0,0,,189.0
+Fried Rice and Noodles,Chicken Dragon Fried Rice,0,0,,189.0
+Fried Rice and Noodles,Chicken Pizza Rice Gravy,0,0,Best chicken rice omlet on top cheese with red gravy,249.0
+Fried Rice and Noodles,Chicken Triple Fried Rice,0,0,,229.0
+Fried Rice and Noodles,Chicken Fry Noodles,0,0,,159.0
+Fried Rice and Noodles,Chicken Schezwan Noodles,0,0,,159.0
+Fried Rice and Noodles,Chicken Chowmein,0,0,,159.0
+Fried Rice and Noodles,Chicken American Chopsuey,0,0,,159.0
+Fried Rice and Noodles,Chicken Hakka Noodles [Full],0,0,,229.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Veg Singapuri Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,130.0
+Fried Rice and Noodles,Veg Garlic Fried Rice,1,0,,140.0
+Fried Rice and Noodles,Rice with Noodles,1,0,,140.0
+Fried Rice and Noodles,Peri Peri Paneer Fried Rice,1,0,,189.0
+Fried Rice and Noodles,Paneer Manchurian Fried Rice [Full],1,0,,219.0
+Fried Rice and Noodles,Paneer Fried Rice [Full],1,0,,219.0
+Fried Rice and Noodles,Triple Fried Rice [Full],1,0,,249.0
+Fried Rice and Noodles,Jeera Fried Rice [Full],1,0,,249.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,130.0
+Fried Rice and Noodles,Veg Singapuri Noodles,1,0,,130.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,130.0
+Fried Rice and Noodles,Veg Garlic Noodles,1,0,,130.0
+Fried Rice and Noodles,Veg Manchurian Noodles,1,0,,130.0
+Fried Rice and Noodles,Paneer Singapuri Noodles,1,0,,189.0
+Fried Rice and Noodles,Paneer Schezwan Noodles [Full],1,0,,189.0
+Fried Rice and Noodles,Chinese Chopsuey,1,0,Noodles with veg mild sauce,189.0
+Fried Rice and Noodles,Paneer Hakka Noodles,1,0,,189.0
+Fried Rice and Noodles,Paneer Noodles,1,0,,189.0
+Fried Rice and Noodles,Paneer Chowmein,1,0,,219.0
+Chinese,Chicken Chilli Gravy,0,0,,219.0
+Chinese,Chicken Special Chilli Dry,0,0,,219.0
+Chinese,Chicken Hot Spicy Sauce,0,0,,219.0
+Chinese,Chicken Manchurian Dry,0,0,,219.0
+Chinese,Chicken Sweet Garlic Sauce [Full],0,0,,219.0
+Chinese,Chicken Schezwan Gravy [Full],0,0,,219.0
+Chinese,Chicken Schezwan Sauce [Full],0,0,,229.0
+Chinese,Chicken Lollipop Gravy [Full],0,0,,229.0
+Chinese,Chicken Lollipop Schezwan [Full],0,0,,229.0
+Chinese,Chicken Hong Kong Style [Full],0,0,,229.0
+Chinese,Chicken Dynamite Fry,0,0,,229.0
+Chinese,Chicken Singapore Style Dry [Full],0,0,,229.0
+Chinese,Dragon Chicken Dry,0,0,,250.0
+Chinese,Manchurian Dry,1,0,,139.0
+Chinese,Manchurian Gravy,1,0,,139.0
+Chinese,Schezwan Manchurian,1,0,,139.0
+Chinese,Garlic Manchurian,1,0,,139.0
+Chinese,Paneer Chilli,1,0,,159.0
+Chinese,Singapuri Manchurian,1,0,,180.0
+Chinese,Veg Lollipop,1,0,,209.0
+Chinese,Mustard Manchurian,1,0,,219.0
+Chinese,Paneer Manchurian,1,0,,260.0
+Chinese,Paneer Chilli Gravy,1,0,,260.0
+Rice and Biryani,Tawa Pulao [Full],1,0,,179.0
+Rice and Biryani,Egg Pulao [Full],0,0,,199.0
+Rice and Biryani,Kashmiri Pulao [Full],1,0,,209.0
+Rice and Biryani,Butter Pulao [Full],1,0,,209.0
+Rice and Biryani,Special Egg Pulao [Full],0,0,,209.0
+Rice and Biryani,Egg Kashmiri Pulao [Full],0,0,,219.0
+Rice and Biryani,Paneer Pulao,1,0,,229.0
+Rice and Biryani,Butter Kashmiri Pulao [Full],1,0,,229.0
+Rice and Biryani,Chicken Kashmiri Pulao [Full],0,0,,229.0
+Rice and Biryani,Chicken Pulao [Full],0,0,,229.0
+Rice and Biryani,Chicken Tikka Pulao [Full],0,0,,229.0
+Rice and Biryani,Chicken Tawa Pulao [Full],0,0,,229.0
+Rice and Biryani,Prawns Pulao [Full],0,0,,229.0
+Rice and Biryani,Egg Biryani [Full],0,0,,189.0
+Rice and Biryani,Chicken Biryani [Full],0,0,,209.0
+Rice and Biryani,Chicken Leg Biryani,0,0,Red coluor rice bonlss chicken boti,209.0
+Rice and Biryani,Chicken Tikka Biryani [Full],0,0,,229.0
+Rice and Biryani,Prawns Biryani [Full],0,0,,229.0
+Rice and Biryani,Chicken Kashmiri Biryani,0,0,,279.0
+Rice and Biryani,Chicken Tandoori Dum Biryani,0,0,Tasty food Arabic style.,329.0
+Soups,Corn Soup,1,0,,110.0
+Soups,Cream of Veg Soup,1,0,,110.0
+Soups,Manchow Soup,1,0,,130.0
+Soups,Hot and Sour Soup,1,0,,130.0
+Soups,Garlic Soup,1,0,,130.0
+Soups,Manchurian Soup,1,0,,130.0
+Soups,Lemon Pepper Soup,1,0,,130.0
+Soups,Vegetable Corn Soup,1,0,,130.0
+Soups,Tomato Soup,1,0,,130.0
+Soups,Broccoli Soup,1,0,,139.0
+Soups,Egg Manchow Soup,0,0,,130.0
+Soups,Chicken Hot Sour Soup,0,0,,130.0
+Soups,Chicken Manchow Soup,0,0,,130.0
+Soups,Sweet Corn Chicken Soup,0,0,,130.0
+Soups,Chicken Clear Soup,0,0,,130.0
+Soups,Chicken Tomato Soup,0,0,,130.0
+Soups,Chicken Lemon Pepper Soup,0,0,,130.0
+Soups,Chicken Cream Soup,0,0,,130.0
+Soups,Chicken Corriander Soup,0,0,,139.0
+Soups,Hot and Sour Egg Soup,0,0,,139.0
+Soups,Chicken Broccoli Soup,0,0,,170.0
+Breads/Roti,Chapati Roti,1,0,,15.0
+Breads/Roti,Butter Roti,1,0,,25.0
+Breads/Roti,Chapati Butter Paratha,1,0,,55.0
+Breads/Roti,Chapati Paratha,1,0,,45.0
+Breads/Roti,Garlic Paratha,1,0,,119.0
+Breads/Roti,Chapati Masala Kulcha Paneer,1,0,,129.0
+Breads/Roti,Aloo Paratha,1,0,,139.0
+Breads/Roti,Paneer Paratha,1,0,,169.0
+Breads/Roti,Cheese Paratha,1,0,,179.0
+Breads/Roti,Chicken Paratha With Raita,0,0,,179.0
+Breads/Roti,Chicken Kaima Paratha,0,0,,219.0
+Breads/Roti,Butter with chicken paratha,0,0,,219.0
+Sea Food,Fish Fry Rice [Full],0,0,Bonless fish,199.0
+Sea Food,Red Hot Boneless Fish Fillet Tawa Fry,0,0,,209.0
+Sea Food,Prawns Fried Rice [Full],0,0,,219.0
+Sea Food,Prawns Masala,0,0,,229.0
+Sea Food,Prawns Manchurian Dry,0,0,,229.0
+Sea Food,Prawns Burnt Garlic Rice,0,0,,229.0
+Sea Food,Prawns Pulao,0,0,,229.0
+Sea Food,Fish Masala Majedar,0,0,,229.0
+Sea Food,Fish Fingers With Tartar Sauce,0,0,,239.0
+Sea Food,Fish Tikka Boneless Spicy Tandoori Style,0,0,,299.0
+Sea Food,Prawns Dynamite Spicy Sauce,0,0,,339.0
+Sea Food,Blackened Fish Boneless Fillet,0,0,,339.0
+Pizza,Veg Pizza,1,0,,130.0
+Pizza,Peri Peri Veg Pizza,1,0,,130.0
+Pizza,Veg Paneer Cheese Pizza,1,0,,149.0
+Pizza,Veg Hot Pizza,1,0,,149.0
+Pizza,Exotic Veg Makhani Pizza,1,0,,170.0
+Pizza,Veg Schezwan Cheese Pizza,1,0,,170.0
+Pizza,Chicken Pizza,0,0,,199.0
+Pizza,Chicken Garlic Pizza,0,0,,200.0
+Pizza,Chicken Schezwan Pizza,0,0,,210.0
+Pizza,Chicken Tikka Pizza,0,0,,210.0
+Pizza,Chicken Hot Chilli Pizza,0,0,,219.0
+Pizza,Chicken Italian Pizza,0,0,,220.0
+Pizza,Hot Chicken Peri Peri Pizza,0,0,,230.0
+Pizza,Chicken Special Royal Pizza,0,0,,230.0
+Burgers and Sandwiches,Chicken Burger with Mayonnaise,0,0,,130.0
+Burgers and Sandwiches,Chicken Tikka Burger,0,0,,130.0
+Burgers and Sandwiches,Chicken Cheese Burger,0,0,,130.0
+Burgers and Sandwiches,Chicken Double Cheese Burger,0,0,,150.0
+Burgers and Sandwiches,Chicken Hot Burger,0,0,,150.0
+Burgers and Sandwiches,Chicken Chilli Burger,0,0,,150.0
+Burgers and Sandwiches,Chicken Grilled Sandwich,0,0,,219.0
+Burgers and Sandwiches,Chicken Cheese Grilled Sandwich,0,0,,219.0
+Burgers and Sandwiches,Chicken Tikka Grill Sandwich,0,0,,219.0
+Burgers and Sandwiches,Chicken Peri Peri Sandwich,0,0,,219.0
+Burgers and Sandwiches,Grilled Chicken Schezwan Tikka Sandwich,0,0,,240.0
+Burgers and Sandwiches,Chicken Double Grilled Sandwich,0,0,,290.0
+Burgers and Sandwiches,Egg Omelette Sandwich,0,0,,130.0
+Burgers and Sandwiches,Egg Sandwich,0,0,,130.0
+Burgers and Sandwiches,Egg Grilled Sandwich,0,0,,160.0
+Burgers and Sandwiches,Egg Omelette Grilled Sandwich,0,0,,170.0
+Burgers and Sandwiches,Egg Cheese Sandwich,0,0,,170.0
+Burgers and Sandwiches,Egg Keema Sandwich,0,0,,170.0
+Burgers and Sandwiches,Egg Keema Grilled Sandwich,0,0,,180.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,80.0
+Burgers and Sandwiches,Veg Burger,1,0,,100.0
+Burgers and Sandwiches,Veg Chinese Burger,1,0,,100.0
+Burgers and Sandwiches,Veg Hot Burger,1,0,,119.0
+Burgers and Sandwiches,Veg Schezwan Burger,1,0,,119.0
+Burgers and Sandwiches,Veg Paneer Cheese Burger,1,0,,120.0
+Burgers and Sandwiches,Veg Hot Chilli Burger,1,0,,120.0
+Burgers and Sandwiches,Peri Peri Veg Burger,1,0,,130.0
+Burgers and Sandwiches,Veg Paneer Grilled Sandwich,1,0,,190.0
+Burgers and Sandwiches,Veg Schezwan Grilled Sandwich,1,0,,199.0
+Burgers and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,199.0
+Burgers and Sandwiches,Veg Cheese Paneer Grilled Sandwich,1,0,,200.0
+Burgers and Sandwiches,Veg Double Bread Peri Peri Grilled Sandwich,1,0,,210.0
+Snacks,Veg Pattice,1,0,,119.0
+Snacks,Veg Cutlet,1,0,,119.0
+Snacks,French Fries,1,0,,139.0
+Snacks,Chinese Bhel,1,0,,139.0
+Snacks,Singapuri Bhel,1,0,,139.0
+Snacks,Paneer Pattice,1,0,,139.0
+Snacks,Peri Peri Frech Fries,1,0,,149.0
+Snacks,Chicken Chinese Bhel,0,0,,159.0
+Snacks,Bombay Bhel,1,0,,169.0
+Snacks,Paneer Cheese Pattice,1,0,,169.0
+Snacks,Paneer Bhel,1,0,,189.0
+Snacks,Chicken Bombay Bhel [Full],0,0,,189.0
+Snacks,Paneer Fingers,1,0,,219.0
+Snacks,Chicken Grill Salad,0,0,,219.0
+Snacks,Boneless Chicken Kurkure Fry [250 grams],0,0,,280.0
+Salads and Raita,Green Salad,1,0,,139.0
+Salads and Raita,Tomato Salad,1,0,,139.0
+Salads and Raita,Cucumber Salad,1,0,,139.0
+Salads and Raita,Hummus,1,0,,139.0
+Salads and Raita,Mix Veg Rita,1,0,,149.0
+Salads and Raita,Garlic Hummus,1,0,,169.0
+Salads and Raita,Veg Russian Salad,1,0,,180.0
+Salads and Raita,Boondi Rita,1,0,,199.0
+Salads and Raita,Veg And Paneer Greek Salad,1,0,,219.0

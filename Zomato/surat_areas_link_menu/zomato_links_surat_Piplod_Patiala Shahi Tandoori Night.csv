@@ -1,0 +1,144 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Veg Manchow Soup,1,0,A rich and flavorful Chinese soup filled with a variety of fresh vegetables.,250.0
+Starters,Afghani Soya Chaap,1,0,A decadently indulgent dish prepared by cooking black lentil and red kidney beans ... read more,300.0
+Starters,Dragon Potatoes,1,0,,315.0
+Starters,Malai Paneer Tikka,1,0,"Soft and succulent cubes of seasoned paneer, grilled to perfection in a tandoor ... read more",325.0
+Starters,Malai Soya Chaap,1,0,"Soya Chaap marinated in fresh cream and cashew paste,grilled over charcoal",325.0
+Starters,Mushrom Chilli,1,0,,315.0
+Starters,Mushroom Tikka,1,0,Delicious Indian dish with tender mushrooms roasted to perfection with fragrant spices.,300.0
+Starters,Pahadi Paneer Tikka,1,0,,300.0
+Starters,Pahadi Soya Chaap,1,0,,300.0
+Starters,Paneer Chilli,1,0,Soft and creamy chunks in a mouth-watering sauce.,315.0
+Starters,Paneer Hot N' Sour,1,0,,315.0
+Starters,Paneer Tikka,1,0,"A flavorful Indian dish with tender, marinated paneer.",300.0
+Starters,Patialvi Soya Chaap,1,0,,300.0
+Starters,Reshmi Soya Chaap,1,0,,300.0
+Starters,Schezwan Paneer Chilli,1,0,,315.0
+Starters,Afghani Kebab (Leg),0,0,,215.0
+Starters,Banjara Kebab,0,0,,225.0
+Starters,Cheese Chicken Tikka,0,0,,275.0
+Starters,Chicken 65,0,0,A succulent explosion of flavors in every bite.,440.0
+Starters,Chicken Chilli,0,0,Tender chicken in a flavorful gravy that tantalizes the taste buds.,440.0
+Starters,Chicken Hot N' Sour,0,0,,440.0
+Starters,Chicken Popcorn,0,0,"Tender, juicy chunks of chicken deep-fried to crispy perfection ? a mouthwatering treat ... read more",440.0
+Starters,Chicken Seekh Kebab,0,0,"Chicken seekh kebab, usually mix with spices serves good for one.",200.0
+Starters,Chicken Taka-Tak,0,0,,275.0
+Starters,Chicken Tikka,0,0,"Tender chicken marinated in aromatic Indian spices, grilled to perfection.",225.0
+Starters,Hara Bhara Kebab,0,0,A savory and flavorful Indian vegetarian kebab.,225.0
+Starters,Kali Mari Tikka,0,0,,225.0
+Starters,Malai Tikka,0,0,"Tender, marinated cubes of succulent meat roasted to perfection in a traditional clay ... read more",220.0
+Starters,Mix Tikka,0,0,,225.0
+Starters,Murgh Tangri,0,0,,250.0
+Starters,Reshmi Tikka,0,0,,225.0
+Starters,Schezwan Chicken,0,0,Chunks of grilled tandoori chicken cooked in a smooth schewzan tomato based gravy ... read more,440.0
+Starters,Special Patialvi Tikka,0,0,,275.0
+Starters,Tandoori Chest Piece,0,0,,175.0
+Starters,Tandoori Chicken,0,0,Tandoor cooked chicken chunks marinated in a yogurt and chilli based masala served ... read more,175.0
+Starters,Tandoori Leg Piece,0,0,,175.0
+Starters,Tandoori Lollypop,0,0,,225.0
+Patialvi Tawa,Paneer Ginger Lemon Dry,1,0,,375.0
+Patialvi Tawa,Soya Chaap Ginger Lemon Dry,1,0,,375.0
+Patialvi Tawa,Chicken Kaleji Fry,0,0,A succulent chicken dish with a flavorful gravy.,275.0
+Patialvi Tawa,Chicken Lasania Dry (With Bone/Boneless),0,0,,525.0
+Patialvi Tawa,Chicken Tawa Dry (With Bone/Boneless),0,0,,525.0
+Patialvi Tawa,Chicken Volcano (With Bone/Boneless),0,0,,525.0
+Patialvi Tawa,Ginger Lemon Dry (With Bone/Boneless),0,0,,525.0
+Patialvi Tawa,Patialvi Lollypop,0,0,,275.0
+Main Course,Chana Masala,1,0,A classic vegetarian main course bursting with bold flavor.,265.0
+Main Course,Cheese Angoori,1,0,A creamy and savory veg dish from the Kaju Special category.,350.0
+Main Course,Cheese Begum Bahar,1,0,Serves 1,350.0
+Main Course,Cheese Masala,1,0,"A South Indian delicacy, try out this crispy masala dosa with a soft ... read more",350.0
+Main Course,Dal Fry,1,0,A flavorful and comforting dish made with lentils and spices.,240.0
+Main Course,Dal Makhani,1,0,A creamy and savory dish that's sure to satisfy.,315.0
+Main Course,Dal Tadka,0,0,A delightful rice bowl topped with a rich and flavorful lentil and egg ... read more,275.0
+Main Course,Kaju Masala,1,0,A creamy cashew curry bursting with flavor.,350.0
+Main Course,Khoya Kaju,1,0,A rich and creamy nutty delight.,350.0
+Main Course,Mix Veg,1,0,A delightful medley of garden-fresh vegetables bursting with flavor.,290.0
+Main Course,Mushroom Masala,1,0,"A flavor-packed vegetarian masterpiece, bursting with the savory aroma of succulent mushrooms in ... read more",340.0
+Main Course,Mushroom Paneer,1,0,A mouthwatering combination of cottage cheese with mushroom in aromatic spices,350.0
+Main Course,Palak Paneer,1,0,A creamy spinach and cheese dish bursting with flavor.,340.0
+Main Course,Paneer Angara,1,0,A smoky and flavorful vegetarian main course.,340.0
+Main Course,Paneer Bhurjee,1,0,,340.0
+Main Course,Paneer Butter Masala,1,0,Melt-in-your-mouth paneer in a creamy and flavorful tomato-based sauce.,315.0
+Main Course,Paneer Chatpatta,1,0,A tangy and flavorful dish bursting with delicious Indian spices.,325.0
+Main Course,Paneer Kadhai,1,0,A savory vegetarian dish with a rich blend of flavors and aromatic spices.,325.0
+Main Course,Paneer Lababdaar,1,0,"Paneer Gravy made with onion,tomatoes,cashews,grated paneer and paneer cubes",325.0
+Main Course,Paneer Makkhanwala,1,0,,315.0
+Main Course,Paneer Tikka Masala,1,0,"A succulent dish featuring tender cubes of paneer smothered in a rich, flavor-packed ... read more",315.0
+Main Course,Paneer Toofani,1,0,An explosion of rich and savory flavors that will tantalize your taste buds.,325.0
+Main Course,Soya Chaap Ginger Lemon Gravy,1,0,,325.0
+Main Course,Special Patiala Veg,1,0,,315.0
+Main Course,Veg Angara,1,0,Savor the explosion of bold flavors in this fiery vegetarian dish.,315.0
+Main Course,Veg Chatpatta,1,0,,290.0
+Main Course,Veg Hyderabadi,1,0,"Approx 300 ml , Serve 1-2 Person",290.0
+Main Course,Veg Kadhai,1,0,"Approx 300 ml , Serve 1-2 Person",290.0
+Main Course,Veg Makkhanwala,1,0,,290.0
+Main Course,Angara Chicken,0,0,,300.0
+Main Course,Butter Chicken,0,0,"Juicy chicken in a rich, creamy sauce.",300.0
+Main Course,Cheese Chicken Tikka Masala,0,0,,325.0
+Main Course,Dahi Chicken,0,0,A creamy and flavorful chicken dish that's perfect for dinner.,300.0
+Main Course,Dilliwala Butter Chicken,0,0,,325.0
+Main Course,Ginger Lemon Chicken,0,0,,300.0
+Main Course,Hyderabadi Chicken,0,0,"Succulent chicken in rich, aromatic gravy. Serves 1",300.0
+Main Course,Kadhai Chicken,0,0,Tender boneless chicken cooked in a flavorful gravy.,240.0
+Main Course,Kaleji Masala,0,0,Murgh Kaleji It is most popularly used in a mixture of ground meat ... read more,300.0
+Main Course,Lasania Chicken,0,0,,300.0
+Main Course,Masala Chicken (With Bone),0,0,,300.0
+Main Course,Mughlai Chicken,0,0,Serve 3,325.0
+Main Course,Murgh Seekh Kebab Masala,0,0,,325.0
+Main Course,Mutton Kheema Pav,0,0,200 gms Mutton Kheema with 2 Pav Combo,390.0
+Main Course,Fish Chilli,0,0,Crispy and flavorful fish served hot and fresh.,500.0
+Main Course,Fish Fillet,0,0,,500.0
+Main Course,Fish Hara Masala,0,0,,500.0
+Main Course,Fish Hot N' Sour,0,0,,500.0
+Main Course,Fish Taka-Tak,0,0,,500.0
+Main Course,Fish Tikka Masala,0,0,"Crispy, Flavourful Fish Tikka marinated with Yogurt and Special Spices fried in Oil. ... read more",500.0
+Main Course,Hariyali Macchi Tikka,0,0,,500.0
+Main Course,Macchi Amritsari,0,0,,500.0
+Main Course,Macchi Tawa,0,0,,500.0
+Main Course,Macchi Tikka,0,0,,500.0
+Main Course,Machhi Biryani,0,0,,500.0
+Main Course,Prawns Biryani,0,0,A tempting blend of aromatic rice and succulent prawns infused with a rich ... read more,500.0
+Main Course,Prawns Chilli,0,0,"Juicy prawns cooked to perfection, packed with mouthwatering flavors.",500.0
+Main Course,Prawns Ginger Lemon Dry,0,0,,500.0
+Main Course,Prawns Hara Masala,0,0,,500.0
+Main Course,Prawns Hot N' Sour,0,0,,500.0
+Main Course,Prawns Tandoori,0,0,,500.0
+Main Course,Prawns Tawa,0,0,,500.0
+Main Course,Prawns Tawa Masala,0,0,,500.0
+Main Course,Reshmi Macchi Tikka,0,0,,500.0
+Main Course,Egg Biryani (3 Egg),0,0,,315.0
+Main Course,Egg Curry (2 Egg),0,0,,225.0
+Main Course,Egg Fried Rice (3 Egg),0,0,,275.0
+Chaawal Bemisaal,Chicken Biryani (With Bone/Boneless),0,0,,240.0
+Chaawal Bemisaal,Chicken Fried Rice,0,0,Savory stir-fried rice tossed with succulent chunks of chicken and delightful oriental flavors.,415.0
+Chaawal Bemisaal,Dal Khichdi,1,0,"A hearty, comforting vegetarian dish with a blend of flavors and textures.",315.0
+Chaawal Bemisaal,Hyderabadi Chicken Biryani (With Bone/Boneless),0,0,,240.0
+Chaawal Bemisaal,Jeera Rice,1,0,Aromatic basmati rice fused with warm spices creating a mouth-watering symphony of flavors.,125.0
+Chaawal Bemisaal,Lasania Rice,1,0,,150.0
+Chaawal Bemisaal,Plain Rice,1,0,"Perfectly cooked rice, a simple yet satisfying accompaniment to any dish.",115.0
+Chaawal Bemisaal,Special Veg Biryani,1,0,Rice and veggies cooked in a fragrant and flavorful masala seasoned with Indian ... read more,340.0
+Chaawal Bemisaal,Veg Fried Rice,1,0,"A delightful Chinese dish of mixed vegetables and rice, stir-fried to perfection.",300.0
+Chaawal Bemisaal,Veg Hakka Noodles,1,0,"Savoury wok-tossed noodles seasoned with aromatic herbs & spices, mixed with fresh vegetables.",300.0
+Roti Shoti,Aloo Parantha,1,0,"Fluffy, super-soft parathas with a seasoned potato stuffing served with curd and pickle.",190.0
+Roti Shoti,Butter Kulcha,1,0,"A soft, buttery and flavorful Indian bread.",70.0
+Roti Shoti,Butter Naan,1,0,"A fluffy, pillowy, and golden-brown bread that melts in your mouth with every ... read more",70.0
+Roti Shoti,Cheese Chilli Garlic Naan,1,0,,150.0
+Roti Shoti,Cheese Garlic Naan,1,0,A savory bread infused with rich garlic and melted cheese.,150.0
+Roti Shoti,Cheese Naan,1,0,North Indian bread with a generous serving of cheese that tastes brilliant when ... read more,125.0
+Roti Shoti,Chicken Kheema Parantha,0,0,,275.0
+Roti Shoti,Garlic Naan,1,0,"Soft, buttery bread with a hint of aromatic garlic.",115.0
+Roti Shoti,Garlic Roti,0,0,An aromatic and flavorful chicken biryani perfect for a family meal.,60.0
+Roti Shoti,Lacchedaar Parantha,1,0,,60.0
+Roti Shoti,Paneer Parantha,1,0,"Fluffy, super-soft parathas with a seasoned potato stuffing.",190.0
+Roti Shoti,Special Patialvi Parantha,1,0,,225.0
+Roti Shoti,Tandoori Butter Roti,1,0,"Buttery, flaky, golden Tandoori flatbread perfect for pairing with your favorite vegetable curry ... read more",40.0
+Roti Shoti,Tandoori Roti,1,0,"A flavorful, freshly baked bread perfect for pairing with any curry or dish.",35.0
+Roti Shoti,Tawa Butter Roti,1,0,A golden and flaky Indian flatbread toasted to perfection with a hint of ... read more,25.0
+Roti Shoti,Tawa Roti,1,0,Freshly made flatbread cooked on a griddle to perfection.,25.0
+Accompaniments,Fried Papad,1,0,Serve 1,40.0
+Accompaniments,Mix Veg Raita,1,0,A refreshing medley of veggies and yoghurt.,75.0
+Accompaniments,Roasted Papad,1,0,Crispy and flavorful Indian appetizer with a smokey roasted taste.,25.0
+Drinks (Beverages),Masala Chaas,1,0,A refreshing and flavorful veg drink perfect for starting your meal.,50.0
+Drinks (Beverages),Mineral Water [ 1litter],1,0,,25.0
+Drinks (Beverages),Patialvi Lassi,1,0,,100.0

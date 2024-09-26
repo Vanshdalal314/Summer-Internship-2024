@@ -1,0 +1,149 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Corn Shorba Soup,1,0,,139.0
+Soup,Garlic Soup,1,0,,128.0
+Soup,Hot & Sour Soup,1,0,Manchurian Fried Rice+ Manchurian Gravy,123.0
+Soup,Lemon Coriander Soup,1,0,,128.0
+Soup,Manchow Soup,1,0,Paneer Butter Masala + 2 Butter Chapati,123.0
+Soup,Mushroom Soup,1,0,,139.0
+Soup,Noodles Soup,1,0,,128.0
+Soup,Tomato Soup,1,0,Kaju Masala (Red) + 2 Butter Roti,117.0
+Soup,"Veg, Clear Soup",1,0,Manchurian Dry + Hakka Noodles,117.0
+Starter,Corn Crispy,1,0,,172.0
+Starter,Dragon Potato,1,0,,183.0
+Starter,Garlic Manchurian,1,0,,130.0
+Starter,Manchurian Dry,1,0,,125.0
+Starter,Manchurian Gravy,1,0,,125.0
+Starter,Mushroom Chilly,1,0,Sweet + Dhokla + Veg Sabji + Paneer Sabji + Dal Fry + ... read more,227.0
+Starter,Paneer Chilly Dry,1,0,,222.0
+Starter,Paneer Lemon Chilly Dry,1,0,,222.0
+Starter,Paneer Mangolian,1,0,,227.0
+Starter,Paneer Red Cook,1,0,,222.0
+Starter,Paneer Shanghai,1,0,,227.0
+Starter,Schezwan Manchurian,1,0,,130.0
+Starter,"Veg, Green Ball With Cheese",1,0,,194.0
+Starter,Veg. 65,1,0,,178.0
+Starter,Veg. Crispy,1,0,,172.0
+Starter,Veg. Lollipop,1,0,,178.0
+Noodles,American Chopsy,1,0,,183.0
+Noodles,Chilly Garlic Noodles,1,0,,161.0
+Noodles,Hakka Noodles,1,0,,150.0
+Noodles,Hongkong Noodles,1,0,,178.0
+Noodles,Manchurian Noodles,1,0,,161.0
+Noodles,Schezwan Noodles,1,0,,156.0
+Noodles,Singapuri Noodles,1,0,,161.0
+Chinese,Bombay Bhel,1,0,,172.0
+Chinese,Chinese Bhel,1,0,,172.0
+Chinese,Combination Rice,1,0,,183.0
+Main Course,Aloo Mutter (Brown),1,0,,128.0
+Main Course,Dum Aloo (Red),1,0,,205.0
+Main Course,Jeera Aloo (Dry),1,0,,117.0
+Main Course,Lasaniya Bataka (Red),1,0,,128.0
+Main Course,Mushroom Masala (Brown),1,0,,211.0
+Main Course,"Veg, Jaipuri (Brown)",1,0,,106.0
+Main Course,Veg. Angara (Red),1,0,,156.0
+Main Course,Veg. Chatpatta (Red),1,0,,161.0
+Main Course,Veg. Diwani Handi (Green),1,0,,211.0
+Main Course,Veg. Handi (Brown),1,0,,161.0
+Main Course,Veg. Hariyali (Green),1,0,,156.0
+Main Course,Veg. Hydrabadi (Green),1,0,,156.0
+Main Course,Veg. Kadai (Green),1,0,,161.0
+Main Course,Veg. Khima Masala (Brown),1,0,,161.0
+Main Course,Veg. Kolhapuri (Red),1,0,,156.0
+Main Course,Veg. Lahori (Green),1,0,,161.0
+Main Course,Veg. Makkhanwala (Red),1,0,,156.0
+Main Course,Veg. Mughlai (Brown),1,0,,167.0
+Main Course,Veg. Navratna Korma (Sweet),1,0,,167.0
+Main Course,Veg. Tawa (Red),1,0,,161.0
+Main Course,Veg. Toofani (Red),1,0,,161.0
+Main Course,Bhakti Special (Red+Green),1,0,,282.0
+Main Course,Cheese Angoori (Brown),1,0,,266.0
+Main Course,Cheese Begum Bahar (Brown),1,0,,260.0
+Main Course,Cheese Butter Masala (Brown),1,0,,260.0
+Main Course,Chole Chana Masala (Red),1,0,,128.0
+Main Course,Palak Paneer (Green),1,0,,161.0
+Main Course,Paneer Aachari (Red),1,0,,172.0
+Main Course,Paneer Afghani (Red+Yellow),1,0,,238.0
+Main Course,Paneer Angara (Red),1,0,,227.0
+Main Course,Paneer Bhurji (Yellow),1,0,,227.0
+Main Course,Paneer Butter Masala (Red),1,0,,156.0
+Main Course,Paneer Chatpatta (Red),1,0,,172.0
+Main Course,Paneer Cheese B. Masala (Red),1,0,,260.0
+Main Course,Paneer Corn Masala (Brown),1,0,,172.0
+Main Course,Paneer Handi (Brown),1,0,,167.0
+Main Course,Paneer Jwala (Red),1,0,,183.0
+Main Course,Paneer Kadai (Green),1,0,,167.0
+Main Course,Paneer Lababdar (Brown),1,0,,161.0
+Main Course,Paneer Lahori (Green),1,0,,161.0
+Main Course,Paneer Lakhnavi (Brown),1,0,,161.0
+Main Course,Paneer Lasaniya (Brown),1,0,,172.0
+Main Course,Paneer Mirchi Masala (Brown),1,0,,172.0
+Main Course,Paneer Mughlai (Brown),1,0,,172.0
+Main Course,Paneer Pasanda (Red+Green),1,0,,227.0
+Main Course,Paneer Patiyala (Brown),1,0,,227.0
+Main Course,Paneer Tawa (Red),1,0,,167.0
+Main Course,Paneer Tikka Masala (Red),1,0,,161.0
+Main Course,Paneer Toofani (Red),1,0,,167.0
+Main Course,Shahi Paneer (Mild Red-Sweet),1,0,,172.0
+Main Course,Kaju Curry (Brown),1,0,,211.0
+Main Course,Kaju Khoya (Yellow) (Sweet),1,0,,216.0
+Main Course,Kaju Masala (Red),1,0,,211.0
+Main Course,Kaju Paneer Masala (Red),1,0,,216.0
+Main Course,Cheese Kofta (Red),1,0,,249.0
+Main Course,Kaju Kofta (Brown),1,0,,238.0
+Main Course,Malai Kofta (Yellow) (Sweet),1,0,,238.0
+Main Course,Nargisi Kofta (Brown+Green),1,0,,238.0
+Main Course,Paneer Kofta (Brown),1,0,,227.0
+Main Course,Spinach Kofta (Green),1,0,,227.0
+Main Course,Veg. Kofta (Red),1,0,,205.0
+Roti & Bread,Butter Chapati,1,0,,20.0
+Roti & Bread,Butter Pav - 12 Pcs.,1,0,,55.0
+Roti & Bread,Oil Pav - 12 Pcs.,1,0,,45.0
+Roti & Bread,Plain Chapati,1,0,,20.0
+Roti & Bread,Roasted Papad,1,0,,20.0
+Pavbhaji,Bhakti Special Pavbhaji Only Bhaji,1,0,,205.0
+Pavbhaji,Butter Pavbhaji Only Bhaji,1,0,,135.0
+Pavbhaji,Cheese Butter Pavbhaji Only Bhaji,1,0,,189.0
+Pavbhaji,Gotala Pavbhaji Only Bhaji,1,0,,172.0
+Pavbhaji,Green Pavbhaji Only Bhaji,1,0,,135.0
+Pavbhaji,Oil Pavbhaji Only Bhaji,1,0,,125.0
+Pavbhaji,Pure Jain Pavbhaji Only Bhaji,1,0,,135.0
+Pavbhaji,Swaminarayan Pavbhaji Only Bhaji,1,0,,125.0
+Rice,Bhakti Special Pulao,1,0,,190.0
+Rice,Cheese Pulao,1,0,,173.0
+Rice,Kashmiri Pulao (Sweet),1,0,,173.0
+Rice,Masala Pav,1,0,,110.0
+Rice,Masala Pulao,1,0,,151.0
+Rice,Tawa Pulao,1,0,,140.0
+Rice,Veg. Pulao,1,0,,162.0
+Rice,Dal Fry,1,0,,118.0
+Rice,Dal Khichdi,1,0,,195.0
+Rice,Dal Tadka,1,0,,129.0
+Rice,Handi Biryani,1,0,,179.0
+Rice,Hydrabadi Biryani,1,0,,162.0
+Rice,Jeera Rice,1,0,,118.0
+Rice,Plain Rice,1,0,,107.0
+Rice,Veg. Biryani,1,0,,157.0
+Our Speciality In Dhokla,Butter Dhokla,1,0,,85.0
+Our Speciality In Dhokla,Cheese Butter Dhokla,1,0,,95.0
+Our Speciality In Dhokla,Garlic Dhokla,1,0,,80.0
+Our Speciality In Dhokla,Italian Dhokla,1,0,,110.0
+Our Speciality In Dhokla,Jain Dhokla,1,0,,80.0
+Our Speciality In Dhokla,Jeera Dhokla,1,0,,80.0
+Our Speciality In Dhokla,Mayonnaise Dhokla,1,0,,90.0
+Our Speciality In Dhokla,Schezwan Mayo Tawa Dhokla,1,0,,95.0
+Our Speciality In Dhokla,Schezwan Tawa Dhokla,1,0,,100.0
+Our Speciality In Dhokla,Vegetable Dhokla,1,0,,85.0
+Khaman,Dahi Tam Tam Khaman,1,0,,165.0
+Khaman,Green Tadka Khaman,1,0,,80.0
+Khaman,Oil Masala Khaman,1,0,,85.0
+Khaman,Plain Live Khaman,1,0,,40.0
+Khaman,Tam Tam Khaman,1,0,,140.0
+Khaman,Vagharela Khaman,1,0,,115.0
+Cold Drinks,Butter Milk,1,0,250 Ml.,13.0
+Cold Drinks,Coca Cola 250ml,1,0,,30.0
+Cold Drinks,Fanta 250ml,1,0,,50.0
+Cold Drinks,Kinley Mineral 1L,1,0,,30.0
+Cold Drinks,Kinley Mineral 500 Ml,1,0,,15.0
+Cold Drinks,Limca 250ml,1,0,,30.0
+Cold Drinks,Sprite 250ml,1,0,,30.0
+Cold Drinks,Thumsup 250ml,1,0,,50.0

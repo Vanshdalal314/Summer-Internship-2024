@@ -1,0 +1,20 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Zomato Express Meals,Veg Cheese BBQ Frankie + Veg Cheese Schezwan Mayonnaise Frankie,1,0,Veg Cheese BBQ Frankie + Veg Cheese Schezwan Mayonnaise Frankie,169.0
+Zomato Express Meals,Veg Cheese Mayonnaise Frankie + Veg Schezwan Cheese Frankie,1,0,Veg Cheese Mayonnaise Frankie + Veg Schezwan Cheese Frankie,169.0
+Zomato Express Meals,Veg Cheese Tandoori Frankie + Veg Peri-Peri Cheese Frankie,1,0,Veg Cheese Tandoori Frankie + Veg Peri-Peri Cheese Frankie,169.0
+Zomato Express Meals,Veg Cheese Frankie + Veg Cocktail Frankie,1,0,Veg Cheese Frankie + Veg Cocktail Frankie,169.0
+Frankies,Veg Cheese Schezwan Mayonnaise Frankie,1,0,,90.0
+Frankies,Veg Cheese Peri-Peri Frankie,1,0,With Special Peri-Peri sauce inside.,90.0
+Frankies,Veg Cheese Barbeque Mayonnaise Frankie,1,0,With Special BBQ sauce inside.,90.0
+Frankies,Veg Cheese Frankie,1,0,,80.0
+Frankies,Veg Cheese Tandoori Frankie,1,0,,90.0
+Frankies,Veg Cheese Mayonnaise Frankie,1,0,,90.0
+Frankies,Veg Cheese Schezwan Frankie,1,0,,90.0
+Frankies,Veg Cocktail Frankie,1,0,"A Cocktail combo of Aloo Tikki, Schezwan sauce, Mayonnaise sauce, Green chutney and ... read more",100.0
+Frankies,Veg Frankie,1,0,,65.0
+Frankies,Veg Mayonnaise Frankie,1,0,,75.0
+Frankies,Veg Schezwan Mayonnaise Frankie,1,0,,80.0
+Frankies,Veg Schezwan Frankie,1,0,,75.0
+Frankies,Veg Peri Peri Frankie,1,0,With Special Peri-Peri sauce inside.,75.0
+Frankies,Veg Tandoori Frankie,1,0,,75.0
+Frankies,Veg Barbeque Frankie,1,0,With Special BBQ sauce inside.,75.0

@@ -1,0 +1,77 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Cream Scoops,"Vanilla Ice Cream [1 Scoop, 90 grams]",1,0,,76.0
+Ice Cream Scoops,"Strawberry Ice Cream [1 Scoop, 90 grams]",1,0,,76.0
+Ice Cream Scoops,"Mango Ice Cream [1 Scoop, 90 grams]",1,0,,82.0
+Ice Cream Scoops,"Green Pista Ice Cream [1 Scoop, 90 grams]",1,0,,82.0
+Ice Cream Scoops,"Butterscotch Ice Cream [1 Scoop, 90 grams]",1,0,,82.0
+Ice Cream Scoops,"Blackcurrant Ice Cream [1 Scoop, 90 grams]",1,0,,82.0
+Ice Cream Scoops,"Chocolate Ice Cream [1 Scoop, 90 grams]",1,0,,88.0
+Ice Cream Scoops,"Choco Chips Ice Cream [1 Scoop, 90 grams]",1,0,,95.0
+Ice Cream Scoops,"Fig and Honey Ice Cream [1 Scoop, 90 grams]",1,0,,95.0
+Ice Cream Scoops,"Coffee Ice Cream [1 Scoop, 90 grams]",1,0,,95.0
+Ice Cream Scoops,"American Nuts Ice Cream [1 Scoop, 90 grams]",1,0,,88.0
+Ice Cream Scoops,"Kesar Pista Ice Cream [1 Scoop, 90 grams]",1,0,,100.0
+Ice Cream Scoops,"Afghan Dry Fruits Ice Cream [1 Scoop, 90 grams]",1,0,,88.0
+Ice Cream Scoops,"Tutti Frutti Ice Cream [1 Scoop, 90 grams]",1,0,,82.0
+Ice Cream Scoops,"Moroccan Dry Fruits Ice Cream [1 Scoop, 90 grams]",1,0,,95.0
+Ice Cream Scoops,"Rajbhog Ice Cream [1 Scoop, 90 grams]",1,0,,100.0
+Ice Cream Scoops,"Roasted Almond Ice Cream [1 Scoop, 90 grams]",1,0,,95.0
+Ice Cream Scoops,Salted Caramel Ice Cream (1 Scoop 90 Grams),1,0,,100.0
+Ice Cream Scoops,Tender Coconut Ice Cream,1,0,Tender coconut flavor.,100.0
+Ice Cream Scoops [250 grams],Vanilla Ice Cream [250 grams],1,0,,170.0
+Ice Cream Scoops [250 grams],Strawberry Ice Cream [250 grams],1,0,,170.0
+Ice Cream Scoops [250 grams],Mango Ice Cream [250 grams],1,0,,196.0
+Ice Cream Scoops [250 grams],Green Pista Ice Cream [250 grams],1,0,,196.0
+Ice Cream Scoops [250 grams],Butterscotch Ice Cream [250 grams],1,0,,196.0
+Ice Cream Scoops [250 grams],Blackcurrant Ice Cream [250 grams],1,0,,196.0
+Ice Cream Scoops [250 grams],Chocolate Ice Cream [250 grams],1,0,,205.0
+Ice Cream Scoops [250 grams],Choco Chips Ice Cream [250 grams],1,0,,210.0
+Ice Cream Scoops [250 grams],Fig and Honey Ice Cream [250 grams],1,0,,210.0
+Ice Cream Scoops [250 grams],Coffee Ice Cream [250 grams],1,0,,210.0
+Ice Cream Scoops [250 grams],American Nuts Ice Cream [250 grams],1,0,,205.0
+Ice Cream Scoops [250 grams],Kesar Pista Ice Cream [250 grams],1,0,,215.0
+Ice Cream Scoops [250 grams],Afghan Dry Fruits Ice Cream [250 grams],1,0,,205.0
+Ice Cream Scoops [250 grams],Tutti Frutti Ice Cream [250 grams],1,0,,196.0
+Ice Cream Scoops [250 grams],Moroccan Dry Fruits Ice Cream [250 grams],1,0,,210.0
+Ice Cream Scoops [250 grams],Rajbhog Ice Cream [250 grams],1,0,,215.0
+Ice Cream Scoops [250 grams],Roasted Almond Ice Cream [250 grams],1,0,,210.0
+Ice Cream Scoops [250 grams],Salted Caramel Ice Cream ( Scopps 250 Grams),1,0,,215.0
+Ice Cream Scoops [250 grams],Choco Brownie Ice Cream [250 grams],1,0,,210.0
+Ice Cream Scoops [250 grams],"Tenders Coconut Ice Cream [Scoop, 250 grams]",1,0,,215.0
+Ice Cream Scoops [500 grams],Vanilla Ice Cream [500 grams],1,0,,330.0
+Ice Cream Scoops [500 grams],Strawberry Ice Cream [500 grams],1,0,,330.0
+Ice Cream Scoops [500 grams],Mango Ice Cream [500 grams],1,0,,360.0
+Ice Cream Scoops [500 grams],Green Pista Ice Cream [500 grams],1,0,,360.0
+Ice Cream Scoops [500 grams],Butterscotch Ice Cream [500 grams],1,0,,360.0
+Ice Cream Scoops [500 grams],Blackcurrant Ice Cream [500 grams],1,0,,360.0
+Ice Cream Scoops [500 grams],Chocolate Ice Cream [500 grams],1,0,,390.0
+Ice Cream Scoops [500 grams],Choco Chips Ice Cream [500 grams],1,0,,400.0
+Ice Cream Scoops [500 grams],Fig and Honey Ice Cream [500 grams],1,0,,400.0
+Ice Cream Scoops [500 grams],Coffee Ice Cream [500 grams],1,0,,400.0
+Ice Cream Scoops [500 grams],American Nuts Ice Cream [500 grams],1,0,,390.0
+Ice Cream Scoops [500 grams],Kesar Pista Ice Cream [500 grams],1,0,,415.0
+Ice Cream Scoops [500 grams],Afghan Dry Fruits Ice Cream [500 grams],1,0,,390.0
+Ice Cream Scoops [500 grams],Tutti Frutti Ice Cream [500 grams],1,0,,360.0
+Ice Cream Scoops [500 grams],Moroccan Dry Fruits Ice Cream [500 grams],1,0,,400.0
+Ice Cream Scoops [500 grams],Rajbhog Ice Cream [500 grams],1,0,,415.0
+Ice Cream Scoops [500 grams],Roasted Almond Ice Cream [500 grams],1,0,,400.0
+Ice Cream Scoops [500 grams],Salted Caramel Ice Cream ( Scoop 500 Grams),1,0,,415.0
+Ice Cream Scoops [500 grams],Tenders Coconut Ice Cream [500 grams],1,0,,415.0
+Thick Shakes,Vanilla Thick Shake [300 ml],1,0,,110.0
+Thick Shakes,Strawberry Thick Shake [300 ml],1,0,,110.0
+Thick Shakes,Butterscotch Thick Shake [300 ml],1,0,,120.0
+Thick Shakes,Pista Thick Shake [300 ml],1,0,,120.0
+Thick Shakes,Mango Thick Shake [300 ml],1,0,,120.0
+Thick Shakes,Blackcurrant Thick Shake [300 ml],1,0,,120.0
+Thick Shakes,Chocolate Thick Shake [300 ml],1,0,,120.0
+Thick Shakes,Choco Chip Thick Shake [300 ml],1,0,,120.0
+Thick Shakes,Choco Brownie Thick Shake [300 ml],1,0,,120.0
+Thick Shakes,Cookies and Cream Thick Shake [300 ml],1,0,,120.0
+Thick Shakes,Cool Coffee Thick Shake [300 ml],1,0,,120.0
+Thick Shakes,Oreo and Vanilla Thick Shake [300 ml],1,0,,150.0
+Thick Shakes,Kesar Pista Thick Shake [300 ml],1,0,,150.0
+Thick Shakes,Rajbhog Thick Shake [300 ml],1,0,,150.0
+Thick Shakes,Shahi Anjeer Thick Shake [300 ml],1,0,,150.0
+Thick Shakes,Dry Fruits Thick Shake [300 ml],1,0,,150.0
+Thick Shakes,Salted Caramel Thick Shake (300 ML),1,0,,150.0
+Thick Shakes,Tenders Coconut Thickshake,1,0,,150.0

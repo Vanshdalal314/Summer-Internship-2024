@@ -1,0 +1,13 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Aloo Puri,Schezwan Aloo Puri,1,0,,40.0
+Aloo Puri,Schezwan Crunchy Aloo Puri,1,0,,50.0
+Aloo Puri,Schezwan Cheese Aloo Puri,1,0,,70.0
+Aloo Puri,Schezwan Cheese Crunchy Aloo Puri,1,0,,80.0
+Aloo Puri,Mayonnaise Schezwan Aloo Puri,1,0,,60.0
+Aloo Puri,Mayonnaise Cheese Schezwan Aloo Puri,1,0,,80.0
+Aloo Puri,Mayonnaise Cheese Schezwan Crunchy Aloo Puri,1,0,,90.0
+Khausa,Veg Khausa,1,0,,80.0
+Khausa,Veg Schezwan Khausa,1,0,,90.0
+Khausa,Veg Schezwan and Mayo Khausa,1,0,,100.0
+Khausa,Veg Cheese Khausa,1,0,,110.0
+Khausa,Veg Schezwan and Mayo and Cheese Khausa,1,0,,120.0

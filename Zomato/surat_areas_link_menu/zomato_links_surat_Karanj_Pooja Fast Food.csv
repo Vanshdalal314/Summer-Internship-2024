@@ -1,0 +1,36 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Veg Cheese Pizza [7 inches],1,0,,120.0
+Pizza,Veg Jain Cheese Pizza [7 inches],1,0,[Jain Preparation],120.0
+Pizza,Onion Capsicum Pizza [7 inches],1,0,,130.0
+Pizza,Plain Cheese Pizza [7 inches],1,0,,130.0
+Pizza,Mushroom Cheese Pizza [7 inches],1,0,,150.0
+Pizza,Italian Pizza [7 inches],1,0,,140.0
+Burger and Sandwiches,Veg Cheese Burger,1,0,,70.0
+Burger and Sandwiches,Veg Toast Sandwich,1,0,,50.0
+Burger and Sandwiches,Bread Butter Sandwich,1,0,,30.0
+Burger and Sandwiches,Bread Butter Aloo Sandwich,1,0,,40.0
+Burger and Sandwiches,Bread Butter Jam Sandwich,1,0,,40.0
+Burger and Sandwiches,Bread Butter Jam Cheese Sandwich,1,0,,70.0
+Burger and Sandwiches,Veg Sandwich,1,0,,50.0
+Burger and Sandwiches,Jam Sandwich,1,0,,50.0
+Burger and Sandwiches,Veg Jam Sandwich,1,0,,50.0
+Burger and Sandwiches,Sev Sandwich,1,0,,50.0
+Burger and Sandwiches,Veg Cheese Sandwich,1,0,,70.0
+Burger and Sandwiches,Plain Cheese Sandwich,1,0,,70.0
+Burger and Sandwiches,Sev Cheese Sandwich,1,0,,70.0
+Burger and Sandwiches,Veg Cheese Grilled Sandwich,1,0,,120.0
+Burger and Sandwiches,Plain Cheese Grilled Sandwich,1,0,,130.0
+Burger and Sandwiches,Mushroom Cheese Grilled Sandwich,1,0,,150.0
+Burger and Sandwiches,Italian Cheese Grilled Sandwich,1,0,,140.0
+Snacks,Chutney Toast,1,0,,50.0
+Snacks,Bread Butter Toast,1,0,,50.0
+Snacks,Aloo Butter Toast,1,0,,50.0
+Snacks,Bread Butter Jam Toast,1,0,,50.0
+Snacks,Veg Cheese Toast,1,0,,70.0
+Snacks,Pizza Cheese Toast,1,0,,70.0
+Snacks,Plain Cheese Toast,1,0,,70.0
+Snacks,Chilli Cheese Toast,1,0,,70.0
+Snacks,Chutney Cheese Toast,1,0,,70.0
+Snacks,Onion Capsicum Toast,1,0,,70.0
+Snacks,Garlic Bread,1,0,,80.0
+Snacks,Veg Cheese Hot Dog,1,0,,70.0

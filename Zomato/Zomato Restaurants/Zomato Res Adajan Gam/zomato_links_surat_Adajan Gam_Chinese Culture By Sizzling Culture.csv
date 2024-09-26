@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Manchow Soup,1,0,Satisfy your craving for a hearty and flavorful soup with this veggie-packed bowl.,198.0
+Dry Starters,Dry Manchurian,1,0,A savory and crispy Chinese dish with a tangy and flavorful sauce.,198.0
+Dry Starters,Mushroom Chilly(99),1,0,,300.0
+Dry Starters,Paneer Chilli,1,0,Soft and creamy chunks in a mouth-watering sauce.,240.0
+Dry Starters,Paneer Crispy(99),1,0,,320.0
+Dry Starters,Schezwan Tadka Chilli Paneer(99),1,0,,300.0
+Noodles,Singapuri Noodles,1,0,Tantalizingly flavored noodles from the heart of Singapore.,198.0
+Noodles,Burnt Garlic Noodles(99),1,0,,260.0
+Noodles,Chilly Garlic Noodles,1,0,A delectable combination of savory garlic and tasty noodles that will leave your ... read more,280.0
+Noodles,Chinese Bhel,1,0,A fusion of crispiness and exotic flavors.,240.0
+Noodles,Crispy Noodles(99),1,0,,198.0
+Noodles,Hakka Noodles,1,0,Tantalizingly savory and satisfying Chinese veg noodles.,240.0
+Noodles,Manchurian Noodles,1,0,Savory Chinese-style veggie noodles with a bold and flavorful twist.,220.0
+Noodles,Paneer Noodles(99),1,0,,290.0
+Noodles,Schezwan Noodles,1,0,A flavor-packed noodles dish with an explosion of bold and savory tastes.,220.0
+Noodles,Veg Noodles,1,0,Savory and satisfying noodles tossed with a medley of fresh vegetables.,198.0
+Rice,Burnt Garlic Bhel,1,0,,198.0
+Rice,Burnt Garlic Rice,1,0,A flavorful and aromatic rice dish with a crisp and smoky touch.,198.0
+Rice,Cheese Veg Fried Rice,1,0,,240.0
+Rice,Mexican Rice,1,0,,510.0
+Rice,Mushroom Rice,1,0,,510.0
+Rice,Paneer Chinese Bhel(99),1,0,,300.0
+Rice,Paneer Schezwan Rice(99),1,0,,300.0
+Rice,Paneer Veg Fried Rice(99),1,0,,300.0
+Rice,Schezwan Rice,1,0,A flavorful Chinese rice dish that will tantalize your taste buds!,260.0
+Rice,Singapuri Rice,1,0,Aromatic and flavorful rice dish with a hint of exotic Singaporean spices.,260.0
+Rice,Veg Fried Rice,1,0,"A delightful Chinese dish of mixed vegetables and rice, stir-fried to perfection.",198.0
+Gravy,Gravy Manchurian(99),1,0,,198.0
+Gravy,Mushroom Chilly (550Ml)Gravy(99),1,0,,600.0
+Gravy,Paneer Chilly Gravy(99),1,0,,600.0
+Burgers,Aloo Tikki Burger,1,0,,198.0
+Burgers,Paneer Burger,1,0,A unique and tasty street style burger recipe made with paneer cubes withspecial ... read more,300.0
+Burgers,Peri Peri Burger,1,0,Onion Or tomato Or patty Or peri peri sause,260.0
+Burgers,Veg Crispy Burger,1,0,,240.0
+French Fries,Cheese Corn French Fries,1,0,,260.0
+French Fries,Cheese French Fries,1,0,"Golden French fries smothered in melted cheese, the perfect indulgence for any cheese ... read more",280.0
+French Fries,Cheese Mayo French Fries,1,0,,260.0
+French Fries,Maggi French Fries,1,0,,260.0
+French Fries,Masala French Fries,1,0,"A fragrant twist on classic fries, bursting with delectable flavors.",240.0
+French Fries,Mexican French Fries,1,0,,260.0
+French Fries,Peri Peri French Fries,1,0,Crisp golden fries with a tantalizing blend of African spices.,260.0
+French Fries,Salted French Fries,1,0,Crispy golden French fries with a sprinkle of salt.,230.0
+French Fries,Tandoori Mayo French Fries,1,0,,240.0
+Desserts And Beverages,Mineral Water,1,0,,70.0
+Desserts And Beverages,Sprite [200 Ml],1,0,,70.0
+Desserts And Beverages,Thums Up [200 Ml],1,0,,70.0
+Desserts And Beverages,Blue Curacao Mojito,1,0,[Non Alcoholic].,210.0
+Desserts And Beverages,Green Apple Mojito,1,0,[Non Alcoholic].,210.0
+Desserts And Beverages,Mint Mojito,1,0,[Non Alcoholic].,210.0

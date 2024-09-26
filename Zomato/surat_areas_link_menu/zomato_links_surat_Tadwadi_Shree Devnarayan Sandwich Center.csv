@@ -1,0 +1,32 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sada Sandwich,Bread Butter,1,0,Bread butter.,25.0
+Sada Sandwich,Bread Butter Aloo,1,0,,40.0
+Sada Sandwich,Bread Butter Jam,1,0,,40.0
+Sada Sandwich,Bread Butter Jam Cheese,1,0,,70.0
+Sada Sandwich,Bread Butter Chocolate,1,0,,40.0
+Sada Sandwich,Bread Butter Cheese Chocolate,1,0,,80.0
+Sada Sandwich,Veg Sandwich,1,0,,40.0
+Sada Sandwich,Veg Cheese Sandwich,1,0,,60.0
+Toast Sandwich,Aloo Matar Toast Sandwich,1,0,,40.0
+Toast Sandwich,Bread Butter Toast,1,0,,40.0
+Toast Sandwich,Bread Butter Cheese Toast,1,0,,70.0
+Toast Sandwich,Veg Masala Toast Sandwich,1,0,,60.0
+Toast Sandwich,Kachumber Cheese Toast,1,0,,100.0
+Toast Sandwich,Open Pizza Toast,1,0,,120.0
+Club Sandwich,Indore Cheese Chutney Sandwich,1,0,,80.0
+Club Sandwich,Cheese Chilli Club Sandwich,1,0,,110.0
+Club Sandwich,Indori Cheese Mayo Club Sandwich,1,0,,110.0
+Club Sandwich,Indori Cheese Club Sandwich,1,0,,120.0
+Club Sandwich,Indori Special Paneer Club Sandwich,1,0,,150.0
+Burger,Veg Burger,1,0,,50.0
+Burger,Veg. Mayo Burger,1,0,,60.0
+Burger,Veg. Cheese Burger,1,0,,70.0
+Grilled Sandwich,Bombay Grilled Sandwich,1,0,,120.0
+Grilled Sandwich,Indori Cheese Grilled Sandwich,1,0,,140.0
+Grilled Sandwich,Paneer Chilly Cheese Grilled Sandwich,1,0,,160.0
+Rimzim Grilled Sandwich,Indore Rimzim Cheese Grilled,1,0,,160.0
+Grilled Puff,Sada Puff,1,0,,20.0
+French Fry,Plain French Fry,1,0,,60.0
+Garlic bread,Cheese Garlic Bread,1,0,,100.0
+Pizza,"Plain Cheese Pizza [5 inches, Mini]",1,0,,60.0
+Milk Shake,Cold Coffee,1,0,,40.0

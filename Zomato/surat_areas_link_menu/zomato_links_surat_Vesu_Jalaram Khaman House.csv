@@ -1,0 +1,64 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Khaman,Plain Khaman,1,0,"Khaman is made up of fresh ground chana dal or chana flour [besan], ... read more",50.0
+Khaman,Vagharela Khaman,1,0,"Khaman is made up of fresh ground chana dal or chana flour [besan], ... read more",50.0
+Khaman,Sev Khaman,1,0,"Khaman is made up of fresh ground chana dal or chana flour [besan], ... read more",58.0
+Khaman,Nylon Khaman,1,0,,50.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,150.0
+Sandwiches,Veg Sandwich,1,0,,83.0
+Sandwiches,Veg Cheese Sandwich,1,0,,116.0
+Sandwiches,Club Sandwich,1,0,,150.0
+Sandwiches,Aloo Masala Toast Sandwich,1,0,,100.0
+Sandwiches,Bread Butter Toast Sandwich,1,0,,50.0
+Sandwiches,Bombay Grilled Sandwich,1,0,,216.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,216.0
+Locha,Plain Locho,1,0,,75.0
+Locha,Oil Locho,1,0,,125.0
+Locha,Butter Locho,1,0,,150.0
+Locha,Cheese Butter Locho,1,0,,233.0
+Locha,Garlic Oil Locho,1,0,,133.0
+Locha,Garlic Butter Locho,1,0,,166.0
+Locha,Garlic Cheese Butter Locho,1,0,,216.0
+Locha,"Liquid Cheese Roll Locho [150 grams, 1 Plate]",1,0,,166.0
+Locha,"Mayonnaise Roll Locho [150 grams, 1 Plate]",1,0,,150.0
+Locha,"Tandoori Cheese Roll Locho [150 grams, 1 Plate]",1,0,,166.0
+Locha,Schezwan Butter Locho,1,0,,166.0
+Locha,Schezwan Oil Locho,1,0,,133.0
+Drinks (Beverages),Masala Chaas,1,0,,25.0
+Drinks (Beverages),Malai Lassi,1,0,,67.0
+Idada,Plain Idada,1,0,"Idada, here is a non-fermented version of dhokla, for people with acidity and ... read more",50.0
+Idada,Vagharela Idada,1,0,,50.0
+Idada,Masala Idada,1,0,"Idada, here is a non-fermented version of dhokla, for people with acidity and ... read more",58.0
+Idada,Cheese Idada,1,0,,83.0
+Poha,Indori Poha [150 grams],1,0,,67.0
+Patudi,Plain Patudi,1,0,,67.0
+Patudi,Vaghareli Patudi,1,0,,50.0
+Patudi,Cheese Patudi,1,0,,83.0
+Samosa,Dal Fried Samosa,1,0,,50.0
+Samosa,Punjabi Samosa [2 Pieces],1,0,,50.0
+Samosa,Kacha Dal Samosa,1,0,,100.0
+Khamni,Sev Jain Khamani,1,0,Surti sev khamani is a well known snack of surat in gujarat. It ... read more,50.0
+Khamni,Sev Garlic Khamani,1,0,Surti sev khamani is a well-known snack of surat in gujarat. It is ... read more,58.0
+Khamni,Special Jain Khamani,1,0,Surti sev khamani is a well-known snack of surat in gujarat. It is ... read more,75.0
+Khamni,Special Garlic Khamani,1,0,Surti sev khamani is a well-known snack of surat in gujarat. It is ... read more,75.0
+Patra and Patties,Plain Patra,1,0,Its besan roll.,67.0
+Patra and Patties,Vagharela Patra,1,0,,50.0
+Snacks,Bataka Poori,1,0,,67.0
+Snacks,Onion Bhajiya,1,0,,67.0
+Snacks,Tomato Poori,1,0,,83.0
+Snacks,Dal Vada,1,0,,83.0
+Snacks,Methi Gota,1,0,,166.0
+Snacks,Mixed Bhajiya,1,0,,183.0
+Snacks,Bataka Vada,1,0,,50.0
+Vada Pav,Cream and Onion Mayo Pav,1,0,,58.0
+Vada Pav,Solid Masti Mayo Pav,1,0,,58.0
+Vada Pav,Mix Veg Mayo Pav,1,0,,67.0
+Vada Pav,Cheese Chilli Mayo Pav,1,0,,75.0
+Vada Pav,Vada Pav,1,0,,33.0
+Vada Pav,Butter Vada Pav,1,0,,42.0
+Vada Pav,Cheese Vada Pav,1,0,,58.0
+Vada Pav,Gralic Solid Masti Mayo Pav,1,0,,58.0
+Vada Pav,Gralic Cream & Onion Mayo Pav,1,0,,58.0
+Vada Pav,Bread Pakoda [2 Pieces],1,0,,67.0
+Vada Pav,Grilled Vada Pav,1,0,,42.0
+Vada Pav,Butter Grilled Vada Pav,1,0,,58.0
+Vada Pav,Cheese Grilled Vada Pav,1,0,,75.0

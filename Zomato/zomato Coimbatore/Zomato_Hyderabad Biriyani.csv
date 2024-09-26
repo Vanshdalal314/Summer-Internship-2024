@@ -1,0 +1,37 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Jumbo Biryani,Chicken Jumbo Biryani,0,0,1.2 Kg Biriyani | Sufficient For 2 Persons,330.0
+Jumbo Biryani,Egg Jumbo Biryani (4Eggs),0,0,1.2 Kg Biriyani | Sufficient For 2 Persons,300.0
+Jumbo Biryani,Empty Jumbo Biryani,0,0,1.2 Kg Biriyani | Sufficient For 2 Persons,285.0
+Jumbo Biryani,Fish Jumbo Biryani,0,0,1.2 Kg Biriyani | Sufficient For 2 Persons,435.0
+Jumbo Biryani,Prawn Jumbo Biryani,0,0,1.2 Kg Biriyani | Sufficient For 2 Persons,435.0
+Biryani,Chicken Biryani,0,0,Sufficient For 1 Person,225.0
+Biryani,Egg Biryani (2Eggs),0,0,Sufficient For 1 Person,210.0
+Biryani,Fish Biryani,0,0,Sufficient For 1 Person,360.0
+Biryani,Kebab Biryani,0,0,Sufficient For 1 Person,255.0
+Biryani,Prawn Biryani,0,0,Sufficient For 1 Person,360.0
+Starters,Chicken 65,0,0,"Spicy and crispy fried chicken, a popular appetizer.",150.0
+Starters,Chicken Manchurian,0,0,Indo-Chinese fusion dish featuring batter-fried chicken in a tangy sauce.,180.0
+Starters,Chilly Fish,0,0,Crispy fish bites coated in a spicy chili-infused sauce.,225.0
+Starters,Chilly Gobi,0,0,Cauliflower florets fried and coated with spicy chili sauce.,135.0
+Starters,Egg Poriyal,0,0,A South Indian stir-fry featuring eggs with traditional spices.,60.0
+Starters,Fish Pepper Fry,0,0,Fish chunks marinated and pan-fried with a peppery twist.,240.0
+Starters,Garlic Chicken Dry,0,0,"Chicken saut?ed with aromatic garlic, resulting in a flavorful dry dish.",180.0
+Starters,Ginger Chicken Dry,0,0,Chicken dish infused with the zingy flavors of ginger.,180.0
+Starters,Mushroom Chilly,0,0,Mushrooms saut?ed with spices and green chilies for a spicy kick.,150.0
+Starters,Mutton Chukka (Boneless),0,0,Dry mutton preparation with bold spices and South Indian flavors.,270.0
+Starters,Pepper Chicken Dry,0,0,Succulent chicken cooked with black pepper for an extra kick.,180.0
+Starters,Prawn Chilly,0,0,Stir-fried prawns in a spicy and tangy chili-based sauce.,285.0
+Starters,Prawn Pepper Fry,0,0,Prawns tossed with black pepper and spices for a robust flavor.,285.0
+Gravy,Egg Masala,0,0,"Eggs in a spiced gravy, a delicious vegetarian option.",90.0
+Gravy,Hydrabad Chicken Gravy,0,0,Flavorful chicken curry with a Hyderabadi touch.,225.0
+Gravy,Pepper Chicken Gravy,0,0,Chicken curry infused with the warmth of black pepper.,225.0
+Fried Rice & Noodles,Chicken Fried Rice,0,0,Stir-fried rice with tender chicken pieces and vegetables.,210.0
+Fried Rice & Noodles,Chicken Noodles,0,0,Stir-fried noodles with chicken and assorted vegetables.,210.0
+Fried Rice & Noodles,Egg Fried Rice,0,0,Fried rice combined with scrambled eggs and veggies.,195.0
+Fried Rice & Noodles,Egg Noodles,0,0,Noodles with scrambled eggs and a mix of veggies.,195.0
+Fried Rice & Noodles,Mushroom Fried Rice,0,0,Flavored rice with saut?ed mushrooms and vegetables.,210.0
+Fried Rice & Noodles,Mushroom Noodles,0,0,Noodles tossed with mushrooms and vegetables.,210.0
+Fried Rice & Noodles,Paneer Fried Rice,0,0,Rice stir-fried with paneer (Indian cottage cheese) and veggies.,225.0
+Fried Rice & Noodles,Paneer Noodles,0,0,Noodles combined with paneer and an assortment of veggies.,225.0
+Fried Rice & Noodles,Veg Fried Rice,0,0,"A medley of vegetables in fried rice, suitable for vegetarians.",180.0
+Fried Rice & Noodles,Veg Noodles,0,0,Vegetarian noodles with a variety of colorful vegetables.,180.0

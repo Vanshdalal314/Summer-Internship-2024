@@ -1,0 +1,130 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Punjabi Mini Thali,1,0,1 Special Paneer Sabji+3 Roti+1 Special Veg Biryani+1 Achar+1 Sweet + 1 Salad+1 ... read more,170.0
+Thali,Special Punjabi Thali,1,0,Paneer Sabji + Veg Sabji + 4 Butter Roti + Dal Fry + ... read more,195.0
+Thali,Gold Punjabi Thali,1,0,Special Paneer Sabji + Veg Sabi + Special Biryani + 4 Butter Roti ... read more,195.0
+Thali,Special Gujarati Thali,1,0,Green Sabji+Kathol Sabji+6 Butter Tawa Chapati+Dal+Rice or Dal Khichdi+Papad+Buttermilk+Salad+Achar+Mukhwas [Jain Not Available],199.0
+Zomato Special Combos,Dal Fry [300 ml] + Jeera Rice [300 ml] + 1 Roasted Papad+Butter Milk,1,0,Dal Fry [300 ml]+Jeera Rice [300 ml]+Butter Milk,129.0
+Zomato Special Combos,Paneer Butter Masala [250 Grams] with 3 Butter Chapati Roti+Butter Milk,1,0,,170.0
+Zomato Special Combos,Paneer Pasanda[250ml]+3 Butter Tawa Roti+Butter Milk,1,0,Manchurian Gravy [300 ml]+Fried Rice [300 ml],139.0
+Zomato Special Combos,Paneer Sabji + Veg Sabji + 4 Butter Chapati Roti + Biryani + Salad + Achar + Mukhwas,1,0,Paneer Sabji+Veg Sabji [Subject to availability]+4 Butter Chapati Roti+Biryani+Sweet+Salad+Achar+Mukhwas,190.0
+Zomato Special Combos,Paneer Sabji + Veg Sabji + 4 Butter Chapati Roti + Dal Fry + Jeera Rice + Salad + Mukhwas,1,0,Paneer Sabji+Veg Sabji [Subject to Availability]+4 Butter Chapati Roti+Dal Fry+Jeera Rice+Sweet+Salad+Mukhwas.,190.0
+Zomato Special Combos,Dry Manchurian [Full] + Paneer Lababdar [500 Grams] + 8 Butter Tawa Chapati + 2 Papad + 2 Buttermilk,1,0,,449.0
+Zomato Special Combos,Dry Manchurian [Full] + Chinese Bhel [Full] + Paneer Chilli [Half],1,0,,359.0
+Zomato Special Combos,Paneer Butter Masala [500 Grams] + 8 Butter Tawa Chapati + Veg Biryani + 2 Papad + 2 Butter Milk,1,0,,449.0
+Zomato Special Combos,Paneer Chilly [Half] + Paneer Bhurji [500 Grams] + 8 Butter Tawa Chapati + 2 Papad + 2 Buttermilk,1,0,,499.0
+Main Course,Veg Toofani,1,0,A super spicy mix of vegetables & authentic north indian curry.|,179.0
+Main Course,Chana Masala,1,0,,179.0
+Main Course,Veg Balti,1,0,Sweet.,179.0
+Main Course,Veg Kolhapuri,1,0,| Served as Semi-gravy |,140.0
+Main Course,Veg Hyderabadi,1,0,,179.0
+Main Course,Veg Jaipuri,1,0,Sweet.,189.0
+Main Course,Navratan Korma,1,0,Sweet.,179.0
+Main Course,Veg Chatpata,1,0,,179.0
+Main Course,Palak Matar,1,0,,150.0
+Main Course,Veg Handi,1,0,Sweet.,189.0
+Main Course,Veg Tawa,1,0,Sweet.,179.0
+Main Course,Veg Lahori,1,0,Sweet.,179.0
+Main Course,Veg Kadai,1,0,Sweet.,179.0
+Main Course,Veg Mix,1,0,,179.0
+Main Course,Veg Makhanwala,1,0,Sweet.,189.0
+Main Course,Mushroom Masala,1,0,Sweet.,190.0
+Main Course,Palak Paneer,1,0,,179.0
+Main Course,Paneer Toofani,1,0,Paneer Tufani Is A Rich Vegetable Curry. A Delicious North Indian Curry Made ... read more,189.0
+Main Course,Paneer Masala,1,0,,189.0
+Main Course,Paneer Lahori,1,0,,189.0
+Main Course,Paneer Tawa,1,0,Marinated tawa style paneer served in mouthwatering gravy.,189.0
+Main Course,Paneer Matar,1,0,,179.0
+Main Course,Paneer Handi,1,0,Paneer finger with Shimla finger in red gravy.,189.0
+Main Course,Paneer Chatpata,1,0,A flavor-packed preparation with paneer cooked in a perfectly seasoned onion-tomato spicy gravy.|,189.0
+Main Course,Paneer Lajawab,1,0,,189.0
+Main Course,Paneer Butter Masala,1,0,"Paneer Butter Masala, Also Known As Butter Paneer Is A Rich & Creamy ... read more",189.0
+Main Course,Paneer Tikka Masala,1,0,Cubes of paneer cooked in a combination of onion & tomato gravy.,189.0
+Main Course,Paneer Garlic,1,0,,189.0
+Main Course,Paneer Laziz,1,0,,189.0
+Main Course,Paneer Korma,1,0,Sweet.,180.0
+Main Course,Paneer Patiyala,1,0,,189.0
+Main Course,Paneer Shahi,1,0,Sweet.,199.0
+Main Course,Paneer Kadai,1,0,,189.0
+Main Course,Paneer Balti,1,0,,189.0
+Main Course,Paneer Green Gujarat,1,0,,180.0
+Main Course,Paneer Mushroom Masala,1,0,,180.0
+Main Course,Paneer Kolhapuri,1,0,,189.0
+Main Course,Paneer Bhurji,1,0,Indian cottage cheese this paneer bhurji recipe is Punjabi style in dry.,199.0
+Main Course,Paneer Cheese Butter Masala,1,0,,199.0
+Main Course,Paneer Cheese Kaju,1,0,,199.0
+Main Course,Paneer Lababdar,1,0,,189.0
+Main Course,Paneer Sainath Special,1,0,,249.0
+Main Course,Paneer Chana,1,0,,170.0
+Main Course,Paneer Pasanda,1,0,Cheese and nuts stuffed cottage cheese triangles cooked in smooth and creamy onion ... read more,239.0
+Main Course,Cheese Masala,1,0,,180.0
+Main Course,Cheese Butter Masala,1,0,,199.0
+Main Course,Cheese Angara,1,0,,180.0
+Main Course,Kaju Curry [Sweet],1,0,Sweet.,199.0
+Main Course,Kaju Masala [Spicy],1,0,,190.0
+Main Course,Kaju Khoya,1,0,Sweet.,190.0
+Main Course,Kaju Kadhai,1,0,Sweet.,199.0
+Main Course,Kaju Paneer Masala,1,0,Sweet.,219.0
+Main Course,Cheese Kaju Masala,1,0,Sweet.,219.0
+Main Course,Paneer Kofta,1,0,"Basically a rich, creamy and spicy curry masala recipe served with stuffed paneer ... read more",210.0
+Main Course,Cheese Kofta,1,0,"Dumplings made of mashed potato, paneer & grated cheese, cashew cooked in red ... read more",239.0
+Main Course,Malai Kofta,1,0,Sweet.,229.0
+Main Course,Kaju Kofta,1,0,Sweet white gravy preparation with cashew nuts paste and gravy.,240.0
+Main Course,Raja Rani Kofta,1,0,,250.0
+Main Course,Dal Fry,1,0,,80.0
+Main Course,Dal Tadka,1,0,,99.0
+Main Course,Amul Butter Green Dal,1,0,,109.0
+Soups,Manchow Soup,1,0,,70.0
+Soups,Hot and Sour Soup,1,0,,70.0
+Soups,Noodles Soup,1,0,,70.0
+Soups,Green Soup,1,0,,70.0
+Soups,Tomato Soup,1,0,,70.0
+Soups,Mushroom Soup,1,0,,80.0
+Soups,Lemon Coriander Soup,1,0,,90.0
+Roti,Plain Chapati,1,0,,9.0
+Roti,Butter Chapati,1,0,,15.0
+Rice and Biryani,Steam Rice,1,0,Steamed long grained basmati rice,80.0
+Rice and Biryani,Hydrabadi Biryani,1,0,,190.0
+Rice and Biryani,Jeera Rice,1,0,Aromatic rice cooked in a tempering of cumin and whole spices.,95.0
+Rice and Biryani,Veg Pulao,1,0,,139.0
+Rice and Biryani,Green Pulao,1,0,,140.0
+Rice and Biryani,Kashmiri Pulao,1,0,Sweet.,130.0
+Rice and Biryani,Kaju Pulao,1,0,Basic aromatic and delicious indian style kaju rice served with papad and salad,190.0
+Rice and Biryani,Cheese Pulao,1,0,,170.0
+Rice and Biryani,Paneer Pulao,1,0,Paneer pulao is a delicious one pot rice pilaf made with spices and ... read more,160.0
+Rice and Biryani,Veg Paneer Biryani,1,0,,190.0
+Rice and Biryani,Cheese Paneer Biryani,1,0,,200.0
+Rice and Biryani,Special Sainath Biryani,1,0,,220.0
+Rice and Biryani,Dal Khichdi,1,0,,230.0
+Rice and Biryani,Veg Biryani,1,0,,160.0
+Rice and Biryani,Lasaniya Dal Khichdi,1,0,,240.0
+Rice and Biryani,Palak Khichdi,1,0,,240.0
+Rice and Biryani,Rajwadi Khichdi,1,0,,260.0
+Accompaniment,Roasted Papad,1,0,Traditional papad roasted in Indian style.,15.0
+Accompaniment,Gujab Jamun [2 Pieces],1,0,,30.0
+Accompaniment,Gulab Jamun [1 Piece] with Buttermilk & Roasted Papad,1,0,,35.0
+Accompaniment,Veg Raita,1,0,,80.0
+Accompaniment,Boondi Raita,1,0,A combination of yogurt with the blend of your choice,80.0
+Chinese,Manchurian,1,0,,105.0
+Chinese,Schezwan Manchurian,1,0,,105.0
+Chinese,Chinese Bhel,1,0,,100.0
+Chinese,Bombay Bhel,1,0,,90.0
+Chinese,Paneer Chinese Bhel,1,0,,120.0
+Chinese,Mushroom Chilli,1,0,,200.0
+Chinese,Paneer Chilli,1,0,,200.0
+Chinese,Paneer Lemon Chilli,1,0,,200.0
+Chinese,Paneer Schezwan,1,0,,150.0
+Fried Rice and Noodles,Fried Rice,1,0,,120.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,Spicy soft noodles sauteed with vegetables in spicy schezwan sauce.,120.0
+Fried Rice and Noodles,Lemon Fried Rice,1,0,,120.0
+Fried Rice and Noodles,American Corn Fried Rice,1,0,,120.0
+Fried Rice and Noodles,Singapuri Fried Rice,1,0,,129.0
+Fried Rice and Noodles,Combination Rice,1,0,,120.0
+Fried Rice and Noodles,Paneer Fried Rice,1,0,,180.0
+Fried Rice and Noodles,Triple Rice,1,0,,200.0
+Fried Rice and Noodles,American Chopsuey,1,0,,120.0
+Fried Rice and Noodles,Chinese Chopsuey,1,0,,120.0
+Fried Rice and Noodles,Hakka Noodles,1,0,,120.0
+Fried Rice and Noodles,Schezwan Noodles,1,0,"Noodles tossed with onion, capsicum & carrot in schezwan sauce. Garnished with spring ... read more",120.0
+Fried Rice and Noodles,Singapuri Noodles,1,0,,120.0
+Fried Rice and Noodles,Schezwan Garlic Noodles,1,0,,120.0
+Drinks (Beverages),Buttermilk,1,0,,20.0

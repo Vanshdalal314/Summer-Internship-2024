@@ -1,0 +1,17 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Breads,Butter Roti,1,0,,15.0
+Breads,Plain Roti,1,0,,12.0
+Breads,Rotlo,1,0,,40.0
+Breads,Butter Bhakhri,1,0,,30.0
+Breads,Paratha,1,0,4 Pcs,49.0
+Sweet,Aamras,1,0,,75.0
+Sweet,Gulab Jamun [3 Pieces],1,0,Gulab jamun.,50.0
+Sweet,Matho,1,0,,75.0
+Dal & Rice,Gujrati Dal,1,0,,35.0
+Dal & Rice,Rice,1,0,,35.0
+Thali,Gujarati Thali,1,0,2 Sabji+5 Roti+Dal Rice+Salad+Sweet+Chaas,151.0
+Thali,Gujrati Small Thali,1,0,1 Sabji+4 Roti+Chaach+Salad [Subject to Availability],98.0
+Thali,Gujrati Deluxe Thali,1,0,2 Sabzi+5 Roti+Gulab Jamun [2 Pieces]+1 Farsan+Dal+Rice+Papad+Salad+Chaas [Subject to Availability],249.0
+Thali,Sabji Paratha Thali,1,0,1 Sabji - 4 Paratha - Salad - Chhash,119.0
+Accompaniments,Papad,1,0,,20.0
+Accompaniments,Buttermilk,1,0,,15.0

@@ -1,0 +1,13 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,"Butterscotch Fr Cr Veg Cake [Small, 500 grams]",1,0,,466.0
+Cakes,"KitKat Almond Veg Cake [Small, 500 grams]",1,0,,466.0
+Pastries,Fresh Fruit Veg Pastry,1,0,,85.0
+Pastries,Pineapple Veg Pastry,1,0,,64.0
+Pastries,Black Forest Pastry,1,0,,72.0
+Pastries,Rainbow Pastry,1,0,,76.0
+Pastries,Choco Chips Pastry,1,0,,81.0
+Pastries,Dutch Almond Pastry,1,0,,81.0
+Pastries,Royal Chocolate Pastry,1,0,,72.0
+Pastries,Dutch Brownie Pastry,1,0,,72.0
+Pastries,Red Velvet Cheese Veg Pastry,1,0,,85.0
+Pastries,Black Beauty Veg Pastry,1,0,,72.0

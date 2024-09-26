@@ -1,0 +1,40 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Rice and Biryani,Steamed Rice,1,0,Steamed rice is a versatile side dish that pairs well with most meals.,150.0
+Rice and Biryani,Jeera Rice,1,0,A fragrant and flavourful rice dish with the aromatic flavour of cumin. It ... read more,180.0
+Rice and Biryani,Paneer Biryani,1,0,"A classic Indian dish made with layers of aromatic rice, succulent pieces of ... read more",199.0
+Rice and Biryani,Boneless Butter Chicken Biryani,0,0,"A decadent and delicious combination of boneless chicken and aromatic rice, flavored with ... read more",199.0
+Rice and Biryani,Egg Biryani,0,0,A flavorful rice dish made with fragrant spices and aromatic herbs.,219.0
+Rice and Biryani,Chicken Tikka Biryani,0,0,"Chicken Tikka marinated with yogurt and spices, chargrilled to perfection, served with Biryani.",219.0
+Rice and Biryani,Chicken Dum Biryani with Raita,0,0,"A fragrant chicken biryani dish with tender pieces of chicken and a rich, ... read more",220.0
+Starters,Boneless Chicken Tikka [6 Pieces],0,0,"Tender, juicy boneless chicken pieces marinated in a flavorful tandoori marinade. A delectable ... read more",199.0
+Starters,Chicken Popcorn,0,0,"A crispy and flavorful chicken Popcorn with a sweet and tangy sauce, perfect ... read more",199.0
+Starters,Chicken Strips [6 Pieces] with 1 Dip,0,0,"Crispy chicken strips coated with a sweet and tangy sauce, perfect for sharing ... read more",199.0
+Starters,Chilli Chicken Dry,0,0,"Spicy, tangy and succulent, Chilli chicken dry is a delectable dish that combines ... read more",199.0
+Starters,Spicy Chicken Wings [5 Pieces],0,0,"Juicy, crispy chicken wings with a spicy and tangy flavor. A perfect snack ... read more",199.0
+Starters,Paneer Chilli Dry,1,0,"Our Paneer are prepared with an aromatic blend of spices and fresh herbs, ... read more",199.0
+Starters,French Fries With Dip,1,0,French fries with dip is a tasty and crunchy combination of golden fried ... read more,199.0
+Starters,Peri Peri French Fries,1,0,"Crispy deep fried prawns are tossed with bell pepper, garlic, onion, chilly sauce ... read more",199.0
+Starters,Butter Garlic Mushroom,1,0,Mushrooms are cooked with garlic and butter in this savory Chinese dish. This ... read more,199.0
+Thali and Combos,Butter Paneer Thali,1,0,Butter paneer gravy + 4 roti  + salad,199.0
+Thali and Combos,Veg Supreme Thali,1,0,1 Veg gravy + 1 starter + 1 veg biryani + 2 roti ... read more,249.0
+Thali and Combos,Chicken Executive Thali,0,0,Chicken Biryani+Chicken Gravy+2 Roti+Salad+Raita [Subject to Availability],199.0
+Thali and Combos,Chicken Keema Thali,0,0,Chicken Keema+4 Roti+Salad,199.0
+Thali and Combos,Non Veg supreme Thali,0,0,Chicken biryani + 2 pc tikka + chicken gravy+ 2 roti,249.0
+Thali and Combos,Butter Chicken Combo,0,0,Butter Chicken Gravy+4 Phulka Roti+Salad [Subject to Availability],199.0
+Thali and Combos,Chicken Keema Combo,0,0,Chicken Keema+4 Roti+Salad [Subject to Availability],199.0
+Healthy Diet Food,Diet Grilled Chicken [100 grams],0,0,"Indulge in our diet grilled chicken tender and flavorful, perfectly portioned and weighed ... read more",199.0
+Healthy Diet Food,Diet Cajun Chicken [100 grams],0,0,Embrace a flavorful and healthy choice with our diet cajun chicken. Each portion ... read more,200.0
+Healthy Diet Food,Diet Lemon Pepper Chicken [100 grams],0,0,Opt for a light and zesty choice with our diet lemon pepper chicken. ... read more,200.0
+Pizza,Chicken Tikka Pizza [7 inches],0,0,"A delicious pizza topped with marinated chicken tikka, bell peppers, onions, and mozzarella ... read more",199.0
+Rolls,Chicken Kathi Roll,0,0,A mouthwatering street food dish made with soft and tender chicken pieces wrapped ... read more,199.0
+Main Course,Boneless Butter Chicken,0,0,,199.0
+Main Course,Boneless Chicken Tikka Masala,0,0,"A succulent, melting the mouth boneless chicken dish cooked in a rich tomato ... read more",199.0
+Main Course,Home Style Chicken Curry [4 Pieces],0,0,"A succulent, rich, and flavorful chicken curry with a hint of spice.",200.0
+Main Course,Paneer Chilli (gravy/ dry),1,0,"A spicy, flavorful and creamy dish made with paneer cooked in a rich ... read more",199.0
+Main Course,Paneer Makhani,1,0,A rich and creamy dish of paneer cooked in a tomatobased sauce.,199.0
+Main Course,Paneer Tikka Masala,1,0,"A classic Indian dish featuring paneer cooked in a creamy, flavorful tomatobased sauce.",199.0
+Breads,Phulka Roti,1,0,"A thin, soft, round, flatbread made with whole wheat flour and cooked in ... read more",15.0
+Fried Rice,Egg Garlic Fried Rice,0,0,"Chinese Fried Rice with a hint of garlic flavor, perfectly cooked with eggs ... read more",199.0
+Fried Rice,Chicken Egg Fried Rice,0,0,The rice is cooked with chicken and eggs for a fulfilling meal.,199.0
+Accompaniments,Green Salad,1,0,"A nutritious and fresh salad of mixed green leaves, tomatoes, and onions, topped ... read more",55.0
+Accompaniments,Curd,1,0,,55.0

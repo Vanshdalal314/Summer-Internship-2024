@@ -1,0 +1,109 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Boiled Egg,Boiled Egg [4 Egg],0,0,4 Eggs || single serving,145.0
+Boiled Egg,Egg Monaco Biscuit Pie [2 Egg],0,0,2 Eggs || single serving,225.0
+Boiled Egg,Masala Boiled Egg (Green) [3 Egg],0,0,3 Eggs || single serving,195.0
+Boiled Egg,Boiled Masala Tikka (Red) [3 Egg],0,0,3 Eggs || single serving,195.0
+Boiled Egg,Peri Peri Boiled Egg [3 Egg],0,0,3 Eggs || single serving,185.0
+Egg Omelette,Bhaji Omelette (Green) [4 Egg],0,0,4 Eggs || 4-pieces Pav || Single Serving,345.0
+Egg Omelette,Chopping Omelette (Green Gravy) [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,365.0
+Egg Omelette,Egg Cutlet [2 Egg ],0,0,2 Eggs || single serving ||,205.0
+Egg Omelette,Egg Malai Omelette Green [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,355.0
+Egg Omelette,Egg Omelette (Bombay Style)[2 Egg],0,0,2 Egg || 4-pieces pav || single serving,195.0
+Egg Omelette,Egg Omelette (Surti Style)[2 Egg],0,0,2 Egg || 4-piece pav || single serving,195.0
+Egg Omelette,Egg Sandwich [2 Egg],0,0,2 Eggs || single serving ||,205.0
+Egg Omelette,Pizza Omelette [3 Egg] ( No Pav ),0,0,3 Eggs || No pav || single serving ||,315.0
+Egg Omelette,Limbu Mari Egg Omelette (no Pav) [2 Egg],0,0,2 Eggs || No pav || Single Serving ||,115.0
+Egg Omelette,Masala Omelette [3 Egg],0,0,3 Eggs || 4-pieces pav || single serving ||,235.0
+Egg Omelette,Plain Egg Omelette (Salt & Black Pepper )[3 Egg],0,0,3 Egg || 4-piece pav || single serving,215.0
+Egg Omelette,Rassa Omelette (Red Gravy)[4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,325.0
+Egg Omelette,Schezwan Omelette Roll [3 Egg] (No Pav),0,0,3 Egg || no pav || single serving,275.0
+Egg Omelette,Surti Omelette Roll [3 Egg] (No Pav),0,0,3 Eggs || No pav || single serving ||,265.0
+Egg Omelette,Tomato Omelette [2 Egg],0,0,2 Eggs || 4-piece pav || single serving ||,215.0
+Egg Kheema,Boiled Egg Kheema (Green) [3 Egg],0,0,3 Egg || 4-piece pav || single serving ||,235.0
+Egg Kheema,Boiled Egg Kheema (Green)[2 Egg],0,0,2 Egg || 4-piece pav || single serving ||,195.0
+Egg Kheema,Boiled Egg Kheema (Red) [3 Egg],0,0,3 Egg || 4-piece pav || single serving ||,235.0
+Egg Kheema,Boiled Egg Kheema (Red)[2 Egg],0,0,2 Egg || 4-piece pav || single serving ||,195.0
+Egg Kheema,Katki Egg Kheema (Green)[3 Egg],0,0,3 Egg || 4-piece pav || single serving ||,235.0
+Egg Kheema,Kolhapuri Egg Keema (Red)[3 Egg],0,0,3 Egg || 4-piece pav || single serving ||,265.0
+Egg Bhurji,Egg Bhurji (Bombay Style) [3 Egg],0,0,3 Eggs || 4-piece pav || single serving ||,245.0
+Egg Bhurji,Egg Bhurji (Green) [2 Egg],0,0,2 Eggs || 4-piece pav || single serving ||,195.0
+Egg Bhurji,Egg Bhurji (green) [3 Egg],0,0,3 Eggs || 4-piece pav || single serving ||,235.0
+Egg Bhurji,Egg Bhurji (Red) [2 Egg],0,0,2 Eggs || 4-piece pav || single serving ||,195.0
+Egg Bhurji,Egg Bhurji (Red) [3 Egg],0,0,3 Eggs || 4-piece pav || single serving ||,235.0
+Egg Bhurji,Egg Bhurji Sandwich (Bombay Style) [2 Egg],0,0,2 Eggs || single serving ||,205.0
+Egg Bhurji,Malai Bhurji [3 Egg],0,0,3 Eggs || 4-piece pav || single serving ||,285.0
+Egg Curry,Egg Curry (Green) [2 Egg],0,0,2 Eggs || 4-piece pav || single serving,195.0
+Egg Curry,Egg Curry (Red) [2 Egg],0,0,2 Eggs || 4-piece pav || single serving ||,195.0
+Egg Curry,Egg Curry Fry (Green) [3 Egg],0,0,3 Eggs || 4-piece pav || single serving,235.0
+Egg Curry,Egg Curry Fry (Red) [3 Egg],0,0,3 Eggs || 4-piece pav || single serving,235.0
+Egg Curry,Sp. Egg Curry [3 Egg],0,0,3 eggs || 4-pieces Pav || single serving.,255.0
+Egg Curry,Sp. Egg Curry Fry [3 Egg],0,0,3 Eggs || 4-pieces Pav || single serving.,255.0
+Egg Half Fry,Cheese Australian Fry [3 Egg],0,0,3 Eggs || 4-piece pav || single serving ||,285.0
+Egg Half Fry,Cheese Australian Fry (Green) [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,335.0
+Egg Half Fry,Chinese Fry [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,365.0
+Egg Half Fry,Egg Green Fry [3 Egg],0,0,3 Eggs || 4-piece pav || single serving.,245.0
+Egg Half Fry,Egg Plain Half Fry [3 Egg],0,0,3 Eggs || 4-piece pav || single serving,225.0
+Egg Half Fry,Egg Lasan Fry [2 Egg],0,0,2 Eggs || 4-piece pav || single serving ||,195.0
+Egg Half Fry,Egg Tomato Fry [2 Egg],0,0,2 Eggs || 4-piece pav || single serving.,205.0
+Egg Half Fry,Egg Lasan Fry [3 Egg],0,0,3 Eggs || 4-piece pav || single serving ||,235.0
+Egg Half Fry,Russian Fry [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,345.0
+Egg Half Fry,Sp. Green Fry [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,335.0
+Egg Half Fry,Tomato Fry [3 Egg],0,0,3 Eggs || 4-piece pav || single serving ||,235.0
+Egg Lachko,American Lachko [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,345.0
+Egg Lachko,Cheese Gravy Lachko Green [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,345.0
+Egg Lachko,Egg Bheja Fry [3 Egg],0,0,3 Eggs || 4-piece pav || single serving ||,265.0
+Egg Lachko,Egg Kachu [2 Egg],0,0,2 Eggs || 4-piece pav || single serving ||,215.0
+Egg Lachko,Egg Lachko (Green) [2 Egg],0,0,2 Eggs || 4-piece pav || single serving ||,215.0
+Egg Lachko,Egg Lachko (green) [3 Egg],0,0,3 Eggs || 6-piece pav || single serving ||,255.0
+Egg Lachko,Egg Lachko (Red) [2 Egg],0,0,2 Eggs || 4-piece pav || single serving ||,215.0
+Egg Gotalo,Egg Gotala (green) [3 Egg],0,0,3 Eggs || Pav 4-piece || single serving.,255.0
+Egg Gotalo,Egg Gotalo (Green) [2 Egg],0,0,2 Eggs || 4-piece pav || single serving.,215.0
+Egg Gotalo,Egg Gotalo (Red) [2 Egg],0,0,2 Eggs || 4-piece pav || single serving,215.0
+Egg Gotalo,Egg Katki Gotalo (Green) [3 Egg],0,0,3 Eggs || 4-piece pav || single serving,255.0
+Egg Gotalo,Egg Katki Gotalo (Red) [3 Egg],0,0,3 Eggs || 4-piece pav || single serving,255.0
+Egg Gotalo,Tikka Gotala [3 Egg,0,0,3 Eggs || Pav 4-piece || single serving,285.0
+Egg Kofta,Boiled Kofta (Green Gravy) [4 Egg],0,0,4 Eggs || 4-piece pav || single serving,355.0
+Egg Kofta,Chinese Kofta [4 Egg],0,0,4 Eggs || 4-piece Pav || single serving,385.0
+Egg Kofta,Malai Kofta [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,375.0
+Pulao \ Biryani \ Rice,Anda Pulao [2 Egg],0,0,2 Eggs || single serving ||,225.0
+Pulao \ Biryani \ Rice,Egg Bhurji Pulao [2 Egg],0,0,2 Eggs || single serving ||,235.0
+Pulao \ Biryani \ Rice,Egg Biryani [4 Egg],0,0,4 Eggs || single serving,285.0
+Pulao \ Biryani \ Rice,Egg Gravy Pulao [3 Egg],0,0,3 Eggs || single serving,275.0
+Pulao \ Biryani \ Rice,Egg Rabdi Pulao ( Green ) [3 Egg],0,0,3 Eggs || single serving,295.0
+Pulao \ Biryani \ Rice,Egg Schezwan Rice [3 Egg],0,0,3 Eggs || Single serving,295.0
+Pulao \ Biryani \ Rice,Egg Singapuri Rice [ 3 Eggs ],0,0,3 Egg || single serving,295.0
+Pulao \ Biryani \ Rice,Green Kheema Pulao [2 Egg],0,0,2 Eggs || single serving ||,245.0
+Pulao \ Biryani \ Rice,WhiteEggX Special Rice [4 Egg],0,0,4 Eggs || double serving,325.0
+Exclusive,Egg Angara [4 Egg],0,0,"4 Eggs, pav [4 pieces], single serving.",325.0
+Exclusive,Egg Bolt Green [4 Egg],0,0,"4 Eggs, pav [4 pieces], single serving.",335.0
+Exclusive,Egg Malai Paplet Green [4 Egg],0,0,"4 Eggs, pav [4 pieces], single serving.",375.0
+Exclusive,Egg Malai Sandwich Green [4 Egg],0,0,"4 Eggs, pav [4 pieces], single serving.",355.0
+Exclusive,Egg Mastani [5 Egg],0,0,"5 Eggs, Pav [6-Piece ], Double Serving",435.0
+Exclusive,Egg Paneer Tadka Red [5 Egg],0,0,"5 Eggs, pav [6 pieces], single serving.",425.0
+Exclusive,Egg Rimzim [5 Egg],0,0,"5 Eggs, pav [6 pieces], single serving.",465.0
+Exclusive,Golmal 2 [5 Egg],0,0,"5 Eggs, pav [6 pieces], single serving.",395.0
+Fancy Item,Cheese Angur Rabdi (Red) [6 Egg],0,0,6 Eggs || 6-piece pav || Double serving ||,485.0
+Fancy Item,Cheese Angur Rabdi (Green) [6 Eggs],0,0,6 Eggs || 6-piece pav || Double serving ||,485.0
+Fancy Item,Egg Cheese Masala [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,395.0
+Fancy Item,Egg Dosa [5 Eggs],0,0,5 Eggs || 6-piece pav || Double serving ||,375.0
+Fancy Item,Egg Hum Tum [4 Eggs],0,0,4 Eggs || 4-piece pav || single serving ||,365.0
+Fancy Item,Egg Jannat [6 Eggs],0,0,6 Eggs || 6-piece pav || Double serving ||,545.0
+Fancy Item,Egg Kadai [6 Egg],0,0,6 Eggs || 6-piece pav || Double serving ||,475.0
+Fancy Item,Egg Lapeti [5 Egg],0,0,5 Eggs || 4-piece pav || single serving ||,395.0
+Fancy Item,Egg Mughlai [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,395.0
+Fancy Item,Egg Paplet [4 Eggs],0,0,4 Eggs || 4-piece pav || single serving ||,395.0
+Fancy Item,Egg Pataudi [5 Eggs],0,0,5 Eggs || 6-piece pav || Double serving ||,435.0
+Fancy Item,Egg Red & Green [6 Eggs],0,0,6 Eggs || 6-piece pav || Double serving ||,455.0
+Fancy Item,Egg Royal Lazeez [5 Egg],0,0,5 Eggs || 6-piece pav || Double serving ||,445.0
+Fancy Item,Egg Three Idiot [6 Egg],0,0,6 Eggs || 6-piece pav || Double serving ||,495.0
+Fancy Item,Laziz [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,365.0
+Fancy Item,Patra [5 Egg],0,0,5 Eggs || 6-piece pav || Double serving ||,445.0
+Fancy Item,Red & White [5 Egg],0,0,5 Eggs || 6-piece pav || double serving,425.0
+Fancy Item,Special Tikhari [6 Egg],0,0,6 Eggs || 6-piece pav || single serving ||,445.0
+Fancy Item,Tikhari [4 Egg],0,0,4 Eggs || 4-piece pav || single serving ||,345.0
+Extra,Extra Pav (Butter) [4 Pieces],1,0,,65.0
+Extra,Extra Pav (Oil) [4 Pieces],1,0,,55.0
+Extra,Goti Chutney (Green),0,0,,75.0
+Extra,Goti Chutney (Red),0,0,,75.0
+Extra,Lasan Chutney,1,0,,65.0
+Extra,Tomato Chutney,1,0,,65.0

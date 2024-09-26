@@ -1,0 +1,42 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Onion Capsicum Pizza [7 inches],1,0,Our special new an exotic pizza with a unique blend of onions and ... read more,119.2
+Pizza,Capsicum Pizza [7 inches],1,0,,119.2
+Pizza,Onion Pizza [7 inches],1,0,,119.2
+Pizza,Tomato Pizza [7 inches],1,0,,119.2
+Pizza and Pasta,OTC Pizza,1,0,"Our Special Pizza, Fresh Tomatoes, Capsicums, Onions And Black Olives And The Pure ... read more",151.2
+Pizza and Pasta,Margherita Pizza,1,0,Lots of melted mozzarella and cheese on top.,160.0
+Pizza and Pasta,American Pizza,1,0,"Lots of melted mozzarella, cheese on top red capsicum, baby corn.",151.2
+Pizza and Pasta,Om Sai Garden Veg Pizza,1,0,"Topping with healthy, delicious combination of premium vegetables.",151.2
+Pizza and Pasta,Paneer Tikka Pizza,1,0,"Spiced Paneer, Fresh onions, Sweet Corns And Cheese On Pizza Sauce.",176.0
+Pizza and Pasta,Supreme Veg Pizza,1,0,"Our Special Pizza 3 varieties of Capsicums Red, Yellow And Green, Sweet Corns, ... read more",151.2
+Pizza and Pasta,Tandoori Paneer Pizza,1,0,"Our Best Selling Pizza Spiced Tandoori Paneer, Green Capsicums, Fresh Tomatoes, Fresh Onions ... read more",176.0
+Pizza and Pasta,Sweet Corn Cheese Pizza [7 inches],1,0,Sweet and juicy golden corn with our in house sauce.,119.2
+Sandwiches,"Bombay Special Cheese Blast Grilled Sandwich [3 Pieces, Serves 2]",1,0,"Our chef's most special sandwich fresh tomato, cucumber, onion, green capsicum, black olives, ... read more",176.0
+Sandwiches,Paneer Makhani Grilled Sandwich [Serves 1],1,0,"Our new sandwich fresh cucumber, onion, green capsicum and fresh paneer with in ... read more",200.0
+Sandwiches,Jumbo Cheese Grilled Sandwich,1,0,"Our speciality 3 round breads fresh tomato, cucumber, onion, capsicum and chef's special ... read more",159.2
+Upwas Ke Liye Special Items,Farali Sabudana Khichdi,1,0,Pure upvas.,62.4
+Upwas Ke Liye Special Items,"Falahari Sabudana Vada [1 Plate, 4 Pieces]",1,0,Top quality sabudana and make it with washed hands and deep fried in ... read more,62.4
+Upwas Ke Liye Special Items,Shudh Ghee Ni Farali Sabudana Khichadi,1,0,Prepared in pure shudh ghee.,128.0
+Special Jain Menu,Om Sai Garden Jain Pizza [7 inchese],1,0,"Tomato,capcicam,blak olies,mozzarella cheese",151.2
+Special Jain Menu,Om Sai Garden Special Jain Pizza [10 inches],1,0,"Tomato, capcicam, black olives and mozzarella cheese.",399.2
+Special Jain Menu,Pure Jain Paneer Tikka Pizza [7 inches],1,0,"Tomato, paneer, capsicum, mozzarella cheese and red paprika slices.",176.0
+Best in Garlic Breads & French Fries,Superme Veg Garlic Bread,1,0,,144.0
+Best in Garlic Breads & French Fries,Pure Amul Cheese Garlic Bread,1,0,"Delight in the aromatic and cheesy goodness of our Garlic Bread, a perfect ... read more",144.0
+Dubai Specials,Garlic Rice,1,0,Garlic RIce + Garlic Sabzi,319.2
+Dubai Specials,Mexican Rice,1,0,Mexican Rice + Mexican Garlic Sabzi,319.2
+Dubai Specials,Cilantro Rice,1,0,,224.0
+Dubai Specials,Lebanese Rice,1,0,,224.0
+Dubai Specials,Original Falafel,1,0,,176.0
+Dubai Specials,Mexican Falafel,1,0,,192.0
+Dubai Specials,Falafel Bites,1,0,,160.0
+Dubai Specials,Classic Garlic Hummus,1,0,,168.0
+Dubai Specials,Jain Hummus,1,0,,160.0
+Dubai Specials,Jalapino Hummus,1,0,,192.0
+Dubai Specials,Garlic Pita Bread,1,0,,80.0
+Dubai Specials,Turkish Falafel,1,0,,240.0
+Dubai Specials,Arabic Falafel,1,0,,200.0
+Dubai Specials,Madrid Falafel,1,0,,200.0
+Dubai Specials,Falafel Salad,1,0,"Falafel bullets, greens & fresh veggies, hummus & labneh dressing.",256.0
+Dubai Specials,Fattoush Salad,1,0,"Toasted pita with greens and farm veggies, lemon olive oil dressing & sumac.",224.0
+Dubai Specials,Tabbouleh Salad,1,0,"Bulgur wheat mingled with parsley, tomato & pomegranate, onion, lemon dressing.",288.0
+Dubai Specials,Garlic Chilli Labneh,1,0,Labneh with spicy garlic chilli oil and crunchy pita chips.,200.0

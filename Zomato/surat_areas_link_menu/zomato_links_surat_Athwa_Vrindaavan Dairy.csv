@@ -1,0 +1,31 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Shrikhand and Matho,Plain Shrikhand,1,0,,45.0
+Shrikhand and Matho,Kesar Pista Shrikhand,1,0,,55.0
+Shrikhand and Matho,Rajbhog Shrikhand,1,0,,60.0
+Shrikhand and Matho,American Dry Fruit Shrikhand,1,0,,50.0
+Shrikhand and Matho,Chocolate Chips Shrikhand,1,0,,50.0
+Shrikhand and Matho,Mango Malai Shrikhand,1,0,,55.0
+Shrikhand and Matho,Plain Matho,1,0,,45.0
+Shrikhand and Matho,Jamun Matho,1,0,,55.0
+Shrikhand and Matho,Cookie and Cream Matho,1,0,,55.0
+Shrikhand and Matho,Kaju Mango Matho,1,0,,55.0
+Shrikhand and Matho,Pineapple Matho,1,0,,50.0
+Shrikhand and Matho,Kesar Pista Matho,1,0,,55.0
+Shrikhand and Matho,Badam Chocolate Matho,1,0,,50.0
+Shrikhand and Matho,kesar Dry Fruit Matho,1,0,,61.0
+Shrikhand and Matho,Rose Petal Matho,1,0,,55.0
+Shrikhand and Matho,American Dry Fruit Matho,1,0,,50.0
+Drinks (Beverages),Blueberry Lassi [250 ml],1,0,,85.0
+Drinks (Beverages),Malai Lassi [250 ml],1,0,Lassi,65.0
+Drinks (Beverages),Mango Lassi [250 ml],1,0,Mango Lassi,70.0
+Drinks (Beverages),Kaju Mango Lassi [250 ml],1,0,,100.0
+Drinks (Beverages),Kaju Rose Lassi [250 ml],1,0,,99.0
+Drinks (Beverages),Rose Lassi [250 ml],1,0,Rose Lassi,70.0
+Drinks (Beverages),Dry Fruit Lassi [250 ml],1,0,,92.0
+Drinks (Beverages),Cold Coco,1,0,Cold coco.,80.0
+Drinks (Beverages),Kaju Coco [250 ml],1,0,,100.0
+Drinks (Beverages),Strawberry Lassi [250 ml],1,0,,70.0
+Basundi,Plain Basundi,1,0,,120.0
+Basundi,Anjeer Basundi,1,0,,161.0
+Basundi,Kaju Chocolate Basundi,1,0,,150.0
+Basundi,Angoor Basundi,1,0,,214.0

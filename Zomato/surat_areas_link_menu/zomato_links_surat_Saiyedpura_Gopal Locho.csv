@@ -1,0 +1,31 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Locho,Oil Locho,1,0,"250 gm || Images used are for representation purposes only, and do not ... read more",100.0
+Locho,Butter Locho,1,0,"250 gm || Images used are for representation purposes only, and do not ... read more",140.0
+Locho,Lemon Spice Locho,1,0,,150.0
+Locho,Red & Black Spicy Locho,1,0,,150.0
+Locho,Cheese Butter Locho,1,0,"250 gm || Images used are for representation purposes only, and do not ... read more",160.0
+Locho,Black Pepper Salt Locho,1,0,,160.0
+Locho,Peri Peri Locho,1,0,,160.0
+Locho,Lasaniya Locho [1 Plate],1,0,,99.0
+Locho,Italian Locho [1 Plate],1,0,,110.0
+Locho,Chinese Locho [1 Plate],1,0,,110.0
+Locho,Cassata Locho [1 Plate],1,0,,110.0
+Locho,Cream and Onion Locho [1 Plate],1,0,,110.0
+Locho,Cheese Tandoori Locho [1 Plate],1,0,,110.0
+Khaman,Sev Khaman,1,0,"250 gm || Images used are for representation purposes only, and do not ... read more",70.0
+Khaman,Nylon Khaman,1,0,"250 gm || Images used are for representation purposes only, and do not ... read more",70.0
+Khaman,Cheese Nylon Khaman,1,0,,160.0
+Khamani,Sev Khamani,1,0,"250 gm || Images used are for representation purposes only, and do not ... read more",70.0
+Khamani,Cheese Khamani,1,0,,160.0
+Idada,Oil Idada,1,0,"250 gm || Images used are for representation purposes only, and do not ... read more",70.0
+Idada,Cheese Butter Idada,1,0,"250 gm || Images used are for representation purposes only, and do not ... read more",160.0
+Idada,Special Garlic Idada [1 Plate],1,0,,110.0
+Patudi,Patudi,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",70.0
+Patudi,Cheese Patudi,1,0,"250 gm || Images used are for representation purposes only, and do not ... read more",160.0
+Packaged,Goller Surti Dal Locho [1 Pouch],1,0,,60.0
+Packaged,Goller Cold Coco [1 Pouch],1,0,,30.0
+Drinks (Beverages),Cold Coco,1,0,,80.0
+Drinks (Beverages),Masala Chaas,1,0,"200 ml || Images used are for representation purposes only, and do not ... read more",30.0
+Pav Bhaji,Butter Pav Bhaji,1,0,Butter pav bhaji with 4 pav.,100.0
+Pav Bhaji,Cheese Pav Bhaji,1,0,Cheese pav bhaji with 4 pav.,120.0
+South Indian,Idli [3 Pieces] with Sambar,1,0,,60.0

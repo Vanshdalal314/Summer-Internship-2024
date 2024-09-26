@@ -1,0 +1,74 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Our Specials,Bites Gift Box,1,0,Contains - 12 pieces.,280.0
+Our Specials,Chappan Bhog,1,0,,1250.0
+Farali Special [Fast],Mother India,1,0,,80.0
+Farali Special [Fast],Rasgulla,1,0,,50.0
+Farali Special [Fast],Kaju Katli,1,0,,240.0
+Farali Special [Fast],Milk Cake,1,0,,170.0
+Farali Special [Fast],Bengali Sandwich,1,0,,80.0
+Farali Special [Fast],Kesar Peda,1,0,,160.0
+Farali Special [Fast],White Peda,1,0,,170.0
+Farali Special [Fast],Chirawa Peda,1,0,,170.0
+Bengali Sweets,Rasgulla,1,0,,50.0
+Bengali Sweets,Gulab Jamun,1,0,,50.0
+Bengali Sweets,Kala Jamun,1,0,,60.0
+Bengali Sweets,Kullad Rabdi,1,0,,65.0
+Bengali Sweets,Bengali Sandwich,1,0,,80.0
+Bengali Sweets,Mother India,1,0,,80.0
+Bengali Sweets,Raj Bhog,1,0,,80.0
+Ghee Sweets,Dry Fruit Boondi,1,0,,130.0
+Ghee Sweets,Kesari Jalebi,1,0,Crispy jalebi made in Desi ghee,160.0
+Ghee Sweets,Boondi Ladoo,1,0,,160.0
+Ghee Sweets,Motichur Ladoo,1,0,,170.0
+Ghee Sweets,Besan Chakki,1,0,,170.0
+Ghee Sweets,Besan Ladoo,1,0,,160.0
+Ghee Sweets,Moong Dal Barfi,1,0,,170.0
+Ghee Sweets,Soan Papdi,1,0,,65.0
+Mawa Sweets,Kesar Peda,1,0,,160.0
+Mawa Sweets,White Peda,1,0,,170.0
+Mawa Sweets,Chirawa Peda,1,0,,170.0
+Mawa Sweets,Bounty Peda,1,0,,160.0
+Mawa Sweets,Bikaneri Barfi,1,0,,170.0
+Mawa Sweets,Milk Cake,1,0,,170.0
+Dry Fruit Sweets,Kaju Katli,1,0,,240.0
+Dry Fruit Sweets,Dates Bites,1,0,,290.0
+Dry Fruit Sweets,Mewa Bites,1,0,,290.0
+Dry Fruit Sweets,Choco Bites,1,0,,290.0
+Dry Fruit Sweets,Rose Bites,1,0,,290.0
+Dry Fruit Sweets,Orange Bites,1,0,,290.0
+Dry Fruit Sweets,Mango Bites,1,0,,290.0
+Dry Fruit Sweets,Anjeer Bites,1,0,,290.0
+Dry Fruit Sweets,Kacha Aam Delight Bites,1,0,,290.0
+Dry Fruit Sweets,Anjeer Patra,1,0,,290.0
+Dry Fruit Sweets,Anjeer Cassata,1,0,,290.0
+Dry Fruit Sweets,Kaju Pista Cassata,1,0,,290.0
+Dry Fruit Sweets,Khajur Chikki,1,0,,290.0
+Dry Fruit Sweets,Mango Chocolate,1,0,,290.0
+Dry Fruit Sweets,Kaju Choco Balls,1,0,,290.0
+Dry Fruit Sweets,Kaju Pista Pan,1,0,,290.0
+Dry Fruit Sweets,Dry Fruit Mango Roll,1,0,,290.0
+Dry Fruit Sweets,Mix Bites Box [500 Grams],1,0,,460.0
+Dry Fruit Sweets,Baklava,1,0,,500.0
+Dry Fruit Sweets,Kaju Dry Fruit Mix Box,1,0,,580.0
+Packed Sweets,Angoor Rasgulla Pouch [Mini],1,0,,80.0
+Packed Sweets,Rasgulla Pouch,1,0,,70.0
+Packed Sweets,Gulab Jamun Pouch,1,0,,70.0
+Snacks,2 Vada Pav,1,0,,50.0
+Snacks,Samosa [2 Pieces],1,0,,50.0
+Snacks,Dal Kachori [2 Pieces],1,0,,50.0
+Snacks,Onion Kachori [2 Pieces],1,0,,60.0
+Snacks,Nylon Khaman,1,0,,70.0
+Namkeens,Maida Mathri,1,0,,90.0
+Namkeens,Matar Fali,1,0,,90.0
+Namkeens,Maida Kaju,1,0,,90.0
+Namkeens,Bhujia,1,0,,75.0
+Namkeens,Khata Meetha,1,0,,75.0
+Namkeens,Moong Dal,1,0,,75.0
+Namkeens,Bhatakani,1,0,,75.0
+Namkeens,Chabeni,1,0,,75.0
+Namkeens,Ratlami Sev,1,0,,75.0
+Namkeens,Marwadi Sev,1,0,,75.0
+Namkeens,Bhavnagri Ganthia,1,0,,75.0
+Namkeens,Surti Bhusa,1,0,,90.0
+Namkeens,Sing Dana [500 grams],1,0,,130.0
+Drinks (Beverages),Rose Lassi [180 ml],1,0,,70.0

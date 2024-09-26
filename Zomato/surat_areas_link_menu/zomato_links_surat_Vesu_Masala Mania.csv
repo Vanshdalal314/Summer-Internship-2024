@@ -1,0 +1,136 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Manchow Soup,1,0,"Manchow soup is a tasty veg Chinese soup packed with assorted vegetables, flavored ... read more",380.0
+Soups,Cream of Tomato Soup,1,0,Tomato soup is a classic comfort food made from ripe tomatoes simmered with ... read more,380.0
+Soups,Hot and Sour Soup,1,0,"It's known for its bold flavors, typically seasoned with vinegar, soy sauce and ... read more",380.0
+Soups,Lemon Coriander Soup,1,0,Lemon coriander soup is a light and refreshing Indo Chinese soup made with ... read more,380.0
+Soups,Broccoli Almond Soup,1,0,"Broccoli almond soup is a creamy and nutritious soup made with fresh broccoli, ... read more",400.0
+Soups,Khawsa Soup,1,0,"Khawsa soup is a traditional burmese dish, consisting of a rich and fragrant ... read more",400.0
+Starters,Tandoori Mushroom Tikka [6 Pieces],1,0,"Tandoori mushroom tikka is a flavorful veg appetizer or snack, where fresh mushrooms ... read more",500.0
+Starters,Malai Tikka [6 Pieces],1,0,Malai tikka is a popular Indian appetizer made with marinated pieces of paneer ... read more,520.0
+Starters,Afghani Tikka [6 Pieces],1,0,"Afghani paneer tikka is a veg twist on the traditional Afghani tikka, featuring ... read more",530.0
+Starters,Hariyali Tikka [6 Pieces],1,0,"Paneer hariyali tikka is a vibrant and flavorful Indian appetizer, where cubes of ... read more",550.0
+Starters,Paneer Tikka [6 Pieces],1,0,Paneer tikka is a popular Indian appetizer made with cubes of paneer [Indian ... read more,550.0
+Starters,Achaari Paneer Tikka [6 Pieces],1,0,Achari paneer tikka is a flavorful Indian appetizer where cubes of paneer [Indian ... read more,560.0
+Starters,Peri Peri Paneer Tikka [6 Pieces],1,0,Peri peri paneer tikka is a spicy and flavorful Indian appetizer featuring cubes ... read more,560.0
+Starters,Gulati Kabab [6 pieces],1,0,"Veg gulati kabab is a veg version of the classic Indian kabab, made ... read more",450.0
+Starters,Hara Bhara Kabab [6 pieces],1,0,Veg hara bhara kabab is a popular Indian appetizer made from a mixture ... read more,460.0
+Starters,Cheese Corn Tikki [6 pieces],1,0,Cheese corn tikki is a delectable Indian snack made from a mixture of ... read more,500.0
+Starters,Paneer Cheese Tikki [6 Pieces],1,0,"Flavorful Indian appetizer crafted from a blend of paneer, cheese, mashed potatoes and ... read more",600.0
+Starters,Veg Amritsari Paneer Tikki [6 Pieces],1,0,"Veg Amritsari paneer tikka spiced paneer patties coated in chickpea flour, deep fried ... read more",600.0
+Starters,Lasagne,1,0,"A classic Italian dish consisting of layers of flat pasta sheets, rich meat/vegetable ... read more",550.0
+Starters,Quesadillas,1,0,"Tortilla stuffed with bell peppers, beans and cheese.",550.0
+Main Course,Paneer Bhurji,1,0,A popular Indian dish made with crumbled paneer [Indian cottage cheese] cooked with ... read more,500.0
+Main Course,Paneer Tikka Masala,1,0,A classic North Indian dish featuring cubes of paneer [Indian cottage cheese] simmered ... read more,510.0
+Main Course,Paneer Kolhapuri [350 ml],1,0,A classic North Indian dish featuring cubes of paneer [Indian cottage cheese] simmered ... read more,510.0
+Main Course,Paneer Butter Masala,1,0,A classic North Indian dish featuring cubes of paneer [Indian cottage cheese] simmered ... read more,510.0
+Main Course,Paneer Lababdar,1,0,A classic North Indian dish featuring cubes of paneer [Indian cottage cheese] simmered ... read more,520.0
+Main Course,Palak Paneer [350 ml],1,0,A classic North Indian dish featuring cubes of paneer [Indian cottage cheese] simmered ... read more,520.0
+Main Course,Paneer Toofani,1,0,A classic North Indian dish featuring cubes of paneer [Indian cottage cheese] simmered ... read more,520.0
+Main Course,Paneer Khurchan,1,0,A delightful North Indian dish where paneer [Indian cottage cheese] is cooked with ... read more,520.0
+Main Course,Paneer Rogan Josh,1,0,"A veg twist on the classic Kashmiri dish, featuring paneer [Indian cottage cheese] ... read more",520.0
+Main Course,Mix Veg,1,0,"A versatile Indian dish featuring a medley of assorted vegetables, such as carrots, ... read more",375.0
+Main Course,Chana Masala,1,0,"Chana masala, a beloved North Indian delicacy, boasts tender chickpeas simmered in a ... read more",380.0
+Main Course,Veg Jaipuri,1,0,A vibrant Rajasthani dish featuring assorted vegetables cooked in a rich and spicy ... read more,390.0
+Main Course,Veg Hyderabadi,1,0,"A fragrant and flavorful dish inspired by the royal cuisine of Hyderabad, combining ... read more",390.0
+Main Course,Veg Handi,1,0,A delectable Indian dish comprising a medley of fresh vegetables cooked in a ... read more,420.0
+Main Course,Veg Kadhai,1,0,A tantalizing veg dish featuring a colorful assortment of vegetables cooked with aromatic ... read more,420.0
+Main Course,Veg Kolhapuri,1,0,A spicy and flavorful Maharashtrian dish brimming with a variety of vegetables cooked ... read more,450.0
+Main Course,Veg Toofani,1,0,A tantalizing veg dish featuring an explosion of flavors with a mix of ... read more,450.0
+Main Course,Mushroom Tikka Masala,1,0,"A veg twist on a classic Indian favorite, featuring tender mushrooms marinated in ... read more",520.0
+Main Course,Cheese Angoori,1,0,A delectable Indian appetizer consisting of bite sized cheese balls marinated in a ... read more,500.0
+Main Course,Cheese Butter Masala,1,0,A creamy and indulgent vegetarian delight featuring cubes of paneer [Indian cheese] cooked ... read more,520.0
+Main Course,Kaju Curry,1,0,A luxurious veg dish showcasing creamy cashew nuts simmered in a flavorful gravy ... read more,650.0
+Main Course,Kaju Butter Masala,1,0,A sumptuous veg dish where cashew nuts are simmered in a velvety tomato ... read more,650.0
+Main Course,Dal Fry,1,0,"A comforting Indian lentil dish made with a blend of tempered spices, onion, ... read more",350.0
+Main Course,Dal Tadka,1,0,A traditional Indian lentil dish featuring a flavorful blend of tempered spices infused ... read more,375.0
+Chinese,Manchurian Dry,1,0,A popular Indo Chinese appetizer consisting of vegetables/meat balls coated in a tangy ... read more,350.0
+Chinese,Manchurian Gravy,1,0,A savory Indo Chinese dish featuring vegetable or meat balls cooked in a ... read more,350.0
+Chinese,Paneer Chilli Dry,1,0,A popular Indo Chinese dish featuring cubes of paneer [Indian cottage cheese] stir ... read more,400.0
+Chinese,Mushroom Chilli,1,0,A delectable Indo Chinese dish featuring sliced mushrooms stir fried with colorful bell ... read more,450.0
+Chinese,Veg Crispy,1,0,A delightful Indo Chinese appetizer featuring a variety of vegetables coated in a ... read more,500.0
+Chinese,Schezwan Paneer,1,0,A spicy Indo Chinese dish featuring paneer [Indian cottage cheese] cooked in a ... read more,500.0
+Chinese,Pesto Paneer,1,0,Paneer tossed in pesto sauce.,500.0
+Chinese,Veg Fried Rice,1,0,A classic Asian dish made with steamed rice stir fried with mixed vegetables ... read more,400.0
+Chinese,Schezwan Fried Rice,1,0,"A spicy and flavorful variation of traditional fried rice, featuring cooked rice stir ... read more",410.0
+Chinese,Burnt Garlic Fried Rice,1,0,A fragrant and flavorful rice dish infused with the intense aroma and taste ... read more,410.0
+Chinese,Chilli Garlic Fried Rice,1,0,A spicy and aromatic rice dish prepared by stir frying cooked rice with ... read more,410.0
+Chinese,Veg Hakka Noodles,1,0,A popular Indo Chinese dish featuring stir fried noodles tossed with an assortment ... read more,400.0
+Chinese,Schezwan Noodles,1,0,"A spicy and flavorful variation of traditional noodles, prepared by stir frying boiled ... read more",410.0
+Chinese,Burnt Garlic Noodles,1,0,A unique and aromatic noodles dish prepared by stir frying boiled noodles with ... read more,410.0
+Chinese,Chilli Garlic Noodles,1,0,"A zesty and aromatic noodles dish featuring boiled noodles tossed with minced garlic, ... read more",410.0
+Breads,Plain Tandoori Roti,1,0,"A traditional Indian flatbread made from whole wheat flour, baked in a tandoor ... read more",80.0
+Breads,Butter Tandoori Roti,1,0,"A delectable variation of the classic Indian flatbread, brushed with melted butter before ... read more",90.0
+Breads,Plain Tandoori Naan,1,0,"A traditional Indian leavened bread made from refined flour, stretched and baked in ... read more",140.0
+Breads,Butter Tandoori Naan,1,0,"A delectable variation of the classic Indian naan, brushed with rich melted butter ... read more",150.0
+Breads,Garlic Naan,1,0,"A fragrant and flavorful Indian bread infused with minced garlic and fresh cilantro, ... read more",170.0
+Breads,Laccha Paratha,1,0,"A flaky, layered Indian flatbread, made from whole wheat flour, rolled out thinly, ... read more",170.0
+Breads,Cheese Naan,1,0,"A delectable variation of the classic Indian naan, stuffed with a generous filling ... read more",190.0
+Breads,Cheese Garlic Naan,1,0,"A heavenly fusion of flavors, where soft, garlic-infused naan is generously filled with ... read more",200.0
+Breads,Aloo Onion Kulcha,1,0,A mouthwatering Indian bread stuffed with a flavorful mixture of spiced mashed potatoes ... read more,280.0
+Breads,Veg Kulcha,1,0,"An enticing Indian bread stuffed with a delectable mixture of assorted vegetables, spices, ... read more",300.0
+Breads,Stuffed Kulcha,1,0,"A tantalizing Indian bread filled with a savory stuffing, such as spiced mashed ... read more",300.0
+Breads,Paneer Kulcha,1,0,A delectable Indian bread stuffed with a flavorful mixture of spiced paneer (Indian ... read more,320.0
+Rice and Biryani,Steamed Rice,1,0,"A simple yet essential staple, where fluffy and tender grains of rice are ... read more",250.0
+Rice and Biryani,Jeera Rice,1,0,"Fragrant Basmati rice cooked with toasted cumin seeds and other aromatic spices, resulting ... read more",300.0
+Rice and Biryani,Mexican Rice,1,0,"A flavorful and vibrant side dish made by sauteing rice with onion, garlic, ... read more",500.0
+Rice and Biryani,Cilantro Rice,1,0,"Fragrant Basmati rice cooked with fresh cilantro leaves, garlic, and lime juice, resulting ... read more",500.0
+Rice and Biryani,Veg Biryani,1,0,"A tantalizing Indian rice dish made with fragrant Basmati rice, mixed vegetables, aromatic ... read more",500.0
+Rice and Biryani,Veg Dum Biryani,1,0,A luxurious Indian rice dish where fragrant Basmati rice and assorted vegetables are ... read more,520.0
+Pastas,Aglio E Olio Pasta,1,0,"A classic Italian pasta dish consisting of spaghetti tossed with garlic, olive oil, ... read more",450.0
+Pastas,Alfredo Pasta,1,0,A rich and creamy Italian pasta dish featuring fettuccine noodles coated in a ... read more,500.0
+Pastas,Pasta with Combination Sauce,1,0,Choice of pasta cooked in combination of red and white sauce pasta.,500.0
+Pastas,Arrabiata Pasta,1,0,Choice of pasta cooked with spicy tomato sauce.,610.0
+Sandwiches,Bread Butter,1,0,"A simple and classic combination of sliced bread generously spread with creamy butter, ... read more",120.0
+Sandwiches,Veg Grilled Sandwich,1,0,A delicious and wholesome sandwich filled with a medley of grilled vegetables such ... read more,400.0
+Sandwiches,Club Sandwich,1,0,A classic triple-decker sandwich featuring layers of toasted bread with veggies and spices,400.0
+Snacks,French Fries,1,0,"Crispy and golden potato strips fried to perfection, seasoned with salt and served ... read more",300.0
+Snacks,Peri Peri Fries,1,0,"Crispy French fries tossed in a spicy and tangy peri peri seasoning, typically ... read more",310.0
+Snacks,Cheese Fries,1,0,"Crispy French fries topped with a generous amount of melted cheese, creating a ... read more",320.0
+Snacks,Cheese Garlic Bread [4 Pieces],1,0,"Slices of toasted bread, typically French or Italian, topped with a savory mixture ... read more",420.0
+Snacks,Mexican Garlic Bread [4 Pieces],1,0,"A zesty twist on classic garlic bread, featuring of toasted bread [1 slice] ... read more",420.0
+Snacks,Supreme Garlic Bread [4 Pieces],1,0,"A deluxe version of classic garlic bread, featuring slices of toasted bread generously ... read more",420.0
+Accompaniments,Roasted Papad,1,0,"Thin and crispy Indian lentil crackers, typically made from urad dal or chickpea ... read more",50.0
+Accompaniments,Boondi Raita,1,0,"A refreshing Indian yogurt-based condiment made with small, crispy chickpea flour pearls (boondi), ... read more",200.0
+Accompaniments,Veg Raita,1,0,"A refreshing Indian yogurt-based condiment filled with finely chopped vegetables such as cucumber, ... read more",210.0
+Accompaniments,Pineapple Raita,1,0,"A delightful variation of the traditional Indian yogurt-based condiment, featuring diced pineapple mixed ... read more",210.0
+Accompaniments,Green Salad,1,0,"A fresh and vibrant medley of mixed salad greens such as lettuce, spinach, ... read more",250.0
+Drinks (Beverages),Kinley Water Bottle [1 Liter],1,0,Mineral Water,40.0
+Drinks (Beverages),Thumps Up [330 ml],1,0,Cold Beverage,100.0
+Drinks (Beverages),Plain Buttermilk,1,0,"A refreshing dairy beverage made by whisking together yogurt and water until smooth, ... read more",120.0
+Drinks (Beverages),Masala Buttermilk,1,0,"A flavorful and spiced version of traditional buttermilk, typically made by blending yogurt ... read more",140.0
+Drinks (Beverages),Budweiser [330 ml],1,0,[Non Alcoholic],300.0
+Drinks (Beverages),Red Wine [1 Bottle],1,0,[Non Alcoholic],1150.0
+Drinks (Beverages),Red Grape [1 Bottle],1,0,[Non Alcoholic],1150.0
+Drinks (Beverages),Sparkling Blue [1 Bottle],1,0,[Non Alcoholic],1150.0
+Drinks (Beverages),Lemon Iced Tea,1,0,"A refreshing beverage made by steeping tea leaves in hot water, then chilling ... read more",320.0
+Drinks (Beverages),Strawberry Iced Tea,1,0,"A delightful twist on traditional iced tea, featuring brewed tea chilled and flavored ... read more",320.0
+Drinks (Beverages),Peach Iced Tea,1,0,A refreshing and fruity beverage made by brewing tea and then adding peach ... read more,320.0
+Drinks (Beverages),Frappe,1,0,A chilled coffee beverage made by blending espresso or strong coffee with ice ... read more,380.0
+Drinks (Beverages),Hazelnut Frappe,1,0,"A delicious variation of the classic frappe, featuring espresso or strong coffee blended ... read more",380.0
+Drinks (Beverages),Irish Frappe,1,0,"A decadent variation of the classic frappe, combining espresso or strong coffee with ... read more",380.0
+Drinks (Beverages),Caramel Frappe,1,0,"A delightful twist on the classic frappe, blending espresso or strong coffee with ... read more",380.0
+Drinks (Beverages),Choco Mocha Frappe,1,0,"An irresistible combination of espresso or strong coffee blended with ice cubes, milk, ... read more",380.0
+Drinks (Beverages),Oreo Shake,1,0,"A delicious and indulgent milkshake made by blending vanilla ice cream, milk, and ... read more",480.0
+Drinks (Beverages),Kitkat Shake,1,0,"A delectable milkshake made by blending vanilla ice cream, milk, and pieces of ... read more",480.0
+Drinks (Beverages),Nutella Fantasy Shake,1,0,"A heavenly milkshake featuring a blend of creamy Nutella, vanilla ice cream, milk, ... read more",490.0
+Drinks (Beverages),Caramel Brownie Shake,1,0,"A decadent milkshake featuring a blend of rich caramel sauce, chunks of gooey ... read more",490.0
+Drinks (Beverages),Ferroro Rocher Shake,1,0,"A luxurious milkshake crafted with creamy Nutella, crushed Ferrero Rocher chocolates, vanilla ice ... read more",490.0
+Drinks (Beverages),Death Chocolate Shake,1,0,"An indulgent and decadent milkshake featuring a combination of rich chocolate ice cream, ... read more",490.0
+Drinks (Beverages),Cranberry Sparkle Mocktail,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Mint Mojito,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Strawberry Cooler,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Watermelon Mojito,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Orange Mojito,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Blueberry Mojito,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Get Some Rose Mocktail,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Litchi Go Melon Mocktail,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Newtons Apple Mocktail,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Cranberry Mojito Mocktail,1,0,[Non Alcoholic],350.0
+Drinks (Beverages),Orange Breezer Mocktail,1,0,[Non Alcoholic],370.0
+Drinks (Beverages),Tropical Breezer Mocktail,1,0,[Non Alcoholic],370.0
+Drinks (Beverages),Love at First Sight Mocktail,1,0,[Non Alcoholic],370.0
+Drinks (Beverages),Pina colada Mocktail,1,0,[Non Alcoholic],370.0
+Drinks (Beverages),One More Time Red Bull Mocktail,1,0,[Non Alcoholic],600.0
+Drinks (Beverages),Crazy Combo Red Bull Mocktail,1,0,[Non Alcoholic],600.0
+Drinks (Beverages),Ocean Blue Red Bull Mocktail,1,0,[Non Alcoholic],600.0

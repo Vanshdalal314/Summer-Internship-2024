@@ -1,0 +1,31 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Onion and Golden Corn Pizza [6 inches],1,0,,120.0
+Pizza,Paneer and Onion Pizza [6 inches],1,0,,120.0
+Pizza,Classic Veg Pizza [6 inches],1,0,,129.0
+Pizza,Peri Peri Paneer Pizza [6 inches],1,0,,149.0
+Pizza,Italian Puff Pizza [6 inches],1,0,,189.0
+Pizza,Margherita Pizza [6 inches],1,0,,99.0
+Pizza,Golden Corn Pizza [6 inches],1,0,,99.0
+Pizza,Capsicum Pizza [6 inches],1,0,,99.0
+Pizza,Onion Pizza [6 inches],1,0,,99.0
+Pizza,Tomato Pizza [6 inches],1,0,,99.0
+Burgers and Sandwiches,Mexican Burger,1,0,,80.0
+Burgers and Sandwiches,Chipotle Burger,1,0,,80.0
+Burgers and Sandwiches,Peri Peri Burger,1,0,,80.0
+Burgers and Sandwiches,Special Burger,1,0,,90.0
+Burgers and Sandwiches,Tikki Burger,1,0,,40.0
+Burgers and Sandwiches,Tikki with Cheese Burger,1,0,,50.0
+Burgers and Sandwiches,Cheese Slice Tikki Burger,1,0,,65.0
+Burgers and Sandwiches,Paneer Tikka 3 Pepper Sandwich,1,0,,120.0
+Burgers and Sandwiches,Italian Sandwich,1,0,,140.0
+Snacks,Tandoori Pizza Stick,1,0,,80.0
+Snacks,Mexican Pizza Stick,1,0,,110.0
+Snacks,Garlic Brusato Pizza Stick,1,0,,130.0
+Snacks,Garlic Bread,1,0,,80.0
+Snacks,Cheese Blast Garlic Bread,1,0,,100.0
+Snacks,Peri Peri Garlic Bread,1,0,,120.0
+Snacks,Mexican Garlic Bread,1,0,,140.0
+Snacks,French Fries,1,0,,80.0
+Snacks,Peri Peri French Fries,1,0,,100.0
+Wrap Rolls,Paneer Spicy Wrap Roll,1,0,,99.0
+Wrap Rolls,Veg Cheese Wrap Roll,1,0,,99.0

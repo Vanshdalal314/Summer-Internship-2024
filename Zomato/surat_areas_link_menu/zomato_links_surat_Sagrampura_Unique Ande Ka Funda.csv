@@ -1,0 +1,63 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Specials,Double Sunday [2 Eggs],0,0,,160.0
+Specials,World Cup [4 Eggs],0,0,,250.0
+Specials,Cheese Goti [2 Eggs],0,0,,160.0
+Specials,Egg Lazeez [3 Eggs],0,0,,200.0
+Specials,Double Decker [3 Eggs],0,0,,200.0
+Specials,Green Garden [2 Eggs],0,0,,160.0
+Specials,Egg Toofani [2 Eggs],0,0,,160.0
+Specials,Egg Tadka [2 Eggs],0,0,,160.0
+Specials,Egg Ghari [3 Eggs],0,0,,230.0
+Specials,Brazil Lachko [3 Eggs],0,0,,210.0
+Specials,Egg Balti [3 Eggs],0,0,,210.0
+Specials,Italian Curry,0,0,,210.0
+Specials,Surti Tadka [4 Eggs],0,0,,260.0
+Specials,Egg Tikhari [4 Eggs],0,0,,250.0
+Specials,Lahori [4 Eggs],0,0,,250.0
+Specials,Lahori 2 [5 Eggs],0,0,,310.0
+Specials,Royal Cut [4 Eggs],0,0,,250.0
+Specials,Royal Lazeez [2 Eggs],0,0,,160.0
+Specials,Italian Lazeez [3 Eggs],0,0,,220.0
+Specials,Paplet [4 Eggs],0,0,,250.0
+Specials,Egg Mughlai [4 Eggs],0,0,,270.0
+Specials,American Rabdi [4 Eggs],0,0,,250.0
+Specials,Angur Rabdi [4 Eggs],0,0,,250.0
+Specials,Ande ka Funda [2 Eggs],0,0,,160.0
+Specials,Four in One [4 Eggs],0,0,,270.0
+Specials,All in One [4 Eggs],0,0,,250.0
+Specials,Bahubali [8 Eggs],0,0,,550.0
+Specials,Tirangana,0,0,,500.0
+Specials,Unique Special [4 Eggs],0,0,,310.0
+Specials,Egg Fish Masala [4 Eggs],0,0,,290.0
+Main Course,Gravy Omelette [2 Eggs],0,0,,130.0
+Main Course,Keema [2 Eggs],0,0,,100.0
+Main Course,Bhurji [2 Eggs],0,0,,100.0
+Main Course,Ghotala [2 Eggs],0,0,,110.0
+Main Course,Katki Ghotala [2 Eggs],0,0,,110.0
+Main Course,Green Curry [2 Eggs],0,0,,110.0
+Main Course,Rajasthani Curry [2 Eggs],0,0,,130.0
+Main Course,Mumbai Curry [2 Eggs],0,0,,130.0
+Fried Rice,Egg Fried Rice,0,0,,130.0
+Fried Rice,Punjabi Egg Rice,0,0,,150.0
+Snacks,Boiled Egg,0,0,Prepared with oil.,15.0
+Snacks,Boiled Fried Egg [2 Eggs],0,0,,55.0
+Snacks,Egg Bhakharwadi [2 Eggs],0,0,,160.0
+Snacks,Regular Omelette [2 Eggs],0,0,,70.0
+Snacks,Lemon Omelette [2 Eggs],0,0,,70.0
+Snacks,Paper Omelette [2 Eggs],0,0,,90.0
+Snacks,Cheese Omelette [2 Eggs],0,0,,90.0
+Snacks,Cheese Masala Omelette [2 Eggs],0,0,,110.0
+Snacks,Cheese Gravy Omelette [2 Eggs],0,0,,160.0
+Snacks,Cheese Paper Omelette [2 Eggs],0,0,,130.0
+Snacks,Regular Fry [2 Eggs],0,0,,100.0
+Snacks,Masala Fry [2 Eggs],0,0,,100.0
+Snacks,Lasan Fry [2 Eggs],0,0,,100.0
+Snacks,Tomato Fry [2 Eggs],0,0,,100.0
+Snacks,Tomato Goti Fry [2 Eggs],0,0,,100.0
+Snacks,Boiled Fry [2 Eggs],0,0,,100.0
+Snacks,Chinese Fry [2 Eggs],0,0,,130.0
+Snacks,Goti Fry [2 Eggs],0,0,,100.0
+Snacks,Australian Fry [3 Eggs],0,0,,200.0
+Snacks,Russian Fry [3 Eggs],0,0,,200.0
+Snacks,American Fry [4 Eggs],0,0,,260.0
+Snacks,Carribean Fry [3 Eggs],0,0,,200.0

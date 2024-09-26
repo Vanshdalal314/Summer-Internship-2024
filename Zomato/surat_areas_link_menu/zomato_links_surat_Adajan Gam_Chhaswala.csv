@@ -1,0 +1,55 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Buttermilk,"Masala Buttermilk [1 Pouch, 200 ml]",1,0,,19.0
+Buttermilk,"Masala Buttermilk [1 Glass, 275 ml]",1,0,,37.1
+Buttermilk,"Mint Masala Buttermilk [1 Glass, 275 ml]",1,0,,45.0
+Buttermilk,"Special Masala Buttermilk [1 Glass, 275 ml]",1,0,,45.0
+Buttermilk,Buttermilk Bottle [900 ml],1,0,,113.0
+Lassi,Simple Lassi [200 ml],1,0,,59.0
+Lassi,Mango Lassi [200 ml],1,0,,59.0
+Lassi,Probiotic Rose Lassi [200 ml],1,0,A refreshing and creamy probiotic lassi with a hint of natural rose flavor.,66.0
+Lassi,Strawberry Lassi [200 ml],1,0,,75.0
+Lassi,Blueberry Lassi [200 ml],1,0,,90.0
+Lassi,Pineapple Lassi [200 ml],1,0,,75.0
+Lassi,Butter Scotch Lassi [200 ml],1,0,,90.0
+Lassi,Makhaniya Lassi [200 ml],1,0,,90.0
+Lassi,Kajubadam Lassi [200 ml],1,0,,98.0
+Lassi,Chocolate Lassi [200 ml],1,0,,98.0
+Lassi,Kesar Kaju Lassi [200 ml],1,0,,90.0
+Lassi,Rajwadi Lassi [200 ml],1,0,,143.0
+Lassi,Patiala Drinking Lassi [275 ml],1,0,,105.0
+Lassi,Guava Lassi,1,0,,90.0
+Matho,Rajbhog Matho,1,0,,75.0
+Matho,Mango Matho,1,0,,75.0
+Matho,Kesar Pista Matho,1,0,,75.0
+Matho,American Matho,1,0,,165.0
+Matho,Green Pista Matho,1,0,,142.0
+Matho,Cream Fruit Matho,1,0,,165.0
+Milkshake,Cold Coco [275 ml],1,0,,112.0
+Milkshake,Thandai [275 ml],1,0,,112.0
+Milkshake,Kaju Anjir Milkshake [275 ml],1,0,,149.0
+Ice Creams Family Pack,Vanilla Ice Cream [700 ml],1,0,,173.0
+Ice Creams Family Pack,Alphonso Mango Ice Cream [700 ml],1,0,,192.0
+Ice Creams Family Pack,Butterscotch Ice Cream [700 ml],1,0,,213.0
+Ice Creams Family Pack,Cookie Cream Ice Cream [700 ml],1,0,,220.0
+Ice Creams Family Pack,Kaju Draksh Ice Cream [700 ml],1,0,,220.0
+Ice Creams Family Pack,Chocolate Chips Ice Cream [700 ml],1,0,,240.0
+Ice Creams Family Pack,American Nuts Ice Cream [700 ml],1,0,,253.0
+Ice Creams Family Pack,Choco Brownie Ice Cream [700 ml],1,0,,279.0
+Ice Creams Family Pack,Kesar Pista Ice Cream [700 ml],1,0,,279.0
+Ice Creams Family Pack,Rajbhog Ice Cream [700 ml],1,0,,305.0
+Ice Creams Family Pack,Choco Hazelnut Ice Cream [700 ml],1,0,,378.0
+Ice Creams Family Pack,Fruit and Nuts Ice Cream [700 ml],1,0,,336.0
+Ice Creams Family Pack,Kesar Nuts Ice Cream [700 ml],1,0,,364.0
+Ice Creams Family Pack,Blueberry Cheesecake Ice Cream [700 ml],1,0,,385.0
+Dahi,"Dahi [1 Cup, 85 grams]",1,0,Premium quality dahi made from pasteurized full cream milk.,19.0
+Dahi,"Dahi [1 Cup, 200 grams]",1,0,Premium quality dahi made from pasteurized full cream milk.,52.0
+Dahi,"Dahi [1 Pouch, 1 kg]",1,0,Premium quality dahi made from pasteurized full cream milk.,186.0
+Cup Ice Creams,Salted Butter Caramel Ice Cream,1,0,,84.0
+Cup Ice Creams,Biscoff Ice Cream,1,0,,84.0
+Cup Ice Creams,Choco Hazelnuts Ice Cream,1,0,,70.0
+Cup Ice Creams,Coffee Caramel Ice Cream,1,0,,70.0
+Desserts,Lachha Rabri [100 grams],1,0,,83.0
+Desserts,Kesar Dry Fruit Rabri,1,0,,98.0
+Flavored Milk,Yummy Mango Power Milk [180 ml],1,0,,60.0
+Flavored Milk,Green Elaichi Power Milk [275 ml],1,0,,60.0
+Flavored Milk,Kashmiri Kesar Power Milk [275 ml],1,0,,60.0

@@ -1,0 +1,322 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Veg Mushroom Soup,1,0,,110.0
+Soups,Veg Wonton Soup,1,0,,120.0
+Soups,Veg Noodle Soup,1,0,,120.0
+Soups,Veg Wonton Noodle Soup,1,0,,120.0
+Soups,Veg Glass Noodle Soup,1,0,,120.0
+Soups,Tomato Soup,1,0,,110.0
+Soups,Veg Sweet Corn Soup,1,0,,110.0
+Soups,Veg Lung Fung Soup,1,0,,110.0
+Soups,Veg Hot and Sour Soup,1,0,,110.0
+Soups,Veg Manchow Soup,1,0,,120.0
+Soups,Egg Drop Soup,1,0,,110.0
+Soups,Tomato Egg Drop Soup,1,0,,110.0
+Soups,Chicken Clear Soup,1,0,,110.0
+Soups,Crab Clear Soup,1,0,,120.0
+Soups,Chicken Vegetable Soup,1,0,,120.0
+Soups,Chicken Mushroom Soup,1,0,,120.0
+Soups,Chicken Meat Ball Soup,1,0,,130.0
+Soups,Chicken Wonton Soup,1,0,,130.0
+Soups,Chicken Noodle Soup,1,0,,130.0
+Soups,Chicken Wonton Noodle Soup,1,0,,130.0
+Soups,Chicken Glass Noodle Soup,1,0,,130.0
+Soups,Chicken Sweet Corn Soup,1,0,,120.0
+Soups,Crab Sweet Corn Soup,1,0,,130.0
+Soups,Crab Mushroom Soup,1,0,,130.0
+Soups,Crab Egg Soup,1,0,,130.0
+Soups,Chicken Lung Fung Soup,1,0,,120.0
+Soups,Chicken Hot and Sour Soup,1,0,,120.0
+Soups,Crab Hot and Sour Soup,1,0,,130.0
+Soups,Chicken Manchow Soup,1,0,,130.0
+Soups,Chinese Mixed Soup,1,0,"Chicken, Pork, and Prawn",130.0
+Starters,Fried Eggs,1,0,,70.0
+Starters,Finger Chips,1,0,,110.0
+Starters,Egg Fu Yong,1,0,,120.0
+Starters,Chicken Egg Fu Yong,1,0,,130.0
+Starters,Pork Egg Fu Yong,1,0,,140.0
+Starters,Prawn Egg Fu Yong,1,0,,150.0
+Starters,Mixed Egg Fu Yong,1,0,"Chicken, Pork, and Prawn",160.0
+Starters,Veg Spring Roll,1,0,,150.0
+Starters,Egg Spring Roll,1,0,,160.0
+Starters,Chicken Spring Roll,1,0,,170.0
+Starters,Pork Spring Roll,1,0,,180.0
+Starters,Prawn Spring Roll,1,0,,190.0
+Starters,Mixed Spring Roll,1,0,"Chicken, Pork, and Prawn",200.0
+Starters,Veg Fried Wonton,1,0,,150.0
+Starters,Chicken Fried Wonton,1,0,,170.0
+Starters,Crab Lollipop,1,0,,230.0
+Chinese Dishes,Mixed Vegetables,1,0,Saucy,155.0
+Chinese Dishes,Sweet and Sour Vegetable,1,0,Saucy,155.0
+Chinese Dishes,Vegetable with Cashew Nuts,1,0,Saucy,165.0
+Chinese Dishes,Vegetable Manchurian,1,0,Semi Dry,195.0
+Chinese Dishes,Veg Ball Manchurian,1,0,Semi Dry,195.0
+Chinese Dishes,Schezwan Veg Ball,1,0,Semi Dry,195.0
+Chinese Dishes,Veg Ball with Garlic Sauce,1,0,Saucy,195.0
+Chinese Dishes,Veg Ball with Hot Garlic Sauce,1,0,Sweet and Spicy - Saucy,195.0
+Chinese Dishes,Vegetable Mushroom,1,0,Saucy,165.0
+Chinese Dishes,Deep Fried Mushroom,1,0,,175.0
+Chinese Dishes,Chilli Mushroom,1,0,Semi Dry,175.0
+Chinese Dishes,Manchurian Mushroom,1,0,Semi Dry,175.0
+Chinese Dishes,Hot Pepper Mushroom,1,0,Semi Dry,175.0
+Chinese Dishes,Schezwan Mushroom,1,0,Semi Dry,175.0
+Chinese Dishes,Deep Fried Gobi,1,0,,175.0
+Chinese Dishes,Chilli Gobi,1,0,Semi Dry,175.0
+Chinese Dishes,Manchurian Gobi,1,0,Semi Dry,175.0
+Chinese Dishes,Hot Pepper Gobi,1,0,Semi Dry,175.0
+Chinese Dishes,Schezwan Gobi,1,0,Semi Dry,175.0
+Chinese Dishes,Chilli Paneer,1,0,Semi Dry,215.0
+Chinese Dishes,Manchurian Paneer,1,0,Semi Dry,215.0
+Chinese Dishes,Hot Pepper Paneer,1,0,Semi Dry,215.0
+Chinese Dishes,Schezwan Paneer,1,0,Semi Dry,215.0
+Chinese Dishes,Chilli Tofu,1,0,Semi Dry,215.0
+Chinese Dishes,Manchurian Tofu,1,0,Semi Dry,215.0
+Chinese Dishes,Hot Pepper Tofu,1,0,Semi Dry,215.0
+Chinese Dishes,Szechuan Tofu,1,0,Semi Dry,215.0
+Chinese Dishes,Fried Chicken,1,0,Deep Fried,240.0
+Chinese Dishes,Chilli Chicken,1,0,Semi Dry,240.0
+Chinese Dishes,Manchurian Chicken,1,0,Semi Dry,240.0
+Chinese Dishes,Manchurian Chicken Balls,1,0,Semi Dry,260.0
+Chinese Dishes,Hot Pepper Chicken,1,0,Semi Dry,240.0
+Chinese Dishes,Garlic Chicken,1,0,Saucy,240.0
+Chinese Dishes,Chicken with Hot Garlic Sauce,1,0,Sweet and Spicy - Saucy,240.0
+Chinese Dishes,Schezwan Chicken,1,0,Semi Dry,250.0
+Chinese Dishes,Schezwan Chicken Balls,1,0,Semi Dry,270.0
+Chinese Dishes,Hong Kong Chicken,1,0,Saucy,250.0
+Chinese Dishes,Chicken with Black Bean Sauce,1,0,Saucy,250.0
+Chinese Dishes,Chicken with Oyster Sauce,1,0,Semi Dry,250.0
+Chinese Dishes,Chicken with Shitake Mushroom Sauce,1,0,Semi Dry,250.0
+Chinese Dishes,Sweet and Sour Chicken,1,0,Saucy,240.0
+Chinese Dishes,Chicken with Vegetables,1,0,Saucy,240.0
+Chinese Dishes,Chicken with Mushroom and Vegetables,1,0,Saucy,240.0
+Chinese Dishes,Chicken with Capsicum,1,0,Saucy,240.0
+Chinese Dishes,Chicken with Cashew Nuts,1,0,Saucy,250.0
+Chinese Dishes,Diced Chilli Chicken,1,0,Saucy,240.0
+Chinese Dishes,Chicken Lollipop,1,0,Deep Fried,260.0
+Chinese Dishes,Chicken Lollipop in Manchurian Sauce,1,0,,290.0
+Chinese Dishes,Chicken Lollipop in Hot Garlic Sauce,1,0,"Saucy, sweet and spicy.",290.0
+Chinese Dishes,Chicken Lollipop in Schezwan Sauce,1,0,Saucy. Spicy,290.0
+Chinese Dishes,Gold Coin Chicken,1,0,Deep Fried,260.0
+Chinese Dishes,Roast Pork,1,0,Semi Dry,290.0
+Chinese Dishes,Chilli Roast Pork,1,0,Semi Dry,290.0
+Chinese Dishes,Roast Pork with Capsicum,1,0,Semi Dry,290.0
+Chinese Dishes,Fried Pork,1,0,Deep Fried,260.0
+Chinese Dishes,Chilli Pork,1,0,Semi Dry,260.0
+Chinese Dishes,Manchurian Pork,1,0,Semi Dry,260.0
+Chinese Dishes,Manchurian Pork Balls,1,0,Semi Dry,280.0
+Chinese Dishes,Hot Pepper Pork,1,0,Semi Dry,260.0
+Chinese Dishes,Garlic Pork,1,0,Saucy,260.0
+Chinese Dishes,Pork with Hot Garlic Sauce,1,0,Sweet and Spicy - Saucy,260.0
+Chinese Dishes,Schezwan Pork,1,0,Semi Dry,270.0
+Chinese Dishes,Schezwan Pork Balls,1,0,Semi Dry,290.0
+Chinese Dishes,Pork with Black Bean Sauce,1,0,Saucy,270.0
+Chinese Dishes,Pork with Oyster Sauce,1,0,Semi Dry,270.0
+Chinese Dishes,Pork with Shitake Mushroom Sauce,1,0,Semi Dry,270.0
+Chinese Dishes,Sweet and Sour Pork,1,0,Saucy,260.0
+Chinese Dishes,Pork with Vegetables,1,0,Saucy,260.0
+Chinese Dishes,Pork with Mushroom and Vegetables,1,0,Saucy,260.0
+Chinese Dishes,Fried Prawn,1,0,Deep Fried,280.0
+Chinese Dishes,Chilli Prawn,1,0,Semi Dry,280.0
+Chinese Dishes,Manchurian Prawn,1,0,Semi Dry,280.0
+Chinese Dishes,Hot Pepper Prawn,1,0,Semi Dry,280.0
+Chinese Dishes,Garlic Prawn,1,0,Saucy,280.0
+Chinese Dishes,Prawn with Hot Garlic Sauce,1,0,Sweet and Spicy - Saucy.,280.0
+Chinese Dishes,Szechuan Prawn,1,0,Semi Dry,290.0
+Chinese Dishes,Prawn with Black Bean Sauce,1,0,Saucy,290.0
+Chinese Dishes,Prawn with Oyster Sauce,1,0,Semi Dry,290.0
+Chinese Dishes,Prawn with Shitake Mushroom Sauce,1,0,Semi Dry,290.0
+Chinese Dishes,Sweet and Sour Prawn,1,0,Saucy,280.0
+Chinese Dishes,Prawn with Vegetables,1,0,Saucy,280.0
+Chinese Dishes,Prawn with Mushroom and Vegetables,1,0,Saucy,280.0
+Chinese Dishes,Prawn with Cashew Nuts,1,0,Saucy,290.0
+Chinese Dishes,Chinese Deep Fried Prawn,1,0,Deep Fried,300.0
+Accompaniment,Green Salad,1,0,,90.0
+Accompaniment,Chinese Green Salad,1,0,,120.0
+Accompaniment,Chinese Cucumber Salad,1,0,,120.0
+Steamed Rice,Plain Steamed Rice,1,0,,115.0
+Steamed Rice,Steamed Rice with Vegetables,1,0,Mixed vegetables,185.0
+Steamed Rice,Steamed Rice with Egg and Vegetables,1,0,,195.0
+Steamed Rice,Steamed Rice with Chicken and Vegetables,1,0,Steamed Rice+Chicken+Vegetables,205.0
+Steamed Rice,Steamed Rice with Pork and Vegetables,1,0,,215.0
+Steamed Rice,Steamed Rice with Prawns and Vegetables,1,0,,225.0
+Steamed Rice,Mixed Steamed Rice,1,0,"Chicken, Pork, and Prawn",235.0
+Fried Rice,Plain Fried Rice,1,0,,115.0
+Fried Rice,Veg Fried Rice,1,0,,165.0
+Fried Rice,Mushroom Fried Rice,1,0,,175.0
+Fried Rice,Egg Fried Rice,1,0,,175.0
+Fried Rice,Chicken Fried Rice,1,0,,185.0
+Fried Rice,Pork Fried Rice,1,0,,195.0
+Fried Rice,Prawn Fried Rice,1,0,,205.0
+Fried Rice,Chicken and Prawn Fried Rice,1,0,,215.0
+Fried Rice,Chicken and Pork Fried Rice,1,0,,215.0
+Fried Rice,Pork and Prawn Fried Rice,1,0,,215.0
+Fried Rice,Mixed Fried Rice,1,0,"Chicken, Pork, and Prawn",225.0
+Fried Rice,Shanghai Veg Fried Rice,1,0,,165.0
+Fried Rice,Shanghai Mushroom Fried Rice,1,0,,175.0
+Fried Rice,Shanghai Egg Fried Rice,1,0,,175.0
+Fried Rice,Shanghai Chicken Fried Rice,1,0,Shanghai chicken fried rice.,185.0
+Fried Rice,Shanghai Pork Fried Rice,1,0,,195.0
+Fried Rice,Shanghai Prawn Fried Rice,1,0,,205.0
+Fried Rice,Shanghai Chicken and Prawn Fried Rice,1,0,,215.0
+Fried Rice,Shanghai Chicken and Pork Fried Rice,1,0,,215.0
+Fried Rice,Shanghai Pork and Prawn Fried Rice,1,0,,215.0
+Fried Rice,Shanghai Mixed Fried Rice,1,0,"Chicken, Pork, and Prawns",225.0
+Fried Rice,Szechuan Veg Fried Rice,1,0,,185.0
+Fried Rice,Schezwan Mushroom Fried Rice,1,0,,195.0
+Fried Rice,Szechuan Egg Fried Rice,1,0,,195.0
+Fried Rice,Szechuan Chicken Fried Rice,1,0,,205.0
+Fried Rice,Szechuan Pork Fried Rice,1,0,,215.0
+Fried Rice,Schezwan Prawn Fried Rice,1,0,,225.0
+Fried Rice,Schezwan Chicken and Prawn Fried Rice,1,0,,235.0
+Fried Rice,Szechuan Chicken and Pork Fried Rice,1,0,,235.0
+Fried Rice,Schezwan Pork and Prawn Fried Rice,1,0,,235.0
+Fried Rice,Szechuan Mixed Fried Rice,1,0,"Chicken, pork and prawns.",245.0
+Fried Rice,Garlic Veg Fried Rice,1,0,,175.0
+Fried Rice,Garlic Mushroom Fried Rice,1,0,,185.0
+Fried Rice,Garlic Egg Fried Rice,1,0,,185.0
+Fried Rice,Garlic Chicken Fried Rice,1,0,,195.0
+Fried Rice,Garlic Pork Fried Rice,1,0,,205.0
+Fried Rice,Garlic Prawn Fried Rice,1,0,,215.0
+Fried Rice,Garlic Chicken and Prawn Fried Rice,1,0,,225.0
+Fried Rice,Garlic Chicken and Pork Fried Rice,1,0,,225.0
+Fried Rice,Garlic Pork and Prawn Fried Rice,1,0,,225.0
+Fried Rice,Garlic Mixed Fried Rice,1,0,"Chicken, pork and prawns.",235.0
+Fried Rice,Burnt Garlic Veg Fried Rice,1,0,,185.0
+Fried Rice,Burnt Garlic Mushroom Fried Rice,1,0,,195.0
+Fried Rice,Burnt Garlic Egg Fried Rice,1,0,,195.0
+Fried Rice,Burnt Garlic Chicken Fried Rice,1,0,,205.0
+Fried Rice,Burnt Garlic Pork Fried Rice,1,0,,215.0
+Fried Rice,Burnt Garlic Prawn Fried Rice,1,0,,225.0
+Fried Rice,Burnt Garlic Chicken and Prawn Fried Rice,1,0,,235.0
+Fried Rice,Burnt Garlic Chicken and Pork Fried Rice,1,0,,235.0
+Fried Rice,Burnt Garlic Pork and Prawn Fried Rice,1,0,,235.0
+Fried Rice,Burnt Garlic Mixed Fried Rice,1,0,"Chicken, Pork, and Prawn",245.0
+Fried Rice,Chilli Garlic Veg Fried Rice,1,0,,175.0
+Fried Rice,Chilli Garlic Mushroom Fried Rice,1,0,,185.0
+Fried Rice,Chilli Garlic Egg Fried Rice,1,0,,185.0
+Fried Rice,Chilli Garlic Chicken Fried Rice,1,0,,195.0
+Fried Rice,Chilli Garlic Pork Fried Rice,1,0,,205.0
+Fried Rice,Chilli Garlic Prawns Fried Rice,1,0,,215.0
+Fried Rice,Chilli Garlic Chicken and Prawns Fried Rice,1,0,,225.0
+Fried Rice,Chilli Garlic Chicken and Pork Fried Rice,1,0,,225.0
+Fried Rice,Chilli Garlic Pork and Prawns Fried Rice,1,0,,225.0
+Fried Rice,Chilli Garlic Mixed Fried Rice,1,0,"Chicken, pork and prawns.",235.0
+Fried Rice,Burnt Chilli Garlic Veg Fried Rice,1,0,,185.0
+Fried Rice,Burnt Chilli Garlic Mushroom Fried Rice,1,0,,195.0
+Fried Rice,Burnt Chilli Garlic Egg Fried Rice,1,0,,195.0
+Fried Rice,Burnt Chilli Garlic Chicken Fried Rice,1,0,,205.0
+Fried Rice,Burnt Chilli Garlic Pork Fried Rice,1,0,,215.0
+Fried Rice,Burnt Chilli Garlic Prawns Fried Rice,1,0,,225.0
+Fried Rice,Burnt Chilli Garlic Chicken and Prawns Fried Rice,1,0,,235.0
+Fried Rice,Burnt Chilli Garlic Chicken and Pork Fried Rice,1,0,,235.0
+Fried Rice,Burnt Chilli Garlic Pork and Prawns Fried Rice,1,0,,235.0
+Fried Rice,Burnt Chilli Garlic Mixed Fried Rice,1,0,,245.0
+Fried Rice,Veg Yang Chow Fried Rice,1,0,,175.0
+Fried Rice,Egg Yang Chow Fried Rice,1,0,,185.0
+Fried Rice,Chicken Yang Chow Fried Rice,1,0,,195.0
+Fried Rice,Pork Yang Chow Fried Rice,1,0,,205.0
+Fried Rice,Prawn Yang Chow Fried Rice,1,0,,215.0
+Fried Rice,Mixed Yang Chow Fried Rice,1,0,"Chicken, Pork, and Prawn",225.0
+Noodles,Vegetable Noodles,1,0,,165.0
+Noodles,Mushroom Noodles,1,0,,175.0
+Noodles,Egg Noodles,1,0,,175.0
+Noodles,Chicken Noodles,1,0,Chicken noodles.,185.0
+Noodles,Pork Noodles,1,0,,195.0
+Noodles,Prawn Noodles,1,0,,205.0
+Noodles,Chicken and Prawn Noodles,1,0,,215.0
+Noodles,Chicken and Pork Noodles,1,0,,215.0
+Noodles,Pork and Prawn Noodles,1,0,,215.0
+Noodles,Mixed Noodles,1,0,"Chicken, Pork, and Prawn",225.0
+Noodles,Mushroom Yam Mein,1,0,,175.0
+Noodles,Egg Yam Mein,1,0,,175.0
+Noodles,Chicken Yam Mein,1,0,,185.0
+Noodles,Pork Yam Mein,1,0,,195.0
+Noodles,Prawn Yam Mein,1,0,,205.0
+Noodles,Chicken and Prawn Yam Mein,1,0,,215.0
+Noodles,Chicken and Pork Yam Mein,1,0,,215.0
+Noodles,Pork and Prawn Yam Mein,1,0,,215.0
+Noodles,Mixed Yam Mein,1,0,"Chicken, Pork, and Prawn",225.0
+Noodles,Szechuan Veg Noodles,1,0,,185.0
+Noodles,Schezwan Mushroom Noodles,1,0,,195.0
+Noodles,Szechuan Egg Noodles,1,0,,195.0
+Noodles,Szechuan Chicken Noodles,1,0,,205.0
+Noodles,Szechuan Pork Noodles,1,0,,215.0
+Noodles,Szechuan Prawn Noodles,1,0,,225.0
+Noodles,Schezwan Chicken and Prawn Noodles,1,0,,235.0
+Noodles,Szechuan Chicken and Pork Noodles,1,0,,235.0
+Noodles,Szechuan Pork and Prawn Noodles,1,0,,235.0
+Noodles,Szechuan Mixed Noodles,1,0,"Chicken, Pork, and Prawn",245.0
+Noodles,Garlic Veg Noodles,1,0,,175.0
+Noodles,Garlic Mushroom Noodles,1,0,,185.0
+Noodles,Garlic Egg Noodles,1,0,,185.0
+Noodles,Garlic Chicken Noodles,1,0,,195.0
+Noodles,Garlic Pork Noodles,1,0,,205.0
+Noodles,Garlic Prawn Noodles,1,0,,215.0
+Noodles,Garlic Chicken and Prawn Noodles,1,0,,225.0
+Noodles,Garlic Chicken and Pork Noodles,1,0,,225.0
+Noodles,Garlic Pork and Prawn Noodles,1,0,,225.0
+Noodles,Garlic Mixed Noodles,1,0,"Chicken, pork and prawns.",235.0
+Noodles,Burnt Garlic Veg Noodles,1,0,,185.0
+Noodles,Burnt Garlic Mushroom Noodles,1,0,,195.0
+Noodles,Burnt Garlic Egg Noodles,1,0,,195.0
+Noodles,Burnt Garlic Chicken Noodles,1,0,,205.0
+Noodles,Burnt Garlic Pork Noodles,1,0,,215.0
+Noodles,Burnt Garlic Prawn Noodles,1,0,,225.0
+Noodles,Burnt Garlic Chicken and Prawn Noodles,1,0,,235.0
+Noodles,Burnt Garlic Chicken and Pork Noodles,1,0,,235.0
+Noodles,Burnt Garlic Pork and Prawn Noodles,1,0,,235.0
+Noodles,Burnt Garlic Mixed Noodles,1,0,"Chicken, Pork, and Prawn",245.0
+Noodles,Chilli Garlic Veg Noodles,1,0,,175.0
+Noodles,Chilli Garlic Mushroom Noodles,1,0,,185.0
+Noodles,Chilli Garlic Egg Noodles,1,0,,185.0
+Noodles,Chilli Garlic Chicken Noodles,1,0,,195.0
+Noodles,Chilli Garlic Pork Noodles,1,0,,205.0
+Noodles,Chilli Garlic Prawns Noodles,1,0,,215.0
+Noodles,Chilli Garlic Chicken and Prawns Noodles,1,0,,225.0
+Noodles,Chilli Garlic Chicken and Pork Noodles,1,0,,225.0
+Noodles,Chilli Garlic Pork and Prawns Noodles,1,0,,225.0
+Noodles,Chilli Garlic Mixed Noodles,1,0,"Chicken, Pork, and Prawn",235.0
+Noodles,Burnt Chilli Garlic Veg Noodles,1,0,,185.0
+Noodles,Burnt Chilli Garlic Mushroom Noodles,1,0,,195.0
+Noodles,Burnt Chilli Garlic Egg Noodles,1,0,,195.0
+Noodles,Burnt Chilli Garlic Chicken Noodles,1,0,,205.0
+Noodles,Burnt Chilli Garlic Pork Noodles,1,0,,215.0
+Noodles,Burnt Chilli Garlic Prawn Noodles,1,0,,225.0
+Noodles,Burnt Chilli Garlic Chicken and Prawns Noodles,1,0,,235.0
+Noodles,Burnt Chilli Garlic Chicken and Pork Noodles,1,0,,235.0
+Noodles,Burnt Chilli Garlic Pork and Prawns Noodles,1,0,,235.0
+Noodles,Burnt Chilli Garlic Mixed Noodles,1,0,,245.0
+Noodles,Veg Pan Fried Noodles,1,0,,185.0
+Noodles,Egg Pan Fried Noodles,1,0,,195.0
+Noodles,Chicken Pan Fried Noodles,1,0,,205.0
+Noodles,Pork Pan Fried Noodles,1,0,,215.0
+Noodles,Prawn Pan Fried Noodles,1,0,,225.0
+Noodles,Mixed Pan Fried Noodles,1,0,"Chicken, Pork, and Prawn",235.0
+Noodles,Vegetable Yee Fu Mein,1,0,,185.0
+Noodles,Egg Yee Fu Mein,1,0,,195.0
+Noodles,Chicken Yee Fu Mein,1,0,,205.0
+Noodles,Pork Yee Fu Mein,1,0,,215.0
+Noodles,Prawn Yee Fu Mein,1,0,,225.0
+Noodles,Mixed Yee Fu Mein,1,0,"Chicken, Pork, and Prawn",235.0
+Glass Noodles,Veg Stir Fry Glass Noodles,1,0,,185.0
+Glass Noodles,Mushroom Stir Fry Glass Noodles,1,0,,195.0
+Glass Noodles,Egg Stir Fry Glass Noodles,1,0,,195.0
+Glass Noodles,Chicken Stir Fry Glass Noodles,1,0,,205.0
+Glass Noodles,Pork Stir Fry Glass Noodles,1,0,,215.0
+Glass Noodles,Prawn Stir Fry Glass Noodles,1,0,,225.0
+Glass Noodles,Chicken and Prawn Stir Fry Glass Noodles,1,0,,235.0
+Glass Noodles,Chicken and Pork Stir Fry Glass Noodles,1,0,,235.0
+Glass Noodles,Pork and Prawn Stir Fry Glass Noodles,1,0,,235.0
+Glass Noodles,Mixed Stir Fry Glass Noodles,1,0,"Chicken, Pork, and Prawn",245.0
+Chop Suey,Veg Chinese Chop Suey,1,0,,185.0
+Chop Suey,Egg Chinese Chop Suey,1,0,,195.0
+Chop Suey,Chicken Chinese Chop Suey,1,0,,205.0
+Chop Suey,Pork Chinese Chop Suey,1,0,,215.0
+Chop Suey,Prawn Chinese Chop Suey,1,0,,225.0
+Chop Suey,Mixed Chinese Chop Suey,1,0,"Chicken, Pork, and Prawn",235.0
+Chop Suey,Veg American Chop Suey,1,0,,185.0
+Chop Suey,Egg American Chop Suey,1,0,,195.0
+Chop Suey,Chicken American Chop Suey,1,0,,205.0
+Chop Suey,Pork American Chop Suey,1,0,,215.0
+Chop Suey,Prawn American Chop Suey,1,0,,225.0
+Chop Suey,Mixed American Chop Suey,1,0,"Chicken, Pork, and Prawn",235.0
+Chopsticks,Disposable Chopsticks,1,0,,7.0

@@ -1,0 +1,14 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Locho,Oil Locho,1,0,Locho is steamed Gujarati farsan [snack/side dish] originated in Surat. It is made ... read more,55.0
+Locho,Plain Locho,1,0,,70.0
+Locho,Butter Locho,1,0,Locho is steamed Gujarati farsan [snack/side dish] originated in Surat. It is made ... read more,77.0
+Locho,Cheese Butter Locho,1,0,Locho is steamed Gujarati farsan [snack/side dish] originated in Surat. It is made ... read more,103.0
+Locho,Mayonnaise Butter Locho,1,0,Locho is steamed Gujarati farsan [snack/side dish] originated in Surat. It is made ... read more,90.0
+Locho,Mayonnaise Cheese Butter Locho,1,0,Locho is steamed Gujarati farsan [snack/side dish] originated in Surat. It is made ... read more,115.0
+Locho,Schezwan Butter Locho,1,0,Locho is steamed Gujarati farsan [snack/side dish] originated in Surat. It is made ... read more,90.0
+Locho,Schezwan Butter Cheese Locho,1,0,Locho is steamed Gujarati farsan [snack/side dish] originated in Surat. It is made ... read more,115.0
+Samosa,Non Fried Dal Samosa [250 grams],1,0,Non jain.,95.0
+Samosa,Fried Dal Samosa [6 Pieces],1,0,Fried triangular crispy snack. Non jain.,50.0
+Samosa,Jain Fried Cheese Paneer Samosa [5 Pieces],1,0,Fried triangular crispy snack.,77.0
+Samosa,Jain Non Fried Cheese Paneer Samosa [250 grams],1,0,Non fried.,165.0
+Extras,Sev [55 Grams],1,0,,20.0

@@ -1,0 +1,32 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Locho,Plain Locho,1,0,,70.0
+Locho,Oil Locho,1,0,,60.0
+Locho,Butter Locho,1,0,,80.0
+Locho,Cheese Butter Locho,1,0,,90.0
+Farsan,Sev,1,0,,40.0
+Farsan,Papdi,1,0,,130.0
+Farsan,Surti Bhusu,1,0,,130.0
+Farsan,Mora Gathiya,1,0,,130.0
+Farsan,Bhavnagari Gathiya,1,0,,130.0
+Farsan,Jada Mora Gathiya,1,0,,130.0
+Idada,Plain Idadda,1,0,,60.0
+Idada,Vagharela Idadda,1,0,,50.0
+Idada,Cheese Butter Idadda,1,0,,70.0
+Samosa and Patties,Punjabi Samosa [1 Pieces],1,0,,28.0
+Samosa and Patties,Fry Dal Samosa [Non Jain],1,0,,120.0
+Samosa and Patties,Cheese Paneer Samosa,1,0,,210.0
+Samosa and Patties,Chinese Samosa,1,0,[Non Jain],120.0
+Snacks,Fafda,1,0,,180.0
+Snacks,Batata Puri,1,0,,110.0
+Snacks,Methi Gota,1,0,,110.0
+Snacks,Mix Bhajiya,1,0,Batata puri+Methi Gota+Samosa's+Petis+Dalvada,110.0
+Snacks,Garlic Dhokla,1,0,,90.0
+Snacks,Jalebi,1,0,,130.0
+Patra,Bafela Patra,1,0,,90.0
+Patra,Vagharela Patra,1,0,,60.0
+Drinks (Beverages),Masala Butter Milk [200 ml],1,0,,25.0
+Khaman,Vagharela Khaman,1,0,,50.0
+Khaman,Plain Khaman,1,0,,60.0
+Khaman,Sev Khamani,1,0,,70.0
+Dussehra Specials,Fafda,1,0,,180.0
+Dussehra Specials,Oil Jalebi,1,0,,130.0

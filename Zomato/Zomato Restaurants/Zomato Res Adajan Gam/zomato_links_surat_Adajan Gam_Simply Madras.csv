@@ -1,0 +1,50 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Rice,Curd Rice,1,0,Curd rice.,123.81
+Rice,Lemon Rice,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",123.81
+Rice,Steamed Rice with Sambar,1,0,Hot steamed rice served with sambhar and banana chips on the side.,123.81
+Rice,Steamed Rice with Rasam,1,0,,123.81
+Rice,Tomato Rice,1,0,Blend of tomatoes and spices.,133.33
+Rice,Coconut Rice,1,0,,142.86
+Rice,Puliyogare [Tamarind Rice],1,0,,152.38
+Rice,Bisebelebath Rice,1,0,Spicy and flavourful with a lot of vegetables.,147.62
+Dosa and Idli,Masala Dosa,1,0,"A semi-spicy, crispy and delicious dosa with masala folded and loaded with veggies ... read more",138.1
+Dosa and Idli,Mysore Butter Masala Dosa,1,0,,176.19
+Dosa and Idli,Butter Masala Dosa,1,0,"A semi-spicy, crispy and delicious dosa with masala folded and loaded with butter ... read more",161.9
+Dosa and Idli,Butter Dosa,1,0,"Thin flattened dosa wrapped around seasonal spices and serving of butter, served with ... read more",133.33
+Dosa and Idli,Ghee Podi Dosa,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",171.43
+Dosa and Idli,Plain Dosa,1,0,The best way to end the hunger at any time is a crisp ... read more,109.52
+Dosa and Idli,Mysore Masala Dosa,1,0,,152.38
+Dosa and Idli,Rava Butter Masala Dosa,1,0,,180.95
+Dosa and Idli,Rava Masala Dosa,1,0,,157.14
+Dosa and Idli,Rava Butter Dosa,1,0,,157.14
+Dosa and Idli,Onion Rava Butter Dosa,1,0,,166.67
+Dosa and Idli,Podi Dosa,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",128.57
+Dosa and Idli,Ghee Masala Dosa,1,0,,171.43
+Dosa and Idli,Onion Podi Cheese Dosa,1,0,,176.19
+Dosa and Idli,Ghee Rava Podi Dosa,1,0,,185.71
+Dosa and Idli,Onion Rava Butter Masala Dosa,1,0,,190.48
+Dosa and Idli,Podi Butter Masala Dosa,1,0,,180.95
+Dosa and Idli,Onion Dosa,1,0,,128.57
+Dosa and Idli,Double Cheese Dosa,1,0,,190.48
+Dosa and Idli,"Idli [2 Pieces, Serves 1]",1,0,,90.48
+Dosa and Idli,Idli [1 Piece] with 1 Medu Vada [Serves 1],1,0,,104.76
+Dosa and Idli,Podi Idli [2 Pieces],1,0,Serves 1,109.52
+Dosa and Idli,Butter Idli [2 Pieces],1,0,Serves 1,109.52
+Dosa and Idli,"Rasam Idli [2 Pieces, Serves 1]",1,0,,90.48
+Dosa and Idli,"Idli [Mini, 8 Pieces]",1,0,Button shaped Idlis dipped in sambhar and ghee.,147.62
+Dosa and Idli,"Thatte Idli [Big, 1 Piece]",1,0,"Idli topped with milagai podi powder and ghee, served along with sambhar and ... read more",114.29
+Desserts and Beverages,Kesari Bath,1,0,"Made from suji, saffron, cashews, raisins and ghee.",95.24
+Desserts and Beverages,Filter Coffee,1,0,"Coffee beans grown in Giri area,Chikmagalur, Karnataka are roasted in state of the ... read more",52.38
+Desserts and Beverages,Black Coffee,1,0,,38.1
+Desserts and Beverages,Plain Butter Milk,1,0,Served chilled.,38.1
+Desserts and Beverages,Spicy Butter Milk,1,0,Served chilled.,38.1
+Desserts and Beverages,Rasam,1,0,,42.86
+Vada,Medu Vada [2 Pieces],1,0,Serves 1,109.52
+Vada,Sambhar Vada [2 Pieces],1,0,Vada dipped in sambhar.,119.05
+Vada,"Rasam Vada [2 Pieces, Serves 1]",1,0,,109.52
+Vada,Dahi Vada [2 Pieces],1,0,Vada topped with sweet curd and spices.,138.1
+Uttapam,Tomato Onion Uttapam,1,0,A wholesome meal with flavor-packed soft uttapam topped with tomato & onions; served ... read more,161.9
+Uttapam,Onion Uttapam,1,0,A wholesome meal with flavor-packed soft uttapam topped with onions; served along with ... read more,152.38
+Uttapam,Vegetable Uttapam,1,0,A wholesome meal with flavor-packed soft uttapam topped with veggies; served along with ... read more,161.9
+Uttapam,Masala Uttapam,1,0,Potato stuffing along with vegetables. Wholesome and flavourful.,176.19
+Uttapam,Tomato Uttapam,1,0,,161.9

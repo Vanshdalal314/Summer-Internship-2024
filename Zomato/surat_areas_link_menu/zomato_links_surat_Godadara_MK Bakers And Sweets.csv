@@ -1,0 +1,29 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes and Pastries,Pineapple Cake [500 grams],1,0,,520.0
+Cakes and Pastries,Strawberry Cake [500 grams],1,0,,520.0
+Cakes and Pastries,Black Forest Cake [500 grams],1,0,,480.0
+Cakes and Pastries,Butterscotch Cake [500 grams],1,0,,540.0
+Cakes and Pastries,Chocolate Chips Cake [500 grams],1,0,,580.0
+Cakes and Pastries,Chocolate Vanilla Cake [500 grams],1,0,,500.0
+Cakes and Pastries,Chocolate Mud Cake [500 grams],1,0,,520.0
+Cakes and Pastries,Chocolate Oreo Cake [500 grams],1,0,,600.0
+Cakes and Pastries,Chocolate KitKat Cake [500 grams],1,0,,540.0
+Cakes and Pastries,Chocolate Zebra Cake [500 grams],1,0,,480.0
+Cakes and Pastries,full KitKat jems Chocolate Cake [500 grams],1,0,,780.0
+Cakes and Pastries,Chocolate Marble Cake [500 grams],1,0,,520.0
+Cakes and Pastries,Cassata Cake [500 grams],1,0,,480.0
+Cakes and Pastries,Blueberry Cake [500 grams],1,0,,480.0
+Cakes and Pastries,Black Forest Pastry,1,0,,80.0
+Cakes and Pastries,Chocolate Pastry,1,0,,100.0
+Cakes and Pastries,Special Fill Choco Cake [500 grams],1,0,,640.0
+Cakes and Pastries,Eggless Dutch Truffle Cake [500 grams],1,0,,620.0
+Cakes and Pastries,White Forest Cake [500 grams],1,0,,520.0
+Cakes and Pastries,Chocolate Strawberry Cake [500 grams],1,0,,500.0
+Cakes and Pastries,Cadbury Silk Chocolate Cake [500 grams],1,0,,750.0
+Cakes and Pastries,Choco KitKat Cupcake,1,0,[Veg preparation],100.0
+Sweets,Kesar Penda,1,0,,340.0
+Sweets,Thabdi Penda,1,0,,400.0
+Sweets,Malai Penda,1,0,,360.0
+Sweets,Special Kaju Katli [500 grams],1,0,,640.0
+Sweets,Sp laddu,1,0,,260.0
+Sweets,Milk Cake [500 grams],1,0,,400.0

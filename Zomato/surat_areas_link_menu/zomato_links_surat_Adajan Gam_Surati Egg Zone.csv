@@ -1,0 +1,88 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Quick Bites,Boil Cheese Kofta,0,0,A delightful starter with perfectly boiled egg. Each egg is encased in a ... read more,140.0
+Quick Bites,Boil Egg,0,0,,35.0
+Quick Bites,Boil Fry Masala,0,0,"This starter features boiled egg, chopped into bite sized pieces and simmered in ... read more",115.5
+Quick Bites,Boil Lasan Tadka,0,0,Boiled egg are cut into bite sized pieces and bathed in a vibrant ... read more,140.0
+Quick Bites,Boil Salad,0,0,"We take boiled egg and grate them for a unique texture.  Fresh, chopped ... read more",56.0
+Quick Bites,Egg Locho,0,0,This delightful dish features a bed of fluffy steamed egg bathed in a ... read more,161.0
+Quick Bites,Golden Cheese Tikka,0,0,This starter features two perfectly boiled egg cut into long pieces. Each piece ... read more,140.0
+Quick Bites,Green Chatni,1,0,,45.5
+Quick Bites,Malai Tikka,0,0,Experience the smoky magic of tandoor with our this tikka. It features perfectly ... read more,140.0
+Quick Bites,Tandoori Tikka,0,0,,140.0
+Omlet,Plain Omelette,0,0,"Made with just egg, seasoned with salt and pepper.",80.5
+Omlet,Bombay Omlet,0,0,"Made with fluffy egg, this omelette is bursting with the flavours of Mumbai. ... read more",91.0
+Omlet,Cheese Omlet,0,0,"Made with fluffy egg, this omelette is filled with melted cheese, creating a ... read more",115.5
+Omlet,Lime & Paper Omlet,0,0,"Made with fluffy egg, it bursts with a vibrant citrusy flavor thanks to ... read more",91.0
+Omlet,Rasawali Omlet,0,0,This unique dish features a fluffy egg omelette topped with vibrant red gravy ... read more,140.0
+Half Fry,Australian Fry,0,0,This dish features a combination of boiled egg [2 eggs] and fried egg ... read more,231.0
+Half Fry,Butter Garlic Fry [2 Eggs],0,0,"Eggs cooked to your desired doneness, bathed in a sizzling pool of butter ... read more",210.0
+Half Fry,Green Fry,0,0,"One egg is cooked, offering a perfectly fried base. The remaining egg transformed ... read more",210.0
+Half Fry,Jeera Mari Fry,0,0,"This dish is a flavorful twist on the classic egg fry, offering a ... read more",91.0
+Half Fry,Lasan Fry,0,0,"This dish is a garlic lovers dream, offering a symphony of garlicky flavors ... read more",140.0
+Half Fry,Masala Fry,0,0,,115.5
+Half Fry,Mastani Fry,0,0,"One egg is perfectly fried to your desired doneness, while the other is ... read more",210.0
+Half Fry,Tomato Fry,0,0,"This simple yet satisfying dish lets the natural flavors of egg shine through, ... read more",140.0
+Desi Style,Bhurji,0,0,"This classic Indian dish is a delicious scramble of egg with onion, spices ... read more",115.5
+Desi Style,Boil Kheema (Green),0,0,"This dish features a flavorful curry base [tomato, onion and spices] with boiled ... read more",115.5
+Desi Style,Boil Kheema (Red),0,0,,115.5
+Desi Style,Egg Curry,0,0,,140.0
+Desi Style,Golden Green [2 Eggs],0,0,"Golden yolks rest on a vibrant green gravy. Spinach, herbs and a touch ... read more",175.0
+Desi Style,Gotalo,0,0,,115.5
+Desi Style,Italian Curry,0,0,This dish offers a unique twist on classic egg florentine with a vibrant ... read more,175.0
+Desi Style,Kataki Kheemo,0,0,,140.0
+Desi Style,Kheema Goti Lachko,0,0,,255.5
+Desi Style,Lachko,0,0,,115.5
+Desi Style,Lahori,0,0,"This dish features perfectly cooked egg nestled in a vibrant red gravy, luxuriously ... read more",175.0
+Desi Style,Lasan Kachu,0,0,,140.0
+Desi Style,Mercedes [2 Eggs],0,0,"Hard boiled egg coarsely chopped, resembling glistening emeralds and nestled in a vibrant ... read more",175.0
+Desi Style,Raja Rani,0,0,,175.0
+Desi Style,Royal Red [2 Eggs],0,0,"A vibrant red gravy, simmered with tomatoes, onion, spices & a touch of ... read more",175.0
+Special Variety With Cheese,Afghani,0,0,,301.0
+Special Variety With Cheese,Ande Ka Fanda,0,0,,315.0
+Special Variety With Cheese,Bahubali,0,0,,420.0
+Special Variety With Cheese,Bmw,0,0,,301.0
+Special Variety With Cheese,Bullet Dhamaka,0,0,,521.5
+Special Variety With Cheese,Cheese Corma,0,0,,245.0
+Special Variety With Cheese,Cheese Patra,0,0,[Veg preparation],301.0
+Special Variety With Cheese,Creamy Delicious,0,0,,322.0
+Special Variety With Cheese,Eagle Eye,0,0,,371.0
+Special Variety With Cheese,Egg American Fry,0,0,,301.0
+Special Variety With Cheese,Egg Angara,0,0,,301.0
+Special Variety With Cheese,Egg Begam Bahar,0,0,,322.0
+Special Variety With Cheese,Egg Cheese Lapeti,0,0,,301.0
+Special Variety With Cheese,Egg Cocktail,0,0,[Non Alcoholic],322.0
+Special Variety With Cheese,Egg Garib Rath,0,0,,301.0
+Special Variety With Cheese,Egg Mamna Gravy (Green),0,0,,322.0
+Special Variety With Cheese,Egg Mamna Gravy (Red),0,0,,322.0
+Special Variety With Cheese,Egg Pathani,0,0,,315.0
+Special Variety With Cheese,Egg Rajwadi,0,0,,301.0
+Special Variety With Cheese,Egg Ravaiya (Green),0,0,,231.0
+Special Variety With Cheese,Egg Samosa Gravy,0,0,,301.0
+Special Variety With Cheese,Egg Sunday,0,0,,322.0
+Special Variety With Cheese,Egg Tadka,0,0,,255.5
+Special Variety With Cheese,Egg Tikhari,0,0,,280.0
+Special Variety With Cheese,Egg Tukda,0,0,,301.0
+Special Variety With Cheese,Egg World,0,0,,546.0
+Special Variety With Cheese,Eggistan,0,0,,255.5
+Special Variety With Cheese,Ghari,0,0,,255.5
+Special Variety With Cheese,Green Tikka,0,0,,210.0
+Special Variety With Cheese,Kashmiri Fry,0,0,,196.0
+Special Variety With Cheese,Mughlai,0,0,[Veg preparation],325.5
+Special Variety With Cheese,Paplet (Green),0,0,,325.5
+Special Variety With Cheese,Paplet (Red),0,0,,325.5
+Special Variety With Cheese,Red Ravaiva,0,0,,220.5
+Special Variety With Cheese,Egg Russian Fry,0,0,,220.5
+Special Variety With Cheese,Singapuri Rabadi,0,0,,210.0
+Special Variety With Cheese,Spring Roll Masala,0,0,,301.0
+Special Variety With Cheese,Surati Special,0,0,,420.0
+Special Variety With Cheese,Tiranga,0,0,,532.0
+Breads,Extra Pav ( 2Pcs - Butter ),1,0,,21.0
+Breads,Extra Pav ( 2Pcs Oil),1,0,,10.5
+Rice,Anda Pulao,0,0,[Veg preparation],175.0
+Rice,Crispy Lemon Rice,0,0,,185.5
+Rice,Egg Biryani,0,0,,140.0
+Rice,Fried Rice,0,0,,161.0
+Rice,Egg Gravy Pulao Green,0,0,,175.0
+Rice,Egg Gravy Pulao Red,0,0,,175.0
+Rice,Egg Gup Chup Rice,0,0,,280.0
+Rice,Makhni Rice,0,0,,231.0

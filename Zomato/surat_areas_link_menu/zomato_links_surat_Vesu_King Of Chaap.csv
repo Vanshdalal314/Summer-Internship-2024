@@ -1,0 +1,49 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chaap Starters,Masaledaar Chaap,1,0,,349.0
+Chaap Starters,Achari Chaap,1,0,,349.0
+Chaap Starters,Afghani Dry Chaap,1,0,,349.0
+Chaap Starters,Chatpati Lemon Chaap,1,0,,399.0
+Chaap Starters,Afghani Cream Chaap,1,0,,399.0
+Chaap Starters,Diet Chaap,1,0,,349.0
+Chaap Starters,Garlic Chaap,1,0,,349.0
+Chaap Starters,Hyderabadi Chaap,1,0,,399.0
+Chaap Starters,Lahori Chaap,1,0,,399.0
+Chaap Starters,Schezwan Chaap,1,0,,399.0
+Chaap Starters,Creamy Garlic Chaap,1,0,,399.0
+Chaap Starters,Creamy Malai Chaap,1,0,,399.0
+Chaap Starters,Kali Mirch Cream Chaap,1,0,,399.0
+Chaap Starters,Masaledaar Stuffed Chaap,1,0,,349.0
+Chaap Starters,Achari Stuffed Chaap,1,0,,349.0
+Chaap Starters,Afghani Dry Stuffed Chaap,1,0,,349.0
+Chaap Starters,Chatpati Lemon Stuffed Chaap,1,0,,399.0
+Chaap Starters,Afghani Cream Stuffed Chaap,1,0,,399.0
+Chaap Starters,Diet Stuffed Chaap,1,0,,349.0
+Chaap Starters,Garlic Stuffed Chaap,1,0,,349.0
+Chaap Starters,Hyderabadi Stuffed Chaap,1,0,,399.0
+Chaap Starters,Lahori Stuffed Chaap,1,0,,399.0
+Chaap Starters,Schezwan Stuffed Chaap,1,0,,399.0
+Chaap Starters,Creamy Garlic Stuffed Chaap,1,0,,399.0
+Chaap Starters,Creamy Malai Stuffed Chaap,1,0,,399.0
+Chaap Starters,Kali Mirch Cream Stuffed Chaap,1,0,,399.0
+Main Course,Chaap Butter Masala,1,0,,349.0
+Main Course,Chaap Tawa Masala,1,0,,349.0
+Main Course,Ginger Lemon Chaap,1,0,,349.0
+Main Course,Kheema Chaap,1,0,,349.0
+Main Course,Chaap Handi,1,0,,349.0
+Main Course,Chaap Lababdar,1,0,,349.0
+Main Course,Chaap Tikka Masala,1,0,,349.0
+Breads,Tandoori Butter Roti,1,0,,39.0
+Breads,Butter Lachedar Paratha,1,0,,69.0
+Breads,Butter Naan,1,0,,99.0
+Breads,Butter Rumali Roti,1,0,,99.0
+Breads,Butter Kulcha,1,0,,99.0
+Biryani,Spicy Dum Soya Biryani + Raita,1,0,Spicy Dum Soya Biryani + Raita,399.0
+Biryani,Chaap Subz Biryani + Raita,1,0,Chaap Subz Biryani + Raita,399.0
+Biryani,Chaap Tikka Biryani + Raita,1,0,Chaap Tikka Biryani + Raita,399.0
+Fried Rice And Noodles,Chaap Fried Rice,1,0,,349.0
+Fried Rice And Noodles,Chaap Noodles,1,0,,349.0
+Fried Rice And Noodles,Chaap Schezwan Fried Rice,1,0,,349.0
+Fried Rice And Noodles,Chaap Schezwan Noodles,1,0,,349.0
+Rolls,Masala Chaap Roll,1,0,,259.0
+Rolls,Malai Chaap Roll,1,0,,299.0
+Rolls,Cheesey Malai Chaap Roll,1,0,,339.0

@@ -1,0 +1,9 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Dora Cake [4 Pieces],1,0,Children's favourite dora cake. It is sandwiched with the sweet chocolate ganache.,180.0
+Bread,Veg Pizza [8 inches],1,0,"Veg pizza is topped with veggies like capsicum, tomato, corn and onion.",170.0
+Bread,Margherita Pizza [8 inches],1,0,,160.0
+Snacks,Veg Upma,1,0,,100.0
+Snacks,Khichu,1,0,,150.0
+Miscellaneous,Dry Fruit Chocolate Box [15 Pieces],1,0,"The box contains chocolate, topped with almond flakes.",300.0
+Miscellaneous,Margherita Pizza [8 inches],1,0,,160.0
+Miscellaneous,Veg Pizza [8 inches],1,0,"Veg pizza is topped with veggies like capsicum, tomato, corn and onion.",170.0

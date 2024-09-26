@@ -1,0 +1,15 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Chole Bhature,Chole Bhature,1,0,Plain Chole [250 grams]+2 Bhature+Onion+Mirchi+Achar+Lemon [Served with Dry Aloo Sabji],84.0
+Chole Bhature,Paneer Chole Bhature Combo,1,0,Paneer Chole [250 grams]+2 Bhature+Onion+Mirchi+Achar+Lemon [Served with Dry Aloo Sabji],96.0
+Chole Bhature,Cheese Chole Bhature Combo,1,0,Cheese Chole [250 grams]+2 Bhature+Onion+Mirchi+Achar+Lemon [Served with Dry Aloo Sabji],96.0
+Chole Bhature,Cheese Paneer Chole Bhature Combo,1,0,Cheese Paneer Chole [250 grams]+2 Bhature+Onion+Mirchi+Achar+Lemon [Served with Dry Aloo Sabji],102.0
+Chole Bhature,Chole Bhature [3 Plates],1,0,,234.0
+Chole Bhature,Paneer Chole Bhature [3 Plates],1,0,,252.0
+Chole Bhature,Cheese Chole Bhature [3 Plates],1,0,,252.0
+Chole Bhature,Cheese Paneer Chole Bhature [3 Plates],1,0,,282.0
+Chole,Plain Chole,1,0,Onion+Dry Potato+Mirch+Achar,60.0
+Chole,Paneer Chole,1,0,Onion+Dry Potato+Mirch+Achar,69.0
+Chole,Cheese Chole,1,0,Onion+Dry Potato+Mirch+Achar,72.0
+Chole,Paneer Cheese Chole,1,0,Onion+Dry Potato+Mirch+Achar,84.0
+Chole,Extra Bhature [1 Piece],1,0,,21.0
+Salad,Onion Salad,1,0,Aloo [1 Piece]+Onion+Chilli [2 Pieces]+Lemon [1 Piece],15.0

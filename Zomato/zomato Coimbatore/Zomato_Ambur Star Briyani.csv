@@ -1,0 +1,56 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Combos,Chicken Biryani + Chicken 65,0,0,,275.0
+Combos,Mutton Biriyani + Chicken Lollipop 2 Pieces,0,0,,432.0
+Combos,Mutton Biriyani + Kola Urundai 2 Pieces,0,0,,421.0
+Biryani,Chicken Briyani,0,0,,285.0
+Biryani,Chicken Bucket Biryani 1 Kg (Served 7 To 8 People),0,0,,2019.0
+Biryani,Chicken Mini Bucket Biryani (Served 2 To 3 People),0,0,,899.0
+Biryani,Kushka,0,0,,216.0
+Biryani,Mutton Biryani,0,0,,406.0
+Biryani,Mutton Bucket Biryani 1 Kg (Served 7 To 8 People),0,0,,2950.0
+Biryani,Mutton Mini Bucket Biryani (Served 2 To 3 People),0,0,,1250.0
+Rice,Curd Rice,0,0,,125.0
+Rice,Dhal Rice,0,0,,199.0
+Fried Rice And Noodles,Chicken Fried Rice,0,0,,249.0
+Fried Rice And Noodles,Chicken Noodles,0,0,,249.0
+Fried Rice And Noodles,Egg Fried Rice,0,0,,219.0
+Fried Rice And Noodles,Egg Noodles,0,0,,219.0
+Fried Rice And Noodles,Schezwan Chicken Fried Rice,0,0,,272.0
+Fried Rice And Noodles,Schezwan Chicken Noodles,0,0,,272.0
+Fried Rice And Noodles,Veg Fried Rice,0,0,,216.0
+Fried Rice And Noodles,Veg Noodles,0,0,,216.0
+Nonveg Starters,Black Pepper Chicken (BL),0,0,,279.0
+Nonveg Starters,Boneless Chicken 555,0,0,,320.0
+Nonveg Starters,Chicken 65 (BL),0,0,,229.0
+Nonveg Starters,Chicken Lollipop,0,0,,275.0
+Nonveg Starters,Chicken Manchurian (BL),0,0,,275.0
+Nonveg Starters,Chicken Pepper Fry,0,0,,279.0
+Nonveg Starters,Chicken Sukka,0,0,,279.0
+Nonveg Starters,Double Omelet,0,0,,70.0
+Nonveg Starters,Dragon Chicken (BL),0,0,,335.0
+Nonveg Starters,Egg 65,0,0,,219.0
+Nonveg Starters,Egg Bhurji,0,0,,115.0
+Nonveg Starters,Fish 65,0,0,,315.0
+Nonveg Starters,Fish Finger,0,0,,315.0
+Nonveg Starters,Japan Chicken,0,0,It is a fried chicken dish cooked in a white creamy cashew milk ... read more,289.0
+Nonveg Starters,Kasthuri Mutton Fry,0,0,,435.0
+Nonveg Starters,Mutton Kola Urundai (2 Pieces),0,0,,169.0
+Nonveg Starters,Mutton Pepper Fry,0,0,,435.0
+Nonveg Starters,Mutton Sukka,0,0,,435.0
+Nonveg Starters,Prawns 65,0,0,,329.0
+Nonveg Starters,Vanjaram Fish Fry,0,0,,300.0
+Nonveg Gravy,Chicken Chettinadu,0,0,,260.0
+Nonveg Gravy,Chicken Karaikudi (BL),0,0,,300.0
+Nonveg Gravy,Chicken Pallipalayam (BL),0,0,,300.0
+Nonveg Gravy,Chicken Pepper Masala,0,0,,260.0
+Nonveg Gravy,Egg Keema Masala,0,0,,220.0
+Nonveg Gravy,Egg Masala,0,0,,195.0
+Nonveg Gravy,Fish Curry,0,0,,315.0
+Nonveg Gravy,Mutton Chettinadu,0,0,,409.0
+Nonveg Gravy,Mutton Curry Masala,0,0,,409.0
+Nonveg Gravy,Mutton Karaikudi,0,0,,435.0
+Nonveg Gravy,Mutton Pallipalayam,0,0,,435.0
+Veg Starters & Veg Gravy,Gobi 65,0,0,,199.0
+Veg Starters & Veg Gravy,Mushroom 65,0,0,,225.0
+Veg Starters & Veg Gravy,Paneer 65,0,0,,265.0
+Veg Starters & Veg Gravy,Paneer Butter Masala,0,0,,279.0

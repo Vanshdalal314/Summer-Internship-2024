@@ -1,0 +1,65 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Biryani,Chicken Biryani,0,0,"750 ml || Images used are for representation purposes only, and do not ... read more",200.0
+Biryani,Chicken Tikka Biryani [750 Ml],0,0,,200.0
+Biryani,Mutton Biryani [750 Ml],0,0,,400.0
+Tandoori Tikka [5 Pieces],Leshuniya Tikka,0,0,Chicken,220.0
+Tandoori Tikka [5 Pieces],Pathani Tikka,0,0,Chicken,220.0
+Tandoori Tikka [5 Pieces],Peri Peri Tikka,0,0,Chicken,235.0
+Tandoori Tikka [5 Pieces],Tandoori Tikka,0,0,Chicken,220.0
+Special Tikka,Cheese Tikka,0,0,Chicken,265.0
+Special Tikka,Malai Tikka,0,0,Chicken,295.0
+Tandoori Leg,Pathani Leg,0,0,"Tender and succulent, this chicken starter is a flavorful delight.",205.0
+Tandoori Leg,Tandoori Leg,0,0,"Juicy, succulent chicken leg marinated in aromatic spices and cooked in a traditional ... read more",205.0
+Tandoori Chest,Pathani Chest,0,0,,220.0
+Tandoori Chest,Tandoori Chest,0,0,"A succulent and flavorful chicken starter, infused with rich flavors and cooked in ... read more",220.0
+Grill Chicken,Boneless Chicken 65 [250 Grams],0,0,,220.0
+Grill Chicken,Boneless Chicken 65 [500 Grams],0,0,,440.0
+Grill Chicken,Chicken Mamna [2 Pieces],0,0,,265.0
+Main Course,Butter Chicken,0,0,[750 Ml],380.0
+Main Course,Chicken 65 Masala,0,0,,350.0
+Main Course,Chicken Angara,0,0,[750 Ml],365.0
+Main Course,Chicken Chest Fry,0,0,[750 Ml],295.0
+Main Course,Chicken Chingari,0,0,[750 Ml],350.0
+Main Course,Chicken Kadhai,0,0,[750 Ml],350.0
+Main Course,Chicken Leg Fry,0,0,[750 Ml],280.0
+Main Course,Chicken Macchi Masala,0,0,[750 Ml],350.0
+Main Course,Chicken Mamna Masala,0,0,[750 Ml],350.0
+Main Course,Chicken Mirchi Masala,0,0,[750 Ml],365.0
+Main Course,Chicken Mughlai,0,0,[750 Ml],380.0
+Main Course,Chicken Pakiza Masala,0,0,[750 Ml],350.0
+Main Course,Chicken Reshmi,0,0,[750 Ml],350.0
+Main Course,Chicken Tikka Masala,0,0,[750 Ml],350.0
+Main Course,Chicken Toofani,0,0,[750 Ml],365.0
+Main Course,Malai Tikka Masala,0,0,[750 Ml][Chicken],425.0
+Soup,Al Khalifa Special Soup,1,0,,235.0
+Soup,Chicken Hot N Sour Soup,0,0,,220.0
+Soup,Chicken Manchow Soup,0,0,,205.0
+Soup,Lemon Coriander Soup,1,0,,220.0
+Starter,Chicken 65 Chilli [500 Ml],0,0,,250.0
+Starter,Chicken Chilli [500 Ml],0,0,,235.0
+Starter,Chicken Kurkure,0,0,,265.0
+Starter,Chicken Lollipop [4 Pieces],0,0,,250.0
+Starter,Chicken Malai Pepper [500 Ml],0,0,,250.0
+Starter,Chicken Manchurian [500 Ml],0,0,,235.0
+Starter,Chicken Red Cook [500 Ml],0,0,,250.0
+Starter,Chicken Rose Garden [500 Ml],0,0,,250.0
+Starter,Chicken Salt & Pepper [500 Ml],0,0,,250.0
+Starter,Chicken Schezwan [500 Ml],0,0,,265.0
+Starter,Chicken Singapuri Chilli [500 Ml],0,0,,265.0
+Starter,KFC Chicken [4 Pieces],0,0,,235.0
+Rice And Pulao & Fried Rice,Butter Garlic Rice,1,0,[750 Ml],205.0
+Rice And Pulao & Fried Rice,Chicken 65 Rice,0,0,[750 Ml],205.0
+Rice And Pulao & Fried Rice,Chicken Bombay Bhel,0,0,[750 Ml],205.0
+Rice And Pulao & Fried Rice,Chicken Chilli Rice,0,0,[750 Ml],205.0
+Rice And Pulao & Fried Rice,Chicken Fried Rice,0,0,[750 Ml],190.0
+Rice And Pulao & Fried Rice,Chicken Hong Kong Rice,0,0,[750 Ml],205.0
+Rice And Pulao & Fried Rice,Chicken Hunan Rice,0,0,[750 Ml],205.0
+Rice And Pulao & Fried Rice,Chicken Mexican Rice,0,0,[750 Ml],235.0
+Rice And Pulao & Fried Rice,Chicken Schezwan Rice,0,0,[750 Ml],205.0
+Rice And Pulao & Fried Rice,Chicken Singapuri Rice,0,0,[750 Ml],205.0
+Rice And Pulao & Fried Rice,Chicken Tikka Pulao [1 Litre],0,0,,295.0
+Rice And Pulao & Fried Rice,Jeera Rice [750 Ml],1,0,,145.0
+Roti & Chapati,Butter Chapati Roti,1,0,,20.0
+Roti & Chapati,Plain Roti,1,0,,15.0
+Roti & Chapati,Tandoori Butter Roti,1,0,,20.0
+Roti & Chapati,Tandoori Roti,1,0,,15.0

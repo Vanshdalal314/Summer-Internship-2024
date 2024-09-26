@@ -1,0 +1,49 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ghee Sweets,Banarasi,1,0,,165.0
+Ghee Sweets,Carrot Mysurpa,1,0,,165.0
+Ghee Sweets,Ghee Mixing Sweet,1,0,,165.0
+Ghee Sweets,Karupatti Mysurpa,1,0,,165.0
+Ghee Sweets,Special Mysurpa,1,0,,165.0
+Special Sweets,Badam Halwa,1,0,,240.0
+Special Sweets,Mundiri Kathiri,1,0,,240.0
+Special Sweets,Pista Roll,1,0,,240.0
+Ordinary Sweets,Badhusha,1,0,,115.0
+Ordinary Sweets,Bombay Halwa,1,0,,115.0
+Ordinary Sweets,Jalebi,1,0,,115.0
+Ordinary Sweets,Laddu,1,0,,115.0
+Ordinary Sweets,Mini Jalebi,1,0,,115.0
+Ordinary Sweets,Mysrpa Online,1,0,,115.0
+Ordinary Sweets,Ordinary Mixing Sweet,1,0,,115.0
+Ordinary Sweets,Barfi,1,0,,115.0
+Ordinary Sweets,Rava Laddu,1,0,,115.0
+Ordinary Sweets,Soan Papdi,1,0,,115.0
+Milk Sweets,Kalakarath,1,0,,155.0
+Milk Sweets,Milk Cake,1,0,,155.0
+Milk Sweets,Milk Halwa,1,0,,155.0
+Milk Sweets,Mothi Laddu,1,0,,155.0
+Milk Sweets,Round Ghova,1,0,,155.0
+Milk Sweets,Variety Ghova,1,0,,155.0
+Bengal Sweets,Gulab Jamun,1,0,,155.0
+Bengal Sweets,Mini Jamun,1,0,,155.0
+Bengal Sweets,Mini Rasgulla,1,0,,155.0
+Kaaram,Ghee Kadalai,1,0,,100.0
+Kaaram,Kabul Kadalai,1,0,,100.0
+Kaaram,Kara Boondi,1,0,,100.0
+Kaaram,Masala Kadalai,1,0,,100.0
+Kaaram,Mixture,1,0,,100.0
+Kaaram,Oma Podi,1,0,,100.0
+Kaaram,Onion Pakoda,1,0,,100.0
+Kaaram,Ottu Pakoda,1,0,,100.0
+Kaaram,Pakoda,1,0,,100.0
+Kaaram,Pasi Parippu,1,0,,100.0
+Kaaram,Rice Sevai,1,0,,100.0
+Kaaram,Seedai,1,0,,100.0
+Murukku,Andhra Murukku,1,0,,100.0
+Murukku,Butter Murukku,1,0,,100.0
+Murukku,Kai Murukku,1,0,,105.0
+Murukku,Round Murukku,1,0,,105.0
+Murukku,Thattai Murukku,1,0,,105.0
+Special Kaaram,Milagu Thattai,1,0,,115.0
+Chips,Dimen Chips,1,0,,100.0
+Chips,Nendran Chips,1,0,,120.0
+Chips,Pepper Potato Chips,1,0,,120.0

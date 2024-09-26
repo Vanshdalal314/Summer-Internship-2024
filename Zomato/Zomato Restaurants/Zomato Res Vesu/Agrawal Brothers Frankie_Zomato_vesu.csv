@@ -1,0 +1,47 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Regular Frankie,Masala Crispy Frankie,1,0,,60.0
+Regular Frankie,Noodles Frankie,1,0,,60.0
+Regular Frankie,Manchurian Frankie,1,0,,70.0
+Regular Frankie,Noodles Crispy Frankie,1,0,,70.0
+Regular Frankie,Salted Crispy Frankie,1,0,,50.0
+Regular Frankie,Masala Cheese Crispy Frankie,1,0,,80.0
+Regular Frankie,Noodles Cheese Frankie,1,0,,80.0
+Regular Frankie,Manchurian Cheese Frankie,1,0,,80.0
+Regular Frankie,Manchurian Crispy Frankie,1,0,,90.0
+Regular Frankie,Salted Cheese Crispy Frankie,1,0,,90.0
+Regular Frankie,Noodles Cheese Crispy Frankie,1,0,,100.0
+Regular Frankie,Manchurian Cheese Crispy Frankie,1,0,,110.0
+Paneer Frankie,Paneer Cheese Frankie,1,0,,100.0
+Paneer Frankie,Paneer Mayo Frankie,1,0,,110.0
+Paneer Frankie,Paneer Tandoori Frankie,1,0,,110.0
+Paneer Frankie,Paneer Cheese Crispy Frankie,1,0,,120.0
+Paneer Frankie,Paneer Cocktail Frankie,1,0,,120.0
+Paneer Frankie,Paneer Cocktail Cheese Frankie,1,0,,130.0
+Paneer Frankie,Paneer Mayo Cheese Frankie,1,0,,130.0
+Paneer Frankie,Paneer Tandoori Cheese Frankie,1,0,,130.0
+Single Shot Frankie,Single Shot Frankie,1,0,,130.0
+Special Double Shot,Special Double Shot Frankie,1,0,,160.0
+Mayo Frankie,Mayo Crispy Frankie,1,0,,90.0
+Mayo Frankie,Noodles Mayo Crispy Frankie,1,0,,100.0
+Mayo Frankie,Noodles Mayo Frankie,1,0,,100.0
+Mayo Frankie,Mayo Cheese Crispy Frankie,1,0,,100.0
+Mayo Frankie,Manchurian Mayo Frankie,1,0,,100.0
+Mayo Frankie,Noodles Mayo Cheese Crispy Frankie,1,0,,110.0
+Mayo Frankie,Manchurian Mayo Crispy Frankie,1,0,,110.0
+Mayo Frankie,Noodles Mayo Cheese Frankie,1,0,,110.0
+Mayo Frankie,Manchurian Mayo Cheese Crispy Frankie,1,0,,120.0
+Mayo Frankie,Manchurian Mayo Cheese Frankie,1,0,,120.0
+Cocktail Frankie,Cocktail Crispy Frankie,1,0,,100.0
+Cocktail Frankie,Manchurian Cocktail Crispy Frankie,1,0,,100.0
+Cocktail Frankie,Cocktail Cheese Crispy Frankie,1,0,,110.0
+Cocktail Frankie,Noodles Cocktail Crispy Frankie,1,0,,110.0
+Cocktail Frankie,Noodles Cocktail Cheese Crispy Frankie,1,0,,110.0
+Cocktail Frankie,Manchurian Cocktail Cheese Crispy Frankie,1,0,,120.0
+Phataka Frankie,Noodles Phataka Frankie,1,0,,110.0
+Phataka Frankie,Manchurian Phataka Frankie,1,0,,120.0
+Phataka Frankie,Noodles Cheese Phataka Frankie,1,0,,120.0
+Phataka Frankie,Manchurian Cheese Phataka Frankie,1,0,,130.0
+Phataka Frankie,Paneer Phataka Frankie,1,0,,130.0
+Phataka Frankie,Paneer Cheese Phataka Frankie,1,0,,140.0
+Combo,Cocktail Cheese Crispy Frankie with Paneer Cheese Frankie,1,0,,200.0
+Combo,Special Double Shot Frankie with Paneer Cheese Frankie,1,0,,250.0

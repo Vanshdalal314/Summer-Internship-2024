@@ -1,0 +1,20 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Idli,Butter Idli (2pcs),1,0,,80.0
+Idli,Mini Idli (10pcs),1,0,,60.0
+Idli,Plain Idli (2pcs),1,0,,60.0
+Idli,Thatte Idli (1pcs),1,0,,100.0
+Vada,Dal Vada (2pcs),1,0,,65.0
+Vada,Idli + Dal Vada ( 1 + 1 Pcs),1,0,,65.0
+Vada,Idli + Medu Vada ( 1 + 1 Pcs),1,0,,65.0
+Vada,Idli + Medu Vada + Dal Vada ( 1 + 1 + 1 Pcs),1,0,,90.0
+Vada,Medu Vada (2pcs),1,0,,65.0
+Uttapam,Mix Veg Uttapam,1,0,,110.0
+Uttapam,Onion Tomato Uttapam,1,0,,100.0
+Uttapam,Onion Uttapam,1,0,,90.0
+Uttapam,Plain Uttapam,1,0,,70.0
+Uttapam,Tomato Uttapam,1,0,,90.0
+Dosa,Masala Dosa,1,0,,100.0
+Dosa,Rava Masala Dosa,1,0,,130.0
+Dosa,Rava Sada Dosa,1,0,,100.0
+Dosa,Sada Dosa,1,0,,70.0
+Drinks (Beverages),Butter Milk [200 Ml],1,0,,25.0

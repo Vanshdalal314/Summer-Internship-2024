@@ -1,0 +1,28 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza,Royal Chicken Pizza [7.5 inches],0,0,"Flavored sauce, onion, cheese, jalapeno and flavored chicken.",230.0
+Pizza,Peri Peri Chicken Pizza [7.5 inches],0,0,"Flavored sauce, capsicum, onion, cheese, black olives and flavored chicken.",230.0
+Pizza,Tandoori Chicken Pizza [7.5 inches],0,0,"Flavored sauce, cheese, capsicum, onion and flavored chicken.",230.0
+Pizza,Smokey Chicken Seekh Pizza [7.5 inches],0,0,"Juicy sliced chicken seekh, onion, capsicum, flavoured sauce, mayo, cheese, herbs & chilli.",230.0
+Pizza,Rich Garden Pizza [7 inches],1,0,"Flavored sauce, capsicum, onion, black olives, baby corn, cheese, chilli and herbs.",190.0
+Pizza,Mexican Chipotle Pizza [7 inches],1,0,"Flavored sauce, capsicum, onion, black olives, corn, cheese, chilli and herbs.",190.0
+Burgers,Cheesy Cheese Burger,1,0,"Flavoured burger patty, cheese slice, cheese sauce, black olives, onion and lettuce.",120.0
+Burgers,Hot and Sweet Cheese Burger,1,0,"Flavoured burger patty, cheese slice, peri peri sauce, tomato, jalapeno and lettuce.",120.0
+Burgers,Chilli Cheese Burger,1,0,"Flavoured burger patty, cheese slice, schezwan sauce, 1k Island sauce, salad dressing, tomato, ... read more",120.0
+Burgers,Italian Cheese Burger,1,0,"Flavoured burger patty, cheese slice, masala sauce, Italian sauce, salad dressing, onion and ... read more",120.0
+Burgers,Flaming Hot Chicken Cheese Burger,0,0,"Fresh buns, ketchup, flavored mayo, lettuce, onion, jalapeno, cheese slice and crispy chicken ... read more",180.0
+Burgers,Golden Chicken Cheese Burger,0,0,"Fresh buns, ketchup, flavored mayo, lettuce, onion, tomato, cheese slice and crispy chicken ... read more",180.0
+Burgers,Mexicana Chicken Cheese Burger,0,0,"Fresh buns, ketchup, flavored mayo, lettuce, onion, tomato, black olives, cheese slice and ... read more",180.0
+Burgers,Smokey Chicken Cheese Burger,0,0,"Fresh buns, ketchup, flavored mayo, lettuce, onion, tomato, jalapeno, cheese slice and crispy ... read more",180.0
+Burgers,Bro's Kitchen Special Zinger Burger,0,0,"Fresh buns, crispy zinger chicken patty, cheese slice, fries, lettuce, onion, tomato, ketchup ... read more",240.0
+Wraps,Barbeque Chicken Wrap,0,0,"Barbeque chicken, barbeque mayo and salad dressing.",145.0
+Wraps,Peri Peri Chicken Wrap,0,0,"Peri peri mayo, lettuce, onion salad and ketchup.",145.0
+Wraps,Royal Chicken Wrap,0,0,"White cheese sauce, jalapeno, lettuce and salad dressing.",145.0
+Snacks,Peri Peri French Fries,1,0,,115.0
+Snacks,Cheese Sauce French Fries,1,0,,115.0
+Snacks,BBQ Dip French Fries,1,0,,115.0
+Snacks,Cheese Baked French Fries,1,0,,145.0
+Snacks,Salted French Fries,1,0,,100.0
+Snacks,Cheese Garlic Bread [3 Pieces],1,0,,115.0
+Starters,Chicken Nuggets [8 Pieces],0,0,"Everyone's favourite, juicy chicken on the inside, crunchy & golden outside.",180.0
+Starters,Garlic Chicken Fingers [8 Pieces],0,0,"A spicy twist to the usual, this combination of Chicken with Garlic Seasoning, ... read more",180.0
+Starters,Popcorn Chicken [15 Pieces],0,0,Crispy & Crunchy Popcorn Chicken,150.0

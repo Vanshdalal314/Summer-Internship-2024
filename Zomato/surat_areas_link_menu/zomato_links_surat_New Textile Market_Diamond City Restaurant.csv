@@ -1,0 +1,123 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali,Punjabi Thali,1,0,1 Paneer Sabji+1 Veg Sabji+1 Dal Fry+1 Jeera Rice+3 Butter Roti+Roasted Papad [1 ... read more,249.0
+Soups,Cream of Tomato Soup,1,0,,140.0
+Soups,Mushroom Soup,1,0,,140.0
+Soups,Sweet Corn Soup,1,0,,140.0
+Soups,Veg Sweet Corn Soup,1,0,,140.0
+Soups,Minestrone Soup,1,0,,140.0
+Soups,Hot and Sour Soup,1,0,,140.0
+Soups,Veg Manchow Soup,1,0,,140.0
+Soups,Noodles Soup,1,0,,140.0
+Soups,Clear Soup,1,0,,140.0
+Starters,Paneer Tikka Dry,1,0,,290.0
+Starters,Hara Bhara Kabab,1,0,,280.0
+Starters,Veg Lollipop,1,0,,270.0
+Starters,Veg Crispy,1,0,,250.0
+Main Course,Special Kaju Masala,1,0,,290.0
+Main Course,Special Kaju Curry,1,0,,280.0
+Main Course,Special Kaju Paneer Masala,1,0,,280.0
+Main Course,Special Kaju Kadai Masala,1,0,,280.0
+Main Course,Sweet Khoya Kaju,1,0,,280.0
+Main Course,Koya Kaju Makhanwala,1,0,,280.0
+Main Course,Kaju Mashroom Masala,1,0,,280.0
+Main Course,Kaju Paneer Cheese Masala,1,0,,290.0
+Main Course,Kaju Kofta,1,0,,290.0
+Main Course,Cheese Kofta,1,0,,280.0
+Main Course,Paneer Kofta,1,0,,270.0
+Main Course,Nargisi Kofta,1,0,,270.0
+Main Course,Sweet Malai Kofta,1,0,Sweet.,230.0
+Main Course,Veg Kofta,1,0,,200.0
+Main Course,Special Veg Diamond City,1,0,,230.0
+Main Course,Special Veg Baby Corn Masala,1,0,,230.0
+Main Course,Special Veg Tawa Masala,1,0,,230.0
+Main Course,Special Veg Hungama,1,0,,230.0
+Main Course,Special Veg Kadai,1,0,,230.0
+Main Course,Special Veg Kolhapuri,1,0,,230.0
+Main Course,Special Veg Handi,1,0,,230.0
+Main Course,Special Veg Hyderabadi,1,0,,230.0
+Main Course,Special Veg Toofani,1,0,,230.0
+Main Course,Special Veg Balti,1,0,,230.0
+Main Course,Special Veg Keema Masala,1,0,,230.0
+Main Course,Veg Jaipuri,1,0,,230.0
+Main Course,Mushroom Masala,1,0,,230.0
+Main Course,Veg Makhanwala,1,0,,230.0
+Main Course,Sweet Navratan Korma,1,0,,230.0
+Main Course,Shahi Vegetable,1,0,,230.0
+Main Course,Dum Aloo Punjabi,1,0,,230.0
+Main Course,Mix Veg,1,0,,200.0
+Main Course,Green Peas Masala,1,0,,190.0
+Main Course,Chana Masala,1,0,,190.0
+Main Course,Plain Palak,1,0,,190.0
+Main Course,Palak Matar,1,0,,190.0
+Main Course,Aloo Palak,1,0,,190.0
+Main Course,Aloo Matar,1,0,,190.0
+Main Course,Aloo Suki Bhaji,1,0,,190.0
+Main Course,Sev Tomato,1,0,,190.0
+Main Course,Dal Palak,1,0,,190.0
+Main Course,Dal Tadka Handi,1,0,,150.0
+Main Course,Butter Dal Fry,1,0,,160.0
+Main Course,Dal Fry,1,0,,150.0
+Main Course,Special Cheese Paneer Butter Masala,1,0,,260.0
+Main Course,Special Paneer Fry Masala,1,0,,250.0
+Main Course,Special Paneer Hariyali,1,0,,250.0
+Main Course,Special Paneer Hungama,1,0,,250.0
+Main Course,Special Paneer Diamond City,1,0,,250.0
+Main Course,Special Paneer Kadai,1,0,,250.0
+Main Course,Special Paneer Cheese Masala,1,0,,250.0
+Main Course,Special Paneer Chatpata,1,0,,250.0
+Main Course,Special Paneer Handi,1,0,,250.0
+Main Course,Special Paneer Tawa,1,0,,250.0
+Main Course,Special Paneer Balti,1,0,,250.0
+Main Course,Paneer Nijami,1,0,,250.0
+Main Course,Paneer Toofani,1,0,,250.0
+Main Course,Paneer Pasanda,1,0,,250.0
+Main Course,Paneer Hara Masala,1,0,,250.0
+Main Course,Paneer Tikka Masala,1,0,,250.0
+Main Course,Paneer Butter Masala,1,0,,250.0
+Main Course,Shahi Paneer,1,0,,250.0
+Main Course,Paneer Bhurji,1,0,,250.0
+Main Course,Paneer Methi Malai,1,0,,250.0
+Main Course,Paneer Mushroom Masala,1,0,,250.0
+Main Course,Matar Paneer,1,0,,250.0
+Main Course,Palak Paneer,1,0,,250.0
+Main Course,Chana Paneer,1,0,,250.0
+Breads,Butter Roti,1,0,,35.0
+Breads,Butter Paratha,1,0,,50.0
+Breads,Butter Naan,1,0,,50.0
+Breads,Butter Kulcha,1,0,,50.0
+Breads,Cheese Naan,1,0,,140.0
+Breads,Garlic Naan,1,0,,140.0
+Breads,Cheese Garlic Naan,1,0,,150.0
+Rice and Biryani,Special Veg Diamond City Pulao,1,0,,220.0
+Rice and Biryani,Special Kaju Pulao,1,0,,230.0
+Rice and Biryani,Veg Kashmiri Sweet Pulao,1,0,,190.0
+Rice and Biryani,Veg Pulao,1,0,,180.0
+Rice and Biryani,Jeera Rice,1,0,,140.0
+Rice and Biryani,Steamed Rice,1,0,,140.0
+Rice and Biryani,Plain Rice,1,0,,120.0
+Rice and Biryani,Dal Khichdi,1,0,,180.0
+Rice and Biryani,Veg Handi Biryani,1,0,,190.0
+Rice and Biryani,Veg Hyderabadi Biryani,1,0,,190.0
+Rice and Biryani,Veg Biryani,1,0,,190.0
+Chinese,Paneer 65,1,0,,260.0
+Chinese,Paneer Chilli,1,0,,260.0
+Chinese,Veg 65,1,0,,240.0
+Chinese,Veg Manchurian,1,0,,240.0
+Fried Rice and Noodles,Oriental Fried Rice,1,0,,200.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,200.0
+Fried Rice and Noodles,Schezwan Fried Rice,1,0,,200.0
+Fried Rice and Noodles,Triple Fried Rice,1,0,,250.0
+Fried Rice and Noodles,Singapore Fried Rice,1,0,,230.0
+Fried Rice and Noodles,Mushroom Fried Rice,1,0,,230.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,200.0
+Snack,Chinese Bhel,1,0,,200.0
+Accompaniments,Pineapple Raita,1,0,,120.0
+Accompaniments,Veg Raita,1,0,,90.0
+Accompaniments,Green Salad,1,0,,80.0
+Accompaniments,Tomato Salad,1,0,,80.0
+Accompaniments,Roasted Papad,1,0,,30.0
+Accompaniments,Fried Papad,1,0,,40.0
+Accompaniments,Masala Papad,1,0,,50.0
+Drinks (Beverages),Special Rajwadi Lassi,1,0,,120.0
+Drinks (Beverages),Mineral Water,1,0,,38.09
+Drinks (Beverages),Buttermilk,1,0,,40.0

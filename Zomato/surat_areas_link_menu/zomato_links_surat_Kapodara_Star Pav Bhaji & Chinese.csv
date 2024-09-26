@@ -1,0 +1,32 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soup,Veg Manchow Soup,1,0,,120.0
+Soup,Manchuriyan Soup,1,0,,130.0
+Veg noodles,Jakaas Noodles,1,0,,150.0
+Veg noodles,Jakaas Manchurian Noodles,1,0,,150.0
+Veg noodles,Schezwan Noodles,1,0,,150.0
+Veg noodles,Veg Noodles,1,0,,140.0
+Veg noodles,Cheese Noodles,1,0,,170.0
+Veg noodles,Veg Noodles and rice,1,0,,150.0
+Veg noodles,Jakaas Fried Rice,1,0,,150.0
+Veg noodles,Cheese Fried Rice,1,0,,190.0
+Veg noodles,Jakaas Manchurian rice,1,0,,150.0
+Veg noodles,Veg Schezwan Rice,1,0,,155.0
+Veg noodles,Veg Rice Noodles,1,0,,150.0
+Bhel,Chinese Bhel,1,0,,150.0
+Bhel,Bombay Bhel,1,0,,160.0
+Bhel,Cheese Chinese Bhel,1,0,,200.0
+Bhel,Jakaas Chinese Bhel,1,0,,170.0
+Mains,Veg Manchurian Dry,1,0,,140.0
+Mains,Veg Manchurian,1,0,,140.0
+Mains,Paneer Manchurian,1,0,,210.0
+Mains,Chilli Paneer,1,0,,200.0
+Mains,Schezwan Manchurian,1,0,,140.0
+Mains,Cheese Manchurian,1,0,,160.0
+Mains,Manchurian Gravy,1,0,,150.0
+Pav Bhaji,Pav Bhaji [2 Pav],1,0,,180.0
+Pav Bhaji,Cheese Pav Bhaji [2 Pav],1,0,,200.0
+Pav Bhaji,Masala Pav Bhaji [2 Pav],1,0,,210.0
+Fried Rice and Noodles,Veg Hakka Noodles,1,0,,150.0
+Fried Rice and Noodles,Veg Schezwan Noodles,1,0,,160.0
+Fried Rice and Noodles,Veg Fried Rice,1,0,,150.0
+Fried Rice and Noodles,Veg Schezwan Fried Rice,1,0,,160.0

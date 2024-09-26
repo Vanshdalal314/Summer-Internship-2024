@@ -1,0 +1,92 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+New Launches,Peppy Paneer Pizza,1,0,"Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",269.0
+New Launches,Double Cheese Margherita Pizza,1,0,A classic delight loaded with extra 100% real mozzarella cheese,219.0
+New Launches,Margherita Pizza,1,0,"Classic delight with 100% real mozzarella cheese. Available in Cheese Burst, Wheat Thin ... read more",109.0
+New Launches,Veggie Paradise Pizza,1,0,"The awesome foursome! Golden corn, black olives, capsicum, red paprika",269.0
+New Launches,Triple Veg Delight,1,0,"Delightful combination of Jalapeno, Tomato and Corn on your cheesy Pizza made with ... read more",259.0
+New Launches,Farmhouse Pizza,1,0,"Delightful combination of onion, capsicum, tomato & grilled mushroom. Available in Cheese Burst, ... read more",269.0
+New Launches,Veggie Fiesta,1,0,"Absolute feast of Corn, Red Paprika, Capsicum & Cheese on your Fav Crust ... read more",259.0
+New Launches,Paneer Spice Supreme,1,0,"Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion ... read more",299.0
+New Launches,Veggie Buddies,1,0,Best buddies Tomato and Capsicum come together on your Fav Crust with cheese ... read more,209.0
+New Launches,Cheese n Corn Pizza,1,0,A delectable combination of sweet & juicy golden corn,219.0
+New Launches,Blazing Onion & Paprika,1,0,Hot & spicy pizza with onion & red paprika toppings and a new ... read more,179.0
+New Launches,Veg Extravaganza Pizza,1,0,"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese. Available ... read more",319.0
+New Launches,Mexican Green Wave Pizza,1,0,"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",269.0
+Loaded Pizza,Veggie Paradise Pizza,1,0,"The awesome foursome! Golden corn, black olives, capsicum, red paprika",269.0
+Loaded Pizza,Veg Extravaganza Pizza,1,0,"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese. Available ... read more",319.0
+Loaded Pizza,Mexican Green Wave Pizza,1,0,"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",269.0
+Loaded Pizza,Cheese Overload,1,0,"Cheese Overloaded Pizza with a medley of Mozzarella, Cheddar & Ghost Pepper flavoured ... read more",349.0
+Loaded Pizza,Farmhouse Pizza,1,0,"Delightful combination of onion, capsicum, tomato & grilled mushroom. Available in Cheese Burst, ... read more",269.0
+Ragi Pizza,Veg Paradise with Ragi Crust,1,0,"Enjoy your favourite pizza, now with the goodness of our new Ragi Super ... read more",368.0
+Ragi Pizza,Farmhouse with Ragi Crust,1,0,"Relish our all-time bestseller, now with the goodness of our new Ragi Super ... read more",368.0
+Ragi Pizza,Margherita with Ragi Crust,1,0,"Enjoy the all-time Classic delight, now with the goodness of our new Ragi ... read more",208.0
+Ragi Pizza,Peppy Paneer with Ragi Crust,1,0,"Relish our all-time bestseller, now with the goodness of our new Ragi Super ... read more",368.0
+Ragi Pizza,Indi Tandoori Paneer with Ragi Crust,1,0,"Enjoy your favourite hot & spicy pizza, now with the goodness of our ... read more",418.0
+Party Combo,Special Party for 2 (Veg) @Rs. 105 off,1,0,Regular Farmhouse + Regular Peppy Paneer + Garlic Bread + Pepsi,599.0
+Party Combo,Party for 2 (Veg) @Rs. 75 off,1,0,Regular Margherita +Regular Farmhouse + Garlic Bread + Pepsi,469.0
+Party Combo,Match Day Veg Combo @Rs. 110 off,1,0,Meal for 2: Regular Veg Extravaganza + Regular Indi Tandoori Paneer with Chocolava ... read more,699.0
+Party Combo,Special Party for 4 (Veg) @Rs. 180 off,1,0,Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Pepsi,999.0
+Party Combo,Pizza Party for 4 (Veg) @Rs. 180 Off,1,0,Meal for 4: Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Regular ... read more,999.0
+Party Combo,Party for 4 (Veg) @Rs. 130 off,1,0,Meal for 4: Medium Margherita + Medium Farmhouse with Garlic Bread & 2 ... read more,829.0
+Party Combo,Extravaganza Party for 2 (Veg) @Rs. 110 off,1,0,Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Garlic Bread + Pepsi,699.0
+Dominos Classics,Mexican Green Wave Pizza,1,0,"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",269.0
+Dominos Classics,Veggie Fiesta,1,0,"Absolute feast of Corn, Red Paprika, Capsicum & Cheese on your Fav Crust ... read more",259.0
+Dominos Classics,Fresh Veggie Pizza,1,0,"Delectable combination of onion & capsicum, a veggie lovers pick",219.0
+Dominos Classics,Veg Extravaganza Pizza,1,0,"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese. Available ... read more",319.0
+Dominos Classics,Paneer Spice Supreme,1,0,"Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion ... read more",299.0
+Dominos Classics,Fiery Jalapeno & Paprika,1,0,Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy ... read more,179.0
+Dominos Classics,Peppy Paneer Pizza,1,0,"Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",269.0
+Dominos Classics,Corn n Cheese Paratha Pizza,1,0,A crazy fusion like never before. A delicious fusion of corn stuffed paratha ... read more,189.0
+Dominos Classics,Cheese Overload,1,0,"Cheese Overloaded Pizza with a medley of Mozzarella, Cheddar & Ghost Pepper flavoured ... read more",349.0
+Dominos Classics,Veggie Paradise Pizza,1,0,"The awesome foursome! Golden corn, black olives, capsicum, red paprika",269.0
+Dominos Classics,Indi Tandoori Paneer Pizza,1,0,"It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, ... read more",319.0
+Dominos Classics,Blazing Onion & Paprika,1,0,Hot & spicy pizza with onion & red paprika toppings and a new ... read more,179.0
+Dominos Classics,Double Cheese Margherita Pizza,1,0,A classic delight loaded with extra 100% real mozzarella cheese,219.0
+Dominos Classics,Veggie Buddies,1,0,Best buddies Tomato and Capsicum come together on your Fav Crust with cheese ... read more,209.0
+Dominos Classics,Triple Veg Delight,1,0,"Delightful combination of Jalapeno, Tomato and Corn on your cheesy Pizza made with ... read more",259.0
+Dominos Classics,Margherita Pizza,1,0,"Classic delight with 100% real mozzarella cheese. Available in Cheese Burst, Wheat Thin ... read more",109.0
+Dominos Classics,Cheese n Corn Pizza,1,0,A delectable combination of sweet & juicy golden corn,219.0
+Dominos Classics,Farmhouse Pizza,1,0,"Delightful combination of onion, capsicum, tomato & grilled mushroom. Available in Cheese Burst, ... read more",269.0
+Drinks (Beverages),Pepsi 475ml,1,0,Sparkling and Refreshing Beverage,57.14
+Drinks (Beverages),Bailley One (500ml),1,0,Packaged Drinking Water,19.05
+Drinks (Beverages),Pepsi Black Can 300ml,1,0,Maximum Taste Zero Calories,57.14
+Drinks (Beverages),Lipton Ice Tea ( 350 ml),1,0,"Refreshment Sahi, Gas Nahi",57.14
+Drinks (Beverages),Nagpur Orange,1,0,Enjoy Oranges from Nagpur with the goodness of Fiber,71.43
+Drinks (Beverages),B Natural Alphonsos from Ratnagiri (300 ml),1,0,Alphonsos only from Ratnagiri with the Goodness of Fiber,71.43
+Drinks (Beverages),B Natural Mixed Fruit from Himalayas (300 ml),1,0,Premium fruits from Himalayas with the Goodness of Fiber,71.43
+Garlic Breads & More,Garlic Breadsticks,1,0,Baked to perfection. Your perfect pizza partner! Tastes best with dip,109.0
+Garlic Breads & More,Taco Mexicana Veg,1,0,Truly irresistible! Crispy taco with veg patty & creamy harissa sauce,145.0
+Garlic Breads & More,Harissa Dip,1,0,A spicy & peppery pizza dip which can help you add the right ... read more,46.67
+Garlic Breads & More,Veg Parcel,1,0,Snacky bites! Pizza rolls with paneer & creamy harissa sauce,49.0
+Garlic Breads & More,Tomato Ketchup,1,0,Goodness of Tomato Ketchup in mini sachets,0.95
+Garlic Breads & More,Burger Pizza - Classic Veg,1,0,"Oven-baked buns with cheese, tomato & capsicum in creamy mayo",125.0
+Garlic Breads & More,Cheesy Dip,1,0,An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a ... read more,28.57
+Garlic Breads & More,Garlic Breadsticks + Cheesy Dip,1,0,Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip,137.57
+Garlic Breads & More,Paneer Tikka Stuffed Garlic Bread,1,0,"Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes ... read more",169.0
+Garlic Breads & More,Garlic Breadsticks + Pepsi,1,0,Enjoy the all time favourite Garlic Breadsticks with Pepsi (475 ml),149.0
+Garlic Breads & More,Classic Stuffed Garlic Bread,1,0,"Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno",159.0
+Garlic Breads & More,Basil Pesto Dip,1,0,"Your perfect pizza partner! Savour your pizza slices with this new rich, ... read more",46.67
+Pizza Mania,Golden Corn,1,0,Sweet & juicy golden corn for that lipsmacking taste,89.0
+Pizza Mania,"Paneer, Onion & Capsicum with Desi Makhani Sauce",1,0,"Authentic Indian Flavor of Makhani Sauce loaded with juicy Paneer, crisp Capsicum and ... read more",129.0
+Pizza Mania,Paneer & Capsicum with Videshi Hot Sauce,1,0,Internationally inspired Hot sauce to cater your spice cravings loaded with juicy Paneer ... read more,109.0
+Pizza Mania,Veg Loaded,1,0,"Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan ... read more",189.0
+Pizza Mania,Capsicum & Red Paprika with Videshi Hot Sauce,1,0,Internationally inspired Hot sauce to cater your spice cravings loaded with crisp Capsicum ... read more,89.0
+Pizza Mania,Onion,1,0,Our classic Pizza Mania topped with crunchy Onions,69.0
+Pizza Mania,Classic,1,0,A classic pizza topped with sprinkle of basil and parsley herbs,49.0
+Value Meals,Meal for 2: Farmhouse & Veg Extravaganza,1,0,Regular Farmhouse + Regular Veg Extravaganza + Garlic Bread + Pepsi,619.0
+Value Meals,Spicy Veg Party Combo @ Rs. 140 off,1,0,Med Blazing On & Paprika + Med Fiery Jalapeno & Paprika + 2GB ... read more,849.0
+Value Meals,Spicy Veg Combo @ Rs. 75 Off,1,0,Reg Blazing On & Paprika + Reg Fiery Jalapeno & Paprika + GB ... read more,449.0
+Value Meals,Meal for 4: Veg Extravaganza & Indi Tandoori Paneer,1,0,Medium Veg Extravaganza + Medium Indi Tandoori Paneer + Garlic Bread + 2 ... read more,1119.0
+Value Meals,Garlic Breadsticks + Cheesy Dip,1,0,Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip,137.57
+Value Meals,Meal for 2: Veg Paradise & Farmhouse,1,0,Regular Veg Paradise + Regular Farmhouse + Garlic Bread + Pepsi,589.0
+Value Meals,Garlic Breadsticks + Pepsi,1,0,Enjoy the all time favourite Garlic Breadsticks with Pepsi (475 ml),149.0
+Value Meals,Meal for 4: Veg Cheesy Pizza,1,0,Regular Fresh Veggie + Regular Peppy Paneer + Regular Corn n Cheese + ... read more,799.0
+Value Meals,Choco Lava Cake + Pepsi,1,0,Get the indulgent Choco Lava Cake & a Pepsi (475 ml) for just ... read more,149.0
+Value Meals,Hot and Sweet Veg Combo @ Rs. 75 Off,1,0,Reg Blazing On & Paprika + Reg Fiery Jalapeno & Paprika + CLC ... read more,449.0
+Value Meals,Meal for 4: Margherita & Peppy Paneer,1,0,Medium Margherita + Medium Peppy Paneer + Garlic Bread + 2 Pepsi,789.0
+Desserts,Choco Lava Cake,1,0,"Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake",109.0
+Desserts,Red Velvet Lava Cake,1,0,A truly indulgent experience with sweet and rich red velvet cake on a ... read more,139.0
+No Onion No Garlic,Veggie Fiesta,1,0,"Absolute feast of Corn, Red Paprika, Capsicum & Cheese on your Fav Crust ... read more",259.0
+No Onion No Garlic,Veggie Buddies,1,0,Best buddies Tomato and Capsicum come together on your Fav Crust with cheese ... read more,209.0
+No Onion No Garlic,Paneer Spice Supreme,1,0,"Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion ... read more",299.0
+No Onion No Garlic,Triple Veg Delight,1,0,"Delightful combination of Jalapeno, Tomato and Corn on your cheesy Pizza made with ... read more",259.0

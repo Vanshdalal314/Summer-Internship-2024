@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starter,Chicken Wings,0,0,"Crunchy fried chicken wings, crispy outside and tender from inside. Tossed with wings ... read more",150.0
+Pizza and Pasta,Margherita Pizza,1,0,"Thin crust base, sauce and mozzarella cheese.",150.0
+Pizza and Pasta,Veggie Crunch Pizza,1,0,"Thin crust base, pizza sauce, mozzarella cheese, onion, red & yellow bell peppers.",180.0
+Pizza and Pasta,Spicy Veggie Pizza,1,0,"Thin crust base, pizza sauce, mozzarella cheese, onion, tomato & spicy jalapeno.",180.0
+Pizza and Pasta,Veggie Supreme Pizza,1,0,"Thin crust base, pizza sauce, mozzarella cheese, onion, tomato, red & yellow bell ... read more",240.0
+Pizza and Pasta,Tandoori Paneer Pizza,1,0,"Thin crust base, pizza sauce, mozzarella cheese, tandoori flavored juicy paneer, onion, spicy ... read more",240.0
+Pizza and Pasta,Chicken Crunch Pizza,0,0,"Thin crust base, pizza sauce, mozzarella cheese, Nishab's special chicken, red & yellow ... read more",240.0
+Pizza and Pasta,Fiery Chicken Pizza,0,0,"Thin crust base, pizza sauce, mozzarella cheese, Nishab's special chicken, yellow bell peppers, ... read more",240.0
+Pizza and Pasta,Ultimate Chicken Pizza [9 inches],0,0,"Thin crust base, pizza sauce and mozzarella cheese. Loaded with 3 types of ... read more",390.0
+Pizza and Pasta,Chicken Supreme Pizza,0,0,"Thin crust base, pizza sauce, mozzarella cheese, Nishab's special chicken, onion, red & ... read more",260.0
+Pizza and Pasta,Chicken Tikka Pizza,0,0,"Thin crust base, tandoori tikka sauce, mozzarella cheese, tikka chicken, onion, spicy jalapeno ... read more",260.0
+Burgers,Veg Regular Burger,1,0,"Bun, classic mayo, Nishab's special sauce, lettuce, onion, tomato and crispy veg patty.",150.0
+Burgers,Veg Cheese Burger,1,0,"Bun, classic mayo, cheese sauce, lettuce, onion, tomato, crispy veg patty and cheese ... read more",195.0
+Burgers,Veg Spicy Chilli Burger,1,0,"Bun, classic mayo, spicy chilli sauce, lettuce, onion, tomato, crispy veg patty and ... read more",195.0
+Burgers,Veg Tandoori Burger,1,0,"Bun, classic mayo, tandoori mayo, lettuce, onion, tomato, crispy veg patty and cheese ... read more",180.0
+Burgers,Veg Barbeque Burger,1,0,"Bun, classic mayo, BBQ sauce, lettuce, onion, tomato, crispy veg patty and cheese ... read more",180.0
+Burgers,Veg Peri Peri Burger,1,0,"Bun, classic mayo, peri peri sauce, lettuce, onion, tomato, crispy veg patty and ... read more",195.0
+Burgers,Veg Classic American Burger,1,0,"Bun, classic mayo, lettuce, onion, tomato and crispy veg patty.",110.0
+Burgers,Veg Premium American Burger,1,0,"Bun, classic mayo, cheese sauce, lettuce, onion, tomato, crispy veg patty and cheese ... read more",140.0
+Burgers,Veg Schezwan Burger,1,0,"Bun, classic mayo, schezwan sauce, lettuce, onion, tomato, crispy veg patty and cheese ... read more",180.0
+Burgers,Paneer Burger,1,0,,195.0
+Burgers,Veg Double Decker Burger,1,0,"Bun, classic mayo, Nishab's special sauce, lettuce, onion, tomato, crispy veg patty [2 ... read more",195.0
+Burgers,Chicken Burger Regular,0,0,"Bun, classic mayo, Nishabs special sauce, lettuce, onion, tomato and crispy zinger chicken.",165.0
+Burgers,Chicken Cheese Burger,0,0,"Bun, classic mayo, cheese sauce, lettuce, onion, tomato, crispy zinger chicken and cheese ... read more",240.0
+Burgers,Chicken Spicy Chilli Burger,0,0,"Bun, classic mayo, spicy chilli sauce, lettuce, onion, tomato, crispy zinger chicken and ... read more",240.0
+Burgers,Chicken Tandoori Burger,0,0,"Bun, classic mayo, tandoori mayo, lettuce, onion, tomato, crispy zinger chicken and cheese ... read more",210.0
+Burgers,Chicken Barbeque Burger,0,0,"Bun, classic mayo, BBQ sauce, lettuce, onion, tomato, crispy zinger chicken and cheese ... read more",210.0
+Burgers,Chicken Peri Peri Burger,0,0,"Bun, classic mayo, peri peri sauce, lettuce, onion, tomato, crispy zinger chicken and ... read more",240.0
+Burgers,Chicken Double Decker Burger,0,0,"Bun, classic mayo, Nishab's special sauce, lettuce, onion, tomato, crispy zinger chicken [2 ... read more",280.0
+Burgers,Chicken Classic American Burger,0,0,"Bun, classic mayo, lettuce and crispy chicken patty.",125.0
+Burgers,Chicken Premium American Burger,0,0,"Bun, classic mayo, lettuce, crispy chicken patty and cheese slice.",150.0
+Burgers,Chicken Schezwan Burger,0,0,"Bun, classic mayo, schezwan sauce, lettuce, onion, tomato, crispy zinger chicken and cheese ... read more",210.0
+Wraps,Veg Regular Wrap,1,0,"Tortilla, onion, tomato, lettuce, crispy veg patty, classic mayo and Nishab's special sauce.",150.0
+Wraps,Veg Cheese Wrap,1,0,"Tortilla, onion, tomato, lettuce, crispy veg patty, cheese sauce and classic mayo.",195.0
+Wraps,Veg Spicy Chilli Wrap,1,0,"Tortilla, onion, tomato, lettuce, crispy veg patty, spicy chilli sauce and classic mayo.",195.0
+Wraps,Veg Barbeque Wrap,1,0,"Tortilla, onion, tomato, lettuce, crispy veg patty, BBQ sauce and classic mayo.",180.0
+Wraps,Veg Peri Peri Wrap,1,0,"Tortilla, onion, tomato, lettuce, crispy veg patty, peri peri sauce and classic mayo.",195.0
+Wraps,Veg Tandoori Wrap,1,0,"Tortilla, onion, tomato, lettuce, crispy veg patty, tandoori sauce and classic mayo.",180.0
+Wraps,Veg Schezwan Wrap,1,0,"Tortilla, onion, tomato, lettuce, crispy veg patty, schezwan sauce and classic mayo.",180.0
+Wraps,Paneer Wrap,1,0,"Tortilla, onion, tomato, lettuce, crispy paneer patty, tandoori sauce and classic mayo.",195.0
+Wraps,Chicken Tandoori Wrap,0,0,"Tortilla, onion, tomato, lettuce, crispy zinger chicken, tandoori sauce and classic mayo.",210.0
+Wraps,Chicken Regular Wrap,0,0,"Tortilla, onion, tomato, lettuce, crispy zinger chicken, Nishab's special sauce and classic mayo.",165.0
+Wraps,Chicken Cheese Wrap,0,0,"Tortilla, onion, tomato, lettuce, crispy zinger chicken, cheese sauce and classic mayo.",240.0
+Wraps,Chicken Spicy Chilli Wrap,0,0,"Tortilla, onion, tomato, lettuce, crispy zinger chicken, spicy chilli sauce and classic mayo.",240.0
+Wraps,Chicken Barbeque Wrap,0,0,"Tortilla, onion, tomato, lettuce, crispy zinger chicken, BBQ sauce and classic mayo.",210.0
+Wraps,Chicken Peri Peri Wrap,0,0,"Tortilla, onion, tomato, lettuce, crispy zinger chicken, peri peri sauce and classic mayo.",240.0
+Wraps,Chicken Schezwan Wrap,0,0,"Tortilla, onion, tomato, lettuce, crispy zinger chicken, schezwan sauce and classic mayo.",210.0
+Diet Specials,Lettuce Burger,0,0,"Classic mayo, lettuce, onion, tomato, grilled chicken and cheese slice.",250.0
+Diet Specials,Grilled BBQ Burger,0,0,"Bun, classic mayo, BBQ sauce, lettuce, onion, tomato, grilled chicken and cheese slice.",210.0
+Diet Specials,Grilled Tandoori Burger,0,0,"Bun, classic mayo, tandoori sauce, lettuce, onion, tomato, grilled chicken and cheese slice.",210.0
+Snacks,French Fries,1,0,,85.0
+Snacks,Cheese Fries,1,0,,165.0
+Snacks,Dynamite Fries,1,0,,165.0
+Snacks,Dynamite Cheese Fries,1,0,,195.0
+Snacks,Chicken Popcorn,0,0,,110.0
+Snacks,Chicken Boneless Strips,0,0,,165.0
+Snacks,Dynamite Chicken Fries,0,0,"French fries loaded with cheese sauce, dynamite sauce and crispy zinger chicken.",260.0
+Snacks,Non Veg Cheese Popcorn,0,0,Chicken popcorn topped with cheese sauce and mozzarella cheese.,240.0
+Snacks,Non Veg Dynamite Popcorn,0,0,"Chicken popcorn loaded with dynamite sauce, cheese sauce and mozzarella cheese.",280.0

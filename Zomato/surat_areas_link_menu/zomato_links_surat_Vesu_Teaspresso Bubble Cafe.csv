@@ -1,0 +1,115 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes,Triple Chocolate Double Layer Cake,1,0,"2 Layer of bubble waffle with milk, dark and white chocolate.",480.0
+Cakes,Red Velvet Double Layer Cake,1,0,2 Layer of red velvet bubbles waffle with cream cheese and white chocolate.,480.0
+Iced Fruit Bubble Tea,Blueberry Tea,1,0,"A refreshing blend of blueberry and tea, perfect to relax and refresh yourself.",180.0
+Iced Fruit Bubble Tea,Cranberry Tea,1,0,"Cranberry Tea is a light, refreshing, and tangy beverage made with cranberry juice, ... read more",180.0
+Iced Fruit Bubble Tea,Peach Tea,1,0,"A refreshing beverage made with fresh peaches, green tea, and a hint of ... read more",180.0
+Iced Fruit Bubble Tea,Kiwi Tea,1,0,"Kiwi, an exotic fruit known for its sweet and tangy taste, is the ... read more",180.0
+Iced Fruit Bubble Tea,Litchi Tea,1,0,A refreshing and aromatic tea infused with the sweet and sour flavour of ... read more,180.0
+Iced Fruit Bubble Tea,Pulpy Orange Tea,1,0,"A tangy and refreshing beverage made from freshly squeezed orange juice, perfect for ... read more",180.0
+Iced Fruit Bubble Tea,Strawberry Tea,1,0,A refreshing and tasty beverage that is a delicious blend of fresh strawberry ... read more,180.0
+Iced Fruit Bubble Tea,Pink Guava Tea,1,0,"A sweet, tropical blend of fresh pink guava and green tea leaves. A ... read more",180.0
+Iced Fruit Bubble Tea,Mango Tea,1,0,Mango Tea is a refreshing tea made from freshly brewed mango juice.,180.0
+Iced Fruit Bubble Tea,Litchi with Watermelon Tea,1,0,A fruity and refreshing blend of litchi and watermelon in a cup of ... read more,180.0
+Iced Fruit Bubble Tea,Litchi with Pineapple Tea,1,0,A refreshing blend of sweet and tangy litchi and pineapple tea. A delightful ... read more,180.0
+Iced Fruit Bubble Tea,Litchi with Coconut Tea,1,0,"Sweet and tangy, Litchis with coconut tea is a refreshing beverage that is ... read more",180.0
+Iced Fruit Bubble Tea,Pineapple Tea,1,0,,180.0
+Iced Fruit Bubble Tea,Green Apple Tea,1,0,A refreshing beverage with a blend of green apple and tea for a ... read more,180.0
+Iced Fruit Bubble Tea,Kala khatta Tea,1,0,"A refreshing and aromatic beverage made with black tea, sugar, and the tart ... read more",180.0
+Iced Fruit Bubble Tea,Lemon Limca Tea,1,0,Lemon Limca tea is a refreshing beverage made with a mix of lemon ... read more,180.0
+Iced Fruit Bubble Tea,Mojito Mint Tea,1,0,A refreshing drink that combines the flavors of mint and lime with the ... read more,180.0
+Iced Fruit Bubble Tea,Jeera Masala Tea,1,0,Jeera masala tea is a popular drink in India.,180.0
+Iced Fruit Bubble Tea,Katchi Kairi Tea,1,0,,180.0
+Iced Fruit Bubble Tea,Blue Curacao Tea,1,0,"Blue Curacao Tea is a light, aromatic, and refreshing drink.",180.0
+Iced Fruit Bubble Tea,Kiwi Pineapple Tea,1,0,"Tart and refreshing, this beverage is made with ripe, juicy kiwi and sweet ... read more",180.0
+Iced Fruit Bubble Tea,Litchi with Kiwi and Mosambi Tea,1,0,,180.0
+Iced Fruit Bubble Tea,Tango Mango,1,0,,180.0
+Bubble Milkshakes,Litchi Watermelon Milk Bubble Shake,1,0,"A refreshing drink made with a blend of fresh Litchis, juicy watermelon, and ... read more",200.0
+Bubble Milkshakes,Falooda Milk Bubble Shake,1,0,"A creamy, cold and refreshing drink that will quench your thirst.",200.0
+Bubble Milkshakes,Sitaphal Milk Bubble Shake,1,0,An exotic and creamy blend of sitaphal and milk with a soft and ... read more,200.0
+Bubble Milkshakes,Litchi Milk Bubble Shake,1,0,,200.0
+Bubble Milkshakes,Mango Milk Bubble Shake,1,0,"A creamy and refreshing mango milk bubble shake, a sweet and tangy delight ... read more",200.0
+Bubble Milkshakes,Strawberry Milk Bubble Shake,1,0,"A refreshing beverage with a burst of sweet strawberry flavor and a creamy, ... read more",200.0
+Bubble Milkshakes,Blueberry Milk Bubble Shake,1,0,"A perfect blend of fresh blueberry and milk shake, topped with whipped cream ... read more",200.0
+Bubble Milkshakes,Pineapple Milk Bubble Shake,1,0,"A sweet and fruity treat with a twist, our Pineapple Milk Shake is ... read more",200.0
+Bubble Milkshakes,Bubble Gum Milk Bubble Shake,1,0,"A refreshing and creamy milkshake with the sweet, fruity flavor of bubblegum.",200.0
+Bubble Milkshakes,Caramel Milk Bubble Shake,1,0,"A delicious and creamy shake with a caramel infused milk base, topped with ... read more",200.0
+Bubble Milkshakes,Cappuccino Cold Coffee Milk Bubble Shake,1,0,"A creamy, decadent, and rich drink with a burst of coffee flavor in ... read more",200.0
+Bubble Milkshakes,Mocha Cold Coffee Milk Bubble Shake,1,0,A creamy and refreshing drink that will give you a burst of caffeine ... read more,200.0
+Bubble Milkshakes,Vanilla Milk Bubble Shake,1,0,A creamy and luscious drink made with vanilla milk and sweetened with honey ... read more,200.0
+Bubble Milkshakes,Butterscotch Milk Bubble Shake,1,0,,200.0
+Bubble Milkshakes,Kiwi Milk Bubble Shake,1,0,A refreshing and creamy shake made with kiwi and milk.,200.0
+Bubble Milkshakes,Kiwi Pineapple Milk Bubble Shake,1,0,,200.0
+Bubble Milkshakes,Litchi Coconut Milk Bubble Shake,1,0,"A refreshing and delicious dessert drink made with litchi, coconut milk, and vanilla.",200.0
+Bubble Milkshakes,Green Matcha Milk Bubble Shake,1,0,"A refreshing, creamy, and fruity blend of matcha and milk, topped with a ... read more",200.0
+Bubble Milkshakes,Purple Taro Milk Bubble Shake,1,0,"A creamy, refreshing, and sweet bubble tea with the distinct purple taro flavor.",200.0
+Bubble Milkshakes,Jello Mello Milk Bubble Shake,1,0,"A creamy, sweet and fruity drink that will make your mouth water.",200.0
+Bubble Milkshakes,Kaju Anjeer Milk Bubble Shake,1,0,"A decadent, creamy shake made with rich milk, luscious dates and juicy, tangy ... read more",200.0
+Bubble Milkshakes,Gulab Gulkand Milk Bubble Shake,1,0,A refreshing combination of sweet milk and fragrant rose petals. A delectable treat ... read more,200.0
+Bubble Milkshakes,Mava Kulfi Falooda Milk Bubble Shake,1,0,"A decadent frozen treat combining creamy vanilla ice cream, fresh rose petals, and ... read more",200.0
+Bubble Milkshakes,Nutella Bomb Premium Shake,1,0,A rich and creamy shake that is perfect for any time of the ... read more,210.0
+Bubble Milkshakes,KitKat Premium Shake,1,0,A decadent and creamy blend of KitKat and vanilla ice cream with a ... read more,210.0
+Bubble Milkshakes,Oreo Premium Shake,1,0,,210.0
+Bubble Milkshakes,Belgium Chocolate Premium Shake,1,0,Belgium Chocolate Shake is a sweet and creamy shake made with rich chocolate ... read more,210.0
+Bubble Milkshakes,Frappe Brownie Premium Shake,1,0,"A decadent treat that combines the rich, dark flavors of a chocolate brownie ... read more",230.0
+Bubble Milkshakes,Nuttela Brownie Shake,1,0,"A sweet and creamy shake made with Nutella, a popular Italian chocolate hazelnut ... read more",230.0
+Sugar Free Bubble Tea,Sugar Free Pink Guava Bubble Tea,1,0,A fruity and refreshing bubble tea with a hint of sweetness from pink ... read more,180.0
+Sugar Free Bubble Tea,Sugar Free Strawberry Bubble Tea,1,0,,180.0
+Sugar Free Bubble Tea,Sugar Free Litchi Bubble Tea,1,0,"A refreshing, sweet, and fruity tea with a subtle hint of litchi flavor.",180.0
+Sugar Free Bubble Tea,Sugar Free Lemon Pudina Bubble Tea,1,0,A refreshing and tasty beverage that combines the flavors of lemon and mint ... read more,180.0
+Sugar Free Bubble Tea,Sugar Free Virgin Mojito,1,0,"A refreshing and flavourful drink with the perfect balance of sweetness and acidity, ... read more",180.0
+Sugar Free Bubble Tea,Sugar Free Peach Bubble Tea,1,0,"Sugar Free Peach Bubble Tea, a refreshing beverage made with sugar free peach ... read more",180.0
+Waffles Square,Classic Butter Waffle,1,0,Vanilla based waffle with butter and maple syrup.,140.0
+Waffles Square,Tiramisu Waffle Square,1,0,Classic venila base cripsy waffle + premium tiramsu chocolate +mapple syurp for ... read more,170.0
+Waffles Square,Strawberry Cream Cheese Waffles square,1,0,A delightful combination of fresh strawberries and cream cheese in a crispy waffle. ... read more,200.0
+Waffles Square,Cookies and Cream Waffle Square,1,0,Classic venila base cripsy waffle + oreo crumble + whip cream,180.0
+Waffles Square,Belgium Chocolate Waffle Square,1,0,Classic venila base cripsy waffle + premium melted milk and white chocolate. For ... read more,190.0
+Waffles Square,Sinful Nutella Waffle Square,1,0,Classic venila base cripsy waffle + pure nutella.for nutella chocolate lover,200.0
+Waffles Square,Hazelnut Chocolate Waffle Square,1,0,Classic venila base cripsy waffle + premium melted hazelnut chocolate + rosted almond,200.0
+Waffles Square,Chocolate Overload Waffle Square,1,0,"Dark chocolate waffle + 2 layer of melted dark,milk belgain chocolate.most popular chocolate ... read more",210.0
+Waffles Square,Red Velvet Cheese Cream Waffle Square,1,0,Original red velvet waffle + cream chess + melted white chocolate,200.0
+Waffles Square,Blueberry Cheese Cake Waffle Square,1,0,Classic Vanilla Base Cripsy Waffle+Blueberry Filling+Cream Chess+Melted White Chocolate,200.0
+Waffles Square,Crunchy Nutty Waffle Square,1,0,Dark Chocolate Waffle+2 Layer of Melted Dark Milk Belgian Chocolate with Crunch,210.0
+Waffles Square,KitKat Waffle Square,1,0,Classic Vanilla Base Crispy Waffle+Melted Milk Chocolate+KitKat crumble,210.0
+Waffles Square,Triple Chocolate Waffle Square,1,0,Dark Chocolate Waffle+3 Layer of Melted Dark Milk White Belgian Chocolate Most popular chocolate ... read more,220.0
+Waffle Wich,Classic Butter Waffle,1,0,Vanilla based waffle with butter and maple syrup.,120.0
+Waffle Wich,Belgian Chocolate waffle wich Milk or Dark waffle,1,0,Vanilla based waffle with milk/dark chocolate.,120.0
+Waffle Wich,Sinful Nutella waffle wich,1,0,Vanilla bases waffle with rich nutula.,170.0
+Waffle Wich,Chocolate Overload Waffle wich,1,0,Chocolate based waffle with dark/milk/white chocolate.,130.0
+Waffle Wich,Red Velvet Cream Cheese waffle wich,1,0,Red velvet based waffle with cream cheese and white chocolate.,160.0
+Waffle Wich,Tiramisu waffle wich,1,0,Vanilla based waffle with coffee.,140.0
+Waffle Wich,Blueberry Cream Cheese waffle wich,1,0,Vanilla based waffle with filling and cream cheese.,170.0
+Waffle Wich,Strawberry Cream Cheese waffle wich,1,0,Vanilla based waffle with filling and cream cheese.,170.0
+Waffle Wich,KitKat Waffle wich,1,0,Vanilla based waffle with kit-kat chocolate.,160.0
+Waffle Wich,Triple Chocolate Waffles wich,1,0,"A decadent triple chocolate waffle topped with a rich, creamy chocolate ganache and ... read more",170.0
+Waffle Wich,Red Velvet Belgian Chocolate Waffle Wich,1,0,"A decadent waffle sandwich filled with a rich red velvet cake batter, decadent ... read more",160.0
+Waffle Wich,Red Velvet Nutella Waffle Wich,1,0,"A heavenly combination of red velvet cake, Nutella, and waffles, this decadent sandwich ... read more",160.0
+Bubble Waffles,BW Chrunchy Chocolate Waffle,1,0,"Dark chocolate waffle + 2 layer of melted dark,milk belgain chocolate with crunch ... read more",310.0
+Bubble Waffles,Chocolate Overload Waffle bw,1,0,"Dark chocolate waffle + 2 layer of melted dark,milk belgain chocolate + 2 ... read more",320.0
+Bubble Waffles,Bw Red Velvet Cream Cheese Waffle,1,0,Original red velvet waffle + cream cheese + melted white chocolate + 2 ... read more,320.0
+Bubble Waffles,BW Choco Hazelnut Waffle,1,0,Classic vanila base cripsy waffle + premium hazalnut chocolate + 2 scoop of ... read more,300.0
+Bubble Waffles,Bw Nutella Blast Waffle,1,0,Classic vanila base cripsy waffle + premium nutella chocolate + 2 scoop of ... read more,300.0
+Bubble Waffles,Bw Belgain Chocolate Waffle,1,0,Classic vanila base cripsy waffle + premium melted milk chocolate + melted white ... read more,280.0
+Bubble Waffles,Bw Kitkat Chocolate Waffle,1,0,Classic vanila base cripsy waffle + premium melted milk chocolate + 2 scoop ... read more,310.0
+Bubble Waffles,Bw Nutella Brownie Waffle,1,0,Classic vanila base cripsy waffle + premium nutella chocolate + 2 scoop of ... read more,340.0
+Bubble Waffles,Bw Chocolate Brownie Waffle,1,0,Classic vanila base cripsy waffle + premium melted milk and white chocolate + ... read more,330.0
+Bubble Waffles,Tiramisu bw,1,0,Classic venila base cripsy waffle + premium tiramsu chocolate + 2 scoop ... read more,280.0
+Bubble Waffles,Triple chocolate bw,1,0,Chocolate is a popular sweet treat and a favorite among dessert lovers.,350.0
+Bubble Waffles,3 Idiots Bw,1,0,A delicious and flavorful dish that is sure to satisfy your taste buds. ... read more,350.0
+Bubble Waffles,4 Delight Waffle,1,0,Classic Vanilla Base Crispy Waffle+Premium Melted Milk Chocolate+Premium Melted Dark Chocolate+Premium Melted Nutella ... read more,370.0
+Waffle Nachos,Triple Chocolate Brownie Waffle Nachos,1,0,"A decadent dessert made with a rich chocolate brownie topped with a sweet, ... read more",210.0
+Waffle Nachos,Belgian Chocolate Waffle Nachos,1,0,"A decadent, crispy waffle served with a rich Belgian chocolate sauce, topped with ... read more",180.0
+Waffle Nachos,Naked Nutella Waffle Nachos,1,0,"A crispy waffle topped with rich, decadent Nutella and sprinkled with salty chips. ... read more",210.0
+Tea and Coffee,Mocha Espresso,1,0,"A short, sweet, creamy, indulgent and comforting drink to warm you up on ... read more",80.0
+Tea and Coffee,Cappuccino Espresso,1,0,,80.0
+Baby Pancakes,Crunchy Nutty Chocolate Pancake,1,0,"Classic mini pan cake + 2 layer of melted dark,milk belgain chocolate with ... read more",170.0
+Baby Pancakes,Naked Nutella Pancake,1,0,Classic mini pan cake + pure nutella.for nutella chocolate lover,170.0
+Baby Pancakes,Belgian Chocolate Pancake,1,0,Classic mini pan cake + premium melted milk and white chocolate. For chocolate ... read more,150.0
+Baby Pancakes,Bubble Gum Crunchy Pancake,1,0,Classic mini pan cake + bubble gum pink chocolate + white chocolate,160.0
+Baby Pancakes,Red Velvet Cheese Cream Pancake,1,0,Original red velvet mini pancake + cream chess + melted white chocolate,170.0
+Baby Pancakes,Strawberry Cream Cheese Pancake,1,0,"A delectable combination of fresh strawberries, cream cheese, and golden brown pancakes, this ... read more",170.0
+Baby Pancakes,Triple Chocolate Pancake,1,0,"Classic mini pancake + 3 layer of melted dark,milk,white belgain chocolate.most popular ... read more",180.0
+Baby Pancakes,Nutella Brownie pan cake,1,0,Classic mini pancake + nutella chocolate + brownie crumbles.for nutella lover,200.0
+Baby Pancakes,Chocolate Brownie pan cake,1,0,Classic mini pancake + melted milk chocolate + melted white chocolate + brownie ... read more,180.0
+Baby Pancakes,Kit Kat Mini Pancake,1,0,Classic mini pancake + melted milk chocolate + melted white chocolate + kit ... read more,180.0
+Baby Pancakes,3 idiots Pancake,1,0,"Nutella, dark and white.",200.0

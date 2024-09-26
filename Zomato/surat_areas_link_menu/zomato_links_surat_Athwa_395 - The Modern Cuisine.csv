@@ -1,0 +1,96 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups,Cream Of Burnt Garlic,1,0,,260.0
+Soups,Lemon Coriander,1,0,,240.0
+Soups,Manchow Soup,1,0,"This flavorful vegan soup boasts a spicy kick, a hearty, rich broth, delectable ... read more",220.0
+Soups,Mexican Chilly Bean Soup,1,0,,250.0
+Soups,Tamatar Shorba,1,0,"This Tomato Soup is Lightly Spiced Soup, with chilly & Coriander and is ... read more",250.0
+Appetizers,Avacado Papdi Chaat,1,0,Papdi chaat has guacamole on it is a great combination to be tried ... read more,320.0
+Appetizers,Bean Tacos,1,0,Backed beans with salsa and filled with salad in crispy taco shell.,320.0
+Appetizers,Chaap 65,1,0,Chaap Made in asain style.,320.0
+Appetizers,Cheese Baked Fries,1,0,French Fries baked with cheese and in house tangy sauce.,300.0
+Appetizers,Exotic Veg Bruschetta,1,0,Asorted Vegetables with mozzarella cheese baked on bread loaf made in house.,260.0
+Appetizers,Falafel Platter,1,0,"Classic Hummus, Edamame Hummus, Pickles, Salad with Falafel Bullets And fresh Made Pita?s.",420.0
+Appetizers,French Fries,1,0,French Fries Large Portion,280.0
+Appetizers,Kadai Paneer Tacos,1,0,Crispy 4 piece of tacos filled with yummy kadai paneer and salad.,320.0
+Appetizers,Papdi Chaat Bowl,1,0,Most loved chaat of all it?in a bowl our way.,260.0
+Appetizers,Saucy Nachos,1,0,In house made nachos with tangy bean sauce and tomato salsa garnished with ... read more,290.0
+Appetizers,Saute Mushroom Pesto,1,0,Garlic Pesto Saute Mushroom garnished with mozzarella cheese.,290.0
+Appetizers,Summer Green Patta Chaat,1,0,Palak Patta chaat,280.0
+Burgers And Sandwiches,Burrito Wrap,1,0,"The Burrito Wrap is a versatile and flavorful creation, originating from Mexican cuisine ... read more",290.0
+Burgers And Sandwiches,Falafel Siracha Wrap,1,0,"The Falafel Sriracha Wrap is a popular choice for those seeking a spicy, ... read more",280.0
+Burgers And Sandwiches,Paneer Tikka Wrap,1,0,"The Paneer Tikka Wrap offers a delightful experience of Indian cuisine, providing a ... read more",300.0
+Pasta,Aglio E Olio Pasta,1,0,"The result is a dish that's incredibly simple yet incredibly tasty, allowing the ... read more",400.0
+Pasta,Alfredo Pasta,1,0,"Pasta prepared in creamy sauce, tossed with all colour bell peppers, brocccoli garnished ... read more",380.0
+Pasta,Arabitta Pasta,1,0,Arabitta pasta is a popular choice for those seeking a dish with a ... read more,360.0
+Pasta,Harissa Penne Pasta,1,0,"Harissa Penne Pasta is a spicier version of Arabiatta Pasta, which suits the ... read more",380.0
+Pasta,Pesto Pasta,1,0,"Penne pasta cooked in a combination of green pesto sauce, cheese sauce tossed ... read more",400.0
+Pasta,Pink Sauce Pasta,1,0,Penne pasta cooked with combination of alfredo & Arabiatta sauce tossed along all ... read more,380.0
+Pasta,Veg Lasagna,1,0,"Lasagna made with arabitta sauce, pesto & Alfredo sauce along with exotic vegetables ... read more",330.0
+Pasta,Veg. Stroganoff,1,0,Creamy Mushroom Gravy Served with exotic vegetables tossed rice is inspired recipe from ... read more,400.0
+Asian,Black Pepper Stir Fried Noodles,1,0,Noodles Tossed with Juilian Onion & Pepper with black pepper & soy sauce.,310.0
+Asian,Chilli Plum Paneer,1,0,Paneer tossed with In-house made chilli plum sauce along with exotic vegetables.,350.0
+Asian,Classic Schezwan Noodles,1,0,Noodles with Onion & Peppers With Schezwan sauce.,280.0
+Asian,Hakka Noodles,1,0,"Bell Peppers, Onion & Cabbage tossed with Noodles , salt & black ... read more",240.0
+Asian,Manchurian Dry,1,0,Most Loved Manchurian Dry.,240.0
+Asian,Paneer Chilly,1,0,"Classic Paneer Chilly Needs no introduction tossed along with onion, bell peppers, soy ... read more",340.0
+Asian,Paneer Shanghai,1,0,An interesting combination of schezwan sauce along with hunan make this an interesting ... read more,350.0
+Asian,Salt-Pepper Paneer,1,0,Paneer tossed with Peppers & Onions along with garlic & black peppers.,350.0
+Asian,Schezwan Paneer,1,0,"Paneer, Onion & Peppers tossed along with Classic Schezwan Sauce is classic combination.",350.0
+Asian,Soba Noodles,1,0,Soba Noodles Tossed with Assorted Julian Vegetables with soya sauce.,330.0
+Asian,Sriracha Paneer,1,0,Assorted Exotic Vegetables tossed along with Sriracha sauce is spicy affair which goes ... read more,350.0
+Asian,Udon Noodles,1,0,"Bell Peppers, Onion & Cabbage tossed with Noodles , salt & black ... read more",330.0
+Main Course,Cheese Angoori,1,0,Cheese angoori sabji served in brown gravy.,360.0
+Main Course,Choole Masala,1,0,"Made in Mouthwatering Tomato Gravy, chole masala is an amazing sabji loved by ... read more",280.0
+Main Course,Dal Fry,1,0,Classic Dal,260.0
+Main Course,Dal Makhani,1,0,Creamy Dal Makhani garnished with cream and kasturi meethi.,260.0
+Main Course,Dal Tadka,1,0,Classic dal with red chilly tadka makes it a bit spicer than usual.,260.0
+Main Course,Kashmiri Kofta,1,0,Kofta made with cashew and paneer made in white cashew gravy is a ... read more,330.0
+Main Course,Lasooni Kofta,1,0,Kofta made with Paneer and minced vegetables with garlic made in brown gravy.,330.0
+Main Course,Paneer Butter Masala,1,0,Paneer Butter masala made in yummy tomato gravy garnished with butter.,330.0
+Main Course,Paneer Lababbdar,1,0,Paneer Cubes tossed with indian vegetables made with brown gravy and touch of ... read more,340.0
+Main Course,Paneer Lazeez,1,0,Finger Cut Paneer Tossed in Julian cut Bell pepper made in onion gravy ... read more,340.0
+Main Course,Paneer Tamater Chaman,1,0,Desi style tamatar gravy with fried paneer cubes with touch of cashew gravy ... read more,320.0
+Main Course,Shaam Savera,1,0,Palak paneer kofta made in tomato and onion gravy garnished with coriander.,340.0
+Main Course,Subz Jalfrezi,1,0,Assorted indian vegetables cut in julian style with touch of onion & tomato ... read more,310.0
+Main Course,Veg. Jaipuri,1,0,Shredded mix veggie cooked on spicy brown gravy garnished with roasted papad.,300.0
+Main Course,Veg.Kheema,1,0,Minced Vegetable tossed with half and half of onion & rich tomato gravy ... read more,310.0
+Breads,Chapati,1,0,,30.0
+Breads,Tawa Paratha,1,0,,50.0
+Rice,Burrito Bowl,1,0,Vegetarian burrito bowls are seriously one of the best meals ever! packed with ... read more,400.0
+Rice,Corn & Edamame Rice,1,0,Tossed Corn And Edamame with rice served with Red Thai curry is a ... read more,400.0
+Rice,Golden Garlic Rice,1,0,Garlic Rice served with red thai curry.,400.0
+Rice,Hot-Pot (Mexican Style),1,0,Spicy Mexican rice served with hot mexican sauce on it !,400.0
+Rice,Jeera Rice,1,0,Tossed rice in jeera and coriander.,220.0
+Rice,Kofta Paneer Biryani,1,0,Paneer Kofta biryani is a must try.,360.0
+Rice,Paneer Makhani,1,0,Biryani with Paneer Makhani Flavour is amazing,360.0
+Rice,Steam Rice,1,0,,210.0
+Rice,Thai Curry Rice,1,0,Green Thai Curry with Steam Rice.,360.0
+Rice,Veg Dum Biryani,1,0,Classic Veg Dum Biryani !,340.0
+Sandwich & Croissant,Chimichuri Croissant,1,0,"Exotic vegetables with Chimichuri Sauce made in-house, topped with mozzarella cheese.",330.0
+Sandwich & Croissant,Classic Loaf Sandwich,1,0,"Lettuce, Tomato, Cucumber, Onion, Bell Peppers, Jalape?o with Mozzarella Cheese made in loaf ... read more",270.0
+Sandwich & Croissant,Jalapeno Chilly Cheese Sandwich,1,0,"Green Chilly, Fresh Jalape?o, Pickled Jalape?o with Mozzarella cheese, cheddar cheese & Processed ... read more",240.0
+Sandwich & Croissant,Mashed Potato Sandwich,1,0,Butter Garlic Mashed Potato with Color Peppers and onion with mozzarella cheese.,240.0
+Sandwich & Croissant,Three Cheese Sandwich,1,0,Three kinds of cheese toast with butter.,380.0
+Sandwich & Croissant,Tomato Basil Sandwich,1,0,Classic tomato basil sandwich with mozzarella cheese.,340.0
+Sandwich & Croissant,Truffle Mushroom Croissant,1,0,"Shitake Mushroom, Button mushroom tossed with truffle oil and mozzarella cheese toasted in ... read more",350.0
+Sandwich & Croissant,Zesty Toast Sandwich,1,0,Arabiatta Sauce With Assorted Exotic Vegetables & mozzarella cheese.,240.0
+Salad,Caesar Salad,1,0,"Most Known & Loved Salad All over the world,?a green salad made by ... read more",330.0
+Salad,Keto Paneer Salad,1,0,"Paneer Tossed with Assorted Exotic Vegetables,Celery, Oregano & Chilly Flakes with Olive Oil, ... read more",380.0
+Drinks (Beverages),Cold Coffee,1,0,,240.0
+Drinks (Beverages),Hot Chocolate,1,0,,240.0
+Drinks (Beverages),Iced Cappuccino,1,0,,190.0
+Drinks (Beverages),Latte,1,0,,210.0
+Drinks (Beverages),Mocha,1,0,,250.0
+Drinks (Beverages),Blue Lagoon,1,0,,260.0
+Drinks (Beverages),Jamun-Aid,1,0,,250.0
+Drinks (Beverages),Kiwi Lemonade,1,0,,250.0
+Drinks (Beverages),Orange Juice,1,0,,230.0
+Drinks (Beverages),Choco Brownie Shake,1,0,,270.0
+Drinks (Beverages),Dairy Milk Shake,1,0,,270.0
+Drinks (Beverages),Farero Rocher Shake,1,0,,270.0
+Drinks (Beverages),Kitkat Shake,1,0,,260.0
+Drinks (Beverages),Mango Shake,1,0,,260.0
+Drinks (Beverages),Nutella Shake,1,0,,260.0
+Drinks (Beverages),Oreo Shake,1,0,,260.0
+Black Coffee,Americano,1,0,,150.0
+Black Coffee,Iced Americano,1,0,,150.0

@@ -1,0 +1,173 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Soups And Salads,Classic Creamy Soup,1,0,,140.0
+Soups And Salads,Clear Vegetable Soup,1,0,,115.0
+Soups And Salads,Hawaiian Soup,1,0,,145.0
+Soups And Salads,Hot And Sour Soup,1,0,[Spicy],140.0
+Soups And Salads,Khow Suey Soup,1,0,,160.0
+Soups And Salads,Lemon Coriander Soup,1,0,,140.0
+Soups And Salads,Lemon Pepper Soup,1,0,[Spicy],140.0
+Soups And Salads,Manchow Soup,1,0,[Spicy],135.0
+Soups And Salads,Mexican Chilli Beans Soup,1,0,[Spicy],140.0
+Soups And Salads,Minestrone Soup,1,0,,140.0
+Soups And Salads,Oriental Soup,1,0,,135.0
+Soups And Salads,Tangy Tomato Soup,1,0,,130.0
+Soups And Salads,Thai Coriander Soup,1,0,,145.0
+Soups And Salads,Tom Yum Soup,1,0,[Spicy],140.0
+Soups And Salads,Vegetable Sweet Corn Soup,1,0,,130.0
+Soups And Salads,American - Italian Pasta Salad,1,0,,180.0
+Soups And Salads,Boondi Raita,1,0,,85.0
+Soups And Salads,Farmers Choice Salad,1,0,,110.0
+Soups And Salads,Pineapple Raita,1,0,,100.0
+Soups And Salads,Russian Salad,1,0,,150.0
+Soups And Salads,Vegetable Raita,1,0,,80.0
+Soups And Salads,Waldorf Salad,1,0,,190.0
+Starters,American Nachos,1,0,,295.0
+Starters,Bruschetta With Cheese And Herbs,1,0,,225.0
+Starters,Cheese Chilli Rolls,1,0,,240.0
+Starters,Cheese Corn Salt And Pepper,1,0,[Spicy],250.0
+Starters,Chinese Cheese Cigar,1,0,[Spicy],240.0
+Starters,Crispy Fried Vegetables,1,0,[Spicy],195.0
+Starters,Fried Corn Cheese Balls,1,0,,240.0
+Starters,Garlic Bread With Cheese And Herbs,1,0,,195.0
+Starters,Garlic Bread With Herbs,1,0,,140.0
+Starters,Hara Bhara Kabab,1,0,,210.0
+Starters,Mexican Tacos,1,0,,195.0
+Starters,Mushroom Chilli,1,0,{Spicy],245.0
+Starters,Mushroom Oriented Chilli,1,0,,270.0
+Starters,Nachos With Cheese Sauce,1,0,,225.0
+Starters,Paneer Chilli Dry,1,0,,270.0
+Starters,Paneer Chilli Pepper Garlic,1,0,[Spicy],270.0
+Starters,Paneer Cilantro,1,0,[Spicy],250.0
+Starters,Paneer Red Pepper With Basil,1,0,[Spicy],260.0
+Starters,Paneer Satay With Peanut Sauce,1,0,,280.0
+Starters,Paneer Schezwan Rolls,1,0,[Spicy],225.0
+Starters,Quesadilla,1,0,[Spicy],255.0
+Starters,Shanghai Paneer,1,0,[Spicy],280.0
+Starters,Sizzling Chilli Potato,1,0,[Spicy],210.0
+Starters,Spring Rolls,1,0,[Spicy],180.0
+Starters,Steak Paneer In Hotgarlic Sauce,1,0,[Spicy],280.0
+Starters,Steak Paneer In Pepper Sauce,1,0,[Spicy],280.0
+Starters,Steak Paneer In Schezwan Sauce,1,0,[Spicy],280.0
+Starters,Stir Fried Vegetables,1,0,,230.0
+Starters,Thai Coriander Mushroom,1,0,{Spicy],260.0
+Starters,Thai Crispy Vegetables,1,0,[Spicy],230.0
+Starters,Thai Green Vegetables,1,0,[Spicy],250.0
+Starters,Thai Paneer Red Chilli,1,0,{Spicy],270.0
+Starters,Tit Bit Delight,1,0,[Spicy],260.0
+Starters,Vegetable Cilantro,1,0,[Spicy],210.0
+Starters,Vegetable Manchurian Dry,1,0,,195.0
+Starters,Paneer Achari Tikka,1,0,,315.0
+Starters,Paneer Bhuna Tikka,1,0,{Spicy],330.0
+Starters,Paneer Cheesy Tikka,1,0,,330.0
+Starters,Paneer Hara Garlic Tikka,1,0,{Spicy],310.0
+Starters,Paneer Mint Nawabi Tikka,1,0,,305.0
+Starters,Paneer Tikka,1,0,,275.0
+Starters,Subziyan Ki Seekh,1,0,,230.0
+Starters,Tandoori Mushroom Tikka,1,0,[Spicy],255.0
+Main Course,Cheese And Paneer Bhurji,1,0,[Spicy] Cheese and paneer chopped masala mildly spiced.,290.0
+Main Course,Cheese Maharaja,1,0,Finger cuts cheese cooked in onion masala in tomato gravy.,340.0
+Main Course,Dal Dhabawadi,1,0,,170.0
+Main Course,Dal Fry,1,0,,140.0
+Main Course,Dal Hyderabadi,1,0,,150.0
+Main Course,Dal Makhani,1,0,"Black dal, rajma, makhan, cream.",180.0
+Main Course,Dal Tadke Wali,1,0,,170.0
+Main Course,Dum Aloo Hyderabadi,1,0,[Spicy],230.0
+Main Course,Dum Aloo Punjabi,1,0,,230.0
+Main Course,Kaju Cheese Curry,1,0,[Spicy] Cashew nut with cheese cubes tomato.,320.0
+Main Course,Kaju Curry,1,0,[Spicy] Fried kaju cooked in white gravy with cream and butter.,310.0
+Main Course,Kaju Masala,1,0,[Spicy] Fried kaju cooked in onion and tomato gravy and onion masala.,310.0
+Main Course,Kaju Paneer Masala,1,0,[Spicy] Kaju paneer in onion gravy.,320.0
+Main Course,Kofta Makhan Malai,1,0,,280.0
+Main Course,Matka Paneer,1,0,[Spicy] Bell pepper paneer in red gravy.,300.0
+Main Course,Methi Mattar Malai,1,0,,210.0
+Main Course,Nargisi Kofta,1,0,Vegetable kofta cooked in onion gravy.,250.0
+Main Course,Palak Paneer,1,0,,310.0
+Main Course,Paneer Amravati,1,0,,260.0
+Main Course,Paneer Angara,1,0,[Extra Spicy] Paneer in red gravy served on sizzling plate.,320.0
+Main Course,Paneer Badami Masala,1,0,Almond and paneer in onion gravy.,340.0
+Main Course,Paneer Balti,1,0,[Spicy],290.0
+Main Course,Paneer Khurchan,1,0,[Spicy],330.0
+Main Course,Paneer Lababdar,1,0,Stuffed with paneer butter fry in tomato gravy.,290.0
+Main Course,Paneer Lakhani Tava,1,0,,280.0
+Main Course,Paneer Lazeez,1,0,Finger cut paneer cooked in cashew nut gravy and kanda masala.,290.0
+Main Course,Paneer Maharaja,1,0,,290.0
+Main Course,Paneer Mirchiwadi,1,0,[Extra Spicy],270.0
+Main Course,Subzi Bhuli Handi,1,0,,240.0
+Main Course,Subzi Chilli Milli,1,0,,255.0
+Main Course,Subzi Diwani Handi,1,0,,240.0
+Main Course,Subzi Khatti Mithi,1,0,,270.0
+Main Course,Subzi Kolhapuri,1,0,,225.0
+Main Course,Subzi Lajawab,1,0,,240.0
+Main Course,Subzi Tava,1,0,,230.0
+Main Course,Sultani Kabab Masala,1,0,,330.0
+Main Course,Tirchi Mirchi,1,0,,290.0
+Main Course,Veg Lahori,1,0,,240.0
+Main Course,Veg Rajwadi Masala,1,0,[Spicy],240.0
+Main Course,Vegetable Bhuna Kofta,1,0,[Spicy],230.0
+Main Course,Vegetable Dahati Masala,1,0,[Spicy],230.0
+Main Course,Vegetable Exotic Masala,1,0,,320.0
+Main Course,Vegetable Keema Masala,1,0,,250.0
+Main Course,Vegetable Peshwari,1,0,,250.0
+Indian Breads,Butter Kulcha,1,0,,50.0
+Indian Breads,Butter Naan,1,0,,60.0
+Indian Breads,Butter Roti,1,0,,40.0
+Indian Breads,Cheese Naan,1,0,,90.0
+Indian Breads,Garlic Cheese Naan,1,0,,95.0
+Indian Breads,Garlic Naan,1,0,,75.0
+Indian Breads,Kulcha,1,0,,40.0
+Indian Breads,Lachha Paratha,1,0,,55.0
+Indian Breads,Missi Roti,1,0,,50.0
+Indian Breads,Naan,1,0,,50.0
+Indian Breads,Onion Cheese Kulcha,1,0,,75.0
+Indian Breads,Roti,1,0,,30.0
+Indian Breads,Roti Kit Tokri,1,0,,270.0
+Indian Breads,Stuffed Kulcha,1,0,,80.0
+Indian Breads,Stuffed Naan,1,0,,75.0
+Indian Breads,Stuffed Paratha,1,0,,80.0
+Rice,Brown Garlic Rice,1,0,,225.0
+Rice,Burmese Khow Suey,1,0,,325.0
+Rice,Combination Fried Rice,1,0,,245.0
+Rice,Dal Khichdi,1,0,,185.0
+Rice,Hyderabadi Biriyani,1,0,,225.0
+Rice,Jeera Rice,1,0,,140.0
+Rice,Matka Dum Biriyani,1,0,,250.0
+Rice,Mexican Chilli Beans Rice,1,0,[Extra Spicy],260.0
+Rice,Palak Garlic Khichdi,1,0,,180.0
+Rice,Schezwan Fried Rice,1,0,[Extra Spicy],245.0
+Rice,Spicy Corn Paprika Rice,1,0,,310.0
+Rice,Stem Rice,1,0,,120.0
+Rice,Subzi Dum Biriyani,1,0,,225.0
+Rice,Vegetable Fried Rice,1,0,,235.0
+Rice,Vegetable Pulao,1,0,,170.0
+Rice,Vegetable Tripple Schezwan,1,0,,265.0
+Pizza And Pasta,American Pizza,1,0,"Guest choice any 5 topping ,in 9"" pizza",250.0
+Pizza And Pasta,Margherita Pizza,1,0,,200.0
+Pizza And Pasta,Spice Dhamaka Pizza,1,0,[Spicy],250.0
+Pizza And Pasta,Al Arrabiata Pasta,1,0,,300.0
+Pizza And Pasta,Al Fredo Pasta,1,0,,320.0
+Pizza And Pasta,Del Barone Pasta,1,0,,350.0
+Pizza And Pasta,Make Your Own Pasta,1,0,,340.0
+Chinese,American Chop Suey,1,0,,230.0
+Chinese,Exotic Vegetable In Garlic Sauce,1,0,,260.0
+Chinese,Manchurian Dry,1,0,,195.0
+Chinese,Schezwan Noodles,1,0,Schezwan sauces with little spice,230.0
+Chinese,Sizzling Chilli Noodles,1,0,[Spicy],245.0
+Chinese,Thai Curry Green,1,0,,270.0
+Chinese,Thai Curry Red,1,0,,270.0
+Chinese,Vegetable Chilli Garlic Noodles,1,0,[Spicy],230.0
+Chinese,Vegetable Green Garlic Sauce,1,0,,240.0
+Chinese,Vegetable Hakka Noodles,1,0,,205.0
+Oven Backed,Chimichanga,1,0,[Spicy],355.0
+Oven Backed,Cottage Cheese Enchiladas,1,0,[Spicy],350.0
+Oven Backed,Enchiladas,1,0,[Spicy],340.0
+Oven Backed,Lasagne,1,0,,395.0
+Oven Backed,Macaroni O Prince,1,0,,360.0
+Oven Backed,Mushroom Enchiladas,1,0,[Spicy],345.0
+Oven Backed,Spicy Corn Macaroni,1,0,[Spicy],345.0
+Oven Backed,Vegetable Aloo Gratin,1,0,,355.0
+Quick Bites,French Fries,1,0,,100.0
+Quick Bites,Fried Papad,1,0,,30.0
+Quick Bites,Roasted Papad,1,0,,25.0
+Beverages / Cold Beverages,Curd,1,0,,60.0
+Sizzlers,Extra Cutlet,1,0,,45.0
+Thali,Veg Punjabi Thali,1,0,2 Butter Roti+Special Paneer Sabzi+Special Veg Sabzi+Dal Fry+Jeera Rice+Gulab Jamun [1 Piece]+Salad+Pickle [Subject ... read more,250.0

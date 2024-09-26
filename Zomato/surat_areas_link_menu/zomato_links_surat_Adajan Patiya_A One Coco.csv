@@ -1,0 +1,35 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Cold Coco,Cold Coco,1,0,(Serve 1) 250ml,90.0
+Special Cold Coco,Kaju Coco,1,0,[Chef's Special],150.0
+Special Cold Coco,Ice Cream Coco,1,0,[Chef's Special],150.0
+Special Cold Coco,Chocolate Chips Coco,1,0,[Chef's Special],150.0
+Special Cold Coco,Malai Coco,1,0,,150.0
+Special Cold Coco,Kaju Ice Cream Coco,1,0,"A dense, creamy and silky chocolate drink with fresh cashew pieces and vanila ... read more",185.0
+Special Cold Coco,Kaju Malai Coco,1,0,,185.0
+Combos,Kaju Anjeer Milkshake + Cold Coco,1,0,Kaju Anjeer Milkshake + Cold Coco,245.0
+Combos,Gulab Falooda + Cold Coco,1,0,Gulab Falooda + Cold Coco Combo,245.0
+Falooda,Gulab Falooda,1,0,"Falooda made from Rose Essence and ice cream, very tasty and mouth watering",180.0
+Falooda,Deluxe Falooda,1,0,"A delightfully refreshing falooda, must try",190.0
+Falooda,Kesar Falooda,1,0,"Falooda made from Kesar Essence and ice cream, very tasty and mouth watering",190.0
+Milkshakes,Gulab Gulkand,1,0,,90.0
+Milkshakes,Oreo Milkshake,1,0,A crunchy and creamy milkshake made by blending milk with Oreo cookies.,160.0
+Milkshakes,Kaju Anjeer Milkshake,1,0,"A crunchy and creamy milkshake made from milk, cashew nuts and figs.",180.0
+Milkshakes,Rose Milkshake,1,0,,80.0
+Milkshakes,Kaju Mango Milkshake,1,0,,180.0
+Milkshakes,Mango Milkshake,1,0,,90.0
+Milkshakes,KitKat Shake,1,0,,195.0
+Milkshakes,Kaju Anjeer Tukda Milkshake,1,0,,220.0
+Milkshakes,Kaju Badam Pista Milkshake,1,0,,245.0
+Milkshakes,Badam Milkshake,1,0,,180.0
+Milkshakes,Badam Pista Milkshake,1,0,"A creamy and crunchy milkshake made from milk, pista and almonds.",210.0
+Milkshakes,Gulkand Milkshake,1,0,"A cooling and super-thick milkshake made from milk, flavored with a rich undertone ... read more",90.0
+Milkshakes,Khajoor Milkshake,1,0,,90.0
+Milkshakes,Anjeer Milkshake,1,0,,170.0
+Lassi,Special Lassi,1,0,Made using fresh yogurt and simple flavourings with Cashew & Malai.,45.0
+Lassi,Gulab Lassi,1,0,,60.0
+Lassi,Kesar Lassi,1,0,,60.0
+Lassi,Mango Lassi,1,0,,60.0
+Lassi,Kaju Lassi,1,0,,70.0
+Lassi,Ice Cream Lassi,1,0,,69.0
+Lassi,Ice Cream Mango Lassi,1,0,,83.0
+Lassi,Ice Cream Gulab Lassi,1,0,,83.0

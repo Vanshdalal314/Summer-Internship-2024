@@ -1,0 +1,112 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Freakshakes,Cookies N Cream Freakshake,1,0,Did you say cookies and cream? hell0 yeah! who doesn’t love cookies and ... read more,530.0
+Freakshakes,Soho Velvet Freakshake,1,0,Soho knows as the red light district of London is inspiring us to ... read more,550.0
+Freakshakes,Bond Me 007 Freakshake,1,0,Bonded! the classic undercover agent inspiring us to unleash a dark secret of ... read more,560.0
+Freakshakes,White Bounty Lad Freakshake,1,0,Who doesn’t love summer feels. That’s right bounty with pure coconut milk leading ... read more,580.0
+Freakshakes,Banoffee Freakshake,1,0,Oh freak! that’s a classic signature blend. Bananas and toffee that just takes ... read more,580.0
+Freakshakes,Omg Snap Chat That Freakshake,1,0,But first lemme take a selfie. That’s right pop out snapchat and just ... read more,590.0
+Freakshakes,Biscoff Milkshake,1,0,Indulge in a creamy blend of vanilla ice cream and irresistibly spiced biscoff ... read more,350.0
+Freakshakes,French Biscuit Milkshake,1,0,"Indulge in the delightful fusion of creamy milkshake and crunchy French biscuits, blending ... read more",380.0
+Special Brussel Waffles,"Honey, Lemon and Butter Waffle",1,0,"Fresh waffle served with a shot of honey, lemon and butter, poured over ... read more",230.0
+Special Brussel Waffles,The Toffeelicious Waffle,1,0,Fresh waffle served banana slices and drizzled with our luxurious handmade toffee sauce.,260.0
+Special Brussel Waffles,The White Lady Waffle,1,0,"Fresh waffle lightly dusted with white powdered sugar, sprinkled with chocolate chips, drizzled ... read more",300.0
+Special Brussel Waffles,Crunchy Crackling Oreo Waffle,1,0,"[Chef's Special] Fresh waffle served with freshly crushed oreo cookies, drizzled with our ... read more",310.0
+Special Brussel Waffles,The Racist Waffle,1,0,"Fresh waffle served with dark chocolate sauce, poured with white chocolate sauce sprinkled ... read more",300.0
+Special Brussel Waffles,Coffee Bite Waffle,1,0,Fresh waffle served with vanilla ice cream layered with dark chocolate sauce and ... read more,310.0
+Special Brussel Waffles,Have a Break Waffle,1,0,"Fresh waffle smothered with KitKat pieces, drizzled in our chocolate sauce, sparkled with ... read more",290.0
+Special Brussel Waffles,The Brownie Moustache Waffle,1,0,"Fresh waffle topped with brownie pieces, drizzled with warm secret chocolate sauce and ... read more",290.0
+Special Brussel Waffles,Silky Nutella Waffle,1,0,Fresh waffle smothered with nutella spread and some cold whipped cream.,300.0
+Special Brussel Waffles,Seasonal Madness Waffle,1,0,"Fresh waffle served with crushed short cake crumbs, served with fresh seasonal fruits ... read more",290.0
+Special Brussel Waffles,Rip Diet Waffle,1,0,Fresh waffle from our side and rest any four toppings to be decided ... read more,300.0
+Special Brussel Waffles,The Drooling Spread Waffle,1,0,"Fresh waffle smothered with nutella spread, served with freshly sliced bananas dipped in ... read more",310.0
+Special Brussel Waffles,Biscoff Waffle,1,0,Indulge in a crispy biscoff infused waffle thats like a sweet symphony for ... read more,320.0
+Special Brussel Waffles,French Biscuit Waffle,1,0,"A delectable fusion of French biscuit flavors and belgian waffle texture, this crispy ... read more",320.0
+Churros Sets,Churros,1,0,"Enjoy a delightful set of six golden churros, freshly fried to perfection, accompanied ... read more",520.0
+Churros Sets,Churros Sandwich,1,0,"Indulge in a tantalizing twist on tradition with a churro sandwich crispy, cinnamon ... read more",380.0
+Coffee,Espresso Coffee,1,0,"Bold and intense, espresso coffee tantalizes the palate with its robust flavor and ... read more",160.0
+Coffee,Americano,1,0,"A bold and straightforward brew, Americano combines rich espresso with hot or cold ... read more",200.0
+Coffee,Cappuccino,1,0,"A classic Italian delight, cappuccino boasts a harmonious blend of rich espresso, creamy ... read more",230.0
+Coffee,Cafe Latte,1,0,"Café latte, a velvety symphony of espresso and steamed milk, offers a creamy ... read more",230.0
+Coffee,Flat White,1,0,"Crafted with expert precision, the flat white is a velvety smooth fusion of ... read more",240.0
+Coffee,Cafe Mocha,1,0,"Experience the irresistible fusion of smooth espresso, decadent chocolate and creamy steamed milk, ... read more",260.0
+Crepes,Le Classique Crepe,1,0,"Freshly baked crepe, spread with butter and lightly dusted with sugar.",280.0
+Crepes,Not So Sweet Crepe,1,0,"Freshly baked crepe, spread with butter, lightly dusted with sugar and drizzled with ... read more",300.0
+Crepes,Le Ultimate Banoffee Crepe,1,0,"Freshly baked crepe, served with banana slices and drizzled with our luxurious toffee ... read more",310.0
+Crepes,Peanut Butter Jelly Crepe,1,0,"Freshly baked crepe, filled with nutella and loaded with peanut butter, drizzled with ... read more",340.0
+Crepes,White Mademoiselle Crepe,1,0,"Freshly baked crepe, served with white chocolate sauce, sprinkled with chocolate chips and ... read more",350.0
+Crepes,Creamy Seasonal Crepe,1,0,"Freshly baked crepe, served with seasonal fruit slices, drizzled with warm chocolate sauce ... read more",360.0
+Crepes,Oreo Obsession Crepe,1,0,"Freshly baked crepe, filled with fresh crushed oreo cookies, drizzled with the secret ... read more",360.0
+Crepes,Baked Brownie Crepe,1,0,"Freshly baked crepe, filled in house dark chocolate sauce, served with brownie also ... read more",400.0
+Crepes,Love You Nutella Crepe,1,0,"Freshly baked crepe, filled with nutella and with some more nutella, served with ... read more",360.0
+Honey Toast,Hey Honey Toast,1,0,"Fresh honey toast, drizzled with honey and served with vanilla ice cream.",340.0
+Honey Toast,Dripping Caramel Honey Toast,1,0,"Fresh honey toast, served with butter toast pieces, drizzled with handmade caramel sauce, ... read more",380.0
+Honey Toast,Black Forest Honey Toast,1,0,"Fresh honey toast, sprinkled with chocolate chips, drizzled with secret chocolate sauce, served ... read more",440.0
+Honey Toast,Munchy Sundae Honey Toast,1,0,"Fresh honey toast, smothered with dark chocolate sauce, served with oreo cookies, filled ... read more",480.0
+Honey Toast,Dark Fantasy Honey Toast,1,0,"Fresh honey toast, served with oreo cookies, drizzled with dark chocolate sauce, topped ... read more",470.0
+Honey Toast,"With Love, Banana and Chocolate Honey Toast",1,0,"Fresh honey toast, served with banana slices, drizzled with our chocolate sauce, topped ... read more",440.0
+Honey Toast,Describe Yourself Honey Toast,1,0,"Fresh honey toast, that’s us, now describe your love for desserts by adding ... read more",530.0
+Brownie & Cheesecakes,Classic Brownie,1,0,"Indulge in the timeless decadence of a classic brownie, with its cakey center ... read more",200.0
+Brownie & Cheesecakes,"New York Cheesecake [1 Slice, 115 grams]",1,0,"Indulge in the decadent delight of New York cheesecake, featuring a creamy, velvety ... read more",260.0
+Brownie & Cheesecakes,Nutella Brownie,1,0,"Indulge in decadence with our nutella brownie, where chocolate goodness meets creamy hazelnut ... read more",260.0
+Brownie & Cheesecakes,Biscoff Brownie,1,0,"Indulge in decadence with every bite of biscoff brownie, where rich chocolate goodness ... read more",260.0
+Brownie & Cheesecakes,Oreo Cheesecake [150 grams],1,0,,290.0
+Brownie & Cheesecakes,"Biscoff Cheesecake [1 Slice, 165 grams]",1,0,"Indulge in decadence with biscoff cheesecake, where velvety cream cheese meets the irresistible ... read more",310.0
+Brownie & Cheesecakes,"Blueberry Cheesecake [1 Slice, 150 grams]",1,0,"Delight in the luscious marriage of tangy blueberries swirled into a creamy, velvety ... read more",320.0
+Brownie & Cheesecakes,"Seasonal Cheesecake [1 Slice, 150 grams]",1,0,Treat your taste buds to a decadent symphony of flavours with our seasonal ... read more,350.0
+Brownie & Cheesecakes,"Nutella Cheesecake [1 Slice, 165 grams]",1,0,"Indulge in decadence with every bite of Nutella cheesecake, where velvety cream cheese ... read more",310.0
+Brownie & Cheesecakes,Brownie [Box of 6],1,0,"Indulge in decadence with our box of six rich and cakey brownies, each ... read more",830.0
+Brownie & Cheesecakes,KitKat Cheesecake,1,0,Indulge in a delectable fusion of creamy cheesecake infused with the irresistible crunch ... read more,300.0
+Brownie & Cheesecakes,Triple Chocolate Cheesecake,1,0,"Indulge in decadence with layers of creamy chocolate cheesecake nestled between chocolate crust, ... read more",360.0
+Premium Milkshakes,KitKat Milkshake,1,0,"Indulge in a creamy symphony of crushed kitkat bars blended with chilled milk, ... read more",300.0
+Premium Milkshakes,Picadilly Go Nuts Milkshake,1,0,"Experience a whirlwind of flavors with picadilly go nuts milkshake, blending creamy vanilla ... read more",310.0
+Premium Milkshakes,Oreo Milkshake,1,0,"Indulge in the ultimate creamy treat with an oreo milkshake, blending velvety vanilla ... read more",320.0
+Premium Milkshakes,Leicester By Chocolate Milkshake,1,0,[Chef's Special],320.0
+Premium Milkshakes,Baker Rocher Street Milkshake,1,0,"Indulge in the irresistible baker rocher street milkshake, a decadent blend of velvety ... read more",340.0
+Premium Milkshakes,Hazelnut Milkshake,1,0,"Indulge in the creamy decadence of a hazelnut milkshake, where smooth hazelnut flavors ... read more",340.0
+Premium Milkshakes,Pistachio Cream Milkshake,1,0,,380.0
+Hot Beverages,Affogato,1,0,[Chef's Special],250.0
+Hot Beverages,Signature Iced Latte,1,0,"Cool down with our signature iced latte, where smooth espresso meets creamy milk ... read more",240.0
+Hot Beverages,Heavenly Hot Chocolate,1,0,"Indulge in a decadent symphony of rich cocoa, velvety milk and a hint ... read more",260.0
+Hot Beverages,Pistachio Rose Iced Latte,1,0,"Elevate your coffee experience with the exotic fusion of creamy pistachio, delicate rose ... read more",320.0
+Signature Specials,Cold Brew,1,0,"A smooth and refreshing coffee delight, crafted by steeping coarse coffee grounds in ... read more",240.0
+Signature Specials,Cold Brew Tonic,1,0,"Elevate your refreshment with cold brew tonic, a harmonious blend of smooth, bold ... read more",300.0
+Signature Specials,Espresso Tonic,1,0,"Experience the invigorating fusion of intense espresso and crisp tonic water, resulting in ... read more",310.0
+Signature Specials,Summer Sunrise Cold Brew,1,0,Experience the vibrant burst of citrus paired with the smooth richness of cold ... read more,310.0
+Signature Specials,Rosemary Cold Brew Tonic,1,0,Embark on a sensory journey with the invigorating blend of cold brew coffee ... read more,360.0
+Smoothies,Blueberry Smoothie,1,0,"A refreshing blend of plump, ripe blueberries, this vibrant smoothie bursts with antioxidants ... read more",300.0
+Smoothies,Strawberry Smoothie,1,0,"Embark on a refreshing journey with a strawberry smoothie, blending luscious strawberries with ... read more",300.0
+Smoothies,Mango Smoothie,1,0,"Embark on a tropical escape with every sip of this luscious mango smoothie, ... read more",300.0
+Smoothies,Berry Blast Smoothie,1,0,Indulge in the refreshing taste of ripe strawberries blended to perfection with dairy ... read more,310.0
+Smoothies,House Blend Signature Smoothie,1,0,"The house blend Signature smoothie offers a symphony of flavors, blending ripe tropical ... read more",310.0
+Smoothies,Passion Fruit Smoothie,1,0,"Embark on a tantalizing journey with the passion fruit smoothie, where the tangy ... read more",320.0
+Sundae,Borough Split Market Sundae,1,0,Made with premium vanilla/rich chocolate ice cream and premium ingredients topped with whipped ... read more,400.0
+Sundae,London Dungeon Sundae,1,0,Made with premium vanilla/rich chocolate ice cream and premium ingredients topped with whipped ... read more,420.0
+Sundae,Copy That Rocher Sundae,1,0,With chunks of KitKat and hazelnut topped with dark chocolate sauce. Made with premium ... read more,430.0
+Sundae,Big Brownie Ben Sundae,1,0,Made with premium vanilla/rich chocolate ice cream and premium ingredients topped with whipped ... read more,460.0
+Sundae,Seasonal Farm Sundae,1,0,Made with premium vanilla/rich chocolate ice cream and premium ingredients topped with whipped ... read more,460.0
+Sundae,House Special Sundae,1,0,"Indulge in our house special sundae, a delightful concoction of creamy vanilla ice ... read more",480.0
+Tapas [Small Plates],Nutella Croissant,1,0,"Indulge in the irresistible combination of flaky, buttery croissant pastry generously filled with ... read more",310.0
+Tapas [Small Plates],French Butter Croissant,1,0,"A flaky pastry masterpiece crafted with layers of buttery goodness, boasting a crisp ... read more",240.0
+Tapas [Small Plates],Single Layer Honey Toast,1,0,"Indulge in a delectable treat of thick, golden-brown toast drizzled with luscious honey, ... read more",300.0
+Tapas [Small Plates],Triple Chocolate Brownie,1,0,"Indulge in decadence with every bite of this moist and fudgy brownie, boasting ... read more",300.0
+Tapas [Small Plates],Brownie Tub,1,0,"Indulge in decadence with this fudgy delight, packed with rich chocolatey goodness and ... read more",260.0
+Drinks (Beverages),Classic Frappe,1,0,"Escape to a blissful oasis with the classic frappe, where smooth espresso meets ... read more",260.0
+Drinks (Beverages),Irish Frappe,1,0,"Embark on a decadent journey with irish frappe, where velvety coffee meets the ... read more",290.0
+Drinks (Beverages),Hazelnut Frappe,1,0,"Indulge in the creamy decadence of a hazelnut frappe, where velvety hazelnut essence ... read more",300.0
+Drinks (Beverages),Vanilla Frappe,1,0,"Escape into creamy decadence with a vanilla frappe, where smooth vanilla meets chilled ... read more",290.0
+Drinks (Beverages),Signature Mocha Frappe,1,0,"Experience the irresistible allure of a signature mocha frappe, where velvety chocolate meets ... read more",310.0
+Drinks (Beverages),Cookies Monster Mocha Frappe,1,0,"Embark on a deliciously wild rice with the cookies monster mocha frappe, where ... read more",340.0
+Drinks (Beverages),Seasonal Special Frappe,1,0,"Embrace the flavors of the season with our tantalizing seasonal special frappe, blending ... read more",350.0
+Drinks (Beverages),Passion Fruit Iced Tea,1,0,Quench your thirst with a tropical burst of tangy passion fruit infused into ... read more,250.0
+Drinks (Beverages),Blueberry Iced Tea,1,0,Cool off with the refreshing taste of blueberries infused into a crisp and ... read more,250.0
+Drinks (Beverages),Cranberry Iced Tea,1,0,"Quench your thirst with the crisp and tangy allure of cranberry iced tea, ... read more",250.0
+Drinks (Beverages),Strawberry Iced Tea,1,0,"Quench your thirst with the refreshing allure of strawberry iced tea, where the ... read more",250.0
+Drinks (Beverages),Yuzu Iced Tea,1,0,"Quench your thirst with the invigorating tang of yuzu citrus infused into cool, ... read more",260.0
+Drinks (Beverages),Grape Fruit Lemon Iced Tea,1,0,"Tangy grapefruit meets zesty lemon in a refreshing fusion, blended perfectly with chilled ... read more",260.0
+Drinks (Beverages),Watermelon Iced Tea,1,0,Quench your thirst with a revitalizing blend of fresh watermelon essence and crisp ... read more,250.0
+Drinks (Beverages),Berry Blast Iced Tea,1,0,"Quench your thirst with berry blast iced tea, a refreshing infusion of ripe ... read more",290.0
+Drinks (Beverages),Orange Blossom Iced Tea,1,0,"Invigorate your senses with the refreshing zest of citrus infused black tea, delicately ... read more",300.0
+Drinks (Beverages),Fresh Berry Mojito,1,0,"[Non Alcoholic] Experience a tantalizing blend of muddled fresh berries, zesty lime, and ... read more",280.0
+Drinks (Beverages),Strawberry Mojito,1,0,"[Non Alcoholic] A tantalizing blend of muddled fresh strawberries, zesty lime, fragrant mint ... read more",260.0
+Drinks (Beverages),Passion Fruit Mojito,1,0,[Non Alcoholic] Experience a tropical symphony of tangy passion fruit infused with the ... read more,250.0
+Drinks (Beverages),Electric Yuzu,1,0,"Energize your taste buds with the electric yuzu mojito, a zesty fusion of ... read more",260.0

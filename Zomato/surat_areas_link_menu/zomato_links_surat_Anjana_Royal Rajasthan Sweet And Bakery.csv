@@ -1,0 +1,6 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Breakfast,Pyaaz Kachori [1 Piece],1,0,,25.0
+Breakfast,Dahi Kachori [1 Piece],1,0,,46.0
+Breakfast,Samosa [2 Pieces],1,0,,31.0
+Breakfast,Bread Pakoda [1 Piece],1,0,,25.0
+Breakfast,Masala Chaas,1,0,,25.0

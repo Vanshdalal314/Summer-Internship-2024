@@ -1,0 +1,48 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Veg Grilled Sandwich,1,0,,135.0
+Sandwiches,Veg Cheese Grilled Sandwich,1,0,,175.0
+Sandwiches,Special Big B Sandwich,1,0,,175.0
+Sandwiches,Veg Sandwich,1,0,,60.0
+Sandwiches,Veg Cheese Sandwich,1,0,,100.0
+Sandwiches,Bread Butter Sandwich,1,0,,50.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,,75.0
+Sandwiches,Bread Butter Aloo Sandwich,1,0,,60.0
+Sandwiches,Bread Butter Cheese Aloo Sandwich,1,0,,90.0
+Sandwiches,Bread Butter Jam Sandwich,1,0,,70.0
+Sandwiches,Veg Toast Sandwich,1,0,,80.0
+Sandwiches,Bombay Toast Sandwich,1,0,,90.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,,120.0
+Sandwiches,Bread Butter Toast Sandwich,1,0,,75.0
+Sandwiches,Cheese Toast,1,0,,110.0
+Sandwiches,Cheese Open Toast Sandwich,1,0,,120.0
+Sandwiches,Special Tejas Toast Sandwich,1,0,,120.0
+Snacks and Chaat,Dahi Papdi Chaat,1,0,,60.0
+Snacks and Chaat,Rangeela Papdi Chaat,1,0,,115.0
+Snacks and Chaat,Sev Puri,1,0,,80.0
+Snacks and Chaat,Veg Cheese Frankie,1,0,,80.0
+Snacks and Chaat,Cheese Paneer Frankie,1,0,,110.0
+Snacks and Chaat,Chole Kulcha,1,0,,110.0
+Snacks and Chaat,Cheese Chole Kulcha,1,0,,150.0
+Snacks and Chaat,Butter Pav Bhaji [2 Pav],1,0,,120.0
+Snacks and Chaat,Cheese Butter Pav Bhaji [2 Pav],1,0,,160.0
+Snacks and Chaat,Cheese Garlic Bread,1,0,,120.0
+Snacks and Chaat,Onion Capsicum Cheese Garlic Bread,1,0,,150.0
+Snacks and Chaat,Indori Poha,1,0,,35.0
+Snacks and Chaat,Dahi Poha,1,0,,60.0
+Snacks and Chaat,Sabudana Khichdi,1,0,,60.0
+Snacks and Chaat,Dahi Sabudana Khichdi,1,0,,75.0
+Snacks and Chaat,Tejas Bhel,1,0,,55.0
+Snacks and Chaat,Dry Bhel,1,0,,55.0
+Snacks and Chaat,Tomato Bhel,1,0,,60.0
+Snacks and Chaat,Punjabi Bhel,1,0,,80.0
+Snacks and Chaat,Dahi Bhel,1,0,,60.0
+Snacks and Chaat,Cheese Bhel,1,0,,110.0
+Snacks and Chaat,Rangeela Bhel,1,0,,115.0
+Snacks and Chaat,Dahi Boondi,1,0,,60.0
+Snacks and Chaat,Dahi Kachori,1,0,"Kachori served with curd, namkeens, onion and dip chutney.",60.0
+Snacks and Chaat,Dahi Samosa [1 Piece],1,0,,60.0
+Drinks (Beverages),Chocolate Coco,1,0,,70.0
+Drinks (Beverages),Kaju Coco,1,0,,80.0
+Drinks (Beverages),Special Coco,1,0,,100.0
+Drinks (Beverages),Dry Fruits Lassi,1,0,,70.0
+Drinks (Beverages),Kesar Badam Milk,1,0,,80.0

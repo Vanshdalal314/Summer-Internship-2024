@@ -1,0 +1,28 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Locho,Sado Locho,1,0,,62.0
+Locho,Sev Locho,1,0,,70.0
+Locho,Tel Sev Locho,1,0,,45.0
+Locho,Amul Butter Sev Locho,1,0,,120.0
+Locho,Cheese Oil Locho,1,0,"Served with sev, green chutney and onion [kanda].",120.0
+Locho,Garlic Cheese Oil Locho,1,0,,120.0
+Locho,Cheese Butter Locho,1,0,"Served with sev, green chutney and onion [kanda].",140.0
+Locho,Garlic Cheese Butter Locho,1,0,,80.0
+Locho,Locha Nu Khiru,1,0,Served with chutney and masala.,80.0
+Khaman,Sada Khaman,1,0,Served with green chutney.,45.0
+Khaman,Vagharela Khaman,1,0,,99.0
+Khaman,"Rasawala Khaman [1 plate, 100 grams ]",1,0,,60.0
+Khaman,"Garlic Rasawala Khaman [1 Plate, 100 grams]",1,0,,70.0
+Khaman,Live Oil Khaman,1,0,"Comes with kadhi, raita marcha and kanda.",50.0
+Khaman,Live Oil Masala Khaman,1,0,"Comes with kadhi, raita marcha and kanda.",50.0
+Khaman,Live Sev Khamni,1,0,,180.0
+Khaman,Live Sev Khamni [Jain],1,0,,180.0
+Idla & Patra,Vagharela Idla,1,0,Served with green chutney and onion [kanda].,55.0
+Idla & Patra,Patra Sada,1,0,,70.0
+Idla & Patra,Vagharela Patra,1,0,,99.0
+Idla & Patra,Cheese Masala Idla [150 Gram],1,0,1 Plate,60.0
+Samosa,Kacha Dal Samosa with Chatni,1,0,,60.0
+Snacks,Patudi,1,0,,70.0
+Snacks,Cheese Sev Patudi,1,0,Served in 150 Grams.,50.0
+Snacks,Sev,1,0,,40.0
+Drinks (Beverages),Masala Chaas [200 ml],1,0,,25.0
+Extras,Green Chutney,1,0,,10.0

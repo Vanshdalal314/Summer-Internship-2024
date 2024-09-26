@@ -1,0 +1,75 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Cakes And Pastries,Belgium Chocolate Cake,1,0,Layers of Chocolate sponge cake and silky smooth ganache made with the finest ... read more,690.68
+Cakes And Pastries,Black Forest Cake,1,0,,563.56
+Cakes And Pastries,Blueberry Baked Cheesecake,1,0,"Our house-special baked cheesecake with a crumbly base, silky smooth cream cheese. Topped ... read more",1029.66
+Cakes And Pastries,Choco Hazelnut Mousse Cake[500 Grms],1,0,,775.42
+Cakes And Pastries,Chocolate Addiction [Truffle] Cake,1,0,"A great combination of chocolate sponge cake, silky chocolate ganache and coffee buttercream. ... read more",563.56
+Cakes And Pastries,Chocolate Mud Cake,1,0,,627.12
+Cakes And Pastries,Fresh Mango Cake [500 Gms],1,0,"Layers of moist mango flavoured cake with fresh mango puree, chopped alphonso mangoes ... read more",775.42
+Cakes And Pastries,Red Velvet Cake,1,0,Vanilla sponge cake layered with our gorgeous red velvet crumble and silky smooth ... read more,690.68
+Cakes And Pastries,Vanilla Pineapple Cake,1,0,,563.56
+Cakes And Pastries,Basque Burnt Cheesecake [190 Gms],1,0,,241.53
+Cakes And Pastries,Biscoff Baked Cheesecake Pastry,1,0,"Our house-special baked cheesecake with a crumbly base, silky smooth cream cheese. Topped ... read more",224.58
+Cakes And Pastries,Blueberry Baked Cheesecake Pastry,1,0,"Our house-special baked cheesecake with a crumbly base, silky smooth cream cheese. Topped ... read more",207.63
+Cakes And Pastries,Nutella Baked Cheesecake Pastry,1,0,"Our house-special baked cheesecake with a crumbly base, silky smooth cream cheese. Topped ... read more",207.63
+Cakes And Pastries,Biscoff Baked Cheesecake,1,0,"Our house-special baked cheesecake with a crumbly base, silky smooth cream cheese. Topped ... read more",1072.03
+Cakes And Pastries,Nutella Baked Cheesecake,1,0,"Our house-special baked cheesecake with a crumbly base, silky smooth cream cheese. Topped ... read more",1029.66
+Cakes And Pastries,Belgium Chocolate Pastry,1,0,Layers of Chocolate sponge cake and silky smooth ganache made with the finest ... read more,161.02
+Cakes And Pastries,Chocolate Mud Pastry,1,0,"Layers of chocolate cake, gooey chocolate crumble and our silky chocolate ganache. Works ... read more",148.31
+Cakes And Pastries,Fresh Mango Pastry,1,0,,182.2
+Cakes And Pastries,Kitkat Pastry,1,0,,161.02
+Cakes And Pastries,Opera Pastry,1,0,,84.75
+Cake Tubs[250 Gms],Fresh Mango Cake Tub,1,0,"A tub with fresh mango cake, fresh whipped mango cream and pieces of ... read more",279.66
+Cake Tubs[250 Gms],Rose Pistachio Cake Tub,1,0,,296.61
+Cake Tubs[250 Gms],Tiramisu Cake Tub[250 Gms],1,0,"Fresh baked cake, coffee, Mascarpone and whipped coffee cream in a tub of ... read more",300.85
+Jar Cakes,Belgium Chocolate Jar,1,0,Belgium Chocolate ganache between the layers of our Chocolate cake in a jar.,254.24
+Jar Cakes,Belgium Chocolate Mousse Cake Jar,1,0,,233.05
+Jar Cakes,Blueberry Cheesecake Jar,1,0,Our cold- set cheesecake topped with house- made Blueberry compote.,292.37
+Jar Cakes,Chocolate Mud Cake Jar,1,0,Our gooey mud cake with chocolate ganache and crumble in a jar.,233.05
+Jar Cakes,Nutella Cheesecake Jar,1,0,"Cold set cheesecake in a jar, topped with rich Nutella. Nothing else.",292.37
+Cookies,Aata - Nankhatai,1,0,"Classic Indian shortbread cookies made with whole wheat flour, ghee, and aromatic spices, ... read more",228.81
+Cookies,Almond - Sticks,1,0,"Delicate sticks made with pure Amul butter and almonds, offering a delightful buttery ... read more",211.86
+Cookies,Cashew And Cranberry Sticks,1,0,"Buttery sticks with the goodness of Amul butter, blended with creamy cashews and ... read more",220.34
+Cookies,Coconut Almond Cookies,1,0,Classic cookies combining shredded coconut and crunchy almonds for a chewy and flavorful ... read more,148.31
+Cookies,Pista Sticks,1,0,"Nutty sticks featuring pure Amul butter and pistachios, providing a delightful crunch.(250 Gms)",262.71
+Cookies,Shrewsbury Cookies,1,0,"Classic British cookies with a crumbly and buttery texture, a timeless favorite.(190 Gms)",190.68
+Breads,Whole Wheat Crustless [300 Gm],1,0,,65.0
+Breads,Whole Wheat Kulchas [4 Piece],1,0,,110.0
+Breads,Whole Wheat Multigrain Bread [440 Gm],1,0,,75.0
+Breads,Whole Wheat Pita Bread [2 Piece],1,0,,60.0
+Breads,Whole Wheat Sandwich Bread [440 Gm],1,0,,65.0
+Breads,Whole Wheat Burger Buns [2 Piece],1,0,,60.0
+Breads,Focaccia Bread,1,0,,75.0
+Breads,Garlic Whole Wheat Loaf,1,0,,85.0
+Breads,Whole Wheat French Loaf,1,0,,75.0
+Breads,Whole Wheat Pav(9pc),1,0,,65.0
+Breads,Whole Wheat Soft Pizza Base (2 Pcs),1,0,,50.85
+Breads,Whole Wheat Thin Crust Pizza Base [2 Pc],1,0,,66.67
+Chocolates,Choco Buttercrunch Barks,1,0,,296.61
+Chocolates,Ganache[50 Ml],1,0,,42.37
+Gift Hamper,Gift Hamper A,1,0,Decorated Hamper with jars and brownies,1419.49
+Gift Hamper,Gift Hamper B,1,0,"Decorated hamper with tubs, and jars",1444.92
+Gift Hamper,Gift Hamper C,1,0,Decorated hamper with jars & buttercrunch barks,1122.88
+Gift Hamper,Gift Hamper D,1,0,Decorated hampers Buttercrunch barks & cheesecake jar,843.22
+Gift Hamper,Gift Hamper E,1,0,Decorated hamper with Buttercrunch barks & cookie jar,788.14
+Gift Hamper,Premium Cake Tub Box,1,0,"Premium Tub box with any 4 choice of tubs,",1016.95
+Muffins,Blueberry Muffin(110 Gm),1,0,,67.8
+Muffins,Chocolate Muffin(110 Gm),1,0,,67.8
+Croissant,Belgian Chocolate Lafayette Croissant,1,0,,211.86
+Croissant,Butter Croissant,1,0,,101.69
+Croissant,Mini Butter Croissant,1,0,,42.37
+Croissant,Nutella Lafayette Croissant,1,0,,211.86
+Brownies,Brownie Box Of 2,1,0,,220.34
+Brownies,Chocolate Brownie,1,0,Our Gooey and Fudgy brownies made with the best quality of Chocolate and ... read more,127.12
+Brownies,Lotus Biscoff Brownie,1,0,Our Gooey and Fudgy brownies made with the best quality of Chocolate and ... read more,144.07
+Brownies,Nutella Brownie,1,0,Our Gooey and Fudgy brownies made with the best quality of Chocolate and ... read more,139.83
+Savouries,Baked Masala Lavash [90 Gm],1,0,,80.51
+Savouries,Butter Khari [250 Gm],1,0,,101.69
+Savouries,Masala Cheese Straws[150gm],1,0,,135.59
+Savouries,Masala Khari [250 Gm],1,0,,118.64
+Savouries,Masala Soup Sticks [100 Gm],1,0,,57.14
+Savouries,Milk Rusk [250 Gm],1,0,,114.29
+Savouries,Soup Sticks [100 Gm],1,0,,47.62
+Savouries,Vol-Au-Vent [12 Piece],1,0,,59.32
+Snacks,Spinach & Corn Cheese Puff,1,0,,71.43
+Snacks,Veg Puff,1,0,,35.71

@@ -1,0 +1,114 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Peri Peri Kabab [6 Pieces],1,0,,140.0
+Starters,Hara Bhara Kabab [8 Pieces],1,0,,155.0
+Starters,Paneer Tikka,1,0,,280.0
+Starters,Lasooni Paneer Tikka,1,0,,270.0
+Starters,Hariyali Paneer Tikka,1,0,,285.0
+Starters,Schezwan Paneer Tikka,1,0,,250.0
+Starters,Potato Chilli,1,0,,180.0
+Starters,Paneer Chilli,1,0,,190.0
+Starters,Mushroom Chilli,1,0,,190.0
+Starters,Dragon Paneer,1,0,,245.0
+Pizza and Pasta,Margherita Indi Pizza [8 Inches],1,0,"Tomato sauce, cheese, garlic naan base bread.",160.0
+Pizza and Pasta,Golden Corn Pizza [8 Inches],1,0,"Mayonnaise, sweet corn, green peas, cheese.",190.0
+Pizza and Pasta,Corn Cheese Pizza [8 Inches],1,0,"Mayonnaise, sweet corn, cheese.",190.0
+Pizza and Pasta,Capsicum Onion Tomato Pizza [8 Inches],1,0,"Capsicum, onion, tomato, cheese.",200.0
+Pizza and Pasta,Maggi Pizza [8 Inches],1,0,"Pizza sauce, maggi chopped veg masala, cheese.",210.0
+Pizza and Pasta,Khet Khaliyan Pizza [8 Inches],1,0,"Capsicum, onion, tomato, corn, mashroom, cheese.",220.0
+Pizza and Pasta,Lakhnavi Nawabi Pizza [8 Inches],1,0,"Yellow sauce, capsicun, onion, cheese.",225.0
+Pizza and Pasta,Makhni Pizza [8 Inches],1,0,"Red Sauce, capsicun, onion, cheese.",230.0
+Pizza and Pasta,Veg Kababi Pizza [8 Inches],1,0,"Chopped vegetable masala, kabab, cheese.",230.0
+Pizza and Pasta,Coriander Cottage Cheese Pizza [8 Inches],1,0,"Green chutney, paneer, bell pepper, cheese.",230.0
+Pizza and Pasta,Maharaja Paneer Pizza [8 Inches],1,0,"Chopped veg masala, tandoori paneer, cheese.",250.0
+Pizza and Pasta,Italian Pizza [8 Inches],1,0,"Pizza sauce,onion, bell pepper, mushroom, cheese.",250.0
+Pizza and Pasta,Desi Dhamal Pizza [8 Inches],1,0,"Pizza sauce, capsicum, onion, tomato, chilli, paneer, cheese.",260.0
+Pizza and Pasta,Exotic Paradise Pizza [8 Inches],1,0,"Bell pepper, tomato, olive, jalapeno, cheese.",280.0
+Pizza and Pasta,Lakhnavi Nawabi Pasta,1,0,,200.0
+Pizza and Pasta,Makhni Pasta,1,0,,200.0
+Pizza and Pasta,Chinese Pasta,1,0,,200.0
+Pizza and Pasta,White Pasta,1,0,,250.0
+Pizza and Pasta,Maggi Pasta Fusion,1,0,,260.0
+Pizza and Pasta,Alfredo Pasta,1,0,,280.0
+Pizza and Pasta,Red Sauce Pasta,1,0,,280.0
+Pizza and Pasta,Mixed Sauce Pasta,1,0,,290.0
+Pizza and Pasta,Pesto Pasta,1,0,,340.0
+Pizza and Pasta,Aglio Olio Pasta,1,0,,320.0
+Pizza and Pasta,Macaroni Pasta with Red Sauce,1,0,,325.0
+Pizza and Pasta,Macroni Pasta with White Sauce,1,0,,325.0
+Garlic Bread,Indi Cheese Grilled Garlic Bread,1,0,,150.0
+Garlic Bread,Indi Chilli Cheese Grilled Garlic Bread,1,0,,160.0
+Garlic Bread,Supreme Garlic Bread,1,0,,200.0
+Burgers and Sandwiches,Veg Burger,1,0,,90.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,120.0
+Burgers and Sandwiches,Paneer Tikka Burger,1,0,,140.0
+Burgers and Sandwiches,Maggi Burger,1,0,,140.0
+Burgers and Sandwiches,Bombay Kaccha Sandwich,1,0,,90.0
+Burgers and Sandwiches,Bombay Kaccha Cheese Sandwich,1,0,,110.0
+Burgers and Sandwiches,Maggi Sandwich,1,0,,110.0
+Burgers and Sandwiches,Pasta Sandwich,1,0,,110.0
+Burgers and Sandwiches,Cheese Chilli Toast,1,0,,140.0
+Burgers and Sandwiches,Club Veggie Sandwich,1,0,"Wheat bread, fresh veg, process cheese.",160.0
+Burgers and Sandwiches,Paneer Tikka Sandwich,1,0,,190.0
+Burgers and Sandwiches,Peri Peri Sandwich,1,0,,190.0
+Burgers and Sandwiches,Club Exotic Paneer Sandwich,1,0,"Wheat bread, fresh veg, fried paneer and capsicum, processed cheese.",190.0
+Burgers and Sandwiches,Dhaba Special Sandwich,1,0,,260.0
+Khichdi,Masala Butter Khichdi,1,0,,200.0
+Khichdi,Cheese Masala Butter Khichdi,1,0,,230.0
+Khichdi,Schezwan Khichdi,1,0,,230.0
+Khichdi,Exotic Khichdi,1,0,,250.0
+Khichdi,Paneer Butter Khichdi,1,0,,250.0
+Khichdi,Cheese Baked Khichdi,1,0,,250.0
+Breads,Cheese Grilled Paratha,1,0,,110.0
+Breads,Cheese Mayo Grilled Paratha,1,0,,130.0
+Breads,Indori Cheese Grilled Paratha,1,0,,145.0
+Breads,Cheese Peri Peri Paratha,1,0,,145.0
+Breads,2 Aloo Paratha,1,0,,160.0
+Breads,2 Mixed Veg Paratha,1,0,,170.0
+Snacks and Chaat,Maggi Stick,1,0,,170.0
+Snacks and Chaat,Creamy Fusion,1,0,,180.0
+Snacks and Chaat,Zig Zag Fries,1,0,,110.0
+Snacks and Chaat,Masala Zigzag Fries,1,0,,140.0
+Snacks and Chaat,Cheesy Tandoori Fries,1,0,,180.0
+Snacks and Chaat,Pizza Fries,1,0,,145.0
+Snacks and Chaat,Butter Bhaji,1,0,,145.0
+Snacks and Chaat,Cheese Butter Bhaji,1,0,,175.0
+Snacks and Chaat,Pav Butter,1,0,,30.0
+Desserts and Beverages,Cold Coffee,1,0,,110.0
+Desserts and Beverages,Chocolate Cold Coffee,1,0,,130.0
+Desserts and Beverages,Cold Coffee with Vanilla Ice Cream,1,0,,145.0
+Desserts and Beverages,Creamy Cold Coffee,1,0,,145.0
+Desserts and Beverages,Vanilla Shake,1,0,,100.0
+Desserts and Beverages,Chocolate Shake,1,0,,130.0
+Desserts and Beverages,Strawberry Shake,1,0,,130.0
+Desserts and Beverages,Oreo Shake,1,0,,145.0
+Desserts and Beverages,Bourbon Shake,1,0,,150.0
+Desserts and Beverages,Kitkat Shake,1,0,,160.0
+Desserts and Beverages,Brownie Shake,1,0,,200.0
+Desserts and Beverages,Ferrero Rocher Shake,1,0,,220.0
+Desserts and Beverages,Nutella Shake,1,0,,230.0
+Chinese,Manchurian Dry,1,0,,190.0
+Chinese,Paneer Chilli,1,0,,190.0
+Chinese,Mushroom Chilli,1,0,,190.0
+Chinese,Veg Fried Rice,1,0,,170.0
+Chinese,Manchurian Rice,1,0,"Mix veg , fries manchurian ball , rice",190.0
+Chinese,Schezwan Rice,1,0,"Mixed vegetables , schezwan sauces , rice , garlic....",200.0
+Chinese,Paneer Rice,1,0,"Marinated fried paneer , vegetables, soya sauce , chilly sauce , rice",220.0
+Chinese,Rizo Rice,1,0,,230.0
+Chinese,Veg Pulao,1,0,,220.0
+Chinese,Mexican Rice,1,0,,220.0
+Chinese,Garlic Rice with Gravy,1,0,,210.0
+Chinese,Cilantro Rice,1,0,,190.0
+Chinese,Tawa Biryani,1,0,,230.0
+Chinese,Red Thai Rice,1,0,,290.0
+Chinese,Green Thai Rice,1,0,,290.0
+Chinese,Veg Hakka Noodles,1,0,"Noodles , soya sauces , red chilly sauces , onion , cappsicum",170.0
+Chinese,Schewan Noodles,1,0,,180.0
+Chinese,Manchurian Noodles,1,0,"Noodles , manchurian balls , soya sauces , red chilly sauces , onion ... read more",190.0
+Chinese,Paneer Noodles,1,0,"Fried paneer , noodles , soya sauces , red chilly sauce",210.0
+Chinese,Tomato Soup,1,0,"Tomato , cream , black salt , black pepar",110.0
+Chinese,Manchow Soup,1,0,"Mix vegi , soya sauce , red chilly sauce",130.0
+Chinese,Lemon Coriander Soup,1,0,"Lemon juice , mix vegi , coriander , soya sauces , black salt ... read more",110.0
+Chinese,Veg Clear Soup,1,0,,115.0
+Chinese,Hot and Sour Soup,1,0,,150.0
+Chinese,Burmese Soup,1,0,,150.0
+Chinese,Mexican Bean Soup,1,0,,150.0

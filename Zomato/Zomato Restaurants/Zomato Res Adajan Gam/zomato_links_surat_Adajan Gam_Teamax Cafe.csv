@@ -1,0 +1,120 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza and Pasta,Margherita Pizza,1,0,Cheese.,109.0
+Pizza and Pasta,Sweet Corn Pizza,1,0,"Sweet corn, cheese.",109.0
+Pizza and Pasta,Tomato Pizza,1,0,"Tomato, cheese.",149.0
+Pizza and Pasta,Indian Exotica Pizza,1,0,"Onion, capsicum, paneer, jalapeno dip.",199.0
+Pizza and Pasta,Mexican Salsa Pizza,1,0,"Onion, capsicum, sweet corn, jalapeno, mushroom.",199.0
+Pizza and Pasta,Peri Peri Paneer Pizza,1,0,"Onion, capsicum, sweet corn, tandoori paneer, red paprika.",229.0
+Pizza and Pasta,Indian Paneer Supreme Pizza,1,0,"Capsicum, tomato, paneer, olives, red paprika, jalapeno dip.",239.0
+Pizza and Pasta,White Sauce Americano Pasta,1,0,"Onions, capsicum, sweet corn, mushroom, olives with cheese.",149.0
+Pizza and Pasta,Indian Pasta with Korma Dip,1,0,"Onion, capsicum, paneer, mushroom, red paprika with cheese.",149.0
+Pizza and Pasta,Red and White Sauce Italian Pasta,1,0,"Onion, capsicum, paneer, mushroom with cheese.",149.0
+Burgers and Sandwiches,Veg Classic Burger,1,0,,79.0
+Burgers and Sandwiches,Veg Tandoori Burger,1,0,,89.0
+Burgers and Sandwiches,Veg Barbeque Burger,1,0,,89.0
+Burgers and Sandwiches,Veg Mint Burger,1,0,,89.0
+Burgers and Sandwiches,Veg Peri Peri Burger,1,0,,89.0
+Burgers and Sandwiches,Veg Double Patty Burger,1,0,,99.0
+Burgers and Sandwiches,Veg Max Burger,1,0,,109.0
+Burgers and Sandwiches,Paneer Classic Burger,1,0,,99.0
+Burgers and Sandwiches,Paneer Tandoori Burger,1,0,,109.0
+Burgers and Sandwiches,Paneer Barbeque Burger,1,0,,109.0
+Burgers and Sandwiches,Paneer Mint Burger,1,0,,109.0
+Burgers and Sandwiches,Paneer Peri Peri Burger,1,0,,109.0
+Burgers and Sandwiches,Paneer Double Patty Burger,1,0,,119.0
+Burgers and Sandwiches,Paneer Max Burger,1,0,,129.0
+Burgers and Sandwiches,Veg Max Grilled Sandwich,1,0,,109.0
+Burgers and Sandwiches,Veg Tandoori Grilled Sandwich,1,0,,119.0
+Burgers and Sandwiches,Veg Italian Grilled Sandwich,1,0,,149.0
+Burgers and Sandwiches,Veg Peri Peri Grilled Sandwich,1,0,,129.0
+Burgers and Sandwiches,Paneer Max Grilled Sandwich,1,0,,129.0
+Burgers and Sandwiches,Paneer Tandoori Grilled Sandwich,1,0,,139.0
+Burgers and Sandwiches,Paneer Italian Grilled Sandwich,1,0,,169.0
+Burgers and Sandwiches,Paneer Peri Peri Grilled Sandwich,1,0,,149.0
+Burgers and Sandwiches,Veg Bread Butter Sandwich,1,0,,30.0
+Burgers and Sandwiches,Veg Bread Butter Jam Sandwich,1,0,,40.0
+Burgers and Sandwiches,Veg Bread Butter Cheese Sandwich,1,0,,60.0
+Burgers and Sandwiches,Veg Max Sandwich,1,0,,69.0
+Burgers and Sandwiches,Veg Tandoori Sandwich,1,0,,79.0
+Burgers and Sandwiches,Veg Peri Peri Sandwich,1,0,,89.0
+Burgers and Sandwiches,Veg Italian Sandwich,1,0,,99.0
+Burgers and Sandwiches,Veg Kachumber Cheese Sandwich,1,0,,99.0
+Burgers and Sandwiches,Paneer Max Sandwich,1,0,,79.0
+Burgers and Sandwiches,Paneer Tandoori Sandwich,1,0,,89.0
+Burgers and Sandwiches,Paneer Peri Peri Sandwich,1,0,,99.0
+Burgers and Sandwiches,Paneer Italian Sandwich,1,0,,119.0
+Burgers and Sandwiches,Paneer Kachumber Cheese Sandwich,1,0,,119.0
+Snacks,Mushroom Corn Onion Taco,1,0,,129.0
+Snacks,Paneer Tikka Butter Masala Taco,1,0,,139.0
+Snacks,Classic Fries,1,0,,59.0
+Snacks,Pepper Fries,1,0,,69.0
+Snacks,Masala Fries,1,0,,79.0
+Snacks,Peri Peri Fries,1,0,,89.0
+Snacks,Loaded Fries,1,0,,119.0
+Snacks,French Fries with Dip,1,0,,99.0
+Snacks,Cheese Shotz with Dip,1,0,,99.0
+Snacks,Paneer Sweet Corn Cheese Quesadilla,1,0,,129.0
+Snacks,Mushroom Olives Cheese Quesadilla,1,0,,129.0
+Snacks,Butter Garlic Bread,1,0,,49.0
+Snacks,Cheese Garlic Bread,1,0,,69.0
+Snacks,Supreme Garlic Bread,1,0,"Onion, sweet corn, jalapeno, olives, cheese.",129.0
+Snacks,Paneer Tikka Garlic Bread,1,0,"Exotic paneer, red paprika, cheese.",149.0
+Maggi,Masala Maggi,1,0,,49.0
+Maggi,Corn and Cheese Maggi,1,0,,59.0
+Maggi,Vegetable Maggi,1,0,,69.0
+Maggi,Cheese Butter Maggi,1,0,,79.0
+Maggi,Peri Peri Maggi,1,0,,79.0
+Drinks (Beverages),Kadak Chai,1,0,,10.0
+Drinks (Beverages),Elaichi Chai,1,0,,15.0
+Drinks (Beverages),Green Chai,1,0,,15.0
+Drinks (Beverages),Masala Chai,1,0,,20.0
+Drinks (Beverages),Lemon Chai,1,0,,20.0
+Drinks (Beverages),Paan Chai,1,0,,30.0
+Drinks (Beverages),Rose Chai,1,0,,30.0
+Drinks (Beverages),Kulhad Chai,1,0,,30.0
+Drinks (Beverages),Hot Coffee,1,0,,20.0
+Drinks (Beverages),Kulhad Coffee,1,0,,30.0
+Drinks (Beverages),Max Cappuccino Coffee,1,0,,39.0
+Drinks (Beverages),Hot Chocolate Coffee,1,0,,59.0
+Drinks (Beverages),Chocolate Coffee,1,0,,59.0
+Drinks (Beverages),Almond Coffee,1,0,,89.0
+Drinks (Beverages),Hazelnut Coffee,1,0,,89.0
+Drinks (Beverages),Vanilla Milkshake,1,0,,89.0
+Drinks (Beverages),Mango Milkshake,1,0,,89.0
+Drinks (Beverages),Strawberry Milkshake,1,0,,89.0
+Drinks (Beverages),Butterscotch Milkshake,1,0,,89.0
+Drinks (Beverages),Badam Milkshake,1,0,,89.0
+Drinks (Beverages),Chocolate Milkshake,1,0,,89.0
+Drinks (Beverages),Caramel Milkshake,1,0,,99.0
+Drinks (Beverages),Pista Milkshake,1,0,,99.0
+Drinks (Beverages),Dates Milkshake,1,0,,119.0
+Drinks (Beverages),Chocolate and Oreo Milkshake,1,0,,119.0
+Drinks (Beverages),KitKat Milkshake,1,0,,119.0
+Drinks (Beverages),Dry Fruits Milkshake,1,0,,119.0
+Drinks (Beverages),Vanilla Thickshake,1,0,,129.0
+Drinks (Beverages),Butterscotch Thickshake,1,0,,139.0
+Drinks (Beverages),Chocolate Thickshake,1,0,,139.0
+Drinks (Beverages),Strawberry Thickshake,1,0,,139.0
+Drinks (Beverages),Caramel Thickshake,1,0,,149.0
+Drinks (Beverages),Chocolate and Oreo,1,0,,159.0
+Drinks (Beverages),KitKat Thickshake,1,0,,169.0
+Drinks (Beverages),Dairymilk Thickshake,1,0,,169.0
+Drinks (Beverages),Ferrero Rocher Thickshake,1,0,,199.0
+Drinks (Beverages),Nutella Thickshake,1,0,,199.0
+Drinks (Beverages),Biscoff Thickshake,1,0,,199.0
+Drinks (Beverages),Dry Fruits Thickshake,1,0,,219.0
+Drinks (Beverages),Peach Iced Tea,1,0,,79.0
+Drinks (Beverages),Lemon Iced Tea,1,0,,79.0
+Drinks (Beverages),Fresh Lime Soda,1,0,,59.0
+Drinks (Beverages),Virgin Mojito,1,0,[Non Alcoholic],69.0
+Drinks (Beverages),Green Apple Mojito,1,0,[Non Alcoholic],79.0
+Drinks (Beverages),Cold Coffee,1,0,,89.0
+Drinks (Beverages),Cold Coffee with Chocolate,1,0,,109.0
+Drinks (Beverages),Cold Coffee with Oreo,1,0,,109.0
+Drinks (Beverages),Hazelnut Cold Coffee,1,0,,129.0
+Drinks (Beverages),Irish Cold Coffee,1,0,,129.0
+Drinks (Beverages),Cranberry Spice Mocktail,1,0,,119.0
+Drinks (Beverages),Guava Spicy Mocktail,1,0,,119.0
+Drinks (Beverages),Litchi Crush Mocktail,1,0,,119.0
+Drinks (Beverages),Blue Curacao Mocktail,1,0,,119.0
+Drinks (Beverages),Soda,1,0,,10.0

@@ -1,0 +1,32 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Dairy Dishes,Punjabi Curd,1,0,,35.0
+Dairy Dishes,Malai Paneer,1,0,Fresh Paneer/Cottage Cheese.,120.0
+Dairy Dishes,Punjabi Curd [250 Grams],1,0,Fresh Dahi.,35.0
+Winter Specials,Malai Lassi [1 Glass] + Mango Lassi [1 Glass],1,0,,105.0
+Creamy Combos,Cold Coco [1 Glass] + Cold Coco with Choco Chips [1 Glass],1,0,Super Saver Combo!,130.0
+Creamy Combos,American Dry Fruit Shrikhand [250 gm] + Cold Coco [1 Glass],1,0,Super Saver Combo!,150.0
+Creamy Combos,Kesar Dry Fruit Shrikhand [250 gm] + Cold Coco [1 Glass],1,0,Super Saver Combo!,150.0
+Creamy Combos,Angoor Rabdi [250 gm] + Malai Lassi [1 Glass],1,0,Super Saver Combo!,155.0
+Creamy Combos,Cold Coco With Choco Chips + Cold Coco + Malai Lassi,1,0,Super Saver Combo!,175.0
+Creamy Combos,Cold Coco With Choco Chips + Cold Coco + Malai Lassi + American Dry Fruit Shrikhand [500 Gram],1,0,Super Saver Combo!,375.0
+Creamy Combos,Malai Lassi + Dry Fruit Lassi + Mango Lassi + American Dry Fruit Shrikhand [500 Gram],1,0,Super Saver Combo!,385.0
+Creamy Combos,Angoor Rabdi [250 gm] + Dry Fruit Lassi,1,0,Super Saver Combo!,190.0
+Creamy Combos,Angoor Rabdi [250 gm] + Dry Fruit Lassi + American Dry Fruit Shrikhand [500 Gram],1,0,Super Saver Combo!,390.0
+Creamy Combos,Malai Paneer [500 gm] + Punjabi Dahi [250 gm],1,0,Super Saver Combo!,260.0
+Creamy Combos,Malai Paneer [500 gm] + Punjabi Dahi [250 gm] + Mango Shrikhand [500 Gm],1,0,Super Saver Combo!,450.0
+"Shrikhand, Rabdi & Sweets",American Dry Fruit Shrikhand,1,0,Shrikhand is a traditional Indian sweet made with hung curd and flavored with ... read more,120.0
+"Shrikhand, Rabdi & Sweets",Kesar Dry Fruit Shrikhand,1,0,Shrikhand is a traditional Indian sweet made with hung curd and flavored with ... read more,120.0
+"Shrikhand, Rabdi & Sweets",Chocolate Chips Shrikhand,1,0,Shrikhand is a traditional Indian sweet made with hung curd and flavored with ... read more,115.0
+"Shrikhand, Rabdi & Sweets",Mango Shrikhand,1,0,Shrikhand is a traditional Indian sweet made with hung curd and flavored with ... read more,115.0
+"Shrikhand, Rabdi & Sweets",Plain Shrikhand,1,0,Shrikhand is a traditional Indian sweet made with hung curd and flavored with ... read more,105.0
+"Shrikhand, Rabdi & Sweets",Kesar Elaichi Shrikhand,1,0,Shrikhand is a traditional Indian sweet made with hung curd and flavored with ... read more,110.0
+"Shrikhand, Rabdi & Sweets",Rainbow Shrikhand,1,0,Shrikhand is a traditional Indian sweet made with hung curd and flavored with ... read more,95.0
+"Shrikhand, Rabdi & Sweets",Rose Petal Shrikhand,1,0,Shrikhand is a traditional Indian sweet made with hung curd and flavored with ... read more,95.0
+"Shrikhand, Rabdi & Sweets",Caramel Shrikhand,1,0,,95.0
+Cold Coco,Cold Coco,1,0,Cold Chocolaty Drink.,50.0
+Cold Coco,Coco with Chocolate Chips,1,0,Cold Chocolaty Drink.,80.0
+Cold Coco,Coco with Kaju (200 ml),1,0,Cold Chocolaty Drink.,75.0
+Lassi,Malai Lassi,1,0,"Lassi is a blend of yogurt, water, spices and sometimes fruit.",45.0
+Lassi,Dry Fruit Lassi,1,0,"Lassi is a blend of yogurt, water, spices and sometimes fruit.",80.0
+Lassi,Mango Lassi,1,0,"Lassi is a blend of yogurt, water, spices and sometimes fruit.",60.0
+Lassi,Strawberry Lassi,1,0,"Lassi is a blend of yogurt, water, spices and sometimes fruit.",60.0

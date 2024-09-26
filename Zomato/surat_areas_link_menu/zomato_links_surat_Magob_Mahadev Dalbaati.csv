@@ -1,0 +1,32 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Meals For One,Special Marwadi Combo,1,0,1 Veg Sabji+1 Kathol Sabji+1 Tikha Dal+1 Meethi Dal+1 Kadhi+4 Butter Rice+1 Rice+1 ... read more,136.5
+Combos,Dal Bati Jumbo,1,0,8 Bati + Dal + Lasun Chutney + Papad + Salad,175.0
+Combos,Dal Bati with Rice Combo,1,0,4 Bati + Dal + Mitha/Tikkha Dal + Rice + Lasun Chutney + ... read more,189.0
+Combos,Dal Bati [Ghee] with Rice Combo,1,0,4 Bati with Ghee + Dal + Mitha/Tikkha Dal + Rice + Lasun ... read more,203.0
+Combos,Dal Bati and Churma Combo,1,0,Bati [5 Pieces]+Dal+Lahsun Chutney+Papad+Salad+Sweet Churma,209.3
+Combos,Dal bati(mithi dal),1,0,"5 Bati, mithi dal ,1 papad, salad, chatney",133.0
+Combos,Dal churma,1,0,Sweet Bati Churma+Dal,147.0
+Thali,Mix Veg Thali,1,0,1 Veg Subji + 1 Kathol + 1 Mithi Dal + 1 Thikki ... read more,136.5
+Dal Bati,Dal Bati with Ghee Meal,1,0,5 Bati with Ghee+Dal+Salad+Papad+Lehsun Chutney,154.0
+Dal Bati,Special Dal Bati with Ghee,1,0,Bati [8 Pieces] with Ghee+Dal+Papad+Lasooni Chutney,196.0
+Dal Bati,Dal tukkar[jadi roti],1,0,Dal+1 Tukkar Roti [Jada Roti]+Roasted Papad+Lehsun Chutney+Salad [Subject to Availability],139.3
+Dal Bati,Kadi Tukkar(Jadi Roti),1,0,Kadhi+1 Tukkar Roti [Jada Roti]+Roasted Papad [1 Piece]+Lehsun Chutney+Salad [Subject to Availability],139.3
+Dal Bati,Dal Bati,1,0,Bati [5 Pieces]+Dal+Salad+Papad+Lasooni Chutney [Dal and Salad-Subject to Availability],136.5
+Dal Bati,Jain Dal Bati,1,0,5 Bati+Dal+Papad+Salad [Dal and Salad-Subject to Availability],154.0
+Dal Bati,Jain Dal Bati with Ghee,1,0,5 Bati with Ghee+Dal+Papad+Salad [Dal and Salad-Subject to Availability],175.0
+Churma,Marwadi Churma,1,0,,112.0
+Dal Rice,Mitha Dal Rice,1,0,Sweet Dal Rice,91.0
+Dal Rice,Tikha Dal Rice,1,0,,91.0
+Dal Rice,Kadi Rice,1,0,Kadi rice,91.0
+Extras,Bati,1,0,,10.5
+Extras,Lehsun Chutney,1,0,,21.0
+Extras,Ghee,1,0,,21.0
+Extras,Dal,1,0,,84.0
+Extras,Marwadi Khichya,1,0,,31.5
+Extras,Bikaneri Papad,1,0,,28.0
+Extras,Plain Chapati,1,0,,14.0
+Extras,Butter Chapati,1,0,,17.5
+Extras,Rosted Papad,1,0,Papad,8.4
+Extras,Fry Mirchi,1,0,Fry mirchi,14.0
+Extras,Dry Fruit Churma,1,0,,147.0
+Buttermilk,Buttermilk,1,0,,21.0

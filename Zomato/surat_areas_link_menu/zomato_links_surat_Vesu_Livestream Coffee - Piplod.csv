@@ -1,0 +1,104 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+All Day Breakfast,Berry Blast Smothie Bowl,1,0,,380.0
+All Day Breakfast,Bra-vo-Toast,1,0,,420.0
+All Day Breakfast,Breakfast Wrap,1,0,"Tostada, tomato, onions, crusted cottage cheese, yoghurt dip and cream cheese.",320.0
+All Day Breakfast,Burrata & Pesto Croissant,1,0,,360.0
+All Day Breakfast,French Toast,1,0,,320.0
+All Day Breakfast,Pancakes,1,0,,340.0
+All Day Breakfast,Tofu Scramble,1,0,,400.0
+Salads,Avocado And Quinoa,1,0,,420.0
+Salads,Bu-rrata,1,0,,410.0
+Salads,Caesar Salad,1,0,,360.0
+Salads,Summer Salad,1,0,"Nuts, arugula, olives, orange, whipped cream cheese, caramelized walnuts and orange balsamic.",390.0
+Salads,Sweet Potato & Chickpea,1,0,,380.0
+Appetizers,Baked Broccoli,1,0,"High protein, cream cheese broccoli, cheese fondue, garlic and chilli bread crumbs.",390.0
+Appetizers,Baked Kataifi Cottage Cheese,1,0,"Pickled cottage cheese, kataifi crisp and garlic aioli.",380.0
+Appetizers,BBQ Cauli Wings,0,0,,320.0
+Appetizers,Garlic Bread,1,0,"In house bread, garlic, herbs and lots of cheese.",340.0
+Appetizers,Hummus Beirut'i,1,0,"High protein, cherry tomato relish, feta and in house bread.",360.0
+Appetizers,Mac N Cheese Arancini,1,0,Crumb coated mac balls and garlic aioli.,380.0
+Appetizers,Mushroom On Toast,1,0,Sauteed mushrooms and cream on toast.,360.0
+Appetizers,Nachos For Sure,1,0,"Nachos, salsa, sour cream, guacamole and cheese sauce.",390.0
+Appetizers,Parmigiana,1,0,"Layered zucchini, pomodoro sauce, Parmesan and Mozzarella.",450.0
+Appetizers,Soft Tacos,1,0,,350.0
+Appetizers,Truffle Fries,1,0,"Cut potato fries, caper salt, truffle oil and Parmesan.",380.0
+Pasta,Burrata Tortellini,1,0,"Herbed pasta sheets, pomodoro sauce, burrata and herb stuffing.",520.0
+Pasta,Butter Parmesan Fettuccine,1,0,"Butter Parmesan emulsion, truffle oil and black pepper.",540.0
+Pasta,OG Blush Sauce,1,0,"Choice of pasta, creamy pomodoro sauce, jalapenos and Parmesan cheese.",390.0
+Pasta,Pesto Alla Genovaise,1,0,"Choice of pasta, basil cream, sun dried tomato and sunflower seeds.",460.0
+Pasta,Spaghetti Aglio Olio,1,0,"Garlic, pepperoncini, noodles, olive oil and sundried tomatoes.",380.0
+Pasta,Truffle Mushroom Risotto,1,0,Truffle oil and sauteed mushroom.,590.0
+Pizza [11 Inches],Classic Margherita,1,0,"Pomodoro, Mozzarella and basil.",520.0
+Pizza [11 Inches],Veg Farmers Pizza [11 Inches],1,0,"Pomodoro, peppers, olives, jalapenos, mushrooms and basil.",620.0
+Pizza [11 Inches],Florentine Pizza [11 Inches],1,0,"Pomodoro sauce, mushroom, spinach, red onion and Feta.",620.0
+Pizza [11 Inches],Lean And Green Pizza [11 Inches],1,0,"Pesto base, broccoli, asparagus, green olives and sundried tomato.",620.0
+Pizza [11 Inches],Truffle Mushroom Pizza [11 Inches],1,0,"Bianco base, mushroom, red onions, walnuts and truffle oil.",790.0
+Sandwich,Caprese Toast,1,0,"Country loaf, Mozzarella, tomatoes, basil and balsamic.",340.0
+Sandwich,Cottage Cheese Katsu,1,0,"Crumb fried cottage cheese, veggies, home made pickle and spicy mayo.",360.0
+Sandwich,Croissant Sandwich,1,0,"[Veg preparation] Toasted croissant, avocado, lettuce, tomato and cream cheese.",340.0
+Sandwich,Hummus Sandwich,1,0,"Hummus, lettuce, arugula, tomato, Feta cheese, caramelized onions and country loaf pan.",340.0
+Sandwich,Roasted Veggie Sandwich,1,0,"Roasted vegetables, pesto dressing, tomato and focaccia/country loaf.",340.0
+Sandwich,Ultimate Grilled Cheese,1,0,Caramelized onions and homemade cheese mixed.,380.0
+One Bowls Meals,Lebanese Buddha Bowl,1,0,"Saffron and cranberry pilaf, roasted cauliflower, garlic hummus, chickpea falafels, pickled veggies and ... read more",490.0
+One Bowls Meals,Mexican Rice Bowl,1,0,,490.0
+One Bowls Meals,Poke Bowl,1,0,,460.0
+One Bowls Meals,Thai Curry With Jasmine Rice,1,0,"Spiced and aromatic sauce, mix veggies, served with aromatic rice.",480.0
+Hot Coffee,Americano,1,0,,190.0
+Hot Coffee,Cappuccino,1,0,,210.0
+Hot Coffee,Cortado,1,0,,190.0
+Hot Coffee,Espresso,1,0,,150.0
+Hot Coffee,Flat White,1,0,,210.0
+Hot Coffee,Latte,1,0,,210.0
+Hot Coffee,Mocha,1,0,,240.0
+Non Milk Teas,Camomile Tea (hot),1,0,Non milk tea.,220.0
+Non Milk Teas,Hibiscus Tea (hot),1,0,Non milk tea.,220.0
+Mocktails,Hibiscus Iced Tea,1,0,,220.0
+Mocktails,Lemon Iced Tea,1,0,,220.0
+Mocktails,Mint Mojito,1,0,[Non Alcoholic],230.0
+Mocktails,Orange Creamsicle,1,0,[Non Alcoholic],250.0
+Mocktails,Passion Fruit Vanilla,1,0,[Non Alcoholic],250.0
+Mocktails,Starlight Mocktail,1,0,[Non Alcoholic],230.0
+Shakes,Matcha Java Chip,1,0,,320.0
+Shakes,Mocha Black Forest Shake,1,0,,320.0
+Shakes,White Chocolate Shake,1,0,,320.0
+Signature Coffee Mocktails,Balsamica,1,0,,270.0
+Signature Coffee Mocktails,Cider Cold Brew,1,0,,270.0
+Signature Coffee Mocktails,Coffee Colada,1,0,,260.0
+Signature Coffee Mocktails,Mary Jane,1,0,,270.0
+Signature Coffee Mocktails,Pineapple Spritz,1,0,,250.0
+Hot Chocolate,Belgian Hot Chocolate,1,0,,290.0
+Hot Chocolate,French Hot Chocolate,1,0,,270.0
+Hot Chocolate,Signature Hot Chocolate,1,0,,260.0
+Frappe,Caramel Frappe,1,0,,240.0
+Frappe,Classic Frappe,1,0,,220.0
+Frappe,French Vanilla Frappe,1,0,,340.0
+Frappe,Hazelnut Frappe,1,0,,240.0
+Frappe,Mocha Frappe,1,0,,240.0
+Frappe,Tiramisu Frappe,1,0,,340.0
+Manual Brews,Aeropress (Hot),1,0,,220.0
+Manual Brews,Aeropress (Iced),1,0,,220.0
+Manual Brews,French Press,1,0,,220.0
+Manual Brews,V60 Pour Over (Hot),1,0,,220.0
+Manual Brews,V60 Pour Over (Iced),1,0,,220.0
+Iced Coffee,Affogato,1,0,,260.0
+Iced Coffee,Barrel Aged Cold Brew Tonic,1,0,,270.0
+Iced Coffee,Classic Cold Coffee,1,0,,240.0
+Iced Coffee,Cold Brew (Barrel Aged),1,0,,240.0
+Iced Coffee,Cold Brew Lemonade,1,0,,240.0
+Iced Coffee,Cold Brew Tonic,1,0,,240.0
+Iced Coffee,Cold Brew,1,0,,220.0
+Iced Coffee,Espresso Tonic,1,0,,240.0
+Iced Coffee,Iced Americano,1,0,,190.0
+Iced Coffee,Iced Cappuccino,1,0,,210.0
+Iced Coffee,Iced Cortado,1,0,,200.0
+Iced Coffee,Iced Espresso,1,0,,160.0
+Iced Coffee,Iced Latte,1,0,,220.0
+Iced Coffee,Iced Mint Mocha,1,0,,280.0
+Iced Coffee,Iecd Mocha,1,0,,230.0
+Iced Coffee,Mazagran Tonic,1,0,,260.0
+Iced Coffee,Mazagran,1,0,,220.0
+Iced Coffee,Vietnamese,1,0,,220.0
+Desserts,Almond Cake,1,0,,220.0
+Desserts,Almond Croissant,1,0,,340.0
+Desserts,Basque Cheesecake,1,0,,260.0
+Desserts,White Chocolate Raspberry Cheesecake,1,0,,290.0

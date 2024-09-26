@@ -1,0 +1,56 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Sandwiches,Minty Paneer Sandwich,1,0,,81.0
+Sandwiches,Veg Sandwich,1,0,,53.0
+Sandwiches,Butter Chicken Sandwich,1,0,,70.0
+Sandwiches,Peri Peri Chicken Sandwich,1,0,,70.0
+Snacks,Jalapeno Cheese Pops,1,0,,79.0
+Snacks,Veg Puff,1,0,,42.0
+Snacks,Paneer Puff,1,0,,53.0
+Snacks,Mushroom Puff,1,0,,53.0
+Snacks,Egg Puff,1,0,,47.0
+Snacks,Chicken Pop,1,0,,79.0
+Snacks,Chicken Puff,1,0,,58.0
+Desserts,Custard Cookies,1,0,,82.0
+Desserts,Sweet and Salt Cookies,1,0,,79.0
+Desserts,Melting Moment Cookies,1,0,,103.0
+Desserts,Buttery Stick Cookies,1,0,,137.0
+Desserts,Crunchy Crumble Cookies,1,0,,100.0
+Desserts,Coconut Cookies,1,0,,100.0
+Desserts,Candy Chocolate Small,1,0,,21.0
+Desserts,Candy Chocolate Big,1,0,,26.0
+Desserts,Dark Chocolate Donut,1,0,,63.0
+Desserts,Double Chocolate Donut,1,0,,68.0
+Desserts,French Custard Donut,1,0,,63.0
+Desserts,Eggless Vanilla Cupcake,1,0,,30.0
+Desserts,Chocolate Tart,1,0,,29.0
+Desserts,Strawberry Tart,1,0,,24.0
+Desserts,Cinnamon Tart,1,0,,23.0
+Desserts,White Macroon,1,0,,104.0
+Desserts,Chocolate Eclair,1,0,,81.0
+Desserts,Caramel Eclair,1,0,,81.0
+Desserts,Truffle Balls,1,0,,26.0
+Desserts,Lava Cake,1,0,,74.0
+Desserts,Japanese Cake,1,0,,72.0
+Desserts,Chocolate Cupcake,1,0,,30.0
+Desserts,Caramel Cupcake,1,0,,37.0
+Desserts,Walnut Brownie,1,0,,65.0
+Desserts,Soft Fudge Brownie,1,0,,71.0
+Desserts,Double Chocolate Brownie,1,0,,71.0
+Cakes,Eggless Chocolate Dry Cake,1,0,,158.0
+Cakes,White Forest Cake,1,0,,74.0
+Cakes,Black Forest Cake,1,0,,84.0
+Cakes,Chocolate Truffle Cake,1,0,,95.0
+Cakes,Butter Tea Dry Cake,1,0,,179.0
+Cakes,Carrot Dry Cake,1,0,,137.0
+Cakes,Banana Dry Cake,1,0,,137.0
+Burgers,Veg Burger,1,0,,90.0
+Burgers,Chicken Burger,1,0,,100.0
+Breads,Milk Bread,1,0,Butter milky,71.0
+Breads,Wheat Bread,1,0,100% Atta 0% maida,71.0
+Breads,Butter Sandwich Bread,1,0,,66.0
+Breads,Millets and Grains Bread,1,0,,77.0
+Breads,Wheat Sandwich Bread,1,0,,66.0
+Breads,Jumbo Sandwich Bread,1,0,,104.0
+Breads,Ultra Soft Butter Bun,1,0,,47.0
+Breads,Butter Garlic Bread,1,0,,73.0
+Breads,Honey Bread,1,0,,68.0

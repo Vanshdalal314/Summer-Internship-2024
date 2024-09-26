@@ -1,0 +1,158 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Main Course,Aloo Mutter,1,0,,175.0
+Main Course,Aloo Palak,1,0,,175.0
+Main Course,Aloo Suki Bhaji,1,0,,180.0
+Main Course,Baby Corn Masala,1,0,,240.0
+Main Course,Chana Masala,1,0,,180.0
+Main Course,Cheese Angoori (Sweet).,1,0,,220.0
+Main Course,Cheese Kofta,1,0,,205.0
+Main Course,Corn Palak,1,0,,190.0
+Main Course,Dum Aloo,1,0,,185.0
+Main Course,Kadai Kofta,1,0,,205.0
+Main Course,Kaju Curry,1,0,,270.0
+Main Course,Kaju Khoya (Sweet),1,0,,270.0
+Main Course,Kaju Kofta,1,0,,210.0
+Main Course,Kaju Mushroom,1,0,,220.0
+Main Course,Mix Vegetable,1,0,,180.0
+Main Course,Mushroom Masala,1,0,,240.0
+Main Course,Mushroom Muttar Masala,1,0,,240.0
+Main Course,Navratna Korma,1,0,,200.0
+Main Course,Paneer Kofta,1,0,,205.0
+Main Course,Plain Palak,1,0,,180.0
+Main Course,Veg Alpha,1,0,[Chef's Special],215.0
+Main Course,Veg Balti,1,0,,240.0
+Main Course,Veg Deewani Handi,1,0,,245.0
+Main Course,Veg Handi,1,0,,210.0
+Main Course,Veg Hara Masala,1,0,,220.0
+Main Course,Veg Haydrabadi,1,0,,220.0
+Main Course,Veg Hungama.,1,0,,210.0
+Main Course,Veg Jaipuri,1,0,,220.0
+Main Course,Veg Kadai.,1,0,,210.0
+Main Course,Veg Kheema Masala,1,0,,215.0
+Main Course,Veg Kofta,1,0,,190.0
+Main Course,Veg Kolhapuri,1,0,,220.0
+Main Course,Veg Makhnwala,1,0,,200.0
+Main Course,Veg Patiyala,1,0,,240.0
+Main Course,Veg Tawa Masala,1,0,,210.0
+Main Course,Veg Toofani,1,0,,220.0
+Main Course,Cheese Butter Masala,1,0,,265.0
+Main Course,Lasunia Palak,1,0,,220.0
+Main Course,Paneer Balti,1,0,,260.0
+Main Course,Paneer Bhurji,1,0,,260.0
+Main Course,Paneer Butter Masala,1,0,,230.0
+Main Course,Paneer Chatpata,1,0,,235.0
+Main Course,Paneer Cheese Masala,1,0,,260.0
+Main Course,Paneer Handi Masala,1,0,,250.0
+Main Course,Paneer Hara Masala,1,0,,240.0
+Main Course,Paneer Hungama,1,0,,235.0
+Main Course,Paneer Kadai,1,0,,250.0
+Main Course,Paneer Kaju Masala,1,0,,240.0
+Main Course,Paneer Korma (Sweet),1,0,,235.0
+Main Course,Paneer Lababdar (Sweet),1,0,,235.0
+Main Course,Paneer Lasunia,1,0,,240.0
+Main Course,Paneer Mushroom Masala,1,0,,245.0
+Main Course,Paneer Mutter,1,0,,185.0
+Main Course,Paneer Nizamee,1,0,,230.0
+Main Course,Paneer Palak,1,0,,210.0
+Main Course,Paneer Pasanda,1,0,,250.0
+Main Course,Paneer Patiyala,1,0,,245.0
+Main Course,Paneer Rajwadi,1,0,,235.0
+Main Course,Paneer Shahi,1,0,,235.0
+Main Course,Paneer Tawa Masala,1,0,,260.0
+Main Course,Paneer Tikka Masala,1,0,,230.0
+Main Course,Paneer Toofani,1,0,,240.0
+Main Course,Sp.Cheese Begam Bahar,1,0,,285.0
+Main Course,Sp.Paneer Alpha,1,0,,285.0
+Main Course,Sp.Paneer Angara,1,0,,285.0
+Main Course,Dal Fry',1,0,,155.0
+Main Course,Dal Fry Butter,1,0,,165.0
+Main Course,Dal Palak,1,0,,160.0
+Main Course,Dal Tadka',1,0,,170.0
+Main Course,Cheese Koftas,1,0,,235.0
+Main Course,Kadhai Kofta,1,0,,235.0
+Main Course,Kaju Koftas,1,0,,240.0
+Main Course,Kashmiri Kofta [sweet],1,0,,205.0
+Main Course,Malai Kofta [sweet],1,0,,205.0
+Main Course,Nargis Kofta,1,0,,235.0
+Main Course,Paneer Koftas,1,0,,235.0
+Main Course,Vegetable Kofta,1,0,,220.0
+Chinese,Baby Corn Chilli,1,0,,245.0
+Chinese,Chinese Bhel,1,0,,180.0
+Chinese,Chinese Fried Rice,1,0,,185.0
+Chinese,Hakka Noodles,1,0,Fdsfsfs,220.0
+Chinese,Manchurian Fried Rice,1,0,,220.0
+Chinese,Mushroom Fried Rice,1,0,,185.0
+Chinese,Mushroom Munchurian,1,0,,245.0
+Chinese,Paneer Chilly Dry,1,0,,250.0
+Chinese,Paneer Chilly Gravy,1,0,,240.0
+Chinese,Schezwan Fried Noodle,1,0,,220.0
+Chinese,Schezwan Fried Rice,1,0,,185.0
+Chinese,Signapuri Fried Rice,1,0,,210.0
+Chinese,Singapuri Fried Noodles,1,0,,185.0
+Chinese,Veg Fried Rice,1,0,,170.0
+Chinese,Veg Manchurian Dry,1,0,,220.0
+Chinese,Veg Manchurian Gravy,1,0,,220.0
+Chinese,Veg Sixty Five,1,0,,220.0
+Veg Chinese Starter,Baby Corn Chilly,1,0,,210.0
+Veg Chinese Starter,Chinese Bhel,1,0,,180.0
+Veg Chinese Starter,Veg 65,1,0,,195.0
+Rice Ki Bahar,Jeera Rice,1,0,,150.0
+Rice Ki Bahar,Kaju Pulav,1,0,,175.0
+Rice Ki Bahar,Kashmiri Pulav (Sweet),1,0,,175.0
+Rice Ki Bahar,Peas Pulav,1,0,,175.0
+Rice Ki Bahar,Plain Rice,1,0,,80.0
+Rice Ki Bahar,Steamed Rice,1,0,,105.0
+Rice Ki Bahar,Veg Biryani,1,0,,150.0
+Rice Ki Bahar,Veg Haydrabadi Biryani,1,0,,175.0
+Rice Ki Bahar,Veg Pulav,1,0,,175.0
+Indian Breads,Butter Kulcha,1,0,,50.0
+Indian Breads,Butter Paratha,1,0,,50.0
+Indian Breads,Butter Roti,1,0,,30.0
+Indian Breads,Buttern Naan,1,0,,55.0
+Indian Breads,Cheese Chilly Garlic Naan,1,0,,140.0
+Indian Breads,Cheese Chilly Naan,1,0,,120.0
+Indian Breads,Cheese Garlic Naan,1,0,,125.0
+Indian Breads,Cheese Naan,1,0,,115.0
+Indian Breads,Chilly Naan,1,0,,100.0
+Indian Breads,Garlic Naan,1,0,,110.0
+Indian Breads,Kulcha,1,0,,45.0
+Indian Breads,Naan,1,0,,45.0
+Indian Breads,Onion Kulcha,1,0,,110.0
+Indian Breads,Paratha,1,0,,45.0
+Indian Breads,Roti,1,0,,23.0
+Indian Breads,Stuff Kulcha,1,0,,110.0
+Indian Breads,Stuff Naan,1,0,,110.0
+Indian Breads,Stuff Paratha,1,0,,110.0
+Accompaniments,Bundi Raita,1,0,,90.0
+Accompaniments,Curd,1,0,,50.0
+Accompaniments,Dahi Bundi (Sweet ),1,0,,90.0
+Accompaniments,Fry Papad,1,0,,15.0
+Accompaniments,Green Salad,1,0,,80.0
+Accompaniments,Masala Papad,1,0,,30.0
+Accompaniments,Papad Roasted,1,0,,15.0
+Accompaniments,Pineapple Raita,1,0,,90.0
+Accompaniments,Tomato Salad,1,0,,70.0
+Accompaniments,Veg Raita,1,0,,90.0
+Desserts And Beverages,Butter Milk,1,0,,30.0
+Desserts And Beverages,Vanilla Cup,1,0,,25.0
+Refreshment,Butter Milk,1,0,,35.0
+Refreshment,Mineral Water,1,0,,20.0
+Soups,Cream Of Tomato Soup,1,0,,110.0
+Soups,Hot & Sour Soup,1,0,,125.0
+Soups,Lemone Coriander Soup,1,0,,110.0
+Soups,Manchow Soup,1,0,,125.0
+Soups,Ministrone Soup,1,0,,120.0
+Soups,Mushroom Soup,1,0,,125.0
+Soups,Sweet Corn Soup,1,0,,125.0
+Soups,Sweet Corn Veg Soup,1,0,,125.0
+Soups,Veg Noodles Soup,1,0,,120.0
+Biryani,Veg Biryani,1,0,,170.0
+Biryani,Veg Hyderabadi Biryani,1,0,,170.0
+Fried Rice Noodles And Chopsuey,Chinese Fried Rice,1,0,,185.0
+Fried Rice Noodles And Chopsuey,Mushroom Fried Rice,1,0,,185.0
+Fried Rice Noodles And Chopsuey,Schezwan Fried Rice,1,0,,185.0
+Fried Rice Noodles And Chopsuey,Singapuri Fried Rice,1,0,,185.0
+Fried Rice Noodles And Chopsuey,Veg Fried Rice,1,0,,170.0
+Fried Rice Noodles And Chopsuey,Schezwan Fried Noodles,1,0,,185.0
+Fried Rice Noodles And Chopsuey,Singapuri Fried Noodles,1,0,,185.0
+Fried Rice Noodles And Chopsuey,Veg Hakka Noodles,1,0,,185.0

@@ -1,0 +1,64 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Ice Creams,Special Rajbhog Ice Cream,1,0,,45.0
+Ice Creams,Special Amercian Dry Fruits Ice Cream,1,0,,45.0
+Ice Creams,Rajwadi Dry Fruits Ice Cream,1,0,,50.0
+Ice Creams,Pan Masala Ice Cream,1,0,,50.0
+Ice Creams,Kaju Drakash Ice Cream,1,0,,45.0
+Ice Creams,Mawa Malai Pista Ice Cream,1,0,,45.0
+Ice Creams,Butterscotch Ice Cream,1,0,,45.0
+Ice Creams,Chocolate Chips Ice Cream,1,0,,45.0
+Ice Creams,Gulab Masti Ice Cream,1,0,,45.0
+Ice Creams,Special Vanilla Ice Cream,1,0,,30.0
+Ice Creams,Mango Ice Cream,1,0,,45.0
+Ice Creams,Special Gotala Icecream [250 ml],1,0,,100.0
+Falooda,Special Mini Rose Falooda [250 ml],1,0,,50.0
+Falooda,Special Rose Falooda [250 ml],1,0,,75.0
+Falooda,Special Mango Falooda [250 ml],1,0,,80.0
+Falooda,Special Chocolate Chips Falooda [250 ml],1,0,,80.0
+Falooda,Special Strawberry Falooda [250 ml],1,0,,80.0
+Falooda,Special Kesar Falooda [250 ml],1,0,,80.0
+Falooda,Special Pineapple Falooda [250 ml],1,0,,80.0
+Cold Coco,Cold Coco [250 ml],1,0,,50.0
+Cold Coco,Coco with Ice Cream [250 ml],1,0,Coco with Ice Cream [250 ml] [Subject to Availability],60.0
+Cold Coco,Cadbury Coco [250 ml],1,0,,70.0
+Cold Coco,Kaju Coco [250 ml],1,0,,80.0
+Cold Coco,Badam Shake [250 ml],1,0,,60.0
+Cold Coco,Badam Shake with Vanilla Ice Cream [250 ml],1,0,,80.0
+Lassi,Sadi Lassi [250 ml],1,0,,50.0
+Lassi,Vanilla Ice Cream with Lassi [250 ml],1,0,,65.0
+Lassi,Rose Lassi [250 ml],1,0,,55.0
+Lassi,Kesar Kaju Lassi [250 ml],1,0,,75.0
+Lassi,Kaju Strawberry Lassi [250 ml],1,0,,80.0
+Lassi,Mango Lassi [250 ml],1,0,,60.0
+Lassi,Pineapple Lassi [250 ml],1,0,,60.0
+Lassi,Dry Fruit Lassi [250 ml],1,0,,85.0
+Lassi,Special Malai Lassi [250 ml],1,0,,70.0
+Lassi,Cadbury Lassi [250 ml],1,0,,70.0
+Juices,Mosambi Juice [250 ml],1,0,,70.0
+Thick Shakes,Shahi Gulab Thick Shake [250 ml],1,0,,85.0
+Thick Shakes,Chocolate Thick Shake [250 ml],1,0,,90.0
+Thick Shakes,Strawberry Thick Shake [250 ml],1,0,,85.0
+Thick Shakes,Pineapple Thick Shake [250 ml],1,0,,85.0
+Thick Shakes,Mango Thick Shake [250 ml],1,0,,90.0
+Thick Shakes,Anjeer Thick Shake [250 ml],1,0,,100.0
+Thick Shakes,Choco Chips Thick Shake [250 ml],1,0,,95.0
+Thick Shakes,Kaju Chocolate Thick Shake [250 ml],1,0,,110.0
+Thick Shakes,Kaju Mango Thick Shake [250 ml],1,0,,120.0
+Thick Shakes,Kaju Badam Thick Shake [250 ml],1,0,,120.0
+Thick Shakes,Special Kaju Anjeer Thick Shake [250 ml],1,0,,130.0
+Thick Shakes,Oreo Thick Shake [250 ml],1,0,,120.0
+Milkshakes,Kaju Badam Milkshake [250 ml],1,0,,130.0
+Milkshakes,Kaju Badam Anjeer Milkshake [250 ml],1,0,,140.0
+Milkshakes,Kaju Anjeer Milkshake [250 ml],1,0,,120.0
+Milkshakes,Kaju Mango Milkshake [250 ml],1,0,,130.0
+Milkshakes,Kaju Milkshake [250 ml],1,0,,140.0
+Milkshakes,Kaju Gulkand Milkshake [250 ml],1,0,,130.0
+Milkshakes,Kaju Chocolate Milkshake [250 ml],1,0,,110.0
+Milkshakes,Anjeer Milkshake [250 ml],1,0,,110.0
+Milkshakes,Mango Milkshake [250 ml],1,0,,70.0
+Milkshakes,Gulkand Milkshake [250 ml],1,0,,70.0
+Milkshakes,Strawberry Milkshake [250 ml],1,0,,70.0
+Milkshakes,Rose Milkshake [250 ml],1,0,,40.0
+Milkshakes,Pineapple Milkshake [250 ml],1,0,,40.0
+Milkshakes,Kesar Milkshake [250 ml],1,0,,40.0
+Milkshakes,Cold Coffee,1,0,,70.0

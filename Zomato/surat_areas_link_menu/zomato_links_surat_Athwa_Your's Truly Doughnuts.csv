@@ -1,0 +1,47 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Coffee,Cafe Latte,1,0,"Cafe Latte, a velvety symphony of espresso and steamed milk, offers a creamy ... read more",184.0
+Coffee,Cappuccino,1,0,"A classic Italian delight, cappuccino boasts a harmonious blend of rich espresso, creamy ... read more",184.0
+Coffee,Cold Brew Tonic,1,0,"Elevate your refreshment with Cold Brew Tonic, a harmonious blend of smooth, bold ... read more",240.0
+Coffee,Cold Brew,1,0,"A smooth and refreshing coffee delight, crafted by steeping coarse coffee grounds in ... read more",192.0
+Coffee,Espresso Coffee,1,0,"Bold and intense, espresso coffee tantalizes the palate with its robust flavor and ... read more",128.0
+Coffee,Espresso Tonic,1,0,"Experience the invigorating fusion of intense espresso and crisp tonic water, resulting in ... read more",248.0
+Coffee,Flat White,1,0,"Crafted with expert precision, the Flat White is a velvety-smooth fusion of espresso ... read more",192.0
+Coffee,Hot Americano,1,0,"A bold and straightforward brew, Americano combines rich espresso with hot water, offering ... read more",160.0
+Coffee,Hot Cafe Mocha,1,0,"Experience the irresistible fusion of smooth espresso, decadent chocolate, and creamy steamed milk, ... read more",208.0
+Coffee,Hot V60 Pour Over,1,0,"Experience the artistry of V60 Pour Over, where hot / cold water delicately ... read more",208.0
+Coffee,Iced Americano,1,0,"A bold and straightforward brew, Americano combines rich espresso with hot water, offering ... read more",160.0
+Coffee,Iced Cafe Mocha,1,0,"Experience the irresistible fusion of smooth espresso, decadent chocolate, and creamy steamed milk, ... read more",208.0
+Coffee,Iced V60 Pour Over,1,0,"Experience the artistry of V60 Pour Over, where hot / cold water delicately ... read more",208.0
+Doughnuts,Attachments Box (Box Of 6),1,0,"Indulge in a delightful assortment with the Attachments Box, featuring six handcrafted doughnuts ... read more",864.0
+Doughnuts,Biscoff Doughnut,1,0,Indulge in the delightful fusion of fluffy doughnut perfection infused with the irresistible ... read more,152.0
+Doughnuts,Brownie Doughnut,1,0,"Indulge in the perfect fusion of fudgy brownie and fluffy doughnut, delivering a ... read more",144.0
+Doughnuts,Cheesecake Doughnut,1,0,"A decadent fusion of creamy cheesecake filling nestled within a fluffy doughnut shell, ... read more",160.0
+Doughnuts,Cinnamon Sugar Doughnut,1,0,Indulge in the sweet embrace of a Cinnamon Sugar Doughnut: a delectable fried ... read more,128.0
+Doughnuts,Dark Chocolate Doughnut,1,0,Indulge in decadence with our Dark Chocolate Doughnut: a rich cocoa-infused doughnut with ... read more,144.0
+Doughnuts,Double Chocolate Doughnut,1,0,"Indulge in decadence with our Double Chocolate Doughnut, a heavenly treat featuring rich ... read more",152.0
+Doughnuts,French Biscuit Doughnut,1,0,A French Biscuit Doughnut is a delightful fusion of crispy biscuit texture and ... read more,160.0
+Doughnuts,Ice Glazed Doughnut,1,0,An Ice Glazed Doughnut is a delectable pastry with a crisp outer layer ... read more,128.0
+Doughnuts,Kitkat Doughnut,1,0,"Indulge in the perfect fusion of crispy, milk chocolatey goodness with our Kitkat ... read more",144.0
+Doughnuts,Nutella Doughnut,1,0,"Indulge in the decadent delight of a Nutella-filled doughnut, where fluffy doughnut meets ... read more",152.0
+Doughnuts,Oreo Doughnut,1,0,Indulge in the perfect harmony of crunchy and creamy with our Oreo Doughnut: ... read more,144.0
+Doughnuts,White Chocolate Doughnut,1,0,"A decadent treat with a delicate balance of creamy sweetness, the White Chocolate ... read more",144.0
+Frappes,Classic Frappe,1,0,"Escape to a blissful oasis with the Classic Frappe, where smooth espresso meets ... read more",208.0
+Frappes,Cookies Monster Mocha Frappe,1,0,"Embark on a deliciously wild ride with the Cookies Monster Mocha Frappe, where ... read more",272.0
+Frappes,Hazelnut Frappe,1,0,"Indulge in the creamy decadence of a hazelnut frappe, where velvety hazelnut essence ... read more",240.0
+Frappes,Irish Frappe,1,0,"Embark on a decadent journey with Irish Frappe, where velvety coffee meets the ... read more",232.0
+Frappes,Seasonal Special Frappe,1,0,"Embrace the flavors of the season with our tantalizing Seasonal Special Frappe, blending ... read more",280.0
+Frappes,Signature Mocha Frappe,1,0,"Experience the irresistible allure of a Signature Mocha Frappe, where velvety chocolate meets ... read more",248.0
+Frappes,Vanilla Frappe,1,0,"Escape into creamy decadence with a Vanilla Frappe, where smooth vanilla meets chilled ... read more",232.0
+Iced Teas,BerryBlast Iced Tea,1,0,"Quench your thirst with Berryblast Iced Tea, a refreshing infusion of ripe berries ... read more",232.0
+Iced Teas,Blueberry Ice Tea,1,0,Cool off with the refreshing taste of blueberries infused into a crisp and ... read more,200.0
+Iced Teas,Cranberry Iced Tea,1,0,"Quench your thirst with the crisp and tangy allure of cranberry iced tea, ... read more",200.0
+Iced Teas,Grape Fruit Lemon Ice Tea,1,0,"Tangy grapefruit meets zesty lemon in a refreshing fusion, blended perfectly with chilled ... read more",208.0
+Iced Teas,Orange Blossom Iced Tea,1,0,"Invigorate your senses with the refreshing zest of citrus-infused black tea, delicately kissed ... read more",240.0
+Iced Teas,Passion Fruit Tea,1,0,Quench your thirst with a tropical burst of tangy passion fruit infused into ... read more,200.0
+Iced Teas,Strawberry Ice Tea,1,0,"Quench your thirst with the refreshing allure of Strawberry Iced Tea, where the ... read more",200.0
+Iced Teas,Watermelon Iced Tea,1,0,Quench your thirst with a revitalizing blend of fresh watermelon essence and crisp ... read more,200.0
+Iced Teas,Yuzu Ice Tea,1,0,"Quench your thirst with the invigorating tang of yuzu citrus infused into cool, ... read more",208.0
+Mojito,Electric Yuzu,1,0,"Energize your taste buds with the Electric Yuzu Mojito, a zesty fusion of ... read more",208.0
+Mojito,Fresh Blueberry Mojito,1,0,"Experience a tantalizing blend of muddled fresh berries, zesty lime, and fragrant mint, ... read more",224.0
+Mojito,Passion Fruit Mojito,1,0,Experience a tropical symphony of tangy passion fruit infused with the refreshing zest ... read more,200.0
+Mojito,Strawberry Mojito,1,0,"A tantalizing blend of muddled fresh strawberries, zesty lime, fragrant mint leaves, and ... read more",208.0

@@ -1,0 +1,15 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Pizza & Pasta,Make Your Own Pasta,1,0,,275.0
+Pizza & Pasta,All Cheese Pizza,1,0,,250.0
+Pizza & Pasta,Cheesy Loaded Nachos,1,0,,200.0
+Pizza & Pasta,Classic Margherita Pizza,1,0,,225.0
+Pizza & Pasta,Paneer Makhni Pizza,1,0,,250.0
+Pizza & Pasta,Peri Peri Paneer Pizza,1,0,,250.0
+Pizza & Pasta,Vegetable Pizza,1,0,,225.0
+Dessert & Beverages,American Nuts Ice Cream,1,0,,70.0
+Dessert & Beverages,Chocolate Ice Cream,1,0,,60.0
+Dessert & Beverages,Gulab Jamun,1,0,3 Pcs,70.0
+Dessert & Beverages,Roasted Almonds Ice Cream,1,0,,70.0
+Dessert & Beverages,Strawberry Ice Cream,1,0,,60.0
+Dessert & Beverages,Vanilla Ice Cream,1,0,,60.0
+Sizzlers,Mexican Sizzler,1,0,,550.0

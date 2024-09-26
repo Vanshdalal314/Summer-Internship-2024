@@ -1,0 +1,21 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Snacks,Bombay Grill Sandwich,1,0,,150.0
+Snacks,Bread Butter,1,0,,35.0
+Snacks,Bread Butter Jam,1,0,,45.0
+Snacks,Bread Butter Jam Toast,1,0,,55.0
+Snacks,Cheese Chilly Sandwich,1,0,,70.0
+Snacks,Cheese Chilly Grill Sandwich,1,0,,150.0
+Snacks,French Fries Peri Peri,1,0,,90.0
+Snacks,French Fries Salted,1,0,,70.0
+Snacks,Makhani Paneer Sandwich,1,0,,70.0
+Snacks,Masala Toast Sandwich,1,0,,55.0
+Snacks,Masala Veg Cheese Toast Sandwich,1,0,,80.0
+Snacks,Tandoori Paneer Sandwich,1,0,,70.0
+Snacks,Tandoori Paneer Grill Sandwich,1,0,,150.0
+Snacks,Tornittos Special Grill Sandwich,1,0,,150.0
+Snacks,Veg Cheese Grill Sandwich,1,0,,120.0
+Snacks,Veg Grill Sandwich,1,0,,95.0
+Snacks,Vegetable Cheese Sandwich,1,0,,85.0
+Snacks,Vegetable Sandwich,1,0,,70.0
+Snacks,Vegetable Toast Sandwich,1,0,,70.0
+Drinks (Beverages),Cold Coffee,1,0,,40.0

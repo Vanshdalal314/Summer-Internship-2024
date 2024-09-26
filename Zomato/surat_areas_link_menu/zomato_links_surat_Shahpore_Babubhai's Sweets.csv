@@ -1,0 +1,54 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Peda and Laddu,Motichoor Laddu,1,0,,117.6
+Peda and Laddu,Surti Peda,1,0,,122.5
+Peda and Laddu,Elaichi Malai Peda,1,0,,131.6
+Peda and Laddu,Kesar Malai Peda,1,0,,143.5
+Peda and Laddu,Chocolate Bounty Peda,1,0,,143.5
+Barfi and Kalakand,Disco Barfi,1,0,,105.0
+Barfi and Kalakand,Kasata Barfi,1,0,,105.0
+Barfi and Kalakand,Malai Barfi,1,0,,112.7
+Barfi and Kalakand,Mawa Barfi,1,0,,133.0
+Barfi and Kalakand,Tirangi Barfi,1,0,,143.5
+Barfi and Kalakand,Chocolate Barfi,1,0,,143.5
+Barfi and Kalakand,Pista Barfi,1,0,,143.5
+Barfi and Kalakand,Dudh Badam Barfi,1,0,,143.5
+Barfi and Kalakand,Rose Gulab Barfi,1,0,,143.5
+Barfi and Kalakand,Gulkand Kaju Barfi,1,0,,143.5
+Barfi and Kalakand,Malai Kalakand,1,0,,143.5
+Halwa,Karachi Badam Halwa Rubber Halwa,1,0,,105.0
+Halwa,Deluxe Dudhi Halwa,1,0,,143.5
+Halwa,Chikoo Halwa,1,0,,143.5
+Halwa,Akhrot Halwa,1,0,,151.2
+Halwa,Dry Fruit Halwa,1,0,,159.6
+Halwa,Badam Halwa,1,0,,147.0
+Halwa,Bombay Iced Halwa,1,0,,147.0
+Halwa,Dry Fruit Bombay Iced Halwa,1,0,,154.0
+Ghari,Pista Ghari,1,0,,144.9
+Ghari,Malai Pista Ghari,1,0,,196.0
+Ghari,Kesar Ghari,1,0,,196.0
+Ghari,Malai Kesar Dry Fruit Ghari,1,0,,203.0
+Kaju Sweets,Kaju Anjir,1,0,,143.5
+Kaju Sweets,Kaju Katri,1,0,,169.4
+Kaju Sweets,White Kaju katri,1,0,,210.0
+Kaju Sweets,Kaju Fancy Mixed,1,0,,234.5
+Desi Ghee Sweets,Son Papdi,1,0,,112.0
+Desi Ghee Sweets,Mysore Pak,1,0,,143.5
+Desi Ghee Sweets,Khajli,1,0,,147.0
+Desi Ghee Sweets,Kesar Suterfeni,1,0,,147.0
+Desi Ghee Sweets,Ghevar,1,0,,147.0
+Desi Ghee Sweets,Magaj,1,0,,147.0
+Desi Ghee Sweets,Mohanthal,1,0,,147.0
+Desi Ghee Sweets,Magdal,1,0,,147.0
+Mawa Mithai,Blackcurrant,1,0,,112.7
+Mawa Mithai,Navrang Disco,1,0,,143.5
+Mawa Mithai,Kesar Kopra Pak,1,0,,143.5
+Mawa Mithai,Milk Cake,1,0,,143.5
+Mawa Mithai,Fruit Salad,1,0,,143.5
+Mawa Mithai,Chocolate Marble,1,0,,143.5
+Mawa Mithai,Butterscoth,1,0,,143.5
+Mawa Mithai,Mawa Mixed Mithai,1,0,,143.5
+Mawa Mithai,Anjir Thandai,1,0,,159.6
+Winter Special,Methipak,1,0,,144.9
+Winter Special,Adadiyapak,1,0,,153.3
+Winter Special,Salampak,1,0,,169.4
+Winter Special,Khajoorpak Sugerfree,1,0,,181.3

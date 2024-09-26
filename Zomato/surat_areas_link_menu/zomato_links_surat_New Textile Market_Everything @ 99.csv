@@ -1,0 +1,46 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Thali and Combo,Veg Deluxe Thali,1,0,1 Paneer Butter Masala+3 Butter Chapati/2 Butter Tandoori Roti+Dal Fry+Jeera Rice+Gulab Jamun [1 ... read more,199.0
+Thali and Combo,Paneer Tikka Meal,1,0,1 Paneer Tikka Masala+2 Butter Roti+1 Buttermilk+1 Salad,199.0
+Thali and Combo,Paneer Kadai Meal,1,0,1 Paneer Kadai+2 Butter Roti+1 Buttermilk+1 Salad,199.0
+Thali and Combo,Paneer Toofani Meal,1,0,1 Paneer Toofani+2 Butter Roti+1 Buttermilk+1 Salad,199.0
+Thali and Combo,Chana Masala Meal,1,0,1 Chana Masala+2 Butter Roti+1 Buttermilk+1 Salad,199.0
+Main Course,Aloo Methi,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Main Course,Aloo Fry,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Main Course,Aloo Matar,1,0,,199.0
+Main Course,Aloo Gobi [300 ml],1,0,,199.0
+Main Course,Sev Tomato,1,0,"300 ml || Images used are for representation purposes only, and do not ... read more",199.0
+Main Course,Bhindi Fry,1,0,,199.0
+Main Course,Bhindi Masala,1,0,,199.0
+Main Course,Chana Masala,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Main Course,Mix Veg,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Main Course,Veg Handi,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Main Course,Veg Kolhapuri,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Main Course,Veg Kadai,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Main Course,Green Peas Masala,1,0,,199.0
+Main Course,Matar Paneer,1,0,"300ml || Images used are for representation purposes only, and do not indicate ... read more",199.0
+Main Course,Chana Paneer,1,0,"300ml || Images used are for representation purposes only, and do not indicate ... read more",199.0
+Main Course,Paneer Butter Masala,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",199.0
+Main Course,Paneer Tikka Masala,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",199.0
+Main Course,Dal Fry,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Main Course,Dal Tadka,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Starter,Roasted Chana [Fried],1,0,,199.0
+Chinese,Fried Rice,1,0,,199.0
+Biryani,Veg Biryani,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Biryani,Hyderabadi Biryani [450 ml],1,0,,199.0
+Rice,Jeera Rice,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",199.0
+Rice,Steamed Rice,1,0,,199.0
+Rice,Matar Pulao,1,0,,199.0
+Rice,Veg Pulao,1,0,"Images used are for representation purposes only, and do not indicate size, portion, ... read more",199.0
+Rice,Plain Rice [450 ml],1,0,,199.0
+Breads,5 Tawa Roti,1,0,,199.0
+Breads,5 Butter Tawa Roti,1,0,,199.0
+Breads,4 Tandoori Roti,1,0,,199.0
+Breads,4 Tandoori Butter Roti,1,0,,199.0
+Breads,2 Lachha Paratha,1,0,,199.0
+Breads,2 Tandoori Kulcha,1,0,,199.0
+Breads,2 Tandoori Butter Naan,1,0,,199.0
+Breads,2 Tandoori Methi Butter Paratha,1,0,,199.0
+Accompaniments,Fried Papad [4 Pieces],1,0,,199.0
+Accompaniments,Roasted Papad [5 Pieces],1,0,,199.0
+Drinks (Beverages),"Buttermilk [200 ml, 3 Glasses]",1,0,,199.0
+Dessert,Gulab Jamun [5 Pieces],1,0,,199.0

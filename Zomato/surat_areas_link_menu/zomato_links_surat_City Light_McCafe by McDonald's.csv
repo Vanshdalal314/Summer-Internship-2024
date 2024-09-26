@@ -1,0 +1,44 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Fries & Sides,Fries (Large),1,0,"World Famous Fries, crispy, golden, lightly salted and fried to perfection! Also known ... read more",139.05
+Fries & Sides,Fries (Medium),1,0,"World Famous Fries, crispy, golden, lightly salted and fried to perfection! Also known ... read more",119.05
+Fries & Sides,Fries (Regular),1,0,"World Famous Fries, crispy, golden, lightly salted and fried to perfection! Also known ... read more",78.1
+Fries & Sides,Veg Pizza McPuff,1,0,"Crispy brown crust with a generous filling of rich tomato sauce, mixed with ... read more",60.95
+Coffee & Beverages (Hot and Cold),Cappuccino Coffee (S),1,0,"A refreshing espresso shot of 100% Arabica beans, topped with steamed milk froth. ... read more",164.76
+Coffee & Beverages (Hot and Cold),Cappuccino Coffee (R),1,0,"A refreshing espresso shot of 100% Arabica beans, topped with steamed milk froth. ... read more",200.0
+Coffee & Beverages (Hot and Cold),Hot Chocolate (S),1,0,Sinfully creamy chocolate whisked with silky streamed milk,183.81
+Coffee & Beverages (Hot and Cold),Hot Chocolate (R),1,0,Sinfully creamy chocolate whisked with silky streamed milk,216.19
+Coffee & Beverages (Hot and Cold),Latte Coffee (S),1,0,"A classic combination of the signature McCafe espresso, smooth milk, steamed and froth",169.52
+Coffee & Beverages (Hot and Cold),Latte Coffee (R),1,0,"A classic combination of the signature McCafe espresso, smooth milk, steamed and frothed",200.0
+Coffee & Beverages (Hot and Cold),Mocha Coffee (S),1,0,"A delight of ground Arabica espresso, chocolate syrup and steamed milk",210.48
+Coffee & Beverages (Hot and Cold),Mocha Coffee (R),1,0,"A delight of ground Arabica espresso, chocolate syrup and steamed milk",236.19
+Coffee & Beverages (Hot and Cold),Berry Lemonade Regular,1,0,"A refreshing drink, made with the delicious flavors of berries. 354 ml.",132.38
+Coffee & Beverages (Hot and Cold),Chocolate Flavoured Shake,1,0,"The classic sinful chocolate shake, a treat for anytime you need one. Now ... read more",175.24
+Coffee & Beverages (Hot and Cold),Strawberry Shake,1,0,An all time favourite treat bringing together the perfect blend of creamy vanilla ... read more,175.24
+Coffee & Beverages (Hot and Cold),American Mud Pie Shake,1,0,Creamy and rich with chocolate and blended with nutty brownie bits for that ... read more,195.24
+Coffee & Beverages (Hot and Cold),Mango Smoothie,1,0,"A delicious mix of mangoes, soft serve mix and blended ice",210.48
+Coffee & Beverages (Hot and Cold),Mixed Berry Smoothie,1,0,"A mix of mixed berries, blended together with our creamy soft serve",210.48
+Coffee & Beverages (Hot and Cold),Mocha Frappe,1,0,The perfect mix of indulgence and bold flavours. Enjoy a delicious blend of ... read more,278.1
+Coffee & Beverages (Hot and Cold),McCafe-Ice Coffee,1,0,Classic coffee poured over ice with soft servefor a refreshing pick-me-up,200.0
+Coffee & Beverages (Hot and Cold),Ice Americano Coffee,1,0,Signature Arabica espresso shot mixed with ice for an energizing experience,180.0
+Coffee & Beverages (Hot and Cold),Chocolate Frappe,1,0,"An induglent treat of chocolate sauce & Oreo cookies blended with soft serve, ... read more",278.1
+Coffee & Beverages (Hot and Cold),Americano Coffee (S),1,0,Refreshing cup of bold and robust espresso made with our signature 100% Arabica ... read more,169.52
+Coffee & Beverages (Hot and Cold),McCafe-Classic Coffee,1,0,An irrestible blend of our signature espresso and soft serve with whipped cream ... read more,215.24
+Coffee & Beverages (Hot and Cold),Americano Coffee (R),1,0,Refreshing cup of bold and robust espresso made with our signature 100% Arabica ... read more,190.48
+Coffee & Beverages (Hot and Cold),Moroccan Mint Green Tea (R ),1,0,Freshly-brewed refreshing tea with hint of Moroccon Mint flavour,190.48
+Coffee & Beverages (Hot and Cold),English Breakfast Tea,1,0,"For when you want your time to enjoy long, slow sips of the ... read more",159.05
+Coffee & Beverages (Hot and Cold),Flat White Coffee,1,0,"Our signature McCafe espresso made with 100% Arabica beans, blended with steamed milk",173.33
+Coffee & Beverages (Hot and Cold),Strawberry Green Tea (S),1,0,Freshly-brewed refreshing tea with fruity Strawbery flavour,153.33
+McSaver Combos (2pc Combos),2 Iced Coffee,1,0,2 Iced Coffee @ 200,237.14
+McSaver Combos (2pc Combos),2 Cappuccino,1,0,2 Cappuccino (S) @ 198,237.14
+Desserts,Cold Coffee Combo,1,0,In this combo choose any 1 coffee among- Cold Coffee ( R )/Iced ... read more,170.48
+Desserts,Hot Coffee Combo,1,0,In this combo choose any 1 hot coffee among- Cappuccino(s)/Latte(s)/Mocha(s)/Americano(s) and any 1 ... read more,170.48
+Desserts,Chocochip Muffin,1,0,"Enjoy a dense chocochip muffin, with melty chocolate chips for a choco-lover's delight",141.9
+Desserts,Blueberry Cheese Cake,1,0,A sweet treat to suit your every mood,228.57
+Cakes Brownies and Cookies,Choco Crunch Cookie.,1,0,Grab the choco crunch cookies packed with chocolate chips for the perfect crunch,94.29
+Cakes Brownies and Cookies,Cinnamon Raisin Cookie.,1,0,Enjoy the wholesome flavours of this chewy and satisfying cookie,94.29
+Cakes Brownies and Cookies,Cold Coffee Combo,1,0,In this combo choose any 1 coffee among- Cold Coffee ( R )/Iced ... read more,170.48
+Cakes Brownies and Cookies,Hot Coffee Combo,1,0,In this combo choose any 1 hot coffee among- Cappuccino(s)/Latte(s)/Mocha(s)/Americano(s) and any 1 ... read more,170.48
+Cakes Brownies and Cookies,Vanilla Chocolate Muffin.,0,0,"Sweet, soft, and fluffy vanilla flavoured chocolate chip muffins are perfect accompaniment with ... read more",128.57
+Cakes Brownies and Cookies,Chocochip Muffin,1,0,"Enjoy a dense chocochip muffin, with melty chocolate chips for a choco-lover's delight",141.9
+Cakes Brownies and Cookies,Blueberry Cheese Cake,1,0,A sweet treat to suit your every mood,228.57
+Cakes Brownies and Cookies,Chocolate Express Cake.,1,0,"This rich chocolate cake is topped with chocolate shavings, perfect for all chocolate ... read more",170.48

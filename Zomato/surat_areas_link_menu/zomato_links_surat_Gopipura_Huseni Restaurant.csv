@@ -1,0 +1,60 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starters,Chilli Chicken,0,0,,252.0
+Starters,Chicken Manchurian,0,0,,210.0
+Starters,Chicken Lollipop,0,0,,234.0
+Starters,Chicken 65 [Boneless],0,0,,200.0
+Starters,Tandoori Chicken,0,0,,295.0
+Starters,Chicken Leg Piece,0,0,,145.0
+Starters,Chicken Sina Piece,0,0,,145.0
+Starters,Chicken Pathani,0,0,,155.0
+Starters,Chicken Tawa Fry,0,0,,210.0
+Starters,Huseni Special Chicken Leg,0,0,,180.0
+Starters,Chicken Roasted Fry,0,0,,190.0
+Mutton Special. No Beef,Special Keema,0,0,,166.0
+Mutton Special. No Beef,Keema Fry,0,0,,180.0
+Mutton Special. No Beef,Keema Ghotala,0,0,,180.0
+Mutton Special. No Beef,Special Paya,0,0,,166.0
+Main Course,Mixed Veg,1,0,,108.0
+Main Course,Chana Masala,1,0,,108.0
+Main Course,Veg Kadhai,1,0,,192.0
+Main Course,Veg Handi,1,0,,192.0
+Main Course,Paneer Masala,1,0,,144.0
+Main Course,Kadhai Paneer,1,0,,216.0
+Main Course,Paneer Handi,1,0,,216.0
+Main Course,Paneer Butter Masala,1,0,,156.0
+Main Course,Dal Fry,1,0,,90.0
+Main Course,Dal Tadka,1,0,,108.0
+Main Course,Dal Makhani,1,0,,108.0
+Main Course,Boneless Butter Chicken,0,0,,255.0
+Main Course,Kadhai Chicken,0,0,,276.0
+Main Course,Chicken Handi,0,0,,276.0
+Main Course,Chicken Tikka Fry Masala,0,0,,288.0
+Main Course,Chicken Masala,0,0,,175.0
+Main Course,Chicken Mughlai,0,0,,210.0
+Main Course,Chicken Rashida,0,0,,220.0
+Main Course,Chicken Tikka Masala,0,0,,288.0
+Main Course,Chicken Laziz,0,0,,288.0
+Main Course,Chicken Masti,0,0,,288.0
+Main Course,Chicken Angara,0,0,,288.0
+Main Course,Chicken Fish Masala,0,0,,195.0
+Main Course,Mutton Masala,0,0,,195.0
+Main Course,Boneless Butter Mutton,0,0,,288.0
+Main Course,Butter Mutton Masala,0,0,,195.0
+Main Course,Mutton Kadhai,0,0,,276.0
+Main Course,Mutton Handi,0,0,,276.0
+Main Course,Dal Gosht,0,0,,198.0
+Main Course,Mutton Mughlai,0,0,,210.0
+Main Course,Mutton Rashida,0,0,,210.0
+Main Course,Mutton Bhuna,0,0,,288.0
+Rice and Biryani,Plain Rice,1,0,,65.0
+Rice and Biryani,Jeera Rice,1,0,,85.0
+Rice and Biryani,Veg Pulao,1,0,,156.0
+Rice and Biryani,Jeera Fried Rice,1,0,,85.0
+Rice and Biryani,Egg Pulao,0,0,,144.0
+Rice and Biryani,Chicken Pulao,0,0,,210.0
+Rice and Biryani,Keema Pulao,0,0,,204.0
+Rice and Biryani,Chicken Fried Rice,0,0,,205.0
+Rice and Biryani,Special Chicken Biryani,0,0,,160.0
+Breads,Roti,1,0,,12.0
+Breads,Butter Roti,1,0,,16.0
+Breads,Special Roti,1,0,,16.0

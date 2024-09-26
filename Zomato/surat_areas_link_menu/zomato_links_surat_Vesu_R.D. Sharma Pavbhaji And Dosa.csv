@@ -1,0 +1,127 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Special Combos,4 Pav with Jain Bhaji,1,0,4 Pav+Jain Bhaji+Salad+Papad+Jeera Masala Cold Beverage [200 ml],190.0
+Special Combos,4 Pav with Gotala Bhaji,1,0,4 Pav+Gotala Bhaji+Salad+Papad+Jeera Masala Cold Beverage [200 ml],245.0
+Special Combos,4 Pav with Cheese Bhaji,1,0,4 Pav+Cheese Bhaji+Salad+Papad+Jeera Masala Cold Beverage [200 ml],220.0
+Special Combos,4 Pav with Butter Bhaji,1,0,4 Pav+Butter Bhaji+Tawa Pulao+Lasooni Chutney+Salad+2 Papad+Jeera Masala Cold Beverage [200 ml],355.0
+Special Combos,4 Pav with Butter Bhaji and Salad,1,0,4 Pav+Butter Bhaji+Salad+Papad+Jeera Masala Cold Beverage [200 ml],200.0
+Special Combos,Tawa Pulao with Salad,1,0,Tawa Pulao+Salad+Papad+Lasooni Chutney+Masala Chaas,214.0
+Special Combos,Kashmiri Pulao with Salad and Papad,1,0,Kashmiri Pulao+Salad+Papad+Curry+Masala Chaas,210.0
+Special Combos,Cheese Tawa Pulao with Salad,1,0,Cheese Tawa Pulao+Salad+Papad+Lasooni Chutney+Masala Chaas,224.0
+Special Combos,Veg Dry Manchurian with Veg Fried Rice,1,0,Veg Dry Manchurian+Veg Fried Rice+Salad+Jeera Masala Cold Beverage [200 ml],335.0
+Special Combos,Veg Dry Manchurian with Veg Hakka Noodles,1,0,Veg Dry Manchurian+Veg Hakka Noodles+Salad+Jeera Masala Cold Beverage [200 ml],315.0
+Special Combos,Veg Dry Manchurian with Chinese Bhel,1,0,Veg Dry Manchurian+Chinese Bhel+Salad+Jeera Masala Cold Beverage [200 ml],335.0
+Special Combos,Veg 65 with Veg Fried Rice,1,0,Veg 65+Veg Fried Rice+Salad+Jeera Masala Cold Beverage [200 ml],355.0
+Special Combos,Veg 65 with Veg Hakka Noodles,1,0,Veg 65+Veg Hakka Noodles+Salad+Jeera Masala Cold Beverage [200 ml],355.0
+Special Combos,Masala Dosa with Jeera Masala Cold Beverage [200 ml],1,0,Veg 65+Veg Hakka Noodles+Salad+Jeera Masala Cold Beverage [200 ml],160.0
+Special Combos,Sada Dosa with Jeera Masala Cold Beverage [200 ml],1,0,,130.0
+Special Combos,Jini Roll Dosa with Jeera Masala Cold Beverage [200 ml],1,0,,220.0
+Special Combos,Nylon Sada Dosa with Jeera Masala Cold Beverage [200 ml],1,0,,160.0
+Special Combos,Paneer Cheese Surma Mysore Dosa Combo,1,0,Paneer Cheese Surma Mysore Dosa+Jeera Masala Cold Beverage [200 ml],230.0
+Special Combos,Mysore Masala Dosa with Jeera Masala Cold Beverage [200 ml],1,0,Paneer Cheese Surma Mysore Dosa+Jeera Masala Cold Beverage [200 ml],190.0
+Pav Bhaji,Regular Pav Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,200.0
+Pav Bhaji,Jain Pav Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,210.0
+Pav Bhaji,Butter Pav Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,220.0
+Pav Bhaji,Special Gotala Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,220.0
+Pav Bhaji,Punjabi Veg Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,205.0
+Pav Bhaji,Paneer Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,185.0
+Pav Bhaji,Cheese Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,205.0
+Pav Bhaji,Cheese Jain Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,195.0
+Pav Bhaji,Paneer Jain Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,185.0
+Pav Bhaji,Paneer Cheese Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,205.0
+Pav Bhaji,Paneer Cheese Jain Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,205.0
+Pav Bhaji,Fry Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,165.0
+Pav Bhaji,Fry Cheese Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,180.0
+Pav Bhaji,Green Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,165.0
+Pav Bhaji,4 Veg Masala Pav,1,0,Masala Pav [4 Pc],100.0
+Pav Bhaji,4 Veg Cheese Masala Pav,1,0,,144.0
+Pav Bhaji,Double Fried Bhaji,1,0,Pav [4 Pieces]+Bhaji [250 grams]+Salad+Papad,155.0
+Dosa,Sada Dosa,1,0,Served with chutney and sambar.,99.0
+Dosa,Masala Dosa,1,0,Served with chutney and sambar.,135.0
+Dosa,Cheese Masala Dosa,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",175.0
+Dosa,Cheese Palak Dosa,1,0,Served with chutney and sambar.,195.0
+Dosa,Mysore Sada Dosa,1,0,Served with chutney and sambar.,125.0
+Dosa,Cheese Sada Dosa,1,0,Served with chutney and sambar.,145.0
+Dosa,Nylon Sada Dosa,1,0,Served with chutney and sambar.,100.0
+Dosa,Jini Roll Dosa,1,0,Served with chutney and sambar.,195.0
+Dosa,Paneer Cheese Surma Mysore Dosa,1,0,Served with chutney and sambar.,205.0
+Dosa,Cheese Onion Sada Dosa,1,0,Served with chutney and sambar.,145.0
+Dosa,Paneer Cheese Masala Dosa,1,0,Served with chutney and sambar.,160.0
+Dosa,Onion Sada Dosa,1,0,Served with chutney and sambar.,100.0
+Dosa,Onion Nylon Dosa,1,0,Served with chutney and sambar.,115.0
+Dosa,Cheese Nylon Dosa,1,0,Served with chutney and sambar.,165.0
+Dosa,Paneer Palak Dosa,1,0,Served with chutney and sambar.,180.0
+Dosa,Chinese Dosa,1,0,Served with chutney and sambar.,185.0
+Dosa,Dilkhush Dosa,1,0,Served with chutney and sambar.,205.0
+Dosa,Paneer Chilli Dosa,1,0,Served with chutney and sambar.,215.0
+Dosa,Mysore Masala Dosa,1,0,With Chutney and Sambhar,165.0
+Dosa,Green Mysore Dosa,1,0,Served with sambar and chutney.,165.0
+Dosa,Cheese Mysore Dosa,1,0,Served with sambar and chutney.,175.0
+Dosa,Cheese Paneer Mysore Dosa,1,0,Served with sambar and chutney.,205.0
+Dosa,Paneer Mysore Dosa,1,0,Served with sambar and chutney.,195.0
+Dosa,Paneer Tukda Mysore Dosa,1,0,Served with sambar and chutney.,195.0
+Dosa,Paneer Tukda Cheese Mysore Dosa,1,0,Served with sambar and chutney.,215.0
+Dosa,Paneer Surma Mysore Dosa,1,0,Served with sambar and chutney.,180.0
+Dosa,Paneer Masala Dosa,1,0,Served with sambar and chutney.,140.0
+Soups,Hot and Sour Soup,1,0,Served with salad.,115.0
+Soups,Manchow Soup,1,0,Served with salad & fried noodles.,115.0
+Soups,Veg Clear Soup,1,0,Served with salad.,115.0
+Soups,Special Veg Noodles Soup,1,0,Served with salad.,125.0
+Pulao,Tawa Pulao,1,0,"Served with lasoon chutney, salad and papad.",195.0
+Pulao,Paneer Tawa Pulao,1,0,"Served with lasoon chutney, salad and papad.",215.0
+Pulao,Kashmiri Pulao,1,0,"Served with lasoon chutney, salad and papad.",195.0
+Pulao,Paneer Kashmiri Pulao,1,0,"Served with sweet curry, salad and papad.",215.0
+Pulao,Cheese Tawa Pulao,1,0,"Served with lasoon chutney, salad and papad.",215.0
+Pulao,Cheese Paneer Tawa Pulao,1,0,"Served with lasoon chutney, salad and papad.",235.0
+Pulao,Cheese Kashmiri Pulao,1,0,"Served with sweet curry, salad and papad.",205.0
+Chinese,Veg Manchurian,1,0,Served with salad.,175.0
+Chinese,Veg Schezwan Manchurian,1,0,Served with salad.,175.0
+Chinese,Paneer Chilli,1,0,Served with salad.,235.0
+Chinese,Veg 65,1,0,Served with salad.,195.0
+Chinese,Chinese Bhel,1,0,Served with salad.,175.0
+Chinese,Lollipop,1,0,[Veg preparation] Served with salad.,200.0
+Chinese,Paneer 65,1,0,Served with salad.,225.0
+Chinese,Paneer Manchurian,1,0,Served with salad.,205.0
+Fried Rice,Veg Triple Schezwan Fried Rice,1,0,A combination of Gravy Manchurian and triple rice variety [Served with Salad],230.0
+Fried Rice,Veg Fried Rice,1,0,With Salad,175.0
+Fried Rice,Combination Rice,1,0,With Salad,185.0
+Fried Rice,Veg Schezwan Fried Rice,1,0,With Salad,175.0
+Fried Rice,Veg Singapore Rice,1,0,With Salad,175.0
+Fried Rice,Hong Kong Fried Rice,1,0,With Salad,175.0
+Fried Rice,Paneer Rice,1,0,With Salad,215.0
+Fried Rice,Manchurian Rice,1,0,With Salad,175.0
+Noodles,Veg Schezwan Noodles,1,0,Served with salad.,150.0
+Noodles,Hakka Noodles,1,0,Served with salad.,175.0
+Noodles,Veg Singapore Noodles,1,0,Served with salad.,175.0
+Pizza,Only Cheese Pizza [7 inches],1,0,Served with chutney and sauce.,155.0
+Pizza,Veg Cheese Pizza [7 inches],1,0,Served with chutney and sauce.,170.0
+Sandwiches,Veg Cheese Toast Sandwich,1,0,Served with chutney and sauce.,115.0
+Sandwiches,Bread Butter Sandwich,1,0,Served with chutney and sauce.,45.0
+Sandwiches,Veg Sandwich,1,0,Served with chutney and sauce.,80.0
+Sandwiches,Bread Butter Cheese Sandwich,1,0,Served with chutney and sauce.,75.0
+Sandwiches,Veg Cheese Sandwich,1,0,Served with chutney and sauce.,105.0
+Sandwiches,Veg Grilled Sandwich,1,0,Seved with Chutney and Sauce,125.0
+Sandwiches,Cheese Grilled Sandwich,1,0,Seved with Chutney and Sauce,145.0
+Sandwiches,Bread Butter Toast Sandwich,1,0,Seved with Chutney and Sauce,65.0
+Chaat [Special Snacks],Pani Puri,1,0,Puri [5 Pieces]+Pani+Chutney+Masala,55.0
+Chaat [Special Snacks],Rangeela Bhel,1,0,,95.0
+Chaat [Special Snacks],Delhi Chaat,1,0,,75.0
+Chaat [Special Snacks],Masala Puri,1,0,Puri [5 pieces].,75.0
+Chaat [Special Snacks],Bhel Puri,1,0,"|| Images used are for representation purposes only, and do not indicate size, ... read more",75.0
+Chaat [Special Snacks],Dahi Puri,1,0,Puri [5 pieces].,75.0
+Chaat [Special Snacks],Dahi Sev Batata Puri,1,0,Puri [5 pieces].,85.0
+Chaat [Special Snacks],Sev Puri,1,0,Puri [5 pieces].,75.0
+Chaat [Special Snacks],Cheese Sev Puri,1,0,Puri [5 pieces].,75.0
+Chaat [Special Snacks],Cheese Bhel Puri,1,0,Puri [5 pieces].,90.0
+Chaat [Special Snacks],Dahi Kachori,1,0,"Kachori is stuffed with dal besan, red chili powder, black pepper, salt, and ... read more",75.0
+Chaat [Special Snacks],Dahi Bhel,1,0,,85.0
+Chaat [Special Snacks],Dahi Papdi Chaat,1,0,,85.0
+Extras,4 Butter Pav,1,0,,45.0
+Extras,4 Double Butter Pav,1,0,,55.0
+Extras,Only Bhaji,1,0,,110.0
+Extras,Only Bhaji with Salad and Papad,1,0,,135.0
+Extras,Roasted Papad,1,0,Served with chutney and sauce.,20.0
+Extras,Masala Papadd,1,0,,35.0
+Extras,Lasoon Chutney,1,0,,55.0
+Extras,Jeera Cold Drink,1,0,,35.0
+Extras,Masala Chaas,1,0,,36.0
+Extras,Salad,1,0,,40.0

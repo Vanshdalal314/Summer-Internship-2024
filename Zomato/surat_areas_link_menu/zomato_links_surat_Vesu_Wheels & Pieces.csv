@@ -1,0 +1,57 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Classic Pizzas,"Chicken Delight Pizza 7""",0,0,"With the rousing flavours of house cooked chicken, onion and capsicum, this is ... read more",289.0
+Classic Pizzas,"Classic Delight Pizza 7""",1,0,"Onion, tomato and jalapeno top with mozzarella",239.0
+Classic Pizzas,"Farm To Table Pizza 7""",1,0,"Fresh veggies like onion, tomato, capsicum, mushroom come along with tomato sauce and ... read more",249.0
+Classic Pizzas,"Margarita Pizza 7""",1,0,Softest in house baked bread toped with delicious tomato sauce and mozzarella ... read more,179.0
+Classic Pizzas,"Mexican Chicken Pepperoni Pizza 7""",0,0,Chunky chicken Pepperoni joins hands with Jalapeno and Green olive in this ... read more,289.0
+Classic Pizzas,"Mexican Delight Pizza 7""",1,0,"Green Olive, tomato and jalapeno top with mozzarella and tomato sauce",249.0
+Classic Pizzas,"Onion & Capsicum Pizza 7""",1,0,Softest in house baked bread toped with delicious tomato sauce and mozzarella ... read more,189.0
+Classic Pizzas,"Pepperoni Storm Pizza 7""",0,0,"Slices of flavorsome chicken nestle in fresh cheese, to give you a pepperoni ... read more",349.0
+Classic Pizzas,"Smoked Chicken Pizza 7""",0,0,"A smoky combination of spicy chicken, red paprika and onion, this pizza is ... read more",339.0
+Classic Pizzas,"Spicy Fiesta Pizza 7""",1,0,"Softest in house baked bread toped with hot spicy sauce, mozzarella cheese, red ... read more",279.0
+Classic Pizzas,"Tomato Margarita Pizza 7""",1,0,"Best bread in toped with delicious tomato sauce, mozzarella cheese and Tomato",199.0
+Vegetarian Pizza,1889 Margherita Pizza [8 Inches],1,0,A genuine Margherita With Authentic mozzarella and cherry tomatoes on a tomato base ... read more,165.0
+Vegetarian Pizza,Allium Cepa [8 Inches],1,0,Onion & mozzarella cheese,149.0
+Vegetarian Pizza,Cheesy Garlic Pizza [8 Inches],1,0,"Lots of cheese on Tomato garlic base, garnished with fresh Parsley.",165.0
+Vegetarian Pizza,Classic Vegetarian Pizza [8 Inches],1,0,"Onion, Capsicums, Tomato",185.0
+Vegetarian Pizza,Classic Margherita Pizza [8 Inches],1,0,Classic Range - Lots of Mozzarella & Oregano on a Tomato base garnished ... read more,135.0
+Vegetarian Pizza,Double Cheese Margherita [8 Inches],1,0,A classic delight loaded with extra mozzarella cheese,245.0
+Vegetarian Pizza,Fire Pepper Pizza [8 Inches],1,0,"Marinated red paprika, Fresh red capsicum along with roasted peppers and Jalape?o on ... read more",245.0
+Vegetarian Pizza,Garden Goodness Pizza [8 Inches],1,0,"Fresh tomato, Bell Pepper, Mushroom, Olive, and Red onion topped with mozzarella cheese ... read more",245.0
+Vegetarian Pizza,Hot & Spicy Pizza [8 Inches],1,0,,469.0
+Vegetarian Pizza,Supreme Pizza [8 Inches],1,0,"Base of chilly Cheese souse toped with onion, Paprika, Jalapeno & paneer",275.0
+Vegetarian Pizza,Schezwan Paneer Pizza [8 Inches],1,0,"Paneer stirred in Szechuan sauce, Roasted capsicum, Fresh onion on chilli garlic base ... read more",245.0
+Vegetarian Pizza,Tandoori Paneer Pizza [8 Inches],1,0,"Creamy paneer marinated in Tandoori sauce, Red onion and Capsicum on Light tomato ... read more",245.0
+Vegetarian Pizza,Value Vegetarian Pizza [8 Inches],1,0,"Onion, Capsicums",185.0
+Vegetarian Pizza,Vegorama Pizza [8 Inches],1,0,,245.0
+Vegetarian Pizza,Wheel Of Fire Pizza [8 Inches],1,0,"Jalape?o, Red paprika, Bell peppers on a Chilli garlic-tomato base topped with Original ... read more",245.0
+Non Vegetarian Pizza,Barbeque Chicken Pizza [8 Inches],0,0,"House Cooked Chicken, Mushrooms, Spanish Onions & Shallots on a BBQ base drizzled ... read more",325.0
+Non Vegetarian Pizza,Chicken Salami Pizza [8 Inches],0,0,"Spicy Chicken Salami, Red Onions, Fresh Capsicum, House Cooked chicken, Olive& Garlic on ... read more",345.0
+Non Vegetarian Pizza,Korean Chicken Pizza [8 Inches],0,0,,325.0
+Non Vegetarian Pizza,Peri Peri Chicken Pizza [8 Inches],0,0,"House Cooked Chicken, Roasted Capsicum, Red Onions, Shallots on a Tomato base, topped ... read more",325.0
+Non Vegetarian Pizza,Pesto Chicken Club Pizza [8 Inches],0,0,"House Cooked Chicken, Red Onions, Fresh Tomatoes and fresh avocado on a Pesto ... read more",325.0
+Non Vegetarian Pizza,Tandoori Chicken Pizza [8 Inches],0,0,"Marinated boneless tandoori chicken, Roasted capsicum, Red onion and Fresh tomato on House ... read more",325.0
+Non Vegetarian Pizza,Vietnamese Chilli Chicken Pizza [8 Inches],0,0,"House Cooked Chicken topped with Shallots, on a Szechuan Garlic base, garnished with ... read more",325.0
+Non Veg Primmum Pizza,Bbq Meatlovers Pizza [8 Inches],0,0,"Pepperoni, Chicken Salami & Jalapeno",625.0
+Non Veg Primmum Pizza,Chicken Clubhouse Pizza [8 Inches],0,0,"Pepperoni, House Cooked Chicken, Chicken Meatballs",625.0
+Non Veg Primmum Pizza,Chicken Meatlovers Pizza [8 Inches],0,0,"Pepperoni, Salami, House cooked Chicken",625.0
+Non Veg Primmum Pizza,Chicken Pepperoni Pizza [8 Inches],0,0,Lots Of Chicken Pepperoni and Cheese,495.0
+Non Veg Primmum Pizza,Garlic Prawns Pizza [8 Inches],0,0,"Marinated Prawns, Fresh tomato, Shallots and Roasted Capsicum on Tomato and Fresh garlic ... read more",549.0
+Non Veg Primmum Pizza,"Pepperoni , Salami & Onion Pizza [8 Inches]",0,0,,625.0
+Non Veg Primmum Pizza,Schezwan Chilli Prawns Pizza [8 Inches],0,0,"Spicy Szechuan seasoned Prawns, Fresh Capsicum, Shallots on a Szechuan base, garnished with ... read more",599.0
+Non Veg Primmum Pizza,The Bumper Pizza [10 Inches],0,0,"Pepperoni, Salami, House cooked chicken with Onion & green Olive on a Chicken ... read more",845.0
+Non Veg Primmum Pizza,The Scorchers [10 Inches],0,0,"2 x House Cooked Chicken, Mushrooms', jalapeno, green olive on tandoori base",799.0
+Non Veg Primmum Pizza,Volcano Chicken Pizza [8 Inches],0,0,"2 x House Cooked Chicken, Onion, jalapeno, Red Pepper on peri peri base",625.0
+Sides,Chicken Seekh Kabab,0,0,,319.0
+Sides,Chicken Tandoori Tikka,0,0,,269.0
+Sides,Chicken Wings,0,0,,319.0
+Sides,Chilli Cheese Fries,1,0,"French fries topped with Homemade chilli garlic sauce, Liquid cheese and Shallots.",289.0
+Sides,French Fries,1,0,,149.0
+Sides,Garlic Bread,1,0,Freshly baked bread loaf infused with garlic.,149.0
+Sides,Hot Wings,0,0,,319.0
+Sides,Loaded Chicken Fries,0,0,,289.0
+Sides,Peri Peri Fries,1,0,,199.0
+Sides,Pesto Garlic Bread,1,0,"Garlic infused stone baked bread topped with Garlic butter, Pesto sauce and Mozzarella ... read more",199.0
+Sides,Schezwan Garlic Bread,1,0,"Garlic infused stone baked bread topped with garlic butter, Szechuan sauce and ... read more",159.0
+Drinks (Beverages),Lemon Ice Tea,1,0,,148.0
+Dip,Cheese Dip,1,0,,40.0

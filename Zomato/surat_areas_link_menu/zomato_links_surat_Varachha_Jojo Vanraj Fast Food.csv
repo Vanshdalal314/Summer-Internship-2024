@@ -1,0 +1,32 @@
+Category,Item_Name,"Is_Veg(1:veg,0:non-veg)","Is_Alcohol(1:alcoholic,0:non-alcoholic)",Description,Price
+Starter,Matka Paneer Tikka,1,0,,130.0
+Burgers and Sandwiches,Veg Burger,1,0,,40.0
+Burgers and Sandwiches,Veg Cheese Burger,1,0,,60.0
+Burgers and Sandwiches,Veg Cheese Grilled Burger,1,0,,100.0
+Burgers and Sandwiches,Bread Butter Sandwich,1,0,,20.0
+Burgers and Sandwiches,Bread Butter Slice Sandwich,1,0,,30.0
+Burgers and Sandwiches,Bread Butter Toast Sandwich,1,0,,40.0
+Burgers and Sandwiches,Bread Butter Cheese Sandwich,1,0,,45.0
+Burgers and Sandwiches,Bread Butter Cheese Toast Sandwich,1,0,,60.0
+Burgers and Sandwiches,Bread Butter Jam Sandwich,1,0,,40.0
+Burgers and Sandwiches,Bread Butter Cheese Jam Sandwich,1,0,,60.0
+Burgers and Sandwiches,Veg Sandwich,1,0,,40.0
+Burgers and Sandwiches,Veg Cheese Sandwich,1,0,,60.0
+Burgers and Sandwiches,Veg Toast Sandwich,1,0,,50.0
+Burgers and Sandwiches,Double Masala Toast Sandwich,1,0,,50.0
+Burgers and Sandwiches,Veg Cheese Toast Sandwich,1,0,,70.0
+Burgers and Sandwiches,Aloo Matar Toast Sandwich,1,0,,50.0
+Burgers and Sandwiches,Aloo Matar Cheese Toast Sandwich,1,0,,70.0
+Burgers and Sandwiches,Open Cheese Sandwich,1,0,,80.0
+Burgers and Sandwiches,Special Club Sandwich,1,0,,100.0
+Snacks,Cheese Garlic Bread,1,0,,100.0
+Snacks,Veg Cheese Garlic,1,0,,120.0
+Snacks,Chilli Toast,1,0,,120.0
+Snacks,Matka Paneer Kulcha,1,0,,110.0
+Snacks,Plain Puff,1,0,,15.0
+Snacks,Masala Puff,1,0,,25.0
+Snacks,Butter Puff,1,0,,25.0
+Snacks,Schezwan Masala Puff,1,0,,30.0
+Snacks,Butter Masala Puff,1,0,,30.0
+Snacks,Cheese Puff,1,0,,40.0
+Snacks,Cheese Masala Puff,1,0,,60.0
